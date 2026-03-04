@@ -122,29 +122,58 @@
         </div>
     </footer>
 
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // Initialisation de la carte
-        var map = L.map('map', { zoomControl: false }).setView([32.4279, 53.6880], 5);
+    // 1. Initialisation de la carte
+    var map = L.map('map', { zoomControl: false }).setView([32.4279, 53.6880], 5);
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}').addTo(map);
 
-        // Fond satellite gratuit (Esri)
-        L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-            attribution: 'Esri, Maxar'
-        }).addTo(map);
+    // 2. Fonction pour charger les données automatiquement
+    async function loadData() {
+        try {
+            // On récupère le fichier JSON (ajoute un timestamp pour éviter le cache)
+            const response = await fetch('data.json?t=' + Date.now());
+            const events = await response.json();
+            
+            const feed = document.getElementById('news-feed');
+            feed.innerHTML = ''; // On vide le flux actuel
 
-        // Marqueur exemple (Ispahan)
-        var strike = L.circleMarker([32.6539, 51.6660], {
-            color: '#ff4444', fillColor: '#ff4444', fillOpacity: 0.6, radius: 10
-        }).addTo(map);
-        strike.bindPopup("<b>ALERTE IMPACT</b><br>Secteur Ispahan - Cible Industrielle", {className: 'custom-popup'});
+            events.forEach(event => {
+                // A. Ajouter l'élément dans le fil de gauche
+                const color = event.type === 'STRIKE' ? 'red' : 'blue';
+                const item = `
+                    <div class="border-l-2 border-${color}-500 pl-3 py-2 bg-${color}-500/5 mb-4 animate-pulse">
+                        <span class="text-${color}-500 font-bold block mb-1 text-[10px]">${event.time} | ${event.type}</span>
+                        <p class="leading-tight font-bold text-white">${event.title}</p>
+                        <p class="leading-tight text-zinc-400 text-[10px]">${event.desc}</p>
+                    </div>
+                `;
+                feed.innerHTML += item;
 
-        // Horloge UTC
-        function updateClock() {
-            const now = new Date();
-            document.getElementById('clock').innerText = now.toISOString().split('T')[1].split('.')[0] + " UTC";
+                // B. Ajouter le marqueur sur la carte
+                const markerColor = event.type === 'STRIKE' ? '#ff4444' : '#44aaff';
+                const marker = L.circleMarker([event.lat, event.lng], {
+                    color: markerColor,
+                    fillColor: markerColor,
+                    fillOpacity: 0.8,
+                    radius: 8
+                }).addTo(map);
+                
+                marker.bindPopup(`<b>${event.title}</b><br>${event.desc}`);
+            });
+        } catch (e) {
+            console.error("Erreur de chargement des données:", e);
         }
-        setInterval(updateClock, 1000);
-        updateClock();
-    </script>
-</body>
-</html>
+    }
+
+    // 3. Mise à jour de l'horloge
+    function updateClock() {
+        const now = new Date();
+        document.getElementById('clock').innerText = now.toISOString().split('T')[1].split('.')[0] + " UTC";
+    }
+
+    // Lancer les fonctions
+    setInterval(updateClock, 1000);
+    setInterval(loadData, 30000); // Recharge les données toutes les 30 secondes
+    updateClock();
+    loadData();
+</script>
