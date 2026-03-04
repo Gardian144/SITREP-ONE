@@ -3,82 +3,175 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SITREP-ONE | TACTICAL SATELLITE</title>
+    <title>SITREP-ONE | DEFCON MONITOR</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
-        body { background: #050505; color: #00ff41; font-family: 'JetBrains Mono', monospace; overflow: hidden; height: 100vh; }
-        .bento-card { background: rgba(0, 20, 0, 0.2); border: 1px solid #004411; position: relative; }
-        #map { height: 100%; width: 100%; filter: brightness(0.7) contrast(1.2) saturate(0.5) hue-rotate(80deg); }
-        .scanline { width: 100%; height: 100%; background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.1) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.02), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.02)); background-size: 100% 2px, 3px 100%; pointer-events: none; position: absolute; z-index: 1000; }
-        .pulse-marker { animation: ripple 2s infinite; border-radius: 50%; background: #ff0000; box-shadow: 0 0 15px #ff0000; }
-        @keyframes ripple { 0% { transform: scale(0.5); opacity: 1; } 100% { transform: scale(3); opacity: 0; } }
-        ::-webkit-scrollbar { width: 4px; }
-        ::-webkit-scrollbar-thumb { background: #004411; }
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=JetBrains+Mono:wght@400;700&display=swap');
+        
+        :root {
+            --neon-green: #00ff66;
+            --neon-red: #ff003c;
+            --terminal-bg: #0a0a0c;
+        }
+
+        body { 
+            background: var(--terminal-bg); 
+            color: var(--neon-green); 
+            font-family: 'JetBrains Mono', monospace; 
+            overflow: hidden; 
+            height: 100vh; 
+        }
+
+        h1 { font-family: 'Orbitron', sans-serif; }
+
+        /* Effet de profondeur sur les cartes */
+        .tactical-panel { 
+            background: rgba(15, 15, 20, 0.9); 
+            border: 1px solid rgba(0, 255, 102, 0.2);
+            box-shadow: 0 0 20px rgba(0,0,0,0.5);
+            position: relative;
+        }
+
+        /* Scanline & Grain d'écran */
+        .screen-fx {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.1) 50%), 
+                        repeating-linear-gradient(0deg, transparent 0, rgba(0, 255, 102, 0.03) 1px, transparent 2px);
+            background-size: 100% 4px, 100% 2px;
+            pointer-events: none; z-index: 1000;
+        }
+
+        #map { 
+            height: 100%; width: 100%; 
+            filter: brightness(0.6) contrast(1.5) saturate(0.8) hue-rotate(140deg); 
+        }
+
+        /* Marqueurs d'impact stylés */
+        .impact-marker {
+            width: 20px; height: 20px;
+            background: var(--neon-red);
+            border-radius: 50%;
+            border: 2px solid white;
+            box-shadow: 0 0 15px var(--neon-red);
+            animation: impact-ping 1.5s infinite;
+        }
+
+        @keyframes impact-ping {
+            0% { transform: scale(0.8); box-shadow: 0 0 0 0 rgba(255, 0, 60, 0.7); }
+            70% { transform: scale(1.2); box-shadow: 0 0 0 15px rgba(255, 0, 60, 0); }
+            100% { transform: scale(0.8); box-shadow: 0 0 0 0 rgba(255, 0, 60, 0); }
+        }
+
+        /* Boutons de commande */
+        .cmd-btn {
+            background: rgba(0, 255, 102, 0.05);
+            border: 1px solid var(--neon-green);
+            color: var(--neon-green);
+            font-size: 10px;
+            padding: 5px 12px;
+            clip-path: polygon(10% 0, 100% 0, 100% 70%, 90% 100%, 0 100%, 0% 30%);
+            transition: 0.3s;
+        }
+
+        .cmd-btn:hover { background: var(--neon-green); color: black; }
+        .cmd-btn-red { border-color: var(--neon-red); color: var(--neon-red); }
+        .cmd-btn-red:hover { background: var(--neon-red); color: white; }
     </style>
 </head>
-<body class="flex flex-col p-2 gap-2">
+<body class="flex flex-col p-3 gap-3">
 
-    <header class="flex justify-between items-center border-b border-green-900 pb-1 px-4">
-        <div class="flex items-center gap-3">
-            <div class="h-2 w-2 bg-red-600 animate-ping"></div>
-            <h1 class="text-xs font-bold tracking-[0.5em] uppercase">Moyen-Orient // Live Satellite</h1>
+    <header class="flex justify-between items-center px-4 py-2 tactical-panel border-b-2 border-green-500/50">
+        <div class="flex items-center gap-4">
+            <div class="w-3 h-3 bg-red-600 rounded-full shadow-[0_0_10px_red] animate-pulse"></div>
+            <h1 class="text-sm tracking-[0.4em] uppercase font-bold">SITREP-ONE // SATELLITE_FEED</h1>
         </div>
-        <div class="flex gap-10">
-            <div class="text-right"><div class="text-[8px] opacity-50 uppercase">Alertes 24h</div><div id="count" class="text-lg font-bold text-red-500">00</div></div>
-            <div class="text-right border-l border-green-900 pl-4"><div class="text-[8px] opacity-50 uppercase">Status</div><div class="text-xs text-green-400">EN LIGNE</div></div>
+        <div class="flex gap-6 items-center">
+            <div class="text-right">
+                <span class="text-[9px] block opacity-60">MENACES DÉTECTÉES</span>
+                <span id="threat-count" class="text-xl font-bold text-red-500 font-mono">00</span>
+            </div>
+            <div class="h-8 w-[1px] bg-green-900"></div>
+            <div class="text-xs font-bold text-green-400 tracking-tighter">SYSTÈME: NOMINAL</div>
         </div>
     </header>
 
-    <main class="grid grid-cols-12 gap-2 flex-grow overflow-hidden">
-        <div class="col-span-3 bento-card flex flex-col overflow-hidden border-green-900/50">
-            <div class="p-2 text-[10px] bg-green-900/20 font-bold border-b border-green-900 uppercase tracking-tighter">Flux de Données NASA</div>
-            <div id="news-feed" class="p-2 overflow-y-auto space-y-3 flex-grow"></div>
-        </div>
-
-        <div class="col-span-9 bento-card relative">
-            <div class="scanline"></div>
-            <div id="map"></div>
-            <div class="absolute bottom-4 right-4 z-[1001] flex gap-2">
-                <button onclick="map.flyTo([32.42, 53.68], 5)" class="text-[9px] bg-black border border-green-900 px-2 py-1 hover:bg-green-900">IRAN</button>
-                <button onclick="map.flyTo([31.04, 34.85], 7)" class="text-[9px] bg-black border border-green-900 px-2 py-1 hover:bg-green-900">LEVANT</button>
+    <main class="grid grid-cols-12 gap-3 flex-grow overflow-hidden">
+        
+        <aside class="col-span-3 tactical-panel flex flex-col overflow-hidden">
+            <div class="p-3 bg-green-500/10 border-b border-green-500/20 flex justify-between">
+                <span class="text-[10px] font-bold">INTEL_LOG</span>
+                <span class="text-[10px] opacity-50">SYNC: ACTIVE</span>
             </div>
-        </div>
+            <div id="intel-feed" class="p-3 space-y-4 overflow-y-auto flex-grow custom-scrollbar">
+                </div>
+        </aside>
+
+        <section class="col-span-9 tactical-panel overflow-hidden group">
+            <div class="screen-fx"></div>
+            <div id="map"></div>
+            
+            <div class="absolute top-4 right-4 z-[1001] flex gap-2">
+                <button onclick="map.flyTo([32.42, 53.68], 5)" class="cmd-btn">ZONE: IRAN</button>
+                <button onclick="map.flyTo([31.04, 34.85], 8)" class="cmd-btn">ZONE: ISRAËL</button>
+                <button onclick="map.flyTo([32.0, 45.0], 4)" class="cmd-btn">GLOBAL</button>
+            </div>
+
+            <div class="absolute bottom-4 left-4 z-[1001] bg-black/80 p-2 border border-green-500/30 text-[9px] font-mono">
+                CURSOR_POS: <span id="coords">0.00, 0.00</span>
+            </div>
+        </section>
     </main>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // Zoom par défaut sur le Moyen-Orient
         const map = L.map('map', { zoomControl: false, attributionControl: false }).setView([32.0, 45.0], 5);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        async function update() {
+        async function syncMonitor() {
             try {
-                const res = await fetch('data.json?t=' + Date.now());
-                const data = await res.json();
-                document.getElementById('count').innerText = data.length.toString().padStart(2, '0');
+                const response = await fetch('data.json?update=' + Date.now());
+                const data = await response.json();
                 
-                const feed = document.getElementById('news-feed');
+                document.getElementById('threat-count').innerText = data.length.toString().padStart(2, '0');
+                
+                const feed = document.getElementById('intel-feed');
                 feed.innerHTML = '';
-                map.eachLayer(l => { if(l instanceof L.CircleMarker) map.removeLayer(l); });
+                
+                // Clear old markers
+                map.eachLayer(layer => { if(layer instanceof L.CircleMarker) map.removeLayer(layer); });
 
                 data.reverse().forEach(ev => {
+                    // Feed Item
                     feed.innerHTML += `
-                        <div class="p-2 border border-green-900/30 bg-green-900/5 text-[10px]">
-                            <div class="text-red-500 font-bold mb-1">${ev.time} UTC - HIT</div>
-                            <div class="text-white uppercase font-bold">${ev.title}</div>
-                            <div class="opacity-50 text-[9px]">COORD: ${ev.lat}, ${ev.lng}</div>
-                        </div>`;
-                    
+                        <div class="p-3 border-l-2 border-red-500 bg-red-500/5 hover:bg-red-500/10 transition-all cursor-crosshair">
+                            <div class="flex justify-between text-[8px] text-red-400 mb-1 font-bold">
+                                <span>T+ ${ev.time} UTC</span>
+                                <span>TYPE: KINETIC_IMPACT</span>
+                            </div>
+                            <div class="text-[11px] text-white font-bold uppercase tracking-tight">${ev.title}</div>
+                            <div class="text-[9px] text-green-700 mt-1 font-mono">TARGET_GPS: ${ev.lat}, ${ev.lng}</div>
+                        </div>
+                    `;
+
+                    // Map Marker
                     L.circleMarker([ev.lat, ev.lng], {
-                        radius: 7, color: '#ff0000', fillColor: '#ff0000', fillOpacity: 0.8
-                    }).addTo(map).bindPopup(ev.title);
+                        radius: 8,
+                        color: '#ff003c',
+                        fillColor: '#ff003c',
+                        fillOpacity: 0.8,
+                        className: 'impact-marker'
+                    }).addTo(map);
                 });
-            } catch (e) { console.log("Scan..."); }
+            } catch (e) { console.warn("Liaison satellite interrompue..."); }
         }
-        setInterval(update, 10000);
-        update();
+
+        map.on('mousemove', e => {
+            document.getElementById('coords').innerText = `${e.latlng.lat.toFixed(2)}, ${e.latlng.lng.toFixed(2)}`;
+        });
+
+        setInterval(syncMonitor, 15000);
+        syncMonitor();
     </script>
 </body>
 </html>
