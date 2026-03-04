@@ -25,7 +25,6 @@
 
         h1 { font-family: 'Orbitron', sans-serif; }
 
-        /* Effet de profondeur sur les cartes */
         .tactical-panel { 
             background: rgba(15, 15, 20, 0.9); 
             border: 1px solid rgba(0, 255, 102, 0.2);
@@ -44,26 +43,23 @@
 
         #map { 
             height: 100%; width: 100%; 
-            filter: brightness(0.6) contrast(1.5) saturate(0.8) hue-rotate(140deg); 
+            background: #050505 !important;
         }
 
-        /* Marqueurs d'impact stylés */
+        /* Animation des impacts */
         .impact-marker {
-            width: 20px; height: 20px;
-            background: var(--neon-red);
-            border-radius: 50%;
-            border: 2px solid white;
-            box-shadow: 0 0 15px var(--neon-red);
             animation: impact-ping 1.5s infinite;
+            border: 2px solid white;
+            border-radius: 50%;
+            background: var(--neon-red);
         }
 
         @keyframes impact-ping {
-            0% { transform: scale(0.8); box-shadow: 0 0 0 0 rgba(255, 0, 60, 0.7); }
-            70% { transform: scale(1.2); box-shadow: 0 0 0 15px rgba(255, 0, 60, 0); }
-            100% { transform: scale(0.8); box-shadow: 0 0 0 0 rgba(255, 0, 60, 0); }
+            0% { box-shadow: 0 0 0 0 rgba(255, 0, 60, 0.7); }
+            70% { box-shadow: 0 0 0 15px rgba(255, 0, 60, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(255, 0, 60, 0); }
         }
 
-        /* Boutons de commande */
         .cmd-btn {
             background: rgba(0, 255, 102, 0.05);
             border: 1px solid var(--neon-green);
@@ -72,14 +68,23 @@
             padding: 5px 12px;
             clip-path: polygon(10% 0, 100% 0, 100% 70%, 90% 100%, 0 100%, 0% 30%);
             transition: 0.3s;
+            cursor: pointer;
         }
 
         .cmd-btn:hover { background: var(--neon-green); color: black; }
-        .cmd-btn-red { border-color: var(--neon-red); color: var(--neon-red); }
-        .cmd-btn-red:hover { background: var(--neon-red); color: white; }
+        
+        /* Marquee Alert */
+        @keyframes marquee { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
+        .animate-marquee { display: inline-block; animation: marquee 25s linear infinite; }
     </style>
 </head>
 <body class="flex flex-col p-3 gap-3">
+
+    <div class="bg-red-900/30 text-red-500 text-[10px] py-1 overflow-hidden whitespace-nowrap border border-red-900/50">
+        <div class="animate-marquee px-4">
+            ALERTE : SURVEILLANCE SATELLITE VIIRS SNPP ACTIVE // DÉTECTION THERMIQUE EN TEMPS RÉEL // ANALYSE GÉOPOLITIQUE MOYEN-ORIENT // UNITÉ OSINT SITREP-ONE
+        </div>
+    </div>
 
     <header class="flex justify-between items-center px-4 py-2 tactical-panel border-b-2 border-green-500/50">
         <div class="flex items-center gap-4">
@@ -88,11 +93,11 @@
         </div>
         <div class="flex gap-6 items-center">
             <div class="text-right">
-                <span class="text-[9px] block opacity-60">MENACES DÉTECTÉES</span>
+                <span class="text-[9px] block opacity-60 uppercase">Impacts 24h</span>
                 <span id="threat-count" class="text-xl font-bold text-red-500 font-mono">00</span>
             </div>
             <div class="h-8 w-[1px] bg-green-900"></div>
-            <div class="text-xs font-bold text-green-400 tracking-tighter">SYSTÈME: NOMINAL</div>
+            <a href="france.html" class="cmd-btn border-blue-500 text-blue-400">UNITÉ FRANCE 🇫🇷</a>
         </div>
     </header>
 
@@ -101,9 +106,9 @@
         <aside class="col-span-3 tactical-panel flex flex-col overflow-hidden">
             <div class="p-3 bg-green-500/10 border-b border-green-500/20 flex justify-between">
                 <span class="text-[10px] font-bold">INTEL_LOG</span>
-                <span class="text-[10px] opacity-50">SYNC: ACTIVE</span>
+                <span class="text-[10px] opacity-50">SYNC: LIVE</span>
             </div>
-            <div id="intel-feed" class="p-3 space-y-4 overflow-y-auto flex-grow custom-scrollbar">
+            <div id="intel-feed" class="p-3 space-y-4 overflow-y-auto flex-grow">
                 </div>
         </aside>
 
@@ -112,64 +117,71 @@
             <div id="map"></div>
             
             <div class="absolute top-4 right-4 z-[1001] flex gap-2">
-                <button onclick="map.flyTo([32.42, 53.68], 5)" class="cmd-btn">ZONE: IRAN</button>
-                <button onclick="map.flyTo([31.04, 34.85], 8)" class="cmd-btn">ZONE: ISRAËL</button>
-                <button onclick="map.flyTo([32.0, 45.0], 4)" class="cmd-btn">GLOBAL</button>
+                <button onclick="map.setView([32.42, 53.68], 5)" class="cmd-btn">IRAN</button>
+                <button onclick="map.setView([31.04, 34.85], 8)" class="cmd-btn">ISRAËL</button>
+                <button onclick="map.setView([32.0, 45.0], 4)" class="cmd-btn">RESET VIEW</button>
             </div>
 
             <div class="absolute bottom-4 left-4 z-[1001] bg-black/80 p-2 border border-green-500/30 text-[9px] font-mono">
-                CURSOR_POS: <span id="coords">0.00, 0.00</span>
+                COORD: <span id="coords">0.00, 0.00</span>
             </div>
         </section>
     </main>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        const map = L.map('map', { zoomControl: false, attributionControl: false }).setView([32.0, 45.0], 5);
+        // Initialisation SANS FlyTo automatique
+        const map = L.map('map', { zoomControl: false, attributionControl: false }).setView([32.0, 45.0], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
+
+        let lastHash = "";
 
         async function syncMonitor() {
             try {
-                const response = await fetch('data.json?update=' + Date.now());
+                const response = await fetch('data.json?u=' + Date.now());
                 const data = await response.json();
                 
+                // On vérifie si les données ont changé pour ne pas rafraîchir inutilement
+                const currentHash = JSON.stringify(data);
+                if (currentHash === lastHash) return;
+                lastHash = currentHash;
+
                 document.getElementById('threat-count').innerText = data.length.toString().padStart(2, '0');
                 
                 const feed = document.getElementById('intel-feed');
                 feed.innerHTML = '';
                 
-                // Clear old markers
+                // On ne vide que les marqueurs
                 map.eachLayer(layer => { if(layer instanceof L.CircleMarker) map.removeLayer(layer); });
 
                 data.reverse().forEach(ev => {
-                    // Feed Item
                     feed.innerHTML += `
-                        <div class="p-3 border-l-2 border-red-500 bg-red-500/5 hover:bg-red-500/10 transition-all cursor-crosshair">
+                        <div class="p-3 border-l-2 border-red-500 bg-red-500/5 mb-2 transition-all">
                             <div class="flex justify-between text-[8px] text-red-400 mb-1 font-bold">
-                                <span>T+ ${ev.time} UTC</span>
-                                <span>TYPE: KINETIC_IMPACT</span>
+                                <span>${ev.time} UTC</span>
+                                <span>KINETIC_HIT</span>
                             </div>
-                            <div class="text-[11px] text-white font-bold uppercase tracking-tight">${ev.title}</div>
-                            <div class="text-[9px] text-green-700 mt-1 font-mono">TARGET_GPS: ${ev.lat}, ${ev.lng}</div>
+                            <div class="text-[10px] text-white font-bold uppercase tracking-tight">${ev.title}</div>
+                            <div class="text-[8px] text-green-700 mt-1 font-mono">${ev.lat}, ${ev.lng}</div>
                         </div>
                     `;
 
-                    // Map Marker
                     L.circleMarker([ev.lat, ev.lng], {
-                        radius: 8,
+                        radius: 7,
                         color: '#ff003c',
                         fillColor: '#ff003c',
                         fillOpacity: 0.8,
                         className: 'impact-marker'
                     }).addTo(map);
                 });
-            } catch (e) { console.warn("Liaison satellite interrompue..."); }
+            } catch (e) { console.log("Lien satellite en attente..."); }
         }
 
         map.on('mousemove', e => {
             document.getElementById('coords').innerText = `${e.latlng.lat.toFixed(2)}, ${e.latlng.lng.toFixed(2)}`;
         });
 
+        // Update toutes les 15 secondes sans toucher à la vue utilisateur
         setInterval(syncMonitor, 15000);
         syncMonitor();
     </script>
