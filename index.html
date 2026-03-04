@@ -3,205 +3,82 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TERMINAL | KINETIC MONITORING</title>
+    <title>SITREP-ONE | TACTICAL SATELLITE</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
-        
-        :root {
-            --ui-red: #ff3c3c;
-            --ui-blue: #0084ff;
-            --bg-ultra: #020202;
-        }
-
-        body { 
-            background-color: var(--bg-ultra); 
-            color: #d1d1d1; 
-            font-family: 'JetBrains Mono', monospace;
-            overflow: hidden;
-            height: 100vh;
-        }
-
-        /* Design des cartes Bento */
-        .bento-card { 
-            background: rgba(10, 10, 10, 0.8); 
-            border: 1px solid #1f1f1f;
-            border-radius: 2px;
-            backdrop-filter: blur(5px);
-        }
-
-        /* Effet Scanner sur la carte */
-        #map { 
-            height: 100%; width: 100%; 
-            filter: brightness(0.4) contrast(1.6) grayscale(1);
-        }
-
-        .scan-overlay {
-            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-            background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), 
-                        linear-gradient(90deg, rgba(255, 0, 0, 0.05), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.05));
-            background-size: 100% 2px, 3px 100%;
-            pointer-events: none; z-index: 1000;
-        }
-
-        /* Alerte Flash */
-        @keyframes danger-pulse {
-            0% { box-shadow: inset 0 0 0px var(--ui-red); }
-            50% { box-shadow: inset 0 0 50px rgba(255, 60, 60, 0.2); }
-            100% { box-shadow: inset 0 0 0px var(--ui-red); }
-        }
-        .alert-active { animation: danger-pulse 1s infinite; border-color: var(--ui-red) !important; }
-
-        /* Onde de choc marqueur */
-        .pulse-marker {
-            animation: ripple 2s infinite;
-            border-radius: 50%;
-            background: var(--ui-red);
-        }
-        @keyframes ripple {
-            0% { box-shadow: 0 0 0 0 rgba(255, 60, 60, 0.7); }
-            70% { box-shadow: 0 0 0 20px rgba(255, 60, 60, 0); }
-            100% { box-shadow: 0 0 0 0 rgba(255, 60, 60, 0); }
-        }
-
-        /* Boutons de filtres tactiques */
-        .filter-btn {
-            font-size: 10px; padding: 4px 8px; border: 1px solid #333;
-            transition: all 0.2s; color: #666;
-        }
-        .filter-btn:hover, .filter-btn.active {
-            border-color: var(--ui-red); color: white; background: rgba(255, 60, 60, 0.1);
-        }
+        body { background: #050505; color: #00ff41; font-family: 'JetBrains Mono', monospace; overflow: hidden; height: 100vh; }
+        .bento-card { background: rgba(0, 20, 0, 0.2); border: 1px solid #004411; position: relative; }
+        #map { height: 100%; width: 100%; filter: brightness(0.7) contrast(1.2) saturate(0.5) hue-rotate(80deg); }
+        .scanline { width: 100%; height: 100%; background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.1) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.02), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.02)); background-size: 100% 2px, 3px 100%; pointer-events: none; position: absolute; z-index: 1000; }
+        .pulse-marker { animation: ripple 2s infinite; border-radius: 50%; background: #ff0000; box-shadow: 0 0 15px #ff0000; }
+        @keyframes ripple { 0% { transform: scale(0.5); opacity: 1; } 100% { transform: scale(3); opacity: 0; } }
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-thumb { background: #004411; }
     </style>
 </head>
-<body class="flex flex-col p-3 gap-3">
+<body class="flex flex-col p-2 gap-2">
 
-    <header class="flex justify-between items-center border-b border-zinc-800 pb-2">
-        <div class="flex items-center gap-4">
-            <div class="h-2 w-2 bg-red-600 animate-pulse"></div>
-            <h1 class="text-sm font-bold tracking-[0.3em] uppercase">Tactical Monitor v3.0</h1>
+    <header class="flex justify-between items-center border-b border-green-900 pb-1 px-4">
+        <div class="flex items-center gap-3">
+            <div class="h-2 w-2 bg-red-600 animate-ping"></div>
+            <h1 class="text-xs font-bold tracking-[0.5em] uppercase">Moyen-Orient // Live Satellite</h1>
         </div>
-        
-        <div class="flex gap-8">
-            <div class="text-center">
-                <div class="text-[9px] text-zinc-500 uppercase">Alertes 24h</div>
-                <div id="count-24h" class="text-xl font-bold text-red-500">00</div>
-            </div>
-            <div class="text-center border-l border-zinc-800 pl-8">
-                <div class="text-[9px] text-zinc-500 uppercase">Statut Système</div>
-                <div class="text-xs font-bold text-green-500 uppercase">Linked</div>
-            </div>
+        <div class="flex gap-10">
+            <div class="text-right"><div class="text-[8px] opacity-50 uppercase">Alertes 24h</div><div id="count" class="text-lg font-bold text-red-500">00</div></div>
+            <div class="text-right border-l border-green-900 pl-4"><div class="text-[8px] opacity-50 uppercase">Status</div><div class="text-xs text-green-400">EN LIGNE</div></div>
         </div>
     </header>
 
-    <main class="grid grid-cols-12 gap-3 flex-grow overflow-hidden">
-        
-        <div class="col-span-3 bento-card flex flex-col overflow-hidden border-red-900/30">
-            <div class="p-3 bg-zinc-900/50 flex justify-between items-center border-b border-zinc-800">
-                <span class="text-[10px] font-bold text-zinc-400">SIGNAL_STREAM</span>
-                <span class="text-[10px] text-red-600 animate-pulse">LIVE</span>
-            </div>
-            <div id="news-feed" class="flex-grow overflow-y-auto p-3 space-y-4 custom-scrollbar">
-                </div>
+    <main class="grid grid-cols-12 gap-2 flex-grow overflow-hidden">
+        <div class="col-span-3 bento-card flex flex-col overflow-hidden border-green-900/50">
+            <div class="p-2 text-[10px] bg-green-900/20 font-bold border-b border-green-900 uppercase tracking-tighter">Flux de Données NASA</div>
+            <div id="news-feed" class="p-2 overflow-y-auto space-y-3 flex-grow"></div>
         </div>
 
-        <div class="col-span-9 bento-card relative overflow-hidden group">
-            <div class="scan-overlay"></div>
-            
-            <div class="absolute top-4 right-4 z-[1001] flex gap-2">
-                <button onclick="filterZone('ALL')" class="filter-btn active" id="f-all">GLOBAL</button>
-                <button onclick="filterZone('IRAN')" class="filter-btn" id="f-iran">IRAN</button>
-                <button onclick="filterZone('ISRAEL')" class="filter-btn" id="f-isr">LEVANT</button>
-            </div>
-
+        <div class="col-span-9 bento-card relative">
+            <div class="scanline"></div>
             <div id="map"></div>
-            
-            <div class="absolute bottom-4 left-4 z-[1001] text-[9px] text-zinc-500 bg-black/80 p-2 border border-zinc-800">
-                LAT: <span id="lat-display">32.42</span> | LNG: <span id="lng-display">53.68</span>
+            <div class="absolute bottom-4 right-4 z-[1001] flex gap-2">
+                <button onclick="map.flyTo([32.42, 53.68], 5)" class="text-[9px] bg-black border border-green-900 px-2 py-1 hover:bg-green-900">IRAN</button>
+                <button onclick="map.flyTo([31.04, 34.85], 7)" class="text-[9px] bg-black border border-green-900 px-2 py-1 hover:bg-green-900">LEVANT</button>
             </div>
         </div>
     </main>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // Init Carte
-        const map = L.map('map', { zoomControl: false, attributionControl: false }).setView([32.4279, 53.6880], 5);
+        // Zoom par défaut sur le Moyen-Orient
+        const map = L.map('map', { zoomControl: false, attributionControl: false }).setView([32.0, 45.0], 5);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        let lastDataSize = 0;
-        let currentFilter = 'ALL';
-        const alertSound = new Audio('https://www.soundjay.com/buttons/sounds/beep-22.mp3');
-
-        // Zones de filtrage
-        const zones = {
-            'IRAN': { center: [32.42, 53.68], zoom: 5 },
-            'ISRAEL': { center: [31.04, 34.85], zoom: 7 },
-            'ALL': { center: [32.42, 53.68], zoom: 4 }
-        };
-
-        function filterZone(zone) {
-            currentFilter = zone;
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-            document.getElementById('f-' + zone.toLowerCase().slice(0,3)).classList.add('active');
-            map.flyTo(zones[zone].center, zones[zone].zoom);
-            updateUI();
-        }
-
-        async function updateUI() {
+        async function update() {
             try {
                 const res = await fetch('data.json?t=' + Date.now());
                 const data = await res.json();
-
-                // Gestion de l'alerte
-                if (data.length > lastDataSize && lastDataSize !== 0) {
-                    alertSound.play().catch(()=>{});
-                    document.body.classList.add('alert-active');
-                    setTimeout(() => document.body.classList.remove('alert-active'), 2000);
-                }
-                lastDataSize = data.length;
-
-                // Update Compteur
-                document.getElementById('count-24h').innerText = data.length.toString().padStart(2, '0');
-
-                // Clear feed & map
+                document.getElementById('count').innerText = data.length.toString().padStart(2, '0');
+                
                 const feed = document.getElementById('news-feed');
                 feed.innerHTML = '';
-                
-                // On garde les tiles mais on vire les markers
-                map.eachLayer((layer) => { if (layer instanceof L.CircleMarker) map.removeLayer(layer); });
+                map.eachLayer(l => { if(l instanceof L.CircleMarker) map.removeLayer(l); });
 
                 data.reverse().forEach(ev => {
-                    // Injecter dans le flux
                     feed.innerHTML += `
-                        <div class="p-3 border-l-2 border-red-600 bg-red-950/10 mb-2">
-                            <div class="flex justify-between text-[8px] text-zinc-500 mb-1">
-                                <span>${ev.time} UTC</span>
-                                <span class="text-red-500">KINETIC_HIT</span>
-                            </div>
-                            <div class="text-[11px] font-bold text-zinc-200 uppercase">${ev.title}</div>
-                            <div class="text-[9px] text-zinc-500 mt-1">SENSORS: THERMAL_DETECTION_SATELLITE</div>
-                        </div>
-                    `;
-
-                    // Ajouter sur la carte
+                        <div class="p-2 border border-green-900/30 bg-green-900/5 text-[10px]">
+                            <div class="text-red-500 font-bold mb-1">${ev.time} UTC - HIT</div>
+                            <div class="text-white uppercase font-bold">${ev.title}</div>
+                            <div class="opacity-50 text-[9px]">COORD: ${ev.lat}, ${ev.lng}</div>
+                        </div>`;
+                    
                     L.circleMarker([ev.lat, ev.lng], {
-                        color: '#ff3c3c', fillColor: '#ff3c3c', fillOpacity: 0.6,
-                        radius: 8, className: 'pulse-marker'
-                    }).addTo(map);
+                        radius: 7, color: '#ff0000', fillColor: '#ff0000', fillOpacity: 0.8
+                    }).addTo(map).bindPopup(ev.title);
                 });
-
-            } catch (e) { console.log("System Scanning..."); }
+            } catch (e) { console.log("Scan..."); }
         }
-
-        // Suivi de souris pour le style
-        map.on('mousemove', e => {
-            document.getElementById('lat-display').innerText = e.latlng.lat.toFixed(2);
-            document.getElementById('lng-display').innerText = e.latlng.lng.toFixed(2);
-        });
-
-        setInterval(updateUI, 10000); // Check toutes les 10 sec
-        updateUI();
+        setInterval(update, 10000);
+        update();
     </script>
 </body>
 </html>
