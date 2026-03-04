@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IRAN CONFLICT MONITOR | LIVE</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background-color: #050505; color: #e0e0e0; font-family: 'JetBrains Mono', monospace; }
+        .bento-card { background: rgba(20, 20, 20, 0.8); border: 1px solid #333; border-radius: 8px; }
+        .glow-red { box-shadow: 0 0 15px rgba(255, 0, 0, 0.2); border-color: #ff4444; }
+        .scanline { background: linear-gradient(to bottom, rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06)); background-size: 100% 2px, 3px 100%; pointer-events: none; position: fixed; inset: 0; z-index: 50; }
+    </style>
+</head>
+<body class="p-4">
+    <div class="scanline"></div>
+
+    <header class="flex justify-between items-center mb-6 border-b border-red-900 pb-2">
+        <h1 class="text-2xl font-bold tracking-tighter text-red-500 underline decoration-double">OPERATIONAL MONITOR : IRAN 2026</h1>
+        <div class="text-right">
+            <span class="text-xs block text-gray-500">SYSTEM STATUS: ACTIVE</span>
+            <span class="text-sm font-bold text-green-500 italic">DATE: 04 MARS 2026</span>
+        </div>
+    </header>
+
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-4 h-[80vh]">
+        
+        <div class="md:col-span-1 bento-card p-4 overflow-y-auto glow-red">
+            <h2 class="text-red-500 font-bold mb-4 flex items-center">
+                <span class="relative flex h-3 w-3 mr-2">
+                    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+                    <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span>
+                </span>
+                LIVE FEED
+            </h2>
+            <div class="space-y-4 text-sm">
+                <div class="border-l-2 border-red-500 pl-2">
+                    <p class="text-gray-400 text-xs">14:02</p>
+                    <p>Détection d'une frappe de drone près d'Ispahan. Analyse en cours.</p>
+                </div>
+                <div class="border-l-2 border-gray-700 pl-2">
+                    <p class="text-gray-400 text-xs">13:45</p>
+                    <p>Mouvement du porte-avion US Gerald Ford vers le Détroit d'Ormuz.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="md:col-span-2 bento-card relative overflow-hidden group">
+            <div class="absolute inset-0 flex items-center justify-center bg-zinc-900">
+                <p class="text-gray-600 animate-pulse">[ CARTE TACTIQUE INTERACTIVE ]</p>
+            </div>
+            <div class="absolute bottom-4 left-4 text-xs bg-black/80 p-2">
+                LAT: 32.6539 | LONG: 51.6660
+            </div>
+        </div>
+
+        <div class="md:col-span-1 bento-card p-4">
+            <h2 class="text-blue-400 font-bold mb-4 uppercase">Force Estimation</h2>
+            <div class="space-y-2 text-xs">
+                <div class="flex justify-between border-b border-gray-800 pb-1">
+                    <span>IRGC Forces</span>
+                    <span class="text-red-400">HIGH ALERT</span>
+                </div>
+                <div class="flex justify-between border-b border-gray-800 pb-1">
+                    <span>US Navy Group 12</span>
+                    <span class="text-blue-400">DEPLOYED</span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
