@@ -2,60 +2,77 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>SITREP-ONE | FRENCH FORCES</title>
+    <title>SITREP-ONE | OPÉRATIONS FRANCE</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
-        body { background: #050a10; color: #3b82f6; font-family: 'JetBrains Mono', monospace; }
-        #map { height: 600px; width: 100%; border: 1px solid #1e3a8a; filter: hue-rotate(180deg) brightness(0.8); }
-        .base-label { background: rgba(0,0,0,0.8); color: white; border: 1px solid #3b82f6; padding: 2px 5px; font-size: 10px; }
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+        body { background: #020617; color: #60a5fa; font-family: 'JetBrains Mono', monospace; height: 100vh; overflow: hidden; }
+        .panel { background: rgba(15, 23, 42, 0.8); border: 1px solid #1e3a8a; }
+        #map { height: 100%; width: 100%; filter: saturate(0.5) brightness(0.8); }
+        .base-label { background: #1e3a8a; color: white; border: none; font-size: 9px; font-weight: bold; }
     </style>
 </head>
-<body class="p-4">
-    <div class="flex justify-between items-center mb-4 border-b border-blue-900 pb-2">
-        <h1 class="text-xl font-bold uppercase tracking-widest text-blue-400">Opérations Françaises - Zone Moyen-Orient</h1>
-        <a href="index.html" class="text-xs border border-blue-400 px-3 py-1 hover:bg-blue-400 hover:text-black">RETOUR MONITORING</a>
-    </div>
+<body class="flex flex-col p-2 gap-2">
 
-    <div class="grid grid-cols-3 gap-4">
-        <div class="col-span-2 bg-black/40 p-2 border border-blue-900">
+    <header class="flex justify-between items-center p-3 panel border-b-2 border-blue-600">
+        <div class="flex items-center gap-4">
+            <div class="w-3 h-3 bg-blue-600 rounded-full animate-pulse shadow-[0_0_10px_#2563eb]"></div>
+            <h1 class="text-sm font-bold tracking-widest uppercase">État-Major des Armées // Zone Moyen-Orient</h1>
+        </div>
+        <a href="index.html" class="text-[10px] border border-blue-400 px-3 py-1 hover:bg-blue-400 hover:text-black transition">RETOUR MONITORING GLOBAL</a>
+    </header>
+
+    <main class="grid grid-cols-12 gap-2 flex-grow overflow-hidden">
+        <section class="col-span-8 panel relative">
             <div id="map"></div>
-        </div>
-        <div class="space-y-4">
-            <div class="bg-blue-900/10 p-4 border border-blue-800">
-                <h2 class="text-sm font-bold underline mb-2">ORDRE DE BATAILLE (ORBAT)</h2>
-                <ul class="text-[11px] space-y-2 text-zinc-300">
-                    <li>🚢 <span class="text-blue-400 font-bold">GAN (Porte-avions)</span> : En transit Méditerranée Est</li>
-                    <li>✈️ <span class="text-blue-400 font-bold">BAP Jordanie</span> : 6x Rafale (Opération Chammal)</li>
-                    <li>⚓ <span class="text-blue-400 font-bold">FFDJ Djibouti</span> : Dispositif permanent</li>
-                </ul>
+        </section>
+
+        <section class="col-span-4 flex flex-col gap-2">
+            <div class="panel p-4 flex-grow">
+                <h2 class="text-xs font-bold text-blue-300 border-b border-blue-800 pb-2 mb-3 tracking-tighter uppercase">Dispositif Français (Moyens)</h2>
+                <div class="space-y-4 text-[11px]">
+                    <div class="p-2 bg-blue-900/10 border-l-2 border-blue-500">
+                        <p class="font-bold text-blue-200">OPÉRATION CHAMMAL (IRAK/SYRIE)</p>
+                        <p class="text-zinc-400 mt-1">Base Aérienne Projetée (BAP) en Jordanie. 6x Rafale déployés pour frappes de précision.</p>
+                    </div>
+                    <div class="p-2 bg-blue-900/10 border-l-2 border-blue-500">
+                        <p class="font-bold text-blue-200">FORCES FRANÇAISES À DJIBOUTI (FFDJ)</p>
+                        <p class="text-zinc-400 mt-1">1 500 militaires. Point d'appui stratégique pour la Mer Rouge.</p>
+                    </div>
+                    <div class="p-2 bg-blue-900/10 border-l-2 border-blue-500">
+                        <p class="font-bold text-blue-200">PRÉSENCE NAVALE (AGÉNOR)</p>
+                        <p class="text-zinc-400 mt-1">Frégates multi-missions (FREMM) en patrouille dans le Golfe Arabique.</p>
+                    </div>
+                </div>
             </div>
-            <div class="bg-red-900/10 p-4 border border-red-800">
-                <h2 class="text-sm font-bold text-red-500 mb-2">DERNIÈRES INTERCEPTIONS</h2>
-                <div class="text-[10px] italic text-zinc-400">"Frégate multi-missions : Destruction drone Houthi (Mer Rouge)"</div>
+            
+            <div class="panel p-3 bg-red-950/20 border-red-900/50">
+                <h2 class="text-[10px] font-bold text-red-400 uppercase mb-2">Alerte Engagement</h2>
+                <p class="text-[10px] text-zinc-400 italic">"Tensions élevées en Mer Rouge. Vigilance maximale pour les navires de commerce français."</p>
             </div>
-        </div>
-    </div>
+        </section>
+    </main>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        const map = L.map('map').setView([25.0, 45.0], 4);
+        const map = L.map('map', { zoomControl: false, attributionControl: false }).setView([22.0, 48.0], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        // Bases Militaires Françaises
-        const bases = [
-            { name: "BAP JORDANIÉ (Rafale)", coords: [31.8, 36.8] },
-            { name: "BASE NAVALE ABU DHABI", coords: [24.4, 54.3] },
-            { name: "FFDJ DJIBOUTI", coords: [11.5, 43.1] }
+        // Bases et actifs français
+        const assets = [
+            { name: "BAP Jordanie (Rafale)", pos: [31.8, 36.8], type: "air" },
+            { name: "FFDJ Djibouti", pos: [11.5, 43.1], type: "base" },
+            { name: "Base Navale Abu Dhabi", pos: [24.4, 54.3], type: "navy" },
+            { name: "Mission Mer Rouge (FREMM)", pos: [15.0, 41.5], type: "ship" }
         ];
 
-        bases.forEach(b => {
-            L.marker(b.coords).addTo(map).bindTooltip(b.name, { permanent: true, className: 'base-label' });
+        assets.forEach(a => {
+            const color = a.type === 'ship' ? '#ef4444' : '#3b82f6';
+            L.circleMarker(a.pos, {
+                radius: 6, color: color, fillColor: color, fillOpacity: 0.8
+            }).addTo(map).bindTooltip(a.name, { permanent: true, className: 'base-label', direction: 'top' });
         });
-
-        // Icone pour navire
-        const shipIcon = L.divIcon({ html: '🚢', className: 'text-2xl', iconAnchor: [12, 12] });
-        L.marker([34.0, 30.0], {icon: shipIcon}).addTo(map).bindPopup("Groupe Aéronaval Français (En mission)");
     </script>
 </body>
 </html>
