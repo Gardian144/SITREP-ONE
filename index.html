@@ -8,50 +8,23 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+        body { background-color: #050505; color: #e0e0e0; font-family: 'JetBrains Mono', monospace; overflow: hidden; transition: background-color 0.3s; }
+        .bento-card { background: rgba(15, 15, 15, 0.9); border: 1px solid #222; border-radius: 4px; position: relative; }
+        #map { height: 100%; width: 100%; filter: brightness(0.6) contrast(1.3) saturate(0.2) sepia(0.2) hue-rotate(-15deg); }
         
-        :root {
-            --bg-dark: #050505;
-            --accent-red: #ff4444;
-            --accent-blue: #44aaff;
-        }
-
-        body { 
-            background-color: var(--bg-dark); 
-            color: #e0e0e0; 
-            font-family: 'JetBrains Mono', monospace;
-            overflow: hidden;
-        }
-
-        .bento-card { 
-            background: rgba(15, 15, 15, 0.9); 
-            border: 1px solid #222; 
-            border-radius: 4px;
-            position: relative;
-        }
-
-        .glow-red { border-color: var(--accent-red); box-shadow: 0 0 10px rgba(255, 68, 68, 0.1); }
+        /* Animations tactiques */
+        .flash-red { animation: flash 0.6s ease-out; }
+        @keyframes flash { 0% { background-color: rgba(255, 0, 0, 0.4); } 100% { background-color: transparent; } }
         
-        /* Effet radar/scanline */
-        .scanline {
-            width: 100%; height: 2px;
-            background: rgba(255, 68, 68, 0.1);
-            position: absolute; top: 0;
-            animation: scan 4s linear infinite;
-            z-index: 10;
+        .pulse-icon { border-radius: 50%; animation: pulse-ring 2s infinite; }
+        @keyframes pulse-ring { 
+            0% { box-shadow: 0 0 0 0 rgba(255, 68, 68, 0.7); } 
+            70% { box-shadow: 0 0 0 15px rgba(255, 68, 68, 0); } 
+            100% { box-shadow: 0 0 0 0 rgba(255, 68, 68, 0); } 
         }
+
+        .scanline { width: 100%; height: 2px; background: rgba(255, 255, 255, 0.05); position: absolute; top: 0; animation: scan 6s linear infinite; z-index: 10; pointer-events: none; }
         @keyframes scan { from { top: 0; } to { top: 100%; } }
-
-        /* Style de la carte */
-        #map { 
-            height: 100%; width: 100%; 
-            background: #0a0a0a;
-            filter: brightness(0.7) contrast(1.2) saturate(0.4) hue-rotate(10deg);
-        }
-
-        .custom-popup .leaflet-popup-content-wrapper {
-            background: #111; color: #fff; border: 1px solid var(--accent-red);
-            border-radius: 0; font-family: 'JetBrains Mono', monospace;
-        }
     </style>
 </head>
 <body class="h-screen flex flex-col p-4 gap-4">
@@ -59,121 +32,80 @@
     <header class="flex justify-between items-center border-b border-zinc-800 pb-2">
         <div class="flex items-center gap-4">
             <div class="h-3 w-3 bg-red-600 rounded-full animate-pulse"></div>
-            <h1 class="text-xl font-bold tracking-tighter uppercase">SITREP // KINETIC_MONITOR_V2</h1>
+            <h1 class="text-xl font-bold tracking-tighter uppercase">SITREP // AUTO-MONITOR V2</h1>
         </div>
-        <div class="flex gap-6 text-[10px] text-zinc-500 italic">
-            <div>COORDINATES: 32.4279° N, 53.6880° E</div>
-            <div id="clock">00:00:00 UTC</div>
-        </div>
+        <div id="sync-status" class="text-[10px] text-green-500 animate-pulse uppercase">Satellite Sync: OK</div>
     </header>
 
     <main class="grid grid-cols-12 gap-4 flex-grow overflow-hidden">
-        
         <section class="col-span-3 bento-card flex flex-col overflow-hidden">
-            <div class="p-3 border-b border-zinc-800 bg-zinc-900/50 flex justify-between items-center">
-                <span class="text-xs font-bold text-red-500">LIVE INTELLIGENCE</span>
-                <span class="text-[9px] px-1 bg-red-900/30 text-red-500 border border-red-500">AUTO-UPDATE</span>
-            </div>
-            <div class="p-4 space-y-4 overflow-y-auto text-[11px]" id="news-feed">
-                <div class="border-l border-red-500 pl-3 py-1 bg-red-500/5">
-                    <span class="text-red-500 block mb-1">MARS 04 | 20:15</span>
-                    <p class="leading-tight">Anomalie thermique détectée près de Bandar Abbas. Analyse satellite en cours.</p>
-                </div>
-                <div class="border-l border-zinc-700 pl-3 py-1">
-                    <span class="text-zinc-500 block mb-1">MARS 04 | 19:42</span>
-                    <p class="leading-tight text-zinc-400">Mouvement naval détecté : CVN-78 G. Ford repositionné secteur 4.</p>
-                </div>
-            </div>
+            <div class="p-2 border-b border-zinc-800 bg-zinc-900 text-[10px] font-bold text-red-500">KINETIC FEED (AUTO)</div>
+            <div class="p-4 space-y-4 overflow-y-auto text-[11px]" id="news-feed"></div>
         </section>
 
-        <section class="col-span-6 bento-card overflow-hidden glow-red relative">
+        <section class="col-span-9 bento-card overflow-hidden relative">
             <div class="scanline"></div>
             <div id="map"></div>
-            <div class="absolute bottom-4 right-4 z-[1000] bg-black/80 p-2 text-[9px] border border-zinc-700">
-                <p>LAYERS: SATELLITE_KINETIC</p>
-                <p>SIGNAL: ENCRYPTED</p>
-            </div>
         </section>
-
-        <section class="col-span-3 bento-card p-4 flex flex-col gap-4">
-            <div>
-                <h3 class="text-xs font-bold text-blue-400 mb-2 border-b border-blue-900/50 pb-1 uppercase">Assets Déployés</h3>
-                <div class="text-[10px] space-y-2">
-                    <div class="flex justify-between"><span class="text-zinc-500 italic">USN Group 12</span> <span class="text-green-500">ACTIF</span></div>
-                    <div class="flex justify-between"><span class="text-zinc-500 italic">IDF Iron Beam</span> <span class="text-blue-500">READY</span></div>
-                </div>
-            </div>
-            <div>
-                <h3 class="text-xs font-bold text-red-400 mb-2 border-b border-red-900/50 pb-1 uppercase">Menaces Identifiées</h3>
-                <div class="text-[10px] space-y-2">
-                    <div class="flex justify-between"><span class="text-zinc-500 italic">IRGC Missiles</span> <span class="text-red-600 animate-pulse">ALERTE</span></div>
-                    <div class="flex justify-between"><span class="text-zinc-500 italic">Drone Swarm</span> <span class="text-zinc-400">STANDBY</span></div>
-                </div>
-            </div>
-        </section>
-
     </main>
 
-    <footer class="h-8 bento-card flex items-center px-4 justify-between text-[10px] text-zinc-600">
-        <div>SYSTEM VERSION: 2.0.26_OSINT</div>
-        <div class="flex gap-4">
-            <span class="flex items-center gap-1"><span class="h-1 w-1 bg-green-500 rounded-full"></span> SERVER: STABLE</span>
-            <span class="flex items-center gap-1"><span class="h-1 w-1 bg-red-500 rounded-full animate-ping"></span> UPLINK: LIVE</span>
-        </div>
-    </footer>
-
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-    // 1. Initialisation de la carte
-    var map = L.map('map', { zoomControl: false }).setView([32.4279, 53.6880], 5);
-    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}').addTo(map);
+        var map = L.map('map', { zoomControl: false }).setView([32.4279, 53.6880], 5);
+        L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}').addTo(map);
 
-    // 2. Fonction pour charger les données automatiquement
-    async function loadData() {
-        try {
-            // On récupère le fichier JSON (ajoute un timestamp pour éviter le cache)
-            const response = await fetch('data.json?t=' + Date.now());
-            const events = await response.json();
-            
-            const feed = document.getElementById('news-feed');
-            feed.innerHTML = ''; // On vide le flux actuel
+        let lastEventCount = 0;
+        const alertAudio = new Audio('https://www.soundjay.com/buttons/sounds/beep-01a.mp3');
 
-            events.forEach(event => {
-                // A. Ajouter l'élément dans le fil de gauche
-                const color = event.type === 'STRIKE' ? 'red' : 'blue';
-                const item = `
-                    <div class="border-l-2 border-${color}-500 pl-3 py-2 bg-${color}-500/5 mb-4 animate-pulse">
-                        <span class="text-${color}-500 font-bold block mb-1 text-[10px]">${event.time} | ${event.type}</span>
-                        <p class="leading-tight font-bold text-white">${event.title}</p>
-                        <p class="leading-tight text-zinc-400 text-[10px]">${event.desc}</p>
-                    </div>
-                `;
-                feed.innerHTML += item;
+        async function updateData() {
+            try {
+                const response = await fetch('data.json?t=' + Date.now());
+                const events = await response.json();
 
-                // B. Ajouter le marqueur sur la carte
-                const markerColor = event.type === 'STRIKE' ? '#ff4444' : '#44aaff';
-                const marker = L.circleMarker([event.lat, event.lng], {
-                    color: markerColor,
-                    fillColor: markerColor,
-                    fillOpacity: 0.8,
-                    radius: 8
-                }).addTo(map);
+                if (events.length > lastEventCount && lastEventCount !== 0) {
+                    triggerGlobalAlert();
+                }
+                lastEventCount = events.length;
+
+                const feed = document.getElementById('news-feed');
+                feed.innerHTML = '';
                 
-                marker.bindPopup(`<b>${event.title}</b><br>${event.desc}`);
-            });
-        } catch (e) {
-            console.error("Erreur de chargement des données:", e);
+                // On efface les anciens marqueurs
+                map.eachLayer((layer) => { if (!!layer.toGeoJSON) map.removeLayer(layer); });
+                L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}').addTo(map);
+
+                events.forEach(event => {
+                    // Ajout au flux
+                    const isStrike = event.type === 'STRIKE' || event.type === 'FIRE';
+                    const color = isStrike ? 'red' : 'blue';
+                    feed.innerHTML = `
+                        <div class="border-l-2 border-${color}-600 pl-3 py-2 bg-${color}-900/10 mb-3">
+                            <div class="text-[9px] text-zinc-500">${event.time} UTC</div>
+                            <div class="font-bold text-white uppercase">${event.title}</div>
+                            <div class="text-[10px] text-zinc-400">${event.desc}</div>
+                        </div>
+                    ` + feed.innerHTML;
+
+                    // Ajout Marqueur
+                    L.circleMarker([event.lat, event.lng], {
+                        color: isStrike ? '#ff4444' : '#44aaff',
+                        radius: isStrike ? 10 : 6,
+                        className: isStrike ? 'pulse-icon' : ''
+                    }).addTo(map).bindPopup(event.title);
+                });
+            } catch (e) { console.log("Waiting for data..."); }
         }
-    }
 
-    // 3. Mise à jour de l'horloge
-    function updateClock() {
-        const now = new Date();
-        document.getElementById('clock').innerText = now.toISOString().split('T')[1].split('.')[0] + " UTC";
-    }
+        function triggerGlobalAlert() {
+            document.body.classList.add('flash-red');
+            setTimeout(() => document.body.classList.remove('flash-red'), 600);
+            alertAudio.play().catch(() => {});
+            document.getElementById('sync-status').innerText = "NEW DATA RECEIVED";
+            setTimeout(() => document.getElementById('sync-status').innerText = "Satellite Sync: OK", 5000);
+        }
 
-    // Lancer les fonctions
-    setInterval(updateClock, 1000);
-    setInterval(loadData, 30000); // Recharge les données toutes les 30 secondes
-    updateClock();
-    loadData();
-</script>
+        setInterval(updateData, 15000);
+        updateData();
+    </script>
+</body>
+</html>
