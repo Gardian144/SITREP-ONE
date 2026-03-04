@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>SITREP-ONE | FRENCH FORCES</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body { background: #050a10; color: #3b82f6; font-family: 'JetBrains Mono', monospace; }
+        #map { height: 600px; width: 100%; border: 1px solid #1e3a8a; filter: hue-rotate(180deg) brightness(0.8); }
+        .base-label { background: rgba(0,0,0,0.8); color: white; border: 1px solid #3b82f6; padding: 2px 5px; font-size: 10px; }
+    </style>
+</head>
+<body class="p-4">
+    <div class="flex justify-between items-center mb-4 border-b border-blue-900 pb-2">
+        <h1 class="text-xl font-bold uppercase tracking-widest text-blue-400">Opérations Françaises - Zone Moyen-Orient</h1>
+        <a href="index.html" class="text-xs border border-blue-400 px-3 py-1 hover:bg-blue-400 hover:text-black">RETOUR MONITORING</a>
+    </div>
+
+    <div class="grid grid-cols-3 gap-4">
+        <div class="col-span-2 bg-black/40 p-2 border border-blue-900">
+            <div id="map"></div>
+        </div>
+        <div class="space-y-4">
+            <div class="bg-blue-900/10 p-4 border border-blue-800">
+                <h2 class="text-sm font-bold underline mb-2">ORDRE DE BATAILLE (ORBAT)</h2>
+                <ul class="text-[11px] space-y-2 text-zinc-300">
+                    <li>🚢 <span class="text-blue-400 font-bold">GAN (Porte-avions)</span> : En transit Méditerranée Est</li>
+                    <li>✈️ <span class="text-blue-400 font-bold">BAP Jordanie</span> : 6x Rafale (Opération Chammal)</li>
+                    <li>⚓ <span class="text-blue-400 font-bold">FFDJ Djibouti</span> : Dispositif permanent</li>
+                </ul>
+            </div>
+            <div class="bg-red-900/10 p-4 border border-red-800">
+                <h2 class="text-sm font-bold text-red-500 mb-2">DERNIÈRES INTERCEPTIONS</h2>
+                <div class="text-[10px] italic text-zinc-400">"Frégate multi-missions : Destruction drone Houthi (Mer Rouge)"</div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        const map = L.map('map').setView([25.0, 45.0], 4);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
+
+        // Bases Militaires Françaises
+        const bases = [
+            { name: "BAP JORDANIÉ (Rafale)", coords: [31.8, 36.8] },
+            { name: "BASE NAVALE ABU DHABI", coords: [24.4, 54.3] },
+            { name: "FFDJ DJIBOUTI", coords: [11.5, 43.1] }
+        ];
+
+        bases.forEach(b => {
+            L.marker(b.coords).addTo(map).bindTooltip(b.name, { permanent: true, className: 'base-label' });
+        });
+
+        // Icone pour navire
+        const shipIcon = L.divIcon({ html: '🚢', className: 'text-2xl', iconAnchor: [12, 12] });
+        L.marker([34.0, 30.0], {icon: shipIcon}).addTo(map).bindPopup("Groupe Aéronaval Français (En mission)");
+    </script>
+</body>
+</html>
