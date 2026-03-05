@@ -1,20 +1,54 @@
-[
-  {
-    "id": 1,
-    "time": "20:45",
-    "lat": 35.6892,
-    "lng": 51.3890,
-    "title": "ALERTE TÉHÉRAN",
-    "desc": "Interception de drone au-dessus du QG des Gardiens.",
-    "type": "STRIKE"
+{
+  "last_update": "05/03 21:41",
+  "impacts": [],
+  "news": [
+    "IRAN : Déploiement de nouvelles batteries de missiles S-300 près de Bandar Abbas.",
+    "FRANCE : Décollage de 2 Rafale de la BAP Jordanie pour une mission ISR sur la zone Syrie.",
+    "UKRAINE : Détection de mouvements de troupes russes majeurs dans le secteur de Pokrovsk."
+  ],
+  "france": {
+    "exercices": [
+      "EXERCICE SHIKRA : Entraînement au combat aérien (J-2)",
+      "MISSION CHAMMAL : Frappes de précision"
+    ],
+    "forces": [
+      {
+        "n": "Charles de Gaulle (R91)",
+        "p": [
+          34.5,
+          30.1
+        ],
+        "t": "Porte-avions",
+        "s": "ALERTE 15MIN"
+      },
+      {
+        "n": "FREMM Alsace",
+        "p": [
+          14.1,
+          42.5
+        ],
+        "t": "Frégate AA",
+        "s": "ENGAGEMENT ACTIF"
+      },
+      {
+        "n": "BAP Jordanie",
+        "p": [
+          31.8,
+          36.8
+        ],
+        "t": "Base Aérienne",
+        "s": "6x RAFALE EN VOL"
+      },
+      {
+        "n": "FFDJ Djibouti",
+        "p": [
+          11.6,
+          43.1
+        ],
+        "t": "Base Interarmées",
+        "s": "1500 PAX - OPÉRATIONNEL"
+      }
+    ]
   },
-  {
-    "id": 2,
-    "time": "19:12",
-    "lat": 27.1833,
-    "lng": 56.2667,
-    "title": "MOUVEMENT NAVAL",
-    "desc": "Trois navires de classe Alvand quittent Bandar Abbas.",
-    "type": "NAVY"
-  }
-]
+  "emergency": false
+}
