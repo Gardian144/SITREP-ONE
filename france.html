@@ -1,57 +1,20 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EMA // DISPOSITIF</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <style>
-        body { background: #020617; color: #93c5fd; font-family: 'JetBrains Mono'; height: 100vh; }
-        .card { background: rgba(15, 23, 42, 0.9); border: 1px solid #1e3a8a; }
-    </style>
-</head>
-<body class="flex flex-col p-2 gap-2">
-    <header class="p-3 card flex justify-between items-center">
-        <h1 class="text-xs font-bold uppercase tracking-widest text-white">EMA // DISPOSITIF NATIONAL</h1>
-        <a href="index.html" class="bg-blue-600 text-white text-[10px] px-3 py-1">RETOUR GLOBAL</a>
-    </header>
-
-    <div class="flex-grow flex gap-2">
-        <div class="w-1/3 flex flex-col gap-2">
-            <div class="card p-4 flex-grow overflow-y-auto">
-                <h2 class="text-blue-400 text-[10px] font-bold mb-4">MISSIONS AÉRIENNES (24H)</h2>
-                <div id="air-ops" class="space-y-3"></div>
+<script>
+    async function updateFrance() {
+        const res = await fetch('data.json');
+        const d = await res.json();
+        const list = document.getElementById('info-panel'); // ou ton id de liste
+        
+        // On affiche les missions aériennes
+        const airHtml = d.france.map(f => `
+            <div class="p-2 bg-blue-900/20 border-l-2 border-blue-500 mb-2 text-[10px]">
+                <b class="text-white">${f.n}</b><br>${f.m}
             </div>
-            <div class="card p-3 text-[10px] border-l-4 border-blue-500">
-                <b class="text-white">ALERTE :</b> Surveillance renforcée suite aux mouvements US en zone.
-            </div>
-        </div>
-        <div id="map" class="flex-grow card"></div>
-    </div>
+        `).join('');
+        document.getElementById('air-feed-container').innerHTML = airHtml;
 
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script>
-        const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([30, 35], 4);
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
-
-        async function refresh() {
-            const r = await fetch('data.json');
-            const d = await r.json();
-            const air = document.getElementById('air-ops'); air.innerHTML = '';
-            
-            d.france_ops.air.forEach(m => {
-                air.innerHTML += `<div class="p-2 bg-blue-900/10 border-l border-blue-400">
-                    <b class="text-white">${m.n}</b><br>Mission: ${m.m}
-                </div>`;
-                L.polyline(m.path, {color: '#60a5fa', weight: 2}).addTo(map);
-            });
-
-            d.france_ops.navy.forEach(s => {
-                L.circleMarker(s.p, {radius: 7, color: '#fff', fillColor: '#2563eb', fillOpacity: 1}).addTo(map).bindTooltip(s.n);
-            });
-        }
-        refresh();
-    </script>
-</body>
-</html>
+        d.france.forEach(f => {
+            L.circleMarker(f.p, {radius: 6, color: '#60a5fa'}).addTo(map).bindTooltip(f.n);
+        });
+    }
+    updateFrance();
+</script>
