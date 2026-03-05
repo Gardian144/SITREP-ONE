@@ -1,7 +1,7 @@
 name: TACTICAL_SCANNER
 on:
   schedule:
-    - cron: '*/30 * * * *' # S'exécute automatiquement toutes les 30 minutes
+    - cron: '*/15 * * * *' # S'exécute automatiquement toutes les 15 minutes
   workflow_dispatch:      # Permet de cliquer sur le bouton "Run workflow" pour tester
 
 jobs:
