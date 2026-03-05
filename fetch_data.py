@@ -5,26 +5,40 @@ NASA_KEY = "3a967f64858b76c839f9b5a805a50785"
 AREA = "20,10,65,45"
 
 def get_war_news():
-    """Récupère les dépêches militaires réelles (Opex360)"""
-    news_list = []
-    headers = {'User-Agent': 'Mozilla/5.0'} # Pour éviter le blocage GitHub
+    """Récupère et classe les news par importance tactique"""
+    news_output = []
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    
+    # Mots-clés de haute priorité
+    critical_keywords = ["GUERRE", "EXPLOSION", "FRAPPE", "MISSILE", "INVASION", "LIBAN", "ISRAËL", "COMBAT", "OFFENSIVE", "ALERTE", "DRONE"]
+
     try:
-        # Flux de Zone Militaire (très réactif sur les conflits)
         rss_url = "https://www.opex360.com/feed/"
         r = requests.get(rss_url, headers=headers, timeout=15)
         root = ET.fromstring(r.content)
         
-        for item in root.findall('./channel/item')[:12]:
+        for item in root.findall('./channel/item')[:15]:
             title = item.find('title').text
-            # On formate pour que ça claque sur l'interface
-            news_list.append(f"FLASH_INFO : {title.upper()}")
+            title_upper = title.upper()
+            
+            # Détection du niveau d'urgence
+            is_urgent = any(word in title_upper for word in critical_keywords)
+            
+            # On crée un objet structuré pour le JSON
+            news_output.append({
+                "text": title.upper(),
+                "urgent": is_urgent
+            })
+            
+        # On trie pour mettre les urgents en haut de liste
+        news_output.sort(key=lambda x: x['urgent'], reverse=True)
+        return news_output
+
     except Exception as e:
-        # Flux de secours si le premier tombe
-        news_list = ["ALERTE : MISE À JOUR DU FLUX TACTIQUE EN COURS..."]
-    return news_list
+        return [{"text": "LIAISON AGENCE INTERROMPUE - RECONNEXION...", "urgent": True}]
 
 def get_full_intel():
-    # 1. IMPACTS NASA (Les points rouges sur la carte)
+    # 1. IMPACTS NASA (Points rouges)
     impacts = []
     try:
         url = f"https://firms.modaps.eosdis.nasa.gov/api/area/csv/{NASA_KEY}/VIIRS_SNPP_NRT/{AREA}/1"
@@ -35,10 +49,10 @@ def get_full_intel():
             impacts.append({"lat": float(c[0]), "lng": float(c[1]), "time": f"{c[6][:2]}:{c[6][2:]}"})
     except: pass
 
-    # 2. NEWS RÉELLES
+    # 2. NEWS RÉELLES (Classées par importance)
     live_news = get_war_news()
     
-    # 3. DISPOSITIF FRANCE (On garde tes bases stratégiques)
+    # 3. DISPOSITIF FRANCE
     france_db = {
         "exercices": [
             "OPÉRATION CHAMMAL : Appui aérien quotidien Irak/Syrie.",
