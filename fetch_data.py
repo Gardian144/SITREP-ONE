@@ -9,8 +9,14 @@ def get_war_news():
     news_output = []
     headers = {'User-Agent': 'Mozilla/5.0'}
     
-    # Mots-clés de haute priorité
-    critical_keywords = ["GUERRE", "EXPLOSION", "FRAPPE", "MISSILE", "INVASION", "LIBAN", "ISRAËL", "COMBAT", "OFFENSIVE", "ALERTE", "DRONE"]
+    # Mots-clés de haute priorité (Style Chaîne d'info)
+    critical_keywords = [
+        "GUERRE", "EXPLOSION", "FRAPPE", "MISSILE", "INVASION", "LIBAN", 
+        "ISRAËL", "COMBAT", "OFFENSIVE", "ALERTE", "DRONE", "SOUS-MARIN",
+        "COULÉ", "NAVIR", "TORPILLE", "ATTAQUE", "FEU", "MORT", "CONFLIT",
+        "NUCLÉAIRE", "URGENT", "BREAKING", "TSARHAL", "HEZBOLLAH", "IRAN",
+        "BOMBARDEMENT", "FRONT", "SABOTAGE", "BALISTIQUE", "INTERCEPTION"
+    ]
 
     try:
         rss_url = "https://www.opex360.com/feed/"
@@ -24,21 +30,19 @@ def get_war_news():
             # Détection du niveau d'urgence
             is_urgent = any(word in title_upper for word in critical_keywords)
             
-            # On crée un objet structuré pour le JSON
             news_output.append({
                 "text": title.upper(),
                 "urgent": is_urgent
             })
             
-        # On trie pour mettre les urgents en haut de liste
+        # Tri : Les urgents en premier
         news_output.sort(key=lambda x: x['urgent'], reverse=True)
         return news_output
 
-    except Exception as e:
-        return [{"text": "LIAISON AGENCE INTERROMPUE - RECONNEXION...", "urgent": True}]
+    except Exception:
+        return [{"text": "ERREUR SYNC FLUX : RECONNEXION SATELLITE...", "urgent": True}]
 
 def get_full_intel():
-    # 1. IMPACTS NASA (Points rouges)
     impacts = []
     try:
         url = f"https://firms.modaps.eosdis.nasa.gov/api/area/csv/{NASA_KEY}/VIIRS_SNPP_NRT/{AREA}/1"
@@ -49,10 +53,8 @@ def get_full_intel():
             impacts.append({"lat": float(c[0]), "lng": float(c[1]), "time": f"{c[6][:2]}:{c[6][2:]}"})
     except: pass
 
-    # 2. NEWS RÉELLES (Classées par importance)
     live_news = get_war_news()
     
-    # 3. DISPOSITIF FRANCE
     france_db = {
         "exercices": [
             "OPÉRATION CHAMMAL : Appui aérien quotidien Irak/Syrie.",
