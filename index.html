@@ -54,13 +54,37 @@
             try {
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
+                
                 document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
                 if(d.emergency) document.body.classList.add('emergency-mode');
+
+                // 1. Mise à jour des News avec gestion de l'urgence
                 const feed = document.getElementById('news-feed');
-                feed.innerHTML = d.news.map(n => `<div class="p-3 bg-red-900/10 border-l-2 border-red-600 text-[10px]"><span class="text-red-500 font-bold">[ALERTE CLASSIFIED]</span><br><span class="text-white">${n}</span></div>`).join('');
+                feed.innerHTML = d.news.map(n => `
+                    <div class="p-3 ${n.urgent ? 'bg-red-900/30 border-l-4 border-red-600 animate-pulse' : 'bg-red-900/10 border-l-2 border-red-600'} text-[10px] mb-2">
+                        <span class="text-red-500 font-bold">[${n.urgent ? 'PRIORITÉ ALPHA' : 'INFO CLASSIFIED'}]</span><br>
+                        <span class="text-white">${n.text}</span>
+                    </div>
+                `).join('');
+
+                // 2. Nettoyage et mise à jour de la carte
                 map.eachLayer(l => { if(l instanceof L.CircleMarker) map.removeLayer(l); });
-                d.impacts.forEach(a => { L.circleMarker([a.lat, a.lng], {radius: 6, color: 'red', fillOpacity: 0.8}).addTo(map).bindTooltip("IMPACT RÉEL @ " + a.time); });
-            } catch(e) { console.error("Sync fail"); }
+
+                // IMPACTS RÉELS (Rouge)
+                d.impacts.forEach(a => { 
+                    L.circleMarker([a.lat, a.lng], {radius: 7, color: '#ff0000', fillColor: '#ff4444', fillOpacity: 0.9})
+                     .addTo(map)
+                     .bindTooltip("IMPACT RÉEL @ " + a.time); 
+                });
+
+                // BASES FRANÇAISES (Bleu) - Pour que la carte ne soit jamais vide
+                d.france.forces.forEach(u => {
+                    L.circleMarker(u.p, {radius: 5, color: '#0088ff', fillColor: '#0044ff', fillOpacity: 0.7, weight: 1})
+                     .addTo(map)
+                     .bindTooltip("DISPOSITIF : " + u.n);
+                });
+
+            } catch(e) { console.error("Sync fail", e); }
         }
         setInterval(refreshData, 30000); refreshData();
     </script>
