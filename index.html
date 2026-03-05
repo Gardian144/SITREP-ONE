@@ -2,37 +2,47 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>SITREP-ONE // COMMAND</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
-        body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; overflow: hidden; height: 100vh; }
+        body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; overflow: hidden; height: 100vh; display: flex; flex-direction: column; }
         #map { height: 100%; background: #000 !important; }
         .panel { background: rgba(0, 10, 0, 0.9); border: 1px solid #004411; }
         .emergency-mode { background: #1a0000; animation: flash 1s infinite; }
         @keyframes flash { 0% { box-shadow: inset 0 0 50px #f00; } 50% { box-shadow: inset 0 0 100px #400; } 100% { box-shadow: inset 0 0 50px #f00; } }
+
+        /* Ajustement Mobile */
+        #main-container { display: flex; flex-grow: 1; overflow: hidden; }
+        @media (max-width: 768px) {
+            #main-container { flex-direction: column; overflow-y: auto; }
+            aside { width: 100% !important; height: 350px !important; order: 2; }
+            #map-container { height: 40vh; min-height: 300px; order: 1; }
+        }
     </style>
 </head>
 <body class="flex flex-col">
-    <header class="p-3 panel flex justify-between items-center">
+    <header class="p-3 panel flex justify-between items-center shrink-0">
         <div class="flex items-center gap-3">
             <div class="w-2 h-2 bg-red-600 rounded-full animate-ping"></div>
-            <h1 class="text-xs font-bold tracking-widest uppercase">SITREP-ONE // SYSTEM_ACTIVE</h1>
+            <h1 class="text-[10px] md:text-xs font-bold tracking-widest uppercase">SITREP-ONE // SYSTEM_ACTIVE</h1>
         </div>
         <div class="flex gap-4 items-center">
-            <span id="update-time" class="text-[10px] opacity-50">SYNC: --:--</span>
-            <a href="france.html" class="bg-blue-900 px-3 py-1 text-[10px] text-white font-bold">UNITÉ FRANCE</a>
+            <span id="update-time" class="text-[9px] md:text-[10px] opacity-50">SYNC: --:--</span>
+            <a href="france.html" class="bg-blue-900 px-2 md:px-3 py-1 text-[9px] md:text-[10px] text-white font-bold">UNITÉ FRANCE</a>
         </div>
     </header>
 
-    <div class="flex-grow flex relative overflow-hidden">
-        <aside class="w-80 panel p-4 z-[1000] flex flex-col">
+    <div id="main-container" class="relative">
+        <aside class="w-80 panel p-4 z-[1000] flex flex-col shrink-0">
             <h2 class="text-[10px] font-bold text-red-500 mb-4 border-b border-red-900">INTEL_STREAM (24H)</h2>
-            <div id="news-feed" class="space-y-4 overflow-y-auto flex-grow">
-                </div>
+            <div id="news-feed" class="space-y-4 overflow-y-auto flex-grow"></div>
         </aside>
-        <div id="map" class="flex-grow"></div>
+        <div id="map-container" class="flex-grow">
+            <div id="map"></div>
+        </div>
     </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -41,27 +51,16 @@
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
         async function refreshData() {
-            const r = await fetch('data.json?v=' + Date.now());
-            const d = await r.json();
-
-            document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
-            if(d.emergency) document.body.classList.add('emergency-mode');
-
-            // Panneau de News
-            const feed = document.getElementById('news-feed');
-            feed.innerHTML = d.news.map(n => `
-                <div class="p-3 bg-red-900/10 border-l-2 border-red-600 text-[10px]">
-                    <span class="text-red-500 font-bold">[ALERTE CLASSIFIED]</span><br>
-                    <span class="text-white">${n}</span>
-                </div>
-            `).join('');
-
-            // Carte
-            map.eachLayer(l => { if(l instanceof L.CircleMarker) map.removeLayer(l); });
-            d.impacts.forEach(a => {
-                L.circleMarker([a.lat, a.lng], {radius: 6, color: 'red', fillOpacity: 0.8}).addTo(map)
-                 .bindTooltip("IMPACT RÉEL @ " + a.time);
-            });
+            try {
+                const r = await fetch('data.json?v=' + Date.now());
+                const d = await r.json();
+                document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
+                if(d.emergency) document.body.classList.add('emergency-mode');
+                const feed = document.getElementById('news-feed');
+                feed.innerHTML = d.news.map(n => `<div class="p-3 bg-red-900/10 border-l-2 border-red-600 text-[10px]"><span class="text-red-500 font-bold">[ALERTE CLASSIFIED]</span><br><span class="text-white">${n}</span></div>`).join('');
+                map.eachLayer(l => { if(l instanceof L.CircleMarker) map.removeLayer(l); });
+                d.impacts.forEach(a => { L.circleMarker([a.lat, a.lng], {radius: 6, color: 'red', fillOpacity: 0.8}).addTo(map).bindTooltip("IMPACT RÉEL @ " + a.time); });
+            } catch(e) { console.error("Sync fail"); }
         }
         setInterval(refreshData, 30000); refreshData();
     </script>
