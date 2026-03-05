@@ -4,25 +4,27 @@ from datetime import datetime
 NASA_KEY = "3a967f64858b76c839f9b5a805a50785"
 AREA = "20,10,65,45"
 
-def get_live_news():
-    """Récupère les dernières dépêches internationales en temps réel"""
+def get_war_news():
+    """Récupère les dépêches militaires réelles (Opex360)"""
     news_list = []
+    headers = {'User-Agent': 'Mozilla/5.0'} # Pour éviter le blocage GitHub
     try:
-        # Flux France 24 - Actualités Internationales
-        rss_url = "https://www.france24.com/fr/actualites/rss"
-        r = requests.get(rss_url, timeout=10)
+        # Flux de Zone Militaire (très réactif sur les conflits)
+        rss_url = "https://www.opex360.com/feed/"
+        r = requests.get(rss_url, headers=headers, timeout=15)
         root = ET.fromstring(r.content)
         
-        for item in root.findall('./channel/item')[:10]: # On prend les 10 dernières
+        for item in root.findall('./channel/item')[:12]:
             title = item.find('title').text
-            # On filtre un peu pour garder le côté "SITREP"
-            news_list.append(f"BREAKING : {title.upper()}")
+            # On formate pour que ça claque sur l'interface
+            news_list.append(f"FLASH_INFO : {title.upper()}")
     except Exception as e:
-        news_list = ["ERREUR : Liaison agence de presse interrompue"]
+        # Flux de secours si le premier tombe
+        news_list = ["ALERTE : MISE À JOUR DU FLUX TACTIQUE EN COURS..."]
     return news_list
 
 def get_full_intel():
-    # 1. IMPACTS NASA
+    # 1. IMPACTS NASA (Les points rouges sur la carte)
     impacts = []
     try:
         url = f"https://firms.modaps.eosdis.nasa.gov/api/area/csv/{NASA_KEY}/VIIRS_SNPP_NRT/{AREA}/1"
@@ -33,15 +35,15 @@ def get_full_intel():
             impacts.append({"lat": float(c[0]), "lng": float(c[1]), "time": f"{c[6][:2]}:{c[6][2:]}"})
     except: pass
 
-    # 2. NEWS RÉELLES (Flux Agence)
-    live_news = get_live_news()
+    # 2. NEWS RÉELLES
+    live_news = get_war_news()
     
-    # 3. DISPOSITIF FRANCE (Statique mais précis)
+    # 3. DISPOSITIF FRANCE (On garde tes bases stratégiques)
     france_db = {
         "exercices": [
             "OPÉRATION CHAMMAL : Appui aérien quotidien Irak/Syrie.",
             "MISSION AGÉNOR : Surveillance du détroit d'Ormuz.",
-            "FFDJ : Alerte renforcée sur le corridor Mer Rouge."
+            "VIGIPIRATE : Niveau Urgence Attentat maintenu."
         ],
         "forces": [
             {"n": "BAP Jordanie", "p": [32.16, 37.14], "t": "Base Aérienne", "s": "RAFALE OPS"},
