@@ -1,52 +1,65 @@
 {
-  "last_update": "05/03 21:41",
+  "last_update": "05/03 21:53",
   "impacts": [],
   "news": [
-    "IRAN : Déploiement de nouvelles batteries de missiles S-300 près de Bandar Abbas.",
-    "FRANCE : Décollage de 2 Rafale de la BAP Jordanie pour une mission ISR sur la zone Syrie.",
-    "UKRAINE : Détection de mouvements de troupes russes majeurs dans le secteur de Pokrovsk."
+    "FRANCE : La frégate 'Alsace' confirme la destruction de drones hostiles en Mer Rouge.",
+    "US NAVY : Le porte-avions USS Abraham Lincoln est entré en zone de responsabilité Alindien.",
+    "IRAN : Activité inhabituelle détectée sur le pas de tir de Semnan (Imagerie Satellite).",
+    "JORDANIE : Rotation de 2 Rafale français sur la BAP Prince-Hassan.",
+    "DJIBOUTI : Exercice de sécurisation du détroit de Bab-el-Mandeb par les FFDj.",
+    "ISRAËL : Alerte interception secteur Galilée - Systèmes de défense actifs."
   ],
   "france": {
     "exercices": [
-      "EXERCICE SHIKRA : Entraînement au combat aérien (J-2)",
-      "MISSION CHAMMAL : Frappes de précision"
+      "OPÉRATION CHAMMAL : Appui aérien quotidien sur la zone Irak/Syrie.",
+      "MISSION AGÉNOR : Protection du trafic maritime civil (Détroit d'Ormuz).",
+      "POSTURE SENTINELLE : 7 000 militaires en alerte sur le territoire national."
     ],
     "forces": [
       {
-        "n": "Charles de Gaulle (R91)",
+        "n": "BAP Jordanie (Prince-Hassan)",
+        "p": [
+          32.1608,
+          37.1497
+        ],
+        "t": "Base Aérienne Projetée",
+        "s": "RAFALE / OPS"
+      },
+      {
+        "n": "BA 188 Djibouti",
+        "p": [
+          11.5469,
+          43.1514
+        ],
+        "t": "Base de Soutien",
+        "s": "VIGILANCE MER ROUGE"
+      },
+      {
+        "n": "Base Navale Port Zayed",
+        "p": [
+          24.5244,
+          54.3725
+        ],
+        "t": "Base Navale",
+        "s": "ALINDIEN"
+      },
+      {
+        "n": "GAN (Charles de Gaulle)",
         "p": [
           34.5,
           30.1
         ],
         "t": "Porte-avions",
-        "s": "ALERTE 15MIN"
+        "s": "DÉPLOIEMENT EN COURS"
       },
       {
-        "n": "FREMM Alsace",
+        "n": "FFDJ (Forces Djibouti)",
         "p": [
-          14.1,
-          42.5
+          11.59,
+          43.14
         ],
-        "t": "Frégate AA",
-        "s": "ENGAGEMENT ACTIF"
-      },
-      {
-        "n": "BAP Jordanie",
-        "p": [
-          31.8,
-          36.8
-        ],
-        "t": "Base Aérienne",
-        "s": "6x RAFALE EN VOL"
-      },
-      {
-        "n": "FFDJ Djibouti",
-        "p": [
-          11.6,
-          43.1
-        ],
-        "t": "Base Interarmées",
-        "s": "1500 PAX - OPÉRATIONNEL"
+        "t": "Infanterie/Terre",
+        "s": "OPÉRATIONNEL"
       }
     ]
   },
