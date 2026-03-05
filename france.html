@@ -1,60 +1,57 @@
-<body>
-    <header class="flex justify-between items-center px-4 py-2 tactical-panel border-b-2 border-blue-600">
-        <div class="flex items-center gap-3 font-[Orbitron]">
-            <div class="w-2 h-2 bg-blue-600 rounded-full animate-pulse shadow-[0_0_8px_#2563eb]"></div>
-            <h1 class="text-xs md:text-sm tracking-widest font-bold">EMA // DISPOSITIF FRANCE</h1>
-        </div>
-        <a href="index.html" class="cmd-btn">RETOUR GLOBAL</a>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EMA // DISPOSITIF</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body { background: #020617; color: #93c5fd; font-family: 'JetBrains Mono'; height: 100vh; }
+        .card { background: rgba(15, 23, 42, 0.9); border: 1px solid #1e3a8a; }
+    </style>
+</head>
+<body class="flex flex-col p-2 gap-2">
+    <header class="p-3 card flex justify-between items-center">
+        <h1 class="text-xs font-bold uppercase tracking-widest text-white">EMA // DISPOSITIF NATIONAL</h1>
+        <a href="index.html" class="bg-blue-600 text-white text-[10px] px-3 py-1">RETOUR GLOBAL</a>
     </header>
 
-    <main id="main-grid" class="flex-grow grid grid-cols-12 gap-2 p-2">
-        <section class="col-span-12 md:col-span-8 tactical-panel relative h-[50vh] md:h-full">
-            <div id="map"></div>
-        </section>
-
-        <aside class="col-span-12 md:col-span-4 flex flex-col gap-2 overflow-hidden">
-            <div class="tactical-panel p-3 overflow-y-auto h-1/2">
-                <h2 class="text-[10px] font-bold text-blue-400 border-b border-blue-900 pb-1 mb-2">ACTIVITÉ AÉRIENNE DU JOUR</h2>
-                <div id="air-feed" class="space-y-2"></div>
+    <div class="flex-grow flex gap-2">
+        <div class="w-1/3 flex flex-col gap-2">
+            <div class="card p-4 flex-grow overflow-y-auto">
+                <h2 class="text-blue-400 text-[10px] font-bold mb-4">MISSIONS AÉRIENNES (24H)</h2>
+                <div id="air-ops" class="space-y-3"></div>
             </div>
-            <div class="tactical-panel p-3 overflow-y-auto h-1/2 border-l-2 border-blue-500">
-                <h2 class="text-[10px] font-bold text-white mb-2">ORDRE DE BATAILLE NAVAL</h2>
-                <div id="navy-feed" class="space-y-2"></div>
+            <div class="card p-3 text-[10px] border-l-4 border-blue-500">
+                <b class="text-white">ALERTE :</b> Surveillance renforcée suite aux mouvements US en zone.
             </div>
-        </aside>
-    </main>
+        </div>
+        <div id="map" class="flex-grow card"></div>
+    </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        const map = L.map('map', { zoomControl: false, attributionControl: false }).setView([25, 42], 4);
+        const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([30, 35], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        async function update() {
-            const res = await fetch('data.json?v=' + Date.now());
-            const data = await res.json();
+        async function refresh() {
+            const r = await fetch('data.json');
+            const d = await r.json();
+            const air = document.getElementById('air-ops'); air.innerHTML = '';
             
-            // Update Air Feed
-            const air = document.getElementById('air-feed');
-            air.innerHTML = data.tactical.air_ops.map(op => `
-                <div class="text-[9px] p-2 bg-blue-900/10 border-l border-blue-400">
-                    <b class="text-white">${op.unit}</b> - ${op.mission}<br>
-                    <span class="text-blue-300">SECTEUR : ${op.zone}</span>
-                </div>
-            `).join('');
+            d.france_ops.air.forEach(m => {
+                air.innerHTML += `<div class="p-2 bg-blue-900/10 border-l border-blue-400">
+                    <b class="text-white">${m.n}</b><br>Mission: ${m.m}
+                </div>`;
+                L.polyline(m.path, {color: '#60a5fa', weight: 2}).addTo(map);
+            });
 
-            // Update Navy Feed & Map
-            const navy = document.getElementById('navy-feed');
-            navy.innerHTML = '';
-            data.tactical.navy.forEach(s => {
-                navy.innerHTML += `
-                    <div class="text-[9px] p-2 bg-slate-900/50">
-                        <b class="text-blue-400">${s.n}</b><br>
-                        ACTION : ${s.act}
-                    </div>`;
-                L.circleMarker([s.lat, s.lng], {radius: 6, color: '#2563eb', fillOpacity: 0.8})
-                 .addTo(map).bindTooltip(s.n, {permanent: true, className: 'base-label'});
+            d.france_ops.navy.forEach(s => {
+                L.circleMarker(s.p, {radius: 7, color: '#fff', fillColor: '#2563eb', fillOpacity: 1}).addTo(map).bindTooltip(s.n);
             });
         }
-        update();
+        refresh();
     </script>
 </body>
+</html>
