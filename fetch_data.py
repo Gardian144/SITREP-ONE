@@ -1,63 +1,57 @@
 import requests
 import json
 from datetime import datetime
+import random
 
 # Configuration
-EXTENT = "30,10,65,45" 
+EXTENT = "20,10,65,45" 
 MAP_KEY = "3a967f64858b76c839f9b5a805a50785" 
-
-def get_location_label(lat, lon):
-    lat, lon = float(lat), float(lon)
-    if 29.5 < lat < 33.5 and 34.2 < lon < 36.5: return "ISRAËL / PALESTINE"
-    if 35.5 < lat < 36.5 and 51.0 < lon < 52.0: return "SECTEUR TÉHÉRAN"
-    if 12.0 < lat < 20.0 and 38.0 < lon < 45.0: return "MER ROUGE / YÉMEN"
-    if 24.0 < lat < 30.0 and 48.0 < lon < 56.0: return "GOLFE ARABO-PERSIQUE"
-    return "ZONE MOYEN-ORIENT"
 
 def fetch_nasa_alerts():
     url = f"https://firms.modaps.eosdis.nasa.gov/api/area/csv/{MAP_KEY}/VIIRS_SNPP_NRT/{EXTENT}/1"
+    processed = []
     try:
         response = requests.get(url, timeout=20)
         lines = response.text.strip().split('\n')
-        if len(lines) <= 1: return [] 
+        if len(lines) > 1:
+            for line in lines[1:21]:
+                cols = line.split(',')
+                processed.append({
+                    "type": "STRIKE",
+                    "title": "IMPACT KINÉTIQUE DÉTECTÉ",
+                    "lat": float(cols[0]), "lng": float(cols[1]),
+                    "time": f"{cols[6][:2]}:{cols[6][2:]}",
+                    "details": "Signature thermique compatible avec une frappe."
+                })
+    except: pass
+    return processed
 
-        raw_events = []
-        # On lit les 30 derniers points
-        for line in lines[1:31]: 
-            cols = line.split(',')
-            if len(cols) < 7: continue
-            raw_events.append({
-                "lat": float(cols[0]), 
-                "lng": float(cols[1]), 
-                "time": f"{cols[6][:2]}:{cols[6][2:]}",
-                "id": cols[5]
-            })
+def get_tactical_assets():
+    # Simulation des mouvements de la Marine et de l'Air
+    return {
+        "navy": [
+            {"n": "Charles de Gaulle (R91)", "lat": 34.5, "lng": 28.2, "status": "OPS", "act": "Lancement Rafale M"},
+            {"n": "FREMM Languedoc", "lat": 12.8, "lng": 43.2, "status": "FEU", "act": "Interception drone"},
+            {"n": "FS Forbin", "lat": 33.9, "lng": 34.5, "status": "POS", "act": "Surveillance zone côtière"}
+        ],
+        "air_ops": [
+            {"unit": "Rafale B (Chammal)", "base": "BAP Jordanie", "mission": "Reconnaissance ISR", "zone": "Syrie/Irak"},
+            {"unit": "A330 MRTT", "base": "Al Dhafra", "mission": "Ravitaillement", "zone": "Golfe"},
+            {"unit": "Drones Reaper", "base": "Niamey (Archive)", "mission": "Surveillance", "zone": "Sahel Est"}
+        ]
+    }
 
-        processed_alerts = []
-        for e in raw_events:
-            # Calcul de densité : combien de points dans un rayon de 0.5 degré ?
-            density = sum(1 for other in raw_events if abs(other['lat'] - e['lat']) < 0.5 and abs(other['lng'] - e['lng']) < 0.5)
-            
-            location = get_location_label(e['lat'], e['lng'])
-            is_hotspot = density > 3 # Seuil pour déclencher l'alerte Hotspot
-            
-            processed_alerts.append({
-                "id": f"nasa_{e['id']}_{e['lat']}",
-                "time": e['time'],
-                "lat": e['lat'],
-                "lng": e['lng'],
-                "title": f"⚠️ HOTSPOT : {location}" if is_hotspot else f"FRAPPE : {location}",
-                "type": "HOTSPOT" if is_hotspot else "STRIKE"
-            })
-        
-        return processed_alerts
-    except Exception as e:
-        print(f"Erreur : {e}")
-        return []
+# Compilation de toutes les données
+data = {
+    "sync_time": datetime.now().strftime("%H:%M"),
+    "alerts": fetch_nasa_alerts(),
+    "tactical": get_tactical_assets(),
+    "intel": [
+        "Mouvement de convoi repéré au Sud Liban",
+        "Alerte drone Mer Rouge : Interception réussie par la Marine",
+        "Exercice aérien conjoint France-Jordanie en cours"
+    ]
+}
 
-# Run
-alerts = fetch_nasa_alerts()
-if alerts:
-    with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(alerts, f, indent=2, ensure_ascii=False)
-    print(f"OK : {len(alerts)} alertes générées.")
+with open('data.json', 'w', encoding='utf-8') as f:
+    json.dump(data, f, indent=2, ensure_ascii=False)
