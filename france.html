@@ -2,102 +2,67 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>FRANCE // FORCE DE PROJECTION</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
-        body { background: #020617; color: #93c5fd; font-family: 'JetBrains Mono'; height: 100vh; overflow: hidden; }
+        body { background: #020617; color: #93c5fd; font-family: 'JetBrains Mono'; height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
         .card { background: rgba(15, 23, 42, 0.9); border: 1px solid #1e3a8a; }
-        /* Style des tooltips pour qu'ils fassent "militaire" */
         .leaflet-tooltip { background: #1e3a8a; color: white; border: 1px solid #93c5fd; font-family: 'JetBrains Mono'; font-size: 10px; }
+
+        #content-wrapper { display: flex; flex-grow: 1; gap: 8px; padding: 8px; overflow: hidden; }
+        @media (max-width: 768px) {
+            #content-wrapper { flex-direction: column; overflow-y: auto; }
+            aside { width: 100% !important; order: 2; }
+            #map-container { height: 40vh; min-height: 300px; order: 1; }
+        }
     </style>
 </head>
-<body class="flex flex-col p-2 gap-2">
-    <header class="p-3 card flex justify-between items-center">
-        <h1 class="text-xs font-bold text-white uppercase tracking-tighter">État-Major des Armées // SITREP FRANCE</h1>
-        <div class="flex items-center gap-4">
-            <span id="sync-status" class="text-[8px] text-blue-500 animate-pulse">RECEPTION SATELLITE...</span>
-            <a href="index.html" class="bg-blue-600 hover:bg-blue-500 transition-colors px-3 py-1 text-[10px] text-white font-bold">RETOUR QG</a>
+<body class="p-2 gap-2">
+    <header class="p-3 card flex justify-between items-center shrink-0">
+        <h1 class="text-[9px] md:text-xs font-bold text-white uppercase tracking-tighter">EMA // SITREP FRANCE</h1>
+        <div class="flex items-center gap-2 md:gap-4">
+            <span id="sync-status" class="text-[7px] md:text-[8px] text-blue-500 animate-pulse">SYNC...</span>
+            <a href="index.html" class="bg-blue-600 px-2 md:px-3 py-1 text-[9px] md:text-[10px] text-white font-bold">RETOUR QG</a>
         </div>
     </header>
 
-    <div class="flex-grow flex gap-2 overflow-hidden">
-        <aside class="w-1/3 flex flex-col gap-2">
+    <div id="content-wrapper">
+        <aside class="w-1/3 flex flex-col gap-2 shrink-0">
             <div class="card p-4 overflow-hidden flex flex-col h-1/2">
                 <h2 class="text-blue-400 text-[10px] font-bold mb-4 border-b border-blue-900 pb-1">ORDRE DE BATAILLE</h2>
-                <div id="unit-list" class="space-y-3 overflow-y-auto pr-2"></div>
+                <div id="unit-list" class="space-y-3 overflow-y-auto pr-2 text-[10px]"></div>
             </div>
-            
             <div class="card p-4 overflow-hidden flex flex-col h-1/2">
-                <h2 class="text-blue-400 text-[10px] font-bold mb-4 border-b border-blue-900 pb-1">EXERCICES & MISSIONS</h2>
+                <h2 class="text-blue-400 text-[10px] font-bold mb-4 border-b border-blue-900 pb-1">EXERCICES</h2>
                 <div id="exo-list" class="space-y-2 text-[10px] overflow-y-auto pr-2"></div>
             </div>
         </aside>
-
-        <div id="map" class="flex-grow card"></div>
+        <div id="map-container" class="flex-grow card">
+            <div id="map" style="height: 100%; width: 100%;"></div>
+        </div>
     </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // On centre un peu plus sur la zone d'intérêt (Méditerranée / Moyen-Orient)
         const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([25, 35], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
-
         let unitMarkers = L.layerGroup().addTo(map);
 
         async function updateFrance() {
             try {
-                // Le ?v=Date.now() force le navigateur à télécharger le nouveau JSON
                 const r = await fetch('data.json?v=' + Date.now());
-                if (!r.ok) throw new Error("Fichier data.json introuvable");
                 const d = await r.json();
-
-                // 1. Mise à jour de la liste des unités
-                const unitList = document.getElementById('unit-list');
-                unitList.innerHTML = d.france.forces.map(u => `
-                    <div class="p-2 bg-blue-900/20 border border-blue-800 hover:border-blue-400 transition-all cursor-crosshair">
-                        <div class="flex justify-between text-[10px] mb-1 font-bold">
-                            <span class="text-white">${u.n}</span>
-                            <span class="text-blue-400 text-[8px] px-1 bg-blue-900/50">${u.s}</span>
-                        </div>
-                        <div class="text-[9px] opacity-60 uppercase">${u.t}</div>
-                    </div>
-                `).join('');
-
-                // 2. Mise à jour des exercices
-                const exoList = document.getElementById('exo-list');
-                exoList.innerHTML = d.france.exercices.map(e => `
-                    <div class="p-2 border-l-2 border-blue-500 bg-blue-500/5 mb-1 text-blue-100 italic">
-                        ${e}
-                    </div>
-                `).join('');
-
-                // 3. Mise à jour de la carte (on vide et on remplit)
+                document.getElementById('unit-list').innerHTML = d.france.forces.map(u => `<div class="p-2 bg-blue-900/20 border border-blue-800"><div class="flex justify-between font-bold"><span>${u.n}</span><span class="text-blue-400 text-[8px]">${u.s}</span></div><div class="text-[9px] opacity-60 uppercase">${u.t}</div></div>`).join('');
+                document.getElementById('exo-list').innerHTML = d.france.exercices.map(e => `<div class="p-2 border-l-2 border-blue-500 bg-blue-500/5 mb-1 italic">${e}</div>`).join('');
                 unitMarkers.clearLayers();
-                d.france.forces.forEach(u => {
-                    L.circleMarker(u.p, {
-                        radius: 6, 
-                        color: '#fff', 
-                        weight: 1,
-                        fillColor: '#2563eb', 
-                        fillOpacity: 0.8
-                    })
-                    .addTo(unitMarkers)
-                    .bindTooltip(u.n, {permanent: false, direction: 'top'});
-                });
-
-                document.getElementById('sync-status').innerText = "UNITÉS SYNCHRONISÉES : " + d.last_update;
-
-            } catch (err) {
-                console.error("Erreur de liaison :", err);
-                document.getElementById('sync-status').innerText = "ERREUR DE LIAISON DATA";
-            }
+                d.france.forces.forEach(u => { L.circleMarker(u.p, {radius: 6, color: '#fff', weight: 1, fillColor: '#2563eb', fillOpacity: 0.8}).addTo(unitMarkers).bindTooltip(u.n); });
+                document.getElementById('sync-status').innerText = "UNITÉS OK : " + d.last_update;
+            } catch (err) { document.getElementById('sync-status').innerText = "SYNC ERR"; }
         }
-
-        // Relance la mise à jour toutes les 60 secondes pour voir les changements auto
-        setInterval(updateFrance, 60000);
-        updateFrance();
+        setInterval(updateFrance, 60000); updateFrance();
     </script>
 </body>
 </html>
