@@ -2,40 +2,35 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SITREP-ONE // GLOBAL</title>
+    <title>SITREP-ONE // COMMAND</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
-        body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; overflow: hidden; height: 100vh; transition: 0.5s; }
-        body.emergency { background: #1a0000; animation: flash 1s infinite; }
-        @keyframes flash { 0%, 100% { box-shadow: inset 0 0 50px #f00; } 50% { box-shadow: inset 0 0 100px #300; } }
+        body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; overflow: hidden; height: 100vh; }
         #map { height: 100%; background: #000 !important; }
         .panel { background: rgba(0, 10, 0, 0.9); border: 1px solid #004411; }
-        .animate-marquee { display: inline-block; animation: marquee 25s linear infinite; }
-        @keyframes marquee { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
+        .emergency-mode { background: #1a0000; animation: flash 1s infinite; }
+        @keyframes flash { 0% { box-shadow: inset 0 0 50px #f00; } 50% { box-shadow: inset 0 0 100px #400; } 100% { box-shadow: inset 0 0 50px #f00; } }
     </style>
 </head>
 <body class="flex flex-col">
-    <audio id="alarm-snd" src="https://www.soundjay.com/buttons/beep-01a.mp3"></audio>
-
-    <div class="bg-red-900/20 py-1 border-b border-red-900 overflow-hidden whitespace-nowrap">
-        <div id="ticker" class="animate-marquee text-[10px] uppercase font-bold text-red-500">SYNCHRONISATION SATELLITE EN COURS...</div>
-    </div>
-
-    <header class="p-3 panel flex justify-between items-center border-t-0">
-        <h1 class="font-bold text-xs tracking-widest">SITREP-ONE // OPS_CENTER</h1>
+    <header class="p-3 panel flex justify-between items-center">
+        <div class="flex items-center gap-3">
+            <div class="w-2 h-2 bg-red-600 rounded-full animate-ping"></div>
+            <h1 class="text-xs font-bold tracking-widest uppercase">SITREP-ONE // SYSTEM_ACTIVE</h1>
+        </div>
         <div class="flex gap-4 items-center">
-            <span id="threats" class="text-red-500 font-bold">00 IMPACTS</span>
-            <a href="france.html" class="bg-blue-900 border border-blue-400 px-3 py-1 text-[10px] text-white">UNITÉ FRANCE</a>
+            <span id="update-time" class="text-[10px] opacity-50">SYNC: --:--</span>
+            <a href="france.html" class="bg-blue-900 px-3 py-1 text-[10px] text-white font-bold">UNITÉ FRANCE</a>
         </div>
     </header>
 
-    <div class="flex-grow flex relative">
-        <aside class="w-72 panel p-4 z-[1000] hidden md:block">
-            <h2 class="text-[10px] font-bold border-b border-green-900 mb-2">INTEL_STREAM</h2>
-            <div id="feed" class="space-y-2 overflow-y-auto h-full text-[9px]"></div>
+    <div class="flex-grow flex relative overflow-hidden">
+        <aside class="w-80 panel p-4 z-[1000] flex flex-col">
+            <h2 class="text-[10px] font-bold text-red-500 mb-4 border-b border-red-900">INTEL_STREAM (24H)</h2>
+            <div id="news-feed" class="space-y-4 overflow-y-auto flex-grow">
+                </div>
         </aside>
         <div id="map" class="flex-grow"></div>
     </div>
@@ -45,27 +40,30 @@
         const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([25, 45], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        async function update() {
-            const res = await fetch('data.json?v=' + Date.now());
-            const d = await res.json();
-            
-            if(d.emergency) { 
-                document.body.classList.add('emergency');
-                document.getElementById('alarm-snd').play().catch(()=>{});
-            } else { document.body.classList.remove('emergency'); }
+        async function refreshData() {
+            const r = await fetch('data.json?v=' + Date.now());
+            const d = await r.json();
 
-            document.getElementById('ticker').innerText = d.news.join(' /// ');
-            document.getElementById('threats').innerText = d.alerts.length + " IMPACTS";
-            
-            const feed = document.getElementById('feed'); feed.innerHTML = '';
+            document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
+            if(d.emergency) document.body.classList.add('emergency-mode');
+
+            // Panneau de News
+            const feed = document.getElementById('news-feed');
+            feed.innerHTML = d.news.map(n => `
+                <div class="p-3 bg-red-900/10 border-l-2 border-red-600 text-[10px]">
+                    <span class="text-red-500 font-bold">[ALERTE CLASSIFIED]</span><br>
+                    <span class="text-white">${n}</span>
+                </div>
+            `).join('');
+
+            // Carte
             map.eachLayer(l => { if(l instanceof L.CircleMarker) map.removeLayer(l); });
-
-            d.alerts.forEach(a => {
-                feed.innerHTML += `<div class="p-2 bg-red-900/10 border-l-2 border-red-600">IMPACT @ ${a.t}</div>`;
-                L.circleMarker([a.lat, a.lng], {radius: 5, color: 'red', fillOpacity: 0.7}).addTo(map);
+            d.impacts.forEach(a => {
+                L.circleMarker([a.lat, a.lng], {radius: 6, color: 'red', fillOpacity: 0.8}).addTo(map)
+                 .bindTooltip("IMPACT RÉEL @ " + a.time);
             });
         }
-        setInterval(update, 15000); update();
+        setInterval(refreshData, 30000); refreshData();
     </script>
 </body>
 </html>
