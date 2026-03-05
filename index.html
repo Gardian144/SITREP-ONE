@@ -2,92 +2,70 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>SITREP-ONE | TACTICAL MONITOR</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SITREP-ONE // GLOBAL</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=JetBrains+Mono:wght@400;700&display=swap');
-        :root { --neon-green: #00ff66; --neon-red: #ff003c; --hot-orange: #ff6600; }
-        body { background: #0a0a0c; color: var(--neon-green); font-family: 'JetBrains Mono', monospace; margin: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; transition: background 0.5s; }
-        
-        /* ALERTE ROUGE */
-        body.emergency { background: #200 !important; animation: alarm 1s infinite; }
-        @keyframes alarm { 0% { box-shadow: inset 0 0 100px #f00; } 50% { box-shadow: inset 0 0 200px #500; } 100% { box-shadow: inset 0 0 100px #f00; } }
-
-        .tactical-panel { background: rgba(15, 15, 20, 0.9); border: 1px solid rgba(0, 255, 102, 0.2); }
-        #main-grid { display: grid; grid-template-columns: repeat(12, 1fr); flex-grow: 1; gap: 10px; padding: 10px; overflow: hidden; }
-        #map { height: 100%; width: 100%; background: #050505 !important; }
-        
-        .strike-marker { animation: pulse 2s infinite; border-radius: 50%; background: var(--neon-red); border: 1px solid white; }
-        .missile-path { stroke-dasharray: 5, 10; animation: dash 1s linear infinite; }
-        @keyframes dash { to { stroke-dashoffset: -20; } }
-
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+        body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; overflow: hidden; height: 100vh; transition: 0.5s; }
+        body.emergency { background: #1a0000; animation: flash 1s infinite; }
+        @keyframes flash { 0%, 100% { box-shadow: inset 0 0 50px #f00; } 50% { box-shadow: inset 0 0 100px #300; } }
+        #map { height: 100%; background: #000 !important; }
+        .panel { background: rgba(0, 10, 0, 0.9); border: 1px solid #004411; }
+        .animate-marquee { display: inline-block; animation: marquee 25s linear infinite; }
         @keyframes marquee { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
-        .animate-marquee { display: inline-block; animation: marquee 20s linear infinite; }
-        .cmd-btn { background: rgba(0, 255, 102, 0.05); border: 1px solid var(--neon-green); color: var(--neon-green); font-size: 9px; padding: 5px 10px; clip-path: polygon(10% 0, 100% 0, 100% 70%, 90% 100%, 0 100%, 0% 30%); cursor: pointer; text-transform: uppercase; }
     </style>
 </head>
-<body>
+<body class="flex flex-col">
+    <audio id="alarm-snd" src="https://www.soundjay.com/buttons/beep-01a.mp3"></audio>
 
-    <div id="alert-bar" class="bg-red-900 text-white text-[10px] py-1 overflow-hidden whitespace-nowrap border-b border-red-600">
-        <div id="ticker" class="animate-marquee px-4 uppercase font-bold">CHARGEMENT DES FLUX TACTIQUES...</div>
+    <div class="bg-red-900/20 py-1 border-b border-red-900 overflow-hidden whitespace-nowrap">
+        <div id="ticker" class="animate-marquee text-[10px] uppercase font-bold text-red-500">SYNCHRONISATION SATELLITE EN COURS...</div>
     </div>
 
-    <header class="flex justify-between items-center px-4 py-2 tactical-panel border-b-2 border-green-500/50">
-        <div class="flex items-center gap-3">
-            <div id="status-dot" class="w-2 h-2 bg-green-500 rounded-full animate-ping"></div>
-            <h1 class="text-xs md:text-sm tracking-[0.3em] font-bold font-[Orbitron]">SITREP-ONE</h1>
-        </div>
+    <header class="p-3 panel flex justify-between items-center border-t-0">
+        <h1 class="font-bold text-xs tracking-widest">SITREP-ONE // OPS_CENTER</h1>
         <div class="flex gap-4 items-center">
-            <span id="threat-count" class="text-lg font-bold text-red-500 font-mono">00</span>
-            <a href="france.html" class="cmd-btn border-blue-500 text-blue-400">FRANCE 🇫🇷</a>
+            <span id="threats" class="text-red-500 font-bold">00 IMPACTS</span>
+            <a href="france.html" class="bg-blue-900 border border-blue-400 px-3 py-1 text-[10px] text-white">UNITÉ FRANCE</a>
         </div>
     </header>
 
-    <main id="main-grid">
-        <aside id="side-panel" class="col-span-3 tactical-panel flex flex-col overflow-hidden">
-            <div class="p-2 bg-green-500/10 border-b border-green-500/20 text-[9px] font-bold uppercase">Intel_Stream</div>
-            <div id="intel-feed" class="p-2 space-y-2 overflow-y-auto flex-grow text-[10px]"></div>
+    <div class="flex-grow flex relative">
+        <aside class="w-72 panel p-4 z-[1000] hidden md:block">
+            <h2 class="text-[10px] font-bold border-b border-green-900 mb-2">INTEL_STREAM</h2>
+            <div id="feed" class="space-y-2 overflow-y-auto h-full text-[9px]"></div>
         </aside>
-        <section class="col-span-9 tactical-panel relative overflow-hidden">
-            <div id="map"></div>
-        </section>
-    </main>
+        <div id="map" class="flex-grow"></div>
+    </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        const map = L.map('map', { zoomControl: false, attributionControl: false }).setView([25.0, 45.0], 4);
+        const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([25, 45], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        async function sync() {
-            try {
-                const res = await fetch('data.json?u=' + Date.now());
-                const d = await res.json();
-                
-                // 1. Alerte Rouge
-                if(d.emergency) { document.body.classList.add('emergency'); document.getElementById('status-dot').style.backgroundColor = 'red'; }
-                else { document.body.classList.remove('emergency'); }
+        async function update() {
+            const res = await fetch('data.json?v=' + Date.now());
+            const d = await res.json();
+            
+            if(d.emergency) { 
+                document.body.classList.add('emergency');
+                document.getElementById('alarm-snd').play().catch(()=>{});
+            } else { document.body.classList.remove('emergency'); }
 
-                // 2. News
-                document.getElementById('ticker').innerText = d.news.join(' /// ');
-                document.getElementById('threat-count').innerText = d.alerts.length.toString().padStart(2, '0');
+            document.getElementById('ticker').innerText = d.news.join(' /// ');
+            document.getElementById('threats').innerText = d.alerts.length + " IMPACTS";
+            
+            const feed = document.getElementById('feed'); feed.innerHTML = '';
+            map.eachLayer(l => { if(l instanceof L.CircleMarker) map.removeLayer(l); });
 
-                // 3. Map & Feed
-                map.eachLayer(l => { if(l instanceof L.CircleMarker || l instanceof L.Polyline) map.removeLayer(l); });
-                const feed = document.getElementById('intel-feed'); feed.innerHTML = '';
-
-                d.alerts.forEach(a => {
-                    feed.innerHTML += `<div class="p-2 border-l-2 border-red-500 bg-red-500/5 mb-2"><b>${a.time} UTC</b><br>KINETIC IMPACT</div>`;
-                    L.circleMarker([a.lat, a.lng], {radius: 6, className: 'strike-marker'}).addTo(map);
-                });
-
-                d.trajectories.forEach(t => {
-                    L.polyline([t.from, t.to], {color: 'red', weight: 1, className: 'missile-path'}).addTo(map);
-                });
-            } catch (e) { console.log("Link error"); }
+            d.alerts.forEach(a => {
+                feed.innerHTML += `<div class="p-2 bg-red-900/10 border-l-2 border-red-600">IMPACT @ ${a.t}</div>`;
+                L.circleMarker([a.lat, a.lng], {radius: 5, color: 'red', fillOpacity: 0.7}).addTo(map);
+            });
         }
-        setInterval(sync, 20000); sync();
+        setInterval(update, 15000); update();
     </script>
 </body>
 </html>
