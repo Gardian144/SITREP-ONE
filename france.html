@@ -1,20 +1,62 @@
-<script>
-    async function updateFrance() {
-        const res = await fetch('data.json');
-        const d = await res.json();
-        const list = document.getElementById('info-panel'); // ou ton id de liste
-        
-        // On affiche les missions aériennes
-        const airHtml = d.france.map(f => `
-            <div class="p-2 bg-blue-900/20 border-l-2 border-blue-500 mb-2 text-[10px]">
-                <b class="text-white">${f.n}</b><br>${f.m}
-            </div>
-        `).join('');
-        document.getElementById('air-feed-container').innerHTML = airHtml;
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>EMA // DISPOSITIF FRANCE</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+        body { background: #020617; color: #93c5fd; font-family: 'JetBrains Mono'; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+        .card { background: rgba(15, 23, 42, 0.9); border: 1px solid #1e3a8a; }
+        #map { height: 100%; width: 100%; background: #000 !important; }
+    </style>
+</head>
+<body class="p-2 gap-2">
+    <header class="p-3 card flex justify-between items-center">
+        <h1 class="text-xs font-bold text-white uppercase tracking-widest">État-Major des Armées // Zone Moyen-Orient</h1>
+        <a href="index.html" class="bg-blue-600 text-white text-[10px] px-3 py-1">RETOUR GLOBAL</a>
+    </header>
 
-        d.france.forEach(f => {
-            L.circleMarker(f.p, {radius: 6, color: '#60a5fa'}).addTo(map).bindTooltip(f.n);
-        });
-    }
-    updateFrance();
-</script>
+    <div class="flex-grow flex gap-2 overflow-hidden">
+        <aside class="w-1/3 flex flex-col gap-2">
+            <div class="card p-4 flex-grow overflow-y-auto">
+                <h2 class="text-blue-400 text-[10px] font-bold mb-4 uppercase border-b border-blue-900">Ordre de Bataille</h2>
+                <div id="unit-list" class="space-y-3"></div>
+            </div>
+            <div id="strat-note" class="card p-3 text-[10px] border-l-4 border-blue-500 italic text-blue-200"></div>
+        </aside>
+        <div class="flex-grow card overflow-hidden">
+            <div id="map"></div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([20, 45], 4);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
+
+        async function load() {
+            const res = await fetch('data.json');
+            const d = await res.json();
+            
+            const list = document.getElementById('unit-list');
+            list.innerHTML = d.france.units.map(u => `
+                <div class="p-2 bg-blue-900/10 border border-blue-800/50">
+                    <div class="flex justify-between text-[10px] mb-1">
+                        <b class="text-white">${u.n}</b>
+                        <span class="text-[8px] bg-blue-800 px-1 text-white">${u.s}</span>
+                    </div>
+                </div>
+            `).join('');
+
+            document.getElementById('strat-note').innerText = "NOTE : " + d.france.note;
+
+            d.france.units.forEach(u => {
+                L.circleMarker(u.p, {radius: 7, color: '#fff', fillColor: '#2563eb', fillOpacity: 1}).addTo(map).bindTooltip(u.n);
+            });
+        }
+        load();
+    </script>
+</body>
+</html>
