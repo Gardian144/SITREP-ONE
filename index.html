@@ -119,7 +119,7 @@
 
                 // Mise à jour du bandeau défilant (Marquee) avec les news urgentes
                 const marqueeText = urgentNews.length > 0 
-                    ? "ALERTE CRITIQUE : " + urgentNews.map(n => n.text).join(' +++ ') 
+                    ? "ALERTE CRITIQUE : " + urgentNews.map(n => n.text).join(' /// ') 
                     : "SITUATION GLOBALE SOUS SURVEILLANCE... AUCUNE ALERTE MAJEURE IMMÉDIATE...";
                 document.getElementById('marquee-content').innerText = marqueeText;
 
