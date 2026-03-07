@@ -61,15 +61,6 @@
         const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([32, 53], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        let radar = L.circle([32.42, 53.68], { radius: 100, color: '#00ffff', weight: 1, fillOpacity: 0.1, interactive: false }).addTo(map);
-        let rSize = 100;
-        setInterval(() => {
-            rSize += 30000;
-            if(rSize > 2500000) rSize = 100;
-            radar.setRadius(rSize);
-            radar.setStyle({ opacity: 1 - (rSize/2500000), fillOpacity: 0.1 - (rSize/25000000) });
-        }, 50);
-
         async function refreshData() {
             try {
                 const r = await fetch('data.json?v=' + Date.now());
@@ -77,9 +68,11 @@
                 document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
                 document.getElementById('count-impacts').innerText = d.impacts.length;
 
-                // TRI PAR TIMESTAMP : Garanti que les news les plus récentes sont en haut
-                const urgentNews = d.news.filter(n => n.urgent).sort((a,b) => b.timestamp - a.timestamp);
-                const normalNews = d.news.filter(n => !n.urgent).sort((a,b) => b.timestamp - a.timestamp);
+                // FILTRE : Supprime les news corrompues (undefined) et trie par TIMESTAMP
+                const validNews = d.news.filter(n => n.timestamp && n.date);
+                
+                const urgentNews = validNews.filter(n => n.urgent).sort((a,b) => b.timestamp - a.timestamp);
+                const normalNews = validNews.filter(n => !n.urgent).sort((a,b) => b.timestamp - a.timestamp);
                 const allSorted = [...urgentNews, ...normalNews];
 
                 if(allSorted.length > 0) document.getElementById('latest-time').innerText = allSorted[0].time;
@@ -87,14 +80,14 @@
                 document.getElementById('news-feed').innerHTML = allSorted.map(n => `
                     <div class="p-3 border-l-2 ${n.urgent ? 'bg-red-900/20 border-red-600' : 'bg-green-900/5 border-green-800'} text-[10px]">
                         <div class="flex justify-between text-[8px] opacity-60 mb-1 italic">
-                            <span>SOURCE: ${n.source}</span>
-                            <span>${n.date} ${n.time}</span>
+                            <span>SOURCE: ${n.source} // ${n.date}</span>
+                            <span class="text-white font-bold">${n.time}</span>
                         </div>
-                        <p class="text-white leading-tight uppercase">${n.text}</p>
+                        <p class="text-white leading-tight uppercase font-bold">${n.text}</p>
                     </div>
                 `).join('');
 
-                const urgent = d.news.filter(n => n.urgent);
+                const urgent = allSorted.filter(n => n.urgent);
                 document.getElementById('alert-zone').innerText = urgent.length > 0 ? "ALERTE : " + urgent[0].text : "SITUATION SOUS SURVEILLANCE SATELLITE";
             } catch(e) { console.error("Refresh error"); }
         }
