@@ -1,46 +1,66 @@
 {
-  "last_update": "06/03 23:55",
+  "last_update": "07/03 00:53",
   "impacts": [],
   "news": [
     {
       "text": "LA FINLANDE SONGE À AUTORISER LA PRÉSENCE D’ARMES NUCLÉAIRES SUR SON SOL. LA RUSSIE S’ESTIME MENACÉE",
-      "urgent": true
+      "urgent": true,
+      "france_related": false,
+      "time": "11:25"
     },
     {
       "text": "LA MARINE NÉERLANDAISE RENONCE AUX TORPILLES AMÉRICAINES MK 48 POUR SE PROCURER DES F21 «ARTÉMIS» AUPRÈS DE NAVAL GROUP",
-      "urgent": true
+      "urgent": true,
+      "france_related": false,
+      "time": "14:09"
     },
     {
       "text": "DES DRONES KAMIKAZES IRANIENS ONT VISÉ UN AÉROPORT CIVIL EN AZERBAÏDJAN; BAKOU DIT ENVISAGER UNE RIPOSTE",
-      "urgent": true
+      "urgent": true,
+      "france_related": false,
+      "time": "11:43"
     },
     {
       "text": "SI AIRBUS NE VEUT PLUS TRAVAILLER AVEC DASSAULT AVIATION, ALORS LE SCAF EST «MORT», ESTIME ÉRIC TRAPPIER",
-      "urgent": true
+      "urgent": true,
+      "france_related": false,
+      "time": "18:44"
     },
     {
       "text": "UN SOUS-MARIN AMÉRICAIN A TORPILLÉ UNE FRÉGATE IRANIENNE DANS L’OCÉAN INDIEN",
-      "urgent": true
+      "urgent": true,
+      "france_related": false,
+      "time": "17:24"
     },
     {
       "text": "CRISE AU PROCHE-ORIENT : LA FRANCE DÉPLOIE LE PORTE-HÉLICOPTÈRES AMPHIBIE TONNERRE EN MÉDITERRANÉE",
-      "urgent": false
+      "urgent": false,
+      "france_related": true,
+      "time": "18:28"
     },
     {
       "text": "SCAF : AIRBUS ET LE SYNDICAT IG METALL METTENT LA PRESSION SUR LE CHANCELIER MERZ POUR ROMPRE AVEC DASSAULT AVIATION",
-      "urgent": false
+      "urgent": false,
+      "france_related": false,
+      "time": "17:29"
     },
     {
       "text": "LA RÉPUBLIQUE DE CHYPRE EST RÉSOLUE À INTÉGRER L’OTAN",
-      "urgent": false
+      "urgent": false,
+      "france_related": false,
+      "time": "15:00"
     },
     {
       "text": "LA ROYAL AIR FORCE RENONCE À L’IDÉE DE RECRUTER DES RÉSERVISTES POUR PILOTER SES CHASSEURS-BOMBARDIERS F-35B",
-      "urgent": false
+      "urgent": false,
+      "france_related": false,
+      "time": "18:31"
     },
     {
       "text": "LA FRANCE A DEMANDÉ UNE FRÉGATE AUX PAYS-BAS POUR ESCORTER LE PORTE-AVIONS CHARLES DE GAULLE EN MÉDITERRANÉE",
-      "urgent": false
+      "urgent": false,
+      "france_related": true,
+      "time": "17:05"
     }
   ],
   "france": {
