@@ -15,14 +15,13 @@
 <body class="max-w-4xl mx-auto">
     <header class="mb-10 border-b border-green-900 pb-6 flex justify-between items-end">
         <div>
-            <h1 class="text-2xl font-bold text-white tracking-tighter italic uppercase">Historique des transmissions</h1>
-            <p class="text-[10px] text-green-700 font-bold uppercase">Base de données archivée</p>
+            <h1 class="text-2xl font-bold text-white tracking-tighter italic uppercase">Archives Intel</h1>
+            <p class="text-[10px] text-green-700 font-bold uppercase">Historique des flux décryptés</p>
         </div>
         <a href="index.html" class="text-[10px] bg-green-900/20 border border-green-900 px-6 py-2 hover:bg-green-600 hover:text-black transition-all font-bold uppercase">Retour Terminal</a>
     </header>
 
-    <div id="archives-container" class="relative">
-        </div>
+    <div id="archives-container" class="relative"></div>
 
     <script>
         async function loadArchives() {
@@ -30,34 +29,36 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 
-                // 1. Tri global par timestamp (le plus récent en haut de la page)
+                // Tri par timestamp (décroissant)
                 const allNews = d.news.sort((a,b) => b.timestamp - a.timestamp);
 
-                // 2. Grouper par date (crée un objet { "07/03": [...], "06/03": [...] })
+                // Groupement par date
                 const groups = allNews.reduce((acc, obj) => {
-                    const key = obj.date || "Date inconnue";
+                    const key = obj.date || "Inconnu";
                     if (!acc[key]) acc[key] = [];
                     acc[key].push(obj);
                     return acc;
                 }, {});
 
-                // 3. Générer le HTML par groupe
                 let html = '';
                 for (const date in groups) {
                     html += `
                         <section class="mb-12 relative">
-                            <h2 class="text-xs bg-green-900 text-black font-bold px-3 py-1 inline-block mb-6 tracking-widest">${date}</h2>
+                            <h2 class="text-[10px] bg-green-900 text-black font-bold px-3 py-1 inline-block mb-6 tracking-widest uppercase">Période du : ${date}</h2>
                             <div class="timeline-line"></div>
                             <div class="space-y-6">
                                 ${groups[date].map(n => `
                                     <div class="relative pl-12 group">
                                         <div class="absolute left-[15px] top-2 w-2 h-2 rounded-full bg-green-900 border border-black z-10 group-hover:bg-green-500"></div>
-                                        <div class="bg-white/5 border border-white/5 p-4 group-hover:border-green-900/50 transition-all">
+                                        <div class="bg-white/5 border border-white/10 p-4 group-hover:border-green-900/50 transition-all">
                                             <div class="flex justify-between text-[9px] mb-2 font-bold italic">
-                                                <span class="text-green-500">${n.time} // ${n.source}</span>
-                                                <span class="${n.urgent ? 'text-red-600' : 'text-green-800'}">${n.urgent ? 'PRIORITÉ_ALPHA' : 'STABLE'}</span>
+                                                <span class="text-green-500 uppercase">SOURCE: ${n.source}</span>
+                                                <span class="${n.urgent ? 'text-red-600' : 'text-green-800'} uppercase font-bold">${n.urgent ? 'Priorité: Alpha' : 'Priorité: Beta'}</span>
                                             </div>
-                                            <p class="text-white text-xs leading-relaxed uppercase">${n.text}</p>
+                                            <div class="flex gap-4">
+                                                <span class="text-blue-500 font-bold text-xs">${n.time}</span>
+                                                <p class="text-white text-xs leading-relaxed uppercase font-bold">${n.text}</p>
+                                            </div>
                                         </div>
                                     </div>
                                 `).join('')}
@@ -67,7 +68,7 @@
                 }
                 document.getElementById('archives-container').innerHTML = html;
             } catch(e) { 
-                document.getElementById('archives-container').innerHTML = "ERREUR DE CHARGEMENT DES FLUX.";
+                document.getElementById('archives-container').innerHTML = "ERREUR SYSTÈME : FLUX ILLISIBLES.";
             }
         }
         loadArchives();
