@@ -77,9 +77,10 @@
                 document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
                 document.getElementById('count-impacts').innerText = d.impacts.length;
 
-                // --- TRI HYBRIDE : ROUGE EN HAUT (PAR HEURE), VERT ENSUITE (PAR HEURE) ---
-                const urgentNews = d.news.filter(n => n.urgent).sort((a,b) => b.time.localeCompare(a.time));
-                const normalNews = d.news.filter(n => !n.urgent).sort((a,b) => b.time.localeCompare(a.time));
+                // --- TRI PAR TIMESTAMP (Le secret pour le mélange aujourd'hui/hier) ---
+                // On trie d'abord par importance, PUIS par le timestamp numérique
+                const urgentNews = d.news.filter(n => n.urgent).sort((a,b) => b.timestamp - a.timestamp);
+                const normalNews = d.news.filter(n => !n.urgent).sort((a,b) => b.timestamp - a.timestamp);
                 const allSorted = [...urgentNews, ...normalNews];
 
                 if(allSorted.length > 0) document.getElementById('latest-time').innerText = allSorted[0].time;
@@ -88,7 +89,7 @@
                     <div class="p-3 border-l-2 ${n.urgent ? 'bg-red-900/20 border-red-600' : 'bg-green-900/5 border-green-800'} text-[10px]">
                         <div class="flex justify-between text-[8px] opacity-60 mb-1">
                             <span>SOURCE: ${n.source || 'INTEL'}</span>
-                            <span class="font-bold">${n.time}</span>
+                            <span class="font-bold">${n.date || ''} ${n.time}</span>
                         </div>
                         <p class="text-white leading-tight uppercase">${n.text}</p>
                     </div>
