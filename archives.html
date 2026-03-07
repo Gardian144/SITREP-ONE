@@ -4,28 +4,65 @@
     <meta charset="UTF-8">
     <title>SITREP-ONE // ARCHIVES</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <style>body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; }</style>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+        body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; padding: 20px; }
+        .day-section { border-left: 1px solid #004411; margin-bottom: 40px; padding-left: 20px; }
+        .day-title { color: #888; font-size: 12px; margin-bottom: 20px; letter-spacing: 2px; }
+    </style>
 </head>
-<body class="p-8">
-    <a href="index.html" class="text-blue-500 text-xs uppercase mb-8 block font-bold tracking-widest hover:underline"><- Retour au commandement</a>
-    <h1 class="text-xl font-bold border-b border-green-900 pb-4 mb-8">ARCHIVES_INTEL_STREAM</h1>
-    <div id="archives-list" class="space-y-4 max-w-4xl mx-auto"></div>
+<body>
+    <div class="max-w-4xl mx-auto">
+        <header class="mb-10 border-b border-green-900 pb-4 flex justify-between items-end">
+            <div>
+                <h1 class="text-xl font-bold text-white uppercase tracking-tighter">Archives Intel</h1>
+                <p class="text-[10px] opacity-50">HISTORIQUE DES FLUX DÉCRYPTÉS</p>
+            </div>
+            <a href="index.html" class="text-[10px] border border-green-900 px-4 py-2 hover:bg-green-900/30 transition-all uppercase">Retour Terminal</a>
+        </header>
+
+        <div id="archives-content">
+            </div>
+    </div>
 
     <script>
         async function loadArchives() {
-            const r = await fetch('data.json');
-            const d = await r.json();
-            // Tri par heure décroissante pour tout voir
-            const sorted = d.news.sort((a,b) => b.time.localeCompare(a.time));
-            document.getElementById('archives-list').innerHTML = sorted.map(n => `
-                <div class="p-4 border border-green-900/30 bg-green-900/5">
-                    <div class="flex justify-between text-[10px] opacity-50 mb-2">
-                        <span>SOURCE: ${n.source}</span>
-                        <span>HORODATAGE: ${n.time}</span>
+            try {
+                const r = await fetch('data.json?v=' + Date.now());
+                const d = await r.json();
+                
+                // On récupère le jour actuel pour le titre (format DD/MM)
+                const currentDay = d.last_update.split(' ')[0];
+
+                // Tri global par heure décroissante
+                const sorted = d.news.sort((a,b) => b.time.localeCompare(a.time));
+
+                // On génère le bloc du jour (comme le fetch écrase souvent les données, on affiche le bloc du jour actuel)
+                let html = `
+                    <div class="day-section">
+                        <h2 class="day-title uppercase">Période du : ${currentDay}</h2>
+                        <div class="space-y-4">
+                `;
+
+                html += sorted.map(n => `
+                    <div class="flex gap-6 items-start group">
+                        <span class="text-blue-500 font-bold text-xs pt-1">${n.time}</span>
+                        <div class="bg-white/5 p-4 border border-white/5 flex-grow group-hover:bg-white/10 transition-all">
+                            <div class="flex justify-between text-[8px] opacity-40 mb-1 uppercase">
+                                <span>Source: ${n.source || 'Opex360'}</span>
+                                <span>Priorité: ${n.urgent ? 'Alpha' : 'Beta'}</span>
+                            </div>
+                            <p class="text-white text-xs leading-relaxed uppercase">${n.text}</p>
+                        </div>
                     </div>
-                    <p class="text-white text-sm uppercase">${n.text}</p>
-                </div>
-            `).join('');
+                `).join('');
+
+                html += `</div></div>`;
+                document.getElementById('archives-content').innerHTML = html;
+
+            } catch(e) {
+                document.getElementById('archives-content').innerHTML = "ERREUR DE LECTURE DE LA BASE DE DONNÉES.";
+            }
         }
         loadArchives();
     </script>
