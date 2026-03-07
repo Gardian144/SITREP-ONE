@@ -10,7 +10,6 @@ def get_war_news():
     news_output = []
     headers = {'User-Agent': 'Mozilla/5.0'}
     
-    # AJOUT DE BFMTV POUR NE RIEN RATER
     sources = {
         "OPEX360": "https://www.opex360.com/feed/",
         "BFMTV": "https://www.bfmtv.com/rss/international/"
@@ -27,24 +26,23 @@ def get_war_news():
                 title = item.find('title').text
                 pub_date = item.find('pubDate').text
                 
-                # On crée un ID unique basé sur le titre pour éviter les doublons
-                news_id = title[:30] 
+                # Extraction propre de l'heure
+                time_val = pub_date.split(' ')[4][:5] if pub_date else "--:--"
                 
                 news_output.append({
-                    "id": news_id,
+                    "id": title[:30] + time_val,
                     "source": name,
                     "text": title.upper(),
                     "urgent": any(w in title.upper() for w in critical_keywords),
                     "france_related": any(w in title.upper() for w in france_keywords),
-                    "time": pub_date.split(' ')[4][:5] if pub_date else "--:--",
+                    "time": time_val,
                     "date": datetime.now().strftime("%d/%m"),
-                    "timestamp": datetime.now().timestamp() # Pour le tri futur
+                    "timestamp": datetime.now().timestamp() 
                 })
         except: continue
     return news_output
 
 def get_full_intel():
-    # 1. CHARGER L'HISTORIQUE (Pour ne pas perdre les news du 06/03)
     if os.path.exists(DATA_FILE):
         try:
             with open(DATA_FILE, 'r', encoding='utf-8') as f:
@@ -52,16 +50,21 @@ def get_full_intel():
         except: current_data = {"news": []}
     else: current_data = {"news": []}
 
-    # 2. CHOPER LE NEUF
     live_news = get_war_news()
     
-    # 3. FUSIONNER SANS DOUBLONS
+    # Fusion sans doublons
     existing_texts = [n['text'] for n in current_data['news']]
     for n in live_news:
         if n['text'] not in existing_texts:
-            current_data['news'].insert(0, n) # On ajoute au début
+            current_data['news'].append(n)
 
-    # 4. NASA & FRANCE (Ton code d'origine)
+    # TRI CHRONOLOGIQUE : Date d'abord, Heure ensuite (Décroissant)
+    current_data['news'].sort(key=lambda x: (x.get('date', ''), x.get('time', '')), reverse=True)
+
+    # Limitation
+    current_data['news'] = current_data['news'][:100]
+
+    # NASA
     impacts = []
     try:
         r_nasa = requests.get(f"https://firms.modaps.eosdis.nasa.gov/api/area/csv/{NASA_KEY}/VIIRS_SNPP_NRT/{AREA}/1", timeout=10)
@@ -71,7 +74,6 @@ def get_full_intel():
             impacts.append({"lat": float(c[0]), "lng": float(c[1]), "time": f"{c[6][:2]}:{c[6][2:]}"})
     except: pass
 
-    # 5. MISE À JOUR DU FICHIER
     current_data.update({
         "last_update": datetime.now().strftime("%d/%m %H:%M"),
         "impacts": impacts,
@@ -84,9 +86,6 @@ def get_full_intel():
             ]
         }
     })
-
-    # On ne garde que les 100 dernières news pour la performance
-    current_data['news'] = current_data['news'][:100]
     
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(current_data, f, indent=2, ensure_ascii=False)
