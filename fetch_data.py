@@ -28,7 +28,7 @@ def get_war_news():
                     continue
 
                 pub_date = item.find('pubDate').text
-                # Conversion en objet datetime pour un tri réel
+                # Conversion en objet datetime pour un tri réel (gère les fuseaux horaires)
                 dt_obj = datetime.strptime(pub_date, '%a, %d %b %Y %H:%M:%S %z')
                 
                 news_output.append({
@@ -39,7 +39,7 @@ def get_war_news():
                     "france_related": any(word in title for word in france_keywords),
                     "time": dt_obj.strftime("%H:%M"),
                     "date": dt_obj.strftime("%d/%m"),
-                    "timestamp": dt_obj.timestamp() # <--- LE SECRET EST ICI
+                    "timestamp": dt_obj.timestamp() 
                 })
         except Exception as e:
             print(f"Erreur source {source_name}: {e}")
@@ -54,6 +54,7 @@ def get_full_intel():
 
     new_news = get_war_news()
     
+    # Fusion intelligente sans doublons
     existing_ids = {n.get('id') for n in current_data['news']}
     for n in new_news:
         if n['id'] not in existing_ids:
@@ -61,12 +62,28 @@ def get_full_intel():
 
     # TRI PAR TIMESTAMP (Le plus grand nombre = le plus récent)
     current_data['news'].sort(key=lambda x: x.get('timestamp', 0), reverse=True)
-    
-    # On garde les 300 dernières pour l'historique
     current_data['news'] = current_data['news'][:300]
 
-    # ... (Reste du code NASA identique) ...
+    # Données NASA
+    impacts = []
+    try:
+        url = f"https://firms.modaps.eosdis.nasa.gov/api/area/csv/{NASA_KEY}/VIIRS_SNPP_NRT/{AREA}/1"
+        r = requests.get(url, timeout=15)
+        lines = r.text.strip().split('\n')[1:]
+        for line in lines:
+            c = line.split(',')
+            impacts.append({"lat": float(c[0]), "lng": float(c[1]), "time": f"{c[6][:2]}:{c[6][2:]}"})
+    except: pass
+
     current_data["last_update"] = datetime.now().strftime("%d/%m %H:%M")
+    current_data["impacts"] = impacts
+    current_data["france"] = {
+        "forces": [
+            {"n": "BAP Jordanie", "p": [32.16, 37.14], "t": "Base Aérienne", "s": "RAFALE OPS"},
+            {"n": "BA 188 Djibouti", "p": [11.54, 43.15], "t": "Point d'Appui", "s": "VIGILANCE"},
+            {"n": "BN Abu Dhabi", "p": [24.52, 54.37], "t": "Soutien Naval", "s": "ALINDIEN"}
+        ]
+    }
     
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(current_data, f, indent=2, ensure_ascii=False)
