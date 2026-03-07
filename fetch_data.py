@@ -17,7 +17,7 @@ def get_war_news():
         "BOMBARDEMENT", "FRONT", "SABOTAGE", "BALISTIQUE", "INTERCEPTION"
     ]
     
-    france_keywords = ["FRANCE", "FRANÇAIS", "PARIS", "MARINE NATIONALE", "ARMÉE DE L'AIR", "BARKHANE", "CHAMMAL", "VIGIPIRATE", "EMA"]
+    france_keywords = ["FRANCE", "FRANÇAIS", "PARIS", "MARINE NATIONALE", "ARMÉE DE L'AIR", "BARKHANE", "CHAMMAL", "VIGIPIRATE", "EMA", "PORTE-AVIONS"]
 
     try:
         rss_url = "https://www.opex360.com/feed/"
