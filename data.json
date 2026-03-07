@@ -1,74 +1,184 @@
 {
-  "last_update": "07/03 09:01",
+  "last_update": "07/03 09:13",
   "impacts": [],
   "news": [
     {
-      "text": "LA FINLANDE SONGE À AUTORISER LA PRÉSENCE D’ARMES NUCLÉAIRES SUR SON SOL. LA RUSSIE S’ESTIME MENACÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:25"
-    },
-    {
-      "text": "LA MARINE NÉERLANDAISE RENONCE AUX TORPILLES AMÉRICAINES MK 48 POUR SE PROCURER DES F21 «ARTÉMIS» AUPRÈS DE NAVAL GROUP",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:09"
-    },
-    {
-      "text": "DES DRONES KAMIKAZES IRANIENS ONT VISÉ UN AÉROPORT CIVIL EN AZERBAÏDJAN; BAKOU DIT ENVISAGER UNE RIPOSTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:43"
-    },
-    {
-      "text": "SI AIRBUS NE VEUT PLUS TRAVAILLER AVEC DASSAULT AVIATION, ALORS LE SCAF EST «MORT», ESTIME ÉRIC TRAPPIER",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:44"
-    },
-    {
+      "source": "OPEX360",
       "text": "UN SOUS-MARIN AMÉRICAIN A TORPILLÉ UNE FRÉGATE IRANIENNE DANS L’OCÉAN INDIEN",
       "urgent": true,
       "france_related": false,
       "time": "17:24"
     },
     {
-      "text": "CRISE AU PROCHE-ORIENT : LA FRANCE DÉPLOIE LE PORTE-HÉLICOPTÈRES AMPHIBIE TONNERRE EN MÉDITERRANÉE",
-      "urgent": false,
+      "source": "OPEX360",
+      "text": "DES DRONES KAMIKAZES IRANIENS ONT VISÉ UN AÉROPORT CIVIL EN AZERBAÏDJAN; BAKOU DIT ENVISAGER UNE RIPOSTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:43"
+    },
+    {
+      "source": "OPEX360",
+      "text": "LA FINLANDE SONGE À AUTORISER LA PRÉSENCE D’ARMES NUCLÉAIRES SUR SON SOL. LA RUSSIE S’ESTIME MENACÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:25"
+    },
+    {
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN ASSURE QUE SON PAYS NE SE RENDRA PAS AUX ÉTATS-UNIS ET À ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:11"
+    },
+    {
+      "source": "BFMTV",
+      "text": "\"IL N'Y A PAS D'HUMANITÉ\": LE TÉMOIGNAGE DE MASSANGBE CONTRAINTE DE QUITTER SON DOMICILE AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:54"
+    },
+    {
+      "source": "BFMTV",
+      "text": "IRAN: ISRAËL AFFIRME QUE PLUS DE 80 AVIONS DE CHASSE ONT FRAPPÉ TÉHÉRAN ET LE CENTRE DU PAYS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:47"
+    },
+    {
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'AÉROPORT DE DUBAÏ REPREND \"PARTIELLEMENT\" SES OPÉRATIONS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:39"
+    },
+    {
+      "source": "BFMTV",
+      "text": "\"AUCUNE ANIMOSITÉ\": L'IRAN \"S'EXCUSE\" AUPRÈS DE SES VOISINS POUR LES FRAPPES ET ASSURE QU'IL NE LES CIBLERA PLUS SAUF SI CES PAYS VISENT TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:34"
+    },
+    {
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:34"
+    },
+    {
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PORTE-PAROLE DE TSAHAL ÉVOQUE ENCORE \"DES MILLIERS DE CIBLES À TRAITER\" EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:18"
+    },
+    {
+      "source": "BFMTV",
+      "text": "\"C'EST COMME L'APOCALYPSE\": LE SOULAGEMENT DES FRANÇAIS ÉVACUÉS DE BEYROUTH EN RAISON DE LA GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
       "france_related": true,
-      "time": "18:28"
+      "time": "08:09"
     },
     {
-      "text": "SCAF : AIRBUS ET LE SYNDICAT IG METALL METTENT LA PRESSION SUR LE CHANCELIER MERZ POUR ROMPRE AVEC DASSAULT AVIATION",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: VLADIMIR POUTINE APPELLE À UN CESSEZ-LE-FEU APRÈS AVOIR ÉCHANGÉ AVEC SON HOMOLOGUE IRANIEN MASSOUD PEZESHKIAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:54"
+    },
+    {
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES HABITANTS DU QATAR APPELÉS À SE CONFINER",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:49"
+    },
+    {
+      "source": "BFMTV",
+      "text": "LIBAN: AU MOINS 16 MORTS DANS LES FRAPPES ISRAÉLIENNES DANS L'EST DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:42"
+    },
+    {
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN AFFIRME QUE SON PAYS \"NE SE RENDRA PAS\" AUX ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:40"
+    },
+    {
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA COMPAGNIE AÉRIENNE EMIRATES SUSPEND L'ENSEMBLE DE SES VOLS AU DÉPART ET À DESTINATION DE DUBAÏ JUSQU'À NOUVEL ORDRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:28"
+    },
+    {
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN TROISIÈME PORTE-AVIONS AMÉRICAIN PRÊT À PARTIR POUR LA MÉDITERRANÉE ",
+      "urgent": true,
+      "france_related": true,
+      "time": "07:23"
+    },
+    {
+      "source": "BFMTV",
+      "text": "IRAN: LES GARDIENS DE LA RÉVOLUTION DISENT AVOIR VISÉ DES \"GROUPES SÉPARATISTES\" AU KURDISTAN IRAKIEN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:58"
+    },
+    {
+      "source": "OPEX360",
+      "text": "SI AIRBUS NE VEUT PLUS TRAVAILLER AVEC DASSAULT AVIATION, ALORS LE SCAF EST «MORT», ESTIME ÉRIC TRAPPIER",
       "urgent": false,
       "france_related": false,
-      "time": "17:29"
+      "time": "18:44"
     },
     {
-      "text": "LA RÉPUBLIQUE DE CHYPRE EST RÉSOLUE À INTÉGRER L’OTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:00"
-    },
-    {
+      "source": "OPEX360",
       "text": "LA ROYAL AIR FORCE RENONCE À L’IDÉE DE RECRUTER DES RÉSERVISTES POUR PILOTER SES CHASSEURS-BOMBARDIERS F-35B",
       "urgent": false,
       "france_related": false,
       "time": "18:31"
     },
     {
+      "source": "OPEX360",
+      "text": "CRISE AU PROCHE-ORIENT : LA FRANCE DÉPLOIE LE PORTE-HÉLICOPTÈRES AMPHIBIE TONNERRE EN MÉDITERRANÉE",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:28"
+    },
+    {
+      "source": "OPEX360",
+      "text": "SCAF : AIRBUS ET LE SYNDICAT IG METALL METTENT LA PRESSION SUR LE CHANCELIER MERZ POUR ROMPRE AVEC DASSAULT AVIATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:29"
+    },
+    {
+      "source": "OPEX360",
       "text": "LA FRANCE A DEMANDÉ UNE FRÉGATE AUX PAYS-BAS POUR ESCORTER LE PORTE-AVIONS CHARLES DE GAULLE EN MÉDITERRANÉE",
       "urgent": false,
       "france_related": true,
       "time": "17:05"
+    },
+    {
+      "source": "OPEX360",
+      "text": "LA RÉPUBLIQUE DE CHYPRE EST RÉSOLUE À INTÉGRER L’OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:00"
+    },
+    {
+      "source": "OPEX360",
+      "text": "LA MARINE NÉERLANDAISE RENONCE AUX TORPILLES AMÉRICAINES MK 48 POUR SE PROCURER DES F21 «ARTÉMIS» AUPRÈS DE NAVAL GROUP",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:09"
     }
   ],
   "france": {
-    "exercices": [
-      "OPÉRATION CHAMMAL : Appui aérien quotidien Irak/Syrie.",
-      "MISSION AGÉNOR : Surveillance du détroit d'Ormuz.",
-      "VIGIPIRATE : Niveau Urgence Attentat maintenu."
-    ],
     "forces": [
       {
         "n": "BAP Jordanie",
