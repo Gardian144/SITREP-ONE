@@ -10,7 +10,7 @@
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
         
         body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; margin: 0; padding: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
-        #map { height: 100%; background: #000 !important; width: 100%; }
+        #map-pc, #map-mobile { height: 100%; background: #000 !important; width: 100%; }
         .panel { background: rgba(0, 10, 0, 0.9); border: 1px solid #004411; }
 
         /* MARQUEE */
@@ -22,53 +22,15 @@
         .marquee-content { display: inline-block; padding-left: 100%; animation: scroll-left 120s linear infinite; }
         @keyframes scroll-left { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
 
-        /* EFFETS ALERTE */
-        .emergency-border {
-            position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
-            border: 8px solid #ff0000; box-shadow: inset 0 0 50px #7f0000;
-            z-index: 9999; pointer-events: none; animation: alert-flash 1s infinite; display: none;
-        }
-        @keyframes alert-flash { 0%, 100% { opacity: 0.2; } 50% { opacity: 0.7; } }
-        .shake { animation: shake-anim 0.3s ease-in-out infinite; }
-        @keyframes shake-anim { 0%, 100% { transform: translateX(0); } 25% { transform: translateX(3px); } 75% { transform: translateX(-3px); } }
+        /* GESTION DE L'AFFICHAGE */
+        .desktop-only { display: flex; }
+        .mobile-only { display: none; }
 
-        /* --- LAYOUT PC --- */
-        #main-container { display: flex; flex-direction: row; flex-grow: 1; overflow: hidden; position: relative; }
-
-        /* --- LAYOUT MOBILE (FORCÉ) --- */
         @media (max-width: 768px) {
-            body { overflow-y: auto !important; }
-            #main-container { 
-                display: block !important; /* On casse le flex pour empiler */
-                height: auto !important;
-                min-height: 100vh;
-            }
-            
-            /* Sidebar en haut */
-            aside { 
-                width: 100% !important; 
-                height: 55vh !important; /* Prend un peu plus de la moitié de l'écran */
-                position: relative !important;
-                border-right: none !important;
-                border-bottom: 2px solid #004411;
-                z-index: 10;
-            }
-
-            /* Carte en bas */
-            #map-container { 
-                width: 100% !important;
-                height: 45vh !important; 
-                position: relative !important;
-                z-index: 5;
-            }
-
-            .filter-btns {
-                top: 10px !important;
-                width: 100% !important;
-                justify-content: center !important;
-                gap: 5px !important;
-            }
-            .filter-btns button { font-size: 7px !important; padding: 4px !important; }
+            .desktop-only { display: none !important; }
+            .mobile-only { display: flex !important; flex-direction: column; flex-grow: 1; overflow-y: auto; }
+            body { overflow-y: auto; }
+            #map-container-mobile { height: 400px; shrink: 0; position: relative; }
         }
 
         ::-webkit-scrollbar { width: 4px; }
@@ -76,8 +38,7 @@
     </style>
 </head>
 <body class="flex flex-col">
-    <div id="emergency-overlay" class="emergency-border"></div>
-    
+
     <header class="p-3 panel flex justify-between items-center shrink-0 border-b border-green-900/50">
         <div class="flex items-center gap-3">
             <div class="w-2 h-2 bg-red-600 rounded-full animate-ping"></div>
@@ -89,60 +50,70 @@
         </div>
     </header>
 
-    <div id="alert-zone" class="alert-bar tracking-[0.2em] uppercase">
-        <div id="marquee-text" class="marquee-content">CHARGEMENT...</div>
+    <div class="alert-bar tracking-[0.2em] uppercase">
+        <div id="marquee-text" class="marquee-content">INITIALISATION SYSTÈME...</div>
     </div>
 
-    <div id="main-container">
-        <aside id="sidebar" class="w-80 panel p-4 flex flex-col shrink-0">
-            <div class="grid grid-cols-2 gap-2 mb-4">
-                <div class="bg-green-900/10 p-2 border border-green-900/30 text-center">
-                    <p class="text-[8px] opacity-50 uppercase font-bold">NASA</p>
-                    <p id="count-impacts" class="text-xl font-bold text-white">00</p>
+    <main id="pc-layout" class="desktop-only flex-grow overflow-hidden">
+        <aside class="w-80 panel p-4 flex flex-col shrink-0 border-r border-green-900/30">
+            <div class="grid grid-cols-2 gap-2 mb-4 text-center">
+                <div class="bg-green-900/10 p-2 border border-green-900/30">
+                    <p class="text-[8px] opacity-50 uppercase">NASA</p>
+                    <p class="count-impacts text-xl font-bold text-white">00</p>
                 </div>
-                <div class="bg-green-900/10 p-2 border border-green-900/30 text-center">
-                    <p class="text-[8px] opacity-50 uppercase font-bold">Dernier Intel</p>
-                    <p id="latest-time" class="text-xl font-bold text-white">--:--</p>
+                <div class="bg-green-900/10 p-2 border border-green-900/30">
+                    <p class="text-[8px] opacity-50 uppercase">DERNIER INTEL</p>
+                    <p class="latest-time text-xl font-bold text-white">--:--</p>
                 </div>
             </div>
-            <h2 class="text-[10px] font-bold text-red-500 mb-2 uppercase border-b border-red-900/40 pb-1 italic">Intel Stream</h2>
-            <div id="news-feed" class="space-y-3 overflow-y-auto flex-grow pr-2 font-bold"></div>
+            <h2 class="text-[10px] font-bold text-red-500 mb-2 uppercase italic">Intel Stream</h2>
+            <div class="news-feed-content space-y-3 overflow-y-auto flex-grow pr-2 font-bold"></div>
         </aside>
-
-        <div id="map-container" class="flex-grow">
-            <div class="filter-btns absolute top-4 left-1/2 -translate-x-1/2 z-[1001] flex gap-2 w-full justify-center">
-                <button onclick="filterByCountry('ALL', [32, 53], 4)" class="bg-black/90 border border-green-900 px-3 py-1 text-[10px] font-bold text-green-400 uppercase">Global</button>
-                <button onclick="filterByCountry('IRAN', [32.4, 53.6], 5)" class="bg-black/90 border border-red-900 px-3 py-1 text-[10px] font-bold text-red-500 uppercase">Iran</button>
-                <button onclick="filterByCountry('ISRAËL', [31.5, 34.8], 7)" class="bg-black/90 border border-blue-900 px-3 py-1 text-[10px] font-bold text-blue-500 uppercase">Israël</button>
-                <button onclick="filterByCountry('LIBAN', [33.8, 35.8], 8)" class="bg-black/90 border border-yellow-700 px-3 py-1 text-[10px] font-bold text-yellow-500 uppercase">Liban</button>
-            </div>
-            <div id="map"></div>
+        <div class="flex-grow relative">
+            <div id="map-pc"></div>
         </div>
-    </div>
+    </main>
+
+    <main id="mobile-layout" class="mobile-only">
+        <div class="panel p-4 flex flex-col shrink-0">
+            <div class="grid grid-cols-2 gap-2 mb-4 text-center">
+                <div class="bg-green-900/10 p-2 border border-green-900/30">
+                    <p class="text-[8px] opacity-50 uppercase">NASA</p>
+                    <p class="count-impacts text-xl font-bold text-white">00</p>
+                </div>
+                <div class="bg-green-900/10 p-2 border border-green-900/30">
+                    <p class="text-[8px] opacity-50 uppercase">DERNIER INTEL</p>
+                    <p class="latest-time text-xl font-bold text-white">--:--</p>
+                </div>
+            </div>
+            <h2 class="text-[10px] font-bold text-red-500 mb-2 uppercase italic">Intel Stream</h2>
+            <div class="news-feed-content space-y-3 max-h-[40vh] overflow-y-auto font-bold"></div>
+        </div>
+        <div id="map-container-mobile">
+            <div id="map-mobile"></div>
+        </div>
+    </main>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([32, 53], 4);
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
+        // On initialise les deux cartes (une seule sera active)
+        const mapPc = L.map('map-pc', {zoomControl: false, attributionControl: false}).setView([32, 53], 4);
+        const mapMob = L.map('map-mobile', {zoomControl: false, attributionControl: false}).setView([32, 53], 3);
+        
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(mapPc);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(mapMob);
 
         let allNewsData = [];
-        let currentFilter = 'ALL';
-
-        function filterByCountry(country, coords, zoom) {
-            currentFilter = country;
-            map.flyTo(coords, zoom, { duration: 1.5 });
-            updateNewsDisplay();
-        }
 
         function updateNewsDisplay() {
-            const feed = document.getElementById('news-feed');
-            const filtered = allNewsData.filter(n => currentFilter === 'ALL' || n.text.includes(currentFilter));
-            feed.innerHTML = filtered.map(n => `
+            const feeds = document.querySelectorAll('.news-feed-content');
+            const html = allNewsData.map(n => `
                 <div class="p-3 border-l-2 ${n.urgent ? 'bg-red-900/20 border-red-600' : 'bg-green-900/5 border-green-800'} text-[10px] mb-2">
-                    <div class="flex justify-between text-[8px] opacity-60 mb-1 font-bold"><span>${n.source}</span><span>${n.time}</span></div>
+                    <div class="flex justify-between text-[8px] opacity-60 mb-1"><span>${n.source}</span><span>${n.time}</span></div>
                     <p class="text-white leading-tight uppercase font-bold">${n.text}</p>
                 </div>
             `).join('');
+            feeds.forEach(f => f.innerHTML = html);
         }
 
         async function refreshData() {
@@ -150,18 +121,27 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 allNewsData = d.news || [];
-                document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
-                document.getElementById('count-impacts').innerText = (d.impacts || []).length;
-                if (allNewsData.length > 0) document.getElementById('latest-time').innerText = allNewsData[0].time;
                 
-                const marqueeElement = document.getElementById('marquee-text');
+                document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
+                document.querySelectorAll('.count-impacts').forEach(el => el.innerText = (d.impacts || []).length);
+                
+                if (allNewsData.length > 0) {
+                    document.querySelectorAll('.latest-time').forEach(el => el.innerText = allNewsData[0].time);
+                }
+
                 const urgentNews = allNewsData.filter(n => n.urgent);
+                const marqueeElement = document.getElementById('marquee-text');
                 marqueeElement.innerText = urgentNews.length > 0 ? urgentNews.slice(0, 3).map(n => ` [ ${n.time} ] ${n.text} `).join(' /// ') : "VEILLE ACTIVE /// " + d.last_update;
 
                 updateNewsDisplay();
             } catch(e) { console.error("Data error", e); }
         }
-        setInterval(refreshData, 30000); refreshData();
+
+        setInterval(refreshData, 30000);
+        refreshData();
+        
+        // Correction pour Leaflet lors du redimensionnement
+        window.addEventListener('resize', () => { mapPc.invalidateSize(); mapMob.invalidateSize(); });
     </script>
 </body>
 </html>
