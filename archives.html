@@ -15,10 +15,10 @@
 <body class="max-w-4xl mx-auto">
     <header class="mb-10 border-b border-green-900 pb-6 flex justify-between items-end">
         <div>
-            <h1 class="text-2xl font-bold text-white tracking-tighter italic">ARCHIVES_INTEL_OPS</h1>
-            <p class="text-[10px] text-green-700 font-bold">HISTORIQUE COMPLET DES TRANSMISSIONS</p>
+            <h1 class="text-2xl font-bold text-white tracking-tighter italic uppercase">Historique des transmissions</h1>
+            <p class="text-[10px] text-green-700 font-bold uppercase">Base de données archivée</p>
         </div>
-        <a href="index.html" class="text-[10px] bg-green-900/20 border border-green-900 px-6 py-2 hover:bg-green-600 hover:text-black transition-all font-bold">RETOUR TERMINAL</a>
+        <a href="index.html" class="text-[10px] bg-green-900/20 border border-green-900 px-6 py-2 hover:bg-green-600 hover:text-black transition-all font-bold uppercase">Retour Terminal</a>
     </header>
 
     <div id="archives-container" class="relative">
@@ -30,18 +30,18 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 
-                // 1. Inverser pour avoir le plus récent en haut
-                const allNews = d.news.reverse();
+                // 1. Tri global par timestamp (le plus récent en haut de la page)
+                const allNews = d.news.sort((a,b) => b.timestamp - a.timestamp);
 
-                // 2. Grouper par date
+                // 2. Grouper par date (crée un objet { "07/03": [...], "06/03": [...] })
                 const groups = allNews.reduce((acc, obj) => {
-                    const key = obj.date || "Inconnu";
+                    const key = obj.date || "Date inconnue";
                     if (!acc[key]) acc[key] = [];
                     acc[key].push(obj);
                     return acc;
                 }, {});
 
-                // 3. Générer le HTML
+                // 3. Générer le HTML par groupe
                 let html = '';
                 for (const date in groups) {
                     html += `
@@ -66,7 +66,9 @@
                     `;
                 }
                 document.getElementById('archives-container').innerHTML = html;
-            } catch(e) { console.error(e); }
+            } catch(e) { 
+                document.getElementById('archives-container').innerHTML = "ERREUR DE CHARGEMENT DES FLUX.";
+            }
         }
         loadArchives();
     </script>
