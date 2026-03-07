@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>SITREP-ONE // ARCHIVES</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; }</style>
+</head>
+<body class="p-8">
+    <a href="index.html" class="text-blue-500 text-xs uppercase mb-8 block font-bold tracking-widest hover:underline"><- Retour au commandement</a>
+    <h1 class="text-xl font-bold border-b border-green-900 pb-4 mb-8">ARCHIVES_INTEL_STREAM</h1>
+    <div id="archives-list" class="space-y-4 max-w-4xl mx-auto"></div>
+
+    <script>
+        async function loadArchives() {
+            const r = await fetch('data.json');
+            const d = await r.json();
+            // Tri par heure décroissante pour tout voir
+            const sorted = d.news.sort((a,b) => b.time.localeCompare(a.time));
+            document.getElementById('archives-list').innerHTML = sorted.map(n => `
+                <div class="p-4 border border-green-900/30 bg-green-900/5">
+                    <div class="flex justify-between text-[10px] opacity-50 mb-2">
+                        <span>SOURCE: ${n.source}</span>
+                        <span>HORODATAGE: ${n.time}</span>
+                    </div>
+                    <p class="text-white text-sm uppercase">${n.text}</p>
+                </div>
+            `).join('');
+        }
+        loadArchives();
+    </script>
+</body>
+</html>
