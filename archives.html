@@ -29,19 +29,28 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 
-                // Tri par timestamp (décroissant)
-                const allNews = d.news.sort((a,b) => b.timestamp - a.timestamp);
+                // On ignore les entrées "undefined" et on trie par timestamp pur
+                const validNews = d.news.filter(n => n.timestamp && n.date);
+                const allNews = validNews.sort((a,b) => b.timestamp - a.timestamp);
 
                 // Groupement par date
                 const groups = allNews.reduce((acc, obj) => {
-                    const key = obj.date || "Inconnu";
+                    const key = obj.date;
                     if (!acc[key]) acc[key] = [];
                     acc[key].push(obj);
                     return acc;
                 }, {});
 
                 let html = '';
-                for (const date in groups) {
+                // On trie les clés (dates) pour s'assurer que la plus récente est en haut
+                const sortedDates = Object.keys(groups).sort((a,b) => {
+                    // Petite astuce pour comparer les dates format JJ/MM
+                    const [da, ma] = a.split('/');
+                    const [db, mb] = b.split('/');
+                    return new Date(2026, mb-1, db) < new Date(2026, ma-1, da) ? -1 : 1;
+                });
+
+                for (const date of sortedDates) {
                     html += `
                         <section class="mb-12 relative">
                             <h2 class="text-[10px] bg-green-900 text-black font-bold px-3 py-1 inline-block mb-6 tracking-widest uppercase">Période du : ${date}</h2>
@@ -66,7 +75,7 @@
                         </section>
                     `;
                 }
-                document.getElementById('archives-container').innerHTML = html;
+                document.getElementById('archives-container').innerHTML = html || "<p class='text-center opacity-50'>AUCUNE ARCHIVE DISPONIBLE</p>";
             } catch(e) { 
                 document.getElementById('archives-container').innerHTML = "ERREUR SYSTÈME : FLUX ILLISIBLES.";
             }
