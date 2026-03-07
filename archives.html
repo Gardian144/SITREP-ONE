@@ -29,40 +29,31 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 
-                // On ignore les entrées "undefined" et on trie par timestamp pur
-                const validNews = d.news.filter(n => n.timestamp && n.date);
-                const allNews = validNews.sort((a,b) => b.timestamp - a.timestamp);
+                // Tri pur par timestamp décroissant
+                const allNews = d.news.sort((a,b) => (b.timestamp || 0) - (a.timestamp || 0));
 
-                // Groupement par date
-                const groups = allNews.reduce((acc, obj) => {
-                    const key = obj.date;
-                    if (!acc[key]) acc[key] = [];
-                    acc[key].push(obj);
-                    return acc;
-                }, {});
-
-                let html = '';
-                // On trie les clés (dates) pour s'assurer que la plus récente est en haut
-                const sortedDates = Object.keys(groups).sort((a,b) => {
-                    // Petite astuce pour comparer les dates format JJ/MM
-                    const [da, ma] = a.split('/');
-                    const [db, mb] = b.split('/');
-                    return new Date(2026, mb-1, db) < new Date(2026, ma-1, da) ? -1 : 1;
+                // Groupement par date en gardant l'ordre
+                const groups = {};
+                allNews.forEach(n => {
+                    const key = n.date || "Inconnu";
+                    if (!groups[key]) groups[key] = [];
+                    groups[key].push(n);
                 });
 
-                for (const date of sortedDates) {
+                let html = '';
+                for (const date in groups) {
                     html += `
                         <section class="mb-12 relative">
-                            <h2 class="text-[10px] bg-green-900 text-black font-bold px-3 py-1 inline-block mb-6 tracking-widest uppercase">Période du : ${date}</h2>
+                            <h2 class="text-[10px] bg-green-900 text-black font-bold px-3 py-1 inline-block mb-6 uppercase tracking-widest">Période : ${date}</h2>
                             <div class="timeline-line"></div>
                             <div class="space-y-6">
                                 ${groups[date].map(n => `
                                     <div class="relative pl-12 group">
                                         <div class="absolute left-[15px] top-2 w-2 h-2 rounded-full bg-green-900 border border-black z-10 group-hover:bg-green-500"></div>
                                         <div class="bg-white/5 border border-white/10 p-4 group-hover:border-green-900/50 transition-all">
-                                            <div class="flex justify-between text-[9px] mb-2 font-bold italic">
-                                                <span class="text-green-500 uppercase">SOURCE: ${n.source}</span>
-                                                <span class="${n.urgent ? 'text-red-600' : 'text-green-800'} uppercase font-bold">${n.urgent ? 'Priorité: Alpha' : 'Priorité: Beta'}</span>
+                                            <div class="flex justify-between text-[9px] mb-2 font-bold opacity-50 uppercase">
+                                                <span>SOURCE: ${n.source}</span>
+                                                <span class="${n.urgent ? 'text-red-600' : 'text-green-800'}">${n.urgent ? 'Priorité Alpha' : 'Priorité Beta'}</span>
                                             </div>
                                             <div class="flex gap-4">
                                                 <span class="text-blue-500 font-bold text-xs">${n.time}</span>
@@ -75,10 +66,8 @@
                         </section>
                     `;
                 }
-                document.getElementById('archives-container').innerHTML = html || "<p class='text-center opacity-50'>AUCUNE ARCHIVE DISPONIBLE</p>";
-            } catch(e) { 
-                document.getElementById('archives-container').innerHTML = "ERREUR SYSTÈME : FLUX ILLISIBLES.";
-            }
+                document.getElementById('archives-container').innerHTML = html || "SITUATION NOMINALE : AUCUNE DONNÉE";
+            } catch(e) { console.error(e); }
         }
         loadArchives();
     </script>
