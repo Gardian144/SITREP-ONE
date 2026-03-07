@@ -11,24 +11,16 @@
         body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; overflow: hidden; height: 100vh; display: flex; flex-direction: column; }
         #map { height: 100%; background: #000 !important; }
         .panel { background: rgba(0, 10, 0, 0.9); border: 1px solid #004411; }
-        
-        /* Animation Alerte Générale */
         .emergency-mode { background: #1a0000; animation: flash 1s infinite; }
         @keyframes flash { 0% { box-shadow: inset 0 0 50px #f00; } 50% { box-shadow: inset 0 0 100px #400; } 100% { box-shadow: inset 0 0 50px #f00; } }
         
-        /* Style des news amélioré */
-        .news-card { transition: all 0.3s ease; border-left-width: 4px; }
-        .news-urgent { box-shadow: 0 0 15px rgba(220, 38, 38, 0.2); }
-        
-        /* Scrollbar tactique */
-        ::-webkit-scrollbar { width: 3px; }
-        ::-webkit-scrollbar-thumb { background: #004411; }
+        /* Bandeau Défilant */
+        .marquee { white-space: nowrap; overflow: hidden; position: relative; background: #450a0a; border-top: 1px solid #ef4444; color: #fca5a5; font-size: 10px; padding: 4px 0; }
+        .marquee p { display: inline-block; padding-left: 100%; animation: marquee 30s linear infinite; font-weight: bold; }
+        @keyframes marquee { 0% { transform: translate(0, 0); } 100% { transform: translate(-100%, 0); } }
 
-        @media (max-width: 768px) {
-            #main-container { flex-direction: column; overflow-y: auto; }
-            aside { width: 100% !important; height: 350px !important; order: 2; }
-            #map-container { height: 40vh; min-height: 300px; order: 1; }
-        }
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-thumb { background: #004411; }
     </style>
 </head>
 <body class="flex flex-col">
@@ -38,29 +30,42 @@
             <h1 class="text-[10px] md:text-xs font-bold tracking-widest uppercase text-white">SITREP-ONE // SYSTEM_ACTIVE</h1>
         </div>
         <div class="flex gap-4 items-center">
-            <span id="update-time" class="text-[9px] md:text-[10px] opacity-50 font-bold">SYNC: --:--</span>
-            <a href="france.html" class="bg-blue-900 hover:bg-blue-700 px-2 md:px-3 py-1 text-[9px] md:text-[10px] text-white font-bold transition-colors">UNITÉ FRANCE</a>
+            <div id="threat-level" class="hidden md:flex items-center gap-2 px-2 border border-green-900 text-[9px]">
+                <span class="opacity-50">THREAT_LEVEL:</span> <span id="threat-val" class="font-bold text-yellow-500">ANALYSING...</span>
+            </div>
+            <span id="update-time" class="text-[9px] md:text-[10px] opacity-50 font-bold font-mono">SYNC: --:--</span>
+            <a href="france.html" class="bg-blue-900 hover:bg-blue-700 px-3 py-1 text-[9px] md:text-[10px] text-white font-bold transition-all">SITREP FRANCE</a>
         </div>
     </header>
 
     <div id="main-container" class="relative flex flex-grow overflow-hidden">
         <aside class="w-80 panel p-4 z-[1000] flex flex-col shrink-0 border-r border-green-900/30">
-            <h2 class="text-[10px] font-bold text-red-500 mb-4 border-b border-red-900 pb-1 flex justify-between items-center">
-                <span>INTEL_STREAM (CHRONO)</span>
-                <span class="text-[8px] opacity-50 uppercase">Live_Feed</span>
-            </h2>
-            <div id="news-feed" class="space-y-4 overflow-y-auto flex-grow pr-2">
+            <div class="grid grid-cols-2 gap-2 mb-4 border-b border-green-900/30 pb-4 text-[9px]">
+                <div class="bg-green-900/10 p-2 border border-green-900/30">
+                    <p class="opacity-50">IMPACTS_24H</p>
+                    <p id="count-impacts" class="text-xl font-bold text-white">00</p>
                 </div>
+                <div class="bg-green-900/10 p-2 border border-green-900/30">
+                    <p class="opacity-50">LATEST_INTEL</p>
+                    <p id="latest-time" class="text-xl font-bold text-white">--:--</p>
+                </div>
+            </div>
+
+            <h2 class="text-[10px] font-bold text-red-500 mb-2 uppercase tracking-tighter">Flux de Renseignement Classifié</h2>
+            <div id="news-feed" class="space-y-3 overflow-y-auto flex-grow pr-2"></div>
         </aside>
 
-        <div id="map-container" class="flex-grow">
+        <div id="map-container" class="flex-grow relative">
             <div id="map"></div>
         </div>
     </div>
 
+    <div class="marquee shrink-0">
+        <p id="marquee-text">INITIALISATION DU FLUX D'ALERTE... SCAN SATELLITE EN COURS... STANDBY...</p>
+    </div>
+
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // Initialisation Carte
         const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([25, 45], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
@@ -69,71 +74,48 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 
-                // Update Heure de Sync
                 document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
+                document.getElementById('count-impacts').innerText = d.impacts ? d.impacts.length.toString().padStart(2, '0') : '00';
                 
-                // Mode Urgence visuel
+                // Niveau de Menace
+                const threat = d.impacts.length > 15 ? "CRITICAL" : (d.impacts.length > 5 ? "ELEVATED" : "STABLE");
+                const threatEl = document.getElementById('threat-val');
+                threatEl.innerText = threat;
+                threatEl.className = threat === "CRITICAL" ? "text-red-600 animate-pulse" : (threat === "ELEVATED" ? "text-yellow-500" : "text-green-500");
+
                 if(d.emergency) document.body.classList.add('emergency-mode');
                 else document.body.classList.remove('emergency-mode');
 
-                // --- GESTION ET TRI DES NEWS ---
-                const feed = document.getElementById('news-feed');
-                
-                // On trie les news par heure décroissante (la plus récente en haut)
-                const sortedNews = d.news.sort((a, b) => {
-                    return b.time.localeCompare(a.time);
-                });
+                // --- TRI HYBRIDE : Urgents d'abord (par heure), puis le reste (par heure) ---
+                const urgentNews = d.news.filter(n => n.urgent).sort((a,b) => b.time.localeCompare(a.time));
+                const normalNews = d.news.filter(n => !n.urgent).sort((a,b) => b.time.localeCompare(a.time));
+                const allSorted = [...urgentNews, ...normalNews];
 
-                feed.innerHTML = sortedNews.map(n => `
-                    <div class="news-card p-3 ${n.urgent ? 'bg-red-900/40 border-red-600 news-urgent animate-pulse' : 'bg-green-900/5 border-green-900/50'} text-[10px] mb-2">
-                        <div class="flex justify-between items-start mb-1">
-                            <span class="${n.urgent ? 'text-red-500 font-bold' : 'text-green-500'}">
-                                [${n.urgent ? 'PRIORITÉ ALPHA' : 'TACTICAL_INFO'}]
+                if(allSorted.length > 0) document.getElementById('latest-time').innerText = allSorted[0].time;
+
+                const feed = document.getElementById('news-feed');
+                feed.innerHTML = allSorted.map(n => `
+                    <div class="p-3 border-l-4 ${n.urgent ? 'bg-red-900/30 border-red-600 animate-pulse' : 'bg-green-900/5 border-green-900/40'} text-[10px] mb-2">
+                        <div class="flex justify-between items-center mb-1">
+                            <span class="${n.urgent ? 'text-red-500 font-bold' : 'text-green-600'} font-bold">
+                                [${n.urgent ? 'ALPHA_PRIORITY' : 'INTEL_DATA'}]
                             </span>
-                            <span class="text-[8px] opacity-60 text-white font-bold font-mono">${n.time}</span>
+                            <span class="text-[8px] opacity-60 text-white font-mono">${n.time}</span>
                         </div>
-                        <span class="text-white leading-tight block">${n.text}</span>
+                        <span class="text-white/90 leading-tight">${n.text}</span>
                     </div>
                 `).join('');
 
-                // --- MISE À JOUR CARTE (Sécurisée avec parseFloat) ---
+                // Marquee Urgent
+                const marqueeUrgent = urgentNews.map(n => n.text).join(' /// ');
+                if(marqueeUrgent) document.getElementById('marquee-text').innerText = "ALERTE : " + marqueeUrgent;
+
+                // Carte
                 map.eachLayer(l => { if(l instanceof L.CircleMarker) map.removeLayer(l); });
-
-                // Impacts NASA (Rouge)
-                if (d.impacts) {
-                    d.impacts.forEach(a => { 
-                        L.circleMarker([parseFloat(a.lat), parseFloat(a.lng)], {
-                            radius: 7, 
-                            color: '#ff0000', 
-                            fillColor: '#ff4444',
-                            fillOpacity: 0.8,
-                            weight: 2
-                        }).addTo(map).bindTooltip("IMPACT RÉEL @ " + a.time); 
-                    });
-                }
-
-                // Forces Françaises (Bleu)
-                if (d.france && d.france.forces) {
-                    d.france.forces.forEach(u => { 
-                        L.circleMarker(u.p, {
-                            radius: 5, 
-                            color: '#0088ff', 
-                            fillColor: '#0044ff',
-                            fillOpacity: 0.7,
-                            weight: 1
-                        }).addTo(map).bindTooltip("FORCE FR: " + u.n); 
-                    });
-                }
-
-            } catch(e) { 
-                console.error("Sync fail", e);
-                document.getElementById('update-time').innerText = "SYNC ERROR";
-            }
+                d.impacts.forEach(a => { L.circleMarker([parseFloat(a.lat), parseFloat(a.lng)], {radius: 7, color: 'red', fillOpacity: 0.8}).addTo(map); });
+            } catch(e) { console.error("Sync fail"); }
         }
-
-        // Rafraîchissement automatique
-        setInterval(refreshData, 30000); 
-        refreshData();
+        setInterval(refreshData, 30000); refreshData();
     </script>
 </body>
 </html>
