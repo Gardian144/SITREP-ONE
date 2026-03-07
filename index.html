@@ -18,22 +18,19 @@
         #map-container { flex-grow: 1; position: relative; }
         #map { height: 100%; width: 100%; background: #000 !important; }
 
-        /* BANDEAU ALERTES */
         .alert-bar { background: #450a0a; border-bottom: 1px solid #ef4444; color: #fca5a5; padding: 6px 0; font-size: 11px; font-weight: bold; overflow: hidden; white-space: nowrap; flex-shrink: 0; }
         .marquee-content { display: inline-block; padding-left: 100%; animation: scroll-left 80s linear infinite; }
         @keyframes scroll-left { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
 
-        /* HEATMAP */
         .heat-zone { fill: #ff0000; fill-opacity: 0.3; stroke: none; animation: pulse-heat 3s infinite ease-in-out; pointer-events: none; }
         @keyframes pulse-heat { 0%, 100% { fill-opacity: 0.2; transform: scale(1); } 50% { fill-opacity: 0.5; transform: scale(1.1); } }
 
         .btn-country { background: rgba(0,0,0,0.8); border: 1px solid var(--border-color); color: var(--main-color); padding: 6px 10px; font-size: 9px; font-weight: bold; text-transform: uppercase; }
-        .btn-country:hover { background: var(--main-color); color: #000; }
-
+        
         @media (max-width: 768px) {
-            body { height: auto !important; overflow-y: auto !important; display: block !important; }
+            body { height: auto !important; display: block !important; }
             #main-container { flex-direction: column !important; height: auto !important; }
-            aside#sidebar { width: 100% !important; height: 45vh !important; border-right: none; border-bottom: 1px solid var(--border-color); }
+            aside#sidebar { width: 100% !important; height: 45vh !important; border-bottom: 1px solid var(--border-color); }
             #map-container { height: 55vh !important; width: 100% !important; }
         }
     </style>
@@ -61,9 +58,15 @@
     <div id="main-container">
         <aside id="sidebar">
             <div class="p-3 border-b border-green-900/20">
-                <div class="bg-black border border-green-900 p-2 text-center mb-3">
-                    <p class="text-[7px] opacity-50 uppercase">NASA Detected Impacts</p>
-                    <p id="nasa-val" class="text-lg font-bold">0</p>
+                <div class="grid grid-cols-2 gap-2 mb-3 text-center">
+                    <div class="bg-black border border-green-900 p-2">
+                        <p class="text-[7px] opacity-50 uppercase">NASA Impacts</p>
+                        <p id="nasa-val" class="text-lg font-bold">0</p>
+                    </div>
+                    <div class="bg-black border border-green-900 p-2">
+                        <p class="text-[7px] opacity-50 uppercase">Dernier Intel</p>
+                        <p id="latest-time" class="text-lg font-bold">--:--</p>
+                    </div>
                 </div>
                 <input type="text" id="search-bar" placeholder="RECHERCHE MOT-CLÉ..." class="w-full bg-black/50 border border-green-900 p-2 text-[10px] text-green-400 outline-none mb-1">
             </div>
@@ -90,7 +93,6 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
         const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([32, 53], 4);
-        
         const darkLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
         const popLayer = L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png');
 
@@ -112,37 +114,8 @@
         }
         addTacticalGrid();
 
-        const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-        function playAlert() {
-            const osc = audioCtx.createOscillator();
-            const gain = audioCtx.createGain();
-            osc.frequency.setValueAtTime(120, audioCtx.currentTime);
-            osc.frequency.exponentialRampToValueAtTime(40, audioCtx.currentTime + 0.4);
-            gain.gain.setValueAtTime(0.1, audioCtx.currentTime);
-            gain.gain.linearRampToValueAtTime(0, audioCtx.currentTime + 0.4);
-            osc.connect(gain); gain.connect(audioCtx.destination);
-            osc.start(); osc.stop(audioCtx.currentTime + 0.4);
-        }
-
         let allNews = [];
         let currentFilter = 'ALL';
-
-        function filterByCountry(c, coords, z) {
-            currentFilter = c;
-            map.flyTo(coords, z, {duration: 1.5});
-            log(`FILTER_ACTIVE: ${c}`);
-            updateDisplay();
-        }
-
-        function log(msg) {
-            const t = document.getElementById('terminal');
-            t.innerHTML = `> ${msg}<br>` + t.innerHTML;
-        }
-
-        function toggleStealth() {
-            document.getElementById('app-body').classList.toggle('stealth-mode');
-            log("STEALTH_MODE_TOGGLE");
-        }
 
         async function loadData() {
             try {
@@ -150,24 +123,26 @@
                 const d = await r.json();
                 allNews = d.news;
                 
-                // MISE A JOUR DES DEUX EMPLACEMENTS
+                // MISE À JOUR DES INDICATEURS
                 document.getElementById('sync-val-header').innerText = d.last_update;
                 document.getElementById('nasa-val').innerText = d.impacts.length;
+                
+                // Récupération de l'heure de la dernière annonce (si elle existe)
+                if (allNews.length > 0) {
+                    document.getElementById('latest-time').innerText = allNews[0].time;
+                }
 
-                // Heatmap automatique sur les impacts
                 d.impacts.forEach(imp => {
                     L.circle([imp.lat, imp.lon], { radius: 45000, className: 'heat-zone' }).addTo(map);
                 });
 
                 const urgent = allNews.filter(n => n.urgent);
-                if(urgent.length > 0) {
-                    playAlert();
-                    document.getElementById('marquee-text').innerText = urgent.slice(0, 3).map(n => ` [ ${n.time} ] ${n.text} `).join(' /// ');
-                } else {
-                    document.getElementById('marquee-text').innerText = "GRID_VEILLE_ACTIVE /// SYSTÈME OPÉRATIONNEL /// " + d.last_update;
-                }
+                document.getElementById('marquee-text').innerText = urgent.length > 0 
+                    ? urgent.slice(0, 3).map(n => ` [ ${n.time} ] ${n.text} `).join(' /// ')
+                    : "GRID_VEILLE_ACTIVE /// SYSTÈME OPÉRATIONNEL /// " + d.last_update;
+                
                 updateDisplay();
-            } catch(e) { log("DATA_FETCH_ERROR"); }
+            } catch(e) { console.log("Fetch Error"); }
         }
 
         function updateDisplay() {
@@ -180,15 +155,21 @@
             feed.innerHTML = filtered.map(n => `
                 <div class="p-2 border-l-2 ${n.urgent ? 'bg-red-950/20 border-red-600' : 'bg-green-950/5 border-green-900'} text-[10px]">
                     <div class="flex justify-between text-[7px] opacity-60 mb-1 font-bold"><span>${n.source}</span><span>${n.time}</span></div>
-                    <b class="uppercase leading-tight">${n.text}</b>
+                    <b class="uppercase leading-tight text-white">${n.text}</b>
                 </div>
             `).join('');
         }
 
+        function filterByCountry(c, coords, z) {
+            currentFilter = c;
+            map.flyTo(coords, z, {duration: 1.5});
+            updateDisplay();
+        }
+
+        function toggleStealth() { document.getElementById('app-body').classList.toggle('stealth-mode'); }
         document.getElementById('search-bar').addEventListener('input', updateDisplay);
         setInterval(loadData, 30000);
         loadData();
-        log("C2_SYSTEM_ONLINE");
     </script>
 </body>
 </html>
