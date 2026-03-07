@@ -28,7 +28,7 @@ def get_war_news():
                     continue
 
                 pub_date = item.find('pubDate').text
-                # Conversion en objet datetime pour un tri réel (gère les fuseaux horaires)
+                # Conversion robuste
                 dt_obj = datetime.strptime(pub_date, '%a, %d %b %Y %H:%M:%S %z')
                 
                 news_output.append({
@@ -47,20 +47,26 @@ def get_war_news():
 
 def get_full_intel():
     if os.path.exists(DATA_FILE):
-        with open(DATA_FILE, 'r', encoding='utf-8') as f:
-            current_data = json.load(f)
+        try:
+            with open(DATA_FILE, 'r', encoding='utf-8') as f:
+                current_data = json.load(f)
+        except:
+            current_data = {"news": [], "impacts": []}
     else:
         current_data = {"news": [], "impacts": []}
 
     new_news = get_war_news()
     
-    # Fusion intelligente sans doublons
-    existing_ids = {n.get('id') for n in current_data['news']}
+    # Fusion sans doublons
+    existing_ids = {n.get('id') for n in current_data['news'] if n.get('id')}
     for n in new_news:
         if n['id'] not in existing_ids:
             current_data['news'].append(n)
 
-    # TRI PAR TIMESTAMP (Le plus grand nombre = le plus récent)
+    # NETTOYAGE : Supprime les entrées corrompues qui n'ont pas de timestamp
+    current_data['news'] = [n for n in current_data['news'] if n.get('timestamp')]
+
+    # TRI : Plus récent en haut
     current_data['news'].sort(key=lambda x: x.get('timestamp', 0), reverse=True)
     current_data['news'] = current_data['news'][:300]
 
