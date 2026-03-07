@@ -2,28 +2,27 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>SITREP-ONE // ARCHIVES</title>
+    <title>SITREP-ONE // ARCHIVES_CENTRAL</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
         body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; padding: 20px; }
-        .day-section { border-left: 1px solid #004411; margin-bottom: 40px; padding-left: 20px; }
-        .day-title { color: #888; font-size: 12px; margin-bottom: 20px; letter-spacing: 2px; }
+        .timeline-line { position: absolute; left: 19px; top: 0; bottom: 0; width: 1px; background: #004411; }
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-thumb { background: #004411; }
     </style>
 </head>
-<body>
-    <div class="max-w-4xl mx-auto">
-        <header class="mb-10 border-b border-green-900 pb-4 flex justify-between items-end">
-            <div>
-                <h1 class="text-xl font-bold text-white uppercase tracking-tighter">Archives Intel</h1>
-                <p class="text-[10px] opacity-50">HISTORIQUE DES FLUX DÉCRYPTÉS</p>
-            </div>
-            <a href="index.html" class="text-[10px] border border-green-900 px-4 py-2 hover:bg-green-900/30 transition-all uppercase">Retour Terminal</a>
-        </header>
+<body class="max-w-4xl mx-auto">
+    <header class="mb-10 border-b border-green-900 pb-6 flex justify-between items-end">
+        <div>
+            <h1 class="text-2xl font-bold text-white tracking-tighter italic">ARCHIVES_INTEL_OPS</h1>
+            <p class="text-[10px] text-green-700 font-bold">HISTORIQUE COMPLET DES TRANSMISSIONS</p>
+        </div>
+        <a href="index.html" class="text-[10px] bg-green-900/20 border border-green-900 px-6 py-2 hover:bg-green-600 hover:text-black transition-all font-bold">RETOUR TERMINAL</a>
+    </header>
 
-        <div id="archives-content">
-            </div>
-    </div>
+    <div id="archives-container" class="relative">
+        </div>
 
     <script>
         async function loadArchives() {
@@ -31,38 +30,43 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 
-                // On récupère le jour actuel pour le titre (format DD/MM)
-                const currentDay = d.last_update.split(' ')[0];
+                // 1. Inverser pour avoir le plus récent en haut
+                const allNews = d.news.reverse();
 
-                // Tri global par heure décroissante
-                const sorted = d.news.sort((a,b) => b.time.localeCompare(a.time));
+                // 2. Grouper par date
+                const groups = allNews.reduce((acc, obj) => {
+                    const key = obj.date || "Inconnu";
+                    if (!acc[key]) acc[key] = [];
+                    acc[key].push(obj);
+                    return acc;
+                }, {});
 
-                // On génère le bloc du jour (comme le fetch écrase souvent les données, on affiche le bloc du jour actuel)
-                let html = `
-                    <div class="day-section">
-                        <h2 class="day-title uppercase">Période du : ${currentDay}</h2>
-                        <div class="space-y-4">
-                `;
-
-                html += sorted.map(n => `
-                    <div class="flex gap-6 items-start group">
-                        <span class="text-blue-500 font-bold text-xs pt-1">${n.time}</span>
-                        <div class="bg-white/5 p-4 border border-white/5 flex-grow group-hover:bg-white/10 transition-all">
-                            <div class="flex justify-between text-[8px] opacity-40 mb-1 uppercase">
-                                <span>Source: ${n.source || 'Opex360'}</span>
-                                <span>Priorité: ${n.urgent ? 'Alpha' : 'Beta'}</span>
+                // 3. Générer le HTML
+                let html = '';
+                for (const date in groups) {
+                    html += `
+                        <section class="mb-12 relative">
+                            <h2 class="text-xs bg-green-900 text-black font-bold px-3 py-1 inline-block mb-6 tracking-widest">${date}</h2>
+                            <div class="timeline-line"></div>
+                            <div class="space-y-6">
+                                ${groups[date].map(n => `
+                                    <div class="relative pl-12 group">
+                                        <div class="absolute left-[15px] top-2 w-2 h-2 rounded-full bg-green-900 border border-black z-10 group-hover:bg-green-500"></div>
+                                        <div class="bg-white/5 border border-white/5 p-4 group-hover:border-green-900/50 transition-all">
+                                            <div class="flex justify-between text-[9px] mb-2 font-bold italic">
+                                                <span class="text-green-500">${n.time} // ${n.source}</span>
+                                                <span class="${n.urgent ? 'text-red-600' : 'text-green-800'}">${n.urgent ? 'PRIORITÉ_ALPHA' : 'STABLE'}</span>
+                                            </div>
+                                            <p class="text-white text-xs leading-relaxed uppercase">${n.text}</p>
+                                        </div>
+                                    </div>
+                                `).join('')}
                             </div>
-                            <p class="text-white text-xs leading-relaxed uppercase">${n.text}</p>
-                        </div>
-                    </div>
-                `).join('');
-
-                html += `</div></div>`;
-                document.getElementById('archives-content').innerHTML = html;
-
-            } catch(e) {
-                document.getElementById('archives-content').innerHTML = "ERREUR DE LECTURE DE LA BASE DE DONNÉES.";
-            }
+                        </section>
+                    `;
+                }
+                document.getElementById('archives-container').innerHTML = html;
+            } catch(e) { console.error(e); }
         }
         loadArchives();
     </script>
