@@ -8,10 +8,49 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
-        body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; overflow: hidden; height: 100vh; display: flex; flex-direction: column; }
+        
+        body { 
+            background: #050505; 
+            color: #00ff66; 
+            font-family: 'JetBrains Mono'; 
+            overflow: hidden; 
+            height: 100vh; 
+            display: flex; 
+            flex-direction: column; 
+        }
+
         #map { height: 100%; background: #000 !important; }
         .panel { background: rgba(0, 10, 0, 0.9); border: 1px solid #004411; }
-        .alert-bar { background: #450a0a; border-bottom: 1px solid #ef4444; color: #fca5a5; padding: 4px 15px; font-size: 10px; font-weight: bold; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+        /* Bandeau Alertes Défilant */
+        .alert-bar { 
+            background: #450a0a; 
+            border-bottom: 1px solid #ef4444; 
+            color: #fca5a5; 
+            padding: 6px 0; 
+            font-size: 10px; 
+            font-weight: bold; 
+            overflow: hidden; 
+            white-space: nowrap;
+            position: relative;
+            display: flex;
+        }
+
+        .marquee-content {
+            display: inline-block;
+            padding-left: 100%;
+            animation: scroll-left 45s linear infinite;
+        }
+
+        @keyframes scroll-left {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-100%); }
+        }
+
+        .alert-bar:hover .marquee-content {
+            animation-play-state: paused;
+        }
+
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-thumb { background: #004411; }
     </style>
@@ -28,7 +67,11 @@
         </div>
     </header>
 
-    <div id="alert-zone" class="alert-bar tracking-tighter uppercase text-[9px]">Initialisation du flux...</div>
+    <div id="alert-zone" class="alert-bar tracking-tighter uppercase">
+        <div id="marquee-text" class="marquee-content">
+            Initialisation du flux satellite... Chargement des dernières données de renseignement...
+        </div>
+    </div>
 
     <div id="main-container" class="relative flex flex-grow overflow-hidden">
         <aside class="w-80 panel p-4 z-[1000] flex flex-col shrink-0 border-r border-green-900/30">
@@ -58,6 +101,7 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
+        // Initialisation de la carte
         const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([32, 53], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
@@ -65,13 +109,13 @@
             try {
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
+                
+                // Update UI Header
                 document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
                 document.getElementById('count-impacts').innerText = (d.impacts || []).length;
 
-                // On respecte le tri du JSON (déjà trié par Python)
-                const news = d.news;
-                
-                // On met les Urgents en haut tout en gardant l'ordre chronologique
+                // News Sorting (Urgents en premier)
+                const news = d.news || [];
                 const urgentNews = news.filter(n => n.urgent);
                 const normalNews = news.filter(n => !n.urgent);
                 const finalNews = [...urgentNews, ...normalNews];
@@ -80,6 +124,7 @@
                     document.getElementById('latest-time').innerText = finalNews[0].time || "--:--";
                 }
 
+                // Update News Feed
                 document.getElementById('news-feed').innerHTML = finalNews.map(n => `
                     <div class="p-3 border-l-2 ${n.urgent ? 'bg-red-900/20 border-red-600' : 'bg-green-900/5 border-green-800'} text-[10px] mb-2">
                         <div class="flex justify-between text-[8px] opacity-60 mb-1 italic font-bold">
@@ -90,12 +135,24 @@
                     </div>
                 `).join('');
 
-                const firstUrgent = finalNews.find(n => n.urgent);
-                document.getElementById('alert-zone').innerText = firstUrgent ? "ALERTE : " + firstUrgent.text : "SITUATION SOUS SURVEILLANCE SATELLITE";
+                // Update Défilement Bandeau (Toutes les news urgentes)
+                const marqueeElement = document.getElementById('marquee-text');
+                const urgentTitles = urgentNews.map(n => `[ALERTE ${n.time}] ${n.text}`).join(' +++ ');
                 
-            } catch(e) { console.error("Data error", e); }
+                if (urgentTitles) {
+                    marqueeElement.innerText = urgentTitles + " +++ " + urgentTitles; // Doublé pour effet de boucle
+                } else {
+                    marqueeElement.innerText = "SITUATION SOUS SURVEILLANCE SATELLITE // AUCUNE MENACE IMMÉDIATE DÉTECTÉE // " + d.last_update;
+                }
+                
+            } catch(e) { 
+                console.error("Data error", e); 
+            }
         }
-        setInterval(refreshData, 30000); refreshData();
+
+        // Intervalle de mise à jour (30 secondes)
+        setInterval(refreshData, 30000); 
+        refreshData();
     </script>
 </body>
 </html>
