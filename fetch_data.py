@@ -1,6 +1,9 @@
-import requests, json, xml.etree.ElementTree as ET
+import requests
+import json
+import xml.etree.ElementTree as ET
 from datetime import datetime
 import os
+import email.utils
 
 NASA_KEY = "3a967f64858b76c839f9b5a805a50785"
 AREA = "20,10,65,45"
@@ -24,22 +27,29 @@ def get_war_news():
             root = ET.fromstring(r.content)
             for item in root.findall('./channel/item')[:15]:
                 title = item.find('title').text
-                pub_date = item.find('pubDate').text
+                pub_date_raw = item.find('pubDate').text
                 
-                # Extraction propre de l'heure
-                time_val = pub_date.split(' ')[4][:5] if pub_date else "--:--"
+                # --- EXTRACTION DU TEMPS RÉEL DE PUBLICATION ---
+                # Convertit la date RSS (ex: Sat, 07 Mar 2026 10:51:00 +0100) en objet datetime
+                parsed_date = email.utils.parsedate_to_datetime(pub_date_raw)
+                
+                time_val = parsed_date.strftime("%H:%M")
+                date_val = parsed_date.strftime("%d/%m")
+                timestamp_val = int(parsed_date.timestamp())
                 
                 news_output.append({
-                    "id": title[:30] + time_val,
+                    "id": f"{name}_{timestamp_val}", # ID unique basé sur la source et le temps réel
                     "source": name,
                     "text": title.upper(),
                     "urgent": any(w in title.upper() for w in critical_keywords),
                     "france_related": any(w in title.upper() for w in france_keywords),
                     "time": time_val,
-                    "date": datetime.now().strftime("%d/%m"),
-                    "timestamp": datetime.now().timestamp() 
+                    "date": date_val,
+                    "timestamp": timestamp_val
                 })
-        except: continue
+        except Exception as e:
+            print(f"Erreur sur la source {name}: {e}")
+            continue
     return news_output
 
 def get_full_intel():
@@ -52,28 +62,36 @@ def get_full_intel():
 
     live_news = get_war_news()
     
-    # Fusion sans doublons
-    existing_texts = [n['text'] for n in current_data['news']]
+    # Fusion sans doublons basée sur le texte de la news
+    existing_texts = [n['text'] for n in current_data.get('news', [])]
     for n in live_news:
         if n['text'] not in existing_texts:
             current_data['news'].append(n)
 
-    # TRI CHRONOLOGIQUE : Date d'abord, Heure ensuite (Décroissant)
-    current_data['news'].sort(key=lambda x: (x.get('date', ''), x.get('time', '')), reverse=True)
+    # TRI CHRONOLOGIQUE : Basé sur le timestamp réel (le plus récent en haut)
+    current_data['news'].sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 
-    # Limitation
+    # Limitation aux 100 dernières entrées pour les archives
     current_data['news'] = current_data['news'][:100]
 
-    # NASA
+    # SCAN NASA (Signatures thermiques)
     impacts = []
     try:
         r_nasa = requests.get(f"https://firms.modaps.eosdis.nasa.gov/api/area/csv/{NASA_KEY}/VIIRS_SNPP_NRT/{AREA}/1", timeout=10)
-        lines = r_nasa.text.strip().split('\n')[1:]
-        for line in lines:
-            c = line.split(',')
-            impacts.append({"lat": float(c[0]), "lng": float(c[1]), "time": f"{c[6][:2]}:{c[6][2:]}"})
-    except: pass
+        if r_nasa.status_code == 200:
+            lines = r_nasa.text.strip().split('\n')[1:]
+            for line in lines:
+                c = line.split(',')
+                if len(c) > 6:
+                    impacts.append({
+                        "lat": float(c[0]), 
+                        "lng": float(c[1]), 
+                        "time": f"{c[6][:2]}:{c[6][2:]}"
+                    })
+    except Exception as e:
+        print(f"Erreur NASA: {e}")
 
+    # Mise à jour globale du JSON
     current_data.update({
         "last_update": datetime.now().strftime("%d/%m %H:%M"),
         "impacts": impacts,
@@ -87,6 +105,7 @@ def get_full_intel():
         }
     })
     
+    # Sauvegarde
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(current_data, f, indent=2, ensure_ascii=False)
 
