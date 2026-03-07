@@ -9,37 +9,28 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
         
-        body { 
-            background: #050505; 
-            color: #00ff66; 
-            font-family: 'JetBrains Mono'; 
-            overflow: hidden; 
-            height: 100vh; 
-            display: flex; 
-            flex-direction: column; 
-        }
-
+        body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; overflow: hidden; height: 100vh; display: flex; flex-direction: column; }
         #map { height: 100%; background: #000 !important; }
         .panel { background: rgba(0, 10, 0, 0.9); border: 1px solid #004411; }
 
-        /* Bandeau Alertes Défilant */
+        /* BANDEAU RALENTI ET PROPRE */
         .alert-bar { 
             background: #450a0a; 
             border-bottom: 1px solid #ef4444; 
             color: #fca5a5; 
-            padding: 6px 0; 
-            font-size: 10px; 
+            padding: 8px 0; 
+            font-size: 11px; 
             font-weight: bold; 
             overflow: hidden; 
             white-space: nowrap;
-            position: relative;
             display: flex;
         }
 
         .marquee-content {
             display: inline-block;
             padding-left: 100%;
-            animation: scroll-left 45s linear infinite;
+            /* VITESSE RÉDUITE : 80 secondes pour un cycle complet */
+            animation: scroll-left 80s linear infinite; 
         }
 
         @keyframes scroll-left {
@@ -47,9 +38,7 @@
             100% { transform: translateX(-100%); }
         }
 
-        .alert-bar:hover .marquee-content {
-            animation-play-state: paused;
-        }
+        /* Suppression du "pause on hover" pour éviter les bugs de lecture */
 
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-thumb { background: #004411; }
@@ -63,13 +52,13 @@
         </div>
         <div class="flex gap-4 items-center text-[9px]">
             <span id="update-time" class="opacity-50 font-mono">SYNC: --:--</span>
-            <a href="france.html" class="bg-blue-900 px-3 py-1 text-white font-bold transition-all hover:bg-blue-700 uppercase">Unité France</a>
+            <a href="france.html" class="bg-blue-900 px-3 py-1 text-white font-bold transition-all hover:bg-blue-700 uppercase text-[9px]">Unité France</a>
         </div>
     </header>
 
-    <div id="alert-zone" class="alert-bar tracking-tighter uppercase">
+    <div id="alert-zone" class="alert-bar tracking-widest uppercase">
         <div id="marquee-text" class="marquee-content">
-            Initialisation du flux satellite... Chargement des dernières données de renseignement...
+            CONNEXION EN COURS... RÉCUPÉRATION DES DERNIERS RENSEIGNEMENTS MILITAIRES...
         </div>
     </div>
 
@@ -86,7 +75,7 @@
                 </div>
             </div>
 
-            <h2 class="text-[10px] font-bold text-red-500 mb-2 uppercase tracking-tighter border-b border-red-900/40 pb-1">Flux de Renseignement</h2>
+            <h2 class="text-[10px] font-bold text-red-500 mb-2 uppercase tracking-tighter border-b border-red-900/40 pb-1 italic">Flux de Renseignement</h2>
             <div id="news-feed" class="space-y-3 overflow-y-auto flex-grow pr-2 font-bold"></div>
             
             <a href="archives.html" class="mt-4 block text-center border border-green-900 py-2 text-[9px] hover:bg-green-900/20 transition-all uppercase text-green-400 font-bold">
@@ -101,7 +90,6 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // Initialisation de la carte
         const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([32, 53], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
@@ -110,11 +98,9 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 
-                // Update UI Header
                 document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
                 document.getElementById('count-impacts').innerText = (d.impacts || []).length;
 
-                // News Sorting (Urgents en premier)
                 const news = d.news || [];
                 const urgentNews = news.filter(n => n.urgent);
                 const normalNews = news.filter(n => !n.urgent);
@@ -124,33 +110,31 @@
                     document.getElementById('latest-time').innerText = finalNews[0].time || "--:--";
                 }
 
-                // Update News Feed
                 document.getElementById('news-feed').innerHTML = finalNews.map(n => `
                     <div class="p-3 border-l-2 ${n.urgent ? 'bg-red-900/20 border-red-600' : 'bg-green-900/5 border-green-800'} text-[10px] mb-2">
                         <div class="flex justify-between text-[8px] opacity-60 mb-1 italic font-bold">
                             <span>${n.source || 'INTEL'} // ${n.date}</span>
                             <span class="text-white">${n.time}</span>
                         </div>
-                        <p class="text-white leading-tight uppercase font-bold">${n.text}</p>
+                        <p class="text-white leading-tight uppercase font-bold tracking-tighter">${n.text}</p>
                     </div>
                 `).join('');
 
-                // Update Défilement Bandeau (Toutes les news urgentes)
+                // GESTION DU BANDEAU : On ne prend que les 5 dernières alertes pour ne pas surcharger
                 const marqueeElement = document.getElementById('marquee-text');
-                const urgentTitles = urgentNews.map(n => `[ALERTE ${n.time}] ${n.text}`).join(' +++ ');
+                const recentUrgent = urgentNews.slice(0, 5); 
                 
-                if (urgentTitles) {
-                    marqueeElement.innerText = urgentTitles + " +++ " + urgentTitles; // Doublé pour effet de boucle
+                if (recentUrgent.length > 0) {
+                    const textContent = recentUrgent.map(n => ` >>> [ALERTE ${n.time}] ${n.text}`).join(' ');
+                    // On répète le texte pour éviter le gros vide à la fin du cycle
+                    marqueeElement.innerText = textContent + textContent + textContent;
                 } else {
-                    marqueeElement.innerText = "SITUATION SOUS SURVEILLANCE SATELLITE // AUCUNE MENACE IMMÉDIATE DÉTECTÉE // " + d.last_update;
+                    marqueeElement.innerText = " >>> SITUATION NOMINALE : VEILLE RADAR EN COURS >>> AUCUNE MENACE IMMÉDIATE >>> " + d.last_update;
                 }
                 
-            } catch(e) { 
-                console.error("Data error", e); 
-            }
+            } catch(e) { console.error("Data error", e); }
         }
 
-        // Intervalle de mise à jour (30 secondes)
         setInterval(refreshData, 30000); 
         refreshData();
     </script>
