@@ -67,18 +67,23 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 
-                // News France triées par heure
-                const franceNews = d.news.filter(n => n.france_related).sort((a,b) => b.time.localeCompare(a.time));
+                // --- TRI CORRIGÉ : RÉCENT (ex: 12:00) EN HAUT, ANCIEN (ex: 09:00) EN BAS ---
+                const franceNews = d.news
+                    .filter(n => n.france_related)
+                    .sort((a, b) => b.time.localeCompare(a.time)); 
+
                 document.getElementById('fr-news-count').innerText = franceNews.length.toString().padStart(2, '0');
                 
                 document.getElementById('france-news-feed').innerHTML = franceNews.map(n => `
                     <div class="p-2 border-l-2 border-blue-600 bg-blue-900/10 mb-2">
-                        <div class="flex justify-between text-[8px] mb-1 opacity-60"><span>DIRECT_TÉLEX</span><span>${n.time}</span></div>
+                        <div class="flex justify-between text-[8px] mb-1 opacity-60 uppercase font-bold">
+                            <span>DIRECT_EMA</span>
+                            <span>${n.time}</span>
+                        </div>
                         <p class="text-white text-[9px] leading-tight">${n.text}</p>
                     </div>
                 `).join('');
 
-                // Liste Unités avec Badge de Statut aléatoire/fictif pour le look
                 document.getElementById('unit-list').innerHTML = d.france.forces.map((u, i) => `
                     <div class="p-2 bg-blue-900/10 border border-blue-800/40 cursor-pointer hover:bg-blue-800/30 transition-all" onclick="map.flyTo([${u.p}], 6)">
                         <div class="flex justify-between items-start">
