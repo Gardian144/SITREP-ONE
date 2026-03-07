@@ -13,9 +13,11 @@
         .panel { background: rgba(0, 10, 0, 0.9); border: 1px solid #004411; }
         .emergency-mode { background: #1a0000; animation: flash 1s infinite; }
         @keyframes flash { 0% { box-shadow: inset 0 0 50px #f00; } 50% { box-shadow: inset 0 0 100px #400; } 100% { box-shadow: inset 0 0 50px #f00; } }
+        
+        /* Style des news amélioré */
+        .news-card { transition: all 0.3s ease; border-left-width: 4px; }
+        .news-urgent { box-shadow: 0 0 15px rgba(220, 38, 38, 0.2); }
 
-        /* Ajustement Mobile */
-        #main-container { display: flex; flex-grow: 1; overflow: hidden; }
         @media (max-width: 768px) {
             #main-container { flex-direction: column; overflow-y: auto; }
             aside { width: 100% !important; height: 350px !important; order: 2; }
@@ -27,7 +29,7 @@
     <header class="p-3 panel flex justify-between items-center shrink-0">
         <div class="flex items-center gap-3">
             <div class="w-2 h-2 bg-red-600 rounded-full animate-ping"></div>
-            <h1 class="text-[10px] md:text-xs font-bold tracking-widest uppercase">SITREP-ONE // SYSTEM_ACTIVE</h1>
+            <h1 class="text-[10px] md:text-xs font-bold tracking-widest uppercase text-white">SITREP-ONE // SYSTEM_ACTIVE</h1>
         </div>
         <div class="flex gap-4 items-center">
             <span id="update-time" class="text-[9px] md:text-[10px] opacity-50">SYNC: --:--</span>
@@ -35,10 +37,13 @@
         </div>
     </header>
 
-    <div id="main-container" class="relative">
-        <aside class="w-80 panel p-4 z-[1000] flex flex-col shrink-0">
-            <h2 class="text-[10px] font-bold text-red-500 mb-4 border-b border-red-900">DERNIERES_ANNONCES (24H)</h2>
-            <div id="news-feed" class="space-y-4 overflow-y-auto flex-grow"></div>
+    <div id="main-container" class="relative flex flex-grow overflow-hidden">
+        <aside class="w-80 panel p-4 z-[1000] flex flex-col shrink-0 border-r border-green-900/30">
+            <h2 class="text-[10px] font-bold text-red-500 mb-4 border-b border-red-900 pb-1 flex justify-between items-center">
+                <span>INTEL_STREAM (24H)</span>
+                <span class="text-[8px] opacity-50 uppercase">Live_Feed</span>
+            </h2>
+            <div id="news-feed" class="space-y-4 overflow-y-auto flex-grow pr-2"></div>
         </aside>
         <div id="map-container" class="flex-grow">
             <div id="map"></div>
@@ -54,43 +59,26 @@
             try {
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
-                
                 document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
+                
                 if(d.emergency) document.body.classList.add('emergency-mode');
+                else document.body.classList.remove('emergency-mode');
 
-                // CORRECTIF NEWS : On va chercher n.text au lieu de n tout court
                 const feed = document.getElementById('news-feed');
-                feed.innerHTML = d.news.map(n => {
-                    // Sécurité : si n est encore une simple chaîne, on l'affiche, sinon on prend n.text
-                    const newsText = (typeof n === 'object') ? n.text : n;
-                    const isUrgent = (typeof n === 'object') ? n.urgent : false;
-
-                    return `
-                        <div class="p-3 ${isUrgent ? 'bg-red-900/40 border-l-4 border-red-600 animate-pulse' : 'bg-red-900/10 border-l-2 border-red-600'} text-[10px] mb-2">
-                            <span class="text-red-500 font-bold">[${isUrgent ? 'PRIORITÉ ALPHA' : 'INFO CLASSIFIED'}]</span><br>
-                            <span class="text-white">${newsText}</span>
+                feed.innerHTML = d.news.map(n => `
+                    <div class="news-card p-3 ${n.urgent ? 'bg-red-900/40 border-red-600 news-urgent animate-pulse' : 'bg-green-900/5 border-green-900/50'} text-[10px] mb-2">
+                        <div class="flex justify-between items-start mb-1">
+                            <span class="${n.urgent ? 'text-red-500 font-bold' : 'text-green-500'}">[${n.urgent ? 'PRIORITÉ ALPHA' : 'TACTICAL_INFO'}]</span>
+                            <span class="text-[8px] opacity-40 text-white">${n.time}</span>
                         </div>
-                    `;
-                }).join('');
+                        <span class="text-white leading-tight">${n.text}</span>
+                    </div>
+                `).join('');
 
-                // Mise à jour Carte
                 map.eachLayer(l => { if(l instanceof L.CircleMarker) map.removeLayer(l); });
-
-                // Points Rouges (Impacts)
-                d.impacts.forEach(a => { 
-                    L.circleMarker([a.lat, a.lng], {radius: 7, color: '#ff0000', fillColor: '#ff4444', fillOpacity: 0.9})
-                     .addTo(map)
-                     .bindTooltip("IMPACT RÉEL @ " + a.time); 
-                });
-
-                // Points Bleus (Bases)
-                d.france.forces.forEach(u => {
-                    L.circleMarker(u.p, {radius: 5, color: '#0088ff', fillColor: '#0044ff', fillOpacity: 0.7, weight: 1})
-                     .addTo(map)
-                     .bindTooltip("DISPOSITIF : " + u.n);
-                });
-
-            } catch(e) { console.error("Sync fail", e); }
+                d.impacts.forEach(a => { L.circleMarker([a.lat, a.lng], {radius: 7, color: 'red', fillOpacity: 0.8}).addTo(map).bindTooltip("IMPACT RÉEL @ " + a.time); });
+                d.france.forces.forEach(u => { L.circleMarker(u.p, {radius: 5, color: '#0088ff', fillOpacity: 0.7}).addTo(map).bindTooltip("FORCE FR: " + u.n); });
+            } catch(e) { console.error("Sync fail"); }
         }
         setInterval(refreshData, 30000); refreshData();
     </script>
