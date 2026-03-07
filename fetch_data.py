@@ -5,6 +5,7 @@ NASA_KEY = "3a967f64858b76c839f9b5a805a50785"
 AREA = "20,10,65,45"
 
 def get_war_news():
+    """Récupère les news et extrait l'heure de publication"""
     news_output = []
     headers = {'User-Agent': 'Mozilla/5.0'}
     
@@ -25,9 +26,14 @@ def get_war_news():
         
         for item in root.findall('./channel/item')[:20]:
             title = item.find('title').text
-            # Extraction de l'heure
+            
+            # --- EXTRACTION DE L'HEURE (CHRONO-DATA) ---
             pub_date = item.find('pubDate').text
-            time_str = pub_date.split(' ')[4][:5] if pub_date else "--:--"
+            # On transforme "Tue, 04 Jun 2024 10:30:00 +0000" en "10:30"
+            try:
+                time_str = pub_date.split(' ')[4][:5] 
+            except:
+                time_str = "--:--"
             
             title_upper = title.upper()
             is_urgent = any(word in title_upper for word in critical_keywords)
@@ -37,13 +43,14 @@ def get_war_news():
                 "text": title.upper(),
                 "urgent": is_urgent,
                 "france_related": is_france,
-                "time": time_str
+                "time": time_str # L'heure est maintenant envoyée !
             })
             
         news_output.sort(key=lambda x: x['urgent'], reverse=True)
         return news_output
-    except Exception:
-        return [{"text": "ERREUR SYNC FLUX : RECONNEXION SATELLITE...", "urgent": True, "france_related": False, "time": "00:00"}]
+    except Exception as e:
+        print(f"Erreur RSS: {e}")
+        return [{"text": "ERREUR SYNC FLUX", "urgent": True, "france_related": False, "time": "00:00"}]
 
 def get_full_intel():
     impacts = []
