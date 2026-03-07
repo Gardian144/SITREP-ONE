@@ -1,9 +1,19 @@
 {
-  "last_update": "07/03 10:14",
+  "last_update": "07/03 10:20",
   "impacts": [],
   "news": [
     {
       "id": "CRISE AU PROCHE-ORIENT : LA FRANCE DÉPLOIE LE PORTE-HÉLICOPTÈRES AMPHIBIE TONNERRE EN MÉDITERRANÉE1772821682.0",
+      "source": "OPEX360",
+      "text": "CRISE AU PROCHE-ORIENT : LA FRANCE DÉPLOIE LE PORTE-HÉLICOPTÈRES AMPHIBIE TONNERRE EN MÉDITERRANÉE",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:28",
+      "date": "06/03",
+      "timestamp": 1772821682.0
+    },
+    {
+      "id": "OPEX360_1772821682.0",
       "source": "OPEX360",
       "text": "CRISE AU PROCHE-ORIENT : LA FRANCE DÉPLOIE LE PORTE-HÉLICOPTÈRES AMPHIBIE TONNERRE EN MÉDITERRANÉE",
       "urgent": false,
@@ -23,7 +33,27 @@
       "timestamp": 1772818161.0
     },
     {
+      "id": "OPEX360_1772818161.0",
+      "source": "OPEX360",
+      "text": "SCAF : AIRBUS ET LE SYNDICAT IG METALL METTENT LA PRESSION SUR LE CHANCELIER MERZ POUR ROMPRE AVEC DASSAULT AVIATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:29",
+      "date": "06/03",
+      "timestamp": 1772818161.0
+    },
+    {
       "id": "LA RÉPUBLIQUE DE CHYPRE EST RÉSOLUE À INTÉGRER L’OTAN1772809250.0",
+      "source": "OPEX360",
+      "text": "LA RÉPUBLIQUE DE CHYPRE EST RÉSOLUE À INTÉGRER L’OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:00",
+      "date": "06/03",
+      "timestamp": 1772809250.0
+    },
+    {
+      "id": "OPEX360_1772809250.0",
       "source": "OPEX360",
       "text": "LA RÉPUBLIQUE DE CHYPRE EST RÉSOLUE À INTÉGRER L’OTAN",
       "urgent": false,
@@ -43,7 +73,27 @@
       "timestamp": 1772796342.0
     },
     {
+      "id": "OPEX360_1772796342.0",
+      "source": "OPEX360",
+      "text": "LA FINLANDE SONGE À AUTORISER LA PRÉSENCE D’ARMES NUCLÉAIRES SUR SON SOL. LA RUSSIE S’ESTIME MENACÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:25",
+      "date": "06/03",
+      "timestamp": 1772796342.0
+    },
+    {
       "id": "LA ROYAL AIR FORCE RENONCE À L’IDÉE DE RECRUTER DES RÉSERVISTES POUR PILOTER SES CHASSEURS-BOMBARDIERS F-35B1772735494.0",
+      "source": "OPEX360",
+      "text": "LA ROYAL AIR FORCE RENONCE À L’IDÉE DE RECRUTER DES RÉSERVISTES POUR PILOTER SES CHASSEURS-BOMBARDIERS F-35B",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:31",
+      "date": "05/03",
+      "timestamp": 1772735494.0
+    },
+    {
+      "id": "OPEX360_1772735494.0",
       "source": "OPEX360",
       "text": "LA ROYAL AIR FORCE RENONCE À L’IDÉE DE RECRUTER DES RÉSERVISTES POUR PILOTER SES CHASSEURS-BOMBARDIERS F-35B",
       "urgent": false,
@@ -63,7 +113,27 @@
       "timestamp": 1772730325.0
     },
     {
+      "id": "OPEX360_1772730325.0",
+      "source": "OPEX360",
+      "text": "LA FRANCE A DEMANDÉ UNE FRÉGATE AUX PAYS-BAS POUR ESCORTER LE PORTE-AVIONS CHARLES DE GAULLE EN MÉDITERRANÉE",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:05",
+      "date": "05/03",
+      "timestamp": 1772730325.0
+    },
+    {
       "id": "LA MARINE NÉERLANDAISE RENONCE AUX TORPILLES AMÉRICAINES MK 48 POUR SE PROCURER DES F21 «ARTÉMIS» AUPRÈS DE NAVAL GROUP1772719762.0",
+      "source": "OPEX360",
+      "text": "LA MARINE NÉERLANDAISE RENONCE AUX TORPILLES AMÉRICAINES MK 48 POUR SE PROCURER DES F21 «ARTÉMIS» AUPRÈS DE NAVAL GROUP",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:09",
+      "date": "05/03",
+      "timestamp": 1772719762.0
+    },
+    {
+      "id": "OPEX360_1772719762.0",
       "source": "OPEX360",
       "text": "LA MARINE NÉERLANDAISE RENONCE AUX TORPILLES AMÉRICAINES MK 48 POUR SE PROCURER DES F21 «ARTÉMIS» AUPRÈS DE NAVAL GROUP",
       "urgent": false,
@@ -83,6 +153,16 @@
       "timestamp": 1772711014.0
     },
     {
+      "id": "OPEX360_1772711014.0",
+      "source": "OPEX360",
+      "text": "DES DRONES KAMIKAZES IRANIENS ONT VISÉ UN AÉROPORT CIVIL EN AZERBAÏDJAN; BAKOU DIT ENVISAGER UNE RIPOSTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:43",
+      "date": "05/03",
+      "timestamp": 1772711014.0
+    },
+    {
       "id": "SI AIRBUS NE VEUT PLUS TRAVAILLER AVEC DASSAULT AVIATION, ALORS LE SCAF EST «MORT», ESTIME ÉRIC TRAPPIER1772649848.0",
       "source": "OPEX360",
       "text": "SI AIRBUS NE VEUT PLUS TRAVAILLER AVEC DASSAULT AVIATION, ALORS LE SCAF EST «MORT», ESTIME ÉRIC TRAPPIER",
@@ -93,7 +173,27 @@
       "timestamp": 1772649848.0
     },
     {
+      "id": "OPEX360_1772649848.0",
+      "source": "OPEX360",
+      "text": "SI AIRBUS NE VEUT PLUS TRAVAILLER AVEC DASSAULT AVIATION, ALORS LE SCAF EST «MORT», ESTIME ÉRIC TRAPPIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:44",
+      "date": "04/03",
+      "timestamp": 1772649848.0
+    },
+    {
       "id": "UN SOUS-MARIN AMÉRICAIN A TORPILLÉ UNE FRÉGATE IRANIENNE DANS L’OCÉAN INDIEN1772645064.0",
+      "source": "OPEX360",
+      "text": "UN SOUS-MARIN AMÉRICAIN A TORPILLÉ UNE FRÉGATE IRANIENNE DANS L’OCÉAN INDIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:24",
+      "date": "04/03",
+      "timestamp": 1772645064.0
+    },
+    {
+      "id": "OPEX360_1772645064.0",
       "source": "OPEX360",
       "text": "UN SOUS-MARIN AMÉRICAIN A TORPILLÉ UNE FRÉGATE IRANIENNE DANS L’OCÉAN INDIEN",
       "urgent": true,
