@@ -140,8 +140,18 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 allNewsData = d.news || [];
+                
                 document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
                 document.getElementById('count-impacts').innerText = (d.impacts || []).length;
+                
+                // MISE À JOUR DERNIER INTEL (Correction : Prend la news la plus récente, même non urgente)
+                if (allNewsData.length > 0) {
+                    const latestTimeDisplay = document.getElementById('latest-time');
+                    latestTimeDisplay.innerText = allNewsData[0].time;
+                    // Facultatif : met l'heure en rouge si la toute dernière news est urgente
+                    latestTimeDisplay.style.color = allNewsData[0].urgent ? "#ff4444" : "#ffffff";
+                }
+
                 const urgentNews = allNewsData.filter(n => n.urgent);
 
                 // --- LOGIQUE D'ALERTE SYNCHRONISÉE ---
@@ -149,17 +159,14 @@
                 const sidebar = document.getElementById('sidebar');
                 const popup = document.getElementById('critical-popup');
 
-                // Si une NOUVELLE news urgente arrive
                 if(urgentNews.length > 0 && urgentNews[0].id !== lastUrgentId) {
                     lastUrgentId = urgentNews[0].id;
                     
-                    // 1. ACTIVER LES EFFETS
                     overlay.style.display = 'block';
                     sidebar.classList.add('shake');
                     popup.style.display = 'block';
                     document.getElementById('popup-text').innerText = urgentNews[0].text;
 
-                    // 2. TOUT ARRÊTER APRÈS 7 SECONDES
                     setTimeout(() => {
                         overlay.style.display = 'none';
                         sidebar.classList.remove('shake');
