@@ -5,11 +5,9 @@ NASA_KEY = "3a967f64858b76c839f9b5a805a50785"
 AREA = "20,10,65,45"
 
 def get_war_news():
-    """Récupère et classe les news par importance tactique"""
     news_output = []
     headers = {'User-Agent': 'Mozilla/5.0'}
     
-    # Mots-clés de haute priorité (Style Chaîne d'info)
     critical_keywords = [
         "GUERRE", "EXPLOSION", "FRAPPE", "MISSILE", "INVASION", "LIBAN", 
         "ISRAËL", "COMBAT", "OFFENSIVE", "ALERTE", "DRONE", "SOUS-MARIN",
@@ -17,30 +15,35 @@ def get_war_news():
         "NUCLÉAIRE", "URGENT", "BREAKING", "TSARHAL", "HEZBOLLAH", "IRAN",
         "BOMBARDEMENT", "FRONT", "SABOTAGE", "BALISTIQUE", "INTERCEPTION"
     ]
+    
+    france_keywords = ["FRANCE", "FRANÇAIS", "PARIS", "MARINE NATIONALE", "ARMÉE DE L'AIR", "BARKHANE", "CHAMMAL", "VIGIPIRATE", "EMA"]
 
     try:
         rss_url = "https://www.opex360.com/feed/"
         r = requests.get(rss_url, headers=headers, timeout=15)
         root = ET.fromstring(r.content)
         
-        for item in root.findall('./channel/item')[:15]:
+        for item in root.findall('./channel/item')[:20]:
             title = item.find('title').text
-            title_upper = title.upper()
+            # Extraction de l'heure
+            pub_date = item.find('pubDate').text
+            time_str = pub_date.split(' ')[4][:5] if pub_date else "--:--"
             
-            # Détection du niveau d'urgence
+            title_upper = title.upper()
             is_urgent = any(word in title_upper for word in critical_keywords)
+            is_france = any(word in title_upper for word in france_keywords)
             
             news_output.append({
                 "text": title.upper(),
-                "urgent": is_urgent
+                "urgent": is_urgent,
+                "france_related": is_france,
+                "time": time_str
             })
             
-        # Tri : Les urgents en premier
         news_output.sort(key=lambda x: x['urgent'], reverse=True)
         return news_output
-
     except Exception:
-        return [{"text": "ERREUR SYNC FLUX : RECONNEXION SATELLITE...", "urgent": True}]
+        return [{"text": "ERREUR SYNC FLUX : RECONNEXION SATELLITE...", "urgent": True, "france_related": False, "time": "00:00"}]
 
 def get_full_intel():
     impacts = []
