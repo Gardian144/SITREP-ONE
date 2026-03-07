@@ -13,32 +13,31 @@
         #map { height: 100%; background: #000 !important; }
         .panel { background: rgba(0, 10, 0, 0.9); border: 1px solid #004411; }
 
-        /* BANDEAU RALENTI ET PROPRE */
+        /* BANDEAU HAUTE PRÉCISION - VITESSE RÉDUITE */
         .alert-bar { 
             background: #450a0a; 
             border-bottom: 1px solid #ef4444; 
             color: #fca5a5; 
-            padding: 8px 0; 
-            font-size: 11px; 
+            padding: 10px 0; 
+            font-size: 13px; /* Texte un peu plus grand pour la lisibilité */
             font-weight: bold; 
             overflow: hidden; 
             white-space: nowrap;
             display: flex;
+            align-items: center;
         }
 
         .marquee-content {
             display: inline-block;
             padding-left: 100%;
-            /* VITESSE RÉDUITE : 80 secondes pour un cycle complet */
-            animation: scroll-left 80s linear infinite; 
+            /* VITESSE CINÉMATIQUE : 140s pour une lecture ultra fluide */
+            animation: scroll-left 140s linear infinite; 
         }
 
         @keyframes scroll-left {
             0% { transform: translateX(0); }
             100% { transform: translateX(-100%); }
         }
-
-        /* Suppression du "pause on hover" pour éviter les bugs de lecture */
 
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-thumb { background: #004411; }
@@ -51,14 +50,14 @@
             <h1 class="text-[10px] md:text-xs font-bold tracking-widest uppercase text-white">SITREP-ONE // LIVE_SYSTEM</h1>
         </div>
         <div class="flex gap-4 items-center text-[9px]">
-            <span id="update-time" class="opacity-50 font-mono">SYNC: --:--</span>
-            <a href="france.html" class="bg-blue-900 px-3 py-1 text-white font-bold transition-all hover:bg-blue-700 uppercase text-[9px]">Unité France</a>
+            <span id="update-time" class="opacity-50 font-mono text-green-500">SYNC: --:--</span>
+            <a href="france.html" class="bg-blue-900 px-3 py-1 text-white font-bold transition-all hover:bg-blue-700 uppercase">Unité France</a>
         </div>
     </header>
 
-    <div id="alert-zone" class="alert-bar tracking-widest uppercase">
+    <div id="alert-zone" class="alert-bar tracking-[0.2em] uppercase">
         <div id="marquee-text" class="marquee-content">
-            CONNEXION EN COURS... RÉCUPÉRATION DES DERNIERS RENSEIGNEMENTS MILITAIRES...
+            LIAISON SATELLITE ÉTABLIE ... ATTENTE DE NOUVELLES DONNÉES DE RENSEIGNEMENT ... 
         </div>
     </div>
 
@@ -120,16 +119,17 @@
                     </div>
                 `).join('');
 
-                // GESTION DU BANDEAU : On ne prend que les 5 dernières alertes pour ne pas surcharger
+                // GESTION DU BANDEAU : Formatage plus espacé
                 const marqueeElement = document.getElementById('marquee-text');
-                const recentUrgent = urgentNews.slice(0, 5); 
+                const recentUrgent = urgentNews.slice(0, 8); 
                 
                 if (recentUrgent.length > 0) {
-                    const textContent = recentUrgent.map(n => ` >>> [ALERTE ${n.time}] ${n.text}`).join(' ');
-                    // On répète le texte pour éviter le gros vide à la fin du cycle
-                    marqueeElement.innerText = textContent + textContent + textContent;
+                    // Utilisation de séparateurs massifs pour la clarté
+                    const textContent = recentUrgent.map(n => ` [ ${n.time} // ALERTE ] ${n.text} `).join('  ///  ');
+                    // On triple le contenu pour assurer la continuité du défilement
+                    marqueeElement.innerText = textContent + "  ///  " + textContent + "  ///  " + textContent;
                 } else {
-                    marqueeElement.innerText = " >>> SITUATION NOMINALE : VEILLE RADAR EN COURS >>> AUCUNE MENACE IMMÉDIATE >>> " + d.last_update;
+                    marqueeElement.innerText = " [ " + d.last_update + " ]  SITUATION NOMINALE : SURVEILLANCE RADAR ACTIVE  ///  AUCUNE MENACE IMMÉDIATE DÉTECTÉE  ///  PRÊT AU DÉPLOIEMENT ";
                 }
                 
             } catch(e) { console.error("Data error", e); }
