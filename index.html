@@ -9,20 +9,20 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
         
-        body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; overflow: hidden; height: 100vh; display: flex; flex-direction: column; }
+        body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; overflow: hidden; height: 100vh; display: flex; flex-direction: column; margin: 0; }
         #map { height: 100%; background: #000 !important; width: 100%; }
         .panel { background: rgba(0, 10, 0, 0.9); border: 1px solid #004411; }
 
-        /* BANDEAU DE DÉFILEMENT */
+        /* MARQUEE */
         .alert-bar { 
             background: #450a0a; border-bottom: 1px solid #ef4444; color: #fca5a5; 
             padding: 8px 0; font-size: 12px; font-weight: bold; overflow: hidden; 
-            white-space: nowrap; display: flex; align-items: center;
+            white-space: nowrap; display: flex; align-items: center; shrink: 0;
         }
         .marquee-content { display: inline-block; padding-left: 100%; animation: scroll-left 120s linear infinite; }
         @keyframes scroll-left { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
 
-        /* ALERTE ROUGE & VIBRATION */
+        /* EFFETS ALERTE */
         .emergency-border {
             position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
             border: 8px solid #ff0000; box-shadow: inset 0 0 50px #7f0000;
@@ -32,7 +32,6 @@
         .shake { animation: shake-anim 0.3s ease-in-out infinite; }
         @keyframes shake-anim { 0%, 100% { transform: translateX(0); } 25% { transform: translateX(3px); } 75% { transform: translateX(-3px); } }
 
-        /* POPUP CENTRAL */
         #critical-popup {
             position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
             background: rgba(139, 0, 0, 0.95); border: 2px solid #ff0000; color: white;
@@ -40,38 +39,53 @@
             box-shadow: 0 0 100px rgba(255, 0, 0, 0.5); width: 85%;
         }
 
-        /* --- CONFIGURATION MOBILE (COMME TON ANCIENNE VERSION) --- */
+        /* --- STRUCTURE PRINCIPALE (PC PAR DÉFAUT) --- */
+        #main-container {
+            display: flex;
+            flex-direction: row;
+            flex-grow: 1;
+            overflow: hidden;
+        }
+
+        /* --- FORÇAGE MOBILE (STYLE CAPTURE) --- */
         @media (max-width: 768px) {
             body { overflow-y: auto; height: auto; }
-            #main-container { flex-direction: column !important; height: auto !important; display: flex !important; }
+            #main-container { 
+                display: grid !important; 
+                grid-template-columns: 1fr !important; 
+                grid-template-rows: auto 400px !important; 
+                height: auto !important;
+                overflow: visible !important;
+            }
             
-            /* NEWS EN PREMIER (EN HAUT) */
+            /* News en haut */
             aside { 
+                grid-row: 1 !important;
                 width: 100% !important; 
-                order: 1 !important; 
-                height: 50vh !important; 
                 border-right: none !important; 
                 border-bottom: 2px solid #004411;
+                max-height: 60vh;
                 display: flex;
                 flex-direction: column;
             }
-            #news-feed { flex-grow: 1; overflow-y: auto; }
+            #news-feed { max-height: 400px; overflow-y: auto; }
 
-            /* CARTE EN DEUXIÈME (EN BAS) */
+            /* Carte en bas */
             #map-container { 
+                grid-row: 2 !important;
+                height: 400px !important; 
                 width: 100% !important;
-                height: 45vh !important; 
-                order: 2 !important; 
-                position: relative;
             }
 
-            /* BOUTONS FLOTTANTS SUR LA CARTE EN BAS */
-            .map-controls {
-                position: absolute; bottom: 10px; right: 10px; z-index: 1001;
-                display: flex; flex-direction: column; gap: 5px;
+            /* Ajustement boutons pays */
+            .filter-btns {
+                top: 10px !important;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                width: 95%;
             }
-            .filter-btns { top: auto !important; bottom: 10px !important; transform: none !important; left: auto !important; right: 10px; flex-direction: column; }
-            .filter-btns button { font-size: 8px !important; padding: 6px !important; width: 60px; }
+            .filter-btns button { font-size: 8px !important; padding: 4px 6px !important; }
         }
 
         ::-webkit-scrollbar { width: 4px; }
@@ -97,11 +111,10 @@
     </header>
 
     <div id="alert-zone" class="alert-bar tracking-[0.2em] uppercase">
-        <div id="marquee-text" class="marquee-content">INITIALISATION...</div>
+        <div id="marquee-text" class="marquee-content">SYSTÈME PRÊT...</div>
     </div>
 
-    <div id="main-container" class="relative flex flex-grow overflow-hidden">
-        
+    <div id="main-container">
         <aside id="sidebar" class="w-80 panel p-4 z-[1000] flex flex-col shrink-0 border-r border-green-900/30">
             <div class="grid grid-cols-2 gap-2 mb-4">
                 <div class="bg-green-900/10 p-2 border border-green-900/30 text-center">
@@ -172,14 +185,12 @@
                 const sidebar = document.getElementById('sidebar');
                 const popup = document.getElementById('critical-popup');
 
-                // Alerte synchronisée avec le gros texte
                 if(urgentNews.length > 0 && urgentNews[0].id !== lastUrgentId) {
                     lastUrgentId = urgentNews[0].id;
                     overlay.style.display = 'block';
                     sidebar.classList.add('shake');
                     popup.style.display = 'block';
                     document.getElementById('popup-text').innerText = urgentNews[0].text;
-
                     setTimeout(() => {
                         overlay.style.display = 'none';
                         sidebar.classList.remove('shake');
