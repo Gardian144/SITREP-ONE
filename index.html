@@ -24,30 +24,30 @@
         </div>
         <div class="flex gap-4 items-center text-[9px]">
             <span id="update-time" class="opacity-50 font-mono">SYNC: --:--</span>
-            <a href="france.html" class="bg-blue-900 px-3 py-1 text-white font-bold transition-all hover:bg-blue-700">UNITÉ FRANCE</a>
+            <a href="france.html" class="bg-blue-900 px-3 py-1 text-white font-bold transition-all hover:bg-blue-700 uppercase">Unité France</a>
         </div>
     </header>
 
-    <div id="alert-zone" class="alert-bar">ANALYSE DU THÉÂTRE D'OPÉRATIONS EN COURS...</div>
+    <div id="alert-zone" class="alert-bar tracking-tighter uppercase text-[9px]">Initialisation du flux...</div>
 
     <div id="main-container" class="relative flex flex-grow overflow-hidden">
         <aside class="w-80 panel p-4 z-[1000] flex flex-col shrink-0 border-r border-green-900/30">
             <div class="grid grid-cols-2 gap-2 mb-4">
                 <div class="bg-green-900/10 p-2 border border-green-900/30 text-center">
-                    <p class="text-[8px] opacity-50 uppercase">Alertes NASA</p>
+                    <p class="text-[8px] opacity-50 uppercase font-bold">Alertes NASA</p>
                     <p id="count-impacts" class="text-xl font-bold text-white">00</p>
                 </div>
                 <div class="bg-green-900/10 p-2 border border-green-900/30 text-center">
-                    <p class="text-[8px] opacity-50 uppercase">Dernier Intel</p>
+                    <p class="text-[8px] opacity-50 uppercase font-bold">Dernier Intel</p>
                     <p id="latest-time" class="text-xl font-bold text-white">--:--</p>
                 </div>
             </div>
 
             <h2 class="text-[10px] font-bold text-red-500 mb-2 uppercase tracking-tighter border-b border-red-900/40 pb-1">Flux de Renseignement</h2>
-            <div id="news-feed" class="space-y-3 overflow-y-auto flex-grow pr-2"></div>
+            <div id="news-feed" class="space-y-3 overflow-y-auto flex-grow pr-2 font-bold"></div>
             
-            <a href="archives.html" class="mt-4 block text-center border border-green-900 py-2 text-[9px] hover:bg-green-900/20 transition-all uppercase text-green-400">
-                Accéder aux archives complètes
+            <a href="archives.html" class="mt-4 block text-center border border-green-900 py-2 text-[9px] hover:bg-green-900/20 transition-all uppercase text-green-400 font-bold">
+                Accéder aux archives
             </a>
         </aside>
 
@@ -77,8 +77,7 @@
                 document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
                 document.getElementById('count-impacts').innerText = d.impacts.length;
 
-                // --- TRI PAR TIMESTAMP (Le secret pour le mélange aujourd'hui/hier) ---
-                // On trie d'abord par importance, PUIS par le timestamp numérique
+                // TRI PAR TIMESTAMP : Garanti que les news les plus récentes sont en haut
                 const urgentNews = d.news.filter(n => n.urgent).sort((a,b) => b.timestamp - a.timestamp);
                 const normalNews = d.news.filter(n => !n.urgent).sort((a,b) => b.timestamp - a.timestamp);
                 const allSorted = [...urgentNews, ...normalNews];
@@ -87,9 +86,9 @@
 
                 document.getElementById('news-feed').innerHTML = allSorted.map(n => `
                     <div class="p-3 border-l-2 ${n.urgent ? 'bg-red-900/20 border-red-600' : 'bg-green-900/5 border-green-800'} text-[10px]">
-                        <div class="flex justify-between text-[8px] opacity-60 mb-1">
-                            <span>SOURCE: ${n.source || 'INTEL'}</span>
-                            <span class="font-bold">${n.date || ''} ${n.time}</span>
+                        <div class="flex justify-between text-[8px] opacity-60 mb-1 italic">
+                            <span>SOURCE: ${n.source}</span>
+                            <span>${n.date} ${n.time}</span>
                         </div>
                         <p class="text-white leading-tight uppercase">${n.text}</p>
                     </div>
