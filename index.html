@@ -42,7 +42,7 @@
             position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
             background: rgba(139, 0, 0, 0.95); border: 2px solid #ff0000; color: white;
             padding: 20px; z-index: 10000; display: none; text-align: center;
-            box-shadow: 0 0 100px rgba(255, 0, 0, 0.5); width: 80%;
+            box-shadow: 0 0 100px rgba(255, 0, 0, 0.5); width: 85%;
         }
 
         .pulse-icon {
@@ -51,21 +51,24 @@
         }
         @keyframes pulse-red { 0% { transform: scale(0.5); opacity: 1; } 100% { transform: scale(2.5); opacity: 0; } }
 
-        /* --- ADAPTATION MOBILE (SANS CHANGER LE PC) --- */
+        /* --- ADAPTATION MOBILE STRICTE --- */
         @media (max-width: 768px) {
-            #main-container { flex-direction: column; overflow-y: auto; }
-            aside { 
+            body { overflow-y: auto; height: auto; }
+            #main-container { flex-direction: column !important; height: auto !important; overflow: visible !important; }
+            
+            #map-container { height: 45vh !important; order: 1; position: relative; flex-shrink: 0; }
+            #sidebar { 
                 width: 100% !important; 
                 height: auto !important; 
-                border-r: none !important; 
-                border-t: 1px solid #004411; 
-                flex-shrink: 0;
-                padding-bottom: 20px;
+                order: 2; 
+                border-right: none !important; 
+                border-top: 2px solid #004411; 
+                padding-bottom: 30px;
+                overflow: visible !important;
             }
-            #map-container { height: 50vh !important; flex-shrink: 0; }
-            .absolute.top-4 { width: 95%; display: flex; flex-wrap: wrap; justify-content: center; gap: 4px; }
-            .absolute.top-4 button { padding: 4px 8px; font-size: 8px; }
-            body { overflow-y: auto; }
+            #news-feed { max-height: 500px; overflow-y: auto; }
+            .absolute.top-4 { top: 10px !important; width: 90%; gap: 5px; }
+            .absolute.top-4 button { font-size: 7px !important; padding: 5px !important; }
         }
 
         ::-webkit-scrollbar { width: 4px; }
@@ -118,7 +121,7 @@
             <a href="archives.html" class="mt-4 block text-center border border-green-900 py-2 text-[9px] uppercase text-green-400 font-bold">Archives</a>
         </aside>
 
-        <div id="map-container" class="flex-grow min-h-[400px]">
+        <div id="map-container" class="flex-grow">
             <div id="map"></div>
         </div>
     </div>
