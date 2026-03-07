@@ -40,15 +40,17 @@
             box-shadow: 0 0 100px rgba(255, 0, 0, 0.5); width: 85%;
         }
 
-        /* --- CONFIGURATION MOBILE (COMME TON ANCIENNE VERSION) --- */
+        /* --- CONFIGURATION MOBILE --- */
         @media (max-width: 768px) {
-            body { overflow-y: auto; height: auto; }
-            #main-container { flex-direction: column !important; height: auto !important; display: flex !important; }
+            body { overflow-y: auto !important; height: auto !important; }
+            #main-container { 
+                display: block !important; /* Force l'empilement vertical */
+                height: auto !important; 
+            }
             
-            /* NEWS EN PREMIER (EN HAUT) */
+            /* NEWS EN HAUT */
             aside { 
                 width: 100% !important; 
-                order: 1 !important; 
                 height: 50vh !important; 
                 border-right: none !important; 
                 border-bottom: 2px solid #004411;
@@ -57,21 +59,21 @@
             }
             #news-feed { flex-grow: 1; overflow-y: auto; }
 
-            /* CARTE EN DEUXIÈME (EN BAS) */
+            /* CARTE EN BAS */
             #map-container { 
                 width: 100% !important;
                 height: 45vh !important; 
-                order: 2 !important; 
                 position: relative;
             }
 
-            /* BOUTONS FLOTTANTS SUR LA CARTE EN BAS */
-            .map-controls {
-                position: absolute; bottom: 10px; right: 10px; z-index: 1001;
-                display: flex; flex-direction: column; gap: 5px;
+            /* Boutons de filtres sur la carte */
+            .filter-btns { 
+                top: 10px !important; 
+                width: 95%; 
+                justify-content: center; 
+                gap: 5px;
             }
-            .filter-btns { top: auto !important; bottom: 10px !important; transform: none !important; left: auto !important; right: 10px; flex-direction: column; }
-            .filter-btns button { font-size: 8px !important; padding: 6px !important; width: 60px; }
+            .filter-btns button { font-size: 8px !important; padding: 5px 8px !important; }
         }
 
         ::-webkit-scrollbar { width: 4px; }
@@ -172,7 +174,6 @@
                 const sidebar = document.getElementById('sidebar');
                 const popup = document.getElementById('critical-popup');
 
-                // Alerte synchronisée avec le gros texte
                 if(urgentNews.length > 0 && urgentNews[0].id !== lastUrgentId) {
                     lastUrgentId = urgentNews[0].id;
                     overlay.style.display = 'block';
@@ -193,6 +194,10 @@
                 updateNewsDisplay();
             } catch(e) { console.error("Data error", e); }
         }
+
+        // Force Leaflet à se recalculer si on tourne le téléphone
+        window.addEventListener('resize', () => { map.invalidateSize(); });
+
         setInterval(refreshData, 30000); refreshData();
     </script>
 </body>
