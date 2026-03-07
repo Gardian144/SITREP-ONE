@@ -66,30 +66,34 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
-                document.getElementById('count-impacts').innerText = d.impacts.length;
+                document.getElementById('count-impacts').innerText = (d.impacts || []).length;
 
-                // FILTRE : Supprime les news corrompues (undefined) et trie par TIMESTAMP
-                const validNews = d.news.filter(n => n.timestamp && n.date);
+                // TRI CHRONOLOGIQUE GLOBAL (Plus récent = plus gros timestamp)
+                const allSorted = d.news.sort((a, b) => (b.timestamp || 0) - (a.timestamp || 0));
                 
-                const urgentNews = validNews.filter(n => n.urgent).sort((a,b) => b.timestamp - a.timestamp);
-                const normalNews = validNews.filter(n => !n.urgent).sort((a,b) => b.timestamp - a.timestamp);
-                const allSorted = [...urgentNews, ...normalNews];
+                // On sépare Urgents et Normaux mais on garde le tri chrono interne
+                const urgentNews = allSorted.filter(n => n.urgent);
+                const normalNews = allSorted.filter(n => !n.urgent);
+                const finalNews = [...urgentNews, ...normalNews];
 
-                if(allSorted.length > 0) document.getElementById('latest-time').innerText = allSorted[0].time;
+                if(finalNews.length > 0) {
+                    document.getElementById('latest-time').innerText = finalNews[0].time || "--:--";
+                }
 
-                document.getElementById('news-feed').innerHTML = allSorted.map(n => `
-                    <div class="p-3 border-l-2 ${n.urgent ? 'bg-red-900/20 border-red-600' : 'bg-green-900/5 border-green-800'} text-[10px]">
-                        <div class="flex justify-between text-[8px] opacity-60 mb-1 italic">
-                            <span>SOURCE: ${n.source} // ${n.date}</span>
-                            <span class="text-white font-bold">${n.time}</span>
+                document.getElementById('news-feed').innerHTML = finalNews.map(n => `
+                    <div class="p-3 border-l-2 ${n.urgent ? 'bg-red-900/20 border-red-600' : 'bg-green-900/5 border-green-800'} text-[10px] mb-2">
+                        <div class="flex justify-between text-[8px] opacity-60 mb-1 italic font-bold">
+                            <span>${n.source || 'INTEL'} // ${n.date || '07/03'}</span>
+                            <span class="text-white">${n.time || '--:--'}</span>
                         </div>
                         <p class="text-white leading-tight uppercase font-bold">${n.text}</p>
                     </div>
                 `).join('');
 
-                const urgent = allSorted.filter(n => n.urgent);
-                document.getElementById('alert-zone').innerText = urgent.length > 0 ? "ALERTE : " + urgent[0].text : "SITUATION SOUS SURVEILLANCE SATELLITE";
-            } catch(e) { console.error("Refresh error"); }
+                const firstUrgent = finalNews.find(n => n.urgent);
+                document.getElementById('alert-zone').innerText = firstUrgent ? "ALERTE : " + firstUrgent.text : "SITUATION SOUS SURVEILLANCE SATELLITE";
+                
+            } catch(e) { console.error("Data error", e); }
         }
         setInterval(refreshData, 30000); refreshData();
     </script>
