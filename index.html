@@ -11,10 +11,7 @@
         body { background: #050505; color: #00ff66; font-family: 'JetBrains Mono'; overflow: hidden; height: 100vh; display: flex; flex-direction: column; }
         #map { height: 100%; background: #000 !important; }
         .panel { background: rgba(0, 10, 0, 0.9); border: 1px solid #004411; }
-        
-        /* Bandeau d'alerte fixe (plus de défilement rapide) */
         .alert-bar { background: #450a0a; border-bottom: 1px solid #ef4444; color: #fca5a5; padding: 4px 15px; font-size: 10px; font-weight: bold; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-thumb { background: #004411; }
     </style>
@@ -27,7 +24,7 @@
         </div>
         <div class="flex gap-4 items-center text-[9px]">
             <span id="update-time" class="opacity-50 font-mono">SYNC: --:--</span>
-            <a href="france.html" class="bg-blue-900 px-3 py-1 text-white font-bold">UNITÉ FRANCE</a>
+            <a href="france.html" class="bg-blue-900 px-3 py-1 text-white font-bold transition-all hover:bg-blue-700">UNITÉ FRANCE</a>
         </div>
     </header>
 
@@ -49,7 +46,7 @@
             <h2 class="text-[10px] font-bold text-red-500 mb-2 uppercase tracking-tighter border-b border-red-900/40 pb-1">Flux de Renseignement</h2>
             <div id="news-feed" class="space-y-3 overflow-y-auto flex-grow pr-2"></div>
             
-            <a href="archives.html" class="mt-4 block text-center border border-green-900 py-2 text-[9px] hover:bg-green-900/20 transition-all uppercase">
+            <a href="archives.html" class="mt-4 block text-center border border-green-900 py-2 text-[9px] hover:bg-green-900/20 transition-all uppercase text-green-400">
                 Accéder aux archives complètes
             </a>
         </aside>
@@ -61,11 +58,9 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // Carte centrée sur le Moyen-Orient (Iran/Israël)
         const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([32, 53], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        // --- RADAR TACTIQUE ---
         let radar = L.circle([32.42, 53.68], { radius: 100, color: '#00ffff', weight: 1, fillOpacity: 0.1, interactive: false }).addTo(map);
         let rSize = 100;
         setInterval(() => {
@@ -82,23 +77,26 @@
                 document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
                 document.getElementById('count-impacts').innerText = d.impacts.length;
 
-                // Tri : Urgents d'abord, puis les plus récents en haut (b.time vs a.time)
-                const sorted = d.news.sort((a,b) => (b.urgent - a.urgent) || b.time.localeCompare(a.time));
-                if(sorted[0]) document.getElementById('latest-time').innerText = sorted[0].time;
+                // --- TRI HYBRIDE : ROUGE EN HAUT (PAR HEURE), VERT ENSUITE (PAR HEURE) ---
+                const urgentNews = d.news.filter(n => n.urgent).sort((a,b) => b.time.localeCompare(a.time));
+                const normalNews = d.news.filter(n => !n.urgent).sort((a,b) => b.time.localeCompare(a.time));
+                const allSorted = [...urgentNews, ...normalNews];
 
-                document.getElementById('news-feed').innerHTML = sorted.map(n => `
+                if(allSorted.length > 0) document.getElementById('latest-time').innerText = allSorted[0].time;
+
+                document.getElementById('news-feed').innerHTML = allSorted.map(n => `
                     <div class="p-3 border-l-2 ${n.urgent ? 'bg-red-900/20 border-red-600' : 'bg-green-900/5 border-green-800'} text-[10px]">
                         <div class="flex justify-between text-[8px] opacity-60 mb-1">
-                            <span>SOURCE: ${n.source}</span>
+                            <span>SOURCE: ${n.source || 'INTEL'}</span>
                             <span class="font-bold">${n.time}</span>
                         </div>
-                        <p class="text-white leading-tight">${n.text}</p>
+                        <p class="text-white leading-tight uppercase">${n.text}</p>
                     </div>
                 `).join('');
 
                 const urgent = d.news.filter(n => n.urgent);
                 document.getElementById('alert-zone').innerText = urgent.length > 0 ? "ALERTE : " + urgent[0].text : "SITUATION SOUS SURVEILLANCE SATELLITE";
-            } catch(e) {}
+            } catch(e) { console.error("Refresh error"); }
         }
         setInterval(refreshData, 30000); refreshData();
     </script>
