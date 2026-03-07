@@ -26,7 +26,7 @@
 
         @keyframes scroll-left { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
 
-        /* MODE ALERTE ROUGE */
+        /* MODE ALERTE ROUGE (Activé par JS) */
         .emergency-border {
             position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
             border: 8px solid #ff0000; box-shadow: inset 0 0 50px #7f0000;
@@ -144,20 +144,27 @@
                 document.getElementById('count-impacts').innerText = (d.impacts || []).length;
                 const urgentNews = allNewsData.filter(n => n.urgent);
 
-                // GESTION ALERTE ROUGE
+                // --- LOGIQUE D'ALERTE SYNCHRONISÉE ---
                 const overlay = document.getElementById('emergency-overlay');
                 const sidebar = document.getElementById('sidebar');
-                const isEmergency = d.impacts.length > 10 || urgentNews.length > 0;
-                overlay.style.display = isEmergency ? 'block' : 'none';
-                if(isEmergency) sidebar.classList.add('shake'); else sidebar.classList.remove('shake');
+                const popup = document.getElementById('critical-popup');
 
-                // GESTION POPUP NOUVELLE ALERTE
+                // Si une NOUVELLE news urgente arrive
                 if(urgentNews.length > 0 && urgentNews[0].id !== lastUrgentId) {
                     lastUrgentId = urgentNews[0].id;
-                    const popup = document.getElementById('critical-popup');
-                    document.getElementById('popup-text').innerText = urgentNews[0].text;
+                    
+                    // 1. ACTIVER LES EFFETS
+                    overlay.style.display = 'block';
+                    sidebar.classList.add('shake');
                     popup.style.display = 'block';
-                    setTimeout(() => popup.style.display = 'none', 7000);
+                    document.getElementById('popup-text').innerText = urgentNews[0].text;
+
+                    // 2. TOUT ARRÊTER APRÈS 7 SECONDES
+                    setTimeout(() => {
+                        overlay.style.display = 'none';
+                        sidebar.classList.remove('shake');
+                        popup.style.display = 'none';
+                    }, 7000);
                 }
 
                 const marqueeElement = document.getElementById('marquee-text');
