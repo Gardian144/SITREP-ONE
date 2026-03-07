@@ -19,8 +19,8 @@
         @media (max-width: 768px) {
             body { height: auto !important; overflow-y: auto !important; display: block !important; }
             #main-container { display: flex !important; flex-direction: column !important; height: auto !important; }
-            aside#sidebar { width: 100% !important; height: 42vh !important; border-right: none !important; border-bottom: 1px solid #004411 !important; }
-            #map-container { width: 100% !important; height: 58vh !important; }
+            aside#sidebar { width: 100% !important; height: 45vh !important; border-right: none !important; border-bottom: 1px solid #004411 !important; }
+            #map-container { width: 100% !important; height: 55vh !important; }
         }
 
         .panel { background: rgba(0, 5, 0, 0.95); border: 1px solid #004411; }
@@ -48,12 +48,12 @@
         </div>
         <div class="flex gap-4 items-center">
             <span id="update-time" class="text-[9px] opacity-50 text-green-500">SYNC: --:--</span>
-            <a href="france.html" class="bg-blue-700 px-4 py-1.5 text-white text-[10px] font-bold uppercase transition-all hover:bg-blue-600">Unité France</a>
+            <a href="france.html" class="bg-blue-700 px-5 py-2 text-white text-[11px] font-bold uppercase transition-all hover:bg-blue-600 shadow-lg shadow-blue-900/20">Unité France</a>
         </div>
     </header>
 
     <div class="alert-bar uppercase font-mono">
-        <div id="marquee-text" class="marquee-content">SYSTÈME OPÉRATIONNEL... SCAN EN COURS...</div>
+        <div id="marquee-text" class="marquee-content text-red-200">CHARGEMENT DU FLUX TACTIQUE...</div>
     </div>
 
     <div id="main-container">
@@ -61,27 +61,33 @@
             <div class="p-3 border-b border-green-900/20">
                 <div class="grid grid-cols-2 gap-2">
                     <div class="bg-green-950/30 p-2 border border-green-900/30 text-center">
-                        <p class="text-[8px] opacity-60 uppercase font-bold">Alertes NASA</p>
+                        <p class="text-[8px] opacity-60 uppercase font-bold text-green-400">NASA ALERTS</p>
                         <p id="count-impacts" class="text-xl font-bold text-white">00</p>
                     </div>
                     <div class="bg-green-950/30 p-2 border border-green-900/30 text-center">
-                        <p class="text-[8px] opacity-60 uppercase font-bold">Dernier Intel</p>
+                        <p class="text-[8px] opacity-60 uppercase font-bold text-green-400">LAST INTEL</p>
                         <p id="latest-time" class="text-xl font-bold text-white">--:--</p>
                     </div>
                 </div>
             </div>
-            <div class="bg-red-950/40 text-[10px] font-bold text-red-500 uppercase italic px-4 py-1 border-b border-red-900/30">
+            
+            <div class="bg-red-950/40 text-[10px] font-bold text-red-500 uppercase italic px-4 py-1.5 border-b border-red-900/30 tracking-widest">
                 Intel Stream
             </div>
+
             <div id="news-feed" class="flex-grow overflow-y-auto p-3 space-y-3"></div>
+
+            <a href="archives.html" class="p-3 text-center border-t border-green-900/40 text-[9px] uppercase font-bold text-green-500 hover:bg-green-900/10 transition-all bg-black/50">
+                Accéder aux archives complètes
+            </a>
         </aside>
 
         <div id="map-container">
             <div class="filter-btns absolute top-4 left-0 right-0 z-[1001] flex gap-2 justify-center px-2">
-                <button onclick="filterByCountry('ALL', [32, 53], 4)" class="bg-black/90 border border-green-900 text-green-400 px-3 py-2 text-[9px] font-bold uppercase">Global</button>
-                <button onclick="filterByCountry('IRAN', [32.4, 53.6], 5)" class="bg-black/90 border border-red-900 text-red-500 px-3 py-2 text-[9px] font-bold uppercase">Iran</button>
-                <button onclick="filterByCountry('ISRAËL', [31.5, 34.8], 7)" class="bg-black/90 border border-blue-900 text-blue-500 px-3 py-2 text-[9px] font-bold uppercase">Israël</button>
-                <button onclick="filterByCountry('LIBAN', [33.8, 35.8], 8)" class="bg-black/90 border border-yellow-700 text-yellow-500 px-3 py-2 text-[9px] font-bold uppercase">Liban</button>
+                <button onclick="filterByCountry('ALL', [32, 53], 4)" class="bg-black/90 border border-green-900 text-green-400 px-3 py-2 text-[9px] font-bold uppercase hover:bg-green-900/40">Global</button>
+                <button onclick="filterByCountry('IRAN', [32.4, 53.6], 5)" class="bg-black/90 border border-red-900 text-red-500 px-3 py-2 text-[9px] font-bold uppercase hover:bg-red-900/40">Iran</button>
+                <button onclick="filterByCountry('ISRAËL', [31.5, 34.8], 7)" class="bg-black/90 border border-blue-900 text-blue-500 px-3 py-2 text-[9px] font-bold uppercase hover:bg-blue-900/40">Israël</button>
+                <button onclick="filterByCountry('LIBAN', [33.8, 35.8], 8)" class="bg-black/90 border border-yellow-700 text-yellow-500 px-3 py-2 text-[9px] font-bold uppercase hover:bg-yellow-700/40">Liban</button>
             </div>
             <div id="map"></div>
         </div>
@@ -92,9 +98,8 @@
         const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([32, 53], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        // Grille tactique simple
         function addTacticalGrid() {
-            const style = { color: 'rgba(0, 255, 102, 0.1)', weight: 0.5, interactive: false };
+            const style = { color: 'rgba(0, 255, 102, 0.08)', weight: 0.5, interactive: false };
             for (let i = -180; i <= 180; i += 15) { L.polyline([[-90, i], [90, i]], style).addTo(map); }
             for (let i = -90; i <= 90; i += 15) { L.polyline([[i, -180], [i, 180]], style).addTo(map); }
         }
@@ -104,7 +109,11 @@
         let currentFilter = 'ALL';
         let alertFiredThisSession = false;
 
-        function filterByCountry(c, coords, z) { currentFilter = c; map.flyTo(coords, z, {duration: 1.5}); updateNewsDisplay(); }
+        function filterByCountry(c, coords, z) { 
+            currentFilter = c; 
+            map.flyTo(coords, z, {duration: 1.5}); 
+            updateNewsDisplay(); 
+        }
 
         function updateNewsDisplay() {
             const feed = document.getElementById('news-feed');
@@ -122,11 +131,14 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 allNewsData = d.news || [];
+                
                 document.getElementById('update-time').innerText = "SYNC: " + d.last_update;
                 document.getElementById('count-impacts').innerText = (d.impacts || []).length;
                 if (allNewsData.length > 0) document.getElementById('latest-time').innerText = allNewsData[0].time;
 
                 const urgentNews = allNewsData.filter(n => n.urgent);
+
+                // --- ALERTE SESSION ---
                 if(urgentNews.length > 0 && !alertFiredThisSession) {
                     alertFiredThisSession = true;
                     document.getElementById('emergency-overlay').style.display = 'block';
@@ -137,11 +149,19 @@
                         document.getElementById('critical-popup').style.display = 'none';
                     }, 7000);
                 }
+
+                // --- BANDEAU DYNAMIQUE (REMIS) ---
+                const marqueeElement = document.getElementById('marquee-text');
+                marqueeElement.innerText = urgentNews.length > 0 
+                    ? urgentNews.slice(0, 3).map(n => ` [ ${n.time} ] ${n.text} `).join(' /// ') 
+                    : "VEILLE RADAR ACTIVE /// SYSTÈME OPÉRATIONNEL /// " + d.last_update;
+
                 updateNewsDisplay();
-            } catch(e) { console.error(e); }
+            } catch(e) { console.error("Erreur Sync:", e); }
         }
 
-        setInterval(refreshData, 30000); refreshData();
+        setInterval(refreshData, 30000); 
+        refreshData();
         window.addEventListener('resize', () => map.invalidateSize());
     </script>
 </body>
