@@ -14,81 +14,76 @@
         body { background: var(--bg-dark); color: #93c5fd; font-family: 'JetBrains Mono'; height: 100vh; overflow: hidden; display: flex; flex-direction: column; margin: 0; }
         .card { background: rgba(15, 23, 42, 0.9); border: 1px solid var(--border-blue); }
         
-        #content-wrapper { display: flex; flex-grow: 1; gap: 10px; padding: 10px; overflow: hidden; }
-        aside { width: 380px; display: flex; flex-direction: column; gap: 10px; flex-shrink: 0; }
+        #content-wrapper { display: flex; flex-grow: 1; gap: 10px; padding: 10px; overflow: hidden; height: calc(100vh - 100px); }
+        aside { width: 380px; display: flex; flex-direction: column; gap: 10px; flex-shrink: 0; height: 100%; }
         
-        #france-news-feed, #unit-list { overflow-y: auto; flex-grow: 1; }
-        #map-container { flex-grow: 1; position: relative; }
+        /* Conteneurs avec scroll interne */
+        .side-block { display: flex; flex-direction: column; min-height: 0; flex: 1; }
+        .scroll-area { overflow-y: auto; flex-grow: 1; scrollbar-width: thin; scrollbar-color: #1e3a8a transparent; }
+
+        #map-container { flex-grow: 1; position: relative; border: 1px solid var(--border-blue); }
         #map { height: 100%; width: 100%; background: #000 !important; }
 
-        /* BANDEAU ALERTES */
+        /* ALERT BAR */
         .alert-bar { background: #081451; border-bottom: 1px solid #3b82f6; color: #fff; padding: 6px 0; font-size: 11px; font-weight: bold; overflow: hidden; white-space: nowrap; flex-shrink: 0; }
-        .marquee-content { display: inline-block; padding-left: 100%; animation: scroll-left 40s linear infinite; will-change: transform; }
+        .marquee-content { display: inline-block; padding-left: 100%; animation: scroll-left 40s linear infinite; }
         @keyframes scroll-left { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
 
-        /* MARQUEURS TACTIQUES */
-        .unit-marker { width: 14px; height: 14px; border: 2px solid #3b82f6; display: flex; align-items: center; justify-content: center; font-size: 8px; font-weight: bold; background: rgba(59, 130, 246, 0.2); box-shadow: 0 0 8px #3b82f6; border-radius: 2px; }
-        .unit-label { color: #3b82f6; font-size: 8px; font-weight: bold; text-shadow: 1px 1px 2px #000; white-space: nowrap; margin-left: 20px; }
+        /* UNIT MARKERS */
+        .unit-marker { width: 18px; height: 18px; border: 1px solid #3b82f6; display: flex; align-items: center; justify-content: center; font-size: 10px; color: #fff; background: rgba(59, 130, 246, 0.3); box-shadow: 0 0 5px #3b82f6; border-radius: 2px; }
+        .unit-label { color: #3b82f6; font-size: 9px; font-weight: bold; text-shadow: 1px 1px 2px #000; white-space: nowrap; margin-left: 22px; }
 
-        .btn-strat { background: rgba(0,0,0,0.8); border: 1px solid var(--border-blue); color: var(--main-blue); padding: 6px 10px; font-size: 8px; font-weight: bold; text-transform: uppercase; }
-        .vigi-badge { background: #000; border: 2px solid #ef4444; color: #fff; padding: 4px 8px; font-size: 9px; font-weight: bold; }
+        .btn-strat { background: rgba(2, 6, 23, 0.9); border: 1px solid var(--border-blue); color: var(--main-blue); padding: 5px 12px; font-size: 9px; font-weight: bold; text-transform: uppercase; z-index: 1000; cursor: pointer; }
+        .btn-strat:hover { background: var(--main-blue); color: #000; }
 
-        /* FIX MOBILE SCROLL */
         @media (max-width: 768px) {
-            body { overflow: hidden; } /* Empêche le scroll de toute la page */
-            #content-wrapper { flex-direction: column !important; height: calc(100vh - 110px) !important; padding: 5px; overflow: hidden; }
-            #map-container { height: 40% !important; min-height: 250px; flex-shrink: 0; order: -1; }
-            aside { width: 100% !important; height: 60% !important; flex-grow: 1; overflow: hidden; }
-            
-            /* On limite la taille des listes pour forcer le scroll interne */
-            .side-block-news { height: 60% !important; overflow: hidden; }
-            .side-block-units { height: 40% !important; overflow: hidden; }
-            #france-news-feed, #unit-list { overflow-y: scroll !important; -webkit-overflow-scrolling: touch; }
-            
-            .marquee-content { animation: scroll-left 30s linear infinite !important; }
+            #content-wrapper { flex-direction: column !important; height: auto !important; overflow-y: auto; }
+            #map-container { height: 300px !important; order: -1; flex-shrink: 0; }
+            aside { width: 100% !important; height: 500px !important; }
+            .side-block { height: 250px; }
         }
 
-        /* Styles scrollbar pour le look tech */
-        ::-webkit-scrollbar { width: 3px; }
-        ::-webkit-scrollbar-thumb { background: #1e3a8a; }
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-thumb { background: #1e3a8a; border-radius: 2px; }
     </style>
 </head>
 <body class="p-2">
 
     <header class="p-3 card flex justify-between items-center shrink-0 border-b-2 border-blue-600 mb-2">
         <h1 class="text-[10px] md:text-sm font-bold text-white uppercase tracking-widest flex items-center gap-2">
-            <span class="w-2 h-2 bg-blue-500 rounded-full animate-pulse shadow-[0_0_8px_#3b82f6]"></span> SITREP_FR // QG_STRAT
+            <span class="w-2 h-2 bg-blue-500 rounded-full animate-pulse shadow-[0_0_8px_#3b82f6]"></span> SITREP_UNIT_FR // PC_REAR
         </h1>
         <div class="flex items-center gap-3">
-            <div id="zulu-clock" class="text-blue-400 text-[9px] font-bold">ZULU: --:--</div>
-            <a href="index.html" class="bg-blue-600 px-3 py-1 text-[9px] text-white font-bold uppercase">Middle_East</a>
+            <div id="zulu-clock" class="text-blue-400 text-[10px] font-bold">ZULU: --:--</div>
+            <a href="index.html" class="bg-blue-600 px-3 py-1 text-[10px] text-white font-bold uppercase hover:bg-blue-500">Moyen_Orient</a>
         </div>
     </header>
 
-    <div class="alert-bar uppercase font-mono mb-2">
-        <div id="marquee-text" class="marquee-content">SYNCHRONISATION...</div>
+    <div class="alert-bar mb-2">
+        <div id="marquee-text" class="marquee-content font-mono">INITIALISATION DE LA LIAISON SÉCURISÉE...</div>
     </div>
 
     <div id="content-wrapper">
         <aside>
-            <div class="card p-3 side-block-news border-l-2 border-blue-500 flex flex-col min-height-0">
-                <h2 class="text-blue-400 text-[10px] font-bold mb-2 border-b border-blue-900 pb-1 flex justify-between">
-                    <span>FLUX_INTEL</span><span id="fr-news-count" class="text-blue-600">00</span>
+            <div class="card p-3 side-block border-l-2 border-blue-500">
+                <h2 class="text-blue-400 text-[10px] font-bold mb-2 border-b border-blue-900 pb-1 flex justify-between uppercase">
+                    <span>Flux_Renseignement</span><span id="fr-news-count" class="text-blue-600">00</span>
                 </h2>
-                <div id="france-news-feed" class="space-y-2 pr-1 overflow-y-auto"></div>
+                <div id="france-news-feed" class="scroll-area space-y-2 pr-2"></div>
             </div>
 
-            <div class="card p-3 side-block-units flex flex-col min-height-0 mt-1">
-                <h2 class="text-blue-400 text-[10px] font-bold mb-2 border-b border-blue-900 pb-1">FORCES_ENGAGÉES</h2>
-                <div id="unit-list" class="space-y-1 pr-1 overflow-y-auto text-[9px]"></div>
+            <div class="card p-3 side-block mt-2">
+                <h2 class="text-blue-400 text-[10px] font-bold mb-2 border-b border-blue-900 pb-1 uppercase tracking-tighter">Ordre de Bataille / Projection</h2>
+                <div id="unit-list" class="scroll-area space-y-1 pr-2"></div>
             </div>
         </aside>
 
         <div id="map-container" class="card overflow-hidden">
-            <div class="absolute top-2 left-0 right-0 z-[1000] flex justify-center gap-1 px-2">
+            <div class="absolute top-4 left-0 right-0 z-[1000] flex justify-center gap-2 px-2">
                 <button onclick="map.flyTo([46.6, 2.2], 6)" class="btn-strat">HEXAGONE</button>
                 <button onclick="map.flyTo([43.5, 5.0], 9)" class="btn-strat">HUB_SUD</button>
-                <button onclick="map.flyTo([12.6, 43.1], 7)" class="btn-strat">DÉPLOIEMENT</button>
+                <button onclick="map.flyTo([48.3, -4.4], 9)" class="btn-strat">BREST</button>
+                <button onclick="map.flyTo([12.6, 43.1], 7)" class="btn-strat">THEATER</button>
             </div>
             <div id="map"></div>
         </div>
@@ -100,26 +95,38 @@
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
         let unitMarkers = L.layerGroup().addTo(map);
+        let flowLines = L.layerGroup().addTo(map);
 
         function updateClocks() {
-            const now = new Date();
-            const zulu = now.toISOString().substring(11, 16);
+            const zulu = new Date().toISOString().substring(11, 16);
             document.getElementById('zulu-clock').innerText = `ZULU: ${zulu}Z`;
         }
         setInterval(updateClocks, 1000);
 
-        // ICÔNES DIFFÉRENCIÉES
+        // SYMBOLOGIE TACTIQUE
         function getTacticalIcon(name) {
-            let symbol = "●"; // Défaut
+            let symbol = "◈"; 
             if(name.includes("BASE") || name.includes("B.A")) symbol = "✈";
-            if(name.includes("PORT") || name.includes("TASK")) symbol = "⚓";
-            if(name.includes("QG") || name.includes("PARIS")) symbol = "◈";
+            if(name.includes("PORT") || name.includes("TASK") || name.includes("Toulon")) symbol = "⚓";
             
             return L.divIcon({
                 className: 'unit-icon',
                 html: `<div class="unit-marker">${symbol}</div><div class="unit-label">${name}</div>`
             });
         }
+
+        // LIGNES DE FLUX (Réactivées)
+        function drawFlows() {
+            flowLines.clearLayers();
+            const paths = [
+                [[43.5, 5.0], [35.0, 35.0]], // Sud -> Méditerranée
+                [[48.3, -4.4], [35.0, 15.0]]  // Brest -> Atlantique/Med
+            ];
+            paths.forEach(p => {
+                L.polyline(p, { color: '#3b82f6', weight: 1, dashArray: '8, 12', opacity: 0.4 }).addTo(flowLines);
+            });
+        }
+        drawFlows();
 
         async function updateFrance() {
             try {
@@ -128,27 +135,29 @@
                 unitMarkers.clearLayers();
 
                 // News
-                const fn = d.news.filter(n => n.france_related || n.text.includes("BASE"));
+                const fn = d.news.filter(n => n.france_related || n.text.includes("BASE") || n.text.includes("FRANCE"));
                 document.getElementById('fr-news-count').innerText = fn.length.toString().padStart(2, '0');
                 document.getElementById('france-news-feed').innerHTML = fn.map(n => `
-                    <div class="p-2 border-l border-blue-600 bg-blue-900/10 mb-1">
-                        <div class="flex justify-between text-[7px] opacity-50"><span>${n.source}</span><span>${n.time}</span></div>
-                        <p class="font-bold uppercase text-[9px]">${n.text}</p>
+                    <div class="p-2 border-l border-blue-600 bg-blue-900/10 mb-1 text-[9px]">
+                        <div class="flex justify-between opacity-50 mb-1"><span>${n.source}</span><span>${n.time}</span></div>
+                        <p class="font-bold uppercase text-white">${n.text}</p>
                     </div>`).join('');
 
                 // Unités
                 document.getElementById('unit-list').innerHTML = d.france.forces.map((u) => {
                     L.marker(u.p, {icon: getTacticalIcon(u.n)}).addTo(unitMarkers);
-                    return `<div class="p-2 bg-blue-900/10 border border-blue-800/40 cursor-pointer hover:bg-blue-600/20" onclick="map.flyTo([${u.p}], 9)">
-                        <div class="flex justify-between uppercase">
+                    L.circle(u.p, { radius: 30000, color: '#3b82f6', weight: 1, fillOpacity: 0.05 }).addTo(unitMarkers);
+
+                    return `<div class="p-2 bg-blue-900/10 border border-blue-800/40 cursor-pointer text-[9px] hover:bg-blue-800/40 mb-1" onclick="map.flyTo([${u.p}], 9)">
+                        <div class="flex justify-between font-bold uppercase">
                             <span>${u.n}</span>
-                            <span class="text-blue-500">READY</span>
+                            <span class="text-blue-400">NOMINAL</span>
                         </div>
                     </div>`;
                 }).join('');
 
                 const lastThree = d.news.slice(0, 3);
-                document.getElementById('marquee-text').innerText = " LIAISON_OPS: OK /// " + lastThree.map(n => ` [ ${n.time} ] ${n.text} `).join(' /// ');
+                document.getElementById('marquee-text').innerText = " LIAISON_UNIT_ME: ACTIVE /// " + lastThree.map(n => ` [ ${n.time} ] ${n.text} `).join(' /// ');
 
             } catch (err) {}
         }
