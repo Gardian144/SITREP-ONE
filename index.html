@@ -8,97 +8,73 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
-        
         :root { --main-color: #00ff66; --border-color: #004411; --bg-panel: rgba(0, 10, 0, 0.95); }
-        .stealth-mode { --main-color: #ffaa00; --border-color: #442200; }
-
         body { background: #000; color: var(--main-color); font-family: 'JetBrains Mono'; margin: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
         #main-container { display: flex; flex-grow: 1; overflow: hidden; }
         aside#sidebar { width: 320px; border-right: 1px solid var(--border-color); display: flex; flex-direction: column; background: var(--bg-panel); flex-shrink: 0; }
-        #map-container { flex-grow: 1; position: relative; }
+        #map-container { flex-grow: 1; position: relative; min-height: 0; }
         #map { height: 100%; width: 100%; background: #000 !important; }
-
-        .alert-bar { background: #450a0a; border-bottom: 1px solid #ef4444; color: #fca5a5; padding: 6px 0; font-size: 11px; font-weight: bold; overflow: hidden; white-space: nowrap; flex-shrink: 0; }
+        .alert-bar { background: #450a0a; border-bottom: 1px solid #ef4444; color: #fca5a5; padding: 4px 0; font-size: 10px; overflow: hidden; white-space: nowrap; flex-shrink: 0; }
         .marquee-content { display: inline-block; padding-left: 100%; animation: scroll-left 80s linear infinite; }
         @keyframes scroll-left { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
-
-        .heat-zone { fill: #ff0000; fill-opacity: 0.3; stroke: none; animation: pulse-heat 3s infinite ease-in-out; pointer-events: none; }
-        @keyframes pulse-heat { 0%, 100% { fill-opacity: 0.2; transform: scale(1); } 50% { fill-opacity: 0.5; transform: scale(1.1); } }
-
-        .btn-country { background: rgba(0,0,0,0.8); border: 1px solid var(--border-color); color: var(--main-color); padding: 6px 10px; font-size: 9px; font-weight: bold; text-transform: uppercase; }
         
         @media (max-width: 768px) {
-            body { height: auto !important; display: block !important; }
-            #main-container { flex-direction: column !important; height: auto !important; }
-            aside#sidebar { width: 100% !important; height: auto !important; border-bottom: 1px solid var(--border-color); }
-            #map-container { height: 45vh !important; width: 100% !important; }
-            .world-clocks { display: flex !important; gap: 10px !important; margin-top: 4px; }
+            body { overflow-y: auto; height: auto; }
+            #main-container { flex-direction: column; height: auto; }
+            aside#sidebar { width: 100%; height: auto; border-right: none; border-bottom: 1px solid var(--border-color); }
+            #map-container { height: 40vh; order: -1; } /* Carte toujours visible en haut */
+            h1 { font-size: 8px !important; }
+            .world-clocks span { font-size: 7px !important; }
         }
     </style>
 </head>
-<body id="app-body">
-    <header class="p-3 border-b border-green-900/30 flex justify-between items-center bg-black shrink-0">
-        <div class="flex flex-col">
-            <div class="flex items-center gap-2">
-                <div class="w-1.5 h-1.5 bg-red-600 rounded-full animate-ping"></div>
-                <h1 class="text-[10px] font-bold tracking-widest uppercase text-white">SITREP-ONE // LIVE</h1>
-            </div>
-            <div class="world-clocks hidden lg:flex gap-4 font-mono">
+<body>
+    <header class="p-2 md:p-3 border-b border-green-900/30 flex justify-between items-center bg-black shrink-0">
+        <div class="flex flex-col gap-1">
+            <h1 class="text-[9px] md:text-[11px] font-bold tracking-tighter uppercase text-white flex items-center gap-2">
+                <span class="w-1.5 h-1.5 bg-red-600 rounded-full animate-ping"></span> SITREP-ONE // LIVE
+            </h1>
+            <div class="world-clocks flex gap-3 font-mono">
                 <div class="flex items-center gap-1">
-                    <span class="text-[6px] opacity-50 uppercase">ISR/LBN:</span>
-                    <span id="time-il-lb" class="text-[9px] font-bold text-white">--:--:--</span>
+                    <span class="text-[6px] md:text-[8px] opacity-50">ISR/LBN:</span>
+                    <span id="time-il-lb" class="text-[7px] md:text-[9px] font-bold text-white">--:--</span>
                 </div>
                 <div class="flex items-center gap-1">
-                    <span class="text-[6px] opacity-50 uppercase">IRAN:</span>
-                    <span id="time-ir" class="text-[9px] font-bold text-white">--:--:--</span>
+                    <span class="text-[6px] md:text-[8px] opacity-50">IRAN:</span>
+                    <span id="time-ir" class="text-[7px] md:text-[9px] font-bold text-white">--:--</span>
                 </div>
             </div>
         </div>
-        
-        <div class="flex items-center gap-3">
-            <div class="flex flex-col items-end mr-1">
-                <span class="text-[6px] opacity-50 uppercase leading-none">Last Scan</span>
-                <span id="sync-val-header" class="text-[9px] font-bold text-green-500 leading-none">--:--</span>
+        <div class="flex items-center gap-2">
+            <div class="hidden md:flex flex-col items-end mr-2">
+                <span class="text-[7px] opacity-50 uppercase leading-none">Last Scan</span>
+                <span id="sync-val-header" class="text-[9px] font-bold text-green-500">--:--</span>
             </div>
-            <button onclick="toggleStealth()" class="text-[8px] border border-green-900 px-2 py-0.5 uppercase text-green-500">Stealth</button>
-            <a href="france.html" class="bg-blue-700 px-2 py-1 text-white text-[9px] font-bold uppercase">Unit_FR</a>
+            <a href="france.html" class="bg-blue-700 px-2 py-1 text-white text-[8px] md:text-[10px] font-bold uppercase">Unit_FR</a>
         </div>
     </header>
 
-    <div class="alert-bar uppercase font-mono">
-        <div id="marquee-text" class="marquee-content text-red-100">INITIALISATION...</div>
-    </div>
+    <div class="alert-bar uppercase font-mono"><div id="marquee-text" class="marquee-content">INITIALISATION...</div></div>
 
     <div id="main-container">
         <aside id="sidebar">
             <div class="p-3 border-b border-green-900/20">
-                <div class="grid grid-cols-2 gap-2 mb-3 text-center">
-                    <div class="bg-black border border-green-900 p-2">
-                        <p class="text-[7px] opacity-50 uppercase">NASA Impacts</p>
-                        <p id="nasa-val" class="text-lg font-bold">0</p>
+                <div class="grid grid-cols-2 gap-2 mb-2">
+                    <div class="bg-black border border-green-900 p-1 text-center">
+                        <p class="text-[6px] opacity-50">NASA</p>
+                        <p id="nasa-val" class="text-sm font-bold">0</p>
                     </div>
-                    <div class="bg-black border border-green-900 p-2">
-                        <p class="text-[7px] opacity-50 uppercase">Dernier Intel</p>
-                        <p id="latest-time" class="text-lg font-bold">--:--</p>
+                    <div class="bg-black border border-green-900 p-1 text-center">
+                        <p class="text-[6px] opacity-50">LATEST</p>
+                        <p id="latest-time" class="text-sm font-bold">--:--</p>
                     </div>
                 </div>
-                <input type="text" id="search-bar" placeholder="RECHERCHE..." class="w-full bg-black/50 border border-green-900 p-2 text-[10px] text-green-400 outline-none">
+                <input type="text" id="search-bar" placeholder="FILTRER..." class="w-full bg-black/50 border border-green-900 p-1.5 text-[9px] text-green-400 outline-none">
             </div>
-            
-            <div class="bg-red-950/40 text-[9px] font-bold text-red-500 uppercase px-4 py-1.5 border-b border-red-900/30 italic">Intel Stream</div>
-            <div id="news-feed" class="flex-grow overflow-y-auto p-3 space-y-3"></div>
-            <a href="archives.html" class="p-2 text-center text-[9px] font-bold border-t border-green-900 hover:bg-green-900/10">ACCÉDER AUX ARCHIVES</a>
+            <div id="news-feed" class="flex-grow overflow-y-auto p-2 space-y-2 max-h-[40vh] md:max-h-none"></div>
         </aside>
 
-        <div id="map-container">
-            <div class="absolute top-4 left-0 right-0 z-[1000] flex justify-center gap-1 px-2">
-                <button onclick="filterByCountry('ALL', [32, 53], 4)" class="btn-country text-[7px]">Global</button>
-                <button onclick="filterByCountry('IRAN', [32.4, 53.6], 5)" class="btn-country text-[7px]">Iran</button>
-                <button onclick="filterByCountry('ISRAËL', [31.5, 34.8], 7)" class="btn-country text-[7px]">Israël</button>
-                <button onclick="filterByCountry('LIBAN', [33.8, 35.8], 8)" class="btn-country text-[7px]">Liban</button>
-            </div>
-            <div id="map"></div>
-        </div>
+        <div id="map-container"><div id="map"></div></div>
     </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -106,49 +82,26 @@
         const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([32, 53], 4);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        function updateWorldClocks() {
-            const opt = { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false };
+        function updateClocks() {
+            const opt = { hour: '2-digit', minute: '2-digit', hour12: false, second: '2-digit' };
             document.getElementById('time-il-lb').innerText = new Date().toLocaleTimeString('fr-FR', { ...opt, timeZone: 'Asia/Jerusalem' });
             document.getElementById('time-ir').innerText = new Date().toLocaleTimeString('fr-FR', { ...opt, timeZone: 'Asia/Tehran' });
         }
-        setInterval(updateWorldClocks, 1000); updateWorldClocks();
-
-        let allNews = [];
-        let currentFilter = 'ALL';
+        setInterval(updateClocks, 1000); updateClocks();
 
         async function loadData() {
             try {
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
-                allNews = d.news;
-                document.getElementById('sync-val-header').innerText = d.last_update;
                 document.getElementById('nasa-val').innerText = d.impacts.length;
-                if (allNews.length > 0) document.getElementById('latest-time').innerText = allNews[0].time;
-                
-                const urgent = allNews.filter(n => n.urgent);
-                document.getElementById('marquee-text').innerText = urgent.length > 0 
-                    ? urgent.slice(0, 3).map(n => ` [ ${n.time} ] ${n.text} `).join(' /// ')
-                    : "VEILLE ACTIVE /// SYSTÈME OPÉRATIONNEL";
-                
-                updateDisplay();
-            } catch(e) { console.log("Error"); }
+                document.getElementById('news-feed').innerHTML = d.news.map(n => `
+                    <div class="p-2 border-l border-green-900 bg-green-900/5 text-[9px]">
+                        <div class="flex justify-between text-[6px] opacity-50 uppercase"><span>${n.source}</span><span>${n.time}</span></div>
+                        <b class="text-white block mt-1 uppercase leading-tight">${n.text}</b>
+                    </div>`).join('');
+            } catch(e) {}
         }
-
-        function updateDisplay() {
-            const q = document.getElementById('search-bar').value.toLowerCase();
-            const filtered = allNews.filter(n => (currentFilter === 'ALL' || n.text.includes(currentFilter)) && (q === "" || n.text.toLowerCase().includes(q)));
-            document.getElementById('news-feed').innerHTML = filtered.map(n => `
-                <div class="p-2 border-l-2 ${n.urgent ? 'bg-red-950/20 border-red-600' : 'bg-green-950/5 border-green-900'} text-[10px]">
-                    <div class="flex justify-between text-[7px] opacity-60 mb-1"><span>${n.source}</span><span>${n.time}</span></div>
-                    <b class="uppercase text-white">${n.text}</b>
-                </div>
-            `).join('');
-        }
-
-        function filterByCountry(c, coords, z) { currentFilter = c; map.flyTo(coords, z); updateDisplay(); }
-        function toggleStealth() { document.getElementById('app-body').classList.toggle('stealth-mode'); }
-        document.getElementById('search-bar').addEventListener('input', updateDisplay);
-        setInterval(loadData, 30000); loadData();
+        loadData(); setInterval(loadData, 30000);
     </script>
 </body>
 </html>
