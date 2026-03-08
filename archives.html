@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SITREP-ONE // ARCHIVES_CENTRAL</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
@@ -10,6 +11,17 @@
         .timeline-line { position: absolute; left: 19px; top: 0; bottom: 0; width: 1px; background: #004411; }
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-thumb { background: #004411; }
+
+        /* ADAPTATION MOBILE */
+        @media (max-width: 768px) {
+            body { padding: 10px; }
+            header { flex-direction: column; align-items: flex-start; gap: 15px; }
+            .timeline-line { left: 10px; }
+            .pl-12 { padding-left: 30px; }
+            .absolute.left-\[15px\] { left: 6px; }
+            h1 { font-size: 1.25rem; }
+            .text-xs { font-size: 10px; }
+        }
     </style>
 </head>
 <body class="max-w-4xl mx-auto">
@@ -28,21 +40,14 @@
             try {
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
-                
-                // 1. Tri massif par timestamp (le plus récent en premier)
                 const allNews = d.news.sort((a,b) => (b.timestamp || 0) - (a.timestamp || 0));
-
-                // 2. Groupement par date
                 const groups = {};
                 allNews.forEach(n => {
                     const key = n.date || "Inconnu";
                     if (!groups[key]) groups[key] = [];
                     groups[key].push(n);
                 });
-
-                // 3. Récupérer les dates et les trier (pour éviter l'ordre aléatoire des objets JS)
                 const sortedDates = Object.keys(groups).sort((a, b) => {
-                    // On transforme "07/03" en "0307" pour une comparaison simple
                     const format = (d) => d.split('/').reverse().join('');
                     return format(b).localeCompare(format(a));
                 });
@@ -73,10 +78,8 @@
                         </section>
                     `;
                 });
-                
                 document.getElementById('archives-container').innerHTML = html || "SITUATION NOMINALE : AUCUNE DONNÉE";
             } catch(e) { 
-                console.error(e); 
                 document.getElementById('archives-container').innerHTML = "ERREUR DE LECTURE BASE DE DONNÉES.";
             }
         }
