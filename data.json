@@ -1,7 +1,17 @@
 {
-  "last_update": "08/03 14:53",
+  "last_update": "08/03 15:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1772984599",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN HÔTEL DE BEYROUTH A ÉTÉ TOUCHÉ PAR DES TIRS ISRAÉLIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:43",
+      "date": "08/03",
+      "timestamp": 1772984599
+    },
     {
       "id": "BFMTV_1772981175",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "17:37",
       "date": "07/03",
       "timestamp": 1772905026
-    },
-    {
-      "id": "BFMTV_1772904927",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: PLUS DE 450.000 DÉPLACÉS AU LIBAN FACE AUX FRAPPES ISRAÉLIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:35",
-      "date": "07/03",
-      "timestamp": 1772904927
     }
   ],
   "france": {
