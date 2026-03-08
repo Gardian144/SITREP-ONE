@@ -17,29 +17,27 @@
         #content-wrapper { display: flex; flex-grow: 1; gap: 10px; padding: 10px; overflow: hidden; }
         aside { width: 380px; display: flex; flex-direction: column; gap: 10px; flex-shrink: 0; }
         
-        .side-block-news { flex: 2; min-height: 0; display: flex; flex-direction: column; }
-        .side-block-units { flex: 1; min-height: 0; display: flex; flex-direction: column; }
-        
         #france-news-feed, #unit-list { overflow-y: auto; flex-grow: 1; }
         #map-container { flex-grow: 1; position: relative; }
         #map { height: 100%; width: 100%; background: #000 !important; }
 
-        /* BANDEAU ALERTES TACTIQUES */
+        /* BANDEAU ALERTES */
         .alert-bar { background: #081451; border-bottom: 1px solid #3b82f6; color: #fff; padding: 6px 0; font-size: 11px; font-weight: bold; overflow: hidden; white-space: nowrap; flex-shrink: 0; }
-        .marquee-content { display: inline-block; padding-left: 100%; animation: scroll-left 60s linear infinite; will-change: transform; }
-        
+        .marquee-content { display: inline-block; padding-left: 100%; animation: scroll-left 40s linear infinite; will-change: transform; }
         @keyframes scroll-left { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
 
-        /* BOUTONS STRATÉGIQUES */
+        /* MARQUEURS TACTIQUES */
+        .unit-icon { background: none; border: none; }
+        .unit-marker { width: 12px; height: 12px; border: 2px solid #3b82f6; background: rgba(59, 130, 246, 0.5); transform: rotate(45deg); box-shadow: 0 0 10px #3b82f6; }
+        .unit-label { color: #3b82f6; font-size: 8px; font-weight: bold; text-shadow: 1px 1px 2px #000; white-space: nowrap; margin-left: 15px; margin-top: -5px; }
+
         .btn-strat { background: rgba(0,0,0,0.8); border: 1px solid var(--border-blue); color: var(--main-blue); padding: 6px 10px; font-size: 9px; font-weight: bold; text-transform: uppercase; transition: all 0.2s; }
         .btn-strat:hover { background: var(--main-blue); color: #000; }
-
-        /* BADGE VIGIPIRATE */
-        .vigi-badge { background: #000; border: 2px solid #ef4444; color: #fff; padding: 4px 8px; font-size: 9px; font-weight: 1000; letter-spacing: 1px; box-shadow: 0 0 10px rgba(239, 68, 68, 0.3); }
+        .vigi-badge { background: #000; border: 2px solid #ef4444; color: #fff; padding: 4px 8px; font-size: 9px; font-weight: 1000; box-shadow: 0 0 10px rgba(239, 68, 68, 0.3); }
 
         @media (max-width: 768px) {
             #content-wrapper { flex-direction: column !important; height: auto !important; overflow-y: auto; padding: 5px; gap: 5px; }
-            #map-container { height: 300px !important; order: -1; flex-shrink: 0; }
+            #map-container { height: 350px !important; order: -1; flex-shrink: 0; }
             aside { width: 100% !important; height: auto !important; }
             .marquee-content { animation: scroll-left 30s linear infinite !important; }
         }
@@ -49,48 +47,48 @@
 
     <header class="p-3 card flex justify-between items-center shrink-0 border-b-2 border-blue-600 mb-2">
         <h1 class="text-[10px] md:text-sm font-bold text-white uppercase tracking-widest flex items-center gap-2">
-            <span class="w-2 h-2 bg-blue-500 rounded-full animate-pulse shadow-[0_0_8px_#3b82f6]"></span> UNIT_FR // REAR COMMAND
+            <span class="w-2 h-2 bg-blue-500 rounded-full animate-pulse shadow-[0_0_8px_#3b82f6]"></span> SITREP_UNIT_FR // PC OPS
         </h1>
-        <div class="flex items-center gap-3">
+        <div class="flex items-center gap-4">
+            <div id="zulu-clock" class="text-blue-400 text-[10px] font-bold">ZULU: --:--</div>
             <div class="vigi-badge hidden md:block">▲ VIGIPIRATE : RENFORCÉ</div>
-            <a href="index.html" class="bg-blue-600 hover:bg-blue-500 px-3 py-1 text-[10px] text-white font-bold uppercase transition-colors">Global_Terminal</a>
+            <a href="index.html" class="bg-blue-600 px-3 py-1 text-[10px] text-white font-bold uppercase transition-colors">Retour Global</a>
         </div>
     </header>
 
     <div class="alert-bar uppercase font-mono mb-2">
-        <div id="marquee-text" class="marquee-content">ÉTABLISSEMENT DE LA LIAISON SÉCURISÉE AVEC LE THÉÂTRE D'OPÉRATIONS...</div>
+        <div id="marquee-text" class="marquee-content">SYNCHRONISATION DES FLUX DE PROJECTION VERS LE MOYEN-ORIENT EN COURS...</div>
     </div>
 
     <div id="content-wrapper">
         <aside>
-            <div class="card p-2 bg-blue-950/20 border-blue-500/50 shrink-0">
+            <div class="card p-2 bg-blue-950/20 border-blue-500/50 shrink-0 mb-2">
                 <div class="flex justify-between text-[8px] uppercase font-bold text-blue-300">
-                    <span>Posture de Force (PROTERRE)</span><span>82%</span>
+                    <span>Disponibilité Flotte</span><span>91%</span>
                 </div>
-                <div class="w-full bg-blue-900/30 h-1.5 mt-1 rounded-full overflow-hidden">
-                    <div class="bg-blue-500 h-full w-[82%] shadow-[0_0_8px_#3b82f6]"></div>
+                <div class="w-full bg-blue-900/30 h-1 mt-1 rounded-full overflow-hidden">
+                    <div class="bg-blue-500 h-full w-[91%] shadow-[0_0_8px_#3b82f6]"></div>
                 </div>
             </div>
 
-            <div class="card p-3 side-block-news border-l-2 border-blue-500">
-                <h2 class="text-blue-400 text-[10px] md:text-xs font-bold mb-2 border-b border-blue-900 pb-1 flex justify-between uppercase">
-                    <span>Flux_Renseignement_FR</span><span id="fr-news-count" class="text-blue-600">00</span>
+            <div class="card p-3 flex-grow border-l-2 border-blue-500 overflow-hidden flex flex-column flex-col">
+                <h2 class="text-blue-400 text-[10px] font-bold mb-2 border-b border-blue-900 pb-1 flex justify-between">
+                    <span>INTEL_STREAM</span><span id="fr-news-count" class="text-blue-600">00</span>
                 </h2>
                 <div id="france-news-feed" class="space-y-2 pr-1"></div>
             </div>
 
-            <div class="card p-3 side-block-units">
-                <h2 class="text-blue-400 text-[10px] md:text-xs font-bold mb-2 border-b border-blue-900 pb-1 uppercase">Unités de Projection</h2>
-                <div id="unit-list" class="space-y-1 text-[9px] md:text-[10px] pr-1"></div>
+            <div class="card p-3 h-48 mt-2 overflow-hidden flex flex-column flex-col">
+                <h2 class="text-blue-400 text-[10px] font-bold mb-2 border-b border-blue-900 pb-1">ORDRE DE BATAILLE</h2>
+                <div id="unit-list" class="space-y-1 pr-1"></div>
             </div>
         </aside>
 
         <div id="map-container" class="card overflow-hidden">
             <div class="absolute top-4 left-0 right-0 z-[1000] flex justify-center gap-1.5 px-2">
                 <button onclick="map.flyTo([46.6, 2.2], 6)" class="btn-strat">HEXAGONE</button>
-                <button onclick="map.flyTo([48.8, 2.3], 11)" class="btn-strat">C2 PARIS</button>
-                <button onclick="map.flyTo([43.5, 5.0], 9)" class="btn-strat">HUB SUD</button>
-                <button onclick="map.flyTo([48.3, -4.4], 9)" class="btn-strat">STRAT_NAV</button>
+                <button onclick="map.flyTo([43.5, 5.0], 9)" class="btn-strat">HUB_SUD</button>
+                <button onclick="map.flyTo([12.6, 43.1], 7)" class="btn-strat">BAB_EL_MANDEB</button>
             </div>
             <div id="map"></div>
         </div>
@@ -101,49 +99,67 @@
         const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([46.6, 2.2], 6);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        // Ajout d'une grille tactique légère
-        function addGrid() {
-            const style = { color: 'rgba(59, 130, 246, 0.1)', weight: 0.5, interactive: false };
-            for (let i = -5; i <= 10; i += 2) { L.polyline([[40, i], [52, i]], style).addTo(map); }
-            for (let i = 40; i <= 52; i += 2) { L.polyline([[i, -5], [i, 10]], style).addTo(map); }
+        let unitMarkers = L.layerGroup().addTo(map);
+
+        function updateClocks() {
+            const now = new Date();
+            const zulu = now.toISOString().substring(11, 16);
+            document.getElementById('zulu-clock').innerText = `ZULU: ${zulu}Z`;
         }
-        addGrid();
+        setInterval(updateClocks, 1000);
+
+        // Dessine des lignes de flux vers le Moyen-Orient (hors champ mais vers la direction)
+        function drawFlows() {
+            const startPoints = [[43.5, 5.0], [48.3, -4.4]]; // Istres, Brest
+            const endPoint = [25.0, 55.0]; // Direction Golfe
+            startPoints.forEach(start => {
+                L.polyline([start, endPoint], {
+                    color: '#3b82f6', weight: 1, dashArray: '10, 20', opacity: 0.3, interactive: false
+                }).addTo(map);
+            });
+        }
+        drawFlows();
 
         async function updateFrance() {
             try {
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
-                
-                // Filtrage news France
-                const fn = d.news.filter(n => n.france_related || n.text.includes("FRANCE") || n.text.includes("BASE"));
+                unitMarkers.clearLayers();
+
+                // News
+                const fn = d.news.filter(n => n.france_related || n.text.includes("BASE"));
                 document.getElementById('fr-news-count').innerText = fn.length.toString().padStart(2, '0');
-                
-                // BANDEAU : Les 3 dernières infos liées à la France ou Globales
-                const lastThree = d.news.slice(0, 3);
-                document.getElementById('marquee-text').innerText = " LIAISON_UNIT_ME: ACTIVE /// " + lastThree.map(n => ` [ ${n.time} ] ${n.text} `).join(' /// ');
-
-                // Liste News Latérale
                 document.getElementById('france-news-feed').innerHTML = fn.map(n => `
-                    <div class="p-2 border-l border-blue-600 bg-blue-900/10 mb-1">
-                        <div class="flex justify-between text-[7px] mb-1 opacity-60 font-bold italic"><span>${n.source}</span><span>${n.time}</span></div>
-                        <p class="text-white leading-tight uppercase font-bold text-[9px] md:text-[10px]">${n.text}</p>
+                    <div class="p-2 border-l border-blue-600 bg-blue-900/5 text-[9px]">
+                        <div class="flex justify-between opacity-50 mb-1"><span>${n.source}</span><span>${n.time}</span></div>
+                        <p class="font-bold uppercase">${n.text}</p>
                     </div>`).join('');
-                
-                // Liste Unités / Forces
-                document.getElementById('unit-list').innerHTML = d.france.forces.map((u) => `
-                    <div class="p-2 bg-blue-900/10 border border-blue-800/40 cursor-pointer hover:bg-blue-600/20 transition-all" onclick="map.flyTo([${u.p}], 9)">
-                        <div class="flex justify-between items-center">
-                            <span class="font-bold text-white uppercase text-[8px] md:text-[10px] tracking-tighter">${u.n}</span>
-                            <span class="text-[7px] border border-blue-400 px-1 text-blue-400 font-bold uppercase">Ready</span>
+
+                // Unités & Carte
+                document.getElementById('unit-list').innerHTML = d.france.forces.map((u) => {
+                    // Ajout Marqueur Tactique sur la carte
+                    const icon = L.divIcon({
+                        className: 'unit-icon',
+                        html: `<div class="unit-marker"></div><div class="unit-label">${u.n}</div>`
+                    });
+                    L.marker(u.p, {icon: icon}).addTo(unitMarkers);
+                    
+                    // Zone de couverture
+                    L.circle(u.p, { radius: 40000, color: '#3b82f6', weight: 1, fillOpacity: 0.05, interactive: false }).addTo(unitMarkers);
+
+                    return `<div class="p-2 bg-blue-900/10 border border-blue-800/40 cursor-pointer text-[9px] hover:bg-blue-600/20" onclick="map.flyTo([${u.p}], 9)">
+                        <div class="flex justify-between">
+                            <span class="font-bold uppercase">${u.n}</span>
+                            <span class="text-blue-400 font-bold">STBY</span>
                         </div>
-                    </div>`).join('');
+                    </div>`;
+                }).join('');
 
-                // Heatmap sur les points stratégiques (Istres, Toulon, etc.)
-                d.france.forces.forEach(u => {
-                    L.circle([u.p[0], u.p[1]], { radius: 15000, color: '#3b82f6', weight: 1, fillOpacity: 0.1 }).addTo(map);
-                });
+                // Bandeau 3 dernières
+                const lastThree = d.news.slice(0, 3);
+                document.getElementById('marquee-text').innerText = " LIAISON_DIRECTE_C2 /// " + lastThree.map(n => ` [ ${n.time} ] ${n.text} `).join(' /// ');
 
-            } catch (err) { console.error("Update Error", err); }
+            } catch (err) {}
         }
 
         updateFrance(); 
