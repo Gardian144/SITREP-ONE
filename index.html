@@ -32,6 +32,7 @@
             #main-container { flex-direction: column !important; height: auto !important; }
             aside#sidebar { width: 100% !important; height: 45vh !important; border-bottom: 1px solid var(--border-color); }
             #map-container { height: 55vh !important; width: 100% !important; }
+            .world-clocks { display: none !important; } /* On cache les horloges sur mobile pour éviter l'encombrement */
         }
     </style>
 </head>
@@ -40,7 +41,19 @@
         <div class="flex items-center gap-3">
             <div class="w-2 h-2 bg-red-600 rounded-full animate-ping"></div>
             <h1 class="text-[10px] font-bold tracking-widest uppercase text-white">SITREP-ONE // LIVE</h1>
+            
+            <div class="world-clocks flex gap-5 border-l border-green-900/50 ml-4 pl-4 font-mono">
+                <div class="flex flex-col">
+                    <span class="text-[6px] opacity-50 uppercase leading-none">ISR/LBN (UTC+2)</span>
+                    <span id="time-il-lb" class="text-[10px] font-bold text-white uppercase leading-none mt-1">--:--:--</span>
+                </div>
+                <div class="flex flex-col">
+                    <span class="text-[6px] opacity-50 uppercase leading-none">IRAN (UTC+3:30)</span>
+                    <span id="time-ir" class="text-[10px] font-bold text-white uppercase leading-none mt-1">--:--:--</span>
+                </div>
+            </div>
         </div>
+        
         <div class="flex items-center gap-4">
             <div class="flex flex-col items-end mr-2">
                 <span class="text-[7px] opacity-50 uppercase leading-none">Last Scan</span>
@@ -96,6 +109,17 @@
         const darkLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
         const popLayer = L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png');
 
+        // GESTION DES HORLOGES
+        function updateWorldClocks() {
+            const options = { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false };
+            try {
+                document.getElementById('time-il-lb').innerText = new Date().toLocaleTimeString('fr-FR', { ...options, timeZone: 'Asia/Jerusalem' });
+                document.getElementById('time-ir').innerText = new Date().toLocaleTimeString('fr-FR', { ...options, timeZone: 'Asia/Tehran' });
+            } catch(e) { console.error("Clock error"); }
+        }
+        setInterval(updateWorldClocks, 1000);
+        updateWorldClocks();
+
         function toggleMapLayer() {
             const btn = document.getElementById('map-mode-btn');
             if (map.hasLayer(popLayer)) {
@@ -123,11 +147,9 @@
                 const d = await r.json();
                 allNews = d.news;
                 
-                // MISE À JOUR DES INDICATEURS
                 document.getElementById('sync-val-header').innerText = d.last_update;
                 document.getElementById('nasa-val').innerText = d.impacts.length;
                 
-                // Récupération de l'heure de la dernière annonce (si elle existe)
                 if (allNews.length > 0) {
                     document.getElementById('latest-time').innerText = allNews[0].time;
                 }
