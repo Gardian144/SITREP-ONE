@@ -16,6 +16,16 @@
         @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-thumb { background: #1e3a8a; }
+
+        /* ADAPTATION MOBILE */
+        @media (max-width: 768px) {
+            body { height: auto; overflow-y: auto; }
+            #content-wrapper { flex-direction: column; height: auto; overflow: visible; }
+            aside { width: 100%; height: auto; }
+            #map-container { height: 300px; order: -1; } /* Carte en haut sur mobile */
+            aside > div { height: 300px !important; } /* Fixe la hauteur des blocs info */
+            header { padding: 10px; }
+        }
     </style>
 </head>
 <body class="p-2 gap-2 flex flex-col">
@@ -40,7 +50,7 @@
             </div>
 
             <div class="card p-4 flex flex-col h-1/2 overflow-hidden">
-                <h2 class="text-blue-400 text-[10px] font-bold mb-3 border-b border-blue-900 pb-1 uppercase tracking-widest text-[9px]">Ordre de Bataille</h2>
+                <h2 class="text-blue-400 text-[10px] font-bold mb-3 border-b border-blue-900 pb-1 uppercase tracking-widest">Ordre de Bataille</h2>
                 <div id="unit-list" class="space-y-2 overflow-y-auto flex-grow text-[9px]"></div>
             </div>
         </aside>
@@ -60,14 +70,8 @@
             try {
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
-                
-                // Tri strict par timestamp (numérique)
-                const franceNews = d.news
-                    .filter(n => n.france_related)
-                    .sort((a, b) => (b.timestamp || 0) - (a.timestamp || 0)); 
-
+                const franceNews = d.news.filter(n => n.france_related).sort((a, b) => (b.timestamp || 0) - (a.timestamp || 0)); 
                 document.getElementById('fr-news-count').innerText = franceNews.length.toString().padStart(2, '0');
-                
                 document.getElementById('france-news-feed').innerHTML = franceNews.map(n => `
                     <div class="p-2 border-l-2 border-blue-600 bg-blue-900/10 mb-2">
                         <div class="flex justify-between text-[8px] mb-1 opacity-60 uppercase font-bold italic">
@@ -92,7 +96,6 @@
                 d.france.forces.forEach(u => {
                     L.circleMarker(u.p, {radius: 6, color: '#ffffff', weight: 1, fillColor: '#2563eb', fillOpacity: 0.9}).addTo(unitMarkers);
                 });
-
                 document.getElementById('sync-status').innerText = "LAST_SCAN: " + d.last_update;
             } catch (err) { console.error("Sync fail"); }
         }
