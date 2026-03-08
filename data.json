@@ -1,7 +1,27 @@
 {
-  "last_update": "08/03 11:40",
+  "last_update": "08/03 11:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1772970620",
+      "source": "BFMTV",
+      "text": "EXPLOSION DEVANT L'AMBASSADE DES ÉTATS-UNIS À OSLO, LA POLICE ÉVOQUE UN POSSIBLE MOTIF TERRORISTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:50",
+      "date": "08/03",
+      "timestamp": 1772970620
+    },
+    {
+      "id": "OPEX360_1772970150",
+      "source": "OPEX360",
+      "text": "LA CONSTRUCTION DE SES DEUX FUTURES FRÉGATES AYANT PRIS DU RETARD, LA BELGIQUE VA-T-ELLE COMMANDER UNE FDI À LA FRANCE ?",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:42",
+      "date": "08/03",
+      "timestamp": 1772970150
+    },
     {
       "id": "BFMTV_1772969121",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "16:10",
       "date": "07/03",
       "timestamp": 1772899853
-    },
-    {
-      "id": "BFMTV_1772899230",
-      "source": "BFMTV",
-      "text": "L'IRAN A LANCÉ HUIT SALVES DE MISSILES SUR ISRAËL DEPUIS MINUIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:00",
-      "date": "07/03",
-      "timestamp": 1772899230
-    },
-    {
-      "id": "BFMTV_1772899051",
-      "source": "BFMTV",
-      "text": "PORTE-AVIONS CHARLES DE GAULLE, FRÉGATE LANGUEDOC ... QUELS SONT LES DISPOSITIFS MILITAIRES FRANÇAIS PRÉSENTS AU MOYEN-ORIENT ?",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:57",
-      "date": "07/03",
-      "timestamp": 1772899051
     }
   ],
   "france": {
