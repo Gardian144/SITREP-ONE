@@ -3,66 +3,68 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>SITREP FRANCE</title>
+    <title>FRANCE // FORCE DE PROJECTION</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
-        body { background: #020617; color: #93c5fd; font-family: 'JetBrains Mono'; margin: 0; min-height: 100vh; display: flex; flex-direction: column; }
+        body { background: #020617; color: #93c5fd; font-family: 'JetBrains Mono'; height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
         .card { background: rgba(15, 23, 42, 0.9); border: 1px solid #1e3a8a; }
-        #content-wrapper { display: flex; flex-grow: 1; overflow: hidden; gap: 8px; padding: 8px; }
-        aside { width: 320px; display: flex; flex-direction: column; gap: 8px; flex-shrink: 0; overflow-y: auto; }
-        #map-container { flex-grow: 1; border: 1px solid #1e3a8a; position: relative; }
-        #map { height: 100%; width: 100%; }
+        .status-badge { font-size: 7px; padding: 1px 4px; border-radius: 2px; text-transform: uppercase; font-weight: bold; }
+        .badge-alert { background: #ef4444; color: white; animation: pulse 1.5s infinite; }
+        .badge-ops { background: #2563eb; color: white; }
+        ::-webkit-scrollbar { width: 3px; }
+        ::-webkit-scrollbar-thumb { background: #1e3a8a; }
 
         @media (max-width: 768px) {
-            #content-wrapper { flex-direction: column; overflow-y: auto; height: auto; }
-            aside { width: 100%; height: auto; overflow: visible; }
-            #map-container { height: 35vh; order: -1; flex-shrink: 0; }
-            .text-responsive { font-size: 8px !important; }
-            h2 { font-size: 9px !important; }
-        }
-        @media (min-width: 769px) {
-            aside { height: 100%; } /* Scroll interne uniquement sur PC */
+            body { height: 100vh !important; overflow: hidden !important; }
+            #content-wrapper { flex-direction: column !important; height: calc(100vh - 70px) !important; gap: 4px !important; }
+            #map-container { height: 35% !important; order: -1; }
+            aside { width: 100% !important; height: 65% !important; display: flex !important; flex-direction: column !important; overflow: hidden !important; }
+            .side-block-news, .side-block-units { height: 50% !important; overflow: hidden !important; display: flex !important; flex-direction: column !important; }
+            #france-news-feed, #unit-list { overflow-y: auto !important; flex-grow: 1 !important; }
+            h1 { font-size: 8px !important; }
         }
     </style>
 </head>
-<body class="p-1 md:p-2">
-    <header class="p-2 md:p-3 card flex justify-between items-center mb-2 shrink-0">
+<body class="p-2 gap-2 flex flex-col">
+    <header class="p-3 card flex justify-between items-center shrink-0 border-b-2 border-blue-600">
         <h1 class="text-[10px] md:text-xs font-bold text-white uppercase tracking-widest flex items-center gap-2">
-            <span class="w-2 h-2 bg-blue-500 rounded-full shadow-[0_0_8px_#3b82f6]"></span> EMA // SITREP
+            <span class="w-2 h-2 bg-blue-500 rounded-full shadow-[0_0_8px_#3b82f6]"></span> SITREP FRANCE
         </h1>
         <div class="flex items-center gap-3">
-            <span class="text-[7px] md:text-[9px] text-green-400 font-bold uppercase">CYBER: OK</span>
-            <a href="index.html" class="bg-blue-600 px-2 py-1 text-[9px] md:text-[10px] text-white font-bold uppercase">Terminal</a>
+            <span class="text-[8px] text-green-400 font-bold uppercase">CYBER: LVL 01</span>
+            <a href="index.html" class="bg-blue-600 px-3 py-1 text-[10px] text-white font-bold uppercase">Terminal</a>
         </div>
     </header>
 
-    <div id="content-wrapper">
-        <aside>
-            <div class="card p-2 bg-blue-950/20">
-                <div class="flex justify-between text-[7px] md:text-[9px] uppercase font-bold text-blue-300 mb-1">
+    <div id="content-wrapper" class="flex flex-grow gap-2 overflow-hidden">
+        <aside class="w-80 flex flex-col gap-2 shrink-0 h-full overflow-y-auto md:overflow-hidden">
+            <div class="card p-2 bg-blue-950/20 border-blue-500/50 shrink-0">
+                <div class="flex justify-between text-[7px] uppercase font-bold text-blue-300">
                     <span>Posture de Force</span><span>78%</span>
                 </div>
-                <div class="w-full bg-blue-900/30 h-1 rounded-full overflow-hidden">
+                <div class="w-full bg-blue-900/30 h-1 mt-1 rounded-full overflow-hidden">
                     <div class="bg-blue-500 h-full w-[78%]"></div>
                 </div>
             </div>
 
-            <div class="card p-3 flex flex-col min-h-[200px] md:flex-grow border-l-2 border-blue-500">
-                <h2 class="text-blue-400 text-[9px] md:text-[11px] font-bold mb-2 border-b border-blue-900 pb-1 flex justify-between uppercase">
-                    <span>Dépêches_EMA</span><span id="fr-news-count" class="text-blue-600">--</span>
+            <div class="card p-3 flex flex-col side-block-news border-l-2 border-blue-500 overflow-hidden">
+                <h2 class="text-blue-400 text-[10px] font-bold mb-2 border-b border-blue-900 pb-1 flex justify-between uppercase shrink-0">
+                    <span>Dépêches_EMA</span><span id="fr-news-count" class="text-blue-600">00</span>
                 </h2>
-                <div id="france-news-feed" class="space-y-2 overflow-y-auto pr-1"></div>
+                <div id="france-news-feed" class="space-y-2 overflow-y-auto"></div>
             </div>
 
-            <div class="card p-3 flex flex-col min-h-[150px] md:flex-grow">
-                <h2 class="text-blue-400 text-[9px] md:text-[11px] font-bold mb-2 border-b border-blue-900 pb-1 uppercase">Ordre de Bataille</h2>
-                <div id="unit-list" class="space-y-1 overflow-y-auto pr-1 text-[8px] md:text-[10px]"></div>
+            <div class="card p-3 flex flex-col side-block-units overflow-hidden">
+                <h2 class="text-blue-400 text-[10px] font-bold mb-2 border-b border-blue-900 pb-1 uppercase shrink-0">Ordre de Bataille</h2>
+                <div id="unit-list" class="space-y-1 text-[9px] overflow-y-auto"></div>
             </div>
         </aside>
 
-        <div id="map-container"><div id="map"></div></div>
+        <div id="map-container" class="flex-grow card relative">
+            <div id="map" style="height: 100%; width: 100%;"></div>
+        </div>
     </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -75,19 +77,18 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 const fn = d.news.filter(n => n.france_related);
-                document.getElementById('fr-news-count').innerText = fn.length;
-                
+                document.getElementById('fr-news-count').innerText = fn.length.toString().padStart(2, '0');
                 document.getElementById('france-news-feed').innerHTML = fn.map(n => `
                     <div class="p-2 border-l border-blue-600 bg-blue-900/10 mb-1">
-                        <div class="flex justify-between text-[6px] md:text-[7px] opacity-60 font-bold uppercase italic">
-                            <span>${n.source}</span><span>${n.time}</span>
-                        </div>
-                        <p class="text-white text-[8px] md:text-[10px] leading-tight uppercase font-bold mt-1">${n.text}</p>
+                        <div class="flex justify-between text-[7px] mb-1 opacity-60 font-bold italic"><span>${n.source}</span><span>${n.time}</span></div>
+                        <p class="text-white text-[9px] leading-tight uppercase font-bold">${n.text}</p>
                     </div>`).join('');
-
-                document.getElementById('unit-list').innerHTML = d.france.forces.map(u => `
-                    <div class="p-1.5 bg-blue-900/10 border border-blue-800/40 cursor-pointer text-white uppercase font-bold" onclick="map.flyTo([${u.p}], 6)">
-                        ${u.n}
+                document.getElementById('unit-list').innerHTML = d.france.forces.map((u, i) => `
+                    <div class="p-1.5 bg-blue-900/10 border border-blue-800/40 cursor-pointer" onclick="map.flyTo([${u.p}], 6)">
+                        <div class="flex justify-between items-start">
+                            <span class="font-bold text-white uppercase">${u.n}</span>
+                            <span class="status-badge ${i === 0 ? 'badge-alert' : 'badge-ops'}">Status</span>
+                        </div>
                     </div>`).join('');
             } catch (err) {}
         }
