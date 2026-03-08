@@ -1,7 +1,77 @@
 {
-  "last_update": "08/03 08:59",
+  "last_update": "08/03 09:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1772963294",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: LE NOUVEAU GUIDE SUPRÊME, QUI DOIT SUCCÉDER À L'AYATOLLAH KHAMENEI, A ÉTÉ DÉSIGNÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:48",
+      "date": "08/03",
+      "timestamp": 1772963294
+    },
+    {
+      "id": "BFMTV_1772963267",
+      "source": "BFMTV",
+      "text": "IRAN: UN NOUVEAU GUIDE SUPRÊME DÉSIGNÉ PAR L'INSTANCE EN CHARGE, SON NOM PAS ENCORE ANNONCÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:47",
+      "date": "08/03",
+      "timestamp": 1772963267
+    },
+    {
+      "id": "BFMTV_1772962102",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"QUAND LE QATAR EST ATTAQUÉ, DANS LE CADRE DES ACCORDS DE DÉFENSE, NOUS NOUS PORTONS EN APPUI\", EXPLIQUE L'AMBASSADEUR DE FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:28",
+      "date": "08/03",
+      "timestamp": 1772962102
+    },
+    {
+      "id": "BFMTV_1772961876",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS RECOMMANDONS AUX FRANÇAIS DE RESTER EN SÉCURITÉ DANS LES HÔTELS\", DÉCLARE L'AMBASSADEUR DE FRANCE AU QATAR",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:24",
+      "date": "08/03",
+      "timestamp": 1772961876
+    },
+    {
+      "id": "BFMTV_1772961676",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS COMPTABILISONS À-PEU-PRÈS 2.300 FRANÇAIS DE PASSAGE\", INDIQUE L'AMBASSADEUR DE FRANCE AU QATAR",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:21",
+      "date": "08/03",
+      "timestamp": 1772961676
+    },
+    {
+      "id": "BFMTV_1772961332",
+      "source": "BFMTV",
+      "text": "DEUX MORTS PAR BALLE ET UN TROISIÈME ASPHYXIÉ: TROIS PALESTINIENS TUÉS DANS UNE ATTAQUE DE COLONS ISRAÉLIENS EN CISJORDANIE OCCUPÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:15",
+      "date": "08/03",
+      "timestamp": 1772961332
+    },
+    {
+      "id": "BFMTV_1772961027",
+      "source": "BFMTV",
+      "text": "\"JE NE LE SOUHAITE À PERSONNE FRANCHEMENT\": DES FRANÇAIS RAPATRIÉS DU MOYEN-ORIENT RACONTENT LEUR PÉRIPLE DE PLUS DE 24 HEURES EN BUS ET EN AVION",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:10",
+      "date": "08/03",
+      "timestamp": 1772961027
+    },
     {
       "id": "BFMTV_1772960098",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "15:22",
       "date": "07/03",
       "timestamp": 1772896963
-    },
-    {
-      "id": "BFMTV_1772895878",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ONT COMMENCÉ À UTILISER DES BASES MILITAIRES BRITANNIQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:04",
-      "date": "07/03",
-      "timestamp": 1772895878
-    },
-    {
-      "id": "BFMTV_1772895276",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES IMPRESSIONNANTES D'UNE FRAPPE À TYR",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:54",
-      "date": "07/03",
-      "timestamp": 1772895276
-    },
-    {
-      "id": "BFMTV_1772894661",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ATTRIBUE LA NOTE DE \"15 SUR 10\" AU DÉROULEMENT DE L'OPÉRATION ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:44",
-      "date": "07/03",
-      "timestamp": 1772894661
-    },
-    {
-      "id": "BFMTV_1772894462",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP QUALIFIE LES SOLDATS AMÉRICAINS DÉCÉDÉS LORS DE L'OPÉRATION CONTRE L'IRAN D'\"HÉROS ÉTERNELS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:41",
-      "date": "07/03",
-      "timestamp": 1772894462
-    },
-    {
-      "id": "BFMTV_1772894341",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QUE L'ARMÉE AMÉRICAINE A \"ÉLIMINÉ 42 NAVIRES\" IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:39",
-      "date": "07/03",
-      "timestamp": 1772894341
-    },
-    {
-      "id": "BFMTV_1772893756",
-      "source": "BFMTV",
-      "text": "LES SOUTIENS DU FILS DU CHAH D'IRAN DÉFILENT À PARIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:29",
-      "date": "07/03",
-      "timestamp": 1772893756
-    },
-    {
-      "id": "BFMTV_1772892666",
-      "source": "BFMTV",
-      "text": "IAN HUNTLEY, QUI AVAIT TUÉ DEUX FILLETTES ET HORRIFIÉ LE ROYAUME-UNI EN 2002, EST MORT APRÈS AVOIR ÉTÉ AGRESSÉ EN PRISON",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:11",
-      "date": "07/03",
-      "timestamp": 1772892666
     }
   ],
   "france": {
