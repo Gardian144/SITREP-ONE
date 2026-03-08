@@ -1,7 +1,67 @@
 {
-  "last_update": "08/03 07:09",
+  "last_update": "08/03 07:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1772956328",
+      "source": "BFMTV",
+      "text": "\"UN PROCESSUS COMPARABLE À UN CONCLAVE AU VATICAN\": APRÈS LA MORT D’ALI KHAMENEI, QUI LUI SUCCÉDERA POUR DEVENIR LE NOUVEAU GUIDE SUPRÊME DE L’IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:52",
+      "date": "08/03",
+      "timestamp": 1772956328
+    },
+    {
+      "id": "BFMTV_1772955717",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS DANS LA PROVINCE CENTRALE DE YAZD, EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:41",
+      "date": "08/03",
+      "timestamp": 1772955717
+    },
+    {
+      "id": "BFMTV_1772954866",
+      "source": "BFMTV",
+      "text": "IRAN: DONALD TRUMP ÉVOQUE DE POSSIBLES OPÉRATIONS COMMANDO POUR CONTRÔLER LES STOCKS D'URANIUM ENRICHI",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:27",
+      "date": "08/03",
+      "timestamp": 1772954866
+    },
+    {
+      "id": "BFMTV_1772954088",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE PLUIE DE PÉTROLE SUR TÉHÉRAN APRÈS DES ATTAQUES SUR DES INFRASTRUCTURES PÉTROLIÈRES IRANIENNES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:14",
+      "date": "08/03",
+      "timestamp": 1772954088
+    },
+    {
+      "id": "BFMTV_1772953905",
+      "source": "BFMTV",
+      "text": "BAHREÏN: UNE STATION DE DESSALEMENT D'EAU ENDOMMAGÉE PAR UN DRONE IRANIEN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:11",
+      "date": "08/03",
+      "timestamp": 1772953905
+    },
+    {
+      "id": "BFMTV_1772953685",
+      "source": "BFMTV",
+      "text": "LIBAN: L'ARMÉE ISRAÉLIENNE APPELLE À ÉVACUER LES VILLAGES DANS LE SUD DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:08",
+      "date": "08/03",
+      "timestamp": 1772953685
+    },
     {
       "id": "BFMTV_1772953452",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "13:08",
       "date": "07/03",
       "timestamp": 1772888924
-    },
-    {
-      "id": "BFMTV_1772888781",
-      "source": "BFMTV",
-      "text": "DE NOUVEAUX MISSILES EN PROVENANCE D'IRAN ONT ÉTÉ INTERCEPTÉS DANS LE CIEL ISRAÉLIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:06",
-      "date": "07/03",
-      "timestamp": 1772888781
-    },
-    {
-      "id": "BFMTV_1772887529",
-      "source": "BFMTV",
-      "text": "ISRAËL KATZ, MINISTRE ISRAÉLIEN DE LA DÉFENSE MET EN GARDE LE GOUVERNEMENT LIBANAIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:45",
-      "date": "07/03",
-      "timestamp": 1772887529
-    },
-    {
-      "id": "OPEX360_1772887259",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE ALLEMAND DE LA DÉFENSE ENVISAGE DE COMMANDER 500 LANCE-ROQUETTES MULTIPLES EUROPULS AUPRÈS DE KNDS",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:40",
-      "date": "07/03",
-      "timestamp": 1772887259
-    },
-    {
-      "id": "BFMTV_1772886838",
-      "source": "BFMTV",
-      "text": "EXPLOSION, INTERRUPTION DES VOLS… LE RÉCIT D'UNE MATINÉE D'INCERTITUDE À L'AÉROPORT DE DUBAÏ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:33",
-      "date": "07/03",
-      "timestamp": 1772886838
-    },
-    {
-      "id": "BFMTV_1772886618",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE APPELLE LES CIVILS À ÉVACUER LE SUD DU LIBAN ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:30",
-      "date": "07/03",
-      "timestamp": 1772886618
-    },
-    {
-      "id": "BFMTV_1772886017",
-      "source": "BFMTV",
-      "text": "41 MORTS ET 40 BLESSÉS DANS UNE OPÉRATION COMMANDO ISRAÉLIENNE AU LIBAN SELON UN BILAN PROVISOIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:20",
-      "date": "07/03",
-      "timestamp": 1772886017
     }
   ],
   "france": {
