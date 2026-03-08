@@ -30,42 +30,43 @@
         @media (max-width: 768px) {
             body { height: auto !important; display: block !important; }
             #main-container { flex-direction: column !important; height: auto !important; }
-            aside#sidebar { width: 100% !important; height: 45vh !important; border-bottom: 1px solid var(--border-color); }
-            #map-container { height: 55vh !important; width: 100% !important; }
-            .world-clocks { display: none !important; } /* On cache les horloges sur mobile pour éviter l'encombrement */
+            aside#sidebar { width: 100% !important; height: auto !important; border-bottom: 1px solid var(--border-color); }
+            #map-container { height: 45vh !important; width: 100% !important; }
+            .world-clocks { display: flex !important; gap: 10px !important; margin-top: 4px; }
         }
     </style>
 </head>
 <body id="app-body">
     <header class="p-3 border-b border-green-900/30 flex justify-between items-center bg-black shrink-0">
-        <div class="flex items-center gap-3">
-            <div class="w-2 h-2 bg-red-600 rounded-full animate-ping"></div>
-            <h1 class="text-[10px] font-bold tracking-widest uppercase text-white">SITREP-ONE // LIVE</h1>
-            
-            <div class="world-clocks flex gap-5 border-l border-green-900/50 ml-4 pl-4 font-mono">
-                <div class="flex flex-col">
-                    <span class="text-[6px] opacity-50 uppercase leading-none">ISR/LBN (UTC+2)</span>
-                    <span id="time-il-lb" class="text-[10px] font-bold text-white uppercase leading-none mt-1">--:--:--</span>
+        <div class="flex flex-col">
+            <div class="flex items-center gap-2">
+                <div class="w-1.5 h-1.5 bg-red-600 rounded-full animate-ping"></div>
+                <h1 class="text-[10px] font-bold tracking-widest uppercase text-white">SITREP-ONE // LIVE</h1>
+            </div>
+            <div class="world-clocks hidden lg:flex gap-4 font-mono">
+                <div class="flex items-center gap-1">
+                    <span class="text-[6px] opacity-50 uppercase">ISR/LBN:</span>
+                    <span id="time-il-lb" class="text-[9px] font-bold text-white">--:--:--</span>
                 </div>
-                <div class="flex flex-col">
-                    <span class="text-[6px] opacity-50 uppercase leading-none">IRAN (UTC+3:30)</span>
-                    <span id="time-ir" class="text-[10px] font-bold text-white uppercase leading-none mt-1">--:--:--</span>
+                <div class="flex items-center gap-1">
+                    <span class="text-[6px] opacity-50 uppercase">IRAN:</span>
+                    <span id="time-ir" class="text-[9px] font-bold text-white">--:--:--</span>
                 </div>
             </div>
         </div>
         
-        <div class="flex items-center gap-4">
-            <div class="flex flex-col items-end mr-2">
-                <span class="text-[7px] opacity-50 uppercase leading-none">Last Scan</span>
-                <span id="sync-val-header" class="text-[10px] font-bold text-green-500 leading-none">--:--</span>
+        <div class="flex items-center gap-3">
+            <div class="flex flex-col items-end mr-1">
+                <span class="text-[6px] opacity-50 uppercase leading-none">Last Scan</span>
+                <span id="sync-val-header" class="text-[9px] font-bold text-green-500 leading-none">--:--</span>
             </div>
-            <button onclick="toggleStealth()" class="text-[9px] border border-green-900 px-2 py-1 uppercase text-green-500">Stealth</button>
-            <a href="france.html" class="bg-blue-700 px-3 py-1 text-white text-[9px] font-bold uppercase">Unit_FR</a>
+            <button onclick="toggleStealth()" class="text-[8px] border border-green-900 px-2 py-0.5 uppercase text-green-500">Stealth</button>
+            <a href="france.html" class="bg-blue-700 px-2 py-1 text-white text-[9px] font-bold uppercase">Unit_FR</a>
         </div>
     </header>
 
     <div class="alert-bar uppercase font-mono">
-        <div id="marquee-text" class="marquee-content text-red-100">INITIALISATION DES FLUX TACTIQUES...</div>
+        <div id="marquee-text" class="marquee-content text-red-100">INITIALISATION...</div>
     </div>
 
     <div id="main-container">
@@ -81,23 +82,20 @@
                         <p id="latest-time" class="text-lg font-bold">--:--</p>
                     </div>
                 </div>
-                <input type="text" id="search-bar" placeholder="RECHERCHE MOT-CLÉ..." class="w-full bg-black/50 border border-green-900 p-2 text-[10px] text-green-400 outline-none mb-1">
+                <input type="text" id="search-bar" placeholder="RECHERCHE..." class="w-full bg-black/50 border border-green-900 p-2 text-[10px] text-green-400 outline-none">
             </div>
             
             <div class="bg-red-950/40 text-[9px] font-bold text-red-500 uppercase px-4 py-1.5 border-b border-red-900/30 italic">Intel Stream</div>
             <div id="news-feed" class="flex-grow overflow-y-auto p-3 space-y-3"></div>
-
-            <div id="terminal" class="bg-black text-[7px] p-2 opacity-40 font-mono h-12 overflow-hidden border-t border-green-900/20"></div>
             <a href="archives.html" class="p-2 text-center text-[9px] font-bold border-t border-green-900 hover:bg-green-900/10">ACCÉDER AUX ARCHIVES</a>
         </aside>
 
         <div id="map-container">
-            <div class="absolute top-4 left-0 right-0 z-[1000] flex justify-center gap-1.5 px-2">
-                <button onclick="filterByCountry('ALL', [32, 53], 4)" class="btn-country">Global</button>
-                <button onclick="filterByCountry('IRAN', [32.4, 53.6], 5)" class="btn-country">Iran</button>
-                <button onclick="filterByCountry('ISRAËL', [31.5, 34.8], 7)" class="btn-country">Israël</button>
-                <button onclick="filterByCountry('LIBAN', [33.8, 35.8], 8)" class="btn-country">Liban</button>
-                <button onclick="toggleMapLayer()" class="btn-country" id="map-mode-btn">Pop. OFF</button>
+            <div class="absolute top-4 left-0 right-0 z-[1000] flex justify-center gap-1 px-2">
+                <button onclick="filterByCountry('ALL', [32, 53], 4)" class="btn-country text-[7px]">Global</button>
+                <button onclick="filterByCountry('IRAN', [32.4, 53.6], 5)" class="btn-country text-[7px]">Iran</button>
+                <button onclick="filterByCountry('ISRAËL', [31.5, 34.8], 7)" class="btn-country text-[7px]">Israël</button>
+                <button onclick="filterByCountry('LIBAN', [33.8, 35.8], 8)" class="btn-country text-[7px]">Liban</button>
             </div>
             <div id="map"></div>
         </div>
@@ -106,37 +104,14 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
         const map = L.map('map', {zoomControl: false, attributionControl: false}).setView([32, 53], 4);
-        const darkLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
-        const popLayer = L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png');
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        // GESTION DES HORLOGES
         function updateWorldClocks() {
-            const options = { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false };
-            try {
-                document.getElementById('time-il-lb').innerText = new Date().toLocaleTimeString('fr-FR', { ...options, timeZone: 'Asia/Jerusalem' });
-                document.getElementById('time-ir').innerText = new Date().toLocaleTimeString('fr-FR', { ...options, timeZone: 'Asia/Tehran' });
-            } catch(e) { console.error("Clock error"); }
+            const opt = { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false };
+            document.getElementById('time-il-lb').innerText = new Date().toLocaleTimeString('fr-FR', { ...opt, timeZone: 'Asia/Jerusalem' });
+            document.getElementById('time-ir').innerText = new Date().toLocaleTimeString('fr-FR', { ...opt, timeZone: 'Asia/Tehran' });
         }
-        setInterval(updateWorldClocks, 1000);
-        updateWorldClocks();
-
-        function toggleMapLayer() {
-            const btn = document.getElementById('map-mode-btn');
-            if (map.hasLayer(popLayer)) {
-                map.removeLayer(popLayer);
-                btn.innerText = "Pop. OFF";
-            } else {
-                popLayer.addTo(map);
-                btn.innerText = "Pop. ON";
-            }
-        }
-
-        function addTacticalGrid() {
-            const style = { color: 'rgba(0, 255, 102, 0.08)', weight: 0.5, interactive: false };
-            for (let i = -180; i <= 180; i += 15) { L.polyline([[-90, i], [90, i]], style).addTo(map); }
-            for (let i = -90; i <= 90; i += 15) { L.polyline([[i, -180], [i, 180]], style).addTo(map); }
-        }
-        addTacticalGrid();
+        setInterval(updateWorldClocks, 1000); updateWorldClocks();
 
         let allNews = [];
         let currentFilter = 'ALL';
@@ -146,52 +121,34 @@
                 const r = await fetch('data.json?v=' + Date.now());
                 const d = await r.json();
                 allNews = d.news;
-                
                 document.getElementById('sync-val-header').innerText = d.last_update;
                 document.getElementById('nasa-val').innerText = d.impacts.length;
+                if (allNews.length > 0) document.getElementById('latest-time').innerText = allNews[0].time;
                 
-                if (allNews.length > 0) {
-                    document.getElementById('latest-time').innerText = allNews[0].time;
-                }
-
-                d.impacts.forEach(imp => {
-                    L.circle([imp.lat, imp.lon], { radius: 45000, className: 'heat-zone' }).addTo(map);
-                });
-
                 const urgent = allNews.filter(n => n.urgent);
                 document.getElementById('marquee-text').innerText = urgent.length > 0 
                     ? urgent.slice(0, 3).map(n => ` [ ${n.time} ] ${n.text} `).join(' /// ')
-                    : "GRID_VEILLE_ACTIVE /// SYSTÈME OPÉRATIONNEL /// " + d.last_update;
+                    : "VEILLE ACTIVE /// SYSTÈME OPÉRATIONNEL";
                 
                 updateDisplay();
-            } catch(e) { console.log("Fetch Error"); }
+            } catch(e) { console.log("Error"); }
         }
 
         function updateDisplay() {
-            const query = document.getElementById('search-bar').value.toLowerCase();
-            const feed = document.getElementById('news-feed');
-            const filtered = allNews.filter(n => 
-                (currentFilter === 'ALL' || n.text.includes(currentFilter)) && 
-                (query === "" || n.text.toLowerCase().includes(query))
-            );
-            feed.innerHTML = filtered.map(n => `
+            const q = document.getElementById('search-bar').value.toLowerCase();
+            const filtered = allNews.filter(n => (currentFilter === 'ALL' || n.text.includes(currentFilter)) && (q === "" || n.text.toLowerCase().includes(q)));
+            document.getElementById('news-feed').innerHTML = filtered.map(n => `
                 <div class="p-2 border-l-2 ${n.urgent ? 'bg-red-950/20 border-red-600' : 'bg-green-950/5 border-green-900'} text-[10px]">
-                    <div class="flex justify-between text-[7px] opacity-60 mb-1 font-bold"><span>${n.source}</span><span>${n.time}</span></div>
-                    <b class="uppercase leading-tight text-white">${n.text}</b>
+                    <div class="flex justify-between text-[7px] opacity-60 mb-1"><span>${n.source}</span><span>${n.time}</span></div>
+                    <b class="uppercase text-white">${n.text}</b>
                 </div>
             `).join('');
         }
 
-        function filterByCountry(c, coords, z) {
-            currentFilter = c;
-            map.flyTo(coords, z, {duration: 1.5});
-            updateDisplay();
-        }
-
+        function filterByCountry(c, coords, z) { currentFilter = c; map.flyTo(coords, z); updateDisplay(); }
         function toggleStealth() { document.getElementById('app-body').classList.toggle('stealth-mode'); }
         document.getElementById('search-bar').addEventListener('input', updateDisplay);
-        setInterval(loadData, 30000);
-        loadData();
+        setInterval(loadData, 30000); loadData();
     </script>
 </body>
 </html>
