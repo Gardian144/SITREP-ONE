@@ -27,68 +27,68 @@
         @keyframes scroll-left { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
 
         /* MARQUEURS TACTIQUES */
-        .unit-icon { background: none; border: none; }
-        .unit-marker { width: 12px; height: 12px; border: 2px solid #3b82f6; background: rgba(59, 130, 246, 0.5); transform: rotate(45deg); box-shadow: 0 0 10px #3b82f6; }
-        .unit-label { color: #3b82f6; font-size: 8px; font-weight: bold; text-shadow: 1px 1px 2px #000; white-space: nowrap; margin-left: 15px; margin-top: -5px; }
+        .unit-marker { width: 14px; height: 14px; border: 2px solid #3b82f6; display: flex; align-items: center; justify-content: center; font-size: 8px; font-weight: bold; background: rgba(59, 130, 246, 0.2); box-shadow: 0 0 8px #3b82f6; border-radius: 2px; }
+        .unit-label { color: #3b82f6; font-size: 8px; font-weight: bold; text-shadow: 1px 1px 2px #000; white-space: nowrap; margin-left: 20px; }
 
-        .btn-strat { background: rgba(0,0,0,0.8); border: 1px solid var(--border-blue); color: var(--main-blue); padding: 6px 10px; font-size: 9px; font-weight: bold; text-transform: uppercase; transition: all 0.2s; }
-        .btn-strat:hover { background: var(--main-blue); color: #000; }
-        .vigi-badge { background: #000; border: 2px solid #ef4444; color: #fff; padding: 4px 8px; font-size: 9px; font-weight: 1000; box-shadow: 0 0 10px rgba(239, 68, 68, 0.3); }
+        .btn-strat { background: rgba(0,0,0,0.8); border: 1px solid var(--border-blue); color: var(--main-blue); padding: 6px 10px; font-size: 8px; font-weight: bold; text-transform: uppercase; }
+        .vigi-badge { background: #000; border: 2px solid #ef4444; color: #fff; padding: 4px 8px; font-size: 9px; font-weight: bold; }
 
+        /* FIX MOBILE SCROLL */
         @media (max-width: 768px) {
-            #content-wrapper { flex-direction: column !important; height: auto !important; overflow-y: auto; padding: 5px; gap: 5px; }
-            #map-container { height: 350px !important; order: -1; flex-shrink: 0; }
-            aside { width: 100% !important; height: auto !important; }
+            body { overflow: hidden; } /* Empêche le scroll de toute la page */
+            #content-wrapper { flex-direction: column !important; height: calc(100vh - 110px) !important; padding: 5px; overflow: hidden; }
+            #map-container { height: 40% !important; min-height: 250px; flex-shrink: 0; order: -1; }
+            aside { width: 100% !important; height: 60% !important; flex-grow: 1; overflow: hidden; }
+            
+            /* On limite la taille des listes pour forcer le scroll interne */
+            .side-block-news { height: 60% !important; overflow: hidden; }
+            .side-block-units { height: 40% !important; overflow: hidden; }
+            #france-news-feed, #unit-list { overflow-y: scroll !important; -webkit-overflow-scrolling: touch; }
+            
             .marquee-content { animation: scroll-left 30s linear infinite !important; }
         }
+
+        /* Styles scrollbar pour le look tech */
+        ::-webkit-scrollbar { width: 3px; }
+        ::-webkit-scrollbar-thumb { background: #1e3a8a; }
     </style>
 </head>
 <body class="p-2">
 
     <header class="p-3 card flex justify-between items-center shrink-0 border-b-2 border-blue-600 mb-2">
         <h1 class="text-[10px] md:text-sm font-bold text-white uppercase tracking-widest flex items-center gap-2">
-            <span class="w-2 h-2 bg-blue-500 rounded-full animate-pulse shadow-[0_0_8px_#3b82f6]"></span> SITREP_UNIT_FR // PC OPS
+            <span class="w-2 h-2 bg-blue-500 rounded-full animate-pulse shadow-[0_0_8px_#3b82f6]"></span> SITREP_FR // QG_STRAT
         </h1>
-        <div class="flex items-center gap-4">
-            <div id="zulu-clock" class="text-blue-400 text-[10px] font-bold">ZULU: --:--</div>
-            <div class="vigi-badge hidden md:block">▲ VIGIPIRATE : RENFORCÉ</div>
-            <a href="index.html" class="bg-blue-600 px-3 py-1 text-[10px] text-white font-bold uppercase transition-colors">Retour Global</a>
+        <div class="flex items-center gap-3">
+            <div id="zulu-clock" class="text-blue-400 text-[9px] font-bold">ZULU: --:--</div>
+            <a href="index.html" class="bg-blue-600 px-3 py-1 text-[9px] text-white font-bold uppercase">Middle_East</a>
         </div>
     </header>
 
     <div class="alert-bar uppercase font-mono mb-2">
-        <div id="marquee-text" class="marquee-content">SYNCHRONISATION DES FLUX DE PROJECTION VERS LE MOYEN-ORIENT EN COURS...</div>
+        <div id="marquee-text" class="marquee-content">SYNCHRONISATION...</div>
     </div>
 
     <div id="content-wrapper">
         <aside>
-            <div class="card p-2 bg-blue-950/20 border-blue-500/50 shrink-0 mb-2">
-                <div class="flex justify-between text-[8px] uppercase font-bold text-blue-300">
-                    <span>Disponibilité Flotte</span><span>91%</span>
-                </div>
-                <div class="w-full bg-blue-900/30 h-1 mt-1 rounded-full overflow-hidden">
-                    <div class="bg-blue-500 h-full w-[91%] shadow-[0_0_8px_#3b82f6]"></div>
-                </div>
-            </div>
-
-            <div class="card p-3 flex-grow border-l-2 border-blue-500 overflow-hidden flex flex-column flex-col">
+            <div class="card p-3 side-block-news border-l-2 border-blue-500 flex flex-col min-height-0">
                 <h2 class="text-blue-400 text-[10px] font-bold mb-2 border-b border-blue-900 pb-1 flex justify-between">
-                    <span>INTEL_STREAM</span><span id="fr-news-count" class="text-blue-600">00</span>
+                    <span>FLUX_INTEL</span><span id="fr-news-count" class="text-blue-600">00</span>
                 </h2>
-                <div id="france-news-feed" class="space-y-2 pr-1"></div>
+                <div id="france-news-feed" class="space-y-2 pr-1 overflow-y-auto"></div>
             </div>
 
-            <div class="card p-3 h-48 mt-2 overflow-hidden flex flex-column flex-col">
-                <h2 class="text-blue-400 text-[10px] font-bold mb-2 border-b border-blue-900 pb-1">ORDRE DE BATAILLE</h2>
-                <div id="unit-list" class="space-y-1 pr-1"></div>
+            <div class="card p-3 side-block-units flex flex-col min-height-0 mt-1">
+                <h2 class="text-blue-400 text-[10px] font-bold mb-2 border-b border-blue-900 pb-1">FORCES_ENGAGÉES</h2>
+                <div id="unit-list" class="space-y-1 pr-1 overflow-y-auto text-[9px]"></div>
             </div>
         </aside>
 
         <div id="map-container" class="card overflow-hidden">
-            <div class="absolute top-4 left-0 right-0 z-[1000] flex justify-center gap-1.5 px-2">
+            <div class="absolute top-2 left-0 right-0 z-[1000] flex justify-center gap-1 px-2">
                 <button onclick="map.flyTo([46.6, 2.2], 6)" class="btn-strat">HEXAGONE</button>
                 <button onclick="map.flyTo([43.5, 5.0], 9)" class="btn-strat">HUB_SUD</button>
-                <button onclick="map.flyTo([12.6, 43.1], 7)" class="btn-strat">BAB_EL_MANDEB</button>
+                <button onclick="map.flyTo([12.6, 43.1], 7)" class="btn-strat">DÉPLOIEMENT</button>
             </div>
             <div id="map"></div>
         </div>
@@ -108,17 +108,18 @@
         }
         setInterval(updateClocks, 1000);
 
-        // Dessine des lignes de flux vers le Moyen-Orient (hors champ mais vers la direction)
-        function drawFlows() {
-            const startPoints = [[43.5, 5.0], [48.3, -4.4]]; // Istres, Brest
-            const endPoint = [25.0, 55.0]; // Direction Golfe
-            startPoints.forEach(start => {
-                L.polyline([start, endPoint], {
-                    color: '#3b82f6', weight: 1, dashArray: '10, 20', opacity: 0.3, interactive: false
-                }).addTo(map);
+        // ICÔNES DIFFÉRENCIÉES
+        function getTacticalIcon(name) {
+            let symbol = "●"; // Défaut
+            if(name.includes("BASE") || name.includes("B.A")) symbol = "✈";
+            if(name.includes("PORT") || name.includes("TASK")) symbol = "⚓";
+            if(name.includes("QG") || name.includes("PARIS")) symbol = "◈";
+            
+            return L.divIcon({
+                className: 'unit-icon',
+                html: `<div class="unit-marker">${symbol}</div><div class="unit-label">${name}</div>`
             });
         }
-        drawFlows();
 
         async function updateFrance() {
             try {
@@ -130,34 +131,24 @@
                 const fn = d.news.filter(n => n.france_related || n.text.includes("BASE"));
                 document.getElementById('fr-news-count').innerText = fn.length.toString().padStart(2, '0');
                 document.getElementById('france-news-feed').innerHTML = fn.map(n => `
-                    <div class="p-2 border-l border-blue-600 bg-blue-900/5 text-[9px]">
-                        <div class="flex justify-between opacity-50 mb-1"><span>${n.source}</span><span>${n.time}</span></div>
-                        <p class="font-bold uppercase">${n.text}</p>
+                    <div class="p-2 border-l border-blue-600 bg-blue-900/10 mb-1">
+                        <div class="flex justify-between text-[7px] opacity-50"><span>${n.source}</span><span>${n.time}</span></div>
+                        <p class="font-bold uppercase text-[9px]">${n.text}</p>
                     </div>`).join('');
 
-                // Unités & Carte
+                // Unités
                 document.getElementById('unit-list').innerHTML = d.france.forces.map((u) => {
-                    // Ajout Marqueur Tactique sur la carte
-                    const icon = L.divIcon({
-                        className: 'unit-icon',
-                        html: `<div class="unit-marker"></div><div class="unit-label">${u.n}</div>`
-                    });
-                    L.marker(u.p, {icon: icon}).addTo(unitMarkers);
-                    
-                    // Zone de couverture
-                    L.circle(u.p, { radius: 40000, color: '#3b82f6', weight: 1, fillOpacity: 0.05, interactive: false }).addTo(unitMarkers);
-
-                    return `<div class="p-2 bg-blue-900/10 border border-blue-800/40 cursor-pointer text-[9px] hover:bg-blue-600/20" onclick="map.flyTo([${u.p}], 9)">
-                        <div class="flex justify-between">
-                            <span class="font-bold uppercase">${u.n}</span>
-                            <span class="text-blue-400 font-bold">STBY</span>
+                    L.marker(u.p, {icon: getTacticalIcon(u.n)}).addTo(unitMarkers);
+                    return `<div class="p-2 bg-blue-900/10 border border-blue-800/40 cursor-pointer hover:bg-blue-600/20" onclick="map.flyTo([${u.p}], 9)">
+                        <div class="flex justify-between uppercase">
+                            <span>${u.n}</span>
+                            <span class="text-blue-500">READY</span>
                         </div>
                     </div>`;
                 }).join('');
 
-                // Bandeau 3 dernières
                 const lastThree = d.news.slice(0, 3);
-                document.getElementById('marquee-text').innerText = " LIAISON_DIRECTE_C2 /// " + lastThree.map(n => ` [ ${n.time} ] ${n.text} `).join(' /// ');
+                document.getElementById('marquee-text').innerText = " LIAISON_OPS: OK /// " + lastThree.map(n => ` [ ${n.time} ] ${n.text} `).join(' /// ');
 
             } catch (err) {}
         }
