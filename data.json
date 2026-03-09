@@ -1,7 +1,147 @@
 {
-  "last_update": "09/03 07:56",
+  "last_update": "09/03 10:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773052017",
+      "source": "BFMTV",
+      "text": "MOJTABA KHAMENEI, NOMMÉ NOUVEAU GUIDE SUPRÊME D’IRAN: \"L'AFFICHAGE EST CLAIR, C'EST LA RADICALITÉ\", AFFIRME L'ÉCRIVAIN ET GRAND REPORTER OLIVIER WEBER",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:26",
+      "date": "09/03",
+      "timestamp": 1773052017
+    },
+    {
+      "id": "BFMTV_1773051925",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SÉRIES D'EXPLOSIONS À BEYROUTH ET À TEL-AVIV, AU MOINS UN MORT DANS LE CENTRE D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:25",
+      "date": "09/03",
+      "timestamp": 1773051925
+    },
+    {
+      "id": "BFMTV_1773051714",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: PLUS DE 300 PERSONNES ARRÊTÉES AU QATAR POUR PUBLICATION DE \"RUMEURS\" ET D'IMAGES D'ATTAQUES IRANIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:21",
+      "date": "09/03",
+      "timestamp": 1773051714
+    },
+    {
+      "id": "BFMTV_1773051664",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES VISENT DES INFRASTRUCTURES BANCAIRES DU HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:21",
+      "date": "09/03",
+      "timestamp": 1773051664
+    },
+    {
+      "id": "BFMTV_1773050869",
+      "source": "BFMTV",
+      "text": "ÉCOSSE: UN VIOLENT INCENDIE PRÈS DE LA GARE CENTRALE DE GLASGOW PARALYSE LE TRAFIC FERROVIAIRE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:07",
+      "date": "09/03",
+      "timestamp": 1773050869
+    },
+    {
+      "id": "BFMTV_1773050615",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS UN MORT APRÈS UNE SALVE DE MISSILES IRANIENS SUR LE CENTRE D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:03",
+      "date": "09/03",
+      "timestamp": 1773050615
+    },
+    {
+      "id": "BFMTV_1773050298",
+      "source": "BFMTV",
+      "text": " GUERRE AU MOYEN-ORIENT: UNE FAMILLE FRANÇAISE BLOQUÉE À DOHA DEPUIS 9 JOURS  ",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:58",
+      "date": "09/03",
+      "timestamp": 1773050298
+    },
+    {
+      "id": "BFMTV_1773050014",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE MÈNE DE NOUVELLES FRAPPES SUR LA BANLIEUE SUD DE BEYROUTH, BASTION DU HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:53",
+      "date": "09/03",
+      "timestamp": 1773050014
+    },
+    {
+      "id": "BFMTV_1773049664",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES ALERTES AUX BOMBARDEMENTS DANS LE CENTRE ET LE NORD D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:47",
+      "date": "09/03",
+      "timestamp": 1773049664
+    },
+    {
+      "id": "BFMTV_1773049591",
+      "source": "BFMTV",
+      "text": "LE GOUVERNEMENT BELGE DÉNONCE UN \"ACTE ANTISÉMITE ABJECT\" APRÈS L'EXPLOSION DEVANT UNE SYNAGOGUE À LIÈGE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:46",
+      "date": "09/03",
+      "timestamp": 1773049591
+    },
+    {
+      "id": "BFMTV_1773049464",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NOS CITOYENS SONT PRIS DANS LE FEU CROISÉ, NOS PARTENAIRES SONT ATTAQUÉS\", ALERTE URSULA VON DER LEYEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:44",
+      "date": "09/03",
+      "timestamp": 1773049464
+    },
+    {
+      "id": "BFMTV_1773048152",
+      "source": "BFMTV",
+      "text": "\"IL NE DEVRAIT Y AVOIR AUCUNE LARME VERSÉE POUR LE RÉGIME IRANIEN\", DÉNONCE URSULA VON DER LEYEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:22",
+      "date": "09/03",
+      "timestamp": 1773048152
+    },
+    {
+      "id": "BFMTV_1773047817",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE QATAR ARRÊTE PLUS DE 300 PERSONNES POUR PUBLICATION DE \"RUMEURS\" ET D'IMAGES D'ATTAQUES",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:16",
+      "date": "09/03",
+      "timestamp": 1773047817
+    },
+    {
+      "id": "BFMTV_1773046974",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS SECOUENT À NOUVEAU LA BANLIEUE SUD DE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:02",
+      "date": "09/03",
+      "timestamp": 1773046974
+    },
     {
       "id": "BFMTV_1773042696",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "09:10",
       "date": "08/03",
       "timestamp": 1772961027
-    },
-    {
-      "id": "BFMTV_1772960098",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BFMTV AVEC LA SECTION DE RECHERCHE DU DÉMINAGE D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:54",
-      "date": "08/03",
-      "timestamp": 1772960098
-    },
-    {
-      "id": "BFMTV_1772959142",
-      "source": "BFMTV",
-      "text": "LA DISTRIBUTION DE CARBURANT À TÉHÉRAN \"TEMPORAIREMENT\" INTERROMPUE APRÈS LES FRAPPES SUR LES DÉPÔTS DE PÉTROLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:39",
-      "date": "08/03",
-      "timestamp": 1772959142
-    },
-    {
-      "id": "BFMTV_1772959012",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: ISRAËL A MENÉ \"UNE ATTAQUE CONTRE DES AVIONS DE CHASSE F-14 À L'AÉROPORT D'ISPAHAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:36",
-      "date": "08/03",
-      "timestamp": 1772959012
-    },
-    {
-      "id": "BFMTV_1772958551",
-      "source": "BFMTV",
-      "text": "\"IL PLEUT DU PÉTROLE SUR TÉHÉRAN\": QUATRE DÉPÔTS PÉTROLIERS FRAPPÉS EN IRAN, AU MOINS QUATRE MORTS RECENSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:29",
-      "date": "08/03",
-      "timestamp": 1772958551
-    },
-    {
-      "id": "BFMTV_1772958406",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DISPOSERAIT ENCORE D'ENVIRON 50% DE SON PROGRAMME DE MISSILES, SELON DES MÉDIAS AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:26",
-      "date": "08/03",
-      "timestamp": 1772958406
-    },
-    {
-      "id": "BFMTV_1772957854",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE A FAIT 3.400 BOMBARDEMENTS SUR L'IRAN DEPUIS LE DÉBUT DU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:17",
-      "date": "08/03",
-      "timestamp": 1772957854
-    },
-    {
-      "id": "BFMTV_1772956857",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: 5.000 FRANÇAIS \"VULNÉRABLES\" SONT ENCORE \"À RAPATRIER\", SELON LE MINISTRE DES TRANSPORTS",
-      "urgent": true,
-      "france_related": true,
-      "time": "08:00",
-      "date": "08/03",
-      "timestamp": 1772956857
-    },
-    {
-      "id": "BFMTV_1772956328",
-      "source": "BFMTV",
-      "text": "\"UN PROCESSUS COMPARABLE À UN CONCLAVE AU VATICAN\": APRÈS LA MORT D’ALI KHAMENEI, QUI LUI SUCCÉDERA POUR DEVENIR LE NOUVEAU GUIDE SUPRÊME DE L’IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:52",
-      "date": "08/03",
-      "timestamp": 1772956328
-    },
-    {
-      "id": "BFMTV_1772955717",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS DANS LA PROVINCE CENTRALE DE YAZD, EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:41",
-      "date": "08/03",
-      "timestamp": 1772955717
-    },
-    {
-      "id": "BFMTV_1772954866",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP ÉVOQUE DE POSSIBLES OPÉRATIONS COMMANDO POUR CONTRÔLER LES STOCKS D'URANIUM ENRICHI",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:27",
-      "date": "08/03",
-      "timestamp": 1772954866
-    },
-    {
-      "id": "BFMTV_1772954088",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE PLUIE DE PÉTROLE SUR TÉHÉRAN APRÈS DES ATTAQUES SUR DES INFRASTRUCTURES PÉTROLIÈRES IRANIENNES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:14",
-      "date": "08/03",
-      "timestamp": 1772954088
-    },
-    {
-      "id": "BFMTV_1772953905",
-      "source": "BFMTV",
-      "text": "BAHREÏN: UNE STATION DE DESSALEMENT D'EAU ENDOMMAGÉE PAR UN DRONE IRANIEN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:11",
-      "date": "08/03",
-      "timestamp": 1772953905
-    },
-    {
-      "id": "BFMTV_1772953685",
-      "source": "BFMTV",
-      "text": "LIBAN: L'ARMÉE ISRAÉLIENNE APPELLE À ÉVACUER LES VILLAGES DANS LE SUD DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:08",
-      "date": "08/03",
-      "timestamp": 1772953685
-    },
-    {
-      "id": "BFMTV_1772953452",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA VILLE D'ERBIL EN IRAK VISÉE PAR DES FRAPPES IRANIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:04",
-      "date": "08/03",
-      "timestamp": 1772953452
     }
   ],
   "france": {
