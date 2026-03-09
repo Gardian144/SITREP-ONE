@@ -1,7 +1,147 @@
 {
-  "last_update": "09/03 22:00",
+  "last_update": "09/03 23:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773097155",
+      "source": "BFMTV",
+      "text": "UNE ATTAQUE IRANIENNE À MANAMA AU BAHREÏN FAIT UN MORT ET PLUSIEURS BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:59",
+      "date": "09/03",
+      "timestamp": 1773097155
+    },
+    {
+      "id": "BFMTV_1773096518",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS \"POURRAIENT DÉTRUIRE L'IRAN EN UN JOUR\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:48",
+      "date": "09/03",
+      "timestamp": 1773096518
+    },
+    {
+      "id": "BFMTV_1773096401",
+      "source": "BFMTV",
+      "text": "LORS D'UNE CONFÉRENCE DE PRESSE, DONALD TRUMP ASSURE QUE LA GUERRE EN IRAN SERA \"BIENTÔT\" TERMINÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:46",
+      "date": "09/03",
+      "timestamp": 1773096401
+    },
+    {
+      "id": "BFMTV_1773095571",
+      "source": "BFMTV",
+      "text": " LA PRISE DE PAROLE EN INTÉGRALITÉ DE DONALD TRUMP, DIX JOURS APRÈS LE DÉCLENCHEMENT DE LA GUERRE EN IRAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:32",
+      "date": "09/03",
+      "timestamp": 1773095571
+    },
+    {
+      "id": "BFMTV_1773095442",
+      "source": "BFMTV",
+      "text": "MOJTABA KHAMENEI, NOUVEAU GUIDE SUPRÊME: \"J'AI ÉTÉ DÉÇU PARCE QUE NOUS PENSONS QUE ÇA VA MENER AU MÊME PROBLÈME\", ESTIME DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:30",
+      "date": "09/03",
+      "timestamp": 1773095442
+    },
+    {
+      "id": "BFMTV_1773095142",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QUE LA GUERRE EN IRAN SERA \"TRÈS TRÈS BIENTÔT TERMINÉE\" ",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:25",
+      "date": "09/03",
+      "timestamp": 1773095142
+    },
+    {
+      "id": "BFMTV_1773094966",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE AVOIR EU \"UN EXCELLENT APPEL\" AVEC VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:22",
+      "date": "09/03",
+      "timestamp": 1773094966
+    },
+    {
+      "id": "BFMTV_1773094845",
+      "source": "BFMTV",
+      "text": "\"L'IRAN ALLAIT S'EMPARER DU MOYEN-ORIENT\", AFFIRME DONALD TRUMP QUI ASSURE QUE LES ÉTATS-UNIS \"LES ONT ARRÊTÉ AU BON MOMENT\" ",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:20",
+      "date": "09/03",
+      "timestamp": 1773094845
+    },
+    {
+      "id": "BFMTV_1773094672",
+      "source": "BFMTV",
+      "text": "\"L'ARMÉE AMÉRICAINE DEVRA REPRENDRE LE CONTRÔLE DU DÉTROIT\" D'ORMUZ \"LORSQUE LE MOMENT SERA VENU\", AFFIRME DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:17",
+      "date": "09/03",
+      "timestamp": 1773094672
+    },
+    {
+      "id": "BFMTV_1773094430",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QUE L'OPÉRATION AMÉRICAINE EN IRAN \"VA GARANTIR QUE LE PÉTROLE ET L'ÉNERGIE SOIENT DISPONIBLES À TRAVERS LE MONDE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:13",
+      "date": "09/03",
+      "timestamp": 1773094430
+    },
+    {
+      "id": "BFMTV_1773094258",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE \"PLUS DE 5000 MISSILES\" ONT ÉTÉ TIRÉS PAR L'IRAN SUR LES ÉMIRATS ARABES UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:10",
+      "date": "09/03",
+      "timestamp": 1773094258
+    },
+    {
+      "id": "BFMTV_1773094036",
+      "source": "BFMTV",
+      "text": "\"LA PLUPART DES MISSILES\" IRANIENS ONT ÉTÉ DÉTRUITS SELON DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:07",
+      "date": "09/03",
+      "timestamp": 1773094036
+    },
+    {
+      "id": "BFMTV_1773093833",
+      "source": "BFMTV",
+      "text": "L'IRAN AURAIT \"ANÉANTI ISRAËL\" SANS L'INTERVENTION AMÉRICAINE ESTIME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:03",
+      "date": "09/03",
+      "timestamp": 1773093833
+    },
+    {
+      "id": "BFMTV_1773093634",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LEURS CAPACITÉS DE MISSILES ONT BAISSÉ ÉNORMÉMENT\", AFFIRME DONALD TRUMP À PROPOS DE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:00",
+      "date": "09/03",
+      "timestamp": 1773093634
+    },
     {
       "id": "BFMTV_1773093560",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "10:07",
       "date": "09/03",
       "timestamp": 1773050869
-    },
-    {
-      "id": "BFMTV_1773050615",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS UN MORT APRÈS UNE SALVE DE MISSILES IRANIENS SUR LE CENTRE D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:03",
-      "date": "09/03",
-      "timestamp": 1773050615
-    },
-    {
-      "id": "BFMTV_1773050298",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: UNE FAMILLE FRANÇAISE BLOQUÉE À DOHA DEPUIS 9 JOURS  ",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:58",
-      "date": "09/03",
-      "timestamp": 1773050298
-    },
-    {
-      "id": "BFMTV_1773050014",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE MÈNE DE NOUVELLES FRAPPES SUR LA BANLIEUE SUD DE BEYROUTH, BASTION DU HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:53",
-      "date": "09/03",
-      "timestamp": 1773050014
-    },
-    {
-      "id": "BFMTV_1773049664",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES ALERTES AUX BOMBARDEMENTS DANS LE CENTRE ET LE NORD D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:47",
-      "date": "09/03",
-      "timestamp": 1773049664
-    },
-    {
-      "id": "BFMTV_1773049591",
-      "source": "BFMTV",
-      "text": "LE GOUVERNEMENT BELGE DÉNONCE UN \"ACTE ANTISÉMITE ABJECT\" APRÈS L'EXPLOSION DEVANT UNE SYNAGOGUE À LIÈGE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:46",
-      "date": "09/03",
-      "timestamp": 1773049591
-    },
-    {
-      "id": "BFMTV_1773049464",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOS CITOYENS SONT PRIS DANS LE FEU CROISÉ, NOS PARTENAIRES SONT ATTAQUÉS\", ALERTE URSULA VON DER LEYEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:44",
-      "date": "09/03",
-      "timestamp": 1773049464
-    },
-    {
-      "id": "BFMTV_1773048152",
-      "source": "BFMTV",
-      "text": "\"IL NE DEVRAIT Y AVOIR AUCUNE LARME VERSÉE POUR LE RÉGIME IRANIEN\", DÉNONCE URSULA VON DER LEYEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:22",
-      "date": "09/03",
-      "timestamp": 1773048152
-    },
-    {
-      "id": "BFMTV_1773047817",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE QATAR ARRÊTE PLUS DE 300 PERSONNES POUR PUBLICATION DE \"RUMEURS\" ET D'IMAGES D'ATTAQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:16",
-      "date": "09/03",
-      "timestamp": 1773047817
-    },
-    {
-      "id": "BFMTV_1773046974",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS SECOUENT À NOUVEAU LA BANLIEUE SUD DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:02",
-      "date": "09/03",
-      "timestamp": 1773046974
-    },
-    {
-      "id": "BFMTV_1773042696",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: JORDAN BARDELLA SE DIT OPPOSÉ AU \"GEL DES PRIX\" DE L'ÉNERGIE DEMANDÉ PAR LFI",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:51",
-      "date": "09/03",
-      "timestamp": 1773042696
-    },
-    {
-      "id": "BFMTV_1773042343",
-      "source": "BFMTV",
-      "text": "EXPLOSION DEVANT UNE SYNAGOGUE À LIÈGE EN BELGIQUE, AUCUN BLESSÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:45",
-      "date": "09/03",
-      "timestamp": 1773042343
-    },
-    {
-      "id": "BFMTV_1773042281",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DONALD TRUMP ASSURE QUE LA FIN DU CONFLIT REPOSERA SUR UNE DÉCISION \"MUTUELLE\" PRISE AVEC ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:44",
-      "date": "09/03",
-      "timestamp": 1773042281
-    },
-    {
-      "id": "BFMTV_1773041424",
-      "source": "BFMTV",
-      "text": "BAGDAD, ERBIL...PLUSIEURS VILLES IRAKIENNES VISÉES PAR DES FRAPPES IRANIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:30",
-      "date": "09/03",
-      "timestamp": 1773041424
-    },
-    {
-      "id": "BFMTV_1773041280",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: À LA RENCONTRE DES LIBANAIS QUI FUIENT LES BOMBES",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:28",
-      "date": "09/03",
-      "timestamp": 1773041280
     }
   ],
   "france": {
