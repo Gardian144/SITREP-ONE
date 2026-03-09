@@ -1,7 +1,167 @@
 {
-  "last_update": "09/03 15:14",
+  "last_update": "09/03 18:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773078992",
+      "source": "BFMTV",
+      "text": "À ERBIL, AU KURDISTAN IRAKIEN, LES ATTAQUES DE DRONES ARTISANAUX PERTURBENT LA VIE QUOTIDIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:56",
+      "date": "09/03",
+      "timestamp": 1773078992
+    },
+    {
+      "id": "BFMTV_1773078926",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: LES JOUEUSES DE FOOTBALL IRANIENNES VONT-ELLES RENTRER APRÈS AVOIR REFUSÉ DE CHANTER L’HYMNE LORS DE LA COUPE D'ASIE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:55",
+      "date": "09/03",
+      "timestamp": 1773078926
+    },
+    {
+      "id": "BFMTV_1773078570",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON AFFIRME QUE \"LA FRANCE N'EST PAS PARTIE PRENANTE DU CONFLIT\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:49",
+      "date": "09/03",
+      "timestamp": 1773078570
+    },
+    {
+      "id": "BFMTV_1773078451",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:47",
+      "date": "09/03",
+      "timestamp": 1773078451
+    },
+    {
+      "id": "BFMTV_1773078450",
+      "source": "BFMTV",
+      "text": "\"SOUTIEN\" DE MOSCOU, DONALD TRUMP \"PAS CONTENT\"... LES RÉACTIONS À LA NOMINATION DE MOJTABA KHAMENEI COMME NOUVEAU GUIDE SUPRÊME DE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:47",
+      "date": "09/03",
+      "timestamp": 1773078450
+    },
+    {
+      "id": "BFMTV_1773078424",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"ON APPELLE LES FRANÇAIS À S'INFORMER AUPRÈS DES CONSULATS ET DES AMBASSADES\", EXPLIQUE ÉLÉONORE CAROIT, MINISTRE DÉLÉGUÉE AUX FRANÇAIS DE L'ÉTRANGER",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:47",
+      "date": "09/03",
+      "timestamp": 1773078424
+    },
+    {
+      "id": "BFMTV_1773078135",
+      "source": "BFMTV",
+      "text": "LE QATAR A INTERCEPTÉ 17 MISSILES ET PLUSIEURS DRONES IRANIENS ALORS QUE LA TENSION PERSISTE DANS LE GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:42",
+      "date": "09/03",
+      "timestamp": 1773078135
+    },
+    {
+      "id": "BFMTV_1773078082",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - FRANCE, ROYAUME-UNI, ESPAGNE... FACE À LA GUERRE AU MOYEN-ORIENT, QUEL EST LE DISPOSITIF DES PAYS EUROPÉENS?",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:41",
+      "date": "09/03",
+      "timestamp": 1773078082
+    },
+    {
+      "id": "BFMTV_1773077811",
+      "source": "BFMTV",
+      "text": "VITRES SOUFFLÉES, POSSIBLE \"INFRACTION TERRORISTE\": CE QUE L'ON SAIT DE L'EXPLOSION DEVANT UNE SYNAGOGUE À LIÈGE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:36",
+      "date": "09/03",
+      "timestamp": 1773077811
+    },
+    {
+      "id": "OPEX360_1773077489",
+      "source": "OPEX360",
+      "text": "LA ROYAL NAVY EST EN QUÊTE DE NAVIRES POUR ESCORTER LE PORTE-AVIONS HMS PRINCE OF WALES",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:31",
+      "date": "09/03",
+      "timestamp": 1773077489
+    },
+    {
+      "id": "BFMTV_1773077399",
+      "source": "BFMTV",
+      "text": "ISRAËL INTENSIFIE SES OPÉRATIONS MILITAIRES AU SUD-LIBAN VISANT À ÉRADIQUER LE HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:29",
+      "date": "09/03",
+      "timestamp": 1773077399
+    },
+    {
+      "id": "BFMTV_1773077339",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON DÉTAILLE LE RÔLE DU PORTE-AVIONS CHARLES-DE-GAULLE EN MER MÉDITERRANÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:28",
+      "date": "09/03",
+      "timestamp": 1773077339
+    },
+    {
+      "id": "BFMTV_1773076103",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE A INTENSIFIÉ SES FRAPPES CONTRE LES INFRASTRUCTURES FINANCIÈRES DU HEZBOLLAH AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:08",
+      "date": "09/03",
+      "timestamp": 1773076103
+    },
+    {
+      "id": "BFMTV_1773075935",
+      "source": "BFMTV",
+      "text": "DE NOUVELLES FRAPPES ONT EU LIEU CET APRÈS-MIDI À TÉHÉRAN EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:05",
+      "date": "09/03",
+      "timestamp": 1773075935
+    },
+    {
+      "id": "BFMTV_1773075717",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON VEUT UNE COORDINATION DU G7 POUR ESSAYER D'\"ATTÉNUER L'IMPACT\" DE LA GUERRE AU MOYEN-ORIENT SUR LES PRIX DU GAZ ET DU PÉTROLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:01",
+      "date": "09/03",
+      "timestamp": 1773075717
+    },
+    {
+      "id": "OPEX360_1773069572",
+      "source": "OPEX360",
+      "text": "M. MACRON ANNONCE LA PRÉSENCE DE HUIT FRÉGATES, DE DEUX PORTE-HÉLICOPTÈRES ET DU GROUPE AÉRONAVAL AU PROCHE-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:19",
+      "date": "09/03",
+      "timestamp": 1773069572
+    },
     {
       "id": "BFMTV_1773068713",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "17:51",
       "date": "08/03",
       "timestamp": 1772992265
-    },
-    {
-      "id": "BFMTV_1772991981",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: 500 CONTRÔLES SERONT RÉALISÉS DANS DES STATIONS-SERVICE ENTRE LUNDI ET MERCREDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:46",
-      "date": "08/03",
-      "timestamp": 1772991981
-    },
-    {
-      "id": "BFMTV_1772991359",
-      "source": "BFMTV",
-      "text": "IRAK, ISRAËL, IRAN, LIBAN ... LE CONFLIT S'INTENSIFIE ET S'ÉTEND DANS LA RÉGION DU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:35",
-      "date": "08/03",
-      "timestamp": 1772991359
-    },
-    {
-      "id": "BFMTV_1772991157",
-      "source": "BFMTV",
-      "text": "FRAPPES AU MOYEN-ORIENT: \"L'ARMÉE LIBANAISE EST LA COLONNE VERTÉBRALE DE L'ÉTAT LIBANAIS\", DÉTAILLE ÉRIC DE LA PRESLE, CONSEILLER AUPRÈS DES FORCES ARMÉES LIBANAISES DE 2022 À 2025",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:32",
-      "date": "08/03",
-      "timestamp": 1772991157
-    },
-    {
-      "id": "BFMTV_1772990667",
-      "source": "BFMTV",
-      "text": "À TÉHÉRAN, LES ATTAQUES SUR LES INFRASTRUCTURES PÉTROLIÈRES PROVOQUENT DES FILES D'ATTENTE AUX STATIONS-SERVICE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:24",
-      "date": "08/03",
-      "timestamp": 1772990667
-    },
-    {
-      "id": "BFMTV_1772990395",
-      "source": "BFMTV",
-      "text": "FRAPPES AU MOYEN-ORIENT: \"IL Y A 7.500 FRANÇAIS QUI SE SONT INSCRITS POUR NOUS DEMANDER UNE AIDE AU RETOUR\", DÉTAILLE PASCAL CONFAVREUX, PORTE-PAROLE DU MINISTÈRE DE L'EUROPE ET DES AFFAIRES ÉTRANGÈRES",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:19",
-      "date": "08/03",
-      "timestamp": 1772990395
-    },
-    {
-      "id": "BFMTV_1772990135",
-      "source": "BFMTV",
-      "text": "FRAPPES AU MOYEN-ORIENT: DES MILLIERS DE TOURISTES ATTENDENT TOUJOURS UN RETOUR VERS LA FRANCE",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:15",
-      "date": "08/03",
-      "timestamp": 1772990135
-    },
-    {
-      "id": "BFMTV_1772989948",
-      "source": "BFMTV",
-      "text": "NOUVEAU GUIDE SUPRÊME: \"L'IRAN DOIT CHANGER DE POSTURE\", AFFIRME PASCAL CONFAVREUX, PORTE-PAROLE DU MINISTÈRE DE L'EUROPE ET DES AFFAIRES ÉTRANGÈRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:12",
-      "date": "08/03",
-      "timestamp": 1772989948
-    },
-    {
-      "id": "BFMTV_1772989737",
-      "source": "BFMTV",
-      "text": "\"IL N'EST QUE L'HÉRITIER DE SON PÈRE\": CHIRINNE ARDAKANI, AVOCATE DE NARGES MOHAMMADI, RÉAGIT À LA POSSIBLE NOMINATION DE MOJTABA KHAMENEI COMME GUIDE SUPRÊME",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:08",
-      "date": "08/03",
-      "timestamp": 1772989737
-    },
-    {
-      "id": "BFMTV_1772989138",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE A ANNONCÉ AVOIR \"ÉLIMINÉ\" À TÉHÉRAN LE CHEF DU BUREAU MILITAIRE DU CHEF DU RÉGIME IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:58",
-      "date": "08/03",
-      "timestamp": 1772989138
-    },
-    {
-      "id": "BFMTV_1772988523",
-      "source": "BFMTV",
-      "text": "LIGNE ROUGE - EPIC FURY: LES COULISSES DE L'INCROYABLE OPÉRATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:48",
-      "date": "08/03",
-      "timestamp": 1772988523
-    },
-    {
-      "id": "BFMTV_1772988395",
-      "source": "BFMTV",
-      "text": "LIGNE ROUGE - \"EPIC FURY\": LES COULISSES DE L'INCROYABLE OPÉRATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:46",
-      "date": "08/03",
-      "timestamp": 1772988395
-    },
-    {
-      "id": "BFMTV_1772987304",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LE PROCHAIN GUIDE SUPRÊME IRANIEN \"NE TIENDRA PAS LONGTEMPS\" SANS SON APPROBATION",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:28",
-      "date": "08/03",
-      "timestamp": 1772987304
-    },
-    {
-      "id": "BFMTV_1772985747",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LE PROCHAIN GUIDE SUPRÊME IRANIEN \"NE TIENDRA PAS LONGTEMPS\" SANS SON APPROBATION",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:02",
-      "date": "08/03",
-      "timestamp": 1772985747
-    },
-    {
-      "id": "BFMTV_1772984599",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN HÔTEL DE BEYROUTH A ÉTÉ TOUCHÉ PAR DES TIRS ISRAÉLIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:43",
-      "date": "08/03",
-      "timestamp": 1772984599
-    },
-    {
-      "id": "BFMTV_1772981175",
-      "source": "BFMTV",
-      "text": "DIRECT. VOLODYMYR ZELENSKY ANNONCE QUE DES EXPERTS EN DRONES UKRAINIENS SERONT AU MOYEN-ORIENT \"LA SEMAINE PROCHAINE\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:46",
-      "date": "08/03",
-      "timestamp": 1772981175
-    },
-    {
-      "id": "BFMTV_1772980425",
-      "source": "BFMTV",
-      "text": "\"UNE ÉPAISSE COLONNE DE FUMÉE NOIRE\": LE CIEL NOIRCI À TÉHÉRAN APRÈS LES FRAPPES ISRAÉLO-AMÉRICAINES SUR DES DÉPÔTS PÉTROLIERS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:33",
-      "date": "08/03",
-      "timestamp": 1772980425
     }
   ],
   "france": {
