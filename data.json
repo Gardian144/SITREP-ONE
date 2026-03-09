@@ -1,7 +1,137 @@
 {
-  "last_update": "09/03 19:55",
+  "last_update": "09/03 21:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773090036",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: CE QU'IL FAUT RETENIR DE CETTE DIXIÈME JOURNÉE DE CONFLIT AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:00",
+      "date": "09/03",
+      "timestamp": 1773090036
+    },
+    {
+      "id": "BFMTV_1773088449",
+      "source": "BFMTV",
+      "text": "L'INTERVIEW EN INTÉGRALITÉ DU DIRECTEUR DE L'AGENCE INTERNATIONALE DE L'ÉNERGIE ATOMIQUE (AIEA)",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:34",
+      "date": "09/03",
+      "timestamp": 1773088449
+    },
+    {
+      "id": "BFMTV_1773088395",
+      "source": "BFMTV",
+      "text": "NUCLÉAIRE IRANIEN: \"IL FAUT DÉFINIR AU PLUS VITE LES CONDITIONS D'UNE NÉGOCIATION CAPABLE DE RÉUSSIR\", ESTIME RAFAEL GROSSI, DIRECTEUR DE L'AIEA ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:33",
+      "date": "09/03",
+      "timestamp": 1773088395
+    },
+    {
+      "id": "BFMTV_1773088108",
+      "source": "BFMTV",
+      "text": "JETS D’ENGINS EXPLOSIFS, ACTE “TERRORISTE”, DÉPÔT DE PLAINTE... QUE S’EST-IL PASSÉ LORS DE LA MANIFESTATION ANTI-ISLAM DEVANT LA RÉSIDENCE DU MAIRE DE NEW YORK, ZOHRAN MAMDANI?",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:28",
+      "date": "09/03",
+      "timestamp": 1773088108
+    },
+    {
+      "id": "BFMTV_1773088087",
+      "source": "BFMTV",
+      "text": "\"IL FAUT NÉGOCIER\" AVEC LES IRANIENS AFFIRME RAFAEL GROSSI, DIRECTEUR DE L'AIEA",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:28",
+      "date": "09/03",
+      "timestamp": 1773088087
+    },
+    {
+      "id": "BFMTV_1773087940",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"AU MOMENT DES FRAPPES DE L'ANNÉE DERNIÈRE\" L'IRAN AVAIT DE QUOI FABRIQUER \"PLUS DE DIX BOMBES ATOMIQUES\", AFFIRME RAFAEL GROSSI",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:25",
+      "date": "09/03",
+      "timestamp": 1773087940
+    },
+    {
+      "id": "BFMTV_1773087728",
+      "source": "BFMTV",
+      "text": "RAFAEL GROSSI, DIRECTEUR DE L'AIEA, AFFIRME AVOIR DES CONTACTS AVEC LES DIRIGEANTS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:22",
+      "date": "09/03",
+      "timestamp": 1773087728
+    },
+    {
+      "id": "BFMTV_1773087519",
+      "source": "BFMTV",
+      "text": "RAFAEL GROSSI, DIRECTEUR DE L'AIEA, AFFIRME QU'IL N'Y A PAS DE RISQUE RADIOLOGIQUE EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:18",
+      "date": "09/03",
+      "timestamp": 1773087519
+    },
+    {
+      "id": "BFMTV_1773087347",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"L'IMPACT POUR L'INSTANT SUR LES INSTALLATIONS NUCLÉAIRES A ÉTÉ MARGINAL\", AFFIRME RAFAEL GROSSI, DIRECTEUR DE L'AIEA ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:15",
+      "date": "09/03",
+      "timestamp": 1773087347
+    },
+    {
+      "id": "BFMTV_1773087165",
+      "source": "BFMTV",
+      "text": "COMMENT LE PRIX DU PÉTROLE EST DEVENU UN ENJEU MAJEUR DANS LE CONFLIT AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:12",
+      "date": "09/03",
+      "timestamp": 1773087165
+    },
+    {
+      "id": "BFMTV_1773086873",
+      "source": "BFMTV",
+      "text": " À TÉHÉRAN, DES MILLIERS D'IRANIENS RÉUNIS POUR SOUTENIR LE NOUVEAU GUIDE SUPRÊME",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:07",
+      "date": "09/03",
+      "timestamp": 1773086873
+    },
+    {
+      "id": "BFMTV_1773086630",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME ENVISAGER DE \"CONTRÔLER\" LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:03",
+      "date": "09/03",
+      "timestamp": 1773086630
+    },
+    {
+      "id": "BFMTV_1773086089",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: UN CONSEILLER DU NOUVEAU GUIDE SUPRÊME NE VOIT \"AUCUNE PLACE POUR UN DIALOGUE DIPLOMATIQUE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:54",
+      "date": "09/03",
+      "timestamp": 1773086089
+    },
     {
       "id": "BFMTV_1773085918",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "06:33",
       "date": "09/03",
       "timestamp": 1773038015
-    },
-    {
-      "id": "BFMTV_1773036491",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL, QATAR, BAHREÏN... DES FRAPPES ENTENDUES DANS TOUTE LA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:08",
-      "date": "09/03",
-      "timestamp": 1773036491
-    },
-    {
-      "id": "BFMTV_1773032870",
-      "source": "BFMTV",
-      "text": "\"LA CONTINUITÉ DE SON PÈRE, MAIS EN PIRE\": QUI EST MOJTABA KHAMENEI, LE NOUVEAU GUIDE SUPRÊME ? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:07",
-      "date": "09/03",
-      "timestamp": 1773032870
-    },
-    {
-      "id": "BFMTV_1773011144",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE FILS D’ALI KHAMENEI, MOJTABA KHAMENEI, NOMMÉ NOUVEAU GUIDE SUPRÊME D’IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "23:05",
-      "date": "08/03",
-      "timestamp": 1773011144
-    },
-    {
-      "id": "BFMTV_1773010383",
-      "source": "BFMTV",
-      "text": "NOUVEAU GUIDE SUPRÊME, APPEL AU DIALOGUE DU PAPE, PRÈS DE 400 MORTS AU LIBAN... CE QU'IL FAUT RETENIR DE CETTE NEUVIÈME JOURNÉE DE GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:53",
-      "date": "08/03",
-      "timestamp": 1773010383
-    },
-    {
-      "id": "BFMTV_1773010383",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:53",
-      "date": "08/03",
-      "timestamp": 1773010383
-    },
-    {
-      "id": "BFMTV_1773010061",
-      "source": "BFMTV",
-      "text": "MOJTABA KHAMENEI, NOUVEAU GUIDE SUPRÊME D'IRAN: LES IMAGES DES IRANIENS QUI CÉLÈBRENT CETTE NOUVELLE NOMINATION",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:47",
-      "date": "08/03",
-      "timestamp": 1773010061
-    },
-    {
-      "id": "BFMTV_1773009471",
-      "source": "BFMTV",
-      "text": "IRAN: LES ÉTATS-UNIS ENVISAGERAIENT UNE OPÉRATION MILITAIRE SUR L'ÎLE DE KHARG, UN POINT STRATÉGIQUE POUR LE PÉTROLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:37",
-      "date": "08/03",
-      "timestamp": 1773009471
-    },
-    {
-      "id": "BFMTV_1773007948",
-      "source": "BFMTV",
-      "text": "PROCHE DES CONSERVATEURS, MOJTABA KHAMENEI, EST NOMMÉ NOUVEAU GUIDE SUPRÊME D’IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:12",
-      "date": "08/03",
-      "timestamp": 1773007948
-    },
-    {
-      "id": "BFMTV_1773007529",
-      "source": "BFMTV",
-      "text": "MOJTABA KHAMENEI, NOUVEAU GUIDE SUPRÊME D'IRAN, DEVRAIT POURSUIVRE LE CAP DE SON PÈRE À LA TÊTE DU RÉGIME",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:05",
-      "date": "08/03",
-      "timestamp": 1773007529
-    },
-    {
-      "id": "BFMTV_1773006538",
-      "source": "BFMTV",
-      "text": "LE FILS D’ALI KHAMENEI, MOJTABA KHAMENEI, NOMMÉ NOUVEAU GUIDE SUPRÊME D’IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:48",
-      "date": "08/03",
-      "timestamp": 1773006538
-    },
-    {
-      "id": "BFMTV_1773006091",
-      "source": "BFMTV",
-      "text": "LE FILS D'ALI KHAMENEI, MOJTABA KHAMENEI, NOMMÉ NOUVEAU GUIDE SUPRÊME IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:41",
-      "date": "08/03",
-      "timestamp": 1773006091
-    },
-    {
-      "id": "BFMTV_1773005375",
-      "source": "BFMTV",
-      "text": "PROCHE DES CONSERVATEURS, ENRICHI GRÂCE À DES SOCIÉTÉS ÉCRAN... QUI EST MOJTABA KHAMENEI, FILS D'ALI KHAMENEI, QUI SUCCÈDE À SON PÈRE EN TANT QUE GUIDE SUPRÊME IRANIEN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:29",
-      "date": "08/03",
-      "timestamp": 1773005375
-    },
-    {
-      "id": "BFMTV_1773005358",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE FILS D’ALI KHAMENEI, MOJTABA KHAMENEI, NOMMÉ NOUVEAU GUIDE SUPRÊME D’IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:29",
-      "date": "08/03",
-      "timestamp": 1773005358
     }
   ],
   "france": {
