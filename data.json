@@ -1,7 +1,147 @@
 {
-  "last_update": "09/03 11:59",
+  "last_update": "09/03 15:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773068713",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON AFFIRME PRÉPARER UNE FUTURE MISSION \"PUREMENT DÉFENSIVE\" POUR ROUVRIR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:05",
+      "date": "09/03",
+      "timestamp": 1773068713
+    },
+    {
+      "id": "BFMTV_1773068392",
+      "source": "BFMTV",
+      "text": "\"ON DEMANDE À CHACUN DE FAIRE PREUVE D'ÉTHIQUE\": MAUD BREGEON, MINISTRE CHARGÉE DE L'ÉNERGIE, ÉVOQUE LES CONTRÔLES DANS LES STATIONS-SERVICE FACE À LA FLAMBÉE DES PRIX DU PÉTROLE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:59",
+      "date": "09/03",
+      "timestamp": 1773068392
+    },
+    {
+      "id": "BFMTV_1773067870",
+      "source": "BFMTV",
+      "text": "LAS VEGAS: UN TOURISTE CANADIEN VOLE ET TORTURE UN FLAMANT ROSE DANS SA CHAMBRE D'HÔTEL ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:51",
+      "date": "09/03",
+      "timestamp": 1773067870
+    },
+    {
+      "id": "BFMTV_1773067758",
+      "source": "BFMTV",
+      "text": "L'UNION EUROPÉENNE MET EN GARDE CONTRE UN \"CHOC STAGFLATIONNISTE\" EN CAS DE GUERRE PROLONGÉE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:49",
+      "date": "09/03",
+      "timestamp": 1773067758
+    },
+    {
+      "id": "BFMTV_1773065184",
+      "source": "BFMTV",
+      "text": "UN DEUXIÈME MISSILE TIRÉ DEPUIS L'IRAN DÉTRUIT PAR L'OTAN DANS L'ESPACE AÉRIEN TURC",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:06",
+      "date": "09/03",
+      "timestamp": 1773065184
+    },
+    {
+      "id": "BFMTV_1773065164",
+      "source": "BFMTV",
+      "text": "MARCO RUBIO ACCUSE L'IRAN D'ESSAYER \"DE PRENDRE LE MONDE EN OTAGE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:06",
+      "date": "09/03",
+      "timestamp": 1773065164
+    },
+    {
+      "id": "BFMTV_1773064858",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: D'ÉPAISSES FUMÉES NOIRES À TÉHÉRAN APRÈS LES FRAPPES CONTRE DES SITES PÉTROLIERS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:00",
+      "date": "09/03",
+      "timestamp": 1773064858
+    },
+    {
+      "id": "BFMTV_1773064591",
+      "source": "BFMTV",
+      "text": "ENGINS EXPLOSIFS À NEW YORK PENDANT UNE MANIFESTATION ANTI-ISLAM: \"UN ACTE DE TERRORISME INSPIRÉ PAR L'ÉTAT ISLAMIQUE\", DÉCLARE LA POLICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:56",
+      "date": "09/03",
+      "timestamp": 1773064591
+    },
+    {
+      "id": "BFMTV_1773064319",
+      "source": "BFMTV",
+      "text": "IRAN: UN RASSEMBLEMENT EN SOUTIEN AU NOUVEAU GUIDE SUPRÊME MOJTABA KHAMENEI EN COURS À TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:51",
+      "date": "09/03",
+      "timestamp": 1773064319
+    },
+    {
+      "id": "BFMTV_1773063335",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: MARCO RUBIO PROMET QUE LES ÉTATS-UNIS VONT \"ATTEINDRE TOUS LEURS OBJECTIFS AVEC UNE FORCE ÉCRASANTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:35",
+      "date": "09/03",
+      "timestamp": 1773063335
+    },
+    {
+      "id": "BFMTV_1773063201",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH PRÊTE OFFICIELLEMENT ALLÉGEANCE AU NOUVEAU GUIDE SUPRÊME IRANIEN, MOJTABA KHAMENEI",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:33",
+      "date": "09/03",
+      "timestamp": 1773063201
+    },
+    {
+      "id": "BFMTV_1773062862",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON ANNONCE QUE LA FRANCE PRÉPARE UNE MISSION \"PUREMENT DÉFENSIVE\" POUR \"ROUVRIR\" LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:27",
+      "date": "09/03",
+      "timestamp": 1773062862
+    },
+    {
+      "id": "BFMTV_1773062697",
+      "source": "BFMTV",
+      "text": "ENGINS EXPLOSIFS À NEW YORK: \"UN TROISIÈME DISPOSITIF SUSPECT DANS UN VÉHICULE\", ANNONCE ZOHRAN MAMDANI",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:24",
+      "date": "09/03",
+      "timestamp": 1773062697
+    },
+    {
+      "id": "BFMTV_1773062120",
+      "source": "BFMTV",
+      "text": "\"NON L'EUROPE N'EST PAS AU BORD DE L'EFFACEMENT CIVILISATIONNEL\", ESTIME JEAN-NOËL BARROT À LA CONFÉRENCE DES AMBASSADEURS DE L'UE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:15",
+      "date": "09/03",
+      "timestamp": 1773062120
+    },
     {
       "id": "BFMTV_1773057288",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "14:33",
       "date": "08/03",
       "timestamp": 1772980425
-    },
-    {
-      "id": "BFMTV_1772979266",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN NOUVEAU BILAN FAIT ÉTAT DE 394 MORTS AU LIBAN DEPUIS LE DÉBUT DU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:14",
-      "date": "08/03",
-      "timestamp": 1772979266
-    },
-    {
-      "id": "BFMTV_1772978995",
-      "source": "BFMTV",
-      "text": "FRAPPES À TEL-AVIV: \"LE RÉGIME IRANIEN CIBLE DES QUARTIERS RÉSIDENTIELS\", ASSURE LE PORTE-PAROLE INTERNATIONAL DE LA POLICE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:09",
-      "date": "08/03",
-      "timestamp": 1772978995
-    },
-    {
-      "id": "BFMTV_1772978750",
-      "source": "BFMTV",
-      "text": "FRAPPES À TEL-AVIV: BFMTV SUR LES LIEUX DE L'EXPLOSION D'UNE SOUS-MUNITION",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:05",
-      "date": "08/03",
-      "timestamp": 1772978750
-    },
-    {
-      "id": "BFMTV_1772977874",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES FRAPPES SE POURSUIVENT DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:51",
-      "date": "08/03",
-      "timestamp": 1772977874
-    },
-    {
-      "id": "BFMTV_1772977652",
-      "source": "BFMTV",
-      "text": "TEL-AVIV: UN BLESSÉ GRAVE DANS LES NOUVELLES FRAPPES IRANIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:47",
-      "date": "08/03",
-      "timestamp": 1772977652
-    },
-    {
-      "id": "BFMTV_1772977391",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: LE MINISTÈRE DE LA SANTÉ LIBANAIS FAIT ÉTAT DE PRÈS DE 400 MORTS DANS LES FRAPPES ISRAÉLIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:43",
-      "date": "08/03",
-      "timestamp": 1772977391
-    },
-    {
-      "id": "BFMTV_1772977291",
-      "source": "BFMTV",
-      "text": "UN HOMME ARRÊTÉ À NEW YORK POUR AVOIR LANCÉ DES ENGINS EXPLOSIFS PRÉSUMÉS EN MARGE D'UNE MANIFESTATION D'EXTRÊME DROITE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:41",
-      "date": "08/03",
-      "timestamp": 1772977291
-    },
-    {
-      "id": "BFMTV_1772974649",
-      "source": "BFMTV",
-      "text": "\"LE PROBLÈME MAJEUR VIENT DU GOUVERNEMENT ISRAÉLIEN\": BFMTV À LA RENCONTRE D'IRANIENS À LA FRONTIÈRE ENTRE L'IRAN ET L'ARMÉNIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:57",
-      "date": "08/03",
-      "timestamp": 1772974649
-    },
-    {
-      "id": "BFMTV_1772973811",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: DE NOUVELLES EXPLOSIONS ENTENDUES À ABOU DHABI",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:43",
-      "date": "08/03",
-      "timestamp": 1772973811
-    },
-    {
-      "id": "OPEX360_1772973520",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE TERRE S’INTERROGE SUR L’APPORT TACTIQUE DES MOTOS SUR UN CHAMP DE BATAILLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:38",
-      "date": "08/03",
-      "timestamp": 1772973520
-    },
-    {
-      "id": "BFMTV_1772973253",
-      "source": "BFMTV",
-      "text": "L'AMBASSADE DES ÉTATS-UNIS À OSLO CIBLÉE PAR UNE EXPLOSION",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:34",
-      "date": "08/03",
-      "timestamp": 1772973253
-    },
-    {
-      "id": "BFMTV_1772972081",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA COMMUNICATION DE LA MAISON BLANCHE SUSCITE DE VIVES CRITIQUES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:14",
-      "date": "08/03",
-      "timestamp": 1772972081
-    },
-    {
-      "id": "BFMTV_1772971406",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE SÉRIE D'EXPLOSIONS A ÉTÉ ENTENDUE À TEL-AVIV APRÈS UNE ALERTE AUX MISSILES IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:03",
-      "date": "08/03",
-      "timestamp": 1772971406
-    },
-    {
-      "id": "BFMTV_1772970620",
-      "source": "BFMTV",
-      "text": "EXPLOSION DEVANT L'AMBASSADE DES ÉTATS-UNIS À OSLO, LA POLICE ÉVOQUE UN POSSIBLE MOTIF TERRORISTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:50",
-      "date": "08/03",
-      "timestamp": 1772970620
     }
   ],
   "france": {
