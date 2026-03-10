@@ -1,7 +1,77 @@
 {
-  "last_update": "10/03 22:58",
+  "last_update": "10/03 23:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773185148",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ANNONCE \"LANCER UNE VAGUE DE RAIDS\" CONTRE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "23:25",
+      "date": "10/03",
+      "timestamp": 1773185148
+    },
+    {
+      "id": "BFMTV_1773184813",
+      "source": "BFMTV",
+      "text": "L'ARMÉE AMÉRICAINE ANNONCE AVOIR DÉTRUIT 16 BATEAUX POSEURS DE MINES IRANIENS \"PRÈS DU DÉTROIT D'ORMUZ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "23:20",
+      "date": "10/03",
+      "timestamp": 1773184813
+    },
+    {
+      "id": "BFMTV_1773184024",
+      "source": "BFMTV",
+      "text": "UN INCENDIE DANS UN AUTOCAR EN SUISSE FAIT AU MOINS SIX MORTS ET DES BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "23:07",
+      "date": "10/03",
+      "timestamp": 1773184024
+    },
+    {
+      "id": "BFMTV_1773184003",
+      "source": "BFMTV",
+      "text": "ISRAËL ANNONCE \"LANCER UNE VAGUE DE RAIDS\" CONTRE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "23:06",
+      "date": "10/03",
+      "timestamp": 1773184003
+    },
+    {
+      "id": "BFMTV_1773183877",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: CE QU'IL FAUT RETENIR DE CETTE ONZIÈME JOURNÉE DE CONFLIT AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "23:04",
+      "date": "10/03",
+      "timestamp": 1773183877
+    },
+    {
+      "id": "BFMTV_1773183728",
+      "source": "BFMTV",
+      "text": "QUEL EST LE RÔLE DE MOJTABA KHAMENEI, NOUVEAU GUIDE SUPRÊME IRANIEN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "23:02",
+      "date": "10/03",
+      "timestamp": 1773183728
+    },
+    {
+      "id": "BFMTV_1773183585",
+      "source": "BFMTV",
+      "text": "ISRAËL ANNONCE UNE \"VAGUE DE FRAPPES\" SUR BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:59",
+      "date": "10/03",
+      "timestamp": 1773183585
+    },
     {
       "id": "BFMTV_1773183015",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "08:59",
       "date": "10/03",
       "timestamp": 1773133170
-    },
-    {
-      "id": "BFMTV_1773132003",
-      "source": "BFMTV",
-      "text": "L'AMBASSADEUR D'ISRAËL EN FRANCE ASSURE QUE LE NOUVEAU GUIDE SUPRÊME DOIT CHANGER \"FONDAMENTALEMENT\" LE RÉGIME SOUS PEINE D'ÊTRE \"ÉLIMINÉ\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "08:40",
-      "date": "10/03",
-      "timestamp": 1773132003
-    },
-    {
-      "id": "BFMTV_1773131870",
-      "source": "BFMTV",
-      "text": "\"ÇA DEVIENT TRÈS ANGOISSANT\": BLOQUÉES À BORD D'UN PAQUEBOT À DUBAÏ, SOPHIE ET SA FAMILLE ATTENDENT TOUJOURS D'ÊTRE RAPATRIÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:37",
-      "date": "10/03",
-      "timestamp": 1773131870
-    },
-    {
-      "id": "BFMTV_1773130813",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'INTERVIEW EN INTÉGRALITÉ JOSHUA ZARKA, AMBASSADEUR D'ISRAËL EN FRANCE ",
-      "urgent": true,
-      "france_related": true,
-      "time": "08:20",
-      "date": "10/03",
-      "timestamp": 1773130813
-    },
-    {
-      "id": "BFMTV_1773129595",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE BASE AMÉRICAINE FRAPPÉE AU KURDISTAN IRAKIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:59",
-      "date": "10/03",
-      "timestamp": 1773129595
-    },
-    {
-      "id": "BFMTV_1773129491",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"CETTE NUIT ÉTAIT LA PREMIÈRE NUIT SANS TIRS DE MISSILES IRANIENS ENVERS ISRAËL DEPUIS LE DÉBUT DE LA GUERRE\", DÉCLARE JOSHUA ZARKA, AMBASSADEUR D'ISRAËL EN FRANCE",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:58",
-      "date": "10/03",
-      "timestamp": 1773129491
-    },
-    {
-      "id": "BFMTV_1773129441",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"JE NE PEUX PAS EN PARLER\", DÉCLARE JOSHUA ZARKA, AMBASSADEUR D'ISRAËL EN FRANCE, INTERROGÉ SUR LA LOCALISATION DE L'URANIUM ENRICHI IRANIEN",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:57",
-      "date": "10/03",
-      "timestamp": 1773129441
-    },
-    {
-      "id": "BFMTV_1773127235",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES MENÉES AU LIBAN, L'IRAN ASSURE ÊTRE PRÊT À SE BATTRE \"AUSSI LONGTEMPS QUE POSSIBLE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:20",
-      "date": "10/03",
-      "timestamp": 1773127235
     }
   ],
   "france": {
