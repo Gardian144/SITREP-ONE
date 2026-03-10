@@ -1,7 +1,157 @@
 {
-  "last_update": "10/03 10:03",
+  "last_update": "10/03 11:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773143197",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: DES EXPLOSIONS ENTENDUES À TÉHÉRAN, ISRAËL ANNONCE AVOIR LANCÉ UNE NOUVELLE VAGUE DE FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:46",
+      "date": "10/03",
+      "timestamp": 1773143197
+    },
+    {
+      "id": "OPEX360_1773143190",
+      "source": "OPEX360",
+      "text": "À DOUZE CONTRE QUINZE, L’ESCADRON DE CHASSE 3/30 «LORRAINE» REMPORTE UNE NOUVELLE FOIS LA «ROGUES CUP»",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:46",
+      "date": "10/03",
+      "timestamp": 1773143190
+    },
+    {
+      "id": "BFMTV_1773143042",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LA GUERRE EST \"QUASI FINIE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:44",
+      "date": "10/03",
+      "timestamp": 1773143042
+    },
+    {
+      "id": "BFMTV_1773143004",
+      "source": "BFMTV",
+      "text": "ANTONIO COSTA DÉNONCE UNE \"NOUVELLE RÉALITÉ DANS LAQUELLE LA RUSSIE VIOLE LA PAIX, LA CHINE PERTURBE LE COMMERCE ET LES ÉTATS-UNIS REMETTENT EN QUESTION L'ORDRE INTERNATIONAL\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:43",
+      "date": "10/03",
+      "timestamp": 1773143004
+    },
+    {
+      "id": "BFMTV_1773142881",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: LA CROIX-ROUGE LANCE UN APPEL DE FONDS DE PLUS DE 44 MILLIONS D'EUROS POUR SOUTENIR LE CROISSANT-ROUGE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:41",
+      "date": "10/03",
+      "timestamp": 1773142881
+    },
+    {
+      "id": "BFMTV_1773142665",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: 100.000 NOUVEAUX DÉPLACÉS AU SUD-LIBAN À CAUSE DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:37",
+      "date": "10/03",
+      "timestamp": 1773142665
+    },
+    {
+      "id": "BFMTV_1773142084",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES IMAGES DE DESTRUCTIONS À L'EST DE TÉHÉRAN, EN IRAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:28",
+      "date": "10/03",
+      "timestamp": 1773142084
+    },
+    {
+      "id": "BFMTV_1773141986",
+      "source": "BFMTV",
+      "text": "\"UN DANGER POUR LA STABILITÉ DE NOTRE SOCIÉTÉ\": LE CRI D'ALARME D'UN MAGISTRAT SUR L'AMPLEUR DU NARCOTRAFIC EN BELGIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:26",
+      "date": "10/03",
+      "timestamp": 1773141986
+    },
+    {
+      "id": "BFMTV_1773140732",
+      "source": "BFMTV",
+      "text": "\"LES GENS ONT RETROUVÉ UN CERTAIN ESPOIR\": UN HABITANT DE TÉHÉRAN TÉMOIGNE DE LA VIE DANS LA CAPITALE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:05",
+      "date": "10/03",
+      "timestamp": 1773140732
+    },
+    {
+      "id": "BFMTV_1773140174",
+      "source": "BFMTV",
+      "text": "\"PAS MORALEMENT LÉGITIME\": UN CARDINAL AMÉRICAIN DÉNONCE LA GUERRE MENÉE PAR LES ÉTATS-UNIS EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:56",
+      "date": "10/03",
+      "timestamp": 1773140174
+    },
+    {
+      "id": "BFMTV_1773138998",
+      "source": "BFMTV",
+      "text": "\"ELLES SONT EN SÉCURITÉ ICI\": L'AUSTRALIE ACCORDE L'ASILE À CINQ FOOTBALLEUSES IRANIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:36",
+      "date": "10/03",
+      "timestamp": 1773138998
+    },
+    {
+      "id": "BFMTV_1773138676",
+      "source": "BFMTV",
+      "text": "RÉDUIRE LE NUCLÉAIRE EN EUROPE \"ÉTAIT UNE ERREUR STRATÉGIQUE\", CONCÈDE URSULA VON DER LEYEN, PRÉSIDENTE DE LA COMMISSION EUROPÉENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:31",
+      "date": "10/03",
+      "timestamp": 1773138676
+    },
+    {
+      "id": "BFMTV_1773137881",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES IMMEUBLES RÉSIDENTIELS ONT ÉTÉ DÉTRUITS PAR DES FRAPPES À TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:18",
+      "date": "10/03",
+      "timestamp": 1773137881
+    },
+    {
+      "id": "BFMTV_1773137690",
+      "source": "BFMTV",
+      "text": "LE DISCOURS D'EMMANUEL MACRON AU SOMMET DE L'ÉNERGIE NUCLÉAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:14",
+      "date": "10/03",
+      "timestamp": 1773137690
+    },
+    {
+      "id": "BFMTV_1773137679",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"C'EST L'OCCASION POUR ISRAËL DE FRAPPER LE HEZBOLLAH\", SELON MERIEM AMELLAL, JOURNALISTE À FRANCE 24",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:14",
+      "date": "10/03",
+      "timestamp": 1773137679
+    },
     {
       "id": "BFMTV_1773136661",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "17:47",
       "date": "09/03",
       "timestamp": 1773078424
-    },
-    {
-      "id": "BFMTV_1773078135",
-      "source": "BFMTV",
-      "text": "LE QATAR A INTERCEPTÉ 17 MISSILES ET PLUSIEURS DRONES IRANIENS ALORS QUE LA TENSION PERSISTE DANS LE GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:42",
-      "date": "09/03",
-      "timestamp": 1773078135
-    },
-    {
-      "id": "BFMTV_1773078082",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - FRANCE, ROYAUME-UNI, ESPAGNE... FACE À LA GUERRE AU MOYEN-ORIENT, QUEL EST LE DISPOSITIF DES PAYS EUROPÉENS?",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:41",
-      "date": "09/03",
-      "timestamp": 1773078082
-    },
-    {
-      "id": "BFMTV_1773077811",
-      "source": "BFMTV",
-      "text": "VITRES SOUFFLÉES, POSSIBLE \"INFRACTION TERRORISTE\": CE QUE L'ON SAIT DE L'EXPLOSION DEVANT UNE SYNAGOGUE À LIÈGE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:36",
-      "date": "09/03",
-      "timestamp": 1773077811
-    },
-    {
-      "id": "OPEX360_1773077489",
-      "source": "OPEX360",
-      "text": "LA ROYAL NAVY EST EN QUÊTE DE NAVIRES POUR ESCORTER LE PORTE-AVIONS HMS PRINCE OF WALES",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:31",
-      "date": "09/03",
-      "timestamp": 1773077489
-    },
-    {
-      "id": "BFMTV_1773077399",
-      "source": "BFMTV",
-      "text": "ISRAËL INTENSIFIE SES OPÉRATIONS MILITAIRES AU SUD-LIBAN VISANT À ÉRADIQUER LE HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:29",
-      "date": "09/03",
-      "timestamp": 1773077399
-    },
-    {
-      "id": "BFMTV_1773077339",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON DÉTAILLE LE RÔLE DU PORTE-AVIONS CHARLES-DE-GAULLE EN MER MÉDITERRANÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:28",
-      "date": "09/03",
-      "timestamp": 1773077339
-    },
-    {
-      "id": "BFMTV_1773076103",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE A INTENSIFIÉ SES FRAPPES CONTRE LES INFRASTRUCTURES FINANCIÈRES DU HEZBOLLAH AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:08",
-      "date": "09/03",
-      "timestamp": 1773076103
-    },
-    {
-      "id": "BFMTV_1773075935",
-      "source": "BFMTV",
-      "text": "DE NOUVELLES FRAPPES ONT EU LIEU CET APRÈS-MIDI À TÉHÉRAN EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:05",
-      "date": "09/03",
-      "timestamp": 1773075935
-    },
-    {
-      "id": "BFMTV_1773075717",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON VEUT UNE COORDINATION DU G7 POUR ESSAYER D'\"ATTÉNUER L'IMPACT\" DE LA GUERRE AU MOYEN-ORIENT SUR LES PRIX DU GAZ ET DU PÉTROLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:01",
-      "date": "09/03",
-      "timestamp": 1773075717
-    },
-    {
-      "id": "OPEX360_1773069572",
-      "source": "OPEX360",
-      "text": "M. MACRON ANNONCE LA PRÉSENCE DE HUIT FRÉGATES, DE DEUX PORTE-HÉLICOPTÈRES ET DU GROUPE AÉRONAVAL AU PROCHE-ORIENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:19",
-      "date": "09/03",
-      "timestamp": 1773069572
-    },
-    {
-      "id": "BFMTV_1773068713",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON AFFIRME PRÉPARER UNE FUTURE MISSION \"PUREMENT DÉFENSIVE\" POUR ROUVRIR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:05",
-      "date": "09/03",
-      "timestamp": 1773068713
-    },
-    {
-      "id": "BFMTV_1773068392",
-      "source": "BFMTV",
-      "text": "\"ON DEMANDE À CHACUN DE FAIRE PREUVE D'ÉTHIQUE\": MAUD BREGEON, MINISTRE CHARGÉE DE L'ÉNERGIE, ÉVOQUE LES CONTRÔLES DANS LES STATIONS-SERVICE FACE À LA FLAMBÉE DES PRIX DU PÉTROLE",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:59",
-      "date": "09/03",
-      "timestamp": 1773068392
-    },
-    {
-      "id": "BFMTV_1773067870",
-      "source": "BFMTV",
-      "text": "LAS VEGAS: UN TOURISTE CANADIEN VOLE ET TORTURE UN FLAMANT ROSE DANS SA CHAMBRE D'HÔTEL ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:51",
-      "date": "09/03",
-      "timestamp": 1773067870
-    },
-    {
-      "id": "BFMTV_1773067758",
-      "source": "BFMTV",
-      "text": "L'UNION EUROPÉENNE MET EN GARDE CONTRE UN \"CHOC STAGFLATIONNISTE\" EN CAS DE GUERRE PROLONGÉE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:49",
-      "date": "09/03",
-      "timestamp": 1773067758
-    },
-    {
-      "id": "BFMTV_1773065184",
-      "source": "BFMTV",
-      "text": "UN DEUXIÈME MISSILE TIRÉ DEPUIS L'IRAN DÉTRUIT PAR L'OTAN DANS L'ESPACE AÉRIEN TURC",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:06",
-      "date": "09/03",
-      "timestamp": 1773065184
     }
   ],
   "france": {
