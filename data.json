@@ -1,7 +1,147 @@
 {
-  "last_update": "10/03 05:01",
+  "last_update": "10/03 07:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773127235",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES MENÉES AU LIBAN, L'IRAN ASSURE ÊTRE PRÊT À SE BATTRE \"AUSSI LONGTEMPS QUE POSSIBLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:20",
+      "date": "10/03",
+      "timestamp": 1773127235
+    },
+    {
+      "id": "BFMTV_1773127017",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ENTRE LES ALERTES NON-STOP, LA VIE S'ORGANISE EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:16",
+      "date": "10/03",
+      "timestamp": 1773127017
+    },
+    {
+      "id": "BFMTV_1773126206",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE FAMILLE EN CROISIÈRE BLOQUÉE DANS LE GOLFE TÉMOIGNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:03",
+      "date": "10/03",
+      "timestamp": 1773126206
+    },
+    {
+      "id": "BFMTV_1773125970",
+      "source": "BFMTV",
+      "text": "DES PIÈCES DANOISES DE F-35 UTILISÉES PAR ISRAËL: LA COUR SUPRÊME DU DANEMARK SE PENCHE SUR LA LÉGALITÉ DE LA VENTE",
+      "urgent": true,
+      "france_related": true,
+      "time": "06:59",
+      "date": "10/03",
+      "timestamp": 1773125970
+    },
+    {
+      "id": "BFMTV_1773124985",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE APPELLE À NOUVEAU À ÉVACUER LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:43",
+      "date": "10/03",
+      "timestamp": 1773124985
+    },
+    {
+      "id": "BFMTV_1773122781",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEUX PERSONNES TUÉES AU BAHREÏN PAR UNE ATTAQUE DE DRONES IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:06",
+      "date": "10/03",
+      "timestamp": 1773122781
+    },
+    {
+      "id": "BFMTV_1773122595",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE QATAR TENTE DE PRÉSERVER SON IMAGE MALGRÉ LES RUES ET PLAGES VIDES",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:03",
+      "date": "10/03",
+      "timestamp": 1773122595
+    },
+    {
+      "id": "BFMTV_1773122556",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ALI, VICTIME D'UN BOMBARDEMENT ISRAÉLIEN, A PERDU 11 MEMBRES DE SA FAMILLE DANS UNE FRAPPE QUI A TOUCHÉ NABI CHIT, AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:02",
+      "date": "10/03",
+      "timestamp": 1773122556
+    },
+    {
+      "id": "BFMTV_1773122361",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS CIBLÉS PAR DES DRONES ET DES MISSILES IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:59",
+      "date": "10/03",
+      "timestamp": 1773122361
+    },
+    {
+      "id": "BFMTV_1773121938",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ARRIVÉ SUR LE CHARLES DE GAULLE, EMMANUEL MACRON ASSURE QUE LA FRANCE NE PARTICIPE PAS \"À UN CONFLIT EN COURS\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:52",
+      "date": "10/03",
+      "timestamp": 1773121938
+    },
+    {
+      "id": "BFMTV_1773120970",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES FRANÇAIS BLOQUÉS À L'AUTRE BOUT DU MONDE FONT FACE À UN SURCOÛT DU PRIX DES VOLS",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:36",
+      "date": "10/03",
+      "timestamp": 1773120970
+    },
+    {
+      "id": "BFMTV_1773120679",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: NOUVELLE ATTAQUE ISRAÉLIENNE MASSIVE SUR TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:31",
+      "date": "10/03",
+      "timestamp": 1773120679
+    },
+    {
+      "id": "BFMTV_1773120638",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: COMMENT LA VIE S'ORGANISE EN ISRAËL MALGRÉ LES ALERTES CONSTANTES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:30",
+      "date": "10/03",
+      "timestamp": 1773120638
+    },
+    {
+      "id": "BFMTV_1773119988",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LA GUERRE EST \"QUASIMENT FINIE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:19",
+      "date": "10/03",
+      "timestamp": 1773119988
+    },
     {
       "id": "BFMTV_1773098178",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "11:44",
       "date": "09/03",
       "timestamp": 1773056685
-    },
-    {
-      "id": "BFMTV_1773056079",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: 2 MORTS ET 1 BLESSÉ EN ISRAËL SUITE AUX FRAPPE IRANIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:34",
-      "date": "09/03",
-      "timestamp": 1773056079
-    },
-    {
-      "id": "BFMTV_1773055200",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON EST ARRIVÉ À CHYPRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:20",
-      "date": "09/03",
-      "timestamp": 1773055200
-    },
-    {
-      "id": "BFMTV_1773054979",
-      "source": "BFMTV",
-      "text": "EXPLOSION DEVANT L'AMBASSADE DES ÉTATS-UNIS À OSLO: LA POLICE NORVÉGIENNE DIFFUSE LES PHOTOS D'UN SUSPECT",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:16",
-      "date": "09/03",
-      "timestamp": 1773054979
-    },
-    {
-      "id": "BFMTV_1773054078",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL DIT PRÉPARER UNE INCURSION TERRESTRE EN FRAPPANT LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:01",
-      "date": "09/03",
-      "timestamp": 1773054078
-    },
-    {
-      "id": "BFMTV_1773053824",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS UN MORT EN ISRAËL À CAUSE DE DÉBRIS DE MISSILES IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:57",
-      "date": "09/03",
-      "timestamp": 1773053824
-    },
-    {
-      "id": "BFMTV_1773053579",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LES ÉTATS-UNIS UTILISENT MAINTENANT DES BASES AÉRIENNES BRITANNIQUES\", DÉCLARE KEIR STARMER",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:52",
-      "date": "09/03",
-      "timestamp": 1773053579
-    },
-    {
-      "id": "BFMTV_1773053178",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE ASSURE DE SON \"SOUTIEN INDÉFECTIBLE\" LE NOUVEAU GUIDE SUPRÊME IRANIEN, MOJTABA KHAMENEI",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:46",
-      "date": "09/03",
-      "timestamp": 1773053178
-    },
-    {
-      "id": "BFMTV_1773052980",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA FLAMBÉE DES PRIX DU PÉTROLE TOUCHE ÉGALEMENT LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:43",
-      "date": "09/03",
-      "timestamp": 1773052980
-    },
-    {
-      "id": "BFMTV_1773052262",
-      "source": "BFMTV",
-      "text": "\"LES IRANIENS S'INSCRIVENT DANS UNE GUERRE LONGUE\", ANALYSE PIERRE BERTHELOT, CHERCHEUR À L'IPSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:31",
-      "date": "09/03",
-      "timestamp": 1773052262
-    },
-    {
-      "id": "BFMTV_1773052213",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - MOJTABA KHAMENEI ÂGÉ DE 56 ANS, 2E FILS D'ALI KHAMENEI EST LE NOUVEAU GUIDE SUPRÊME IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:30",
-      "date": "09/03",
-      "timestamp": 1773052213
-    },
-    {
-      "id": "BFMTV_1773052017",
-      "source": "BFMTV",
-      "text": "MOJTABA KHAMENEI, NOMMÉ NOUVEAU GUIDE SUPRÊME D’IRAN: \"L'AFFICHAGE EST CLAIR, C'EST LA RADICALITÉ\", AFFIRME L'ÉCRIVAIN ET GRAND REPORTER OLIVIER WEBER",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:26",
-      "date": "09/03",
-      "timestamp": 1773052017
-    },
-    {
-      "id": "BFMTV_1773051925",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SÉRIES D'EXPLOSIONS À BEYROUTH ET À TEL-AVIV, AU MOINS UN MORT DANS LE CENTRE D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:25",
-      "date": "09/03",
-      "timestamp": 1773051925
-    },
-    {
-      "id": "BFMTV_1773051714",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PLUS DE 300 PERSONNES ARRÊTÉES AU QATAR POUR PUBLICATION DE \"RUMEURS\" ET D'IMAGES D'ATTAQUES IRANIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:21",
-      "date": "09/03",
-      "timestamp": 1773051714
-    },
-    {
-      "id": "BFMTV_1773051664",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES VISENT DES INFRASTRUCTURES BANCAIRES DU HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:21",
-      "date": "09/03",
-      "timestamp": 1773051664
     }
   ],
   "france": {
