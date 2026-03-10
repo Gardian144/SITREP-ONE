@@ -1,7 +1,77 @@
 {
-  "last_update": "10/03 21:02",
+  "last_update": "10/03 21:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773179540",
+      "source": "BFMTV",
+      "text": "LES SIRÈNES D'ALERTE RETENTISSENT À TEL-AVIV APRÈS LE LANCEMENT D'UNE NOUVELLE SALVE DE MISSILES DEPUIS L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:52",
+      "date": "10/03",
+      "timestamp": 1773179540
+    },
+    {
+      "id": "BFMTV_1773179350",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UNE \"NOUVELLE VAGUE D'ATTAQUES CONTRE TÉHÉRAN\" LANCÉE PAR ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:49",
+      "date": "10/03",
+      "timestamp": 1773179350
+    },
+    {
+      "id": "BFMTV_1773179225",
+      "source": "BFMTV",
+      "text": "AU MOINS SIX MORTS ET QUATRE BLESSÉS DANS L'INCENDIE D'UN AUTOCAR EN SUISSE, LA POLICE PRIVILÉGIE UNE CAUSE HUMAINE \"ET MÊME UN ACTE VOLONTAIRE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:47",
+      "date": "10/03",
+      "timestamp": 1773179225
+    },
+    {
+      "id": "BFMTV_1773178058",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: “J’AURAIS AIMÉ QU’IL Y AIT UN SOUTIEN POLITIQUE DES EUROPÉENS AU LANCEMENT DE L’OPÉRATION” AVOUE HERVÉ MORIN, ANCIEN MINISTRE DES ARMÉES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:27",
+      "date": "10/03",
+      "timestamp": 1773178058
+    },
+    {
+      "id": "BFMTV_1773177736",
+      "source": "BFMTV",
+      "text": "“LA MENACE IRANIENNE EST UNE MENACE SUR LE LONG TERME”, DÉCLARE HERVÉ MORIN, ANCIEN MINISTRE DES ARMÉES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:22",
+      "date": "10/03",
+      "timestamp": 1773177736
+    },
+    {
+      "id": "BFMTV_1773177591",
+      "source": "BFMTV",
+      "text": "\"L'IRAN TIRE HUIT À NEUF FOIS MOINS DE MISSILES QU'AU DÉBUT DE L'OPÉRATION\", AFFIRME L'ANCIEN MINISTRE DES ARMÉES HERVÉ MORIN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:19",
+      "date": "10/03",
+      "timestamp": 1773177591
+    },
+    {
+      "id": "BFMTV_1773176726",
+      "source": "BFMTV",
+      "text": "LE DISCOURS D'URSULA VON DER LEYEN AU SOMMET DE L'ÉNERGIE NUCLÉAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:05",
+      "date": "10/03",
+      "timestamp": 1773176726
+    },
     {
       "id": "BFMTV_1773176369",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "06:03",
       "date": "10/03",
       "timestamp": 1773122595
-    },
-    {
-      "id": "BFMTV_1773122556",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ALI, VICTIME D'UN BOMBARDEMENT ISRAÉLIEN, A PERDU 11 MEMBRES DE SA FAMILLE DANS UNE FRAPPE QUI A TOUCHÉ NABI CHIT, AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:02",
-      "date": "10/03",
-      "timestamp": 1773122556
-    },
-    {
-      "id": "BFMTV_1773122361",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS CIBLÉS PAR DES DRONES ET DES MISSILES IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:59",
-      "date": "10/03",
-      "timestamp": 1773122361
-    },
-    {
-      "id": "BFMTV_1773121938",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ARRIVÉ SUR LE CHARLES DE GAULLE, EMMANUEL MACRON ASSURE QUE LA FRANCE NE PARTICIPE PAS \"À UN CONFLIT EN COURS\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:52",
-      "date": "10/03",
-      "timestamp": 1773121938
-    },
-    {
-      "id": "BFMTV_1773120970",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES FRANÇAIS BLOQUÉS À L'AUTRE BOUT DU MONDE FONT FACE À UN SURCOÛT DU PRIX DES VOLS",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:36",
-      "date": "10/03",
-      "timestamp": 1773120970
-    },
-    {
-      "id": "BFMTV_1773120679",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: NOUVELLE ATTAQUE ISRAÉLIENNE MASSIVE SUR TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:31",
-      "date": "10/03",
-      "timestamp": 1773120679
-    },
-    {
-      "id": "BFMTV_1773120638",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: COMMENT LA VIE S'ORGANISE EN ISRAËL MALGRÉ LES ALERTES CONSTANTES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:30",
-      "date": "10/03",
-      "timestamp": 1773120638
-    },
-    {
-      "id": "BFMTV_1773119988",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LA GUERRE EST \"QUASIMENT FINIE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:19",
-      "date": "10/03",
-      "timestamp": 1773119988
     }
   ],
   "france": {
