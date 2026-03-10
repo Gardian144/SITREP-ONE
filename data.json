@@ -1,7 +1,57 @@
 {
-  "last_update": "10/03 21:56",
+  "last_update": "10/03 22:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773183015",
+      "source": "BFMTV",
+      "text": "ISRAËL ANNONCE UNE \"VAGUE DE FRAPPES\" SUR BEYROUTH À LIBAN CE MARDI SOIR",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:50",
+      "date": "10/03",
+      "timestamp": 1773183015
+    },
+    {
+      "id": "BFMTV_1773182371",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL ANNONCE \"LANCER UNE VAGUE DE RAIDS\" CONTRE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:39",
+      "date": "10/03",
+      "timestamp": 1773182371
+    },
+    {
+      "id": "BFMTV_1773181948",
+      "source": "BFMTV",
+      "text": "\"UN RÉGIME DE SALOPARDS ABSOLUS\": L'ANCIEN MINISTRE DES ARMÉES HERVÉ MORIN SE DIT \"RAVI QUE LES ISRAÉLIENS ET LES AMÉRICAINS TAPENT SUR L'IRAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:32",
+      "date": "10/03",
+      "timestamp": 1773181948
+    },
+    {
+      "id": "BFMTV_1773181632",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DES NAVIRES DÉTRUITS PAR LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:27",
+      "date": "10/03",
+      "timestamp": 1773181632
+    },
+    {
+      "id": "BFMTV_1773179671",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ANNONCE UNE NOUVELLE “VAGUE DE FRAPPES” SUR L’IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:54",
+      "date": "10/03",
+      "timestamp": 1773179671
+    },
     {
       "id": "BFMTV_1773179540",
       "source": "BFMTV",
@@ -26,6 +76,16 @@
       "id": "BFMTV_1773179225",
       "source": "BFMTV",
       "text": "AU MOINS SIX MORTS ET QUATRE BLESSÉS DANS L'INCENDIE D'UN AUTOCAR EN SUISSE, LA POLICE PRIVILÉGIE UNE CAUSE HUMAINE \"ET MÊME UN ACTE VOLONTAIRE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:47",
+      "date": "10/03",
+      "timestamp": 1773179225
+    },
+    {
+      "id": "BFMTV_1773179225",
+      "source": "BFMTV",
+      "text": "AU MOINS SIX MORTS ET CINQ BLESSÉS DANS L'INCENDIE D'UN AUTOCAR EN SUISSE, LA POLICE PRIVILÉGIE UNE CAUSE HUMAINE \"ET MÊME UN ACTE VOLONTAIRE\"",
       "urgent": false,
       "france_related": false,
       "time": "21:47",
@@ -941,66 +1001,6 @@
       "time": "07:20",
       "date": "10/03",
       "timestamp": 1773127235
-    },
-    {
-      "id": "BFMTV_1773127017",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ENTRE LES ALERTES NON-STOP, LA VIE S'ORGANISE EN ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:16",
-      "date": "10/03",
-      "timestamp": 1773127017
-    },
-    {
-      "id": "BFMTV_1773126206",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE FAMILLE EN CROISIÈRE BLOQUÉE DANS LE GOLFE TÉMOIGNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:03",
-      "date": "10/03",
-      "timestamp": 1773126206
-    },
-    {
-      "id": "BFMTV_1773125970",
-      "source": "BFMTV",
-      "text": "DES PIÈCES DANOISES DE F-35 UTILISÉES PAR ISRAËL: LA COUR SUPRÊME DU DANEMARK SE PENCHE SUR LA LÉGALITÉ DE LA VENTE",
-      "urgent": true,
-      "france_related": true,
-      "time": "06:59",
-      "date": "10/03",
-      "timestamp": 1773125970
-    },
-    {
-      "id": "BFMTV_1773124985",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE APPELLE À NOUVEAU À ÉVACUER LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:43",
-      "date": "10/03",
-      "timestamp": 1773124985
-    },
-    {
-      "id": "BFMTV_1773122781",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DEUX PERSONNES TUÉES AU BAHREÏN PAR UNE ATTAQUE DE DRONES IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:06",
-      "date": "10/03",
-      "timestamp": 1773122781
-    },
-    {
-      "id": "BFMTV_1773122595",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE QATAR TENTE DE PRÉSERVER SON IMAGE MALGRÉ LES RUES ET PLAGES VIDES",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:03",
-      "date": "10/03",
-      "timestamp": 1773122595
     }
   ],
   "france": {
