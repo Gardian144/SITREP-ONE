@@ -1,7 +1,147 @@
 {
-  "last_update": "11/03 05:03",
+  "last_update": "11/03 07:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773214965",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: LE MINISTRE DE L'ÉCONOMIE INDIQUE QUE \"513 CONTRÔLES ONT ÉTÉ EFFECTUÉS\" DANS LES STATIONS-SERVICE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:42",
+      "date": "11/03",
+      "timestamp": 1773214965
+    },
+    {
+      "id": "BFMTV_1773214594",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT ANNONCE L'ENVOI DE 60 TONNES D'AIDE HUMANITAIRE PAR LA FRANCE AU LIBAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "07:36",
+      "date": "11/03",
+      "timestamp": 1773214594
+    },
+    {
+      "id": "BFMTV_1773214323",
+      "source": "BFMTV",
+      "text": "HAWAÏ: LES IMAGES SPECTACULAIRES DES FONTAINES DE LAVE JAILLISSANT DU VOLCAN KILAUEA ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:32",
+      "date": "11/03",
+      "timestamp": 1773214323
+    },
+    {
+      "id": "BFMTV_1773214190",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: UN NAVIRE TOUCHÉ PAR UN PROJECTILE DANS LE DÉTROIT D'ORMUZ, L'ÉQUIPAGE ÉVACUÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:29",
+      "date": "11/03",
+      "timestamp": 1773214190
+    },
+    {
+      "id": "BFMTV_1773214013",
+      "source": "BFMTV",
+      "text": "UN APPARTEMENT TOUCHÉ APRÈS UNE FRAPPE ISRAÉLIENNE DANS LE CENTRE DE BEYROUTH, LE SUD-LIBAN ÉGALEMENT FRAPPÉ ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:26",
+      "date": "11/03",
+      "timestamp": 1773214013
+    },
+    {
+      "id": "BFMTV_1773213816",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: APRÈS DES RUMEURS DE BLESSURES, L'IRAN CONFIRME QUE SON NOUVEAU GUIDE SUPRÊME EST \"SAIN ET SAUF\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:23",
+      "date": "11/03",
+      "timestamp": 1773213816
+    },
+    {
+      "id": "BFMTV_1773212585",
+      "source": "BFMTV",
+      "text": "FAUTE DE MAJORITÉ, UN SECOND TOUR NÉCESSAIRE POUR REMPLACER L'EX-ÉLUE TRUMPISTE DE GEORGIE AU CONGRÈS AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:03",
+      "date": "11/03",
+      "timestamp": 1773212585
+    },
+    {
+      "id": "BFMTV_1773211577",
+      "source": "BFMTV",
+      "text": "AU MOINS SIX MORTS, \"ACTE VOLONTAIRE\" PRIVILÉGIÉ… CE QUE L'ON SAIT SUR L'INCENDIE D'UN AUTOCAR EN SUISSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:46",
+      "date": "11/03",
+      "timestamp": 1773211577
+    },
+    {
+      "id": "BFMTV_1773211354",
+      "source": "BFMTV",
+      "text": "LE NOUVEAU GUIDE SUPRÊME \"SAIN ET SAUF\" MALGRÉ SES BLESSURES",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:42",
+      "date": "11/03",
+      "timestamp": 1773211354
+    },
+    {
+      "id": "BFMTV_1773209337",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL A MENÉ DE NOUVELLES FRAPPES SUR LA BANLIEUE SUD DE BEYROUTH, BASTION DU HEZBOLLAH PRO-IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:08",
+      "date": "11/03",
+      "timestamp": 1773209337
+    },
+    {
+      "id": "BFMTV_1773209070",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS ATTAQUES IRANIENNES ONT EU LIEU CETTE NUIT EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:04",
+      "date": "11/03",
+      "timestamp": 1773209070
+    },
+    {
+      "id": "BFMTV_1773208974",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUELS MOYENS FAUT-IL À L'ARMÉE AMÉRICAINE ET ISRAÉLIENNE POUR DÉTRUIRE LE PROGRAMME NUCLÉAIRE IRANIEN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:02",
+      "date": "11/03",
+      "timestamp": 1773208974
+    },
+    {
+      "id": "BFMTV_1773208369",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS EXPLOSIONS ENTENDUES À DOHA (QATAR)",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:52",
+      "date": "11/03",
+      "timestamp": 1773208369
+    },
+    {
+      "id": "BFMTV_1773207976",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU LIBAN, LES ÉCOLES ROUVRENT PEU À PEU MALGRÉ LES BOMBES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:46",
+      "date": "11/03",
+      "timestamp": 1773207976
+    },
     {
       "id": "BFMTV_1773185148",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "11:05",
       "date": "10/03",
       "timestamp": 1773140732
-    },
-    {
-      "id": "BFMTV_1773140174",
-      "source": "BFMTV",
-      "text": "\"PAS MORALEMENT LÉGITIME\": UN CARDINAL AMÉRICAIN DÉNONCE LA GUERRE MENÉE PAR LES ÉTATS-UNIS EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:56",
-      "date": "10/03",
-      "timestamp": 1773140174
-    },
-    {
-      "id": "BFMTV_1773138998",
-      "source": "BFMTV",
-      "text": "\"ELLES SONT EN SÉCURITÉ ICI\": L'AUSTRALIE ACCORDE L'ASILE À CINQ FOOTBALLEUSES IRANIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:36",
-      "date": "10/03",
-      "timestamp": 1773138998
-    },
-    {
-      "id": "BFMTV_1773138676",
-      "source": "BFMTV",
-      "text": "RÉDUIRE LE NUCLÉAIRE EN EUROPE \"ÉTAIT UNE ERREUR STRATÉGIQUE\", CONCÈDE URSULA VON DER LEYEN, PRÉSIDENTE DE LA COMMISSION EUROPÉENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:31",
-      "date": "10/03",
-      "timestamp": 1773138676
-    },
-    {
-      "id": "BFMTV_1773137881",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES IMMEUBLES RÉSIDENTIELS ONT ÉTÉ DÉTRUITS PAR DES FRAPPES À TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:18",
-      "date": "10/03",
-      "timestamp": 1773137881
-    },
-    {
-      "id": "BFMTV_1773137690",
-      "source": "BFMTV",
-      "text": "LE DISCOURS D'EMMANUEL MACRON AU SOMMET DE L'ÉNERGIE NUCLÉAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:14",
-      "date": "10/03",
-      "timestamp": 1773137690
-    },
-    {
-      "id": "BFMTV_1773137679",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"C'EST L'OCCASION POUR ISRAËL DE FRAPPER LE HEZBOLLAH\", SELON MERIEM AMELLAL, JOURNALISTE À FRANCE 24",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:14",
-      "date": "10/03",
-      "timestamp": 1773137679
-    },
-    {
-      "id": "BFMTV_1773136661",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: UN NOUVEAU CONSEIL DE DÉFENSE ET DE SÉCURITÉ NATIONALE CONVOQUÉ PAR EMMANUEL MACRON",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:57",
-      "date": "10/03",
-      "timestamp": 1773136661
-    },
-    {
-      "id": "BFMTV_1773136498",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: COMMENT EMMANUEL MACRON ENVISAGE-T-IL DE DÉBLOQUER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:54",
-      "date": "10/03",
-      "timestamp": 1773136498
-    },
-    {
-      "id": "BFMTV_1773136314",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EN 11 JOURS DE CONFLIT, PLUS DE 500.000 LIBANAIS ONT ÉTÉ DÉPLACÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:51",
-      "date": "10/03",
-      "timestamp": 1773136314
-    },
-    {
-      "id": "BFMTV_1773136159",
-      "source": "BFMTV",
-      "text": "DEUX MANIFESTANTS DE GREENPEACE PERTURBENT LE DÉBUT DU SOMMET SUR L'ÉNERGIE NUCLÉAIRE  ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:49",
-      "date": "10/03",
-      "timestamp": 1773136159
-    },
-    {
-      "id": "BFMTV_1773135384",
-      "source": "BFMTV",
-      "text": "SOMMET SUR L'ÉNERGIE NUCLÉAIRE: \"NOUS AVONS BESOIN DU NUCLÉAIRE CAR IL EST UNE SOURCE DE PROGRÈS, DE PROSPÉRITÉ ET D'INDÉPENDANCE\", DÉCLARE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:36",
-      "date": "10/03",
-      "timestamp": 1773135384
-    },
-    {
-      "id": "BFMTV_1773134424",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: SANS TOURISTE, LE QATAR TENTE DE PRÉSERVER SON IMAGE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:20",
-      "date": "10/03",
-      "timestamp": 1773134424
-    },
-    {
-      "id": "BFMTV_1773133754",
-      "source": "BFMTV",
-      "text": "DEUX MILITANTS S'INTRODUISENT AU SOMMET SUR L'ÉNERGIE NUCLÉAIRE POUR PROTESTER CONTRE CETTE ÉNERGIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:09",
-      "date": "10/03",
-      "timestamp": 1773133754
-    },
-    {
-      "id": "BFMTV_1773133170",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON ARRIVE AU SOMMET SUR L'ÉNERGIE NUCLÉAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:59",
-      "date": "10/03",
-      "timestamp": 1773133170
     }
   ],
   "france": {
