@@ -1,7 +1,17 @@
 {
-  "last_update": "12/03 22:58",
+  "last_update": "12/03 23:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773357682",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: SIX SOLDATS FRANÇAIS BLESSÉS DANS UNE ATTAQUE DE DRONES AU NORD DE L'IRAK",
+      "urgent": true,
+      "france_related": true,
+      "time": "23:21",
+      "date": "12/03",
+      "timestamp": 1773357682
+    },
     {
       "id": "BFMTV_1773356035",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "08:36",
       "date": "12/03",
       "timestamp": 1773304607
-    },
-    {
-      "id": "BFMTV_1773303650",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE DE FRAPPER \"TOUS LES PORTS DU GOLFE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:20",
-      "date": "12/03",
-      "timestamp": 1773303650
     }
   ],
   "france": {
