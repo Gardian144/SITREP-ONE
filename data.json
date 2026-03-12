@@ -1,7 +1,107 @@
 {
-  "last_update": "12/03 21:05",
+  "last_update": "12/03 22:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773352456",
+      "source": "BFMTV",
+      "text": "SIX SOLDATS FRANÇAIS BLESSÉS EN IRAK: CE QUE L'ON SAIT DE L'ATTAQUE DE DRONES AU NORD DU PAYS",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:54",
+      "date": "12/03",
+      "timestamp": 1773352456
+    },
+    {
+      "id": "BFMTV_1773352424",
+      "source": "BFMTV",
+      "text": "ATTAQUE CONTRE UNE SYNAGOGUE DU MICHIGAN: \"C'EST UNE CHOSE TERRIBLE\", DÉCLARE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:53",
+      "date": "12/03",
+      "timestamp": 1773352424
+    },
+    {
+      "id": "BFMTV_1773351976",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SIX SOLDATS FRANÇAIS BLESSÉS DANS UNE ATTAQUE DE DRONES AU NORD DE L'IRAK",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:46",
+      "date": "12/03",
+      "timestamp": 1773351976
+    },
+    {
+      "id": "BFMTV_1773351734",
+      "source": "BFMTV",
+      "text": "SIX SOLDATS FRANÇAIS ONT ÉTÉ BLESSÉS DANS UNE ATTAQUE DE DRONES AU NORD DE L'IRAK, SELON L'ÉTAT-MAJOR",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:42",
+      "date": "12/03",
+      "timestamp": 1773351734
+    },
+    {
+      "id": "BFMTV_1773351623",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:40",
+      "date": "12/03",
+      "timestamp": 1773351623
+    },
+    {
+      "id": "BFMTV_1773351622",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: SIX SOLDATS FRANÇAIS BLESSÉS DANS UNE ATTAQUE DE DRONES EN IRAK",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:40",
+      "date": "12/03",
+      "timestamp": 1773351622
+    },
+    {
+      "id": "BFMTV_1773350747",
+      "source": "BFMTV",
+      "text": "LIBAN: \"SI ON CONTINUE COMME ÇA, IL Y AURA UN VRAI DANGER DE CHAOS\", PENSE L'AMBASSADEUR DU LIBAN EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:25",
+      "date": "12/03",
+      "timestamp": 1773350747
+    },
+    {
+      "id": "BFMTV_1773350742",
+      "source": "BFMTV",
+      "text": "\"TANT QU'ISRAËL EST SUR LE TERRITOIRE LIBANAIS, UNE BONNE PARTIE DE LA BASE DU HEZBOLLAH VA RESTER AVEC EUX\", SOULIGNE L'AMBASSADEUR DU LIBAN EN FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:25",
+      "date": "12/03",
+      "timestamp": 1773350742
+    },
+    {
+      "id": "BFMTV_1773350609",
+      "source": "BFMTV",
+      "text": "LIBAN: \"ISRAËL EST UN AGRESSEUR\", AFFIRME L'AMBASSADEUR DU LIBAN EN FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:23",
+      "date": "12/03",
+      "timestamp": 1773350609
+    },
+    {
+      "id": "BFMTV_1773350130",
+      "source": "BFMTV",
+      "text": "GUERRE AU LIBAN: \"JE SUIS BOULEVERSÉ DE VOIR QUE L'HISTOIRE SE RÉPÈTE\", DÉPLORE L'AMBASSADEUR DU LIBAN EN FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:15",
+      "date": "12/03",
+      "timestamp": 1773350130
+    },
     {
       "id": "BFMTV_1773348459",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "07:37",
       "date": "12/03",
       "timestamp": 1773301039
-    },
-    {
-      "id": "BFMTV_1773300837",
-      "source": "BFMTV",
-      "text": "KIM JONG-UN",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:33",
-      "date": "12/03",
-      "timestamp": 1773300837
-    },
-    {
-      "id": "BFMTV_1773300836",
-      "source": "BFMTV",
-      "text": "\"CULTIVER L'IMAGE D'UNE FEMME FORTE ET REDOUTABLE\": LA FILLE DU DIRIGEANT NORD-CORÉEN KIM JONG UN MONTRÉE EN TRAIN DE TIRER AU PISTOLET",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:33",
-      "date": "12/03",
-      "timestamp": 1773300836
-    },
-    {
-      "id": "BFMTV_1773299566",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN HABITANT D'ISPAHAN (IRAN) TÉMOIGNE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:12",
-      "date": "12/03",
-      "timestamp": 1773299566
-    },
-    {
-      "id": "BFMTV_1773298414",
-      "source": "BFMTV",
-      "text": "\"UNE RENCONTRE PRODUCTIVE\": L'ÉMISSAIRE RUSSE ET LES NÉGOCIATEURS AMÉRICAINS ONT ÉCHANGÉ EN FLORIDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:53",
-      "date": "12/03",
-      "timestamp": 1773298414
-    },
-    {
-      "id": "BFMTV_1773298382",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU CŒUR DE L'HÔPITAL DE TEL-AVIV, APRÈS LES FRAPPES SUR ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:53",
-      "date": "12/03",
-      "timestamp": 1773298382
-    },
-    {
-      "id": "BFMTV_1773298059",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT QUE TÉHÉRAN EST \"PROCHE DE LA DÉFAITE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:47",
-      "date": "12/03",
-      "timestamp": 1773298059
-    },
-    {
-      "id": "BFMTV_1773297450",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS SEPT MORTS DANS UNE NOUVELLE ATTAQUE À BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:37",
-      "date": "12/03",
-      "timestamp": 1773297450
-    },
-    {
-      "id": "BFMTV_1773297267",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES MILLIONS CACHÉS DU NOUVEAU GUIDE SUPRÊME IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:34",
-      "date": "12/03",
-      "timestamp": 1773297267
-    },
-    {
-      "id": "BFMTV_1773295876",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN MORT ET DES DISPARUS APRÈS L'INCENDIE DE DEUX PÉTROLIERS AU LARGE DE L'IRAK",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:11",
-      "date": "12/03",
-      "timestamp": 1773295876
-    },
-    {
-      "id": "BFMTV_1773271292",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS UN MORT ET PLUSIEURS PERSONNES DISPARUES APRÈS UNE ATTAQUE CONTRE DEUX PÉTROLIERS EN IRAK",
-      "urgent": true,
-      "france_related": false,
-      "time": "23:21",
-      "date": "11/03",
-      "timestamp": 1773271292
     }
   ],
   "france": {
