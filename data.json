@@ -1,7 +1,147 @@
 {
-  "last_update": "12/03 07:52",
+  "last_update": "12/03 10:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773309190",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - LES DRONES KAMIKAZES, ARMES FATALES DE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:53",
+      "date": "12/03",
+      "timestamp": 1773309190
+    },
+    {
+      "id": "BFMTV_1773308974",
+      "source": "BFMTV",
+      "text": "LES SIX PREMIERS JOURS DE LA GUERRE AU MOYEN-ORIENT ONT COÛTÉ PLUS DE 11 MILLIARDS DE DOLLARS AUX ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:49",
+      "date": "12/03",
+      "timestamp": 1773308974
+    },
+    {
+      "id": "BFMTV_1773308593",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN IRANIEN RACONTE LA PROPAGANDE DE GUERRE DU RÉGIME DES MOLLAHS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:43",
+      "date": "12/03",
+      "timestamp": 1773308593
+    },
+    {
+      "id": "BFMTV_1773308473",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ANNONCE DES FRAPPES \"DE GRANDE AMPLEUR\" EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:41",
+      "date": "12/03",
+      "timestamp": 1773308473
+    },
+    {
+      "id": "BFMTV_1773307752",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: LE CONFLIT PROVOQUE \"LA PLUS IMPORTANTE PERTURBATION\" DE L'APPROVISIONNEMENT EN PÉTROLE DE L'HISTOIRE, SELON L'AIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:29",
+      "date": "12/03",
+      "timestamp": 1773307752
+    },
+    {
+      "id": "BFMTV_1773307750",
+      "source": "BFMTV",
+      "text": "LES AUTEURS DE L'ATTENTAT DANS UNE SALLE DE CONCERT EN 2024 EN RUSSIE CONDAMNÉS À LA PERPÉTUITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:29",
+      "date": "12/03",
+      "timestamp": 1773307750
+    },
+    {
+      "id": "BFMTV_1773307271",
+      "source": "BFMTV",
+      "text": "LA DIPLOMATIE ITALIENNE FAIT ÉTAT D'UNE BASE \"ATTAQUÉE\" À ERBIL AU KURDISTAN IRAKIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:21",
+      "date": "12/03",
+      "timestamp": 1773307271
+    },
+    {
+      "id": "BFMTV_1773306537",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES DÉGÂTS À LA SUITE D'UNE FRAPPE DU HEZBOLLAH À HANIEL, EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:08",
+      "date": "12/03",
+      "timestamp": 1773306537
+    },
+    {
+      "id": "BFMTV_1773305996",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: L'INTERVIEW DE DAVID KHALFA, CO-DIRECTEUR DE L’OBSERVATOIRE DU MOYEN-ORIENT ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:59",
+      "date": "12/03",
+      "timestamp": 1773305996
+    },
+    {
+      "id": "BFMTV_1773305862",
+      "source": "BFMTV",
+      "text": "AIDE HUMANITAIRE VERS LE LIBAN: \"LA FRANCE EST AUX CÔTÉS DE SES AMIS LIBANAIS\", DÉCLARE LE MINISTRE NICOLAS FORISSIER",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:57",
+      "date": "12/03",
+      "timestamp": 1773305862
+    },
+    {
+      "id": "BFMTV_1773305672",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LE HEZBOLLAH EST ASSÉCHÉ PAR SES CANAUX HABITUELS\", SELON ERIC DE LAPRESLE, CONSEILLER AUPRÈS DES FORCES ARMÉES LIBANAISES DE 2022 À 2025",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:54",
+      "date": "12/03",
+      "timestamp": 1773305672
+    },
+    {
+      "id": "BFMTV_1773305060",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA BANLIEUE SUD DE BEYROUTH (LIBAN) DÉTRUITE APRÈS LES FRAPPES ISRAÉLIENNES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:44",
+      "date": "12/03",
+      "timestamp": 1773305060
+    },
+    {
+      "id": "BFMTV_1773304607",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS ENTENDUES AU-DESSUS DE JÉRUSALEM ET DANS LE CENTRE DE DUBAÏ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:36",
+      "date": "12/03",
+      "timestamp": 1773304607
+    },
+    {
+      "id": "BFMTV_1773303650",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE DE FRAPPER \"TOUS LES PORTS DU GOLFE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:20",
+      "date": "12/03",
+      "timestamp": 1773303650
+    },
     {
       "id": "BFMTV_1773301751",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "10:19",
       "date": "11/03",
       "timestamp": 1773224394
-    },
-    {
-      "id": "BFMTV_1773224134",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES OBSÈQUES DE 7 COMMANDANTS IRANIENS TUÉS DANS LA MÊME ATTAQUE QUE L'ANCIEN GUIDE SUPRÊME ALI KHAMENEI, VONT AVOIR LIEU À TÉHÉRAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:15",
-      "date": "11/03",
-      "timestamp": 1773224134
-    },
-    {
-      "id": "BFMTV_1773223540",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BFMTV AU CŒUR DE BEYROUTH, SUR LES LIEUX D'UNE FRAPPE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:05",
-      "date": "11/03",
-      "timestamp": 1773223540
-    },
-    {
-      "id": "BFMTV_1773223516",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN MISSILE INTERCEPTÉ À DOHA",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:05",
-      "date": "11/03",
-      "timestamp": 1773223516
-    },
-    {
-      "id": "BFMTV_1773223515",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: CARGOS TOUCHÉS, FRAPPES ISRAÉLIENNES, RIPOSTE IRANIENNE... LES IMAGES FORTES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:05",
-      "date": "11/03",
-      "timestamp": 1773223515
-    },
-    {
-      "id": "BFMTV_1773223315",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: SÉBASTIEN LECORNU ESTIME QUE LES PRIX DU CARBURANT \"DOIVENT REDESCENDRE AUSSI VITE\" QU'ILS \"SONT MONTÉS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:01",
-      "date": "11/03",
-      "timestamp": 1773223315
-    },
-    {
-      "id": "BFMTV_1773221717",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE VA RASSEMBLER DES JOURNALISTES POUR ÉVOQUER SES OPÉRATIONS AU SUD-LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:35",
-      "date": "11/03",
-      "timestamp": 1773221717
-    },
-    {
-      "id": "BFMTV_1773221252",
-      "source": "BFMTV",
-      "text": "URSULA VON DER LEYEN: \"NOUS EXPLORONS LA POSSIBILITÉ DE SUBVENTIONNER OU DE PLAFONNER LE PRIX DU GAZ\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:27",
-      "date": "11/03",
-      "timestamp": 1773221252
-    },
-    {
-      "id": "BFMTV_1773220448",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU CŒUR DE BEYROUTH, SUR LES LIEUX D'UNE FRAPPE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:14",
-      "date": "11/03",
-      "timestamp": 1773220448
-    },
-    {
-      "id": "BFMTV_1773219628",
-      "source": "BFMTV",
-      "text": "\"3 MILLIARDS D'EUROS SUPPLÉMENTAIRES\": URSULA VON DER LEYEN DÉVOILE LE COÛT DES IMPORTATIONS DE CARBURANTS FOSSILES DEPUIS LA DÉBUT DE LA GUERRE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:00",
-      "date": "11/03",
-      "timestamp": 1773219628
-    },
-    {
-      "id": "BFMTV_1773217598",
-      "source": "BFMTV",
-      "text": "AU MOINS TROIS MORTS ET QUATRE BLESSÉS DANS L'INCENDIE D'UN IMMEUBLE EN ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:26",
-      "date": "11/03",
-      "timestamp": 1773217598
-    },
-    {
-      "id": "BFMTV_1773216695",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DEUX NOUVEAUX NAVIRES TOUCHÉS PAR DES \"PROJECTILES INCONNUS\" DANS LE DÉTROIT D'ORMUZ ET AU LARGE DES ÉMIRATS ARABES UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:11",
-      "date": "11/03",
-      "timestamp": 1773216695
-    },
-    {
-      "id": "BFMTV_1773214965",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: LE MINISTRE DE L'ÉCONOMIE INDIQUE QUE \"513 CONTRÔLES ONT ÉTÉ EFFECTUÉS\" DANS LES STATIONS-SERVICE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:42",
-      "date": "11/03",
-      "timestamp": 1773214965
-    },
-    {
-      "id": "BFMTV_1773214594",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT ANNONCE L'ENVOI DE 60 TONNES D'AIDE HUMANITAIRE PAR LA FRANCE AU LIBAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:36",
-      "date": "11/03",
-      "timestamp": 1773214594
-    },
-    {
-      "id": "BFMTV_1773214323",
-      "source": "BFMTV",
-      "text": "HAWAÏ: LES IMAGES SPECTACULAIRES DES FONTAINES DE LAVE JAILLISSANT DU VOLCAN KILAUEA ",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:32",
-      "date": "11/03",
-      "timestamp": 1773214323
     }
   ],
   "france": {
