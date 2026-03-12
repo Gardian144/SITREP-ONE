@@ -1,7 +1,167 @@
 {
-  "last_update": "12/03 14:35",
+  "last_update": "12/03 17:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773336230",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LES ÉTATS-UNIS AFFIRMENT AVOIR FRAPPÉ ENVIRON 6.000 CIBLES IRANIENNES DEPUIS LE DÉBUT DE LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:23",
+      "date": "12/03",
+      "timestamp": 1773336230
+    },
+    {
+      "id": "OPEX360_1773335824",
+      "source": "OPEX360",
+      "text": "SAFRAN VA LIVRER DES VISEURS VIGEO POUR LES FUTURS BLINDÉS SERVAL DE L’ARMÉE DE TERRE DÉDIÉS À LA LUTTE ANTIDRONE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:17",
+      "date": "12/03",
+      "timestamp": 1773335824
+    },
+    {
+      "id": "BFMTV_1773335599",
+      "source": "BFMTV",
+      "text": "LE PÉTROLE AU CŒUR DE LA GUERRE AU MOYEN-ORIENT: \"C'EST LA PLUS GRAVE CRISE ÉNERGÉTIQUE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:13",
+      "date": "12/03",
+      "timestamp": 1773335599
+    },
+    {
+      "id": "BFMTV_1773334730",
+      "source": "BFMTV",
+      "text": "LE SUD-LIBAN BOMBARDÉ: \"IL FAUT DÉTERMINER LA RESPONSABILITÉ ET TRADUIRE EN JUSTICE CEUX QUI SONT RESPONSABLES\", DEMANE L'ONU",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:58",
+      "date": "12/03",
+      "timestamp": 1773334730
+    },
+    {
+      "id": "BFMTV_1773334651",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LA SITUATION AU LIBAN EST CATASTROPHIQUE POUR LES CIVILS\", ALERTE L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:57",
+      "date": "12/03",
+      "timestamp": 1773334651
+    },
+    {
+      "id": "BFMTV_1773333492",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - QUELLE EST LA STRATÉGIE IRANIENNE DANS LE DÉTROIT D'ORMUZ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:38",
+      "date": "12/03",
+      "timestamp": 1773333492
+    },
+    {
+      "id": "BFMTV_1773332975",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L'ÎLE DE KHARG EST UN SITE AUSSI STRATÉGIQUE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:29",
+      "date": "12/03",
+      "timestamp": 1773332975
+    },
+    {
+      "id": "BFMTV_1773331463",
+      "source": "BFMTV",
+      "text": "\"ILS CONSIDÈRENT QUE C'EST UNE GUERRE QUI N'EST PAS LA LEUR\": DE RETOUR DU LIBAN, NOTRE REPORTER JEANNE DAUDET RACONTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:04",
+      "date": "12/03",
+      "timestamp": 1773331463
+    },
+    {
+      "id": "OPEX360_1773331322",
+      "source": "OPEX360",
+      "text": "LA MARINE AMÉRICAINE A RELANCÉ SON PROJET DE CANON ÉLECTROMAGNÉTIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:02",
+      "date": "12/03",
+      "timestamp": 1773331322
+    },
+    {
+      "id": "BFMTV_1773331017",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE FRAPPE UN IMMEUBLE DU CENTRE DE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:56",
+      "date": "12/03",
+      "timestamp": 1773331017
+    },
+    {
+      "id": "BFMTV_1773330812",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL FRAPPE UN IMMEUBLE DU CENTRE DE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:53",
+      "date": "12/03",
+      "timestamp": 1773330812
+    },
+    {
+      "id": "BFMTV_1773329678",
+      "source": "BFMTV",
+      "text": "\"GÉNÉRALEMENT UNE CHAÎNE D'ERREURS ET DE FAUTES QUI SE PRODUISENT\": LE CHEF DES ARMÉES DE L'OTAN INTERROGÉ SUR L'ÉCOLE IRANIENNE BOMBARDÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:34",
+      "date": "12/03",
+      "timestamp": 1773329678
+    },
+    {
+      "id": "BFMTV_1773328319",
+      "source": "BFMTV",
+      "text": "\"C'EST UNE QUESTION D'HUMILITÉ\": AVANT LES PRÉSIDENTIELLES, GABRIEL ATTAL AU DÉFI DES MUNICIPALES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:11",
+      "date": "12/03",
+      "timestamp": 1773328319
+    },
+    {
+      "id": "BFMTV_1773328286",
+      "source": "BFMTV",
+      "text": "UE/OTAN: \"NOUS LUTTONS POUR LES MÊMES VALEURS ET CELA NE DÉPEND PAS DE QUI EST PRÉSIDENT AUX ÉTATS-UNIS\", DÉCLARE THEO FRANCKEN, MINISTRE DE LA DÉFENSE BELGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:11",
+      "date": "12/03",
+      "timestamp": 1773328286
+    },
+    {
+      "id": "BFMTV_1773327101",
+      "source": "BFMTV",
+      "text": "ARGENTINE: UN DÉPUTÉ DU PARTI PRÉSIDENTIEL REÇOIT UN COUP DE BOULE DE LA PART D'UN OPPOSANT POLITIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:51",
+      "date": "12/03",
+      "timestamp": 1773327101
+    },
+    {
+      "id": "BFMTV_1773326545",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE NOUVEAU GUIDE SUPRÊME APPELLE À \"CONTINUER LA RÉSISTANCE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:42",
+      "date": "12/03",
+      "timestamp": 1773326545
+    },
     {
       "id": "BFMTV_1773325703",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "18:52",
       "date": "11/03",
       "timestamp": 1773255179
-    },
-    {
-      "id": "BFMTV_1773254518",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DE NOUVELLES SIRÈNES D'ALERTE RETENTISSENT EN ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:41",
-      "date": "11/03",
-      "timestamp": 1773254518
-    },
-    {
-      "id": "BFMTV_1773254369",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QU'EST-CE QUE LE LASER HELIOS DÉPLOYÉ PAR L'ARMÉE AMÉRICAINE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:39",
-      "date": "11/03",
-      "timestamp": 1773254369
-    },
-    {
-      "id": "BFMTV_1773253767",
-      "source": "BFMTV",
-      "text": "COMMENT SÉCURISER LE PASSAGE DES BATEAUX DANS LE DÉTROIT D'ORMUZ? L'ANCIEN COMMANDANT DU PORTE-AVIONS CHARLES-DE-GAULLE EXPLIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:29",
-      "date": "11/03",
-      "timestamp": 1773253767
-    },
-    {
-      "id": "BFMTV_1773253582",
-      "source": "BFMTV",
-      "text": "POURQUOI LE DÉTROIT D'ORMUZ ET SA RÉGION SONT-ILS AUSSI STRATÉGIQUES?",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:26",
-      "date": "11/03",
-      "timestamp": 1773253582
-    },
-    {
-      "id": "OPEX360_1773251609",
-      "source": "OPEX360",
-      "text": "LA FRÉGATE AQUITAINE A ÉTÉ DISTINGUÉE PAR L’US NAVY POUR SES OPÉRATIONS DE LUTTE ANTI-SOUS-MARINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:53",
-      "date": "11/03",
-      "timestamp": 1773251609
-    },
-    {
-      "id": "BFMTV_1773250274",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QU'IL RÈGNERA BIENTÔT UNE \"GRANDE SÉCURITÉ\" DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:31",
-      "date": "11/03",
-      "timestamp": 1773250274
-    },
-    {
-      "id": "BFMTV_1773249750",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES SATELLITES DES SITES BOMBARDÉS EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:22",
-      "date": "11/03",
-      "timestamp": 1773249750
-    },
-    {
-      "id": "BFMTV_1773249627",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE LIBAN APPELLE LE CONSEIL DE SÉCURITÉ DE L'ONU À CONTRAINDRE ISRAËL À UN CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:20",
-      "date": "11/03",
-      "timestamp": 1773249627
-    },
-    {
-      "id": "BFMTV_1773249101",
-      "source": "BFMTV",
-      "text": "LES PAYS DE L'AGENCE INTERNATIONALE DE L'ÉNERGIE DÉBLOQUENT MASSIVEMENT DES STOCKS STRATÉGIQUES DE PÉTROLE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:11",
-      "date": "11/03",
-      "timestamp": 1773249101
-    },
-    {
-      "id": "BFMTV_1773248718",
-      "source": "BFMTV",
-      "text": "\"LE LIBAN EST AUJOURD'HUI À LA CROISÉE DES CHEMINS DANS SON HISTOIRE, L'HEURE EST VENUE DE PRENDRE UNE DÉCISION\", DÉCLARE DANNY DANON, REPRÉSENTANT PERMANENT ISRAÉLIEN À L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:05",
-      "date": "11/03",
-      "timestamp": 1773248718
-    },
-    {
-      "id": "BFMTV_1773248536",
-      "source": "BFMTV",
-      "text": "NORVÈGE: TROIS FRÈRES, D'ORIGINE IRAKIENNE, ARRÊTÉS APRÈS L'ATTENTAT À LA BOMBE CONTRE L'AMBASSADE AMÉRICAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:02",
-      "date": "11/03",
-      "timestamp": 1773248536
-    },
-    {
-      "id": "BFMTV_1773248331",
-      "source": "BFMTV",
-      "text": "AFFAIRE WEINSTEIN: INCARCÉRÉ, L'ANCIEN PRODUCTEUR CLAME TOUJOURS SON INNOCENCE  ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:58",
-      "date": "11/03",
-      "timestamp": 1773248331
-    },
-    {
-      "id": "BFMTV_1773248076",
-      "source": "BFMTV",
-      "text": "\"ILS NE S'EN RELÈVERONT PAS\": DONALD TRUMP PRÉVIENT L'IRAN DE NOUVELLES FRAPPES \"DANS UNE HEURE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:54",
-      "date": "11/03",
-      "timestamp": 1773248076
-    },
-    {
-      "id": "BFMTV_1773247318",
-      "source": "BFMTV",
-      "text": "\"NOUS ALLONS CONTINUER JUSQU'À CE QUE NOUS ARRIVIONS À NOS OBJECTIFS\" RÉPÈTE DONALD TRUMP QUI ASSURE QUE L'IRAN \"NE POURRA PAS SE RELEVER\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:41",
-      "date": "11/03",
-      "timestamp": 1773247318
-    },
-    {
-      "id": "BFMTV_1773246472",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: COMMENT LES BATEAUX ATTAQUÉS DANS LE DÉTROIT D'ORMUZ ONT-ILS ÉTÉ TOUCHÉS ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:27",
-      "date": "11/03",
-      "timestamp": 1773246472
-    },
-    {
-      "id": "BFMTV_1773246322",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES VISENT TÉHÉRAN, LA CAPITALE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:25",
-      "date": "11/03",
-      "timestamp": 1773246322
     }
   ],
   "france": {
