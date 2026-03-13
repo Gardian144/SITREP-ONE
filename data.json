@@ -1,7 +1,157 @@
 {
-  "last_update": "13/03 17:56",
+  "last_update": "13/03 19:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773431120",
+      "source": "BFMTV",
+      "text": "DES NOUVELLES FRAPPES ONT ÉTÉ ENTENDUES CE SOIR À BEYROUTH AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:45",
+      "date": "13/03",
+      "timestamp": 1773431120
+    },
+    {
+      "id": "BFMTV_1773430836",
+      "source": "BFMTV",
+      "text": "MORT DE L'ADJUDANT-CHEF ARNAUD FRION: \"POLITIQUEMENT, ON A CHANGÉ DE SITUATION\", OBSERVE RICHARD WILMOT-ROUSSEL, ANCIEN COMMANDANT DU PORTE-AVIONS CHARLES-DE-GAULLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:40",
+      "date": "13/03",
+      "timestamp": 1773430836
+    },
+    {
+      "id": "BFMTV_1773430580",
+      "source": "BFMTV",
+      "text": " UN MYSTÉRIEUX CYLINDRE DE 13 MÈTRES EST APPARU AU JAPON ET PERTURBE LA CIRCULATION ",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:36",
+      "date": "13/03",
+      "timestamp": 1773430580
+    },
+    {
+      "id": "BFMTV_1773430170",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE IRAKIEN S'EST ENTRETENU AVEC EMMANUEL MACRON AU TÉLÉPHONE CE VENDREDI",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:29",
+      "date": "13/03",
+      "timestamp": 1773430170
+    },
+    {
+      "id": "BFMTV_1773429854",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ, DONALD TRUMP VEUT FRAPPER \"TRÈS FORT\" L'IRAN... CE QU'IL FAUT RETENIR DE CETTE QUATORZIÈME JOURNÉE DE LA GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:24",
+      "date": "13/03",
+      "timestamp": 1773429854
+    },
+    {
+      "id": "BFMTV_1773429111",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: RECEP TAYYIP ERDOĞAN AFFIRME QUE RESTER À L'ÉCART DE LA GUERRE EST \"LA PRIORITÉ NUMÉRO UN DE LA TURQUIE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:11",
+      "date": "13/03",
+      "timestamp": 1773429111
+    },
+    {
+      "id": "BFMTV_1773428663",
+      "source": "BFMTV",
+      "text": "DE PUISSANTES EXPLOSIONS ONT ÉTÉ ENTENDUES CE SOIR À TÉHÉRAN EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:04",
+      "date": "13/03",
+      "timestamp": 1773428663
+    },
+    {
+      "id": "BFMTV_1773428182",
+      "source": "BFMTV",
+      "text": "LES GÉNIES DU MADE IN FRANCE - UN FRANÇAIS A MIS AU POINT DES CHASSEURS DE MINES",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:56",
+      "date": "13/03",
+      "timestamp": 1773428182
+    },
+    {
+      "id": "BFMTV_1773427073",
+      "source": "BFMTV",
+      "text": "ESPAGNE: UNE CYCLISTE CHUTE DE SON VÉLO AU BORD D'UNE FALAISE ET FRÔLE LA MORT ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:37",
+      "date": "13/03",
+      "timestamp": 1773427073
+    },
+    {
+      "id": "BFMTV_1773427061",
+      "source": "BFMTV",
+      "text": "QUI EST LE GROUPE ARMÉ ASHAB AL-KAHF, QUI SERAIT À L’ORIGINE DE LA MORT D’UN SOLDAT FRANÇAIS EN IRAK",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:37",
+      "date": "13/03",
+      "timestamp": 1773427061
+    },
+    {
+      "id": "BFMTV_1773426685",
+      "source": "BFMTV",
+      "text": "LE GRAND DOSSIER DE LA SEMAINE - GUERRE AU MOYEN-ORIENT: VA-T-ON VERS UN NOUVEAU CHOC PÉTROLIER ?",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:31",
+      "date": "13/03",
+      "timestamp": 1773426685
+    },
+    {
+      "id": "BFMTV_1773426331",
+      "source": "BFMTV",
+      "text": "IRAN, LIBAN, ÉTATS-UNIS... PLUS DE 2.000 MORTS DEPUIS LE DÉBUT DE LA GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:25",
+      "date": "13/03",
+      "timestamp": 1773426331
+    },
+    {
+      "id": "OPEX360_1773425764",
+      "source": "OPEX360",
+      "text": "AIRBUS DEFENCE & SPACE PRÉPARE LE PREMIER VOL D’UNE VERSION EUROPÉANISÉE DU DRONE DE COMBAT XQ-58 VALKYRIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:16",
+      "date": "13/03",
+      "timestamp": 1773425764
+    },
+    {
+      "id": "BFMTV_1773425153",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS OFFRENT UNE RÉCOMPENSE DE 10 MILLIONS DE DOLLARS POUR TOUTE INFORMATION SUR LE GUIDE SUPRÊME",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:05",
+      "date": "13/03",
+      "timestamp": 1773425153
+    },
+    {
+      "id": "BFMTV_1773425003",
+      "source": "BFMTV",
+      "text": "SELON PLUSIEURS MÉDIAS AMÉRICAINS, LES ÉTATS-UNIS ENVOIENT DES RENFORTS MILITAIRES VERS LE MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:03",
+      "date": "13/03",
+      "timestamp": 1773425003
+    },
     {
       "id": "BFMTV_1773424065",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "06:02",
       "date": "13/03",
       "timestamp": 1773381734
-    },
-    {
-      "id": "BFMTV_1773380652",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ: QUE FAIT LA FRANCE EN IRAK ?",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:44",
-      "date": "13/03",
-      "timestamp": 1773380652
-    },
-    {
-      "id": "BFMTV_1773377961",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN MILITAIRE FRANÇAIS EST MORT DANS UNE ATTAQUE EN IRAK",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:59",
-      "date": "13/03",
-      "timestamp": 1773377961
-    },
-    {
-      "id": "BFMTV_1773357682",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: SIX SOLDATS FRANÇAIS BLESSÉS DANS UNE ATTAQUE DE DRONES AU NORD DE L'IRAK",
-      "urgent": true,
-      "france_related": true,
-      "time": "23:21",
-      "date": "12/03",
-      "timestamp": 1773357682
-    },
-    {
-      "id": "BFMTV_1773356035",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE LA PERTE D'UN AVION RAVITAILLEUR EN IRAK",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:53",
-      "date": "12/03",
-      "timestamp": 1773356035
-    },
-    {
-      "id": "BFMTV_1773355604",
-      "source": "BFMTV",
-      "text": "\"PROFONDÉMENT PRÉOCCUPANT\": L'ONU DÉNONCE LA NOUVELLE LOI AU SÉNÉGAL QUI RÉPRIME L'HOMOSEXUALITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:46",
-      "date": "12/03",
-      "timestamp": 1773355604
-    },
-    {
-      "id": "BFMTV_1773355523",
-      "source": "BFMTV",
-      "text": "SIX SOLDATS FRANÇAIS BLESSÉS EN IRAK: OÙ SE TROUVE LA BASE FRANÇAISE ATTAQUÉE PAR DRONES?",
-      "urgent": true,
-      "france_related": true,
-      "time": "22:45",
-      "date": "12/03",
-      "timestamp": 1773355523
-    },
-    {
-      "id": "BFMTV_1773354920",
-      "source": "BFMTV",
-      "text": "\"C’ÉTAIT TROP DANGEREUX\": LES IRANIENS PARTAGÉS ENTRE EXODE, SOUTIEN AU RÉGIME ET ESPOIR APRÈS PRÈS DE DEUX SEMAINES DE GUERRE",
-      "urgent": true,
-      "france_related": true,
-      "time": "22:35",
-      "date": "12/03",
-      "timestamp": 1773354920
-    },
-    {
-      "id": "BFMTV_1773352999",
-      "source": "BFMTV",
-      "text": "SIX SOLDATS FRANÇAIS ONT ÉTÉ BLESSÉS DANS UNE ATTAQUE DE DRONES AU NORD DE L'IRAK",
-      "urgent": true,
-      "france_related": true,
-      "time": "22:03",
-      "date": "12/03",
-      "timestamp": 1773352999
-    },
-    {
-      "id": "BFMTV_1773352456",
-      "source": "BFMTV",
-      "text": "SIX SOLDATS FRANÇAIS BLESSÉS EN IRAK: CE QUE L'ON SAIT DE L'ATTAQUE DE DRONES AU NORD DU PAYS",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:54",
-      "date": "12/03",
-      "timestamp": 1773352456
-    },
-    {
-      "id": "BFMTV_1773352424",
-      "source": "BFMTV",
-      "text": "ATTAQUE CONTRE UNE SYNAGOGUE DU MICHIGAN: \"C'EST UNE CHOSE TERRIBLE\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:53",
-      "date": "12/03",
-      "timestamp": 1773352424
-    },
-    {
-      "id": "BFMTV_1773351976",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SIX SOLDATS FRANÇAIS BLESSÉS DANS UNE ATTAQUE DE DRONES AU NORD DE L'IRAK",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:46",
-      "date": "12/03",
-      "timestamp": 1773351976
-    },
-    {
-      "id": "BFMTV_1773351734",
-      "source": "BFMTV",
-      "text": "SIX SOLDATS FRANÇAIS ONT ÉTÉ BLESSÉS DANS UNE ATTAQUE DE DRONES AU NORD DE L'IRAK, SELON L'ÉTAT-MAJOR",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:42",
-      "date": "12/03",
-      "timestamp": 1773351734
-    },
-    {
-      "id": "BFMTV_1773351623",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:40",
-      "date": "12/03",
-      "timestamp": 1773351623
-    },
-    {
-      "id": "BFMTV_1773351622",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: SIX SOLDATS FRANÇAIS BLESSÉS DANS UNE ATTAQUE DE DRONES EN IRAK",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:40",
-      "date": "12/03",
-      "timestamp": 1773351622
-    },
-    {
-      "id": "BFMTV_1773350747",
-      "source": "BFMTV",
-      "text": "LIBAN: \"SI ON CONTINUE COMME ÇA, IL Y AURA UN VRAI DANGER DE CHAOS\", PENSE L'AMBASSADEUR DU LIBAN EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:25",
-      "date": "12/03",
-      "timestamp": 1773350747
     }
   ],
   "france": {
