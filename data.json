@@ -1,7 +1,147 @@
 {
-  "last_update": "13/03 14:30",
+  "last_update": "13/03 16:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773417855",
+      "source": "BFMTV",
+      "text": "IRAK, ÉMIRATS ARABES UNIS, DJIBOUTI... OÙ SONT DÉPLOYÉES LES FORCES FRANÇAISES AU MOYEN-ORIENT?",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:04",
+      "date": "13/03",
+      "timestamp": 1773417855
+    },
+    {
+      "id": "BFMTV_1773417807",
+      "source": "BFMTV",
+      "text": "OÙ SONT POSITIONNÉES LES FORCES FRANÇAISES AU MOYEN-ORIENT?",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:03",
+      "date": "13/03",
+      "timestamp": 1773417807
+    },
+    {
+      "id": "OPEX360_1773417749",
+      "source": "OPEX360",
+      "text": "KNDS CBRN VA FOURNIR DE NOUVEAUX MASQUES À GAZ ET DES SYSTÈMES DE DÉCONTAMINATION NRBC AUX FORCES FRANÇAISES",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:02",
+      "date": "13/03",
+      "timestamp": 1773417749
+    },
+    {
+      "id": "BFMTV_1773417731",
+      "source": "BFMTV",
+      "text": "QUI EST ESMAÏL QAANI, CE DIRIGEANT IRANIEN SOUPÇONNÉ D'ÊTRE UN AGENT DU MOSSAD ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:02",
+      "date": "13/03",
+      "timestamp": 1773417731
+    },
+    {
+      "id": "BFMTV_1773417526",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: POURQUOI MARCO RUBIO PORTE-T-IL DES CHAUSSURES BEAUCOUP TROP GRANDES? ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:58",
+      "date": "13/03",
+      "timestamp": 1773417526
+    },
+    {
+      "id": "BFMTV_1773416966",
+      "source": "BFMTV",
+      "text": "LIBAN: DES TRACTS DE PROPAGANDE LARGUÉS AU-DESSUS DE BEYROUTH PAR L'ARMÉE ISRAÉLIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:49",
+      "date": "13/03",
+      "timestamp": 1773416966
+    },
+    {
+      "id": "BFMTV_1773416706",
+      "source": "BFMTV",
+      "text": " GUERRE AU MOYEN-ORIENT: QUEL EST LE GROUPE ARMÉ ASHAB AL-KAHF, QUI A ANNONCÉ PRENDRE POUR CIBLE \"TOUS LES INTÉRÊTS FRANÇAIS EN IRAK ET DANS LA RÉGION\" ",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:45",
+      "date": "13/03",
+      "timestamp": 1773416706
+    },
+    {
+      "id": "BFMTV_1773416646",
+      "source": "BFMTV",
+      "text": "L'ANCIEN PRÉSIDENT BRÉSILIEN INCARCÉRÉ JAIR BOLSONARO PLACÉ EN SOINS INTENSIFS POUR UNE BRONCHOPNEUMONIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:44",
+      "date": "13/03",
+      "timestamp": 1773416646
+    },
+    {
+      "id": "BFMTV_1773416382",
+      "source": "BFMTV",
+      "text": "\"NOUS N'AVONS AUCUN INTÉRÊT À UNE GUERRE SANS FIN\", DÉCLARE LE CHANCELIER ALLEMAND, FRIEDRICH MERZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:39",
+      "date": "13/03",
+      "timestamp": 1773416382
+    },
+    {
+      "id": "BFMTV_1773416339",
+      "source": "BFMTV",
+      "text": "COMMENT LA GUERRE EN IRAN FRACTURE LE CAMP TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:38",
+      "date": "13/03",
+      "timestamp": 1773416339
+    },
+    {
+      "id": "BFMTV_1773416291",
+      "source": "BFMTV",
+      "text": "\"QUEL HONNEUR!\": DONALD TRUMP SE FÉLICITE DE \"TUER\" LES DIRIGEANTS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:38",
+      "date": "13/03",
+      "timestamp": 1773416291
+    },
+    {
+      "id": "BFMTV_1773414827",
+      "source": "BFMTV",
+      "text": "\"CE N'EST DÉFINITIVEMENT NOTRE POINT DE VUE\": LE CHANCELIER ALLEMAND CRITIQUE LA DÉCISION DES ÉTATS-UNIS D'ALLÉGER LES SANCTIONS",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:13",
+      "date": "13/03",
+      "timestamp": 1773414827
+    },
+    {
+      "id": "BFMTV_1773414604",
+      "source": "BFMTV",
+      "text": "\"CE N'EST PAS LE MOMENT D'ENLEVER LA PRESSION SUR LA RUSSIE SURTOUT PARCE QUE C'EST UN GRAND ALLIÉ \", AFFIRME LE PREMIER MINISTRE CANADIEN, MARK CARNEY",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:10",
+      "date": "13/03",
+      "timestamp": 1773414604
+    },
+    {
+      "id": "BFMTV_1773414119",
+      "source": "BFMTV",
+      "text": "\"NOUS DÉMONTRONS UNE DÉFENSE ET UNE DISSUASION CRÉDIBLES ENSEMBLE\": LES DIRIGEANTS ALLEMAND, NORVÉGIEN ET CANADIEN DANS L'ARCTIQUE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:01",
+      "date": "13/03",
+      "timestamp": 1773414119
+    },
     {
       "id": "BFMTV_1773412093",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "19:55",
       "date": "12/03",
       "timestamp": 1773345319
-    },
-    {
-      "id": "BFMTV_1773345212",
-      "source": "BFMTV",
-      "text": "LIBAN: LES IMAGES DE TSAHAL MONTRANT UNE OPÉRATION AU SOL CONTRE LES HOMMES DU HEZBOLLAH ",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:53",
-      "date": "12/03",
-      "timestamp": 1773345212
-    },
-    {
-      "id": "BFMTV_1773344870",
-      "source": "BFMTV",
-      "text": "IRAN: BENJAMIN NETANYAHU DÉNONCE \"UN RÉGIME MEURTRIER QUI A ESSAYÉ DE PROMOUVOIR SON PROPRE PROGRAMME POUR ANÉANTIR L'ÉTAT D'ISRAËL\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:47",
-      "date": "12/03",
-      "timestamp": 1773344870
-    },
-    {
-      "id": "BFMTV_1773344852",
-      "source": "BFMTV",
-      "text": "IRAN: \"TANT QUE CE RÉGIME EXISTERA, IL VOUDRA AU MOINS ALLER JUSQU'AU SEUIL NUCLÉAIRE\", ESTIME BRUNO TERTRAIS, DIRECTEUR ADJOINT DE LA FONDATION POUR LA RECHERCHE STRATÉGIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:47",
-      "date": "12/03",
-      "timestamp": 1773344852
-    },
-    {
-      "id": "BFMTV_1773344638",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: “L’IRAN N’ÉTAIT PAS À DEUX SEMAINES DE LA BOMBE (NUCLÉAIRE), CE N’EST PAS VRAI”, AFFIRME BRUNO TERTRAIS, DIRECTEUR ADJOINT DE LA FONDATION POUR LA RECHERCHE STRATÉGIQUE",
-      "urgent": true,
-      "france_related": true,
-      "time": "19:43",
-      "date": "12/03",
-      "timestamp": 1773344638
-    },
-    {
-      "id": "BFMTV_1773344147",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU AFFIRME QU'ISRAËL EST \"EN TRAIN D'ÉCRASER L'IRAN ET LE HEZBOLLAH\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:35",
-      "date": "12/03",
-      "timestamp": 1773344147
-    },
-    {
-      "id": "BFMTV_1773343667",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA PRISE DE PAROLE DE BENJAMIN NETANYAHU EN INTÉGRALITÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:27",
-      "date": "12/03",
-      "timestamp": 1773343667
-    },
-    {
-      "id": "BFMTV_1773343531",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU ASSURE VOULOIR \"EMPÊCHER L'IRAN DE DÉVELOPPER DES MISSILES BALISTIQUES ET DES ARMES NUCLÉAIRES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:25",
-      "date": "12/03",
-      "timestamp": 1773343531
-    },
-    {
-      "id": "BFMTV_1773343514",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: “MOJTABA KHAMENEI NE PEUT PLUS SE MONTRER EN PUBLIC”, ANNONCE BENJAMIN NETANYAHU, PREMIER MINISTRE ISRAÉLIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:25",
-      "date": "12/03",
-      "timestamp": 1773343514
-    },
-    {
-      "id": "BFMTV_1773343375",
-      "source": "BFMTV",
-      "text": "\"CELA DÉPEND DE VOUS\": BENJAMIN NETANYAHU APPELLE LE PEUPLE IRANIEN \"À RENVERSER CE RÉGIME TYRANNIQUE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:22",
-      "date": "12/03",
-      "timestamp": 1773343375
-    },
-    {
-      "id": "BFMTV_1773343234",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LE HEZBOLLAH VA LE PAYER TRÈS CHER\", AFFIRME BENJAMIN NETANYAHU",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:20",
-      "date": "12/03",
-      "timestamp": 1773343234
-    },
-    {
-      "id": "BFMTV_1773343225",
-      "source": "BFMTV",
-      "text": "“NOUS NOUS TRANSFORMONS EN UNE PUISSANCE MONDIALE”, AFFIRME BENJAMIN NETANYAHU, PREMIER MINISTRE ISRAÉLIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:20",
-      "date": "12/03",
-      "timestamp": 1773343225
-    },
-    {
-      "id": "BFMTV_1773343174",
-      "source": "BFMTV",
-      "text": "AÉROPORT, DÉFENSE AÉRIENNE, BASE NAVALE... LES IMAGES SATELLITES DES DÉGÂTS DES FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:19",
-      "date": "12/03",
-      "timestamp": 1773343174
-    },
-    {
-      "id": "BFMTV_1773342653",
-      "source": "BFMTV",
-      "text": "FUSILLADE DANS UNE SYNAGOGUE DU MICHIGAN: LE TIREUR EST MORT, ASSURE LA POLICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:10",
-      "date": "12/03",
-      "timestamp": 1773342653
-    },
-    {
-      "id": "BFMTV_1773342161",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS FRAPPES ISRAÉLIENNES DANS LE CENTRE-VILLE DE BEYROUTH, AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:02",
-      "date": "12/03",
-      "timestamp": 1773342161
     }
   ],
   "france": {
