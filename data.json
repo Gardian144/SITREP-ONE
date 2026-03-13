@@ -1,7 +1,17 @@
 {
-  "last_update": "12/03 23:54",
+  "last_update": "13/03 05:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773377961",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN MILITAIRE FRANÇAIS EST MORT DANS UNE ATTAQUE EN IRAK",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:59",
+      "date": "13/03",
+      "timestamp": 1773377961
+    },
     {
       "id": "BFMTV_1773357682",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "08:44",
       "date": "12/03",
       "timestamp": 1773305060
-    },
-    {
-      "id": "BFMTV_1773304607",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS ENTENDUES AU-DESSUS DE JÉRUSALEM ET DANS LE CENTRE DE DUBAÏ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:36",
-      "date": "12/03",
-      "timestamp": 1773304607
     }
   ],
   "france": {
