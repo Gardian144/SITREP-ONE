@@ -1,7 +1,157 @@
 {
-  "last_update": "13/03 11:47",
+  "last_update": "13/03 14:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773412093",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"C'EST UN ENVIRONNEMENT TACTIQUE COMPLEXE\", DÉCLARE DAN CAINE, LE CHEF D'ÉTAT-MAJOR DES ARMÉES DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:28",
+      "date": "13/03",
+      "timestamp": 1773412093
+    },
+    {
+      "id": "BFMTV_1773412018",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES SIX MEMBRES D'ÉQUIPAGE SONT MORTS DANS LE CRASH DE LEUR AVION RAVITAILLEUR AMÉRICAIN EN IRAK",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:26",
+      "date": "13/03",
+      "timestamp": 1773412018
+    },
+    {
+      "id": "BFMTV_1773411518",
+      "source": "BFMTV",
+      "text": "ATTAQUÉS PAR L'IRAN, POURQUOI LES PAYS DU GOLFE NE RÉPLIQUENT PAS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:18",
+      "date": "13/03",
+      "timestamp": 1773411518
+    },
+    {
+      "id": "BFMTV_1773410880",
+      "source": "BFMTV",
+      "text": "LA RUSSIE CONVOQUE LES AMBASSADEURS FRANÇAIS ET BRITANNIQUES APRÈS UNE FRAPPE QUI A FAIT SEPT MORTS À BRIANSK AVEC DES MISSILES OCCIDENTAUX",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:08",
+      "date": "13/03",
+      "timestamp": 1773410880
+    },
+    {
+      "id": "BFMTV_1773410493",
+      "source": "BFMTV",
+      "text": "LA GUERRE EN IRAN VUE DE LA GALAXIE MAGA: TRUMP FACE AUX PREMIÈRES FISSURES",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:01",
+      "date": "13/03",
+      "timestamp": 1773410493
+    },
+    {
+      "id": "BFMTV_1773410166",
+      "source": "BFMTV",
+      "text": "\"L'ATTAQUE D'HIER ÉTAIT DE L'ANTISÉMITISME. C'ÉTAIT DE LA HAINE, TOUT SIMPLEMENT\", DÉCLARE LA GOUVERNEURE DU MICHIGAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:56",
+      "date": "13/03",
+      "timestamp": 1773410166
+    },
+    {
+      "id": "BFMTV_1773410163",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:56",
+      "date": "13/03",
+      "timestamp": 1773410163
+    },
+    {
+      "id": "BFMTV_1773408178",
+      "source": "BFMTV",
+      "text": "QUI ÉTAIT L'ADJUDANT-CHEF ARNAUD FRION, TUÉ EN IRAK?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:22",
+      "date": "13/03",
+      "timestamp": 1773408178
+    },
+    {
+      "id": "BFMTV_1773408107",
+      "source": "BFMTV",
+      "text": "LA POLICE NÉERLANDAISE ENQUÊTE SUR UN INCENDIE CRIMINEL DANS UNE SYNAGOGUE DE ROTTERDAM, QUATRE SUSPECTS INTERPELLÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:21",
+      "date": "13/03",
+      "timestamp": 1773408107
+    },
+    {
+      "id": "BFMTV_1773407880",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE GUIDE SUPRÊME IRANIEN MOJTABA KHAMENEI EST \"BLESSÉ ET PROBABLEMENT DÉFIGURÉ\", SELON LE PENTAGONE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:18",
+      "date": "13/03",
+      "timestamp": 1773407880
+    },
+    {
+      "id": "BFMTV_1773407644",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ EN IRAK, SOUTIEN À L'UKRAINE...LA PRISE DE PAROLE D'EMMANUEL MACRON EN INTÉGRALITÉ",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:14",
+      "date": "13/03",
+      "timestamp": 1773407644
+    },
+    {
+      "id": "BFMTV_1773406954",
+      "source": "BFMTV",
+      "text": "LE PENTAGONE AFFIRME QUE LE GUIDE SUPRÊME IRANIEN A ÉTÉ \"BLESSÉ ET PROBABLEMENT DÉFIGURÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:02",
+      "date": "13/03",
+      "timestamp": 1773406954
+    },
+    {
+      "id": "BFMTV_1773406768",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ EN IRAK: EMMANUEL MACRON NE VEUT PAS \"ÉLABORER DE SCÉNARIOS\" DE RIPOSTE AVANT D'AVOIR \"TOUS LES ÉLÉMENTS\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:59",
+      "date": "13/03",
+      "timestamp": 1773406768
+    },
+    {
+      "id": "BFMTV_1773406352",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: “NOUS [L’UE ET SES ÉTATS MEMBRES] AVONS DÉCIDÉ EN DÉCEMBRE UN PRÊT DE 90 MILLIARDS D’EUROS, CET ENGAGEMENT SERA TENU,” ASSURE EMMANUEL MACRON  ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:52",
+      "date": "13/03",
+      "timestamp": 1773406352
+    },
+    {
+      "id": "OPEX360_1773403092",
+      "source": "OPEX360",
+      "text": "UN AVION RAVITAILLEUR KC-135R DE L’US AIR FORCE S’EST ÉCRASÉ EN IRAK, SANS DOUTE À CAUSE D’UNE COLLISION",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:58",
+      "date": "13/03",
+      "timestamp": 1773403092
+    },
     {
       "id": "BFMTV_1773402046",
       "source": "BFMTV",
@@ -186,6 +336,16 @@
       "id": "OPEX360_1773394226",
       "source": "OPEX360",
       "text": "UN SOUS-OFFICIER DU 7E BATAILLON DE CHASSEURS ALPINS ÉTÉ TUÉ LORS D’UNE ATTAQUE DE DRONE EN IRAK",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:30",
+      "date": "13/03",
+      "timestamp": 1773394226
+    },
+    {
+      "id": "OPEX360_1773394226",
+      "source": "OPEX360",
+      "text": "UN SOUS-OFFICIER DU 7E BATAILLON DE CHASSEURS ALPINS A ÉTÉ TUÉ LORS D’UNE ATTAQUE DE DRONE EN IRAK",
       "urgent": true,
       "france_related": false,
       "time": "09:30",
@@ -841,166 +1001,6 @@
       "time": "19:02",
       "date": "12/03",
       "timestamp": 1773342161
-    },
-    {
-      "id": "BFMTV_1773341800",
-      "source": "BFMTV",
-      "text": "LES IMAGES DE LA BANLIEUE SUD DE BEYROUTH DÉSERTÉE APRÈS LES FRAPPES DE L'ARMÉE ISRAÉLIENNE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:56",
-      "date": "12/03",
-      "timestamp": 1773341800
-    },
-    {
-      "id": "OPEX360_1773339626",
-      "source": "OPEX360",
-      "text": "LA SERBIE A ACQUIS DES MISSILES AIR-SOL À LONGUE PORTÉE CM-400 AUPRÈS DE LA CHINE POUR ARMER SES MIG-29",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:20",
-      "date": "12/03",
-      "timestamp": 1773339626
-    },
-    {
-      "id": "BFMTV_1773336230",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LES ÉTATS-UNIS AFFIRMENT AVOIR FRAPPÉ ENVIRON 6.000 CIBLES IRANIENNES DEPUIS LE DÉBUT DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:23",
-      "date": "12/03",
-      "timestamp": 1773336230
-    },
-    {
-      "id": "OPEX360_1773335824",
-      "source": "OPEX360",
-      "text": "SAFRAN VA LIVRER DES VISEURS VIGEO POUR LES FUTURS BLINDÉS SERVAL DE L’ARMÉE DE TERRE DÉDIÉS À LA LUTTE ANTIDRONE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:17",
-      "date": "12/03",
-      "timestamp": 1773335824
-    },
-    {
-      "id": "BFMTV_1773335599",
-      "source": "BFMTV",
-      "text": "LE PÉTROLE AU CŒUR DE LA GUERRE AU MOYEN-ORIENT: \"C'EST LA PLUS GRAVE CRISE ÉNERGÉTIQUE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:13",
-      "date": "12/03",
-      "timestamp": 1773335599
-    },
-    {
-      "id": "BFMTV_1773334730",
-      "source": "BFMTV",
-      "text": "LE SUD-LIBAN BOMBARDÉ: \"IL FAUT DÉTERMINER LA RESPONSABILITÉ ET TRADUIRE EN JUSTICE CEUX QUI SONT RESPONSABLES\", DEMANE L'ONU",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:58",
-      "date": "12/03",
-      "timestamp": 1773334730
-    },
-    {
-      "id": "BFMTV_1773334651",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LA SITUATION AU LIBAN EST CATASTROPHIQUE POUR LES CIVILS\", ALERTE L'ONU",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:57",
-      "date": "12/03",
-      "timestamp": 1773334651
-    },
-    {
-      "id": "BFMTV_1773333492",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - QUELLE EST LA STRATÉGIE IRANIENNE DANS LE DÉTROIT D'ORMUZ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:38",
-      "date": "12/03",
-      "timestamp": 1773333492
-    },
-    {
-      "id": "BFMTV_1773332975",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L'ÎLE DE KHARG EST UN SITE AUSSI STRATÉGIQUE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:29",
-      "date": "12/03",
-      "timestamp": 1773332975
-    },
-    {
-      "id": "BFMTV_1773331463",
-      "source": "BFMTV",
-      "text": "\"ILS CONSIDÈRENT QUE C'EST UNE GUERRE QUI N'EST PAS LA LEUR\": DE RETOUR DU LIBAN, NOTRE REPORTER JEANNE DAUDET RACONTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:04",
-      "date": "12/03",
-      "timestamp": 1773331463
-    },
-    {
-      "id": "OPEX360_1773331322",
-      "source": "OPEX360",
-      "text": "LA MARINE AMÉRICAINE A RELANCÉ SON PROJET DE CANON ÉLECTROMAGNÉTIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:02",
-      "date": "12/03",
-      "timestamp": 1773331322
-    },
-    {
-      "id": "BFMTV_1773331017",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE FRAPPE UN IMMEUBLE DU CENTRE DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:56",
-      "date": "12/03",
-      "timestamp": 1773331017
-    },
-    {
-      "id": "BFMTV_1773330812",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL FRAPPE UN IMMEUBLE DU CENTRE DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:53",
-      "date": "12/03",
-      "timestamp": 1773330812
-    },
-    {
-      "id": "BFMTV_1773329678",
-      "source": "BFMTV",
-      "text": "\"GÉNÉRALEMENT UNE CHAÎNE D'ERREURS ET DE FAUTES QUI SE PRODUISENT\": LE CHEF DES ARMÉES DE L'OTAN INTERROGÉ SUR L'ÉCOLE IRANIENNE BOMBARDÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:34",
-      "date": "12/03",
-      "timestamp": 1773329678
-    },
-    {
-      "id": "BFMTV_1773328319",
-      "source": "BFMTV",
-      "text": "\"C'EST UNE QUESTION D'HUMILITÉ\": AVANT LES PRÉSIDENTIELLES, GABRIEL ATTAL AU DÉFI DES MUNICIPALES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:11",
-      "date": "12/03",
-      "timestamp": 1773328319
-    },
-    {
-      "id": "BFMTV_1773328286",
-      "source": "BFMTV",
-      "text": "UE/OTAN: \"NOUS LUTTONS POUR LES MÊMES VALEURS ET CELA NE DÉPEND PAS DE QUI EST PRÉSIDENT AUX ÉTATS-UNIS\", DÉCLARE THEO FRANCKEN, MINISTRE DE LA DÉFENSE BELGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:11",
-      "date": "12/03",
-      "timestamp": 1773328286
     }
   ],
   "france": {
