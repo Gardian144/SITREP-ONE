@@ -1,7 +1,87 @@
 {
-  "last_update": "14/03 13:57",
+  "last_update": "14/03 14:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773499661",
+      "source": "BFMTV",
+      "text": " LES SIX SOLDATS FRANÇAIS BLESSÉS EN IRAK ONT ÉTÉ RAPATRIÉS",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:47",
+      "date": "14/03",
+      "timestamp": 1773499661
+    },
+    {
+      "id": "BFMTV_1773499452",
+      "source": "BFMTV",
+      "text": "INFO BFMTV. GUERRE AU MOYEN-ORIENT: LES SIX MILITAIRES FRANÇAIS BLESSÉS EN IRAK ONT ÉTÉ RAPATRIÉS EN FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:44",
+      "date": "14/03",
+      "timestamp": 1773499452
+    },
+    {
+      "id": "BFMTV_1773499368",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP VEUT RENDRE LE DÉTROIT D'ORMUZ \"OUVERT, SÉCURISÉ ET LIBRE\" AVEC L'AIDE DE LA FRANCE ET D'AUTRES NATIONS",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:42",
+      "date": "14/03",
+      "timestamp": 1773499368
+    },
+    {
+      "id": "BFMTV_1773498889",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP APPELLE \"DE NOMBREUX PAYS\", DONT LA FRANCE, À ENVOYER \"DES NAVIRES DE GUERRE\" POUR SÉCURISER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:34",
+      "date": "14/03",
+      "timestamp": 1773498889
+    },
+    {
+      "id": "BFMTV_1773498797",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES BOULEVERSÉS\": UNE JUMENT DESTINÉE À UN CLUB D'ÉQUITATION FINIT EN VIANDE DANS UNE SOUPE POPULAIRE EN TURQUIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:33",
+      "date": "14/03",
+      "timestamp": 1773498797
+    },
+    {
+      "id": "BFMTV_1773498072",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN JUGE \"LÉGITIME\" DE FRAPPER \"LES PORTS, LES QUAIS ET LES BASES MILITAIRES AMÉRICAINES PROTÉGÉES DANS CERTAINES VILLES DES ÉMIRATS ARABES UNIS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:21",
+      "date": "14/03",
+      "timestamp": 1773498072
+    },
+    {
+      "id": "BFMTV_1773497640",
+      "source": "BFMTV",
+      "text": "COCAÏNE PRÉSENTE DANS TOUT LE PAYS, KÉTAMINE EN PLEINE EXPANSION: EN BELGIQUE, UNE ANALYSE DES EAUX USÉES MONTRE L’AMPLEUR DE LA CONSOMMATION DE DROGUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:14",
+      "date": "14/03",
+      "timestamp": 1773497640
+    },
+    {
+      "id": "BFMTV_1773497389",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DES DERNIÈRES FRAPPES IRANIENNES À EILAT, EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:09",
+      "date": "14/03",
+      "timestamp": 1773497389
+    },
     {
       "id": "BFMTV_1773496558",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "18:31",
       "date": "13/03",
       "timestamp": 1773426685
-    },
-    {
-      "id": "BFMTV_1773426331",
-      "source": "BFMTV",
-      "text": "IRAN, LIBAN, ÉTATS-UNIS... PLUS DE 2.000 MORTS DEPUIS LE DÉBUT DE LA GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:25",
-      "date": "13/03",
-      "timestamp": 1773426331
-    },
-    {
-      "id": "OPEX360_1773425764",
-      "source": "OPEX360",
-      "text": "AIRBUS DEFENCE & SPACE PRÉPARE LE PREMIER VOL D’UNE VERSION EUROPÉANISÉE DU DRONE DE COMBAT XQ-58 VALKYRIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:16",
-      "date": "13/03",
-      "timestamp": 1773425764
-    },
-    {
-      "id": "BFMTV_1773425153",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS OFFRENT UNE RÉCOMPENSE DE 10 MILLIONS DE DOLLARS POUR TOUTE INFORMATION SUR LE GUIDE SUPRÊME",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:05",
-      "date": "13/03",
-      "timestamp": 1773425153
-    },
-    {
-      "id": "BFMTV_1773425003",
-      "source": "BFMTV",
-      "text": "SELON PLUSIEURS MÉDIAS AMÉRICAINS, LES ÉTATS-UNIS ENVOIENT DES RENFORTS MILITAIRES VERS LE MOYEN-ORIENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:03",
-      "date": "13/03",
-      "timestamp": 1773425003
-    },
-    {
-      "id": "BFMTV_1773424065",
-      "source": "BFMTV",
-      "text": "ISRAËL INTENSIFIE SA STRATÉGIE AU LIBAN, BFMTV A PU S'APPROCHER D'UN IMMEUBLE ÉVENTRÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:47",
-      "date": "13/03",
-      "timestamp": 1773424065
-    },
-    {
-      "id": "BFMTV_1773423446",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE LARGUE DES TRACTS DE PROPAGANDE SUR BEYROUTH APPELANT À \"DÉSARMER LE HEZBOLLAH\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:37",
-      "date": "13/03",
-      "timestamp": 1773423446
-    },
-    {
-      "id": "BFMTV_1773423368",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL DIT AVOIR MENÉ 8.700 FRAPPES SUR L'IRAN ET LE LIBAN DEPUIS LE DÉBUT DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:36",
-      "date": "13/03",
-      "timestamp": 1773423368
-    },
-    {
-      "id": "BFMTV_1773423058",
-      "source": "BFMTV",
-      "text": "\"PROBABLEMENT DÉFIGURÉ\" SELON LES ÉTATS-UNIS, LE DOUTE PLANE SUR L'ÉTAT DE SANTÉ DU NOUVEAU GUIDE SUPRÊME DE L'IRAN MOJTABA KHAMENEI",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:30",
-      "date": "13/03",
-      "timestamp": 1773423058
     }
   ],
   "france": {
