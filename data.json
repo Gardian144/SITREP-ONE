@@ -1,7 +1,67 @@
 {
-  "last_update": "14/03 08:02",
+  "last_update": "14/03 09:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773481812",
+      "source": "BFMTV",
+      "text": "DIRECT. SOLDAT FRANÇAIS TUÉ EN IRAK: EMMANUEL MACRON DIT VOULOIR \"POURSUIVRE LES EFFORTS EN FAVEUR DE LA DÉSESCALADE RÉGIONALE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:50",
+      "date": "14/03",
+      "timestamp": 1773481812
+    },
+    {
+      "id": "BFMTV_1773481514",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP \"NE COMPREND PAS POURQUOI L'IRAN NE CAPITULE PAS DEVANT UNE TELLE FORCE ARMÉE\",  ESTIME ROBERT MALLEY, ANCIEN NÉGOCIATEUR AMÉRICAIN SUR LE NUCLÉAIRE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:45",
+      "date": "14/03",
+      "timestamp": 1773481514
+    },
+    {
+      "id": "BFMTV_1773481096",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LES IRANIENS VOULAIENT UNE GUERRE DE LONGUE DURÉE POUR FAIRE EN SORTE QUE LES ÉTATS-UNIS ET L'ÉCONOMIE MONDIALE EN PAYENT LE PRIX\", ESTIME ROBERT MALLEY, ANCIEN NÉGOCIATEUR AMÉRICAIN SUR LE NUCLÉAIRE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:38",
+      "date": "14/03",
+      "timestamp": 1773481096
+    },
+    {
+      "id": "BFMTV_1773480757",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ÉTEND SES OPÉRATIONS TERRESTRES AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:32",
+      "date": "14/03",
+      "timestamp": 1773480757
+    },
+    {
+      "id": "BFMTV_1773480335",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L'ÎLE DE KHARG EST STRATÉGIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:25",
+      "date": "14/03",
+      "timestamp": 1773480335
+    },
+    {
+      "id": "BFMTV_1773478077",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES IMAGES DE RUINES APRÈS DES FRAPPES ISRAÉLIENNES SUR LA BANLIEUE SUD DE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:47",
+      "date": "14/03",
+      "timestamp": 1773478077
+    },
     {
       "id": "BFMTV_1773475163",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "14:28",
       "date": "13/03",
       "timestamp": 1773412093
-    },
-    {
-      "id": "BFMTV_1773412018",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES SIX MEMBRES D'ÉQUIPAGE SONT MORTS DANS LE CRASH DE LEUR AVION RAVITAILLEUR AMÉRICAIN EN IRAK",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:26",
-      "date": "13/03",
-      "timestamp": 1773412018
-    },
-    {
-      "id": "BFMTV_1773411518",
-      "source": "BFMTV",
-      "text": "ATTAQUÉS PAR L'IRAN, POURQUOI LES PAYS DU GOLFE NE RÉPLIQUENT PAS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:18",
-      "date": "13/03",
-      "timestamp": 1773411518
-    },
-    {
-      "id": "BFMTV_1773410880",
-      "source": "BFMTV",
-      "text": "LA RUSSIE CONVOQUE LES AMBASSADEURS FRANÇAIS ET BRITANNIQUES APRÈS UNE FRAPPE QUI A FAIT SEPT MORTS À BRIANSK AVEC DES MISSILES OCCIDENTAUX",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:08",
-      "date": "13/03",
-      "timestamp": 1773410880
-    },
-    {
-      "id": "BFMTV_1773410493",
-      "source": "BFMTV",
-      "text": "LA GUERRE EN IRAN VUE DE LA GALAXIE MAGA: TRUMP FACE AUX PREMIÈRES FISSURES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:01",
-      "date": "13/03",
-      "timestamp": 1773410493
-    },
-    {
-      "id": "BFMTV_1773410166",
-      "source": "BFMTV",
-      "text": "\"L'ATTAQUE D'HIER ÉTAIT DE L'ANTISÉMITISME. C'ÉTAIT DE LA HAINE, TOUT SIMPLEMENT\", DÉCLARE LA GOUVERNEURE DU MICHIGAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:56",
-      "date": "13/03",
-      "timestamp": 1773410166
-    },
-    {
-      "id": "BFMTV_1773410163",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:56",
-      "date": "13/03",
-      "timestamp": 1773410163
     }
   ],
   "france": {
