@@ -1,7 +1,57 @@
 {
-  "last_update": "14/03 20:57",
+  "last_update": "14/03 21:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773525004",
+      "source": "BFMTV",
+      "text": "L'ANCIEN PRÉSIDENT BRÉSILIEN JAIR BOLSONARO TOUJOURS EN SOINS INTENSIFS POUR UNE PNEUMONIE BACTÉRIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:50",
+      "date": "14/03",
+      "timestamp": 1773525004
+    },
+    {
+      "id": "BFMTV_1773524865",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE INTENSIFIE SES OPÉRATIONS AU SUD DU LIBAN AVEC L'ENGAGEMENT DE LA 36E UNITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:47",
+      "date": "14/03",
+      "timestamp": 1773524865
+    },
+    {
+      "id": "BFMTV_1773524563",
+      "source": "BFMTV",
+      "text": "RAPATRIEMENT DU SOLDAT FRANÇAIS TUÉ ET DE SES SIX CAMARADES BLESSÉS, TRUMP HAUSSE LE TON SUR LE DÉTROIT D'ORMUZ... CE QU'IL FAUT RETENIR DE CETTE QUATORZIÈME JOURNÉE DE LA GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:42",
+      "date": "14/03",
+      "timestamp": 1773524563
+    },
+    {
+      "id": "BFMTV_1773522942",
+      "source": "BFMTV",
+      "text": "SÉCURISER LE DÉTROIT D'ORMUZ: \"LA PREMIÈRE CHOSE, C'EST D'EN PARLER À OMAN ET À ABOU DHABI\", EXPLIQUE RICHARD WILMOT-ROUSSEL, ANCIEN COMMANDANT DU PORTE-AVIONS CHARLES-DE-GAULLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:15",
+      "date": "14/03",
+      "timestamp": 1773522942
+    },
+    {
+      "id": "BFMTV_1773522376",
+      "source": "BFMTV",
+      "text": "LA COUR CONSTITUTIONNELLE ITALIENNE DONNE RAISON AU GOUVERNEMENT DE GIORGIA MELONI QUI A RESTREINT L'ACQUISITION DE LA NATIONALITÉ POUR LES DESCENDANTS D'ITALIENS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:06",
+      "date": "14/03",
+      "timestamp": 1773522376
+    },
     {
       "id": "BFMTV_1773520977",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "05:52",
       "date": "14/03",
       "timestamp": 1773467560
-    },
-    {
-      "id": "BFMTV_1773467333",
-      "source": "BFMTV",
-      "text": "IRAN: L'ARMÉE ISRAÉLIENNE DEMANDE AUX HABITANTS DE CERTAINS QUARTIERS DE TABRIZ D'ÉVACUER",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:48",
-      "date": "14/03",
-      "timestamp": 1773467333
-    },
-    {
-      "id": "BFMTV_1773467166",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ATTAQUE CONTRE L'AMBASSADE AMÉRICAINE EN IRAK, APRÈS DES FRAPPES À BAGDAD",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:46",
-      "date": "14/03",
-      "timestamp": 1773467166
-    },
-    {
-      "id": "BFMTV_1773466667",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP A MENACÉ D'\"ANÉANTIR\" LES INFRASTRUCTURES PÉTROLIÈRES DE L'ÎLE IRANIENNE DE KHARG",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:37",
-      "date": "14/03",
-      "timestamp": 1773466667
-    },
-    {
-      "id": "BFMTV_1773464460",
-      "source": "BFMTV",
-      "text": "\"ILS SONT UTILISÉS AVANT D'ÊTRE ABANDONNÉS\": LES KURDES IRANIENS, UN ATOUT DANS LA MANCHE DE DONALD TRUMP DANS LA GUERRE CONTRE L'IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:01",
-      "date": "14/03",
-      "timestamp": 1773464460
-    },
-    {
-      "id": "BFMTV_1773463864",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE TÉHÉRAN EST \"COMPLÈTEMENT VAINCU ET VEUT UN ACCORD\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:51",
-      "date": "14/03",
-      "timestamp": 1773463864
     }
   ],
   "france": {
