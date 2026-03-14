@@ -1,5 +1,5 @@
 {
-  "last_update": "14/03 22:57",
+  "last_update": "14/03 23:55",
   "impacts": [],
   "news": [
     {
@@ -66,6 +66,16 @@
       "id": "BFMTV_1773524563",
       "source": "BFMTV",
       "text": "RAPATRIEMENT DU SOLDAT FRANÇAIS TUÉ ET DE SES SIX CAMARADES BLESSÉS, TRUMP HAUSSE LE TON SUR LE DÉTROIT D'ORMUZ... CE QU'IL FAUT RETENIR DE CETTE QUATORZIÈME JOURNÉE DE LA GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:42",
+      "date": "14/03",
+      "timestamp": 1773524563
+    },
+    {
+      "id": "BFMTV_1773524563",
+      "source": "BFMTV",
+      "text": "RAPATRIEMENT DU SOLDAT FRANÇAIS TUÉ ET DE SES SIX CAMARADES BLESSÉS, TRUMP HAUSSE LE TON SUR LE DÉTROIT D'ORMUZ... CE QU'IL FAUT RETENIR DE CETTE QUINZIÈME JOURNÉE DE LA GUERRE AU MOYEN-ORIENT",
       "urgent": true,
       "france_related": true,
       "time": "21:42",
@@ -991,16 +1001,6 @@
       "time": "06:16",
       "date": "14/03",
       "timestamp": 1773468999
-    },
-    {
-      "id": "BFMTV_1773468931",
-      "source": "BFMTV",
-      "text": "\"L'UN DES NÔTRES EST PARTI\": L'ÉMOTION DANS LE RÉGIMENT ET DANS LE VILLAGE NATAL DE L'ADJUDANT-CHEF ARNAUD FRION, TUÉ EN IRAK",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:15",
-      "date": "14/03",
-      "timestamp": 1773468931
     }
   ],
   "france": {
