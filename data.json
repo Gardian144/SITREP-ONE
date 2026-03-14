@@ -1,7 +1,147 @@
 {
-  "last_update": "14/03 05:02",
+  "last_update": "14/03 07:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773472672",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:17",
+      "date": "14/03",
+      "timestamp": 1773472672
+    },
+    {
+      "id": "BFMTV_1773472671",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN: UNE PHOTO INÉDITE MONTRE ANDREW ET PETER MANDELSON AUX CÔTÉS DU CRIMINEL SEXUEL",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:17",
+      "date": "14/03",
+      "timestamp": 1773472671
+    },
+    {
+      "id": "BFMTV_1773471540",
+      "source": "BFMTV",
+      "text": "IRAK: ATTAQUE CONTRE L'AMBASSADE AMÉRICAINE, APRÈS DES FRAPPES À BAGDAD",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:59",
+      "date": "14/03",
+      "timestamp": 1773471540
+    },
+    {
+      "id": "BFMTV_1773471295",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS OFFRENT UNE RÉCOMPENSE DE 10 MILLIONS DE DOLLARS POUR DES INFORMATIONS SUR LES DIRIGEANTS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:54",
+      "date": "14/03",
+      "timestamp": 1773471295
+    },
+    {
+      "id": "BFMTV_1773469680",
+      "source": "BFMTV",
+      "text": "LA CORÉE DU NORD A TIRÉ UNE DIZAINE DE MISSILES BALISTIQUES EN DIRECTION DE LA MER DU JAPON, SELON LA CORÉE DU SUD",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:28",
+      "date": "14/03",
+      "timestamp": 1773469680
+    },
+    {
+      "id": "BFMTV_1773468999",
+      "source": "BFMTV",
+      "text": "HAUSSE DES PRIX DES CARBURANTS: LES SOIGNANTS À DOMICILE S'INQUIÈTENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:16",
+      "date": "14/03",
+      "timestamp": 1773468999
+    },
+    {
+      "id": "BFMTV_1773468931",
+      "source": "BFMTV",
+      "text": "\"L'UN DES NÔTRES EST PARTI\": L'ÉMOTION DANS LE RÉGIMENT ET DANS LE VILLAGE NATAL DE L'ADJUDANT-CHEF ARNAUD FRION, TUÉ EN IRAK",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:15",
+      "date": "14/03",
+      "timestamp": 1773468931
+    },
+    {
+      "id": "BFMTV_1773468599",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: TÉHÉRAN MENACE DE \"RÉDUIRE EN CENDRES\" LES INFRASTRUCTURES PÉTROLIÈRES LIÉES AUX ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:09",
+      "date": "14/03",
+      "timestamp": 1773468599
+    },
+    {
+      "id": "BFMTV_1773468339",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE L'IRAN \"EST COMPLÈTEMENT VAINCU ET VEUT UN ACCORD\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:05",
+      "date": "14/03",
+      "timestamp": 1773468339
+    },
+    {
+      "id": "BFMTV_1773467888",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IRANIENS INSTALLÉS EN ISRAËL ESPÈRENT LA CHUTE DES MOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:58",
+      "date": "14/03",
+      "timestamp": 1773467888
+    },
+    {
+      "id": "BFMTV_1773467560",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LA MARINE AMÉRICAINE VA COMMENCER \"TRÈS BIENTÔT\" À ESCORTER DES PÉTROLIERS DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:52",
+      "date": "14/03",
+      "timestamp": 1773467560
+    },
+    {
+      "id": "BFMTV_1773467333",
+      "source": "BFMTV",
+      "text": "IRAN: L'ARMÉE ISRAÉLIENNE DEMANDE AUX HABITANTS DE CERTAINS QUARTIERS DE TABRIZ D'ÉVACUER",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:48",
+      "date": "14/03",
+      "timestamp": 1773467333
+    },
+    {
+      "id": "BFMTV_1773467166",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ATTAQUE CONTRE L'AMBASSADE AMÉRICAINE EN IRAK, APRÈS DES FRAPPES À BAGDAD",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:46",
+      "date": "14/03",
+      "timestamp": 1773467166
+    },
+    {
+      "id": "BFMTV_1773466667",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP A MENACÉ D'\"ANÉANTIR\" LES INFRASTRUCTURES PÉTROLIÈRES DE L'ÎLE IRANIENNE DE KHARG",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:37",
+      "date": "14/03",
+      "timestamp": 1773466667
+    },
     {
       "id": "BFMTV_1773464460",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "13:14",
       "date": "13/03",
       "timestamp": 1773407644
-    },
-    {
-      "id": "BFMTV_1773406954",
-      "source": "BFMTV",
-      "text": "LE PENTAGONE AFFIRME QUE LE GUIDE SUPRÊME IRANIEN A ÉTÉ \"BLESSÉ ET PROBABLEMENT DÉFIGURÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:02",
-      "date": "13/03",
-      "timestamp": 1773406954
-    },
-    {
-      "id": "BFMTV_1773406768",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ EN IRAK: EMMANUEL MACRON NE VEUT PAS \"ÉLABORER DE SCÉNARIOS\" DE RIPOSTE AVANT D'AVOIR \"TOUS LES ÉLÉMENTS\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:59",
-      "date": "13/03",
-      "timestamp": 1773406768
-    },
-    {
-      "id": "BFMTV_1773406352",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: “NOUS [L’UE ET SES ÉTATS MEMBRES] AVONS DÉCIDÉ EN DÉCEMBRE UN PRÊT DE 90 MILLIARDS D’EUROS, CET ENGAGEMENT SERA TENU,” ASSURE EMMANUEL MACRON  ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:52",
-      "date": "13/03",
-      "timestamp": 1773406352
-    },
-    {
-      "id": "OPEX360_1773403092",
-      "source": "OPEX360",
-      "text": "UN AVION RAVITAILLEUR KC-135R DE L’US AIR FORCE S’EST ÉCRASÉ EN IRAK, SANS DOUTE À CAUSE D’UNE COLLISION",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:58",
-      "date": "13/03",
-      "timestamp": 1773403092
-    },
-    {
-      "id": "BFMTV_1773402046",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ EN IRAK: QUI ÉTAIT L'ADJUDANT-CHEF ARNAUD FRION?",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:40",
-      "date": "13/03",
-      "timestamp": 1773402046
-    },
-    {
-      "id": "BFMTV_1773401959",
-      "source": "BFMTV",
-      "text": "DEPUIS LE LIBAN, LE CHEF DE L'ONU EXHORTE ISRAËL ET LE HEZBOLLAH À CONCLURE UN CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:39",
-      "date": "13/03",
-      "timestamp": 1773401959
-    },
-    {
-      "id": "BFMTV_1773401808",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: VOLODYMYR ZELENSKY PRÉSENTE \"SES CONDOLÉANCES\" APRÈS L'\"ATTAQUE ODIEUSE\" AYANT TUÉ L'ADJUDANT-CHEF ARNAUD FRION",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:36",
-      "date": "13/03",
-      "timestamp": 1773401808
-    },
-    {
-      "id": "BFMTV_1773400814",
-      "source": "BFMTV",
-      "text": "\"CE QUE L'ARMÉE DE TERRE FAIT DE MEILLEUR\": QUI ÉTAIT L'ADJUDANT-CHEF ARNAUD FRION, TUÉ EN IRAK DANS UNE ATTAQUE DE DRONE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:20",
-      "date": "13/03",
-      "timestamp": 1773400814
-    },
-    {
-      "id": "BFMTV_1773400719",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON ACCUEILLE VOLODYMYR ZELENSKY À L'ÉLYSÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:18",
-      "date": "13/03",
-      "timestamp": 1773400719
-    },
-    {
-      "id": "BFMTV_1773400093",
-      "source": "BFMTV",
-      "text": "SANCTIONS CONTRE LE NUCLÉAIRE IRANIEN: LES ÉTATS-UNIS À L'ONU ACCUSE LA CHINE ET LA RUSSIE DE \"CONTINUER À PROTÉGER\" L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:08",
-      "date": "13/03",
-      "timestamp": 1773400093
-    },
-    {
-      "id": "BFMTV_1773400086",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ EN IRAK: LE CHEF DE CORPS DU 7E BCA ÉVOQUE ARNAUD FRION",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:08",
-      "date": "13/03",
-      "timestamp": 1773400086
-    },
-    {
-      "id": "BFMTV_1773400078",
-      "source": "BFMTV",
-      "text": " SOLDAT FRANÇAIS TUÉ EN IRAK: LE CHEF DE CORPS DU 7E BATAILLON DE CHASSEURS ALPINS DE VARCES ÉVOQUE \"UN EXCELLENT SOLDAT\" AVEC UNE \"VRAIE HUMILITÉ\" ET \"ULTRA COMPÉTENT\" ",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:07",
-      "date": "13/03",
-      "timestamp": 1773400078
-    },
-    {
-      "id": "BFMTV_1773399969",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: L'OTAN DÉTRUIT UN TROISIÈME MISSILE TIRÉ DEPUIS L'IRAN DANS L'ESPACE AÉRIEN TURC",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:06",
-      "date": "13/03",
-      "timestamp": 1773399969
-    },
-    {
-      "id": "BFMTV_1773399040",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN MORT LORS D'UNE FRAPPE PRÈS DE LA MANIFESTATION EN COURS À TÉHÉRAN (IRAN)",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:50",
-      "date": "13/03",
-      "timestamp": 1773399040
     }
   ],
   "france": {
