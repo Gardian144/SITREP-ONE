@@ -1,7 +1,47 @@
 {
-  "last_update": "14/03 19:57",
+  "last_update": "14/03 20:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773520977",
+      "source": "BFMTV",
+      "text": "IRAN: LES GARDIENS DE LA RÉVOLUTION AFFIRMENT AVOIR VISÉ UNE BASE AMÉRICAINE EN ARABIE SAOUDITE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:42",
+      "date": "14/03",
+      "timestamp": 1773520977
+    },
+    {
+      "id": "BFMTV_1773520599",
+      "source": "BFMTV",
+      "text": "AU LIBAN, LE HEZBOLLAH AFFIRME ÊTRE ENGAGÉ DANS DES COMBATS \"DIRECTS\" AVEC L'ARMÉE ISRAÉLIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:36",
+      "date": "14/03",
+      "timestamp": 1773520599
+    },
+    {
+      "id": "BFMTV_1773520533",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP EXHORTE D'AUTRES PAYS À ENVOYER DES NAVIRES POUR SÉCURISER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:35",
+      "date": "14/03",
+      "timestamp": 1773520533
+    },
+    {
+      "id": "BFMTV_1773518272",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP APPELLE LE MONDE À \"SÉCURISER\" LE DÉTROIT D'ORMUZ: \"IL Y A UN TEL CULOT DANS CETTE DÉCLARATION\", DÉCLARE BERNARD GUETTA, DÉPUTÉ EUROPÉEN (RENEW)",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:57",
+      "date": "14/03",
+      "timestamp": 1773518272
+    },
     {
       "id": "BFMTV_1773517971",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "04:51",
       "date": "14/03",
       "timestamp": 1773463864
-    },
-    {
-      "id": "BFMTV_1773443907",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE \"A MENÉ L'UN DES RAIDS AÉRIENS LES PLUS PUISSANTS DE L'HISTOIRE DU MOYEN-ORIENT\" SUR L'ÎLE DE KHARG EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "23:18",
-      "date": "13/03",
-      "timestamp": 1773443907
-    },
-    {
-      "id": "BFMTV_1773443114",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE QUE L'ARMÉE AMÉRICAINE \"A MENÉ L'UN DES RAIDS AÉRIENS LES PLUS PUISSANTS DE L'HISTOIRE DU MOYEN-ORIENT\" SUR L'ÎLE DE KHARG EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "23:05",
-      "date": "13/03",
-      "timestamp": 1773443114
-    },
-    {
-      "id": "BFMTV_1773443063",
-      "source": "BFMTV",
-      "text": "\"POUTINE A ÉTÉ L'UN DES PREMIERS BÉNÉFICIAIRES DE LA GUERRE\": DES ÉLUS AMÉRICAINS CRITIQUENT LA LEVÉE PARTIELLE DE SANCTIONS SUR LE PÉTROLE RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "23:04",
-      "date": "13/03",
-      "timestamp": 1773443063
-    },
-    {
-      "id": "BFMTV_1773442913",
-      "source": "BFMTV",
-      "text": " PLUSIEURS ATTAQUES DE MISSILES IRANIENS FONT DES DÉGÂTS EN ISRAËL ",
-      "urgent": true,
-      "france_related": false,
-      "time": "23:01",
-      "date": "13/03",
-      "timestamp": 1773442913
     }
   ],
   "france": {
