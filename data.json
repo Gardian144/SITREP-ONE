@@ -1,7 +1,57 @@
 {
-  "last_update": "14/03 10:58",
+  "last_update": "14/03 11:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773487947",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"TOUTES LES NUITS, LES BOMBES PLEUVENT. NOUS SOMMES TRÈS EFFRAYÉS\", TÉMOIGNE CET IRANIEN, QUI TENTE DE FUIR À LA FRONTIÈRE TURQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:32",
+      "date": "14/03",
+      "timestamp": 1773487947
+    },
+    {
+      "id": "BFMTV_1773486982",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL AFFIRME QUE LE CONFLIT ENTRE DANS \"SA PHASE DÉCISIVE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:16",
+      "date": "14/03",
+      "timestamp": 1773486982
+    },
+    {
+      "id": "BFMTV_1773486872",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LA CRAINTE MAJEURE DU RÉGIME IRANIEN EST SA SURVIE\", DÉCLARE MAHAN TARAJ, JURISTE ET FONDATRICE DU PODCAST IRAN DÉCRYPTÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:14",
+      "date": "14/03",
+      "timestamp": 1773486872
+    },
+    {
+      "id": "BFMTV_1773486426",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L'ÎLE IRANIENNE DE KHARG EST STRATÉGIQUE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:07",
+      "date": "14/03",
+      "timestamp": 1773486426
+    },
+    {
+      "id": "OPEX360_1773486012",
+      "source": "OPEX360",
+      "text": "POUR LA PREMIÈRE FOIS, LE PORTE-AVIONS CHARLES DE GAULLE A MIS EN ŒUVRE TROIS AVIONS DE GUET AÉRIEN E-2C HAWKEYE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:00",
+      "date": "14/03",
+      "timestamp": 1773486012
+    },
     {
       "id": "BFMTV_1773485383",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "16:02",
       "date": "13/03",
       "timestamp": 1773417749
-    },
-    {
-      "id": "BFMTV_1773417731",
-      "source": "BFMTV",
-      "text": "QUI EST ESMAÏL QAANI, CE DIRIGEANT IRANIEN SOUPÇONNÉ D'ÊTRE UN AGENT DU MOSSAD ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:02",
-      "date": "13/03",
-      "timestamp": 1773417731
-    },
-    {
-      "id": "BFMTV_1773417526",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: POURQUOI MARCO RUBIO PORTE-T-IL DES CHAUSSURES BEAUCOUP TROP GRANDES? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:58",
-      "date": "13/03",
-      "timestamp": 1773417526
-    },
-    {
-      "id": "BFMTV_1773416966",
-      "source": "BFMTV",
-      "text": "LIBAN: DES TRACTS DE PROPAGANDE LARGUÉS AU-DESSUS DE BEYROUTH PAR L'ARMÉE ISRAÉLIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:49",
-      "date": "13/03",
-      "timestamp": 1773416966
-    },
-    {
-      "id": "BFMTV_1773416706",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: QUEL EST LE GROUPE ARMÉ ASHAB AL-KAHF, QUI A ANNONCÉ PRENDRE POUR CIBLE \"TOUS LES INTÉRÊTS FRANÇAIS EN IRAK ET DANS LA RÉGION\" ",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:45",
-      "date": "13/03",
-      "timestamp": 1773416706
-    },
-    {
-      "id": "BFMTV_1773416646",
-      "source": "BFMTV",
-      "text": "L'ANCIEN PRÉSIDENT BRÉSILIEN INCARCÉRÉ JAIR BOLSONARO PLACÉ EN SOINS INTENSIFS POUR UNE BRONCHOPNEUMONIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:44",
-      "date": "13/03",
-      "timestamp": 1773416646
     }
   ],
   "france": {
