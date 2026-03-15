@@ -1,7 +1,27 @@
 {
-  "last_update": "15/03 19:42",
+  "last_update": "15/03 20:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773606040",
+      "source": "BFMTV",
+      "text": "GAZA: ISRAËL ANNONCE UNE RÉOUVERTURE PARTIELLE DU POINT DE PASSAGE DE RAFAH À PARTIR DE MERCREDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:20",
+      "date": "15/03",
+      "timestamp": 1773606040
+    },
+    {
+      "id": "BFMTV_1773606040",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:20",
+      "date": "15/03",
+      "timestamp": 1773606040
+    },
     {
       "id": "BFMTV_1773601475",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "16:26",
       "date": "14/03",
       "timestamp": 1773505611
-    },
-    {
-      "id": "BFMTV_1773504760",
-      "source": "BFMTV",
-      "text": "INFO BFMTV. LE CORPS DE L’ADJUDANT-CHEF ARNAUD FRION, TUÉ JEUDI EN IRAK, EST ARRIVÉ EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:12",
-      "date": "14/03",
-      "timestamp": 1773504760
-    },
-    {
-      "id": "BFMTV_1773504629",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES DRONES CAUSENT DES DÉGÂTS PRÈS D'UN SITE MILITAIRE AMÉRICAIN AU KOWEÏT, SELON LE MINISTÈRE DE LA DÉFENSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:10",
-      "date": "14/03",
-      "timestamp": 1773504629
     }
   ],
   "france": {
