@@ -1,7 +1,67 @@
 {
-  "last_update": "15/03 11:53",
+  "last_update": "15/03 14:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773582904",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL PRÉVOIT ENCORE AU MOINS TROIS SEMAINES DE COMBAT",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:55",
+      "date": "15/03",
+      "timestamp": 1773582904
+    },
+    {
+      "id": "BFMTV_1773582558",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'EXERCICE DE COMMUNICATION DU HEZBOLLAH DANS UNE ÉCOLE DE BEYROUTH OÙ SONT ACCUEILLIS DES RÉFUGIÉS DU SUD-LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:49",
+      "date": "15/03",
+      "timestamp": 1773582558
+    },
+    {
+      "id": "BFMTV_1773580159",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"L'IRAN N'EST PAS SURPRIS PAR CETTE ATTAQUE DES ÉTATS-UNIS. ILS LE SAVENT DEPUIS LONGTEMPS QUE ÇA CONTINUERA COMME ÇA\", DÉCLARE LE VICE-AMIRAL MICHEL OLHAGARAY",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:09",
+      "date": "15/03",
+      "timestamp": 1773580159
+    },
+    {
+      "id": "BFMTV_1773579612",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES D'UNE NOUVELLE FRAPPE SUR TEL-AVIV, EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:00",
+      "date": "15/03",
+      "timestamp": 1773579612
+    },
+    {
+      "id": "OPEX360_1773577342",
+      "source": "OPEX360",
+      "text": "DEVANT ÊTRE DÉSARMÉ EN 2026, LE PORTE-AVIONS AMÉRICAIN USS NIMITZ VA JOUER LES PROLONGATIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:22",
+      "date": "15/03",
+      "timestamp": 1773577342
+    },
+    {
+      "id": "OPEX360_1773576852",
+      "source": "OPEX360",
+      "text": "LE CHAR LECLERC DEVRAIT BIENTÔT ÊTRE ÉQUIPÉ D’UN SYSTÈME DE PROTECTION ACTIVE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:14",
+      "date": "15/03",
+      "timestamp": 1773576852
+    },
     {
       "id": "BFMTV_1773573278",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "14:21",
       "date": "14/03",
       "timestamp": 1773498072
-    },
-    {
-      "id": "BFMTV_1773497640",
-      "source": "BFMTV",
-      "text": "COCAÏNE PRÉSENTE DANS TOUT LE PAYS, KÉTAMINE EN PLEINE EXPANSION: EN BELGIQUE, UNE ANALYSE DES EAUX USÉES MONTRE L’AMPLEUR DE LA CONSOMMATION DE DROGUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:14",
-      "date": "14/03",
-      "timestamp": 1773497640
-    },
-    {
-      "id": "BFMTV_1773497389",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DES DERNIÈRES FRAPPES IRANIENNES À EILAT, EN ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:09",
-      "date": "14/03",
-      "timestamp": 1773497389
-    },
-    {
-      "id": "BFMTV_1773496558",
-      "source": "BFMTV",
-      "text": "LES ASSAILLANTS ONT FAIT USAGE D'ARMES À FEU, D'ARMES BLANCHES ET DE PIERRES: CINQ PALESTINIENS BLESSÉS PAR DES COLONS ISRAÉLIENS EN CISJORDANIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:55",
-      "date": "14/03",
-      "timestamp": 1773496558
-    },
-    {
-      "id": "BFMTV_1773495953",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS EXPLOSIONS ONT RETENTI À JÉRUSALEM APRÈS QUE L'ARMÉE A DÉTECTÉ DES MISSILES VENUS D'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:45",
-      "date": "14/03",
-      "timestamp": 1773495953
-    },
-    {
-      "id": "BFMTV_1773495484",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES SIX SOLDATS BLESSÉS PAR UNE \"ATTAQUE DE DRONES\" AU KURDISTAN RAPATRIÉS EN FRANCE",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:38",
-      "date": "14/03",
-      "timestamp": 1773495484
-    },
-    {
-      "id": "BFMTV_1773494930",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES FRAPPES ISRAÉLIENNES ONT TUÉ 26 PERSONNELS MÉDICAUX DEPUIS LE DÉBUT DU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:28",
-      "date": "14/03",
-      "timestamp": 1773494930
     }
   ],
   "france": {
