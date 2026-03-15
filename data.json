@@ -1,7 +1,27 @@
 {
-  "last_update": "15/03 15:01",
+  "last_update": "15/03 15:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773589240",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU RÉPOND AUX RUMEURS SUR SA MORT DANS UNE VIDÉO",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:40",
+      "date": "15/03",
+      "timestamp": 1773589240
+    },
+    {
+      "id": "BFMTV_1773587858",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU RÉPOND AUX RUMEURS SUR SA MORT AVEC UNE VIDÉO",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:17",
+      "date": "15/03",
+      "timestamp": 1773587858
+    },
     {
       "id": "BFMTV_1773585283",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "14:47",
       "date": "14/03",
       "timestamp": 1773499661
-    },
-    {
-      "id": "BFMTV_1773499661",
-      "source": "BFMTV",
-      "text": " INFO BFMTV. LES SIX SOLDATS FRANÇAIS BLESSÉS EN IRAK ONT ÉTÉ RAPATRIÉS",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:47",
-      "date": "14/03",
-      "timestamp": 1773499661
-    },
-    {
-      "id": "BFMTV_1773499452",
-      "source": "BFMTV",
-      "text": "INFO BFMTV. GUERRE AU MOYEN-ORIENT: LES SIX MILITAIRES FRANÇAIS BLESSÉS EN IRAK ONT ÉTÉ RAPATRIÉS EN FRANCE",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:44",
-      "date": "14/03",
-      "timestamp": 1773499452
     }
   ],
   "france": {
