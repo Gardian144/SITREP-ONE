@@ -1,7 +1,177 @@
 {
-  "last_update": "16/03 15:48",
+  "last_update": "16/03 19:37",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773689413",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: DONALD TRUMP \"NE SAIT PAS\" SI LE NOUVEAU GUIDE SUPRÊME EST EN VIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:30",
+      "date": "16/03",
+      "timestamp": 1773689413
+    },
+    {
+      "id": "BFMTV_1773689082",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE FRAPPE SUR LE SIÈGE DE LA POLICE À HAMADAN, DANS L'OUEST DE L'IRAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:24",
+      "date": "16/03",
+      "timestamp": 1773689082
+    },
+    {
+      "id": "BFMTV_1773687364",
+      "source": "BFMTV",
+      "text": "IRAN: DONALD TRUMP AFFIRME QUE LES IMAGES DU RASSEMBLEMENT PRO-KHAMENEI ONT ÉTÉ GÉNÉRÉES PAR IA ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:56",
+      "date": "16/03",
+      "timestamp": 1773687364
+    },
+    {
+      "id": "BFMTV_1773687287",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POUR DONALD TRUMP, ISRAËL N'UTILISERA \"JAMAIS\" D'ARME NUCLÉAIRE CONTRE QUI QUE CE SOIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:54",
+      "date": "16/03",
+      "timestamp": 1773687287
+    },
+    {
+      "id": "OPEX360_1773685804",
+      "source": "OPEX360",
+      "text": "THALES VA ÉQUIPER LES FUTURS AVIONS D’ENTRAÎNEMENT PC-7 FRANÇAIS AVEC UN NOUVEAU SYSTÈME DE GESTION RADIO",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:30",
+      "date": "16/03",
+      "timestamp": 1773685804
+    },
+    {
+      "id": "BFMTV_1773685298",
+      "source": "BFMTV",
+      "text": "\"C'EST LA FRANCE, NOUS N'ATTENDONS PAS LA PERFECTION\": DONALD TRUMP DONNE UNE NOTE DE \"8/10\" À EMMANUEL MACRON SUR LA COALITION VISANT À ROUVRIR LE DÉTROIT D’ORMUZ",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:21",
+      "date": "16/03",
+      "timestamp": 1773685298
+    },
+    {
+      "id": "BFMTV_1773684596",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN HOMME ÂGÉ DE 100 ANS DEVIENT LE PLUS VIEUX DONNEUR D'ORGANE DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:09",
+      "date": "16/03",
+      "timestamp": 1773684596
+    },
+    {
+      "id": "BFMTV_1773682682",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DIT NE PAS SAVOIR SI LE NOUVEAU GUIDE SUPRÊME IRANIEN EST EN VIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:38",
+      "date": "16/03",
+      "timestamp": 1773682682
+    },
+    {
+      "id": "BFMTV_1773682213",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME AVOIR \"PRÉDIT\" QU'OUSSAMA BEN LADEN \"DÉTRUIRAIT LE WORLD TRADE CENTER\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:30",
+      "date": "16/03",
+      "timestamp": 1773682213
+    },
+    {
+      "id": "OPEX360_1773682149",
+      "source": "OPEX360",
+      "text": "LA FORCE AÉRIENNE D’AUTODÉFENSE JAPONAISE A DÉVOILÉ L’EC-2 SOJ, SON NOUVEL AVION DE GUERRE ÉLECTRONIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:29",
+      "date": "16/03",
+      "timestamp": 1773682149
+    },
+    {
+      "id": "BFMTV_1773681488",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DIT PENSER QUE LE ROYAUME-UNI SERA IMPLIQUÉ DANS LA DÉFENSE DU DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:18",
+      "date": "16/03",
+      "timestamp": 1773681488
+    },
+    {
+      "id": "BFMTV_1773681391",
+      "source": "BFMTV",
+      "text": "\"C'EST LA FRANCE, NOUS N'ATTENDONS PAS LA PERFECTION\": DONALD TRUMP DIT AVOIR ÉCHANGÉ AVEC EMMANUEL MACRON À PROPOS DE LA RÉOUVERTURE DU DÉTROIT D’ORMUZ",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:16",
+      "date": "16/03",
+      "timestamp": 1773681391
+    },
+    {
+      "id": "BFMTV_1773678699",
+      "source": "BFMTV",
+      "text": "LA PRISE DE PAROLE DE DONALD TRUMP AU 17E JOUR DE GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:31",
+      "date": "16/03",
+      "timestamp": 1773678699
+    },
+    {
+      "id": "BFMTV_1773678567",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"NOUS INVITONS LES AUTRES NATIONS À S'IMPLIQUER AVEC NOUS\", AFFIRME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:29",
+      "date": "16/03",
+      "timestamp": 1773678567
+    },
+    {
+      "id": "BFMTV_1773678288",
+      "source": "BFMTV",
+      "text": "\"IL EST IMPORTANT DE POUVOIR OUVRIR À NOUVEAU LE TRAFIC DANS LE DÉTROIT D'ORMUZ\", SOULIGNE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:24",
+      "date": "16/03",
+      "timestamp": 1773678288
+    },
+    {
+      "id": "BFMTV_1773678240",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"CE QUI EST IMPORTANT, C'EST DE DÉTRUIRE LEUR CAPACITÉ DE MENACE\", DÉCLARE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:24",
+      "date": "16/03",
+      "timestamp": 1773678240
+    },
+    {
+      "id": "OPEX360_1773676412",
+      "source": "OPEX360",
+      "text": "L’US ARMY NOTIFIE À ANDURIL UN CONTRAT DE 20 MILLIARDS DE DOLLARS POUR INTÉGRER DE L’IA SUR LE CHAMP DE BATAILLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:53",
+      "date": "16/03",
+      "timestamp": 1773676412
+    },
     {
       "id": "BFMTV_1773675982",
       "source": "BFMTV",
@@ -831,176 +1001,6 @@
       "time": "06:41",
       "date": "15/03",
       "timestamp": 1773556905
-    },
-    {
-      "id": "BFMTV_1773556742",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES AFFRONTEMENTS TERRESTRES ENTRE LE HEZBOLLAH ET TSAHAL DANS TROIS LOCALITÉS DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:39",
-      "date": "15/03",
-      "timestamp": 1773556742
-    },
-    {
-      "id": "BFMTV_1773556425",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES MÉDIAS AMÉRICAINS MENACÉS PAR LE RÉGULATEUR EN CAS DE COUVERTURE \"DÉFORMÉE\" DU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:33",
-      "date": "15/03",
-      "timestamp": 1773556425
-    },
-    {
-      "id": "BFMTV_1773554905",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS POURRAIENT MENER DE NOUVELLES FRAPPES SUR L'ÎLE DE KHARG \"POUR LE PLAISIR\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:08",
-      "date": "15/03",
-      "timestamp": 1773554905
-    },
-    {
-      "id": "BFMTV_1773553516",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION IRANIENS JURENT DE \"TRAQUER ET TUER\" BENJAMIN NETANYAHU",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:45",
-      "date": "15/03",
-      "timestamp": 1773553516
-    },
-    {
-      "id": "BFMTV_1773553278",
-      "source": "BFMTV",
-      "text": "\"ON A DÛ QUITTER NOTRE MAISON À CAUSE DES BOMBES\": UN CENTRE D'ACCUEIL POUR RÉFUGIÉS OUVERT DANS UN STADE À BEYROUTH",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:41",
-      "date": "15/03",
-      "timestamp": 1773553278
-    },
-    {
-      "id": "BFMTV_1773553021",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION JURENT DE \"TRAQUER ET TUER\" BENJAMIN NETANYAHU",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:37",
-      "date": "15/03",
-      "timestamp": 1773553021
-    },
-    {
-      "id": "BFMTV_1773552790",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MET LA PRESSION SUR SES ALLIÉS POUR SÉCURISER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:33",
-      "date": "15/03",
-      "timestamp": 1773552790
-    },
-    {
-      "id": "BFMTV_1773551910",
-      "source": "BFMTV",
-      "text": "IRAK: LES INSTALLATIONS MILITAIRES ET PÉTROLIÈRES AMÉRICAINES QUOTIDIENNEMENT VISÉES PAR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:18",
-      "date": "15/03",
-      "timestamp": 1773551910
-    },
-    {
-      "id": "BFMTV_1773551759",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN APPELLE LES FORCES AMÉRICAINES À QUITTER LA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:15",
-      "date": "15/03",
-      "timestamp": 1773551759
-    },
-    {
-      "id": "BFMTV_1773551674",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION JURENT DE \"TRAQUER ET TUER\" BENJAMIN NETANYAHU",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:14",
-      "date": "15/03",
-      "timestamp": 1773551674
-    },
-    {
-      "id": "BFMTV_1773551574",
-      "source": "BFMTV",
-      "text": "\"QUAND JE SUIS CHEZ MOI, JE TREMBLE DE PEUR\": À HAÏFA, EN ISRAËL, LES HABITANTS VIVENT DANS LES ABRIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:12",
-      "date": "15/03",
-      "timestamp": 1773551574
-    },
-    {
-      "id": "BFMTV_1773551446",
-      "source": "BFMTV",
-      "text": "LIBAN: ISRAËL ACCENTUE SA PRESSION SUR LE SUD DU PAYS ET SUR LE HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:10",
-      "date": "15/03",
-      "timestamp": 1773551446
-    },
-    {
-      "id": "BFMTV_1773551288",
-      "source": "BFMTV",
-      "text": "LIBAN: LES FORCES ISRAÉLIENNES ONT MENÉ UNE INCURSION TERRESTRE DANS LE SUD DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:08",
-      "date": "15/03",
-      "timestamp": 1773551288
-    },
-    {
-      "id": "BFMTV_1773551134",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE NUIT DE FRAPPES IRANIENNES SUR DES SITES MILITAIRES AMÉRICAINS DANS LES PAYS DU GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:05",
-      "date": "15/03",
-      "timestamp": 1773551134
-    },
-    {
-      "id": "BFMTV_1773528950",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP EXHORTE D'AUTRES PAYS À ENVOYER DES NAVIRES POUR SÉCURISER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:55",
-      "date": "14/03",
-      "timestamp": 1773528950
-    },
-    {
-      "id": "BFMTV_1773528633",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES GRANDS PRIX DE FORMULE 1 EN ARABIE SAOUDITE ET AU BAHREÏN ONT ÉTÉ ANNULÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:50",
-      "date": "14/03",
-      "timestamp": 1773528633
-    },
-    {
-      "id": "BFMTV_1773528094",
-      "source": "BFMTV",
-      "text": "DE PUISSANTES FRAPPES ONT ÉTÉ ENTENDUES À BEYROUTH AU LIBAN CE SAMEDI SOIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:41",
-      "date": "14/03",
-      "timestamp": 1773528094
     }
   ],
   "france": {
