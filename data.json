@@ -1,7 +1,27 @@
 {
-  "last_update": "16/03 21:55",
+  "last_update": "16/03 23:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773699017",
+      "source": "BFMTV",
+      "text": "\"IL EST TEMPS QUE NOUS AYONS L'OPPORTUNITÉ D'AVANCER AVEC LE LIBAN\", DÉCLARE LE PRÉSIDENT ISRAÉLIEN, ISAAC HERZOG",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:10",
+      "date": "16/03",
+      "timestamp": 1773699017
+    },
+    {
+      "id": "BFMTV_1773698814",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES DRONES ONT VISÉ L'AMBASSADE AMÉRICAINE EN IRAK",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:06",
+      "date": "16/03",
+      "timestamp": 1773698814
+    },
     {
       "id": "BFMTV_1773697670",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:39",
       "date": "15/03",
       "timestamp": 1773571159
-    },
-    {
-      "id": "BFMTV_1773569903",
-      "source": "BFMTV",
-      "text": "\"ON ENTEND BEAUCOUP DE DÉTONATIONS\": LE TÉMOIGNAGE D'UN HABITANT DU KIBBOUTZ DE SASA, SITUÉ À PROXIMITÉ DU LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:18",
-      "date": "15/03",
-      "timestamp": 1773569903
-    },
-    {
-      "id": "BFMTV_1773569197",
-      "source": "BFMTV",
-      "text": "UN COUPLE ET SES DEUX ENFANTS DE 5 ET 7 ANS TUÉS EN CISJORDANIE PAR LES FORCES DE SÉCURITÉ ISRAÉLIENNES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:06",
-      "date": "15/03",
-      "timestamp": 1773569197
     }
   ],
   "france": {
