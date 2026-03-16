@@ -1,7 +1,77 @@
 {
-  "last_update": "16/03 12:03",
+  "last_update": "16/03 15:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773675982",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: DONALD TRUMP VA S'EXPRIMER LORS D'UNE CONFÉRENCE DE PRESSE CE LUNDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:46",
+      "date": "16/03",
+      "timestamp": 1773675982
+    },
+    {
+      "id": "BFMTV_1773673763",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP EN APPELLE À SES ALLIÉS: \"JE PENSE QUE VOUS VERREZ CELA SE CONCRÉTISER\", ESTIME LA PORTE-PAROLE DE LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:09",
+      "date": "16/03",
+      "timestamp": 1773673763
+    },
+    {
+      "id": "BFMTV_1773673136",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:58",
+      "date": "16/03",
+      "timestamp": 1773673136
+    },
+    {
+      "id": "BFMTV_1773671248",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT : \"ÇA DEVRAIT ÊTRE UN EFFORT MONDIAL\", ESTIME L'AMBASSADEUR ISRAÉLIEN À L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:27",
+      "date": "16/03",
+      "timestamp": 1773671248
+    },
+    {
+      "id": "BFMTV_1773665339",
+      "source": "BFMTV",
+      "text": "LES FRANÇAIS NATALIE MUSTEATA ET ALEXANDRE SINGH DÉCROCHENT L'OSCAR DU MEILLEUR COURT MÉTRAGE DE FICTION",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:48",
+      "date": "16/03",
+      "timestamp": 1773665339
+    },
+    {
+      "id": "BFMTV_1773663963",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DES BOMBARDEMENTS INTENSES CES DERNIÈRES HEURES SUR TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:26",
+      "date": "16/03",
+      "timestamp": 1773663963
+    },
+    {
+      "id": "BFMTV_1773662751",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: POUR BERLIN, IL EST NÉCESSAIRE QUE LES ÉTATS‑UNIS ET ISRAËL PRÉCISENT À QUEL MOMENT ILS CONSIDÉRERONT LEURS OBJECTIFS MILITAIRES ATTEINTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:05",
+      "date": "16/03",
+      "timestamp": 1773662751
+    },
     {
       "id": "BFMTV_1773662467",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "22:41",
       "date": "14/03",
       "timestamp": 1773528094
-    },
-    {
-      "id": "BFMTV_1773527448",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS DIFFUSENT DE NOUVELLES IMAGES DES FRAPPES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:30",
-      "date": "14/03",
-      "timestamp": 1773527448
-    },
-    {
-      "id": "BFMTV_1773526792",
-      "source": "BFMTV",
-      "text": "AUX ÉTATS-UNIS, DONALD TRUMP INTENSIFIE SA CRITIQUE ENVERS LES MÉDIAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:19",
-      "date": "14/03",
-      "timestamp": 1773526792
-    },
-    {
-      "id": "BFMTV_1773525004",
-      "source": "BFMTV",
-      "text": "L'ANCIEN PRÉSIDENT BRÉSILIEN JAIR BOLSONARO TOUJOURS EN SOINS INTENSIFS POUR UNE PNEUMONIE BACTÉRIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:50",
-      "date": "14/03",
-      "timestamp": 1773525004
-    },
-    {
-      "id": "BFMTV_1773524865",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE INTENSIFIE SES OPÉRATIONS AU SUD DU LIBAN AVEC L'ENGAGEMENT DE LA 36E UNITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:47",
-      "date": "14/03",
-      "timestamp": 1773524865
-    },
-    {
-      "id": "BFMTV_1773524563",
-      "source": "BFMTV",
-      "text": "RAPATRIEMENT DU SOLDAT FRANÇAIS TUÉ ET DE SES SIX CAMARADES BLESSÉS, TRUMP HAUSSE LE TON SUR LE DÉTROIT D'ORMUZ... CE QU'IL FAUT RETENIR DE CETTE QUATORZIÈME JOURNÉE DE LA GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:42",
-      "date": "14/03",
-      "timestamp": 1773524563
-    },
-    {
-      "id": "BFMTV_1773524563",
-      "source": "BFMTV",
-      "text": "RAPATRIEMENT DU SOLDAT FRANÇAIS TUÉ ET DE SES SIX CAMARADES BLESSÉS, TRUMP HAUSSE LE TON SUR LE DÉTROIT D'ORMUZ... CE QU'IL FAUT RETENIR DE CETTE QUINZIÈME JOURNÉE DE LA GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:42",
-      "date": "14/03",
-      "timestamp": 1773524563
-    },
-    {
-      "id": "BFMTV_1773522942",
-      "source": "BFMTV",
-      "text": "SÉCURISER LE DÉTROIT D'ORMUZ: \"LA PREMIÈRE CHOSE, C'EST D'EN PARLER À OMAN ET À ABOU DHABI\", EXPLIQUE RICHARD WILMOT-ROUSSEL, ANCIEN COMMANDANT DU PORTE-AVIONS CHARLES-DE-GAULLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:15",
-      "date": "14/03",
-      "timestamp": 1773522942
     }
   ],
   "france": {
