@@ -1,7 +1,37 @@
 {
-  "last_update": "15/03 23:57",
+  "last_update": "16/03 06:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773640762",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: CE QUE L'ON SAIT SUR LE NOUVEAU MISSILE SEJIL DE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:59",
+      "date": "16/03",
+      "timestamp": 1773640762
+    },
+    {
+      "id": "BFMTV_1773640573",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL DIT AVOIR ENCORE DES \"MILLIERS DE CIBLES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:56",
+      "date": "16/03",
+      "timestamp": 1773640573
+    },
+    {
+      "id": "BFMTV_1773616192",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON DIT AU PRÉSIDENT IRANIEN QU'IL EST \"INADMISSIBLE\" QUE LA FRANCE SOIT \"CIBLÉE\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "23:09",
+      "date": "15/03",
+      "timestamp": 1773616192
+    },
     {
       "id": "BFMTV_1773613958",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "16:37",
       "date": "14/03",
       "timestamp": 1773506220
-    },
-    {
-      "id": "BFMTV_1773506070",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"SI LA MARINE AMÉRICAINE OSE S'APPROCHER DES CÔTES ET DU DÉTROIT D'ORMUZ, NOUS LUI MONTRERONS QUE NOTRE MARINE EST TOUJOURS DEBOUT\", ASSURE LE CHEF DES OPÉRATIONS NAVALES IRANIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:34",
-      "date": "14/03",
-      "timestamp": 1773506070
-    },
-    {
-      "id": "BFMTV_1773505903",
-      "source": "BFMTV",
-      "text": "EN DEUX SEMAINES, LES FRAPPES ISRAÉLIENNES ONT FAIT 826 MORTS AU LIBAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "16:31",
-      "date": "14/03",
-      "timestamp": 1773505903
-    },
-    {
-      "id": "BFMTV_1773505719",
-      "source": "BFMTV",
-      "text": "LE PHILOSOPHE ALLEMAND JÜRGEN HABERMAS EST MORT À L'ÂGE DE 96 ANS",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:28",
-      "date": "14/03",
-      "timestamp": 1773505719
     }
   ],
   "france": {
