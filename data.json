@@ -1,7 +1,147 @@
 {
-  "last_update": "16/03 06:06",
+  "last_update": "16/03 09:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773654086",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: DES NOUVELLES EXPLOSIONS ENTENDUES À TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:41",
+      "date": "16/03",
+      "timestamp": 1773654086
+    },
+    {
+      "id": "BFMTV_1773651880",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ANNONCE DES \"OPÉRATIONS TERRESTRES LIMITÉES\" CONTRE LE HEZBOLLAH AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:04",
+      "date": "16/03",
+      "timestamp": 1773651880
+    },
+    {
+      "id": "BFMTV_1773649983",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: UN CIVIL PALESTINIEN TUÉ À ABOU DHABI PAR UNE CHUTE DE MISSILE SUR SON VÉHICULE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:33",
+      "date": "16/03",
+      "timestamp": 1773649983
+    },
+    {
+      "id": "BFMTV_1773649793",
+      "source": "BFMTV",
+      "text": "ACCORDS UE/INDE: \"LA PLUS GROSSE ERREUR QU'ON PUISSE FAIRE C'EST DE POUSSER LES INDIENS DANS LES BRAS DES CHINOIS ET DES RUSSES\", AVERTIT XAVIER BETTEL, VICE-PREMIER MINISTRE DU LUXEMBOURG",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:29",
+      "date": "16/03",
+      "timestamp": 1773649793
+    },
+    {
+      "id": "BFMTV_1773649686",
+      "source": "BFMTV",
+      "text": "CHYPRE: \"LES CHOSES SONT REVENUES À LA NORMALE\", RASSURE MICHAEL DAMIANOS, MINISTRE DE L'ÉNERGIE DE CHYPRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:28",
+      "date": "16/03",
+      "timestamp": 1773649686
+    },
+    {
+      "id": "BFMTV_1773648659",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:10",
+      "date": "16/03",
+      "timestamp": 1773648659
+    },
+    {
+      "id": "BFMTV_1773648659",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DE RARES EXPLOSIONS ENTENDUES EN PLEINE JOURNÉE À KIEV APRÈS UNE ATTAQUE RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:10",
+      "date": "16/03",
+      "timestamp": 1773648659
+    },
+    {
+      "id": "BFMTV_1773648631",
+      "source": "BFMTV",
+      "text": "\"L'ASSOUPLISSEMENT DES SANCTIONS SUR LE PÉTROLE RUSSE PAR LES ÉTATS-UNIS\" EST \"UN PRÉCÉDENT DANGEREUX\", ALERTE KAJA KALLAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:10",
+      "date": "16/03",
+      "timestamp": 1773648631
+    },
+    {
+      "id": "BFMTV_1773648569",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'UE ALERTE SUR LA FERMETURE DU DÉTROIT D'ORMUZ ET \"UNE PRIVATION ALIMENTAIRE L'ANNÉE PROCHAINE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:09",
+      "date": "16/03",
+      "timestamp": 1773648569
+    },
+    {
+      "id": "BFMTV_1773648110",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE PRÉVOIT AU MOINS \"TROIS SEMAINES SUPPLÉMENTAIRES DE GUERRE\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "08:01",
+      "date": "16/03",
+      "timestamp": 1773648110
+    },
+    {
+      "id": "BFMTV_1773648099",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEUX FRAPPES IMPORTANTES ONT EU LIEU DANS LA BANLIEUE SUD DE BEYROUTH ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:01",
+      "date": "16/03",
+      "timestamp": 1773648099
+    },
+    {
+      "id": "BFMTV_1773643868",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE DÉCLARE AVOIR \"DES MILLIERS DE CIBLES À FRAPPER\" EN IRAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:51",
+      "date": "16/03",
+      "timestamp": 1773643868
+    },
+    {
+      "id": "BFMTV_1773643435",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL DIT AVOIR LANCÉ DES \"OPÉRATIONS TERRESTRES\" AU SUD LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:43",
+      "date": "16/03",
+      "timestamp": 1773643435
+    },
+    {
+      "id": "BFMTV_1773643186",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE DISCUTER AVEC L'IRAN QUI N'EST PAS ENCORE \"TOUT À FAIT PRÊT\" À UN ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:39",
+      "date": "16/03",
+      "timestamp": 1773643186
+    },
     {
       "id": "BFMTV_1773640762",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "18:30",
       "date": "14/03",
       "timestamp": 1773513039
-    },
-    {
-      "id": "BFMTV_1773513038",
-      "source": "BFMTV",
-      "text": "LE MINISTRE IRANIEN DES AFFAIRES ÉTRANGÈRES AFFIRME \"QU'IL N'Y A PAS DE PROBLÈME\" AVEC LE NOUVEAU GUIDE SUPRÊME MOJTABA KHAMENEI",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:30",
-      "date": "14/03",
-      "timestamp": 1773513038
-    },
-    {
-      "id": "BFMTV_1773512450",
-      "source": "BFMTV",
-      "text": "À HAÏFA EN ISRAËL, LES HABITANTS S'APPRÊTENT À PASSER LA NUIT DANS LES ABRIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:20",
-      "date": "14/03",
-      "timestamp": 1773512450
-    },
-    {
-      "id": "BFMTV_1773512104",
-      "source": "BFMTV",
-      "text": "L'IRAN APPELLE SES VOISINS À \"EXPULSER\" LES FORCES AMÉRICAINES DU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:15",
-      "date": "14/03",
-      "timestamp": 1773512104
-    },
-    {
-      "id": "BFMTV_1773511127",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DANS LE SUD DU LIBAN, LES COMBATS S'INTENSIFIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:58",
-      "date": "14/03",
-      "timestamp": 1773511127
-    },
-    {
-      "id": "BFMTV_1773510813",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UN MISSILE ISRAÉLO-AMÉRICAIN SUR UNE ZONE INDUSTRIELLE FAIT 15 MORTS À ISPAHAN, L'IRAN ANNONCE DE NOUVEAU FRAPPER ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:53",
-      "date": "14/03",
-      "timestamp": 1773510813
-    },
-    {
-      "id": "BFMTV_1773510792",
-      "source": "BFMTV",
-      "text": "15 PERSONNES SONT MORTES APRÈS UNE FRAPPE DE MISSILE SUR UNE ZONE INDUSTRIELLE D'ISPAHAN EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:53",
-      "date": "14/03",
-      "timestamp": 1773510792
-    },
-    {
-      "id": "BFMTV_1773510550",
-      "source": "BFMTV",
-      "text": "L'ÎLE DE KHARG: L'ÎLE IRANIENNE STRATÉGIQUE AU CŒUR DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:49",
-      "date": "14/03",
-      "timestamp": 1773510550
-    },
-    {
-      "id": "BFMTV_1773510260",
-      "source": "BFMTV",
-      "text": "FRONTIÈRE AVEC LA TURQUIE: COMMENT LES IRANIENS TENTENT DE FUIR LE PAYS ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:44",
-      "date": "14/03",
-      "timestamp": 1773510260
-    },
-    {
-      "id": "BFMTV_1773509792",
-      "source": "BFMTV",
-      "text": "TEMPÊTE, VORTEX POLAIRE, DÔME DE CHALEUR: DES PHÉNOMÈNES MÉTÉO EXTRÊMES TOUCHENT SIMULTANÉMENT LES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:36",
-      "date": "14/03",
-      "timestamp": 1773509792
-    },
-    {
-      "id": "BFMTV_1773509507",
-      "source": "BFMTV",
-      "text": "LE RÉGIME IRANIEN DÉVOILE UNE NOUVELLE VIDÉO DE PROPAGANDE APRÈS LES FRAPPES SUR L'ÎLE DE KHARG",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:31",
-      "date": "14/03",
-      "timestamp": 1773509507
-    },
-    {
-      "id": "BFMTV_1773509321",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS DÉPLOIENT 2.500 MARINES",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:28",
-      "date": "14/03",
-      "timestamp": 1773509321
-    },
-    {
-      "id": "BFMTV_1773508561",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE KURDISTAN IRAKIEN EST AU CŒUR D'UNE INTENSIFICATION DES BOMBARDEMENTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:16",
-      "date": "14/03",
-      "timestamp": 1773508561
-    },
-    {
-      "id": "BFMTV_1773507576",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: L’ARMÉE ISRAÉLIENNE FRAPPE LE PRINCIPAL CENTRE DE RECHERCHE DE L’AGENCE SPATIALE IRANIENNE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:59",
-      "date": "14/03",
-      "timestamp": 1773507576
-    },
-    {
-      "id": "BFMTV_1773506220",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA DÉPOUILLE DE L’ADJUDANT-CHEF ARNAUD FRION, TUÉ EN IRAK, EST ARRIVÉE EN FRANCE (INFO BFMTV)",
-      "urgent": true,
-      "france_related": true,
-      "time": "16:37",
-      "date": "14/03",
-      "timestamp": 1773506220
     }
   ],
   "france": {
