@@ -1,7 +1,137 @@
 {
-  "last_update": "17/03 20:03",
+  "last_update": "17/03 22:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773783529",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ATTAQUES IRANIENNES SE POURSUIVENT AU QATAR",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:38",
+      "date": "17/03",
+      "timestamp": 1773783529
+    },
+    {
+      "id": "BFMTV_1773783172",
+      "source": "BFMTV",
+      "text": "DANS UN VILLAGE CHRÉTIEN DU SUD DU LIBAN, À PROXIMITÉ DE LA FRONTIÈRE ISRAÉLIENNE, LA GUERRE FAIT RAGE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:32",
+      "date": "17/03",
+      "timestamp": 1773783172
+    },
+    {
+      "id": "BFMTV_1773782947",
+      "source": "BFMTV",
+      "text": "UN PROJECTILE AURAIT TOUCHÉ LA CENTRALE NUCLÉAIRE IRANIENNE DE BUSHEHR, SELON L'AGENCE DE PRESSE TASNIM",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:29",
+      "date": "17/03",
+      "timestamp": 1773782947
+    },
+    {
+      "id": "BFMTV_1773782365",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN CONFIRME LA MORT D'ALI LARIJANI SON CHEF DE LA SÉCURITÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:19",
+      "date": "17/03",
+      "timestamp": 1773782365
+    },
+    {
+      "id": "BFMTV_1773782216",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN CONFIRME LA MORT DE SON CHEF DE LA SÉCURITÉ, ALI LARIJANI",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:16",
+      "date": "17/03",
+      "timestamp": 1773782216
+    },
+    {
+      "id": "BFMTV_1773782207",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉQUIPES DE BFMTV ONT PU ACCÉDER À UNE BASE MILITAIRE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:16",
+      "date": "17/03",
+      "timestamp": 1773782207
+    },
+    {
+      "id": "BFMTV_1773781415",
+      "source": "BFMTV",
+      "text": "BARACK OBAMA",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:03",
+      "date": "17/03",
+      "timestamp": 1773781415
+    },
+    {
+      "id": "BFMTV_1773781414",
+      "source": "BFMTV",
+      "text": "LE SURVIVANT DE LA BOMBE ATOMIQUE D'HIROSHIMA, QUE BARACK OBAMA AVAIT PRIS DANS SES BRAS, EST MORT À 88 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:03",
+      "date": "17/03",
+      "timestamp": 1773781414
+    },
+    {
+      "id": "BFMTV_1773780200",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"DONALD TRUMP EST EN TRAIN D'ÉPUISER SON APPAREIL MILITAIRE\", OBSERVE MICHEL OLHAGARAY, ANCIEN DIRECTEUR DU CENTRE DES HAUTES ÉTUDES MILITAIRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:43",
+      "date": "17/03",
+      "timestamp": 1773780200
+    },
+    {
+      "id": "BFMTV_1773779926",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL SE PRÉPARE À DES FRAPPES INTENSES CE SOIR",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:38",
+      "date": "17/03",
+      "timestamp": 1773779926
+    },
+    {
+      "id": "BFMTV_1773779778",
+      "source": "BFMTV",
+      "text": "LES INTÉRÊTS AMÉRICAINS À BAGDAD ET AU KURDISTAN IRAKIEN SONT RÉGULIÈREMENT CIBLÉS PAR DES FRAPPES DE DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:36",
+      "date": "17/03",
+      "timestamp": 1773779778
+    },
+    {
+      "id": "BFMTV_1773779727",
+      "source": "BFMTV",
+      "text": "\"ILS SERONT ACCUEILLIS À BRAS OUVERTS\": JEAN-NOËL BARROT PLAIDE EN FAVEUR D'UNE UNION DOUANIÈRE ENTRE L'UE ET LE ROYAUME-UNI",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:35",
+      "date": "17/03",
+      "timestamp": 1773779727
+    },
+    {
+      "id": "BFMTV_1773779580",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP SUBIT UN REVERS DIPLOMATIQUE APRÈS LE REFUS DE PLUSIEURS PAYS DE SÉCURISER LE DÉTROIT D’ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:33",
+      "date": "17/03",
+      "timestamp": 1773779580
+    },
     {
       "id": "BFMTV_1773777068",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "18:30",
       "date": "16/03",
       "timestamp": 1773685804
-    },
-    {
-      "id": "BFMTV_1773685298",
-      "source": "BFMTV",
-      "text": "\"C'EST LA FRANCE, NOUS N'ATTENDONS PAS LA PERFECTION\": DONALD TRUMP DONNE UNE NOTE DE \"8/10\" À EMMANUEL MACRON SUR LA COALITION VISANT À ROUVRIR LE DÉTROIT D’ORMUZ",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:21",
-      "date": "16/03",
-      "timestamp": 1773685298
-    },
-    {
-      "id": "BFMTV_1773684596",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN HOMME ÂGÉ DE 100 ANS DEVIENT LE PLUS VIEUX DONNEUR D'ORGANE DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:09",
-      "date": "16/03",
-      "timestamp": 1773684596
-    },
-    {
-      "id": "BFMTV_1773682682",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DIT NE PAS SAVOIR SI LE NOUVEAU GUIDE SUPRÊME IRANIEN EST EN VIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:38",
-      "date": "16/03",
-      "timestamp": 1773682682
-    },
-    {
-      "id": "BFMTV_1773682213",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME AVOIR \"PRÉDIT\" QU'OUSSAMA BEN LADEN \"DÉTRUIRAIT LE WORLD TRADE CENTER\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:30",
-      "date": "16/03",
-      "timestamp": 1773682213
-    },
-    {
-      "id": "OPEX360_1773682149",
-      "source": "OPEX360",
-      "text": "LA FORCE AÉRIENNE D’AUTODÉFENSE JAPONAISE A DÉVOILÉ L’EC-2 SOJ, SON NOUVEL AVION DE GUERRE ÉLECTRONIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:29",
-      "date": "16/03",
-      "timestamp": 1773682149
-    },
-    {
-      "id": "BFMTV_1773681488",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DIT PENSER QUE LE ROYAUME-UNI SERA IMPLIQUÉ DANS LA DÉFENSE DU DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:18",
-      "date": "16/03",
-      "timestamp": 1773681488
-    },
-    {
-      "id": "BFMTV_1773681391",
-      "source": "BFMTV",
-      "text": "\"C'EST LA FRANCE, NOUS N'ATTENDONS PAS LA PERFECTION\": DONALD TRUMP DIT AVOIR ÉCHANGÉ AVEC EMMANUEL MACRON À PROPOS DE LA RÉOUVERTURE DU DÉTROIT D’ORMUZ",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:16",
-      "date": "16/03",
-      "timestamp": 1773681391
-    },
-    {
-      "id": "BFMTV_1773678699",
-      "source": "BFMTV",
-      "text": "LA PRISE DE PAROLE DE DONALD TRUMP AU 17E JOUR DE GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:31",
-      "date": "16/03",
-      "timestamp": 1773678699
-    },
-    {
-      "id": "BFMTV_1773678567",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"NOUS INVITONS LES AUTRES NATIONS À S'IMPLIQUER AVEC NOUS\", AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:29",
-      "date": "16/03",
-      "timestamp": 1773678567
-    },
-    {
-      "id": "BFMTV_1773678288",
-      "source": "BFMTV",
-      "text": "\"IL EST IMPORTANT DE POUVOIR OUVRIR À NOUVEAU LE TRAFIC DANS LE DÉTROIT D'ORMUZ\", SOULIGNE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:24",
-      "date": "16/03",
-      "timestamp": 1773678288
-    },
-    {
-      "id": "BFMTV_1773678240",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"CE QUI EST IMPORTANT, C'EST DE DÉTRUIRE LEUR CAPACITÉ DE MENACE\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:24",
-      "date": "16/03",
-      "timestamp": 1773678240
-    },
-    {
-      "id": "OPEX360_1773676412",
-      "source": "OPEX360",
-      "text": "L’US ARMY NOTIFIE À ANDURIL UN CONTRAT DE 20 MILLIARDS DE DOLLARS POUR INTÉGRER DE L’IA SUR LE CHAMP DE BATAILLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:53",
-      "date": "16/03",
-      "timestamp": 1773676412
-    },
-    {
-      "id": "BFMTV_1773675982",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: DONALD TRUMP VA S'EXPRIMER LORS D'UNE CONFÉRENCE DE PRESSE CE LUNDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:46",
-      "date": "16/03",
-      "timestamp": 1773675982
     }
   ],
   "france": {
