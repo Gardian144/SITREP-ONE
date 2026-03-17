@@ -1,7 +1,147 @@
 {
-  "last_update": "17/03 05:15",
+  "last_update": "17/03 08:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773733358",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: NOUVELLES ATTAQUES CONTRE L'AMBASSADE AMÉRICAINE EN IRAK, VISÉE PAR DES DRONES ET DES ROQUETTES",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:42",
+      "date": "17/03",
+      "timestamp": 1773733358
+    },
+    {
+      "id": "BFMTV_1773733344",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION ONT ANNONCÉ AVOIR ARRÊTÉ DIX \"ESPIONS ÉTRANGERS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:42",
+      "date": "17/03",
+      "timestamp": 1773733344
+    },
+    {
+      "id": "BFMTV_1773732420",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: LES GARDIENS DE LA RÉVOLUTION ANNONCENT L'ARRESTATION DE DIX \"ESPIONS ÉTRANGERS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:27",
+      "date": "17/03",
+      "timestamp": 1773732420
+    },
+    {
+      "id": "BFMTV_1773731325",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ATTAQUES EN SÉRIE EN IRAK, L'AMBASSADE AMÉRICAINE À BAGDAD VISÉE DEUX FOIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:08",
+      "date": "17/03",
+      "timestamp": 1773731325
+    },
+    {
+      "id": "BFMTV_1773730822",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES DÉBRIS DE MISSILES SONT TOMBÉS SUR DES LIEUX SAINTS À JÉRUSALEM, SELON LA POLICE ISRAÉLIENNE  ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:00",
+      "date": "17/03",
+      "timestamp": 1773730822
+    },
+    {
+      "id": "BFMTV_1773730541",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: À LA LISIÈRE DU LIBAN, CES ISRAÉLIENS REFUSENT DE LAISSER LA GUERRE ARRÊTER LEUR VIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:55",
+      "date": "17/03",
+      "timestamp": 1773730541
+    },
+    {
+      "id": "BFMTV_1773728686",
+      "source": "BFMTV",
+      "text": "ATTENTAT À BONDI BEACH, EN AUSTRALIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:24",
+      "date": "17/03",
+      "timestamp": 1773728686
+    },
+    {
+      "id": "BFMTV_1773728685",
+      "source": "BFMTV",
+      "text": "ATTENTAT À BONDI BEACH EN AUSTRALIE: LA MÈRE DE L'ASSAILLANT VISÉE PAR DES MENACES DE MORT",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:24",
+      "date": "17/03",
+      "timestamp": 1773728685
+    },
+    {
+      "id": "BFMTV_1773728672",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA VILLE LIBANAISE DE TYR, QUI A FAIT L'OBJET D'UN AVIS D'ÉVACUATION DE L'ARMÉE ISRAÉLIENNE, EST DEVENUE QUASI FANTÔME",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:24",
+      "date": "17/03",
+      "timestamp": 1773728672
+    },
+    {
+      "id": "BFMTV_1773728540",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DE NOUVELLES FRAPPES MASSIVES SUR TÉHÉRAN (IRAN)",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:22",
+      "date": "17/03",
+      "timestamp": 1773728540
+    },
+    {
+      "id": "BFMTV_1773728092",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES DÉBRIS TOMBÉS SUR DES LIEUX SAINTS À JÉRUSALEM, SELON LA POLICE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:14",
+      "date": "17/03",
+      "timestamp": 1773728092
+    },
+    {
+      "id": "BFMTV_1773727686",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ATTAQUE DE DRONES ET DE ROQUETTES CONTRE L'AMBASSADE AMÉRICAINE À BAGDAD ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:08",
+      "date": "17/03",
+      "timestamp": 1773727686
+    },
+    {
+      "id": "BFMTV_1773727608",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS VONT DÉPLOYER PLUS DE 2.000 MARINES ET TROIS NAVIRES SUPPLÉMENTAIRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:06",
+      "date": "17/03",
+      "timestamp": 1773727608
+    },
+    {
+      "id": "BFMTV_1773727576",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN TIERS DES ISRAÉLIENS NE DISPOSENT PAS D'ABRIS ANTI-MISSILES À PROXIMITÉ ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:06",
+      "date": "17/03",
+      "timestamp": 1773727576
+    },
     {
       "id": "BFMTV_1773702668",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "15:40",
       "date": "15/03",
       "timestamp": 1773589240
-    },
-    {
-      "id": "BFMTV_1773587858",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU RÉPOND AUX RUMEURS SUR SA MORT AVEC UNE VIDÉO",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:17",
-      "date": "15/03",
-      "timestamp": 1773587858
-    },
-    {
-      "id": "BFMTV_1773585283",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA TURQUIE REDOUTE UN AFFLUX DE RÉFUGIÉS IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:34",
-      "date": "15/03",
-      "timestamp": 1773585283
-    },
-    {
-      "id": "BFMTV_1773585038",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉPLOIE DES MISSILES \"SEJIL\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:30",
-      "date": "15/03",
-      "timestamp": 1773585038
-    },
-    {
-      "id": "BFMTV_1773584893",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TEL-AVIV ET SA BANLIEUE TOUCHÉS PAR DES FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:28",
-      "date": "15/03",
-      "timestamp": 1773584893
-    },
-    {
-      "id": "BFMTV_1773584519",
-      "source": "BFMTV",
-      "text": "CORÉE DU NORD: PYONGYANG TESTE SES NOUVEAUX LANCE-ROQUETTES MULTIPLES DE 600 MM",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:21",
-      "date": "15/03",
-      "timestamp": 1773584519
-    },
-    {
-      "id": "BFMTV_1773582904",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL PRÉVOIT ENCORE AU MOINS TROIS SEMAINES DE COMBAT",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:55",
-      "date": "15/03",
-      "timestamp": 1773582904
-    },
-    {
-      "id": "BFMTV_1773582558",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'EXERCICE DE COMMUNICATION DU HEZBOLLAH DANS UNE ÉCOLE DE BEYROUTH OÙ SONT ACCUEILLIS DES RÉFUGIÉS DU SUD-LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:49",
-      "date": "15/03",
-      "timestamp": 1773582558
-    },
-    {
-      "id": "BFMTV_1773580159",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"L'IRAN N'EST PAS SURPRIS PAR CETTE ATTAQUE DES ÉTATS-UNIS. ILS LE SAVENT DEPUIS LONGTEMPS QUE ÇA CONTINUERA COMME ÇA\", DÉCLARE LE VICE-AMIRAL MICHEL OLHAGARAY",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:09",
-      "date": "15/03",
-      "timestamp": 1773580159
-    },
-    {
-      "id": "BFMTV_1773579612",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES D'UNE NOUVELLE FRAPPE SUR TEL-AVIV, EN ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:00",
-      "date": "15/03",
-      "timestamp": 1773579612
-    },
-    {
-      "id": "OPEX360_1773577342",
-      "source": "OPEX360",
-      "text": "DEVANT ÊTRE DÉSARMÉ EN 2026, LE PORTE-AVIONS AMÉRICAIN USS NIMITZ VA JOUER LES PROLONGATIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:22",
-      "date": "15/03",
-      "timestamp": 1773577342
-    },
-    {
-      "id": "OPEX360_1773576852",
-      "source": "OPEX360",
-      "text": "LE CHAR LECLERC DEVRAIT BIENTÔT ÊTRE ÉQUIPÉ D’UN SYSTÈME DE PROTECTION ACTIVE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:14",
-      "date": "15/03",
-      "timestamp": 1773576852
-    },
-    {
-      "id": "BFMTV_1773573278",
-      "source": "BFMTV",
-      "text": "BANDE DE GAZA: LE SUD DE L'ENCLAVE PALESTINIENNE BALAYÉ PAR UNE TEMPÊTE DE SABLE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:14",
-      "date": "15/03",
-      "timestamp": 1773573278
-    },
-    {
-      "id": "BFMTV_1773573107",
-      "source": "BFMTV",
-      "text": " ESPAGNE: UNE TOUR DU CHÂTEAU MÉDIÉVAL D'ESCALONA S'EFFONDRE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:11",
-      "date": "15/03",
-      "timestamp": 1773573107
-    },
-    {
-      "id": "BFMTV_1773572251",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS MEMBRES DE L'ÉQUIPE FÉMININE IRANIENNE DE FOOTBALL QUI AVAIENT OBTENU L'ASILE EN AUSTRALIE ONT DÉCIDÉ DE RETOURNER EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:57",
-      "date": "15/03",
-      "timestamp": 1773572251
     }
   ],
   "france": {
