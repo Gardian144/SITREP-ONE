@@ -1,7 +1,167 @@
 {
-  "last_update": "17/03 14:43",
+  "last_update": "17/03 18:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773770534",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: PLUS DE 3.000 PERSONNES TUÉES DEPUIS LE DÉBUT DU CONFLIT EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:02",
+      "date": "17/03",
+      "timestamp": 1773770534
+    },
+    {
+      "id": "BFMTV_1773769573",
+      "source": "BFMTV",
+      "text": "EN SEULEMENT 70 SECONDES, CES CAMBRIOLEURS ONT DÉROBÉ 1,7 MILLION DE DOLLARS DE BIJOUX",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:46",
+      "date": "17/03",
+      "timestamp": 1773769573
+    },
+    {
+      "id": "OPEX360_1773768423",
+      "source": "OPEX360",
+      "text": "L’US NAVY VA RENFORCER SES CAPACITÉS AUTONOMES DE COMBAT AVEC LE DRONE SOUS-MARIN DIVE-XL D’ANDURIL",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:27",
+      "date": "17/03",
+      "timestamp": 1773768423
+    },
+    {
+      "id": "BFMTV_1773764621",
+      "source": "BFMTV",
+      "text": "\"VOUS POUVEZ CHANGER DE CAP\": LE DIRECTEUR DE L'ANTITERRORISME AMÉRICAIN DÉMISSIONNE, OPPOSÉ AU CONFLIT EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:23",
+      "date": "17/03",
+      "timestamp": 1773764621
+    },
+    {
+      "id": "BFMTV_1773764431",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE UNE RENCONTRE AVEC SON HOMOLOGUE CHINOIS XI JINPING \"D'ICI CINQ À SIX SEMAINES\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:20",
+      "date": "17/03",
+      "timestamp": 1773764431
+    },
+    {
+      "id": "BFMTV_1773764260",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES D'UNE NOUVELLE FRAPPE ISRAÉLIENNE CONTRE UNE CIBLE IRANIENNE À TÉHÉRAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:17",
+      "date": "17/03",
+      "timestamp": 1773764260
+    },
+    {
+      "id": "BFMTV_1773764183",
+      "source": "BFMTV",
+      "text": "\"PERSONNE NE VEUT L'IRAN AVEC L'ARME NUCLÉAIRE CAR CES GENS SONT FOUS\", AVANCE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:16",
+      "date": "17/03",
+      "timestamp": 1773764183
+    },
+    {
+      "id": "BFMTV_1773764183",
+      "source": "BFMTV",
+      "text": "IRAN : \"NOUS ALLONS ESSAYER D'AVOIR DES GENS COMPÉTENTS POUR BIEN DIRIGER CE PAYS\", ASSURE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:16",
+      "date": "17/03",
+      "timestamp": 1773764183
+    },
+    {
+      "id": "BFMTV_1773764135",
+      "source": "BFMTV",
+      "text": "SANS L'ACTION MILITAIRE DES ÉTATS-UNIS EN IRAN, \"ON AURAIT EU UN HOLOCAUSTE NUCLÉAIRE\" SELON DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:15",
+      "date": "17/03",
+      "timestamp": 1773764135
+    },
+    {
+      "id": "BFMTV_1773763846",
+      "source": "BFMTV",
+      "text": "DÉMISSION DE JOE KENT: \"C'EST PLUTÔT PAS MAL QU'IL DÉMISSIONNE\", ASSURE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:10",
+      "date": "17/03",
+      "timestamp": 1773763846
+    },
+    {
+      "id": "BFMTV_1773763458",
+      "source": "BFMTV",
+      "text": "SÉCURISATION DU DÉTROIT D'ORMUZ: \"NOUS AVONS BEAUCOUP DE SOUTIEN DU MOYEN-ORIENT\", ASSURE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:04",
+      "date": "17/03",
+      "timestamp": 1773763458
+    },
+    {
+      "id": "BFMTV_1773763301",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS AVONS DÉGOMMÉ LA MARINE IRANIENNE\", AFFIRME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:01",
+      "date": "17/03",
+      "timestamp": 1773763301
+    },
+    {
+      "id": "BFMTV_1773763112",
+      "source": "BFMTV",
+      "text": "SÉCURISATION DU DÉTROIT D'ORMUZ: \"L'OTAN NE VEUT PAS NOUS AIDER, CE QUI ME SIDÈRE\", LANCE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:58",
+      "date": "17/03",
+      "timestamp": 1773763112
+    },
+    {
+      "id": "BFMTV_1773763109",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DONALD TRUMP FAIT VOLTE-FACE ET AFFIRME N'AVOIR \"PLUS BESOIN D'AIDE\" DE LA PART DES ALLIÉS AMÉRICAINS POUR ROUVRIR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:58",
+      "date": "17/03",
+      "timestamp": 1773763109
+    },
+    {
+      "id": "BFMTV_1773762757",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEUX SALVES DE MISSILES IRANIENS INTERCEPTÉES AU QATAR",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:52",
+      "date": "17/03",
+      "timestamp": 1773762757
+    },
+    {
+      "id": "OPEX360_1773761563",
+      "source": "OPEX360",
+      "text": "LE ROYAUME-UNI ET L’ALLEMAGNE VONT DÉVELOPPER DES MISSILES DE CROISIÈRE HYPERSONIQUES D’UNE PORTÉE DE 2000 KM",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:32",
+      "date": "17/03",
+      "timestamp": 1773761563
+    },
     {
       "id": "BFMTV_1773758473",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "12:01",
       "date": "16/03",
       "timestamp": 1773662467
-    },
-    {
-      "id": "OPEX360_1773660832",
-      "source": "OPEX360",
-      "text": "UN DRONE MQ-9 REAPER ITALIEN A ÉTÉ DÉTRUIT PAR UNE FRAPPE IRANIENNE AU KOWEÏT",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:33",
-      "date": "16/03",
-      "timestamp": 1773660832
-    },
-    {
-      "id": "BFMTV_1773660530",
-      "source": "BFMTV",
-      "text": "L'UNION EUROPÉENNE ANNONCE \"458 MILLIONS D'EUROS D'AIDES HUMANITAIRES\" POUR LA RÉGION DU PROCHE-ORIENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:28",
-      "date": "16/03",
-      "timestamp": 1773660530
-    },
-    {
-      "id": "BFMTV_1773660199",
-      "source": "BFMTV",
-      "text": "UNE ATTAQUE DE DRONE PROVOQUE L'INCENDIE D’UN RÉSERVOIR DE CARBURANT À L'AÉROPORT DE DUBAÏ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:23",
-      "date": "16/03",
-      "timestamp": 1773660199
-    },
-    {
-      "id": "BFMTV_1773659980",
-      "source": "BFMTV",
-      "text": "KEIR STARMER: LE PLAN ENVISAGÉ POUR ROUVRIR LE DÉTROIT D'ORMUZ \"NE SERA PAS UNE MISSION DE L'OTAN\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:19",
-      "date": "16/03",
-      "timestamp": 1773659980
-    },
-    {
-      "id": "BFMTV_1773658096",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: LE ROYAUME-UNI TRAVAILLE AVEC SES ALLIÉS À L'ÉLABORATION D'UN \"PLAN COLLECTIF VIABLE\" POUR ROUVRIR LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:48",
-      "date": "16/03",
-      "timestamp": 1773658096
-    },
-    {
-      "id": "BFMTV_1773657667",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT : \"NOUS NE NOUS LAISSERONS PAS ENTRAÎNER DANS UNE GUERRE PLUS VASTE\", ASSURE LE PREMIER MINISTRE BRITANNIQUE KEIR STARMER",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:41",
-      "date": "16/03",
-      "timestamp": 1773657667
-    },
-    {
-      "id": "BFMTV_1773656249",
-      "source": "BFMTV",
-      "text": "ARRÊTÉ EN 2023 EN AZERBAÏDJAN, LE FRANÇAIS MARTIN RYAN CONDAMNÉ À DIX ANS DE PRISON POUR \"ESPIONNAGE\" AU PROFIT DE PARIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:17",
-      "date": "16/03",
-      "timestamp": 1773656249
-    },
-    {
-      "id": "BFMTV_1773656182",
-      "source": "BFMTV",
-      "text": "JEAN-NOËL BARROT ANNONCE DES SANCTIONS CONTRE \"DES PROPAGANDISTES DU KREMLIN\" DONT \"LE FRANCO-RUSSE ADRIEN BOCQUET\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:16",
-      "date": "16/03",
-      "timestamp": 1773656182
-    },
-    {
-      "id": "BFMTV_1773655572",
-      "source": "BFMTV",
-      "text": "\"L'ESCALADE MILITAIRE INCONTRÔLÉE ET DANGEREUSE AU PROCHE ET AU MOYEN-ORIENT, NE NOUS DÉTOURNE PAS DE L'UKRAINE\", DÉCLARE JEAN-NOËL BARROT",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:06",
-      "date": "16/03",
-      "timestamp": 1773655572
-    },
-    {
-      "id": "BFMTV_1773655344",
-      "source": "BFMTV",
-      "text": "\"LA SÉCURITÉ DE L'EUROPE SERA DÉCIDÉE PAR LES RÉSULTATS DE LA GUERRE D'AGRESSION CONTRE L'UKRAINE\", ESTIME LA LITUANIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:02",
-      "date": "16/03",
-      "timestamp": 1773655344
-    },
-    {
-      "id": "BFMTV_1773654086",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: DES NOUVELLES EXPLOSIONS ENTENDUES À TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:41",
-      "date": "16/03",
-      "timestamp": 1773654086
-    },
-    {
-      "id": "BFMTV_1773651880",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ANNONCE DES \"OPÉRATIONS TERRESTRES LIMITÉES\" CONTRE LE HEZBOLLAH AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:04",
-      "date": "16/03",
-      "timestamp": 1773651880
-    },
-    {
-      "id": "BFMTV_1773649983",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: UN CIVIL PALESTINIEN TUÉ À ABOU DHABI PAR UNE CHUTE DE MISSILE SUR SON VÉHICULE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:33",
-      "date": "16/03",
-      "timestamp": 1773649983
-    },
-    {
-      "id": "BFMTV_1773649793",
-      "source": "BFMTV",
-      "text": "ACCORDS UE/INDE: \"LA PLUS GROSSE ERREUR QU'ON PUISSE FAIRE C'EST DE POUSSER LES INDIENS DANS LES BRAS DES CHINOIS ET DES RUSSES\", AVERTIT XAVIER BETTEL, VICE-PREMIER MINISTRE DU LUXEMBOURG",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:29",
-      "date": "16/03",
-      "timestamp": 1773649793
-    },
-    {
-      "id": "BFMTV_1773649686",
-      "source": "BFMTV",
-      "text": "CHYPRE: \"LES CHOSES SONT REVENUES À LA NORMALE\", RASSURE MICHAEL DAMIANOS, MINISTRE DE L'ÉNERGIE DE CHYPRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:28",
-      "date": "16/03",
-      "timestamp": 1773649686
-    },
-    {
-      "id": "BFMTV_1773648659",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:10",
-      "date": "16/03",
-      "timestamp": 1773648659
     }
   ],
   "france": {
