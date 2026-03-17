@@ -1,7 +1,77 @@
 {
-  "last_update": "17/03 18:08",
+  "last_update": "17/03 20:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773777068",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ASSURE QU'ELLE VA \"TRAQUER, TROUVER ET NEUTRALISER\" MOJTABA KHAMENEI",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:51",
+      "date": "17/03",
+      "timestamp": 1773777068
+    },
+    {
+      "id": "BFMTV_1773776932",
+      "source": "BFMTV",
+      "text": "LE DIRECTEUR DE L'ANTITERRORISME AMÉRICAIN DÉMISSIONNE, OPPOSÉ AU CONFLIT EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:48",
+      "date": "17/03",
+      "timestamp": 1773776932
+    },
+    {
+      "id": "BFMTV_1773776357",
+      "source": "BFMTV",
+      "text": "IRAN: QUI ÉTAIT ALI LARIJANI, LE DERNIER DIRIGEANT IRANIEN ABATTU PAR L'ARMÉE ISRAÉLIENNE ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:39",
+      "date": "17/03",
+      "timestamp": 1773776357
+    },
+    {
+      "id": "BFMTV_1773775117",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN INCENDIE SE DÉCLARE DANS UN IMMEUBLE AU CŒUR DE MANHATTAN ",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:18",
+      "date": "17/03",
+      "timestamp": 1773775117
+    },
+    {
+      "id": "BFMTV_1773774264",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: L’ARMÉE ISRAÉLIENNE AFFIRME QU’ELLE VA ÉLIMINER MOJTABA KHAMENEI, LE NOUVEAU GUIDE SUPRÊME",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:04",
+      "date": "17/03",
+      "timestamp": 1773774264
+    },
+    {
+      "id": "BFMTV_1773773878",
+      "source": "BFMTV",
+      "text": "IRAN: QUI SONT LES CADRES DU RÉGIME ENCORE EN VIE ? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:57",
+      "date": "17/03",
+      "timestamp": 1773773878
+    },
+    {
+      "id": "OPEX360_1773772197",
+      "source": "OPEX360",
+      "text": "LA 27E BRIGADE D’INFANTERIE DE MONTAGNE A BATTU LE RAPPEL DE SA RÉSERVE OPÉRATIONNELLE DE NIVEAU 2",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:29",
+      "date": "17/03",
+      "timestamp": 1773772197
+    },
     {
       "id": "BFMTV_1773770534",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "15:46",
       "date": "16/03",
       "timestamp": 1773675982
-    },
-    {
-      "id": "BFMTV_1773673763",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP EN APPELLE À SES ALLIÉS: \"JE PENSE QUE VOUS VERREZ CELA SE CONCRÉTISER\", ESTIME LA PORTE-PAROLE DE LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:09",
-      "date": "16/03",
-      "timestamp": 1773673763
-    },
-    {
-      "id": "BFMTV_1773673136",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:58",
-      "date": "16/03",
-      "timestamp": 1773673136
-    },
-    {
-      "id": "BFMTV_1773671248",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT : \"ÇA DEVRAIT ÊTRE UN EFFORT MONDIAL\", ESTIME L'AMBASSADEUR ISRAÉLIEN À L'ONU",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:27",
-      "date": "16/03",
-      "timestamp": 1773671248
-    },
-    {
-      "id": "BFMTV_1773665339",
-      "source": "BFMTV",
-      "text": "LES FRANÇAIS NATALIE MUSTEATA ET ALEXANDRE SINGH DÉCROCHENT L'OSCAR DU MEILLEUR COURT MÉTRAGE DE FICTION",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:48",
-      "date": "16/03",
-      "timestamp": 1773665339
-    },
-    {
-      "id": "BFMTV_1773663963",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DES BOMBARDEMENTS INTENSES CES DERNIÈRES HEURES SUR TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:26",
-      "date": "16/03",
-      "timestamp": 1773663963
-    },
-    {
-      "id": "BFMTV_1773662751",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: POUR BERLIN, IL EST NÉCESSAIRE QUE LES ÉTATS‑UNIS ET ISRAËL PRÉCISENT À QUEL MOMENT ILS CONSIDÉRERONT LEURS OBJECTIFS MILITAIRES ATTEINTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:05",
-      "date": "16/03",
-      "timestamp": 1773662751
-    },
-    {
-      "id": "BFMTV_1773662467",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: TÉHÉRAN SE DIT PRÊT À ALLER \"AUSSI LOIN\" QUE NÉCESSAIRE DANS LA GUERRE CONTRE ISRAËL ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:01",
-      "date": "16/03",
-      "timestamp": 1773662467
     }
   ],
   "france": {
