@@ -1,7 +1,77 @@
 {
-  "last_update": "18/03 08:02",
+  "last_update": "18/03 11:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773832052",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: ISRAËL DIT AVOIR ÉLIMINÉ LE MINISTRE DU RENSEIGNEMENT IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:07",
+      "date": "18/03",
+      "timestamp": 1773832052
+    },
+    {
+      "id": "BFMTV_1773831531",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES OBSÈQUES DU CHEF DE LA SÉCURITÉ ALI LARIJANI SONT EN COURS À TÉHÉRAN AU LENDEMAIN DE SA MORT",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:58",
+      "date": "18/03",
+      "timestamp": 1773831531
+    },
+    {
+      "id": "BFMTV_1773826459",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS 12 MORTS DANS DES FRAPPES ISRAÉLIENNES SUR BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:34",
+      "date": "18/03",
+      "timestamp": 1773826459
+    },
+    {
+      "id": "BFMTV_1773825627",
+      "source": "BFMTV",
+      "text": "IRAK: QUATRE EXPLOSIONS ENTENDUES À ERBIL AU KURDISTAN AUTONOME",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:20",
+      "date": "18/03",
+      "timestamp": 1773825627
+    },
+    {
+      "id": "BFMTV_1773825072",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: SUR LES LIEUX DE LA FRAPPE IRANIENNE QUI A FAIT DEUX MORTS EN ISRAËL ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:11",
+      "date": "18/03",
+      "timestamp": 1773825072
+    },
+    {
+      "id": "BFMTV_1773824678",
+      "source": "BFMTV",
+      "text": "UNE FEMME HOSPITALISÉE APRÈS AVOIR ÉTÉ EFFRAYÉE PAR UN ROBOT HUMANOÏDE À MACAO",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:04",
+      "date": "18/03",
+      "timestamp": 1773824678
+    },
+    {
+      "id": "BFMTV_1773821745",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEUX PERSONNES TUÉES PRÈS DE TEL-AVIV PAR UNE ATTAQUE AÉRIENNE MENÉE PAR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:15",
+      "date": "18/03",
+      "timestamp": 1773821745
+    },
     {
       "id": "BFMTV_1773820238",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "07:00",
       "date": "17/03",
       "timestamp": 1773730822
-    },
-    {
-      "id": "BFMTV_1773730541",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: À LA LISIÈRE DU LIBAN, CES ISRAÉLIENS REFUSENT DE LAISSER LA GUERRE ARRÊTER LEUR VIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:55",
-      "date": "17/03",
-      "timestamp": 1773730541
-    },
-    {
-      "id": "BFMTV_1773728686",
-      "source": "BFMTV",
-      "text": "ATTENTAT À BONDI BEACH, EN AUSTRALIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:24",
-      "date": "17/03",
-      "timestamp": 1773728686
-    },
-    {
-      "id": "BFMTV_1773728685",
-      "source": "BFMTV",
-      "text": "ATTENTAT À BONDI BEACH EN AUSTRALIE: LA MÈRE DE L'ASSAILLANT VISÉE PAR DES MENACES DE MORT",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:24",
-      "date": "17/03",
-      "timestamp": 1773728685
-    },
-    {
-      "id": "BFMTV_1773728672",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA VILLE LIBANAISE DE TYR, QUI A FAIT L'OBJET D'UN AVIS D'ÉVACUATION DE L'ARMÉE ISRAÉLIENNE, EST DEVENUE QUASI FANTÔME",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:24",
-      "date": "17/03",
-      "timestamp": 1773728672
-    },
-    {
-      "id": "BFMTV_1773728540",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DE NOUVELLES FRAPPES MASSIVES SUR TÉHÉRAN (IRAN)",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:22",
-      "date": "17/03",
-      "timestamp": 1773728540
-    },
-    {
-      "id": "BFMTV_1773728092",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES DÉBRIS TOMBÉS SUR DES LIEUX SAINTS À JÉRUSALEM, SELON LA POLICE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:14",
-      "date": "17/03",
-      "timestamp": 1773728092
-    },
-    {
-      "id": "BFMTV_1773727686",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ATTAQUE DE DRONES ET DE ROQUETTES CONTRE L'AMBASSADE AMÉRICAINE À BAGDAD ",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:08",
-      "date": "17/03",
-      "timestamp": 1773727686
     }
   ],
   "france": {
