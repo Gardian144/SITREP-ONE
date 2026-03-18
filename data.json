@@ -1,7 +1,27 @@
 {
-  "last_update": "18/03 19:57",
+  "last_update": "18/03 21:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773870361",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE MINISTRE PHILIPPE TABAROT ANNONCE QUE \"PRÈS DE 39.000 FRANÇAIS\" ONT ÉTÉ RAPATRIÉS",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:46",
+      "date": "18/03",
+      "timestamp": 1773870361
+    },
+    {
+      "id": "BFMTV_1773868694",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS ALLONS TRAVERSER UNE PÉRIODE DIFFICILE CES PROCHAINES SEMAINES, MAIS C'EST TEMPORAIRE\", AFFIRME JD VANCE PAR RAPPORT AUX CONSÉQUENCES ÉNERGÉTIQUES",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:18",
+      "date": "18/03",
+      "timestamp": 1773868694
+    },
     {
       "id": "BFMTV_1773863817",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "16:17",
       "date": "17/03",
       "timestamp": 1773764260
-    },
-    {
-      "id": "BFMTV_1773764183",
-      "source": "BFMTV",
-      "text": "\"PERSONNE NE VEUT L'IRAN AVEC L'ARME NUCLÉAIRE CAR CES GENS SONT FOUS\", AVANCE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:16",
-      "date": "17/03",
-      "timestamp": 1773764183
-    },
-    {
-      "id": "BFMTV_1773764183",
-      "source": "BFMTV",
-      "text": "IRAN : \"NOUS ALLONS ESSAYER D'AVOIR DES GENS COMPÉTENTS POUR BIEN DIRIGER CE PAYS\", ASSURE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:16",
-      "date": "17/03",
-      "timestamp": 1773764183
     }
   ],
   "france": {
