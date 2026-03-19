@@ -1,7 +1,147 @@
 {
-  "last_update": "19/03 10:08",
+  "last_update": "19/03 11:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773921050",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES PONTS, NOUVELLES CIBLES DES FRAPPES ISRAÉLIENNES AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:50",
+      "date": "19/03",
+      "timestamp": 1773921050
+    },
+    {
+      "id": "OPEX360_1773920588",
+      "source": "OPEX360",
+      "text": "L’ALLEMAGNE VA COMMANDER QUATRE FRÉGATES MEKO A-200 POUR PALLIER LE POSSIBLE ÉCHEC DE SON AMBITIEUX PROGRAMME F-126",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:43",
+      "date": "19/03",
+      "timestamp": 1773920588
+    },
+    {
+      "id": "BFMTV_1773920575",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN RÉITÈRE SES MENACES CONTRE LES INFRASTRUCTURES ÉNERGÉTIQUES DE LA RÉGION ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:42",
+      "date": "19/03",
+      "timestamp": 1773920575
+    },
+    {
+      "id": "BFMTV_1773920564",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:42",
+      "date": "19/03",
+      "timestamp": 1773920564
+    },
+    {
+      "id": "BFMTV_1773919817",
+      "source": "BFMTV",
+      "text": "HAUSSE DES PRIX: ROBERTA METSOLA ASSURE QUE L’UE AGIRA POUR LE QUOTIDIEN DES EUROPÉENS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:30",
+      "date": "19/03",
+      "timestamp": 1773919817
+    },
+    {
+      "id": "BFMTV_1773919519",
+      "source": "BFMTV",
+      "text": "\"LA FRANCE NE PREND PAS PART AU CONFLIT AU MOYEN-ORIENT, SA POSTURE DEMEURE STRICTEMENT DÉFENSIVE\", RAPPELLE LA PORTE-PAROLE DU MINISTÈRE DES ARMÉES",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:25",
+      "date": "19/03",
+      "timestamp": 1773919519
+    },
+    {
+      "id": "BFMTV_1773918941",
+      "source": "BFMTV",
+      "text": "UN GARÇON DE 11 ANS INCULPÉ POUR LE MEURTRE DE SON PETIT FRÈRE ÂGÉ DE 5 ANS DANS LE COLORADO",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:15",
+      "date": "19/03",
+      "timestamp": 1773918941
+    },
+    {
+      "id": "BFMTV_1773918516",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'OFFENSIVE DE TSAHAL NE FAIBLIT PAS FACE AU HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:08",
+      "date": "19/03",
+      "timestamp": 1773918516
+    },
+    {
+      "id": "BFMTV_1773918298",
+      "source": "BFMTV",
+      "text": "ÉPIDÉMIE MORTELLE DE MÉNINGITE EN ANGLETERRE: LE NOMBRE DE CAS SIGNALÉS GRIMPE DE 20 À 27, DONT 15 CONFIRMÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:04",
+      "date": "19/03",
+      "timestamp": 1773918298
+    },
+    {
+      "id": "BFMTV_1773916526",
+      "source": "BFMTV",
+      "text": "LE HONGROIS VIKTOR ORBAN BLOQUE LES AIDES À L'UKRAINE: \"EN PÉRIODE D'ÉLECTIONS, LES GENS NE SONT PAS AUSSI RATIONNELS\", TACLE LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:35",
+      "date": "19/03",
+      "timestamp": 1773916526
+    },
+    {
+      "id": "BFMTV_1773915789",
+      "source": "BFMTV",
+      "text": "AVION DE COMBAT EUROPÉEN: EMMANUEL MACRON ANNONCE UNE \"MISSION DE RAPPROCHEMENT\" ENTRE AIRBUS ET DASSAULT",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:23",
+      "date": "19/03",
+      "timestamp": 1773915789
+    },
+    {
+      "id": "BFMTV_1773915723",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON APPELLE À LAISSER LES FORCES LIBANAISES ASSURER LA SÉCURITÉ DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:22",
+      "date": "19/03",
+      "timestamp": 1773915723
+    },
+    {
+      "id": "BFMTV_1773915691",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES DÉPUTÉS IRANIENS PROPOSENT DE FAIRE PAYER LE PASSAGE DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:21",
+      "date": "19/03",
+      "timestamp": 1773915691
+    },
+    {
+      "id": "BFMTV_1773915330",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE À DES DISCUSSIONS \"DIRECTES\" ENTRE AMÉRICAINS ET IRANIENS SUR LES INFRASTRUCTURES ÉNERGÉTIQUES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:15",
+      "date": "19/03",
+      "timestamp": 1773915330
+    },
     {
       "id": "BFMTV_1773914599",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "07:26",
       "date": "18/03",
       "timestamp": 1773818778
-    },
-    {
-      "id": "BFMTV_1773818343",
-      "source": "BFMTV",
-      "text": "\"LES AMÉRICAINS SONT TOUT SEULS\": POURQUOI PERSONNE N'A RÉPONDU À L'APPEL À L'AIDE DE DONALD TRUMP DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:19",
-      "date": "18/03",
-      "timestamp": 1773818343
-    },
-    {
-      "id": "BFMTV_1773817842",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'AMBASSADE AMÉRICAINE À BAGDAD A DE NOUVEAU ÉTÉ VISÉE PAR UNE ATTAQUE DE DRONE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:10",
-      "date": "18/03",
-      "timestamp": 1773817842
-    },
-    {
-      "id": "BFMTV_1773817783",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: À JÉRUSALEM, LES LIEUX SAINTS FERMÉS ET LA VIEILLE VILLE DÉSERTÉE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:09",
-      "date": "18/03",
-      "timestamp": 1773817783
-    },
-    {
-      "id": "BFMTV_1773816463",
-      "source": "BFMTV",
-      "text": "LES IMAGES D'UN IMMEUBLE EFFONDRÉ DANS LE CENTRE DE BEYROUTH (LIBAN) APRÈS LE TIR DE PLUSIEURS MISSILES ISRAÉLIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:47",
-      "date": "18/03",
-      "timestamp": 1773816463
-    },
-    {
-      "id": "BFMTV_1773814894",
-      "source": "BFMTV",
-      "text": "MARCO RUBIO DÉMENT QUE LES ÉTATS-UNIS CHERCHENT À RENVERSER LE PRÉSIDENT CUBAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:21",
-      "date": "18/03",
-      "timestamp": 1773814894
-    },
-    {
-      "id": "BFMTV_1773814811",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BFMTV AU CŒUR D'UNE BASE DE LANCEMENT DE MISSILES ISRAÉLIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:20",
-      "date": "18/03",
-      "timestamp": 1773814811
-    },
-    {
-      "id": "BFMTV_1773814124",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA CENTRALE NUCLÉAIRE IRANIENNE DE BOUCHEHR TOUCHÉE PAR UN \"PROJECTILE\", SANS FAIRE DE DÉGÂT NI DE BLESSÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:08",
-      "date": "18/03",
-      "timestamp": 1773814124
-    },
-    {
-      "id": "BFMTV_1773813528",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME N'AVOIR \"PLUS BESOIN D'AIDE\" DE LA PART DES ALLIÉS AMÉRICAINS POUR ROUVRIR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:58",
-      "date": "18/03",
-      "timestamp": 1773813528
-    },
-    {
-      "id": "BFMTV_1773813430",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: LE CHEF DE L'ARMÉE IRANIENNE PROMET QUE LA MORT D'ALI LARIJANI SERA \"VENGÉE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:57",
-      "date": "18/03",
-      "timestamp": 1773813430
-    },
-    {
-      "id": "BFMTV_1773812654",
-      "source": "BFMTV",
-      "text": "L'AMBASSADE AMÉRICAINE À BAGDAD DE NOUVEAU VISÉE PAR UNE ATTAQUE DE DRONE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:44",
-      "date": "18/03",
-      "timestamp": 1773812654
-    },
-    {
-      "id": "BFMTV_1773812578",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DANS UN VILLAGE CHRÉTIEN DU SUD-LIBAN, ALORS QUE LE PAYS CONTINUE D'ÊTRE BOMBARDÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:42",
-      "date": "18/03",
-      "timestamp": 1773812578
-    },
-    {
-      "id": "BFMTV_1773811134",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES ATTAQUES DE MISSILES TOUTE LA NUIT DANS LES PAYS DU GOLFE APRÈS LA MORT D'ALI LARIJANI",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:18",
-      "date": "18/03",
-      "timestamp": 1773811134
-    },
-    {
-      "id": "BFMTV_1773811126",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TSAHAL CONTINUE SON OFFENSIVE APRÈS LA MORT D'ALI LARIJANI",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:18",
-      "date": "18/03",
-      "timestamp": 1773811126
-    },
-    {
-      "id": "BFMTV_1773810736",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS SIX MORTS DANS DES FRAPPES ISRAÉLIENNES DANS LE CENTRE DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:12",
-      "date": "18/03",
-      "timestamp": 1773810736
     }
   ],
   "france": {
