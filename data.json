@@ -1,7 +1,57 @@
 {
-  "last_update": "19/03 21:50",
+  "last_update": "19/03 23:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773960879",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: “NOUS NE PARTICIPERONS À AUCUNE OUVERTURE DE FORCE DU DÉTROIT D'ORMUZ“, AFFIRME EMMANUEL MACRON",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:54",
+      "date": "19/03",
+      "timestamp": 1773960879
+    },
+    {
+      "id": "BFMTV_1773960409",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE À LA \"DÉSESCALADE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:46",
+      "date": "19/03",
+      "timestamp": 1773960409
+    },
+    {
+      "id": "BFMTV_1773959632",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"IL NE FAUT PAS CROIRE TOUT CE QUE VOUS VOYEZ DE LA PART DE L'IRAN\", DIT NEGZZIA, IRANIENNE RÉFUGIÉE EN FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "22:33",
+      "date": "19/03",
+      "timestamp": 1773959632
+    },
+    {
+      "id": "BFMTV_1773957967",
+      "source": "BFMTV",
+      "text": "\"C'EST TOUJOURS POSSIBLE\": L'AMBASSADEUR D'IRAN N'EXCLUT PAS UN RETOUR EN FRANCE DE CÉCILE KOHLER ET JACQUES PARIS",
+      "urgent": true,
+      "france_related": true,
+      "time": "22:06",
+      "date": "19/03",
+      "timestamp": 1773957967
+    },
+    {
+      "id": "BFMTV_1773957771",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"IL N'Y A AUCUN BESOIN D'ENRICHIR AUTANT [D'URANIUM] POUR ALLER DANS UN RÉACTEUR NUCLÉAIRE\", EXPLIQUE EMMANUEL GALICHET, ENSEIGNANTE-CHERCHEUSE EN PHYSIQUE NUCLÉAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:02",
+      "date": "19/03",
+      "timestamp": 1773957771
+    },
     {
       "id": "BFMTV_1773956896",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "23:39",
       "date": "18/03",
       "timestamp": 1773877181
-    },
-    {
-      "id": "BFMTV_1773876848",
-      "source": "BFMTV",
-      "text": "\"JE N'AI AUCUNE INTENTION DE QUITTER LE CONSEIL D'ADMINISTRATION TANT QUE L'ENQUÊTE NE SERA PAS VÉRITABLEMENT TERMINÉE, EN TOUTE TRANSPARENCE ET DE MANIÈRE DÉFINITIVE\", DÉCLARE LE PRÉSIDENT DE LA FED, JEROME POWELL",
-      "urgent": false,
-      "france_related": false,
-      "time": "23:34",
-      "date": "18/03",
-      "timestamp": 1773876848
-    },
-    {
-      "id": "BFMTV_1773876025",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE WASHINGTON D'ANÉANTIR DES INFRASTRUCTURES ÉNERGÉTIQUES EN CAS DE NOUVELLE ATTAQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "23:20",
-      "date": "18/03",
-      "timestamp": 1773876025
-    },
-    {
-      "id": "BFMTV_1773874266",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN MENACE WASHINGTON D'ANÉANTIR DES INFRASTRUCTURES ÉNERGÉTIQUES EN CAS DE NOUVELLE ATTAQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:51",
-      "date": "18/03",
-      "timestamp": 1773874266
-    },
-    {
-      "id": "BFMTV_1773872916",
-      "source": "BFMTV",
-      "text": "IMMEUBLE EFFONDRÉ À BEYROUTH, MORT D'UN MINISTRE IRANIEN... CE QU'IL FAUT RETENIR DE LA 19E JOURNÉE DU CONFLIT AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:28",
-      "date": "18/03",
-      "timestamp": 1773872916
-    },
-    {
-      "id": "BFMTV_1773871949",
-      "source": "BFMTV",
-      "text": "CONFLIT PAKISTAN-AFGHANISTAN: UNE TRÊVE TEMPORAIRE ANNONCÉE POUR L'AÏD EL-FITR, APRÈS PLUSIEURS JOURS D’ESCALADE",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:12",
-      "date": "18/03",
-      "timestamp": 1773871949
     }
   ],
   "france": {
