@@ -1,7 +1,77 @@
 {
-  "last_update": "19/03 17:57",
+  "last_update": "19/03 19:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773950060",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU AFFIRME QU'\"APRÈS 20 JOURS DE GUERRE, L'IRAN N'A PAS LA CAPACITÉ D'ENRICHIR DE L'URANIUM\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:54",
+      "date": "19/03",
+      "timestamp": 1773950060
+    },
+    {
+      "id": "BFMTV_1773949428",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP N'A \"POUR L'INSTANT PAS ATTEINT SON OBJECTIF\", OBSERVE ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE AU CONSERVATOIRE NATIONAL DES ARTS ET MÉTIERS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:43",
+      "date": "19/03",
+      "timestamp": 1773949428
+    },
+    {
+      "id": "BFMTV_1773948560",
+      "source": "BFMTV",
+      "text": "SECONDE GUERRE MONDIALE: DONALD TRUMP IRONISE SUR PEARL HARBOR DEVANT LA PREMIÈRE MINISTRE JAPONAISE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:29",
+      "date": "19/03",
+      "timestamp": 1773948560
+    },
+    {
+      "id": "OPEX360_1773944988",
+      "source": "OPEX360",
+      "text": "LE NAVIRE AMPHIBIE AMÉRICAIN USS TORTUGA A REPRIS LA MER APRÈS AVOIR ÉTÉ IMMOBILISÉ PENDANT DOUZE ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:29",
+      "date": "19/03",
+      "timestamp": 1773944988
+    },
+    {
+      "id": "BFMTV_1773944344",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA DIRECTRICE DU RENSEIGNEMENT AMÉRICAIN REFUSE DE CONFIRMER LES PROPOS DE DONALD TRUMP SELON LESQUELS L'IRAN REPRÉSENTAIT UNE \"MENACE IMMINENTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:19",
+      "date": "19/03",
+      "timestamp": 1773944344
+    },
+    {
+      "id": "BFMTV_1773944324",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: SEMAINE DE 4 JOURS, TÉLÉTRAVAIL...COMMENT LES PAYS ASIATIQUES S'ADAPTENT À LA PÉNURIE DE CARBURANT LIÉE À LA FERMETURE DU DÉTROIT D'ORMUZ ? ",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:18",
+      "date": "19/03",
+      "timestamp": 1773944324
+    },
+    {
+      "id": "BFMTV_1773943505",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"SI CELA DURE, ON ENTRE DANS UNE PÉRIODE ÉCONOMIQUEMENT TRÈS TRÈS INQUIÉTANTE\", DÉCLARE BERNARD GUETTA, DÉPUTÉ EUROPÉEN RENEW",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:05",
+      "date": "19/03",
+      "timestamp": 1773943505
+    },
     {
       "id": "BFMTV_1773942563",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "18:05",
       "date": "18/03",
       "timestamp": 1773857132
-    },
-    {
-      "id": "BFMTV_1773855691",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL - HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:41",
-      "date": "18/03",
-      "timestamp": 1773855691
-    },
-    {
-      "id": "BFMTV_1773855687",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE BILAN DES FRAPPES ISRAÉLIENNES CONTRE LE LIBAN GRIMPE À 968 MORTS DEPUIS LE 2 MARS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:41",
-      "date": "18/03",
-      "timestamp": 1773855687
-    },
-    {
-      "id": "BFMTV_1773855043",
-      "source": "BFMTV",
-      "text": "CE ROBOT SERVEUR DEVIENT FOU ET COMMENCE À DANSER DANS LE RESTAURANT ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:30",
-      "date": "18/03",
-      "timestamp": 1773855043
-    },
-    {
-      "id": "BFMTV_1773854928",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PLUS AUCUNE ZONE DE BEYROUTH N'EST ÉPARGNÉE PAR LES BOMBARDEMENTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:28",
-      "date": "18/03",
-      "timestamp": 1773854928
-    },
-    {
-      "id": "OPEX360_1773852580",
-      "source": "OPEX360",
-      "text": "LE PORTE-AVIONS DE NOUVELLE GÉNÉRATION SERA BAPTISÉ «FRANCE LIBRE»",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:49",
-      "date": "18/03",
-      "timestamp": 1773852580
-    },
-    {
-      "id": "BFMTV_1773852502",
-      "source": "BFMTV",
-      "text": "LA DIRECTRICE DU RENSEIGNEMENT DES ÉTATS-UNIS ADMET QUE L'IRAN N'AVAIT PAS RELANCÉ SON PROGRAMME D'ENRICHISSEMENT NUCLÉAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:48",
-      "date": "18/03",
-      "timestamp": 1773852502
-    },
-    {
-      "id": "BFMTV_1773851738",
-      "source": "BFMTV",
-      "text": "\"LA RUSSIE DISPOSE DE SYSTÈMES AVANCÉS\": LA DIRECTRICE DU RENSEIGNEMENT NATIONAL DES ÉTATS-UNIS ALERTE SUR LA MENACE RUSSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:35",
-      "date": "18/03",
-      "timestamp": 1773851738
     }
   ],
   "france": {
