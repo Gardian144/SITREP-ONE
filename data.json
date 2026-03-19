@@ -1,7 +1,147 @@
 {
-  "last_update": "19/03 07:55",
+  "last_update": "19/03 10:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773914599",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"CETTE ESCALADE EST INCONSIDÉRÉE\", DÉNONCE EMMANUEL MACRON ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:03",
+      "date": "19/03",
+      "timestamp": 1773914599
+    },
+    {
+      "id": "BFMTV_1773914510",
+      "source": "BFMTV",
+      "text": "PLUSIEURS FRANÇAIS ARRÊTÉS À DUBAÏ: EMMANUEL MACRON SOUHAITE UNE \"LIBÉRATION DANS LES PLUS BREFS DÉLAIS\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:01",
+      "date": "19/03",
+      "timestamp": 1773914510
+    },
+    {
+      "id": "BFMTV_1773913850",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE À DES DISCUSSIONS \"DIRECTES\" ENTRE AMÉRICAINS ET IRANIENS SUR LES INFRASTRUCTURES ÉNERGÉTIQUES",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:50",
+      "date": "19/03",
+      "timestamp": 1773913850
+    },
+    {
+      "id": "BFMTV_1773913766",
+      "source": "BFMTV",
+      "text": "\"NOUS DEVONS ACCROITRE NOS CAPACITÉS DE PRODUCTIONS MILITAIRES\", ASSURE EMMANUEL MACRON À SON ARRIVÉE À LA RÉUNION DU CONSEIL EUROPÉEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:49",
+      "date": "19/03",
+      "timestamp": 1773913766
+    },
+    {
+      "id": "BFMTV_1773913570",
+      "source": "BFMTV",
+      "text": "\"DONALD TRUMP S'EST LAISSÉ ENTRAÎNER\": CIBLER LES LEADERS IRANIENS, UNE STRATÉGIE SANS ISSUE POUR ISRAËL ET LES ÉTATS-UNIS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:46",
+      "date": "19/03",
+      "timestamp": 1773913570
+    },
+    {
+      "id": "BFMTV_1773912279",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ANNONCE AVOIR EXÉCUTÉ TROIS ÉMEUTIERS CE MATIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:24",
+      "date": "19/03",
+      "timestamp": 1773912279
+    },
+    {
+      "id": "BFMTV_1773912134",
+      "source": "BFMTV",
+      "text": "PLUSIEURS FRANÇAIS ARRÊTÉS À DUBAÏ, SUSPECTÉS D'AVOIR FILMÉ DES ATTAQUES IRANIENNES",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:22",
+      "date": "19/03",
+      "timestamp": 1773912134
+    },
+    {
+      "id": "BFMTV_1773911919",
+      "source": "BFMTV",
+      "text": "\"IL EST VRAIMENT TEMPS DE MONTRER NOTRE SOUTIEN À L'UKRAINE\", AFFIRME LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE KAJA KALLAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:18",
+      "date": "19/03",
+      "timestamp": 1773911919
+    },
+    {
+      "id": "BFMTV_1773911624",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LES GARDIENS DE LA RÉVOLUTION, C'EST UNE SORTE DE MAFIA\", AFFIRME HIRBOD DEHGHANI-AZAR, AVOCAT ET PRÉSIDENT DE L'ASSOCIATION NOROUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:13",
+      "date": "19/03",
+      "timestamp": 1773911624
+    },
+    {
+      "id": "BFMTV_1773911085",
+      "source": "BFMTV",
+      "text": "\"SIMPLEMENT BOMBARDER L'IRAN NE CONDUIRA FINALEMENT PAS À UN CHANGEMENT DE RÉGIME\", DÉCLARE LE PREMIER MINISTRE DES PAYS-BAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:04",
+      "date": "19/03",
+      "timestamp": 1773911085
+    },
+    {
+      "id": "BFMTV_1773910835",
+      "source": "BFMTV",
+      "text": "\"JE NE VEUX PAS PRENDRE DE DÉCISIONS QUI PROFITERONT À LA RUSSIE\", ESTIME LA PREMIÈRE MINISTRE DE LETTONIE À SON ARRIVÉE À LA RÉUNION DU CONSEIL EUROPÉEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:00",
+      "date": "19/03",
+      "timestamp": 1773910835
+    },
+    {
+      "id": "BFMTV_1773910727",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES ATTAQUES IRANIENNES TUENT TROIS PALESTINIENNES EN CISJORDANIE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:58",
+      "date": "19/03",
+      "timestamp": 1773910727
+    },
+    {
+      "id": "BFMTV_1773910454",
+      "source": "BFMTV",
+      "text": "SUISSE: UNE PERSONNE MEURT APRÈS LA CHUTE D'UNE TÉLÉCABINE DANS UNE STATION DE SKI ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:54",
+      "date": "19/03",
+      "timestamp": 1773910454
+    },
+    {
+      "id": "BFMTV_1773910231",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"ON SENT QUE CE N'EST PAS LA DERNIÈRE CRISE ET PEUT-ÊTRE LA MOINS VIOLENTE DE TOUTES CELLES QUI SONT À VENIR\", AFFIRME LE CAPITAINE NICOLAS BRAULT",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:50",
+      "date": "19/03",
+      "timestamp": 1773910231
+    },
     {
       "id": "BFMTV_1773906794",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "05:12",
       "date": "18/03",
       "timestamp": 1773810736
-    },
-    {
-      "id": "BFMTV_1773810236",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: TÉHÉRAN JURE DE VENGER LA MORT D'ALI LARIJANI, DES FRAPPES ISRAÉLIENNES FONT SIX MORTS À BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:03",
-      "date": "18/03",
-      "timestamp": 1773810236
-    },
-    {
-      "id": "BFMTV_1773789636",
-      "source": "BFMTV",
-      "text": "MORT D'ALI LARIJANI, EMMANUEL MACRON ET DONALD TRUMP S'ÉCHARPENT SUR LE DÉTROIT D’ORMUZ... CE QU'IL FAUT RETENIR DE CETTE DIX-HUITIÈME JOURNÉE DE LA GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "23:20",
-      "date": "17/03",
-      "timestamp": 1773789636
-    },
-    {
-      "id": "BFMTV_1773789636",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "23:20",
-      "date": "17/03",
-      "timestamp": 1773789636
-    },
-    {
-      "id": "BFMTV_1773789206",
-      "source": "BFMTV",
-      "text": "\"IL NE SERA BIENTÔT PLUS AU POUVOIR, DONC ON VERRA BIEN\", LÂCHE DONALD TRUMP À PROPOS D'EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "23:13",
-      "date": "17/03",
-      "timestamp": 1773789206
-    },
-    {
-      "id": "BFMTV_1773788396",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN CONFIRME LA MORT DE SON CHEF DE LA SÉCURITÉ, ALI LARIJANI",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:59",
-      "date": "17/03",
-      "timestamp": 1773788396
-    },
-    {
-      "id": "BFMTV_1773788292",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL A INTERCEPTÉ DES MISSILES DANS SON ESPACE AÉRIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:58",
-      "date": "17/03",
-      "timestamp": 1773788292
-    },
-    {
-      "id": "BFMTV_1773787680",
-      "source": "BFMTV",
-      "text": "\"PAS ENCORE POSSIBLE D'ÉTABLIR SI LE CRIME A ÉTÉ PRÉMÉDITÉ\": UNE FRANÇAISE TUÉE AU BRÉSIL, SON CORPS BRÛLÉ DANS UNE VALISE",
-      "urgent": false,
-      "france_related": true,
-      "time": "22:48",
-      "date": "17/03",
-      "timestamp": 1773787680
-    },
-    {
-      "id": "BFMTV_1773787191",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LE MOSSAD EST MIEUX INTRODUIT EN IRAN QUE LA CIA\", EXPLIQUE SERGUEÏ JIMOV, ANCIEN OFFICIER DE RENSEIGNEMENT DU KGB",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:39",
-      "date": "17/03",
-      "timestamp": 1773787191
-    },
-    {
-      "id": "BFMTV_1773786282",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"J’AI PASSÉ TOUTE MA JOURNÉE AVEC LES IRLANDAIS… J’AURAIS DÛ LA PASSER AVEC LES IRANIENS ! [...] NOUS LES ASSOMMONS\", LANCE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:24",
-      "date": "17/03",
-      "timestamp": 1773786282
-    },
-    {
-      "id": "BFMTV_1773783529",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ATTAQUES IRANIENNES SE POURSUIVENT AU QATAR",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:38",
-      "date": "17/03",
-      "timestamp": 1773783529
-    },
-    {
-      "id": "BFMTV_1773783172",
-      "source": "BFMTV",
-      "text": "DANS UN VILLAGE CHRÉTIEN DU SUD DU LIBAN, À PROXIMITÉ DE LA FRONTIÈRE ISRAÉLIENNE, LA GUERRE FAIT RAGE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:32",
-      "date": "17/03",
-      "timestamp": 1773783172
-    },
-    {
-      "id": "BFMTV_1773782947",
-      "source": "BFMTV",
-      "text": "UN PROJECTILE AURAIT TOUCHÉ LA CENTRALE NUCLÉAIRE IRANIENNE DE BUSHEHR, SELON L'AGENCE DE PRESSE TASNIM",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:29",
-      "date": "17/03",
-      "timestamp": 1773782947
-    },
-    {
-      "id": "BFMTV_1773782365",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN CONFIRME LA MORT D'ALI LARIJANI SON CHEF DE LA SÉCURITÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:19",
-      "date": "17/03",
-      "timestamp": 1773782365
-    },
-    {
-      "id": "BFMTV_1773782216",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN CONFIRME LA MORT DE SON CHEF DE LA SÉCURITÉ, ALI LARIJANI",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:16",
-      "date": "17/03",
-      "timestamp": 1773782216
     }
   ],
   "france": {
