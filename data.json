@@ -1,7 +1,17 @@
 {
-  "last_update": "18/03 23:58",
+  "last_update": "19/03 05:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773897354",
+      "source": "BFMTV",
+      "text": "DIRECT. DES DÉGÂTS CONSIDÉRABLES SUR UN SITE GAZIER DU QATAR APRÈS UNE ATTAQUE IRANIENNE, LA FRANCE PROPOSE UN MORATOIRE SUR LES FRAPPES CONTRE \"LES INFRASTRUCTURES CIVILES\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:15",
+      "date": "19/03",
+      "timestamp": 1773897354
+    },
     {
       "id": "BFMTV_1773877181",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "18:57",
       "date": "17/03",
       "timestamp": 1773773878
-    },
-    {
-      "id": "OPEX360_1773772197",
-      "source": "OPEX360",
-      "text": "LA 27E BRIGADE D’INFANTERIE DE MONTAGNE A BATTU LE RAPPEL DE SA RÉSERVE OPÉRATIONNELLE DE NIVEAU 2",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:29",
-      "date": "17/03",
-      "timestamp": 1773772197
     }
   ],
   "france": {
