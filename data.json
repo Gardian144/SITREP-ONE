@@ -1,7 +1,37 @@
 {
-  "last_update": "19/03 23:00",
+  "last_update": "19/03 23:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773962176",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON AFFIRME QUE LA FRANCE \"NE PARTICIPERA À AUCUNE OUVERTURE DE FORCE DU DÉTROIT D'ORMUZ\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "23:16",
+      "date": "19/03",
+      "timestamp": 1773962176
+    },
+    {
+      "id": "BFMTV_1773962041",
+      "source": "BFMTV",
+      "text": "LIBAN: “L’OPÉRATION MILITAIRE TERRESTRE ISRAÉLIENNE COMME LES BOMBARDEMENTS SONT INACCEPTABLES”, DÉCLARE EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "23:14",
+      "date": "19/03",
+      "timestamp": 1773962041
+    },
+    {
+      "id": "BFMTV_1773961721",
+      "source": "BFMTV",
+      "text": "RUSSIE: \"LES DISCUSSIONS N’AVANCENT PAS TRÈS BIEN, PARCE QUE CE SONT DES GENS QUI DISENT TOUJOURS NON, ILS NE VEULENT PAS LA PAIX\", AFFIRME EMMANUEL MACRON ",
+      "urgent": false,
+      "france_related": false,
+      "time": "23:08",
+      "date": "19/03",
+      "timestamp": 1773961721
+    },
     {
       "id": "BFMTV_1773960879",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "05:36",
       "date": "19/03",
       "timestamp": 1773898565
-    },
-    {
-      "id": "BFMTV_1773898498",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AÉROPORT, IMMEUBLES... ISRAËL SOUS LES BOMBES IRANIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:34",
-      "date": "19/03",
-      "timestamp": 1773898498
-    },
-    {
-      "id": "BFMTV_1773897354",
-      "source": "BFMTV",
-      "text": "DIRECT. DES DÉGÂTS CONSIDÉRABLES SUR UN SITE GAZIER DU QATAR APRÈS UNE ATTAQUE IRANIENNE, LA FRANCE PROPOSE UN MORATOIRE SUR LES FRAPPES CONTRE \"LES INFRASTRUCTURES CIVILES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:15",
-      "date": "19/03",
-      "timestamp": 1773897354
-    },
-    {
-      "id": "BFMTV_1773877181",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN: \"NOUS AVONS HÂTE DE POSER TOUTES NOS QUESTIONS\", ASSURE ROBERT GARCIA, SÉNATEUR DÉMOCRATE DE CALIFORNIE, APRÈS UNE RÉUNION À HUIS CLOS AVEC LA MINISTRE DE LA JUSTICE PAM BONDI",
-      "urgent": false,
-      "france_related": false,
-      "time": "23:39",
-      "date": "18/03",
-      "timestamp": 1773877181
     }
   ],
   "france": {
