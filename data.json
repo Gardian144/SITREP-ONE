@@ -1,7 +1,147 @@
 {
-  "last_update": "19/03 05:17",
+  "last_update": "19/03 07:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773906794",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: MAUD BREGEON ASSURE QU'UNE BAISSE DES TAXES N'EST \"PAS ENVISAGÉE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:53",
+      "date": "19/03",
+      "timestamp": 1773906794
+    },
+    {
+      "id": "BFMTV_1773905661",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: L'AGENCE MARITIME DE L'ONU S'APPRÊTE À DEMANDER UN \"CORRIDOR MARITIME SÛR\" POUR ÉVACUER LES NAVIRES BLOQUÉS",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:34",
+      "date": "19/03",
+      "timestamp": 1773905661
+    },
+    {
+      "id": "BFMTV_1773904440",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L'IRAN BOMBARDE TANT LE GAZ ET LE PÉTROLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:14",
+      "date": "19/03",
+      "timestamp": 1773904440
+    },
+    {
+      "id": "BFMTV_1773903166",
+      "source": "BFMTV",
+      "text": "\"L'IRAN COMMET DES CRIMES CONTRE L'HUMANITÉ\": EN IRAK, LES COMBATTANTS KURDES SONT VISÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:52",
+      "date": "19/03",
+      "timestamp": 1773903166
+    },
+    {
+      "id": "BFMTV_1773902849",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN \"TRAVAILLEUR ÉTRANGER\" DÉCÉDÉ EN ISRAËL APRÈS UNE FRAPPE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:47",
+      "date": "19/03",
+      "timestamp": 1773902849
+    },
+    {
+      "id": "BFMTV_1773902833",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA FORTUNE DU HEZBOLLAH UTILISÉE POUR GARDER LE SOUTIEN DE LA POPULATION LIBANAISE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:47",
+      "date": "19/03",
+      "timestamp": 1773902833
+    },
+    {
+      "id": "BFMTV_1773902778",
+      "source": "BFMTV",
+      "text": " GUERRE AU MOYEN-ORIENT: DES DÉGÂTS \"CONSIDÉRABLES\" SUR UNE INSTALLATION GAZIÈRE DU QATAR APRÈS UNE ATTAQUE IRANIENNE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:46",
+      "date": "19/03",
+      "timestamp": 1773902778
+    },
+    {
+      "id": "BFMTV_1773901055",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES AGRICULTEURS SOUS LE FEU DU HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:17",
+      "date": "19/03",
+      "timestamp": 1773901055
+    },
+    {
+      "id": "BFMTV_1773900023",
+      "source": "BFMTV",
+      "text": "L'ÉQUIPE FÉMININE IRANIENNE DE FOOT A REGAGNÉ L'IRAN, QUE RISQUENT LES FOOTBALLEUSES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:00",
+      "date": "19/03",
+      "timestamp": 1773900023
+    },
+    {
+      "id": "BFMTV_1773899289",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS INSTALLATIONS ÉNERGÉTIQUES TOUCHÉES PAR DES FRAPPES DANS LE CONFLIT OPPOSANT LES ÉTATS-UNIS ET ISRAËL À L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:48",
+      "date": "19/03",
+      "timestamp": 1773899289
+    },
+    {
+      "id": "BFMTV_1773899283",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L’ARMÉE ISRAÉLIENNE FAIT ÉTAT DE MISSILES LANCÉS VERS SON TERRITOIRE EN PROVENANCE D’IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:48",
+      "date": "19/03",
+      "timestamp": 1773899283
+    },
+    {
+      "id": "BFMTV_1773899147",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DONALD TRUMP MENACE DE DÉTRUIRE LA RÉSERVE DE GAZ DE SOUTH PARS SI TÉHÉRAN ATTAQUE À NOUVEAU UN SITE QATARI",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:45",
+      "date": "19/03",
+      "timestamp": 1773899147
+    },
+    {
+      "id": "BFMTV_1773898565",
+      "source": "BFMTV",
+      "text": "QATAR, IRAN, ARABIE SAOUDITE...LES GRANDS SITES PÉTROLIERS ET GAZIERS DU MOYEN-ORIENT PRIS POUR CIBLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:36",
+      "date": "19/03",
+      "timestamp": 1773898565
+    },
+    {
+      "id": "BFMTV_1773898498",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AÉROPORT, IMMEUBLES... ISRAËL SOUS LES BOMBES IRANIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:34",
+      "date": "19/03",
+      "timestamp": 1773898498
+    },
     {
       "id": "BFMTV_1773897354",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "21:16",
       "date": "17/03",
       "timestamp": 1773782216
-    },
-    {
-      "id": "BFMTV_1773782207",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉQUIPES DE BFMTV ONT PU ACCÉDER À UNE BASE MILITAIRE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:16",
-      "date": "17/03",
-      "timestamp": 1773782207
-    },
-    {
-      "id": "BFMTV_1773781415",
-      "source": "BFMTV",
-      "text": "BARACK OBAMA",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:03",
-      "date": "17/03",
-      "timestamp": 1773781415
-    },
-    {
-      "id": "BFMTV_1773781414",
-      "source": "BFMTV",
-      "text": "LE SURVIVANT DE LA BOMBE ATOMIQUE D'HIROSHIMA, QUE BARACK OBAMA AVAIT PRIS DANS SES BRAS, EST MORT À 88 ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:03",
-      "date": "17/03",
-      "timestamp": 1773781414
-    },
-    {
-      "id": "BFMTV_1773780200",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"DONALD TRUMP EST EN TRAIN D'ÉPUISER SON APPAREIL MILITAIRE\", OBSERVE MICHEL OLHAGARAY, ANCIEN DIRECTEUR DU CENTRE DES HAUTES ÉTUDES MILITAIRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:43",
-      "date": "17/03",
-      "timestamp": 1773780200
-    },
-    {
-      "id": "BFMTV_1773779926",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL SE PRÉPARE À DES FRAPPES INTENSES CE SOIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:38",
-      "date": "17/03",
-      "timestamp": 1773779926
-    },
-    {
-      "id": "BFMTV_1773779778",
-      "source": "BFMTV",
-      "text": "LES INTÉRÊTS AMÉRICAINS À BAGDAD ET AU KURDISTAN IRAKIEN SONT RÉGULIÈREMENT CIBLÉS PAR DES FRAPPES DE DRONES",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:36",
-      "date": "17/03",
-      "timestamp": 1773779778
-    },
-    {
-      "id": "BFMTV_1773779727",
-      "source": "BFMTV",
-      "text": "\"ILS SERONT ACCUEILLIS À BRAS OUVERTS\": JEAN-NOËL BARROT PLAIDE EN FAVEUR D'UNE UNION DOUANIÈRE ENTRE L'UE ET LE ROYAUME-UNI",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:35",
-      "date": "17/03",
-      "timestamp": 1773779727
-    },
-    {
-      "id": "BFMTV_1773779580",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP SUBIT UN REVERS DIPLOMATIQUE APRÈS LE REFUS DE PLUSIEURS PAYS DE SÉCURISER LE DÉTROIT D’ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:33",
-      "date": "17/03",
-      "timestamp": 1773779580
-    },
-    {
-      "id": "BFMTV_1773777068",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ASSURE QU'ELLE VA \"TRAQUER, TROUVER ET NEUTRALISER\" MOJTABA KHAMENEI",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:51",
-      "date": "17/03",
-      "timestamp": 1773777068
-    },
-    {
-      "id": "BFMTV_1773776932",
-      "source": "BFMTV",
-      "text": "LE DIRECTEUR DE L'ANTITERRORISME AMÉRICAIN DÉMISSIONNE, OPPOSÉ AU CONFLIT EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:48",
-      "date": "17/03",
-      "timestamp": 1773776932
-    },
-    {
-      "id": "BFMTV_1773776357",
-      "source": "BFMTV",
-      "text": "IRAN: QUI ÉTAIT ALI LARIJANI, LE DERNIER DIRIGEANT IRANIEN ABATTU PAR L'ARMÉE ISRAÉLIENNE ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:39",
-      "date": "17/03",
-      "timestamp": 1773776357
-    },
-    {
-      "id": "BFMTV_1773775117",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN INCENDIE SE DÉCLARE DANS UN IMMEUBLE AU CŒUR DE MANHATTAN ",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:18",
-      "date": "17/03",
-      "timestamp": 1773775117
-    },
-    {
-      "id": "BFMTV_1773774264",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: L’ARMÉE ISRAÉLIENNE AFFIRME QU’ELLE VA ÉLIMINER MOJTABA KHAMENEI, LE NOUVEAU GUIDE SUPRÊME",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:04",
-      "date": "17/03",
-      "timestamp": 1773774264
-    },
-    {
-      "id": "BFMTV_1773773878",
-      "source": "BFMTV",
-      "text": "IRAN: QUI SONT LES CADRES DU RÉGIME ENCORE EN VIE ? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:57",
-      "date": "17/03",
-      "timestamp": 1773773878
     }
   ],
   "france": {
