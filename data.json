@@ -1,7 +1,27 @@
 {
-  "last_update": "19/03 23:58",
+  "last_update": "20/03 05:09",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773983280",
+      "source": "BFMTV",
+      "text": "\"LES ISRAÉLIENS SONT TENTÉS D’ALLER PLUS LOIN QUE WASHINGTON\": ENTRE ISRAËL ET LES ÉTATS-UNIS, LES PREMIERS SIGNES DE \"DIVERGENCES\" DANS LA GUERRE CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:08",
+      "date": "20/03",
+      "timestamp": 1773983280
+    },
+    {
+      "id": "BFMTV_1773982973",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: NOUVELLES ATTAQUES CONTRE DES PAYS DU GOLFE, EMMANUEL MACRON ÉVOQUE UN \"CADRE ONUSIEN\" POUR SÉCURISER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:02",
+      "date": "20/03",
+      "timestamp": 1773982973
+    },
     {
       "id": "BFMTV_1773962176",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "05:48",
       "date": "19/03",
       "timestamp": 1773899283
-    },
-    {
-      "id": "BFMTV_1773899147",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DONALD TRUMP MENACE DE DÉTRUIRE LA RÉSERVE DE GAZ DE SOUTH PARS SI TÉHÉRAN ATTAQUE À NOUVEAU UN SITE QATARI",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:45",
-      "date": "19/03",
-      "timestamp": 1773899147
-    },
-    {
-      "id": "BFMTV_1773898565",
-      "source": "BFMTV",
-      "text": "QATAR, IRAN, ARABIE SAOUDITE...LES GRANDS SITES PÉTROLIERS ET GAZIERS DU MOYEN-ORIENT PRIS POUR CIBLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:36",
-      "date": "19/03",
-      "timestamp": 1773898565
     }
   ],
   "france": {
