@@ -1,7 +1,157 @@
 {
-  "last_update": "20/03 14:32",
+  "last_update": "20/03 17:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774026022",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES RÉCENTES ATTAQUES SUR LE QATAR ONT ENTRAÎNÉ UNE PERTE DE REVENUS D’ENVIRON 20 MILLIARDS DE DOLLARS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:00",
+      "date": "20/03",
+      "timestamp": 1774026022
+    },
+    {
+      "id": "BFMTV_1774026000",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE GUIDE SUPRÊME MOJTABA KHAMENEI ASSURE QUE LE GOUVERNEMENT \"RESTE EN PLACE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:00",
+      "date": "20/03",
+      "timestamp": 1774026000
+    },
+    {
+      "id": "BFMTV_1774025987",
+      "source": "BFMTV",
+      "text": "CORÉE DU NORD: LES MYSTÈRES AUTOUR DE LA FILLE DE KIM JONG UN ",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:59",
+      "date": "20/03",
+      "timestamp": 1774025987
+    },
+    {
+      "id": "BFMTV_1774025942",
+      "source": "BFMTV",
+      "text": "LA FILLE, UN FILS CACHÉ… QUI VA SUCCÉDER À KIM JONG UN?",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:59",
+      "date": "20/03",
+      "timestamp": 1774025942
+    },
+    {
+      "id": "BFMTV_1774025847",
+      "source": "BFMTV",
+      "text": "QU'EST-CE QUE LE NOROUZ, LE NOUVEL AN PERSAN FÊTÉ PAR LES IRANIENS EN PLEINE GUERRE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:57",
+      "date": "20/03",
+      "timestamp": 1774025847
+    },
+    {
+      "id": "BFMTV_1774024592",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L'ÎLE DE KHARG SE RETROUVE AU CENTRE DES TENSIONS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:36",
+      "date": "20/03",
+      "timestamp": 1774024592
+    },
+    {
+      "id": "BFMTV_1774023589",
+      "source": "BFMTV",
+      "text": "EN DÉPLACEMENT EN ISRAËL, JEAN-NOËL BARROT A DÛ SE METTRE À L’ABRI SUITE À DES BOMBARDEMENTS IRANIENS AVANT SA PRISE DE PAROLE, RACONTE NOTRE REPORTER",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:19",
+      "date": "20/03",
+      "timestamp": 1774023589
+    },
+    {
+      "id": "BFMTV_1774022055",
+      "source": "BFMTV",
+      "text": " \"JE NE SUIS PAS JEFFREY EPSTEIN\": CET AMÉRICAIN RÉPOND À UNE VIDÉO VIRALE LE PRÉSENTANT COMME LE PÉDOCRIMINEL ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:54",
+      "date": "20/03",
+      "timestamp": 1774022055
+    },
+    {
+      "id": "BFMTV_1774021959",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES IRANIENS \"N'ONT PLUS DE MARINE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:52",
+      "date": "20/03",
+      "timestamp": 1774021959
+    },
+    {
+      "id": "BFMTV_1774021552",
+      "source": "BFMTV",
+      "text": "“LE RISQUE D’ANARCHIE EN IRAN EST GRAND S’IL N’Y A PAS DE CHANGEMENT DE RÉGIME”, OBSERVE KHATTAR ABOU DIAB, POLITOLOGUE SPÉCIALISTE DU MOYEN-ORIENT ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:45",
+      "date": "20/03",
+      "timestamp": 1774021552
+    },
+    {
+      "id": "BFMTV_1774021442",
+      "source": "BFMTV",
+      "text": " MOJTABA KHAMENEI, GUIDE SUPRÊME DE L'IRAN, ASSURE QUE LE  \"GOUVERNEMENT RESTE EN PLACE\" ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:44",
+      "date": "20/03",
+      "timestamp": 1774021442
+    },
+    {
+      "id": "BFMTV_1774021019",
+      "source": "BFMTV",
+      "text": "\"NOTRE GOUVERNEMENT RESTE EN PLACE\": LE GUIDE SUPRÊME MOJTABA KHAMENEI ASSURE QUE \"L'ÉCONOMIE IRANIENNE RÉSISTE\" APRÈS TROIS SEMAINES DE CONFLIT",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:36",
+      "date": "20/03",
+      "timestamp": 1774021019
+    },
+    {
+      "id": "BFMTV_1774020829",
+      "source": "BFMTV",
+      "text": "PLUS DE 100 PERSONNES ARRÊTÉES À ABOU DABI APRÈS AVOIR FILMÉ ET DIFFUSÉ DES IMAGES DE LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:33",
+      "date": "20/03",
+      "timestamp": 1774020829
+    },
+    {
+      "id": "OPEX360_1774019769",
+      "source": "OPEX360",
+      "text": "SCAF OU GCAP ? L’INDE ENVISAGE DE PARTICIPER À L’UN DES DEUX PROJETS EUROPÉENS D’AVION DE COMBAT DE 6E GÉNÉRATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:16",
+      "date": "20/03",
+      "timestamp": 1774019769
+    },
+    {
+      "id": "BFMTV_1774019014",
+      "source": "BFMTV",
+      "text": "\"NOTRE GOUVERNEMENT RESTE EN PLACE\", DÉCLARE MOJTABA KHAMENEI, GUIDE SUPRÊME DE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:03",
+      "date": "20/03",
+      "timestamp": 1774019014
+    },
     {
       "id": "BFMTV_1774017027",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "16:35",
       "date": "19/03",
       "timestamp": 1773938117
-    },
-    {
-      "id": "BFMTV_1773937550",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA PRISE DE PAROLE DU PRÉSIDENT AMÉRICAIN DONALD TRUMP, EN INTÉGRALITÉ ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:25",
-      "date": "19/03",
-      "timestamp": 1773937550
-    },
-    {
-      "id": "BFMTV_1773937390",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QU'IL \"NE VA PAS DÉPLOYER DE TROUPES\" EN IRAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:23",
-      "date": "19/03",
-      "timestamp": 1773937390
-    },
-    {
-      "id": "BFMTV_1773936620",
-      "source": "BFMTV",
-      "text": "SÉOUL SE PRÉPARE À UNE AFFLUENCE RECORD POUR LE RETOUR DE BTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:10",
-      "date": "19/03",
-      "timestamp": 1773936620
-    },
-    {
-      "id": "BFMTV_1773936543",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE L'ARMÉE AMÉRICAINE EST EN MESURE DE PRENDRE L'ÎLE DE KHARG",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:09",
-      "date": "19/03",
-      "timestamp": 1773936543
-    },
-    {
-      "id": "BFMTV_1773936503",
-      "source": "BFMTV",
-      "text": "\"NULLE PART\": DONALD TRUMP RÉAFFIRME QU'IL N Y AURA PAS DE TROUPES AMÉRICAINE AU SOL EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:08",
-      "date": "19/03",
-      "timestamp": 1773936503
-    },
-    {
-      "id": "BFMTV_1773936189",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ON EST EN AVANCE SUR NOTRE CALENDRIER\", AFFIRME DONALD TRUMP, PRÉSIDENT DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:03",
-      "date": "19/03",
-      "timestamp": 1773936189
-    },
-    {
-      "id": "BFMTV_1773936023",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NON JE NE VAIS PAS DÉPLOYER DE TROUPES\", AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:00",
-      "date": "19/03",
-      "timestamp": 1773936023
-    },
-    {
-      "id": "BFMTV_1773935227",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA \"QUASI-TOTALITÉ\" DES RESSORTISSANTS QUI LE SOUHAITAIENT ONT PU REVENIR EN FRANCE",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:47",
-      "date": "19/03",
-      "timestamp": 1773935227
-    },
-    {
-      "id": "BFMTV_1773935136",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE QATAR PRÉVIENT QUE L'ATTAQUE IRANIENNE SUR SON SITE GAZIER A DE \"LOURDES RÉPERCUSSIONS\" SUR L'APPROVISIONNEMENT ÉNERGÉTIQUE MONDIALE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:45",
-      "date": "19/03",
-      "timestamp": 1773935136
-    },
-    {
-      "id": "BFMTV_1773934963",
-      "source": "BFMTV",
-      "text": "QUI EST HOSSEIN DEHGHAN, LE NOUVEAU SECRÉTAIRE DU CONSEIL SUPRÊME DE SÉCURITÉ NATIONALE IRANIEN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:42",
-      "date": "19/03",
-      "timestamp": 1773934963
-    },
-    {
-      "id": "OPEX360_1773931445",
-      "source": "OPEX360",
-      "text": "SCAF : PARIS ET BERLIN VONT TENTER UNE ULTIME MÉDIATION ENTRE DASSAULT AVIATION ET AIRBUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:44",
-      "date": "19/03",
-      "timestamp": 1773931445
-    },
-    {
-      "id": "BFMTV_1773931000",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SIX PAYS, DONT LA FRANCE, SE DISENT \"PRÊTS À CONTRIBUER\" À LA SÉCURISATION DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:36",
-      "date": "19/03",
-      "timestamp": 1773931000
-    },
-    {
-      "id": "BFMTV_1773930637",
-      "source": "BFMTV",
-      "text": "\"C'ÉTAIT UNE DÉCISION UNANIME DE NE PAS MODIFIER LES TAUX DU TOUT\", DÉCLARE CHRISTINE LAGARDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:30",
-      "date": "19/03",
-      "timestamp": 1773930637
-    },
-    {
-      "id": "BFMTV_1773930348",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ATTAQUES SUR DES INSTALLATIONS ÉNERGÉTIQUES SE MULTIPLIENT DANS LE GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:25",
-      "date": "19/03",
-      "timestamp": 1773930348
-    },
-    {
-      "id": "BFMTV_1773930148",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: SIX PAYS, DONT LA FRANCE ET LE ROYAUME-UNI, \"PRÊTS À CONTRIBUER\" À LA SÉCURISATION DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:22",
-      "date": "19/03",
-      "timestamp": 1773930148
     }
   ],
   "france": {
