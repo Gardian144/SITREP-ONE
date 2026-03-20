@@ -1,7 +1,97 @@
 {
-  "last_update": "20/03 17:06",
+  "last_update": "20/03 19:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774034439",
+      "source": "BFMTV",
+      "text": "\"CNN ET CBS NEWS\": LE SÉNATEUR DÉMOCRATE ADAM SCHIFF S'INTERROGE SUR L'IMPACT POTENTIEL DU PROJET DE FUSION ENTRE PARAMOUNT ET WARNER BROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:20",
+      "date": "20/03",
+      "timestamp": 1774034439
+    },
+    {
+      "id": "OPEX360_1774032478",
+      "source": "OPEX360",
+      "text": "LA BRITISH ARMY SE SÉPARE DE SES EMBLÉMATIQUES LAND ROVER APRÈS PLUS DE 70 ANS DE SERVICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:47",
+      "date": "20/03",
+      "timestamp": 1774032478
+    },
+    {
+      "id": "BFMTV_1774031998",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ASSURENT POUVOIR \"NEUTRALISER\" UN SITE PÉTROLIER VITAL POUR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:39",
+      "date": "20/03",
+      "timestamp": 1774031998
+    },
+    {
+      "id": "BFMTV_1774030858",
+      "source": "BFMTV",
+      "text": "MADE IN MONTEBOURG - “IL VA BIEN FALLOIR QU’ON INVENTE DES SOLUTIONS POUR SE PASSER DU GAZ”, ANALYSE ARNAUD MONTEBOURG, ANCIEN MINISTRE DE L'ÉCONOMIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:20",
+      "date": "20/03",
+      "timestamp": 1774030858
+    },
+    {
+      "id": "BFMTV_1774030491",
+      "source": "BFMTV",
+      "text": "\"UNE PURE INVENTION POLITIQUE\": POUR LE SPÉCIALISTE ALAIN PELLET, LA GUERRE \"PRÉVENTIVE\" CONTRE L'IRAN N'A AUCUN FONDEMENT JURIDIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:14",
+      "date": "20/03",
+      "timestamp": 1774030491
+    },
+    {
+      "id": "BFMTV_1774030265",
+      "source": "BFMTV",
+      "text": "MADE IN MONTEBOURG - “C’EST L’ADMINISTRATION AMÉRICAINE ET DONALD TRUMP QUI SONT SEULS ET EN DIFFICULTÉ”, DÉNONCE ARNAUD MONTEBOURG, ANCIEN MINISTRE DE L'ÉCONOMIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:11",
+      "date": "20/03",
+      "timestamp": 1774030265
+    },
+    {
+      "id": "BFMTV_1774029874",
+      "source": "BFMTV",
+      "text": "\"CE SONT DES MESURES TEMPORAIRES\": L'AMBASSADEUR DES USA À L'ONU JUSTIFIE LA LEVÉE DES SANCTIONS CONTRE LE PÉTROLE RUSSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:04",
+      "date": "20/03",
+      "timestamp": 1774029874
+    },
+    {
+      "id": "BFMTV_1774029479",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LE PIÈGE RISQUE DE SE REFERMER SUR DONALD TRUMP\", EXPLIQUE MICHEL DUCLOS, ANCIEN AMBASSADEUR DE FRANCE EN SYRIE",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:57",
+      "date": "20/03",
+      "timestamp": 1774029479
+    },
+    {
+      "id": "OPEX360_1774027970",
+      "source": "OPEX360",
+      "text": "WASHINGTON APPROUVE DES VENTES D’ÉQUIPEMENTS MILITAIRES AU KOWEÏT ET AUX ÉMIRATS POUR 16,5 MILLIARDS DE DOLLARS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:32",
+      "date": "20/03",
+      "timestamp": 1774027970
+    },
     {
       "id": "BFMTV_1774026022",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "19:29",
       "date": "19/03",
       "timestamp": 1773948560
-    },
-    {
-      "id": "OPEX360_1773944988",
-      "source": "OPEX360",
-      "text": "LE NAVIRE AMPHIBIE AMÉRICAIN USS TORTUGA A REPRIS LA MER APRÈS AVOIR ÉTÉ IMMOBILISÉ PENDANT DOUZE ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:29",
-      "date": "19/03",
-      "timestamp": 1773944988
-    },
-    {
-      "id": "BFMTV_1773944344",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA DIRECTRICE DU RENSEIGNEMENT AMÉRICAIN REFUSE DE CONFIRMER LES PROPOS DE DONALD TRUMP SELON LESQUELS L'IRAN REPRÉSENTAIT UNE \"MENACE IMMINENTE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:19",
-      "date": "19/03",
-      "timestamp": 1773944344
-    },
-    {
-      "id": "BFMTV_1773944324",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: SEMAINE DE 4 JOURS, TÉLÉTRAVAIL...COMMENT LES PAYS ASIATIQUES S'ADAPTENT À LA PÉNURIE DE CARBURANT LIÉE À LA FERMETURE DU DÉTROIT D'ORMUZ ? ",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:18",
-      "date": "19/03",
-      "timestamp": 1773944324
-    },
-    {
-      "id": "BFMTV_1773943505",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"SI CELA DURE, ON ENTRE DANS UNE PÉRIODE ÉCONOMIQUEMENT TRÈS TRÈS INQUIÉTANTE\", DÉCLARE BERNARD GUETTA, DÉPUTÉ EUROPÉEN RENEW",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:05",
-      "date": "19/03",
-      "timestamp": 1773943505
-    },
-    {
-      "id": "BFMTV_1773942563",
-      "source": "BFMTV",
-      "text": "\"QUI CONNAÎT MIEUX LES SURPRISES QUE LE JAPON?\": INTERROGÉ SUR L'ATTAQUE AMÉRICAINE EN IRAN, DONALD TRUMP ÉVOQUE PEARL HARBOR DEVANT LA PREMIÈRE MINISTRE JAPONAISE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:49",
-      "date": "19/03",
-      "timestamp": 1773942563
-    },
-    {
-      "id": "BFMTV_1773940928",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP A DEMANDÉ À BENJAMIN NETANYAHU D'ARRÊTER DE CIBLER LES INFRASTRUCTURES ÉNERGÉTIQUES EN IRAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:22",
-      "date": "19/03",
-      "timestamp": 1773940928
-    },
-    {
-      "id": "OPEX360_1773939836",
-      "source": "OPEX360",
-      "text": "DES RAFALE DE LA 4E ESCADRE DE CHASSE VONT DE NOUVEAU ÊTRE DÉPLOYÉS EN LITUANIE DANS LE CADRE DE L’OTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:03",
-      "date": "19/03",
-      "timestamp": 1773939836
-    },
-    {
-      "id": "BFMTV_1773938820",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L'EAU POTABLE EST UN ENJEU MAJEUR DU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:47",
-      "date": "19/03",
-      "timestamp": 1773938820
-    },
-    {
-      "id": "BFMTV_1773938117",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: EN MAUVAIS ÉTAT, LE PORTE-AVIONS USS GERALD FORD DEVRAIT BIENTÔT QUITTER LE MOYEN-ORIENT ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:35",
-      "date": "19/03",
-      "timestamp": 1773938117
     }
   ],
   "france": {
