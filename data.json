@@ -1,7 +1,137 @@
 {
-  "last_update": "20/03 05:09",
+  "last_update": "20/03 07:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1773991906",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: TÉHÉRAN ASSURE QUE LA PRODUCTION DE MISSILES \"CONTINUE\" MALGRÉ LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:31",
+      "date": "20/03",
+      "timestamp": 1773991906
+    },
+    {
+      "id": "BFMTV_1773990001",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:00",
+      "date": "20/03",
+      "timestamp": 1773990001
+    },
+    {
+      "id": "BFMTV_1773989300",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PENTAGONE RÉCLAMERAIT UNE RALLONGE BUDGÉTAIRE DE 200 MILLIARDS DE DOLLARS POUR FINANCER LA GUERRE EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:48",
+      "date": "20/03",
+      "timestamp": 1773989300
+    },
+    {
+      "id": "BFMTV_1773987680",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU L'ASSURE: L'IRAN EST \"EN TRAIN D'ÊTRE DÉCIMÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:21",
+      "date": "20/03",
+      "timestamp": 1773987680
+    },
+    {
+      "id": "BFMTV_1773987546",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEPUIS LE DÉBUT DU CONFLIT, LA VILLE D'ERBIL (IRAK) NE PEUT FOURNIR QUE QUATRE HEURES D'ÉLECTRICITÉ PAR JOUR À SES HABITANTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:19",
+      "date": "20/03",
+      "timestamp": 1773987546
+    },
+    {
+      "id": "BFMTV_1773987120",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PORTE-AVIONS CHARLES-DE-GAULLE LOCALISÉ EN TEMPS RÉEL À CAUSE DE L’APPLICATION DE SPORT STRAVA",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:12",
+      "date": "20/03",
+      "timestamp": 1773987120
+    },
+    {
+      "id": "BFMTV_1773987053",
+      "source": "BFMTV",
+      "text": "LE MEXIQUE DÉNONCE LA MORT \"INACCEPTABLE\" D'UN DE SES RESSORTISSANTS DÉTENU PAR LA POLICE AMÉRICAINE DE L'IMMIGRATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:10",
+      "date": "20/03",
+      "timestamp": 1773987053
+    },
+    {
+      "id": "BFMTV_1773986550",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: NOUVELLES ATTAQUES CONTRE DES PAYS DU GOLFE, ISRAËL ET L'IRAN ÉGALEMENT VISÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:02",
+      "date": "20/03",
+      "timestamp": 1773986550
+    },
+    {
+      "id": "BFMTV_1773986485",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS ET LE KOWEÏT ONT INDIQUÉ RÉPONDRE À L'IRAN PAR DES ATTAQUES DE MISSILES",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:01",
+      "date": "20/03",
+      "timestamp": 1773986485
+    },
+    {
+      "id": "BFMTV_1773985772",
+      "source": "BFMTV",
+      "text": "\"DANS LA GUERRE, DE TOUTE FAÇON, TOUT LE MONDE EST PERDANT\": COMMENT LES DRUZES SE RETROUVENT PRIS ENTRE DEUX FEUX AVEC LA GUERRE AU MOYEN-ORIENT?",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:49",
+      "date": "20/03",
+      "timestamp": 1773985772
+    },
+    {
+      "id": "BFMTV_1773985454",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: TSAHAL CONTINUE DE CIBLER LES LEADERS DU HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:44",
+      "date": "20/03",
+      "timestamp": 1773985454
+    },
+    {
+      "id": "BFMTV_1773984613",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUE RESTE-T-IL DES CAPACITÉS NUCLÉAIRES IRANIENNES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:30",
+      "date": "20/03",
+      "timestamp": 1773984613
+    },
+    {
+      "id": "BFMTV_1773983953",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"L'IRAN EST EN TRAIN D'ÊTRE DÉCIMÉ\": BENJAMIN NETANYAHU ASSURE QUE TÉHÉRAN N'A PLUS AUCUNE CAPACITÉ D'ENRICHIR L'URANIUM",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:19",
+      "date": "20/03",
+      "timestamp": 1773983953
+    },
     {
       "id": "BFMTV_1773983280",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "08:58",
       "date": "19/03",
       "timestamp": 1773910727
-    },
-    {
-      "id": "BFMTV_1773910454",
-      "source": "BFMTV",
-      "text": "SUISSE: UNE PERSONNE MEURT APRÈS LA CHUTE D'UNE TÉLÉCABINE DANS UNE STATION DE SKI ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:54",
-      "date": "19/03",
-      "timestamp": 1773910454
-    },
-    {
-      "id": "BFMTV_1773910231",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ON SENT QUE CE N'EST PAS LA DERNIÈRE CRISE ET PEUT-ÊTRE LA MOINS VIOLENTE DE TOUTES CELLES QUI SONT À VENIR\", AFFIRME LE CAPITAINE NICOLAS BRAULT",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:50",
-      "date": "19/03",
-      "timestamp": 1773910231
-    },
-    {
-      "id": "BFMTV_1773906794",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: MAUD BREGEON ASSURE QU'UNE BAISSE DES TAXES N'EST \"PAS ENVISAGÉE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:53",
-      "date": "19/03",
-      "timestamp": 1773906794
-    },
-    {
-      "id": "BFMTV_1773905661",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: L'AGENCE MARITIME DE L'ONU S'APPRÊTE À DEMANDER UN \"CORRIDOR MARITIME SÛR\" POUR ÉVACUER LES NAVIRES BLOQUÉS",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:34",
-      "date": "19/03",
-      "timestamp": 1773905661
-    },
-    {
-      "id": "BFMTV_1773904440",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L'IRAN BOMBARDE TANT LE GAZ ET LE PÉTROLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:14",
-      "date": "19/03",
-      "timestamp": 1773904440
-    },
-    {
-      "id": "BFMTV_1773903166",
-      "source": "BFMTV",
-      "text": "\"L'IRAN COMMET DES CRIMES CONTRE L'HUMANITÉ\": EN IRAK, LES COMBATTANTS KURDES SONT VISÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:52",
-      "date": "19/03",
-      "timestamp": 1773903166
-    },
-    {
-      "id": "BFMTV_1773902849",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN \"TRAVAILLEUR ÉTRANGER\" DÉCÉDÉ EN ISRAËL APRÈS UNE FRAPPE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:47",
-      "date": "19/03",
-      "timestamp": 1773902849
-    },
-    {
-      "id": "BFMTV_1773902833",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA FORTUNE DU HEZBOLLAH UTILISÉE POUR GARDER LE SOUTIEN DE LA POPULATION LIBANAISE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:47",
-      "date": "19/03",
-      "timestamp": 1773902833
-    },
-    {
-      "id": "BFMTV_1773902778",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: DES DÉGÂTS \"CONSIDÉRABLES\" SUR UNE INSTALLATION GAZIÈRE DU QATAR APRÈS UNE ATTAQUE IRANIENNE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:46",
-      "date": "19/03",
-      "timestamp": 1773902778
-    },
-    {
-      "id": "BFMTV_1773901055",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES AGRICULTEURS SOUS LE FEU DU HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:17",
-      "date": "19/03",
-      "timestamp": 1773901055
-    },
-    {
-      "id": "BFMTV_1773900023",
-      "source": "BFMTV",
-      "text": "L'ÉQUIPE FÉMININE IRANIENNE DE FOOT A REGAGNÉ L'IRAN, QUE RISQUENT LES FOOTBALLEUSES?",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:00",
-      "date": "19/03",
-      "timestamp": 1773900023
-    },
-    {
-      "id": "BFMTV_1773899289",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS INSTALLATIONS ÉNERGÉTIQUES TOUCHÉES PAR DES FRAPPES DANS LE CONFLIT OPPOSANT LES ÉTATS-UNIS ET ISRAËL À L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:48",
-      "date": "19/03",
-      "timestamp": 1773899289
-    },
-    {
-      "id": "BFMTV_1773899283",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L’ARMÉE ISRAÉLIENNE FAIT ÉTAT DE MISSILES LANCÉS VERS SON TERRITOIRE EN PROVENANCE D’IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:48",
-      "date": "19/03",
-      "timestamp": 1773899283
     }
   ],
   "france": {
