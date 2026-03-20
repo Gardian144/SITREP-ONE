@@ -1,7 +1,137 @@
 {
-  "last_update": "20/03 10:02",
+  "last_update": "20/03 11:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774007023",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: SEIZE NAVIRES IRANIENS FRAPPÉS DANS UN PORT DU GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:43",
+      "date": "20/03",
+      "timestamp": 1774007023
+    },
+    {
+      "id": "BFMTV_1774006665",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:37",
+      "date": "20/03",
+      "timestamp": 1774006665
+    },
+    {
+      "id": "BFMTV_1774006644",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL POURSUIT SA CAMPAGNE VISANT À NEUTRALISER LES DIRIGEANTS DU RÉGIME IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:37",
+      "date": "20/03",
+      "timestamp": 1774006644
+    },
+    {
+      "id": "BFMTV_1774006188",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN AVION DE COMBAT AMÉRICAIN F-35 ATTERRIT EN URGENCE APRÈS UN TIR PRÉSUMÉ IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:29",
+      "date": "20/03",
+      "timestamp": 1774006188
+    },
+    {
+      "id": "BFMTV_1774006006",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: COMMENT LIBÉRER LE DÉTROIT D'ORMUZ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:26",
+      "date": "20/03",
+      "timestamp": 1774006006
+    },
+    {
+      "id": "OPEX360_1774005914",
+      "source": "OPEX360",
+      "text": "A PRIORI TOUCHÉ PAR UN TIR IRANIEN, UN F-35A AMÉRICAIN A DÛ EFFECTUER UN ATTERRISSAGE D’URGENCE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:25",
+      "date": "20/03",
+      "timestamp": 1774005914
+    },
+    {
+      "id": "BFMTV_1774005654",
+      "source": "BFMTV",
+      "text": "UNE FEMME INCULPÉE DE MEURTRE PAR LA POLICE AUX ÉTATS-UNIS APRÈS AVOIR PRIS DES PILULES POUR PROVOQUER UN AVORTEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:20",
+      "date": "20/03",
+      "timestamp": 1774005654
+    },
+    {
+      "id": "BFMTV_1774005435",
+      "source": "BFMTV",
+      "text": "UNE CANADIENNE ET SA FILLE AUTISTE DE 7 ANS DÉTENUES PAR LA POLICE AMÉRICAINE DE L'IMMIGRATION AU TEXAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:17",
+      "date": "20/03",
+      "timestamp": 1774005435
+    },
+    {
+      "id": "BFMTV_1774004079",
+      "source": "BFMTV",
+      "text": "GUERRE MOYEN-ORIENT: DEPUIS 48 HEURES, TÉHÉRAN BEAUCOUP MOINS FRAPPÉ PAR LES MISSILES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:54",
+      "date": "20/03",
+      "timestamp": 1774004079
+    },
+    {
+      "id": "BFMTV_1774002983",
+      "source": "BFMTV",
+      "text": "MORT DU PORTE-PAROLE DES GARDIENS DE LA RÉVOLUTION: \"SYMBOLIQUEMENT, C'EST IMPORTANT\", ESTIME ADEL BAKAWAN (EISMEN)",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:36",
+      "date": "20/03",
+      "timestamp": 1774002983
+    },
+    {
+      "id": "BFMTV_1774002753",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: 16 NAVIRES IRANIENS FRAPPÉS DANS UN PORT DU GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:32",
+      "date": "20/03",
+      "timestamp": 1774002753
+    },
+    {
+      "id": "BFMTV_1774002185",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - COMMENT FAIRE PASSER LES BATEAUX PAR LE DÉTROIT D'ORMUZ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:23",
+      "date": "20/03",
+      "timestamp": 1774002185
+    },
+    {
+      "id": "BFMTV_1774001293",
+      "source": "BFMTV",
+      "text": "SOUPÇONNÉ D'ESPIONNAGE AU PROFIT DE L'IRAN: UN RÉSERVISTE DE L'ARMÉE ISRAÉLIENNE AU SEIN DU DÔME DE FER ARRÊTÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:08",
+      "date": "20/03",
+      "timestamp": 1774001293
+    },
     {
       "id": "BFMTV_1774000308",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "11:43",
       "date": "19/03",
       "timestamp": 1773920588
-    },
-    {
-      "id": "BFMTV_1773920575",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN RÉITÈRE SES MENACES CONTRE LES INFRASTRUCTURES ÉNERGÉTIQUES DE LA RÉGION ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:42",
-      "date": "19/03",
-      "timestamp": 1773920575
-    },
-    {
-      "id": "BFMTV_1773920564",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:42",
-      "date": "19/03",
-      "timestamp": 1773920564
-    },
-    {
-      "id": "BFMTV_1773919817",
-      "source": "BFMTV",
-      "text": "HAUSSE DES PRIX: ROBERTA METSOLA ASSURE QUE L’UE AGIRA POUR LE QUOTIDIEN DES EUROPÉENS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:30",
-      "date": "19/03",
-      "timestamp": 1773919817
-    },
-    {
-      "id": "BFMTV_1773919519",
-      "source": "BFMTV",
-      "text": "\"LA FRANCE NE PREND PAS PART AU CONFLIT AU MOYEN-ORIENT, SA POSTURE DEMEURE STRICTEMENT DÉFENSIVE\", RAPPELLE LA PORTE-PAROLE DU MINISTÈRE DES ARMÉES",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:25",
-      "date": "19/03",
-      "timestamp": 1773919519
-    },
-    {
-      "id": "BFMTV_1773918941",
-      "source": "BFMTV",
-      "text": "UN GARÇON DE 11 ANS INCULPÉ POUR LE MEURTRE DE SON PETIT FRÈRE ÂGÉ DE 5 ANS DANS LE COLORADO",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:15",
-      "date": "19/03",
-      "timestamp": 1773918941
-    },
-    {
-      "id": "BFMTV_1773918516",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'OFFENSIVE DE TSAHAL NE FAIBLIT PAS FACE AU HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:08",
-      "date": "19/03",
-      "timestamp": 1773918516
-    },
-    {
-      "id": "BFMTV_1773918298",
-      "source": "BFMTV",
-      "text": "ÉPIDÉMIE MORTELLE DE MÉNINGITE EN ANGLETERRE: LE NOMBRE DE CAS SIGNALÉS GRIMPE DE 20 À 27, DONT 15 CONFIRMÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:04",
-      "date": "19/03",
-      "timestamp": 1773918298
-    },
-    {
-      "id": "BFMTV_1773916526",
-      "source": "BFMTV",
-      "text": "LE HONGROIS VIKTOR ORBAN BLOQUE LES AIDES À L'UKRAINE: \"EN PÉRIODE D'ÉLECTIONS, LES GENS NE SONT PAS AUSSI RATIONNELS\", TACLE LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:35",
-      "date": "19/03",
-      "timestamp": 1773916526
-    },
-    {
-      "id": "BFMTV_1773915789",
-      "source": "BFMTV",
-      "text": "AVION DE COMBAT EUROPÉEN: EMMANUEL MACRON ANNONCE UNE \"MISSION DE RAPPROCHEMENT\" ENTRE AIRBUS ET DASSAULT",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:23",
-      "date": "19/03",
-      "timestamp": 1773915789
-    },
-    {
-      "id": "BFMTV_1773915723",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON APPELLE À LAISSER LES FORCES LIBANAISES ASSURER LA SÉCURITÉ DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:22",
-      "date": "19/03",
-      "timestamp": 1773915723
-    },
-    {
-      "id": "BFMTV_1773915691",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES DÉPUTÉS IRANIENS PROPOSENT DE FAIRE PAYER LE PASSAGE DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:21",
-      "date": "19/03",
-      "timestamp": 1773915691
-    },
-    {
-      "id": "BFMTV_1773915330",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE À DES DISCUSSIONS \"DIRECTES\" ENTRE AMÉRICAINS ET IRANIENS SUR LES INFRASTRUCTURES ÉNERGÉTIQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:15",
-      "date": "19/03",
-      "timestamp": 1773915330
-    },
-    {
-      "id": "BFMTV_1773914599",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"CETTE ESCALADE EST INCONSIDÉRÉE\", DÉNONCE EMMANUEL MACRON ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:03",
-      "date": "19/03",
-      "timestamp": 1773914599
     }
   ],
   "france": {
