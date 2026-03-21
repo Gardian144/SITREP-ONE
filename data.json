@@ -1,7 +1,47 @@
 {
-  "last_update": "21/03 16:58",
+  "last_update": "21/03 17:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774114954",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT : UN MISSILE IRANIEN A FRAPPÉ DIMONA EN ISRAËL, BLESSANT LÉGÈREMENT 20 PERSONNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:42",
+      "date": "21/03",
+      "timestamp": 1774114954
+    },
+    {
+      "id": "BFMTV_1774114879",
+      "source": "BFMTV",
+      "text": "ROBERT MUELLER, ANCIEN DIRECTEUR DU FBI ET PROCUREUR SPÉCIAL SUR L'AFFAIRE DU \"RUSSIAGATE\", EST MORT",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:41",
+      "date": "21/03",
+      "timestamp": 1774114879
+    },
+    {
+      "id": "BFMTV_1774114657",
+      "source": "BFMTV",
+      "text": "PORTÉE DES MISSILES À 4.000 KILOMÈTRES: L'IRAN PEUT-IL FRAPPER L'EUROPE ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:37",
+      "date": "21/03",
+      "timestamp": 1774114657
+    },
+    {
+      "id": "BFMTV_1774113699",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA COMMISSION EUROPÉENNE APPELLE LES ÉTATS MEMBRES À MOINS REMPLIR LEURS STOCKS DE GAZ POUR L'HIVER PROCHAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:21",
+      "date": "21/03",
+      "timestamp": 1774113699
+    },
     {
       "id": "BFMTV_1774110802",
       "source": "BFMTV",
@@ -26,6 +66,16 @@
       "id": "BFMTV_1774109734",
       "source": "BFMTV",
       "text": "GUERRE AU MOYEN-ORIENT: DES DÉBRIS DE BOMBE GBU RETROUVÉS PRÈS D'HABITATIONS À THÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:15",
+      "date": "21/03",
+      "timestamp": 1774109734
+    },
+    {
+      "id": "BFMTV_1774109734",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES DÉBRIS DE BOMBE GBU RETROUVÉS PRÈS D'HABITATIONS À TÉHÉRAN",
       "urgent": true,
       "france_related": false,
       "time": "16:15",
@@ -951,56 +1001,6 @@
       "time": "15:45",
       "date": "20/03",
       "timestamp": 1774021552
-    },
-    {
-      "id": "BFMTV_1774021442",
-      "source": "BFMTV",
-      "text": " MOJTABA KHAMENEI, GUIDE SUPRÊME DE L'IRAN, ASSURE QUE LE  \"GOUVERNEMENT RESTE EN PLACE\" ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:44",
-      "date": "20/03",
-      "timestamp": 1774021442
-    },
-    {
-      "id": "BFMTV_1774021019",
-      "source": "BFMTV",
-      "text": "\"NOTRE GOUVERNEMENT RESTE EN PLACE\": LE GUIDE SUPRÊME MOJTABA KHAMENEI ASSURE QUE \"L'ÉCONOMIE IRANIENNE RÉSISTE\" APRÈS TROIS SEMAINES DE CONFLIT",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:36",
-      "date": "20/03",
-      "timestamp": 1774021019
-    },
-    {
-      "id": "BFMTV_1774020829",
-      "source": "BFMTV",
-      "text": "PLUS DE 100 PERSONNES ARRÊTÉES À ABOU DABI APRÈS AVOIR FILMÉ ET DIFFUSÉ DES IMAGES DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:33",
-      "date": "20/03",
-      "timestamp": 1774020829
-    },
-    {
-      "id": "OPEX360_1774019769",
-      "source": "OPEX360",
-      "text": "SCAF OU GCAP ? L’INDE ENVISAGE DE PARTICIPER À L’UN DES DEUX PROJETS EUROPÉENS D’AVION DE COMBAT DE 6E GÉNÉRATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:16",
-      "date": "20/03",
-      "timestamp": 1774019769
-    },
-    {
-      "id": "BFMTV_1774019014",
-      "source": "BFMTV",
-      "text": "\"NOTRE GOUVERNEMENT RESTE EN PLACE\", DÉCLARE MOJTABA KHAMENEI, GUIDE SUPRÊME DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:03",
-      "date": "20/03",
-      "timestamp": 1774019014
     }
   ],
   "france": {
