@@ -1,7 +1,137 @@
 {
-  "last_update": "21/03 04:55",
+  "last_update": "21/03 07:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774076484",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: ISRAËL DIT FRAPPER LE HEZBOLLAH À BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:01",
+      "date": "21/03",
+      "timestamp": 1774076484
+    },
+    {
+      "id": "BFMTV_1774076353",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE LES ÉMIRATS DE \"VIOLENTES FRAPPES\" EN CAS D'ATTAQUES CONTRE DES ÎLES DU GOLFE CONTRÔLÉES PAR TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:59",
+      "date": "21/03",
+      "timestamp": 1774076353
+    },
+    {
+      "id": "BFMTV_1774076219",
+      "source": "BFMTV",
+      "text": "\"LA PATIENCE DONT NOUS FAISONS PREUVE N'EST PAS ILLIMITÉE\": FACE AUX ATTAQUES IRANIENNES, LE MINISTRE SAOUDIEN DES AFFAIRES ÉTRANGÈRES TAPE DU POING SUR LA TABLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:56",
+      "date": "21/03",
+      "timestamp": 1774076219
+    },
+    {
+      "id": "BFMTV_1774075808",
+      "source": "BFMTV",
+      "text": "MUR DES LAMENTATIONS, BASILIQUE DU SAINT-SÉPULCRE, MOSQUÉE D'AL-AQSA... DES ATTAQUES PRÈS DES LIEUX SAINTS À JÉRUSALEM",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:50",
+      "date": "21/03",
+      "timestamp": 1774075808
+    },
+    {
+      "id": "BFMTV_1774075591",
+      "source": "BFMTV",
+      "text": "\"AUCUNE FAMILLE NE DEVRAIT VIVRE ÇA\": LE CRI D’ALARME DE BRITANNIQUES APRÈS LA MORT FULGURANTE DE LEUR FILLE DE 18 ANS EMPORTÉE PAR LA MÉNINGITE B",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:46",
+      "date": "21/03",
+      "timestamp": 1774075591
+    },
+    {
+      "id": "BFMTV_1774075020",
+      "source": "BFMTV",
+      "text": "\"MAFIA DE L'EAU\", RÉCHAUFFEMENT CLIMATIQUE: EN IRAN, LA GUERRE AU MOYEN-ORIENT FRAPPE UN PAYS EN PLEINE SÉCHERESSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:37",
+      "date": "21/03",
+      "timestamp": 1774075020
+    },
+    {
+      "id": "BFMTV_1774073449",
+      "source": "BFMTV",
+      "text": "JUSQU'À 41,5°C EN PLEIN MOIS DE MARS: L'OUEST AMÉRICAIN CONFRONTÉ À UNE VAGUE DE CHALEUR PRÉCOCE RECORD",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:10",
+      "date": "21/03",
+      "timestamp": 1774073449
+    },
+    {
+      "id": "BFMTV_1774073208",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE DIT FRAPPER DES CIBLES DU HEZBOLLAH À BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:06",
+      "date": "21/03",
+      "timestamp": 1774073208
+    },
+    {
+      "id": "BFMTV_1774072797",
+      "source": "BFMTV",
+      "text": "LES IRANIENS CÉLÈBRENT LE NOUVEL AN PERSAN EN PLEINE GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:59",
+      "date": "21/03",
+      "timestamp": 1774072797
+    },
+    {
+      "id": "BFMTV_1774072352",
+      "source": "BFMTV",
+      "text": "KOWEÏT, QATAR, ÉMIRATS ARABES UNIS... LES PAYS DU GOLFE SOUS LE FEU DES MISSILES IRANIENS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:52",
+      "date": "21/03",
+      "timestamp": 1774072352
+    },
+    {
+      "id": "BFMTV_1774072122",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV A LANCÉ PRÈS DE 300 DRONES SUR LA RUSSIE DANS LA NUIT, SELON MOSCOU",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:48",
+      "date": "21/03",
+      "timestamp": 1774072122
+    },
+    {
+      "id": "BFMTV_1774071627",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: À TEL AVIV, UNE VIE AU RYTHME DES ALERTES AUX MISSILES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:40",
+      "date": "21/03",
+      "timestamp": 1774071627
+    },
+    {
+      "id": "BFMTV_1774071172",
+      "source": "BFMTV",
+      "text": "AU MOINS 11 MORTS DANS L'INCENDIE D'UNE USINE AUTOMOBILE EN CORÉE DU SUD",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:32",
+      "date": "21/03",
+      "timestamp": 1774071172
+    },
     {
       "id": "BFMTV_1774047640",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "06:12",
       "date": "20/03",
       "timestamp": 1773987120
-    },
-    {
-      "id": "BFMTV_1773987053",
-      "source": "BFMTV",
-      "text": "LE MEXIQUE DÉNONCE LA MORT \"INACCEPTABLE\" D'UN DE SES RESSORTISSANTS DÉTENU PAR LA POLICE AMÉRICAINE DE L'IMMIGRATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:10",
-      "date": "20/03",
-      "timestamp": 1773987053
-    },
-    {
-      "id": "BFMTV_1773986550",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: NOUVELLES ATTAQUES CONTRE DES PAYS DU GOLFE, ISRAËL ET L'IRAN ÉGALEMENT VISÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:02",
-      "date": "20/03",
-      "timestamp": 1773986550
-    },
-    {
-      "id": "BFMTV_1773986485",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS ET LE KOWEÏT ONT INDIQUÉ RÉPONDRE À L'IRAN PAR DES ATTAQUES DE MISSILES",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:01",
-      "date": "20/03",
-      "timestamp": 1773986485
-    },
-    {
-      "id": "BFMTV_1773985772",
-      "source": "BFMTV",
-      "text": "\"DANS LA GUERRE, DE TOUTE FAÇON, TOUT LE MONDE EST PERDANT\": COMMENT LES DRUZES SE RETROUVENT PRIS ENTRE DEUX FEUX AVEC LA GUERRE AU MOYEN-ORIENT?",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:49",
-      "date": "20/03",
-      "timestamp": 1773985772
-    },
-    {
-      "id": "BFMTV_1773985454",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TSAHAL CONTINUE DE CIBLER LES LEADERS DU HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:44",
-      "date": "20/03",
-      "timestamp": 1773985454
-    },
-    {
-      "id": "BFMTV_1773984613",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QUE RESTE-T-IL DES CAPACITÉS NUCLÉAIRES IRANIENNES?",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:30",
-      "date": "20/03",
-      "timestamp": 1773984613
-    },
-    {
-      "id": "BFMTV_1773983953",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"L'IRAN EST EN TRAIN D'ÊTRE DÉCIMÉ\": BENJAMIN NETANYAHU ASSURE QUE TÉHÉRAN N'A PLUS AUCUNE CAPACITÉ D'ENRICHIR L'URANIUM",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:19",
-      "date": "20/03",
-      "timestamp": 1773983953
-    },
-    {
-      "id": "BFMTV_1773983280",
-      "source": "BFMTV",
-      "text": "\"LES ISRAÉLIENS SONT TENTÉS D’ALLER PLUS LOIN QUE WASHINGTON\": ENTRE ISRAËL ET LES ÉTATS-UNIS, LES PREMIERS SIGNES DE \"DIVERGENCES\" DANS LA GUERRE CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:08",
-      "date": "20/03",
-      "timestamp": 1773983280
-    },
-    {
-      "id": "BFMTV_1773982973",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: NOUVELLES ATTAQUES CONTRE DES PAYS DU GOLFE, EMMANUEL MACRON ÉVOQUE UN \"CADRE ONUSIEN\" POUR SÉCURISER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:02",
-      "date": "20/03",
-      "timestamp": 1773982973
-    },
-    {
-      "id": "BFMTV_1773962176",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON AFFIRME QUE LA FRANCE \"NE PARTICIPERA À AUCUNE OUVERTURE DE FORCE DU DÉTROIT D'ORMUZ\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "23:16",
-      "date": "19/03",
-      "timestamp": 1773962176
-    },
-    {
-      "id": "BFMTV_1773962041",
-      "source": "BFMTV",
-      "text": "LIBAN: “L’OPÉRATION MILITAIRE TERRESTRE ISRAÉLIENNE COMME LES BOMBARDEMENTS SONT INACCEPTABLES”, DÉCLARE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "23:14",
-      "date": "19/03",
-      "timestamp": 1773962041
-    },
-    {
-      "id": "BFMTV_1773961721",
-      "source": "BFMTV",
-      "text": "RUSSIE: \"LES DISCUSSIONS N’AVANCENT PAS TRÈS BIEN, PARCE QUE CE SONT DES GENS QUI DISENT TOUJOURS NON, ILS NE VEULENT PAS LA PAIX\", AFFIRME EMMANUEL MACRON ",
-      "urgent": false,
-      "france_related": false,
-      "time": "23:08",
-      "date": "19/03",
-      "timestamp": 1773961721
-    },
-    {
-      "id": "BFMTV_1773960879",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: “NOUS NE PARTICIPERONS À AUCUNE OUVERTURE DE FORCE DU DÉTROIT D'ORMUZ“, AFFIRME EMMANUEL MACRON",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:54",
-      "date": "19/03",
-      "timestamp": 1773960879
     }
   ],
   "france": {
