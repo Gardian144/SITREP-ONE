@@ -1,7 +1,57 @@
 {
-  "last_update": "21/03 07:57",
+  "last_update": "21/03 09:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774082933",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DES MILLIERS D'IRANIENS À LA PRIÈRE DE L'AÏD EL-FITR, LE GUIDE SUPRÊME ABSENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:48",
+      "date": "21/03",
+      "timestamp": 1774082933
+    },
+    {
+      "id": "BFMTV_1774082227",
+      "source": "BFMTV",
+      "text": "LIBAN: LA BANLIEUE SUD DE BEYROUTH A ÉTÉ VISÉE PAR 115 FRAPPES ISRAÉLIENNES DEPUIS LE DÉBUT DU CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:37",
+      "date": "21/03",
+      "timestamp": 1774082227
+    },
+    {
+      "id": "BFMTV_1774081737",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: CE QU'IL FAUT RETENIR DE L'ATTAQUE IRANIENNE QUI A VISÉ LA BASE AMÉRICANO-BRITANNIQUE DE DIEGO GARCIA DANS L'OCÉAN INDIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:28",
+      "date": "21/03",
+      "timestamp": 1774081737
+    },
+    {
+      "id": "BFMTV_1774080263",
+      "source": "BFMTV",
+      "text": "IRAK: UN QUARTIER RÉSIDENTIEL DE BAGDAD VISÉ PAR UNE ATTAQUE DE DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:04",
+      "date": "21/03",
+      "timestamp": 1774080263
+    },
+    {
+      "id": "BFMTV_1774080155",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN CIBLE LA BASE AMÉRICANO-BRITANNIQUE DE DIEGO GARCIA DANS L'OCÉAN INDIEN, SELON LE WALL STREET JOURNAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:02",
+      "date": "21/03",
+      "timestamp": 1774080155
+    },
     {
       "id": "BFMTV_1774077959",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "08:20",
       "date": "20/03",
       "timestamp": 1773994824
-    },
-    {
-      "id": "BFMTV_1773991906",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: TÉHÉRAN ASSURE QUE LA PRODUCTION DE MISSILES \"CONTINUE\" MALGRÉ LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:31",
-      "date": "20/03",
-      "timestamp": 1773991906
-    },
-    {
-      "id": "BFMTV_1773990001",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:00",
-      "date": "20/03",
-      "timestamp": 1773990001
-    },
-    {
-      "id": "BFMTV_1773989300",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PENTAGONE RÉCLAMERAIT UNE RALLONGE BUDGÉTAIRE DE 200 MILLIARDS DE DOLLARS POUR FINANCER LA GUERRE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:48",
-      "date": "20/03",
-      "timestamp": 1773989300
-    },
-    {
-      "id": "BFMTV_1773987680",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU L'ASSURE: L'IRAN EST \"EN TRAIN D'ÊTRE DÉCIMÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:21",
-      "date": "20/03",
-      "timestamp": 1773987680
-    },
-    {
-      "id": "BFMTV_1773987546",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DEPUIS LE DÉBUT DU CONFLIT, LA VILLE D'ERBIL (IRAK) NE PEUT FOURNIR QUE QUATRE HEURES D'ÉLECTRICITÉ PAR JOUR À SES HABITANTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:19",
-      "date": "20/03",
-      "timestamp": 1773987546
     }
   ],
   "france": {
