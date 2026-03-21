@@ -1,11 +1,61 @@
 {
-  "last_update": "21/03 13:54",
+  "last_update": "21/03 14:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774103476",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE FRAPPE DE DRONE À ZAPORIJIA FAIT DEUX MORTS ET DES BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:31",
+      "date": "21/03",
+      "timestamp": 1774103476
+    },
+    {
+      "id": "BFMTV_1774102971",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS ENTENDUES À MANAMA, LA CAPITALE DE BAHREÏN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:22",
+      "date": "21/03",
+      "timestamp": 1774102971
+    },
+    {
+      "id": "BFMTV_1774102828",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LA CAPACITÉ DE L'IRAN À MENACER LA LIBERTÉ DE NAVIGATION DANS ET AUTOUR, DU DÉTROIT D'ORMUZ EST COMPRISE\", ASSURE CHARLES BRADFORD COOPER, COMMANDANT DU COMMANDEMENT CENTRAL AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:20",
+      "date": "21/03",
+      "timestamp": 1774102828
+    },
+    {
+      "id": "BFMTV_1774101600",
+      "source": "BFMTV",
+      "text": "AU MOINS 14 MORTS DANS L'INCENDIE D'UNE USINE AUTOMOBILE EN CORÉE DU SUD",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:00",
+      "date": "21/03",
+      "timestamp": 1774101600
+    },
     {
       "id": "BFMTV_1774100850",
       "source": "BFMTV",
       "text": "GUERRE EN IRAN: QU'EST-CE QUE LE SITE NUCLÉAIRE IRANIEN DE NATANZ, CIBLÉ LES ÉTATS-UNIS ET ISRAËL?",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:47",
+      "date": "21/03",
+      "timestamp": 1774100850
+    },
+    {
+      "id": "BFMTV_1774100850",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: QU'EST-CE QUE LE SITE NUCLÉAIRE IRANIEN DE NATANZ, CIBLÉ PAR LES ÉTATS-UNIS ET ISRAËL?",
       "urgent": true,
       "france_related": false,
       "time": "13:47",
@@ -951,56 +1001,6 @@
       "time": "13:17",
       "date": "20/03",
       "timestamp": 1774012644
-    },
-    {
-      "id": "BFMTV_1774011856",
-      "source": "BFMTV",
-      "text": "NOUVEL AN PERSE: VA-T-ON VOIR OU ENTENDRE LE NOUVEAU GUIDE SUPRÊME IRANIEN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:04",
-      "date": "20/03",
-      "timestamp": 1774011856
-    },
-    {
-      "id": "BFMTV_1774008700",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL MULTIPLIE LES ATTAQUES EN IRAN, AU LIBAN ET SUR GAZA",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:11",
-      "date": "20/03",
-      "timestamp": 1774008700
-    },
-    {
-      "id": "BFMTV_1774008238",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"UNE CINQUANTAINE DE MARINS FRANÇAIS DEMEURENT DANS LA ZONE\", AFFIRME EMMANUEL CHALARD, SECRÉTAIRE GÉNÉRAL DE LA FÉDÉRATION DES OFFICIERS DE LA MARINE MARCHANDE",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:03",
-      "date": "20/03",
-      "timestamp": 1774008238
-    },
-    {
-      "id": "BFMTV_1774007023",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: SEIZE NAVIRES IRANIENS FRAPPÉS DANS UN PORT DU GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:43",
-      "date": "20/03",
-      "timestamp": 1774007023
-    },
-    {
-      "id": "BFMTV_1774006665",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:37",
-      "date": "20/03",
-      "timestamp": 1774006665
     }
   ],
   "france": {
