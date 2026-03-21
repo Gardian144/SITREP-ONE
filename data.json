@@ -1,7 +1,97 @@
 {
-  "last_update": "21/03 11:47",
+  "last_update": "21/03 13:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774100850",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: QU'EST-CE QUE LE SITE NUCLÉAIRE IRANIEN DE NATANZ, CIBLÉ LES ÉTATS-UNIS ET ISRAËL?",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:47",
+      "date": "21/03",
+      "timestamp": 1774100850
+    },
+    {
+      "id": "BFMTV_1774099907",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE VINGTAINE DE PAYS, DONT LA FRANCE, \"PRÊTS À CONTRIBUER AUX EFFORTS\" NÉCESSAIRES POUR LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:31",
+      "date": "21/03",
+      "timestamp": 1774099907
+    },
+    {
+      "id": "BFMTV_1774099807",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UNE VINGTAINE DE PAYS, DONT LA FRANCE, \"PRÊTS À CONTRIBUER AUX EFFORTS\" NÉCESSAIRES POUR LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:30",
+      "date": "21/03",
+      "timestamp": 1774099807
+    },
+    {
+      "id": "BFMTV_1774098076",
+      "source": "BFMTV",
+      "text": "\"STOP THE WAR\": DES MANIFESTANTS RÉUNIS À LONDRES POUR DEMANDER L'ARRÊT DES FRAPPES AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:01",
+      "date": "21/03",
+      "timestamp": 1774098076
+    },
+    {
+      "id": "OPEX360_1774096842",
+      "source": "OPEX360",
+      "text": "DESTINÉ À L’AASM ET À LA ROQUETTE THUNDART, LE NOUVEL AUTODIRECTEUR LIR DE SAFRAN A ÉTÉ QUALIFIÉ PAR LA DGA",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:40",
+      "date": "21/03",
+      "timestamp": 1774096842
+    },
+    {
+      "id": "BFMTV_1774096837",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE FRAPPE IRANIENNE A TOUCHÉ UN JARDIN D'ENFANTS À RISHON LEZION, EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:40",
+      "date": "21/03",
+      "timestamp": 1774096837
+    },
+    {
+      "id": "BFMTV_1774096462",
+      "source": "BFMTV",
+      "text": "QU'EST-CE QUE LE SITE NUCLÉAIRE IRANIEN DE NATANZ FRAPPÉ LES ÉTATS-UNIS ET ISRAËL?",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:34",
+      "date": "21/03",
+      "timestamp": 1774096462
+    },
+    {
+      "id": "BFMTV_1774095312",
+      "source": "BFMTV",
+      "text": "\"UN RISQUE IMMINENT DE RUPTURE\": UN BARRAGE MENACE DE CÉDER APRÈS DES FORTES PLUIES À HAWAÏ, 5.500 PERSONNES REÇOIVENT L'ORDRE D'ÉVACUER",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:15",
+      "date": "21/03",
+      "timestamp": 1774095312
+    },
+    {
+      "id": "BFMTV_1774093782",
+      "source": "BFMTV",
+      "text": "LE MINISTRE ISRAÉLIEN DE LA DÉFENSE PRÉVIENT QUE \"L'INTENSITÉ DES FRAPPES\" ISRAÉLO-AMÉRICAINES SUR L'IRAN VA \"AUGMENTER CONSIDÉRABLEMENT\" DANS LES PROCHAINS JOURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:49",
+      "date": "21/03",
+      "timestamp": 1774093782
+    },
     {
       "id": "BFMTV_1774093184",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "11:37",
       "date": "20/03",
       "timestamp": 1774006665
-    },
-    {
-      "id": "BFMTV_1774006644",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL POURSUIT SA CAMPAGNE VISANT À NEUTRALISER LES DIRIGEANTS DU RÉGIME IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:37",
-      "date": "20/03",
-      "timestamp": 1774006644
-    },
-    {
-      "id": "BFMTV_1774006188",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN AVION DE COMBAT AMÉRICAIN F-35 ATTERRIT EN URGENCE APRÈS UN TIR PRÉSUMÉ IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:29",
-      "date": "20/03",
-      "timestamp": 1774006188
-    },
-    {
-      "id": "BFMTV_1774006006",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: COMMENT LIBÉRER LE DÉTROIT D'ORMUZ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:26",
-      "date": "20/03",
-      "timestamp": 1774006006
-    },
-    {
-      "id": "OPEX360_1774005914",
-      "source": "OPEX360",
-      "text": "A PRIORI TOUCHÉ PAR UN TIR IRANIEN, UN F-35A AMÉRICAIN A DÛ EFFECTUER UN ATTERRISSAGE D’URGENCE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:25",
-      "date": "20/03",
-      "timestamp": 1774005914
-    },
-    {
-      "id": "BFMTV_1774005654",
-      "source": "BFMTV",
-      "text": "UNE FEMME INCULPÉE DE MEURTRE PAR LA POLICE AUX ÉTATS-UNIS APRÈS AVOIR PRIS DES PILULES POUR PROVOQUER UN AVORTEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:20",
-      "date": "20/03",
-      "timestamp": 1774005654
-    },
-    {
-      "id": "BFMTV_1774005435",
-      "source": "BFMTV",
-      "text": "UNE CANADIENNE ET SA FILLE AUTISTE DE 7 ANS DÉTENUES PAR LA POLICE AMÉRICAINE DE L'IMMIGRATION AU TEXAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:17",
-      "date": "20/03",
-      "timestamp": 1774005435
-    },
-    {
-      "id": "BFMTV_1774004079",
-      "source": "BFMTV",
-      "text": "GUERRE MOYEN-ORIENT: DEPUIS 48 HEURES, TÉHÉRAN BEAUCOUP MOINS FRAPPÉ PAR LES MISSILES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:54",
-      "date": "20/03",
-      "timestamp": 1774004079
-    },
-    {
-      "id": "BFMTV_1774002983",
-      "source": "BFMTV",
-      "text": "MORT DU PORTE-PAROLE DES GARDIENS DE LA RÉVOLUTION: \"SYMBOLIQUEMENT, C'EST IMPORTANT\", ESTIME ADEL BAKAWAN (EISMEN)",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:36",
-      "date": "20/03",
-      "timestamp": 1774002983
-    },
-    {
-      "id": "BFMTV_1774002753",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: 16 NAVIRES IRANIENS FRAPPÉS DANS UN PORT DU GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:32",
-      "date": "20/03",
-      "timestamp": 1774002753
     }
   ],
   "france": {
