@@ -1,7 +1,147 @@
 {
-  "last_update": "22/03 05:12",
+  "last_update": "22/03 07:29",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774164325",
+      "source": "BFMTV",
+      "text": "CRASH D'UN HÉLICOPTÈRE AU QATAR, LES AUTORITÉS DU PAYS POINTENT UN \"DYSFONCTIONNEMENT TECHNIQUE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:25",
+      "date": "22/03",
+      "timestamp": 1774164325
+    },
+    {
+      "id": "BFMTV_1774164198",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: UN MORT EN ISRAËL APRÈS UN TIR DE ROQUETTE DEPUIS LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:23",
+      "date": "22/03",
+      "timestamp": 1774164198
+    },
+    {
+      "id": "BFMTV_1774160826",
+      "source": "BFMTV",
+      "text": "LES ITALIENS APPELÉS AUX URNES POUR UN RÉFÉRENDUM TRÈS DÉBATTU SUR UNE RÉFORME JUDICIAIRE QUI POURRAIT FAIRE VACILLER GIORGIA MELONI",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:27",
+      "date": "22/03",
+      "timestamp": 1774160826
+    },
+    {
+      "id": "BFMTV_1774160432",
+      "source": "BFMTV",
+      "text": "JAPONAIS ARRÊTÉS EN IRAN: L'UN DES DEUX RESSORTISSANTS RELÂCHÉ ET EN ROUTE VERS SON PAYS, SELON TOKYO",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:20",
+      "date": "22/03",
+      "timestamp": 1774160432
+    },
+    {
+      "id": "BFMTV_1774159354",
+      "source": "BFMTV",
+      "text": "\"LA SOLUTION CE N'EST PAS LA GUERRE, CE SONT LES ACCORDS\": EN ISRAËL, DES VOIX S'ÉLÈVENT CONTRE LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:02",
+      "date": "22/03",
+      "timestamp": 1774159354
+    },
+    {
+      "id": "BFMTV_1774159204",
+      "source": "BFMTV",
+      "text": "LONDRES, MADRID... DES MANIFESTATIONS POUR PROTESTER CONTRES LES FRAPPES ISRAÉLO-AMÉRICAINES AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:00",
+      "date": "22/03",
+      "timestamp": 1774159204
+    },
+    {
+      "id": "BFMTV_1774158854",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL MAINTIENT TOUJOURS SOUS PRESSION LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:54",
+      "date": "22/03",
+      "timestamp": 1774158854
+    },
+    {
+      "id": "BFMTV_1774158308",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEUX MISSILES IRANIENS S'ABATTENT SUR LE SUD D'ISRAËL FAISANT UNE CENTAINE DE BLESSÉS, BENJAMIN NETANYAHU PROMET DE \"CONTINUER À FRAPPER\" TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:45",
+      "date": "22/03",
+      "timestamp": 1774158308
+    },
+    {
+      "id": "BFMTV_1774157947",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS ENTENDUES DEPUIS JÉRUSALEM APRÈS UNE ALERTE AUX MISSILES IRANIENS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:39",
+      "date": "22/03",
+      "timestamp": 1774157947
+    },
+    {
+      "id": "BFMTV_1774157819",
+      "source": "BFMTV",
+      "text": "FRAPPES SUR ARAD ET DIMONA: LE MINISTRE DE LA SÉCURITÉ NATIONALE D'ISRAËL PROMET DE \"CONTINUER À ÉCRASER\" L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:36",
+      "date": "22/03",
+      "timestamp": 1774157819
+    },
+    {
+      "id": "BFMTV_1774157766",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE DE FRAPPER DES INFRASTRUCTURES CLÉS APRÈS UN ULTIMATUM DE DONALD TRUMP SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:36",
+      "date": "22/03",
+      "timestamp": 1774157766
+    },
+    {
+      "id": "BFMTV_1774157600",
+      "source": "BFMTV",
+      "text": "L'ARMÉE IRANIENNE RÉPOND À DONALD TRUMP QU'ELLE VISERA LES INFRASTRUCTURES ÉNERGÉTIQUES ET DE DESSALEMENT DANS LA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:33",
+      "date": "22/03",
+      "timestamp": 1774157600
+    },
+    {
+      "id": "BFMTV_1774157559",
+      "source": "BFMTV",
+      "text": "\"UNE DIZAINE DE RANDONNEURS À SKI EMPORTÉS\": DEUX MORTS ET CINQ BLESSÉS DANS UNE AVALANCHE EN ITALIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:32",
+      "date": "22/03",
+      "timestamp": 1774157559
+    },
+    {
+      "id": "BFMTV_1774156590",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE CHEF D'ÉTAT-MAJOR DE TSAHAL AFFIRME QUE LA PORTÉE DES MISSILES IRANIENS \"PERMET D'ATTEINDRE LES CAPITALES EUROPÉENNES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:16",
+      "date": "22/03",
+      "timestamp": 1774156590
+    },
     {
       "id": "BFMTV_1774156213",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "06:56",
       "date": "21/03",
       "timestamp": 1774076219
-    },
-    {
-      "id": "BFMTV_1774075808",
-      "source": "BFMTV",
-      "text": "MUR DES LAMENTATIONS, BASILIQUE DU SAINT-SÉPULCRE, MOSQUÉE D'AL-AQSA... DES ATTAQUES PRÈS DES LIEUX SAINTS À JÉRUSALEM",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:50",
-      "date": "21/03",
-      "timestamp": 1774075808
-    },
-    {
-      "id": "BFMTV_1774075591",
-      "source": "BFMTV",
-      "text": "\"AUCUNE FAMILLE NE DEVRAIT VIVRE ÇA\": LE CRI D’ALARME DE BRITANNIQUES APRÈS LA MORT FULGURANTE DE LEUR FILLE DE 18 ANS EMPORTÉE PAR LA MÉNINGITE B",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:46",
-      "date": "21/03",
-      "timestamp": 1774075591
-    },
-    {
-      "id": "BFMTV_1774075020",
-      "source": "BFMTV",
-      "text": "\"MAFIA DE L'EAU\", RÉCHAUFFEMENT CLIMATIQUE: EN IRAN, LA GUERRE AU MOYEN-ORIENT FRAPPE UN PAYS EN PLEINE SÉCHERESSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:37",
-      "date": "21/03",
-      "timestamp": 1774075020
-    },
-    {
-      "id": "BFMTV_1774073449",
-      "source": "BFMTV",
-      "text": "JUSQU'À 41,5°C EN PLEIN MOIS DE MARS: L'OUEST AMÉRICAIN CONFRONTÉ À UNE VAGUE DE CHALEUR PRÉCOCE RECORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:10",
-      "date": "21/03",
-      "timestamp": 1774073449
-    },
-    {
-      "id": "BFMTV_1774073208",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE DIT FRAPPER DES CIBLES DU HEZBOLLAH À BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:06",
-      "date": "21/03",
-      "timestamp": 1774073208
-    },
-    {
-      "id": "BFMTV_1774072797",
-      "source": "BFMTV",
-      "text": "LES IRANIENS CÉLÈBRENT LE NOUVEL AN PERSAN EN PLEINE GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:59",
-      "date": "21/03",
-      "timestamp": 1774072797
-    },
-    {
-      "id": "BFMTV_1774072352",
-      "source": "BFMTV",
-      "text": "KOWEÏT, QATAR, ÉMIRATS ARABES UNIS... LES PAYS DU GOLFE SOUS LE FEU DES MISSILES IRANIENS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:52",
-      "date": "21/03",
-      "timestamp": 1774072352
-    },
-    {
-      "id": "BFMTV_1774072122",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV A LANCÉ PRÈS DE 300 DRONES SUR LA RUSSIE DANS LA NUIT, SELON MOSCOU",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:48",
-      "date": "21/03",
-      "timestamp": 1774072122
-    },
-    {
-      "id": "BFMTV_1774071627",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: À TEL AVIV, UNE VIE AU RYTHME DES ALERTES AUX MISSILES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:40",
-      "date": "21/03",
-      "timestamp": 1774071627
-    },
-    {
-      "id": "BFMTV_1774071172",
-      "source": "BFMTV",
-      "text": "AU MOINS 11 MORTS DANS L'INCENDIE D'UNE USINE AUTOMOBILE EN CORÉE DU SUD",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:32",
-      "date": "21/03",
-      "timestamp": 1774071172
-    },
-    {
-      "id": "BFMTV_1774047640",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP EXCLUT TOUT \"CESSEZ-LE-FEU\" EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "23:00",
-      "date": "20/03",
-      "timestamp": 1774047640
-    },
-    {
-      "id": "BFMTV_1774047243",
-      "source": "BFMTV",
-      "text": "ÉCOSSE: DEUX PERSONNES ARRÊTÉES ALORS QU'ELLES TENTAIENT D'ENTRER DANS UNE BASE NAVALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:54",
-      "date": "20/03",
-      "timestamp": 1774047243
-    },
-    {
-      "id": "BFMTV_1774047049",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP \"ENVISAGE DE RALENTIR\" L'ENGAGEMENT MILITAIRE AMÉRICAINE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:50",
-      "date": "20/03",
-      "timestamp": 1774047049
-    },
-    {
-      "id": "BFMTV_1774046560",
-      "source": "BFMTV",
-      "text": "USS BOXER, HÉLICOPTÈRES D'ATTAQUE AH-64... LES RENFORTS ENVOYÉS PAR DONALD TRUMP AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:42",
-      "date": "20/03",
-      "timestamp": 1774046560
     }
   ],
   "france": {
