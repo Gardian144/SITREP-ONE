@@ -1,7 +1,127 @@
 {
-  "last_update": "22/03 11:47",
+  "last_update": "22/03 13:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774186747",
+      "source": "BFMTV",
+      "text": "AFFECTÉE PAR LES SANCTIONS DES ÉTATS-UNIS, CUBA CONNAÎT UNE DEUXIÈME PANNE DE COURANT NATIONALE EN MOINS D'UNE SEMAINE",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:39",
+      "date": "22/03",
+      "timestamp": 1774186747
+    },
+    {
+      "id": "BFMTV_1774186584",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE FRAPPE UN PONT DANS LE SUD DU LIBAN APRÈS UN AVERTISSEMENT ",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:36",
+      "date": "22/03",
+      "timestamp": 1774186584
+    },
+    {
+      "id": "BFMTV_1774185047",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE FRAPPE UN PONT DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:10",
+      "date": "22/03",
+      "timestamp": 1774185047
+    },
+    {
+      "id": "BFMTV_1774184309",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU PROMET DE \"VISER PERSONNELLEMENT\" CHAQUE DIRIGEANT IRANIEN, APRÈS LES FRAPPES DE MISSILES EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:58",
+      "date": "22/03",
+      "timestamp": 1774184309
+    },
+    {
+      "id": "BFMTV_1774183911",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL DIT MENER \"UNE VAGUE DE FRAPPES\" CONTRE LE HEZBOLLAH DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:51",
+      "date": "22/03",
+      "timestamp": 1774183911
+    },
+    {
+      "id": "BFMTV_1774182927",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE MENACE DE FRAPPER LES USINES DE DESSALEMENT D'EAU DANS LA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:35",
+      "date": "22/03",
+      "timestamp": 1774182927
+    },
+    {
+      "id": "BFMTV_1774182574",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LES IRANIENS ONT ENGAGÉ LA GUERRE DE L'ÉNERGIE DEPUIS LE PREMIER JOUR\", RAPPELLE MAXIME PEREZ, SPÉCIALISTE DES QUESTIONS DE SÉCURITÉ ET DÉFENSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:29",
+      "date": "22/03",
+      "timestamp": 1774182574
+    },
+    {
+      "id": "BFMTV_1774182035",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MET UN NOUVEAU COUP DE PRESSION SUR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:20",
+      "date": "22/03",
+      "timestamp": 1774182035
+    },
+    {
+      "id": "BFMTV_1774181808",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LE RÉGIME IRANIEN EST CAPABLE D'ALLER TRÈS LOIN\", DÉCLARE DIDIER IDJADI, SOCIOLOGUE UNIVERSITAIRE FRANCO-IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:16",
+      "date": "22/03",
+      "timestamp": 1774181808
+    },
+    {
+      "id": "BFMTV_1774181112",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: 400 MISSILES IRANIENS TIRÉS SUR ISRAËL, 92% INTERCEPTÉS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:05",
+      "date": "22/03",
+      "timestamp": 1774181112
+    },
+    {
+      "id": "OPEX360_1774180838",
+      "source": "OPEX360",
+      "text": "LA ROYAL NAVY EST CONFRONTÉE À UN PROBLÈME D’USAGE DE DROGUE AU SEIN DES ÉQUIPAGES DE SES SOUS-MARINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:00",
+      "date": "22/03",
+      "timestamp": 1774180838
+    },
+    {
+      "id": "BFMTV_1774180184",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: TEL-AVIV TOUCHÉ PAR UN MISSILE, BFMTV SUR PLACE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:49",
+      "date": "22/03",
+      "timestamp": 1774180184
+    },
     {
       "id": "BFMTV_1774179834",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "14:31",
       "date": "21/03",
       "timestamp": 1774103476
-    },
-    {
-      "id": "BFMTV_1774103094",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:24",
-      "date": "21/03",
-      "timestamp": 1774103094
-    },
-    {
-      "id": "BFMTV_1774102971",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS ENTENDUES À MANAMA, LA CAPITALE DE BAHREÏN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:22",
-      "date": "21/03",
-      "timestamp": 1774102971
-    },
-    {
-      "id": "BFMTV_1774102828",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LA CAPACITÉ DE L'IRAN À MENACER LA LIBERTÉ DE NAVIGATION DANS ET AUTOUR, DU DÉTROIT D'ORMUZ EST COMPRISE\", ASSURE CHARLES BRADFORD COOPER, COMMANDANT DU COMMANDEMENT CENTRAL AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:20",
-      "date": "21/03",
-      "timestamp": 1774102828
-    },
-    {
-      "id": "BFMTV_1774101600",
-      "source": "BFMTV",
-      "text": "AU MOINS 14 MORTS DANS L'INCENDIE D'UNE USINE AUTOMOBILE EN CORÉE DU SUD",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:00",
-      "date": "21/03",
-      "timestamp": 1774101600
-    },
-    {
-      "id": "BFMTV_1774100850",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: QU'EST-CE QUE LE SITE NUCLÉAIRE IRANIEN DE NATANZ, CIBLÉ LES ÉTATS-UNIS ET ISRAËL?",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:47",
-      "date": "21/03",
-      "timestamp": 1774100850
-    },
-    {
-      "id": "BFMTV_1774100850",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: QU'EST-CE QUE LE SITE NUCLÉAIRE IRANIEN DE NATANZ, CIBLÉ PAR LES ÉTATS-UNIS ET ISRAËL?",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:47",
-      "date": "21/03",
-      "timestamp": 1774100850
-    },
-    {
-      "id": "BFMTV_1774099907",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE VINGTAINE DE PAYS, DONT LA FRANCE, \"PRÊTS À CONTRIBUER AUX EFFORTS\" NÉCESSAIRES POUR LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:31",
-      "date": "21/03",
-      "timestamp": 1774099907
-    },
-    {
-      "id": "BFMTV_1774099807",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UNE VINGTAINE DE PAYS, DONT LA FRANCE, \"PRÊTS À CONTRIBUER AUX EFFORTS\" NÉCESSAIRES POUR LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:30",
-      "date": "21/03",
-      "timestamp": 1774099807
-    },
-    {
-      "id": "BFMTV_1774098076",
-      "source": "BFMTV",
-      "text": "\"STOP THE WAR\": DES MANIFESTANTS RÉUNIS À LONDRES POUR DEMANDER L'ARRÊT DES FRAPPES AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:01",
-      "date": "21/03",
-      "timestamp": 1774098076
-    },
-    {
-      "id": "OPEX360_1774096842",
-      "source": "OPEX360",
-      "text": "DESTINÉ À L’AASM ET À LA ROQUETTE THUNDART, LE NOUVEL AUTODIRECTEUR LIR DE SAFRAN A ÉTÉ QUALIFIÉ PAR LA DGA",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:40",
-      "date": "21/03",
-      "timestamp": 1774096842
-    },
-    {
-      "id": "BFMTV_1774096837",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE FRAPPE IRANIENNE A TOUCHÉ UN JARDIN D'ENFANTS À RISHON LEZION, EN ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:40",
-      "date": "21/03",
-      "timestamp": 1774096837
-    },
-    {
-      "id": "BFMTV_1774096462",
-      "source": "BFMTV",
-      "text": "QU'EST-CE QUE LE SITE NUCLÉAIRE IRANIEN DE NATANZ FRAPPÉ LES ÉTATS-UNIS ET ISRAËL?",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:34",
-      "date": "21/03",
-      "timestamp": 1774096462
     }
   ],
   "france": {
