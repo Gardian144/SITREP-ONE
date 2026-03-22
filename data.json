@@ -1,7 +1,87 @@
 {
-  "last_update": "22/03 09:50",
+  "last_update": "22/03 10:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774176819",
+      "source": "BFMTV",
+      "text": "ARAD FRAPPÉE PAR UN MISSILE IRANIEN, BENJAMIN NETANYAHOU SUR PLACE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:53",
+      "date": "22/03",
+      "timestamp": 1774176819
+    },
+    {
+      "id": "BFMTV_1774176635",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE DIT AVOIR L'ORDRE DE DÉTRUIRE \"TOUS LES PONTS\" AU SUD-LIBAN UTILISÉS À DES FINS \"TERRORISTES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:50",
+      "date": "22/03",
+      "timestamp": 1774176635
+    },
+    {
+      "id": "BFMTV_1774176561",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE LARGUE DES TRACTS SUR BEYROUTH POUR APPELER À \"DÉSARMER LE HEZBOLLAH\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:49",
+      "date": "22/03",
+      "timestamp": 1774176561
+    },
+    {
+      "id": "BFMTV_1774176557",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES ICI POUR MONTRER NOTRE RÉSILIENCE\" ASSURE ISAAC HERZOG, PRÉSIDENT D'ISRAËL, QUI S'EST RENDU À ARAD",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:49",
+      "date": "22/03",
+      "timestamp": 1774176557
+    },
+    {
+      "id": "BFMTV_1774176003",
+      "source": "BFMTV",
+      "text": "\"LA PUISSANCE DU MISSILE A ÉTÉ TELLEMENT PUISSANTE QU'ELLE A SOUFFLÉ LES BÂTIMENTS\" CONSTATE LE MAIRE D'ARAD AU LENDEMAIN D'UNE FRAPPE IRANIENE",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:40",
+      "date": "22/03",
+      "timestamp": 1774176003
+    },
+    {
+      "id": "BFMTV_1774175719",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BFMTV SUR LES LIEUX DE LA FRAPPE IRANIENNE À ARAD",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:35",
+      "date": "22/03",
+      "timestamp": 1774175719
+    },
+    {
+      "id": "BFMTV_1774175361",
+      "source": "BFMTV",
+      "text": "ISRAËL: LES IMAGES DES DÉGÂTS À ARAD APRÈS UNE FRAPPE IRANIENNE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:29",
+      "date": "22/03",
+      "timestamp": 1774175361
+    },
+    {
+      "id": "BFMTV_1774174846",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DE RETOUR DU LIBAN, NOTRE REPORTER RACONTE L'EXIL DE LA POPULATION",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:20",
+      "date": "22/03",
+      "timestamp": 1774174846
+    },
     {
       "id": "BFMTV_1774172094",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "11:19",
       "date": "21/03",
       "timestamp": 1774091986
-    },
-    {
-      "id": "BFMTV_1774090183",
-      "source": "BFMTV",
-      "text": "L'AIEA APPELLE À LA \"RETENUE MILITAIRE\" APRÈS L'ANNONCE PAR L'IRAN D'UNE ATTAQUE CONTRE LE SITE NUCLÉAIRE DE NATANZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:49",
-      "date": "21/03",
-      "timestamp": 1774090183
-    },
-    {
-      "id": "BFMTV_1774090173",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL PRÉVIENT QUE L'INTENSITÉ DES FRAPPES EN IRAN VA \"AUGMENTER CONSIDÉRABLEMENT\" DANS LES PROCHAINS JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:49",
-      "date": "21/03",
-      "timestamp": 1774090173
-    },
-    {
-      "id": "BFMTV_1774089529",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PORTE-PAROLE DE L'ARMÉE ISRAÉLIENNE \"NE CONFIRME PAS\" À CE STADE LES FRAPPES SUR LE SITE NUCLÉAIRE IRANIEN DE NATANZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:38",
-      "date": "21/03",
-      "timestamp": 1774089529
-    },
-    {
-      "id": "BFMTV_1774089333",
-      "source": "BFMTV",
-      "text": "ISRAËL PRÉVIENT QUE L'INTENSITÉ DES FRAPPES EN IRAN VA \"AUGMENTER CONSIDÉRABLEMENT\" DANS LES PROCHAINS JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:35",
-      "date": "21/03",
-      "timestamp": 1774089333
-    },
-    {
-      "id": "BFMTV_1774087480",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES ATTAQUES PRÈS DES LIEUX SAINTS À JÉRUSALEM ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:04",
-      "date": "21/03",
-      "timestamp": 1774087480
-    },
-    {
-      "id": "BFMTV_1774086627",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS ET ISRAËL FRAPPENT LE COMPLEXE NUCLÉAIRE IRANIEN DE NATANZ, SITUÉ DANS LE CENTRE DU PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:50",
-      "date": "21/03",
-      "timestamp": 1774086627
-    },
-    {
-      "id": "BFMTV_1774085972",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ET LES ÉTATS-UNIS FRAPPENT LE SITE NUCLÉAIRE IRANIEN DE NATANZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:39",
-      "date": "21/03",
-      "timestamp": 1774085972
-    },
-    {
-      "id": "BFMTV_1774085503",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LES ÉTATS-UNIS ET ISRAËL FRAPPENT LE SITE NUCLÉAIRE IRANIEN DE NATANZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:31",
-      "date": "21/03",
-      "timestamp": 1774085503
     }
   ],
   "france": {
