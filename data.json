@@ -1,7 +1,67 @@
 {
-  "last_update": "22/03 10:57",
+  "last_update": "22/03 11:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774179834",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU PROMET DE \"VISER PERSONNELLEMENT\" CHAQUE DIRIGEANT IRANIEN, APRÈS LES FRAPPES DE MISSILES EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:43",
+      "date": "22/03",
+      "timestamp": 1774179834
+    },
+    {
+      "id": "BFMTV_1774179340",
+      "source": "BFMTV",
+      "text": "\"IL FAUT LES ARRÊTER ET METTRE FIN À CE RÉGIME FANATIQUE\" EXHORTE LE PREMIER MINISTRE ISRAÉLIEN SUR LES LIEUX D'UNE FRAPPE IRANIENNE À ARAD",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:35",
+      "date": "22/03",
+      "timestamp": 1774179340
+    },
+    {
+      "id": "BFMTV_1774178819",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH CIBLE DES SOLDATS ISRAÉLIENS À MISGAV AM ET TUE UN CIVIL ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:26",
+      "date": "22/03",
+      "timestamp": 1774178819
+    },
+    {
+      "id": "BFMTV_1774178776",
+      "source": "BFMTV",
+      "text": " GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHOU S'EST RENDU À ARAD, FRAPPÉE PAR UN MISSILE IRANIEN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:26",
+      "date": "22/03",
+      "timestamp": 1774178776
+    },
+    {
+      "id": "BFMTV_1774177587",
+      "source": "BFMTV",
+      "text": " L'ÎLE DE CUBA TOUCHÉE PAR UNE DEUXIÈME PANNE DE COURANT EN MOINS D'UNE SEMAINE ",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:06",
+      "date": "22/03",
+      "timestamp": 1774177587
+    },
+    {
+      "id": "OPEX360_1774177553",
+      "source": "OPEX360",
+      "text": "LE GÉNÉRAL SCHILL SOULIGNE LE RÔLE DE L’ARMÉE DE TERRE DANS LA STRATÉGIE DE DISSUASION NUCLÉAIRE FRANÇAISE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:05",
+      "date": "22/03",
+      "timestamp": 1774177553
+    },
     {
       "id": "BFMTV_1774176819",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "12:34",
       "date": "21/03",
       "timestamp": 1774096462
-    },
-    {
-      "id": "BFMTV_1774095312",
-      "source": "BFMTV",
-      "text": "\"UN RISQUE IMMINENT DE RUPTURE\": UN BARRAGE MENACE DE CÉDER APRÈS DES FORTES PLUIES À HAWAÏ, 5.500 PERSONNES REÇOIVENT L'ORDRE D'ÉVACUER",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:15",
-      "date": "21/03",
-      "timestamp": 1774095312
-    },
-    {
-      "id": "BFMTV_1774093782",
-      "source": "BFMTV",
-      "text": "LE MINISTRE ISRAÉLIEN DE LA DÉFENSE PRÉVIENT QUE \"L'INTENSITÉ DES FRAPPES\" ISRAÉLO-AMÉRICAINES SUR L'IRAN VA \"AUGMENTER CONSIDÉRABLEMENT\" DANS LES PROCHAINS JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:49",
-      "date": "21/03",
-      "timestamp": 1774093782
-    },
-    {
-      "id": "BFMTV_1774093184",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: CE QUE L'ON SAIT SUR LE SITE NUCLÉAIRE IRANIEN DE NATANZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:39",
-      "date": "21/03",
-      "timestamp": 1774093184
-    },
-    {
-      "id": "BFMTV_1774092791",
-      "source": "BFMTV",
-      "text": "\"ILS PRÉPARAIENT UN ATTENTAT\": DEUX ANARCHISTES ITALIENS MEURENT DANS L'EXPLOSION D'UNE BOMBE ARTISANALE PRÈS DE ROME",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:33",
-      "date": "21/03",
-      "timestamp": 1774092791
-    },
-    {
-      "id": "BFMTV_1774092614",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL AFFIRME QUE L'INTENSITÉ DES FRAPPES EN IRAN VA \"AUGMENTER CONSIDÉRABLEMENT\" DANS LES PROCHAINS JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:30",
-      "date": "21/03",
-      "timestamp": 1774092614
-    },
-    {
-      "id": "OPEX360_1774091986",
-      "source": "OPEX360",
-      "text": "LES PAYS-BAS CONFIRMENT LEUR PARTICIPATION AU PROGRAMME  DE DRONES DE COMBAT COLLABORATIF MENÉ PAR L’US AIR FORCE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:19",
-      "date": "21/03",
-      "timestamp": 1774091986
     }
   ],
   "france": {
