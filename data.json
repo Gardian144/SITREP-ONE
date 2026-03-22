@@ -1,7 +1,37 @@
 {
-  "last_update": "22/03 07:29",
+  "last_update": "22/03 08:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774166072",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH AFFIRME AVOIR ATTAQUÉ DES SOLDATS ISRAÉLIENS À MISGAV AM, DANS LE NORD D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:54",
+      "date": "22/03",
+      "timestamp": 1774166072
+    },
+    {
+      "id": "BFMTV_1774165470",
+      "source": "BFMTV",
+      "text": "ALERTE DE CHALEUR EXTRÊME, JUSQU'À 44,4°C OBSERVÉS... LES ÉTATS-UNIS ENREGISTRENT DES RECORDS DE TEMPÉRATURE EN PLEIN MOIS DE MARS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:44",
+      "date": "22/03",
+      "timestamp": 1774165470
+    },
+    {
+      "id": "BFMTV_1774165201",
+      "source": "BFMTV",
+      "text": "ARAD: LES IMAGES DES DÉGÂTS APRÈS LES LOURDES FRAPPES IRANIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:40",
+      "date": "22/03",
+      "timestamp": 1774165201
+    },
     {
       "id": "BFMTV_1774164325",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "07:25",
       "date": "21/03",
       "timestamp": 1774077959
-    },
-    {
-      "id": "BFMTV_1774076484",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: ISRAËL DIT FRAPPER LE HEZBOLLAH À BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:01",
-      "date": "21/03",
-      "timestamp": 1774076484
-    },
-    {
-      "id": "BFMTV_1774076353",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE LES ÉMIRATS DE \"VIOLENTES FRAPPES\" EN CAS D'ATTAQUES CONTRE DES ÎLES DU GOLFE CONTRÔLÉES PAR TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:59",
-      "date": "21/03",
-      "timestamp": 1774076353
-    },
-    {
-      "id": "BFMTV_1774076219",
-      "source": "BFMTV",
-      "text": "\"LA PATIENCE DONT NOUS FAISONS PREUVE N'EST PAS ILLIMITÉE\": FACE AUX ATTAQUES IRANIENNES, LE MINISTRE SAOUDIEN DES AFFAIRES ÉTRANGÈRES TAPE DU POING SUR LA TABLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:56",
-      "date": "21/03",
-      "timestamp": 1774076219
     }
   ],
   "france": {
