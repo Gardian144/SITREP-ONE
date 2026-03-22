@@ -1,7 +1,27 @@
 {
-  "last_update": "22/03 19:55",
+  "last_update": "22/03 20:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774211640",
+      "source": "BFMTV",
+      "text": "ÉLECTION RÉGIONALE EN ALLEMAGNE: LE PARTI DU CHANCELIER FRIEDRICH MERZ EN TÊTE, L'AFD EN FORTE PROGRESSION",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:34",
+      "date": "22/03",
+      "timestamp": 1774211640
+    },
+    {
+      "id": "BFMTV_1774211240",
+      "source": "BFMTV",
+      "text": "TROIS BISONS LAISSÉS EN LIBERTÉ ÉCRASÉS PAR UN TRAIN EN POLOGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:27",
+      "date": "22/03",
+      "timestamp": 1774211240
+    },
     {
       "id": "BFMTV_1774204131",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "18:37",
       "date": "21/03",
       "timestamp": 1774118271
-    },
-    {
-      "id": "BFMTV_1774117860",
-      "source": "BFMTV",
-      "text": "\"L'IRAN N'A PLUS LA MÊME CAPACITÉ MILITAIRE\", ASSURE JOSHUA ZARKA, AMBASSADEUR D'ISRAËL EN FRANCE",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:31",
-      "date": "21/03",
-      "timestamp": 1774117860
-    },
-    {
-      "id": "BFMTV_1774117352",
-      "source": "BFMTV",
-      "text": "SITE NUCLÉAIRE VISÉ EN ISRAËL: \"IL Y A 23 CIVILS BLESSÉS\", AFFIRME JOSHUA ZARKA, AMBASSADEUR D'ISRAËL EN FRANCE",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:22",
-      "date": "21/03",
-      "timestamp": 1774117352
     }
   ],
   "france": {
