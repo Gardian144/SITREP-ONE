@@ -1,7 +1,47 @@
 {
-  "last_update": "22/03 23:56",
+  "last_update": "23/03 05:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774244865",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LE CHEF DE L'AIE QU'\"AUCUN PAYS\" N'ÉCHAPPERA AUX EFFETS D'UNE CRISE MONDIALE DE L'ÉNERGIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:47",
+      "date": "23/03",
+      "timestamp": 1774244865
+    },
+    {
+      "id": "BFMTV_1774244193",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ULTIMATUM POSÉ PAR DONALD TRUMP À TÉHÉRAN POUR LA RÉOUVERTURE DU DÉTROIT D'ORMUZ ARRIVE À ÉCHÉANCE CE LUNDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:36",
+      "date": "23/03",
+      "timestamp": 1774244193
+    },
+    {
+      "id": "BFMTV_1774244133",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ISRAÉLIENS S'INQUIÈTENT APRÈS LES FRAPPES IRANIENNES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:35",
+      "date": "23/03",
+      "timestamp": 1774244133
+    },
+    {
+      "id": "BFMTV_1774243672",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE MÈNE UNE LARGE VAGUE D'ATTAQUES CONTRE DES INFRASTRUCTURES DU RÉGIME IRANIEN À TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:27",
+      "date": "23/03",
+      "timestamp": 1774243672
+    },
     {
       "id": "BFMTV_1774223089",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "19:08",
       "date": "21/03",
       "timestamp": 1774120136
-    },
-    {
-      "id": "BFMTV_1774119389",
-      "source": "BFMTV",
-      "text": "LA TÉLÉVISION D'ÉTAT IRANIENNE DÉCLARE QUE LES FRAPPES SUR DIMONA, EN ISRAËL, SONT UNE \"RÉPONSE\" À L'ATTAQUE \"ENNEMIE\" SUR LE SITE NUCLÉAIRE IRANIEN DE NATANZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:56",
-      "date": "21/03",
-      "timestamp": 1774119389
-    },
-    {
-      "id": "BFMTV_1774118916",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE CONFIRME UN \"IMPACT DIRECT DE MISSILE\" IRANIEN SUR UNE VILLE ABRITANT UNE INSTALLATION NUCLÉAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:48",
-      "date": "21/03",
-      "timestamp": 1774118916
-    },
-    {
-      "id": "BFMTV_1774118857",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: ENTRETIEN AVEC JOSHUA ZARKA, AMBASSADEUR D'ISRAËL EN FRANCE",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:47",
-      "date": "21/03",
-      "timestamp": 1774118857
-    },
-    {
-      "id": "BFMTV_1774118498",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: FRAPPE DE MISSILE IRANIEN DANS UNE VILLE ISRAÉLIENNE ABRITANT UN CENTRE DE RECHERCHE NUCLÉAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:41",
-      "date": "21/03",
-      "timestamp": 1774118498
     }
   ],
   "france": {
