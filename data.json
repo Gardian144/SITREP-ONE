@@ -1,7 +1,77 @@
 {
-  "last_update": "23/03 21:52",
+  "last_update": "23/03 23:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774306300",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:51",
+      "date": "23/03",
+      "timestamp": 1774306300
+    },
+    {
+      "id": "BFMTV_1774306159",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DE RETOUR DE DOHA AU QATAR, NOTRE JOURNALISTE RACONTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:49",
+      "date": "23/03",
+      "timestamp": 1774306159
+    },
+    {
+      "id": "BFMTV_1774305779",
+      "source": "BFMTV",
+      "text": "IRAN: \"POUR MOI, MOHAMMAD BAGHER GHALIBAF EST DEVENU L'HOMME LE PLUS FORT DE LA RÉPUBLIQUE ISLAMIQUE\", CONSTATE MATTHIEU GHADIRI, EX-AGENT INFILTRÉ DANS LES SERVICES SECRETS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:42",
+      "date": "23/03",
+      "timestamp": 1774305779
+    },
+    {
+      "id": "BFMTV_1774304839",
+      "source": "BFMTV",
+      "text": "IRAN: BENJAMIN NETANYAHU, PRIS DE COURT PAR LES ANNONCES DE DONALD TRUMP, CONVOQUE UNE RÉUNION AVEC LES CHEFS DE LA COALITION",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:27",
+      "date": "23/03",
+      "timestamp": 1774304839
+    },
+    {
+      "id": "BFMTV_1774304653",
+      "source": "BFMTV",
+      "text": "LES AUTORITÉS IRANIENNES RÉFUTENT SUR LA TÉLÉVISION NATIONALE TOUTE DISCUSSION AVEC DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:24",
+      "date": "23/03",
+      "timestamp": 1774304653
+    },
+    {
+      "id": "BFMTV_1774304478",
+      "source": "BFMTV",
+      "text": "SELON LE WALL STREET JOURNAL, 2.200 MARINES AMÉRICAINS SE RENDENT CE VENDREDI AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:21",
+      "date": "23/03",
+      "timestamp": 1774304478
+    },
+    {
+      "id": "BFMTV_1774302968",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA SITUATION AU QATAR S'APAISE APRÈS LE REPORT DE L'ULTIMATUM DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:56",
+      "date": "23/03",
+      "timestamp": 1774302968
+    },
     {
       "id": "BFMTV_1774302432",
       "source": "BFMTV",
@@ -196,6 +266,16 @@
       "id": "OPEX360_1774290744",
       "source": "OPEX360",
       "text": "L’UKRAINE EST PRÊTE À AIDER LE QATAR EN MATIÈRE DE LA LUTTE ANTIDRONE EN ÉCHANGE D’UN TRANSFERT DE SES MIRAGE 2000-5",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:32",
+      "date": "23/03",
+      "timestamp": 1774290744
+    },
+    {
+      "id": "OPEX360_1774290744",
+      "source": "OPEX360",
+      "text": "L’UKRAINE EST PRÊTE À AIDER LE QATAR EN MATIÈRE DE LUTTE ANTIDRONE EN ÉCHANGE D’UN TRANSFERT DE SES MIRAGE 2000-5",
       "urgent": true,
       "france_related": false,
       "time": "18:32",
@@ -921,86 +1001,6 @@
       "time": "16:55",
       "date": "22/03",
       "timestamp": 1774198503
-    },
-    {
-      "id": "BFMTV_1774194394",
-      "source": "BFMTV",
-      "text": "\"LE PLUS GRAND ENNEMI DES ÉTATS-UNIS\": DONALD TRUMP S'ATTAQUE AU PARTI DÉMOCRATE APRES \"LA MORT DE L'IRAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:46",
-      "date": "22/03",
-      "timestamp": 1774194394
-    },
-    {
-      "id": "BFMTV_1774193768",
-      "source": "BFMTV",
-      "text": "PONT BOMBARDÉ DANS LE SUD DU LIBAN: LE PRÉSIDENT LIBANAIS AFFIRME QUE CES FRAPPES ISRAÉLIENNES SONT LE \"PRÉLUDE À UNE INVASION TERRESTRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:36",
-      "date": "22/03",
-      "timestamp": 1774193768
-    },
-    {
-      "id": "BFMTV_1774191246",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN MENACE DE FERMER ENTIÈREMENT LE DÉTROIT D'ORMUZ SI LES ÉTATS-UNIS CIBLENT SES CENTRALES ÉLECTRIQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:54",
-      "date": "22/03",
-      "timestamp": 1774191246
-    },
-    {
-      "id": "BFMTV_1774189848",
-      "source": "BFMTV",
-      "text": "\"NOTRE PAYS N'OUBLIERA JAMAIS\": LA BELGIQUE UNIE POUR COMMÉMORER LES DIX ANS DES ATTENTATS DE BRUXELLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:30",
-      "date": "22/03",
-      "timestamp": 1774189848
-    },
-    {
-      "id": "BFMTV_1774188835",
-      "source": "BFMTV",
-      "text": "IRAN MENACE DE FERMER ENTIÈREMENT LE DÉTROIT D'ORMUZ SI WASHINGTON VISE SES CENTRALES ÉLECTRIQUES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:13",
-      "date": "22/03",
-      "timestamp": 1774188835
-    },
-    {
-      "id": "BFMTV_1774186747",
-      "source": "BFMTV",
-      "text": "AFFECTÉE PAR LES SANCTIONS DES ÉTATS-UNIS, CUBA CONNAÎT UNE DEUXIÈME PANNE DE COURANT NATIONALE EN MOINS D'UNE SEMAINE",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:39",
-      "date": "22/03",
-      "timestamp": 1774186747
-    },
-    {
-      "id": "BFMTV_1774186584",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE FRAPPE UN PONT DANS LE SUD DU LIBAN APRÈS UN AVERTISSEMENT ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:36",
-      "date": "22/03",
-      "timestamp": 1774186584
-    },
-    {
-      "id": "BFMTV_1774185047",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE FRAPPE UN PONT DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:10",
-      "date": "22/03",
-      "timestamp": 1774185047
     }
   ],
   "france": {
