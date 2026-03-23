@@ -1,7 +1,137 @@
 {
-  "last_update": "23/03 08:39",
+  "last_update": "23/03 11:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774265046",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: DONALD TRUMP ÉVOQUE \"DES DISCUSSIONS TRÈS FRUCTUEUSES\" AVEC L'IRAN ET REPORTE LES FRAPPES AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:24",
+      "date": "23/03",
+      "timestamp": 1774265046
+    },
+    {
+      "id": "BFMTV_1774264934",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: DONALD TRUMP REPOUSSE SON ULTIMATUM POSÉ À L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:22",
+      "date": "23/03",
+      "timestamp": 1774264934
+    },
+    {
+      "id": "BFMTV_1774262137",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: TÉHÉRAN MENACE DE POSER DES \"MINES NAVALES\" DANS LE GOLFE SI SES CÔTES SONT ATTAQUÉES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:35",
+      "date": "23/03",
+      "timestamp": 1774262137
+    },
+    {
+      "id": "BFMTV_1774261193",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - GUERRE EN IRAN: VERS UNE CRISE MONDIALE DE L'ÉNERGIE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:19",
+      "date": "23/03",
+      "timestamp": 1774261193
+    },
+    {
+      "id": "BFMTV_1774261160",
+      "source": "BFMTV",
+      "text": "DES AMBULANCES INCENDIÉES À LONDRES, KEIR STARMER DÉNONCE UNE ATTAQUE \"ANTISÉMITE PROFONDÉMENT CHOQUANTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:19",
+      "date": "23/03",
+      "timestamp": 1774261160
+    },
+    {
+      "id": "BFMTV_1774260866",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: FACE AUX MENACES DE DONALD TRUMP, L'IRAN PUBLIE DES LISTES DE CIBLES ÉNERGÉTIQUES AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:14",
+      "date": "23/03",
+      "timestamp": 1774260866
+    },
+    {
+      "id": "BFMTV_1774260403",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES MISSILES IRANIENS TIRÉS VERS ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:06",
+      "date": "23/03",
+      "timestamp": 1774260403
+    },
+    {
+      "id": "BFMTV_1774257483",
+      "source": "BFMTV",
+      "text": "DEUX MORTS DANS LA COLLISION ENTRE UN AVION ET UN VÉHICULE DE SECOURS SUR LE TARMAC DE L'AÉROPORT DE LAGUARDIA, À NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:18",
+      "date": "23/03",
+      "timestamp": 1774257483
+    },
+    {
+      "id": "BFMTV_1774257342",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:15",
+      "date": "23/03",
+      "timestamp": 1774257342
+    },
+    {
+      "id": "BFMTV_1774257341",
+      "source": "BFMTV",
+      "text": "LE DEYNA, PÉTROLIER DE LA FLOTTE FANTÔME RUSSE INTERCEPTÉ PAR LA FRANCE EN MÉDITERRANÉE, EST ARRIVÉ À MARSEILLE",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:15",
+      "date": "23/03",
+      "timestamp": 1774257341
+    },
+    {
+      "id": "BFMTV_1774257123",
+      "source": "BFMTV",
+      "text": "UN SERVICE BÉNÉVOLE D'AMBULANCES DE LA COMMUNAUTÉ JUIVE INCENDIÉ À LONDRES, KEIR STARMER DÉNONCE UNE ATTAQUE \"ANTISÉMITE PROFONDÉMENT CHOQUANTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:12",
+      "date": "23/03",
+      "timestamp": 1774257123
+    },
+    {
+      "id": "BFMTV_1774256534",
+      "source": "BFMTV",
+      "text": "LA COLLISION D'UN AVION AVEC UN VÉHICULE À L'AÉROPORT LAGUARDIA DE NEW YORK FAIT AU MOINS DEUX MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:02",
+      "date": "23/03",
+      "timestamp": 1774256534
+    },
+    {
+      "id": "BFMTV_1774256014",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: PLUS QUE QUELQUES HEURES AVANT LA FIN DE L'ULTIMATUM DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:53",
+      "date": "23/03",
+      "timestamp": 1774256014
+    },
     {
       "id": "BFMTV_1774254993",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "23:02",
       "date": "21/03",
       "timestamp": 1774134127
-    },
-    {
-      "id": "BFMTV_1774133990",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU PROMET DE \"CONTINUER À FRAPPER\" L'IRAN APRÈS UNE \"SOIRÉE TRÈS DIFFICILE\" POUR ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:59",
-      "date": "21/03",
-      "timestamp": 1774133990
-    },
-    {
-      "id": "BFMTV_1774132967",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT : \"LES ÉTATS-UNIS ONT RAYÉ L'IRAN DE LA CARTE\", AFFIRME DONALD TRUMP SUR SON RÉSEAU SOCIAL",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:42",
-      "date": "21/03",
-      "timestamp": 1774132967
-    },
-    {
-      "id": "BFMTV_1774132299",
-      "source": "BFMTV",
-      "text": "ARAD, DIMONA: LE DÔME DE FER ISRAÉLIEN N'A PAS RÉUSSI À INTERCEPTER LES MISSILES IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:31",
-      "date": "21/03",
-      "timestamp": 1774132299
-    },
-    {
-      "id": "BFMTV_1774131726",
-      "source": "BFMTV",
-      "text": "AUX ÉTATS-UNIS, 700 CHATS ET CHIENS ONT ÉTÉ SAUVÉS DANS UN REFUGE SURPEUPLÉ EN CALIFORNIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:22",
-      "date": "21/03",
-      "timestamp": 1774131726
-    },
-    {
-      "id": "BFMTV_1774131362",
-      "source": "BFMTV",
-      "text": "ARAD, DIMONA: UNE SOIXANTAINE DE BLESSÉS ONT ÉTÉ ÉVACUÉS VERS LES HÔPITAUX",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:16",
-      "date": "21/03",
-      "timestamp": 1774131362
-    },
-    {
-      "id": "BFMTV_1774130704",
-      "source": "BFMTV",
-      "text": "ARAD, DIMONA: LE PREMIER MINISTRE BENJAMIN NETANYAHU ASSURE QU'ISRAËL EST \"DÉTERMINÉ À CONTINUER À FRAPPER\" L'IRAN APRÈS UNE \"NUIT EXTRÊMEMENT DIFFICILE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:05",
-      "date": "21/03",
-      "timestamp": 1774130704
-    },
-    {
-      "id": "BFMTV_1774130160",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU PROMET DE \"CONTINUER À FRAPPER\" L'IRAN APRÈS UNE \"SOIRÉE TRÈS DIFFICILE\" POUR ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:56",
-      "date": "21/03",
-      "timestamp": 1774130160
-    },
-    {
-      "id": "BFMTV_1774129342",
-      "source": "BFMTV",
-      "text": "ARAD, DIMONA: LE SUD D'ISRAËL EST FRAPPÉ PAR L'IRAN CE SAMEDI SOIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:42",
-      "date": "21/03",
-      "timestamp": 1774129342
-    },
-    {
-      "id": "BFMTV_1774129239",
-      "source": "BFMTV",
-      "text": "PLUSIEURS PERSONNES BLESSÉES APRÈS UN TIR DE MISSILE IRANIEN SUR ARAD AU SUD D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:40",
-      "date": "21/03",
-      "timestamp": 1774129239
-    },
-    {
-      "id": "BFMTV_1774128890",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES DIZAINES DE BLESSÉS DANS LE SUD D'ISRAËL APRÈS DES TIRS DE MISSILES IRANIENS À ARAD ET DIMONA",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:34",
-      "date": "21/03",
-      "timestamp": 1774128890
-    },
-    {
-      "id": "BFMTV_1774127841",
-      "source": "BFMTV",
-      "text": "\"NOUS ALLONS CONTINUER À FRAPPER LA TÊTE DU RÉGIME\" IRANIEN, AFFIRME OLIVIER RAFOWICZ, PORTE-PAROLE FRANCOPHONE DE L'ARMÉE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:17",
-      "date": "21/03",
-      "timestamp": 1774127841
-    },
-    {
-      "id": "BFMTV_1774127377",
-      "source": "BFMTV",
-      "text": "\"LE RÉGIME DES MOLLAHS VISE LES VILLES ISRAÉLIENNES\", DÉCLARE OLIVIER RAFOWICZ, PORTE-PAROLE FRANCOPHONE DE L'ARMÉE ISRAÉLIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:09",
-      "date": "21/03",
-      "timestamp": 1774127377
-    },
-    {
-      "id": "BFMTV_1774127095",
-      "source": "BFMTV",
-      "text": "FRAPPE IRANIENNE SUR LA VILLE D'ARAD AU SUD D'ISRAËL: \"LE BILAN RISQUE D'ÊTRE LOURD\", DÉCLARE OLIVIER RAFOWICZ, PORTE-PAROLE FRANCOPHONE DE L'ARMÉE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:04",
-      "date": "21/03",
-      "timestamp": 1774127095
     }
   ],
   "france": {
