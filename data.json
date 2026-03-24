@@ -1,7 +1,137 @@
 {
-  "last_update": "24/03 08:04",
+  "last_update": "24/03 11:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774350632",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: POUR LE CHEF D'ÉTAT-MAJOR DES ARMÉES, LES ACTIONS DES ÉTATS-UNIS ONT \"UN IMPACT SUR LA SÉCURITÉ\" DE LA FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "11:10",
+      "date": "24/03",
+      "timestamp": 1774350632
+    },
+    {
+      "id": "BFMTV_1774349474",
+      "source": "BFMTV",
+      "text": "AMPUTÉ DES QUATRE MEMBRES ET JOUEUR PROFESSIONNEL DE CORNHOLE, UN AMÉRICAIN DE 27 ANS INCULPÉ POUR MEURTRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:51",
+      "date": "24/03",
+      "timestamp": 1774349474
+    },
+    {
+      "id": "BFMTV_1774349008",
+      "source": "BFMTV",
+      "text": "\"L’EUROPE N’EST PLUS LA PRIORITÉ\" DES AMÉRICAINS, ESTIME LE CHEF D'ÉTAT-MAJOR DES ARMÉES FABIEN MANDON",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:43",
+      "date": "24/03",
+      "timestamp": 1774349008
+    },
+    {
+      "id": "BFMTV_1774348581",
+      "source": "BFMTV",
+      "text": "GUERRE AU PROCHE-ORIENT: LE CHEF D'ÉTAT-MAJOR DES ARMÉES DÉNONCE UN ALLIÉ AMÉRICAIN \"DE MOINS EN MOINS PRÉVISIBLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:36",
+      "date": "24/03",
+      "timestamp": 1774348581
+    },
+    {
+      "id": "BFMTV_1774348378",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - QUI EST MOHAMMAD GHALIBAF, LE NOUVEL HOMME FORT DU RÉGIME IRANIEN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:32",
+      "date": "24/03",
+      "timestamp": 1774348378
+    },
+    {
+      "id": "BFMTV_1774348250",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LES IMAGES DE LA COLLISION MORTELLE ENTRE UN AVION ET UN CAMION DE POMPIERS  ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:30",
+      "date": "24/03",
+      "timestamp": 1774348250
+    },
+    {
+      "id": "BFMTV_1774346973",
+      "source": "BFMTV",
+      "text": "AU MOINS 66 MORTS, EXPLOSION APRÈS LE DÉCOLLAGE... CE QUE L'ON SAIT DU CRASH D'UN AVION MILITAIRE EN COLOMBIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:09",
+      "date": "24/03",
+      "timestamp": 1774346973
+    },
+    {
+      "id": "BFMTV_1774346537",
+      "source": "BFMTV",
+      "text": "LIBAN: AU MOINS TROIS MORTS, LE BILAN S'ALOURDIT APRÈS UNE FRAPPE ISRAÉLIENNE SUR UN IMMEUBLE DE BECHAMOUN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:02",
+      "date": "24/03",
+      "timestamp": 1774346537
+    },
+    {
+      "id": "BFMTV_1774345652",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL A MENÉ CETTE NUIT SEPT FRAPPES DANS LA BANLIEUE SUD DE BEYROUTH ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:47",
+      "date": "24/03",
+      "timestamp": 1774345652
+    },
+    {
+      "id": "BFMTV_1774345589",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS SIX PERSONNES BLESSÉES À TEL-AVIV APRÈS DES FRAPPES IRANIENNES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:46",
+      "date": "24/03",
+      "timestamp": 1774345589
+    },
+    {
+      "id": "BFMTV_1774345303",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE ISRAËL DE \"LOURDES\" FRAPPES EN SOUTIEN AUX LIBANAIS ET PALESTINIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:41",
+      "date": "24/03",
+      "timestamp": 1774345303
+    },
+    {
+      "id": "BFMTV_1774344368",
+      "source": "BFMTV",
+      "text": "\"JE N'AI AUCUN ESPOIR QUE LES PALESTINIENS À GAZA SOIENT SAUVÉS S'IL N'Y A PAS D'INTERVENTION MASSIVE POUR ARRÊTER ISRAËL\", ALERTE LA RAPPORTEUSE SPÉCIALE À L'ONU FRANCESCA ALBANESE",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:26",
+      "date": "24/03",
+      "timestamp": 1774344368
+    },
+    {
+      "id": "BFMTV_1774343391",
+      "source": "BFMTV",
+      "text": "GAZA: FRANCESCA ALBANESE DÉNONCE UNE \"MACHINATION DE DISTRACTION\" QUANT AUX PROPOS QUI LUI SONT REPROCHÉS",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:09",
+      "date": "24/03",
+      "timestamp": 1774343391
+    },
     {
       "id": "BFMTV_1774339456",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "10:19",
       "date": "23/03",
       "timestamp": 1774261193
-    },
-    {
-      "id": "BFMTV_1774261160",
-      "source": "BFMTV",
-      "text": "DES AMBULANCES INCENDIÉES À LONDRES, KEIR STARMER DÉNONCE UNE ATTAQUE \"ANTISÉMITE PROFONDÉMENT CHOQUANTE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:19",
-      "date": "23/03",
-      "timestamp": 1774261160
-    },
-    {
-      "id": "BFMTV_1774260866",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: FACE AUX MENACES DE DONALD TRUMP, L'IRAN PUBLIE DES LISTES DE CIBLES ÉNERGÉTIQUES AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:14",
-      "date": "23/03",
-      "timestamp": 1774260866
-    },
-    {
-      "id": "BFMTV_1774260403",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES MISSILES IRANIENS TIRÉS VERS ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:06",
-      "date": "23/03",
-      "timestamp": 1774260403
-    },
-    {
-      "id": "BFMTV_1774257483",
-      "source": "BFMTV",
-      "text": "DEUX MORTS DANS LA COLLISION ENTRE UN AVION ET UN VÉHICULE DE SECOURS SUR LE TARMAC DE L'AÉROPORT DE LAGUARDIA, À NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:18",
-      "date": "23/03",
-      "timestamp": 1774257483
-    },
-    {
-      "id": "BFMTV_1774257342",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:15",
-      "date": "23/03",
-      "timestamp": 1774257342
-    },
-    {
-      "id": "BFMTV_1774257341",
-      "source": "BFMTV",
-      "text": "LE DEYNA, PÉTROLIER DE LA FLOTTE FANTÔME RUSSE INTERCEPTÉ PAR LA FRANCE EN MÉDITERRANÉE, EST ARRIVÉ À MARSEILLE",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:15",
-      "date": "23/03",
-      "timestamp": 1774257341
-    },
-    {
-      "id": "BFMTV_1774257123",
-      "source": "BFMTV",
-      "text": "UN SERVICE BÉNÉVOLE D'AMBULANCES DE LA COMMUNAUTÉ JUIVE INCENDIÉ À LONDRES, KEIR STARMER DÉNONCE UNE ATTAQUE \"ANTISÉMITE PROFONDÉMENT CHOQUANTE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:12",
-      "date": "23/03",
-      "timestamp": 1774257123
-    },
-    {
-      "id": "BFMTV_1774256534",
-      "source": "BFMTV",
-      "text": "LA COLLISION D'UN AVION AVEC UN VÉHICULE À L'AÉROPORT LAGUARDIA DE NEW YORK FAIT AU MOINS DEUX MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:02",
-      "date": "23/03",
-      "timestamp": 1774256534
-    },
-    {
-      "id": "BFMTV_1774256014",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: PLUS QUE QUELQUES HEURES AVANT LA FIN DE L'ULTIMATUM DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:53",
-      "date": "23/03",
-      "timestamp": 1774256014
-    },
-    {
-      "id": "BFMTV_1774254993",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LE CHEF DE L'AIE PRÉVIENT QU'\"AUCUN PAYS\" N'ÉCHAPPERA AUX EFFETS D'UNE CRISE MONDIALE DE L'ÉNERGIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:36",
-      "date": "23/03",
-      "timestamp": 1774254993
-    },
-    {
-      "id": "BFMTV_1774250933",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AFFRONTEMENTS VIOLENTS ENTRE ISRAËL ET L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:28",
-      "date": "23/03",
-      "timestamp": 1774250933
-    },
-    {
-      "id": "BFMTV_1774250900",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: L'AÉROPORT DE LAGUARDIA À NEW YORK FERMÉ EN \"URGENCE\" APRÈS UNE COLLISION ENTRE UN AVION ET UN VÉHICULE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:28",
-      "date": "23/03",
-      "timestamp": 1774250900
-    },
-    {
-      "id": "BFMTV_1774248540",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA BASE BRITANNIQUE DE DIEGO GARCIA VISÉE PAR DES MISSILES IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:49",
-      "date": "23/03",
-      "timestamp": 1774248540
     }
   ],
   "france": {
