@@ -1,7 +1,57 @@
 {
-  "last_update": "24/03 20:03",
+  "last_update": "24/03 21:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774388983",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE L'IRAN \"À S'ENGAGER DE BONNE FOI DANS DES NÉGOCIATIONS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:49",
+      "date": "24/03",
+      "timestamp": 1774388983
+    },
+    {
+      "id": "BFMTV_1774388260",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES 15 CONDITIONS DE DONALD TRUMP POUR METTRE LA FIN À LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:37",
+      "date": "24/03",
+      "timestamp": 1774388260
+    },
+    {
+      "id": "BFMTV_1774387054",
+      "source": "BFMTV",
+      "text": "IRAN: 8.000 SOLDATS AMÉRICAINS POURRAIENT ÊTRE ENVOYÉS AVANT LA FIN DE LA SEMAINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:17",
+      "date": "24/03",
+      "timestamp": 1774387054
+    },
+    {
+      "id": "BFMTV_1774384896",
+      "source": "BFMTV",
+      "text": "DÉTROIT D’ORMUZ BLOQUÉ: LES PAYS DU GOLFE CRAIGNENT UN CHOC PÉTROLIER MONDIAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:41",
+      "date": "24/03",
+      "timestamp": 1774384896
+    },
+    {
+      "id": "BFMTV_1774382773",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE SUD-LIBAN EN VOIE D’ANNEXION PAR ISRAËL ? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:06",
+      "date": "24/03",
+      "timestamp": 1774382773
+    },
     {
       "id": "BFMTV_1774382369",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "20:42",
       "date": "23/03",
       "timestamp": 1774298540
-    },
-    {
-      "id": "BFMTV_1774298367",
-      "source": "BFMTV",
-      "text": "PRÉSENCE MILITAIRE AU MOYEN-ORIENT: \"CE SONT DES MOYENS QUI SONT MIS AU SERVICE DE LA DÉSESCALADE \", EXPLIQUE CATHERINE VAUTRIN, MINISTRE DES ARMÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:39",
-      "date": "23/03",
-      "timestamp": 1774298367
-    },
-    {
-      "id": "BFMTV_1774298023",
-      "source": "BFMTV",
-      "text": "GOLFE: \"C'EST UN EFFORT MILITAIRE IMPORTANT DÉJÀ PAR LA PRÉSENCE DE NOS FORCES\", EXPLIQUE CATHERINE VAUTRIN, MINISTRE DES ARMÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:33",
-      "date": "23/03",
-      "timestamp": 1774298023
-    },
-    {
-      "id": "BFMTV_1774297762",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"AIDER CES PAYS À SE DÉFENDRE\", DÉCLARE CATHERINE VAUTRIN, MINISTRE DES ARMÉES, À PROPOS DES PAYS DU GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:29",
-      "date": "23/03",
-      "timestamp": 1774297762
-    },
-    {
-      "id": "BFMTV_1774297659",
-      "source": "BFMTV",
-      "text": "TENSION DANS LE GOLFE: \"LORSQUE VOUS AVEZ UN ACCORD DE PARTENARIAT, PAR DÉFINITION, VOUS ÊTES ENGAGÉS\", EXPLIQUE CATHERINE VAUTRIN, MINISTRE DES ARMÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:27",
-      "date": "23/03",
-      "timestamp": 1774297659
-    },
-    {
-      "id": "BFMTV_1774296764",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: NOUVELLE SÉRIE DE FRAPPES IRANIENNES VERS ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:12",
-      "date": "23/03",
-      "timestamp": 1774296764
     }
   ],
   "france": {
