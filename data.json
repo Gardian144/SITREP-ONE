@@ -1,7 +1,47 @@
 {
-  "last_update": "24/03 21:59",
+  "last_update": "24/03 23:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774393131",
+      "source": "BFMTV",
+      "text": "SELON LE MÉDIA NBC NEWS, DONALD TRUMP APPROUVE LE DÉPLOIEMENT DE PLUS DE 1.000 SOLDATS AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:58",
+      "date": "24/03",
+      "timestamp": 1774393131
+    },
+    {
+      "id": "BFMTV_1774391810",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE LES \"NAVIRES NON-HOSTILES\" PEUVENT EMPRUNTER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:36",
+      "date": "24/03",
+      "timestamp": 1774391810
+    },
+    {
+      "id": "BFMTV_1774391592",
+      "source": "BFMTV",
+      "text": "L'IRAN AFFIRME QUE \"LES NAVIRES NON HOSTILES\" PEUVENT EMPRUNTER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:33",
+      "date": "24/03",
+      "timestamp": 1774391592
+    },
+    {
+      "id": "BFMTV_1774390659",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON APPELLE L'IRAN \"À S'ENGAGER DE BONNE FOI DANS DES NÉGOCIATIONS\" POUR \"OUVRIR UNE VOIE VERS LA DÉSESCALADE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:17",
+      "date": "24/03",
+      "timestamp": 1774390659
+    },
     {
       "id": "BFMTV_1774388983",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "21:16",
       "date": "23/03",
       "timestamp": 1774300595
-    },
-    {
-      "id": "BFMTV_1774300440",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE ANNONCE AVOIR RECOMMENCÉ À FRAPPER DES CIBLES DU HEZBOLLAH À BEYROUTH AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:14",
-      "date": "23/03",
-      "timestamp": 1774300440
-    },
-    {
-      "id": "BFMTV_1774300195",
-      "source": "BFMTV",
-      "text": "COLOMBIE: L'ARMÉE ANNONCE QUE LE CRASH D'UN AVION MILITAIRE FAIT 8 MORTS ET 83 BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:09",
-      "date": "23/03",
-      "timestamp": 1774300195
-    },
-    {
-      "id": "BFMTV_1774299039",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'INTERVIEW EN INTÉGRALITÉ DE CATHERINE VAUTRIN, MINISTRE DES ARMÉES",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:50",
-      "date": "23/03",
-      "timestamp": 1774299039
-    },
-    {
-      "id": "BFMTV_1774298540",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: \"NOS MATÉRIELS SONT TRÈS SOLLICITÉS\", EXPLIQUE CATHERINE VAUTRIN, MINISTRE DES ARMÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:42",
-      "date": "23/03",
-      "timestamp": 1774298540
     }
   ],
   "france": {
