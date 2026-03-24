@@ -1,7 +1,17 @@
 {
-  "last_update": "23/03 23:04",
+  "last_update": "24/03 00:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774307381",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA MINISTRE CATHERINE VAUTRIN ASSURE QUE LA FRANCE EST \"DANS UNE LOGIQUE TOTALEMENT DÉFENSIVE\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "23:09",
+      "date": "23/03",
+      "timestamp": 1774307381
+    },
     {
       "id": "BFMTV_1774306300",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "17:01",
       "date": "22/03",
       "timestamp": 1774198894
-    },
-    {
-      "id": "BFMTV_1774198503",
-      "source": "BFMTV",
-      "text": "BRÉSIL: UNE DÉPUTÉE PROVOQUE UNE POLÉMIQUE APRÈS S'ÊTRE MAQUILLÉE LE VISAGE EN NOIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:55",
-      "date": "22/03",
-      "timestamp": 1774198503
     }
   ],
   "france": {
