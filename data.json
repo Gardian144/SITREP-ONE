@@ -1,7 +1,27 @@
 {
-  "last_update": "24/03 23:03",
+  "last_update": "25/03 00:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774395387",
+      "source": "BFMTV",
+      "text": "\"LE MOYEN-ORIENT EST DANS UNE CONFLAGRATION D’UNE AMPLEUR INÉDITE\", ESTIME L'AMBASSADEUR DE LA FRANCE À L'ONU, JÉRÔME BONNAFONT",
+      "urgent": false,
+      "france_related": true,
+      "time": "23:36",
+      "date": "24/03",
+      "timestamp": 1774395387
+    },
+    {
+      "id": "BFMTV_1774394886",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE LANCE UNE NOUVELLE VAGUE D'ATTAQUES \"CONTRE LES INFRASTRUCTURES DU RÉGIME TERRORISTE IRANIEN À TÉHÉRAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "23:28",
+      "date": "24/03",
+      "timestamp": 1774394886
+    },
     {
       "id": "BFMTV_1774393131",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "21:56",
       "date": "23/03",
       "timestamp": 1774302968
-    },
-    {
-      "id": "BFMTV_1774302432",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA MINISTRE CATHERINE VAUTRIN ASSURE QUE LA FRANCE EST \"DANS UNE LOGIQUE TOTALEMENT DÉFENSIVE\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:47",
-      "date": "23/03",
-      "timestamp": 1774302432
-    },
-    {
-      "id": "BFMTV_1774300595",
-      "source": "BFMTV",
-      "text": "DIMONA, UNE VILLE ISRAÉLIENNE AU CŒUR DES TENSIONS NUCLÉAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:16",
-      "date": "23/03",
-      "timestamp": 1774300595
     }
   ],
   "france": {
