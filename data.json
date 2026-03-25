@@ -1,7 +1,97 @@
 {
-  "last_update": "25/03 20:00",
+  "last_update": "25/03 22:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774475771",
+      "source": "BFMTV",
+      "text": "GAZ: GIORGIA MELONI ANNONCE UNE COOPÉRATION ACCRUE AVEC ALGER",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:56",
+      "date": "25/03",
+      "timestamp": 1774475771
+    },
+    {
+      "id": "BFMTV_1774475328",
+      "source": "BFMTV",
+      "text": "DÉPLOIEMENT DE TROUPES AMÉRICAINES AU SOL: LES DIFFÉRENTS CHOIX POSSIBLES POUR DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:48",
+      "date": "25/03",
+      "timestamp": 1774475328
+    },
+    {
+      "id": "BFMTV_1774474246",
+      "source": "BFMTV",
+      "text": "IRAN: LE DÉTROIT D'ORMUZ EST \"FERMÉ UNIQUEMENT AUX ENNEMIS\", AFFIRME ABBAS ARAGHCHI, MINISTRE IRANIEN DES AFFAIRES ÉTRANGÈRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:30",
+      "date": "25/03",
+      "timestamp": 1774474246
+    },
+    {
+      "id": "BFMTV_1774473797",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L’IRAN MENACE DE CIBLER LE DÉTROIT DE BAB-EL-MANDEB",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:23",
+      "date": "25/03",
+      "timestamp": 1774473797
+    },
+    {
+      "id": "BFMTV_1774473409",
+      "source": "BFMTV",
+      "text": "ÎLE DE KHARG: L’IRAN AURAIT DÉPLOYÉ DES PIÈGES POUR ÉCARTER LES TROUPES AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:16",
+      "date": "25/03",
+      "timestamp": 1774473409
+    },
+    {
+      "id": "BFMTV_1774473407",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN N'A \"PAS L'INTENTION DE NÉGOCIER\" MAIS DE \"CONTINUER À RÉSISTER\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:16",
+      "date": "25/03",
+      "timestamp": 1774473407
+    },
+    {
+      "id": "BFMTV_1774472650",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE LASER, LA NOUVELLE ARME ISRAÉLIENNE CONTRE LES DRONES IRANIENS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:04",
+      "date": "25/03",
+      "timestamp": 1774472650
+    },
+    {
+      "id": "BFMTV_1774472117",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L’IRAN N’A \"PAS L'INTENTION DE NÉGOCIER\", AFFIRME ABBAS ARAGHCHI, MINISTRE IRANIEN DES AFFAIRES ÉTRANGÈRES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:55",
+      "date": "25/03",
+      "timestamp": 1774472117
+    },
+    {
+      "id": "BFMTV_1774471717",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES COULISSES DES NÉGOCIATIONS ENTRE L’IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:48",
+      "date": "25/03",
+      "timestamp": 1774471717
+    },
     {
       "id": "BFMTV_1774468702",
       "source": "BFMTV",
@@ -176,6 +266,16 @@
       "id": "OPEX360_1774452225",
       "source": "OPEX360",
       "text": "LA SECTION « MORTIER 120 MM» DE LA 13E DEMI-BRIGADE DE LÉGION ÉTRANGÈRE A ÉTÉ DÉCLARÉE PLEINEMENT OPÉRATIONNELLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:23",
+      "date": "25/03",
+      "timestamp": 1774452225
+    },
+    {
+      "id": "OPEX360_1774452225",
+      "source": "OPEX360",
+      "text": "LA SECTION «MORTIER 120 MM» DE LA 13E DEMI-BRIGADE DE LÉGION ÉTRANGÈRE A ÉTÉ DÉCLARÉE PLEINEMENT OPÉRATIONNELLE",
       "urgent": false,
       "france_related": false,
       "time": "15:23",
@@ -901,106 +1001,6 @@
       "time": "17:25",
       "date": "24/03",
       "timestamp": 1774373101
-    },
-    {
-      "id": "BFMTV_1774372902",
-      "source": "BFMTV",
-      "text": "LE LIBAN EXPULSE L'AMBASSADEUR D'IRAN, LE HEZBOLLAH DÉNONCE UNE DÉCISION AUX \"CONSÉQUENCES DANGEREUSES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:21",
-      "date": "24/03",
-      "timestamp": 1774372902
-    },
-    {
-      "id": "OPEX360_1774371999",
-      "source": "OPEX360",
-      "text": "INDRA ET HANWHA AEROSPACE S’ASSOCIENT POUR LIVRER 128 OBUSIERS AUTOMOTEURS K9 AUX FORCES ESPAGNOLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:06",
-      "date": "24/03",
-      "timestamp": 1774371999
-    },
-    {
-      "id": "BFMTV_1774371247",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES HABITANTS DE CISJORDANIE SE HISSENT SUR UN MISSILE IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:54",
-      "date": "24/03",
-      "timestamp": 1774371247
-    },
-    {
-      "id": "BFMTV_1774369941",
-      "source": "BFMTV",
-      "text": "LA GUERRE AU MOYEN-ORIENT PROVOQUE \"UN NOUVEAU CHOC PÉTROLIER\", ESTIME LE MINISTRE DE L'ÉCONOMIE ROLAND LESCURE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:32",
-      "date": "24/03",
-      "timestamp": 1774369941
-    },
-    {
-      "id": "BFMTV_1774368916",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE VA APPELER 400.000 RÉSERVISTES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:15",
-      "date": "24/03",
-      "timestamp": 1774368916
-    },
-    {
-      "id": "BFMTV_1774368453",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN MISSILE INTERCEPTÉ AU DESSUS DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:07",
-      "date": "24/03",
-      "timestamp": 1774368453
-    },
-    {
-      "id": "BFMTV_1774368330",
-      "source": "BFMTV",
-      "text": "CARBURANTS: \"À CE JOUR, NOUS N'AVONS PAS DE SIGNE QUE LES MARGES DE TRANSPORT ET DE DISTRIBUTION ONT AUGMENTÉ\", ASSURE ROLAND LESCURE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:05",
-      "date": "24/03",
-      "timestamp": 1774368330
-    },
-    {
-      "id": "BFMTV_1774367830",
-      "source": "BFMTV",
-      "text": "CRISE HUMANITAIRE, PÉNURIES DE CARBURANTS, EMBARGO... QUE SE PASSE-T-IL À CUBA ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:57",
-      "date": "24/03",
-      "timestamp": 1774367830
-    },
-    {
-      "id": "BFMTV_1774367411",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS FAISONS FACE À UN CHOC ÉNERGÉTIQUE D'AMPLEUR\", DIT LE MINISTRE DE L'ÉCONOMIE ROLAND LESCURE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:50",
-      "date": "24/03",
-      "timestamp": 1774367411
-    },
-    {
-      "id": "BFMTV_1774367115",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP VALIDE LA PROPOSITION DU PREMIER MINSITRE PAKISTANAIS, \"PRÊT\" À ACCUEILLIR DES DISCUSSIONS ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:45",
-      "date": "24/03",
-      "timestamp": 1774367115
     }
   ],
   "france": {
