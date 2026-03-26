@@ -1,7 +1,147 @@
 {
-  "last_update": "26/03 05:51",
+  "last_update": "26/03 08:37",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774513583",
+      "source": "BFMTV",
+      "text": "ISRAËL ATTAQUÉ: AU MOINS SIX BLESSÉS LÉGERS, BFMTV SUR PLACE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:26",
+      "date": "26/03",
+      "timestamp": 1774513583
+    },
+    {
+      "id": "BFMTV_1774513318",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UN SOLDAT ISRAÉLIEN TUÉ AU LIBAN, DEUX MORTS À ABOU DHABI APRÈS L'INTERCEPTION D'UN MISSILE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:21",
+      "date": "26/03",
+      "timestamp": 1774513318
+    },
+    {
+      "id": "BFMTV_1774512999",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN SOLDAT DE LA BRIGADE GOLANI SERAIT DÉCÉDÉ DANS LE SUD DU LIBAN COMMUNIQUE L'ARMÉE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:16",
+      "date": "26/03",
+      "timestamp": 1774512999
+    },
+    {
+      "id": "BFMTV_1774509463",
+      "source": "BFMTV",
+      "text": "UNE \"SITUATION PROFONDÉMENT PRÉOCCUPANTE\": L'OMS ALERTE SUR L'AGGRAVATION DE LA SITUATION SANITAIRE À CUBA",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:17",
+      "date": "26/03",
+      "timestamp": 1774509463
+    },
+    {
+      "id": "BFMTV_1774509262",
+      "source": "BFMTV",
+      "text": "ÉPIDÉMIE DE MÉNINGITE EN ANGLETERRE: UN HÔPITAL A TARDÉ À ALERTER LES AUTORITÉS SANITAIRES, LE GOUVERNEMENT BRITANNIQUE PREND \"L'AFFAIRE AU SÉRIEUX\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:14",
+      "date": "26/03",
+      "timestamp": 1774509262
+    },
+    {
+      "id": "BFMTV_1774508898",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES TIRS DE MISSILES IRANIENS FONT AU MOINS SIX BLESSÉS EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:08",
+      "date": "26/03",
+      "timestamp": 1774508898
+    },
+    {
+      "id": "BFMTV_1774507168",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH REFUSE TOUTE NÉGOCIATION \"SOUS LE FEU\" AVEC ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:39",
+      "date": "26/03",
+      "timestamp": 1774507168
+    },
+    {
+      "id": "BFMTV_1774507133",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DE NOUVELLES ALERTES RETENTISSENT EN ISRAËL, PLUSIEURS PERSONNES BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:38",
+      "date": "26/03",
+      "timestamp": 1774507133
+    },
+    {
+      "id": "BFMTV_1774505811",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: VERS UN DÉBARQUEMENT DE TROUPES AMÉRICAINES SUR L'ÎLE DE KHARG?",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:16",
+      "date": "26/03",
+      "timestamp": 1774505811
+    },
+    {
+      "id": "BFMTV_1774505439",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU LIBAN, AU CŒUR D'UN QUARTIER BOMBARDÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:10",
+      "date": "26/03",
+      "timestamp": 1774505439
+    },
+    {
+      "id": "BFMTV_1774504983",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES CARICATURES DE DONALD TRUMP DIFFUSÉES À LA TÉLÉVISION IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:03",
+      "date": "26/03",
+      "timestamp": 1774504983
+    },
+    {
+      "id": "BFMTV_1774504673",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT DONALD TRUMP A ASSURÉ HIER QUE L'IRAN ÉTAIT PRÊT À CONCLURE UN ACCORD, TÉHÉRAN CONTINUE DE NIER",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:57",
+      "date": "26/03",
+      "timestamp": 1774504673
+    },
+    {
+      "id": "BFMTV_1774504457",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES DIRIGEANTS IRANIENS VEULENT \"ABSOLUMENT\" UN ACCORD MAIS \"ONT PEUR DE LE DIRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:54",
+      "date": "26/03",
+      "timestamp": 1774504457
+    },
+    {
+      "id": "BFMTV_1774504327",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE A AFFIRMÉ AVOIR MENÉ DES \"FRAPPES À GRANDE ÉCHELLE\" SUR PLUSIEURS ZONES D'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:52",
+      "date": "26/03",
+      "timestamp": 1774504327
+    },
     {
       "id": "BFMTV_1774504256",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "22:58",
       "date": "24/03",
       "timestamp": 1774393131
-    },
-    {
-      "id": "BFMTV_1774391810",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE LES \"NAVIRES NON-HOSTILES\" PEUVENT EMPRUNTER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:36",
-      "date": "24/03",
-      "timestamp": 1774391810
-    },
-    {
-      "id": "BFMTV_1774391592",
-      "source": "BFMTV",
-      "text": "L'IRAN AFFIRME QUE \"LES NAVIRES NON HOSTILES\" PEUVENT EMPRUNTER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:33",
-      "date": "24/03",
-      "timestamp": 1774391592
-    },
-    {
-      "id": "BFMTV_1774390659",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON APPELLE L'IRAN \"À S'ENGAGER DE BONNE FOI DANS DES NÉGOCIATIONS\" POUR \"OUVRIR UNE VOIE VERS LA DÉSESCALADE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:17",
-      "date": "24/03",
-      "timestamp": 1774390659
-    },
-    {
-      "id": "BFMTV_1774388983",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE L'IRAN \"À S'ENGAGER DE BONNE FOI DANS DES NÉGOCIATIONS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:49",
-      "date": "24/03",
-      "timestamp": 1774388983
-    },
-    {
-      "id": "BFMTV_1774388260",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES 15 CONDITIONS DE DONALD TRUMP POUR METTRE LA FIN À LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:37",
-      "date": "24/03",
-      "timestamp": 1774388260
-    },
-    {
-      "id": "BFMTV_1774387054",
-      "source": "BFMTV",
-      "text": "IRAN: 8.000 SOLDATS AMÉRICAINS POURRAIENT ÊTRE ENVOYÉS AVANT LA FIN DE LA SEMAINE",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:17",
-      "date": "24/03",
-      "timestamp": 1774387054
-    },
-    {
-      "id": "BFMTV_1774384896",
-      "source": "BFMTV",
-      "text": "DÉTROIT D’ORMUZ BLOQUÉ: LES PAYS DU GOLFE CRAIGNENT UN CHOC PÉTROLIER MONDIAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:41",
-      "date": "24/03",
-      "timestamp": 1774384896
-    },
-    {
-      "id": "BFMTV_1774382773",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE SUD-LIBAN EN VOIE D’ANNEXION PAR ISRAËL ? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:06",
-      "date": "24/03",
-      "timestamp": 1774382773
-    },
-    {
-      "id": "BFMTV_1774382369",
-      "source": "BFMTV",
-      "text": "GAZA: L'ONU CONDAMNE L'EXPANSION DES COLONIES ISRAÉLIENNES EN CISJORDANIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:59",
-      "date": "24/03",
-      "timestamp": 1774382369
-    },
-    {
-      "id": "BFMTV_1774382249",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE DES NÉGOCIATIONS ONT LIEU \"EN CE MOMENT\" AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:57",
-      "date": "24/03",
-      "timestamp": 1774382249
-    },
-    {
-      "id": "BFMTV_1774382154",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: CES MISSILES IRANIENS QUI RÉUSSISSENT À TRAVERSER LE DÔME DE FER ISRAÉLIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:55",
-      "date": "24/03",
-      "timestamp": 1774382154
-    },
-    {
-      "id": "BFMTV_1774382075",
-      "source": "BFMTV",
-      "text": "SON DÉPLOIEMENT EST ÉTUDIÉ AU PENTAGONE: QU'EST CE QUE LA 82ÈME DIVISION AÉROPORTÉE AMÉRICAINE QUI POURRAIT INTERVENIR AU SOL EN IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:54",
-      "date": "24/03",
-      "timestamp": 1774382075
-    },
-    {
-      "id": "BFMTV_1774381753",
-      "source": "BFMTV",
-      "text": "IRAN: QUI SONT LES 3.000 SOLDATS AMÉRICAINS QUI POURRAIENT ÊTRE DÉPLOYÉS ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:49",
-      "date": "24/03",
-      "timestamp": 1774381753
-    },
-    {
-      "id": "BFMTV_1774381336",
-      "source": "BFMTV",
-      "text": "POURPARLERS AVEC L’IRAN: LES IRANIENS NIENT DES NÉGOCIATIONS ET METTENT EN GARDE LES ÉTATS-UNIS EN CAS D’INTERVENTION SUR LEUR TERRITOIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:42",
-      "date": "24/03",
-      "timestamp": 1774381336
     }
   ],
   "france": {
