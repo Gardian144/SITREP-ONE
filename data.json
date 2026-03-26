@@ -1,7 +1,67 @@
 {
-  "last_update": "26/03 21:04",
+  "last_update": "26/03 21:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774561640",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: “L’IRAN M’A DEMANDÉ SEPT JOURS, J’EN AI DONNÉ DIX”, ANNONCE DONALD TRUMP",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:47",
+      "date": "26/03",
+      "timestamp": 1774561640
+    },
+    {
+      "id": "BFMTV_1774561348",
+      "source": "BFMTV",
+      "text": "\"ILS DEVRAIENT SE MOBILISER ET S’EN OCCUPER\": SELON MARCO RUBIO, LES PAYS DU G7 ONT \"INTÉRÊT\" À AIDER À ROUVRIR LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:42",
+      "date": "26/03",
+      "timestamp": 1774561348
+    },
+    {
+      "id": "BFMTV_1774561243",
+      "source": "BFMTV",
+      "text": "\"JE NE MANQUERAIS CE MOMENT POUR RIEN AU MONDE\": DONALD TRUMP CÉLÈBRE LA FÊTE NATIONALE GRECQUE À LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:40",
+      "date": "26/03",
+      "timestamp": 1774561243
+    },
+    {
+      "id": "BFMTV_1774561143",
+      "source": "BFMTV",
+      "text": "LES DÉCLARATIONS DE DONALD TRUMP FONT BAISSER LE PRIX DU BARIL DE PÉTROLE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:39",
+      "date": "26/03",
+      "timestamp": 1774561143
+    },
+    {
+      "id": "BFMTV_1774560538",
+      "source": "BFMTV",
+      "text": "“LES IRANIENS ESSAIENT DE TENIR LE PLUS LONGTEMPS POSSIBLE POUR NE PAS DONNER L’IMPRESSION QU’ILS FONT DES CONCESSIONS”, OBSERVE GILLES KEPEL, SPÉCIALISTE DE L'ISLAM ET DU MONDE ARABE CONTEMPORAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:28",
+      "date": "26/03",
+      "timestamp": 1774560538
+    },
+    {
+      "id": "BFMTV_1774559332",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES DIFFÉRENTES OPTIONS DES ÉTATS-UNIS POUR FAIRE TOMBER TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:08",
+      "date": "26/03",
+      "timestamp": 1774559332
+    },
     {
       "id": "BFMTV_1774558808",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "18:48",
       "date": "25/03",
       "timestamp": 1774464529
-    },
-    {
-      "id": "OPEX360_1774464033",
-      "source": "OPEX360",
-      "text": "ACTUALISATION DE LA LPM : M. LECORNU ANNONCE UN EFFORT SUPPLÉMENTAIRE DE 8,5 MILLIARDS D’EUROS POUR LES MUNITIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:40",
-      "date": "25/03",
-      "timestamp": 1774464033
-    },
-    {
-      "id": "BFMTV_1774461744",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP \"DÉCHAÎNERA L'ENFER\" SI L'IRAN N'ACCEPTE PAS LA PROPOSITION DE PAIX",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:02",
-      "date": "25/03",
-      "timestamp": 1774461744
-    },
-    {
-      "id": "BFMTV_1774459876",
-      "source": "BFMTV",
-      "text": "COOPÉRATION, FOURNITURE DE GAZ: LA CHEFFE DU GOUVERNEMENT ITALIEN GIORGIA MELONI ARRIVE À ALGER",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:31",
-      "date": "25/03",
-      "timestamp": 1774459876
-    },
-    {
-      "id": "OPEX360_1774459744",
-      "source": "OPEX360",
-      "text": "LA TURQUIE SIGNE UN CONTRAT DE «PLUSIEURS MILLIARDS» D’EUROS POUR LE SOUTIEN TECHNIQUE DE SES FUTURS EUROFIGHTER TYPHOON",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:29",
-      "date": "25/03",
-      "timestamp": 1774459744
-    },
-    {
-      "id": "BFMTV_1774456149",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"L'HISTOIRE NOUS COMMANDE D'AGIR POUR PROTÉGER LE LIBAN\", SOUTIENT BASTIEN LACHAUD, DÉPUTÉ LFI",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:29",
-      "date": "25/03",
-      "timestamp": 1774456149
-    },
-    {
-      "id": "BFMTV_1774455705",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: MARINE LE PEN APPELLE À \"BAISSER LES TAXES\" SUR L'ÉNERGIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:21",
-      "date": "25/03",
-      "timestamp": 1774455705
     }
   ],
   "france": {
