@@ -1,7 +1,157 @@
 {
-  "last_update": "27/03 11:09",
+  "last_update": "27/03 14:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774621534",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DEUX COMPLEXES SIDÉRURGIQUES MAJEURS FRAPPÉS EN IRAN, SELON LA PRESSE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:25",
+      "date": "27/03",
+      "timestamp": 1774621534
+    },
+    {
+      "id": "BFMTV_1774621126",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE SERAIT COMPOSÉE DE 700.000 HOMMES",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:18",
+      "date": "27/03",
+      "timestamp": 1774621126
+    },
+    {
+      "id": "BFMTV_1774620962",
+      "source": "BFMTV",
+      "text": "LA SIGNATURE DE DONALD TRUMP VA ÊTRE APPOSÉE SUR LES BILLETS DE BANQUE AMÉRICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:16",
+      "date": "27/03",
+      "timestamp": 1774620962
+    },
+    {
+      "id": "BFMTV_1774620351",
+      "source": "BFMTV",
+      "text": "LIBAN: UN NOURRISSON DE CINQ MOIS RETROUVÉ MORT DANS LES DÉCOMBRES D'UNE FRAPPE ISRAÉLIENNE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:05",
+      "date": "27/03",
+      "timestamp": 1774620351
+    },
+    {
+      "id": "BFMTV_1774619298",
+      "source": "BFMTV",
+      "text": "LIBAN: LES FRAPPES CONTINUENT, L'ONU S'INQUIÈTE D'UN RISQUE \"RÉEL\" DE \"CATASTROPHE HUMANITAIRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:48",
+      "date": "27/03",
+      "timestamp": 1774619298
+    },
+    {
+      "id": "BFMTV_1774616554",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE DÉTROIT D'ORMUZ AU MENU DU G7 EN FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:02",
+      "date": "27/03",
+      "timestamp": 1774616554
+    },
+    {
+      "id": "BFMTV_1774614177",
+      "source": "BFMTV",
+      "text": "SAISIE DES NAVIRES IRANIENS, INVASION D'ÎLES... LES SCÉNARIOS ENVISAGÉS PAR LE PENTAGONE POUR PRÉCIPITER LA FIN DE LA GUERRE EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:22",
+      "date": "27/03",
+      "timestamp": 1774614177
+    },
+    {
+      "id": "BFMTV_1774613566",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES HABITANTS DU SUD-LIBAN SOUS LA MENACE QUOTIDIENNE D'UNE INVASION ISRAÉLIENNE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:12",
+      "date": "27/03",
+      "timestamp": 1774613566
+    },
+    {
+      "id": "BFMTV_1774613138",
+      "source": "BFMTV",
+      "text": "LA CHEFFE DE LA DIPLOMATIE DE L'UE KAJA KALLAS AFFIRME QUE DES DISCUSSIONS SONT EN COURS AU G7",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:05",
+      "date": "27/03",
+      "timestamp": 1774613138
+    },
+    {
+      "id": "OPEX360_1774612586",
+      "source": "OPEX360",
+      "text": "LA FRANCE ET LES PHILIPPINES RENFORCENT LEUR COOPÉRATION MILITAIRE EN SIGNANT UN ACCORD SUR LE «STATUT DES FORCES EN VISITE»",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:56",
+      "date": "27/03",
+      "timestamp": 1774612586
+    },
+    {
+      "id": "BFMTV_1774612574",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"(LES RUSSES) NE SONT PAS NEUTRES. LA RUSSIE AIDE L'IRAN\", ASSURE LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE KAJA KALLAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:56",
+      "date": "27/03",
+      "timestamp": 1774612574
+    },
+    {
+      "id": "BFMTV_1774612320",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: COMMENT L'IRAN EST PARVENU À METTRE LA MAIN SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:52",
+      "date": "27/03",
+      "timestamp": 1774612320
+    },
+    {
+      "id": "BFMTV_1774612180",
+      "source": "BFMTV",
+      "text": "\"LE DÉTROIT D'ORMUZ DOIT ÊTRE OUVERT POUR TOUT LE MONDE\", AFFIRME LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE KAJA KALLAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:49",
+      "date": "27/03",
+      "timestamp": 1774612180
+    },
+    {
+      "id": "BFMTV_1774612035",
+      "source": "BFMTV",
+      "text": "BLOCAGE DU DÉTROIT D'ORMUZ: \"DES DISCUSSIONS SONT EN COURS POUR TROUVER UNE SOLUTION DIPLOMATIQUE\", INDIQUE LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE KAJA KALLAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:47",
+      "date": "27/03",
+      "timestamp": 1774612035
+    },
+    {
+      "id": "BFMTV_1774611316",
+      "source": "BFMTV",
+      "text": "UN ŒIL SUR LES SONDAGES, L’AUTRE SUR LES MARCHÉS: LA GUERRE TRÈS POLITIQUE DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:35",
+      "date": "27/03",
+      "timestamp": 1774611316
+    },
     {
       "id": "BFMTV_1774609456",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "11:28",
       "date": "26/03",
       "timestamp": 1774524497
-    },
-    {
-      "id": "OPEX360_1774524364",
-      "source": "OPEX360",
-      "text": "THALES LANCE «EXPEDITIONARY PATHMASTER», UN CENTRE D’OPÉRATIONS «PROJETABLE» DÉDIÉ À LA GUERRE DES MINES",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:26",
-      "date": "26/03",
-      "timestamp": 1774524364
-    },
-    {
-      "id": "BFMTV_1774524358",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES POURPARLERS INDIRECTS SONT EN COURS ENTRE LES ÉTATS-UNIS ET L'IRAN, SELON LE PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:25",
-      "date": "26/03",
-      "timestamp": 1774524358
-    },
-    {
-      "id": "BFMTV_1774524298",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU LIBAN, PLUS D'UN MILLION DE PERSONNES DÉPLACÉS EN L'ESPACE D'UN MOIS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:24",
-      "date": "26/03",
-      "timestamp": 1774524298
-    },
-    {
-      "id": "BFMTV_1774524275",
-      "source": "BFMTV",
-      "text": "L'UNION EUROPÉENNE ACCUSE QUATRE SITES PORNOGRAPHIQUES DE LAISSER LES MINEURS ACCÉDER À LEURS CONTENUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:24",
-      "date": "26/03",
-      "timestamp": 1774524275
-    },
-    {
-      "id": "BFMTV_1774523931",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: LA DIPLOMATIE PAKISTANAISE AFFIRME QUE DES POURPARLERS INDIRECTS SONT EN COURS ENTRE WASHINGTON ET TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:18",
-      "date": "26/03",
-      "timestamp": 1774523931
-    },
-    {
-      "id": "BFMTV_1774523486",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP TROUVE LES NÉGOCIATEURS IRANIENS \"TRÈS ÉTRANGES\" ET MENACE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:11",
-      "date": "26/03",
-      "timestamp": 1774523486
-    },
-    {
-      "id": "BFMTV_1774523265",
-      "source": "BFMTV",
-      "text": "\"POUTINE SE FROTTE LES MAINS DEVANT LA GUERRE DANS LE GOLFE\" : KEIR STARMER APPELLE À FRAPPER PLUS FORT LA \"FLOTTE FANTÔME\" RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:07",
-      "date": "26/03",
-      "timestamp": 1774523265
-    },
-    {
-      "id": "BFMTV_1774522985",
-      "source": "BFMTV",
-      "text": "\"POUTINE SE FROTTE LES MAINS DEVANT LA GUERRE DANS LE GOLFE\" : KEIR STARMER APPELLE À FRAPPER PLUS FORT LA \"FLOTTE FANTÔME\" RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:03",
-      "date": "26/03",
-      "timestamp": 1774522985
-    },
-    {
-      "id": "BFMTV_1774522197",
-      "source": "BFMTV",
-      "text": "UKRAINE: \"LA RUSSIE NE GAGNE PAS ET NE GAGNERA PAS\", ASSURE LE PREMIER MINISTRE BRITANNIQUE KEIR STARMER",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:49",
-      "date": "26/03",
-      "timestamp": 1774522197
-    },
-    {
-      "id": "BFMTV_1774519202",
-      "source": "BFMTV",
-      "text": "GAZA: UNE FRAPPE ISRAÉLIENNE PRÈS D'UN CAMP DE DÉPLACÉS FAIT UN MORT ET SEPT BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:00",
-      "date": "26/03",
-      "timestamp": 1774519202
-    },
-    {
-      "id": "BFMTV_1774518448",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES TIRS DE MISSILES IRANIENS FONT AU MOINS SIX BLESSÉS EN ISRAËL ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:47",
-      "date": "26/03",
-      "timestamp": 1774518448
-    },
-    {
-      "id": "BFMTV_1774518359",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DONALD TRUMP ASSURE QUE L'IRAN EST PRÊT À CONCLURE UN ACCORD, TÉHÉRAN NIE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:45",
-      "date": "26/03",
-      "timestamp": 1774518359
-    },
-    {
-      "id": "BFMTV_1774513583",
-      "source": "BFMTV",
-      "text": "ISRAËL ATTAQUÉ: AU MOINS SIX BLESSÉS LÉGERS, BFMTV SUR PLACE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:26",
-      "date": "26/03",
-      "timestamp": 1774513583
-    },
-    {
-      "id": "BFMTV_1774513318",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UN SOLDAT ISRAÉLIEN TUÉ AU LIBAN, DEUX MORTS À ABOU DHABI APRÈS L'INTERCEPTION D'UN MISSILE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:21",
-      "date": "26/03",
-      "timestamp": 1774513318
-    },
-    {
-      "id": "BFMTV_1774512999",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN SOLDAT DE LA BRIGADE GOLANI SERAIT DÉCÉDÉ DANS LE SUD DU LIBAN COMMUNIQUE L'ARMÉE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:16",
-      "date": "26/03",
-      "timestamp": 1774512999
     }
   ],
   "france": {
