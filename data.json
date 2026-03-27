@@ -1,7 +1,167 @@
 {
-  "last_update": "27/03 14:33",
+  "last_update": "27/03 17:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774633073",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS PRÉVOIENT LA FIN DES OPÉRATIONS EN IRAN DANS \"LES DEUX PROCHAINES SEMAINES\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:37",
+      "date": "27/03",
+      "timestamp": 1774633073
+    },
+    {
+      "id": "BFMTV_1774633004",
+      "source": "BFMTV",
+      "text": "UN AGENT DU SECRET SERVICE CHARGÉ DE LA PROTECTION DE L'EX-PREMIÈRE DAME JILL BIDEN SE TIRE UNE BALLE DANS LA JAMBE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:36",
+      "date": "27/03",
+      "timestamp": 1774633004
+    },
+    {
+      "id": "BFMTV_1774632834",
+      "source": "BFMTV",
+      "text": "AUGMENTATION DU PRIX DES CARBURANTS: QUELLES MESURES À L'ÉTRANGER?",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:33",
+      "date": "27/03",
+      "timestamp": 1774632834
+    },
+    {
+      "id": "BFMTV_1774632614",
+      "source": "BFMTV",
+      "text": "LE G7 APPELLE À RÉTABLIR UNE LIBERTÉ DE NAVIGATION \"SÛRE\" ET \"DE MANIÈRE PERMANENTE\" DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:30",
+      "date": "27/03",
+      "timestamp": 1774632614
+    },
+    {
+      "id": "BFMTV_1774632221",
+      "source": "BFMTV",
+      "text": "NÉPAL: LE RAPPEUR BALENDRA SHAH DEVIENT PREMIER MINISTRE, SIX MOIS APRÈS LES RÉVOLTES DE LA GEN Z",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:23",
+      "date": "27/03",
+      "timestamp": 1774632221
+    },
+    {
+      "id": "BFMTV_1774631252",
+      "source": "BFMTV",
+      "text": "MARCO RUBIO ÉVOQUE UNE FIN DES OPÉRATIONS AMÉRICAINES EN IRAN \"DANS LES DEUX PROCHAINES SEMAINES\" ET SANS FORCÉMENT DÉPLOYER DE TROUPES AU SOL",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:07",
+      "date": "27/03",
+      "timestamp": 1774631252
+    },
+    {
+      "id": "BFMTV_1774631242",
+      "source": "BFMTV",
+      "text": "L'UKRAINE DÉVOILE LE DRONE SUPERSONIQUE JEDI, CAPABLE DE DÉTRUIRE DES DRONES SHAHED",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:07",
+      "date": "27/03",
+      "timestamp": 1774631242
+    },
+    {
+      "id": "BFMTV_1774630841",
+      "source": "BFMTV",
+      "text": "\"SI NOUS AVONS BESOIN DE QUELQUE CHOSE POUR L'AMÉRIQUE...\" : LES ÉTATS-UNIS N'EXCLUENT PAS DE DÉROUTER DES ARMES PRÉVUES POUR L'UKRAINE POUR LA GUERRE EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:00",
+      "date": "27/03",
+      "timestamp": 1774630841
+    },
+    {
+      "id": "BFMTV_1774630797",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"NOUS POUVONS ATTEINDRE TOUS NOS OBJECTIFS SANS TROUPES AU SOL\", ESTIME MARCO RUBIO",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:59",
+      "date": "27/03",
+      "timestamp": 1774630797
+    },
+    {
+      "id": "OPEX360_1774630751",
+      "source": "OPEX360",
+      "text": "LES FORCES FRANÇAISES REÇOIVENT DES DRONES ANTIAÉRIENS AST78, FOURNIS PAR ASTERODYN",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:59",
+      "date": "27/03",
+      "timestamp": 1774630751
+    },
+    {
+      "id": "BFMTV_1774630519",
+      "source": "BFMTV",
+      "text": "\"INACCEPTABLE\": MARCO RUBIO APPELLE À EMPÊCHER L'IRAN D'INSTAURER UN \"SYSTÈME DE PÉAGE\" DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:55",
+      "date": "27/03",
+      "timestamp": 1774630519
+    },
+    {
+      "id": "BFMTV_1774630155",
+      "source": "BFMTV",
+      "text": "LES USA PRÉVOIENT LA FIN DE LA GUERRE EN IRAN \"DANS LES DEUX PROCHAINES SEMAINES\", SELON MARCO RUBIO",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:49",
+      "date": "27/03",
+      "timestamp": 1774630155
+    },
+    {
+      "id": "BFMTV_1774627329",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA SITUATION HUMANITAIRE INQUIÈTE À BEYROUTH ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:02",
+      "date": "27/03",
+      "timestamp": 1774627329
+    },
+    {
+      "id": "BFMTV_1774626955",
+      "source": "BFMTV",
+      "text": "NUCLÉAIRE: UN RÉACTEUR À EAU LOURDE FRAPPÉ DANS LE CENTRE DE L'IRAN, SELON LES MÉDIAS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:55",
+      "date": "27/03",
+      "timestamp": 1774626955
+    },
+    {
+      "id": "BFMTV_1774626325",
+      "source": "BFMTV",
+      "text": "\"JAMAIS LE LIBAN N’AURAIT DU ÊTRE ENTRAÎNÉ DANS CETTE GUERRE QU'IL N'A PAS CHOISI\", DÉNONCE JEAN-NOËL BARROT",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:45",
+      "date": "27/03",
+      "timestamp": 1774626325
+    },
+    {
+      "id": "OPEX360_1774625961",
+      "source": "OPEX360",
+      "text": "L’ALLEMAGNE S’INTÉRESSE AUSSI AU DRONE DE COMBAT COLLABORATIF AUSTRALIEN MQ-28 GHOST BAT",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:39",
+      "date": "27/03",
+      "timestamp": 1774625961
+    },
     {
       "id": "BFMTV_1774621534",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "15:53",
       "date": "26/03",
       "timestamp": 1774540420
-    },
-    {
-      "id": "BFMTV_1774539938",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP PENSAIT QUE \"LES PRIX DU PÉTROLE MONTERAIENT DAVANTAGE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:45",
-      "date": "26/03",
-      "timestamp": 1774539938
-    },
-    {
-      "id": "BFMTV_1774539904",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS ONT \"VRAIMENT ANÉANTI L'IRAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:45",
-      "date": "26/03",
-      "timestamp": 1774539904
-    },
-    {
-      "id": "BFMTV_1774539848",
-      "source": "BFMTV",
-      "text": "UN SHÉRIF DU TEXAS LANCE UN APPEL À TÉMOINS POUR RETROUVER XAVIER DUPONT DE LIGONNÈS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:44",
-      "date": "26/03",
-      "timestamp": 1774539848
-    },
-    {
-      "id": "BFMTV_1774539594",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QUE L'OPÉRATION MILITAIRE EN IRAN EST \"TRÈS EN AVANCE SUR LE CALENDRIER\" ET QU'ELLE FINIRA \"BIENTÔT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:39",
-      "date": "26/03",
-      "timestamp": 1774539594
-    },
-    {
-      "id": "BFMTV_1774539274",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DOMINIQUE DE VILLEPIN ESTIME QUE \"CELA FAIT 25 ANS QUE L'ON FAIT LES MÊMES ERREURS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:34",
-      "date": "26/03",
-      "timestamp": 1774539274
-    },
-    {
-      "id": "OPEX360_1774538762",
-      "source": "OPEX360",
-      "text": "LE ROYAUME-UNI S’AUTORISE À ARRAISONNER LES NAVIRES DE LA «FLOTTE FATÔME» RUSSE DANS SES EAUX TERRITORIALES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:26",
-      "date": "26/03",
-      "timestamp": 1774538762
-    },
-    {
-      "id": "OPEX360_1774538762",
-      "source": "OPEX360",
-      "text": "LE ROYAUME-UNI S’AUTORISE À ARRAISONNER LES NAVIRES DE LA «FLOTTE FANTÔME» RUSSE DANS SES EAUX TERRITORIALES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:26",
-      "date": "26/03",
-      "timestamp": 1774538762
-    },
-    {
-      "id": "BFMTV_1774538304",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS SERIONS CONTENTS QU'IL Y AIT UN ACCORD, MAIS EN ATTENDANT LE DÉPARTEMENT DE LA GUERRE VA CONTINUER À NÉGOCIER AVEC DES BOMBES\", ASSURE PETE HEGSETH",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:18",
-      "date": "26/03",
-      "timestamp": 1774538304
-    },
-    {
-      "id": "BFMTV_1774537752",
-      "source": "BFMTV",
-      "text": "\"IL Y A EU DES ÉCHANGES ROBUSTES ET POSITIFS\" EXPLIQUE STEVE WITKOFF SUR LE PLAN DE PAIX EN 15 POINTS PRÉSENTÉ PAR LES ÉTATS-UNIS À L'IRAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:09",
-      "date": "26/03",
-      "timestamp": 1774537752
-    },
-    {
-      "id": "BFMTV_1774537474",
-      "source": "BFMTV",
-      "text": "IRAN: \"ILS NOUS SUPPLIENT DE FAIRE UN ACCORD\", ASSURE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:04",
-      "date": "26/03",
-      "timestamp": 1774537474
-    },
-    {
-      "id": "BFMTV_1774537218",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"JE PENSAIS QUE LES PRIX DU PÉTROLE MONTERAIENT ENCORE DAVANTAGE\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:00",
-      "date": "26/03",
-      "timestamp": 1774537218
-    },
-    {
-      "id": "BFMTV_1774536780",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"À L'HEURE ACTUELLE, NOUS NE SAVONS PAS S'IL Y A DES MINES\", INDIQUE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:53",
-      "date": "26/03",
-      "timestamp": 1774536780
-    },
-    {
-      "id": "BFMTV_1774536702",
-      "source": "BFMTV",
-      "text": "\"LE RÉGIME IRANIEN ADMET SA DÉFAITE DÉCISIVE\" ASSURE DONALD TRUMP LORS DE SON POINT SUR LA GUERRE CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:51",
-      "date": "26/03",
-      "timestamp": 1774536702
-    },
-    {
-      "id": "BFMTV_1774536505",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QUE LA MARINE IRANIENNE \"SE TROUVE AU FOND DE LA MER\", QUE LEUR AVIATION A ÉTÉ \"ÉRADIQUÉE\" ET QUE LEURS CAPACITÉS DE COMMUNICATION SONT \"COMPLÈTEMENT DÉMANTELÉES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:48",
-      "date": "26/03",
-      "timestamp": 1774536505
-    },
-    {
-      "id": "BFMTV_1774536501",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS SOMMES TRÈS DÉÇUS PAR L'OTAN\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:48",
-      "date": "26/03",
-      "timestamp": 1774536501
-    },
-    {
-      "id": "BFMTV_1774524497",
-      "source": "BFMTV",
-      "text": "PROTECTION DES MINEURS: SNAPCHAT VISÉ PAR UNE ENQUÊTE DE L'UNION EUROPÉENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:28",
-      "date": "26/03",
-      "timestamp": 1774524497
     }
   ],
   "france": {
