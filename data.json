@@ -1,7 +1,27 @@
 {
-  "last_update": "27/03 17:38",
+  "last_update": "27/03 19:51",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1774635926",
+      "source": "OPEX360",
+      "text": "ARTILLERIE : LOCKHEED MARTIN VA QUADRUPLER LA CAPACITÉ DE PRODUCTION DU MISSILE SOL-SOL À LONGUE PORTÉE PRSM",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:25",
+      "date": "27/03",
+      "timestamp": 1774635926
+    },
+    {
+      "id": "BFMTV_1774634392",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN ORIENT: DEUX COMPLEXES SIDÉRURGIQUES VISÉS PAR DES FRAPPES ISRAÉLO-AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:59",
+      "date": "27/03",
+      "timestamp": 1774634392
+    },
     {
       "id": "BFMTV_1774633073",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:58",
       "date": "26/03",
       "timestamp": 1774540724
-    },
-    {
-      "id": "BFMTV_1774540550",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DIT QUE L'IRAN A AUTORISÉ LE PASSAGE DE DIX PÉTROLIERS EN GUISE DE \"CADEAU\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:55",
-      "date": "26/03",
-      "timestamp": 1774540550
-    },
-    {
-      "id": "BFMTV_1774540420",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP SE FÉLICITE D'ÊTRE \"EXTRÊMEMENT EN AVANCE SUR LE CALENDRIER\" EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:53",
-      "date": "26/03",
-      "timestamp": 1774540420
     }
   ],
   "france": {
