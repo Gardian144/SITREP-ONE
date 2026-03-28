@@ -1,7 +1,67 @@
 {
-  "last_update": "28/03 18:02",
+  "last_update": "28/03 19:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774725225",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LAURENT NUÑEZ FAIT \"LE LIEN\" ENTRE LE CONFLIT ET L'ATTENTAT DÉJOUÉ À PARIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:13",
+      "date": "28/03",
+      "timestamp": 1774725225
+    },
+    {
+      "id": "BFMTV_1774724013",
+      "source": "BFMTV",
+      "text": "FLORIAN AUDIGIER, CO-FONDATEUR DE LA START-UP SPÉCIALISÉE EN DRONES EGIDE, PRÉSENTE LEUR DRONE CAPABLE D'ÉLIMINER DES DRONES ENNEMIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:53",
+      "date": "28/03",
+      "timestamp": 1774724013
+    },
+    {
+      "id": "BFMTV_1774723144",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY ANNONCE UN ACCORD DE COOPÉRATION EN MATIÈRE DE DÉFENSE AVEC LE QATAR",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:39",
+      "date": "28/03",
+      "timestamp": 1774723144
+    },
+    {
+      "id": "BFMTV_1774723013",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS PRENONS TOUT CE QUE NOUS ENTREPRENONS AVEC SÉRIEUX\", DÉCLARE LE CHEF D'ÉTAT-MAJOR ADJOINT DES FORCES ARMÉES DES HOUTHIS AU YÉMEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:36",
+      "date": "28/03",
+      "timestamp": 1774723013
+    },
+    {
+      "id": "BFMTV_1774722440",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: LA GUERRE DES MUNITIONS S'INTENSIFIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:27",
+      "date": "28/03",
+      "timestamp": 1774722440
+    },
+    {
+      "id": "BFMTV_1774720889",
+      "source": "BFMTV",
+      "text": "DE PUISSANTES EXPLOSIONS ONT ÉTÉ ENTENDUES À TÉHÉRAN EN IRAN CE SAMEDI 28 MARS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:01",
+      "date": "28/03",
+      "timestamp": 1774720889
+    },
     {
       "id": "BFMTV_1774720421",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "14:05",
       "date": "27/03",
       "timestamp": 1774620351
-    },
-    {
-      "id": "BFMTV_1774619298",
-      "source": "BFMTV",
-      "text": "LIBAN: LES FRAPPES CONTINUENT, L'ONU S'INQUIÈTE D'UN RISQUE \"RÉEL\" DE \"CATASTROPHE HUMANITAIRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:48",
-      "date": "27/03",
-      "timestamp": 1774619298
-    },
-    {
-      "id": "BFMTV_1774616554",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE DÉTROIT D'ORMUZ AU MENU DU G7 EN FRANCE",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:02",
-      "date": "27/03",
-      "timestamp": 1774616554
-    },
-    {
-      "id": "BFMTV_1774614177",
-      "source": "BFMTV",
-      "text": "SAISIE DES NAVIRES IRANIENS, INVASION D'ÎLES... LES SCÉNARIOS ENVISAGÉS PAR LE PENTAGONE POUR PRÉCIPITER LA FIN DE LA GUERRE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:22",
-      "date": "27/03",
-      "timestamp": 1774614177
-    },
-    {
-      "id": "BFMTV_1774613566",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES HABITANTS DU SUD-LIBAN SOUS LA MENACE QUOTIDIENNE D'UNE INVASION ISRAÉLIENNE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:12",
-      "date": "27/03",
-      "timestamp": 1774613566
-    },
-    {
-      "id": "BFMTV_1774613138",
-      "source": "BFMTV",
-      "text": "LA CHEFFE DE LA DIPLOMATIE DE L'UE KAJA KALLAS AFFIRME QUE DES DISCUSSIONS SONT EN COURS AU G7",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:05",
-      "date": "27/03",
-      "timestamp": 1774613138
-    },
-    {
-      "id": "OPEX360_1774612586",
-      "source": "OPEX360",
-      "text": "LA FRANCE ET LES PHILIPPINES RENFORCENT LEUR COOPÉRATION MILITAIRE EN SIGNANT UN ACCORD SUR LE «STATUT DES FORCES EN VISITE»",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:56",
-      "date": "27/03",
-      "timestamp": 1774612586
     }
   ],
   "france": {
