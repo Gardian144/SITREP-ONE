@@ -1,7 +1,67 @@
 {
-  "last_update": "28/03 17:04",
+  "last_update": "28/03 18:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774720421",
+      "source": "BFMTV",
+      "text": "LE PENTAGONE POURRAIT DEMANDER 200 MILLIARDS DE DOLLARS AU CONGRÈS POUR FINANCER LES OPÉRATIONS EN IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:53",
+      "date": "28/03",
+      "timestamp": 1774720421
+    },
+    {
+      "id": "BFMTV_1774719995",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: DES MANIFESTATIONS ANTI-TRUMP SONT EN COURS DANS LE PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:46",
+      "date": "28/03",
+      "timestamp": 1774719995
+    },
+    {
+      "id": "BFMTV_1774719834",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEUX MISSILES ONT VISÉ ISRAËL DEPUIS LE YÉMEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:43",
+      "date": "28/03",
+      "timestamp": 1774719834
+    },
+    {
+      "id": "BFMTV_1774719733",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUI SONT LES HOUTIS ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:42",
+      "date": "28/03",
+      "timestamp": 1774719733
+    },
+    {
+      "id": "BFMTV_1774719569",
+      "source": "BFMTV",
+      "text": "UN NAVIRE LOGISTIQUE AMÉRICAIN A ÉTÉ TOUCHÉ PAR L'ARMÉE IRANIENNE À OMAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:39",
+      "date": "28/03",
+      "timestamp": 1774719569
+    },
+    {
+      "id": "BFMTV_1774719559",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE À \"TOUT FAIRE\" POUR QUE L'IRAK NE SOIT PAS \"ENTRAÎNÉ DANS L'ESCALADE EN COURS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:39",
+      "date": "28/03",
+      "timestamp": 1774719559
+    },
     {
       "id": "BFMTV_1774715476",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "11:56",
       "date": "27/03",
       "timestamp": 1774612586
-    },
-    {
-      "id": "BFMTV_1774612574",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"(LES RUSSES) NE SONT PAS NEUTRES. LA RUSSIE AIDE L'IRAN\", ASSURE LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE KAJA KALLAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:56",
-      "date": "27/03",
-      "timestamp": 1774612574
-    },
-    {
-      "id": "BFMTV_1774612320",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: COMMENT L'IRAN EST PARVENU À METTRE LA MAIN SUR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:52",
-      "date": "27/03",
-      "timestamp": 1774612320
-    },
-    {
-      "id": "BFMTV_1774612180",
-      "source": "BFMTV",
-      "text": "\"LE DÉTROIT D'ORMUZ DOIT ÊTRE OUVERT POUR TOUT LE MONDE\", AFFIRME LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE KAJA KALLAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:49",
-      "date": "27/03",
-      "timestamp": 1774612180
-    },
-    {
-      "id": "BFMTV_1774612035",
-      "source": "BFMTV",
-      "text": "BLOCAGE DU DÉTROIT D'ORMUZ: \"DES DISCUSSIONS SONT EN COURS POUR TROUVER UNE SOLUTION DIPLOMATIQUE\", INDIQUE LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE KAJA KALLAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:47",
-      "date": "27/03",
-      "timestamp": 1774612035
-    },
-    {
-      "id": "BFMTV_1774611316",
-      "source": "BFMTV",
-      "text": "UN ŒIL SUR LES SONDAGES, L’AUTRE SUR LES MARCHÉS: LA GUERRE TRÈS POLITIQUE DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:35",
-      "date": "27/03",
-      "timestamp": 1774611316
-    },
-    {
-      "id": "BFMTV_1774609456",
-      "source": "BFMTV",
-      "text": "EN ESPAGNE, L'EUTHANASIE D'UNE JEUNE FEMME DE 25 ANS CONTRE LA VOLONTÉ DE SON PÈRE DIVISE LE PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:04",
-      "date": "27/03",
-      "timestamp": 1774609456
     }
   ],
   "france": {
