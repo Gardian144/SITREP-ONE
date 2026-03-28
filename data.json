@@ -1,7 +1,17 @@
 {
-  "last_update": "28/03 21:01",
+  "last_update": "28/03 21:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774734583",
+      "source": "BFMTV",
+      "text": "LES DEUX BATEAUX HUMANITAIRES PORTÉS DISPARUS SONT BIEN ARRIVÉS À CUBA, LES ÉQUIPAGES SAINS ET SAUFS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:49",
+      "date": "28/03",
+      "timestamp": 1774734583
+    },
     {
       "id": "BFMTV_1774730037",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "15:45",
       "date": "27/03",
       "timestamp": 1774626325
-    },
-    {
-      "id": "OPEX360_1774625961",
-      "source": "OPEX360",
-      "text": "L’ALLEMAGNE S’INTÉRESSE AUSSI AU DRONE DE COMBAT COLLABORATIF AUSTRALIEN MQ-28 GHOST BAT",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:39",
-      "date": "27/03",
-      "timestamp": 1774625961
     }
   ],
   "france": {
