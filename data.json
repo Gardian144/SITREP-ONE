@@ -1,7 +1,47 @@
 {
-  "last_update": "28/03 19:47",
+  "last_update": "28/03 21:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774730037",
+      "source": "BFMTV",
+      "text": "LES REBELLES YÉMÉNITES ANNONCENT AVOIR LANCÉ UNE DEUXIÈME ATTAQUE CONTRE ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:33",
+      "date": "28/03",
+      "timestamp": 1774730037
+    },
+    {
+      "id": "BFMTV_1774728108",
+      "source": "BFMTV",
+      "text": "DRONE HOUTHI INTERCEPTÉ À EILAT EN ISRAËL: \"LE CONFLIT S'ÉTEND\", DÉCLARE OLIVIER RAFOWICZ, PORTE-PAROLE DE L'ARMÉE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:01",
+      "date": "28/03",
+      "timestamp": 1774728108
+    },
+    {
+      "id": "BFMTV_1774727686",
+      "source": "BFMTV",
+      "text": "TENSIONS EN ISRAËL: UN DRONE HOUTHI A ÉTÉ INTERCEPTÉ À EILAT",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:54",
+      "date": "28/03",
+      "timestamp": 1774727686
+    },
+    {
+      "id": "BFMTV_1774727496",
+      "source": "BFMTV",
+      "text": "3.500 SOLDATS AMÉRICAINS SONT ARRIVÉS AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:51",
+      "date": "28/03",
+      "timestamp": 1774727496
+    },
     {
       "id": "BFMTV_1774725225",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "15:39",
       "date": "27/03",
       "timestamp": 1774625961
-    },
-    {
-      "id": "BFMTV_1774621534",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DEUX COMPLEXES SIDÉRURGIQUES MAJEURS FRAPPÉS EN IRAN, SELON LA PRESSE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:25",
-      "date": "27/03",
-      "timestamp": 1774621534
-    },
-    {
-      "id": "BFMTV_1774621126",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE SERAIT COMPOSÉE DE 700.000 HOMMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:18",
-      "date": "27/03",
-      "timestamp": 1774621126
-    },
-    {
-      "id": "BFMTV_1774620962",
-      "source": "BFMTV",
-      "text": "LA SIGNATURE DE DONALD TRUMP VA ÊTRE APPOSÉE SUR LES BILLETS DE BANQUE AMÉRICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:16",
-      "date": "27/03",
-      "timestamp": 1774620962
-    },
-    {
-      "id": "BFMTV_1774620351",
-      "source": "BFMTV",
-      "text": "LIBAN: UN NOURRISSON DE CINQ MOIS RETROUVÉ MORT DANS LES DÉCOMBRES D'UNE FRAPPE ISRAÉLIENNE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:05",
-      "date": "27/03",
-      "timestamp": 1774620351
     }
   ],
   "france": {
