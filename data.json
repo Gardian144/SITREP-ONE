@@ -1,7 +1,17 @@
 {
-  "last_update": "27/03 23:46",
+  "last_update": "28/03 05:15",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774672828",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: ISRAËL A DÉTECTÉ UN TIR DE MISSILE DEPUIS LE YÉMEN, UNE PREMIÈRE EN UN MOIS DE CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:40",
+      "date": "28/03",
+      "timestamp": 1774672828
+    },
     {
       "id": "BFMTV_1774653524",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "20:17",
       "date": "26/03",
       "timestamp": 1774556243
-    },
-    {
-      "id": "BFMTV_1774555358",
-      "source": "BFMTV",
-      "text": "UNE RÉUNION DE CRISE A EU LIEU HIER ENTRE NETANYAHU ET LE CHEF D'ÉTAT-MAJOR ISRAÉLIEN, QUI AURAIT DÉCLARÉ, D'APRÈS LA PRESSE ISRAÉLIENNE, \"À CE RYTHME, L'ARMÉE VA S'EFFONDRER D'ELLE-MÊME, JE VOUS METS EN GARDE ET JE LÈVE 10 DRAPEAUX ROUGES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:02",
-      "date": "26/03",
-      "timestamp": 1774555358
     }
   ],
   "france": {
