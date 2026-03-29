@@ -1,11 +1,121 @@
 {
-  "last_update": "29/03 05:56",
+  "last_update": "29/03 08:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774770558",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: TÉHÉRAN CONDAMNE ISRAËL POUR AVOIR TUÉ TROIS JOURNALISTES LIBANAIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:49",
+      "date": "29/03",
+      "timestamp": 1774770558
+    },
+    {
+      "id": "BFMTV_1774770062",
+      "source": "BFMTV",
+      "text": "LIBAN: UN HOMMAGE RENDU AUX TROIS JOURNALISTES TUÉS PAR UNE FRAPPE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:41",
+      "date": "29/03",
+      "timestamp": 1774770062
+    },
+    {
+      "id": "BFMTV_1774768358",
+      "source": "BFMTV",
+      "text": "L'ARMÉE AMÉRICAINE ANNONCE L'ARRIVÉE DU NAVIRE D'ASSAUT AMPHIBIE TRIPOLI AU MOYEN-ORIENT AVEC \"QUELQUE 3.500\" MARINES",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:12",
+      "date": "29/03",
+      "timestamp": 1774768358
+    },
+    {
+      "id": "BFMTV_1774768191",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN PORT IRANIEN PROCHE DU DÉTROIT D'ORMUZ TOUCHÉ PAR DES FRAPPES AMÉRICAINES ET ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:09",
+      "date": "29/03",
+      "timestamp": 1774768191
+    },
+    {
+      "id": "BFMTV_1774767868",
+      "source": "BFMTV",
+      "text": "TROIS JOURNALISTES TUÉS DANS UNE FRAPPE ISRAÉLIENNE: LES OBSÈQUES PRÉVUES CE MATIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:04",
+      "date": "29/03",
+      "timestamp": 1774767868
+    },
+    {
+      "id": "BFMTV_1774767563",
+      "source": "BFMTV",
+      "text": "GUERRE DU MOYEN-ORIENT: DES ISRAÉLIENS VEULENT COLONISER LE SUD-LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:59",
+      "date": "29/03",
+      "timestamp": 1774767563
+    },
+    {
+      "id": "BFMTV_1774766880",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES AMÉRICAINES ET ISRAÉLIENNES TOUCHENT UN PORT IRANIEN PROCHE DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:48",
+      "date": "29/03",
+      "timestamp": 1774766880
+    },
+    {
+      "id": "BFMTV_1774763971",
+      "source": "BFMTV",
+      "text": "ISRAËL: LES ULTRA-ORTHODOXES REFUSENT DE SE LAISSER ENRÔLER DANS L'ARMÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:59",
+      "date": "29/03",
+      "timestamp": 1774763971
+    },
+    {
+      "id": "BFMTV_1774763913",
+      "source": "BFMTV",
+      "text": "ATTAQUE AMÉRICAINE CONTRE LE VENEZUELA",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:58",
+      "date": "29/03",
+      "timestamp": 1774763913
+    },
+    {
+      "id": "BFMTV_1774763913",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES FORTS, SEREINS\": LE PRÉSIDENT DÉCHU DU VENEZUELA NICOLAS MADURO ET SA FEMME DÉLIVRENT LEUR PREMIER MESSAGE DEPUIS LEUR PRISON AMÉRICAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:58",
+      "date": "29/03",
+      "timestamp": 1774763913
+    },
     {
       "id": "BFMTV_1774763017",
       "source": "BFMTV",
       "text": "\"LE TRUMP 2.0 EST BIEN MEILLEUR\": LE FILS DE L'EX-PRÉSIDENT DU BRÉSIL JAIR BOLSONARO FAIT L'ÉLOGE DE SON HOMOLOGUE AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:43",
+      "date": "29/03",
+      "timestamp": 1774763017
+    },
+    {
+      "id": "BFMTV_1774763017",
+      "source": "BFMTV",
+      "text": "\"LE TRUMP 2.0 EST BIEN MEILLEUR\": LE FILS DE L'EX-PRÉSIDENT DU BRÉSIL JAIR BOLSONARO FAIT L'ÉLOGE DU CHEF D'ÉTAT AMÉRICAIN",
       "urgent": false,
       "france_related": false,
       "time": "05:43",
@@ -891,116 +1001,6 @@
       "time": "22:55",
       "date": "27/03",
       "timestamp": 1774652131
-    },
-    {
-      "id": "BFMTV_1774651220",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARABIE SAOUDITE DIT AVOIR INTERCEPTÉ UN MISSILE BALISTIQUE VISANT LA RÉGION DE RYAD",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:40",
-      "date": "27/03",
-      "timestamp": 1774651220
-    },
-    {
-      "id": "BFMTV_1774650219",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN, TENSIONS AU MOYEN-ORIENT: LE DISCOURS EN INTÉGRALITÉ DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:23",
-      "date": "27/03",
-      "timestamp": 1774650219
-    },
-    {
-      "id": "BFMTV_1774649992",
-      "source": "BFMTV",
-      "text": "IRAN: UNE DIZAINE D'EXPLOSIONS ENTENDUES À TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:19",
-      "date": "27/03",
-      "timestamp": 1774649992
-    },
-    {
-      "id": "BFMTV_1774649203",
-      "source": "BFMTV",
-      "text": "“LES DÉMOCRATES RADICAUX SONT DES FOUS, ILS ME RAPPELLENT L’IRAN, ILS SONT TARÉS”, AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:06",
-      "date": "27/03",
-      "timestamp": 1774649203
-    },
-    {
-      "id": "BFMTV_1774648392",
-      "source": "BFMTV",
-      "text": "IRAN: \"[MOJTABA KHAMENEI] EST SOIT MORT, SOIT MAL EN POINT\", DÉCLARE DONALD TRUMP ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:53",
-      "date": "27/03",
-      "timestamp": 1774648392
-    },
-    {
-      "id": "BFMTV_1774648232",
-      "source": "BFMTV",
-      "text": "IRAN: “IL FAUT ROUVRIR LE DÉTROIT DE TRUMP… PARDON, D’ORMUZ”, IRONISE LE PRÉSIDENT DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:50",
-      "date": "27/03",
-      "timestamp": 1774648232
-    },
-    {
-      "id": "BFMTV_1774647922",
-      "source": "BFMTV",
-      "text": "IRAN: \"ON A SAUVÉ TOUT LE MOYEN-ORIENT GRÂCE À CES BOMBARDEMENTS\", ESTIME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:45",
-      "date": "27/03",
-      "timestamp": 1774647922
-    },
-    {
-      "id": "BFMTV_1774647740",
-      "source": "BFMTV",
-      "text": "“UN MOYEN-ORIENT ENFIN DÉBARRASSÉ DE LA TERREUR, DE L’AGRESSION ET DU MARCHANDAGE IRANIEN”, ANNONCE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:42",
-      "date": "27/03",
-      "timestamp": 1774647740
-    },
-    {
-      "id": "BFMTV_1774647669",
-      "source": "BFMTV",
-      "text": "\"AUJOURD'HUI, LES IRANIENS SONT EN TRAIN D'ESSAYER DE S'ÉCHAPPER\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:41",
-      "date": "27/03",
-      "timestamp": 1774647669
-    },
-    {
-      "id": "BFMTV_1774645349",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE DÉVOILE DES IMAGES D'UN SITE SOUTERRAIN OÙ SONT STOCKÉS DES MISSILES",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:02",
-      "date": "27/03",
-      "timestamp": 1774645349
-    },
-    {
-      "id": "BFMTV_1774644659",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP AFFIRME QUE LES IRANIENS \"VEULENT FAIRE UN ACCORD\" ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:50",
-      "date": "27/03",
-      "timestamp": 1774644659
     }
   ],
   "france": {
