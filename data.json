@@ -1,7 +1,27 @@
 {
-  "last_update": "29/03 21:03",
+  "last_update": "29/03 22:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774821238",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: APRÈS L'ATTENTAT DÉJOUÉ CONTRE LA BANK OF AMERICA, LAURENT NUÑEZ DEMANDE UN RENFORCEMENT DES MESURES DE VIGILANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:53",
+      "date": "29/03",
+      "timestamp": 1774821238
+    },
+    {
+      "id": "BFMTV_1774819164",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PORTE-PAROLE DES FORCES ARMÉES IRANIENNES MENACE DE CIBLER LES DOMICILES DES COMMANDANTS ISRAÉLIENS ET AMÉRICAINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:19",
+      "date": "29/03",
+      "timestamp": 1774819164
+    },
     {
       "id": "BFMTV_1774817820",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "16:31",
       "date": "28/03",
       "timestamp": 1774715476
-    },
-    {
-      "id": "BFMTV_1774715038",
-      "source": "BFMTV",
-      "text": "TROIS JOURNALISTES LIBANAIS TUÉS DANS UNE FRAPPE ISRAÉLIENNE: DE NOMBREUX LIBANAIS RASSEMBLÉS À BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:23",
-      "date": "28/03",
-      "timestamp": 1774715038
-    },
-    {
-      "id": "BFMTV_1774712732",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: LE LIBAN ANNONCE QUE 51 SECOURISTES ET SOIGNANTS ONT ÉTÉ TUÉS PAR ISRAËL EN MOINS D'UN MOIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:45",
-      "date": "28/03",
-      "timestamp": 1774712732
     }
   ],
   "france": {
