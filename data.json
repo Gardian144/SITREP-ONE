@@ -1,7 +1,37 @@
 {
-  "last_update": "29/03 17:05",
+  "last_update": "29/03 18:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774806119",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: APRÈS L'ATTENTAT DÉJOUÉ CONTRE LA BANK OF AMERICA, LAURENT NUÑEZ DEMANDE UN RENFORCEMENT DES MESURES DE VIGILANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:41",
+      "date": "29/03",
+      "timestamp": 1774806119
+    },
+    {
+      "id": "BFMTV_1774805643",
+      "source": "BFMTV",
+      "text": "INTERDICTION D'ACCÈS AU SAINT-SÉPULCRE À JÉRUSALEM: \"C'EST UNE BLESSURE PROFONDE POUR TOUS LES CATHOLIQUES DU MONDE ENTIER\", DÉCLARE JEAN-PIERRE RAFFARIN, ANCIEN PREMIER MINISTRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:34",
+      "date": "29/03",
+      "timestamp": 1774805643
+    },
+    {
+      "id": "BFMTV_1774805309",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"AVEC TRUMP, ON EST PRISONNIER DE SON IMPRÉVISIBILITÉ\", EXPLIQUE JEAN-PIERRE RAFFARIN, ANCIEN PREMIER MINISTRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:28",
+      "date": "29/03",
+      "timestamp": 1774805309
+    },
     {
       "id": "BFMTV_1774801717",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "13:04",
       "date": "28/03",
       "timestamp": 1774703080
-    },
-    {
-      "id": "BFMTV_1774702974",
-      "source": "BFMTV",
-      "text": "DEUX MILITANTES DE PETA TENTENT D’INTERPELLER LE PAPE LÉON XIV SUR L’ARRÊT DE LA CORRIDA",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:02",
-      "date": "28/03",
-      "timestamp": 1774702974
-    },
-    {
-      "id": "BFMTV_1774702127",
-      "source": "BFMTV",
-      "text": "TROIS JOURNALISTES LIBANAIS TUÉS DANS UNE FRAPPE ISRAÉLIENNE DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:48",
-      "date": "28/03",
-      "timestamp": 1774702127
-    },
-    {
-      "id": "OPEX360_1774699900",
-      "source": "OPEX360",
-      "text": "CHYPRE ENVISAGE DE REJOINDRE LE PROGRAMME SCORPION AVEC L’ACHAT DE 80 GRIFFON ET D’UNE CENTAINE DE SERVAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:11",
-      "date": "28/03",
-      "timestamp": 1774699900
     }
   ],
   "france": {
