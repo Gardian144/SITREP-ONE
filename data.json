@@ -1,7 +1,17 @@
 {
-  "last_update": "30/03 22:05",
+  "last_update": "30/03 23:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774909013",
+      "source": "BFMTV",
+      "text": "ISRAËL ADOPTE UNE LOI DÉCRIÉE SUR LA PEINE DE MORT, UNE TENTATIVE DE \"LÉGITIMER DES EXÉCUTIONS EXTRAJUDICIAIRES\" SELON L'AUTORITÉ PALESTINIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:16",
+      "date": "30/03",
+      "timestamp": 1774909013
+    },
     {
       "id": "BFMTV_1774908126",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "13:22",
       "date": "29/03",
       "timestamp": 1774790568
-    },
-    {
-      "id": "BFMTV_1774788537",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN S'ATTAQUE À DES SITES INDUSTRIELS MAJEURS DU GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:48",
-      "date": "29/03",
-      "timestamp": 1774788537
     }
   ],
   "france": {
