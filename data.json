@@ -1,7 +1,147 @@
 {
-  "last_update": "30/03 06:18",
+  "last_update": "30/03 10:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774867469",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ANNONCE LA MORT D'UN SOLDAT DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:44",
+      "date": "30/03",
+      "timestamp": 1774867469
+    },
+    {
+      "id": "BFMTV_1774867173",
+      "source": "BFMTV",
+      "text": "ÎLE DE KHARG, URANIUM ENRICHI… QUELS SONT LES OBJECTIFS DE DONALD TRUMP EN IRAN ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:39",
+      "date": "30/03",
+      "timestamp": 1774867173
+    },
+    {
+      "id": "BFMTV_1774866500",
+      "source": "BFMTV",
+      "text": "L'ESPAGNE ANNONCE FERMER SON ESPACE AÉRIEN AUX AVIONS AMÉRICAINS ENGAGÉS DANS LA GUERRE CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:28",
+      "date": "30/03",
+      "timestamp": 1774866500
+    },
+    {
+      "id": "BFMTV_1774866157",
+      "source": "BFMTV",
+      "text": "UNE DÉPUTÉE DÉMOCRATE ACCUSÉE D’AVOIR DÉTOURNÉ CINQ MILLIONS DE DOLLARS DE FONDS FÉDÉRAUX ET RISQUE JUSQU’À 53 ANS DE PRISON",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:22",
+      "date": "30/03",
+      "timestamp": 1774866157
+    },
+    {
+      "id": "BFMTV_1774865994",
+      "source": "BFMTV",
+      "text": "EMMANUELLE GALICHET, ENSEIGNANTE-CHERCHEUSE EN PHYSIQUE NUCLÉAIRE, EXPLIQUE COMMENT EST CONDITIONNÉ L'URANIUM ENRICHI IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:19",
+      "date": "30/03",
+      "timestamp": 1774865994
+    },
+    {
+      "id": "BFMTV_1774865599",
+      "source": "BFMTV",
+      "text": "90% DU PÉTROLE IRANIEN Y PASSE, DONALD TRUMP ENVISAGE DE S'EN EMPARER... QU'EST-CE QUE L'ÎLE DE KHARG ? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:13",
+      "date": "30/03",
+      "timestamp": 1774865599
+    },
+    {
+      "id": "BFMTV_1774864421",
+      "source": "BFMTV",
+      "text": "LA FRANCE ANNONCE DÉPLOYER QUATRE HÉLICOPTÈRES AU MOYEN-ORIENT POUR INTERCEPTER DES DRONES",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:53",
+      "date": "30/03",
+      "timestamp": 1774864421
+    },
+    {
+      "id": "BFMTV_1774863695",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY SE FÉLICITE DES \"ACCORDS HISTORIQUES\" AVEC CERTAINS PAYS DU GOLFE EN MATIÈRE DE DÉFENSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:41",
+      "date": "30/03",
+      "timestamp": 1774863695
+    },
+    {
+      "id": "BFMTV_1774863624",
+      "source": "BFMTV",
+      "text": "DANS LE NORD D'ISRAËL À HAÏFA, UNE RAFFINERIE DE PÉTROLE TOUCHÉE PAR UNE FRAPPE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:40",
+      "date": "30/03",
+      "timestamp": 1774863624
+    },
+    {
+      "id": "BFMTV_1774862324",
+      "source": "BFMTV",
+      "text": "DES RAIDS CIBLÉS PLUTÔT QU'UNE INVASION À GRANDE ÉCHELLE: À QUOI POURRAIT RESSEMBLER UNE OPÉRATION TERRESTRE DES ÉTATS-UNIS EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:18",
+      "date": "30/03",
+      "timestamp": 1774862324
+    },
+    {
+      "id": "BFMTV_1774861672",
+      "source": "BFMTV",
+      "text": "L'IRAN AFFIRME À NOUVEAU NE PAS VOULOIR NÉGOCIER AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:07",
+      "date": "30/03",
+      "timestamp": 1774861672
+    },
+    {
+      "id": "BFMTV_1774861214",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE RAFFINERIE DE PÉTROLE AU NORD D'ISRAËL TOUCHÉE PAR UNE FRAPPE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:00",
+      "date": "30/03",
+      "timestamp": 1774861214
+    },
+    {
+      "id": "BFMTV_1774860869",
+      "source": "BFMTV",
+      "text": "UE: ANNIE GENEVARD ALERTE SUR LA FLAMBÉE DES COÛTS DES ENGRAIS ET CARBURANTS AGRICOLES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:54",
+      "date": "30/03",
+      "timestamp": 1774860869
+    },
+    {
+      "id": "BFMTV_1774860669",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT SYRIEN AHMED AL-CHARAA RENCONTRE LE PRÉSIDENT ALLEMAND",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:51",
+      "date": "30/03",
+      "timestamp": 1774860669
+    },
     {
       "id": "BFMTV_1774851408",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "04:24",
       "date": "29/03",
       "timestamp": 1774758256
-    },
-    {
-      "id": "BFMTV_1774758043",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES MILLIERS DE RASSEMBLEMENTS À TRAVERS LES ÉTATS-UNIS POUR PROTESTER CONTRE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:20",
-      "date": "29/03",
-      "timestamp": 1774758043
-    },
-    {
-      "id": "BFMTV_1774757901",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: APRÈS UNE FRAPPE IRANIENNE PRÈS DE JÉRUSALEM, LES HABITANTS RACONTENT LEUR QUOTIDIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:18",
-      "date": "29/03",
-      "timestamp": 1774757901
-    },
-    {
-      "id": "BFMTV_1774757701",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE RÉCIT D’UNE NOUVELLE NUIT DE FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:15",
-      "date": "29/03",
-      "timestamp": 1774757701
-    },
-    {
-      "id": "BFMTV_1774757550",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉTRUIT UN AWACS AMÉRICAIN EN ARABIE SAOUDITE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:12",
-      "date": "29/03",
-      "timestamp": 1774757550
-    },
-    {
-      "id": "BFMTV_1774738400",
-      "source": "BFMTV",
-      "text": "FRAPPES IRANIENNES: SELON UN ARTICLE DU WALL STREET JOURNAL, ISRAËL FAIT FACE À UNE POTENTIELLE PÉNURIE DE MUNITIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:53",
-      "date": "28/03",
-      "timestamp": 1774738400
-    },
-    {
-      "id": "BFMTV_1774738002",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LAURENT NUÑEZ FAIT \"LE LIEN\" ENTRE LE CONFLIT ET L'ATTENTAT DÉJOUÉ À PARIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:46",
-      "date": "28/03",
-      "timestamp": 1774738002
-    },
-    {
-      "id": "BFMTV_1774737845",
-      "source": "BFMTV",
-      "text": "LES GARDIENS DE LA RÉVOLUTION PRÉSENTENT UN NOUVEAU DRONE IRANIEN: LE \"REZVAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:44",
-      "date": "28/03",
-      "timestamp": 1774737845
-    },
-    {
-      "id": "BFMTV_1774737544",
-      "source": "BFMTV",
-      "text": "IRAN: DANS UN COMMUNIQUÉ, LES GARDIENS DE LA RÉVOLUTION MENACENT DE FRAPPER LES UNIVERSITÉS AMÉRICAINES AU MOYEN-ORIENT ",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:39",
-      "date": "28/03",
-      "timestamp": 1774737544
-    },
-    {
-      "id": "BFMTV_1774736169",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE DOUZAINE DE SOLDATS AMÉRICAINS ONT ÉTÉ BLESSÉS EN ARABIE SAOUDITE",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:16",
-      "date": "28/03",
-      "timestamp": 1774736169
-    },
-    {
-      "id": "BFMTV_1774736002",
-      "source": "BFMTV",
-      "text": "LE PORTE-PAROLE DES HOUTHIS AU YÉMEN ANNONCE UNE OPÉRATION MILITAIRE RÉUSSIE CONTRE DES SITES ISRAÉLIENS STRATÉGIQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:13",
-      "date": "28/03",
-      "timestamp": 1774736002
-    },
-    {
-      "id": "BFMTV_1774734583",
-      "source": "BFMTV",
-      "text": "LES DEUX BATEAUX HUMANITAIRES PORTÉS DISPARUS SONT BIEN ARRIVÉS À CUBA, LES ÉQUIPAGES SAINS ET SAUFS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:49",
-      "date": "28/03",
-      "timestamp": 1774734583
-    },
-    {
-      "id": "BFMTV_1774730037",
-      "source": "BFMTV",
-      "text": "LES REBELLES YÉMÉNITES ANNONCENT AVOIR LANCÉ UNE DEUXIÈME ATTAQUE CONTRE ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:33",
-      "date": "28/03",
-      "timestamp": 1774730037
-    },
-    {
-      "id": "BFMTV_1774728108",
-      "source": "BFMTV",
-      "text": "DRONE HOUTHI INTERCEPTÉ À EILAT EN ISRAËL: \"LE CONFLIT S'ÉTEND\", DÉCLARE OLIVIER RAFOWICZ, PORTE-PAROLE DE L'ARMÉE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:01",
-      "date": "28/03",
-      "timestamp": 1774728108
-    },
-    {
-      "id": "BFMTV_1774727686",
-      "source": "BFMTV",
-      "text": "TENSIONS EN ISRAËL: UN DRONE HOUTHI A ÉTÉ INTERCEPTÉ À EILAT",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:54",
-      "date": "28/03",
-      "timestamp": 1774727686
     }
   ],
   "france": {
