@@ -1,7 +1,167 @@
 {
-  "last_update": "31/03 16:13",
+  "last_update": "31/03 19:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774985990",
+      "source": "BFMTV",
+      "text": "ISRAËL EST SOUS TENSION ALORS QUE LE NORD DU PAYS EST CIBLÉ PAR DES ROQUETTES DU HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:39",
+      "date": "31/03",
+      "timestamp": 1774985990
+    },
+    {
+      "id": "BFMTV_1774985867",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN IMMEUBLE DE LA BANLIEUE DE BEYROUTH AU LIBAN A ÉTÉ FRAPPÉ CE MARDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:37",
+      "date": "31/03",
+      "timestamp": 1774985867
+    },
+    {
+      "id": "BFMTV_1774985744",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU PRÉVIENT QU'ISRAËL VA CONTINUER \"D'ÉCRASER LE RÉGIME TERRORISTE\" IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:35",
+      "date": "31/03",
+      "timestamp": 1774985744
+    },
+    {
+      "id": "BFMTV_1774985010",
+      "source": "BFMTV",
+      "text": "\"LES PROCHAINS JOURS SERONT DÉCISIFS\": RETOUR SUR LES PROPOS DE PETE HEGSETH, SECRÉTAIRE À LA DÉFENSE DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:23",
+      "date": "31/03",
+      "timestamp": 1774985010
+    },
+    {
+      "id": "BFMTV_1774984715",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LE DÉTROIT D'ORMUZ NE POURRA PAS RESTER COMME ÇA\", EXPLIQUE MARIE-LAURE BUISSON, RÉSERVISTE DE L'ARMÉE DE L'AIR",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:18",
+      "date": "31/03",
+      "timestamp": 1774984715
+    },
+    {
+      "id": "BFMTV_1774984295",
+      "source": "BFMTV",
+      "text": "IRAN: “DONALD TRUMP A PRIS SES RESPONSABILITÉS MAIS IL FAUT ABSOLUMENT ALLER JUSQU’AU BOUT”, DEMANDE JEAN-PAUL PALOMÉROS, ANCIEN CHEF D’ÉTAT-MAJOR DE L’ARMÉE DE L’AIR",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:11",
+      "date": "31/03",
+      "timestamp": 1774984295
+    },
+    {
+      "id": "BFMTV_1774983467",
+      "source": "BFMTV",
+      "text": "PARTI POLITIQUE ET RELIGIEUX, AGENT DE L'IRAN ... QU'EST-CE QUE LE HEZBOLLAH ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:57",
+      "date": "31/03",
+      "timestamp": 1774983467
+    },
+    {
+      "id": "BFMTV_1774983053",
+      "source": "BFMTV",
+      "text": "LIBAN: UNE FRAPPE ISRAÉLIENNE DÉTRUIT UN IMMEUBLE DANS LE SUD DE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:50",
+      "date": "31/03",
+      "timestamp": 1774983053
+    },
+    {
+      "id": "BFMTV_1774982463",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉMENT DES \"NÉGOCIATIONS\" ET ÉVOQUE \"DES ÉCHANGES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:41",
+      "date": "31/03",
+      "timestamp": 1774982463
+    },
+    {
+      "id": "BFMTV_1774981154",
+      "source": "BFMTV",
+      "text": "IRAN: LES ÉTATS-UNIS POURRAIENT ENVOYER DES AVIONS SUPPLÉMENTAIRES SUR LE FRONT",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:19",
+      "date": "31/03",
+      "timestamp": 1774981154
+    },
+    {
+      "id": "BFMTV_1774979746",
+      "source": "BFMTV",
+      "text": "PRIX DU CARBURANT: LA FLAMBÉE DES PRIX TOUCHE AUSSI LES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:55",
+      "date": "31/03",
+      "timestamp": 1774979746
+    },
+    {
+      "id": "BFMTV_1774979464",
+      "source": "BFMTV",
+      "text": "IRAN: LES ÉTATS-UNIS ONT-ILS ENFOUI UNE PARTIE DE L'URANIUM ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:51",
+      "date": "31/03",
+      "timestamp": 1774979464
+    },
+    {
+      "id": "BFMTV_1774979357",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: \"LE PRIX QUE PAIE LE PEUPLE LIBANAIS À CAUSE DE CE CONFLIT EST LOURD ET ÉPUISANT\", LANCE SON REPRÉSENTANT À L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:49",
+      "date": "31/03",
+      "timestamp": 1774979357
+    },
+    {
+      "id": "BFMTV_1774978719",
+      "source": "BFMTV",
+      "text": "EN VISITE AU JAPON, EMMANUEL MACRON REÇOIT UNE ŒUVRE DÉDICACÉE DE HAYAO MIYAZAKI ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:38",
+      "date": "31/03",
+      "timestamp": 1774978719
+    },
+    {
+      "id": "OPEX360_1774978573",
+      "source": "OPEX360",
+      "text": "POUR LA PREMIÈRE FOIS, UN SNA DE LA MARINE NATIONALE A LANCÉ ET RÉCUPÉRÉ UN DRONE SOUS-MARIN AMÉRICAIN RAZORBACK",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:36",
+      "date": "31/03",
+      "timestamp": 1774978573
+    },
+    {
+      "id": "OPEX360_1774974618",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE ENVISAGE DE SE PROCURER DES DRONES DE COMBAT COLLABORATIF… SANS ATTENDRE LE RAFALE F5",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:30",
+      "date": "31/03",
+      "timestamp": 1774974618
+    },
     {
       "id": "BFMTV_1774973089",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "12:01",
       "date": "30/03",
       "timestamp": 1774872092
-    },
-    {
-      "id": "BFMTV_1774871147",
-      "source": "BFMTV",
-      "text": "À QUOI POURRAIT RESSEMBLER UNE OPÉRATION TERRESTRE DES ÉTATS-UNIS EN IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:45",
-      "date": "30/03",
-      "timestamp": 1774871147
-    },
-    {
-      "id": "BFMTV_1774869609",
-      "source": "BFMTV",
-      "text": "URANIUM, DÉTROIT D'ORMUZ: À QUOI POURRAIT RESSEMBLER UNE OPÉRATION TERRESTRE DES ÉTATS-UNIS EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:20",
-      "date": "30/03",
-      "timestamp": 1774869609
-    },
-    {
-      "id": "OPEX360_1774868325",
-      "source": "OPEX360",
-      "text": "«FUREUR ÉPIQUE» : UN AVION RADAR E-3G SENTRY AMÉRICAIN A ÉTÉ DÉTRUIT AU SOL EN ARABIE SAOUDITE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:58",
-      "date": "30/03",
-      "timestamp": 1774868325
-    },
-    {
-      "id": "BFMTV_1774868294",
-      "source": "BFMTV",
-      "text": " DES ŒUVRES DE RENOIR, CÉZANNE ET MATISSE VOLÉES DANS UN MUSÉE ITALIEN EN MOINS DE 3 MINUTES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:58",
-      "date": "30/03",
-      "timestamp": 1774868294
-    },
-    {
-      "id": "BFMTV_1774867469",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ANNONCE LA MORT D'UN SOLDAT DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:44",
-      "date": "30/03",
-      "timestamp": 1774867469
-    },
-    {
-      "id": "BFMTV_1774867173",
-      "source": "BFMTV",
-      "text": "ÎLE DE KHARG, URANIUM ENRICHI… QUELS SONT LES OBJECTIFS DE DONALD TRUMP EN IRAN ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:39",
-      "date": "30/03",
-      "timestamp": 1774867173
-    },
-    {
-      "id": "BFMTV_1774866500",
-      "source": "BFMTV",
-      "text": "L'ESPAGNE ANNONCE FERMER SON ESPACE AÉRIEN AUX AVIONS AMÉRICAINS ENGAGÉS DANS LA GUERRE CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:28",
-      "date": "30/03",
-      "timestamp": 1774866500
-    },
-    {
-      "id": "BFMTV_1774866157",
-      "source": "BFMTV",
-      "text": "UNE DÉPUTÉE DÉMOCRATE ACCUSÉE D’AVOIR DÉTOURNÉ CINQ MILLIONS DE DOLLARS DE FONDS FÉDÉRAUX ET RISQUE JUSQU’À 53 ANS DE PRISON",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:22",
-      "date": "30/03",
-      "timestamp": 1774866157
-    },
-    {
-      "id": "BFMTV_1774865994",
-      "source": "BFMTV",
-      "text": "EMMANUELLE GALICHET, ENSEIGNANTE-CHERCHEUSE EN PHYSIQUE NUCLÉAIRE, EXPLIQUE COMMENT EST CONDITIONNÉ L'URANIUM ENRICHI IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:19",
-      "date": "30/03",
-      "timestamp": 1774865994
-    },
-    {
-      "id": "BFMTV_1774865599",
-      "source": "BFMTV",
-      "text": "90% DU PÉTROLE IRANIEN Y PASSE, DONALD TRUMP ENVISAGE DE S'EN EMPARER... QU'EST-CE QUE L'ÎLE DE KHARG ? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:13",
-      "date": "30/03",
-      "timestamp": 1774865599
-    },
-    {
-      "id": "BFMTV_1774864421",
-      "source": "BFMTV",
-      "text": "LA FRANCE ANNONCE DÉPLOYER QUATRE HÉLICOPTÈRES AU MOYEN-ORIENT POUR INTERCEPTER DES DRONES",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:53",
-      "date": "30/03",
-      "timestamp": 1774864421
-    },
-    {
-      "id": "BFMTV_1774863695",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY SE FÉLICITE DES \"ACCORDS HISTORIQUES\" AVEC CERTAINS PAYS DU GOLFE EN MATIÈRE DE DÉFENSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:41",
-      "date": "30/03",
-      "timestamp": 1774863695
-    },
-    {
-      "id": "BFMTV_1774863624",
-      "source": "BFMTV",
-      "text": "DANS LE NORD D'ISRAËL À HAÏFA, UNE RAFFINERIE DE PÉTROLE TOUCHÉE PAR UNE FRAPPE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:40",
-      "date": "30/03",
-      "timestamp": 1774863624
-    },
-    {
-      "id": "BFMTV_1774862324",
-      "source": "BFMTV",
-      "text": "DES RAIDS CIBLÉS PLUTÔT QU'UNE INVASION À GRANDE ÉCHELLE: À QUOI POURRAIT RESSEMBLER UNE OPÉRATION TERRESTRE DES ÉTATS-UNIS EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:18",
-      "date": "30/03",
-      "timestamp": 1774862324
-    },
-    {
-      "id": "BFMTV_1774861672",
-      "source": "BFMTV",
-      "text": "L'IRAN AFFIRME À NOUVEAU NE PAS VOULOIR NÉGOCIER AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:07",
-      "date": "30/03",
-      "timestamp": 1774861672
-    },
-    {
-      "id": "BFMTV_1774861214",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE RAFFINERIE DE PÉTROLE AU NORD D'ISRAËL TOUCHÉE PAR UNE FRAPPE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:00",
-      "date": "30/03",
-      "timestamp": 1774861214
     }
   ],
   "france": {
