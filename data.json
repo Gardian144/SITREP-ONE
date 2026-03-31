@@ -1,7 +1,157 @@
 {
-  "last_update": "31/03 12:07",
+  "last_update": "31/03 16:13",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774973089",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS ENTENDUES DANS LE CENTRE DE TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:04",
+      "date": "31/03",
+      "timestamp": 1774973089
+    },
+    {
+      "id": "BFMTV_1774970038",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: TÉHÉRAN MULTIPLIE SES FRAPPES CONTRE DES BASES AMÉRICAINES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:13",
+      "date": "31/03",
+      "timestamp": 1774970038
+    },
+    {
+      "id": "BFMTV_1774969954",
+      "source": "BFMTV",
+      "text": "LA FRANCE À L'ONU DÉNONCE DES \"INCIDENTS GRAVES COMMIS PAR ISRAËL, À L'ENCONTRE DU CONTINGENT FRANÇAIS À NAQOURA\" ",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:12",
+      "date": "31/03",
+      "timestamp": 1774969954
+    },
+    {
+      "id": "OPEX360_1774967063",
+      "source": "OPEX360",
+      "text": "RENAULT SERAIT EN TRAIN DE DÉVELOPPER UN ROBOT TERRESTRE MILITAIRE EN PARTENARIAT AVEC JOHN COCKERILL DEFENSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:24",
+      "date": "31/03",
+      "timestamp": 1774967063
+    },
+    {
+      "id": "BFMTV_1774963740",
+      "source": "BFMTV",
+      "text": "INFO BFMTV. CONTRAIREMENT À CE QU'AFFIRME DONALD TRUMP, LA FRANCE N'A PAS RESTREINT LE SURVOL DE SON ESPACE AÉRIEN AUX AVIONS MILITAIRES AMÉRICAINS",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:29",
+      "date": "31/03",
+      "timestamp": 1774963740
+    },
+    {
+      "id": "BFMTV_1774963335",
+      "source": "BFMTV",
+      "text": "QU'EST CE QUE LA 82ÈME DIVISION AÉROPORTÉE AMÉRICAINE QUI POURRAIT INTERVENIR AU SOL EN IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:22",
+      "date": "31/03",
+      "timestamp": 1774963335
+    },
+    {
+      "id": "BFMTV_1774962644",
+      "source": "BFMTV",
+      "text": "ISRAËL ADOPTE UNE LOI SUR LA PEINE DE MORT CIBLANT DIRECTEMENT LES PALESTINIENS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:10",
+      "date": "31/03",
+      "timestamp": 1774962644
+    },
+    {
+      "id": "BFMTV_1774961960",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: CIVILS TUÉS, HABITANTS DÉPLACÉS, \"ZONE DE SÉCURITÉ\"... LA CRAINTE D’UN \"NOUVEAU GAZA\" AU SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:59",
+      "date": "31/03",
+      "timestamp": 1774961960
+    },
+    {
+      "id": "BFMTV_1774961476",
+      "source": "BFMTV",
+      "text": "IRAN: PETE HEGSETH ASSURE QU'\"AUCUNE OPTION N'EST EXCLUE\" SUR L'ENVOI DE TROUPES AU SOL",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:51",
+      "date": "31/03",
+      "timestamp": 1774961476
+    },
+    {
+      "id": "BFMTV_1774960912",
+      "source": "BFMTV",
+      "text": "GUERRE CONTRE L'IRAN: \"L'IDÉE C'EST DE LES AMENER À CAPITULER\" ESTIME PETE HEGSETH, SECRÉTAIRE À LA DÉFENSE DES ETATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:41",
+      "date": "31/03",
+      "timestamp": 1774960912
+    },
+    {
+      "id": "BFMTV_1774960715",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"AUCUNE OPTION N'EST EXCLUE\" AU SUJET DE TROUPES AU SOL, AFFIRME PETE HEGSETH, SECRÉTAIRE À LA DÉFENSE DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:38",
+      "date": "31/03",
+      "timestamp": 1774960715
+    },
+    {
+      "id": "BFMTV_1774960477",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"LA PRIORITÉ EST D'ATTEINDRE UN ACCORD SINON NOUS SOMMES PRÊTS À CONTINUER\", AFFIRME PETE HEGSETH, SECRÉTAIRE À LA DÉFENSE DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:34",
+      "date": "31/03",
+      "timestamp": 1774960477
+    },
+    {
+      "id": "BFMTV_1774960321",
+      "source": "BFMTV",
+      "text": "\"IL Y A DES PAYS DANS LE MONDE QUI DOIVENT AGIR SUR LE DÉTROIT D'ORMUZ\" EXIGE PETE HEGSETH",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:32",
+      "date": "31/03",
+      "timestamp": 1774960321
+    },
+    {
+      "id": "BFMTV_1774960193",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"PLUS DE NAVIRES ONT TRAVERSÉ LE DÉTROIT D'ORMUZ AUJOURD'HUI\", INDIQUE PETE HEGSETH, SECRÉTAIRE À LA DÉFENSE DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:29",
+      "date": "31/03",
+      "timestamp": 1774960193
+    },
+    {
+      "id": "BFMTV_1774959740",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"AU COURS DES 30 DERNIERS JOURS, NOUS AVONS FRAPPÉ PLUS DE 11.000 CIBLES\", AFFIRME LE CHEF D'ÉTAT-MAJOR DES ARMÉES DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:22",
+      "date": "31/03",
+      "timestamp": 1774959740
+    },
     {
       "id": "BFMTV_1774958568",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "09:00",
       "date": "30/03",
       "timestamp": 1774861214
-    },
-    {
-      "id": "BFMTV_1774860869",
-      "source": "BFMTV",
-      "text": "UE: ANNIE GENEVARD ALERTE SUR LA FLAMBÉE DES COÛTS DES ENGRAIS ET CARBURANTS AGRICOLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:54",
-      "date": "30/03",
-      "timestamp": 1774860869
-    },
-    {
-      "id": "BFMTV_1774860669",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT SYRIEN AHMED AL-CHARAA RENCONTRE LE PRÉSIDENT ALLEMAND",
-      "urgent": false,
-      "france_related": true,
-      "time": "08:51",
-      "date": "30/03",
-      "timestamp": 1774860669
-    },
-    {
-      "id": "BFMTV_1774851408",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE APPELLE À ÉVACUER SEPT NOUVEAUX QUARTIERS DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:16",
-      "date": "30/03",
-      "timestamp": 1774851408
-    },
-    {
-      "id": "BFMTV_1774851341",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS PEUVENT PRENDRE \"TRÈS FACILEMENT\" L'ÎLE DE KHARG",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:15",
-      "date": "30/03",
-      "timestamp": 1774851341
-    },
-    {
-      "id": "BFMTV_1774850227",
-      "source": "BFMTV",
-      "text": "\"LA MÊME SITUATION\" QU'À CRANS-MONTANA: UN EMPLOYÉ MET EN CAUSE DES BOUGIES INCANDESCENTES APRÈS L'INCENDIE D'UNE DISCOTHÈQUE EN ALLEMAGNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:57",
-      "date": "30/03",
-      "timestamp": 1774850227
-    },
-    {
-      "id": "BFMTV_1774848415",
-      "source": "BFMTV",
-      "text": "LE PATRIARCHE LATIN DE JÉRUSALEM VA RETROUVER UN ACCÈS AU SAINT-SÉPULCRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:26",
-      "date": "30/03",
-      "timestamp": 1774848415
-    },
-    {
-      "id": "BFMTV_1774847869",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN CASQUE BLEU INDONÉSIEN TUÉ PAR UNE EXPLOSION DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:17",
-      "date": "30/03",
-      "timestamp": 1774847869
-    },
-    {
-      "id": "BFMTV_1774847816",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:16",
-      "date": "30/03",
-      "timestamp": 1774847816
-    },
-    {
-      "id": "BFMTV_1774847668",
-      "source": "BFMTV",
-      "text": "DIMANCHE DES RAMEAUX: BENJAMIN NETANYAHU AUTORISE À NOUVEAU L'ACCÈS DU PATRIARCHE LATIN DE JÉRUSALEM AU SAINT-SÉPULCRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:14",
-      "date": "30/03",
-      "timestamp": 1774847668
-    },
-    {
-      "id": "BFMTV_1774846789",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE L'ARMÉE CONSTRUIT UN COMPLEXE MILITAIRE SOUS LA FUTURE SALLE DE BAL DE LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:59",
-      "date": "30/03",
-      "timestamp": 1774846789
-    },
-    {
-      "id": "BFMTV_1774846731",
-      "source": "BFMTV",
-      "text": "INCENDIE DANS UNE DISCOTHÈQUE ALLEMANDE PRÈS DE STRASBOURG, 750 PERSONNES ÉVACUÉES",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:58",
-      "date": "30/03",
-      "timestamp": 1774846731
-    },
-    {
-      "id": "BFMTV_1774846055",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE A ANNONCÉ HIER SOIR MENER DES FRAPPES CONTRE DIVERSES CIBLES LIÉES AU POUVOIR IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:47",
-      "date": "30/03",
-      "timestamp": 1774846055
-    },
-    {
-      "id": "BFMTV_1774845901",
-      "source": "BFMTV",
-      "text": "LES SITES INDUSTRIELS CHIMIQUES, NOUVELLES CIBLES DES IRANIENS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:45",
-      "date": "30/03",
-      "timestamp": 1774845901
-    },
-    {
-      "id": "BFMTV_1774845650",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE DE FRAPPER LES CAMPUS UNIVERSITAIRES AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:40",
-      "date": "30/03",
-      "timestamp": 1774845650
-    },
-    {
-      "id": "BFMTV_1774845582",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI DONALD TRUMP PARLE D'UN \"CHANGEMENT DE RÉGIME\" EN IRAN ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:39",
-      "date": "30/03",
-      "timestamp": 1774845582
     }
   ],
   "france": {
