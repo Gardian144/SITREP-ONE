@@ -1,7 +1,147 @@
 {
-  "last_update": "31/03 05:57",
+  "last_update": "31/03 09:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774950197",
+      "source": "BFMTV",
+      "text": "\"UNE RELATION TRÈS BONNE MAIS QUI MANQUE D’UN RÉEL ÉCLAT\" : QUELLE IMPORTANCE LA FRANCE ACCORDE-T-ELLE AU JAPON ?",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:43",
+      "date": "31/03",
+      "timestamp": 1774950197
+    },
+    {
+      "id": "BFMTV_1774950057",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DES FRAPPES AMÉRICANO-ISRAÉLIENNES ENDOMMAGENT UN SITE RELIGIEUX EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:40",
+      "date": "31/03",
+      "timestamp": 1774950057
+    },
+    {
+      "id": "BFMTV_1774949915",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: À L'INTÉRIEUR D'UN IMMEUBLE FRAPPÉ PAR UN TIR À BNEI BRAK (ISRAËL)",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:38",
+      "date": "31/03",
+      "timestamp": 1774949915
+    },
+    {
+      "id": "BFMTV_1774948107",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS EXPLOSIONS ONT ÉTÉ ENTENDUES À DUBAÏ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:08",
+      "date": "31/03",
+      "timestamp": 1774948107
+    },
+    {
+      "id": "BFMTV_1774948086",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP SERAIT PRÊT À METTRE FIN À LA GUERRE EN IRAN SANS QUE LE DÉTROIT D'ORMUZ NE SOIT ROUVERT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:08",
+      "date": "31/03",
+      "timestamp": 1774948086
+    },
+    {
+      "id": "BFMTV_1774947935",
+      "source": "BFMTV",
+      "text": "\"C'EST UNE VISITE PROGRAMMÉE DE LONGUE DATE\": QUE VIENT FAIRE EMMANUEL MACRON AU JAPON ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:05",
+      "date": "31/03",
+      "timestamp": 1774947935
+    },
+    {
+      "id": "BFMTV_1774947830",
+      "source": "BFMTV",
+      "text": "NUCLÉAIRE, DÉFENSE, IA: EMMANUEL MACRON EST ARRIVÉ AU JAPON",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:03",
+      "date": "31/03",
+      "timestamp": 1774947830
+    },
+    {
+      "id": "BFMTV_1774947555",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS BLESSÉS EN ISRAËL APRÈS DES TIRS DE MISSILES IRANIENS, TÉHÉRAN VISÉ PAR DES BOMBARDEMENTS MASSIFS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:59",
+      "date": "31/03",
+      "timestamp": 1774947555
+    },
+    {
+      "id": "BFMTV_1774947139",
+      "source": "BFMTV",
+      "text": "DES MILLIERS DE PARACHUTISTES AMÉRICAINS DE LA 82E DIVISION AÉROPORTÉE SONT ARRIVÉS AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:52",
+      "date": "31/03",
+      "timestamp": 1774947139
+    },
+    {
+      "id": "BFMTV_1774945566",
+      "source": "BFMTV",
+      "text": "KIM JONG-UN ASSISTE À UN ENTRAÎNEMENT DE SES FORCES SPÉCIALES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:26",
+      "date": "31/03",
+      "timestamp": 1774945566
+    },
+    {
+      "id": "BFMTV_1774945481",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA CHINE EXPRIME SA \"GRATITUDE\" APRÈS LE RÉCENT PASSAGE DE TROIS BATEAUX PAR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:24",
+      "date": "31/03",
+      "timestamp": 1774945481
+    },
+    {
+      "id": "BFMTV_1774943055",
+      "source": "BFMTV",
+      "text": "NOUVELLE ALERTE SUR ISRAËL: UN TIR DE MISSILE À FRAGMENTATION FAIT AU MOINS 11 BLESSÉS DANS LE CENTRE DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:44",
+      "date": "31/03",
+      "timestamp": 1774943055
+    },
+    {
+      "id": "BFMTV_1774942906",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"L'OBJECTIF DES IRANIENS EST DE LAISSER PENSER QUE LEURS RÉSERVES SONT INÉPUISABLES\", ESTIME JEAN-PAUL PALOMÉROS, ANCIEN COMMANDANT ALLIÉ DE L'OTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:41",
+      "date": "31/03",
+      "timestamp": 1774942906
+    },
+    {
+      "id": "BFMTV_1774942171",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS 11 BLESSÉS DANS LE CENTRE D'ISRAËL APRÈS UN TIR DE MISSILE À FRAGMENTATION",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:29",
+      "date": "31/03",
+      "timestamp": 1774942171
+    },
     {
       "id": "BFMTV_1774936493",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "20:37",
       "date": "29/03",
       "timestamp": 1774816664
-    },
-    {
-      "id": "BFMTV_1774815923",
-      "source": "BFMTV",
-      "text": "COUPURE DE COURANT EN IRAN: LES IMAGES DES RUES PLONGÉES DANS LE NOIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:25",
-      "date": "29/03",
-      "timestamp": 1774815923
-    },
-    {
-      "id": "BFMTV_1774814770",
-      "source": "BFMTV",
-      "text": "MISSILES IRANIENS EN ISRAËL: LES IMAGES DE LA SUSPENSION DES DÉBATS À LA KNESSET, LE PARLEMENT ISRAÉLIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:06",
-      "date": "29/03",
-      "timestamp": 1774814770
-    },
-    {
-      "id": "BFMTV_1774811858",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE DIT ÊTRE EN TRAIN DE FRAPPER DES CIBLES EN IRAN À TRAVERS TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:17",
-      "date": "29/03",
-      "timestamp": 1774811858
-    },
-    {
-      "id": "BFMTV_1774811297",
-      "source": "BFMTV",
-      "text": "UNE NOUVELLE MANIFESTATION PRO-RÉGIME EST EN COURS À TÉHÉRAN EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:08",
-      "date": "29/03",
-      "timestamp": 1774811297
-    },
-    {
-      "id": "BFMTV_1774810918",
-      "source": "BFMTV",
-      "text": "IRAN: LE COURANT EST COUPÉ DANS PLUSIEURS ZONES APRÈS DES \"ATTAQUES\" CONTRE DES INSTALLATIONS ÉLECTRIQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:01",
-      "date": "29/03",
-      "timestamp": 1774810918
-    },
-    {
-      "id": "BFMTV_1774810789",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"L'ACTEUR QUI PREND UNE PLACE MAJEURE AUJOURD'HUI, C'EST LA CHINE\", EXPLIQUE THIERRY BRETON, ANCIEN MINISTRE DE L'ÉCONOMIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:59",
-      "date": "29/03",
-      "timestamp": 1774810789
-    },
-    {
-      "id": "BFMTV_1774809959",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"SI ON REGARDE LES MARCHÉS, JUSQU'À PRÉSENT, ILS NE SE SONT PAS AFFOLÉS\", OBSERVE THIERRY BRETON, ANCIEN MINISTRE DE L'ÉCONOMIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:45",
-      "date": "29/03",
-      "timestamp": 1774809959
-    },
-    {
-      "id": "BFMTV_1774806119",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: APRÈS L'ATTENTAT DÉJOUÉ CONTRE LA BANK OF AMERICA, LAURENT NUÑEZ DEMANDE UN RENFORCEMENT DES MESURES DE VIGILANCE",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:41",
-      "date": "29/03",
-      "timestamp": 1774806119
-    },
-    {
-      "id": "BFMTV_1774805643",
-      "source": "BFMTV",
-      "text": "INTERDICTION D'ACCÈS AU SAINT-SÉPULCRE À JÉRUSALEM: \"C'EST UNE BLESSURE PROFONDE POUR TOUS LES CATHOLIQUES DU MONDE ENTIER\", DÉCLARE JEAN-PIERRE RAFFARIN, ANCIEN PREMIER MINISTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:34",
-      "date": "29/03",
-      "timestamp": 1774805643
-    },
-    {
-      "id": "BFMTV_1774805309",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"AVEC TRUMP, ON EST PRISONNIER DE SON IMPRÉVISIBILITÉ\", EXPLIQUE JEAN-PIERRE RAFFARIN, ANCIEN PREMIER MINISTRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:28",
-      "date": "29/03",
-      "timestamp": 1774805309
-    },
-    {
-      "id": "BFMTV_1774801717",
-      "source": "BFMTV",
-      "text": "LES IMAGES SATELLITES DE LA BASE MILITAIRE EN ARABIE SAOUDITE OÙ UN AVION RADAR AMÉRICAIN A ÉTÉ FRAPPÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:28",
-      "date": "29/03",
-      "timestamp": 1774801717
-    },
-    {
-      "id": "BFMTV_1774801548",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: PLUS DE 1.200 MORTS DANS LES FRAPPES ISRAÉLIENNES AU LIBAN DEPUIS LE DÉBUT DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:25",
-      "date": "29/03",
-      "timestamp": 1774801548
-    },
-    {
-      "id": "BFMTV_1774799543",
-      "source": "BFMTV",
-      "text": "SUD-LIBAN: BENJAMIN NETANYAHU ORDONNE À L'ARMÉE ISRAÉLIENNE D'\"ÉTENDRE\" LA ZONE TAMPON DANS LA RÉGION",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:52",
-      "date": "29/03",
-      "timestamp": 1774799543
-    },
-    {
-      "id": "BFMTV_1774799258",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU KOWEÏT, 10 MILITAIRES ONT ÉTÉ BLESSÉS DANS UNE ATTAQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:47",
-      "date": "29/03",
-      "timestamp": 1774799258
     }
   ],
   "france": {
