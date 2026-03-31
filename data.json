@@ -1,7 +1,147 @@
 {
-  "last_update": "30/03 23:56",
+  "last_update": "31/03 05:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1774936493",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: QUATRE SOLDATS ISRAÉLIENS TUÉS DANS LE SUD DU LIBAN, UN PÉTROLIER DU KOWEÏT ATTAQUÉ À DUBAÏ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:54",
+      "date": "31/03",
+      "timestamp": 1774936493
+    },
+    {
+      "id": "BFMTV_1774935884",
+      "source": "BFMTV",
+      "text": "LUTTE ANTI-DRONES: COMMENT LA FRANCE LES INTERCEPTE?",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:44",
+      "date": "31/03",
+      "timestamp": 1774935884
+    },
+    {
+      "id": "BFMTV_1774935729",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: TROIS INCIDENTS ONT EU LIEU ENTRE LE CONTINGENT FRANÇAIS DE LA FINUL ET L'ARMÉE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:42",
+      "date": "31/03",
+      "timestamp": 1774935729
+    },
+    {
+      "id": "BFMTV_1774934180",
+      "source": "BFMTV",
+      "text": "UN PÉTROLIER DU KOWEÏT CIBLÉ PAR UNE ATTAQUE DE DRONES IRANIENS À DUBAÏ, DES DÉGÂTS MAIS AUCUN BLESSÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:16",
+      "date": "31/03",
+      "timestamp": 1774934180
+    },
+    {
+      "id": "BFMTV_1774933282",
+      "source": "BFMTV",
+      "text": "\"ON EST TOUT LE TEMPS DANS LA PEUR\": DANS LE NORD D'ISRAËL, LA DÉTRESSE DES HABITANTS SOUS LE FEU PERMANENT DE LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:01",
+      "date": "31/03",
+      "timestamp": 1774933282
+    },
+    {
+      "id": "BFMTV_1774932867",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: QUATRE SOLDATS ISRAÉLIENS TUÉS DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:54",
+      "date": "31/03",
+      "timestamp": 1774932867
+    },
+    {
+      "id": "BFMTV_1774932836",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: BENJAMIN NETANYAHU ESTIME QU'ISRAËL A REMPLI PLUS DE LA MOITIÉ DE SES OBJECTIFS MILITAIRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "31/03",
+      "timestamp": 1774932836
+    },
+    {
+      "id": "BFMTV_1774932379",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI LA FRANCE DÉPLOIE DES HÉLICOPTÈRES TIGRE ? ",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:46",
+      "date": "31/03",
+      "timestamp": 1774932379
+    },
+    {
+      "id": "BFMTV_1774931862",
+      "source": "BFMTV",
+      "text": "SELON LA PRESSE AMÉRICAINE, DONALD TRUMP SERAIT PRÊT À METTRE FIN À LA GUERRE EN IRAN SANS QUE LE DÉTROIT D'ORMUZ NE SOIT ROUVERT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:37",
+      "date": "31/03",
+      "timestamp": 1774931862
+    },
+    {
+      "id": "BFMTV_1774931397",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: DES PARIEURS MISENT SUR LA GUERRE, ET POUR CERTAINS, CELA LEUR RAPPORTE GROS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:29",
+      "date": "31/03",
+      "timestamp": 1774931397
+    },
+    {
+      "id": "BFMTV_1774931267",
+      "source": "BFMTV",
+      "text": "SOLDATS ISRAÉLIENS MORTS AU LIBAN, COUPURES DE COURANT EN IRAN, PÉTROLIER ATTAQUÉ… LE RÉCIT DE LA NUIT AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:27",
+      "date": "31/03",
+      "timestamp": 1774931267
+    },
+    {
+      "id": "BFMTV_1774930692",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN PÉTROLIER DU KOWEÏT ATTAQUÉ PAR L'IRAN À DUBAÏ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:18",
+      "date": "31/03",
+      "timestamp": 1774930692
+    },
+    {
+      "id": "BFMTV_1774930674",
+      "source": "BFMTV",
+      "text": "AU SUD LIBAN, LES SOIGNANTS SUSPECTÉS, PAR L'ARMÉE ISRAÉLIENNE, D'AIDER LE HEZBOLLAH",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:17",
+      "date": "31/03",
+      "timestamp": 1774930674
+    },
+    {
+      "id": "BFMTV_1774930426",
+      "source": "BFMTV",
+      "text": "DES SOLDATS FRANÇAIS CIBLÉS PAR TSAHAL: JEAN-NOËL BARROT DEMANDE LA TENUE D'UNE RÉUNION D'URGENCE DU CONSEIL DE SÉCURITÉ DES NATIONS UNIES",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:13",
+      "date": "31/03",
+      "timestamp": 1774930426
+    },
     {
       "id": "BFMTV_1774909013",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "15:47",
       "date": "29/03",
       "timestamp": 1774799258
-    },
-    {
-      "id": "BFMTV_1774797181",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES TENSIONS MILITAIRES ENTRE L'IRAN ET LES ÉTATS-UNIS S'INTENSIFIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:13",
-      "date": "29/03",
-      "timestamp": 1774797181
-    },
-    {
-      "id": "BFMTV_1774797076",
-      "source": "BFMTV",
-      "text": " ISRAËL: LE PATRIARCHE LATIN DE JÉRUSALEM EMPÊCHÉ DE CÉLÉBRER LA MESSE DES RAMEAUX AU SAINT-SÉPULCRE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:11",
-      "date": "29/03",
-      "timestamp": 1774797076
-    },
-    {
-      "id": "BFMTV_1774796444",
-      "source": "BFMTV",
-      "text": "FRAPPE IRANIENNE À BEER-SHIVA EN ISRAËL: LES HABITANTS SONT APPELÉS À SE CONFINER",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:00",
-      "date": "29/03",
-      "timestamp": 1774796444
-    },
-    {
-      "id": "BFMTV_1774796273",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE MENACE DE FRAPPER LES INSTALLATIONS MÉDICALES DU HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:57",
-      "date": "29/03",
-      "timestamp": 1774796273
-    },
-    {
-      "id": "BFMTV_1774795667",
-      "source": "BFMTV",
-      "text": "INTERDICTION D'ACCÈS AU SAINT-SÉPULCRE À JÉRUSALEM: LE PREMIER MINISTRE ISRAÉLIEN BENJAMIN NETANYAHU DÉCLARE QU'IL N'Y A \"PAS D'INTENTION MALVEILLANTE\" DANS CETTE DÉCISION",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:47",
-      "date": "29/03",
-      "timestamp": 1774795667
-    },
-    {
-      "id": "BFMTV_1774795430",
-      "source": "BFMTV",
-      "text": "LES TENSIONS S'INTENSIFIENT AU MOYEN-ORIENT AVEC DES MENACES IRANIENNES VISANT LES UNIVERSITÉS AMÉRICAINES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:43",
-      "date": "29/03",
-      "timestamp": 1774795430
-    },
-    {
-      "id": "BFMTV_1774795312",
-      "source": "BFMTV",
-      "text": "DEUX DRONES NON IDENTIFIÉS S’ÉCRASENT EN FINLANDE, LA PISTE D’UN TIR UKRAINIEN ÉVOQUÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:41",
-      "date": "29/03",
-      "timestamp": 1774795312
-    },
-    {
-      "id": "BFMTV_1774792624",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: DES CENTAINES DE PERSONNES ÉVACUÉES D'UNE BOÎTE DE NUIT APRÈS UN INCENDIE ",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:57",
-      "date": "29/03",
-      "timestamp": 1774792624
-    },
-    {
-      "id": "BFMTV_1774792139",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PENTAGONE SE PRÉPARE À DES OPÉRATIONS TERRESTRES EN IRAN D'APRÈS LE WASHINGTON POST",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:48",
-      "date": "29/03",
-      "timestamp": 1774792139
-    },
-    {
-      "id": "BFMTV_1774791729",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON \"CONDAMNE\" LA DÉCISION DE LA POLICE ISRAÉLIENNE D'EMPÊCHER LE PATRIARCHE LATIN DE JÉRUSALEM DE CÉLÉBRER LA MESSE DES RAMEAUX",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:42",
-      "date": "29/03",
-      "timestamp": 1774791729
-    },
-    {
-      "id": "BFMTV_1774791394",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE ZONE INDUSTRIELLE DU SUD D'ISRAËL PROBABLEMENT TOUCHÉE PAR UN \"DÉBRIS DE MISSILE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:36",
-      "date": "29/03",
-      "timestamp": 1774791394
-    },
-    {
-      "id": "BFMTV_1774790848",
-      "source": "BFMTV",
-      "text": "PATRIARCHE EMPÊCHÉ DE PRIER À JÉRUSALEM: EMMANUEL MACRON \"CONDAMNE\" LA DÉCISION DE LA POLICE ISRAÉLIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:27",
-      "date": "29/03",
-      "timestamp": 1774790848
-    },
-    {
-      "id": "BFMTV_1774790797",
-      "source": "BFMTV",
-      "text": "PATRIARCHE EMPÊCHÉ DE PRIER À JÉRUSALEM: EMMANUEL MACRON CONDAMNE \"LA DÉCISION DE LA POLICE ISRAÉLIENNE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:26",
-      "date": "29/03",
-      "timestamp": 1774790797
-    },
-    {
-      "id": "BFMTV_1774790568",
-      "source": "BFMTV",
-      "text": "\"JE PRÉFÉRAIS RENTRER CHEZ MOI\": UNE RÉFUGIÉE UKRAINIENNE QUITTE LES ÉTATS-UNIS PAR CRAINTE D'UNE ARRESTATION PAR L'ICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:22",
-      "date": "29/03",
-      "timestamp": 1774790568
     }
   ],
   "france": {
