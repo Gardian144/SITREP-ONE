@@ -1,7 +1,37 @@
 {
-  "last_update": "01/04 22:06",
+  "last_update": "01/04 23:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775082020",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN ASSURE QUE SON PAYS N'A \"JAMAIS CHOISI LA VOIE DE L'AGRESSION\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:20",
+      "date": "01/04",
+      "timestamp": 1775082020
+    },
+    {
+      "id": "BFMTV_1775081756",
+      "source": "BFMTV",
+      "text": "\"IL SE FAIT MALTRAITER PAR SA FEMME\": DONALD TRUMP TACLE UNE NOUVELLE FOIS EMMANUEL MACRON ET S'EN PREND À LA FRANCE SUR LA CRISE DU DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": true,
+      "time": "22:15",
+      "date": "01/04",
+      "timestamp": 1775081756
+    },
+    {
+      "id": "BFMTV_1775081290",
+      "source": "BFMTV",
+      "text": " DONALD TRUMP TACLE EMMANUEL MACRON “QUI SE FAIT VRAIMENT MALTRAITER PAR SA FEMME” ",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:08",
+      "date": "01/04",
+      "timestamp": 1775081290
+    },
     {
       "id": "BFMTV_1775079622",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "18:50",
       "date": "31/03",
       "timestamp": 1774983053
-    },
-    {
-      "id": "BFMTV_1774982463",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉMENT DES \"NÉGOCIATIONS\" ET ÉVOQUE \"DES ÉCHANGES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:41",
-      "date": "31/03",
-      "timestamp": 1774982463
-    },
-    {
-      "id": "BFMTV_1774981154",
-      "source": "BFMTV",
-      "text": "IRAN: LES ÉTATS-UNIS POURRAIENT ENVOYER DES AVIONS SUPPLÉMENTAIRES SUR LE FRONT",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:19",
-      "date": "31/03",
-      "timestamp": 1774981154
-    },
-    {
-      "id": "BFMTV_1774979746",
-      "source": "BFMTV",
-      "text": "PRIX DU CARBURANT: LA FLAMBÉE DES PRIX TOUCHE AUSSI LES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:55",
-      "date": "31/03",
-      "timestamp": 1774979746
     }
   ],
   "france": {
