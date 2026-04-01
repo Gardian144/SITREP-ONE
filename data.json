@@ -1,7 +1,147 @@
 {
-  "last_update": "31/03 23:50",
+  "last_update": "01/04 06:13",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775023708",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE FAIT ÉTAT DE TIRS DE MISSILES IRANIENS, AU MOINS 14 BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:08",
+      "date": "01/04",
+      "timestamp": 1775023708
+    },
+    {
+      "id": "BFMTV_1775023113",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT QUE LES ÉTATS-UNIS QUITTERONT L'IRAN \"TRÈS BIENTÔT\", LE PRÉSIDENT S'ADRESSERA À LA NATION AMÉRICAINE CE SOIR",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:58",
+      "date": "01/04",
+      "timestamp": 1775023113
+    },
+    {
+      "id": "BFMTV_1775022942",
+      "source": "BFMTV",
+      "text": "UN JUGE FÉDÉRAL ORDONNE DE SUSPENDRE LA CONSTRUCTION DE LA SALLE DE BAL DE DONALD TRUMP À LA MAISON BLANCHE, LE GOUVERNEMENT FAIT APPEL",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:55",
+      "date": "01/04",
+      "timestamp": 1775022942
+    },
+    {
+      "id": "BFMTV_1775021042",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: UN TANKER TOUCHÉ PAR DEUX PROJECTILES AU NORD DU QATAR",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:24",
+      "date": "01/04",
+      "timestamp": 1775021042
+    },
+    {
+      "id": "BFMTV_1775020909",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN SOLDAT ISRAÉLIEN RACONTE LES DIFFICULTÉS DE L’ARMÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:21",
+      "date": "01/04",
+      "timestamp": 1775020909
+    },
+    {
+      "id": "BFMTV_1775020108",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BILAN DES FRAPPES DE LA NUIT AU LIBAN, EN IRAN ET AU QATAR",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:08",
+      "date": "01/04",
+      "timestamp": 1775020108
+    },
+    {
+      "id": "BFMTV_1775020065",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: SEPT MORTS DANS DES FRAPPES DANS LA RÉGION DE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:07",
+      "date": "01/04",
+      "timestamp": 1775020065
+    },
+    {
+      "id": "BFMTV_1775019711",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: FAUT-IL GELER LES AVOIRS DU RÉGIME IRANIEN À L'ÉTRANGER?",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:01",
+      "date": "01/04",
+      "timestamp": 1775019711
+    },
+    {
+      "id": "BFMTV_1775019478",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DE NOUVELLES FRAPPES ISRAÉLIENNES FONT SEPT MORTS À BEYROUTH ET DANS SA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:57",
+      "date": "01/04",
+      "timestamp": 1775019478
+    },
+    {
+      "id": "BFMTV_1775018810",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DONALD TRUMP VEUT LAISSER LA FRANCE ET LES AUTRES PAYS SE \"DÉBROUILLER TOUT SEULS\" AVEC LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:46",
+      "date": "01/04",
+      "timestamp": 1775018810
+    },
+    {
+      "id": "BFMTV_1775018776",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA FRANCE AUTORISE-T-ELLE LES AVIONS MILITAIRES AMÉRICAINS À SURVOLER SON TERRITOIRE? ",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:46",
+      "date": "01/04",
+      "timestamp": 1775018776
+    },
+    {
+      "id": "BFMTV_1775018481",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION MENACENT DE VISER LES PLUS GRANDES SOCIÉTÉS DE LA TECH AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:41",
+      "date": "01/04",
+      "timestamp": 1775018481
+    },
+    {
+      "id": "BFMTV_1775018411",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS QUITTERONT L'IRAN DANS \"DEUX OU TROIS SEMAINES\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:40",
+      "date": "01/04",
+      "timestamp": 1775018411
+    },
+    {
+      "id": "BFMTV_1775018318",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: DONALD TRUMP A-T-IL VRAIMENT L'INTENTION D'EN FINIR AVEC LA GUERRE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:38",
+      "date": "01/04",
+      "timestamp": 1775018318
+    },
     {
       "id": "BFMTV_1774996325",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "04:13",
       "date": "31/03",
       "timestamp": 1774930426
-    },
-    {
-      "id": "BFMTV_1774909013",
-      "source": "BFMTV",
-      "text": "ISRAËL ADOPTE UNE LOI DÉCRIÉE SUR LA PEINE DE MORT, UNE TENTATIVE DE \"LÉGITIMER DES EXÉCUTIONS EXTRAJUDICIAIRES\" SELON L'AUTORITÉ PALESTINIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:16",
-      "date": "30/03",
-      "timestamp": 1774909013
-    },
-    {
-      "id": "BFMTV_1774908126",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN PROJET DE PÉAGE SUR LE DÉTROIT D'ORMUZ APPROUVÉ PAR UNE COMMISSION PARLEMENTAIRE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:02",
-      "date": "30/03",
-      "timestamp": 1774908126
-    },
-    {
-      "id": "BFMTV_1774908092",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:01",
-      "date": "30/03",
-      "timestamp": 1774908092
-    },
-    {
-      "id": "BFMTV_1774908091",
-      "source": "BFMTV",
-      "text": "INFO BFMTV. LIBAN: TROIS INCIDENTS SURVENUS SAMEDI DERNIER ENTRE LE CONTINGENT FRANÇAIS DE LA FINUL ET L'ARMÉE ISRAÉLIENNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "22:01",
-      "date": "30/03",
-      "timestamp": 1774908091
-    },
-    {
-      "id": "BFMTV_1774906659",
-      "source": "BFMTV",
-      "text": "COÛT DE LA GUERRE AU MOYEN-ORIENT: DONALD TRUMP ENVISAGE UNE CONTRIBUTION DES PAYS ARABES (MAISON BLANCHE)",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:37",
-      "date": "30/03",
-      "timestamp": 1774906659
-    },
-    {
-      "id": "BFMTV_1774906556",
-      "source": "BFMTV",
-      "text": "HAUSSE DES CARBURANTS: \"NOUS COMPRENONS, NOUS VOUS ENTENDONS, NOUS VOUS VOYONS\", ASSURE LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:35",
-      "date": "30/03",
-      "timestamp": 1774906556
-    },
-    {
-      "id": "BFMTV_1774904856",
-      "source": "BFMTV",
-      "text": "PATRIARCHE LATIN DE JÉRUSALEM EMPÊCHÉ DE CÉLÉBRER LA MESSE: LE VATICAN EXPRIME SES \"REGRETS\" À L'AMBASSADEUR D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:07",
-      "date": "30/03",
-      "timestamp": 1774904856
-    },
-    {
-      "id": "BFMTV_1774904345",
-      "source": "BFMTV",
-      "text": "IRAN: DES MILLIERS DE PARACHUTISTES AMÉRICAINS DE LA 82E DIVISION SONT ARRIVÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:59",
-      "date": "30/03",
-      "timestamp": 1774904345
-    },
-    {
-      "id": "BFMTV_1774902849",
-      "source": "BFMTV",
-      "text": "LA FRANCE DEMANDE UNE RÉUNION D'URGENCE DU CONSEIL DE SÉCURITÉ DE L'ONU APRÈS LA MORT DE PLUSIEURS CASQUES BLEUS",
-      "urgent": false,
-      "france_related": true,
-      "time": "20:34",
-      "date": "30/03",
-      "timestamp": 1774902849
-    },
-    {
-      "id": "BFMTV_1774900272",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PARLEMENT ISRAÉLIEN ADOPTE UNE LOI DÉCRIÉE INSTAURANT LA \"PEINE DE MORT POUR LES TERRORISTES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:51",
-      "date": "30/03",
-      "timestamp": 1774900272
-    },
-    {
-      "id": "BFMTV_1774897916",
-      "source": "BFMTV",
-      "text": "DOSSIERS EPSTEIN: DES YOUTUBEURS S'INFILTRENT SUR L’ANCIENNE ÎLE DE JEFFREY EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:11",
-      "date": "30/03",
-      "timestamp": 1774897916
-    },
-    {
-      "id": "BFMTV_1774895068",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES DIFFÉRENTS SCÉNARIOS DE L'OPÉRATION AMÉRICAINE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:24",
-      "date": "30/03",
-      "timestamp": 1774895068
-    },
-    {
-      "id": "BFMTV_1774894979",
-      "source": "BFMTV",
-      "text": " PÉKIN: UNE CHARGEUSE PERCUTE LA FOULE D'UN MARCHÉ DE LA CAPITALE CHINOISE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:22",
-      "date": "30/03",
-      "timestamp": 1774894979
-    },
-    {
-      "id": "BFMTV_1774894801",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP INTENSIFIE SES MENACES ENVERS L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:20",
-      "date": "30/03",
-      "timestamp": 1774894801
     }
   ],
   "france": {
