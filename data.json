@@ -1,7 +1,157 @@
 {
-  "last_update": "01/04 06:13",
+  "last_update": "01/04 10:15",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775038258",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE AU \"RESPECT DU DROIT INTERNATIONAL\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:10",
+      "date": "01/04",
+      "timestamp": 1775038258
+    },
+    {
+      "id": "BFMTV_1775038065",
+      "source": "BFMTV",
+      "text": "\"NOUS PASSONS À L'ÉTAPE SUPÉRIEURE\": LE ROYAUME-UNI VA ORGANISER UNE RÉUNION D'UNE TRENTAINE DE PAYS SUR LA SÉCURISATION DU DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:07",
+      "date": "01/04",
+      "timestamp": 1775038065
+    },
+    {
+      "id": "BFMTV_1775037471",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLO-AMÉRICAINES MENÉES SUR DES COMPLEXES SIDÉRURGIQUES EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:57",
+      "date": "01/04",
+      "timestamp": 1775037471
+    },
+    {
+      "id": "BFMTV_1775036973",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:49",
+      "date": "01/04",
+      "timestamp": 1775036973
+    },
+    {
+      "id": "BFMTV_1775036973",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE ROYAUME-UNI CONVIE \"35 NATIONS\" À UNE RÉUNION SUR LA SÉCURISATION DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:49",
+      "date": "01/04",
+      "timestamp": 1775036973
+    },
+    {
+      "id": "BFMTV_1775036300",
+      "source": "BFMTV",
+      "text": "\"ON VOUS ATTEND!\": L'IRAN PUBLIE UN CLIP DE PROPAGANDE DÉFIANT LES ÉTATS-UNIS APRÈS LES MENACES D'OPÉRATION TERRESTRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:38",
+      "date": "01/04",
+      "timestamp": 1775036300
+    },
+    {
+      "id": "BFMTV_1775036052",
+      "source": "BFMTV",
+      "text": "\"UN PARTENARIAT PLUS ÉTROIT AVEC NOS ALLIÉS EUROPÉENS\": KEIR STARMER VEUT RENFORCER SON PARTENARIAT AVEC L'UE EN RAISON DE LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:34",
+      "date": "01/04",
+      "timestamp": 1775036052
+    },
+    {
+      "id": "BFMTV_1775035783",
+      "source": "BFMTV",
+      "text": "\"L'ALLIANCE MILITAIRE LA PLUS EFFICACE\" AU MONDE : KEIR STARMER DÉFEND L'OTAN APRÈS LES CRITIQUES DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:29",
+      "date": "01/04",
+      "timestamp": 1775035783
+    },
+    {
+      "id": "BFMTV_1775035554",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"CE N'EST PAS NOTRE GUERRE\" RÉAFFIRME LE PREMIER MINISTRE BRITANNIQUE, KEIR STARMER",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:25",
+      "date": "01/04",
+      "timestamp": 1775035554
+    },
+    {
+      "id": "BFMTV_1775035024",
+      "source": "BFMTV",
+      "text": "\"LE JAPON SE TIENT LÀ DU CÔTÉ DU DROIT INTERNATIONAL, AUX CÔTÉS DE SES PARTENAIRES EUROPÉENS\", DÉCLARE EMMANUEL MACRON ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:17",
+      "date": "01/04",
+      "timestamp": 1775035024
+    },
+    {
+      "id": "BFMTV_1775034995",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: FACE À DES CHEFS D’ENTREPRISE JAPONAIS, EMMANUEL MACRON TACLE DONALD TRUMP SANS LE NOMMER",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:16",
+      "date": "01/04",
+      "timestamp": 1775034995
+    },
+    {
+      "id": "BFMTV_1775034719",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN TANKER ENDOMMAGÉ PAR UN PROJECTILE PRÈS DU QATAR",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:11",
+      "date": "01/04",
+      "timestamp": 1775034719
+    },
+    {
+      "id": "BFMTV_1775032965",
+      "source": "BFMTV",
+      "text": "EMMANUEL ET BRIGITTE MACRON REÇUS PAR SANAE TAKAICHI AU JAPON",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:42",
+      "date": "01/04",
+      "timestamp": 1775032965
+    },
+    {
+      "id": "BFMTV_1775032527",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:35",
+      "date": "01/04",
+      "timestamp": 1775032527
+    },
+    {
+      "id": "BFMTV_1775032527",
+      "source": "BFMTV",
+      "text": "AU MOINS 29 PERSONNES TUÉES DANS LE CRASH D'UN AVION DE TRANSPORT MILITAIRE RUSSE EN CRIMÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:35",
+      "date": "01/04",
+      "timestamp": 1775032527
+    },
     {
       "id": "BFMTV_1775023708",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "07:41",
       "date": "31/03",
       "timestamp": 1774942906
-    },
-    {
-      "id": "BFMTV_1774942171",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS 11 BLESSÉS DANS LE CENTRE D'ISRAËL APRÈS UN TIR DE MISSILE À FRAGMENTATION",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:29",
-      "date": "31/03",
-      "timestamp": 1774942171
-    },
-    {
-      "id": "BFMTV_1774936493",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: QUATRE SOLDATS ISRAÉLIENS TUÉS DANS LE SUD DU LIBAN, UN PÉTROLIER DU KOWEÏT ATTAQUÉ À DUBAÏ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:54",
-      "date": "31/03",
-      "timestamp": 1774936493
-    },
-    {
-      "id": "BFMTV_1774935884",
-      "source": "BFMTV",
-      "text": "LUTTE ANTI-DRONES: COMMENT LA FRANCE LES INTERCEPTE?",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:44",
-      "date": "31/03",
-      "timestamp": 1774935884
-    },
-    {
-      "id": "BFMTV_1774935729",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TROIS INCIDENTS ONT EU LIEU ENTRE LE CONTINGENT FRANÇAIS DE LA FINUL ET L'ARMÉE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:42",
-      "date": "31/03",
-      "timestamp": 1774935729
-    },
-    {
-      "id": "BFMTV_1774934180",
-      "source": "BFMTV",
-      "text": "UN PÉTROLIER DU KOWEÏT CIBLÉ PAR UNE ATTAQUE DE DRONES IRANIENS À DUBAÏ, DES DÉGÂTS MAIS AUCUN BLESSÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:16",
-      "date": "31/03",
-      "timestamp": 1774934180
-    },
-    {
-      "id": "BFMTV_1774933282",
-      "source": "BFMTV",
-      "text": "\"ON EST TOUT LE TEMPS DANS LA PEUR\": DANS LE NORD D'ISRAËL, LA DÉTRESSE DES HABITANTS SOUS LE FEU PERMANENT DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:01",
-      "date": "31/03",
-      "timestamp": 1774933282
-    },
-    {
-      "id": "BFMTV_1774932867",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: QUATRE SOLDATS ISRAÉLIENS TUÉS DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:54",
-      "date": "31/03",
-      "timestamp": 1774932867
-    },
-    {
-      "id": "BFMTV_1774932836",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: BENJAMIN NETANYAHU ESTIME QU'ISRAËL A REMPLI PLUS DE LA MOITIÉ DE SES OBJECTIFS MILITAIRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:53",
-      "date": "31/03",
-      "timestamp": 1774932836
-    },
-    {
-      "id": "BFMTV_1774932379",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI LA FRANCE DÉPLOIE DES HÉLICOPTÈRES TIGRE ? ",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:46",
-      "date": "31/03",
-      "timestamp": 1774932379
-    },
-    {
-      "id": "BFMTV_1774931862",
-      "source": "BFMTV",
-      "text": "SELON LA PRESSE AMÉRICAINE, DONALD TRUMP SERAIT PRÊT À METTRE FIN À LA GUERRE EN IRAN SANS QUE LE DÉTROIT D'ORMUZ NE SOIT ROUVERT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:37",
-      "date": "31/03",
-      "timestamp": 1774931862
-    },
-    {
-      "id": "BFMTV_1774931397",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: DES PARIEURS MISENT SUR LA GUERRE, ET POUR CERTAINS, CELA LEUR RAPPORTE GROS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:29",
-      "date": "31/03",
-      "timestamp": 1774931397
-    },
-    {
-      "id": "BFMTV_1774931267",
-      "source": "BFMTV",
-      "text": "SOLDATS ISRAÉLIENS MORTS AU LIBAN, COUPURES DE COURANT EN IRAN, PÉTROLIER ATTAQUÉ… LE RÉCIT DE LA NUIT AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:27",
-      "date": "31/03",
-      "timestamp": 1774931267
-    },
-    {
-      "id": "BFMTV_1774930692",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN PÉTROLIER DU KOWEÏT ATTAQUÉ PAR L'IRAN À DUBAÏ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:18",
-      "date": "31/03",
-      "timestamp": 1774930692
-    },
-    {
-      "id": "BFMTV_1774930674",
-      "source": "BFMTV",
-      "text": "AU SUD LIBAN, LES SOIGNANTS SUSPECTÉS, PAR L'ARMÉE ISRAÉLIENNE, D'AIDER LE HEZBOLLAH",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:17",
-      "date": "31/03",
-      "timestamp": 1774930674
-    },
-    {
-      "id": "BFMTV_1774930426",
-      "source": "BFMTV",
-      "text": "DES SOLDATS FRANÇAIS CIBLÉS PAR TSAHAL: JEAN-NOËL BARROT DEMANDE LA TENUE D'UNE RÉUNION D'URGENCE DU CONSEIL DE SÉCURITÉ DES NATIONS UNIES",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:13",
-      "date": "31/03",
-      "timestamp": 1774930426
     }
   ],
   "france": {
