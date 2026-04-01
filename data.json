@@ -1,7 +1,97 @@
 {
-  "last_update": "01/04 14:51",
+  "last_update": "01/04 17:39",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1775064732",
+      "source": "OPEX360",
+      "text": "LA MARINE NATIONALE VA GARDER AU MOINS UN AVION DE GUET AÉRIEN E-2C HAWKEYE JUSQU’EN 2032",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:32",
+      "date": "01/04",
+      "timestamp": 1775064732
+    },
+    {
+      "id": "BFMTV_1775064676",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"ON ARRIVE DANS UNE SITUATION OÙ CE SUD DU LIBAN SOUFFRE\", RAPPELLE LE GÉNÉRAL ÉRIC DE LA PRESLE, CONSEILLER AUPRÈS DES FORCES ARMÉES LIBANAISES DE 2022 À 2025",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:31",
+      "date": "01/04",
+      "timestamp": 1775064676
+    },
+    {
+      "id": "BFMTV_1775064187",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUE RESTE-T-IL DU NUCLÉAIRE IRANIEN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:23",
+      "date": "01/04",
+      "timestamp": 1775064187
+    },
+    {
+      "id": "BFMTV_1775063532",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"ON ASSISTE À UNE CHRONIQUE D'UNE DÉFAITE ANNONCÉE DE DONALD TRUMP\", AFFIRME DANIEL COHN-BENDIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:12",
+      "date": "01/04",
+      "timestamp": 1775063532
+    },
+    {
+      "id": "BFMTV_1775063307",
+      "source": "BFMTV",
+      "text": "MISSION ARTEMIS 2: \"L'IDÉE EST DE POUVOIR ÊTRE ATTRAPÉ PAR L'ATTRACTION GRAVITATIONNELLE DE LA LUNE\", EXPLIQUE ALAIN CIROU, DIRECTEUR DU MAGAZINE CIEL ET ESPACE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:08",
+      "date": "01/04",
+      "timestamp": 1775063307
+    },
+    {
+      "id": "OPEX360_1775061122",
+      "source": "OPEX360",
+      "text": "RHEINMETALL DEVRAIT LIVRER LE SYSTÈME ANTIAÉRIEN «SKYRANGER 30» À L’ARMÉE ALLEMANDE AVEC PLUSIEURS MOIS DE RETARD",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:32",
+      "date": "01/04",
+      "timestamp": 1775061122
+    },
+    {
+      "id": "BFMTV_1775059472",
+      "source": "BFMTV",
+      "text": "L'IRAN DÉMENT AVOIR DEMANDÉ UN CESSEZ-LE-FEU, COMME L'A INDIQUÉ DONALD TRUMP",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:04",
+      "date": "01/04",
+      "timestamp": 1775059472
+    },
+    {
+      "id": "BFMTV_1775058266",
+      "source": "BFMTV",
+      "text": "BEYROUTH: UN ASCENSEUR CÈDE SOUS LE POIDS D'UNE CHARGE TROP LOURDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:44",
+      "date": "01/04",
+      "timestamp": 1775058266
+    },
+    {
+      "id": "OPEX360_1775055302",
+      "source": "OPEX360",
+      "text": "LA MARINE ITALIENNE ENVISAGE D’ACQUÉRIR DES DRONES TURCS TB-3 POUR ÉQUIPER LE PORTE-AÉRONEFS ITS CAVOUR",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:55",
+      "date": "01/04",
+      "timestamp": 1775055302
+    },
     {
       "id": "BFMTV_1775054732",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "12:38",
       "date": "31/03",
       "timestamp": 1774960715
-    },
-    {
-      "id": "BFMTV_1774960477",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"LA PRIORITÉ EST D'ATTEINDRE UN ACCORD SINON NOUS SOMMES PRÊTS À CONTINUER\", AFFIRME PETE HEGSETH, SECRÉTAIRE À LA DÉFENSE DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:34",
-      "date": "31/03",
-      "timestamp": 1774960477
-    },
-    {
-      "id": "BFMTV_1774960321",
-      "source": "BFMTV",
-      "text": "\"IL Y A DES PAYS DANS LE MONDE QUI DOIVENT AGIR SUR LE DÉTROIT D'ORMUZ\" EXIGE PETE HEGSETH",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:32",
-      "date": "31/03",
-      "timestamp": 1774960321
-    },
-    {
-      "id": "BFMTV_1774960193",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"PLUS DE NAVIRES ONT TRAVERSÉ LE DÉTROIT D'ORMUZ AUJOURD'HUI\", INDIQUE PETE HEGSETH, SECRÉTAIRE À LA DÉFENSE DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:29",
-      "date": "31/03",
-      "timestamp": 1774960193
-    },
-    {
-      "id": "BFMTV_1774959740",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"AU COURS DES 30 DERNIERS JOURS, NOUS AVONS FRAPPÉ PLUS DE 11.000 CIBLES\", AFFIRME LE CHEF D'ÉTAT-MAJOR DES ARMÉES DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:22",
-      "date": "31/03",
-      "timestamp": 1774959740
-    },
-    {
-      "id": "BFMTV_1774958568",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: SELON DONALD TRUMP, LA FRANCE \"A ÉTÉ TRÈS PEU COOPÉRATIVE\", ET \"LES ÉTATS-UNIS S'EN SOUVIENDRONT\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "12:02",
-      "date": "31/03",
-      "timestamp": 1774958568
-    },
-    {
-      "id": "BFMTV_1774956948",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LA FRANCE \"S'EST MONTRÉE TRÈS PEU COOPÉRATIVE\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:35",
-      "date": "31/03",
-      "timestamp": 1774956948
-    },
-    {
-      "id": "BFMTV_1774954902",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU CŒUR D'UN HÔPITAL À SAÏDA, AU SUD DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:01",
-      "date": "31/03",
-      "timestamp": 1774954902
-    },
-    {
-      "id": "BFMTV_1774954426",
-      "source": "BFMTV",
-      "text": "UN PÉTROLIER KOWEÏTIEN VISÉ PAR UNE ATTAQUE IRANIENNE DANS LE PORT DE DUBAÏ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:53",
-      "date": "31/03",
-      "timestamp": 1774954426
-    },
-    {
-      "id": "BFMTV_1774953545",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP POSTE DES IMAGES SPECTACULAIRES DE FRAPPES SUR ISPAHAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:39",
-      "date": "31/03",
-      "timestamp": 1774953545
     }
   ],
   "france": {
