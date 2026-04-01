@@ -1,7 +1,97 @@
 {
-  "last_update": "01/04 17:39",
+  "last_update": "01/04 20:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775073879",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DONALD TRUMP SÈME LE DOUTE AVANT SON GRAND DISCOURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:04",
+      "date": "01/04",
+      "timestamp": 1775073879
+    },
+    {
+      "id": "BFMTV_1775073621",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"JE NE SUIS MÊME PAS SÛR QUE DONALD TRUMP SACHE VÉRITABLEMENT CE QU'IL VA FAIRE CE SOIR\", DÉCLARE GILLES KEPEL, SPÉCIALISTE DU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:00",
+      "date": "01/04",
+      "timestamp": 1775073621
+    },
+    {
+      "id": "BFMTV_1775072833",
+      "source": "BFMTV",
+      "text": "MISSION ARTEMIS 2: \"LÀ, ON A FERMÉ LA PORTE DE LA CAPSULE ET ON VÉRIFIE SON ÉTANCHÉITÉ\", EXPLIQUE OLIVIER SANGUY, RESPONSABLE DE L’ACTUALITÉ SPATIALE À LA CITÉ DE L’ESPACE À TOULOUSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:47",
+      "date": "01/04",
+      "timestamp": 1775072833
+    },
+    {
+      "id": "BFMTV_1775072798",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN ASSURE QUE SON PAYS N'A \"JAMAIS CHOISI LA VOIE DE L'AGRESSION\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:46",
+      "date": "01/04",
+      "timestamp": 1775072798
+    },
+    {
+      "id": "BFMTV_1775070952",
+      "source": "BFMTV",
+      "text": "ICE: DES STARS RÉCLAMENT LA FERMETURE D'UN CENTRE DE RÉTENTION POUR ENFANTS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:15",
+      "date": "01/04",
+      "timestamp": 1775070952
+    },
+    {
+      "id": "BFMTV_1775070659",
+      "source": "BFMTV",
+      "text": "MISSION ARTEMIS 2: \"LA PROCHAINE ÉTAPE, C'EST FERMER LA CAPSULE PUIS FERMER LA COQUE QU'IL Y A AUTOUR DE LA CAPSULE\", EXPLIQUE OLIVIER SANGUY, RESPONSABLE DE L’ACTUALITÉ SPATIALE À LA CITÉ DE L’ESPACE À TOULOUSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:10",
+      "date": "01/04",
+      "timestamp": 1775070659
+    },
+    {
+      "id": "BFMTV_1775070194",
+      "source": "BFMTV",
+      "text": "MISSION ARTEMIS 2: L'ÉQUIPAGE S'EST INSTALLÉ DANS LA CAPSULE ORION",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:03",
+      "date": "01/04",
+      "timestamp": 1775070194
+    },
+    {
+      "id": "BFMTV_1775068103",
+      "source": "BFMTV",
+      "text": "MISSION ARTEMIS 2: \"C'EST UN VOL D'ESSAI. ÇA VEUT DIRE QU'A AUCUN MOMENT ON NE VA PRENDRE DE RISQUE\", EXPLIQUE ALAIN CIROU, DIRECTEUR DU MAGAZINE CIEL ET ESPACE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:28",
+      "date": "01/04",
+      "timestamp": 1775068103
+    },
+    {
+      "id": "BFMTV_1775065945",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS À LA CONQUÊTE DE LA LUNE AVEC ARTEMIS 2 ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:52",
+      "date": "01/04",
+      "timestamp": 1775065945
+    },
     {
       "id": "OPEX360_1775064732",
       "source": "OPEX360",
@@ -911,96 +1001,6 @@
       "time": "15:13",
       "date": "31/03",
       "timestamp": 1774970038
-    },
-    {
-      "id": "BFMTV_1774969954",
-      "source": "BFMTV",
-      "text": "LA FRANCE À L'ONU DÉNONCE DES \"INCIDENTS GRAVES COMMIS PAR ISRAËL, À L'ENCONTRE DU CONTINGENT FRANÇAIS À NAQOURA\" ",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:12",
-      "date": "31/03",
-      "timestamp": 1774969954
-    },
-    {
-      "id": "OPEX360_1774967063",
-      "source": "OPEX360",
-      "text": "RENAULT SERAIT EN TRAIN DE DÉVELOPPER UN ROBOT TERRESTRE MILITAIRE EN PARTENARIAT AVEC JOHN COCKERILL DEFENSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:24",
-      "date": "31/03",
-      "timestamp": 1774967063
-    },
-    {
-      "id": "BFMTV_1774963740",
-      "source": "BFMTV",
-      "text": "INFO BFMTV. CONTRAIREMENT À CE QU'AFFIRME DONALD TRUMP, LA FRANCE N'A PAS RESTREINT LE SURVOL DE SON ESPACE AÉRIEN AUX AVIONS MILITAIRES AMÉRICAINS",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:29",
-      "date": "31/03",
-      "timestamp": 1774963740
-    },
-    {
-      "id": "BFMTV_1774963335",
-      "source": "BFMTV",
-      "text": "QU'EST CE QUE LA 82ÈME DIVISION AÉROPORTÉE AMÉRICAINE QUI POURRAIT INTERVENIR AU SOL EN IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:22",
-      "date": "31/03",
-      "timestamp": 1774963335
-    },
-    {
-      "id": "BFMTV_1774962644",
-      "source": "BFMTV",
-      "text": "ISRAËL ADOPTE UNE LOI SUR LA PEINE DE MORT CIBLANT DIRECTEMENT LES PALESTINIENS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:10",
-      "date": "31/03",
-      "timestamp": 1774962644
-    },
-    {
-      "id": "BFMTV_1774961960",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: CIVILS TUÉS, HABITANTS DÉPLACÉS, \"ZONE DE SÉCURITÉ\"... LA CRAINTE D’UN \"NOUVEAU GAZA\" AU SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:59",
-      "date": "31/03",
-      "timestamp": 1774961960
-    },
-    {
-      "id": "BFMTV_1774961476",
-      "source": "BFMTV",
-      "text": "IRAN: PETE HEGSETH ASSURE QU'\"AUCUNE OPTION N'EST EXCLUE\" SUR L'ENVOI DE TROUPES AU SOL",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:51",
-      "date": "31/03",
-      "timestamp": 1774961476
-    },
-    {
-      "id": "BFMTV_1774960912",
-      "source": "BFMTV",
-      "text": "GUERRE CONTRE L'IRAN: \"L'IDÉE C'EST DE LES AMENER À CAPITULER\" ESTIME PETE HEGSETH, SECRÉTAIRE À LA DÉFENSE DES ETATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:41",
-      "date": "31/03",
-      "timestamp": 1774960912
-    },
-    {
-      "id": "BFMTV_1774960715",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"AUCUNE OPTION N'EST EXCLUE\" AU SUJET DE TROUPES AU SOL, AFFIRME PETE HEGSETH, SECRÉTAIRE À LA DÉFENSE DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:38",
-      "date": "31/03",
-      "timestamp": 1774960715
     }
   ],
   "france": {
