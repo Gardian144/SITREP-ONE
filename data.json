@@ -1,7 +1,57 @@
 {
-  "last_update": "02/04 20:02",
+  "last_update": "02/04 22:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775167005",
+      "source": "BFMTV",
+      "text": "GUERRE EN MOYEN-ORIENT: LE MINISTRE DES AFFAIRES ÉTRANGÈRES IRANIEN MENACE LES ÉTATS-UNIS D'UN RETOUR À \"L'ÂGE DE PIERRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:56",
+      "date": "02/04",
+      "timestamp": 1775167005
+    },
+    {
+      "id": "BFMTV_1775164993",
+      "source": "BFMTV",
+      "text": "FORUM BFMTV - GUERRE AU MOYEN-ORIENT: “EST-CE QU’ON SERAIT PRÊT À MOURIR POUR LES BÊTISES DE DONALD TRUMP?”, DEMANDE ENZO, ÉTUDIANT DANS L’HÉRAULT ",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:23",
+      "date": "02/04",
+      "timestamp": 1775164993
+    },
+    {
+      "id": "BFMTV_1775164509",
+      "source": "BFMTV",
+      "text": "FORUM BFMTV - EN CAS DE GUERRE, \"JE SERAIS LE PREMIER À ALLER AU FRONT SI ON TOUCHE À NOTRE PAYS\", ASSURE KAMAL, POISSONNIER EN GIRONDE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:15",
+      "date": "02/04",
+      "timestamp": 1775164509
+    },
+    {
+      "id": "BFMTV_1775163860",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP LIMOGE SA MINISTRE DE LA JUSTICE PAM BONDI ET LA REMPLACE PAR SON ANCIEN AVOCAT TODD BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:04",
+      "date": "02/04",
+      "timestamp": 1775163860
+    },
+    {
+      "id": "BFMTV_1775160457",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES AU BORD D'UNE GUERRE PLUS LARGE\": LE CHEF DE L'ONU APPELLE À CE QUE \"LA SPIRALE DE MORT ET DE DESTRUCTION\" CESSE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:07",
+      "date": "02/04",
+      "timestamp": 1775160457
+    },
     {
       "id": "BFMTV_1775159252",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "17:32",
       "date": "01/04",
       "timestamp": 1775064732
-    },
-    {
-      "id": "BFMTV_1775064676",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ON ARRIVE DANS UNE SITUATION OÙ CE SUD DU LIBAN SOUFFRE\", RAPPELLE LE GÉNÉRAL ÉRIC DE LA PRESLE, CONSEILLER AUPRÈS DES FORCES ARMÉES LIBANAISES DE 2022 À 2025",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:31",
-      "date": "01/04",
-      "timestamp": 1775064676
-    },
-    {
-      "id": "BFMTV_1775064187",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QUE RESTE-T-IL DU NUCLÉAIRE IRANIEN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:23",
-      "date": "01/04",
-      "timestamp": 1775064187
-    },
-    {
-      "id": "BFMTV_1775063532",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ON ASSISTE À UNE CHRONIQUE D'UNE DÉFAITE ANNONCÉE DE DONALD TRUMP\", AFFIRME DANIEL COHN-BENDIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:12",
-      "date": "01/04",
-      "timestamp": 1775063532
-    },
-    {
-      "id": "BFMTV_1775063307",
-      "source": "BFMTV",
-      "text": "MISSION ARTEMIS 2: \"L'IDÉE EST DE POUVOIR ÊTRE ATTRAPÉ PAR L'ATTRACTION GRAVITATIONNELLE DE LA LUNE\", EXPLIQUE ALAIN CIROU, DIRECTEUR DU MAGAZINE CIEL ET ESPACE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:08",
-      "date": "01/04",
-      "timestamp": 1775063307
-    },
-    {
-      "id": "OPEX360_1775061122",
-      "source": "OPEX360",
-      "text": "RHEINMETALL DEVRAIT LIVRER LE SYSTÈME ANTIAÉRIEN «SKYRANGER 30» À L’ARMÉE ALLEMANDE AVEC PLUSIEURS MOIS DE RETARD",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:32",
-      "date": "01/04",
-      "timestamp": 1775061122
     }
   ],
   "france": {
