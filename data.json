@@ -1,7 +1,147 @@
 {
-  "last_update": "02/04 05:51",
+  "last_update": "02/04 09:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775122666",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: DONALD TRUMP L'A \"OFFERT À L'IRAN\", SELON LE DIRECTEUR DE L'OBSERVATOIRE DES PAYS-ARABES",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:37",
+      "date": "02/04",
+      "timestamp": 1775122666
+    },
+    {
+      "id": "BFMTV_1775122632",
+      "source": "BFMTV",
+      "text": "\"UNE RUPTURE D’ÉGALITÉ ENTRE LES CITOYENS\": AVEC LA LOI SUR LA PEINE DE MORT, LA SOCIÉTÉ ISRAÉLIENNE EST-ELLE À UN TOURNANT?",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:37",
+      "date": "02/04",
+      "timestamp": 1775122632
+    },
+    {
+      "id": "BFMTV_1775122607",
+      "source": "BFMTV",
+      "text": "SÉOUL: EMMANUEL MACRON REND HOMMAGE AUX COMBATTANTS DE LA GUERRE DE CORÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:36",
+      "date": "02/04",
+      "timestamp": 1775122607
+    },
+    {
+      "id": "BFMTV_1775122480",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME NE PAS AVOIR RELANCÉ L'ENRICHISSEMENT NUCLÉAIRE ET DÉNONCE \"UN GROS MENSONGE\" DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:34",
+      "date": "02/04",
+      "timestamp": 1775122480
+    },
+    {
+      "id": "BFMTV_1775121600",
+      "source": "BFMTV",
+      "text": "\"HUBS DE RETOUR\" POUR MIGRANTS: LA FRANCE \"ASSEZ SCEPTIQUE SUR LEUR EFFICACITÉ\", DÉCLARE LE MINISTRE BENJAMIN HADDAD",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:20",
+      "date": "02/04",
+      "timestamp": 1775121600
+    },
+    {
+      "id": "BFMTV_1775121516",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE ET AU MOYEN-ORIENT: LA FRANCE N'A PAS ATTENDU POUR ALERTER LES EUROPÉENS SUR \"LA NÉCESSITÉ DE PRENDRE EN CHARGE LEUR PROPRE DESTIN\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:18",
+      "date": "02/04",
+      "timestamp": 1775121516
+    },
+    {
+      "id": "BFMTV_1775119794",
+      "source": "BFMTV",
+      "text": "GOLDMAN SACHS MENACÉE PAR UN GROUPE IRANIEN À PARIS, VIGILANCE POLICIÈRE RENFORCÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:49",
+      "date": "02/04",
+      "timestamp": 1775119794
+    },
+    {
+      "id": "BFMTV_1775119386",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES ONT FORTEMENT ENDOMMAGÉ L'INSTITUT PASTEUR À TÉHÉRAN, SELON LE MINISTÈRE DE LA SANTÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:43",
+      "date": "02/04",
+      "timestamp": 1775119386
+    },
+    {
+      "id": "BFMTV_1775119061",
+      "source": "BFMTV",
+      "text": "EMMANUEL ET BRIGITTE MACRON SONT ARRIVÉS EN CORÉE DU SUD POUR UNE VISITE D'ÉTAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:37",
+      "date": "02/04",
+      "timestamp": 1775119061
+    },
+    {
+      "id": "BFMTV_1775116548",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'AMBASSADEUR D'ISRAËL EN FRANCE JUGE QUE PARIS \"N'EST PAS UNE PUISSANCE AMICALE\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "07:55",
+      "date": "02/04",
+      "timestamp": 1775116548
+    },
+    {
+      "id": "BFMTV_1775116452",
+      "source": "BFMTV",
+      "text": "ARTÉMIS II: QUATRE ASTRONAUTES VERS LA LUNE, UNE PREMIÈRE DEPUIS PLUS DE 50 ANS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:54",
+      "date": "02/04",
+      "timestamp": 1775116452
+    },
+    {
+      "id": "BFMTV_1775116391",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: LES CIVILS ISRAÉLIENS FÊTENT PESSAH DANS DES BUNKERS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:53",
+      "date": "02/04",
+      "timestamp": 1775116391
+    },
+    {
+      "id": "BFMTV_1775116299",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L’INTERVIEW DE JOSHUA ZARKA, AMBASSADEUR D’ISRAËL EN FRANCE, EN INTÉGRALITÉ",
+      "urgent": true,
+      "france_related": true,
+      "time": "07:51",
+      "date": "02/04",
+      "timestamp": 1775116299
+    },
+    {
+      "id": "BFMTV_1775115563",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:39",
+      "date": "02/04",
+      "timestamp": 1775115563
+    },
     {
       "id": "BFMTV_1775108922",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "04:38",
       "date": "01/04",
       "timestamp": 1775018318
-    },
-    {
-      "id": "BFMTV_1774996325",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP FUSTIGE LA FRANCE ET D'AUTRES PAYS SUR LA GESTION DU DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": true,
-      "time": "22:32",
-      "date": "31/03",
-      "timestamp": 1774996325
-    },
-    {
-      "id": "BFMTV_1774996320",
-      "source": "BFMTV",
-      "text": "\"NOUS TERMINONS LE TRAVAIL\": DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS QUITTERONT L'IRAN \"D'ICI DEUX À TROIS SEMAINES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "22:32",
-      "date": "31/03",
-      "timestamp": 1774996320
-    },
-    {
-      "id": "BFMTV_1774995226",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP A PRIS LA PAROLE SUR LA SUITE DU CONFLIT AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:13",
-      "date": "31/03",
-      "timestamp": 1774995226
-    },
-    {
-      "id": "BFMTV_1774994717",
-      "source": "BFMTV",
-      "text": "IRAN: \"LES ÉTATS-UNIS QUITTERONT LE PAYS DANS DEUX OU TROIS SEMAINES\", ANNONCE DONALD TRUMP",
-      "urgent": true,
-      "france_related": true,
-      "time": "22:05",
-      "date": "31/03",
-      "timestamp": 1774994717
-    },
-    {
-      "id": "BFMTV_1774994269",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ON ME SOUTIENT À 100%, NOUS QUITTERONS L'IRAN TRÈS TÔT\", ASSURE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:57",
-      "date": "31/03",
-      "timestamp": 1774994269
-    },
-    {
-      "id": "BFMTV_1774993857",
-      "source": "BFMTV",
-      "text": "IRAN: LE TRÉSOR CACHÉ DES MOLLAHS DANS PLUSIEURS GRANDES VILLES DU MONDE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:50",
-      "date": "31/03",
-      "timestamp": 1774993857
-    },
-    {
-      "id": "BFMTV_1774993330",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: WASHINGTON CONFIRME L'ENLÈVEMENT D'UNE JOURNALISTE AMÉRICAINE EN IRAK",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:42",
-      "date": "31/03",
-      "timestamp": 1774993330
-    },
-    {
-      "id": "BFMTV_1774993140",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: WASHINGTON CONFIRME L'ENLÈVEMENT D'UNE JOURNALISTE AMÉRICAINE EN IRAK",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:39",
-      "date": "31/03",
-      "timestamp": 1774993140
-    },
-    {
-      "id": "BFMTV_1774992881",
-      "source": "BFMTV",
-      "text": "“CETTE GUERRE ÉTAIT INUTILE ET MAINTENANT LES PRIX FLAMBENT\": LES AMÉRICAINS RÉAGISSENT À L’AUGMENTATION DU PRIX DE L’ESSENCE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:34",
-      "date": "31/03",
-      "timestamp": 1774992881
-    },
-    {
-      "id": "BFMTV_1774992529",
-      "source": "BFMTV",
-      "text": "“POUR LES IRANIENS, LA DIPLOMATIE DES OTAGES A TOUJOURS ÉTÉ UNE STRATÉGIE”, RAPPELLE MANELI MIRKHAN, FRANCO-IRANIENNE ET EXPERTE SÉCURITÉ INTERNATIONALE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:28",
-      "date": "31/03",
-      "timestamp": 1774992529
-    },
-    {
-      "id": "BFMTV_1774991953",
-      "source": "BFMTV",
-      "text": "IRAN: \"L'OPÉRATION AMÉRICAINE TOUCHE À SA FIN\", ANNONCE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:19",
-      "date": "31/03",
-      "timestamp": 1774991953
-    },
-    {
-      "id": "BFMTV_1774991596",
-      "source": "BFMTV",
-      "text": "IRAK: UNE JOURNALISTE AMÉRICAINE ENLEVÉE EN PLEINE RUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:13",
-      "date": "31/03",
-      "timestamp": 1774991596
-    },
-    {
-      "id": "BFMTV_1774990390",
-      "source": "BFMTV",
-      "text": "MORT DE TROIS CASQUES BLEUS: L’INDONÉSIE DEMANDE UNE \"ENQUÊTE IMMÉDIATE, APPROFONDIE ET TRANSPARENTE PAR L’ONU\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "20:53",
-      "date": "31/03",
-      "timestamp": 1774990390
-    },
-    {
-      "id": "BFMTV_1774990332",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: “LE DEGRÉ D’INFILTRATION DES SERVICES ISRAÉLIENS EN IRAN EST ASSEZ IMPRESSIONNANT\", ESTIME PHILIPPE KARSENTY, PORTE-PAROLE DU COMITÉ “TRUMP FRANCE”",
-      "urgent": true,
-      "france_related": true,
-      "time": "20:52",
-      "date": "31/03",
-      "timestamp": 1774990332
     }
   ],
   "france": {
