@@ -1,7 +1,147 @@
 {
-  "last_update": "02/04 09:41",
+  "last_update": "02/04 12:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775130280",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: LES DEUX PLUS GRANDES ACIÉRIES DU PAYS À L'ARRÊT APRÈS DES FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:44",
+      "date": "02/04",
+      "timestamp": 1775130280
+    },
+    {
+      "id": "BFMTV_1775129883",
+      "source": "BFMTV",
+      "text": "CANADA: UNE POLICIÈRE RESTE CALME FACE À DES INSULTES MISOGYNES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:38",
+      "date": "02/04",
+      "timestamp": 1775129883
+    },
+    {
+      "id": "BFMTV_1775129124",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE BLOCAGE DU DÉTROIT D'ORMUZ REPRÉSENTE UN MANQUE À GAGNER DE 186 MILLIARDS DE DOLLARS POUR LES PAYS DU GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:25",
+      "date": "02/04",
+      "timestamp": 1775129124
+    },
+    {
+      "id": "BFMTV_1775128382",
+      "source": "BFMTV",
+      "text": "\"IL VA ÊTRE BEAUCOUP PLUS RADICAL\": QU'ATTENDRE DU NOUVEAU MINISTRE \"GUERRIER\" DE DONALD TRUMP, MARKWAYNE MULLIN ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:13",
+      "date": "02/04",
+      "timestamp": 1775128382
+    },
+    {
+      "id": "BFMTV_1775128200",
+      "source": "BFMTV",
+      "text": "ANCIEN COMBATTANT DE MMA, \"MAGA PUR DE DUR\":  QUI EST MARKWAYNE MULLIN, LE NOUVEAU MINISTRE DE DONALD TRUMP ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:10",
+      "date": "02/04",
+      "timestamp": 1775128200
+    },
+    {
+      "id": "BFMTV_1775127662",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: POURQUOI LES ÉTATS-UNIS NE RÉUSSISSENT PAS À IDENTIFIER TOUS LES SITES D'OÙ PARTENT LES MISSILES BALISTIQUES IRANIENS ? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:01",
+      "date": "02/04",
+      "timestamp": 1775127662
+    },
+    {
+      "id": "BFMTV_1775127241",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE CANALISATION EXPLOSE SUITE À UNE FRAPPE IRANIENNE SUR TEL-AVIV, UN QUARTIER INONDÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:54",
+      "date": "02/04",
+      "timestamp": 1775127241
+    },
+    {
+      "id": "BFMTV_1775127139",
+      "source": "BFMTV",
+      "text": "\"QUAND ON VEUT ÊTRE SÉRIEUX, ON NE DIT PAS CHAQUE JOUR LE CONTRAIRE DE CE QU'ON A DIT LA VEILLE\": LE TACLE D'EMMANUEL MACRON À DONALD TRUMP SUR L'IRAN ET L'OTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:52",
+      "date": "02/04",
+      "timestamp": 1775127139
+    },
+    {
+      "id": "BFMTV_1775126184",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON RÉPOND À DONALD TRUMP DEPUIS SÉOUL",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:36",
+      "date": "02/04",
+      "timestamp": 1775126184
+    },
+    {
+      "id": "OPEX360_1775125948",
+      "source": "OPEX360",
+      "text": "LA FRANCE ET LE ROYAUME-UNI LANCENT UNE ÉTUDE SUR UN MISSILE AIR-AIR À LONGUE PORTÉE DE NOUVELLE GÉNÉRATION",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:32",
+      "date": "02/04",
+      "timestamp": 1775125948
+    },
+    {
+      "id": "BFMTV_1775125042",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON JUGE LES PROPOS DE DONALD TRUMP SUR SON COUPLE \"NI ÉLÉGANTS, NI À LA HAUTEUR\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:17",
+      "date": "02/04",
+      "timestamp": 1775125042
+    },
+    {
+      "id": "BFMTV_1775124674",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LIBÉRER LE DÉTROIT D'ORMUZ PAR LA FORCE EST \"IRRÉALISTE\" SELON EMMANUEL MACRON",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:11",
+      "date": "02/04",
+      "timestamp": 1775124674
+    },
+    {
+      "id": "BFMTV_1775124601",
+      "source": "BFMTV",
+      "text": "IRAN: MACRON ESTIME QUE LA GUERRE NE PERMET PAS DE \"RÉGLER DANS LA DURÉE\" LA QUESTION DU NUCLÉAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:10",
+      "date": "02/04",
+      "timestamp": 1775124601
+    },
+    {
+      "id": "BFMTV_1775124409",
+      "source": "BFMTV",
+      "text": "\"CE QUI M'IMPORTE C'EST D'ALLER DE L'AVANT ET PERMETTRE UN CESSEZ-LE-FEU\" ESTIME EMMANUEL MACRON QUI RÉAGIT AU DISCOURS DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:06",
+      "date": "02/04",
+      "timestamp": 1775124409
+    },
     {
       "id": "BFMTV_1775122666",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "08:35",
       "date": "01/04",
       "timestamp": 1775032527
-    },
-    {
-      "id": "BFMTV_1775023708",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE FAIT ÉTAT DE TIRS DE MISSILES IRANIENS, AU MOINS 14 BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:08",
-      "date": "01/04",
-      "timestamp": 1775023708
-    },
-    {
-      "id": "BFMTV_1775023113",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT QUE LES ÉTATS-UNIS QUITTERONT L'IRAN \"TRÈS BIENTÔT\", LE PRÉSIDENT S'ADRESSERA À LA NATION AMÉRICAINE CE SOIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:58",
-      "date": "01/04",
-      "timestamp": 1775023113
-    },
-    {
-      "id": "BFMTV_1775022942",
-      "source": "BFMTV",
-      "text": "UN JUGE FÉDÉRAL ORDONNE DE SUSPENDRE LA CONSTRUCTION DE LA SALLE DE BAL DE DONALD TRUMP À LA MAISON BLANCHE, LE GOUVERNEMENT FAIT APPEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:55",
-      "date": "01/04",
-      "timestamp": 1775022942
-    },
-    {
-      "id": "BFMTV_1775021042",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: UN TANKER TOUCHÉ PAR DEUX PROJECTILES AU NORD DU QATAR",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:24",
-      "date": "01/04",
-      "timestamp": 1775021042
-    },
-    {
-      "id": "BFMTV_1775020909",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN SOLDAT ISRAÉLIEN RACONTE LES DIFFICULTÉS DE L’ARMÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:21",
-      "date": "01/04",
-      "timestamp": 1775020909
-    },
-    {
-      "id": "BFMTV_1775020108",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BILAN DES FRAPPES DE LA NUIT AU LIBAN, EN IRAN ET AU QATAR",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:08",
-      "date": "01/04",
-      "timestamp": 1775020108
-    },
-    {
-      "id": "BFMTV_1775020065",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: SEPT MORTS DANS DES FRAPPES DANS LA RÉGION DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:07",
-      "date": "01/04",
-      "timestamp": 1775020065
-    },
-    {
-      "id": "BFMTV_1775019711",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: FAUT-IL GELER LES AVOIRS DU RÉGIME IRANIEN À L'ÉTRANGER?",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:01",
-      "date": "01/04",
-      "timestamp": 1775019711
-    },
-    {
-      "id": "BFMTV_1775019478",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DE NOUVELLES FRAPPES ISRAÉLIENNES FONT SEPT MORTS À BEYROUTH ET DANS SA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:57",
-      "date": "01/04",
-      "timestamp": 1775019478
-    },
-    {
-      "id": "BFMTV_1775018810",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DONALD TRUMP VEUT LAISSER LA FRANCE ET LES AUTRES PAYS SE \"DÉBROUILLER TOUT SEULS\" AVEC LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:46",
-      "date": "01/04",
-      "timestamp": 1775018810
-    },
-    {
-      "id": "BFMTV_1775018776",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA FRANCE AUTORISE-T-ELLE LES AVIONS MILITAIRES AMÉRICAINS À SURVOLER SON TERRITOIRE? ",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:46",
-      "date": "01/04",
-      "timestamp": 1775018776
-    },
-    {
-      "id": "BFMTV_1775018481",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION MENACENT DE VISER LES PLUS GRANDES SOCIÉTÉS DE LA TECH AMÉRICAINES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:41",
-      "date": "01/04",
-      "timestamp": 1775018481
-    },
-    {
-      "id": "BFMTV_1775018411",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS QUITTERONT L'IRAN DANS \"DEUX OU TROIS SEMAINES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:40",
-      "date": "01/04",
-      "timestamp": 1775018411
-    },
-    {
-      "id": "BFMTV_1775018318",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: DONALD TRUMP A-T-IL VRAIMENT L'INTENTION D'EN FINIR AVEC LA GUERRE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:38",
-      "date": "01/04",
-      "timestamp": 1775018318
     }
   ],
   "france": {
