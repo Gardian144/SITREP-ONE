@@ -1,7 +1,157 @@
 {
-  "last_update": "02/04 12:01",
+  "last_update": "02/04 15:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775143956",
+      "source": "BFMTV",
+      "text": "LES PASSAGERS D'UN VOL FILMENT LE LANCEMENT DE LA FUSÉE ARTÉMIS 2 DEPUIS LEUR AVION ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:32",
+      "date": "02/04",
+      "timestamp": 1775143956
+    },
+    {
+      "id": "BFMTV_1775143701",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: \"NOUS SOMMES AU BORD D'UNE GUERRE PLUS LARGE\", S'ALARME LE CHEF DE L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:28",
+      "date": "02/04",
+      "timestamp": 1775143701
+    },
+    {
+      "id": "BFMTV_1775143017",
+      "source": "BFMTV",
+      "text": "LONDRES ÉVOQUE \"L'URGENTE NÉCESSITÉ\" DE ROUVRIR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:16",
+      "date": "02/04",
+      "timestamp": 1775143017
+    },
+    {
+      "id": "BFMTV_1775142704",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: UNE FEMME EN ARRÊT MALADIE A ÉTÉ SURPRISE EN TRAIN DE FAIRE DE LA TYROLIENNE AU MEXIQUE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:11",
+      "date": "02/04",
+      "timestamp": 1775142704
+    },
+    {
+      "id": "BFMTV_1775142244",
+      "source": "BFMTV",
+      "text": "\"INCROYABLE\": UN CASQUE D'OR DE PRÈS DE 2.500 ANS APPARTENANT À LA ROUMANIE RETROUVÉ AUX PAYS-BAS APRÈS AVOIR ÉTÉ VOLÉ EN 2025",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:04",
+      "date": "02/04",
+      "timestamp": 1775142244
+    },
+    {
+      "id": "BFMTV_1775141497",
+      "source": "BFMTV",
+      "text": "SONDAGE BFMTV. 87% DES FRANÇAIS \"INQUIETS\" PAR LA GUERRE AU MOYEN-ORIENT, UN CHIFFRE EN NETTE HAUSSE",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:51",
+      "date": "02/04",
+      "timestamp": 1775141497
+    },
+    {
+      "id": "OPEX360_1775138698",
+      "source": "OPEX360",
+      "text": "LA SUISSE ÉVOQUE LA POSSIBLE ANNULATION DE SA COMMANDE DE SYSTÈMES DE DÉFENSE AÉRIENNE PATRIOT AUPRÈS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:04",
+      "date": "02/04",
+      "timestamp": 1775138698
+    },
+    {
+      "id": "BFMTV_1775138639",
+      "source": "BFMTV",
+      "text": "DÉGRADATION DES RAPPORTS ENTRE DONALD TRUMP ET EMMANUEL MACRON: LE PRÉSIDENT AMÉRICAIN \"N'AIME PAS QU'ON LUI TIENNE TÊTE\", EXPLIQUE RONALD HATTO, PROFESSEUR DE RELATIONS INTERNATIONALES À SCIENCES PO ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:03",
+      "date": "02/04",
+      "timestamp": 1775138639
+    },
+    {
+      "id": "BFMTV_1775137464",
+      "source": "BFMTV",
+      "text": "SÉCURITÉ: SÉBASTIEN LECORNU PRÊT À \"SE MOUILLER\" AU PARLEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:44",
+      "date": "02/04",
+      "timestamp": 1775137464
+    },
+    {
+      "id": "BFMTV_1775137069",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP \"AIME HUMILIER, C'EST UNE STRATÉGIE CHEZ LUI\", DÉPLORE L'ÉDITORIALISTE RICHARD WERLY  ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:37",
+      "date": "02/04",
+      "timestamp": 1775137069
+    },
+    {
+      "id": "BFMTV_1775136907",
+      "source": "BFMTV",
+      "text": "ITALIE: UN PONT S'ÉCROULE DANS LE SUD DU PAYS SUITE À DE FORTES INTEMPÉRIES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:35",
+      "date": "02/04",
+      "timestamp": 1775136907
+    },
+    {
+      "id": "BFMTV_1775135877",
+      "source": "BFMTV",
+      "text": "\"UN CHANTEUR MÉDIOCRE ET TRÈS ENNUYEUX\": DONALD TRUMP RÉPOND À BRUCE SPRINGSTEEN, VIRULENT OPPOSANT À SA POLITIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:17",
+      "date": "02/04",
+      "timestamp": 1775135877
+    },
+    {
+      "id": "BFMTV_1775135678",
+      "source": "BFMTV",
+      "text": "DONATEURS, FONDS PRIVÉS: QUI FINANCE LES TRAVAUX DE LA SALLE DE BAL DE DONALD TRUMP?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:14",
+      "date": "02/04",
+      "timestamp": 1775135678
+    },
+    {
+      "id": "BFMTV_1775134593",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUELS SONT LES PAYS DU GOLFE QUI ONT LE PLUS RÉDUIT LEURS EXPORTATIONS DE PÉTROLE ? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:56",
+      "date": "02/04",
+      "timestamp": 1775134593
+    },
+    {
+      "id": "BFMTV_1775133418",
+      "source": "BFMTV",
+      "text": "GAZ, ALUMINIUM... LA GUERRE AU MOYEN-ORIENT MET EN PÉRIL LES GISEMENTS DE MATIÈRES PREMIÈRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:36",
+      "date": "02/04",
+      "timestamp": 1775133418
+    },
     {
       "id": "BFMTV_1775130280",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "10:30",
       "date": "01/04",
       "timestamp": 1775039410
-    },
-    {
-      "id": "BFMTV_1775038258",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE AU \"RESPECT DU DROIT INTERNATIONAL\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:10",
-      "date": "01/04",
-      "timestamp": 1775038258
-    },
-    {
-      "id": "BFMTV_1775038065",
-      "source": "BFMTV",
-      "text": "\"NOUS PASSONS À L'ÉTAPE SUPÉRIEURE\": LE ROYAUME-UNI VA ORGANISER UNE RÉUNION D'UNE TRENTAINE DE PAYS SUR LA SÉCURISATION DU DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:07",
-      "date": "01/04",
-      "timestamp": 1775038065
-    },
-    {
-      "id": "BFMTV_1775037471",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLO-AMÉRICAINES MENÉES SUR DES COMPLEXES SIDÉRURGIQUES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:57",
-      "date": "01/04",
-      "timestamp": 1775037471
-    },
-    {
-      "id": "BFMTV_1775036973",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:49",
-      "date": "01/04",
-      "timestamp": 1775036973
-    },
-    {
-      "id": "BFMTV_1775036973",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE ROYAUME-UNI CONVIE \"35 NATIONS\" À UNE RÉUNION SUR LA SÉCURISATION DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:49",
-      "date": "01/04",
-      "timestamp": 1775036973
-    },
-    {
-      "id": "BFMTV_1775036300",
-      "source": "BFMTV",
-      "text": "\"ON VOUS ATTEND!\": L'IRAN PUBLIE UN CLIP DE PROPAGANDE DÉFIANT LES ÉTATS-UNIS APRÈS LES MENACES D'OPÉRATION TERRESTRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:38",
-      "date": "01/04",
-      "timestamp": 1775036300
-    },
-    {
-      "id": "BFMTV_1775036052",
-      "source": "BFMTV",
-      "text": "\"UN PARTENARIAT PLUS ÉTROIT AVEC NOS ALLIÉS EUROPÉENS\": KEIR STARMER VEUT RENFORCER SON PARTENARIAT AVEC L'UE EN RAISON DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:34",
-      "date": "01/04",
-      "timestamp": 1775036052
-    },
-    {
-      "id": "BFMTV_1775035783",
-      "source": "BFMTV",
-      "text": "\"L'ALLIANCE MILITAIRE LA PLUS EFFICACE\" AU MONDE : KEIR STARMER DÉFEND L'OTAN APRÈS LES CRITIQUES DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:29",
-      "date": "01/04",
-      "timestamp": 1775035783
-    },
-    {
-      "id": "BFMTV_1775035554",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"CE N'EST PAS NOTRE GUERRE\" RÉAFFIRME LE PREMIER MINISTRE BRITANNIQUE, KEIR STARMER",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:25",
-      "date": "01/04",
-      "timestamp": 1775035554
-    },
-    {
-      "id": "BFMTV_1775035024",
-      "source": "BFMTV",
-      "text": "\"LE JAPON SE TIENT LÀ DU CÔTÉ DU DROIT INTERNATIONAL, AUX CÔTÉS DE SES PARTENAIRES EUROPÉENS\", DÉCLARE EMMANUEL MACRON ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:17",
-      "date": "01/04",
-      "timestamp": 1775035024
-    },
-    {
-      "id": "BFMTV_1775034995",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: FACE À DES CHEFS D’ENTREPRISE JAPONAIS, EMMANUEL MACRON TACLE DONALD TRUMP SANS LE NOMMER",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:16",
-      "date": "01/04",
-      "timestamp": 1775034995
-    },
-    {
-      "id": "BFMTV_1775034719",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN TANKER ENDOMMAGÉ PAR UN PROJECTILE PRÈS DU QATAR",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:11",
-      "date": "01/04",
-      "timestamp": 1775034719
-    },
-    {
-      "id": "BFMTV_1775032965",
-      "source": "BFMTV",
-      "text": "EMMANUEL ET BRIGITTE MACRON REÇUS PAR SANAE TAKAICHI AU JAPON",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:42",
-      "date": "01/04",
-      "timestamp": 1775032965
-    },
-    {
-      "id": "BFMTV_1775032527",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:35",
-      "date": "01/04",
-      "timestamp": 1775032527
-    },
-    {
-      "id": "BFMTV_1775032527",
-      "source": "BFMTV",
-      "text": "AU MOINS 29 PERSONNES TUÉES DANS LE CRASH D'UN AVION DE TRANSPORT MILITAIRE RUSSE EN CRIMÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:35",
-      "date": "01/04",
-      "timestamp": 1775032527
     }
   ],
   "france": {
