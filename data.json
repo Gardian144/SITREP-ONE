@@ -1,7 +1,147 @@
 {
-  "last_update": "01/04 23:52",
+  "last_update": "02/04 05:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775108922",
+      "source": "BFMTV",
+      "text": "\"ON A LAISSÉ TOMBER NOELIA\": LES ÉTATS-UNIS RÉCLAMENT UNE ENQUÊTE APRÈS L'EUTHANASIE D'UNE JEUNE ESPAGNOLE PARAPLÉGIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:48",
+      "date": "02/04",
+      "timestamp": 1775108922
+    },
+    {
+      "id": "BFMTV_1775108717",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE PROMET DES ATTAQUES \"ÉCRASANTES\" CONTRE LES ÉTATS-UNIS ET ISRAËL APRÈS LES MENACES DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:45",
+      "date": "02/04",
+      "timestamp": 1775108717
+    },
+    {
+      "id": "BFMTV_1775108491",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'AUSTRALIE APPELLE À LA DÉSESCALADE APRÈS LE DISCOURS DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:41",
+      "date": "02/04",
+      "timestamp": 1775108491
+    },
+    {
+      "id": "BFMTV_1775108271",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH A REVENDIQUÉ LES ATTAQUES DE ROQUETTES SUR LE NORD D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:37",
+      "date": "02/04",
+      "timestamp": 1775108271
+    },
+    {
+      "id": "BFMTV_1775107336",
+      "source": "BFMTV",
+      "text": "\"MACRON SE FAIT VRAIMENT MALTRAITER PAR SA FEMME\": DONALD TRUMP S’EN PREND AU PRÉSIDENT FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:22",
+      "date": "02/04",
+      "timestamp": 1775107336
+    },
+    {
+      "id": "BFMTV_1775107075",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉNONCE LES DEMANDES \"MAXIMALISTES ET IRRATIONNELLES\" DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:17",
+      "date": "02/04",
+      "timestamp": 1775107075
+    },
+    {
+      "id": "BFMTV_1775107047",
+      "source": "BFMTV",
+      "text": "LES VIOLENCES DE COLONS ENVERS LES PALESTINIENS EN CISJORDANIE EXPLOSENT DEPUIS LE DÉBUT DE LA GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:17",
+      "date": "02/04",
+      "timestamp": 1775107047
+    },
+    {
+      "id": "BFMTV_1775105993",
+      "source": "BFMTV",
+      "text": "CONSÉQUENCES DE LA GUERRE AU MOYEN-ORIENT: VA-T-ON VIVRE UN CHOC PÉTROLIER MAJEUR?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:59",
+      "date": "02/04",
+      "timestamp": 1775105993
+    },
+    {
+      "id": "BFMTV_1775105809",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'AMÉLIORATION DE LA PRÉCISION DES FRAPPES IRANIENNES CONTRE ISRAËL SUGGÈRE UN POSSIBLE SOUTIEN DE LA PART DE LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:56",
+      "date": "02/04",
+      "timestamp": 1775105809
+    },
+    {
+      "id": "BFMTV_1775105474",
+      "source": "BFMTV",
+      "text": "INDONÉSIE: UN SÉISME DE MAGNITUDE 7,4 SE PRODUIT EN MER DES MOLUQUES, UN MORT DANS L'EFFONDREMENT D'UN IMMEUBLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:51",
+      "date": "02/04",
+      "timestamp": 1775105474
+    },
+    {
+      "id": "BFMTV_1775104887",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP VEUT RASSURER AVEC SON ALLOCUTION",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:41",
+      "date": "02/04",
+      "timestamp": 1775104887
+    },
+    {
+      "id": "BFMTV_1775104774",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI DONALD TRUMP N'A-T-IL PAS ANNONCÉ LA FIN DE LA GUERRE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:39",
+      "date": "02/04",
+      "timestamp": 1775104774
+    },
+    {
+      "id": "BFMTV_1775104607",
+      "source": "BFMTV",
+      "text": "ARTEMIS II: LES 4 ASTRONAUTES NORD-AMÉRICAINS SONT EN ROUTE POUR LA LUNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:36",
+      "date": "02/04",
+      "timestamp": 1775104607
+    },
+    {
+      "id": "BFMTV_1775104250",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DANS LE VILLAGE DE KFAR HOUNEH (SUD-LIBAN), LES HABITANTS FACE À L'AVANCÉE ISRAÉLIENNE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:30",
+      "date": "02/04",
+      "timestamp": 1775104250
+    },
     {
       "id": "BFMTV_1775082020",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "20:52",
       "date": "31/03",
       "timestamp": 1774990332
-    },
-    {
-      "id": "BFMTV_1774990288",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL NE SOUHAITE \"ABSOLUMENT PAS\" RESTER AU LIBAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:51",
-      "date": "31/03",
-      "timestamp": 1774990288
-    },
-    {
-      "id": "BFMTV_1774990206",
-      "source": "BFMTV",
-      "text": "L'IRAK ANNONCE L'ENLÈVEMENT D'UNE JOURNALISTE ÉTRANGÈRE \"PAR DES INDIVIDUS NON IDENTIFIÉS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:50",
-      "date": "31/03",
-      "timestamp": 1774990206
-    },
-    {
-      "id": "BFMTV_1774989116",
-      "source": "BFMTV",
-      "text": "UN JUGE ORDONNE LA SUSPENSION DE LA CONSTRUCTION DE LA SALLE DE BAL DE TRUMP À LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:31",
-      "date": "31/03",
-      "timestamp": 1774989116
-    },
-    {
-      "id": "BFMTV_1774988532",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP SOUHAITE CONSTRUIRE UN NOUVEAU BUNKER À LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:22",
-      "date": "31/03",
-      "timestamp": 1774988532
-    },
-    {
-      "id": "BFMTV_1774988356",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN JUGE ORDONNE LA SUSPENSION DE LA CONSTRUCTION DE LA SALLE DE BAL DE DONALD TRUMP À LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:19",
-      "date": "31/03",
-      "timestamp": 1774988356
-    },
-    {
-      "id": "BFMTV_1774987440",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: \"LA MÉDITERRANÉE, EFFECTIVEMENT, EST UN LIEU PAR OÙ PEUVENT ARRIVER LES DRONES SHAHED DANS DES CONTENEURS\", DÉTAILLE DOMINIQUE TARDIF, MAJOR GÉNÉRAL DE L'ARMÉE DE L'AIR ET DE L'ESPACE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:04",
-      "date": "31/03",
-      "timestamp": 1774987440
-    },
-    {
-      "id": "BFMTV_1774985990",
-      "source": "BFMTV",
-      "text": "ISRAËL EST SOUS TENSION ALORS QUE LE NORD DU PAYS EST CIBLÉ PAR DES ROQUETTES DU HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:39",
-      "date": "31/03",
-      "timestamp": 1774985990
-    },
-    {
-      "id": "BFMTV_1774985867",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN IMMEUBLE DE LA BANLIEUE DE BEYROUTH AU LIBAN A ÉTÉ FRAPPÉ CE MARDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:37",
-      "date": "31/03",
-      "timestamp": 1774985867
-    },
-    {
-      "id": "BFMTV_1774985744",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU PRÉVIENT QU'ISRAËL VA CONTINUER \"D'ÉCRASER LE RÉGIME TERRORISTE\" IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:35",
-      "date": "31/03",
-      "timestamp": 1774985744
-    },
-    {
-      "id": "BFMTV_1774985010",
-      "source": "BFMTV",
-      "text": "\"LES PROCHAINS JOURS SERONT DÉCISIFS\": RETOUR SUR LES PROPOS DE PETE HEGSETH, SECRÉTAIRE À LA DÉFENSE DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:23",
-      "date": "31/03",
-      "timestamp": 1774985010
-    },
-    {
-      "id": "BFMTV_1774984715",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LE DÉTROIT D'ORMUZ NE POURRA PAS RESTER COMME ÇA\", EXPLIQUE MARIE-LAURE BUISSON, RÉSERVISTE DE L'ARMÉE DE L'AIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:18",
-      "date": "31/03",
-      "timestamp": 1774984715
-    },
-    {
-      "id": "BFMTV_1774984295",
-      "source": "BFMTV",
-      "text": "IRAN: “DONALD TRUMP A PRIS SES RESPONSABILITÉS MAIS IL FAUT ABSOLUMENT ALLER JUSQU’AU BOUT”, DEMANDE JEAN-PAUL PALOMÉROS, ANCIEN CHEF D’ÉTAT-MAJOR DE L’ARMÉE DE L’AIR",
-      "urgent": true,
-      "france_related": true,
-      "time": "19:11",
-      "date": "31/03",
-      "timestamp": 1774984295
-    },
-    {
-      "id": "BFMTV_1774983467",
-      "source": "BFMTV",
-      "text": "PARTI POLITIQUE ET RELIGIEUX, AGENT DE L'IRAN ... QU'EST-CE QUE LE HEZBOLLAH ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:57",
-      "date": "31/03",
-      "timestamp": 1774983467
-    },
-    {
-      "id": "BFMTV_1774983053",
-      "source": "BFMTV",
-      "text": "LIBAN: UNE FRAPPE ISRAÉLIENNE DÉTRUIT UN IMMEUBLE DANS LE SUD DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:50",
-      "date": "31/03",
-      "timestamp": 1774983053
     }
   ],
   "france": {
