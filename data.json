@@ -1,7 +1,107 @@
 {
-  "last_update": "03/04 08:35",
+  "last_update": "03/04 11:08",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1775213589",
+      "source": "OPEX360",
+      "text": "LA FRANCE ET LA CORÉE DU SUD VEULENT RENFORCER LEUR COOPÉRATION INDUSTRIELLE EN MATIÈRE DE DÉFENSE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:53",
+      "date": "03/04",
+      "timestamp": 1775213589
+    },
+    {
+      "id": "BFMTV_1775212398",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: L'ARMÉE AMÉRICAINE DIFFUSE DES IMAGES DE SES MARINES EN EXERCICE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:33",
+      "date": "03/04",
+      "timestamp": 1775212398
+    },
+    {
+      "id": "BFMTV_1775210836",
+      "source": "BFMTV",
+      "text": "ÉCONOMIE: \"NOS AMIS AMÉRICAINS M'ONT DONNÉ UN ARGUMENT DE VENTE INÉDIT: NOUS SOMMES PRÉVISIBLES\", LANCE EMMANUEL MACRON À UN FORUM ÉCONOMIQUE FRANCO-CORÉEN À SÉOUL",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:07",
+      "date": "03/04",
+      "timestamp": 1775210836
+    },
+    {
+      "id": "BFMTV_1775210629",
+      "source": "BFMTV",
+      "text": "LES ECLAIREURS - QUEL STOCK D'ARSENAL RESTE-T-IL À L'IRAN APRÈS UN MOIS DE BOMBARDEMENTS? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:03",
+      "date": "03/04",
+      "timestamp": 1775210629
+    },
+    {
+      "id": "BFMTV_1775210509",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: LES ÉTATS-UNIS AURAIENT DEMANDÉ À ISRAËL DE NE PAS CIBLER LE GUIDE SUPRÊME, SELON UN MÉDIA ISRAÉLIEN  ",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:01",
+      "date": "03/04",
+      "timestamp": 1775210509
+    },
+    {
+      "id": "BFMTV_1775210099",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES PAYS DU GOLFE DEMANDENT LE FEU VERT DE L’ONU POUR LIBÉRER LE DÉTROIT D’ORMUZ PAR LA FORCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:54",
+      "date": "03/04",
+      "timestamp": 1775210099
+    },
+    {
+      "id": "BFMTV_1775210041",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DU PONT IRANIEN DÉTRUIT À KARAJ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:54",
+      "date": "03/04",
+      "timestamp": 1775210041
+    },
+    {
+      "id": "BFMTV_1775208284",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:24",
+      "date": "03/04",
+      "timestamp": 1775208284
+    },
+    {
+      "id": "BFMTV_1775208284",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:24",
+      "date": "03/04",
+      "timestamp": 1775208284
+    },
+    {
+      "id": "BFMTV_1775208283",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DIT AVOIR INVITÉ LES ÉMISSAIRES AMÉRICAINS À KIEV POUR RELANCER LES NÉGOCIATIONS AVEC LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:24",
+      "date": "03/04",
+      "timestamp": 1775208283
+    },
     {
       "id": "BFMTV_1775203900",
       "source": "BFMTV",
@@ -16,6 +116,16 @@
       "id": "BFMTV_1775203891",
       "source": "BFMTV",
       "text": "RÉOUVERTURE DU DÉTROIT D'ORMUZ: L'APPEL DES PAYS DU GOLFE À L'ONU À \"PRENDRE TOUTES LES MESURES NÉCESSAIRES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:11",
+      "date": "03/04",
+      "timestamp": 1775203891
+    },
+    {
+      "id": "BFMTV_1775203891",
+      "source": "BFMTV",
+      "text": "L'APPEL DES PAYS DU GOLFE À L'ONU À \"PRENDRE TOUTES LES MESURES NÉCESSAIRES\" POUR LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
       "urgent": false,
       "france_related": false,
       "time": "08:11",
@@ -891,116 +1001,6 @@
       "time": "07:51",
       "date": "02/04",
       "timestamp": 1775116299
-    },
-    {
-      "id": "BFMTV_1775115563",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:39",
-      "date": "02/04",
-      "timestamp": 1775115563
-    },
-    {
-      "id": "BFMTV_1775108922",
-      "source": "BFMTV",
-      "text": "\"ON A LAISSÉ TOMBER NOELIA\": LES ÉTATS-UNIS RÉCLAMENT UNE ENQUÊTE APRÈS L'EUTHANASIE D'UNE JEUNE ESPAGNOLE PARAPLÉGIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:48",
-      "date": "02/04",
-      "timestamp": 1775108922
-    },
-    {
-      "id": "BFMTV_1775108717",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE PROMET DES ATTAQUES \"ÉCRASANTES\" CONTRE LES ÉTATS-UNIS ET ISRAËL APRÈS LES MENACES DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:45",
-      "date": "02/04",
-      "timestamp": 1775108717
-    },
-    {
-      "id": "BFMTV_1775108491",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'AUSTRALIE APPELLE À LA DÉSESCALADE APRÈS LE DISCOURS DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:41",
-      "date": "02/04",
-      "timestamp": 1775108491
-    },
-    {
-      "id": "BFMTV_1775108271",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH A REVENDIQUÉ LES ATTAQUES DE ROQUETTES SUR LE NORD D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:37",
-      "date": "02/04",
-      "timestamp": 1775108271
-    },
-    {
-      "id": "BFMTV_1775107336",
-      "source": "BFMTV",
-      "text": "\"MACRON SE FAIT VRAIMENT MALTRAITER PAR SA FEMME\": DONALD TRUMP S’EN PREND AU PRÉSIDENT FRANÇAIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:22",
-      "date": "02/04",
-      "timestamp": 1775107336
-    },
-    {
-      "id": "BFMTV_1775107075",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉNONCE LES DEMANDES \"MAXIMALISTES ET IRRATIONNELLES\" DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:17",
-      "date": "02/04",
-      "timestamp": 1775107075
-    },
-    {
-      "id": "BFMTV_1775107047",
-      "source": "BFMTV",
-      "text": "LES VIOLENCES DE COLONS ENVERS LES PALESTINIENS EN CISJORDANIE EXPLOSENT DEPUIS LE DÉBUT DE LA GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:17",
-      "date": "02/04",
-      "timestamp": 1775107047
-    },
-    {
-      "id": "BFMTV_1775105993",
-      "source": "BFMTV",
-      "text": "CONSÉQUENCES DE LA GUERRE AU MOYEN-ORIENT: VA-T-ON VIVRE UN CHOC PÉTROLIER MAJEUR?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:59",
-      "date": "02/04",
-      "timestamp": 1775105993
-    },
-    {
-      "id": "BFMTV_1775105809",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'AMÉLIORATION DE LA PRÉCISION DES FRAPPES IRANIENNES CONTRE ISRAËL SUGGÈRE UN POSSIBLE SOUTIEN DE LA PART DE LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:56",
-      "date": "02/04",
-      "timestamp": 1775105809
-    },
-    {
-      "id": "BFMTV_1775105474",
-      "source": "BFMTV",
-      "text": "INDONÉSIE: UN SÉISME DE MAGNITUDE 7,4 SE PRODUIT EN MER DES MOLUQUES, UN MORT DANS L'EFFONDREMENT D'UN IMMEUBLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:51",
-      "date": "02/04",
-      "timestamp": 1775105474
     }
   ],
   "france": {
