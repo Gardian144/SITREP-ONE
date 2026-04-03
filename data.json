@@ -1,7 +1,57 @@
 {
-  "last_update": "03/04 19:11",
+  "last_update": "03/04 19:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775245212",
+      "source": "BFMTV",
+      "text": "UN INDIVIDU TENTE DE POUSSER UN HOMME SUR LES RAILS ALORS QU'UN TRAIN APPROCHE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:40",
+      "date": "03/04",
+      "timestamp": 1775245212
+    },
+    {
+      "id": "BFMTV_1775245084",
+      "source": "BFMTV",
+      "text": "L'IRAN AFFIRME AVOIR ABATTU UN DEUXIÈME AVION AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:38",
+      "date": "03/04",
+      "timestamp": 1775245084
+    },
+    {
+      "id": "BFMTV_1775244388",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN REVENDIQUE AVOIR ABATTU UN SECOND AVION AMÉRICAIN DANS LE GOLFE PERSIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:26",
+      "date": "03/04",
+      "timestamp": 1775244388
+    },
+    {
+      "id": "BFMTV_1775244303",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU EN IRAN: LES IMAGES DES HABITANTS ARMÉS CHERCHANT L'AUTRE MEMBRE DE L'ÉQUIPAGE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:25",
+      "date": "03/04",
+      "timestamp": 1775244303
+    },
+    {
+      "id": "BFMTV_1775243430",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU EN IRAN: RETOUR SUR CE QUE L'ON SAIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:10",
+      "date": "03/04",
+      "timestamp": 1775243430
+    },
     {
       "id": "BFMTV_1775242346",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "15:54",
       "date": "02/04",
       "timestamp": 1775145255
-    },
-    {
-      "id": "BFMTV_1775145148",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: \"NOUS SOMMES AU BORD D'UNE GUERRE PLUS LARGE\", S'ALARME LE CHEF DE L'ONU",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:52",
-      "date": "02/04",
-      "timestamp": 1775145148
-    },
-    {
-      "id": "BFMTV_1775144657",
-      "source": "BFMTV",
-      "text": "COMMENT LA CORÉE DU SUD EST-ELLE DEVENUE LA NOUVELLE PUISSANCE MONDIALE DE L'ARMEMENT ? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:44",
-      "date": "02/04",
-      "timestamp": 1775144657
-    },
-    {
-      "id": "BFMTV_1775143972",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:32",
-      "date": "02/04",
-      "timestamp": 1775143972
-    },
-    {
-      "id": "BFMTV_1775143956",
-      "source": "BFMTV",
-      "text": "LES PASSAGERS D'UN VOL FILMENT LE LANCEMENT DE LA FUSÉE ARTÉMIS 2 DEPUIS LEUR AVION ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:32",
-      "date": "02/04",
-      "timestamp": 1775143956
-    },
-    {
-      "id": "BFMTV_1775143701",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: \"NOUS SOMMES AU BORD D'UNE GUERRE PLUS LARGE\", S'ALARME LE CHEF DE L'ONU",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:28",
-      "date": "02/04",
-      "timestamp": 1775143701
     }
   ],
   "france": {
