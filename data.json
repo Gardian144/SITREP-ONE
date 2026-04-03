@@ -1,7 +1,127 @@
 {
-  "last_update": "02/04 23:53",
+  "last_update": "03/04 05:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775194754",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES TOUCHENT UN PONT À L'OUEST DE TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:39",
+      "date": "03/04",
+      "timestamp": 1775194754
+    },
+    {
+      "id": "BFMTV_1775194494",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: L'IRAN MET EN GARDE LE CONSEIL DE SÉCURITÉ DE L'ONU CONTRE TOUTE \"ACTION PROVOCATRICE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:34",
+      "date": "03/04",
+      "timestamp": 1775194494
+    },
+    {
+      "id": "BFMTV_1775193504",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PORTE-PAROLE DES GARDIENS DE LA RÉVOLUTION A AFFIRMÉ QU'ISRAËL ET LES ÉTATS-UNIS DEVAIENT S'ATTENDRE À UNE INTENSIFICATION DES FRAPPES IRANIENNES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:18",
+      "date": "03/04",
+      "timestamp": 1775193504
+    },
+    {
+      "id": "BFMTV_1775192082",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA PLUPART DES CÉLÉBRATIONS DE PÂQUES INTERDITES EN ISRAËL POUR DES RAISONS DE SÉCURITÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:54",
+      "date": "03/04",
+      "timestamp": 1775192082
+    },
+    {
+      "id": "BFMTV_1775191105",
+      "source": "BFMTV",
+      "text": "\"LES PONTS SONT LES PROCHAINS, PUIS LES CENTRALES ÉLECTRIQUES!\": DONALD TRUMP MENACE DE NOUVELLES DESTRUCTIONS D'INFRASTRUCTURES CIVILES EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:38",
+      "date": "03/04",
+      "timestamp": 1775191105
+    },
+    {
+      "id": "BFMTV_1775191009",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN VILLAGE DU SUD-LIBAN SEUL FACE À ISRAËL ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:36",
+      "date": "03/04",
+      "timestamp": 1775191009
+    },
+    {
+      "id": "BFMTV_1775190982",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES D'UN PONT IRANIEN DÉTRUIT PAR LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:36",
+      "date": "03/04",
+      "timestamp": 1775190982
+    },
+    {
+      "id": "BFMTV_1775190595",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN MOIS APRÈS, OÙ EN SONT LES STOCKS D'ARMES DE L'IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:29",
+      "date": "03/04",
+      "timestamp": 1775190595
+    },
+    {
+      "id": "BFMTV_1775190072",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS PLANS SONT POSSIBLES POUR ROUVRIR LE DÉTROIT D'ORMUZ PAR LA FORCE MILITAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:21",
+      "date": "03/04",
+      "timestamp": 1775190072
+    },
+    {
+      "id": "BFMTV_1775189952",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DÉBLOQUER LE DÉTROIT D'ORMUZ PAR LA FORCE, UNE STRATÉGIE COMPLEXE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:19",
+      "date": "03/04",
+      "timestamp": 1775189952
+    },
+    {
+      "id": "BFMTV_1775189891",
+      "source": "BFMTV",
+      "text": "UN HOMME DE 20 ANS ALLUME DES ENGINS PYROTECHNIQUES DANS UN TGV EN ALLEMAGNE, 12 PERSONNES LÉGÈREMENT BLESSÉES",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:18",
+      "date": "03/04",
+      "timestamp": 1775189891
+    },
+    {
+      "id": "BFMTV_1775188200",
+      "source": "BFMTV",
+      "text": "DES DÉSACCORDS DE PLUS EN PLUS MARQUÉS ET DES MOQUERIES À RÉPÉTITION: EMMANUEL MACRON, \"L’AMI\" DE DONALD TRUMP DEVENU SA CIBLE FAVORITE",
+      "urgent": false,
+      "france_related": false,
+      "time": "03:50",
+      "date": "03/04",
+      "timestamp": 1775188200
+    },
     {
       "id": "BFMTV_1775167891",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "20:59",
       "date": "01/04",
       "timestamp": 1775077167
-    },
-    {
-      "id": "BFMTV_1775077050",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL SCRUTERA AVEC ATTENTION LES ANNONCES DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:57",
-      "date": "01/04",
-      "timestamp": 1775077050
-    },
-    {
-      "id": "BFMTV_1775075132",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: RETOUR SUR 33 JOURS DE CONFLITS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:25",
-      "date": "01/04",
-      "timestamp": 1775075132
-    },
-    {
-      "id": "BFMTV_1775074498",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L’ARMÉE AMÉRICAINE PRÉSENTE UN PLAN POUR SAISIR LE STOCK D’URANIUM IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:14",
-      "date": "01/04",
-      "timestamp": 1775074498
-    },
-    {
-      "id": "BFMTV_1775073879",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DONALD TRUMP SÈME LE DOUTE AVANT SON GRAND DISCOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:04",
-      "date": "01/04",
-      "timestamp": 1775073879
-    },
-    {
-      "id": "BFMTV_1775073621",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"JE NE SUIS MÊME PAS SÛR QUE DONALD TRUMP SACHE VÉRITABLEMENT CE QU'IL VA FAIRE CE SOIR\", DÉCLARE GILLES KEPEL, SPÉCIALISTE DU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:00",
-      "date": "01/04",
-      "timestamp": 1775073621
-    },
-    {
-      "id": "BFMTV_1775072833",
-      "source": "BFMTV",
-      "text": "MISSION ARTEMIS 2: \"LÀ, ON A FERMÉ LA PORTE DE LA CAPSULE ET ON VÉRIFIE SON ÉTANCHÉITÉ\", EXPLIQUE OLIVIER SANGUY, RESPONSABLE DE L’ACTUALITÉ SPATIALE À LA CITÉ DE L’ESPACE À TOULOUSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:47",
-      "date": "01/04",
-      "timestamp": 1775072833
-    },
-    {
-      "id": "BFMTV_1775072798",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN ASSURE QUE SON PAYS N'A \"JAMAIS CHOISI LA VOIE DE L'AGRESSION\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:46",
-      "date": "01/04",
-      "timestamp": 1775072798
-    },
-    {
-      "id": "BFMTV_1775070952",
-      "source": "BFMTV",
-      "text": "ICE: DES STARS RÉCLAMENT LA FERMETURE D'UN CENTRE DE RÉTENTION POUR ENFANTS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:15",
-      "date": "01/04",
-      "timestamp": 1775070952
-    },
-    {
-      "id": "BFMTV_1775070659",
-      "source": "BFMTV",
-      "text": "MISSION ARTEMIS 2: \"LA PROCHAINE ÉTAPE, C'EST FERMER LA CAPSULE PUIS FERMER LA COQUE QU'IL Y A AUTOUR DE LA CAPSULE\", EXPLIQUE OLIVIER SANGUY, RESPONSABLE DE L’ACTUALITÉ SPATIALE À LA CITÉ DE L’ESPACE À TOULOUSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:10",
-      "date": "01/04",
-      "timestamp": 1775070659
-    },
-    {
-      "id": "BFMTV_1775070194",
-      "source": "BFMTV",
-      "text": "MISSION ARTEMIS 2: L'ÉQUIPAGE S'EST INSTALLÉ DANS LA CAPSULE ORION",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:03",
-      "date": "01/04",
-      "timestamp": 1775070194
-    },
-    {
-      "id": "BFMTV_1775068103",
-      "source": "BFMTV",
-      "text": "MISSION ARTEMIS 2: \"C'EST UN VOL D'ESSAI. ÇA VEUT DIRE QU'A AUCUN MOMENT ON NE VA PRENDRE DE RISQUE\", EXPLIQUE ALAIN CIROU, DIRECTEUR DU MAGAZINE CIEL ET ESPACE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:28",
-      "date": "01/04",
-      "timestamp": 1775068103
-    },
-    {
-      "id": "BFMTV_1775065945",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS À LA CONQUÊTE DE LA LUNE AVEC ARTEMIS 2 ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:52",
-      "date": "01/04",
-      "timestamp": 1775065945
     }
   ],
   "france": {
