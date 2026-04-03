@@ -1,7 +1,47 @@
 {
-  "last_update": "03/04 16:54",
+  "last_update": "03/04 17:34",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1775237540",
+      "source": "OPEX360",
+      "text": "LPM : SANS ATTENDRE LE MGCS, UN CHAR INTÉRIMAIRE DEVRAIT REMPLACER LE LECLERC, DONT LE RETRAIT EST PRÉVU EN 2037",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:32",
+      "date": "03/04",
+      "timestamp": 1775237540
+    },
+    {
+      "id": "BFMTV_1775237498",
+      "source": "BFMTV",
+      "text": "ABATTAGE D'UN AVION DE CHASSE AMÉRICAIN EN IRAN: IL Y AURAIT EU DES COMBATS ENTRE LES FORCES SPÉCIALES AMÉRICAINES ET LES GARDIENS DE LA RÉVOLUTION DANS LE CADRE DE LA MISSION DE SAUVETAGE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:31",
+      "date": "03/04",
+      "timestamp": 1775237498
+    },
+    {
+      "id": "BFMTV_1775236933",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL INTENSIFIE SES OPÉRATIONS MILITAIRES EN IRAN MENANT PLUS DE 70 FRAPPES EN 24 HEURES",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:22",
+      "date": "03/04",
+      "timestamp": 1775236933
+    },
+    {
+      "id": "BFMTV_1775235325",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU: UN MEMBRE D'ÉQUIPAGE SECOURU, L'AUTRE EST TOUJOURS RECHERCHÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:55",
+      "date": "03/04",
+      "timestamp": 1775235325
+    },
     {
       "id": "BFMTV_1775235081",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "14:03",
       "date": "02/04",
       "timestamp": 1775138639
-    },
-    {
-      "id": "BFMTV_1775137464",
-      "source": "BFMTV",
-      "text": "SÉCURITÉ: SÉBASTIEN LECORNU PRÊT À \"SE MOUILLER\" AU PARLEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:44",
-      "date": "02/04",
-      "timestamp": 1775137464
-    },
-    {
-      "id": "BFMTV_1775137069",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP \"AIME HUMILIER, C'EST UNE STRATÉGIE CHEZ LUI\", DÉPLORE L'ÉDITORIALISTE RICHARD WERLY  ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:37",
-      "date": "02/04",
-      "timestamp": 1775137069
-    },
-    {
-      "id": "BFMTV_1775136907",
-      "source": "BFMTV",
-      "text": "ITALIE: UN PONT S'ÉCROULE DANS LE SUD DU PAYS SUITE À DE FORTES INTEMPÉRIES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:35",
-      "date": "02/04",
-      "timestamp": 1775136907
-    },
-    {
-      "id": "BFMTV_1775135877",
-      "source": "BFMTV",
-      "text": "\"UN CHANTEUR MÉDIOCRE ET TRÈS ENNUYEUX\": DONALD TRUMP RÉPOND À BRUCE SPRINGSTEEN, VIRULENT OPPOSANT À SA POLITIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:17",
-      "date": "02/04",
-      "timestamp": 1775135877
     }
   ],
   "france": {
