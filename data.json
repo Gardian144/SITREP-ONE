@@ -1,7 +1,57 @@
 {
-  "last_update": "03/04 21:17",
+  "last_update": "03/04 21:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775253255",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"ON EST DANS UNE RÉGION OÙ IL Y A UN CONTRÔLE TOTAL AÉRIEN AMÉRICAIN\", AFFIRME ADEL BAKAWAN, DIRECTEUR DE L'INSTITUT EUROPÉEN DES ÉTUDES SUR LE MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:54",
+      "date": "03/04",
+      "timestamp": 1775253255
+    },
+    {
+      "id": "BFMTV_1775253155",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME AVOIR ABATTU DEUX AVIONS DE L'ARMÉE AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:52",
+      "date": "03/04",
+      "timestamp": 1775253155
+    },
+    {
+      "id": "BFMTV_1775252225",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:37",
+      "date": "03/04",
+      "timestamp": 1775252225
+    },
+    {
+      "id": "BFMTV_1775251957",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: LES IMAGES D'UN PONT DÉTRUIT À L'OUEST DE TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:32",
+      "date": "03/04",
+      "timestamp": 1775251957
+    },
+    {
+      "id": "BFMTV_1775251640",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU EN IRAN: DES IMAGES DE PROPAGANDE SONT DIFFUSÉES PAR LE RÉGIME IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:27",
+      "date": "03/04",
+      "timestamp": 1775251640
+    },
     {
       "id": "BFMTV_1775250790",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "19:45",
       "date": "02/04",
       "timestamp": 1775159139
-    },
-    {
-      "id": "BFMTV_1775159112",
-      "source": "BFMTV",
-      "text": "\"L'ARMÉNIE DOIT NÉGOCIER SA SURVIE\": LE PAYS DU CAUCASE PEUT-IL INTÉGRER L'UE ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:45",
-      "date": "02/04",
-      "timestamp": 1775159112
-    },
-    {
-      "id": "BFMTV_1775159033",
-      "source": "BFMTV",
-      "text": "ADHÉSION À L'UE, ÉNERGIE, LÉGISLATIVES: POURQUOI VLADIMIR POUTINE MENACE L'ARMÉNIE ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:43",
-      "date": "02/04",
-      "timestamp": 1775159033
-    },
-    {
-      "id": "BFMTV_1775158996",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE BRANDIT LA MENACE: L'ARMÉNIE PEUT-ELLE VIVRE SANS LA RUSSIE ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:43",
-      "date": "02/04",
-      "timestamp": 1775158996
-    },
-    {
-      "id": "BFMTV_1775158725",
-      "source": "BFMTV",
-      "text": "RIMA HASSAN EN POSSESSION DE DROGUE: \"LA FRANCE INSOUMISE À UN GROS PROBLÈME AVEC LA DROGUE\", DÉCLARE MATHIEU VALET, DÉPUTÉ EUROPÉEN RASSEMBLEMENT NATIONAL",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:38",
-      "date": "02/04",
-      "timestamp": 1775158725
-    },
-    {
-      "id": "BFMTV_1775158592",
-      "source": "BFMTV",
-      "text": "LE TUEUR EN SÉRIE TED BUNDY IDENTIFIÉ COMME L'AUTEUR D'UN MEURTRE VIEUX DE PLUS DE 50 ANS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:36",
-      "date": "02/04",
-      "timestamp": 1775158592
     }
   ],
   "france": {
