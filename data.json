@@ -1,7 +1,117 @@
 {
-  "last_update": "03/04 11:08",
+  "last_update": "03/04 14:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775225039",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE CHERCHE LE PILOTE D'UN AVION DE CHASSE AMÉRICAIN ABATTU, SELON L'AGENCE FARS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:03",
+      "date": "03/04",
+      "timestamp": 1775225039
+    },
+    {
+      "id": "BFMTV_1775224234",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE CHERCHE LE PILOTE D'UN AVION DE CHASSE AMÉRICAIN ABATTU",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:50",
+      "date": "03/04",
+      "timestamp": 1775224234
+    },
+    {
+      "id": "BFMTV_1775224070",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE CHERCHE LE PILOTE D'UN AVION DE CHASSE AMÉRICAIN ABATTU, SELON L'AGENCE FARS",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:47",
+      "date": "03/04",
+      "timestamp": 1775224070
+    },
+    {
+      "id": "BFMTV_1775223357",
+      "source": "BFMTV",
+      "text": "ELLE AVAIT DISPARU À L'ÂGE DE 13 ANS: UNE AMÉRICAINE RETROUVÉE VIVANTE PLUS DE 30 ANS APRÈS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:35",
+      "date": "03/04",
+      "timestamp": 1775223357
+    },
+    {
+      "id": "BFMTV_1775222167",
+      "source": "BFMTV",
+      "text": "F-15 ABATTU? CET ANCIEN CONSEILLER POUR L'ARMÉE AU KOWEÏT ET AU QATAR EXPLIQUE QUE LES IRANIENS ONT \"RÉUSSI À AMÉLIORER LEURS SYSTÈMES DE RADARS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:16",
+      "date": "03/04",
+      "timestamp": 1775222167
+    },
+    {
+      "id": "BFMTV_1775220874",
+      "source": "BFMTV",
+      "text": "LA FRANCE DÉNONCE LA \"PERSÉCUTION\" DES DÉFENSEURS DES DROITS HUMAINS EN IRAN, APRÈS L'ARRESTATION D'UNE AVOCATE",
+      "urgent": true,
+      "france_related": true,
+      "time": "12:54",
+      "date": "03/04",
+      "timestamp": 1775220874
+    },
+    {
+      "id": "BFMTV_1775219572",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: TÉHÉRAN AURAIT ABATTU UN F-15, UN AVION AMÉRICAIN AU DESSUS DE SON TERRITOIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:32",
+      "date": "03/04",
+      "timestamp": 1775219572
+    },
+    {
+      "id": "BFMTV_1775215785",
+      "source": "BFMTV",
+      "text": "TIGER WOODS: DES VIDÉOS DE SON ARRESTATION SUITE À UN ACCIDENT DE LA ROUTE DIFFUSÉES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:29",
+      "date": "03/04",
+      "timestamp": 1775215785
+    },
+    {
+      "id": "BFMTV_1775215462",
+      "source": "BFMTV",
+      "text": "MENACES DE DONALD TRUMP SUR DES INFRASTRUCTURES CIVILES EN IRAN: LE DIRECTEUR DE L'INSTITUT EUROPÉEN DES ÉTUDES SUR LE MOYEN-ORIENT DÉNONCE \"UNE ABSENCE DE CONSIDÉRATION\" POUR LES IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:24",
+      "date": "03/04",
+      "timestamp": 1775215462
+    },
+    {
+      "id": "BFMTV_1775215374",
+      "source": "BFMTV",
+      "text": "\"TOUS LES JOURS ÇA PREND 10 CENTIMES\": LES AMÉRICAINS DÉNONCENT AUSSI UNE FLAMBÉE DES PRIX DES CARBURANTS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:22",
+      "date": "03/04",
+      "timestamp": 1775215374
+    },
+    {
+      "id": "BFMTV_1775215065",
+      "source": "BFMTV",
+      "text": " GUERRE AU MOYEN-ORIENT: L’ARMÉE LIBANAISE SE RETIRE DU SUD, LAISSANT DES VILLAGES LIVRÉS À EUX-MÊMES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:17",
+      "date": "03/04",
+      "timestamp": 1775215065
+    },
     {
       "id": "OPEX360_1775213589",
       "source": "OPEX360",
@@ -891,116 +1001,6 @@
       "time": "09:37",
       "date": "02/04",
       "timestamp": 1775122632
-    },
-    {
-      "id": "BFMTV_1775122607",
-      "source": "BFMTV",
-      "text": "SÉOUL: EMMANUEL MACRON REND HOMMAGE AUX COMBATTANTS DE LA GUERRE DE CORÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:36",
-      "date": "02/04",
-      "timestamp": 1775122607
-    },
-    {
-      "id": "BFMTV_1775122480",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME NE PAS AVOIR RELANCÉ L'ENRICHISSEMENT NUCLÉAIRE ET DÉNONCE \"UN GROS MENSONGE\" DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:34",
-      "date": "02/04",
-      "timestamp": 1775122480
-    },
-    {
-      "id": "BFMTV_1775121600",
-      "source": "BFMTV",
-      "text": "\"HUBS DE RETOUR\" POUR MIGRANTS: LA FRANCE \"ASSEZ SCEPTIQUE SUR LEUR EFFICACITÉ\", DÉCLARE LE MINISTRE BENJAMIN HADDAD",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:20",
-      "date": "02/04",
-      "timestamp": 1775121600
-    },
-    {
-      "id": "BFMTV_1775121516",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE ET AU MOYEN-ORIENT: LA FRANCE N'A PAS ATTENDU POUR ALERTER LES EUROPÉENS SUR \"LA NÉCESSITÉ DE PRENDRE EN CHARGE LEUR PROPRE DESTIN\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:18",
-      "date": "02/04",
-      "timestamp": 1775121516
-    },
-    {
-      "id": "BFMTV_1775119794",
-      "source": "BFMTV",
-      "text": "GOLDMAN SACHS MENACÉE PAR UN GROUPE IRANIEN À PARIS, VIGILANCE POLICIÈRE RENFORCÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:49",
-      "date": "02/04",
-      "timestamp": 1775119794
-    },
-    {
-      "id": "BFMTV_1775119386",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES ONT FORTEMENT ENDOMMAGÉ L'INSTITUT PASTEUR À TÉHÉRAN, SELON LE MINISTÈRE DE LA SANTÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:43",
-      "date": "02/04",
-      "timestamp": 1775119386
-    },
-    {
-      "id": "BFMTV_1775119061",
-      "source": "BFMTV",
-      "text": "EMMANUEL ET BRIGITTE MACRON SONT ARRIVÉS EN CORÉE DU SUD POUR UNE VISITE D'ÉTAT",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:37",
-      "date": "02/04",
-      "timestamp": 1775119061
-    },
-    {
-      "id": "BFMTV_1775116548",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'AMBASSADEUR D'ISRAËL EN FRANCE JUGE QUE PARIS \"N'EST PAS UNE PUISSANCE AMICALE\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:55",
-      "date": "02/04",
-      "timestamp": 1775116548
-    },
-    {
-      "id": "BFMTV_1775116452",
-      "source": "BFMTV",
-      "text": "ARTÉMIS II: QUATRE ASTRONAUTES VERS LA LUNE, UNE PREMIÈRE DEPUIS PLUS DE 50 ANS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:54",
-      "date": "02/04",
-      "timestamp": 1775116452
-    },
-    {
-      "id": "BFMTV_1775116391",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: LES CIVILS ISRAÉLIENS FÊTENT PESSAH DANS DES BUNKERS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:53",
-      "date": "02/04",
-      "timestamp": 1775116391
-    },
-    {
-      "id": "BFMTV_1775116299",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L’INTERVIEW DE JOSHUA ZARKA, AMBASSADEUR D’ISRAËL EN FRANCE, EN INTÉGRALITÉ",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:51",
-      "date": "02/04",
-      "timestamp": 1775116299
     }
   ],
   "france": {
