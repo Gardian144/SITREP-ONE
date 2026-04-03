@@ -1,7 +1,27 @@
 {
-  "last_update": "03/04 18:23",
+  "last_update": "03/04 19:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775242346",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU EN IRAN: ISRAËL SUSPEND SES FRAPPES DANS LE PAYS COLLABORANT AVEC LES ÉTATS-UNIS POUR DES RECHERCHES STRATÉGIQUES",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:52",
+      "date": "03/04",
+      "timestamp": 1775242346
+    },
+    {
+      "id": "BFMTV_1775241920",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU EN IRAN: SUR LES RÉSEAUX SOCIAUX, LE PRÉSIDENT DU PARLEMENT IRANIEN IRONISE SUR LA SITUATION",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:45",
+      "date": "03/04",
+      "timestamp": 1775241920
+    },
     {
       "id": "BFMTV_1775240440",
       "source": "BFMTV",
@@ -11,6 +31,16 @@
       "time": "18:20",
       "date": "03/04",
       "timestamp": 1775240440
+    },
+    {
+      "id": "BFMTV_1775240377",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN PILOTE AMÉRICAIN SECOURU APRÈS LE CRASH DE SON APPAREIL EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:19",
+      "date": "03/04",
+      "timestamp": 1775240377
     },
     {
       "id": "BFMTV_1775239645",
@@ -971,36 +1001,6 @@
       "time": "15:28",
       "date": "02/04",
       "timestamp": 1775143701
-    },
-    {
-      "id": "BFMTV_1775143017",
-      "source": "BFMTV",
-      "text": "LONDRES ÉVOQUE \"L'URGENTE NÉCESSITÉ\" DE ROUVRIR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:16",
-      "date": "02/04",
-      "timestamp": 1775143017
-    },
-    {
-      "id": "BFMTV_1775142704",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: UNE FEMME EN ARRÊT MALADIE A ÉTÉ SURPRISE EN TRAIN DE FAIRE DE LA TYROLIENNE AU MEXIQUE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:11",
-      "date": "02/04",
-      "timestamp": 1775142704
-    },
-    {
-      "id": "BFMTV_1775142244",
-      "source": "BFMTV",
-      "text": "\"INCROYABLE\": UN CASQUE D'OR DE PRÈS DE 2.500 ANS APPARTENANT À LA ROUMANIE RETROUVÉ AUX PAYS-BAS APRÈS AVOIR ÉTÉ VOLÉ EN 2025",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:04",
-      "date": "02/04",
-      "timestamp": 1775142244
     }
   ],
   "france": {
