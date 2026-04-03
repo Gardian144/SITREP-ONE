@@ -1,7 +1,37 @@
 {
-  "last_update": "03/04 17:34",
+  "last_update": "03/04 18:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775240440",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU EN IRAN: UN PILOTE EST RECHERCHÉ DANS LA RÉGION DU KHOUZISTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:20",
+      "date": "03/04",
+      "timestamp": 1775240440
+    },
+    {
+      "id": "BFMTV_1775239645",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU EN IRAN: UNE RÉUNION DE CRISE POURRAIT ÊTRE PRÉVUE À LA MAISON BLANCHE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:07",
+      "date": "03/04",
+      "timestamp": 1775239645
+    },
+    {
+      "id": "BFMTV_1775238375",
+      "source": "BFMTV",
+      "text": "SAUVETAGE DE L'ÉQUIPAGE DE L'AVION AMÉRICAIN ABATTU EN IRAN: LE SILENCE PERSISTE DANS LES MÉDIAS OFFICIELS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:46",
+      "date": "03/04",
+      "timestamp": 1775238375
+    },
     {
       "id": "OPEX360_1775237540",
       "source": "OPEX360",
@@ -971,36 +1001,6 @@
       "time": "15:04",
       "date": "02/04",
       "timestamp": 1775142244
-    },
-    {
-      "id": "BFMTV_1775141497",
-      "source": "BFMTV",
-      "text": "SONDAGE BFMTV. 87% DES FRANÇAIS \"INQUIETS\" PAR LA GUERRE AU MOYEN-ORIENT, UN CHIFFRE EN NETTE HAUSSE",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:51",
-      "date": "02/04",
-      "timestamp": 1775141497
-    },
-    {
-      "id": "OPEX360_1775138698",
-      "source": "OPEX360",
-      "text": "LA SUISSE ÉVOQUE LA POSSIBLE ANNULATION DE SA COMMANDE DE SYSTÈMES DE DÉFENSE AÉRIENNE PATRIOT AUPRÈS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:04",
-      "date": "02/04",
-      "timestamp": 1775138698
-    },
-    {
-      "id": "BFMTV_1775138639",
-      "source": "BFMTV",
-      "text": "DÉGRADATION DES RAPPORTS ENTRE DONALD TRUMP ET EMMANUEL MACRON: LE PRÉSIDENT AMÉRICAIN \"N'AIME PAS QU'ON LUI TIENNE TÊTE\", EXPLIQUE RONALD HATTO, PROFESSEUR DE RELATIONS INTERNATIONALES À SCIENCES PO ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:03",
-      "date": "02/04",
-      "timestamp": 1775138639
     }
   ],
   "france": {
