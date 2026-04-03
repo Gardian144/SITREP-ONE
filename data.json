@@ -1,7 +1,47 @@
 {
-  "last_update": "03/04 19:53",
+  "last_update": "03/04 20:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775248336",
+      "source": "BFMTV",
+      "text": "\"C'EST PAS POUR NOUS\": AU BURKINA FASO, LE CHEF DE LA JUNTE AU POUVOIR ESTIME QUE LE PEUPLE DOIT \"OUBLIER\" LA DÉMOCRATIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:32",
+      "date": "03/04",
+      "timestamp": 1775248336
+    },
+    {
+      "id": "BFMTV_1775247880",
+      "source": "BFMTV",
+      "text": " L'IRAN REVENDIQUE AVOIR ABATTU UN SECOND AVION DE CHASSE AMÉRICAIN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:24",
+      "date": "03/04",
+      "timestamp": 1775247880
+    },
+    {
+      "id": "BFMTV_1775247741",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU EN IRAN: DONALD TRUMP AFFIRME QUE CELA N'AFFECTERA PAS LES NÉGOCIATIONS EN COURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:22",
+      "date": "03/04",
+      "timestamp": 1775247741
+    },
+    {
+      "id": "BFMTV_1775247273",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU: LA TENSION ENTRE LES ÉTATS-UNIS ET L'IRAN MONTE D'UN CRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:14",
+      "date": "03/04",
+      "timestamp": 1775247273
+    },
     {
       "id": "BFMTV_1775245212",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "16:15",
       "date": "02/04",
       "timestamp": 1775146558
-    },
-    {
-      "id": "OPEX360_1775146229",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE L’AIR ÉPROUVE SA CAPACITÉ À «DISPERSER» DES A400M ET DES MIRAGE 2000-5 VERS DES AÉROPORTS CIVILS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:10",
-      "date": "02/04",
-      "timestamp": 1775146229
-    },
-    {
-      "id": "BFMTV_1775145635",
-      "source": "BFMTV",
-      "text": "COMMENT LA CORÉE DU SUD EST-ELLE DEVENUE LA NOUVELLE PUISSANCE MONDIALE DE L'ARMEMENT ? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:00",
-      "date": "02/04",
-      "timestamp": 1775145635
-    },
-    {
-      "id": "BFMTV_1775145468",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"IL N'EST PAS ACCEPTABLE QUE L'IRAN PRENNE EN OTAGE UNE VOIE MARITIME STRATÉGIQUE\", DÉCLARE LA FRANCE À L'ONU",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:57",
-      "date": "02/04",
-      "timestamp": 1775145468
-    },
-    {
-      "id": "BFMTV_1775145255",
-      "source": "BFMTV",
-      "text": "CHANGEMENT DE RÉGIME EN IRAN ? \"CE SONT LES ÉLÉMENTS LES PLUS DURS DU RÉGIME QUI SONT EN PLACE GRÂCE À MONSIEUR TRUMP\", DÉNONCE LA SOCIOLOGUE FRANCO-IRANIENNE AZADEH KIAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:54",
-      "date": "02/04",
-      "timestamp": 1775145255
     }
   ],
   "france": {
