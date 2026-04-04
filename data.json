@@ -1,7 +1,17 @@
 {
-  "last_update": "04/04 11:43",
+  "last_update": "04/04 12:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775302931",
+      "source": "BFMTV",
+      "text": "UN SÉISME DE MAGNITUDE 6 DÉTECTÉ AU LARGE DE LA CÔTE NORD DE L'INDONÉSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:42",
+      "date": "04/04",
+      "timestamp": 1775302931
+    },
     {
       "id": "OPEX360_1775302016",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "09:54",
       "date": "03/04",
       "timestamp": 1775210099
-    },
-    {
-      "id": "BFMTV_1775210041",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DU PONT IRANIEN DÉTRUIT À KARAJ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:54",
-      "date": "03/04",
-      "timestamp": 1775210041
     }
   ],
   "france": {
