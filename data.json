@@ -1,7 +1,27 @@
 {
-  "last_update": "04/04 11:05",
+  "last_update": "04/04 11:43",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1775302016",
+      "source": "OPEX360",
+      "text": "LA MARINE NATIONALE SOULIGNE LE SUCCÈS D’UN TIR DE TORPILLE MU90 PAR UN HÉLICOPTÈRE NH90 DE LA FLOTTILLE 31F",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:26",
+      "date": "04/04",
+      "timestamp": 1775302016
+    },
+    {
+      "id": "BFMTV_1775300643",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION IRANIENS DISENT AVOIR VISÉ UN NAVIRE LIÉ À ISRAËL DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:04",
+      "date": "04/04",
+      "timestamp": 1775300643
+    },
     {
       "id": "BFMTV_1775300470",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "09:54",
       "date": "03/04",
       "timestamp": 1775210041
-    },
-    {
-      "id": "BFMTV_1775208284",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:24",
-      "date": "03/04",
-      "timestamp": 1775208284
-    },
-    {
-      "id": "BFMTV_1775208284",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:24",
-      "date": "03/04",
-      "timestamp": 1775208284
     }
   ],
   "france": {
