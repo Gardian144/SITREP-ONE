@@ -1,7 +1,27 @@
 {
-  "last_update": "04/04 08:23",
+  "last_update": "04/04 09:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775293290",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES FRAPPES AMÉRICANO-ISRAÉLIENNES ONT TOUCHÉ LA CENTRALE NUCLÉAIRE IRANIENNE DE BOUCHEHR, FAISANT UN MORT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:01",
+      "date": "04/04",
+      "timestamp": 1775293290
+    },
+    {
+      "id": "BFMTV_1775292722",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN RECHERCHÉ: LES ÉTATS-UNIS ET L'IRAN ENGAGÉS DANS UNE COURSE POUR LE RETROUVER",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:52",
+      "date": "04/04",
+      "timestamp": 1775292722
+    },
     {
       "id": "BFMTV_1775289570",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "06:30",
       "date": "03/04",
       "timestamp": 1775197830
-    },
-    {
-      "id": "BFMTV_1775197358",
-      "source": "BFMTV",
-      "text": "LE SECRÉTAIRE AMÉRICAIN À LA DÉFENSE PETE HEGSETH ÉVINCE LE CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE TERRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:22",
-      "date": "03/04",
-      "timestamp": 1775197358
-    },
-    {
-      "id": "BFMTV_1775196524",
-      "source": "BFMTV",
-      "text": "\"FÊTE DE LA NATURE\": JOURNÉE CULTURELLE ET OPÉRATION DE COMMUNICATION POUR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:08",
-      "date": "03/04",
-      "timestamp": 1775196524
     }
   ],
   "france": {
