@@ -1,7 +1,107 @@
 {
-  "last_update": "04/04 04:25",
+  "last_update": "04/04 05:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775279207",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ET L'IRAN ENGAGÉS DANS UNE COURSE POUR RETROUVER UN PILOTE AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:06",
+      "date": "04/04",
+      "timestamp": 1775279207
+    },
+    {
+      "id": "BFMTV_1775279205",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES DÉTONATIONS ENTENDUES DEPUIS LE NORD DE TÉHÉRAN, LA CAPITALE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:06",
+      "date": "04/04",
+      "timestamp": 1775279205
+    },
+    {
+      "id": "BFMTV_1775278591",
+      "source": "BFMTV",
+      "text": "ANCIEN SOLDAT, COMMENTATEUR SUR LA CHAÎNE FOX NEWS... QUI EST PETE HEGSETH, LE VISAGE DE LA GUERRE EN IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:56",
+      "date": "04/04",
+      "timestamp": 1775278591
+    },
+    {
+      "id": "BFMTV_1775278395",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN DISPARU: LES ÉTATS-UNIS SUSPENDUS AUX OPÉRATIONS DE SECOURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:53",
+      "date": "04/04",
+      "timestamp": 1775278395
+    },
+    {
+      "id": "BFMTV_1775278228",
+      "source": "BFMTV",
+      "text": "\"ESPÉRONS QU'IL AILLE BIEN, QU'IL SOIT EN VIE\": LES AMÉRICAINS INQUIETS DU SORT DU PILOTE PORTÉ DISPARU",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:50",
+      "date": "04/04",
+      "timestamp": 1775278228
+    },
+    {
+      "id": "BFMTV_1775277867",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA BANLIEUE SUD DE BEYROUTH FRAPPÉE À L'AUBE PAR AU MOINS DEUX FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:44",
+      "date": "04/04",
+      "timestamp": 1775277867
+    },
+    {
+      "id": "BFMTV_1775277709",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU: COMMENT LES SOLDATS SONT-ILS FORMÉS POUR SURVIVRE EN MILIEU HOSTILE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:41",
+      "date": "04/04",
+      "timestamp": 1775277709
+    },
+    {
+      "id": "BFMTV_1775277568",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU: L'ÉTONNANT SILENCE DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:39",
+      "date": "04/04",
+      "timestamp": 1775277568
+    },
+    {
+      "id": "BFMTV_1775277435",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE NOUVELLE NUIT DE FRAPPES EN IRAN, AU LIBAN ET EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:37",
+      "date": "04/04",
+      "timestamp": 1775277435
+    },
+    {
+      "id": "BFMTV_1775276732",
+      "source": "BFMTV",
+      "text": "AVIONS AMÉRICAINS ABATTUS AU MOYEN-ORIENT: LA SÉRIE NOIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:25",
+      "date": "04/04",
+      "timestamp": 1775276732
+    },
     {
       "id": "BFMTV_1775276412",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "04:38",
       "date": "03/04",
       "timestamp": 1775191105
-    },
-    {
-      "id": "BFMTV_1775191009",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN VILLAGE DU SUD-LIBAN SEUL FACE À ISRAËL ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:36",
-      "date": "03/04",
-      "timestamp": 1775191009
-    },
-    {
-      "id": "BFMTV_1775190982",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES D'UN PONT IRANIEN DÉTRUIT PAR LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:36",
-      "date": "03/04",
-      "timestamp": 1775190982
-    },
-    {
-      "id": "BFMTV_1775190595",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN MOIS APRÈS, OÙ EN SONT LES STOCKS D'ARMES DE L'IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:29",
-      "date": "03/04",
-      "timestamp": 1775190595
-    },
-    {
-      "id": "BFMTV_1775190072",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS PLANS SONT POSSIBLES POUR ROUVRIR LE DÉTROIT D'ORMUZ PAR LA FORCE MILITAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:21",
-      "date": "03/04",
-      "timestamp": 1775190072
-    },
-    {
-      "id": "BFMTV_1775189952",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DÉBLOQUER LE DÉTROIT D'ORMUZ PAR LA FORCE, UNE STRATÉGIE COMPLEXE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:19",
-      "date": "03/04",
-      "timestamp": 1775189952
-    },
-    {
-      "id": "BFMTV_1775189891",
-      "source": "BFMTV",
-      "text": "UN HOMME DE 20 ANS ALLUME DES ENGINS PYROTECHNIQUES DANS UN TGV EN ALLEMAGNE, 12 PERSONNES LÉGÈREMENT BLESSÉES",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:18",
-      "date": "03/04",
-      "timestamp": 1775189891
-    },
-    {
-      "id": "BFMTV_1775188200",
-      "source": "BFMTV",
-      "text": "DES DÉSACCORDS DE PLUS EN PLUS MARQUÉS ET DES MOQUERIES À RÉPÉTITION: EMMANUEL MACRON, \"L’AMI\" DE DONALD TRUMP DEVENU SA CIBLE FAVORITE",
-      "urgent": false,
-      "france_related": false,
-      "time": "03:50",
-      "date": "03/04",
-      "timestamp": 1775188200
-    },
-    {
-      "id": "BFMTV_1775167891",
-      "source": "BFMTV",
-      "text": " LES FRANÇAIS FACE À LA GUERRE EN IRAN: LE FORUM BFMTV EN INTÉGRALITÉ ",
-      "urgent": true,
-      "france_related": true,
-      "time": "22:11",
-      "date": "02/04",
-      "timestamp": 1775167891
-    },
-    {
-      "id": "BFMTV_1775167005",
-      "source": "BFMTV",
-      "text": "GUERRE EN MOYEN-ORIENT: LE MINISTRE DES AFFAIRES ÉTRANGÈRES IRANIEN MENACE LES ÉTATS-UNIS D'UN RETOUR À \"L'ÂGE DE PIERRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:56",
-      "date": "02/04",
-      "timestamp": 1775167005
-    },
-    {
-      "id": "BFMTV_1775164993",
-      "source": "BFMTV",
-      "text": "FORUM BFMTV - GUERRE AU MOYEN-ORIENT: “EST-CE QU’ON SERAIT PRÊT À MOURIR POUR LES BÊTISES DE DONALD TRUMP?”, DEMANDE ENZO, ÉTUDIANT DANS L’HÉRAULT ",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:23",
-      "date": "02/04",
-      "timestamp": 1775164993
     }
   ],
   "france": {
