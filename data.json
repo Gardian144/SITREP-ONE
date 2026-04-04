@@ -1,7 +1,47 @@
 {
-  "last_update": "04/04 13:20",
+  "last_update": "04/04 14:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775311302",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA RUSSIE ÉVACUE 198 EMPLOYÉS DE LA CENTRALE IRANIENNE DE BOUCHEHR TOUCHÉE PAR UNE FRAPPE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:01",
+      "date": "04/04",
+      "timestamp": 1775311302
+    },
+    {
+      "id": "BFMTV_1775311061",
+      "source": "BFMTV",
+      "text": "DÉNONCIATION À L'ICE, LOCALISATION CONSTANTE... LA NOUVELLE APPLICATION DE LA MAISON BLANCHE FAIT POLÉMIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:57",
+      "date": "04/04",
+      "timestamp": 1775311061
+    },
+    {
+      "id": "BFMTV_1775310744",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN RECHERCHÉ: COMMENT SE DÉROULENT LES RECHERCHES?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:52",
+      "date": "04/04",
+      "timestamp": 1775310744
+    },
+    {
+      "id": "OPEX360_1775310261",
+      "source": "OPEX360",
+      "text": "ÉLABORÉ PAR LE 1ER RIMA, LE CONCEPT D’ESCADRON DE DRONES DE CHASSE VA FAIRE TÂCHE D’HUILE AU SEIN DE L’ARMÉE DE TERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:44",
+      "date": "04/04",
+      "timestamp": 1775310261
+    },
     {
       "id": "BFMTV_1775307050",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "11:24",
       "date": "03/04",
       "timestamp": 1775215462
-    },
-    {
-      "id": "BFMTV_1775215374",
-      "source": "BFMTV",
-      "text": "\"TOUS LES JOURS ÇA PREND 10 CENTIMES\": LES AMÉRICAINS DÉNONCENT AUSSI UNE FLAMBÉE DES PRIX DES CARBURANTS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:22",
-      "date": "03/04",
-      "timestamp": 1775215374
-    },
-    {
-      "id": "BFMTV_1775215065",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: L’ARMÉE LIBANAISE SE RETIRE DU SUD, LAISSANT DES VILLAGES LIVRÉS À EUX-MÊMES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:17",
-      "date": "03/04",
-      "timestamp": 1775215065
-    },
-    {
-      "id": "OPEX360_1775213589",
-      "source": "OPEX360",
-      "text": "LA FRANCE ET LA CORÉE DU SUD VEULENT RENFORCER LEUR COOPÉRATION INDUSTRIELLE EN MATIÈRE DE DÉFENSE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:53",
-      "date": "03/04",
-      "timestamp": 1775213589
-    },
-    {
-      "id": "BFMTV_1775212398",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: L'ARMÉE AMÉRICAINE DIFFUSE DES IMAGES DE SES MARINES EN EXERCICE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:33",
-      "date": "03/04",
-      "timestamp": 1775212398
     }
   ],
   "france": {
