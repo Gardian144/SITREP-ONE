@@ -1,7 +1,57 @@
 {
-  "last_update": "04/04 20:45",
+  "last_update": "04/04 21:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775337952",
+      "source": "BFMTV",
+      "text": "\"ON A CONSCIENCE DE NOTRE VALEUR\": JOSÉ SOUVIGNET, EX-PILOTE ÉJECTÉ ET CAPTURÉ EN BOSNIE, TÉMOIGNE SUR BFMTV",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:25",
+      "date": "04/04",
+      "timestamp": 1775337952
+    },
+    {
+      "id": "BFMTV_1775337693",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN DISPARU EN IRAN: \"TENIR 36 HEURES N'EST PAS SOUCI S'IL A DE L'EAU\", EXPLIQUE JOSÉ SOUVIGNET, EX-PILOTE ÉJECTÉ EN BOSNIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:21",
+      "date": "04/04",
+      "timestamp": 1775337693
+    },
+    {
+      "id": "BFMTV_1775337394",
+      "source": "BFMTV",
+      "text": "\"LA PREMIÈRE CHOSE QU’ON FAIT, C’EST CHERCHER À S’ENFUIR\": JOSÉ SOUVIGNET, EX-PILOTE ÉJECTÉ EN BOSNIE, TÉMOIGNE SUR BFMTV",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:16",
+      "date": "04/04",
+      "timestamp": 1775337394
+    },
+    {
+      "id": "BFMTV_1775337016",
+      "source": "BFMTV",
+      "text": "\"ÇA SE PASSE TRÈS TRÈS RAPIDEMENT\": JOSÉ SOUVIGNET, EX-PILOTE ÉJECTÉ EN BOSNIE, TÉMOIGNE SUR BFMTV",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:10",
+      "date": "04/04",
+      "timestamp": 1775337016
+    },
+    {
+      "id": "BFMTV_1775336471",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: SUR SON RÉSEAU SOCIAL, DONALD TRUMP INDIQUE QUE \"DE NOMBREUX CHEFS MILITAIRES IRANIENS ONT ÉTÉ ÉLIMINÉS\" À TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:01",
+      "date": "04/04",
+      "timestamp": 1775336471
+    },
     {
       "id": "BFMTV_1775334464",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "21:12",
       "date": "03/04",
       "timestamp": 1775250728
-    },
-    {
-      "id": "BFMTV_1775249513",
-      "source": "BFMTV",
-      "text": "AVION AMÉRICAIN ABATTU: RÉUNION DE CRISE À WASHINGTON POUR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:51",
-      "date": "03/04",
-      "timestamp": 1775249513
-    },
-    {
-      "id": "BFMTV_1775248986",
-      "source": "BFMTV",
-      "text": "PILOTE AMÉRICAIN RECHERCHÉ EN IRAN: ISRAËL SUSPEND SES FRAPPES DANS LA ZONE ET AIDE À L'OPÉRATION DE SAUVETAGE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:43",
-      "date": "03/04",
-      "timestamp": 1775248986
-    },
-    {
-      "id": "BFMTV_1775248336",
-      "source": "BFMTV",
-      "text": "\"C'EST PAS POUR NOUS\": AU BURKINA FASO, LE CHEF DE LA JUNTE AU POUVOIR ESTIME QUE LE PEUPLE DOIT \"OUBLIER\" LA DÉMOCRATIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:32",
-      "date": "03/04",
-      "timestamp": 1775248336
-    },
-    {
-      "id": "BFMTV_1775247880",
-      "source": "BFMTV",
-      "text": " L'IRAN REVENDIQUE AVOIR ABATTU UN SECOND AVION DE CHASSE AMÉRICAIN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:24",
-      "date": "03/04",
-      "timestamp": 1775247880
-    },
-    {
-      "id": "BFMTV_1775247741",
-      "source": "BFMTV",
-      "text": "AVION AMÉRICAIN ABATTU EN IRAN: DONALD TRUMP AFFIRME QUE CELA N'AFFECTERA PAS LES NÉGOCIATIONS EN COURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:22",
-      "date": "03/04",
-      "timestamp": 1775247741
     }
   ],
   "france": {
