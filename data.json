@@ -1,7 +1,37 @@
 {
-  "last_update": "04/04 09:55",
+  "last_update": "04/04 10:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775297473",
+      "source": "BFMTV",
+      "text": " BURKINA FASO: LE CHEF MILITAIRE TRAORÉ APPELLE LES BURKINABÉS À \"OUBLIER LA DÉMOCRATIE\" ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:11",
+      "date": "04/04",
+      "timestamp": 1775297473
+    },
+    {
+      "id": "BFMTV_1775297160",
+      "source": "BFMTV",
+      "text": "\"LA FAUTE DES EUROPÉENS, DES FRANÇAIS ET DES ANGLAIS\": DONALD TRUMP CHERCHE-T-IL À FAIRE PORTER L'ÉCHEC DE LA GUERRE À L'EUROPE?",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:06",
+      "date": "04/04",
+      "timestamp": 1775297160
+    },
+    {
+      "id": "BFMTV_1775296771",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BFMTV SUR LE LIEU D'UNE FRAPPE ISRAÉLIENNE AU SUD DE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:59",
+      "date": "04/04",
+      "timestamp": 1775296771
+    },
     {
       "id": "BFMTV_1775296007",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "08:11",
       "date": "03/04",
       "timestamp": 1775203891
-    },
-    {
-      "id": "BFMTV_1775203104",
-      "source": "BFMTV",
-      "text": "\"NOUS VOULONS ROUVRIR LE DÉTROIT D'ORMUZ\": UNE \"OPÉRATION D’ESCORTE PACIFIQUE\" COORDONNÉE ANNONCÉE PAR EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:58",
-      "date": "03/04",
-      "timestamp": 1775203104
-    },
-    {
-      "id": "BFMTV_1775202843",
-      "source": "BFMTV",
-      "text": "TRUMP, IRAN, CHINE: EMMANUEL MACRON POINTE LES PAYS QUI \"COMPROMETTENT L'ORDRE INTERNATIONAL\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:54",
-      "date": "03/04",
-      "timestamp": 1775202843
-    },
-    {
-      "id": "BFMTV_1775201458",
-      "source": "BFMTV",
-      "text": "\"NOUS CROYONS AU CHANGEMENT CLIMATIQUE. NOUS NE CONSIDÉRONS PAS QU'IL SOIT UNE IDÉE FOLLE\", DÉCLARE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:30",
-      "date": "03/04",
-      "timestamp": 1775201458
     }
   ],
   "france": {
