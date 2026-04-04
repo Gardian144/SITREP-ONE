@@ -1,7 +1,77 @@
 {
-  "last_update": "04/04 16:02",
+  "last_update": "04/04 16:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775321385",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN A LANCÉ DE MULTIPLES SALVES DE MISSILES EN DIRECTION D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:49",
+      "date": "04/04",
+      "timestamp": 1775321385
+    },
+    {
+      "id": "BFMTV_1775321163",
+      "source": "BFMTV",
+      "text": "PILOTE ÉJECTÉ: \"LA SORTIE DE L'APPAREIL EST EXTRÊMEMENT VIOLENTE\", RACONTE OLIVIER PALLIER, ANCIEN PILOTE DE CHASSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:46",
+      "date": "04/04",
+      "timestamp": 1775321163
+    },
+    {
+      "id": "BFMTV_1775320834",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN DISPARU EN IRAN: \"ON PEUT SURVIVRE ENVIRON TROIS SEMAINES SANS MANGER, ET ENVIRON TROIS JOURS SANS BOIRE\", EXPLIQUE DAVID CORONA, NÉGOCIATEUR EXPERT EN CONFLITS INTERNATIONAUX",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:40",
+      "date": "04/04",
+      "timestamp": 1775320834
+    },
+    {
+      "id": "BFMTV_1775320551",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN DISPARU EN IRAN: L'ARMÉE IRANIENNE A ABATTU UN DEUXIÈME AVION AMÉRICAIN EN 24 HEURES",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:35",
+      "date": "04/04",
+      "timestamp": 1775320551
+    },
+    {
+      "id": "BFMTV_1775320362",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN DISPARU EN IRAN: PLUSIEURS PROVINCES APPELLENT LES HABITANTS À RETROUVER LE PILOTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:32",
+      "date": "04/04",
+      "timestamp": 1775320362
+    },
+    {
+      "id": "BFMTV_1775319801",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - PILOTE AMÉRICAIN DISPARU EN IRAN: LA TRAQUE HEURE PAR HEURE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:23",
+      "date": "04/04",
+      "timestamp": 1775319801
+    },
+    {
+      "id": "BFMTV_1775318548",
+      "source": "BFMTV",
+      "text": "GUERRE AU LIBAN: ISRAËL APPELLE LES HABITANTS DE TYR À ÉVACUER",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:02",
+      "date": "04/04",
+      "timestamp": 1775318548
+    },
     {
       "id": "BFMTV_1775318294",
       "source": "BFMTV",
@@ -176,6 +246,16 @@
       "id": "OPEX360_1775310261",
       "source": "OPEX360",
       "text": "ÉLABORÉ PAR LE 1ER RIMA, LE CONCEPT D’ESCADRON DE DRONES DE CHASSE VA FAIRE TÂCHE D’HUILE AU SEIN DE L’ARMÉE DE TERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:44",
+      "date": "04/04",
+      "timestamp": 1775310261
+    },
+    {
+      "id": "OPEX360_1775310261",
+      "source": "OPEX360",
+      "text": "ÉLABORÉ PAR LE 1ER RIMA, LE CONCEPT D’ESCADRON DE DRONES DE CHASSE VA FAIRE TACHE D’HUILE AU SEIN DE L’ARMÉE DE TERRE",
       "urgent": true,
       "france_related": false,
       "time": "13:44",
@@ -921,86 +1001,6 @@
       "time": "16:14",
       "date": "03/04",
       "timestamp": 1775232894
-    },
-    {
-      "id": "BFMTV_1775232595",
-      "source": "BFMTV",
-      "text": "ABATTAGE D'UN AVION DE CHASSE AMÉRICAIN EN IRAN: L'ÉQUIPAGE EST ACTIVEMENT RECHERCHÉ, AVEC UN MEMBRE DÉJÀ SECOURU SELON CBS NEWS",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:09",
-      "date": "03/04",
-      "timestamp": 1775232595
-    },
-    {
-      "id": "BFMTV_1775231832",
-      "source": "BFMTV",
-      "text": "AVION AMÉRICAIN ABATTU: “QUELS PROGRÈS INCROYABLES. DES GÉNIES ABSOLUS”, SE MOQUE MOHAMMAD BAGHER GHALIBAF, PRÉSIDENT DU PARLEMENT IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:57",
-      "date": "03/04",
-      "timestamp": 1775231832
-    },
-    {
-      "id": "BFMTV_1775230881",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - LES CONSIGNES DE SURVIE DU \"SERE\", UN PROGRAMME POUR LES MILITAIRES QUI ONT SUBI UN CRASH EN TERRITOIRE ENNEMI",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:41",
-      "date": "03/04",
-      "timestamp": 1775230881
-    },
-    {
-      "id": "BFMTV_1775230848",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UN PILOTE AMÉRICAIN SECOURU APRÈS LE CRASH DE SON APPAREIL EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:40",
-      "date": "03/04",
-      "timestamp": 1775230848
-    },
-    {
-      "id": "BFMTV_1775230476",
-      "source": "BFMTV",
-      "text": "AVION AMÉRICAIN ABATTU: DONALD TRUMP A ÉTÉ MIS AU COURANT ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:34",
-      "date": "03/04",
-      "timestamp": 1775230476
-    },
-    {
-      "id": "BFMTV_1775229445",
-      "source": "BFMTV",
-      "text": "EN VISITE D'ETAT, EMMANUEL MACRON A ÉTÉ ACCUEILLI COMME UNE STAR PAR SON FANCLUB CORÉEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:17",
-      "date": "03/04",
-      "timestamp": 1775229445
-    },
-    {
-      "id": "BFMTV_1775228653",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS MÉDIAS AMÉRICAINS CONFIRMENT QU'UN AVION DE COMBAT A ÉTÉ ABATTU",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:04",
-      "date": "03/04",
-      "timestamp": 1775228653
-    },
-    {
-      "id": "BFMTV_1775228239",
-      "source": "BFMTV",
-      "text": "F-35 ABATTU: “AVANT LA MISSION ILS (LES PILOTES) ONT ÉTUDIÉ L’ENVIRONNEMENT DANS LEQUEL ILS ÉTAIENT CENSÉS S’ÉJECTER”, EXPLIQUE MARION BUCHET, ANCIENNE PILOTE DE MIRAGE 2000",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:57",
-      "date": "03/04",
-      "timestamp": 1775228239
     }
   ],
   "france": {
