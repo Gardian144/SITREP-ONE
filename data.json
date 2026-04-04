@@ -1,7 +1,47 @@
 {
-  "last_update": "04/04 12:01",
+  "last_update": "04/04 13:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775307050",
+      "source": "BFMTV",
+      "text": "UNE CANADIENNE ET SA FILLE AUTISTE LIBÉRÉES PAR L'ICE APRÈS TROIS SEMAINES DE DÉTENTION",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:50",
+      "date": "04/04",
+      "timestamp": 1775307050
+    },
+    {
+      "id": "BFMTV_1775306179",
+      "source": "BFMTV",
+      "text": "“EN DIX JOURS, ON A EU 86 ALERTES”: NOS REPORTERS RACONTENT LA GUERRE AU MOYEN-ORIENT ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:36",
+      "date": "04/04",
+      "timestamp": 1775306179
+    },
+    {
+      "id": "BFMTV_1775304458",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION IRANIENS DISENT AVOIR VISÉ UN NAVIRE LIÉ À ISRAËL DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:07",
+      "date": "04/04",
+      "timestamp": 1775304458
+    },
+    {
+      "id": "BFMTV_1775304021",
+      "source": "BFMTV",
+      "text": "LES PREMIÈRES HEURES DE LA GUERRE RACONTÉES PAR NOS REPORTERS SUR PLACE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:00",
+      "date": "04/04",
+      "timestamp": 1775304021
+    },
     {
       "id": "BFMTV_1775302931",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "10:33",
       "date": "03/04",
       "timestamp": 1775212398
-    },
-    {
-      "id": "BFMTV_1775210836",
-      "source": "BFMTV",
-      "text": "ÉCONOMIE: \"NOS AMIS AMÉRICAINS M'ONT DONNÉ UN ARGUMENT DE VENTE INÉDIT: NOUS SOMMES PRÉVISIBLES\", LANCE EMMANUEL MACRON À UN FORUM ÉCONOMIQUE FRANCO-CORÉEN À SÉOUL",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:07",
-      "date": "03/04",
-      "timestamp": 1775210836
-    },
-    {
-      "id": "BFMTV_1775210629",
-      "source": "BFMTV",
-      "text": "LES ECLAIREURS - QUEL STOCK D'ARSENAL RESTE-T-IL À L'IRAN APRÈS UN MOIS DE BOMBARDEMENTS? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:03",
-      "date": "03/04",
-      "timestamp": 1775210629
-    },
-    {
-      "id": "BFMTV_1775210509",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: LES ÉTATS-UNIS AURAIENT DEMANDÉ À ISRAËL DE NE PAS CIBLER LE GUIDE SUPRÊME, SELON UN MÉDIA ISRAÉLIEN  ",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:01",
-      "date": "03/04",
-      "timestamp": 1775210509
-    },
-    {
-      "id": "BFMTV_1775210099",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES PAYS DU GOLFE DEMANDENT LE FEU VERT DE L’ONU POUR LIBÉRER LE DÉTROIT D’ORMUZ PAR LA FORCE",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:54",
-      "date": "03/04",
-      "timestamp": 1775210099
     }
   ],
   "france": {
