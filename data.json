@@ -1,7 +1,27 @@
 {
-  "last_update": "04/04 05:39",
+  "last_update": "04/04 06:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775284782",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU PAR L'IRAN: COMMENT SONT FORMÉS LES PILOTES DE L'US AIR FORCE À SURVIVRE EN TERRITOIRE ENNEMI?",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:39",
+      "date": "04/04",
+      "timestamp": 1775284782
+    },
+    {
+      "id": "BFMTV_1775283684",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: CE QUE L'ON SAIT DU DEUXIÈME AVION AMÉRICAIN ABATTU PAR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:21",
+      "date": "04/04",
+      "timestamp": 1775283684
+    },
     {
       "id": "BFMTV_1775279207",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "05:18",
       "date": "03/04",
       "timestamp": 1775193504
-    },
-    {
-      "id": "BFMTV_1775192082",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA PLUPART DES CÉLÉBRATIONS DE PÂQUES INTERDITES EN ISRAËL POUR DES RAISONS DE SÉCURITÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:54",
-      "date": "03/04",
-      "timestamp": 1775192082
-    },
-    {
-      "id": "BFMTV_1775191105",
-      "source": "BFMTV",
-      "text": "\"LES PONTS SONT LES PROCHAINS, PUIS LES CENTRALES ÉLECTRIQUES!\": DONALD TRUMP MENACE DE NOUVELLES DESTRUCTIONS D'INFRASTRUCTURES CIVILES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:38",
-      "date": "03/04",
-      "timestamp": 1775191105
     }
   ],
   "france": {
