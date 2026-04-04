@@ -1,7 +1,47 @@
 {
-  "last_update": "04/04 02:07",
+  "last_update": "04/04 04:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775276412",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'INFLATION EXPLOSE ET LA CRISE ÉCONOMIQUE S'AGGRAVE AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:20",
+      "date": "04/04",
+      "timestamp": 1775276412
+    },
+    {
+      "id": "BFMTV_1775276058",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA BANLIEUE DE TEL-AVIV LOURDEMENT FRAPPÉE PAR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:14",
+      "date": "04/04",
+      "timestamp": 1775276058
+    },
+    {
+      "id": "BFMTV_1775276040",
+      "source": "BFMTV",
+      "text": "UNE FORCE DE PAIX DEVENUE \"TÉMOIN GÊNANT\": AU LIBAN, L’IMPUISSANCE DES CASQUES BLEUS DE L’ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:14",
+      "date": "04/04",
+      "timestamp": 1775276040
+    },
+    {
+      "id": "BFMTV_1775275425",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU: LA COURSE CONTRE LA MONTRE POUR RETROUVER LE PILOTE TOUJOURS DISPARU",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:03",
+      "date": "04/04",
+      "timestamp": 1775275425
+    },
     {
       "id": "BFMTV_1775253696",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "21:23",
       "date": "02/04",
       "timestamp": 1775164993
-    },
-    {
-      "id": "BFMTV_1775164509",
-      "source": "BFMTV",
-      "text": "FORUM BFMTV - EN CAS DE GUERRE, \"JE SERAIS LE PREMIER À ALLER AU FRONT SI ON TOUCHE À NOTRE PAYS\", ASSURE KAMAL, POISSONNIER EN GIRONDE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:15",
-      "date": "02/04",
-      "timestamp": 1775164509
-    },
-    {
-      "id": "BFMTV_1775163860",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP LIMOGE SA MINISTRE DE LA JUSTICE PAM BONDI ET LA REMPLACE PAR SON ANCIEN AVOCAT TODD BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:04",
-      "date": "02/04",
-      "timestamp": 1775163860
-    },
-    {
-      "id": "BFMTV_1775160457",
-      "source": "BFMTV",
-      "text": "\"NOUS SOMMES AU BORD D'UNE GUERRE PLUS LARGE\": LE CHEF DE L'ONU APPELLE À CE QUE \"LA SPIRALE DE MORT ET DE DESTRUCTION\" CESSE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:07",
-      "date": "02/04",
-      "timestamp": 1775160457
-    },
-    {
-      "id": "BFMTV_1775159252",
-      "source": "BFMTV",
-      "text": "NÉPAL: DES GUIDES EMPOISONNAIENT DES TOURISTES DANS UNE ESCROQUERIE À L’ASSURANCE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:47",
-      "date": "02/04",
-      "timestamp": 1775159252
     }
   ],
   "france": {
