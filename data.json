@@ -1,7 +1,47 @@
 {
-  "last_update": "04/04 20:00",
+  "last_update": "04/04 20:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775334464",
+      "source": "BFMTV",
+      "text": "L'IRAN REJETTE LE NOUVEL ULTIMATUM DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:27",
+      "date": "04/04",
+      "timestamp": 1775334464
+    },
+    {
+      "id": "BFMTV_1775334458",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES FORCES ARMÉES IRANIENNES REJETTENT LE NOUVEL ULTIMATUM DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:27",
+      "date": "04/04",
+      "timestamp": 1775334458
+    },
+    {
+      "id": "BFMTV_1775334183",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN DISPARU EN IRAN: \"C'EST UN ENJEU IMPORTANT\", EXPLIQUE EDOUARD CUKIERMAN, ANCIEN PORTE-PAROLE DE L'ARMÉE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:23",
+      "date": "04/04",
+      "timestamp": 1775334183
+    },
+    {
+      "id": "BFMTV_1775333767",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN DISPARU EN IRAN: DONALD TRUMP RESTE SILENCIEUX APRÈS L'INCIDENT DU F-15, ALORS QUE LES RECHERCHES DU PILOTE SE POURSUIVENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:16",
+      "date": "04/04",
+      "timestamp": 1775333767
+    },
     {
       "id": "BFMTV_1775332138",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "20:22",
       "date": "03/04",
       "timestamp": 1775247741
-    },
-    {
-      "id": "BFMTV_1775247273",
-      "source": "BFMTV",
-      "text": "AVION AMÉRICAIN ABATTU: LA TENSION ENTRE LES ÉTATS-UNIS ET L'IRAN MONTE D'UN CRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:14",
-      "date": "03/04",
-      "timestamp": 1775247273
-    },
-    {
-      "id": "BFMTV_1775245212",
-      "source": "BFMTV",
-      "text": "UN INDIVIDU TENTE DE POUSSER UN HOMME SUR LES RAILS ALORS QU'UN TRAIN APPROCHE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:40",
-      "date": "03/04",
-      "timestamp": 1775245212
-    },
-    {
-      "id": "BFMTV_1775245084",
-      "source": "BFMTV",
-      "text": "L'IRAN AFFIRME AVOIR ABATTU UN DEUXIÈME AVION AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:38",
-      "date": "03/04",
-      "timestamp": 1775245084
-    },
-    {
-      "id": "BFMTV_1775244388",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN REVENDIQUE AVOIR ABATTU UN SECOND AVION AMÉRICAIN DANS LE GOLFE PERSIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:26",
-      "date": "03/04",
-      "timestamp": 1775244388
     }
   ],
   "france": {
