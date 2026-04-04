@@ -1,7 +1,37 @@
 {
-  "last_update": "04/04 09:06",
+  "last_update": "04/04 09:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775296007",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: APRÈS PLUS D'UN MOIS DE GUERRE, QUELLES SONT LES PERTES AMÉRICAINES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:46",
+      "date": "04/04",
+      "timestamp": 1775296007
+    },
+    {
+      "id": "BFMTV_1775295618",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN RECHERCHÉ: CE QUE L'ON SAIT DE LA ZONE DE RECHERCHES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:40",
+      "date": "04/04",
+      "timestamp": 1775295618
+    },
+    {
+      "id": "BFMTV_1775293613",
+      "source": "BFMTV",
+      "text": "DES FRAPPES AMÉRICANO-ISRAÉLIENNES ONT TOUCHÉ LA CENTRALE NUCLÉAIRE IRANIENNE DE BOUCHEHR",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:06",
+      "date": "04/04",
+      "timestamp": 1775293613
+    },
     {
       "id": "BFMTV_1775293290",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "07:30",
       "date": "03/04",
       "timestamp": 1775201458
-    },
-    {
-      "id": "BFMTV_1775201168",
-      "source": "BFMTV",
-      "text": "\"NOUS NE DEVRIONS PAS SIMPLEMENT ÊTRE PASSIFS\": DEPUIS SÉOUL, EMMANUEL MACRON PRÔNE LA CONSTRUCTION D'UN \"NOUVEL ORDRE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:26",
-      "date": "03/04",
-      "timestamp": 1775201168
-    },
-    {
-      "id": "BFMTV_1775198797",
-      "source": "BFMTV",
-      "text": "\"UN GESTE HUMANITAIRE ET SOUVERAIN\": CUBA ACCORDE LA GRÂCE À PLUS DE 2.000 PRISONNIERS À L'OCCASION DE LA FÊTE DE PÂQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:46",
-      "date": "03/04",
-      "timestamp": 1775198797
-    },
-    {
-      "id": "BFMTV_1775197830",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L’ARMÉE LIBANAISE SE RETIRE DES VILLAGES DU SUD",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:30",
-      "date": "03/04",
-      "timestamp": 1775197830
     }
   ],
   "france": {
