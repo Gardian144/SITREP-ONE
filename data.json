@@ -1,7 +1,47 @@
 {
-  "last_update": "04/04 10:33",
+  "last_update": "04/04 11:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775300470",
+      "source": "BFMTV",
+      "text": "\"TRÈS INHABITUEL\": IL GAGNE PLUS DE 12 MILLIONS D'EUROS AU LOTO AU ROYAUME-UNI, MAIS NE VIENT PAS LES RÉCLAMER",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:01",
+      "date": "04/04",
+      "timestamp": 1775300470
+    },
+    {
+      "id": "BFMTV_1775300109",
+      "source": "BFMTV",
+      "text": "\"LOCALISÉ DANS UNE LUXUEUSE VILLA\": UN CHEF DE CLAN DE LA CAMORRA ACCUSÉ DE MEURTRE ET EN FUITE DEPUIS PLUS D'UN AN FINALEMENT ARRÊTÉ SUR LA CÔTE AMALFITAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:55",
+      "date": "04/04",
+      "timestamp": 1775300109
+    },
+    {
+      "id": "BFMTV_1775299796",
+      "source": "BFMTV",
+      "text": "AVION AMÉRICAIN ABATTU: \"CETTE AFFAIRE MET DONALD TRUMP EN GRANDE DIFFICULTÉ\", AFFIRME GUILLAUME ANCEL, ANCIEN OFFICIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:49",
+      "date": "04/04",
+      "timestamp": 1775299796
+    },
+    {
+      "id": "OPEX360_1775299016",
+      "source": "OPEX360",
+      "text": "L’AUSTRALIE VA POUVOIR ACQUÉRIR 450 MISSILES AIR-AIR À TRÈS LONGUE PORTÉE AIM-260 JATM AUPRÈS DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:36",
+      "date": "04/04",
+      "timestamp": 1775299016
+    },
     {
       "id": "BFMTV_1775297473",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "09:24",
       "date": "03/04",
       "timestamp": 1775208284
-    },
-    {
-      "id": "BFMTV_1775208283",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DIT AVOIR INVITÉ LES ÉMISSAIRES AMÉRICAINS À KIEV POUR RELANCER LES NÉGOCIATIONS AVEC LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:24",
-      "date": "03/04",
-      "timestamp": 1775208283
-    },
-    {
-      "id": "BFMTV_1775203900",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES MESSES DE PÂQUES ANNULÉES JUSQU'À NOUVEL ORDRE À DUBAÏ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:11",
-      "date": "03/04",
-      "timestamp": 1775203900
-    },
-    {
-      "id": "BFMTV_1775203891",
-      "source": "BFMTV",
-      "text": "RÉOUVERTURE DU DÉTROIT D'ORMUZ: L'APPEL DES PAYS DU GOLFE À L'ONU À \"PRENDRE TOUTES LES MESURES NÉCESSAIRES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:11",
-      "date": "03/04",
-      "timestamp": 1775203891
-    },
-    {
-      "id": "BFMTV_1775203891",
-      "source": "BFMTV",
-      "text": "L'APPEL DES PAYS DU GOLFE À L'ONU À \"PRENDRE TOUTES LES MESURES NÉCESSAIRES\" POUR LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:11",
-      "date": "03/04",
-      "timestamp": 1775203891
     }
   ],
   "france": {
