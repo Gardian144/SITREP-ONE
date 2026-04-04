@@ -1,7 +1,27 @@
 {
-  "last_update": "04/04 21:31",
+  "last_update": "04/04 22:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775338934",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: SUR X, LE SÉNATEUR LINDSEY GRAHAM, AFFIRME QUE DONALD TRUMP EST PRÊT À UTILISER \"UNE FORCE MILITAIRE ÉCRASANTE CONTRE LE RÉGIME\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:42",
+      "date": "04/04",
+      "timestamp": 1775338934
+    },
+    {
+      "id": "BFMTV_1775338520",
+      "source": "BFMTV",
+      "text": "LES FORCES ARMÉES IRANIENNES REJETTENT LE NOUVEL ULTIMATUM DE DONALD TRUMP ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:35",
+      "date": "04/04",
+      "timestamp": 1775338520
+    },
     {
       "id": "BFMTV_1775337952",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "21:27",
       "date": "03/04",
       "timestamp": 1775251640
-    },
-    {
-      "id": "BFMTV_1775250790",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS FORTES EXPLOSIONS ÀTÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:13",
-      "date": "03/04",
-      "timestamp": 1775250790
-    },
-    {
-      "id": "BFMTV_1775250728",
-      "source": "BFMTV",
-      "text": "AVION AMÉRICAIN ABATTU EN IRAN: SELON PLUSIEURS MÉDIAS AMÉRICAINS, DONALD TRUMP A RÉUNI SES CONSEILLERS À LA SÉCURITÉ NATIONALE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:12",
-      "date": "03/04",
-      "timestamp": 1775250728
     }
   ],
   "france": {
