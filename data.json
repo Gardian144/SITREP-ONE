@@ -1,7 +1,37 @@
 {
-  "last_update": "04/04 15:31",
+  "last_update": "04/04 16:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775318294",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: PLUSIEURS EXPLOSIONS ENTENDUES AU-DESSUS DE JÉRUSALEM APRÈS LA DÉTECTION DE MISSILES TIRÉS DEPUIS L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:58",
+      "date": "04/04",
+      "timestamp": 1775318294
+    },
+    {
+      "id": "BFMTV_1775316696",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:31",
+      "date": "04/04",
+      "timestamp": 1775316696
+    },
+    {
+      "id": "BFMTV_1775316695",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: SIX MORTS ET DES DIZAINES DE BLESSÉS DANS DES FRAPPES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:31",
+      "date": "04/04",
+      "timestamp": 1775316695
+    },
     {
       "id": "BFMTV_1775316028",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "14:57",
       "date": "03/04",
       "timestamp": 1775228239
-    },
-    {
-      "id": "BFMTV_1775227172",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME AVOIR ABATTU UN AVION DE CHASSE AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:39",
-      "date": "03/04",
-      "timestamp": 1775227172
-    },
-    {
-      "id": "BFMTV_1775226921",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UNE JEUNE FILLE A ÉTÉ RETROUVÉE VIVANTE 32 ANS APRÈS SA DISPARITION",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:35",
-      "date": "03/04",
-      "timestamp": 1775226921
-    },
-    {
-      "id": "OPEX360_1775226802",
-      "source": "OPEX360",
-      "text": "EPIC FURY : L’US AIR FORCE AURAIT PERDU UN F-15E AU-DESSUS DE L’IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:33",
-      "date": "03/04",
-      "timestamp": 1775226802
     }
   ],
   "france": {
