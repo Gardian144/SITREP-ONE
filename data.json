@@ -1,7 +1,37 @@
 {
-  "last_update": "05/04 13:56",
+  "last_update": "05/04 14:37",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775399580",
+      "source": "BFMTV",
+      "text": "LE GROUPE PRO-IRANIEN SUSPECTÉ D’ÊTRE DERRIÈRE L’ATTENTAT DÉJOUÉ DE LA BANK OF AMERICA REVENDIQUE UNE ATTAQUE AUX PAYS-BAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:33",
+      "date": "05/04",
+      "timestamp": 1775399580
+    },
+    {
+      "id": "BFMTV_1775398435",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY À DAMAS POUR DES DISCUSSIONS AVEC LE PRÉSIDENT SYRIEN AHMED AL-CHAREH",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:13",
+      "date": "05/04",
+      "timestamp": 1775398435
+    },
+    {
+      "id": "BFMTV_1775397658",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ESTIME QU'IL EXISTE DE \"BONNES CHANCES\" D'AVOIR UN ACCORD LUNDI AVEC L'IRAN, AUPRÈS D'UN JOURNALISTE DE FOX NEWS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:00",
+      "date": "05/04",
+      "timestamp": 1775397658
+    },
     {
       "id": "BFMTV_1775397000",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "14:30",
       "date": "04/04",
       "timestamp": 1775313023
-    },
-    {
-      "id": "BFMTV_1775312395",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DONNE 48H AUX IRANIENS POUR CONCLURE UN ACCORD \"AVANT DE DÉCHAÎNER LES ENFERS SUR EUX\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:19",
-      "date": "04/04",
-      "timestamp": 1775312395
-    },
-    {
-      "id": "BFMTV_1775312074",
-      "source": "BFMTV",
-      "text": "RÉCOMPENSE, FORCES SPÉCIALES... LES ÉTATS-UNIS ET L'IRAN DANS UNE COURSE POUR RETROUVER LE PILOTE AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:14",
-      "date": "04/04",
-      "timestamp": 1775312074
-    },
-    {
-      "id": "BFMTV_1775311510",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BFMTV EN BANLIEUE DE TEL-AVIV APRÈS DES FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:05",
-      "date": "04/04",
-      "timestamp": 1775311510
     }
   ],
   "france": {
