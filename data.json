@@ -1,7 +1,37 @@
 {
-  "last_update": "05/04 16:36",
+  "last_update": "05/04 17:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775408938",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP REPOUSSE À NOUVEAU SON ULTIMATUM ENVERS L'IRAN À MARDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:08",
+      "date": "05/04",
+      "timestamp": 1775408938
+    },
+    {
+      "id": "BFMTV_1775408708",
+      "source": "BFMTV",
+      "text": "\"C'EST UNE EXPÉRIENCE VIOLENTE\": OLIVIER PALLIER, ANCIEN PILOTE DE CHASSE ÉJECTÉ D'UN AVION DE COMBAT, TÉMOIGNE SUR BFMTV",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:05",
+      "date": "05/04",
+      "timestamp": 1775408708
+    },
+    {
+      "id": "BFMTV_1775407111",
+      "source": "BFMTV",
+      "text": "PRIX DU CARBURANT: \"IL FAUT PROTÉGER LES PLUS VULNÉRABLES\", EXPLIQUE DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:38",
+      "date": "05/04",
+      "timestamp": 1775407111
+    },
     {
       "id": "BFMTV_1775406784",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:07",
       "date": "04/04",
       "timestamp": 1775322467
-    },
-    {
-      "id": "BFMTV_1775322074",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL - HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:01",
-      "date": "04/04",
-      "timestamp": 1775322074
-    },
-    {
-      "id": "BFMTV_1775321385",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN A LANCÉ DE MULTIPLES SALVES DE MISSILES EN DIRECTION D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:49",
-      "date": "04/04",
-      "timestamp": 1775321385
-    },
-    {
-      "id": "BFMTV_1775321163",
-      "source": "BFMTV",
-      "text": "PILOTE ÉJECTÉ: \"LA SORTIE DE L'APPAREIL EST EXTRÊMEMENT VIOLENTE\", RACONTE OLIVIER PALLIER, ANCIEN PILOTE DE CHASSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:46",
-      "date": "04/04",
-      "timestamp": 1775321163
     }
   ],
   "france": {
