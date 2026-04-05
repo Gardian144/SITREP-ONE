@@ -1,7 +1,37 @@
 {
-  "last_update": "05/04 20:00",
+  "last_update": "05/04 20:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775421923",
+      "source": "BFMTV",
+      "text": "ULTIMATUM REPOUSSÉ: \"C'EST DE LA RIPOSTE GRADUÉE\", OBSERVE PIERRE BERTHELOT, CHERCHEUR ET DIRECTEUR DE LA REVUE \"ORIENTS STRATÉGIQUES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:45",
+      "date": "05/04",
+      "timestamp": 1775421923
+    },
+    {
+      "id": "BFMTV_1775420456",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN SECOURU EN IRAN: LES NAVY SEALS ONT ÉTÉ MOBILISÉS POUR CETTE MISSION",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:20",
+      "date": "05/04",
+      "timestamp": 1775420456
+    },
+    {
+      "id": "BFMTV_1775419992",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN SECOURU EN IRAN: DONALD TRUMP S'EXPRIMERA DEMAIN À 19 HEURES",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:13",
+      "date": "05/04",
+      "timestamp": 1775419992
+    },
     {
       "id": "BFMTV_1775418383",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "19:05",
       "date": "04/04",
       "timestamp": 1775329519
-    },
-    {
-      "id": "BFMTV_1775329032",
-      "source": "BFMTV",
-      "text": "GUERRE AU LIBAN: LA VILLE DE TYR, AU SUD DE BEYROUTH, A ÉTÉ CIBLÉE PAR DES FRAPPES ISRAÉLIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:57",
-      "date": "04/04",
-      "timestamp": 1775329032
-    },
-    {
-      "id": "BFMTV_1775327894",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE INDIQUE QU'UN MISSILE A ÉTÉ TIRÉ DEPUIS LE YÉMEN VERS ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:38",
-      "date": "04/04",
-      "timestamp": 1775327894
-    },
-    {
-      "id": "BFMTV_1775326600",
-      "source": "BFMTV",
-      "text": "PILOTE AMÉRICAIN DISPARU EN IRAN: LES RECHERCHES SE POURSUIVENT DANS LE PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:16",
-      "date": "04/04",
-      "timestamp": 1775326600
     }
   ],
   "france": {
