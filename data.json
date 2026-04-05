@@ -1,7 +1,17 @@
 {
-  "last_update": "05/04 11:06",
+  "last_update": "05/04 11:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775388675",
+      "source": "BFMTV",
+      "text": "SEPT PERSONNES TUÉES DANS UNE FRAPPE ISRAÉLIENNE DANS LE SUD DU LIBAN, DONT UNE PETITE-FILLE DE 4 ANS",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:31",
+      "date": "05/04",
+      "timestamp": 1775388675
+    },
     {
       "id": "OPEX360_1775384683",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "11:04",
       "date": "04/04",
       "timestamp": 1775300643
-    },
-    {
-      "id": "BFMTV_1775300470",
-      "source": "BFMTV",
-      "text": "\"TRÈS INHABITUEL\": IL GAGNE PLUS DE 12 MILLIONS D'EUROS AU LOTO AU ROYAUME-UNI, MAIS NE VIENT PAS LES RÉCLAMER",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:01",
-      "date": "04/04",
-      "timestamp": 1775300470
     }
   ],
   "france": {
