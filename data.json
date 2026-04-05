@@ -1,7 +1,67 @@
 {
-  "last_update": "05/04 11:45",
+  "last_update": "05/04 12:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775393608",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP INSULTE LES DIRIGEANTS IRANIENS ET PROMET DE BOMBARDER DES SITES CLÉS SI LE DÉTROIT D'ORMUZ N'EST PAS OUVERT MARDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:53",
+      "date": "05/04",
+      "timestamp": 1775393608
+    },
+    {
+      "id": "BFMTV_1775392701",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE D'ATTAQUER CENTRALES ÉNERGÉTIQUES ET PONTS MARDI SI LE DÉTROIT D'ORMUZ N'EST PAS ROUVERT",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:38",
+      "date": "05/04",
+      "timestamp": 1775392701
+    },
+    {
+      "id": "BFMTV_1775392097",
+      "source": "BFMTV",
+      "text": "TRUMP DIT QUE L'AVIATEUR AMÉRICAIN SECOURU EN IRAN EST \"GRAVEMENT BLESSÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:28",
+      "date": "05/04",
+      "timestamp": 1775392097
+    },
+    {
+      "id": "BFMTV_1775391701",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"OUVREZ CE FOUTU DÉTROIT OU VOUS IREZ EN ENFER\", MENACE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:21",
+      "date": "05/04",
+      "timestamp": 1775391701
+    },
+    {
+      "id": "BFMTV_1775391362",
+      "source": "BFMTV",
+      "text": "DEUX UNITÉS ISRAÉLIENNES SERAIENT IMPLIQUÉES DANS LE SAUVETAGE DU PILOTE AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:16",
+      "date": "05/04",
+      "timestamp": 1775391362
+    },
+    {
+      "id": "BFMTV_1775389894",
+      "source": "BFMTV",
+      "text": "TRAQUE DANS LES MONTAGNES, CACHE DANS UNE CREVASSE, DÉSINFORMATION DE LA CIA... LE RÉCIT DU SAUVETAGE DU MILITAIRE AMÉRICAIN RECHERCHÉ EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:51",
+      "date": "05/04",
+      "timestamp": 1775389894
+    },
     {
       "id": "BFMTV_1775388675",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "12:50",
       "date": "04/04",
       "timestamp": 1775307050
-    },
-    {
-      "id": "BFMTV_1775306179",
-      "source": "BFMTV",
-      "text": "“EN DIX JOURS, ON A EU 86 ALERTES”: NOS REPORTERS RACONTENT LA GUERRE AU MOYEN-ORIENT ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:36",
-      "date": "04/04",
-      "timestamp": 1775306179
-    },
-    {
-      "id": "BFMTV_1775304458",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION IRANIENS DISENT AVOIR VISÉ UN NAVIRE LIÉ À ISRAËL DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:07",
-      "date": "04/04",
-      "timestamp": 1775304458
-    },
-    {
-      "id": "BFMTV_1775304021",
-      "source": "BFMTV",
-      "text": "LES PREMIÈRES HEURES DE LA GUERRE RACONTÉES PAR NOS REPORTERS SUR PLACE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:00",
-      "date": "04/04",
-      "timestamp": 1775304021
-    },
-    {
-      "id": "BFMTV_1775302931",
-      "source": "BFMTV",
-      "text": "UN SÉISME DE MAGNITUDE 6 DÉTECTÉ AU LARGE DE LA CÔTE NORD DE L'INDONÉSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:42",
-      "date": "04/04",
-      "timestamp": 1775302931
-    },
-    {
-      "id": "OPEX360_1775302016",
-      "source": "OPEX360",
-      "text": "LA MARINE NATIONALE SOULIGNE LE SUCCÈS D’UN TIR DE TORPILLE MU90 PAR UN HÉLICOPTÈRE NH90 DE LA FLOTTILLE 31F",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:26",
-      "date": "04/04",
-      "timestamp": 1775302016
-    },
-    {
-      "id": "BFMTV_1775300643",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION IRANIENS DISENT AVOIR VISÉ UN NAVIRE LIÉ À ISRAËL DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:04",
-      "date": "04/04",
-      "timestamp": 1775300643
     }
   ],
   "france": {
