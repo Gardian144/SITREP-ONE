@@ -1,7 +1,27 @@
 {
-  "last_update": "05/04 09:56",
+  "last_update": "05/04 10:37",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1775384683",
+      "source": "OPEX360",
+      "text": "LE 54E RÉGIMENT D’ARTILLERIE ÉVALUE LES DRONES INTERCEPTEURS «DESTINUS HORNET» ET «GOBI»",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:24",
+      "date": "05/04",
+      "timestamp": 1775384683
+    },
+    {
+      "id": "BFMTV_1775384362",
+      "source": "BFMTV",
+      "text": "PILOTE SECOURU: L'IRAN AFFIRME AVOIR ABATTU QUATRE APPAREILS AMÉRICAINS LORS DES OPÉRATIONS DE SAUVETAGE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:19",
+      "date": "05/04",
+      "timestamp": 1775384362
+    },
     {
       "id": "BFMTV_1775382206",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "11:01",
       "date": "04/04",
       "timestamp": 1775300470
-    },
-    {
-      "id": "BFMTV_1775300109",
-      "source": "BFMTV",
-      "text": "\"LOCALISÉ DANS UNE LUXUEUSE VILLA\": UN CHEF DE CLAN DE LA CAMORRA ACCUSÉ DE MEURTRE ET EN FUITE DEPUIS PLUS D'UN AN FINALEMENT ARRÊTÉ SUR LA CÔTE AMALFITAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:55",
-      "date": "04/04",
-      "timestamp": 1775300109
-    },
-    {
-      "id": "BFMTV_1775299796",
-      "source": "BFMTV",
-      "text": "AVION AMÉRICAIN ABATTU: \"CETTE AFFAIRE MET DONALD TRUMP EN GRANDE DIFFICULTÉ\", AFFIRME GUILLAUME ANCEL, ANCIEN OFFICIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:49",
-      "date": "04/04",
-      "timestamp": 1775299796
     }
   ],
   "france": {
