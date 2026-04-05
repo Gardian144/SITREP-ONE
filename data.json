@@ -1,7 +1,37 @@
 {
-  "last_update": "05/04 06:19",
+  "last_update": "05/04 07:37",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775374220",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: CINQ MORTS EN IRAN DANS DES FRAPPES LORS DE L'OPÉRATION DE SAUVETAGE DU PILOTE AMÉRICAIN, SELON DES MÉDIAS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:30",
+      "date": "05/04",
+      "timestamp": 1775374220
+    },
+    {
+      "id": "BFMTV_1775373036",
+      "source": "BFMTV",
+      "text": "BLESSÉ MAIS \"SAIN ET SAUF\", DES DIZAINES D'APPAREILS DÉPLOYÉS, SUBTERFUGE DE LA CIA... CE QUE L'ON SAIT DE L'OPÉRATION DE SAUVETAGE DU PILOTE AMÉRICAIN EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:10",
+      "date": "05/04",
+      "timestamp": 1775373036
+    },
+    {
+      "id": "BFMTV_1775371319",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN SECOURU: L'ARMÉE ISRAÉLIENNE AFFIRME NE PAS AVOIR PARTICIPÉ DIRECTEMENT À L'OPÉRATION DE SAUVETAGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:41",
+      "date": "05/04",
+      "timestamp": 1775371319
+    },
     {
       "id": "BFMTV_1775369787",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "07:35",
       "date": "04/04",
       "timestamp": 1775288115
-    },
-    {
-      "id": "BFMTV_1775284782",
-      "source": "BFMTV",
-      "text": "AVION AMÉRICAIN ABATTU PAR L'IRAN: COMMENT SONT FORMÉS LES PILOTES DE L'US AIR FORCE À SURVIVRE EN TERRITOIRE ENNEMI?",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:39",
-      "date": "04/04",
-      "timestamp": 1775284782
-    },
-    {
-      "id": "BFMTV_1775283684",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: CE QUE L'ON SAIT DU DEUXIÈME AVION AMÉRICAIN ABATTU PAR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:21",
-      "date": "04/04",
-      "timestamp": 1775283684
-    },
-    {
-      "id": "BFMTV_1775279207",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ET L'IRAN ENGAGÉS DANS UNE COURSE POUR RETROUVER UN PILOTE AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:06",
-      "date": "04/04",
-      "timestamp": 1775279207
     }
   ],
   "france": {
