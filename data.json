@@ -1,7 +1,147 @@
 {
-  "last_update": "06/04 03:41",
+  "last_update": "06/04 05:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775454587",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: AU MOINS DEUX MORTS APRÈS UNE FRAPPE IRANIENNE SUR UN IMMEUBLE DE HAÏFA",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:49",
+      "date": "06/04",
+      "timestamp": 1775454587
+    },
+    {
+      "id": "BFMTV_1775452891",
+      "source": "BFMTV",
+      "text": "AU LIBAN, CES FIDÈLES FÊTENT PÂQUES MALGRÉ LA GUERRE AU MOYEN-ORIENT ET SES FRAPPES INCESSANTES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:21",
+      "date": "06/04",
+      "timestamp": 1775452891
+    },
+    {
+      "id": "BFMTV_1775452876",
+      "source": "BFMTV",
+      "text": "POURQUOI DONALD TRUMP REPOUSSE ENCORE SON ULTIMATUM ENVERS L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:21",
+      "date": "06/04",
+      "timestamp": 1775452876
+    },
+    {
+      "id": "BFMTV_1775452330",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP A-T-IL RÉELLEMENT UNE CHANCE D'OBTENIR UN CESSEZ-LE-FEU?",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:12",
+      "date": "06/04",
+      "timestamp": 1775452330
+    },
+    {
+      "id": "BFMTV_1775452324",
+      "source": "BFMTV",
+      "text": "AVIONS, HÉLICOPTÈRES, DRONES... QUELS APPAREILS DE L'ARMÉE AMÉRICAINE ONT ÉTÉ DÉPLOYÉS POUR SAUVER LE PILOTE RECHERCHÉ EN IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:12",
+      "date": "06/04",
+      "timestamp": 1775452324
+    },
+    {
+      "id": "BFMTV_1775452097",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: CES HABITANTS DE SOMHOR, AU SUD-LIBAN, QUI ONT DÉCIDÉ DE RESTER",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:08",
+      "date": "06/04",
+      "timestamp": 1775452097
+    },
+    {
+      "id": "BFMTV_1775451530",
+      "source": "BFMTV",
+      "text": "SOLDAT AMÉRICAIN RETROUVÉ EN IRAN: UN ATOUT POLITIQUE POUR DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:58",
+      "date": "06/04",
+      "timestamp": 1775451530
+    },
+    {
+      "id": "BFMTV_1775451217",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION RÉPONDENT AUX MENACES DE DONALD TRUMP, PARTICIPANT À L'ESCALADE DES TENSIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "06/04",
+      "timestamp": 1775451217
+    },
+    {
+      "id": "BFMTV_1775451036",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L’IRAN ANNONCE TRAVAILLER AVEC OMAN À UN \"PROTOCOLE\" VISANT À SÉCURISER LA NAVIGATION DANS LE DÉTROIT D’ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:50",
+      "date": "06/04",
+      "timestamp": 1775451036
+    },
+    {
+      "id": "BFMTV_1775450763",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP INSULTE LES DIRIGEANTS IRANIENS, UN LANGAGE QUI NE PASSE PAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:46",
+      "date": "06/04",
+      "timestamp": 1775450763
+    },
+    {
+      "id": "BFMTV_1775450556",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DESTRUCTION DES CENTRALES NUCLÉAIRES ET DES PONTS OU UN CESSEZ-LE-FEU DE 45 JOURS... QUE PEUT ANNONCER DONALD TRUMP CE SOIR?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "06/04",
+      "timestamp": 1775450556
+    },
+    {
+      "id": "BFMTV_1775450312",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: TÉHÉRAN PROMET DES REPRÉSAILLES \"ENCORE BEAUCOUP PLUS DÉVASTATRICES\" SI DONALD TRUMP MET À EXÉCUTION SES MENACES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:38",
+      "date": "06/04",
+      "timestamp": 1775450312
+    },
+    {
+      "id": "BFMTV_1775450178",
+      "source": "BFMTV",
+      "text": "QUAND LES AMBASSADES IRANIENNES SE MOQUENT DE DONALD TRUMP EN REPRENANT LES CODES DES MÈMES ET DES VIDÉOS VIRALES SUR LES RÉSEAUX SOCIAUX",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:36",
+      "date": "06/04",
+      "timestamp": 1775450178
+    },
+    {
+      "id": "BFMTV_1775449877",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE FRAPPE ISRAÉLIENNE FAIT AU MOINS CINQ MORTS À BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:31",
+      "date": "06/04",
+      "timestamp": 1775449877
+    },
     {
       "id": "BFMTV_1775426013",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "04:33",
       "date": "05/04",
       "timestamp": 1775363603
-    },
-    {
-      "id": "BFMTV_1775363368",
-      "source": "BFMTV",
-      "text": "\"NOUS L'AVONS RETROUVÉ\": DONALD TRUMP AFFIRME QUE LE PILOTE SECOURU EST \"BLESSÉ, MAIS S'EN SORTIRA\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:29",
-      "date": "05/04",
-      "timestamp": 1775363368
-    },
-    {
-      "id": "BFMTV_1775362552",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PILOTE AMÉRICAIN EST \"SAIN ET SAUF\", ANNONCE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:15",
-      "date": "05/04",
-      "timestamp": 1775362552
-    },
-    {
-      "id": "BFMTV_1775361900",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PILOTE AMÉRICAIN DU F-15 A ÉTÉ SECOURU ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:05",
-      "date": "05/04",
-      "timestamp": 1775361900
-    },
-    {
-      "id": "BFMTV_1775339965",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES FORCES ARMÉES IRANIENNES REJETTENT LE NOUVEL ULTIMATUM DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:59",
-      "date": "04/04",
-      "timestamp": 1775339965
-    },
-    {
-      "id": "BFMTV_1775338934",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: SUR X, LE SÉNATEUR LINDSEY GRAHAM, AFFIRME QUE DONALD TRUMP EST PRÊT À UTILISER \"UNE FORCE MILITAIRE ÉCRASANTE CONTRE LE RÉGIME\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:42",
-      "date": "04/04",
-      "timestamp": 1775338934
-    },
-    {
-      "id": "BFMTV_1775338520",
-      "source": "BFMTV",
-      "text": "LES FORCES ARMÉES IRANIENNES REJETTENT LE NOUVEL ULTIMATUM DE DONALD TRUMP ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:35",
-      "date": "04/04",
-      "timestamp": 1775338520
-    },
-    {
-      "id": "BFMTV_1775337952",
-      "source": "BFMTV",
-      "text": "\"ON A CONSCIENCE DE NOTRE VALEUR\": JOSÉ SOUVIGNET, EX-PILOTE ÉJECTÉ ET CAPTURÉ EN BOSNIE, TÉMOIGNE SUR BFMTV",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:25",
-      "date": "04/04",
-      "timestamp": 1775337952
-    },
-    {
-      "id": "BFMTV_1775337693",
-      "source": "BFMTV",
-      "text": "PILOTE AMÉRICAIN DISPARU EN IRAN: \"TENIR 36 HEURES N'EST PAS SOUCI S'IL A DE L'EAU\", EXPLIQUE JOSÉ SOUVIGNET, EX-PILOTE ÉJECTÉ EN BOSNIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:21",
-      "date": "04/04",
-      "timestamp": 1775337693
-    },
-    {
-      "id": "BFMTV_1775337394",
-      "source": "BFMTV",
-      "text": "\"LA PREMIÈRE CHOSE QU’ON FAIT, C’EST CHERCHER À S’ENFUIR\": JOSÉ SOUVIGNET, EX-PILOTE ÉJECTÉ EN BOSNIE, TÉMOIGNE SUR BFMTV",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:16",
-      "date": "04/04",
-      "timestamp": 1775337394
-    },
-    {
-      "id": "BFMTV_1775337016",
-      "source": "BFMTV",
-      "text": "\"ÇA SE PASSE TRÈS TRÈS RAPIDEMENT\": JOSÉ SOUVIGNET, EX-PILOTE ÉJECTÉ EN BOSNIE, TÉMOIGNE SUR BFMTV",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:10",
-      "date": "04/04",
-      "timestamp": 1775337016
-    },
-    {
-      "id": "BFMTV_1775336471",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: SUR SON RÉSEAU SOCIAL, DONALD TRUMP INDIQUE QUE \"DE NOMBREUX CHEFS MILITAIRES IRANIENS ONT ÉTÉ ÉLIMINÉS\" À TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:01",
-      "date": "04/04",
-      "timestamp": 1775336471
-    },
-    {
-      "id": "BFMTV_1775334464",
-      "source": "BFMTV",
-      "text": "L'IRAN REJETTE LE NOUVEL ULTIMATUM DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:27",
-      "date": "04/04",
-      "timestamp": 1775334464
-    },
-    {
-      "id": "BFMTV_1775334458",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES FORCES ARMÉES IRANIENNES REJETTENT LE NOUVEL ULTIMATUM DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:27",
-      "date": "04/04",
-      "timestamp": 1775334458
-    },
-    {
-      "id": "BFMTV_1775334183",
-      "source": "BFMTV",
-      "text": "PILOTE AMÉRICAIN DISPARU EN IRAN: \"C'EST UN ENJEU IMPORTANT\", EXPLIQUE EDOUARD CUKIERMAN, ANCIEN PORTE-PAROLE DE L'ARMÉE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:23",
-      "date": "04/04",
-      "timestamp": 1775334183
     }
   ],
   "france": {
