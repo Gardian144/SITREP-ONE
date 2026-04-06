@@ -1,7 +1,37 @@
 {
-  "last_update": "06/04 11:26",
+  "last_update": "06/04 12:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775476814",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUELLES SONT LES CONDITIONS FIXÉES PAR L'IRAN À UNE ÉVENTUELLE NÉGOCIATION?",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:00",
+      "date": "06/04",
+      "timestamp": 1775476814
+    },
+    {
+      "id": "BFMTV_1775476620",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT:  ISRAËL REVENDIQUE DES FRAPPES SUR \"LE PLUS GRAND COMPLEXE PÉTROCHIMIQUE IRANIEN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:57",
+      "date": "06/04",
+      "timestamp": 1775476620
+    },
+    {
+      "id": "BFMTV_1775476477",
+      "source": "BFMTV",
+      "text": "CESSEZ-LE-FEU EN IRAN? LES CONDITIONS DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:54",
+      "date": "06/04",
+      "timestamp": 1775476477
+    },
     {
       "id": "BFMTV_1775474470",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "13:41",
       "date": "05/04",
       "timestamp": 1775396501
-    },
-    {
-      "id": "BFMTV_1775396174",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: HUIT FRAPPES SUR BEYROUTH DEPUIS CE MATIN, LES AVIONS DE CHASSE ISRAÉLIENS CONTINUENT DE VOLER TRÈS BAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:36",
-      "date": "05/04",
-      "timestamp": 1775396174
-    },
-    {
-      "id": "BFMTV_1775395099",
-      "source": "BFMTV",
-      "text": "PLUS DE 70 MIGRANTS DISPARUS APRÈS UN NAUFRAGE EN MER MÉDITERRANÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:18",
-      "date": "05/04",
-      "timestamp": 1775395099
-    },
-    {
-      "id": "BFMTV_1775393992",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QUE L'AVIATEUR AMÉRICAIN SECOURU EN IRAN EST \"GRAVEMENT BLESSÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:59",
-      "date": "05/04",
-      "timestamp": 1775393992
     }
   ],
   "france": {
