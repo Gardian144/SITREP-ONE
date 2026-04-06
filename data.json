@@ -1,7 +1,57 @@
 {
-  "last_update": "06/04 21:03",
+  "last_update": "06/04 21:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775511921",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP “EST UN GESTICULATEUR”, EXPLIQUE MICHEL POLACCO, JOURNALISTE ET AVIATEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:45",
+      "date": "06/04",
+      "timestamp": 1775511921
+    },
+    {
+      "id": "BFMTV_1775511270",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN SAUVÉ EN IRAN: “IL FAUT SALUER CE PILOTE QUI ÉTAIT BLESSÉ ET QUI A PU SE CACHER DANS UN ENDROIT OÙ ON NE L’A PAS TROUVÉ”, ADMET OLIVIER PALLIER, ANCIEN PILOTE DE CHASSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:34",
+      "date": "06/04",
+      "timestamp": 1775511270
+    },
+    {
+      "id": "BFMTV_1775510993",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE RÔLE DE MICHAEL BOULOS, GENDRE DE DONALD TRUMP, DANS LES CONSULTATIONS CONCERNANT LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:29",
+      "date": "06/04",
+      "timestamp": 1775510993
+    },
+    {
+      "id": "BFMTV_1775510454",
+      "source": "BFMTV",
+      "text": "PILOTE AMÉRICAIN SAUVÉ EN IRAN: \"CE QUI FAIT UNE BONNE CACHETTE, C'EST UN LIEU QUI EST DIFFICILE D'ACCÈS \", EXPLIQUE JOSÉ SOUVIGNET, ANCIEN OTAGE DE MILICE SERBE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:20",
+      "date": "06/04",
+      "timestamp": 1775510454
+    },
+    {
+      "id": "BFMTV_1775510442",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: L'ARMÉE IRANIENNE DÉNONCE \"LA RHÉTORIQUE GROSSIÈRE ET ARROGANTE\" DU \"PRÉSIDENT AMÉRICAIN DÉRANGÉ\" DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:20",
+      "date": "06/04",
+      "timestamp": 1775510442
+    },
     {
       "id": "BFMTV_1775508535",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "08:17",
       "date": "06/04",
       "timestamp": 1775463478
-    },
-    {
-      "id": "BFMTV_1775462743",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE CHEF DES RENSEIGNEMENTS DES GARDIENS DE LA RÉVOLUTION IRANIENNE TUÉ DANS UNE FRAPPE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:05",
-      "date": "06/04",
-      "timestamp": 1775462743
-    },
-    {
-      "id": "BFMTV_1775459317",
-      "source": "BFMTV",
-      "text": "AVIONS DÉTRUITS, NAVY SEAL... LE RÉCIT DE L'OPÉRATION DE SAUVETAGE DU PILOTE AMÉRICAIN QUI S'EST CRASHÉ EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:08",
-      "date": "06/04",
-      "timestamp": 1775459317
-    },
-    {
-      "id": "BFMTV_1775458996",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LE PRÉSIDENT DE LA RÉPUBLIQUE A EU PARFAITEMENT RAISON. IL A EU UN COMPORTEMENT QUI ÉTAIT CELUI QUE NOUS DEVIONS AVOIR\", AFFIRME THIERRY BRETON, ANCIEN COMMISSAIRE EUROPÉEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:03",
-      "date": "06/04",
-      "timestamp": 1775458996
-    },
-    {
-      "id": "BFMTV_1775458916",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LES IRANIENS SE SONT ORGANISÉS ET ILS NE SONT PAS SEULS\", DÉCLARE THIERRY BRETON, ANCIEN COMMISSAIRE EUROPÉEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:01",
-      "date": "06/04",
-      "timestamp": 1775458916
-    },
-    {
-      "id": "BFMTV_1775458794",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"AUJOURD'HUI, FORCE EST DE CONSTATER, QUE CEUX QUI ONT LES CLÉS, C'EST PLUTÔT L'IRAN\", AFFIRME THIERRY BRETON, ANCIEN COMMISSAIRE EUROPÉEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:59",
-      "date": "06/04",
-      "timestamp": 1775458794
     }
   ],
   "france": {
