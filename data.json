@@ -1,7 +1,77 @@
 {
-  "last_update": "07/04 10:41",
+  "last_update": "07/04 11:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775561565",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: DES FRAPPES D'AMPLEUR MENÉES SUR DES INFRASTRUCTURES, TÉHÉRAN MENACE D'ÉTENDRE SA RIPOSTE AU-DELÀ DE LA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:32",
+      "date": "07/04",
+      "timestamp": 1775561565
+    },
+    {
+      "id": "BFMTV_1775560208",
+      "source": "BFMTV",
+      "text": " AU SUD-LIBAN, LES ONG ESPÈRENT QUE LES CONVOIS HUMANITAIRES REPRENNENT  ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:10",
+      "date": "07/04",
+      "timestamp": 1775560208
+    },
+    {
+      "id": "BFMTV_1775559675",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LA PATRIE, LA NATION, C'EST TRÈS PRÉCIEUX POUR LES IRANIENS ET C'EST CELA QUI VA PRIMER AU-DELÀ D'UN SOUTIEN À L'ÉGARD DU RÉGIME\", EXPLIQUE DELPHINE MINOUI, JOURNALISTE AU FIGARO",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:01",
+      "date": "07/04",
+      "timestamp": 1775559675
+    },
+    {
+      "id": "BFMTV_1775559413",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP \"VOUS AIME\" : LE VICE-PRÉSIDENT AMÉRICAIN JD VANCE RENCONTRE LE PREMIER MINISTRE HONGROIS VIKTOR ORBAN À BUDAPEST",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:56",
+      "date": "07/04",
+      "timestamp": 1775559413
+    },
+    {
+      "id": "BFMTV_1775559362",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN VOTE ATTENDU AU CONSEIL DE SÉCURITÉ DE L’ONU POUR TENTER DE DÉBLOQUER LE DÉTROIT D’ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:56",
+      "date": "07/04",
+      "timestamp": 1775559362
+    },
+    {
+      "id": "BFMTV_1775558989",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"ON A, A PRIORI, PASSÉ UN AUTRE CAP\", EXPLIQUE LE GÉNÉRAL PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:49",
+      "date": "07/04",
+      "timestamp": 1775558989
+    },
+    {
+      "id": "BFMTV_1775558645",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE APPELLE LES IRANIENS À ÉVITER DE PRENDRE LE TRAIN \"POUR DES RAISONS DE SÉCURITÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:44",
+      "date": "07/04",
+      "timestamp": 1775558645
+    },
     {
       "id": "OPEX360_1775558130",
       "source": "OPEX360",
@@ -931,76 +1001,6 @@
       "time": "17:20",
       "date": "06/04",
       "timestamp": 1775496012
-    },
-    {
-      "id": "BFMTV_1775495884",
-      "source": "BFMTV",
-      "text": "\"PEUT-ÊTRE QUE CE SERA MARDI\": DONALD TRUMP ASSURE QUE L'IRAN \"PEUT TOMBER EN UNE NUIT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:18",
-      "date": "06/04",
-      "timestamp": 1775495884
-    },
-    {
-      "id": "BFMTV_1775495713",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS L'ARMÉE LA PLUS PUISSANTE AU MONDE ET DE TRÈS LOIN\", SE FÉLICITE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:15",
-      "date": "06/04",
-      "timestamp": 1775495713
-    },
-    {
-      "id": "BFMTV_1775495702",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP: \"L'IRAN PEUT TOMBER EN UNE NUIT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:15",
-      "date": "06/04",
-      "timestamp": 1775495702
-    },
-    {
-      "id": "BFMTV_1775495558",
-      "source": "BFMTV",
-      "text": "SAUVETAGE DU PILOTE AMÉRICAIN EN IRAN: \"ON A ENVOYÉ 200 SOLDATS POUR EN RÉCUPÉRER UN\", DÉTAILLE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:12",
-      "date": "06/04",
-      "timestamp": 1775495558
-    },
-    {
-      "id": "BFMTV_1775493450",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA CONFÉRENCE DE DONALD TRUMP À SUIVRE SUR BFMTV",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:37",
-      "date": "06/04",
-      "timestamp": 1775493450
-    },
-    {
-      "id": "BFMTV_1775493402",
-      "source": "BFMTV",
-      "text": "PRISE DE PAROLE DE DONALD TRUMP CE SOIR À 19H: BFMTV EST DANS LA SALLE OÙ SE DÉROULERA LA CONFÉRENCE DE PRESSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:36",
-      "date": "06/04",
-      "timestamp": 1775493402
-    },
-    {
-      "id": "BFMTV_1775492879",
-      "source": "BFMTV",
-      "text": "ISRAËL POURSUIT SES FRAPPES DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:27",
-      "date": "06/04",
-      "timestamp": 1775492879
     }
   ],
   "france": {
