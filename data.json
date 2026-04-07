@@ -1,7 +1,27 @@
 {
-  "last_update": "07/04 21:58",
+  "last_update": "07/04 22:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775602147",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ACCEPTE DE REPOUSSER DE DEUX SEMAINES SA MENACE D'ATTAQUER L'IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "22:49",
+      "date": "07/04",
+      "timestamp": 1775602147
+    },
+    {
+      "id": "BFMTV_1775602042",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP REPOUSSE DE DEUX SEMAINES SA MENACE D'ATTAQUER L'IRAN APRÈS AVOIR REÇU UN PLAN \"VIABLE\" EN DIX POINTS",
+      "urgent": true,
+      "france_related": true,
+      "time": "22:47",
+      "date": "07/04",
+      "timestamp": 1775602042
+    },
     {
       "id": "BFMTV_1775598966",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:06",
       "date": "07/04",
       "timestamp": 1775549210
-    },
-    {
-      "id": "BFMTV_1775549154",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE SÉRIE D'EXPLOSIONS ENTENDUES À TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:05",
-      "date": "07/04",
-      "timestamp": 1775549154
-    },
-    {
-      "id": "BFMTV_1775549140",
-      "source": "BFMTV",
-      "text": "UNE PROFESSEURE POIGNARDÉE À MORT PAR SON ÉLÈVE DE 17 ANS EN RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:05",
-      "date": "07/04",
-      "timestamp": 1775549140
     }
   ],
   "france": {
