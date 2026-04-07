@@ -1,7 +1,127 @@
 {
-  "last_update": "07/04 16:58",
+  "last_update": "07/04 18:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775584396",
+      "source": "BFMTV",
+      "text": "“L’IRAN A ÉTÉ UN ACTEUR IMPORTANT DU TERRORISME EN FRANCE AU DÉBUT DES ANNÉES 1980”, RAPPELLE GILLES KEPEL, SPÉCIALISTE DU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:53",
+      "date": "07/04",
+      "timestamp": 1775584396
+    },
+    {
+      "id": "BFMTV_1775584343",
+      "source": "BFMTV",
+      "text": "MENACES DE DONALD TRUMP ENVERS L'IRAN: \"UN LANGAGE IRRESPONSABLE\", DÉNONCE L'AMBASSADEUR IRANIEN À L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:52",
+      "date": "07/04",
+      "timestamp": 1775584343
+    },
+    {
+      "id": "BFMTV_1775584306",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"IL EST REGRETTABLE QUE LE CONSEIL SE TROUVE AUJOURD'HUI EMPÊCHÉ DE SOUTENIR LES EFFORTS DE SÉCURISATION DU DÉTROIT D'ORMUZ\", DÉPLORE JÉRÔME BONNAFONT",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:51",
+      "date": "07/04",
+      "timestamp": 1775584306
+    },
+    {
+      "id": "BFMTV_1775584240",
+      "source": "BFMTV",
+      "text": "ALLEMAGNE: LES HOMMES DE 17 À 45 ANS DOIVENT DEMANDER UNE AUTORISATION POUR PARTIR PLUS DE TROIS MOIS À L'ÉTRANGER",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:50",
+      "date": "07/04",
+      "timestamp": 1775584240
+    },
+    {
+      "id": "BFMTV_1775583688",
+      "source": "BFMTV",
+      "text": "ULTIMATUM DE TRUMP: \"IL VA Y AVOIR INDÉNIABLEMENT UN EFFORT MAJEUR DES ÉTATS-UNIS POUR ESSAYER DE DONNER UN DERNIER COUP DE COLLIER\" À L'IRAN, OBSERVE GILLES KEPEL, SPÉCIALISTE DU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:41",
+      "date": "07/04",
+      "timestamp": 1775583688
+    },
+    {
+      "id": "BFMTV_1775583292",
+      "source": "BFMTV",
+      "text": "\"JE NE SAIS PAS QUOI PENSER DU COMPORTEMENT DE TRUMP\": UN IRANIEN RÉAGIT À L'ULTIMATUM DU PRÉSIDENT DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:34",
+      "date": "07/04",
+      "timestamp": 1775583292
+    },
+    {
+      "id": "BFMTV_1775583102",
+      "source": "BFMTV",
+      "text": "IRAN: LE CONTRASTE ENTRE LES RASSEMBLEMENTS DE 2026 ET CEUX DE 2020",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:31",
+      "date": "07/04",
+      "timestamp": 1775583102
+    },
+    {
+      "id": "BFMTV_1775582357",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: CES VILLES SOUTERRAINES OÙ L'IRAN CACHE SON ARSENAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:19",
+      "date": "07/04",
+      "timestamp": 1775582357
+    },
+    {
+      "id": "BFMTV_1775582243",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE DE RIPOSTER AU-DELÀ DES PAYS DU GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:17",
+      "date": "07/04",
+      "timestamp": 1775582243
+    },
+    {
+      "id": "OPEX360_1775581977",
+      "source": "OPEX360",
+      "text": "LA BRITISH ARMY MISE SUR UNE SOLUTION BASÉE SUR L’INTELLIGENCE ARTIFICIELLE POUR IDENTIFIER LES MINES TERRESTRES AVEC UN DRONE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:12",
+      "date": "07/04",
+      "timestamp": 1775581977
+    },
+    {
+      "id": "BFMTV_1775581303",
+      "source": "BFMTV",
+      "text": "ULTIMATUM DE DONALD TRUMP: \"IL EST ABSOLUMENT PATHÉTIQUE\", DÉCLARE VINCENT DESPORTES, ANCIEN DIRECTEUR DE L'ÉCOLE DE GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:01",
+      "date": "07/04",
+      "timestamp": 1775581303
+    },
+    {
+      "id": "BFMTV_1775581086",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP POURRAIT REPOUSSER SON ULTIMATUM SI DES PROGRÈS CONCRETS ONT LIEU LORS DES NÉGOCIATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:58",
+      "date": "07/04",
+      "timestamp": 1775581086
+    },
     {
       "id": "BFMTV_1775579814",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "05:03",
       "date": "07/04",
       "timestamp": 1775538206
-    },
-    {
-      "id": "BFMTV_1775537988",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: L'IRAN PRÊT À DESSERRER L'ÉTAU?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:59",
-      "date": "07/04",
-      "timestamp": 1775537988
-    },
-    {
-      "id": "BFMTV_1775537873",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LE PAYS ENTIER POURRAIT ÊTRE DÉTRUIT EN UNE SEULE NUIT\", ASSURE DONALD TRUMP, À PROPOS DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:57",
-      "date": "07/04",
-      "timestamp": 1775537873
-    },
-    {
-      "id": "BFMTV_1775537778",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE A DEMANDÉ À UNE QUARANTAINE DE LOCALITÉS DU SUD LIBAN À ÉVACUER AVANT DE FRAPPER MASSIVEMENT LE PAYS",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:56",
-      "date": "07/04",
-      "timestamp": 1775537778
-    },
-    {
-      "id": "BFMTV_1775537463",
-      "source": "BFMTV",
-      "text": "UN ANCIEN SOLDAT AUSTRALIEN ARRÊTÉ POUR DES CRIMES DE GUERRE PRÉSUMÉS EN AFGHANISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:51",
-      "date": "07/04",
-      "timestamp": 1775537463
-    },
-    {
-      "id": "BFMTV_1775537254",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EN ISRAËL, LES ALERTES SE SUCCÈDENT JOUR APRÈS JOUR AU RYTHME DES MISSILES, LES SECOURISTES EN PREMIÈRE LIGNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:47",
-      "date": "07/04",
-      "timestamp": 1775537254
-    },
-    {
-      "id": "BFMTV_1775537059",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: COMMENT L'IRAN A CONSTRUIT DES CENTAINES DE KILOMÈTRES DE TUNNELS DANS LE PAYS POUR Y STOCKER SON ARSENAL MILITAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:44",
-      "date": "07/04",
-      "timestamp": 1775537059
-    },
-    {
-      "id": "BFMTV_1775536957",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: APRÈS LES MENACES DE DONALD TRUMP, LE GOUVERNEMENT IRANIEN APPELLE LA POPULATION À \"FORMER DES CHAÎNES HUMAINES\" POUR PROTÉGER LES INFRASTRUCTURES ÉNERGÉTIQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:42",
-      "date": "07/04",
-      "timestamp": 1775536957
-    },
-    {
-      "id": "BFMTV_1775536661",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES AVIATIONS ISRAÉLIENNE ET AMÉRICAINE ONT MENÉ DES FRAPPES AÉRIENNES CONTRE LA PARTIE SUD ET LE CENTRE DE TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:37",
-      "date": "07/04",
-      "timestamp": 1775536661
-    },
-    {
-      "id": "BFMTV_1775536647",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: APRÈS LA MENACE INÉDITE DE DONALD TRUMP DE DÉTRUIRE \"EN 4 HEURES\" L'IRAN, L'ARMÉE IRANIENNE RÉPOND \"À LA RHÉTORIQUE GROSSIÈRE\" DU PRÉSIDENT AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:37",
-      "date": "07/04",
-      "timestamp": 1775536647
-    },
-    {
-      "id": "BFMTV_1775536201",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE DÉTROIT D'ORMUZ TOUJOURS BLOQUÉ, PRESSION MAXIMALE DE L'IRAN À L'ÉCHÉANCE DE L'ULTIMATUM AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:30",
-      "date": "07/04",
-      "timestamp": 1775536201
-    },
-    {
-      "id": "BFMTV_1775536021",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QU'IL SUFFIT DE \"QUATRE HEURES\" À L'ARMÉE AMÉRICAINE \"POUR DÉTRUIRE TOUTES LES CENTRALES, TOUS LES PONTS\" EN IRAN, EST-CE VRAIMENT POSSIBLE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:27",
-      "date": "07/04",
-      "timestamp": 1775536021
-    },
-    {
-      "id": "BFMTV_1775513782",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE DÉNONCE \"LA RHÉTORIQUE GROSSIÈRE ET ARROGANTE\" DU \"PRÉSIDENT AMÉRICAIN DÉRANGÉ\" DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:16",
-      "date": "06/04",
-      "timestamp": 1775513782
     }
   ],
   "france": {
