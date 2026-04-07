@@ -1,7 +1,67 @@
 {
-  "last_update": "07/04 09:35",
+  "last_update": "07/04 10:41",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1775558130",
+      "source": "OPEX360",
+      "text": "UN PROTOTYPE DU DRONE DE COMBAT COLLABORATIF YFQ-42A «DARK MERLIN» S’EST ÉCRASÉ EN CALIFORNIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:35",
+      "date": "07/04",
+      "timestamp": 1775558130
+    },
+    {
+      "id": "BFMTV_1775556991",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES COUPS DE FEU ENTENDUS PRÈS DU CONSULAT D'ISRAËL À ISTANBUL, UN ASSAILLANT TUÉ ET DEUX AUTRES BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:16",
+      "date": "07/04",
+      "timestamp": 1775556991
+    },
+    {
+      "id": "BFMTV_1775556511",
+      "source": "BFMTV",
+      "text": "AU MOINS DEUX POLICIERS BLESSÉS PAR DES TIRS DEVANT LE CONSULAT D'ISRAËL À ISTANBUL",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:08",
+      "date": "07/04",
+      "timestamp": 1775556511
+    },
+    {
+      "id": "BFMTV_1775556430",
+      "source": "BFMTV",
+      "text": "TROIS PERSONNES TUÉES DANS UNE FUSILLADE PRÈS DU CONSULAT ISRAÉLIEN À ISTANBUL",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:07",
+      "date": "07/04",
+      "timestamp": 1775556430
+    },
+    {
+      "id": "BFMTV_1775555377",
+      "source": "BFMTV",
+      "text": "\"AFFAIBLIR LA TOXICITÉ GÉOPOLITIQUE DE L'IRAN\": QUE CHERCHE VRAIMENT DONALD TRUMP AVEC LA GUERRE AU MOYEN-ORIENT, ALORS QUE LA FIN DE L'ULTIMATUM APPROCHE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:49",
+      "date": "07/04",
+      "timestamp": 1775555377
+    },
+    {
+      "id": "BFMTV_1775554905",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: 130 SYSTÈMES DE DÉFENSE AÉRIENNE IRANIENS ONT ÉTÉ TOUCHÉS, SELON L'ARMÉE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:41",
+      "date": "07/04",
+      "timestamp": 1775554905
+    },
     {
       "id": "BFMTV_1775553994",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "16:27",
       "date": "06/04",
       "timestamp": 1775492879
-    },
-    {
-      "id": "BFMTV_1775492276",
-      "source": "BFMTV",
-      "text": "EN IRAN, LES GARDIENS DE LA RÉVOLUTION PROMETTENT DE VENGER LA MORT DE LEUR CHEF DES RENSEIGNEMENTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:17",
-      "date": "06/04",
-      "timestamp": 1775492276
-    },
-    {
-      "id": "BFMTV_1775491775",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - QU'EST-CE QUE LE DROIT QUALIFIE DE \"CRIME DE GUERRE\" ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:09",
-      "date": "06/04",
-      "timestamp": 1775491775
-    },
-    {
-      "id": "BFMTV_1775490950",
-      "source": "BFMTV",
-      "text": "QUAND L'IRAN SE MOQUE DE LA COMMUNICATION DE DONALD TRUMP SUR LES RÉSEAUX SOCIAUX",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:55",
-      "date": "06/04",
-      "timestamp": 1775490950
-    },
-    {
-      "id": "BFMTV_1775489654",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: “LES ENFANTS SERONT SAINS ET SAUFS, LES ANNÉES QUI VIENNENT”, PROMET MELANIA TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:34",
-      "date": "06/04",
-      "timestamp": 1775489654
-    },
-    {
-      "id": "BFMTV_1775489606",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE QATAR A INTERCEPTÉ DES DRONES, TANDIS QUE LE KOWEÏT ET LES ÉMIRATS ARABES UNIS SONT TOUJOURS VISÉS PAR LES FRAPPES IRANIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:33",
-      "date": "06/04",
-      "timestamp": 1775489606
-    },
-    {
-      "id": "BFMTV_1775489477",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP JUGE QUE LA PROPOSITION DE CESSEZ-LE-FEU EST \"UN PAS TRÈS SIGNIFICATIF\" MAIS QUE CE N'EST \"PAS SUFFISANT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:31",
-      "date": "06/04",
-      "timestamp": 1775489477
     }
   ],
   "france": {
