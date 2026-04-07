@@ -1,7 +1,17 @@
 {
-  "last_update": "07/04 22:50",
+  "last_update": "07/04 23:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775604905",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: TÉHÉRAN CONFIRME QUE LE DÉTROIT D'ORMUZ SERA OUVERT PENDANT LES DEUX SEMAINES DE CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": true,
+      "time": "23:35",
+      "date": "07/04",
+      "timestamp": 1775604905
+    },
     {
       "id": "BFMTV_1775602147",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "08:11",
       "date": "07/04",
       "timestamp": 1775549462
-    },
-    {
-      "id": "BFMTV_1775549210",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE GOUVERNEMENT IRANIEN APPELLE LA POPULATION À \"FORMER DES CHAÎNES HUMAINES\" POUR PROTÉGER SES INFRASTRUCTURES ÉNERGÉTIQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:06",
-      "date": "07/04",
-      "timestamp": 1775549210
     }
   ],
   "france": {
