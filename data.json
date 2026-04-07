@@ -1,7 +1,157 @@
 {
-  "last_update": "07/04 14:17",
+  "last_update": "07/04 15:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775577165",
+      "source": "BFMTV",
+      "text": "CÉCILE KOHLER ET JACQUES PARIS \"EN CHEMIN\" VERS LA FRANCE: LEUR RETOUR EST LE RÉSULTAT D'UN ÉCHANGE DIPLOMATIQUE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:52",
+      "date": "07/04",
+      "timestamp": 1775577165
+    },
+    {
+      "id": "OPEX360_1775576210",
+      "source": "OPEX360",
+      "text": "LA GRÈCE A SIGNÉ LA COMMANDE DE LANCE-ROQUETTES MULTIPLES ISRAÉLIENS PULS POUR 650 MILLIONS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:36",
+      "date": "07/04",
+      "timestamp": 1775576210
+    },
+    {
+      "id": "BFMTV_1775575683",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU DÉTAILLE LES ACTIONS MILITAIRES ISRAÉLIENNES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:28",
+      "date": "07/04",
+      "timestamp": 1775575683
+    },
+    {
+      "id": "BFMTV_1775575483",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: LA MAISON BLANCHE DÉMENT ENVISAGER L'UTILISATION DE L'ARME NUCLÉAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:24",
+      "date": "07/04",
+      "timestamp": 1775575483
+    },
+    {
+      "id": "BFMTV_1775574536",
+      "source": "BFMTV",
+      "text": "\"ILS ÉTAIENT DES OTAGES D'ÉTAT\": L'AVOCAT DE CÉCILE KOHLER ET JACQUES PARIS \"EXTRÊMEMENT HEUREUX\" DE LA LIBÉRATION DES EX-DÉTENUS EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:08",
+      "date": "07/04",
+      "timestamp": 1775574536
+    },
+    {
+      "id": "BFMTV_1775574361",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - IRAN: QUELLES POURRAIENT ÊTRE LES CIBLES DE DONALD TRUMP ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:06",
+      "date": "07/04",
+      "timestamp": 1775574361
+    },
+    {
+      "id": "BFMTV_1775573872",
+      "source": "BFMTV",
+      "text": "IRAN: \"LES ÉTATS-UNIS ONT LARGEMENT ATTEINT LEUR OBJECTIF MILITAIRE\", AFFIRME JD VANCE, VICE-PRÉSIDENT DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:57",
+      "date": "07/04",
+      "timestamp": 1775573872
+    },
+    {
+      "id": "BFMTV_1775573821",
+      "source": "BFMTV",
+      "text": " ROYAUME-UNI: LE GOUVERNEMENT BRITANNIQUE INTERDIT KANYE WEST INTERDIT  ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:57",
+      "date": "07/04",
+      "timestamp": 1775573821
+    },
+    {
+      "id": "BFMTV_1775573718",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL - HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:55",
+      "date": "07/04",
+      "timestamp": 1775573718
+    },
+    {
+      "id": "BFMTV_1775573718",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:55",
+      "date": "07/04",
+      "timestamp": 1775573718
+    },
+    {
+      "id": "BFMTV_1775573718",
+      "source": "BFMTV",
+      "text": "CONFLIT ISRAËL-IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:55",
+      "date": "07/04",
+      "timestamp": 1775573718
+    },
+    {
+      "id": "BFMTV_1775573665",
+      "source": "BFMTV",
+      "text": "SUITE AUX PROPOS MENAÇANTS DE DONALD TRUMP, LA MAISON BLANCHE RÉFUTE L'EMPLOI D'ARMES NUCLÉAIRES EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:54",
+      "date": "07/04",
+      "timestamp": 1775573665
+    },
+    {
+      "id": "BFMTV_1775573129",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL AFFIRME AVOIR TOUCHÉ DES INFRASTRUCTURES EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:45",
+      "date": "07/04",
+      "timestamp": 1775573129
+    },
+    {
+      "id": "BFMTV_1775573082",
+      "source": "BFMTV",
+      "text": " CÉCILE KOHLER ET JACQUES PARIS LIBRES: EMMANUEL MACRON PARTAGE SON \"SOULAGEMENT ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:44",
+      "date": "07/04",
+      "timestamp": 1775573082
+    },
+    {
+      "id": "BFMTV_1775572706",
+      "source": "BFMTV",
+      "text": "MENACES DE DONALD TRUMP: UNE CHAÎNE HUMAINE A ÉTÉ FORMÉE EN IRAN POUR DÉFENDRE UN PONT",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:38",
+      "date": "07/04",
+      "timestamp": 1775572706
+    },
     {
       "id": "BFMTV_1775570505",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "21:29",
       "date": "06/04",
       "timestamp": 1775510993
-    },
-    {
-      "id": "BFMTV_1775510454",
-      "source": "BFMTV",
-      "text": "PILOTE AMÉRICAIN SAUVÉ EN IRAN: \"CE QUI FAIT UNE BONNE CACHETTE, C'EST UN LIEU QUI EST DIFFICILE D'ACCÈS \", EXPLIQUE JOSÉ SOUVIGNET, ANCIEN OTAGE DE MILICE SERBE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:20",
-      "date": "06/04",
-      "timestamp": 1775510454
-    },
-    {
-      "id": "BFMTV_1775510442",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: L'ARMÉE IRANIENNE DÉNONCE \"LA RHÉTORIQUE GROSSIÈRE ET ARROGANTE\" DU \"PRÉSIDENT AMÉRICAIN DÉRANGÉ\" DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:20",
-      "date": "06/04",
-      "timestamp": 1775510442
-    },
-    {
-      "id": "BFMTV_1775508535",
-      "source": "BFMTV",
-      "text": "\"FACE AUX ÉTATS-UNIS ET ISRAËL, IL Y A BIEN SÛR L'IRAN, MAIS IL Y A QUAND MÊME LA RUSSIE, ELLE N'EST PAS INACTIVE\", RAPPELLE BERTRAND RACT-MADOUX, ANCIEN CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE TERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:48",
-      "date": "06/04",
-      "timestamp": 1775508535
-    },
-    {
-      "id": "BFMTV_1775507649",
-      "source": "BFMTV",
-      "text": "LE MINISTRE DES AFFAIRES ÉTRANGÈRES IRANIEN A AVERTI JEAN-NOËL BARROT DES CONSÉQUENCES RÉGIONALES ET MONDIALES SI DONALD TRUMP POURSUIT SES ACTIONS MILITAIRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:34",
-      "date": "06/04",
-      "timestamp": 1775507649
-    },
-    {
-      "id": "BFMTV_1775506919",
-      "source": "BFMTV",
-      "text": "MENACES DE DONALD TRUMP ENVERS L'IRAN: \"C'EST UNE DERNIÈRE MAIN TENDUE, LA BALLE EST DANS LEUR CAMP\", NICOLAS CONQUER, FONDATEUR DE WESTERN ARC",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:21",
-      "date": "06/04",
-      "timestamp": 1775506919
-    },
-    {
-      "id": "BFMTV_1775506342",
-      "source": "BFMTV",
-      "text": "PILOTE AMÉRICAIN SAUVÉ EN IRAN: \"IL FAUDRAIT DÉCORTIQUER L'ORIGINE DE LA DESTRUCTION\" DE L'AVION, EXPLIQUE GÉRARD LONGUET, ANCIEN MINISTRE DE LA DÉFENSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:12",
-      "date": "06/04",
-      "timestamp": 1775506342
-    },
-    {
-      "id": "BFMTV_1775505551",
-      "source": "BFMTV",
-      "text": "PILOTE AMÉRICAIN SAUVÉ EN IRAN: AU CŒUR D'UN SAUVETAGE HISTORIQUE QUI A DURÉ \"45 HEURES ET 56 MINUTES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:59",
-      "date": "06/04",
-      "timestamp": 1775505551
-    },
-    {
-      "id": "BFMTV_1775504867",
-      "source": "BFMTV",
-      "text": "LA PROPAGANDE ANTI-TRUMP TOURNE À PLEIN RÉGIME DU CÔTÉ IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:47",
-      "date": "06/04",
-      "timestamp": 1775504867
-    },
-    {
-      "id": "BFMTV_1775504500",
-      "source": "BFMTV",
-      "text": "LES RENSEIGNEMENTS SUD-CORÉENS AFFIRMENT QUE LA FILLE DE KIM JONG-UN POURRAIT ÊTRE LA FUTURE DIRIGEANTE DE LA CORÉE DU NORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:41",
-      "date": "06/04",
-      "timestamp": 1775504500
-    },
-    {
-      "id": "BFMTV_1775504500",
-      "source": "BFMTV",
-      "text": "KIM JONG-UN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:41",
-      "date": "06/04",
-      "timestamp": 1775504500
-    },
-    {
-      "id": "BFMTV_1775503667",
-      "source": "BFMTV",
-      "text": "MENACES DE DONALD TRUMP ENVERS L'IRAN: \"IL Y A PLUSIEURS DONALD TRUMP, IL FAUT FAIRE ATTENTION\", EXPLIQUE ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:27",
-      "date": "06/04",
-      "timestamp": 1775503667
-    },
-    {
-      "id": "BFMTV_1775502978",
-      "source": "BFMTV",
-      "text": "\"SAUVETAGE HISTORIQUE\" DU PILOTE AMÉRICAIN EN IRAN: \"TOUT EST TOUJOURS HYPERBOLIQUE DANS LES MOTS DE DONALD TRUMP\", EXPLIQUE ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:16",
-      "date": "06/04",
-      "timestamp": 1775502978
-    },
-    {
-      "id": "BFMTV_1775501567",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP A TENU UNE CONFÉRENCE DE PRESSE À WASHINGTON, DÉTAILLANT L'OPÉRATION MILITAIRE RÉUSSIE POUR SAUVER LE PILOTE AMÉRICAIN EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:52",
-      "date": "06/04",
-      "timestamp": 1775501567
-    },
-    {
-      "id": "BFMTV_1775501328",
-      "source": "BFMTV",
-      "text": "ULTIMES MENACES ADRESSÉES À L'IRAN, SAUVETAGE DU PILOTE AMÉRICAIN: CE QU'IL FAUT RETENIR DE LA CONFÉRENCE DE PRESSE DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:48",
-      "date": "06/04",
-      "timestamp": 1775501328
-    },
-    {
-      "id": "BFMTV_1775500869",
-      "source": "BFMTV",
-      "text": "KIM JONG-UN: “JE M’ENTENDS BIEN AVEC LUI, IL A DIT DES CHOSES TRÈS GENTILLES À MON PROPOS”, RACONTE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:41",
-      "date": "06/04",
-      "timestamp": 1775500869
     }
   ],
   "france": {
