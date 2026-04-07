@@ -1,7 +1,147 @@
 {
-  "last_update": "07/04 12:43",
+  "last_update": "07/04 14:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775570505",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: EMMANUEL MACRON ANNONCE QUE CÉCILE KOHLER ET JACQUES PARIS SONT \"LIBRES\" ET \"EN CHEMIN VERS LE TERRITOIRE FRANÇAIS\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:01",
+      "date": "07/04",
+      "timestamp": 1775570505
+    },
+    {
+      "id": "BFMTV_1775570439",
+      "source": "BFMTV",
+      "text": " GUERRE AU MOYEN-ORIENT: DONALD TRUMP MET EN GARDE L'IRAN ET ASSURE QUE \"TOUTE UNE CIVILISATION MOURRA CE SOIR\"  ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:00",
+      "date": "07/04",
+      "timestamp": 1775570439
+    },
+    {
+      "id": "BFMTV_1775570393",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON: \"LA SANTÉ MONDIALE NE PROGRESSERA PAS SI LA SCIENCE DEVIENT UN INSTRUMENT DE POLITIQUE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:59",
+      "date": "07/04",
+      "timestamp": 1775570393
+    },
+    {
+      "id": "OPEX360_1775570286",
+      "source": "OPEX360",
+      "text": "DES INSTALLATIONS ÉLECTRIQUES SUSCEPTIBLES D’ALIMENTER DES USINES D’ARMEMENT ONT ÉTÉ SABOTÉES DANS LE CHER",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:58",
+      "date": "07/04",
+      "timestamp": 1775570286
+    },
+    {
+      "id": "BFMTV_1775570215",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON ANNONCE QUE CÉCILE KOHLER ET JACQUES PARIS SONT \"LIBRES\" ET \"EN CHEMIN VERS LE TERRITOIRE FRANÇAIS\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:56",
+      "date": "07/04",
+      "timestamp": 1775570215
+    },
+    {
+      "id": "BFMTV_1775570097",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON ANNONCE QUE CÉCILE KOHLER ET JACQUES PARIS SONT \"LIBRES\" ET \"EN CHEMIN VERS LE TERRITOIRE FRANÇAIS\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:54",
+      "date": "07/04",
+      "timestamp": 1775570097
+    },
+    {
+      "id": "BFMTV_1775569899",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN CASQUE BLEU FRANÇAIS DE LA FINUL LÉGÈREMENT BLESSÉ AU LIBAN ",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:51",
+      "date": "07/04",
+      "timestamp": 1775569899
+    },
+    {
+      "id": "BFMTV_1775569249",
+      "source": "BFMTV",
+      "text": "CÉCILE KOHLER ET JACQUES PARIS \"SONT LIBRES ET EN CHEMIN VERS LE TERRITOIRE FRANÇAIS\", ANNONCE EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:40",
+      "date": "07/04",
+      "timestamp": 1775569249
+    },
+    {
+      "id": "BFMTV_1775569243",
+      "source": "BFMTV",
+      "text": "INFO BFMTV. UN CASQUE BLEU FRANÇAIS DE LA FINUL LÉGÈREMENT BLESSÉ DANS LE SUD DU LIBAN",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:40",
+      "date": "07/04",
+      "timestamp": 1775569243
+    },
+    {
+      "id": "BFMTV_1775568538",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON ANNONCE QUE LES EX-DÉTENUS EN IRAN CÉCILE KOHLER ET JACQUES PARIS SONT \"LIBRES ET EN ROUTE\" VERS LA FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:28",
+      "date": "07/04",
+      "timestamp": 1775568538
+    },
+    {
+      "id": "BFMTV_1775568255",
+      "source": "BFMTV",
+      "text": "INFO BFMTV. UN CASQUE BLEU FRANÇAIS DE LA FINUL LÉGÈREMENT BLESSÉ AU LIBAN",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:24",
+      "date": "07/04",
+      "timestamp": 1775568255
+    },
+    {
+      "id": "BFMTV_1775567742",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L'ÎLE DE KHARG A UN RÔLE CENTRAL POUR L'IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:15",
+      "date": "07/04",
+      "timestamp": 1775567742
+    },
+    {
+      "id": "BFMTV_1775567269",
+      "source": "BFMTV",
+      "text": "UNE \"CIVILISATION ENTIÈRE VA MOURIR CE SOIR\": LE MESSAGE MENAÇANT DE DONALD TRUMP À QUELQUES HEURES DE LA FIN DE SON ULTIMATUM",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:07",
+      "date": "07/04",
+      "timestamp": 1775567269
+    },
+    {
+      "id": "BFMTV_1775567234",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP FÊTE PÂQUES ET SIGNE DES AUTOGRAPHES AUX ENFANTS INVITÉS À LA MAISON BLANCHE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:07",
+      "date": "07/04",
+      "timestamp": 1775567234
+    },
     {
       "id": "BFMTV_1775565691",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "18:41",
       "date": "06/04",
       "timestamp": 1775500869
-    },
-    {
-      "id": "BFMTV_1775500760",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN, INACTION DE L'OTAN, PILOTE AMÉRICAIN SAUVÉ: LA CONFÉRENCE DE PRESSE DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:39",
-      "date": "06/04",
-      "timestamp": 1775500760
-    },
-    {
-      "id": "BFMTV_1775500416",
-      "source": "BFMTV",
-      "text": "VLADIMIR “POUTINE N’A PAS PEUR DE L’OTAN, IL A PEUR DE NOUS”, AFFIRME DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:33",
-      "date": "06/04",
-      "timestamp": 1775500416
-    },
-    {
-      "id": "BFMTV_1775500194",
-      "source": "BFMTV",
-      "text": "IRAN: \"IL FAUT UN ACCORD QUI SOIT ACCEPTABLE, QUE JE TROUVE ACCEPTABLE\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:29",
-      "date": "06/04",
-      "timestamp": 1775500194
-    },
-    {
-      "id": "BFMTV_1775500016",
-      "source": "BFMTV",
-      "text": "IRAN: \"NOUS AVONS GAGNÉ, ILS ONT ÉTÉ BATTUS SUR LE PLAN MILITAIRE\", ESTIME DONALD TRUMP ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:26",
-      "date": "06/04",
-      "timestamp": 1775500016
-    },
-    {
-      "id": "BFMTV_1775499870",
-      "source": "BFMTV",
-      "text": "“JE SUIS TRÈS DÉÇU PAR L’OTAN ”, ANNONCE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:24",
-      "date": "06/04",
-      "timestamp": 1775499870
-    },
-    {
-      "id": "BFMTV_1775499806",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: DONALD TRUMP MENACE DE \"DÉTRUIRE TOUS LES PONTS\" ET DE METTRE LES CENTRALES ÉLECTRIQUES \"EN FEU\" EN L'ABSENCE D'ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:23",
-      "date": "06/04",
-      "timestamp": 1775499806
-    },
-    {
-      "id": "BFMTV_1775499620",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DÉCLARE QUE L'IRAN A \"JUSQU'À DEMAIN 20H\" POUR SE RENDRE",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:20",
-      "date": "06/04",
-      "timestamp": 1775499620
-    },
-    {
-      "id": "BFMTV_1775499335",
-      "source": "BFMTV",
-      "text": "AVION AMÉRICAIN ABATTU EN IRAN: “CET AVION A ÉTÉ ABATTU PAR QUELQU’UN QUI AVAIT UN LANCE-ROQUETTES À L’ÉPAULE”, RÉVÈLE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:15",
-      "date": "06/04",
-      "timestamp": 1775499335
-    },
-    {
-      "id": "BFMTV_1775499241",
-      "source": "BFMTV",
-      "text": " IRAN: UN NOUVEL HOMME PENDU, EN LIEN AVEC LES MANIFESTATIONS DE JANVIER",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:14",
-      "date": "06/04",
-      "timestamp": 1775499241
-    },
-    {
-      "id": "BFMTV_1775499132",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP MENACE LA PRESSE APRÈS DES FUITES SUR LA RECHERCHE DU SECOND PILOTE AMÉRICAIN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:12",
-      "date": "06/04",
-      "timestamp": 1775499132
-    },
-    {
-      "id": "BFMTV_1775498860",
-      "source": "BFMTV",
-      "text": "PILOTE SAUVÉ EN IRAN: \"DANS L'ARMÉE, IL Y A EU QUELQUES-UNS QUI ONT DIT QUE CE N'EST PAS TRÈS INTELLIGENT DE FAIRE\" CETTE MISSION, DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:07",
-      "date": "06/04",
-      "timestamp": 1775498860
-    },
-    {
-      "id": "BFMTV_1775498420",
-      "source": "BFMTV",
-      "text": "\"CELA NE M'INQUIÈTE PAS\": DONALD TRUMP AFFIRME NE PAS AVOIR PEUR DU RISQUE DE COMMETTRE DES CRIMES DE GUERRE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:00",
-      "date": "06/04",
-      "timestamp": 1775498420
-    },
-    {
-      "id": "BFMTV_1775498218",
-      "source": "BFMTV",
-      "text": "\"LE PEUPLE IRANIEN DOIT SE SOULEVER\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:56",
-      "date": "06/04",
-      "timestamp": 1775498218
-    },
-    {
-      "id": "BFMTV_1775497602",
-      "source": "BFMTV",
-      "text": "PILOTE AMÉRICAIN SAUVÉ EN IRAN: \"LA MISSION A ÉTÉ DÉCLENCHÉE À 4H40 DU MATIN\", DÉTAILLE DAN CAINE, CHEF D'ÉTAT-MAJOR DES ARMÉES DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:46",
-      "date": "06/04",
-      "timestamp": 1775497602
     }
   ],
   "france": {
