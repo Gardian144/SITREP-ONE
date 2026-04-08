@@ -1,7 +1,47 @@
 {
-  "last_update": "07/04 23:36",
+  "last_update": "08/04 01:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775609345",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: CE QUE CONTIENT LE PLAN DE PAIX DE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "00:49",
+      "date": "08/04",
+      "timestamp": 1775609345
+    },
+    {
+      "id": "BFMTV_1775609263",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES NÉGOCIATIONS ENTRE WASHINGTON ET TÉHÉRAN AURONT LIEU À ISLAMABAD AU PAKISTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "00:47",
+      "date": "08/04",
+      "timestamp": 1775609263
+    },
+    {
+      "id": "BFMTV_1775609166",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP REPOUSSE SA MENACE D'ATTAQUER L'IRAN DE DEUX SEMAINES, LES IRANIENS ANNONCENT ROUVRIR LE DÉTROIT D'ORMUZ DURANT CETTE PÉRIODE",
+      "urgent": true,
+      "france_related": true,
+      "time": "00:46",
+      "date": "08/04",
+      "timestamp": 1775609166
+    },
+    {
+      "id": "BFMTV_1775606262",
+      "source": "BFMTV",
+      "text": "TÉHÉRAN CONFIRME QUE LE DÉTROIT D'ORMUZ SERA OUVERT PENDANT LES DEUX SEMAINES DE CESSEZ-LE-FEU",
+      "urgent": false,
+      "france_related": true,
+      "time": "23:57",
+      "date": "07/04",
+      "timestamp": 1775606262
+    },
     {
       "id": "BFMTV_1775604905",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "09:02",
       "date": "07/04",
       "timestamp": 1775552527
-    },
-    {
-      "id": "BFMTV_1775551949",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES PONTS ET LES CENTRALES ÉLECTRIQUES IRANIENS DANS LE VISEUR DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:52",
-      "date": "07/04",
-      "timestamp": 1775551949
-    },
-    {
-      "id": "BFMTV_1775551877",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - CES VILLES SOUTERRAINES OÙ L'IRAN CACHE SON ARSENAL",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:51",
-      "date": "07/04",
-      "timestamp": 1775551877
-    },
-    {
-      "id": "BFMTV_1775549743",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LE RISQUE POUR DONALD TRUMP S'EST DE S'ENLISER\", OBSERVE JEAN-CLAUDE BEAUJOUR, SPÉCIALISTE DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:15",
-      "date": "07/04",
-      "timestamp": 1775549743
-    },
-    {
-      "id": "BFMTV_1775549462",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL APPELLE LES IRANIENS À NE PAS VOYAGER EN TRAIN JUSQU'À CE MARDI SOIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:11",
-      "date": "07/04",
-      "timestamp": 1775549462
     }
   ],
   "france": {
