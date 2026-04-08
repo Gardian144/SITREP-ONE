@@ -1,7 +1,167 @@
 {
-  "last_update": "08/04 16:46",
+  "last_update": "08/04 18:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775671469",
+      "source": "BFMTV",
+      "text": "\"DANS UN ÉTAT ÉMOTIONNEL ET PSYCHOLOGIQUE CRITIQUE\": UN FRANÇAIS DÉTENU AU VENEZUELA REMIS EN LIBERTÉ ET \"TRÈS PROCHAINEMENT SUR LE SOL FRANÇAIS\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:04",
+      "date": "08/04",
+      "timestamp": 1775671469
+    },
+    {
+      "id": "BFMTV_1775670949",
+      "source": "BFMTV",
+      "text": " LA MENACE DE BENJAMIN NETANYAHU APRÈS L'ANNONCE DE CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:55",
+      "date": "08/04",
+      "timestamp": 1775670949
+    },
+    {
+      "id": "BFMTV_1775670910",
+      "source": "BFMTV",
+      "text": "LA POPULATION IRANIENNE \"EST COMPLÈTEMENT DÉSESPÉRÉE\", EXPLIQUE L'AMBASSADEUR DE FRANCE EN IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:55",
+      "date": "08/04",
+      "timestamp": 1775670910
+    },
+    {
+      "id": "BFMTV_1775670724",
+      "source": "BFMTV",
+      "text": "\"ON NE PEUT PAS PARLER DE CONTREPARTIE\": L'AMBASSADEUR DE FRANCE EN IRAN ASSURE \"QU'IL N'Y A (EU) PAS D'ÉCHANGE\" ENTRE CÉCILE KOHLER ET JACQUES PARIS D'UN CÔTÉ ET L'IRANIENNE MAHDIEH ESFANDIARI DE L'AUTRE",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:52",
+      "date": "08/04",
+      "timestamp": 1775670724
+    },
+    {
+      "id": "BFMTV_1775670399",
+      "source": "BFMTV",
+      "text": "\"LEUR ÉTAT DE SANTÉ M'INQUIÉTAIT\": L'AMBASSADEUR DE FRANCE EN IRAN REVIENT SUR UNE VISITE CONSULAIRE EN PRISON À CÉCILE KOHLER ET JACQUES PARIS",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:46",
+      "date": "08/04",
+      "timestamp": 1775670399
+    },
+    {
+      "id": "BFMTV_1775670249",
+      "source": "BFMTV",
+      "text": "LIBÉRATION DE CÉCILE KOHLER ET JACQUES PARIS: \"LA SORTIE DU TERRITOIRE IRANIEN EST POUR EUX UN SOULAGEMENT\", CONFIE L'AMBASSADEUR DE FRANCE EN IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:44",
+      "date": "08/04",
+      "timestamp": 1775670249
+    },
+    {
+      "id": "BFMTV_1775670024",
+      "source": "BFMTV",
+      "text": "LIBÉRATION DE CÉCILE KOHLER ET JACQUES PARIS: \"LE FEU VERT DÉFINITIF NOUS A ÉTÉ DONNÉ LUNDI SOIR\", EXPLIQUE L'AMBASSADEUR DE FRANCE EN IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:40",
+      "date": "08/04",
+      "timestamp": 1775670024
+    },
+    {
+      "id": "OPEX360_1775669938",
+      "source": "OPEX360",
+      "text": "LA LPM 2024-30 ACTUALISÉE PRIVILÉGIE LE DÉVELOPPEMENT DU RAFALE F5 AUX DÉPENS DU RENFORCEMENT DE LA «TRAME CHASSE»",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:38",
+      "date": "08/04",
+      "timestamp": 1775669938
+    },
+    {
+      "id": "BFMTV_1775669822",
+      "source": "BFMTV",
+      "text": "\"UN ABOUTISSEMENT ET UNE GRANDE JOIE\": L'AMBASSADEUR DE FRANCE EN IRAN REVIENT SUR LA LIBÉRATION DE CÉCILE KOHLER ET JACQUES PARIS ",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:37",
+      "date": "08/04",
+      "timestamp": 1775669822
+    },
+    {
+      "id": "BFMTV_1775669482",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS AVONS NOTRE DOIGT SUR LA GÂCHETTE\", DÉCLARE BENYAMIN NETANYAHOU, PREMIER MINISTRE ISRAÉLIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:31",
+      "date": "08/04",
+      "timestamp": 1775669482
+    },
+    {
+      "id": "BFMTV_1775669410",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU S'EXPRIME APRÈS L'ANNONCE DE CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:30",
+      "date": "08/04",
+      "timestamp": 1775669410
+    },
+    {
+      "id": "BFMTV_1775669057",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: 254 MORTS ET 1.165 BLESSÉS AU LIBAN APRÈS LES FRAPPES ISRAÉLIENNES, L'IRAN MENACE DE RÉPLIQUER",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:24",
+      "date": "08/04",
+      "timestamp": 1775669057
+    },
+    {
+      "id": "BFMTV_1775668942",
+      "source": "BFMTV",
+      "text": "“L’IRAN EST PLUS FAIBLE QUE JAMAIS, ISRAËL EST PLUS FORT QUE JAMAIS”, AFFIRME BENJAMIN NETANYAHU, PREMIER MINISTRE ISRAÉLIEN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:22",
+      "date": "08/04",
+      "timestamp": 1775668942
+    },
+    {
+      "id": "BFMTV_1775668504",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN POSE SES CONDITIONS CONCERNANT LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:15",
+      "date": "08/04",
+      "timestamp": 1775668504
+    },
+    {
+      "id": "BFMTV_1775667971",
+      "source": "BFMTV",
+      "text": "“IL Y A UN ALIGNEMENT ISRAÉLO-AMÉRICAIN SUR LA QUESTION DU LIBAN ET L’IRAN N’EST PAS D’ACCORD AVEC ÇA”, DÉTAILLE MAYA KHADRA, ENSEIGNANTE ET JOURNALISTE SPÉCIALISTE DU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:06",
+      "date": "08/04",
+      "timestamp": 1775667971
+    },
+    {
+      "id": "BFMTV_1775667713",
+      "source": "BFMTV",
+      "text": "LE COMPOSANT D'UN MISSILE TRÈS CONVOITÉ RETROUVÉ INTACT EN SYRIE FAIT CRAINDRE UNE FUITE DE RENSEIGNEMENTS POUR LES ÉTATS-UNIS  ",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:01",
+      "date": "08/04",
+      "timestamp": 1775667713
+    },
     {
       "id": "BFMTV_1775666686",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "07:11",
       "date": "08/04",
       "timestamp": 1775632277
-    },
-    {
-      "id": "BFMTV_1775632030",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DES DÉGÂTS DES FRAPPES ISRAÉLIENNES À SAÏDA AU LIBAN, QUELQUES MINUTES AVANT L'ANNONCE DU CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:07",
-      "date": "08/04",
-      "timestamp": 1775632030
-    },
-    {
-      "id": "BFMTV_1775631824",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON JUGE QUE LE CESSEZ-LE-FEU EST \"UNE TRÈS BONNE CHOSE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:03",
-      "date": "08/04",
-      "timestamp": 1775631824
-    },
-    {
-      "id": "BFMTV_1775630890",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POUR JEAN-PAUL PALOMÉROS, ANCIEN CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE L'AIR, “SI LE RÉGIME IRANIEN TOMBAIT, IL Y AURAIT UN VRAI ESPOIR DE PAIX”",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:48",
-      "date": "08/04",
-      "timestamp": 1775630890
-    },
-    {
-      "id": "BFMTV_1775630673",
-      "source": "BFMTV",
-      "text": "IRAN: \"LA VIE DU PEUPLE IRANIEN SERA TERRIBLE ET SOUS LE JOUG DE CE POUVOIR QUI SORTIRA RENFORCÉ\", AFFIRME LE GÉNÉRAL JEAN-PAUL PALOMÉROS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:44",
-      "date": "08/04",
-      "timestamp": 1775630673
-    },
-    {
-      "id": "BFMTV_1775630318",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: “LE LIBAN VA CONTINUER DE SOUFFRIR”, EXPLIQUE JEAN-PAUL PALOMEROS, ANCIEN CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE L'AIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:38",
-      "date": "08/04",
-      "timestamp": 1775630318
-    },
-    {
-      "id": "BFMTV_1775630080",
-      "source": "BFMTV",
-      "text": "TRÊVE AU MOYEN-ORIENT: LES IRANIENS \"ONT PERDU DES PIÈCES MAIS CE SONT EUX QUI TIENNENT LA MAIN\", ESTIME LE GÉNÉRAL JEAN-PAUL PALOMÉROS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:34",
-      "date": "08/04",
-      "timestamp": 1775630080
-    },
-    {
-      "id": "BFMTV_1775629812",
-      "source": "BFMTV",
-      "text": "LE CHEF DE L'OPPOSITION ISRAÉLIENNE ESTIME QUE LE CESSEZ-LE-FEU CONCLU ENTRE LES ÉTATS-UNIS ET L'IRAN EST UN \"DÉSASTRE POLITIQUE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:30",
-      "date": "08/04",
-      "timestamp": 1775629812
-    },
-    {
-      "id": "BFMTV_1775629512",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSION ENTENDUES À BAHREÏN APRÈS L'ANNONCE D'UN CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:25",
-      "date": "08/04",
-      "timestamp": 1775629512
-    },
-    {
-      "id": "BFMTV_1775627689",
-      "source": "BFMTV",
-      "text": "\"TROP DÉSÉQUILIBRÉ, DANGEREUX ET DÉRANGÉ\": DE NOMBREUX ÉLUS DÉMOCRATES APPELLENT À DÉMETTRE DONALD TRUMP DE SES FONCTIONS APRÈS SES MENACES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:54",
-      "date": "08/04",
-      "timestamp": 1775627689
-    },
-    {
-      "id": "BFMTV_1775627333",
-      "source": "BFMTV",
-      "text": "TRÊVE AU MOYEN-ORIENT: BENJAMIN NETANYAHOU REFUSE D'INCLURE LE LIBAN DANS L'ACCORD, LES PREMIÈRES HEURES DU CESSEZ-LE-FEU FRAGILISÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:48",
-      "date": "08/04",
-      "timestamp": 1775627333
-    },
-    {
-      "id": "BFMTV_1775627231",
-      "source": "BFMTV",
-      "text": "TRÊVE AU MOYEN-ORIENT: QUE CONTIENT LE CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:47",
-      "date": "08/04",
-      "timestamp": 1775627231
-    },
-    {
-      "id": "BFMTV_1775627206",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: AU MOINS HUIT MORTS ET 22 BLESSÉS AU LIBAN LORS D'UNE FRAPPE ISRAÉLIENNE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:46",
-      "date": "08/04",
-      "timestamp": 1775627206
-    },
-    {
-      "id": "BFMTV_1775626782",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE LIBAN N'EST PAS INCLUS DANS LE CESSEZ-LE-FEU SELON ISRAËL ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:39",
-      "date": "08/04",
-      "timestamp": 1775626782
-    },
-    {
-      "id": "BFMTV_1775626354",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS ENTENDUES À BAHREÏN APRÈS L'ANNONCE DE LA TRÊVE AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:32",
-      "date": "08/04",
-      "timestamp": 1775626354
-    },
-    {
-      "id": "BFMTV_1775626043",
-      "source": "BFMTV",
-      "text": "CESSEZ-LE-FEU: ISRAËL PRÉCISE DE SON CÔTÉ QUE L'ACCORD TEMPORAIRE \"NE CONCERNE PAS LE LIBAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:27",
-      "date": "08/04",
-      "timestamp": 1775626043
-    },
-    {
-      "id": "BFMTV_1775624334",
-      "source": "BFMTV",
-      "text": "CÉCILE KOHLER ET JACQUES PARIS LIBÉRÉS: L'ÉMOTION ET LE SOULAGEMENT DES PROCHES",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:58",
-      "date": "08/04",
-      "timestamp": 1775624334
     }
   ],
   "france": {
