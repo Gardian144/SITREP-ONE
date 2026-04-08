@@ -1,7 +1,147 @@
 {
-  "last_update": "08/04 04:08",
+  "last_update": "08/04 05:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775627689",
+      "source": "BFMTV",
+      "text": "\"TROP DÉSÉQUILIBRÉ, DANGEREUX ET DÉRANGÉ\": DE NOMBREUX ÉLUS DÉMOCRATES APPELLENT À DÉMETTRE DONALD TRUMP DE SES FONCTIONS APRÈS SES MENACES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:54",
+      "date": "08/04",
+      "timestamp": 1775627689
+    },
+    {
+      "id": "BFMTV_1775627333",
+      "source": "BFMTV",
+      "text": "TRÊVE AU MOYEN-ORIENT: BENJAMIN NETANYAHOU REFUSE D'INCLURE LE LIBAN DANS L'ACCORD, LES PREMIÈRES HEURES DU CESSEZ-LE-FEU FRAGILISÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:48",
+      "date": "08/04",
+      "timestamp": 1775627333
+    },
+    {
+      "id": "BFMTV_1775627231",
+      "source": "BFMTV",
+      "text": "TRÊVE AU MOYEN-ORIENT: QUE CONTIENT LE CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:47",
+      "date": "08/04",
+      "timestamp": 1775627231
+    },
+    {
+      "id": "BFMTV_1775627206",
+      "source": "BFMTV",
+      "text": " GUERRE AU MOYEN-ORIENT: AU MOINS HUIT MORTS ET 22 BLESSÉS AU LIBAN LORS D'UNE FRAPPE ISRAÉLIENNE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:46",
+      "date": "08/04",
+      "timestamp": 1775627206
+    },
+    {
+      "id": "BFMTV_1775626782",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE LIBAN N'EST PAS INCLUS DANS LE CESSEZ-LE-FEU SELON ISRAËL ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:39",
+      "date": "08/04",
+      "timestamp": 1775626782
+    },
+    {
+      "id": "BFMTV_1775626354",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS ENTENDUES À BAHREÏN APRÈS L'ANNONCE DE LA TRÊVE AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:32",
+      "date": "08/04",
+      "timestamp": 1775626354
+    },
+    {
+      "id": "BFMTV_1775626043",
+      "source": "BFMTV",
+      "text": "CESSEZ-LE-FEU: ISRAËL PRÉCISE DE SON CÔTÉ QUE L'ACCORD TEMPORAIRE \"NE CONCERNE PAS LE LIBAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:27",
+      "date": "08/04",
+      "timestamp": 1775626043
+    },
+    {
+      "id": "BFMTV_1775624334",
+      "source": "BFMTV",
+      "text": "CÉCILE KOHLER ET JACQUES PARIS LIBÉRÉS: L'ÉMOTION ET LE SOULAGEMENT DES PROCHES",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:58",
+      "date": "08/04",
+      "timestamp": 1775624334
+    },
+    {
+      "id": "BFMTV_1775623770",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS HUIT MORTS DANS UNE FRAPPE ISRAÉLIENNE DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:49",
+      "date": "08/04",
+      "timestamp": 1775623770
+    },
+    {
+      "id": "BFMTV_1775623518",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE CESSEZ-LE-FEU PEUT-IL TENIR ? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:45",
+      "date": "08/04",
+      "timestamp": 1775623518
+    },
+    {
+      "id": "BFMTV_1775623496",
+      "source": "BFMTV",
+      "text": "L'IRAN ACCEPTE DE ROUVRIR LE DÉTROIT D'ORMUZ SI LES ATTAQUES ISRAÉLO-AMÉRICAINES CESSENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:44",
+      "date": "08/04",
+      "timestamp": 1775623496
+    },
+    {
+      "id": "BFMTV_1775622829",
+      "source": "BFMTV",
+      "text": "LA JOURNALISTE AMÉRICAINE SHELLY KITTLESON, ENLEVÉE FIN MARS EN IRAK, LIBÉRÉE PAR LE GROUPE KATAËB HEZBOLLAH",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:33",
+      "date": "08/04",
+      "timestamp": 1775622829
+    },
+    {
+      "id": "BFMTV_1775622637",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AVEC DES CASQUES BLEUS FRANÇAIS DANS LE SUD-LIBAN ",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:30",
+      "date": "08/04",
+      "timestamp": 1775622637
+    },
+    {
+      "id": "BFMTV_1775622368",
+      "source": "BFMTV",
+      "text": "NUCLÉAIRE IRANIEN: UNE TENSION PERSISTANTE AU CŒUR DE LA GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:26",
+      "date": "08/04",
+      "timestamp": 1775622368
+    },
     {
       "id": "BFMTV_1775620872",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "13:24",
       "date": "07/04",
       "timestamp": 1775568255
-    },
-    {
-      "id": "BFMTV_1775567742",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L'ÎLE DE KHARG A UN RÔLE CENTRAL POUR L'IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:15",
-      "date": "07/04",
-      "timestamp": 1775567742
-    },
-    {
-      "id": "BFMTV_1775567269",
-      "source": "BFMTV",
-      "text": "UNE \"CIVILISATION ENTIÈRE VA MOURIR CE SOIR\": LE MESSAGE MENAÇANT DE DONALD TRUMP À QUELQUES HEURES DE LA FIN DE SON ULTIMATUM",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:07",
-      "date": "07/04",
-      "timestamp": 1775567269
-    },
-    {
-      "id": "BFMTV_1775567234",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP FÊTE PÂQUES ET SIGNE DES AUTOGRAPHES AUX ENFANTS INVITÉS À LA MAISON BLANCHE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:07",
-      "date": "07/04",
-      "timestamp": 1775567234
-    },
-    {
-      "id": "BFMTV_1775565691",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES D'AMPLEUR MENÉES SUR DES INFRASTRUCTURES EN IRAN, L'ÎLE DE KHARG VISÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:41",
-      "date": "07/04",
-      "timestamp": 1775565691
-    },
-    {
-      "id": "BFMTV_1775565624",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: DONALD TRUMP AFFIRME QU'UNE \"CIVILISATION ENTIÈRE VA MOURIR CE SOIR\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:40",
-      "date": "07/04",
-      "timestamp": 1775565624
-    },
-    {
-      "id": "BFMTV_1775565005",
-      "source": "BFMTV",
-      "text": "ULTIMATUM DE DONALD TRUMP: WASHINGTON \"CONFIANT\" POUR UNE RÉPONSE DES IRANIENS \"D'ICI 20H CE SOIR\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:30",
-      "date": "07/04",
-      "timestamp": 1775565005
-    },
-    {
-      "id": "BFMTV_1775564018",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP ASSURE QUE \"TOUTE UNE CIVILISATION MOURRA CE SOIR\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:13",
-      "date": "07/04",
-      "timestamp": 1775564018
-    },
-    {
-      "id": "BFMTV_1775563691",
-      "source": "BFMTV",
-      "text": "POUR JD VANCE, \"LES BUREAUCRATES À BRUXELLES ONT ESSAYÉ DE DÉTRUIRE L'ÉCONOMIE DE LA HONGRIE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:08",
-      "date": "07/04",
-      "timestamp": 1775563691
-    },
-    {
-      "id": "BFMTV_1775563509",
-      "source": "BFMTV",
-      "text": "IRAN: PLUSIEURS MÉDIAS AMÉRICAINS FONT ÉTAT DE FRAPPES CONTRE L'ÎLE DE KHARG",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:05",
-      "date": "07/04",
-      "timestamp": 1775563509
-    },
-    {
-      "id": "BFMTV_1775563446",
-      "source": "BFMTV",
-      "text": "\"ILS AURAIENT DÛ SUIVRE LES POLITIQUES DE VIKTOR ORBAN\": JD VANCE ÉVOQUE L'ATTITUDE DES EUROPÉENS FACE À LA CRISE ÉNERGÉTIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:04",
-      "date": "07/04",
-      "timestamp": 1775563446
-    },
-    {
-      "id": "BFMTV_1775562338",
-      "source": "BFMTV",
-      "text": " AUX ÉTATS-UNIS, LE RAPPEUR OFFSET BLESSÉ PAR BALLE DANS UNE FUSILLADE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:45",
-      "date": "07/04",
-      "timestamp": 1775562338
-    },
-    {
-      "id": "BFMTV_1775561565",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: DES FRAPPES D'AMPLEUR MENÉES SUR DES INFRASTRUCTURES, TÉHÉRAN MENACE D'ÉTENDRE SA RIPOSTE AU-DELÀ DE LA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:32",
-      "date": "07/04",
-      "timestamp": 1775561565
-    },
-    {
-      "id": "BFMTV_1775560208",
-      "source": "BFMTV",
-      "text": " AU SUD-LIBAN, LES ONG ESPÈRENT QUE LES CONVOIS HUMANITAIRES REPRENNENT  ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:10",
-      "date": "07/04",
-      "timestamp": 1775560208
-    },
-    {
-      "id": "BFMTV_1775559675",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LA PATRIE, LA NATION, C'EST TRÈS PRÉCIEUX POUR LES IRANIENS ET C'EST CELA QUI VA PRIMER AU-DELÀ D'UN SOUTIEN À L'ÉGARD DU RÉGIME\", EXPLIQUE DELPHINE MINOUI, JOURNALISTE AU FIGARO",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:01",
-      "date": "07/04",
-      "timestamp": 1775559675
     }
   ],
   "france": {
