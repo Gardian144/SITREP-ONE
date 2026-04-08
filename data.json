@@ -1,7 +1,127 @@
 {
-  "last_update": "08/04 10:07",
+  "last_update": "08/04 11:15",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775646633",
+      "source": "BFMTV",
+      "text": "LA PRISE DE PAROLE EN INTÉGRALITÉ DES EX-OTAGES, CÉCILE KOHLER ET JACQUES PARIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:10",
+      "date": "08/04",
+      "timestamp": 1775646633
+    },
+    {
+      "id": "BFMTV_1775646505",
+      "source": "BFMTV",
+      "text": "DIRECT. \"NOUS AVONS VÉCU L'HORREUR QUOTIDIENNE\": CÉCILE KOHLER ET JACQUES PARIS PRENNENT LA PAROLE APRÈS LEUR RETOUR EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:08",
+      "date": "08/04",
+      "timestamp": 1775646505
+    },
+    {
+      "id": "BFMTV_1775646483",
+      "source": "BFMTV",
+      "text": "JACQUES PARIS, ANCIEN OTAGE DÉTENU PENDANT TROIS ANS EN IRAN, DÉCRIT DES \"CONDITIONS DE DÉTENTION INHUMAINES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:08",
+      "date": "08/04",
+      "timestamp": 1775646483
+    },
+    {
+      "id": "BFMTV_1775646245",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES SOULAGÉS DE REVOIR NOS PROCHES, C'EST UN BONHEUR IMMENSE DE LES PRENDRE DANS NOS BRAS ENFIN\", DÉCLARE CÉCILE KOHLER, ANCIENNE OTAGE DÉTENUE PENDANT TROIS ANS EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:04",
+      "date": "08/04",
+      "timestamp": 1775646245
+    },
+    {
+      "id": "BFMTV_1775645383",
+      "source": "BFMTV",
+      "text": "TRANSPORT AÉRIEN: L'APPROVISIONNEMENT EN KÉROSÈNE METTRA \"DES MOIS\" POUR REVENIR À LA NORMALE, SELON L'IATA",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:49",
+      "date": "08/04",
+      "timestamp": 1775645383
+    },
+    {
+      "id": "BFMTV_1775644929",
+      "source": "BFMTV",
+      "text": "TRÊVE AU MOYEN-ORIENT: J.D. VANCE PRÉVIENT LES IRANIENS EN CAS DE NON-RESPECT DU CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:42",
+      "date": "08/04",
+      "timestamp": 1775644929
+    },
+    {
+      "id": "BFMTV_1775644882",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE KOWEÏT DIT FAIRE FACE À UNE \"INTENSE VAGUE D'ATTAQUES\" IRANIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:41",
+      "date": "08/04",
+      "timestamp": 1775644882
+    },
+    {
+      "id": "BFMTV_1775643485",
+      "source": "BFMTV",
+      "text": "CESSEZ-LE-FEU EN IRAN: LE VICE-PRÉSIDENT AMÉRICAIN JD VANCE ÉVOQUE \"UNE TRÊVE FRAGILE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:18",
+      "date": "08/04",
+      "timestamp": 1775643485
+    },
+    {
+      "id": "BFMTV_1775643262",
+      "source": "BFMTV",
+      "text": "LA GUERRE EN UKRAINE EST \"LA GUERRE LA PLUS DIFFICILE À RÉSOUDRE\", ESTIME LE VICE-PRÉSIDENT AMÉRICAIN JD VANCE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:14",
+      "date": "08/04",
+      "timestamp": 1775643262
+    },
+    {
+      "id": "BFMTV_1775643048",
+      "source": "BFMTV",
+      "text": "CÉCILE KOHLER ET JACQUES PARIS REÇUS À L'ÉLYSÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:10",
+      "date": "08/04",
+      "timestamp": 1775643048
+    },
+    {
+      "id": "BFMTV_1775642952",
+      "source": "BFMTV",
+      "text": "\"LE PRÉSIDENT DES ÉTATS-UNIS N'EST PAS QUELQU'UN QUI PLAISANTE\": J.D. VANCE ALERTE LES IRANIENS SUR LES CONSÉQUENCES D'UN NON-RESPECT DU CESSEZ-LE-FEU ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:09",
+      "date": "08/04",
+      "timestamp": 1775642952
+    },
+    {
+      "id": "OPEX360_1775642871",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT LANCE ENFIN UN APPEL D’OFFRES POUR REMPLACER LES VIEUX VLRA NRBC DE L’ARMÉE DE TERRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:07",
+      "date": "08/04",
+      "timestamp": 1775642871
+    },
     {
       "id": "BFMTV_1775642736",
       "source": "BFMTV",
@@ -11,6 +131,16 @@
       "time": "10:05",
       "date": "08/04",
       "timestamp": 1775642736
+    },
+    {
+      "id": "BFMTV_1775642725",
+      "source": "BFMTV",
+      "text": "LIBÉRÉS, CÉCILE KOHLER ET JACQUES PARIS SONT ACCUEILLIS PAR EMMANUEL MACRON À L'ÉLYSÉE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:05",
+      "date": "08/04",
+      "timestamp": 1775642725
     },
     {
       "id": "BFMTV_1775642714",
@@ -871,136 +1001,6 @@
       "time": "19:05",
       "date": "07/04",
       "timestamp": 1775588700
-    },
-    {
-      "id": "BFMTV_1775587409",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:43",
-      "date": "07/04",
-      "timestamp": 1775587409
-    },
-    {
-      "id": "BFMTV_1775587408",
-      "source": "BFMTV",
-      "text": "\"IL EST IMPATIENT DE RÉPONDRE AUX QUESTIONS\": BILL GATES ENTENDU LE 10 JUIN AU CONGRÈS AMÉRICAIN SUR L'AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:43",
-      "date": "07/04",
-      "timestamp": 1775587408
-    },
-    {
-      "id": "BFMTV_1775587300",
-      "source": "BFMTV",
-      "text": "ULTIMATUM DE TRUMP À L'IRAN: LE PRÉSIDENT AMÉRICAIN TIENT UNE RÉUNION DEPUIS CE MATIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:41",
-      "date": "07/04",
-      "timestamp": 1775587300
-    },
-    {
-      "id": "BFMTV_1775586613",
-      "source": "BFMTV",
-      "text": "SELON UN MÉDIA BRITANNIQUE, LE GUIDE SUPRÊME IRANIEN MOJTABA KHAMENEI SERAIT \"INCONSCIENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:30",
-      "date": "07/04",
-      "timestamp": 1775586613
-    },
-    {
-      "id": "BFMTV_1775585595",
-      "source": "BFMTV",
-      "text": "DES FRAPPES AMÉRICANO-ISRAÉLIENNES ONT CIBLÉ DES INFRASTRUCTURES CIVILES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:13",
-      "date": "07/04",
-      "timestamp": 1775585595
-    },
-    {
-      "id": "BFMTV_1775585561",
-      "source": "BFMTV",
-      "text": "“LE TEMPS EST PLUS COMPTÉ POUR L’ADMINISTRATION AMÉRICAINE ET SON ALLIÉ ISRAÉLIEN, QUE POUR LE RÉGIME IRANIEN”, AFFIRME JEAN-FRANÇOIS COLOSIMO, HISTORIEN SPÉCIALISTE DU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:12",
-      "date": "07/04",
-      "timestamp": 1775585561
-    },
-    {
-      "id": "BFMTV_1775584396",
-      "source": "BFMTV",
-      "text": "“L’IRAN A ÉTÉ UN ACTEUR IMPORTANT DU TERRORISME EN FRANCE AU DÉBUT DES ANNÉES 1980”, RAPPELLE GILLES KEPEL, SPÉCIALISTE DU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:53",
-      "date": "07/04",
-      "timestamp": 1775584396
-    },
-    {
-      "id": "BFMTV_1775584343",
-      "source": "BFMTV",
-      "text": "MENACES DE DONALD TRUMP ENVERS L'IRAN: \"UN LANGAGE IRRESPONSABLE\", DÉNONCE L'AMBASSADEUR IRANIEN À L'ONU",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:52",
-      "date": "07/04",
-      "timestamp": 1775584343
-    },
-    {
-      "id": "BFMTV_1775584306",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"IL EST REGRETTABLE QUE LE CONSEIL SE TROUVE AUJOURD'HUI EMPÊCHÉ DE SOUTENIR LES EFFORTS DE SÉCURISATION DU DÉTROIT D'ORMUZ\", DÉPLORE JÉRÔME BONNAFONT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:51",
-      "date": "07/04",
-      "timestamp": 1775584306
-    },
-    {
-      "id": "BFMTV_1775584240",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: LES HOMMES DE 17 À 45 ANS DOIVENT DEMANDER UNE AUTORISATION POUR PARTIR PLUS DE TROIS MOIS À L'ÉTRANGER",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:50",
-      "date": "07/04",
-      "timestamp": 1775584240
-    },
-    {
-      "id": "BFMTV_1775583688",
-      "source": "BFMTV",
-      "text": "ULTIMATUM DE TRUMP: \"IL VA Y AVOIR INDÉNIABLEMENT UN EFFORT MAJEUR DES ÉTATS-UNIS POUR ESSAYER DE DONNER UN DERNIER COUP DE COLLIER\" À L'IRAN, OBSERVE GILLES KEPEL, SPÉCIALISTE DU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:41",
-      "date": "07/04",
-      "timestamp": 1775583688
-    },
-    {
-      "id": "BFMTV_1775583292",
-      "source": "BFMTV",
-      "text": "\"JE NE SAIS PAS QUOI PENSER DU COMPORTEMENT DE TRUMP\": UN IRANIEN RÉAGIT À L'ULTIMATUM DU PRÉSIDENT DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:34",
-      "date": "07/04",
-      "timestamp": 1775583292
-    },
-    {
-      "id": "BFMTV_1775583102",
-      "source": "BFMTV",
-      "text": "IRAN: LE CONTRASTE ENTRE LES RASSEMBLEMENTS DE 2026 ET CEUX DE 2020",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:31",
-      "date": "07/04",
-      "timestamp": 1775583102
     }
   ],
   "france": {
