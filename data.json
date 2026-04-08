@@ -1,7 +1,117 @@
 {
-  "last_update": "08/04 14:02",
+  "last_update": "08/04 15:43",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775662946",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: LE PAKISTAN APPELLE À \"LA RETENUE\" APRÈS DES SIGNALEMENTS DE \"VIOLATIONS DU CESSEZ-LE-FEU\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:42",
+      "date": "08/04",
+      "timestamp": 1775662946
+    },
+    {
+      "id": "BFMTV_1775662136",
+      "source": "BFMTV",
+      "text": "LES ÉMIRATS ARABES UNIS AURAIENT INTERCEPTÉ 17 MISSILES ET 35 DRONES IRANIENS, DEPUIS LE DÉBUT DU CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:28",
+      "date": "08/04",
+      "timestamp": 1775662136
+    },
+    {
+      "id": "BFMTV_1775661392",
+      "source": "BFMTV",
+      "text": "“IL SERA QUAND MÊME DIFFICILE D’EMPÊCHER ISRAËL D’AGIR AU SUD-LIBAN”, EXPLIQUE DIDIER GROS, CHERCHEUR ASSOCIÉ À LA FONDATION POUR LA RECHERCHE STRATÉGIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:16",
+      "date": "08/04",
+      "timestamp": 1775661392
+    },
+    {
+      "id": "BFMTV_1775660848",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE PAKISTANAIS AFFIRME QUE DES VIOLATIONS DU CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS \"ONT ÉTÉ SIGNALÉES\" ET APPELLE À LA \"RETENUE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:07",
+      "date": "08/04",
+      "timestamp": 1775660848
+    },
+    {
+      "id": "BFMTV_1775660766",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES DÉTAILS DU CESSEZ-LE-FEU EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:06",
+      "date": "08/04",
+      "timestamp": 1775660766
+    },
+    {
+      "id": "BFMTV_1775660671",
+      "source": "BFMTV",
+      "text": "\"TSAHAL A MENÉ UNE FRAPPE SURPRISE CONTRE DES CENTAINES DE TERRORISTES DU HEZBOLLAH\", DÉCLARE ISRAËL KATZ, MINISTRE ISRAÉLIEN DE LA DÉFENSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:04",
+      "date": "08/04",
+      "timestamp": 1775660671
+    },
+    {
+      "id": "BFMTV_1775660428",
+      "source": "BFMTV",
+      "text": "LIBAN: AU MOINS 100 MORTS ET DES CENTAINES DE BLESSÉS APRÈS LES FRAPPES ISRAÉLIENNES SUR BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:00",
+      "date": "08/04",
+      "timestamp": 1775660428
+    },
+    {
+      "id": "BFMTV_1775659953",
+      "source": "BFMTV",
+      "text": "CESSEZ-LE-FEU EN IRAN: “LE LIBAN NE FAIT PAS PARTIE DE L’ACCORD”, DÉCLARE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:52",
+      "date": "08/04",
+      "timestamp": 1775659953
+    },
+    {
+      "id": "BFMTV_1775659490",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PAKISTAN APPELLE À \"LA RETENUE\" ET AFFIRME QUE DES VIOLATIONS DU CESSEZ-LE-FEU \"ONT ÉTÉ SIGNALÉES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:44",
+      "date": "08/04",
+      "timestamp": 1775659490
+    },
+    {
+      "id": "BFMTV_1775659088",
+      "source": "BFMTV",
+      "text": "DES FRAPPES ISRAÉLIENNES AU LIBAN FONT PLUS DE 100 MORTS ET BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:38",
+      "date": "08/04",
+      "timestamp": 1775659088
+    },
+    {
+      "id": "BFMTV_1775658736",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES HÔPITAUX DE BEYROUTH SONT SATURÉS APRÈS LES NOUVELLES FRAPPES ISRAÉLIENNES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:32",
+      "date": "08/04",
+      "timestamp": 1775658736
+    },
     {
       "id": "BFMTV_1775655944",
       "source": "BFMTV",
@@ -16,6 +126,16 @@
       "id": "BFMTV_1775655943",
       "source": "BFMTV",
       "text": "ISRAËL DIT AVOIR MENÉ \"SA PLUS GRANDE FRAPPE COORDONNÉE\" CONTRE LE HEZBOLLAH AU LIBAN DEPUIS LE DÉBUT DE LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:45",
+      "date": "08/04",
+      "timestamp": 1775655943
+    },
+    {
+      "id": "BFMTV_1775655943",
+      "source": "BFMTV",
+      "text": "ISRAËL DIT AVOIR MENÉ \"SA PLUS GRANDE FRAPPE COORDONNÉE\" CONTRE LE HEZBOLLAH AU LIBAN DEPUIS LE DÉBUT DE LA GUERRE, PLUS DE 100 MORTS ET BLESSÉS",
       "urgent": true,
       "france_related": false,
       "time": "13:45",
@@ -881,126 +1001,6 @@
       "time": "04:33",
       "date": "08/04",
       "timestamp": 1775622829
-    },
-    {
-      "id": "BFMTV_1775622637",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AVEC DES CASQUES BLEUS FRANÇAIS DANS LE SUD-LIBAN ",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:30",
-      "date": "08/04",
-      "timestamp": 1775622637
-    },
-    {
-      "id": "BFMTV_1775622368",
-      "source": "BFMTV",
-      "text": "NUCLÉAIRE IRANIEN: UNE TENSION PERSISTANTE AU CŒUR DE LA GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:26",
-      "date": "08/04",
-      "timestamp": 1775622368
-    },
-    {
-      "id": "BFMTV_1775620872",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: DONALD TRUMP REVENDIQUE UNE \"VICTOIRE TOTALE ET COMPLÈTE\" APRÈS L'ANNONCE D'UN CESSEZ-LE-FEU TEMPORAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:01",
-      "date": "08/04",
-      "timestamp": 1775620872
-    },
-    {
-      "id": "BFMTV_1775619838",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: ISRAËL ASSURE QUE LE CESSEZ-LE-FEU \"N'INCLUT PAR LE LIBAN\" ",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:43",
-      "date": "08/04",
-      "timestamp": 1775619838
-    },
-    {
-      "id": "BFMTV_1775618260",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ASSURE QUE LE CESSEZ-LE-FEU AVEC L'IRAN \"N'INCLUT PAS LE LIBAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:17",
-      "date": "08/04",
-      "timestamp": 1775618260
-    },
-    {
-      "id": "BFMTV_1775617709",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU ANNONCE QUE LE LIBAN N'EST PAS INCLUS DANS L'ACCORD DE CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:08",
-      "date": "08/04",
-      "timestamp": 1775617709
-    },
-    {
-      "id": "BFMTV_1775617416",
-      "source": "BFMTV",
-      "text": "\"C'EST CE QUE J'ENTENDS DIRE\": DONALD TRUMP SOUS-ENTEND QUE LA CHINE A POUSSÉ L'IRAN À NÉGOCIER LE CESSEZ-LE-FEU TEMPORAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:03",
-      "date": "08/04",
-      "timestamp": 1775617416
-    },
-    {
-      "id": "BFMTV_1775617165",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA CHINE AURAIT INCITÉ L'IRAN À NÉGOCIER SELON DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "02:59",
-      "date": "08/04",
-      "timestamp": 1775617165
-    },
-    {
-      "id": "BFMTV_1775616567",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ESPÈRE DES AVANCÉES NOTABLES LORS DE CE CESSEZ-LE-FEU SELON LA TÉLÉVISION ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "02:49",
-      "date": "08/04",
-      "timestamp": 1775616567
-    },
-    {
-      "id": "BFMTV_1775616076",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN SE DÉCLARE VICTORIEUX DE LA GUERRE SELON LA TÉLÉVISION IRANIENNE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "02:41",
-      "date": "08/04",
-      "timestamp": 1775616076
-    },
-    {
-      "id": "BFMTV_1775615679",
-      "source": "BFMTV",
-      "text": "GUERRE EN MOYEN-ORIENT: L'IRAN DÉVOILE SON PLAN DE PAIX EN DIX POINTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "02:34",
-      "date": "08/04",
-      "timestamp": 1775615679
-    },
-    {
-      "id": "BFMTV_1775614399",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ACCEPTE LA TRÊVE AVEC L'IRAN SELON LA MAISON BLANCHE (ÉTATS-UNIS)",
-      "urgent": true,
-      "france_related": false,
-      "time": "02:13",
-      "date": "08/04",
-      "timestamp": 1775614399
     }
   ],
   "france": {
