@@ -1,7 +1,77 @@
 {
-  "last_update": "08/04 20:24",
+  "last_update": "08/04 21:09",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775681962",
+      "source": "BFMTV",
+      "text": "CESSEZ-LE-FEU EN IRAN: EMMANUEL MACRON S'EST ENTRETENU AVEC DONALD TRUMP ET MASSOUD PEZESHKIAN, LE PRÉSIDENT IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:59",
+      "date": "08/04",
+      "timestamp": 1775681962
+    },
+    {
+      "id": "BFMTV_1775681823",
+      "source": "BFMTV",
+      "text": "AU MOINS 326 HUMANITAIRES ONT ÉTÉ TUÉS DANS LE MONDE EN 2025, SELON L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:57",
+      "date": "08/04",
+      "timestamp": 1775681823
+    },
+    {
+      "id": "BFMTV_1775681702",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP VEUT SANCTIONNER DES PAYS DE L’OTAN, SELON THE WALL STREET JOURNAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:55",
+      "date": "08/04",
+      "timestamp": 1775681702
+    },
+    {
+      "id": "BFMTV_1775681487",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON SOUHAITE QUE L'ACCORD DE CESSEZ-LE-FEU SOIT \"PLEINEMENT RESPECTÉ\", \"Y COMPRIS AU LIBAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:51",
+      "date": "08/04",
+      "timestamp": 1775681487
+    },
+    {
+      "id": "BFMTV_1775680637",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: “ISRAËL ACCEPTE DES TAUX DE MORTALITÉ CIVILE TRÈS IMPORTANTS”, AFFIRME MICHAEL BENHAMOU, CO-DIRECTEUR DE L’INSTITUT EUROPÉEN DE LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:37",
+      "date": "08/04",
+      "timestamp": 1775680637
+    },
+    {
+      "id": "BFMTV_1775680560",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS 182 MORTS ET 890 BLESSÉS AU LIBAN APRÈS DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:36",
+      "date": "08/04",
+      "timestamp": 1775680560
+    },
+    {
+      "id": "BFMTV_1775680212",
+      "source": "BFMTV",
+      "text": "LE HAUT-COMMISSAIRE AUX DROITS DE L'HOMME DE L'ONU ESTIME QUE L'AMPLEUR DES TUERIES AU LIBAN EST \"ÉPOUVANTABLE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:30",
+      "date": "08/04",
+      "timestamp": 1775680212
+    },
     {
       "id": "BFMTV_1775679394",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "09:47",
       "date": "08/04",
       "timestamp": 1775641621
-    },
-    {
-      "id": "BFMTV_1775641400",
-      "source": "BFMTV",
-      "text": "GÉNÉRAL LIMOGÉ, PROMOTIONS D'OFFICIERS BLOQUÉES... MALGRÉ DES DÉSACCORDS AVEC PETE HEGSETH, LE SECRÉTAIRE AMÉRICAIN À L'ARMÉE ÉCARTE TOUTE DÉMISSION",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:43",
-      "date": "08/04",
-      "timestamp": 1775641400
-    },
-    {
-      "id": "BFMTV_1775640916",
-      "source": "BFMTV",
-      "text": "L'INDE ENVISAGE DE DÉPLOYER DES SERPENTS ET DES CROCODILES À SA FRONTIÈRE AVEC LE BANGLADESH POUR LUTTER CONTRE L'IMMIGRATION CLANDESTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:35",
-      "date": "08/04",
-      "timestamp": 1775640916
-    },
-    {
-      "id": "BFMTV_1775640305",
-      "source": "BFMTV",
-      "text": "CESSEZ-LE-FEU EN IRAN: COMMENT VA SE DÉROULER LA \"RÉOUVERTURE\" DU DÉTROIT D'ORMUZ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:25",
-      "date": "08/04",
-      "timestamp": 1775640305
-    },
-    {
-      "id": "BFMTV_1775639737",
-      "source": "BFMTV",
-      "text": "DIX PERSONNES INTERPELLÉES EN TURQUIE AU LENDEMAIN DE L'ATTAQUE CONTRE LE CONSULAT ISRAÉLIEN D'ISTANBUL",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:15",
-      "date": "08/04",
-      "timestamp": 1775639737
-    },
-    {
-      "id": "BFMTV_1775638515",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: L'INSTITUT DU MONDE ARABE SE DIT \"EXTRÊMEMENT INQUIET DES ATTEINTES AU PATRIMOINE LIBANAIS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:55",
-      "date": "08/04",
-      "timestamp": 1775638515
-    },
-    {
-      "id": "BFMTV_1775638360",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT : ÉTAT DES LIEUX DES PRISES DE PAROLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:52",
-      "date": "08/04",
-      "timestamp": 1775638360
-    },
-    {
-      "id": "BFMTV_1775638205",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL AFFIRME QUE \"LA BATAILLE CONTINUE\" AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:50",
-      "date": "08/04",
-      "timestamp": 1775638205
     }
   ],
   "france": {
