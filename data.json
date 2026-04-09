@@ -1,7 +1,37 @@
 {
-  "last_update": "09/04 19:50",
+  "last_update": "09/04 20:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775766855",
+      "source": "BFMTV",
+      "text": "CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS: L'ARMÉE AMÉRICAINE RESTERA DÉPLOYÉE À PROXIMITÉ DE L'IRAN JUSQU'À UN ACCORD DÉFINITIF ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:34",
+      "date": "09/04",
+      "timestamp": 1775766855
+    },
+    {
+      "id": "BFMTV_1775766346",
+      "source": "BFMTV",
+      "text": "ANNONCE DE NÉGOCIATIONS ENTRE ISRAËL ET LE LIBAN: LE PREMIER MINISTRE LIBANAIS, NAWAF SALAM, SE RENDRA À WASHINGTON LA SEMAINE PROCHAINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:25",
+      "date": "09/04",
+      "timestamp": 1775766346
+    },
+    {
+      "id": "BFMTV_1775764626",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN: \"JE N'AI JAMAIS EU DE RELATION AVEC JEFFREY EPSTEIN\", AFFIRME MELANIA TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:57",
+      "date": "09/04",
+      "timestamp": 1775764626
+    },
     {
       "id": "BFMTV_1775763752",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "07:51",
       "date": "09/04",
       "timestamp": 1775721074
-    },
-    {
-      "id": "BFMTV_1775720596",
-      "source": "BFMTV",
-      "text": "TRÊVE ENTRE L'IRAN ET LES ÉTATS-UNIS: \"LES POINTS POSÉS SUR LA TABLE SONT INTENABLES POUR LES OCCIDENTAUX\", ASSURE EMMANUEL RAZAVI, GRAND REPORTER ET SPÉCIALISTE DU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:43",
-      "date": "09/04",
-      "timestamp": 1775720596
-    },
-    {
-      "id": "BFMTV_1775720277",
-      "source": "BFMTV",
-      "text": "“J'AI TOUJOURS PEUR, JE NE DORS PAS\": ROLLA, HABITANTE DE BEYROUTH, TÉMOIGNE APRÈS LES FRAPPES ISRAÉLIENNES SUR LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:37",
-      "date": "09/04",
-      "timestamp": 1775720277
-    },
-    {
-      "id": "BFMTV_1775719829",
-      "source": "BFMTV",
-      "text": "LE CHEF D’ÉTAT-MAJOR DES ARMÉES ÉVOQUE UN \"EMPLOI DÉSINHIBÉ DE LA FORCE DE LA PART DES GRANDS ÉTATS DANS DES PROPOSITIONS QU’ON N’IMAGINAIT PAS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:30",
-      "date": "09/04",
-      "timestamp": 1775719829
     }
   ],
   "france": {
