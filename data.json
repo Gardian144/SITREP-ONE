@@ -1,7 +1,97 @@
 {
-  "last_update": "09/04 04:42",
+  "last_update": "09/04 06:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775713554",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UNE DÉLÉGATION IRANIENNE DOIT ARRIVER CE JEUDI SOIR À ISLAMABAD POUR DES POURPARLERS AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:45",
+      "date": "09/04",
+      "timestamp": 1775713554
+    },
+    {
+      "id": "BFMTV_1775713391",
+      "source": "BFMTV",
+      "text": "TRÊVE ENTRE L'IRAN ET LES ÉTATS-UNIS: LES POINTS QUI COINCENT DÉJÀ AVANT LE DÉBUT DES NÉGOCIATIONS ENTRE TÉHÉRAN ET WASHINGTON AU PAKISTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:43",
+      "date": "09/04",
+      "timestamp": 1775713391
+    },
+    {
+      "id": "BFMTV_1775711085",
+      "source": "BFMTV",
+      "text": "LE TUEUR EN SÉRIE PRÉSUMÉ DE GILGO BEACH PLAIDE COUPABLE POUR LE MEURTRE DE SEPT FEMMES RETROUVÉES DÉMEMBRÉES LE LONG DES PLAGES DE NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:04",
+      "date": "09/04",
+      "timestamp": 1775711085
+    },
+    {
+      "id": "BFMTV_1775710395",
+      "source": "BFMTV",
+      "text": "TRÊVE AU MOYEN-ORIENT: L'ARSENAL IRANIEN EST-IL RÉELLEMENT ANÉANTI?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "09/04",
+      "timestamp": 1775710395
+    },
+    {
+      "id": "BFMTV_1775710192",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: COMMENT TSAHAL A PRÉPARÉ SES RAIDS MASSIFS SUR LE LIBAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:49",
+      "date": "09/04",
+      "timestamp": 1775710192
+    },
+    {
+      "id": "BFMTV_1775710178",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE L'ARMÉE AMÉRICAINE RESTERA DÉPLOYÉE JUSQU'À UN \"RÉEL ACCORD\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:49",
+      "date": "09/04",
+      "timestamp": 1775710178
+    },
+    {
+      "id": "BFMTV_1775710063",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES PRÊTS À REPRENDRE LES COMBATS\": BENJAMIN NETANYAHOU S'EST ADRESSÉ AUX ISRAÉLIENS APRÈS L'ANNONCE D'UNE TRÊVE ENTRE L'IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:47",
+      "date": "09/04",
+      "timestamp": 1775710063
+    },
+    {
+      "id": "BFMTV_1775710060",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ONU ESTIME QUE LES FRAPPES ISRAÉLIENNES SUR LE LIBAN FONT PESER UN \"GRAVE DANGER\" POUR LE CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:47",
+      "date": "09/04",
+      "timestamp": 1775710060
+    },
+    {
+      "id": "BFMTV_1775709723",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE L'ARMÉE AMÉRICAINE RESTERA DÉPLOYÉE À PROXIMITÉ DE L'IRAN JUSQU'À UN \"RÉEL ACCORD\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "09/04",
+      "timestamp": 1775709723
+    },
     {
       "id": "BFMTV_1775709184",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "11:42",
       "date": "08/04",
       "timestamp": 1775648557
-    },
-    {
-      "id": "BFMTV_1775648518",
-      "source": "BFMTV",
-      "text": " \"NOUS AVONS VÉCU L'HORREUR QUOTIDIENNE\", DÉCLARE CÉCILE KOHLER, EX-OTAGE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:41",
-      "date": "08/04",
-      "timestamp": 1775648518
-    },
-    {
-      "id": "BFMTV_1775648358",
-      "source": "BFMTV",
-      "text": "\"NOUS NE SOMMES PAS BRISÉS\", ASSURE JACQUES PARIS, EX-OTAGE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:39",
-      "date": "08/04",
-      "timestamp": 1775648358
-    },
-    {
-      "id": "BFMTV_1775648206",
-      "source": "BFMTV",
-      "text": "\"DES CONDITIONS DE DÉTENTION INHUMAINES\": LES PREMIERS MOTS DE CÉCILE KOHLER ET JACQUES PARIS À LEUR RETOUR EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:36",
-      "date": "08/04",
-      "timestamp": 1775648206
-    },
-    {
-      "id": "BFMTV_1775647609",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE DÉNONCE \"LA RHÉTORIQUE GROSSIÈRE ET ARROGANTE\" DU \"PRÉSIDENT AMÉRICAIN DÉRANGÉ\" DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:26",
-      "date": "08/04",
-      "timestamp": 1775647609
-    },
-    {
-      "id": "BFMTV_1775646633",
-      "source": "BFMTV",
-      "text": "LA PRISE DE PAROLE EN INTÉGRALITÉ DES EX-OTAGES, CÉCILE KOHLER ET JACQUES PARIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:10",
-      "date": "08/04",
-      "timestamp": 1775646633
-    },
-    {
-      "id": "BFMTV_1775646505",
-      "source": "BFMTV",
-      "text": "DIRECT. \"NOUS AVONS VÉCU L'HORREUR QUOTIDIENNE\": CÉCILE KOHLER ET JACQUES PARIS PRENNENT LA PAROLE APRÈS LEUR RETOUR EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:08",
-      "date": "08/04",
-      "timestamp": 1775646505
-    },
-    {
-      "id": "BFMTV_1775646483",
-      "source": "BFMTV",
-      "text": "JACQUES PARIS, ANCIEN OTAGE DÉTENU PENDANT TROIS ANS EN IRAN, DÉCRIT DES \"CONDITIONS DE DÉTENTION INHUMAINES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:08",
-      "date": "08/04",
-      "timestamp": 1775646483
-    },
-    {
-      "id": "BFMTV_1775646245",
-      "source": "BFMTV",
-      "text": "\"NOUS SOMMES SOULAGÉS DE REVOIR NOS PROCHES, C'EST UN BONHEUR IMMENSE DE LES PRENDRE DANS NOS BRAS ENFIN\", DÉCLARE CÉCILE KOHLER, ANCIENNE OTAGE DÉTENUE PENDANT TROIS ANS EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:04",
-      "date": "08/04",
-      "timestamp": 1775646245
-    },
-    {
-      "id": "BFMTV_1775645383",
-      "source": "BFMTV",
-      "text": "TRANSPORT AÉRIEN: L'APPROVISIONNEMENT EN KÉROSÈNE METTRA \"DES MOIS\" POUR REVENIR À LA NORMALE, SELON L'IATA",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:49",
-      "date": "08/04",
-      "timestamp": 1775645383
     }
   ],
   "france": {
