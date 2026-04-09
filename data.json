@@ -1,7 +1,77 @@
 {
-  "last_update": "09/04 02:12",
+  "last_update": "09/04 04:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775709184",
+      "source": "BFMTV",
+      "text": "TRÊVE AU MOYEN-ORIENT: APRÈS LES FRAPPES MASSIVES D'ISRAËL SUR BEYROUTH, BENJAMIN NETANYAHOU SABOTE-T-IL LES NÉGOCIATIONS AU PAKISTAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:33",
+      "date": "09/04",
+      "timestamp": 1775709184
+    },
+    {
+      "id": "BFMTV_1775708855",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS DIVISE EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:27",
+      "date": "09/04",
+      "timestamp": 1775708855
+    },
+    {
+      "id": "BFMTV_1775708757",
+      "source": "BFMTV",
+      "text": "UN DERNIER BILAN FAIT ÉTAT DE 182 MORTS ET 890 BLESSÉS AU LIBAN APRÈS DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:25",
+      "date": "09/04",
+      "timestamp": 1775708757
+    },
+    {
+      "id": "BFMTV_1775708530",
+      "source": "BFMTV",
+      "text": "UNE ENTREVUE \"TRÈS FRANCHE\": TRÈS REMONTÉ CONTRE L'OTAN, DONALD TRUMP A LONGUEMENT REÇU LE SECRÉTAIRE GÉNÉRAL DE L'ALLIANCE À LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:22",
+      "date": "09/04",
+      "timestamp": 1775708530
+    },
+    {
+      "id": "BFMTV_1775708259",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE L'ARMÉE AMÉRICAINE RESTERA DÉPLOYÉE JUSQU'À UN \"RÉEL ACCORD\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:17",
+      "date": "09/04",
+      "timestamp": 1775708259
+    },
+    {
+      "id": "BFMTV_1775708030",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: APRÈS LES BOMBARDEMENTS ISRAÉLIENS AU LIBAN, LES NÉGOCIATIONS POUR UN CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS SONT-ELLES MAL ENGAGÉES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:13",
+      "date": "09/04",
+      "timestamp": 1775708030
+    },
+    {
+      "id": "BFMTV_1775707721",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DES DÉGÂTS APRÈS LES FRAPPES ISRAÉLIENNES SUR BEYROUTH AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:08",
+      "date": "09/04",
+      "timestamp": 1775707721
+    },
     {
       "id": "BFMTV_1775685256",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "10:49",
       "date": "08/04",
       "timestamp": 1775645383
-    },
-    {
-      "id": "BFMTV_1775644929",
-      "source": "BFMTV",
-      "text": "TRÊVE AU MOYEN-ORIENT: J.D. VANCE PRÉVIENT LES IRANIENS EN CAS DE NON-RESPECT DU CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:42",
-      "date": "08/04",
-      "timestamp": 1775644929
-    },
-    {
-      "id": "BFMTV_1775644882",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE KOWEÏT DIT FAIRE FACE À UNE \"INTENSE VAGUE D'ATTAQUES\" IRANIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:41",
-      "date": "08/04",
-      "timestamp": 1775644882
-    },
-    {
-      "id": "BFMTV_1775643485",
-      "source": "BFMTV",
-      "text": "CESSEZ-LE-FEU EN IRAN: LE VICE-PRÉSIDENT AMÉRICAIN JD VANCE ÉVOQUE \"UNE TRÊVE FRAGILE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:18",
-      "date": "08/04",
-      "timestamp": 1775643485
-    },
-    {
-      "id": "BFMTV_1775643262",
-      "source": "BFMTV",
-      "text": "LA GUERRE EN UKRAINE EST \"LA GUERRE LA PLUS DIFFICILE À RÉSOUDRE\", ESTIME LE VICE-PRÉSIDENT AMÉRICAIN JD VANCE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:14",
-      "date": "08/04",
-      "timestamp": 1775643262
-    },
-    {
-      "id": "BFMTV_1775643048",
-      "source": "BFMTV",
-      "text": "CÉCILE KOHLER ET JACQUES PARIS REÇUS À L'ÉLYSÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:10",
-      "date": "08/04",
-      "timestamp": 1775643048
-    },
-    {
-      "id": "BFMTV_1775642952",
-      "source": "BFMTV",
-      "text": "\"LE PRÉSIDENT DES ÉTATS-UNIS N'EST PAS QUELQU'UN QUI PLAISANTE\": J.D. VANCE ALERTE LES IRANIENS SUR LES CONSÉQUENCES D'UN NON-RESPECT DU CESSEZ-LE-FEU ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:09",
-      "date": "08/04",
-      "timestamp": 1775642952
-    },
-    {
-      "id": "OPEX360_1775642871",
-      "source": "OPEX360",
-      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT LANCE ENFIN UN APPEL D’OFFRES POUR REMPLACER LES VIEUX VLRA NRBC DE L’ARMÉE DE TERRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:07",
-      "date": "08/04",
-      "timestamp": 1775642871
     }
   ],
   "france": {
