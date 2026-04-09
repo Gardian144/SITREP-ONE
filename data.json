@@ -1,7 +1,77 @@
 {
-  "last_update": "09/04 11:37",
+  "last_update": "09/04 12:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775737118",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN ASSURE QUE LES FRAPPES ISRAÉLIENNES AU LIBAN CONSTITUENT \"UNE VIOLATION FLAGRANTE DE L'ACCORD DE CESSEZ-LE-FEU INITIAL\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:18",
+      "date": "09/04",
+      "timestamp": 1775737118
+    },
+    {
+      "id": "BFMTV_1775736934",
+      "source": "BFMTV",
+      "text": "LA FRANCE VA SE DOTER D'UN NOUVEAU MISSILE \"SUPERSONIQUE\", EXPLIQUE LE CHEF D'ÉTAT-MAJOR DES ARMÉES",
+      "urgent": true,
+      "france_related": true,
+      "time": "12:15",
+      "date": "09/04",
+      "timestamp": 1775736934
+    },
+    {
+      "id": "BFMTV_1775736920",
+      "source": "BFMTV",
+      "text": "CE QUE L'ON SAIT DE LA PRÉSENCE POSSIBLE DE MINES DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:15",
+      "date": "09/04",
+      "timestamp": 1775736920
+    },
+    {
+      "id": "BFMTV_1775735800",
+      "source": "BFMTV",
+      "text": "L'IRAN ASSURE QUE TOUTE VIOLATION DU CESSEZ-LE-FEU ENTRAÎNERA \"UNE RÉPONSE FERME\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:56",
+      "date": "09/04",
+      "timestamp": 1775735800
+    },
+    {
+      "id": "BFMTV_1775735211",
+      "source": "BFMTV",
+      "text": "SON COMPAGNON LA FORCE À SE FAIRE TATOUER 250 FOIS SON PRÉNOM",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:46",
+      "date": "09/04",
+      "timestamp": 1775735211
+    },
+    {
+      "id": "BFMTV_1775735125",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT DU PARLEMENT IRANIEN AFFIRME QUE LE LIBAN EST UNE \"PARTIE INTÉGRANTE\" DU CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:45",
+      "date": "09/04",
+      "timestamp": 1775735125
+    },
+    {
+      "id": "BFMTV_1775734798",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU AFFIRME QU'ISRAËL \"CONTINUERA À FRAPPER LE HEZBOLLAH PARTOUT OÙ IL LE FAUDRA\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:39",
+      "date": "09/04",
+      "timestamp": 1775734798
+    },
     {
       "id": "BFMTV_1775734325",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "18:57",
       "date": "08/04",
       "timestamp": 1775674638
-    },
-    {
-      "id": "BFMTV_1775674153",
-      "source": "BFMTV",
-      "text": "“LES ÉTATS-UNIS N’ONT PAS RESPECTÉ LA PREMIÈRE CLAUSE DU PLAN CONCERNANT LE CESSEZ-LE-FEU AU LIBAN”, AFFIRME MOHAMMAD GHALIBAF, PRÉSIDENT DU PARLEMENT IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:49",
-      "date": "08/04",
-      "timestamp": 1775674153
-    },
-    {
-      "id": "BFMTV_1775673452",
-      "source": "BFMTV",
-      "text": "CESSEZ-LE-FEU EN IRAN: “DES AMATEURS QUI FONT DE LA DIPLOMATIE POLITIQUE OU DE LA TÉLÉRÉALITÉ MILITAIRE”, DÉNONCE ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:37",
-      "date": "08/04",
-      "timestamp": 1775673452
-    },
-    {
-      "id": "BFMTV_1775672731",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE SECRÉTAIRE GÉNÉRAL DE L’OTAN DOIT RENCONTRER LE PRÉSIDENT DES ÉTATS-UNIS DONALD TRUMP ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:25",
-      "date": "08/04",
-      "timestamp": 1775672731
-    },
-    {
-      "id": "BFMTV_1775671865",
-      "source": "BFMTV",
-      "text": "L'AMBASSADEUR DE FRANCE EN IRAN S'EXPRIME APRÈS LA LIBÉRATION DE CÉCILE KOHLER ET JACQUES PARIS ",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:11",
-      "date": "08/04",
-      "timestamp": 1775671865
-    },
-    {
-      "id": "BFMTV_1775671469",
-      "source": "BFMTV",
-      "text": "\"DANS UN ÉTAT ÉMOTIONNEL ET PSYCHOLOGIQUE CRITIQUE\": UN FRANÇAIS DÉTENU AU VENEZUELA REMIS EN LIBERTÉ ET \"TRÈS PROCHAINEMENT SUR LE SOL FRANÇAIS\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:04",
-      "date": "08/04",
-      "timestamp": 1775671469
-    },
-    {
-      "id": "BFMTV_1775670949",
-      "source": "BFMTV",
-      "text": " LA MENACE DE BENJAMIN NETANYAHU APRÈS L'ANNONCE DE CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:55",
-      "date": "08/04",
-      "timestamp": 1775670949
-    },
-    {
-      "id": "BFMTV_1775670910",
-      "source": "BFMTV",
-      "text": "LA POPULATION IRANIENNE \"EST COMPLÈTEMENT DÉSESPÉRÉE\", EXPLIQUE L'AMBASSADEUR DE FRANCE EN IRAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:55",
-      "date": "08/04",
-      "timestamp": 1775670910
     }
   ],
   "france": {
