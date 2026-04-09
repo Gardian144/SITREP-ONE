@@ -1,7 +1,47 @@
 {
-  "last_update": "09/04 21:44",
+  "last_update": "09/04 22:26",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775772211",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN: DANS LES COULISSES DE LA PRISE DE PAROLE SURPRISE DE MELANIA TRUMP SUR JEFFREY EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:03",
+      "date": "09/04",
+      "timestamp": 1775772211
+    },
+    {
+      "id": "BFMTV_1775771737",
+      "source": "BFMTV",
+      "text": "LONDRES ASSURE AVOIR SUIVI TROIS SOUS-MARINS RUSSES QUI ESPIONNAIENT DES CÂBLES DANS L'ATLANTIQUE NORD",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:55",
+      "date": "09/04",
+      "timestamp": 1775771737
+    },
+    {
+      "id": "BFMTV_1775771322",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'INTERVIEW EN INTÉGRALITÉ D'ALICE RUFO, MINISTRE DÉLÉGUÉE AUX ARMÉES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:48",
+      "date": "09/04",
+      "timestamp": 1775771322
+    },
+    {
+      "id": "BFMTV_1775771126",
+      "source": "BFMTV",
+      "text": "\"UNE BOMBE EST TOMBÉE À 300 MÈTRES DE NOUS\": LE MINISTRE LIBANAIS GHASSAN SALAMÉ RACONTE LES FRAPPES ISRAÉLIENNES À BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:45",
+      "date": "09/04",
+      "timestamp": 1775771126
+    },
     {
       "id": "BFMTV_1775770773",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "09:08",
       "date": "09/04",
       "timestamp": 1775725720
-    },
-    {
-      "id": "BFMTV_1775725270",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE BILAN DES FRAPPES ISRAÉLIENNES DE MERCREDI MONTE À PLUS DE 200 MORTS ET 1.000 BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:01",
-      "date": "09/04",
-      "timestamp": 1775725270
-    },
-    {
-      "id": "BFMTV_1775725205",
-      "source": "BFMTV",
-      "text": "FRAPPES ISRAÉLIENNES AU LIBAN: AU MOINS 203 PERSONNES SONT MORTES ET PLUS DE 1.000 AUTRES SONT BLESSÉES, SELON UN DERNIER BILAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:00",
-      "date": "09/04",
-      "timestamp": 1775725205
-    },
-    {
-      "id": "BFMTV_1775724457",
-      "source": "BFMTV",
-      "text": "CONFLIT AU MOYEN-ORIENT: LES COULISSES DE LA RÉUNION PENDANT LAQUELLE DONALD TRUMP A DÉCIDÉ DE RENTRER EN GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:47",
-      "date": "09/04",
-      "timestamp": 1775724457
-    },
-    {
-      "id": "BFMTV_1775724334",
-      "source": "BFMTV",
-      "text": "LES IRANIENS ASSURENT QUE LE DÉTROIT D'ORMUZ EST MINÉ: \"ÇA OBLIGE TOUS LES BATEAUX À UTILISER LES CHENAUX PRÉVUS\", ASSURE LE GÉNÉRAL PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:45",
-      "date": "09/04",
-      "timestamp": 1775724334
     }
   ],
   "france": {
