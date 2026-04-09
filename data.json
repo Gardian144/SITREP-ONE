@@ -1,7 +1,107 @@
 {
-  "last_update": "09/04 12:47",
+  "last_update": "09/04 14:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775745583",
+      "source": "BFMTV",
+      "text": "DIRECT. MOYEN-ORIENT: SERGE PAPIN ASSURE QUE \"LES BAISSES\" DE PRIX DES CARBURANTS \"DEVRAIENT ÊTRE TRADUITES À LA POMPE DÈS DEMAIN\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:39",
+      "date": "09/04",
+      "timestamp": 1775745583
+    },
+    {
+      "id": "BFMTV_1775745269",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PREMIER MINISTRE PAKISTANAIS DÉNONCE \"L'AGRESSION\" D'ISRAËL CONTRE LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:34",
+      "date": "09/04",
+      "timestamp": 1775745269
+    },
+    {
+      "id": "BFMTV_1775744902",
+      "source": "BFMTV",
+      "text": "LA GUERRE EN IRAN POURRAIT PLONGER 45 MILLIONS DE PERSONNES EN INSÉCURITÉ ALIMENTAIRE, ALERTE LE FMI",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:28",
+      "date": "09/04",
+      "timestamp": 1775744902
+    },
+    {
+      "id": "BFMTV_1775744838",
+      "source": "BFMTV",
+      "text": "LA COMMISSION EUROPÉENNE RÉCLAME DES EXPLICATIONS À LA HONGRIE SUR DES ÉCHANGES TÉLÉPHONIQUES AVEC LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:27",
+      "date": "09/04",
+      "timestamp": 1775744838
+    },
+    {
+      "id": "BFMTV_1775744369",
+      "source": "BFMTV",
+      "text": "POUR LA PREMIÈRE FOIS DEPUIS LE DÉBUT DE LA GUERRE AU MOYEN-ORIENT, AUCUN MISSILE NI DRONE IRANIEN N'A ÉTÉ LANCÉ VERS LES PAYS DU GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:19",
+      "date": "09/04",
+      "timestamp": 1775744369
+    },
+    {
+      "id": "OPEX360_1775743389",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES ENVISAGE UNE PRODUCTION FRANÇAISE DE 50 MILLIONS DE MUNITIONS DE PETIT CALIBRE PAR AN DÈS 2029",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:03",
+      "date": "09/04",
+      "timestamp": 1775743389
+    },
+    {
+      "id": "BFMTV_1775741763",
+      "source": "BFMTV",
+      "text": "LIBAN: L'ACCORD ENTRE L'UE ET ISRAËL POURRAIT ÊTRE REDISCUTÉ FACE AUX FRAPPES \"DISPROPORTIONNÉES\" D'ISRAËL, ESTIME LE QUAI D'ORSAY",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:36",
+      "date": "09/04",
+      "timestamp": 1775741763
+    },
+    {
+      "id": "BFMTV_1775740616",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE RESTE \"PRÉSENTE DANS LA RÉGION\" MAIS \"SUSPEND SES OPÉRATIONS OFFENSIVES CONFORMÉMENT AU CESSEZ-LE-FEU EN VIGUEUR\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:16",
+      "date": "09/04",
+      "timestamp": 1775740616
+    },
+    {
+      "id": "BFMTV_1775739032",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE LANCE UN NOUVEL APPEL À ÉVACUER LES QUARTIERS DU SUD DE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:50",
+      "date": "09/04",
+      "timestamp": 1775739032
+    },
+    {
+      "id": "BFMTV_1775738914",
+      "source": "BFMTV",
+      "text": "LES IMAGES DE VIDÉOSURVEILLANCE D'UN RESTAURANT DE BEYROUTH AU MOMENT D'UNE FRAPPE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:48",
+      "date": "09/04",
+      "timestamp": 1775738914
+    },
     {
       "id": "BFMTV_1775737118",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "19:59",
       "date": "08/04",
       "timestamp": 1775678377
-    },
-    {
-      "id": "BFMTV_1775678244",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS 254 MORTS ET 1.165 BLESSÉS AU LIBAN APRÈS DES FRAPPES ISRAÉLIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:57",
-      "date": "08/04",
-      "timestamp": 1775678244
-    },
-    {
-      "id": "BFMTV_1775677850",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN RELANCE LA MENACE DES MINES DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:50",
-      "date": "08/04",
-      "timestamp": 1775677850
-    },
-    {
-      "id": "BFMTV_1775677689",
-      "source": "BFMTV",
-      "text": "CESSEZ-LE-FEU EN IRAN: \"LES POURPARLERS VONT AVOIR LIEU\", ANNONCE J.D. VANCE, VICE-PRÉSIDENT DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:48",
-      "date": "08/04",
-      "timestamp": 1775677689
-    },
-    {
-      "id": "BFMTV_1775677438",
-      "source": "BFMTV",
-      "text": "“SI LES NÉGOCIATIONS ÉCHOUENT À CAUSE DU LIBAN, QUI N’EST PAS DU TOUT EN JEU, C’EST LE CHOIX DES IRANIENS”, AFFIRME J.D. VANCE, VICE-PRÉSIDENT DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:43",
-      "date": "08/04",
-      "timestamp": 1775677438
-    },
-    {
-      "id": "BFMTV_1775676727",
-      "source": "BFMTV",
-      "text": "“C’EST UN CESSEZ-LE-FEU TOUT À FAIT ANORMAL PAR RAPPORT À CE QUE L’ON CONNAÎT D’HABITUDE”, NOTE GILLES KEPEL, SPÉCIALISTE DU MOYEN-ORIENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:32",
-      "date": "08/04",
-      "timestamp": 1775676727
-    },
-    {
-      "id": "BFMTV_1775676717",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT DU PARLEMENT IRANIEN JUGE \"DÉRAISONNABLE\" LE CESSEZ-LE-FEU VU LES \"VIOLATIONS\" OBSERVÉES",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:31",
-      "date": "08/04",
-      "timestamp": 1775676717
-    },
-    {
-      "id": "BFMTV_1775676269",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP VA ÉVOQUER AVEC LE PATRON DE L'OTAN LA POSSIBILITÉ QUE LES ÉTATS-UNIS QUITTENT L'ALLIANCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:24",
-      "date": "08/04",
-      "timestamp": 1775676269
-    },
-    {
-      "id": "BFMTV_1775675962",
-      "source": "BFMTV",
-      "text": "LIBAN: LES IMAGES DES BOMBARDEMENTS MASSIFS DE L'ARMÉE ISRAÉLIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:19",
-      "date": "08/04",
-      "timestamp": 1775675962
-    },
-    {
-      "id": "BFMTV_1775675704",
-      "source": "BFMTV",
-      "text": "LIBAN: LA POPULATION EN PLEIN DÉSARROI APRÈS LES BOMBARDEMENTS MASSIFS D’ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:15",
-      "date": "08/04",
-      "timestamp": 1775675704
-    },
-    {
-      "id": "BFMTV_1775674638",
-      "source": "BFMTV",
-      "text": "IMMIGRATION: L'INDE ENVISAGE DE DÉPLOYER SERPENTS ET CROCODILES À SA FRONTIÈRE AVEC LE BANGLADESH ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:57",
-      "date": "08/04",
-      "timestamp": 1775674638
     }
   ],
   "france": {
