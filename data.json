@@ -1,7 +1,37 @@
 {
-  "last_update": "10/04 21:54",
+  "last_update": "10/04 22:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775859649",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LE DÉTROIT D'ORMUZ \"SERA BIENTÔT OUVERT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:20",
+      "date": "10/04",
+      "timestamp": 1775859649
+    },
+    {
+      "id": "BFMTV_1775858237",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: MINES, PÉAGE... L'IRAN DICTE SA LOI",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:57",
+      "date": "10/04",
+      "timestamp": 1775858237
+    },
+    {
+      "id": "BFMTV_1775858091",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE L’IRAN ET LES ÉTATS-UNIS: “QUE NOS DIPLOMATES EMPORTENT AVEC EUX UN MISSILE”, DÉCLARE UN ÉLU IRANIEN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:54",
+      "date": "10/04",
+      "timestamp": 1775858091
+    },
     {
       "id": "BFMTV_1775856923",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "04:42",
       "date": "10/04",
       "timestamp": 1775796127
-    },
-    {
-      "id": "BFMTV_1775795736",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN: LE VICE PRÉSIDENT AMÉRICAIN, J.D. VANCE,  NÉGOCIERA AVEC LA DÉLÉGATION IRANIENNE, REPRÉSENTÉE PAR MOHAMMAD GHALIBAF, ANCIEN MAIRE DE TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:35",
-      "date": "10/04",
-      "timestamp": 1775795736
-    },
-    {
-      "id": "BFMTV_1775773581",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: DONALD TRUMP MET EN GARDE L'IRAN CONTRE TOUT PÉAGE DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:26",
-      "date": "09/04",
-      "timestamp": 1775773581
-    },
-    {
-      "id": "BFMTV_1775772211",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN: DANS LES COULISSES DE LA PRISE DE PAROLE SURPRISE DE MELANIA TRUMP SUR JEFFREY EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:03",
-      "date": "09/04",
-      "timestamp": 1775772211
     }
   ],
   "france": {
