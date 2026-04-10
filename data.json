@@ -1,7 +1,37 @@
 {
-  "last_update": "10/04 15:53",
+  "last_update": "10/04 16:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775839264",
+      "source": "BFMTV",
+      "text": "UN SOUDANAIS ARRÊTÉ APRÈS LA MORT DE QUATRE MIGRANTS QUI TENTAIENT DE TRAVERSER LA MANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:41",
+      "date": "10/04",
+      "timestamp": 1775839264
+    },
+    {
+      "id": "BFMTV_1775838786",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SÉBASTIEN LECORNU APPELLE À \"NE PAS GÂCHER\" CETTE CRISE MAIS À EN FAIRE \"UNE OPPORTUNITÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:33",
+      "date": "10/04",
+      "timestamp": 1775838786
+    },
+    {
+      "id": "OPEX360_1775838779",
+      "source": "OPEX360",
+      "text": "MGCS – LE GÉNÉRAL SCHILL ÉVOQUE UNE SOLUTION 100 % FRANÇAISE POUR LE SYSTÈME PRINCIPAL DE COMBAT TERRESTRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:32",
+      "date": "10/04",
+      "timestamp": 1775838779
+    },
     {
       "id": "BFMTV_1775836060",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "18:27",
       "date": "09/04",
       "timestamp": 1775759266
-    },
-    {
-      "id": "BFMTV_1775759163",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"L'OTAN EST PRÊTE À JOUER UN RÔLE DANS UNE ÉVENTUELLE MISSION DANS LE DÉTROIT D'ORMUZ\", DÉCLARE MARK RUTTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:26",
-      "date": "09/04",
-      "timestamp": 1775759163
-    },
-    {
-      "id": "BFMTV_1775759082",
-      "source": "BFMTV",
-      "text": "FRAPPES ISRAÉLIENNES AU LIBAN: L'INTERVIEW EN INTÉGRALITÉ DE GHASSAN SALAMÉ, MINISTRE LIBANAIS DE LA CULTURE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:24",
-      "date": "09/04",
-      "timestamp": 1775759082
-    },
-    {
-      "id": "BFMTV_1775758960",
-      "source": "BFMTV",
-      "text": "ANNONCE DE NÉGOCIATIONS DIRECTES ENTRE ISRAËL ET LE LIBAN: “C’EST UN NOUVEAU CHAPITRE QUI S’OUVRE”, RECONNAÎT GHASSAN SALAMÉ, MINISTRE DE LA CULTURE DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:22",
-      "date": "09/04",
-      "timestamp": 1775758960
     }
   ],
   "france": {
