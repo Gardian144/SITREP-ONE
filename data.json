@@ -1,7 +1,137 @@
 {
-  "last_update": "10/04 02:31",
+  "last_update": "10/04 05:13",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775797824",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: À LA VEILLE DES POURPARLERS ENTRE WASHINGTON ET TÉHÉRAN, L'INCERTITUDE DEMEURE QUANT À LA PRÉSENCE DES IRANIENS AU PAKISTAN APRÈS LES FRAPPES SUR LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:10",
+      "date": "10/04",
+      "timestamp": 1775797824
+    },
+    {
+      "id": "BFMTV_1775797738",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN DÉNONCE DES NÉGOCIATIONS \"DÉNUÉES DE SENS\" SANS UN CESSEZ-LE-FEU AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:08",
+      "date": "10/04",
+      "timestamp": 1775797738
+    },
+    {
+      "id": "BFMTV_1775797646",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: APRÈS DES AVIONS RAFALE, LA FRANCE DÉPLOIE DES HÉLICOPTÈRES \"TIGRE\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:07",
+      "date": "10/04",
+      "timestamp": 1775797646
+    },
+    {
+      "id": "BFMTV_1775797134",
+      "source": "BFMTV",
+      "text": "TRÊVE AU MOYEN-ORIENT: LE MINISTRE DE LA DÉFENSE PAKISTANAIS A QUALIFIÉ ISRAËL DE \"DIABOLIQUE ET DE MALÉDICTION SUR L'HUMANITÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:58",
+      "date": "10/04",
+      "timestamp": 1775797134
+    },
+    {
+      "id": "BFMTV_1775796894",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PAKISTAN PRÉPARE DES NÉGOCIATIONS DIFFICILES SUR SON TERRITOIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:54",
+      "date": "10/04",
+      "timestamp": 1775796894
+    },
+    {
+      "id": "BFMTV_1775796828",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU LIBAN, CES MORTS QUE LA GUERRE EMPÊCHE DE REPOSER CHEZ EUX",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "10/04",
+      "timestamp": 1775796828
+    },
+    {
+      "id": "BFMTV_1775796572",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: UN ANCIEN MINISTRE IRANIEN DES AFFAIRES ÉTRANGÈRES SUCCOMBE À SES BLESSURES 8 JOURS APRÈS UNE FRAPPE ISRAÉLO-AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:49",
+      "date": "10/04",
+      "timestamp": 1775796572
+    },
+    {
+      "id": "BFMTV_1775796485",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN POSE SES CONDITIONS AVANT LES NÉGOCIATIONS AU PAKISTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:48",
+      "date": "10/04",
+      "timestamp": 1775796485
+    },
+    {
+      "id": "BFMTV_1775796426",
+      "source": "BFMTV",
+      "text": "L'IRAN AFFIRME AVOIR MINÉ LE DÉTROIT D'ORMUZ: COMMENT SÉCURISER CETTE ZONE MARITIME STRATÉGIQUE OÙ LA SEULE NAVIGATION AUTORISÉE EST À PROXIMITÉ DES CÔTES IRANIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:47",
+      "date": "10/04",
+      "timestamp": 1775796426
+    },
+    {
+      "id": "BFMTV_1775796411",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP \"TRÈS OPTIMISTE\" AVANT DES NÉGOCIATIONS CLÉS AU PAKISTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:46",
+      "date": "10/04",
+      "timestamp": 1775796411
+    },
+    {
+      "id": "BFMTV_1775796246",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES NÉGOCIATIONS ENTRE ISRAËL ET LE LIBAN SE TIENDRONT À WASHINGTON, DES POURPARLERS HISTORIQUES DEPUIS DES DÉCENNIES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:44",
+      "date": "10/04",
+      "timestamp": 1775796246
+    },
+    {
+      "id": "BFMTV_1775796127",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES FRAPPES CONTINUENT DANS LE SUD-LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "10/04",
+      "timestamp": 1775796127
+    },
+    {
+      "id": "BFMTV_1775795736",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN: LE VICE PRÉSIDENT AMÉRICAIN, J.D. VANCE,  NÉGOCIERA AVEC LA DÉLÉGATION IRANIENNE, REPRÉSENTÉE PAR MOHAMMAD GHALIBAF, ANCIEN MAIRE DE TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:35",
+      "date": "10/04",
+      "timestamp": 1775795736
+    },
     {
       "id": "BFMTV_1775773581",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "10:35",
       "date": "09/04",
       "timestamp": 1775730917
-    },
-    {
-      "id": "BFMTV_1775730822",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU AFFIRME QU'ISRAËL \"CONTINUERA À FRAPPER LE HEZBOLLAH PARTOUT OÙ IL LE FAUDRA\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:33",
-      "date": "09/04",
-      "timestamp": 1775730822
-    },
-    {
-      "id": "BFMTV_1775730772",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:32",
-      "date": "09/04",
-      "timestamp": 1775730772
-    },
-    {
-      "id": "BFMTV_1775730772",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:32",
-      "date": "09/04",
-      "timestamp": 1775730772
-    },
-    {
-      "id": "BFMTV_1775730599",
-      "source": "BFMTV",
-      "text": "\"L'OPÉRATION SECRÈTE DE POUTINE A ÉCHOUÉ\", ASSURE JOHN HEALEY, SECRÉTAIRE BRITANNIQUE À LA DÉFENSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:29",
-      "date": "09/04",
-      "timestamp": 1775730599
-    },
-    {
-      "id": "BFMTV_1775729671",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"IL Y A ORDRE ET CONTRE-ORDRE, LES MODALITÉS NE SONT PAS DÉFINIES\", AFFIRME EMMANUEL CHALARD, SECRÉTAIRE GÉNÉRAL DE LA FÉDÉRATION DES OFFICIERS DE LA MARINE MARCHANDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:14",
-      "date": "09/04",
-      "timestamp": 1775729671
-    },
-    {
-      "id": "BFMTV_1775729341",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU ASSURE QU'ISRAËL FRAPPERA LE HEZBOLLAH \"PARTOUT OÙ IL LE FAUDRA\", L'ARMÉE DIT AVOIR TUÉ LE SECRÉTAIRE DU CHEF DU MOUVEMENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:09",
-      "date": "09/04",
-      "timestamp": 1775729341
-    },
-    {
-      "id": "BFMTV_1775728479",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: AU MOINS 182 MORTS APRÈS LES FRAPPES ISRAÉLIENNES SUR LE LIBAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:54",
-      "date": "09/04",
-      "timestamp": 1775728479
-    },
-    {
-      "id": "BFMTV_1775728464",
-      "source": "BFMTV",
-      "text": "\"LE SOULAGEMENT SE LISAIT SUR LEUR VISAGE\": L'AMBASSADEUR DE FRANCE EN IRAN RACONTE LA LIBÉRATION DE CÉCILE KOHLER ET JACQUES PARIS",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:54",
-      "date": "09/04",
-      "timestamp": 1775728464
-    },
-    {
-      "id": "BFMTV_1775728413",
-      "source": "BFMTV",
-      "text": "\"J’AI VÉCU MA LIBÉRATION COMME UN DÉCHIREMENT\": DES GEÔLES IRANIENNES À LA LIBERTÉ FRANÇAISE, LE DIFFICILE RETOUR DES OTAGES À UNE VIE \"NORMALE\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:53",
-      "date": "09/04",
-      "timestamp": 1775728413
-    },
-    {
-      "id": "BFMTV_1775727712",
-      "source": "BFMTV",
-      "text": "FRAPPES ISRAÉLIENNES AU LIBAN: AU MOINS QUATRE PERSONNES, DONT TROIS ENFANTS, PORTÉES DISPARUES, LES SECOURISTES LIBANAIS S'AFFAIRENT POUR TENTER DE LES RETROUVER",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:41",
-      "date": "09/04",
-      "timestamp": 1775727712
-    },
-    {
-      "id": "BFMTV_1775726599",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - \"EPIC FURY\": DANS LES COULISSES DE LA RÉUNION CLÉ ENTRE DONALD TRUMP ET BENJAMIN NETANYAHOU AVANT LE DÉBUT DE LA GUERRE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:23",
-      "date": "09/04",
-      "timestamp": 1775726599
-    },
-    {
-      "id": "BFMTV_1775726140",
-      "source": "BFMTV",
-      "text": "LIBAN: \"IL N'Y AUCUNE PRÉCAUTION PAR RAPPORT AUX CASQUES BLEUS\", DÉPLORE LE CHEF D'ÉTAT-MAJOR DES ARMÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:15",
-      "date": "09/04",
-      "timestamp": 1775726140
-    },
-    {
-      "id": "BFMTV_1775726018",
-      "source": "BFMTV",
-      "text": "\"DONALD TRUMP N'A RIEN GAGNÉ\": LE PRÉSIDENT AMÉRICAIN EN DIFFICULTÉ AUX ÉTATS-UNIS APRÈS LE CESSEZ-LE-FEU AVEC L'IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:13",
-      "date": "09/04",
-      "timestamp": 1775726018
     }
   ],
   "france": {
