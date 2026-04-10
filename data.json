@@ -1,7 +1,27 @@
 {
-  "last_update": "10/04 17:48",
+  "last_update": "10/04 18:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775846777",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: “LE PEUPLE LIBANAIS TOUT ENTIER EST OTAGE”, AFFIRME BERNARD-HENRI LÉVY, ÉCRIVAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:46",
+      "date": "10/04",
+      "timestamp": 1775846777
+    },
+    {
+      "id": "BFMTV_1775846523",
+      "source": "BFMTV",
+      "text": "LIBAN: LE TSAHAL ANNONCE AVOIR ÉLIMINÉ 180 MEMBRES DU HEZBOLLAH EN UNE MINUTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:42",
+      "date": "10/04",
+      "timestamp": 1775846523
+    },
     {
       "id": "BFMTV_1775842190",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "19:24",
       "date": "09/04",
       "timestamp": 1775762681
-    },
-    {
-      "id": "BFMTV_1775762213",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: L'IRAN VEUT CHANGER LES RÈGLES DU JEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:16",
-      "date": "09/04",
-      "timestamp": 1775762213
-    },
-    {
-      "id": "BFMTV_1775761535",
-      "source": "BFMTV",
-      "text": "“DÈS QU’UN SOLDAT EST ENVOYÉ EN OPÉRATION, IL EST SUR LE PIED DE GUERRE”, EXPLIQUE NICOLAS BRAULT, CAPITAINE DE LA LÉGION ÉTRANGÈRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:05",
-      "date": "09/04",
-      "timestamp": 1775761535
     }
   ],
   "france": {
