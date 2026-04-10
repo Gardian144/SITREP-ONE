@@ -1,7 +1,57 @@
 {
-  "last_update": "10/04 13:50",
+  "last_update": "10/04 14:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775832166",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES AMBASSADEURS AMÉRICAINS, LIBANAIS ET ISRAÉLIENS SE SONT ENTRETENUS PAR TÉLÉPHONE CE VENDREDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:42",
+      "date": "10/04",
+      "timestamp": 1775832166
+    },
+    {
+      "id": "BFMTV_1775832129",
+      "source": "BFMTV",
+      "text": "PEDRO SÁNCHEZ VS DONALD TRUMP: POURQUOI L'ESPAGNE TIENT TÊTE AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:42",
+      "date": "10/04",
+      "timestamp": 1775832129
+    },
+    {
+      "id": "BFMTV_1775831394",
+      "source": "BFMTV",
+      "text": "DOMINIQUE DE VILLEPIN SUR DONALD TRUMP: \"LORSQU'UN DIRIGEANT DU MONDE PEUT LAISSER ENTENDRE 'QU'UNE CIVILISATION VA MOURIR CE SOIR', NOUS APPROCHONS D'UNE LIMITE OÙ CE N'EST PLUS SEULEMENT LE DROIT QUI VACILLE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:29",
+      "date": "10/04",
+      "timestamp": 1775831394
+    },
+    {
+      "id": "BFMTV_1775830153",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DOMINIQUE DE VILLEPIN DÉNONCE UNE PAIX QUI VARIE \"SELON LES BELLIGÉRANTS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:09",
+      "date": "10/04",
+      "timestamp": 1775830153
+    },
+    {
+      "id": "BFMTV_1775829685",
+      "source": "BFMTV",
+      "text": "UN ACCIDENT DE BUS AUX CANARIES FAIT UN MORT ET TROIS BLESSÉS GRAVES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:01",
+      "date": "10/04",
+      "timestamp": 1775829685
+    },
     {
       "id": "OPEX360_1775828509",
       "source": "OPEX360",
@@ -951,56 +1001,6 @@
       "time": "17:10",
       "date": "09/04",
       "timestamp": 1775754606
-    },
-    {
-      "id": "BFMTV_1775754409",
-      "source": "BFMTV",
-      "text": " BENJAMIN NETANYAHU ANNONCE VOULOIR ENGAGER DES \"NÉGOCIATIONS DIRECTES\" AVEC LE LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:06",
-      "date": "09/04",
-      "timestamp": 1775754409
-    },
-    {
-      "id": "BFMTV_1775753646",
-      "source": "BFMTV",
-      "text": "DIRECT. MOYEN-ORIENT: LE LIBAN VEUT UN CESSEZ-LE-FEU AVANT DES NÉGOCIATIONS AVEC ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:54",
-      "date": "09/04",
-      "timestamp": 1775753646
-    },
-    {
-      "id": "BFMTV_1775752929",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU A ORDONNÉ À SON CABINET D'ENGAGER DES \"NÉGOCIATIONS DIRECTES\" AVEC LE LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:42",
-      "date": "09/04",
-      "timestamp": 1775752929
-    },
-    {
-      "id": "BFMTV_1775752215",
-      "source": "BFMTV",
-      "text": "L'ASSAUT ISRAÉLIEN AU LIBAN FAIT CRAINDRE AU CHANCELIER ALLEMAND UN \"ÉCHEC DU PROCESSUS DU PAIX\" AU MOYEN-ORIENT",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:30",
-      "date": "09/04",
-      "timestamp": 1775752215
-    },
-    {
-      "id": "BFMTV_1775751578",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU A ORDONNÉ À SON CABINET D'ENGAGER DES \"NÉGOCIATIONS DIRECTES\" AVEC LE LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:19",
-      "date": "09/04",
-      "timestamp": 1775751578
     }
   ],
   "france": {
