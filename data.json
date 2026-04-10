@@ -1,11 +1,81 @@
 {
-  "last_update": "10/04 05:13",
+  "last_update": "10/04 07:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775804195",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:56",
+      "date": "10/04",
+      "timestamp": 1775804195
+    },
+    {
+      "id": "BFMTV_1775804194",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE ANNONCE UN CESSEZ-LE-FEU POUR LA PÂQUE ORTHODOXE, KIEV L'ACCEPTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:56",
+      "date": "10/04",
+      "timestamp": 1775804194
+    },
+    {
+      "id": "BFMTV_1775804135",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: \"JE NE LE SENS PAS\", MICHEL-ÉDOUARD LECLERC NE PENSE PAS QUE LE PRIX DES CARBURANTS REVIENDRA À CELUI D'AVANT LE CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:55",
+      "date": "10/04",
+      "timestamp": 1775804135
+    },
+    {
+      "id": "BFMTV_1775800950",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: APRÈS LES FRAPPES MASSIVES D'ISRAËL SUR LE LIBAN, LE BILAN S'ALOURDIT À AU MOINS 303 MORTS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:02",
+      "date": "10/04",
+      "timestamp": 1775800950
+    },
+    {
+      "id": "BFMTV_1775799976",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA DIFFICILE TÂCHE D'ORGANISER DES NÉGOCIATIONS ENTRE ISRAËL ET LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:46",
+      "date": "10/04",
+      "timestamp": 1775799976
+    },
+    {
+      "id": "BFMTV_1775797825",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:10",
+      "date": "10/04",
+      "timestamp": 1775797825
+    },
     {
       "id": "BFMTV_1775797824",
       "source": "BFMTV",
       "text": "GUERRE AU MOYEN-ORIENT: À LA VEILLE DES POURPARLERS ENTRE WASHINGTON ET TÉHÉRAN, L'INCERTITUDE DEMEURE QUANT À LA PRÉSENCE DES IRANIENS AU PAKISTAN APRÈS LES FRAPPES SUR LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:10",
+      "date": "10/04",
+      "timestamp": 1775797824
+    },
+    {
+      "id": "BFMTV_1775797824",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: INCERTITUDES SUR LA VENUE DES IRANIENS AU PAKISTAN À LA VEILLE DES POURPARLERS ENTRE WASHINGTON ET TÉHÉRAN",
       "urgent": true,
       "france_related": false,
       "time": "05:10",
@@ -931,76 +1001,6 @@
       "time": "11:21",
       "date": "09/04",
       "timestamp": 1775733666
-    },
-    {
-      "id": "BFMTV_1775733451",
-      "source": "BFMTV",
-      "text": "DAMIEN CHEVALIER DE L'ORGANISATION MARITIME INTERNATIONALE ÉVOQUE \"UNE PÉRIODE TRÈS STRESSANTE\" POUR LES ÉQUIPAGES BLOQUÉS DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:17",
-      "date": "09/04",
-      "timestamp": 1775733451
-    },
-    {
-      "id": "BFMTV_1775732869",
-      "source": "BFMTV",
-      "text": "\"UNE GUERRE OUVERTE\" AVEC LA RUSSIE, \"PRÉOCCUPATION PREMIÈRE\" DU CHEF D'ÉTAT-MAJOR DES ARMÉES",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:07",
-      "date": "09/04",
-      "timestamp": 1775732869
-    },
-    {
-      "id": "BFMTV_1775732307",
-      "source": "BFMTV",
-      "text": "\"UN MESSAGE À POUTINE: NOUS VOUS VOYONS, NOUS VOYONS VOS ACTIVITÉS\", LANCE JOHN HEALEY, SECRÉTAIRE BRITANNIQUE À LA DÉFENSE, À PROPOS DE SOUS-MARINS RUSSES DANS L'ATLANTIQUE NORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:58",
-      "date": "09/04",
-      "timestamp": 1775732307
-    },
-    {
-      "id": "BFMTV_1775731313",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE CESSEZ-LE-FEU VU PAR LES IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:41",
-      "date": "09/04",
-      "timestamp": 1775731313
-    },
-    {
-      "id": "OPEX360_1775731103",
-      "source": "OPEX360",
-      "text": "LES HÉLICOPTÈRES D’ATTAQUE TIGRE DE L’ARMÉE DE TERRE ONT ABATTU LEURS PREMIERS DRONES AUX ÉMIRATS ARABES UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:38",
-      "date": "09/04",
-      "timestamp": 1775731103
-    },
-    {
-      "id": "BFMTV_1775731039",
-      "source": "BFMTV",
-      "text": "DÉFENSE: \"NOUS CONSTRUISONS UNE FLOTTE MIXTE DE NOUVELLES FRÉGATES ANTI-SOUS-MARINES (...) AVEC NOS ALLIÉS NORVÉGIENS\", EXPLIQUE JOHN HEALEY, SECRÉTAIRE BRITANNIQUE À LA DÉFENSE #BFM2",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:37",
-      "date": "09/04",
-      "timestamp": 1775731039
-    },
-    {
-      "id": "BFMTV_1775730917",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: HOMMAGE NATIONAL À ALI KHAMENEI, L’ANCIEN GUIDE SUPRÊME, TUÉ IL Y A 40 JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:35",
-      "date": "09/04",
-      "timestamp": 1775730917
     }
   ],
   "france": {
