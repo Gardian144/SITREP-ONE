@@ -1,7 +1,57 @@
 {
-  "last_update": "10/04 19:43",
+  "last_update": "10/04 20:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775852289",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA DÉLÉGATION IRANIENNE EST ARRIVÉE AU PAKISTAN EN VUE DES POURPARLERS ENTRE WASHINGTON ET TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:18",
+      "date": "10/04",
+      "timestamp": 1775852289
+    },
+    {
+      "id": "BFMTV_1775852223",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA DÉLÉGATION IRANIENNE EST ARRIVÉE AU PAKISTAN EN VUE DE POURPARLERS ENTRE WASHINGTON ET TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:17",
+      "date": "10/04",
+      "timestamp": 1775852223
+    },
+    {
+      "id": "BFMTV_1775852183",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN: LES POINTS CLÉS DES POURPARLERS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:16",
+      "date": "10/04",
+      "timestamp": 1775852183
+    },
+    {
+      "id": "BFMTV_1775851779",
+      "source": "BFMTV",
+      "text": "LIBAN: “TU NE SAIS PAS SI TU VAS RESTER EN VIE OU SI TU VAS PRENDRE UN MISSILE PAR ERREUR”, TÉMOIGNE HAYDAR, MILITANT DU HEZBOLLAH ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:09",
+      "date": "10/04",
+      "timestamp": 1775851779
+    },
+    {
+      "id": "BFMTV_1775851287",
+      "source": "BFMTV",
+      "text": "EN ROUTE POUR ISLAMABAD, JD VANCE, VICE-PRÉSIDENT DES ÉTATS-UNIS, FAIT ESCALE À PARIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:01",
+      "date": "10/04",
+      "timestamp": 1775851287
+    },
     {
       "id": "BFMTV_1775850113",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "21:27",
       "date": "09/04",
       "timestamp": 1775770066
-    },
-    {
-      "id": "BFMTV_1775769843",
-      "source": "BFMTV",
-      "text": "TAXES IMPOSÉES PAR L’IRAN DANS LE DÉTROIT D’ORMUZ: “J’ESPÈRE QUE CE N’EST PAS VRAI ET SI C’EST LE CAS, IL FAUT QUE CELA CESSE IMMÉDIATEMENT”, AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:24",
-      "date": "09/04",
-      "timestamp": 1775769843
-    },
-    {
-      "id": "BFMTV_1775769755",
-      "source": "BFMTV",
-      "text": "DIRECT. MOYEN-ORIENT: DONALD TRUMP MET EN GARDE L'IRAN CONTRE TOUT PÉAGE DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:22",
-      "date": "09/04",
-      "timestamp": 1775769755
-    },
-    {
-      "id": "BFMTV_1775769600",
-      "source": "BFMTV",
-      "text": "MELANIA TRUMP NIE TOUT LIEN AVEC LES CRIMES COMMIS PAR JEFFREY EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:20",
-      "date": "09/04",
-      "timestamp": 1775769600
-    },
-    {
-      "id": "BFMTV_1775769385",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS ENTRE L’IRAN ET LES ÉTATS-UNIS: LA FRANCE “VA PESER”, SELON ALICE RUFO, MINISTRE DÉLÉGUÉE AUX ARMÉES",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:16",
-      "date": "09/04",
-      "timestamp": 1775769385
-    },
-    {
-      "id": "BFMTV_1775768853",
-      "source": "BFMTV",
-      "text": "“LES ATTAQUES MENÉES PAR ISRAËL HIER SUR LE LIBAN SONT PROFONDÉMENT DISPROPORTIONNÉES”, DÉNONCE ALICE RUFO, MINISTRE DÉLÉGUÉE AUX ARMÉES",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:07",
-      "date": "09/04",
-      "timestamp": 1775768853
     }
   ],
   "france": {
