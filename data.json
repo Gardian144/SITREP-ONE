@@ -1,7 +1,57 @@
 {
-  "last_update": "10/04 10:07",
+  "last_update": "10/04 11:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775819075",
+      "source": "BFMTV",
+      "text": "AUX ÉTATS-UNIS, UN EMPLOYÉ SE FILME EN TRAIN D'INCENDIER SON ENTREPÔT ET DÉNONCE DES SALAIRES TROP BAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:04",
+      "date": "10/04",
+      "timestamp": 1775819075
+    },
+    {
+      "id": "BFMTV_1775818975",
+      "source": "BFMTV",
+      "text": "LE FILS DE JOE BIDEN PROPOSE UN “COMBAT EN CAGE” AVEC LES FILS DE DONALD TRUMP ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:02",
+      "date": "10/04",
+      "timestamp": 1775818975
+    },
+    {
+      "id": "OPEX360_1775818953",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE TERRE N’EST PAS SATISFAITE DU DÉVELOPPEMENT DE SON FUTUR VÉHICULE BLINDÉ D’AIDE À L’ENGAGEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:02",
+      "date": "10/04",
+      "timestamp": 1775818953
+    },
+    {
+      "id": "BFMTV_1775817620",
+      "source": "BFMTV",
+      "text": "\"LE SEUL QUI NE VOULAIT PAS LA GUERRE\": JD VANCE, L’HOMME FORT DES NÉGOCIATIONS POUR LA FIN DU CONFLIT AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:40",
+      "date": "10/04",
+      "timestamp": 1775817620
+    },
+    {
+      "id": "BFMTV_1775816143",
+      "source": "BFMTV",
+      "text": "LES ECLAIREURS -  DÉTROIT D'ORMUZ: COMBIEN RAPPORTERAIT UN POTENTIEL PÉAGE À L'IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:15",
+      "date": "10/04",
+      "timestamp": 1775816143
+    },
     {
       "id": "BFMTV_1775815355",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "15:25",
       "date": "09/04",
       "timestamp": 1775748351
-    },
-    {
-      "id": "BFMTV_1775748146",
-      "source": "BFMTV",
-      "text": "HAWAÏ: UN MÉDECIN COUPABLE D'HOMICIDE VOLONTAIRE SUR SA FEMME LORS D'UNE RANDONNÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:22",
-      "date": "09/04",
-      "timestamp": 1775748146
-    },
-    {
-      "id": "BFMTV_1775747931",
-      "source": "BFMTV",
-      "text": "\"IL N'Y A PAS EU D'ORDRE D'ÉVACUATION\": CE FRANCO-LIBANAIS  A DÉPOSÉ PLAINTE CONTRE TSAHAL POUR CRIME DE GUERRE EN 2024",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:18",
-      "date": "09/04",
-      "timestamp": 1775747931
-    },
-    {
-      "id": "BFMTV_1775747669",
-      "source": "BFMTV",
-      "text": "CE JEUDI DÉCRÉTÉ JOUR DE DEUIL  AU LIBAN APRÈS LES FRAPPES ISRAÉLIENNES  ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:14",
-      "date": "09/04",
-      "timestamp": 1775747669
-    },
-    {
-      "id": "BFMTV_1775745583",
-      "source": "BFMTV",
-      "text": "DIRECT. MOYEN-ORIENT: SERGE PAPIN ASSURE QUE \"LES BAISSES\" DE PRIX DES CARBURANTS \"DEVRAIENT ÊTRE TRADUITES À LA POMPE DÈS DEMAIN\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:39",
-      "date": "09/04",
-      "timestamp": 1775745583
-    },
-    {
-      "id": "BFMTV_1775745269",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PREMIER MINISTRE PAKISTANAIS DÉNONCE \"L'AGRESSION\" D'ISRAËL CONTRE LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:34",
-      "date": "09/04",
-      "timestamp": 1775745269
     }
   ],
   "france": {
