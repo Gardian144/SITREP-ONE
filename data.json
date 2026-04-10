@@ -1,7 +1,27 @@
 {
-  "last_update": "10/04 20:19",
+  "last_update": "10/04 21:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775854354",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LES DÉMOCRATES FONT PRESSION SUR DONALD TRUMP POUR LE DÉMETTRE DE SES FONCTIONS EN INVOQUANT LE 25E AMENDEMENT ",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:52",
+      "date": "10/04",
+      "timestamp": 1775854354
+    },
+    {
+      "id": "BFMTV_1775853206",
+      "source": "BFMTV",
+      "text": "“IL N’Y A QUE DEUX POINTS QUI PEUVENT ÊTRE NÉGOCIÉS À COURT TERME, LA RÉOUVERTURE D’ORMUZ ET LA FIN DES SANCTIONS”, RÉSUME MICHAEL BENHAMOU, CO-DIRECTEUR DE L’INSTITUT EUROPÉEN DE LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:33",
+      "date": "10/04",
+      "timestamp": 1775853206
+    },
     {
       "id": "BFMTV_1775852289",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "21:39",
       "date": "09/04",
       "timestamp": 1775770772
-    },
-    {
-      "id": "BFMTV_1775770290",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: “LES ALLIÉS FONT TOUT CE QUE LES ÉTATS-UNIS DEMANDENT”, DÉCLARE MARK RUTTE, SECRÉTAIRE GÉNÉRAL DE L’OTAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:31",
-      "date": "09/04",
-      "timestamp": 1775770290
-    },
-    {
-      "id": "BFMTV_1775770066",
-      "source": "BFMTV",
-      "text": "\"J'ESPÈRE QUE CE N'EST PAS VRAI\": DONALD TRUMP MET EN GARDE L'IRAN CONTRE TOUT PÉAGE DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:27",
-      "date": "09/04",
-      "timestamp": 1775770066
     }
   ],
   "france": {
