@@ -1,7 +1,57 @@
 {
-  "last_update": "11/04 09:01",
+  "last_update": "11/04 09:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775900291",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY PRÉVIENT QUE L'UKRAINE RÉPLIQUERA \"COUP POUR COUP\" À TOUTE VIOLATION DE LA TRÊVE POUR LA PÂQUE ORTHODOXE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:38",
+      "date": "11/04",
+      "timestamp": 1775900291
+    },
+    {
+      "id": "BFMTV_1775900058",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN DRONE S'EST ÉCRASÉ CE MERCREDI PRÈS DE DIPLOMATES AMÉRICANS À BAGDAD",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:34",
+      "date": "11/04",
+      "timestamp": 1775900058
+    },
+    {
+      "id": "BFMTV_1775899748",
+      "source": "BFMTV",
+      "text": "\"JE PENSAIS QUE J'ALLAIS ÊTRE ENLEVÉE\": JUSTINE SALVESTRONI, CORRESPONDANTE DE OUEST-FRANCE À BAGDAD, RACONTE SON EXFILTRATION D'IRAK",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:29",
+      "date": "11/04",
+      "timestamp": 1775899748
+    },
+    {
+      "id": "OPEX360_1775899258",
+      "source": "OPEX360",
+      "text": "LA FINLANDE A COMMANDÉ 112 OBUSIERS AUTOMOTEURS K9 THUNDER DE PLUS AUPRÈS DE LA CORÉE DU SUD",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:20",
+      "date": "11/04",
+      "timestamp": 1775899258
+    },
+    {
+      "id": "BFMTV_1775898580",
+      "source": "BFMTV",
+      "text": "POURPARLERS ENTRE TÉHÉRAN ET WASHINGTON: LE PREMIER MINISTRE PAKISTANAIS REÇOIT LA DÉLÉGATION IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:09",
+      "date": "11/04",
+      "timestamp": 1775898580
+    },
     {
       "id": "BFMTV_1775897495",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "10:02",
       "date": "10/04",
       "timestamp": 1775815355
-    },
-    {
-      "id": "BFMTV_1775815346",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE KOWEÏT CIBLÉ PAR UNE ATTAQUE DE DRONES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:02",
-      "date": "10/04",
-      "timestamp": 1775815346
-    },
-    {
-      "id": "BFMTV_1775815328",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PAKISTAN PLACE SA CAPITALE EN ALERTE ROUGE AVANT LES POURPARLERS ENTRE LES ÉTATS-UNIS ET L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:02",
-      "date": "10/04",
-      "timestamp": 1775815328
-    },
-    {
-      "id": "BFMTV_1775814632",
-      "source": "BFMTV",
-      "text": "\"TORPILLER LE CESSEZ-LE-FEU\", PARALYSER LE HEZBOLLAH... POURQUOI ISRAËL REFUSE D'INCLURE LE LIBAN DANS LA TRÊVE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:50",
-      "date": "10/04",
-      "timestamp": 1775814632
-    },
-    {
-      "id": "BFMTV_1775813981",
-      "source": "BFMTV",
-      "text": "VIKTOR ORBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:39",
-      "date": "10/04",
-      "timestamp": 1775813981
-    },
-    {
-      "id": "BFMTV_1775813964",
-      "source": "BFMTV",
-      "text": "LÉGISLATIVES EN HONGRIE: VIKTOR ORBÁN ACCUSE L'OPPOSITION DE COMPLOT, SON ADVERSAIRE PETER MAGYAR RÉAGIT",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:39",
-      "date": "10/04",
-      "timestamp": 1775813964
     }
   ],
   "france": {
