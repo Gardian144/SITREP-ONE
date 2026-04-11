@@ -1,7 +1,57 @@
 {
-  "last_update": "11/04 08:03",
+  "last_update": "11/04 09:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775897495",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN ABORDE LES NÉGOCIATIONS AU PAKISTAN AVEC UNE \"PROFONDE MÉFIANCE\" À L'ÉGARD DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:51",
+      "date": "11/04",
+      "timestamp": 1775897495
+    },
+    {
+      "id": "BFMTV_1775897168",
+      "source": "BFMTV",
+      "text": "ÉLECTIONS EN HONGRIE: UNE ONG DÉNONCE LE REDÉPLOIEMENT D'UN RÉSEAU DE FAUX COMPTES SUR X POUR INFLUENCER LE VOTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:46",
+      "date": "11/04",
+      "timestamp": 1775897168
+    },
+    {
+      "id": "BFMTV_1775895583",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN IMPORTANT DISPOSITIF SÉCURITAIRE MIS EN PLACE À ISLAMABAD POUR LES POURPARLERS ENTRE L'IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:19",
+      "date": "11/04",
+      "timestamp": 1775895583
+    },
+    {
+      "id": "BFMTV_1775895440",
+      "source": "BFMTV",
+      "text": "FAUTE DU \"SOUTIEN\" AMÉRICAIN, LE ROYAUME-UNI SUSPEND SON PROJET DE RESTITUTION DES ÎLES CHAGOS À MAURICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:17",
+      "date": "11/04",
+      "timestamp": 1775895440
+    },
+    {
+      "id": "BFMTV_1775895161",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: À ISLAMABAD POUR MENER LES NÉGOCIATIONS AVEC L'IRAN, JD VANCE SE PLACE DÉJÀ POUR UNE CANDIDATURE À LA PRÉSIDENTIELLE 2028",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:12",
+      "date": "11/04",
+      "timestamp": 1775895161
+    },
     {
       "id": "BFMTV_1775892810",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "09:39",
       "date": "10/04",
       "timestamp": 1775813964
-    },
-    {
-      "id": "BFMTV_1775812952",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L’IRAN LAISSE PLANER LE DOUTE SUR SA PRÉSENCE AUX DISCUSSIONS AVEC LES ÉTATS-UNIS AU PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:22",
-      "date": "10/04",
-      "timestamp": 1775812952
-    },
-    {
-      "id": "BFMTV_1775812327",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS CONTINUONS DE COMBATTRE AU LIBAN\", DÉCLARE LE CHEF D'ÉTAT-MAJOR DE L'ARMÉE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:12",
-      "date": "10/04",
-      "timestamp": 1775812327
-    },
-    {
-      "id": "BFMTV_1775812309",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: TOTALENERGIES ANNONCE L'ARRÊT DE LA RAFFINERIE SAOUDIENNE DE SATORP APRÈS DES FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:11",
-      "date": "10/04",
-      "timestamp": 1775812309
-    },
-    {
-      "id": "BFMTV_1775810737",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN NE PARTICIPERA PAS AUX NÉGOCIATIONS AU PAKISTAN SANS UN CESSEZ-LE-FEU \"SUR TOUS LES FRONTS\" Y COMPRIS AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:45",
-      "date": "10/04",
-      "timestamp": 1775810737
-    },
-    {
-      "id": "BFMTV_1775810273",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON AU VATICAN, LE LIBAN AU CŒUR DES DISCUSSIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:37",
-      "date": "10/04",
-      "timestamp": 1775810273
     }
   ],
   "france": {
