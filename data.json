@@ -1,7 +1,57 @@
 {
-  "last_update": "11/04 14:41",
+  "last_update": "11/04 15:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775920565",
+      "source": "BFMTV",
+      "text": "MOJTABA KHAMENEI, GUIDE SUPRÊME IRANIEN, JOUE UN RÔLE CRUCIAL DANS LES NÉGOCIATIONS INTERNATIONALES MALGRÉ SA DISCRÉTION PUBLIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:16",
+      "date": "11/04",
+      "timestamp": 1775920565
+    },
+    {
+      "id": "BFMTV_1775920426",
+      "source": "BFMTV",
+      "text": " MEXIQUE: UN MINEUR SECOURU APRÈS 13 JOURS PASSÉS SOUS TERRE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:13",
+      "date": "11/04",
+      "timestamp": 1775920426
+    },
+    {
+      "id": "BFMTV_1775920126",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS, LE PAKISTAN ET L'IRAN ONT ENTAMÉ DES POURPARLERS TRILATÉRAUX",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:08",
+      "date": "11/04",
+      "timestamp": 1775920126
+    },
+    {
+      "id": "BFMTV_1775920075",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS, LE PAKISTAN ET L'IRAN TIENNENT DES POURPARLERS TRILATÉRAUX SELON LA MAISON BLANCHE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:07",
+      "date": "11/04",
+      "timestamp": 1775920075
+    },
+    {
+      "id": "BFMTV_1775919670",
+      "source": "BFMTV",
+      "text": "PRIX DU CARBURANT: MALGRÉ LES PRIX PLAFONNÉS, ILS RESTENT CHERS POUR LES AUTOMOBILISTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:01",
+      "date": "11/04",
+      "timestamp": 1775919670
+    },
     {
       "id": "BFMTV_1775918320",
       "source": "BFMTV",
@@ -26,6 +76,16 @@
       "id": "BFMTV_1775918097",
       "source": "BFMTV",
       "text": "GUERRE EN IRAN: UN NAVIRE DE GUERRE AMÉRICAIN A REBROUSSÉ CHEMIN DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:34",
+      "date": "11/04",
+      "timestamp": 1775918097
+    },
+    {
+      "id": "BFMTV_1775918097",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: INCERTITUDES AUTOUR DE LA PRÉSENCE DE NAVIRES DE LA MARINE AMÉRICAINE DANS LE DÉTROIT D'ORMUZ",
       "urgent": true,
       "france_related": false,
       "time": "14:34",
@@ -941,66 +1001,6 @@
       "time": "16:41",
       "date": "10/04",
       "timestamp": 1775839264
-    },
-    {
-      "id": "BFMTV_1775838786",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SÉBASTIEN LECORNU APPELLE À \"NE PAS GÂCHER\" CETTE CRISE MAIS À EN FAIRE \"UNE OPPORTUNITÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:33",
-      "date": "10/04",
-      "timestamp": 1775838786
-    },
-    {
-      "id": "OPEX360_1775838779",
-      "source": "OPEX360",
-      "text": "MGCS – LE GÉNÉRAL SCHILL ÉVOQUE UNE SOLUTION 100 % FRANÇAISE POUR LE SYSTÈME PRINCIPAL DE COMBAT TERRESTRE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:32",
-      "date": "10/04",
-      "timestamp": 1775838779
-    },
-    {
-      "id": "BFMTV_1775836060",
-      "source": "BFMTV",
-      "text": "FIDÈLE DES GARDIENS DE LA RÉVOLUTION, EX‑MAIRE DE TÉHÉRAN... QUI EST MOHAMMAD BAGHER GHALIBAF, NOUVEL HOMME FORT IRANIEN ATTENDU AUX POURPARLERS AVEC LES ÉTATS‑UNIS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:47",
-      "date": "10/04",
-      "timestamp": 1775836060
-    },
-    {
-      "id": "BFMTV_1775835579",
-      "source": "BFMTV",
-      "text": "\"J'AI ÉTÉ SANS ÉQUIVOQUE OPPOSÉE À CETTE GUERRE DANS LAQUELLE TRUMP S'EST ENGAGÉ\" DÉNONCE L'ANCIENNE VICE-PRÉSIDENTE KAMALA HARRIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:39",
-      "date": "10/04",
-      "timestamp": 1775835579
-    },
-    {
-      "id": "BFMTV_1775834805",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EN DÉPLACEMENT AU VATICAN, EMMANUEL MACRON A ÉVOQUÉ LA SITUATION AU MOYEN-ORIENT AVEC LE PAPE LÉON XIV",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:26",
-      "date": "10/04",
-      "timestamp": 1775834805
-    },
-    {
-      "id": "BFMTV_1775834423",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA DÉLÉGATION AMÉRICAINE EN ROUTE POUR ISLAMABAD POUR LES DISCUSSIONS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:20",
-      "date": "10/04",
-      "timestamp": 1775834423
     }
   ],
   "france": {
