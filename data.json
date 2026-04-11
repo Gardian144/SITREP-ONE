@@ -1,7 +1,87 @@
 {
-  "last_update": "11/04 05:06",
+  "last_update": "11/04 06:13",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775887398",
+      "source": "BFMTV",
+      "text": "\"LE HEZBOLLAH NE LES LAISSERA PAS FAIRE\": LES ISRAÉLIENS PARTAGÉS SUR L'AVENIR DES NÉGOCIATIONS AVEC LE LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:03",
+      "date": "11/04",
+      "timestamp": 1775887398
+    },
+    {
+      "id": "BFMTV_1775886349",
+      "source": "BFMTV",
+      "text": "\"LES GENS REPRENNENT LEUR QUOTIDIEN\": DEPUIS TROIS JOURS, AUCUN MISSILE IRANIEN N'A VISÉ ABOU DABI, UN SOULAGEMENT POUR LES HABITANTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:45",
+      "date": "11/04",
+      "timestamp": 1775886349
+    },
+    {
+      "id": "BFMTV_1775885722",
+      "source": "BFMTV",
+      "text": "LE PAKISTAN SE PRÉPARE À DES POURPARLERS À HAUT RISQUE ENTRE L'IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:35",
+      "date": "11/04",
+      "timestamp": 1775885722
+    },
+    {
+      "id": "BFMTV_1775885309",
+      "source": "BFMTV",
+      "text": "\"LA DOULEUR EST INSUPPORTABLE\": CES SURVIVANTS MARQUÉS À VIE PAR LES FRAPPES D'ISRAËL AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:28",
+      "date": "11/04",
+      "timestamp": 1775885309
+    },
+    {
+      "id": "BFMTV_1775885029",
+      "source": "BFMTV",
+      "text": "L'IRAN INCAPABLE DE LOCALISER LEURS MINES DANS LE DÉTROIT D'ORMUZ, SELON LE NEW YORK TIMES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:23",
+      "date": "11/04",
+      "timestamp": 1775885029
+    },
+    {
+      "id": "BFMTV_1775884696",
+      "source": "BFMTV",
+      "text": "LE HEZBOLLAH REVENDIQUE DES ATTAQUES DE DRONES ET DE ROQUETTES SUR DES LOCALITÉS ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:18",
+      "date": "11/04",
+      "timestamp": 1775884696
+    },
+    {
+      "id": "BFMTV_1775884489",
+      "source": "BFMTV",
+      "text": "POURPARLERS ENTRE L'IRAN ET LES ÉTATS-UNIS: PAS DE RENCONTRE DIRECTE AU PAKISTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:14",
+      "date": "11/04",
+      "timestamp": 1775884489
+    },
+    {
+      "id": "BFMTV_1775884192",
+      "source": "BFMTV",
+      "text": "IRAN: LES EXÉCUTIONS SE POURSUIVENT DANS LE PAYS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:09",
+      "date": "11/04",
+      "timestamp": 1775884192
+    },
     {
       "id": "BFMTV_1775883803",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "07:06",
       "date": "10/04",
       "timestamp": 1775804818
-    },
-    {
-      "id": "BFMTV_1775804195",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:56",
-      "date": "10/04",
-      "timestamp": 1775804195
-    },
-    {
-      "id": "BFMTV_1775804194",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA RUSSIE ANNONCE UN CESSEZ-LE-FEU POUR LA PÂQUE ORTHODOXE, KIEV L'ACCEPTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:56",
-      "date": "10/04",
-      "timestamp": 1775804194
-    },
-    {
-      "id": "BFMTV_1775804135",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: \"JE NE LE SENS PAS\", MICHEL-ÉDOUARD LECLERC NE PENSE PAS QUE LE PRIX DES CARBURANTS REVIENDRA À CELUI D'AVANT LE CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:55",
-      "date": "10/04",
-      "timestamp": 1775804135
-    },
-    {
-      "id": "BFMTV_1775800950",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: APRÈS LES FRAPPES MASSIVES D'ISRAËL SUR LE LIBAN, LE BILAN S'ALOURDIT À AU MOINS 303 MORTS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:02",
-      "date": "10/04",
-      "timestamp": 1775800950
-    },
-    {
-      "id": "BFMTV_1775799976",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA DIFFICILE TÂCHE D'ORGANISER DES NÉGOCIATIONS ENTRE ISRAËL ET LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:46",
-      "date": "10/04",
-      "timestamp": 1775799976
-    },
-    {
-      "id": "BFMTV_1775797825",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:10",
-      "date": "10/04",
-      "timestamp": 1775797825
-    },
-    {
-      "id": "BFMTV_1775797824",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: À LA VEILLE DES POURPARLERS ENTRE WASHINGTON ET TÉHÉRAN, L'INCERTITUDE DEMEURE QUANT À LA PRÉSENCE DES IRANIENS AU PAKISTAN APRÈS LES FRAPPES SUR LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:10",
-      "date": "10/04",
-      "timestamp": 1775797824
-    },
-    {
-      "id": "BFMTV_1775797824",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: INCERTITUDES SUR LA VENUE DES IRANIENS AU PAKISTAN À LA VEILLE DES POURPARLERS ENTRE WASHINGTON ET TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:10",
-      "date": "10/04",
-      "timestamp": 1775797824
     }
   ],
   "france": {
