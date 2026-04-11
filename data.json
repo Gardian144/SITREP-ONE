@@ -1,7 +1,67 @@
 {
-  "last_update": "11/04 13:57",
+  "last_update": "11/04 14:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775918320",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP CAPITALISE SUR LA HAUSSE DU TRAFIC PÉTROLIER VERS LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:38",
+      "date": "11/04",
+      "timestamp": 1775918320
+    },
+    {
+      "id": "BFMTV_1775918290",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS COMMENCENT \"LE PROCESSUS POUR DÉGAGER LE DÉTROIT D'ORMUZ\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:38",
+      "date": "11/04",
+      "timestamp": 1775918290
+    },
+    {
+      "id": "BFMTV_1775918097",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: UN NAVIRE DE GUERRE AMÉRICAIN A REBROUSSÉ CHEMIN DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:34",
+      "date": "11/04",
+      "timestamp": 1775918097
+    },
+    {
+      "id": "BFMTV_1775917905",
+      "source": "BFMTV",
+      "text": "ISRAËL AURAIT ACCEPTÉ DE NE PLUS BOMBARDER BEYROUTH, SELON UN MÉDIA ISRAÉLIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:31",
+      "date": "11/04",
+      "timestamp": 1775917905
+    },
+    {
+      "id": "BFMTV_1775917872",
+      "source": "BFMTV",
+      "text": "LE TÉMOIGNAGE DE JUSTINE SALVESTRONI, CORRESPONDANTE DE OUEST-FRANCE À BAGDAD, EXFILTRÉE D'IRAK",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:31",
+      "date": "11/04",
+      "timestamp": 1775917872
+    },
+    {
+      "id": "BFMTV_1775916133",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: MANIFESTATION PRO-HEZBOLLAH À BEYROUTH CONTRE LES NÉGOCIATIONS DIRECTES ENTRE ISRAËL ET LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:02",
+      "date": "11/04",
+      "timestamp": 1775916133
+    },
     {
       "id": "BFMTV_1775915474",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "15:20",
       "date": "10/04",
       "timestamp": 1775834423
-    },
-    {
-      "id": "BFMTV_1775833804",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS DIRECTES ENTRE ISRAËL ET LE LIBAN: DES DISCUSSIONS HISTORIQUES?",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:10",
-      "date": "10/04",
-      "timestamp": 1775833804
-    },
-    {
-      "id": "BFMTV_1775833174",
-      "source": "BFMTV",
-      "text": "UN LOUP S’ÉCHAPPE D’UN ZOO EN CORÉE DU SUD ET RESTE INTROUVABLE DEPUIS PLUSIEURS JOURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:59",
-      "date": "10/04",
-      "timestamp": 1775833174
-    },
-    {
-      "id": "BFMTV_1775832983",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN EXIGE UN CESSEZ-LE-FEU AU LIBAN AVANT LES NÉGOCIATIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:56",
-      "date": "10/04",
-      "timestamp": 1775832983
-    },
-    {
-      "id": "BFMTV_1775832709",
-      "source": "BFMTV",
-      "text": "LE MOMENT JD VANCE ? APRÈS LE CESSEZ-LE-FEU, LA GUERRE DE SUCCESSION À DONALD TRUMP EST OUVERTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:51",
-      "date": "10/04",
-      "timestamp": 1775832709
-    },
-    {
-      "id": "BFMTV_1775832166",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES AMBASSADEURS AMÉRICAINS, LIBANAIS ET ISRAÉLIENS SE SONT ENTRETENUS PAR TÉLÉPHONE CE VENDREDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:42",
-      "date": "10/04",
-      "timestamp": 1775832166
-    },
-    {
-      "id": "BFMTV_1775832129",
-      "source": "BFMTV",
-      "text": "PEDRO SÁNCHEZ VS DONALD TRUMP: POURQUOI L'ESPAGNE TIENT TÊTE AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:42",
-      "date": "10/04",
-      "timestamp": 1775832129
     }
   ],
   "france": {
