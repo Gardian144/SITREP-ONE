@@ -1,7 +1,47 @@
 {
-  "last_update": "11/04 11:16",
+  "last_update": "11/04 11:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775908121",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DIX MORTS DONT TROIS SECOURISTES DANS DES FRAPPES ISRAÉLIENNES SUR LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:48",
+      "date": "11/04",
+      "timestamp": 1775908121
+    },
+    {
+      "id": "BFMTV_1775907470",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DIX MORTS DONT TROIS SECOURISTES DANS DES FRAPPES ISRAÉLIENNES SUR LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:37",
+      "date": "11/04",
+      "timestamp": 1775907470
+    },
+    {
+      "id": "BFMTV_1775907063",
+      "source": "BFMTV",
+      "text": "KITKAT RÉAGIT AVEC HUMOUR AU VOL D'UN CAMION DE MARCHANDISES TRANSPORTANT PLUS DE 400.000 BARRES CHOCOLATÉES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:31",
+      "date": "11/04",
+      "timestamp": 1775907063
+    },
+    {
+      "id": "BFMTV_1775906917",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA CIRCULATION MARITIME REPREND TIMIDEMENT DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:28",
+      "date": "11/04",
+      "timestamp": 1775906917
+    },
     {
       "id": "BFMTV_1775905427",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "13:01",
       "date": "10/04",
       "timestamp": 1775826118
-    },
-    {
-      "id": "BFMTV_1775824915",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH APPELLE LE LIBAN À NE PAS FAIRE DE \"CONCESSIONS GRATUITES\" À ISRAËL LORS DES NÉGOCIATIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:41",
-      "date": "10/04",
-      "timestamp": 1775824915
-    },
-    {
-      "id": "BFMTV_1775824387",
-      "source": "BFMTV",
-      "text": "J.D. VANCE, VICE-PRÉSIDENT DES ÉTATS-UNIS: \"SI LES IRANIENS SONT D'ACCORD POUR NÉGOCIER DE BONNE FOI, NOUS LEUR TENDONS LA MAIN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:33",
-      "date": "10/04",
-      "timestamp": 1775824387
-    },
-    {
-      "id": "BFMTV_1775824252",
-      "source": "BFMTV",
-      "text": "FRANCE, RUSSIE, TURQUIE... CES PAYS QUI APPELLENT À INCLURE LE LIBAN DANS L'ACCORD DE TRÊVE AU MOYEN-ORIENT",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:30",
-      "date": "10/04",
-      "timestamp": 1775824252
-    },
-    {
-      "id": "BFMTV_1775823740",
-      "source": "BFMTV",
-      "text": "REFUS D'ISRAËL D'UNE TRÊVE AVEC LE LIBAN: \"CHAQUE ACCORD DE PAIX QUI SERA FAIT, ON EST POUR\", RÉAGISSENT CES HABITANTS DE TEL-AVIV ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:22",
-      "date": "10/04",
-      "timestamp": 1775823740
     }
   ],
   "france": {
