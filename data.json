@@ -1,7 +1,27 @@
 {
-  "last_update": "11/04 07:18",
+  "last_update": "11/04 08:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775892810",
+      "source": "BFMTV",
+      "text": "\"ON DOIT POUVOIR VIVRE ENSEMBLE\": DES LIBANAIS INSTALLÉS EN ISRAËL ENTRE PEUR ET DÉCHIREMENT AVEC LA GUERRE ENTRE LE HEZBOLLAH ET L'ÉTAT HÉBREU",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:33",
+      "date": "11/04",
+      "timestamp": 1775892810
+    },
+    {
+      "id": "BFMTV_1775892810",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:33",
+      "date": "11/04",
+      "timestamp": 1775892810
+    },
     {
       "id": "BFMTV_1775891215",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:37",
       "date": "10/04",
       "timestamp": 1775810273
-    },
-    {
-      "id": "BFMTV_1775810027",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - JD VANCE, GHALIBAF: QUI SONT CES DEUX HOMMES QUI VEULENT METTRE FIN À LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:33",
-      "date": "10/04",
-      "timestamp": 1775810027
-    },
-    {
-      "id": "BFMTV_1775809831",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:30",
-      "date": "10/04",
-      "timestamp": 1775809831
     }
   ],
   "france": {
