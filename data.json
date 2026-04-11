@@ -1,7 +1,57 @@
 {
-  "last_update": "11/04 16:37",
+  "last_update": "11/04 17:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775926582",
+      "source": "BFMTV",
+      "text": "\"CE QUI ANIME UN PLONGEUR DÉMINEUR, C'EST DE PLONGER, D'ALLER CHERCHER LA MINE\": GUILLAUME GARNIER, ANCIEN PLONGEUR DÉMINEUR DANS LE DÉTROIT D'ORMUZ, RACONTE SON TRAVAIL SUR BFMTV",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:56",
+      "date": "11/04",
+      "timestamp": 1775926582
+    },
+    {
+      "id": "BFMTV_1775926258",
+      "source": "BFMTV",
+      "text": "SELON L'ARMÉE AMÉRICAINE, DEUX NAVIRES DE LA MARINE AMÉRICAINE ONT FRANCHI LE DÉTROIT D'ORMUZ DANS UNE OPÉRATION DE DÉMINAGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:50",
+      "date": "11/04",
+      "timestamp": 1775926258
+    },
+    {
+      "id": "BFMTV_1775926074",
+      "source": "BFMTV",
+      "text": "DÉMINER LE DÉTROIT D'ORMUZ: HUGO SOUSSAN (EXAIL TECHNOLOGIES) EXPLIQUE LE FONCTIONNEMENT DES ROBOTS MARINS POUR DÉTECTER ET DÉTRUIRE LES MINES SOUS-MARINES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:47",
+      "date": "11/04",
+      "timestamp": 1775926074
+    },
+    {
+      "id": "BFMTV_1775925751",
+      "source": "BFMTV",
+      "text": "\"AVANT DE COMMENCER À DÉMINER LE DÉTROIT, IL FAUT ARRÊTER LE CONFLIT\": GUILLAUME GARNIER, ANCIEN PLONGEUR DÉMINEUR DANS LE DÉTROIT D'ORMUZ, RACONTE SON TRAVAIL SUR BFMTV",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:42",
+      "date": "11/04",
+      "timestamp": 1775925751
+    },
+    {
+      "id": "BFMTV_1775925363",
+      "source": "BFMTV",
+      "text": "SELON LE NEW YORK TIMES, L'IRAN NE PARVIENT PAS À TROUVER LES MINES QU'IL A POSÉES DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:36",
+      "date": "11/04",
+      "timestamp": 1775925363
+    },
     {
       "id": "BFMTV_1775924641",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "19:18",
       "date": "10/04",
       "timestamp": 1775848689
-    },
-    {
-      "id": "BFMTV_1775848676",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"UNE GUERRE JUSTE\", SELON BERNARD-HENRI LÉVY, ÉCRIVAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:17",
-      "date": "10/04",
-      "timestamp": 1775848676
-    },
-    {
-      "id": "BFMTV_1775847963",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: “CETTE GUERRE EST PERDUE PAR L’IRAN”, ANNONCE BERNARD-HENRI LÉVY, ÉCRIVAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:06",
-      "date": "10/04",
-      "timestamp": 1775847963
-    },
-    {
-      "id": "BFMTV_1775847469",
-      "source": "BFMTV",
-      "text": "“C’EST UN MYTHE DE CROIRE QUE LE CERVEAU DE DONALD TRUMP EST CONTRÔLÉ PAR BENJAMIN NETANYAHU”, ESTIME BERNARD-HENRI LÉVY, ÉCRIVAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:57",
-      "date": "10/04",
-      "timestamp": 1775847469
-    },
-    {
-      "id": "BFMTV_1775846777",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: “LE PEUPLE LIBANAIS TOUT ENTIER EST OTAGE”, AFFIRME BERNARD-HENRI LÉVY, ÉCRIVAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:46",
-      "date": "10/04",
-      "timestamp": 1775846777
-    },
-    {
-      "id": "BFMTV_1775846523",
-      "source": "BFMTV",
-      "text": "LIBAN: LE TSAHAL ANNONCE AVOIR ÉLIMINÉ 180 MEMBRES DU HEZBOLLAH EN UNE MINUTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:42",
-      "date": "10/04",
-      "timestamp": 1775846523
     }
   ],
   "france": {
