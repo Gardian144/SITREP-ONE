@@ -1,7 +1,37 @@
 {
-  "last_update": "11/04 15:18",
+  "last_update": "11/04 15:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775922537",
+      "source": "BFMTV",
+      "text": "\"DEPUIS MA NAISSANCE, ISRAËL BOMBARDE LE LIBAN\": UNE MANIFESTATION A ÉTÉ ORGANISÉE PAR LE HEZBOLLAH AU CŒUR DE BEYROUTH AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:48",
+      "date": "11/04",
+      "timestamp": 1775922537
+    },
+    {
+      "id": "BFMTV_1775921869",
+      "source": "BFMTV",
+      "text": "IRAN: DONALD TRUMP ASSURE QUE \"LE DÉTROIT D'ORMUZ SERA BIENTÔT ROUVERT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:37",
+      "date": "11/04",
+      "timestamp": 1775921869
+    },
+    {
+      "id": "BFMTV_1775921039",
+      "source": "BFMTV",
+      "text": "\"C'EST VITAL\": BFMTV DANS UN CONVOI HUMANITAIRE ESCORTÉ PAR LES CASQUES BLEUS FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:23",
+      "date": "11/04",
+      "timestamp": 1775921039
+    },
     {
       "id": "BFMTV_1775920565",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "16:57",
       "date": "10/04",
       "timestamp": 1775840258
-    },
-    {
-      "id": "BFMTV_1775839820",
-      "source": "BFMTV",
-      "text": "CHILI: PLUSIEURS BLESSÉS LORS D’UN MOUVEMENT DE FOULE LORSQU'UN INFLUENCEUR DISTRIBUAIT DES BILLETS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:50",
-      "date": "10/04",
-      "timestamp": 1775839820
-    },
-    {
-      "id": "BFMTV_1775839805",
-      "source": "BFMTV",
-      "text": "BRÉSIL: DES HOMMES S'ENTRAÎNENT À FRAPPER DES FEMMES \"AU CAS OÙ ELLE DIRAIT NON\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:50",
-      "date": "10/04",
-      "timestamp": 1775839805
-    },
-    {
-      "id": "BFMTV_1775839264",
-      "source": "BFMTV",
-      "text": "UN SOUDANAIS ARRÊTÉ APRÈS LA MORT DE QUATRE MIGRANTS QUI TENTAIENT DE TRAVERSER LA MANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:41",
-      "date": "10/04",
-      "timestamp": 1775839264
     }
   ],
   "france": {
