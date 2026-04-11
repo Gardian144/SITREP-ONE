@@ -1,7 +1,37 @@
 {
-  "last_update": "11/04 11:53",
+  "last_update": "11/04 12:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775912069",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES MÉDIAS IRANIENS ANNONCENT QUE LES NÉGOCIATIONS À ISLAMABAD ENTRE WASHINGTON ET TÉHÉRAN ONT COMMENCÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:54",
+      "date": "11/04",
+      "timestamp": 1775912069
+    },
+    {
+      "id": "BFMTV_1775911445",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES MÉDIAS IRANIENS ANNONCENT QUE LES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN ONT COMMENCÉ AU PAKISTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:44",
+      "date": "11/04",
+      "timestamp": 1775911445
+    },
+    {
+      "id": "BFMTV_1775908368",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE SENTIMENT D'ABANDON DE CERTAINS HABITANTS DU SUD-LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:52",
+      "date": "11/04",
+      "timestamp": 1775908368
+    },
     {
       "id": "BFMTV_1775908121",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "13:37",
       "date": "10/04",
       "timestamp": 1775828231
-    },
-    {
-      "id": "BFMTV_1775826984",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BFMTV SUR LES LIEUX D'UNE FRAPPE ISRAÉLIENNE À BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:16",
-      "date": "10/04",
-      "timestamp": 1775826984
-    },
-    {
-      "id": "BFMTV_1775826283",
-      "source": "BFMTV",
-      "text": "PEDRO SÁNCHEZ, OPPOSANT N°1 À DONALD TRUMP EN EUROPE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:04",
-      "date": "10/04",
-      "timestamp": 1775826283
-    },
-    {
-      "id": "BFMTV_1775826118",
-      "source": "BFMTV",
-      "text": "VIKTOR ORBAN, ALLIÉ EUROPÉEN DE VLADIMIR POUTINE, EN DANGER AVANT LES ÉLECTIONS EN HONGRIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:01",
-      "date": "10/04",
-      "timestamp": 1775826118
     }
   ],
   "france": {
