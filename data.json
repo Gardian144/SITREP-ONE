@@ -1,7 +1,57 @@
 {
-  "last_update": "11/04 09:56",
+  "last_update": "11/04 10:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775903401",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PREMIER MINISTRE PAKISTANAIS DIT AVOIR RENCONTRÉ LE VICE-PRÉSIDENT AMÉRICAIN JD VANCE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:30",
+      "date": "11/04",
+      "timestamp": 1775903401
+    },
+    {
+      "id": "BFMTV_1775902938",
+      "source": "BFMTV",
+      "text": "POURPARLERS IRAN/ÉTATS-UNIS: AU CŒUR DES NÉGOCIATIONS À ISLAMABAD, JD VANCE SE PLACE DÉJÀ POUR UNE CANDIDATURE À LA PRÉSIDENTIELLE 2028",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:22",
+      "date": "11/04",
+      "timestamp": 1775902938
+    },
+    {
+      "id": "BFMTV_1775902455",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL CONTINUE DE FRAPPER LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:14",
+      "date": "11/04",
+      "timestamp": 1775902455
+    },
+    {
+      "id": "BFMTV_1775902191",
+      "source": "BFMTV",
+      "text": "\"ON NE MÉRITE PAS ÇA\": LA SOUFFRANCE DES HABITANTS DE BEYROUTH BLESSÉS PAR LES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:09",
+      "date": "11/04",
+      "timestamp": 1775902191
+    },
+    {
+      "id": "BFMTV_1775901804",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"IL EST ESSENTIEL DE METTRE UN TERME À CES BOMBARDEMENTS ISRAÉLIENS\", AFFIRME MICHEL HÉLOU, SECRÉTAIRE GÉNÉRAL DU PARTI LIBANAIS \"BLOC NATIONAL\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:03",
+      "date": "11/04",
+      "timestamp": 1775901804
+    },
     {
       "id": "BFMTV_1775900291",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "11:04",
       "date": "10/04",
       "timestamp": 1775819075
-    },
-    {
-      "id": "BFMTV_1775818975",
-      "source": "BFMTV",
-      "text": "LE FILS DE JOE BIDEN PROPOSE UN “COMBAT EN CAGE” AVEC LES FILS DE DONALD TRUMP ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:02",
-      "date": "10/04",
-      "timestamp": 1775818975
-    },
-    {
-      "id": "OPEX360_1775818953",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE TERRE N’EST PAS SATISFAITE DU DÉVELOPPEMENT DE SON FUTUR VÉHICULE BLINDÉ D’AIDE À L’ENGAGEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:02",
-      "date": "10/04",
-      "timestamp": 1775818953
-    },
-    {
-      "id": "BFMTV_1775817620",
-      "source": "BFMTV",
-      "text": "\"LE SEUL QUI NE VOULAIT PAS LA GUERRE\": JD VANCE, L’HOMME FORT DES NÉGOCIATIONS POUR LA FIN DU CONFLIT AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:40",
-      "date": "10/04",
-      "timestamp": 1775817620
-    },
-    {
-      "id": "BFMTV_1775816143",
-      "source": "BFMTV",
-      "text": "LES ECLAIREURS -  DÉTROIT D'ORMUZ: COMBIEN RAPPORTERAIT UN POTENTIEL PÉAGE À L'IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:15",
-      "date": "10/04",
-      "timestamp": 1775816143
-    },
-    {
-      "id": "BFMTV_1775815355",
-      "source": "BFMTV",
-      "text": "HAWAÏ: UN MÉDECIN COUPABLE DE TENTATIVE D'HOMICIDE SUR SA FEMME LORS D'UNE RANDONNÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:02",
-      "date": "10/04",
-      "timestamp": 1775815355
     }
   ],
   "france": {
