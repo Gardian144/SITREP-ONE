@@ -1,7 +1,57 @@
 {
-  "last_update": "11/04 17:57",
+  "last_update": "11/04 18:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775932920",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS AU PAKISTAN: SELON LES MÉDIAS IRANIENS, LES ÉTATS-UNIS ONT DES \"DEMANDES EXCESSIVES\" SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:42",
+      "date": "11/04",
+      "timestamp": 1775932920
+    },
+    {
+      "id": "BFMTV_1775932775",
+      "source": "BFMTV",
+      "text": "POURPARLERS ENTRE L'IRAN ET LES ÉTATS-UNIS: LE DÉTROIT D'ORMUZ EST AU CŒUR DES NÉGOCIATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:39",
+      "date": "11/04",
+      "timestamp": 1775932775
+    },
+    {
+      "id": "BFMTV_1775930958",
+      "source": "BFMTV",
+      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:09",
+      "date": "11/04",
+      "timestamp": 1775930958
+    },
+    {
+      "id": "BFMTV_1775930768",
+      "source": "BFMTV",
+      "text": "MALGRÉ LES AVERTISSEMENTS IRANIENS, DEUX NAVIRES DE LA MARINE AMÉRICAINE ONT FRANCHI LE DÉTROIT D'ORMUZ DANS UNE OPÉRATION DE DÉMINAGE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:06",
+      "date": "11/04",
+      "timestamp": 1775930768
+    },
+    {
+      "id": "BFMTV_1775930578",
+      "source": "BFMTV",
+      "text": "IRAN: DEUX NAVIRES AMÉRICAINS ONT FRANCHI LE DÉTROIT D'ORMUZ DANS UNE OPÉRATION DE DÉMINAGE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:02",
+      "date": "11/04",
+      "timestamp": 1775930578
+    },
     {
       "id": "BFMTV_1775928024",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "20:09",
       "date": "10/04",
       "timestamp": 1775851779
-    },
-    {
-      "id": "BFMTV_1775851287",
-      "source": "BFMTV",
-      "text": "EN ROUTE POUR ISLAMABAD, JD VANCE, VICE-PRÉSIDENT DES ÉTATS-UNIS, FAIT ESCALE À PARIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:01",
-      "date": "10/04",
-      "timestamp": 1775851287
-    },
-    {
-      "id": "BFMTV_1775850113",
-      "source": "BFMTV",
-      "text": "\"JE POURRAIS\": KAMALA HARRIS \"RÉFLÉCHIT\" À SE PRÉSENTER À LA PRÉSIDENTIELLE AMÉRICAINE EN 2028",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:41",
-      "date": "10/04",
-      "timestamp": 1775850113
-    },
-    {
-      "id": "BFMTV_1775849679",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: “LA SEULE RAISON POUR LAQUELLE LES IRANIENS SONT ENCORE EN VIE AUJOURD'HUI, C'EST POUR NÉGOCIER”, AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:34",
-      "date": "10/04",
-      "timestamp": 1775849679
-    },
-    {
-      "id": "BFMTV_1775849416",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: L'INTERVIEW EN INTÉGRALITÉ DE BERNARD-HENRI LÉVY, ÉCRIVAIN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:30",
-      "date": "10/04",
-      "timestamp": 1775849416
-    },
-    {
-      "id": "BFMTV_1775848958",
-      "source": "BFMTV",
-      "text": "“LE DÉTROIT D'ORMUZ DOIT ÊTRE LIBÉRÉ PAR TOUS LES MOYENS”, DEMANDE BERNARD-HENRI LÉVY, ÉCRIVAIN",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:22",
-      "date": "10/04",
-      "timestamp": 1775848958
     }
   ],
   "france": {
