@@ -1,7 +1,17 @@
 {
-  "last_update": "11/04 19:34",
+  "last_update": "11/04 20:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775937119",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES FRAPPES ISRAÉLIENNES S'INTENSIFIENT DANS LE SUD-LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:51",
+      "date": "11/04",
+      "timestamp": 1775937119
+    },
     {
       "id": "BFMTV_1775935361",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "21:24",
       "date": "10/04",
       "timestamp": 1775856256
-    },
-    {
-      "id": "BFMTV_1775856169",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LE DÉTROIT D'ORMUZ \"SERA BIENTÔT OUVERT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:22",
-      "date": "10/04",
-      "timestamp": 1775856169
     }
   ],
   "france": {
