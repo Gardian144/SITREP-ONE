@@ -1,7 +1,37 @@
 {
-  "last_update": "12/04 20:36",
+  "last_update": "12/04 21:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776028177",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LE CENTCOM DÉCLARE QUE LE BLOCUS AMÉRICAIN DÉBUTERA DEMAIN À 16H",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:09",
+      "date": "12/04",
+      "timestamp": 1776028177
+    },
+    {
+      "id": "BFMTV_1776026919",
+      "source": "BFMTV",
+      "text": "LÉGISLATIVES EN HONGRIE: \"C'EST UNE VICTOIRE TRÈS IMPRESSIONNANTE QUI A ÉTÉ REMPORTÉE PAR PETER MAGYAR\", DÉCLARE BENJAMIN HADDAD, MINISTRE DÉLÉGUÉ CHARGÉ DE L'EUROPE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:48",
+      "date": "12/04",
+      "timestamp": 1776026919
+    },
+    {
+      "id": "BFMTV_1776026271",
+      "source": "BFMTV",
+      "text": "LÉGISLATIVES EN HONGRIE: PETER MAGYAR CÉLÈBRE SA VICTOIRE DANS LES RUES DE BUDAPEST",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:37",
+      "date": "12/04",
+      "timestamp": 1776026271
+    },
     {
       "id": "BFMTV_1776026052",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "21:07",
       "date": "11/04",
       "timestamp": 1775941663
-    },
-    {
-      "id": "BFMTV_1775941449",
-      "source": "BFMTV",
-      "text": "MALGRÉ LES NÉGOCIATIONS EN COURS, DONALD TRUMP SOUTIENT SA VICTOIRE MILITAIRE CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:04",
-      "date": "11/04",
-      "timestamp": 1775941449
-    },
-    {
-      "id": "BFMTV_1775941417",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE \"PEU IMPORTE\" SI UN ACCORD EST TROUVÉ AVEC L'IRAN, CAR \"LES ÉTATS-UNIS ONT GAGNÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:03",
-      "date": "11/04",
-      "timestamp": 1775941417
-    },
-    {
-      "id": "BFMTV_1775940871",
-      "source": "BFMTV",
-      "text": "IRAN: \"DE TOUTE FAÇON, NOUS AVONS GAGNÉ, NOUS ALLONS OUVRIR LE DÉTROIT D'ORMUZ\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:54",
-      "date": "11/04",
-      "timestamp": 1775940871
     }
   ],
   "france": {
