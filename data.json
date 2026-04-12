@@ -1,7 +1,47 @@
 {
-  "last_update": "12/04 18:00",
+  "last_update": "12/04 19:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776020016",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"CETTE AFFAIRE DE BLOCUS, C'EST UN ACTE DE GUERRE PACIFIQUE\", CONSTATE PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:53",
+      "date": "12/04",
+      "timestamp": 1776020016
+    },
+    {
+      "id": "BFMTV_1776019124",
+      "source": "BFMTV",
+      "text": "DANS SON INTERVIEW À FOX NEWS, DONALD TRUMP ASSURE \"QU'IL POURRAIT ANÉANTIR L'IRAN EN UNE JOURNÉE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:38",
+      "date": "12/04",
+      "timestamp": 1776019124
+    },
+    {
+      "id": "BFMTV_1776017393",
+      "source": "BFMTV",
+      "text": "BLOCAGE DE DÉTROIT D'ORMUZ: LA SITUATION RESTE INCERTAINE AVEC 2.000 BATEAUX COMMERCIAUX BLOQUÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:09",
+      "date": "12/04",
+      "timestamp": 1776017393
+    },
+    {
+      "id": "BFMTV_1776017200",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT AMÉRICAIN DONALD TRUMP RÉAFFIRME SA POSITION FERME SUR LE NUCLÉAIRE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:06",
+      "date": "12/04",
+      "timestamp": 1776017200
+    },
     {
       "id": "BFMTV_1776016321",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "19:09",
       "date": "11/04",
       "timestamp": 1775934568
-    },
-    {
-      "id": "BFMTV_1775934137",
-      "source": "BFMTV",
-      "text": "\"QUAND ON PART EN MISSION, ON A DES PHASES D'ENTRAÎNEMENT\": THOMAS COUVIN, ANCIEN PLONGEUR-DÉMINEUR DE LA MARINE NATIONALE, TÉMOIGNE SUR BFMTV",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:02",
-      "date": "11/04",
-      "timestamp": 1775934137
-    },
-    {
-      "id": "BFMTV_1775933737",
-      "source": "BFMTV",
-      "text": "\"ON INTERVIENT DÈS QUE LA MINE EST DÉTECTÉE\": THOMAS COUVIN, ANCIEN PLONGEUR-DÉMINEUR DE LA MARINE NATIONALE, TÉMOIGNE SUR BFMTV",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:55",
-      "date": "11/04",
-      "timestamp": 1775933737
-    },
-    {
-      "id": "BFMTV_1775932920",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS AU PAKISTAN: SELON LES MÉDIAS IRANIENS, LES ÉTATS-UNIS ONT DES \"DEMANDES EXCESSIVES\" SUR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:42",
-      "date": "11/04",
-      "timestamp": 1775932920
-    },
-    {
-      "id": "BFMTV_1775932775",
-      "source": "BFMTV",
-      "text": "POURPARLERS ENTRE L'IRAN ET LES ÉTATS-UNIS: LE DÉTROIT D'ORMUZ EST AU CŒUR DES NÉGOCIATIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:39",
-      "date": "11/04",
-      "timestamp": 1775932775
     }
   ],
   "france": {
