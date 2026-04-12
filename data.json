@@ -1,7 +1,137 @@
 {
-  "last_update": "12/04 03:46",
+  "last_update": "12/04 05:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775972830",
+      "source": "BFMTV",
+      "text": "\"C'EST LA PIRE GUERRE QU'ON AIT EUE\": LES MILITANTS ANTI-GUERRE DE PLUS EN PLUS NOMBREUX À PROTESTER EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:47",
+      "date": "12/04",
+      "timestamp": 1775972830
+    },
+    {
+      "id": "BFMTV_1775972581",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP SERAIT PRÊT À METTRE EN PLACE UN BLOCUS NAVAL PROCHE DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:43",
+      "date": "12/04",
+      "timestamp": 1775972581
+    },
+    {
+      "id": "BFMTV_1775972001",
+      "source": "BFMTV",
+      "text": "\"DEMANDES DÉRAISONNABLES\", ARME NUCLÉAIRE... CE QUE L'ON SAIT DE L'ÉCHEC DES PREMIÈRES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:33",
+      "date": "12/04",
+      "timestamp": 1775972001
+    },
+    {
+      "id": "BFMTV_1775970838",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL POURSUIT SES OPÉRATIONS MILITAIRES AU SUD-LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:13",
+      "date": "12/04",
+      "timestamp": 1775970838
+    },
+    {
+      "id": "BFMTV_1775970714",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS NE SOMMES PAS PARVENUS À UN ACCORD\", AFFIRME J.D. VANCE  ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:11",
+      "date": "12/04",
+      "timestamp": 1775970714
+    },
+    {
+      "id": "BFMTV_1775970571",
+      "source": "BFMTV",
+      "text": "\"DEMANDES DÉRAISONNABLES\", ARME NUCLÉAIRE... CE QUE L'ON SAIT DE L'ÉCHEC DES PREMIÈRES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:09",
+      "date": "12/04",
+      "timestamp": 1775970571
+    },
+    {
+      "id": "BFMTV_1775970132",
+      "source": "BFMTV",
+      "text": "DES FIDÈLES SE SONT RÉUNIS À PARIS À L'APPEL DU PAPE POUR UNE MESSE EN FAVEUR DE LA PAIX AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:02",
+      "date": "12/04",
+      "timestamp": 1775970132
+    },
+    {
+      "id": "BFMTV_1775969954",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES NEVEUX, NOUS PENSONS QUE CELA VA RECOMMENCER\": LE TÉMOIGNAGE D'UN IRANIEN INQUIET D'UNE REPRISE DES BOMBARDEMENTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:59",
+      "date": "12/04",
+      "timestamp": 1775969954
+    },
+    {
+      "id": "BFMTV_1775969413",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: DEUX DESTROYERS AMÉRICAINS ONT LANCÉ LE CHANTIER DU DÉMINAGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:50",
+      "date": "12/04",
+      "timestamp": 1775969413
+    },
+    {
+      "id": "BFMTV_1775969271",
+      "source": "BFMTV",
+      "text": "LA JUSTICE AMÉRICAINE AUTORISE TEMPORAIREMENT LA POURSUITE DES TRAVAUX DE LA SALLE DE BAL DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:47",
+      "date": "12/04",
+      "timestamp": 1775969271
+    },
+    {
+      "id": "BFMTV_1775968890",
+      "source": "BFMTV",
+      "text": "ÉCHEC DES NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS: \"ILS ONT CHOISI DE NE PAS ACCEPTER NOS CONDITIONS\", AFFIRME J.D. VANCE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:41",
+      "date": "12/04",
+      "timestamp": 1775968890
+    },
+    {
+      "id": "BFMTV_1775968760",
+      "source": "BFMTV",
+      "text": "ÉCHEC DES NÉGOCIATIONS: L'IRAN DÉNONCE DES \"DEMANDES EXCESSIVES DES ÉTATS-UNIS\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:39",
+      "date": "12/04",
+      "timestamp": 1775968760
+    },
+    {
+      "id": "BFMTV_1775968066",
+      "source": "BFMTV",
+      "text": "DÉMINAGE DU DÉTROIT D'ORMUZ: DE QUELLES CAPACITÉS LA FRANCE BÉNÉFICIE-T-ELLE?",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:27",
+      "date": "12/04",
+      "timestamp": 1775968066
+    },
     {
       "id": "BFMTV_1775965096",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "06:21",
       "date": "11/04",
       "timestamp": 1775888464
-    },
-    {
-      "id": "BFMTV_1775887398",
-      "source": "BFMTV",
-      "text": "\"LE HEZBOLLAH NE LES LAISSERA PAS FAIRE\": LES ISRAÉLIENS PARTAGÉS SUR L'AVENIR DES NÉGOCIATIONS AVEC LE LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:03",
-      "date": "11/04",
-      "timestamp": 1775887398
-    },
-    {
-      "id": "BFMTV_1775886349",
-      "source": "BFMTV",
-      "text": "\"LES GENS REPRENNENT LEUR QUOTIDIEN\": DEPUIS TROIS JOURS, AUCUN MISSILE IRANIEN N'A VISÉ ABOU DABI, UN SOULAGEMENT POUR LES HABITANTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:45",
-      "date": "11/04",
-      "timestamp": 1775886349
-    },
-    {
-      "id": "BFMTV_1775885722",
-      "source": "BFMTV",
-      "text": "LE PAKISTAN SE PRÉPARE À DES POURPARLERS À HAUT RISQUE ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:35",
-      "date": "11/04",
-      "timestamp": 1775885722
-    },
-    {
-      "id": "BFMTV_1775885309",
-      "source": "BFMTV",
-      "text": "\"LA DOULEUR EST INSUPPORTABLE\": CES SURVIVANTS MARQUÉS À VIE PAR LES FRAPPES D'ISRAËL AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:28",
-      "date": "11/04",
-      "timestamp": 1775885309
-    },
-    {
-      "id": "BFMTV_1775885029",
-      "source": "BFMTV",
-      "text": "L'IRAN INCAPABLE DE LOCALISER LEURS MINES DANS LE DÉTROIT D'ORMUZ, SELON LE NEW YORK TIMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:23",
-      "date": "11/04",
-      "timestamp": 1775885029
-    },
-    {
-      "id": "BFMTV_1775884696",
-      "source": "BFMTV",
-      "text": "LE HEZBOLLAH REVENDIQUE DES ATTAQUES DE DRONES ET DE ROQUETTES SUR DES LOCALITÉS ISRAÉLIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:18",
-      "date": "11/04",
-      "timestamp": 1775884696
-    },
-    {
-      "id": "BFMTV_1775884489",
-      "source": "BFMTV",
-      "text": "POURPARLERS ENTRE L'IRAN ET LES ÉTATS-UNIS: PAS DE RENCONTRE DIRECTE AU PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:14",
-      "date": "11/04",
-      "timestamp": 1775884489
-    },
-    {
-      "id": "BFMTV_1775884192",
-      "source": "BFMTV",
-      "text": "IRAN: LES EXÉCUTIONS SE POURSUIVENT DANS LE PAYS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:09",
-      "date": "11/04",
-      "timestamp": 1775884192
-    },
-    {
-      "id": "BFMTV_1775883803",
-      "source": "BFMTV",
-      "text": "TRÊVE AU LIBAN, DÉBLOCAGE DES ACTIFS...QUELLES SONT \"LES CONDITIONS PRÉALABLES DE L'IRAN\" AVANT TOUTE DISCUSSION AVEC LES ÉTATS-UNIS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:03",
-      "date": "11/04",
-      "timestamp": 1775883803
-    },
-    {
-      "id": "BFMTV_1775883527",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE LIBAN ANNONCE DES DISCUSSIONS AVEC ISRAËL MARDI À WASHINGTON, JD VANCE EN ROUTE AUJOURD'HUI POUR LE PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:58",
-      "date": "11/04",
-      "timestamp": 1775883527
-    },
-    {
-      "id": "BFMTV_1775882623",
-      "source": "BFMTV",
-      "text": "\"ON DOIT POUVOIR VIVRE ENSEMBLE\": CES LIBANAIS INSTALLÉS EN ISRAËL VIVENT ENTRE LA PEUR ET LE DÉCHIREMENT DEPUIS LE RETOUR DE LA GUERRE ENTRE LE HEZBOLLAH ET ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:43",
-      "date": "11/04",
-      "timestamp": 1775882623
-    },
-    {
-      "id": "BFMTV_1775882204",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: COMMENT VONT SE DÉROULER LES POURPARLERS ENTRE WASHINGTON ET TÉHÉRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:36",
-      "date": "11/04",
-      "timestamp": 1775882204
-    },
-    {
-      "id": "BFMTV_1775882088",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:34",
-      "date": "11/04",
-      "timestamp": 1775882088
     }
   ],
   "france": {
