@@ -1,7 +1,37 @@
 {
-  "last_update": "12/04 10:59",
+  "last_update": "12/04 11:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775993014",
+      "source": "BFMTV",
+      "text": " GUERRE AU MOYEN-ORIENT: L'IRAN ESTIME QU'IL ÉTAIT \"NATUREL\" DE NE PAS \"PARVENIR À UN ACCORD EN UNE SEULE SESSION\" DE NÉGOCIATIONS AVEC LES ÉTATS-UNIS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:23",
+      "date": "12/04",
+      "timestamp": 1775993014
+    },
+    {
+      "id": "BFMTV_1775991749",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'AMBASSADEUR D'ISRAËL EN FRANCE AFFIRME QUE L'ÉTAT HÉBREU \"EST PRÊT À FRAPPER TÉHÉRAN S'IL LE FAUT QUAND IL FAUT\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "11:02",
+      "date": "12/04",
+      "timestamp": 1775991749
+    },
+    {
+      "id": "BFMTV_1775991653",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'AMBASSADEUR D'ISRAËL EN FRANCE DIT \"NE PAS VOIR POURQUOI IL N'Y AURAIT PAS\" DE NÉGOCIATIONS ENTRE ISRAËL ET LE LIBAN MARDI À WASHINGTON",
+      "urgent": true,
+      "france_related": true,
+      "time": "11:00",
+      "date": "12/04",
+      "timestamp": 1775991653
+    },
     {
       "id": "BFMTV_1775991365",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "12:44",
       "date": "11/04",
       "timestamp": 1775911445
-    },
-    {
-      "id": "BFMTV_1775908368",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE SENTIMENT D'ABANDON DE CERTAINS HABITANTS DU SUD-LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:52",
-      "date": "11/04",
-      "timestamp": 1775908368
-    },
-    {
-      "id": "BFMTV_1775908121",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DIX MORTS DONT TROIS SECOURISTES DANS DES FRAPPES ISRAÉLIENNES SUR LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:48",
-      "date": "11/04",
-      "timestamp": 1775908121
-    },
-    {
-      "id": "BFMTV_1775907470",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DIX MORTS DONT TROIS SECOURISTES DANS DES FRAPPES ISRAÉLIENNES SUR LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:37",
-      "date": "11/04",
-      "timestamp": 1775907470
     }
   ],
   "france": {
