@@ -1,7 +1,47 @@
 {
-  "last_update": "12/04 12:04",
+  "last_update": "12/04 13:34",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776000742",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: TRUMP ANNONCE QUE L'ARMÉE AMÉRICAINE VA \"BLOQUER TOUS LES BATEAUX QUI TENTENT D'ENTRER OU DE SORTIR DU DÉTROIT D'ORMUZ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:32",
+      "date": "12/04",
+      "timestamp": 1776000742
+    },
+    {
+      "id": "BFMTV_1776000364",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE QUE L'ARMÉE AMÉRICAINE VA \"BLOQUER TOUS LES BATEAUX QUI TENTENT D'ENTRER OU DE SORTIR DU DÉTROIT D'ORMUZ\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:26",
+      "date": "12/04",
+      "timestamp": 1776000364
+    },
+    {
+      "id": "BFMTV_1775999436",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE QUE L'ARMÉE AMÉRICAINE VA \"BLOQUER TOUS LES BATEAUX QUI TENTENT D'ENTRER OU DE SORTIR DU DÉTROIT D'ORMUZ\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:10",
+      "date": "12/04",
+      "timestamp": 1775999436
+    },
+    {
+      "id": "BFMTV_1775995545",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BEYROUTH REDOUTE DES FRAPPES APRÈS DES DÉCLARATIONS DU MINISTRE DE L'ÉNERGIE ISRAÉLIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:05",
+      "date": "12/04",
+      "timestamp": 1775995545
+    },
     {
       "id": "BFMTV_1775993014",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "13:21",
       "date": "11/04",
       "timestamp": 1775913702
-    },
-    {
-      "id": "BFMTV_1775913408",
-      "source": "BFMTV",
-      "text": "\"IL DEVRAIT SE RETIRER DE LA COURSE\": ERIC SWALWELL, CANDIDAT DÉMOCRATE AU POSTE DE GOUVERNEUR DE CALIFORNIE, ACCUSÉ DE VIOLENCES SEXUELLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:16",
-      "date": "11/04",
-      "timestamp": 1775913408
-    },
-    {
-      "id": "OPEX360_1775913059",
-      "source": "OPEX360",
-      "text": "MGCS : LA DIRECTION GÉNÉRALE DE L’ARMEMENT A AUSSI ENVISAGÉ L’ACHAT DE 200 CHARS INTERMÉDIAIRES AUPRÈS DE L’ALLEMAGNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:10",
-      "date": "11/04",
-      "timestamp": 1775913059
-    },
-    {
-      "id": "BFMTV_1775912069",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES MÉDIAS IRANIENS ANNONCENT QUE LES NÉGOCIATIONS À ISLAMABAD ENTRE WASHINGTON ET TÉHÉRAN ONT COMMENCÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:54",
-      "date": "11/04",
-      "timestamp": 1775912069
-    },
-    {
-      "id": "BFMTV_1775911445",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES MÉDIAS IRANIENS ANNONCENT QUE LES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN ONT COMMENCÉ AU PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:44",
-      "date": "11/04",
-      "timestamp": 1775911445
     }
   ],
   "france": {
