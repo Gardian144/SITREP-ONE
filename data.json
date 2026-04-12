@@ -1,7 +1,27 @@
 {
-  "last_update": "12/04 13:34",
+  "last_update": "12/04 14:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776003628",
+      "source": "BFMTV",
+      "text": "ALORS QUE LES TENSIONS S'INTENSIFIENT AVEC LES ÉTATS-UNIS, L'IRAN RENFORCE SON CONTRÔLE SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:20",
+      "date": "12/04",
+      "timestamp": 1776003628
+    },
+    {
+      "id": "BFMTV_1776003536",
+      "source": "BFMTV",
+      "text": " DONALD TRUMP ANNONCE UN BLOCUS NAVAL DANS LE DÉTROIT D'ORMUZ ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:18",
+      "date": "12/04",
+      "timestamp": 1776003536
+    },
     {
       "id": "BFMTV_1776000742",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "14:02",
       "date": "11/04",
       "timestamp": 1775916133
-    },
-    {
-      "id": "BFMTV_1775915474",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP DÉPLORE QUE LA FRANCE \"ET BIEN D'AUTRES\" PAYS N'AIDENT PAS À ROUVRIR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:51",
-      "date": "11/04",
-      "timestamp": 1775915474
-    },
-    {
-      "id": "BFMTV_1775913702",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS VONT \"SÉCURISER LE DÉTROIT D'ORMUZ, POUR LE BIEN DE TOUS LES PAYS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:21",
-      "date": "11/04",
-      "timestamp": 1775913702
     }
   ],
   "france": {
