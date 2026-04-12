@@ -1,7 +1,47 @@
 {
-  "last_update": "12/04 19:08",
+  "last_update": "12/04 19:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776021983",
+      "source": "BFMTV",
+      "text": "ÉLECTIONS LÉGISLATIVES EN HONGRIE: PETER MAGYAR ANNONCE SA VICTOIRE, VIKTOR ORBAN RECONNAÎT UNE DÉFAITE \"DOULOUREUSE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:26",
+      "date": "12/04",
+      "timestamp": 1776021983
+    },
+    {
+      "id": "BFMTV_1776021883",
+      "source": "BFMTV",
+      "text": "LÉGISLATIVES EN HONGRIE: PETER MAGYAR ANNONCE AVOIR REÇU UN APPEL DE VIKTOR ORBAN LE FÉLICITANT POUR SA VICTOIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:24",
+      "date": "12/04",
+      "timestamp": 1776021883
+    },
+    {
+      "id": "BFMTV_1776021516",
+      "source": "BFMTV",
+      "text": "BLOCUS AMÉRICAIN DU DÉTROIT D'ORMUZ: LA MARINE IRANIENNE PARLE DE MENACES \"RIDICULES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:18",
+      "date": "12/04",
+      "timestamp": 1776021516
+    },
+    {
+      "id": "BFMTV_1776021022",
+      "source": "BFMTV",
+      "text": "ALORS LES FRAPPES ISRAÉLIENNES SE POURSUIVENT DANS LE SUD-LIBAN, BENJAMIN NETANYAHU S'EST RENDU AUPRÈS DE SES TROUPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:10",
+      "date": "12/04",
+      "timestamp": 1776021022
+    },
     {
       "id": "BFMTV_1776020016",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "19:22",
       "date": "11/04",
       "timestamp": 1775935361
-    },
-    {
-      "id": "BFMTV_1775935156",
-      "source": "BFMTV",
-      "text": "\"JE VAIS ALLER JUSQU'AU BOUT\": BOUALEM SANSAL ENTEND \"ATTAQUER EN JUSTICE\" LE PRÉSIDENT ALGÉRIEN ABDELMADJID TEBBOUNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:19",
-      "date": "11/04",
-      "timestamp": 1775935156
-    },
-    {
-      "id": "BFMTV_1775935156",
-      "source": "BFMTV",
-      "text": "TENSIONS ENTRE LA FRANCE ET L'ALGÉRIE",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:19",
-      "date": "11/04",
-      "timestamp": 1775935156
-    },
-    {
-      "id": "BFMTV_1775934762",
-      "source": "BFMTV",
-      "text": "SELON LE MÉDIA AMÉRICAIN CNN, LA CHINE POURRAIT BIENTÔT LIVRER DES ARMES À L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:12",
-      "date": "11/04",
-      "timestamp": 1775934762
-    },
-    {
-      "id": "BFMTV_1775934568",
-      "source": "BFMTV",
-      "text": "THOMAS COUVIN, ANCIEN PLONGEUR-DÉMINEUR DE LA MARINE NATIONALE, TÉMOIGNE SUR BFMTV",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:09",
-      "date": "11/04",
-      "timestamp": 1775934568
     }
   ],
   "france": {
