@@ -1,7 +1,57 @@
 {
-  "last_update": "12/04 21:17",
+  "last_update": "12/04 21:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776030399",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE QUE LE BLOCUS DES PORTS IRANIENS DÉBUTERA DÈS LUNDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:46",
+      "date": "12/04",
+      "timestamp": 1776030399
+    },
+    {
+      "id": "BFMTV_1776030392",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT : FACE À UNE POTENTIELLE MENACE IRANIENNE, L'ARMÉE ISRAÉLIENNE SE TIENT PRÊTE À INTERVENIR",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:46",
+      "date": "12/04",
+      "timestamp": 1776030392
+    },
+    {
+      "id": "BFMTV_1776029738",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN RENFORCE LA DÉFENSE DE SES SITES NUCLÉAIRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:35",
+      "date": "12/04",
+      "timestamp": 1776029738
+    },
+    {
+      "id": "BFMTV_1776029077",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON, FRIEDRICH MERZ, KEIR STARMER... L'EUROPE SALUE LA VICTOIRE DE PETER MAGYAR FACE À VIKTOR ORBAN EN HONGRIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:24",
+      "date": "12/04",
+      "timestamp": 1776029077
+    },
+    {
+      "id": "BFMTV_1776028587",
+      "source": "BFMTV",
+      "text": "LÉGISLATIVES EN HONGRIE: PETER MAGYAR CÉLÈBRE SA VICTOIRE FACE À VIKTOR ORBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:16",
+      "date": "12/04",
+      "timestamp": 1776028587
+    },
     {
       "id": "BFMTV_1776028177",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "21:49",
       "date": "11/04",
       "timestamp": 1775944177
-    },
-    {
-      "id": "BFMTV_1775943951",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE CELA LUI EST \"ÉGAL\" SI UN ACCORD EST CONCLU AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:45",
-      "date": "11/04",
-      "timestamp": 1775943951
-    },
-    {
-      "id": "BFMTV_1775943760",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: LA GUERRE DES DRONES ENTRE LES ÉTATS-UNIS ET L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:42",
-      "date": "11/04",
-      "timestamp": 1775943760
-    },
-    {
-      "id": "BFMTV_1775943519",
-      "source": "BFMTV",
-      "text": "LES GARDIENS DE LA RÉVOLUTION DÉCLARENT QUE L'IRAN VA AGIR AVEC \"SÉVÉRITÉ\" CONTRE LES NAVIRES MILITAIRES TRANSITANT PAR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:38",
-      "date": "11/04",
-      "timestamp": 1775943519
-    },
-    {
-      "id": "BFMTV_1775941959",
-      "source": "BFMTV",
-      "text": "IRAN: \"TOUS LES BATEAUX QUI DÉPOSENT DES MINES [DANS LE DÉTROIT D'ORMUZ] ONT ÉTÉ COULÉS\", AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:12",
-      "date": "11/04",
-      "timestamp": 1775941959
-    },
-    {
-      "id": "BFMTV_1775941663",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS AU PAKISTAN: DONALD TRUMP MAINTIENT SA POSITION SUR SA VICTOIRE MILITAIRE FACE À L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:07",
-      "date": "11/04",
-      "timestamp": 1775941663
     }
   ],
   "france": {
