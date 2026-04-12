@@ -1,7 +1,57 @@
 {
-  "last_update": "12/04 14:24",
+  "last_update": "12/04 15:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776006045",
+      "source": "BFMTV",
+      "text": "ISRAËL POURSUIT SES FRAPPES AU SUD LIBAN CIBLANT LES INFRASTRUCTURES DU HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:00",
+      "date": "12/04",
+      "timestamp": 1776006045
+    },
+    {
+      "id": "BFMTV_1776004914",
+      "source": "BFMTV",
+      "text": "ESPAGNE: UNE EFFIGIE GÉANTE DE BENJAMIN NETANYAHU PULVÉRISÉE LORS D’UN FESTIVAL, LE CHARGÉ D'AFFAIRES ESPAGNOL À TEL-AVIV CONVOQUÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:41",
+      "date": "12/04",
+      "timestamp": 1776004914
+    },
+    {
+      "id": "BFMTV_1776004264",
+      "source": "BFMTV",
+      "text": "LES FRAPPES ISRAÉLIENNES CONTINUENT AU LIBAN AVANT LES NÉGOCIATIONS PRÉVUES ENTRE LES DEUX PAYS À WASHINGTON",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:31",
+      "date": "12/04",
+      "timestamp": 1776004264
+    },
+    {
+      "id": "BFMTV_1776004122",
+      "source": "BFMTV",
+      "text": "LA JOURNÉE D'HIER A MARQUÉ UNE HAUSSE INÉDITE DU TRAFIC MARITIME DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:28",
+      "date": "12/04",
+      "timestamp": 1776004122
+    },
+    {
+      "id": "BFMTV_1776003778",
+      "source": "BFMTV",
+      "text": "ISRAËL: LES MILITANTS ANTI-GUERRE DE PLUS EN PLUS NOMBREUX À PROTESTER ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:22",
+      "date": "12/04",
+      "timestamp": 1776003778
+    },
     {
       "id": "BFMTV_1776003628",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "14:38",
       "date": "11/04",
       "timestamp": 1775918290
-    },
-    {
-      "id": "BFMTV_1775918097",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: UN NAVIRE DE GUERRE AMÉRICAIN A REBROUSSÉ CHEMIN DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:34",
-      "date": "11/04",
-      "timestamp": 1775918097
-    },
-    {
-      "id": "BFMTV_1775918097",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: INCERTITUDES AUTOUR DE LA PRÉSENCE DE NAVIRES DE LA MARINE AMÉRICAINE DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:34",
-      "date": "11/04",
-      "timestamp": 1775918097
-    },
-    {
-      "id": "BFMTV_1775917905",
-      "source": "BFMTV",
-      "text": "ISRAËL AURAIT ACCEPTÉ DE NE PLUS BOMBARDER BEYROUTH, SELON UN MÉDIA ISRAÉLIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:31",
-      "date": "11/04",
-      "timestamp": 1775917905
-    },
-    {
-      "id": "BFMTV_1775917872",
-      "source": "BFMTV",
-      "text": "LE TÉMOIGNAGE DE JUSTINE SALVESTRONI, CORRESPONDANTE DE OUEST-FRANCE À BAGDAD, EXFILTRÉE D'IRAK",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:31",
-      "date": "11/04",
-      "timestamp": 1775917872
-    },
-    {
-      "id": "BFMTV_1775916133",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: MANIFESTATION PRO-HEZBOLLAH À BEYROUTH CONTRE LES NÉGOCIATIONS DIRECTES ENTRE ISRAËL ET LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:02",
-      "date": "11/04",
-      "timestamp": 1775916133
     }
   ],
   "france": {
