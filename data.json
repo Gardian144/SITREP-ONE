@@ -1,7 +1,47 @@
 {
-  "last_update": "12/04 16:38",
+  "last_update": "12/04 17:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776013995",
+      "source": "BFMTV",
+      "text": "BLOCAGE DU DÉTROIT D'ORMUZ: DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS VONT \"DÉTRUIRE LES MINES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:13",
+      "date": "12/04",
+      "timestamp": 1776013995
+    },
+    {
+      "id": "BFMTV_1776012791",
+      "source": "BFMTV",
+      "text": "BLOCAGE DU DÉTROIT D'ORMUZ: COMMENT DONALD TRUMP COMPTE S'Y PRENDRE ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:53",
+      "date": "12/04",
+      "timestamp": 1776012791
+    },
+    {
+      "id": "BFMTV_1776012497",
+      "source": "BFMTV",
+      "text": "TRUMP, IRAN, FRAPPES AU LIBAN: ENTRETIEN AVEC FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:48",
+      "date": "12/04",
+      "timestamp": 1776012497
+    },
+    {
+      "id": "BFMTV_1776012035",
+      "source": "BFMTV",
+      "text": "\"LA RUSSIE EST DANS UNE POSTURE AGRESSIVE\", JUGE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:40",
+      "date": "12/04",
+      "timestamp": 1776012035
+    },
     {
       "id": "BFMTV_1776011719",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "16:50",
       "date": "11/04",
       "timestamp": 1775926258
-    },
-    {
-      "id": "BFMTV_1775926074",
-      "source": "BFMTV",
-      "text": "DÉMINER LE DÉTROIT D'ORMUZ: HUGO SOUSSAN (EXAIL TECHNOLOGIES) EXPLIQUE LE FONCTIONNEMENT DES ROBOTS MARINS POUR DÉTECTER ET DÉTRUIRE LES MINES SOUS-MARINES",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:47",
-      "date": "11/04",
-      "timestamp": 1775926074
-    },
-    {
-      "id": "BFMTV_1775925751",
-      "source": "BFMTV",
-      "text": "\"AVANT DE COMMENCER À DÉMINER LE DÉTROIT, IL FAUT ARRÊTER LE CONFLIT\": GUILLAUME GARNIER, ANCIEN PLONGEUR DÉMINEUR DANS LE DÉTROIT D'ORMUZ, RACONTE SON TRAVAIL SUR BFMTV",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:42",
-      "date": "11/04",
-      "timestamp": 1775925751
-    },
-    {
-      "id": "BFMTV_1775925363",
-      "source": "BFMTV",
-      "text": "SELON LE NEW YORK TIMES, L'IRAN NE PARVIENT PAS À TROUVER LES MINES QU'IL A POSÉES DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:36",
-      "date": "11/04",
-      "timestamp": 1775925363
-    },
-    {
-      "id": "BFMTV_1775924641",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - IRAN: POURQUOI LE PAKISTAN ASSURE-T-IL LES NÉGOCIATIONS ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:24",
-      "date": "11/04",
-      "timestamp": 1775924641
     }
   ],
   "france": {
