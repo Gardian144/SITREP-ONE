@@ -1,7 +1,97 @@
 {
-  "last_update": "12/04 15:52",
+  "last_update": "12/04 16:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776011719",
+      "source": "BFMTV",
+      "text": "\"LES ÉTATS-UNIS AURAIENT PLUS À PERDRE QU'À GAGNER EN QUITTANT L'OTAN\", EXPLIQUE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:35",
+      "date": "12/04",
+      "timestamp": 1776011719
+    },
+    {
+      "id": "BFMTV_1776011389",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS AVEC L'IRAN: \"LA FRANCE DOIT FAIRE ENTENDRE SA VOIX\", DÉCLARE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:29",
+      "date": "12/04",
+      "timestamp": 1776011389
+    },
+    {
+      "id": "BFMTV_1776011140",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"BENJAMIN NETANYAHU A FAIT UNE PRESSION ET DONALD TRUMP A SUIVI\", DÉCLARE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:25",
+      "date": "12/04",
+      "timestamp": 1776011140
+    },
+    {
+      "id": "BFMTV_1776010831",
+      "source": "BFMTV",
+      "text": "FRAPPES ISRAÉLIENNES AU LIBAN: \"C'EST INSUPPORTABLE (...) ELLES SONT ILLÉGITIMES\", DÉCLARE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:20",
+      "date": "12/04",
+      "timestamp": 1776010831
+    },
+    {
+      "id": "BFMTV_1776010560",
+      "source": "BFMTV",
+      "text": "\"UN COMBLE\": FRANÇOIS HOLLANDE RÉAGIT À LA PROPOSITION DE VLADIMIR POUTINE DE PARTICIPER À UNE MÉDIATION DANS LE CONFLIT AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:16",
+      "date": "12/04",
+      "timestamp": 1776010560
+    },
+    {
+      "id": "BFMTV_1776010415",
+      "source": "BFMTV",
+      "text": "\"DONALD TRUMP A DÉCHIRÉ L'ACCORD\" SUR LE NUCLÉAIRE IRANIEN, EXPLIQUE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:13",
+      "date": "12/04",
+      "timestamp": 1776010415
+    },
+    {
+      "id": "BFMTV_1776010160",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP \"EST UN PROBLÈME POUR LE MONDE ENTIER\", DÉCLARE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:09",
+      "date": "12/04",
+      "timestamp": 1776010160
+    },
+    {
+      "id": "BFMTV_1776009802",
+      "source": "BFMTV",
+      "text": "BLOCUS NAVAL DANS LE DÉTROIT D'ORMUZ: \"ON VA D'INCOHÉRENCE EN INCOHÉRENCE\", DÉCLARE FRANÇOIS HOLLANDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:03",
+      "date": "12/04",
+      "timestamp": 1776009802
+    },
+    {
+      "id": "BFMTV_1776009065",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT D’UN CLUB DE FOOT ESPAGNOL POURSUIT SES JOUEURS MUSULMANS AVEC DU JAMBON ET CRÉE LA POLÉMIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:51",
+      "date": "12/04",
+      "timestamp": 1776009065
+    },
     {
       "id": "BFMTV_1776008212",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "16:24",
       "date": "11/04",
       "timestamp": 1775924641
-    },
-    {
-      "id": "BFMTV_1775924456",
-      "source": "BFMTV",
-      "text": "EST-CE QUE LE DÉTROIT D'ORMUZ EST MINÉ ?: \"ON NE LE SAIT PAS\", EXPLIQUE CHRISTOPHE GOMART, ANCIEN DIRECTEUR DU RENSEIGNEMENT MILITAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:20",
-      "date": "11/04",
-      "timestamp": 1775924456
-    },
-    {
-      "id": "BFMTV_1775923970",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON INVITE LE PRÉSIDENT IRANIEN À \"SAISIR L'OPPORTUNITÉ\" DES DISCUSSIONS AU PAKISTAN POUR UNE \"DÉSESCALADE DURABLE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:12",
-      "date": "11/04",
-      "timestamp": 1775923970
-    },
-    {
-      "id": "BFMTV_1775923218",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON APPELLE LE PRÉSIDENT IRANIEN À \"SAISIR L'OPPORTUNITÉ\" DES DISCUSSIONS AU PAKISTAN POUR UNE \"DÉSESCALADE DURABLE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:00",
-      "date": "11/04",
-      "timestamp": 1775923218
-    },
-    {
-      "id": "BFMTV_1775922537",
-      "source": "BFMTV",
-      "text": "\"DEPUIS MA NAISSANCE, ISRAËL BOMBARDE LE LIBAN\": UNE MANIFESTATION A ÉTÉ ORGANISÉE PAR LE HEZBOLLAH AU CŒUR DE BEYROUTH AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:48",
-      "date": "11/04",
-      "timestamp": 1775922537
-    },
-    {
-      "id": "BFMTV_1775921869",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP ASSURE QUE \"LE DÉTROIT D'ORMUZ SERA BIENTÔT ROUVERT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:37",
-      "date": "11/04",
-      "timestamp": 1775921869
-    },
-    {
-      "id": "BFMTV_1775921039",
-      "source": "BFMTV",
-      "text": "\"C'EST VITAL\": BFMTV DANS UN CONVOI HUMANITAIRE ESCORTÉ PAR LES CASQUES BLEUS FRANÇAIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:23",
-      "date": "11/04",
-      "timestamp": 1775921039
-    },
-    {
-      "id": "BFMTV_1775920565",
-      "source": "BFMTV",
-      "text": "MOJTABA KHAMENEI, GUIDE SUPRÊME IRANIEN, JOUE UN RÔLE CRUCIAL DANS LES NÉGOCIATIONS INTERNATIONALES MALGRÉ SA DISCRÉTION PUBLIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:16",
-      "date": "11/04",
-      "timestamp": 1775920565
-    },
-    {
-      "id": "BFMTV_1775920426",
-      "source": "BFMTV",
-      "text": " MEXIQUE: UN MINEUR SECOURU APRÈS 13 JOURS PASSÉS SOUS TERRE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:13",
-      "date": "11/04",
-      "timestamp": 1775920426
-    },
-    {
-      "id": "BFMTV_1775920126",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS, LE PAKISTAN ET L'IRAN ONT ENTAMÉ DES POURPARLERS TRILATÉRAUX",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:08",
-      "date": "11/04",
-      "timestamp": 1775920126
     }
   ],
   "france": {
