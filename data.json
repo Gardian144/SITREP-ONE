@@ -1,7 +1,47 @@
 {
-  "last_update": "12/04 15:05",
+  "last_update": "12/04 15:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776008212",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QUE L'OTAN VEUT DÉSORMAIS \"AIDER\" LES ÉTATS-UNIS AVEC LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:36",
+      "date": "12/04",
+      "timestamp": 1776008212
+    },
+    {
+      "id": "BFMTV_1776006767",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN MENACE DE PIÉGER SES ENNEMIS DANS UN \"TOURBILLON MORTEL\" DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:12",
+      "date": "12/04",
+      "timestamp": 1776006767
+    },
+    {
+      "id": "BFMTV_1776006653",
+      "source": "BFMTV",
+      "text": "L'IRAN MENACE DE PIÉGER SES ENNEMIS DANS UN \"TOURBILLON MORTEL\" DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:10",
+      "date": "12/04",
+      "timestamp": 1776006653
+    },
+    {
+      "id": "BFMTV_1776006407",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - DÉTROIT D'ORMUZ: QUE VA CHANGER LE BLOCUS NAVAL DE DONALD TRUMP ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:06",
+      "date": "12/04",
+      "timestamp": 1776006407
+    },
     {
       "id": "BFMTV_1776006045",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "15:08",
       "date": "11/04",
       "timestamp": 1775920126
-    },
-    {
-      "id": "BFMTV_1775920075",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS, LE PAKISTAN ET L'IRAN TIENNENT DES POURPARLERS TRILATÉRAUX SELON LA MAISON BLANCHE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:07",
-      "date": "11/04",
-      "timestamp": 1775920075
-    },
-    {
-      "id": "BFMTV_1775919670",
-      "source": "BFMTV",
-      "text": "PRIX DU CARBURANT: MALGRÉ LES PRIX PLAFONNÉS, ILS RESTENT CHERS POUR LES AUTOMOBILISTES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:01",
-      "date": "11/04",
-      "timestamp": 1775919670
-    },
-    {
-      "id": "BFMTV_1775918320",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP CAPITALISE SUR LA HAUSSE DU TRAFIC PÉTROLIER VERS LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:38",
-      "date": "11/04",
-      "timestamp": 1775918320
-    },
-    {
-      "id": "BFMTV_1775918290",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS COMMENCENT \"LE PROCESSUS POUR DÉGAGER LE DÉTROIT D'ORMUZ\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:38",
-      "date": "11/04",
-      "timestamp": 1775918290
     }
   ],
   "france": {
