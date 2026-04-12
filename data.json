@@ -1,7 +1,67 @@
 {
-  "last_update": "12/04 17:19",
+  "last_update": "12/04 18:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776016321",
+      "source": "BFMTV",
+      "text": "LES BUREAUX DE VOTE ONT FERMÉ POUR LES ÉLECTIONS LÉGISLATIVES EN HONGRIE, AVEC UN TAUX DE PARTICIPATION QUI A ATTEINT UN NIVEAU RECORD",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:52",
+      "date": "12/04",
+      "timestamp": 1776016321
+    },
+    {
+      "id": "BFMTV_1776015570",
+      "source": "BFMTV",
+      "text": "\"JE NE CROIS PAS QUE DONALD TRUMP RÉALISE QU'IL EST EN PERMANENCE MANIPULÉ PAR VLADIMIR POUTINE\", EXPLIQUE BRUNO TERTRAIS, DIRECTEUR ADJOINT À LA FRS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:39",
+      "date": "12/04",
+      "timestamp": 1776015570
+    },
+    {
+      "id": "BFMTV_1776015398",
+      "source": "BFMTV",
+      "text": "BLOCUS DE TRUMP, MENACE DES IRANIENS... LE DÉTROIT D'ORMUZ SOUS TENSION APRÈS L'ÉCHEC DES NÉGOCIATIONS À ISLAMABAD",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:36",
+      "date": "12/04",
+      "timestamp": 1776015398
+    },
+    {
+      "id": "BFMTV_1776014916",
+      "source": "BFMTV",
+      "text": "AU MOINS 3.375 MORTS EN IRAN DEPUIS LE DÉBUT DE LA GUERRE, SELON L'ORGANISATION DE MÉDECINE LÉGALE DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:28",
+      "date": "12/04",
+      "timestamp": 1776014916
+    },
+    {
+      "id": "BFMTV_1776014897",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"DONALD TRUMP EST TRÈS PRÉVISIBLE STRATÉGIQUEMENT, MAIS IL EST TOTALEMENT IMPRÉVISIBLE TACTIQUEMENT\", EXPLIQUE BRUNO TERTRAIS, DIRECTEUR ADJOINT À LA FRS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:28",
+      "date": "12/04",
+      "timestamp": 1776014897
+    },
+    {
+      "id": "BFMTV_1776014384",
+      "source": "BFMTV",
+      "text": "L'IRAN ADRESSE UN AVERTISSEMENT AUX ÉTATS-UNIS CONCERNANT LEUR PRÉSENCE MILITAIRE PRÈS DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:19",
+      "date": "12/04",
+      "timestamp": 1776014384
+    },
     {
       "id": "BFMTV_1776013995",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "18:39",
       "date": "11/04",
       "timestamp": 1775932775
-    },
-    {
-      "id": "BFMTV_1775930958",
-      "source": "BFMTV",
-      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:09",
-      "date": "11/04",
-      "timestamp": 1775930958
-    },
-    {
-      "id": "BFMTV_1775930768",
-      "source": "BFMTV",
-      "text": "MALGRÉ LES AVERTISSEMENTS IRANIENS, DEUX NAVIRES DE LA MARINE AMÉRICAINE ONT FRANCHI LE DÉTROIT D'ORMUZ DANS UNE OPÉRATION DE DÉMINAGE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:06",
-      "date": "11/04",
-      "timestamp": 1775930768
-    },
-    {
-      "id": "BFMTV_1775930578",
-      "source": "BFMTV",
-      "text": "IRAN: DEUX NAVIRES AMÉRICAINS ONT FRANCHI LE DÉTROIT D'ORMUZ DANS UNE OPÉRATION DE DÉMINAGE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:02",
-      "date": "11/04",
-      "timestamp": 1775930578
-    },
-    {
-      "id": "BFMTV_1775928024",
-      "source": "BFMTV",
-      "text": "DEUX DESTROYERS AMÉRICAINS ONT FRANCHI LE DÉTROIT D'ORMUZ DANS UNE OPÉRATION DE DÉMINAGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:20",
-      "date": "11/04",
-      "timestamp": 1775928024
-    },
-    {
-      "id": "BFMTV_1775926582",
-      "source": "BFMTV",
-      "text": "\"CE QUI ANIME UN PLONGEUR DÉMINEUR, C'EST DE PLONGER, D'ALLER CHERCHER LA MINE\": GUILLAUME GARNIER, ANCIEN PLONGEUR DÉMINEUR DANS LE DÉTROIT D'ORMUZ, RACONTE SON TRAVAIL SUR BFMTV",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:56",
-      "date": "11/04",
-      "timestamp": 1775926582
-    },
-    {
-      "id": "BFMTV_1775926258",
-      "source": "BFMTV",
-      "text": "SELON L'ARMÉE AMÉRICAINE, DEUX NAVIRES DE LA MARINE AMÉRICAINE ONT FRANCHI LE DÉTROIT D'ORMUZ DANS UNE OPÉRATION DE DÉMINAGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:50",
-      "date": "11/04",
-      "timestamp": 1775926258
     }
   ],
   "france": {
