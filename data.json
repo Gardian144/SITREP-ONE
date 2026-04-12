@@ -1,7 +1,17 @@
 {
-  "last_update": "12/04 00:04",
+  "last_update": "12/04 03:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775965096",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE VICE-PRÉSIDENT AMÉRICAIN JD VANCE QUITTE LE PAKISTAN APRÈS L'ÉCHEC DES NÉGOCIATIONS AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "03:38",
+      "date": "12/04",
+      "timestamp": 1775965096
+    },
     {
       "id": "BFMTV_1775944794",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "04:34",
       "date": "11/04",
       "timestamp": 1775882088
-    },
-    {
-      "id": "BFMTV_1775882087",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DEUX MORTS APRÈS UNE FRAPPE RUSSE À ODESSA",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:34",
-      "date": "11/04",
-      "timestamp": 1775882087
     }
   ],
   "france": {
