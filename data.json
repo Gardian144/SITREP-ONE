@@ -1,7 +1,37 @@
 {
-  "last_update": "12/04 21:57",
+  "last_update": "12/04 22:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776032712",
+      "source": "BFMTV",
+      "text": "L'ARMÉE AMÉRICAINE ANNONCE LE DÉBUT DU BLOCUS DES PORTS IRANIENS LUNDI À 16 HEURES",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:25",
+      "date": "12/04",
+      "timestamp": 1776032712
+    },
+    {
+      "id": "BFMTV_1776031643",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE QUE LE BLOCUS DES PORTS IRANIENS DÉBUTERA DÈS LUNDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:07",
+      "date": "12/04",
+      "timestamp": 1776031643
+    },
+    {
+      "id": "BFMTV_1776031136",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS AU PAKISTAN: L'IRAN ÉTAIT \"À DEUX DOIGTS\" D'UN ACCORD AVEC LES ÉTATS-UNIS À ISLAMABAD",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:58",
+      "date": "12/04",
+      "timestamp": 1776031136
+    },
     {
       "id": "BFMTV_1776030399",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "04:27",
       "date": "12/04",
       "timestamp": 1775968066
-    },
-    {
-      "id": "BFMTV_1775965096",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE VICE-PRÉSIDENT AMÉRICAIN JD VANCE QUITTE LE PAKISTAN APRÈS L'ÉCHEC DES NÉGOCIATIONS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:38",
-      "date": "12/04",
-      "timestamp": 1775965096
-    },
-    {
-      "id": "BFMTV_1775944794",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE \"PEU IMPORTE\" SI UN ACCORD EST TROUVÉ AVEC L'IRAN, CAR \"LES ÉTATS-UNIS ONT GAGNÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:59",
-      "date": "11/04",
-      "timestamp": 1775944794
-    },
-    {
-      "id": "BFMTV_1775944177",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"GHOST MURMUR\", L'OUTIL RÉVOLUTIONNAIRE DE LA CIA",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:49",
-      "date": "11/04",
-      "timestamp": 1775944177
     }
   ],
   "france": {
