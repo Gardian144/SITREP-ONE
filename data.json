@@ -1,7 +1,57 @@
 {
-  "last_update": "12/04 05:53",
+  "last_update": "12/04 07:13",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1775977592",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES NÉGOCIATEURS AMÉRICAINS ET IRANIENS ONT QUITTÉ LE PAKISTAN APRÈS L'ÉCHEC DES POURPARLERS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:06",
+      "date": "12/04",
+      "timestamp": 1775977592
+    },
+    {
+      "id": "BFMTV_1775976891",
+      "source": "BFMTV",
+      "text": "DEUX FEMMES ARRÊTÉES EN INDONÉSIE POUR BLASPHÈME APRÈS UNE VIDÉO D'UN CORAN PIÉTINÉ DEVENUE VIRALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:54",
+      "date": "12/04",
+      "timestamp": 1775976891
+    },
+    {
+      "id": "BFMTV_1775976137",
+      "source": "BFMTV",
+      "text": "ÉCHEC DES NÉGOCIATIONS: LE PORTE-PAROLE DU MINISTÈRE DES AFFAIRES ÉTRANGÈRES IRANIEN AFFIRME QU'IL ÉTAIT \"NATUREL\" DE NE PAS \"PARVENIR À UN ACCORD EN UNE SEULE SESSION\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:42",
+      "date": "12/04",
+      "timestamp": 1775976137
+    },
+    {
+      "id": "BFMTV_1775975928",
+      "source": "BFMTV",
+      "text": "HABILE COMMUNICANT, PRO-EUROPÉEN... QUI EST PÉTER MAGYAR, LE CANDIDAT QUI PEUT METTRE FIN AUX 16 ANNÉES DE RÈGNE DE VIKTOR ORBÁN?",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:38",
+      "date": "12/04",
+      "timestamp": 1775975928
+    },
+    {
+      "id": "BFMTV_1775974320",
+      "source": "BFMTV",
+      "text": "ACCUSATION DE COMPLOT, GUERRE EN UKRAINE, VLADIMIR POUTINE… COMMENT VIKTOR ORBÁN A TOUT TENTÉ AVANT DES ÉLECTIONS QUI POURRAIENT LE FAIRE CHUTER",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:12",
+      "date": "12/04",
+      "timestamp": 1775974320
+    },
     {
       "id": "BFMTV_1775972830",
       "source": "BFMTV",
@@ -76,6 +126,16 @@
       "id": "BFMTV_1775969954",
       "source": "BFMTV",
       "text": "\"NOUS SOMMES NEVEUX, NOUS PENSONS QUE CELA VA RECOMMENCER\": LE TÉMOIGNAGE D'UN IRANIEN INQUIET D'UNE REPRISE DES BOMBARDEMENTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:59",
+      "date": "12/04",
+      "timestamp": 1775969954
+    },
+    {
+      "id": "BFMTV_1775969954",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES NERVEUX, NOUS PENSONS QUE CELA VA RECOMMENCER\": LE TÉMOIGNAGE D'UN IRANIEN INQUIET D'UNE REPRISE DES BOMBARDEMENTS",
       "urgent": true,
       "france_related": false,
       "time": "04:59",
@@ -941,66 +1001,6 @@
       "time": "08:17",
       "date": "11/04",
       "timestamp": 1775895440
-    },
-    {
-      "id": "BFMTV_1775895161",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: À ISLAMABAD POUR MENER LES NÉGOCIATIONS AVEC L'IRAN, JD VANCE SE PLACE DÉJÀ POUR UNE CANDIDATURE À LA PRÉSIDENTIELLE 2028",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:12",
-      "date": "11/04",
-      "timestamp": 1775895161
-    },
-    {
-      "id": "BFMTV_1775892810",
-      "source": "BFMTV",
-      "text": "\"ON DOIT POUVOIR VIVRE ENSEMBLE\": DES LIBANAIS INSTALLÉS EN ISRAËL ENTRE PEUR ET DÉCHIREMENT AVEC LA GUERRE ENTRE LE HEZBOLLAH ET L'ÉTAT HÉBREU",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:33",
-      "date": "11/04",
-      "timestamp": 1775892810
-    },
-    {
-      "id": "BFMTV_1775892810",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:33",
-      "date": "11/04",
-      "timestamp": 1775892810
-    },
-    {
-      "id": "BFMTV_1775891215",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE LIBAN ANNONCE DES DISCUSSIONS AVEC ISRAËL MARDI À WASHINGTON, JD VANCE EST ARRIVÉ AU PAKISTAN POUR DES NÉGOCIATIONS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:06",
-      "date": "11/04",
-      "timestamp": 1775891215
-    },
-    {
-      "id": "BFMTV_1775889677",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE VICE-PRÉSIDENT AMÉRICAIN JD VANCE EST ARRIVÉ AU PAKISTAN POUR LES NÉGOCIATIONS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:41",
-      "date": "11/04",
-      "timestamp": 1775889677
-    },
-    {
-      "id": "BFMTV_1775888464",
-      "source": "BFMTV",
-      "text": "JD VANCE EST ARRIVÉ À ISLAMABAD, AU PAKISTAN, POUR LE DÉBUT DES NÉGOCIATIONS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:21",
-      "date": "11/04",
-      "timestamp": 1775888464
     }
   ],
   "france": {
