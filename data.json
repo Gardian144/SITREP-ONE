@@ -1,7 +1,107 @@
 {
-  "last_update": "13/04 10:13",
+  "last_update": "13/04 11:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776079366",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU APPORTE SON SOUTIEN AU BLOCUS DES PORTS IRANIENS ANNONCÉ PAR WASHINGTON",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:22",
+      "date": "13/04",
+      "timestamp": 1776079366
+    },
+    {
+      "id": "BFMTV_1776079154",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: COMMENT LES ÉTATS-UNIS COMPTENT BLOQUER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:19",
+      "date": "13/04",
+      "timestamp": 1776079154
+    },
+    {
+      "id": "BFMTV_1776078054",
+      "source": "BFMTV",
+      "text": "\"L'EUROPE EST HONGROISE\": URSULA VON DER LEYEN SALUE L'ÉLECTION DE PETER MAGYAR FACE À VIKTOR ORBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:00",
+      "date": "13/04",
+      "timestamp": 1776078054
+    },
+    {
+      "id": "BFMTV_1776077831",
+      "source": "BFMTV",
+      "text": "MENACE DE BLOCAGE DES PORTS IRANIENS: \"C'EST UNE IMPROVISATION POUR ESSAYER DE PESER SUR LES NÉGOCIATIONS\", ESTIME JACQUES AUDIBERT, CONSEILLER DIPLOMATIQUE DE FRANÇOIS HOLLANDE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:57",
+      "date": "13/04",
+      "timestamp": 1776077831
+    },
+    {
+      "id": "BFMTV_1776077447",
+      "source": "BFMTV",
+      "text": "UN MÉDIA ALLEMAND A DÉVELOPPÉ UN MOTEUR DE RECHERCHE POUR SAVOIR SI VOS ANCÊTRES ÉTAIENT NAZIS ",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:50",
+      "date": "13/04",
+      "timestamp": 1776077447
+    },
+    {
+      "id": "BFMTV_1776077123",
+      "source": "BFMTV",
+      "text": "\"ON NE PEUT PAS AVOIR UNE STABILITÉ AU MOYEN-ORIENT ALORS QUE LE LIBAN EST EN FEU\", ASSURE L'UE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:45",
+      "date": "13/04",
+      "timestamp": 1776077123
+    },
+    {
+      "id": "BFMTV_1776077096",
+      "source": "BFMTV",
+      "text": "\"NI DANS LE DÉNI, NI DANS LA REPENTANCE\": L'ASSEMBLÉE SE PENCHE SUR LA LOI TRÈS \"ATTENDUE\" DE RESTITUTION DES ŒUVRES PILLÉES DURANT LA COLONISATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:44",
+      "date": "13/04",
+      "timestamp": 1776077096
+    },
+    {
+      "id": "OPEX360_1776076764",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE BRITANNIQUE DE LA DÉFENSE MISE SUR LE NOUVEAU MISSILE «SKYHAMMER» POUR OPTIMISER LA LUTTE ANTIDRONE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:39",
+      "date": "13/04",
+      "timestamp": 1776076764
+    },
+    {
+      "id": "BFMTV_1776076340",
+      "source": "BFMTV",
+      "text": "GUERRE D'INDÉPENDANCE: LE PAPE APPELLE AU \"PARDON\" DEVANT LE MONUMENT AUX MARTYRS D'ALGER",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:32",
+      "date": "13/04",
+      "timestamp": 1776076340
+    },
+    {
+      "id": "BFMTV_1776076156",
+      "source": "BFMTV",
+      "text": "DEVANT LE MONUMENT AUX MARTYRS D'ALGER, LE PAPE LÉON XIV REND HOMMAGE \"L'ESPRIT MÊME D'UN PEUPLE QUI A LUTTÉ POUR L'INDÉPENDANCE, LA DIGNITÉ ET LA SOUVERAINETÉ DE CETTE NATION\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:29",
+      "date": "13/04",
+      "timestamp": 1776076156
+    },
     {
       "id": "BFMTV_1776075006",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "15:00",
       "date": "12/04",
       "timestamp": 1776006045
-    },
-    {
-      "id": "BFMTV_1776004914",
-      "source": "BFMTV",
-      "text": "ESPAGNE: UNE EFFIGIE GÉANTE DE BENJAMIN NETANYAHU PULVÉRISÉE LORS D’UN FESTIVAL, LE CHARGÉ D'AFFAIRES ESPAGNOL À TEL-AVIV CONVOQUÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:41",
-      "date": "12/04",
-      "timestamp": 1776004914
-    },
-    {
-      "id": "BFMTV_1776004264",
-      "source": "BFMTV",
-      "text": "LES FRAPPES ISRAÉLIENNES CONTINUENT AU LIBAN AVANT LES NÉGOCIATIONS PRÉVUES ENTRE LES DEUX PAYS À WASHINGTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:31",
-      "date": "12/04",
-      "timestamp": 1776004264
-    },
-    {
-      "id": "BFMTV_1776004122",
-      "source": "BFMTV",
-      "text": "LA JOURNÉE D'HIER A MARQUÉ UNE HAUSSE INÉDITE DU TRAFIC MARITIME DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:28",
-      "date": "12/04",
-      "timestamp": 1776004122
-    },
-    {
-      "id": "BFMTV_1776003778",
-      "source": "BFMTV",
-      "text": "ISRAËL: LES MILITANTS ANTI-GUERRE DE PLUS EN PLUS NOMBREUX À PROTESTER ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:22",
-      "date": "12/04",
-      "timestamp": 1776003778
-    },
-    {
-      "id": "BFMTV_1776003628",
-      "source": "BFMTV",
-      "text": "ALORS QUE LES TENSIONS S'INTENSIFIENT AVEC LES ÉTATS-UNIS, L'IRAN RENFORCE SON CONTRÔLE SUR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:20",
-      "date": "12/04",
-      "timestamp": 1776003628
-    },
-    {
-      "id": "BFMTV_1776003536",
-      "source": "BFMTV",
-      "text": " DONALD TRUMP ANNONCE UN BLOCUS NAVAL DANS LE DÉTROIT D'ORMUZ ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:18",
-      "date": "12/04",
-      "timestamp": 1776003536
-    },
-    {
-      "id": "BFMTV_1776000742",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: TRUMP ANNONCE QUE L'ARMÉE AMÉRICAINE VA \"BLOQUER TOUS LES BATEAUX QUI TENTENT D'ENTRER OU DE SORTIR DU DÉTROIT D'ORMUZ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:32",
-      "date": "12/04",
-      "timestamp": 1776000742
-    },
-    {
-      "id": "BFMTV_1776000364",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE QUE L'ARMÉE AMÉRICAINE VA \"BLOQUER TOUS LES BATEAUX QUI TENTENT D'ENTRER OU DE SORTIR DU DÉTROIT D'ORMUZ\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:26",
-      "date": "12/04",
-      "timestamp": 1776000364
-    },
-    {
-      "id": "BFMTV_1775999436",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE QUE L'ARMÉE AMÉRICAINE VA \"BLOQUER TOUS LES BATEAUX QUI TENTENT D'ENTRER OU DE SORTIR DU DÉTROIT D'ORMUZ\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:10",
-      "date": "12/04",
-      "timestamp": 1775999436
-    },
-    {
-      "id": "BFMTV_1775995545",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BEYROUTH REDOUTE DES FRAPPES APRÈS DES DÉCLARATIONS DU MINISTRE DE L'ÉNERGIE ISRAÉLIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:05",
-      "date": "12/04",
-      "timestamp": 1775995545
     }
   ],
   "france": {
