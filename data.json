@@ -1,7 +1,127 @@
 {
-  "last_update": "13/04 12:47",
+  "last_update": "13/04 14:48",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1776091634",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE TERRE VA-T-ELLE HÉRITER DU MISSILE BALISTIQUE SOL-SOL DE LONGUE PORTÉE PRÉVU PAR LA LPM 2024-30 ACTUALISÉE ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:47",
+      "date": "13/04",
+      "timestamp": 1776091634
+    },
+    {
+      "id": "BFMTV_1776091534",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE TOUT NAVIRE IRANIEN QUI S'APPROCHE DU BLOCUS \"SERA IMMÉDIATEMENT ÉLIMINÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:45",
+      "date": "13/04",
+      "timestamp": 1776091534
+    },
+    {
+      "id": "BFMTV_1776091495",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP MENACE \"D'ÉLIMINER\" LES NAVIRES IRANIENS QUI \"S'APPROCHENT NE SERAIT-CE QU'UN PEU DE (LEUR) BLOCUS\" ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:44",
+      "date": "13/04",
+      "timestamp": 1776091495
+    },
+    {
+      "id": "BFMTV_1776089069",
+      "source": "BFMTV",
+      "text": "LE BLOCUS AMÉRICAIN DU DÉTROIT D'ORMUZ EST OFFICIELLEMENT ENTRÉ EN VIGUEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:04",
+      "date": "13/04",
+      "timestamp": 1776089069
+    },
+    {
+      "id": "BFMTV_1776088898",
+      "source": "BFMTV",
+      "text": "QUI EST PÉTER MAGYAR, LE NOUVEAU PREMIER MINISTRE HONGROIS QUI A MIS FIN AUX 16 ANNÉES DE RÈGNE DE VIKTOR ORBÁN?",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:01",
+      "date": "13/04",
+      "timestamp": 1776088898
+    },
+    {
+      "id": "BFMTV_1776088468",
+      "source": "BFMTV",
+      "text": "EN ISRAËL, DES DRONES PILOTÉS GRÂCE À L'INTELLIGENCE ARTIFICIELLE UTILISÉS PAR L'ARMÉE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:54",
+      "date": "13/04",
+      "timestamp": 1776088468
+    },
+    {
+      "id": "BFMTV_1776088432",
+      "source": "BFMTV",
+      "text": "UKRAINE : \"IL EST EXCLU\" D'ADMETTRE DANS L'UNION EUROPÉENNE UN PAYS EN GUERRE, DÉCLARE PETER MAGYAR, VAINQUEUR DES ÉLECTIONS LÉGISLATIVES EN HONGRIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:53",
+      "date": "13/04",
+      "timestamp": 1776088432
+    },
+    {
+      "id": "BFMTV_1776087894",
+      "source": "BFMTV",
+      "text": "PÉTROLE RUSSE: \"CE GOUVERNEMENT FERA TOUT CE QUI EST EN SON POUVOIR POUR DIVERSIFIER\" SES ACHATS D'ÉNERGIE\", DÉCLARE LE VAINQUEUR DES ÉLECTIONS LÉGISLATIVES HONGROISES PETER MAGYAR",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:44",
+      "date": "13/04",
+      "timestamp": 1776087894
+    },
+    {
+      "id": "BFMTV_1776087771",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES FRAPPES ISRAÉLIENNES SE POURSUIVENT DANS LE SUD DU LIBAN AVANT LES NÉGOCIATIONS ENTRE LES DEUX PAYS PRÉVUES CE MARDI À WASHINGTON",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:42",
+      "date": "13/04",
+      "timestamp": 1776087771
+    },
+    {
+      "id": "BFMTV_1776086643",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"AUCUN PAYS N'A LE DROIT D'ENTRAVER LE PASSAGE D'AUTRES NAVIRES\" ASSURE LE SECRÉTAIRE GÉNÉRAL DE L'ORGANISATION MARITIME INTERNATIONALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:24",
+      "date": "13/04",
+      "timestamp": 1776086643
+    },
+    {
+      "id": "BFMTV_1776086442",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"11 NAVIRES ONT RÉUSSI A PASSÉ CES DERNIERS JOURS\" AFFIRME LE SECRÉTAIRE GÉNÉRAL DE L'ORGANISATION MARITIME INTERNATIONALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:20",
+      "date": "13/04",
+      "timestamp": 1776086442
+    },
+    {
+      "id": "BFMTV_1776086048",
+      "source": "BFMTV",
+      "text": "\"CELA N'A AUCUN SENS\": CES PAYS QUI S'OPPOSENT À LA DÉCISION DE DONALD TRUMP DE BLOQUER LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:14",
+      "date": "13/04",
+      "timestamp": 1776086048
+    },
     {
       "id": "BFMTV_1776083900",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "17:19",
       "date": "12/04",
       "timestamp": 1776014384
-    },
-    {
-      "id": "BFMTV_1776013995",
-      "source": "BFMTV",
-      "text": "BLOCAGE DU DÉTROIT D'ORMUZ: DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS VONT \"DÉTRUIRE LES MINES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:13",
-      "date": "12/04",
-      "timestamp": 1776013995
-    },
-    {
-      "id": "BFMTV_1776012791",
-      "source": "BFMTV",
-      "text": "BLOCAGE DU DÉTROIT D'ORMUZ: COMMENT DONALD TRUMP COMPTE S'Y PRENDRE ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:53",
-      "date": "12/04",
-      "timestamp": 1776012791
-    },
-    {
-      "id": "BFMTV_1776012497",
-      "source": "BFMTV",
-      "text": "TRUMP, IRAN, FRAPPES AU LIBAN: ENTRETIEN AVEC FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:48",
-      "date": "12/04",
-      "timestamp": 1776012497
-    },
-    {
-      "id": "BFMTV_1776012035",
-      "source": "BFMTV",
-      "text": "\"LA RUSSIE EST DANS UNE POSTURE AGRESSIVE\", JUGE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:40",
-      "date": "12/04",
-      "timestamp": 1776012035
-    },
-    {
-      "id": "BFMTV_1776011719",
-      "source": "BFMTV",
-      "text": "\"LES ÉTATS-UNIS AURAIENT PLUS À PERDRE QU'À GAGNER EN QUITTANT L'OTAN\", EXPLIQUE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:35",
-      "date": "12/04",
-      "timestamp": 1776011719
-    },
-    {
-      "id": "BFMTV_1776011389",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS AVEC L'IRAN: \"LA FRANCE DOIT FAIRE ENTENDRE SA VOIX\", DÉCLARE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
-      "urgent": true,
-      "france_related": true,
-      "time": "16:29",
-      "date": "12/04",
-      "timestamp": 1776011389
-    },
-    {
-      "id": "BFMTV_1776011140",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"BENJAMIN NETANYAHU A FAIT UNE PRESSION ET DONALD TRUMP A SUIVI\", DÉCLARE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:25",
-      "date": "12/04",
-      "timestamp": 1776011140
-    },
-    {
-      "id": "BFMTV_1776010831",
-      "source": "BFMTV",
-      "text": "FRAPPES ISRAÉLIENNES AU LIBAN: \"C'EST INSUPPORTABLE (...) ELLES SONT ILLÉGITIMES\", DÉCLARE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:20",
-      "date": "12/04",
-      "timestamp": 1776010831
-    },
-    {
-      "id": "BFMTV_1776010560",
-      "source": "BFMTV",
-      "text": "\"UN COMBLE\": FRANÇOIS HOLLANDE RÉAGIT À LA PROPOSITION DE VLADIMIR POUTINE DE PARTICIPER À UNE MÉDIATION DANS LE CONFLIT AU MOYEN-ORIENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:16",
-      "date": "12/04",
-      "timestamp": 1776010560
-    },
-    {
-      "id": "BFMTV_1776010415",
-      "source": "BFMTV",
-      "text": "\"DONALD TRUMP A DÉCHIRÉ L'ACCORD\" SUR LE NUCLÉAIRE IRANIEN, EXPLIQUE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:13",
-      "date": "12/04",
-      "timestamp": 1776010415
-    },
-    {
-      "id": "BFMTV_1776010160",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP \"EST UN PROBLÈME POUR LE MONDE ENTIER\", DÉCLARE FRANÇOIS HOLLANDE, ANCIEN PRÉSIDENT DE LA RÉPUBLIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:09",
-      "date": "12/04",
-      "timestamp": 1776010160
-    },
-    {
-      "id": "BFMTV_1776009802",
-      "source": "BFMTV",
-      "text": "BLOCUS NAVAL DANS LE DÉTROIT D'ORMUZ: \"ON VA D'INCOHÉRENCE EN INCOHÉRENCE\", DÉCLARE FRANÇOIS HOLLANDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:03",
-      "date": "12/04",
-      "timestamp": 1776009802
     }
   ],
   "france": {
