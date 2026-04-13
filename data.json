@@ -1,7 +1,57 @@
 {
-  "last_update": "13/04 14:48",
+  "last_update": "13/04 16:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776093775",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: COMMENT LA MARINE AMÉRICAINE VA APPLIQUER LE BLOCUS NAVAL CONTRE LES PORTS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:22",
+      "date": "13/04",
+      "timestamp": 1776093775
+    },
+    {
+      "id": "BFMTV_1776092771",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE \"D'ÉLIMINER IMMÉDIATEMENT\" LES NAVIRES IRANIENS S'APPROCHANT DU BLOCUS AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:06",
+      "date": "13/04",
+      "timestamp": 1776092771
+    },
+    {
+      "id": "BFMTV_1776092678",
+      "source": "BFMTV",
+      "text": "DÉTROIT ORMUZ: LONDRES ET PARIS VEULENT GARANTIR LA PROTECTION ET LA LIBERTÉ DE NAVIGATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:04",
+      "date": "13/04",
+      "timestamp": 1776092678
+    },
+    {
+      "id": "BFMTV_1776092200",
+      "source": "BFMTV",
+      "text": "\"LES HONGROIS ONT DIT STOP À VIKTOR ORBAN\": LES RAISONS DE LA DÉFAITE DU PREMIER MINISTRE HONGROIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:56",
+      "date": "13/04",
+      "timestamp": 1776092200
+    },
+    {
+      "id": "BFMTV_1776091748",
+      "source": "BFMTV",
+      "text": "HONGRIE: LE MINISTRE DE LA SANTÉ PRESSENTI CÉLÈBRE LA VICTOIRE DE PÉTER MAGYAR ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:49",
+      "date": "13/04",
+      "timestamp": 1776091748
+    },
     {
       "id": "OPEX360_1776091634",
       "source": "OPEX360",
@@ -951,56 +1001,6 @@
       "time": "17:52",
       "date": "12/04",
       "timestamp": 1776016321
-    },
-    {
-      "id": "BFMTV_1776015570",
-      "source": "BFMTV",
-      "text": "\"JE NE CROIS PAS QUE DONALD TRUMP RÉALISE QU'IL EST EN PERMANENCE MANIPULÉ PAR VLADIMIR POUTINE\", EXPLIQUE BRUNO TERTRAIS, DIRECTEUR ADJOINT À LA FRS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:39",
-      "date": "12/04",
-      "timestamp": 1776015570
-    },
-    {
-      "id": "BFMTV_1776015398",
-      "source": "BFMTV",
-      "text": "BLOCUS DE TRUMP, MENACE DES IRANIENS... LE DÉTROIT D'ORMUZ SOUS TENSION APRÈS L'ÉCHEC DES NÉGOCIATIONS À ISLAMABAD",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:36",
-      "date": "12/04",
-      "timestamp": 1776015398
-    },
-    {
-      "id": "BFMTV_1776014916",
-      "source": "BFMTV",
-      "text": "AU MOINS 3.375 MORTS EN IRAN DEPUIS LE DÉBUT DE LA GUERRE, SELON L'ORGANISATION DE MÉDECINE LÉGALE DU PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:28",
-      "date": "12/04",
-      "timestamp": 1776014916
-    },
-    {
-      "id": "BFMTV_1776014897",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"DONALD TRUMP EST TRÈS PRÉVISIBLE STRATÉGIQUEMENT, MAIS IL EST TOTALEMENT IMPRÉVISIBLE TACTIQUEMENT\", EXPLIQUE BRUNO TERTRAIS, DIRECTEUR ADJOINT À LA FRS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:28",
-      "date": "12/04",
-      "timestamp": 1776014897
-    },
-    {
-      "id": "BFMTV_1776014384",
-      "source": "BFMTV",
-      "text": "L'IRAN ADRESSE UN AVERTISSEMENT AUX ÉTATS-UNIS CONCERNANT LEUR PRÉSENCE MILITAIRE PRÈS DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:19",
-      "date": "12/04",
-      "timestamp": 1776014384
     }
   ],
   "france": {
