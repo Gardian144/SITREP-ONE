@@ -1,7 +1,37 @@
 {
-  "last_update": "14/04 21:07",
+  "last_update": "14/04 22:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776203745",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: ISRAËL NE VEUT PAS DE LA FRANCE DANS LES NÉGOCIATIONS AVEC LE LIBAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:55",
+      "date": "14/04",
+      "timestamp": 1776203745
+    },
+    {
+      "id": "BFMTV_1776203691",
+      "source": "BFMTV",
+      "text": "CHRISTINE LAGARDE SALUE L’OUVERTURE DE LA HONGRIE À L’EURO",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:54",
+      "date": "14/04",
+      "timestamp": 1776203691
+    },
+    {
+      "id": "BFMTV_1776202042",
+      "source": "BFMTV",
+      "text": "\"S'IL VOUS PLAÎT, LAISSEZ LES NAVIRES PASSER\": QUAND LA PROPAGANDE IRANIENNE UTILISE L'IA POUR SE MOQUER DE DONALD TRUMP ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:27",
+      "date": "14/04",
+      "timestamp": 1776202042
+    },
     {
       "id": "BFMTV_1776200563",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "05:41",
       "date": "14/04",
       "timestamp": 1776145298
-    },
-    {
-      "id": "BFMTV_1776145257",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ONT PROPOSÉ UNE PAUSE DE 20 ANS DU PROGRAMME D'ENRICHISSEMENT D'URANIUM IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:40",
-      "date": "14/04",
-      "timestamp": 1776145257
-    },
-    {
-      "id": "BFMTV_1776145113",
-      "source": "BFMTV",
-      "text": "\"LA RÉPRESSION SERA SÛREMENT PLUS DURE\", CRAINT CETTE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:38",
-      "date": "14/04",
-      "timestamp": 1776145113
-    },
-    {
-      "id": "BFMTV_1776144299",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: WASHINGTON ACCUEILLE DE DIFFICILES POURPARLERS DE PAIX ENTRE LE LIBAN ET ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:24",
-      "date": "14/04",
-      "timestamp": 1776144299
     }
   ],
   "france": {
