@@ -1,7 +1,87 @@
 {
-  "last_update": "14/04 18:47",
+  "last_update": "14/04 20:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776195991",
+      "source": "BFMTV",
+      "text": "FRANCE, ROYAUME-UNI, FINLANDE... 17 PAYS APPELLENT ISRAËL ET LE LIBAN À \"SAISIR L'OPPORTUNITÉ\" DES POURPARLERS DE PAIX",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:46",
+      "date": "14/04",
+      "timestamp": 1776195991
+    },
+    {
+      "id": "BFMTV_1776195359",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE ISRAËL ET LE LIBAN: L'OPTIMISME DOMINE APRÈS LA PREMIÈRE JOURNÉE DE POURPARLERS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:35",
+      "date": "14/04",
+      "timestamp": 1776195359
+    },
+    {
+      "id": "BFMTV_1776194476",
+      "source": "BFMTV",
+      "text": "BLOCUS DU DÉTROIT D'ORMUZ: L'ARMÉE AMÉRICAINE ASSURE AVOIR EMPÊCHÉ SIX NAVIRES DE PASSER",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:21",
+      "date": "14/04",
+      "timestamp": 1776194476
+    },
+    {
+      "id": "BFMTV_1776193634",
+      "source": "BFMTV",
+      "text": "À LA TÉLÉVISION RUSSE, LES PROPAGANDISTES SE RÉJOUISSENT DES DÉBOIRES DE DONALD TRUMP QU'ILS CONSIDÈRENT COMME \"DESTRUCTEURS POUR L’OTAN\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:07",
+      "date": "14/04",
+      "timestamp": 1776193634
+    },
+    {
+      "id": "BFMTV_1776193330",
+      "source": "BFMTV",
+      "text": " HARVEY WEINSTEIN DE NOUVEAU JUGÉ À NEW YORK POUR UNE ACCUSATION DE VIOL",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:02",
+      "date": "14/04",
+      "timestamp": 1776193330
+    },
+    {
+      "id": "BFMTV_1776192896",
+      "source": "BFMTV",
+      "text": "BLOCUS DU DÉTROIT D'ORMUZ: POUR SERGUEÏ JIRNOV, ANCIEN OFFICIER DE RENSEIGNEMENT DU KGB, LES AMÉRICAINS POURRAIENT ALLER JUSQU'À ARRAISONNER \"UN BATEAU CHINOIS CIVIL\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:54",
+      "date": "14/04",
+      "timestamp": 1776192896
+    },
+    {
+      "id": "BFMTV_1776192870",
+      "source": "BFMTV",
+      "text": "\"NOUS AVONS EU UN ÉCHANGE MERVEILLEUX\", DÉCLARE YECHIEL LEITER, AMBASSADEUR D'ISRAËL AUX USA, À L'ISSUE DES POURPARLERS AVEC LE LIBAN À WASHINGTON",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:54",
+      "date": "14/04",
+      "timestamp": 1776192870
+    },
+    {
+      "id": "BFMTV_1776192825",
+      "source": "BFMTV",
+      "text": "\"CERTAINS DOMMAGES SERONT INÉVITABLES\": LE FMI ABAISSE SES PRÉVISIONS DE CROISSANCE MONDIALE POUR 2026 ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:53",
+      "date": "14/04",
+      "timestamp": 1776192825
+    },
     {
       "id": "BFMTV_1776192040",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "22:00",
       "date": "13/04",
       "timestamp": 1776117601
-    },
-    {
-      "id": "BFMTV_1776117178",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DÉCLARE QUE L'IRAN VEUT \"À TOUT PRIX\" CONCLURE UN ACCORD AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:52",
-      "date": "13/04",
-      "timestamp": 1776117178
-    },
-    {
-      "id": "BFMTV_1776116474",
-      "source": "BFMTV",
-      "text": " BLOCUS DU DÉTROIT D'ORMUZ: \"UN BRAS DE FER SUPPLÉMENTAIRE\", ESTIME GUILLAUME ANCEL, ANCIEN OFFICIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:41",
-      "date": "13/04",
-      "timestamp": 1776116474
-    },
-    {
-      "id": "BFMTV_1776116166",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP FAIT SCANDALE AUX ÉTATS-UNIS, À CAUSE D'UNE CARICATURE OÙ IL SE PREND POUR JÉSUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:36",
-      "date": "13/04",
-      "timestamp": 1776116166
-    },
-    {
-      "id": "BFMTV_1776115034",
-      "source": "BFMTV",
-      "text": "QUAND DONALD TRUMP SE FAIT LIVRER UNE COMMANDE MCDONALD’S À LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:17",
-      "date": "13/04",
-      "timestamp": 1776115034
-    },
-    {
-      "id": "BFMTV_1776114402",
-      "source": "BFMTV",
-      "text": "JD VANCE, VICE-PRÉSIDENT DES ÉTATS-UNIS, EST-IL LE \"CHAT NOIR\" DE DONALD TRUMP ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:06",
-      "date": "13/04",
-      "timestamp": 1776114402
-    },
-    {
-      "id": "BFMTV_1776113572",
-      "source": "BFMTV",
-      "text": "SELON LE WALL STREET JOURNAL, LE NUCLÉAIRE IRANIEN SERAIT QUASI INTACT",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:52",
-      "date": "13/04",
-      "timestamp": 1776113572
-    },
-    {
-      "id": "BFMTV_1776112874",
-      "source": "BFMTV",
-      "text": "L'ASSEMBLÉE NATIONALE ADOPTE À L'UNANIMITÉ UN PROJET DE LOI POUR FACILITER LES RESTITUTIONS DES ŒUVRES PILLÉES DURANT LA COLONISATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:41",
-      "date": "13/04",
-      "timestamp": 1776112874
-    },
-    {
-      "id": "BFMTV_1776112372",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LE BLOCUS IMPOSÉ PAR DONALD TRUMP VA-T-IL TENIR ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:32",
-      "date": "13/04",
-      "timestamp": 1776112372
     }
   ],
   "france": {
