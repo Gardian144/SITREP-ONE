@@ -1,7 +1,37 @@
 {
-  "last_update": "14/04 11:44",
+  "last_update": "14/04 12:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776168968",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: OÙ SONT LES BATEAUX BLOQUÉS DANS LE DÉTROIT D'ORMUZ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:16",
+      "date": "14/04",
+      "timestamp": 1776168968
+    },
+    {
+      "id": "BFMTV_1776168535",
+      "source": "BFMTV",
+      "text": "\"CELA POURRAIT ÊTRE LE CAS À L'AVENIR\": L'UE SE DIT \"INQUIÈTE\" DE POSSIBLES PROBLÈMES D'APPROVISIONNEMENT EN KÉROSÈNE DANS UN \"AVENIR PROCHE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:08",
+      "date": "14/04",
+      "timestamp": 1776168535
+    },
+    {
+      "id": "BFMTV_1776167174",
+      "source": "BFMTV",
+      "text": "BLOCUS NAVAL AMÉRICAIN: QUELS SONT LES MOYENS MILITAIRES DONT DISPOSENT LES ÉTATS-UNIS?",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:46",
+      "date": "14/04",
+      "timestamp": 1776167174
+    },
     {
       "id": "BFMTV_1776166702",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "13:42",
       "date": "13/04",
       "timestamp": 1776087771
-    },
-    {
-      "id": "BFMTV_1776086643",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"AUCUN PAYS N'A LE DROIT D'ENTRAVER LE PASSAGE D'AUTRES NAVIRES\" ASSURE LE SECRÉTAIRE GÉNÉRAL DE L'ORGANISATION MARITIME INTERNATIONALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:24",
-      "date": "13/04",
-      "timestamp": 1776086643
-    },
-    {
-      "id": "BFMTV_1776086442",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"11 NAVIRES ONT RÉUSSI A PASSÉ CES DERNIERS JOURS\" AFFIRME LE SECRÉTAIRE GÉNÉRAL DE L'ORGANISATION MARITIME INTERNATIONALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:20",
-      "date": "13/04",
-      "timestamp": 1776086442
-    },
-    {
-      "id": "BFMTV_1776086048",
-      "source": "BFMTV",
-      "text": "\"CELA N'A AUCUN SENS\": CES PAYS QUI S'OPPOSENT À LA DÉCISION DE DONALD TRUMP DE BLOQUER LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:14",
-      "date": "13/04",
-      "timestamp": 1776086048
     }
   ],
   "france": {
