@@ -1,7 +1,37 @@
 {
-  "last_update": "15/04 14:44",
+  "last_update": "15/04 15:53",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1776266340",
+      "source": "OPEX360",
+      "text": "SELON LE CHEF D’ÉTAT-MAJOR DE L’ARMÉE DE L’AIR, LA «GUERRE SPATIALE» A DÉJÀ COMMENCÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:19",
+      "date": "15/04",
+      "timestamp": 1776266340
+    },
+    {
+      "id": "BFMTV_1776265641",
+      "source": "BFMTV",
+      "text": "L'UKRAINE AFFIRME AVOIR PRIS DES POSITIONS ENNEMIES UNIQUEMENT GRÂCE À DES ROBOTS ET DES DRONES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:07",
+      "date": "15/04",
+      "timestamp": 1776265641
+    },
+    {
+      "id": "BFMTV_1776264957",
+      "source": "BFMTV",
+      "text": "ÉNERGIE ET CHAÎNES D'APPROVISIONNEMENTS: \"NOUS DEVONS ÊTRE PRÉPARÉS À CE QUE L'IMPACT DES PERTURBATIONS DANS LES SEMAINES À VENIR, S'AGGRAVE\", DÉCLARE LA DIRECTRICE DU FMI",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:55",
+      "date": "15/04",
+      "timestamp": 1776264957
+    },
     {
       "id": "BFMTV_1776263983",
       "source": "BFMTV",
@@ -11,6 +41,16 @@
       "time": "14:39",
       "date": "15/04",
       "timestamp": 1776263983
+    },
+    {
+      "id": "BFMTV_1776263801",
+      "source": "BFMTV",
+      "text": "AU MOINS NEUF MORTS, DONT HUIT ÉLÈVES, ET 13 BLESSÉS APRÈS UNE FUSILLADE DANS UNE ÉCOLE EN TURQUIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:36",
+      "date": "15/04",
+      "timestamp": 1776263801
     },
     {
       "id": "BFMTV_1776263655",
@@ -961,46 +1001,6 @@
       "time": "17:20",
       "date": "14/04",
       "timestamp": 1776187233
-    },
-    {
-      "id": "BFMTV_1776187009",
-      "source": "BFMTV",
-      "text": "LE BLOCUS DU DÉTROIT D'ORMUZ \"N'EST PAS INTERDIT, LE DROIT INTERNATIONAL LE PERMET\", EXPLIQUE ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:16",
-      "date": "14/04",
-      "timestamp": 1776187009
-    },
-    {
-      "id": "BFMTV_1776186667",
-      "source": "BFMTV",
-      "text": "QUAND LES AMBASSADES IRANIENNES SE MOQUENT DE DONALD TRUMP SUR LES RÉSEAUX SOCIAUX",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:11",
-      "date": "14/04",
-      "timestamp": 1776186667
-    },
-    {
-      "id": "BFMTV_1776186389",
-      "source": "BFMTV",
-      "text": "PAYER UN PÉAGE AU NIVEAU DU DÉTROIT D'ORMUZ ?: LE PDG DE TOTALÉNERGIES ESTIME QUE \"LA RÉOUVERTURE DU DÉTROIT EST FONDAMENTALE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:06",
-      "date": "14/04",
-      "timestamp": 1776186389
-    },
-    {
-      "id": "BFMTV_1776186144",
-      "source": "BFMTV",
-      "text": "BLOCUS DU DÉTROIT D'ORMUZ: L'ARRAISONNEMENT D'UN NAVIRE, LES SCÉNARIOS POSSIBLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:02",
-      "date": "14/04",
-      "timestamp": 1776186144
     }
   ],
   "france": {
