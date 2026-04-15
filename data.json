@@ -1,7 +1,37 @@
 {
-  "last_update": "15/04 11:41",
+  "last_update": "15/04 12:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776256853",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE LES ÉCHANGES AVEC LES ÉTATS-UNIS SE POURSUIVENT VIA LE PAKISTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:40",
+      "date": "15/04",
+      "timestamp": 1776256853
+    },
+    {
+      "id": "BFMTV_1776256827",
+      "source": "BFMTV",
+      "text": "AU MOINS QUATRE MORTS, DONT TROIS ÉLÈVES, ET 20 BLESSÉS APRÈS UNE FUSILLADE DANS UNE ÉCOLE EN TURQUIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:40",
+      "date": "15/04",
+      "timestamp": 1776256827
+    },
+    {
+      "id": "BFMTV_1776255759",
+      "source": "BFMTV",
+      "text": "\"CE N'EST PLUS UN CHEF D'ETAT FRÉQUENTABLE\": SÁNCHEZ, MACRON, MELONI, POURQUOI CES DIRIGEANTS S'OPPOSENT À DONALD TRUMP?",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:22",
+      "date": "15/04",
+      "timestamp": 1776255759
+    },
     {
       "id": "BFMTV_1776253059",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "15:16",
       "date": "14/04",
       "timestamp": 1776179775
-    },
-    {
-      "id": "BFMTV_1776179744",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE L'IRAN ET LES ÉTATS-UNIS À \"REPRENDRE LES NÉGOCIATIONS INTERROMPUES À ISLAMABAD\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:15",
-      "date": "14/04",
-      "timestamp": 1776179744
-    },
-    {
-      "id": "BFMTV_1776179455",
-      "source": "BFMTV",
-      "text": "EN ISRAËL, CETTE MATERNITÉ S'EST INSTALLÉE DANS UN ABRI ANTI-MISSILES POUR PROTÉGER LES NOUVEAU-NÉS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:10",
-      "date": "14/04",
-      "timestamp": 1776179455
-    },
-    {
-      "id": "BFMTV_1776179264",
-      "source": "BFMTV",
-      "text": "DEPUIS L'ENTRÉE EN VIGUEUR DU BLOCUS NAVAL, AU MOINS 10 NAVIRES ONT FRANCHI LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:07",
-      "date": "14/04",
-      "timestamp": 1776179264
     }
   ],
   "france": {
