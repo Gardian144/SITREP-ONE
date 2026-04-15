@@ -1,7 +1,137 @@
 {
-  "last_update": "15/04 09:19",
+  "last_update": "15/04 10:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776249355",
+      "source": "BFMTV",
+      "text": "À QUOI RESSEMBLE LE TRAFIC MARITIME EN PLEIN BLOCAGE DU DÉTROIT D'ORMUZ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:35",
+      "date": "15/04",
+      "timestamp": 1776249355
+    },
+    {
+      "id": "BFMTV_1776248846",
+      "source": "BFMTV",
+      "text": "\"C'EST UN HOMME BIEN\": DONALD TRUMP ESTIME QUE LE FUTUR PREMIER MINISTRE HONGROIS PÉTER MAGYAR \"VA FAIRE DU BON TRAVAIL\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:27",
+      "date": "15/04",
+      "timestamp": 1776248846
+    },
+    {
+      "id": "BFMTV_1776248236",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES AUTORITÉS PAKISTANAISES SE DISENT DISPOSÉES À ACCUEILLIR DE NOUVEAUX POURPARLERS ENTRE L'IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:17",
+      "date": "15/04",
+      "timestamp": 1776248236
+    },
+    {
+      "id": "BFMTV_1776247860",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL MÈNE DES FRAPPES AU SUD DE BEYROUTH, LE HEZBOLLAH REVENDIQUE DES TIRS DE ROQUETTES VISANT L'ÉTAT HÉBREU",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:11",
+      "date": "15/04",
+      "timestamp": 1776247860
+    },
+    {
+      "id": "BFMTV_1776247795",
+      "source": "BFMTV",
+      "text": "UNE FEMME TUÉE PAR DES POLICIERS AUX ÉTATS-UNIS APRÈS AVOIR TENTÉ D'ENLEVER UN ENFANT DE TROIS ANS ET L'AVOIR BLESSÉ AVEC UN COUTEAU",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:09",
+      "date": "15/04",
+      "timestamp": 1776247795
+    },
+    {
+      "id": "BFMTV_1776247232",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN PROVISEUR ÉVITE UNE FUSILLADE DANS SON LYCÉE EN IMMOBILISANT L'ASSAILLANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:00",
+      "date": "15/04",
+      "timestamp": 1776247232
+    },
+    {
+      "id": "BFMTV_1776246218",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ET LES ÉTATS-UNIS N'ÉCARTENT PAS LA POURSUITE DES NÉGOCIATIONS MAIS RESTENT CAMPÉS SUR LEURS POSITIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:43",
+      "date": "15/04",
+      "timestamp": 1776246218
+    },
+    {
+      "id": "BFMTV_1776246035",
+      "source": "BFMTV",
+      "text": "RÉSEAUX SOCIAUX : \"L'EUROPE NE TOLÈRERA PAS QUE LES PLATEFORMES S'ENRICHISSENT AUX DÉPENDS DE NOS ENFANTS\", ASSURE LA VICE-PRÉSIDENTE DE LA COMMISSION EUROPÉENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:40",
+      "date": "15/04",
+      "timestamp": 1776246035
+    },
+    {
+      "id": "BFMTV_1776245919",
+      "source": "BFMTV",
+      "text": "INCENDIE DE CRANS-MONTANA: UN TÉMOIN CLÉ DIT AVOIR RELAYÉ DES \"FAUSSES INFORMATIONS\" ET PRÉSENTE SES EXCUSES AU COUPLE MORETTI",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:38",
+      "date": "15/04",
+      "timestamp": 1776245919
+    },
+    {
+      "id": "BFMTV_1776245919",
+      "source": "BFMTV",
+      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:38",
+      "date": "15/04",
+      "timestamp": 1776245919
+    },
+    {
+      "id": "BFMTV_1776245433",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - L'ARMÉE AMÉRICAINE A ANNONCÉ AVOIR EMPÊCHÉ SIX NAVIRES DE QUITTER LES PORTS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:30",
+      "date": "15/04",
+      "timestamp": 1776245433
+    },
+    {
+      "id": "BFMTV_1776245208",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON CONVOQUE UN NOUVEAU CONSEIL DE DÉFENSE SUR LA SITUATION EN IRAN AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:26",
+      "date": "15/04",
+      "timestamp": 1776245208
+    },
+    {
+      "id": "BFMTV_1776245058",
+      "source": "BFMTV",
+      "text": "POURQUOI L’IRAN REFUSE-T-IL DE RENONCER À SON PROGRAMME NUCLÉAIRE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:24",
+      "date": "15/04",
+      "timestamp": 1776245058
+    },
     {
       "id": "BFMTV_1776244643",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "14:37",
       "date": "14/04",
       "timestamp": 1776177429
-    },
-    {
-      "id": "BFMTV_1776176601",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ET LA MAISON BLANCHE CONFIRMENT DES COMMUNICATIONS DIRECTES AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:23",
-      "date": "14/04",
-      "timestamp": 1776176601
-    },
-    {
-      "id": "BFMTV_1776174745",
-      "source": "BFMTV",
-      "text": "JEAN-NOËL BARROT: LE GOUVERNEMENT ISRAÉLIEN DOIT \"ABANDONNER CES GUERRES SANS FIN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:52",
-      "date": "14/04",
-      "timestamp": 1776174745
-    },
-    {
-      "id": "BFMTV_1776174636",
-      "source": "BFMTV",
-      "text": "LES IRANIENS DÉTOURNENT LE TUBE \"VOYAGE VOYAGE\" DE DESIRELESS POUR SE MOQUER DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:50",
-      "date": "14/04",
-      "timestamp": 1776174636
-    },
-    {
-      "id": "BFMTV_1776173791",
-      "source": "BFMTV",
-      "text": "BLOCUS DU DÉTROIT D'ORMUZ: UN PÉTROLIER APERÇU UNE DEUXIÈME FOIS EN TRAIN DE FAIRE DEMI-TOUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:36",
-      "date": "14/04",
-      "timestamp": 1776173791
-    },
-    {
-      "id": "BFMTV_1776173474",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UNE FRANÇAISE DE 85 ANS A ÉTÉ ARRÊTÉE PAR L’ICE ET PLACÉE EN CENTRE DE RÉTENTION  ",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:31",
-      "date": "14/04",
-      "timestamp": 1776173474
-    },
-    {
-      "id": "BFMTV_1776172775",
-      "source": "BFMTV",
-      "text": "LA CONFÉRENCE DES \"PAYS NON BELLIGÉRANTS\" VOULANT \"RESTAURER LA LIBERTÉ DE NAVIGATION DANS LE DÉTROIT D’ORMUZ\" AURA LIEU VENDREDI À PARIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:19",
-      "date": "14/04",
-      "timestamp": 1776172775
-    },
-    {
-      "id": "BFMTV_1776170875",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: WASHINGTON S’APPRÊTE À ACCUEILLIR LES POURPARLERS ENTRE LE LIBAN ET ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:47",
-      "date": "14/04",
-      "timestamp": 1776170875
-    },
-    {
-      "id": "BFMTV_1776168968",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: OÙ SONT LES BATEAUX BLOQUÉS DANS LE DÉTROIT D'ORMUZ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:16",
-      "date": "14/04",
-      "timestamp": 1776168968
-    },
-    {
-      "id": "BFMTV_1776168535",
-      "source": "BFMTV",
-      "text": "\"CELA POURRAIT ÊTRE LE CAS À L'AVENIR\": L'UE SE DIT \"INQUIÈTE\" DE POSSIBLES PROBLÈMES D'APPROVISIONNEMENT EN KÉROSÈNE DANS UN \"AVENIR PROCHE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:08",
-      "date": "14/04",
-      "timestamp": 1776168535
-    },
-    {
-      "id": "BFMTV_1776167174",
-      "source": "BFMTV",
-      "text": "BLOCUS NAVAL AMÉRICAIN: QUELS SONT LES MOYENS MILITAIRES DONT DISPOSENT LES ÉTATS-UNIS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:46",
-      "date": "14/04",
-      "timestamp": 1776167174
-    },
-    {
-      "id": "BFMTV_1776166702",
-      "source": "BFMTV",
-      "text": " À NEW YORK, PLUS DE 90 MILITANTS PRO-PALESTINIENS INTERPELLÉS LORS D'UNE MANIFESTATION CONTRE LE SOUTIEN MILITAIRE AMÉRICAIN À ISRAËL ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:38",
-      "date": "14/04",
-      "timestamp": 1776166702
-    },
-    {
-      "id": "BFMTV_1776166281",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE L'IRAN ET LES ÉTATS-UNIS À \"REPRENDRE LES NÉGOCIATIONS INTERROMPUES AU PAKISTAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:31",
-      "date": "14/04",
-      "timestamp": 1776166281
-    },
-    {
-      "id": "BFMTV_1776165271",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ BLOQUÉ: \"QUE NOUS CESSIONS DE SUBIR LES CONSÉQUENCES DE CETTE GUERRE QUE NOUS N'AVONS PAS CHOISIE\" RÉCLAME JEAN-NOËL BARROT",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:14",
-      "date": "14/04",
-      "timestamp": 1776165271
     }
   ],
   "france": {
