@@ -1,7 +1,37 @@
 {
-  "last_update": "15/04 20:48",
+  "last_update": "15/04 21:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776289238",
+      "source": "BFMTV",
+      "text": "“IL Y A UNE MISÈRE MONDIALE QUI SE MET SUR UNE CRISE ÉNERGÉTIQUE LIÉE À CE DÉTROIT D’ORMUZ”, NOTE LOVA RINEL, CHERCHEUSE ASSOCIÉE À LA DISSUASION NUCLÉAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:40",
+      "date": "15/04",
+      "timestamp": 1776289238
+    },
+    {
+      "id": "BFMTV_1776288639",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP PROMET \"DEUX JOURS EXTRAORDINAIRES À VENIR\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:30",
+      "date": "15/04",
+      "timestamp": 1776288639
+    },
+    {
+      "id": "BFMTV_1776288474",
+      "source": "BFMTV",
+      "text": "ARME NUCLÉAIRE: L'AGENCE INTERNATIONALE DE L'ÉNERGIE ATOMIQUE S'INQUIÈTE DE L'AUGMENTATION DES CAPACITÉS DE LA CORÉE DU NORD",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:27",
+      "date": "15/04",
+      "timestamp": 1776288474
+    },
     {
       "id": "BFMTV_1776285939",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "22:11",
       "date": "14/04",
       "timestamp": 1776204696
-    },
-    {
-      "id": "BFMTV_1776203745",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: ISRAËL NE VEUT PAS DE LA FRANCE DANS LES NÉGOCIATIONS AVEC LE LIBAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:55",
-      "date": "14/04",
-      "timestamp": 1776203745
-    },
-    {
-      "id": "BFMTV_1776203691",
-      "source": "BFMTV",
-      "text": "CHRISTINE LAGARDE SALUE L’OUVERTURE DE LA HONGRIE À L’EURO",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:54",
-      "date": "14/04",
-      "timestamp": 1776203691
-    },
-    {
-      "id": "BFMTV_1776202042",
-      "source": "BFMTV",
-      "text": "\"S'IL VOUS PLAÎT, LAISSEZ LES NAVIRES PASSER\": QUAND LA PROPAGANDE IRANIENNE UTILISE L'IA POUR SE MOQUER DE DONALD TRUMP ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:27",
-      "date": "14/04",
-      "timestamp": 1776202042
     }
   ],
   "france": {
