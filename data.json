@@ -1,7 +1,147 @@
 {
-  "last_update": "15/04 18:16",
+  "last_update": "15/04 19:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776282224",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE ISRAËL ET LE LIBAN: UN POSSIBLE CESSEZ-LE-FEU POURRAIT ÊTRE ANNONCÉ PROCHAINEMENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:43",
+      "date": "15/04",
+      "timestamp": 1776282224
+    },
+    {
+      "id": "BFMTV_1776281763",
+      "source": "BFMTV",
+      "text": "LE RENSEIGNEMENT IRANIEN A ÉTÉ “SOUS-ESTIMÉ”, SELON LE GÉNÉRAL JEAN-PAUL PALOMÉROS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:36",
+      "date": "15/04",
+      "timestamp": 1776281763
+    },
+    {
+      "id": "BFMTV_1776281400",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L’IRAN: “C’EST LA BONNE CARTE À JOUER” POUR LES AMÉRICAINS, EXPLIQUE LE GÉNÉRAL JEAN-PAUL PALOMÉROS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:30",
+      "date": "15/04",
+      "timestamp": 1776281400
+    },
+    {
+      "id": "BFMTV_1776280560",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L’IRAN: L'OPTIMISME EST DE MISE AU SEIN DE L'ADMINISTRATION TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:16",
+      "date": "15/04",
+      "timestamp": 1776280560
+    },
+    {
+      "id": "BFMTV_1776279766",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN MYSTÉRIEUX SATELLITE ESPION CHINOIS AU SERVICE DE L’IRAN ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:02",
+      "date": "15/04",
+      "timestamp": 1776279766
+    },
+    {
+      "id": "BFMTV_1776279336",
+      "source": "BFMTV",
+      "text": "DÉTROIT D’ORMUZ: LE MESSAGE DE L'ARMÉE AMÉRICAINE À UN NAVIRE QUI DÉFIE LE BLOCUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:55",
+      "date": "15/04",
+      "timestamp": 1776279336
+    },
+    {
+      "id": "BFMTV_1776279053",
+      "source": "BFMTV",
+      "text": "BLOCUS DU DÉTROIT D’ORMUZ: DONALD TRUMP ENVOIE DES MILLIERS DE SOLDATS AMÉRICAINS EN RENFORT",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:50",
+      "date": "15/04",
+      "timestamp": 1776279053
+    },
+    {
+      "id": "BFMTV_1776278661",
+      "source": "BFMTV",
+      "text": "BLOCUS DU DÉTROIT D’ORMUZ: L’IRAN SE MOQUE À NOUVEAU DE LA GESTION DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:44",
+      "date": "15/04",
+      "timestamp": 1776278661
+    },
+    {
+      "id": "BFMTV_1776278284",
+      "source": "BFMTV",
+      "text": "\"HORS DE QUESTION\": LA PORTE-PAROLE DU GOUVERNEMENT, MAUD BREGEON, ASSURE QUE LA FRANCE EST OPPOSÉE À UN PÉAGE DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:38",
+      "date": "15/04",
+      "timestamp": 1776278284
+    },
+    {
+      "id": "BFMTV_1776278186",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L’IRAN: “LE PAKISTAN JOUE UN RÔLE DE MÉDIATEUR QUE LES TURCS N’AURAIENT PAS PU JOUER”, OBSERVE GILLES KEPEL, SPÉCIALISTE DU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:36",
+      "date": "15/04",
+      "timestamp": 1776278186
+    },
+    {
+      "id": "BFMTV_1776278020",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS NE VONT PAS PROLONGER L'ALLÈGEMENT DES SANCTIONS SUR LE PÉTROLE RUSSE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:33",
+      "date": "15/04",
+      "timestamp": 1776278020
+    },
+    {
+      "id": "BFMTV_1776277973",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: WASHINGTON DIT DISCUTER D'UNE DEUXIÈME SESSION DE NÉGOCIATIONS AVEC L'IRAN AU PAKISTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:32",
+      "date": "15/04",
+      "timestamp": 1776277973
+    },
+    {
+      "id": "BFMTV_1776277891",
+      "source": "BFMTV",
+      "text": "\"LE MONDE A SOIF DE PAIX !\", LANCE LÉON XIV DANS SON PLAIDOYER DEVANT LES AUTORITÉS DU CAMEROUN",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:31",
+      "date": "15/04",
+      "timestamp": 1776277891
+    },
+    {
+      "id": "BFMTV_1776277829",
+      "source": "BFMTV",
+      "text": "UN STREAMER AMÉRICAIN HOSPITALISÉ APRÈS UNE SUSPICION D'OVERDOSE EN DIRECT ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:30",
+      "date": "15/04",
+      "timestamp": 1776277829
+    },
     {
       "id": "BFMTV_1776276556",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "20:53",
       "date": "14/04",
       "timestamp": 1776200027
-    },
-    {
-      "id": "BFMTV_1776199884",
-      "source": "BFMTV",
-      "text": "LE BLOCUS DU DÉTROIT D'ORMUZ COÛTERAIT 435 MILLIONS DE DOLLARS PAR JOUR À L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:51",
-      "date": "14/04",
-      "timestamp": 1776199884
-    },
-    {
-      "id": "BFMTV_1776199503",
-      "source": "BFMTV",
-      "text": "SELON LE WALL STREET JOURNAL, PLUS DE 20 BATEAUX ONT FRANCHI LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:45",
-      "date": "14/04",
-      "timestamp": 1776199503
-    },
-    {
-      "id": "BFMTV_1776198729",
-      "source": "BFMTV",
-      "text": "\"LE CHANGEMENT DE RÉGIME SEMBLE TRÈS TRÈS LOINTAIN\": UNE IRANIENNE S'EXPRIME ANONYMEMENT SUR BFMTV",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:32",
-      "date": "14/04",
-      "timestamp": 1776198729
-    },
-    {
-      "id": "BFMTV_1776198308",
-      "source": "BFMTV",
-      "text": "INTERROGÉ PAR FOX NEWS, J.D. VANCE, VICE-PRÉSIDENT AMÉRICAIN, S'EST EXPRIMÉ SUR LES POURPARLERS MENÉS AVEC L'IRAN AU PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:25",
-      "date": "14/04",
-      "timestamp": 1776198308
-    },
-    {
-      "id": "BFMTV_1776197574",
-      "source": "BFMTV",
-      "text": "IRAN: DEUX NAVIRES CHASSEURS DE MINES AMÉRICAINS EN ROUTE VERS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:12",
-      "date": "14/04",
-      "timestamp": 1776197574
-    },
-    {
-      "id": "BFMTV_1776195991",
-      "source": "BFMTV",
-      "text": "FRANCE, ROYAUME-UNI, FINLANDE... 17 PAYS APPELLENT ISRAËL ET LE LIBAN À \"SAISIR L'OPPORTUNITÉ\" DES POURPARLERS DE PAIX",
-      "urgent": true,
-      "france_related": true,
-      "time": "19:46",
-      "date": "14/04",
-      "timestamp": 1776195991
-    },
-    {
-      "id": "BFMTV_1776195359",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS ENTRE ISRAËL ET LE LIBAN: L'OPTIMISME DOMINE APRÈS LA PREMIÈRE JOURNÉE DE POURPARLERS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:35",
-      "date": "14/04",
-      "timestamp": 1776195359
-    },
-    {
-      "id": "BFMTV_1776194476",
-      "source": "BFMTV",
-      "text": "BLOCUS DU DÉTROIT D'ORMUZ: L'ARMÉE AMÉRICAINE ASSURE AVOIR EMPÊCHÉ SIX NAVIRES DE PASSER",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:21",
-      "date": "14/04",
-      "timestamp": 1776194476
-    },
-    {
-      "id": "BFMTV_1776193634",
-      "source": "BFMTV",
-      "text": "À LA TÉLÉVISION RUSSE, LES PROPAGANDISTES SE RÉJOUISSENT DES DÉBOIRES DE DONALD TRUMP QU'ILS CONSIDÈRENT COMME \"DESTRUCTEURS POUR L’OTAN\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:07",
-      "date": "14/04",
-      "timestamp": 1776193634
-    },
-    {
-      "id": "BFMTV_1776193330",
-      "source": "BFMTV",
-      "text": " HARVEY WEINSTEIN DE NOUVEAU JUGÉ À NEW YORK POUR UNE ACCUSATION DE VIOL",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:02",
-      "date": "14/04",
-      "timestamp": 1776193330
-    },
-    {
-      "id": "BFMTV_1776192896",
-      "source": "BFMTV",
-      "text": "BLOCUS DU DÉTROIT D'ORMUZ: POUR SERGUEÏ JIRNOV, ANCIEN OFFICIER DE RENSEIGNEMENT DU KGB, LES AMÉRICAINS POURRAIENT ALLER JUSQU'À ARRAISONNER \"UN BATEAU CHINOIS CIVIL\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:54",
-      "date": "14/04",
-      "timestamp": 1776192896
-    },
-    {
-      "id": "BFMTV_1776192870",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS EU UN ÉCHANGE MERVEILLEUX\", DÉCLARE YECHIEL LEITER, AMBASSADEUR D'ISRAËL AUX USA, À L'ISSUE DES POURPARLERS AVEC LE LIBAN À WASHINGTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:54",
-      "date": "14/04",
-      "timestamp": 1776192870
-    },
-    {
-      "id": "BFMTV_1776192825",
-      "source": "BFMTV",
-      "text": "\"CERTAINS DOMMAGES SERONT INÉVITABLES\": LE FMI ABAISSE SES PRÉVISIONS DE CROISSANCE MONDIALE POUR 2026 ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:53",
-      "date": "14/04",
-      "timestamp": 1776192825
-    },
-    {
-      "id": "BFMTV_1776192040",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: LE CHEF DE L'ONU APPELLE À REPRENDRE DES \"NÉGOCIATIONS SÉRIEUSES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:40",
-      "date": "14/04",
-      "timestamp": 1776192040
     }
   ],
   "france": {
