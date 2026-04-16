@@ -1,7 +1,47 @@
 {
-  "last_update": "16/04 11:02",
+  "last_update": "16/04 12:09",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776340034",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LE SECRÉTAIRE AMÉRICAIN À LA DÉFENSE PETE HEGSETH ASSURE QUE WASHINGTON EST \"PRÊT À FRAPPER\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:47",
+      "date": "16/04",
+      "timestamp": 1776340034
+    },
+    {
+      "id": "BFMTV_1776339623",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BFMTV PRÈS DU LIEU D'UNE FRAPPE ISRAÉLIENNE SUR UN PONT DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:40",
+      "date": "16/04",
+      "timestamp": 1776339623
+    },
+    {
+      "id": "BFMTV_1776337899",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN EST-IL CAPABLE DE COULER LES NAVIRES AMÉRICAINS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:11",
+      "date": "16/04",
+      "timestamp": 1776337899
+    },
+    {
+      "id": "BFMTV_1776337256",
+      "source": "BFMTV",
+      "text": "GISÈLE PELICOT : \"J'AI LA CONVICTION PROFONDE QUE VAINCRE LES VIOLENCES SEXUELLES ET DE GENRE EST POSSIBLE MAIS CE COMBAT EST GÉNÉRATIONNEL\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:00",
+      "date": "16/04",
+      "timestamp": 1776337256
+    },
     {
       "id": "BFMTV_1776336960",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "10:11",
       "date": "15/04",
       "timestamp": 1776247860
-    },
-    {
-      "id": "BFMTV_1776247795",
-      "source": "BFMTV",
-      "text": "UNE FEMME TUÉE PAR DES POLICIERS AUX ÉTATS-UNIS APRÈS AVOIR TENTÉ D'ENLEVER UN ENFANT DE TROIS ANS ET L'AVOIR BLESSÉ AVEC UN COUTEAU",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:09",
-      "date": "15/04",
-      "timestamp": 1776247795
-    },
-    {
-      "id": "BFMTV_1776247232",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN PROVISEUR ÉVITE UNE FUSILLADE DANS SON LYCÉE EN IMMOBILISANT L'ASSAILLANT",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:00",
-      "date": "15/04",
-      "timestamp": 1776247232
-    },
-    {
-      "id": "BFMTV_1776246218",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ET LES ÉTATS-UNIS N'ÉCARTENT PAS LA POURSUITE DES NÉGOCIATIONS MAIS RESTENT CAMPÉS SUR LEURS POSITIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:43",
-      "date": "15/04",
-      "timestamp": 1776246218
-    },
-    {
-      "id": "BFMTV_1776246035",
-      "source": "BFMTV",
-      "text": "RÉSEAUX SOCIAUX : \"L'EUROPE NE TOLÈRERA PAS QUE LES PLATEFORMES S'ENRICHISSENT AUX DÉPENDS DE NOS ENFANTS\", ASSURE LA VICE-PRÉSIDENTE DE LA COMMISSION EUROPÉENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:40",
-      "date": "15/04",
-      "timestamp": 1776246035
     }
   ],
   "france": {
