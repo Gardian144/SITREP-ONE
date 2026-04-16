@@ -1,7 +1,87 @@
 {
-  "last_update": "16/04 17:19",
+  "last_update": "16/04 18:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776364444",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE CESSEZ-LE-FEU ENTRE LE LIBAN ET ISRAËL \"INCLURA LE HEZBOLLAH\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:34",
+      "date": "16/04",
+      "timestamp": 1776364444
+    },
+    {
+      "id": "BFMTV_1776364231",
+      "source": "BFMTV",
+      "text": "\"NOUS NOUS SOMMES MIS D'ACCORD\": DONALD TRUMP AFFIRME QUE LE CESSEZ-LE-FEU ENTRE LE LIBAN ET ISRAËL \"INCLURA LE HEZBOLLAH\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:30",
+      "date": "16/04",
+      "timestamp": 1776364231
+    },
+    {
+      "id": "BFMTV_1776363762",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"CETTE GUERRE N'AURAIT JAMAIS COMMENCÉ SI J'AVAIS ÉTÉ PRÉSIDENT\", AFFIRME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:22",
+      "date": "16/04",
+      "timestamp": 1776363762
+    },
+    {
+      "id": "BFMTV_1776362763",
+      "source": "BFMTV",
+      "text": "LE BLOCAGE DU DÉTROIT D'ORMUZ \"SE PASSE TRÈS BIEN\", INDIQUE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:06",
+      "date": "16/04",
+      "timestamp": 1776362763
+    },
+    {
+      "id": "BFMTV_1776362614",
+      "source": "BFMTV",
+      "text": "TRÊVE ISRAËL/LIBAN: \"NOUS NOUS SOMMES MIS D'ACCORD POUR UN CESSEZ-LE-FEU QUI INCLURA LE HEZBOLLAH\", AFFIRME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:03",
+      "date": "16/04",
+      "timestamp": 1776362614
+    },
+    {
+      "id": "BFMTV_1776362311",
+      "source": "BFMTV",
+      "text": "\"LE MONDE SERAIT EN DANGER\": DONALD TRUMP RÉAFFIRME QUE 'L'IRAN NE PEUT PAS AVOIR L'ARME NUCLÉAIRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:58",
+      "date": "16/04",
+      "timestamp": 1776362311
+    },
+    {
+      "id": "OPEX360_1776361376",
+      "source": "OPEX360",
+      "text": "POUR L’US AIR FORCE, L’EFFICACITÉ ÉNERGÉTIQUE DU BOMBARDIER B-21 RAIDER SERA UN ÉLÉMENT «ESSENTIEL DE SA LÉTALITÉ»",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:42",
+      "date": "16/04",
+      "timestamp": 1776361376
+    },
+    {
+      "id": "BFMTV_1776360811",
+      "source": "BFMTV",
+      "text": "ISRAËL/LIBAN: \"LE DÉSARMEMENT (DU HEZBOLLAH) NE POURRA ÊTRE QUE PROGRESSIF\", AFFIRME JEAN-YVES LE DRIAN, ANCIEN MINISTRE DES AFFAIRES ÉTRANGÈRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:33",
+      "date": "16/04",
+      "timestamp": 1776360811
+    },
     {
       "id": "BFMTV_1776359014",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "18:36",
       "date": "15/04",
       "timestamp": 1776278186
-    },
-    {
-      "id": "BFMTV_1776278020",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS NE VONT PAS PROLONGER L'ALLÈGEMENT DES SANCTIONS SUR LE PÉTROLE RUSSE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:33",
-      "date": "15/04",
-      "timestamp": 1776278020
-    },
-    {
-      "id": "BFMTV_1776277973",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: WASHINGTON DIT DISCUTER D'UNE DEUXIÈME SESSION DE NÉGOCIATIONS AVEC L'IRAN AU PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:32",
-      "date": "15/04",
-      "timestamp": 1776277973
-    },
-    {
-      "id": "BFMTV_1776277891",
-      "source": "BFMTV",
-      "text": "\"LE MONDE A SOIF DE PAIX !\", LANCE LÉON XIV DANS SON PLAIDOYER DEVANT LES AUTORITÉS DU CAMEROUN",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:31",
-      "date": "15/04",
-      "timestamp": 1776277891
-    },
-    {
-      "id": "BFMTV_1776277829",
-      "source": "BFMTV",
-      "text": "UN STREAMER AMÉRICAIN HOSPITALISÉ APRÈS UNE SUSPICION D'OVERDOSE EN DIRECT ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:30",
-      "date": "15/04",
-      "timestamp": 1776277829
-    },
-    {
-      "id": "BFMTV_1776276556",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: MAUD BREGEON REVIENT SUR LES PROPOS DE ROLAND LESCURE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:09",
-      "date": "15/04",
-      "timestamp": 1776276556
-    },
-    {
-      "id": "BFMTV_1776276418",
-      "source": "BFMTV",
-      "text": "PRIX DES CARBURANTS: LE GOUVERNEMENT ASSURE \"QU'AUCUNE DÉCISION N'A ÉTÉ PRISE\" CONCERNANT L'ENCADREMENT DES MARGES DES DISTRIBUTEURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:06",
-      "date": "15/04",
-      "timestamp": 1776276418
-    },
-    {
-      "id": "BFMTV_1776275865",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA MAISON BLANCHE DIT DISCUTER D'UNE DEUXIÈME SESSION DE NÉGOCIATIONS AVEC L'IRAN AU PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:57",
-      "date": "15/04",
-      "timestamp": 1776275865
-    },
-    {
-      "id": "OPEX360_1776274285",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE L’AIR NE FERME PAS LA PORTE AU PROJET EUROPÉEN D’AVION DE TRANSPORT MÉDIAN POUR REMPLACER LE CASA CN-235",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:31",
-      "date": "15/04",
-      "timestamp": 1776274285
     }
   ],
   "france": {
