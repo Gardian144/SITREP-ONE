@@ -1,7 +1,37 @@
 {
-  "last_update": "16/04 21:42",
+  "last_update": "16/04 22:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776377532",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES TIRS NOURRIS DANS LA BANLIEUE SUD DE BEYROUTH AU DÉBUT DU CESSEZ-LE-FEU DE 10 JOURS AVEC ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:12",
+      "date": "16/04",
+      "timestamp": 1776377532
+    },
+    {
+      "id": "BFMTV_1776376744",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN SALUE L'ACCORD DE CESSEZ-LE-FEU AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:59",
+      "date": "16/04",
+      "timestamp": 1776376744
+    },
+    {
+      "id": "BFMTV_1776376562",
+      "source": "BFMTV",
+      "text": "“L’ARMÉE LIBANAISE ÉTAIT TRÈS PROCHE DU HEZBOLLAH”, NOTE PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL ",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:56",
+      "date": "16/04",
+      "timestamp": 1776376562
+    },
     {
       "id": "BFMTV_1776374381",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "04:30",
       "date": "16/04",
       "timestamp": 1776313800
-    },
-    {
-      "id": "BFMTV_1776313795",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ANNONCENT DISCUTER D'UN NOUVEAU RENDEZ-VOUS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:29",
-      "date": "16/04",
-      "timestamp": 1776313795
-    },
-    {
-      "id": "BFMTV_1776313046",
-      "source": "BFMTV",
-      "text": "LE BRIEF DU GÉNÉRAL - COMMENT L'ARMÉE AMÉRICAINE BLOQUE LES NAVIRES EN PROVENANCE DES PORTS IRANIENS ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:17",
-      "date": "16/04",
-      "timestamp": 1776313046
-    },
-    {
-      "id": "BFMTV_1776312784",
-      "source": "BFMTV",
-      "text": "POURPARLERS IRANO-AMÉRICAINS: L'IRAN ACCUEILLE UNE DÉLÉGATION PAKISTANAISE CONDUITE PAR LE CHEF DE L'ARMÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:13",
-      "date": "16/04",
-      "timestamp": 1776312784
     }
   ],
   "france": {
