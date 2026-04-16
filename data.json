@@ -1,7 +1,57 @@
 {
-  "last_update": "16/04 20:48",
+  "last_update": "16/04 21:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776374381",
+      "source": "BFMTV",
+      "text": "BEYROUTH: DES MANIFESTATIONS DE JOIE POUR LE CESSEZ-LE-FEU ENTRE LE LIBAN ET ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:19",
+      "date": "16/04",
+      "timestamp": 1776374381
+    },
+    {
+      "id": "BFMTV_1776373965",
+      "source": "BFMTV",
+      "text": "IRAN: “ON PEUT METTRE EN ÉCHEC PARTIEL LA PUISSANCE MILITAIRE AMÉRICAINE, MAIS PAS EN ÉCHEC TOTAL”, ESTIME LE GÉNÉRAL PHILIPPE SIDOS",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:12",
+      "date": "16/04",
+      "timestamp": 1776373965
+    },
+    {
+      "id": "BFMTV_1776373535",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN SALUE L'ACCORD DE CESSEZ-LE-FEU AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:05",
+      "date": "16/04",
+      "timestamp": 1776373535
+    },
+    {
+      "id": "BFMTV_1776373336",
+      "source": "BFMTV",
+      "text": "INTERVENTION AMÉRICAINE SUR LE SOL IRANIEN: “S’ILS ARRIVENT JUSQU’AUX CÔTES, ON FERA ALORS DES MILLIERS DE PRISONNIERS”, PROMET MOHSEN REZAÏ, CONSEILLER MILITAIRE DE MOJTABA KHAMENEI",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:02",
+      "date": "16/04",
+      "timestamp": 1776373336
+    },
+    {
+      "id": "BFMTV_1776372807",
+      "source": "BFMTV",
+      "text": "ISRAËL/LIBAN: LE HEZBOLLAH DEMANDE AUX RÉFUGIÉS D'ATTENDRE QUE LES FRAPPES ISRAÉLIENNES S'ARRÊTENT AVANT DE RENTRER DANS LE SUD DU PAYS",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:53",
+      "date": "16/04",
+      "timestamp": 1776372807
+    },
     {
       "id": "BFMTV_1776372150",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "04:13",
       "date": "16/04",
       "timestamp": 1776312784
-    },
-    {
-      "id": "BFMTV_1776312592",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE DE NOUVELLES DISCUSSIONS ENTRE LES DIRIGEANTS ISRAÉLIENS ET LIBANAIS CE JEUDI",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:09",
-      "date": "16/04",
-      "timestamp": 1776312592
-    },
-    {
-      "id": "BFMTV_1776291299",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP PROMET \"DEUX JOURS EXTRAORDINAIRES À VENIR\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:14",
-      "date": "15/04",
-      "timestamp": 1776291299
-    },
-    {
-      "id": "BFMTV_1776289238",
-      "source": "BFMTV",
-      "text": "“IL Y A UNE MISÈRE MONDIALE QUI SE MET SUR UNE CRISE ÉNERGÉTIQUE LIÉE À CE DÉTROIT D’ORMUZ”, NOTE LOVA RINEL, CHERCHEUSE ASSOCIÉE À LA DISSUASION NUCLÉAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:40",
-      "date": "15/04",
-      "timestamp": 1776289238
-    },
-    {
-      "id": "BFMTV_1776288639",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP PROMET \"DEUX JOURS EXTRAORDINAIRES À VENIR\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:30",
-      "date": "15/04",
-      "timestamp": 1776288639
-    },
-    {
-      "id": "BFMTV_1776288474",
-      "source": "BFMTV",
-      "text": "ARME NUCLÉAIRE: L'AGENCE INTERNATIONALE DE L'ÉNERGIE ATOMIQUE S'INQUIÈTE DE L'AUGMENTATION DES CAPACITÉS DE LA CORÉE DU NORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:27",
-      "date": "15/04",
-      "timestamp": 1776288474
     }
   ],
   "france": {
