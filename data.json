@@ -1,7 +1,77 @@
 {
-  "last_update": "16/04 19:49",
+  "last_update": "16/04 20:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776372150",
+      "source": "BFMTV",
+      "text": "ISRAËL/LIBAN: “NOUS AVONS L’OPPORTUNITÉ DE PARVENIR À UN ACCORD DE PAIX HISTORIQUE AVEC LE LIBAN”, ANNONCE BENJAMIN NETANYAHU",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:42",
+      "date": "16/04",
+      "timestamp": 1776372150
+    },
+    {
+      "id": "BFMTV_1776372107",
+      "source": "BFMTV",
+      "text": "\"EXTRÊMEMENT CHOQUANT ET INTOLÉRABLE\": UNE ENQUÊTE OUVERTE APRÈS DES VIOLENCES POLICIÈRES CONTRE UN HOMME NOIR À NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:41",
+      "date": "16/04",
+      "timestamp": 1776372107
+    },
+    {
+      "id": "BFMTV_1776371711",
+      "source": "BFMTV",
+      "text": "DERRIÈRE LES TWEETS DE DONALD TRUMP SE CACHE NATALIE HARP, SON ASSISTANTE QU'IL CONSIDÈRE COMME SA FILLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:35",
+      "date": "16/04",
+      "timestamp": 1776371711
+    },
+    {
+      "id": "BFMTV_1776371160",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: À UNE HEURE DU CESSEZ-LE-FEU, ISRAËL ANNONCE FRAPPER DES LANCEURS DE ROQUETTES DU HEZBOLLAH AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:26",
+      "date": "16/04",
+      "timestamp": 1776371160
+    },
+    {
+      "id": "BFMTV_1776369796",
+      "source": "BFMTV",
+      "text": "“S’IL Y A UN VÉRITABLE CESSEZ-LE-FEU, PEUT-ÊTRE QU’IL Y AURA DES CÉLÉBRATIONS”: LES HABITANTS DE BEYROUTH TOUJOURS DANS LE DOUTE, MALGRÉ LA TRÊVE DE DIX JOURS AVEC ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:03",
+      "date": "16/04",
+      "timestamp": 1776369796
+    },
+    {
+      "id": "BFMTV_1776369124",
+      "source": "BFMTV",
+      "text": "LE BRAS DE FER CONTINUE ENTRE DONALD TRUMP ET LE PAPE LÉON XIV",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:52",
+      "date": "16/04",
+      "timestamp": 1776369124
+    },
+    {
+      "id": "BFMTV_1776368926",
+      "source": "BFMTV",
+      "text": "IRAN: MOJTABA KHAMENEI EST \"BLESSÉ ET DÉFIGURÉ\", ANNONCE PETE HEGSETH, SECRÉTAIRE AMÉRICAIN À LA DÉFENSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:48",
+      "date": "16/04",
+      "timestamp": 1776368926
+    },
     {
       "id": "BFMTV_1776368413",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "21:27",
       "date": "15/04",
       "timestamp": 1776288474
-    },
-    {
-      "id": "BFMTV_1776285939",
-      "source": "BFMTV",
-      "text": "“SI UNE ARMÉE N’A QUE LA MAÎTRISE AÉRIENNE, SANS AVOIR L’OCCUPATION AU SOL, CELA NE MARCHE PAS”, EXPLIQUE GÉRARD LONGUET, ANCIEN MINISTRE DE LA DÉFENSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:45",
-      "date": "15/04",
-      "timestamp": 1776285939
-    },
-    {
-      "id": "BFMTV_1776285361",
-      "source": "BFMTV",
-      "text": "IRAN: LE SÉNAT AMÉRICAIN VOTE FAVORABLEMENT À LA POURSUITE DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:36",
-      "date": "15/04",
-      "timestamp": 1776285361
-    },
-    {
-      "id": "BFMTV_1776284509",
-      "source": "BFMTV",
-      "text": "DÉTROIT D’ORMUZ: SELON L’ARMÉE AMÉRICAINE, AUCUN NAVIRE N’A RÉUSSI À FRANCHIR LE BLOCUS DEPUIS DEUX JOURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:21",
-      "date": "15/04",
-      "timestamp": 1776284509
-    },
-    {
-      "id": "BFMTV_1776284012",
-      "source": "BFMTV",
-      "text": "IRAN: “JE PENSE QUE LES CHINOIS ONT FOURNI QUELQUES RENSEIGNEMENTS POUR FAIRE MAL AUX AMÉRICAINS”, AFFIRME LE GÉNÉRAL PHILIPPE SIDOS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:13",
-      "date": "15/04",
-      "timestamp": 1776284012
-    },
-    {
-      "id": "BFMTV_1776282224",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS ENTRE ISRAËL ET LE LIBAN: UN POSSIBLE CESSEZ-LE-FEU POURRAIT ÊTRE ANNONCÉ PROCHAINEMENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:43",
-      "date": "15/04",
-      "timestamp": 1776282224
-    },
-    {
-      "id": "BFMTV_1776281763",
-      "source": "BFMTV",
-      "text": "LE RENSEIGNEMENT IRANIEN A ÉTÉ “SOUS-ESTIMÉ”, SELON LE GÉNÉRAL JEAN-PAUL PALOMÉROS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:36",
-      "date": "15/04",
-      "timestamp": 1776281763
-    },
-    {
-      "id": "BFMTV_1776281400",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L’IRAN: “C’EST LA BONNE CARTE À JOUER” POUR LES AMÉRICAINS, EXPLIQUE LE GÉNÉRAL JEAN-PAUL PALOMÉROS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:30",
-      "date": "15/04",
-      "timestamp": 1776281400
     }
   ],
   "france": {
