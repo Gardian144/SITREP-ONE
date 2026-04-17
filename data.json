@@ -1,7 +1,57 @@
 {
-  "last_update": "17/04 11:14",
+  "last_update": "17/04 12:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776427411",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PREMIER MINISTRE BRITANNIQUE KEIR STARMER REÇU PAR EMMANUEL MACRON À L'ÉLYSÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:03",
+      "date": "17/04",
+      "timestamp": 1776427411
+    },
+    {
+      "id": "BFMTV_1776426442",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PREMIER MINISTRE BRITANNIQUE KEIR STARMER REÇU PAR EMMANUEL MACRON À L'ÉLYSÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:47",
+      "date": "17/04",
+      "timestamp": 1776426442
+    },
+    {
+      "id": "BFMTV_1776425643",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: TROIS PÉTROLIERS IRANIENS SOUS SANCTIONS AMÉRICAINES ONT QUITTÉ LE DÉTROIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:34",
+      "date": "17/04",
+      "timestamp": 1776425643
+    },
+    {
+      "id": "BFMTV_1776424564",
+      "source": "BFMTV",
+      "text": "KENYA: UN HOMME CONDAMNÉ À DE LA PRISON POUR CONTREBANDE DE FOURMIS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:16",
+      "date": "17/04",
+      "timestamp": 1776424564
+    },
+    {
+      "id": "BFMTV_1776424403",
+      "source": "BFMTV",
+      "text": "L'AVION DE L'AFFAIRE \"AIR COCAÏNE\" MIS AUX ENCHÈRES PAR LES AUTORITÉS DE RÉPUBLIQUE DOMINICAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:13",
+      "date": "17/04",
+      "timestamp": 1776424403
+    },
     {
       "id": "BFMTV_1776424146",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "14:54",
       "date": "16/04",
       "timestamp": 1776351262
-    },
-    {
-      "id": "BFMTV_1776350989",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT LIBANAIS JOSEPH AOUN REFUSE UN \"CONTACT DIRECT\" AVEC BENJAMIN NETANYAHU, LES ÉTATS-UNIS \"COMPRENNENT\" SA POSITION",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:49",
-      "date": "16/04",
-      "timestamp": 1776350989
-    },
-    {
-      "id": "BFMTV_1776350428",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT LIBANAIS A REFUSÉ LA DEMANDE AMÉRICAINE D'ÉTABLIR UN CONTACT AVEC LE PREMIER MINISTRE ISRAÉLIEN BENJAMIN NETANYAHU",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:40",
-      "date": "16/04",
-      "timestamp": 1776350428
-    },
-    {
-      "id": "OPEX360_1776349279",
-      "source": "OPEX360",
-      "text": "THALES DÉVOILE UNE NOUVELLE SOLUTION POUR CONTRER LE BROUILLAGE ÉLECTRONIQUE SUR LE CHAMP DE BATAILLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:21",
-      "date": "16/04",
-      "timestamp": 1776349279
-    },
-    {
-      "id": "BFMTV_1776348729",
-      "source": "BFMTV",
-      "text": "IRAN/USA: \"LE PAKISTAN CONTINUERA DE JOUER SON RÔLE POUR FACILITER LE DIALOGUE ENTRE LES DEUX PAYS\", SELON LE PORTE-PAROLE DU MINISTÈRE DES AFFAIRES ÉTRANGÈRES PAKISTANAIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:12",
-      "date": "16/04",
-      "timestamp": 1776348729
-    },
-    {
-      "id": "BFMTV_1776348141",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: QUI EST MARYAM RADJAVI, L'UN DES VISAGES DE LA RÉSISTANCE IRANIENNE ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:02",
-      "date": "16/04",
-      "timestamp": 1776348141
     }
   ],
   "france": {
