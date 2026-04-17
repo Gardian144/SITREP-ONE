@@ -1,7 +1,97 @@
 {
-  "last_update": "17/04 16:13",
+  "last_update": "17/04 17:09",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776445466",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QU'UN ACCORD AVEC L'IRAN EST \"TRÈS PROCHE\" ET QU'IL N'Y A PAS DE \"POINTS DE BLOCAGE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:04",
+      "date": "17/04",
+      "timestamp": 1776445466
+    },
+    {
+      "id": "OPEX360_1776444858",
+      "source": "OPEX360",
+      "text": "APRÈS DES ATTAQUES DE DRONES UKRAINIENS, MOSCOU MENACE LES PAYS BALTES ET LA FINLANDE EN INVOQUANT LA «LÉGITIME DÉFENSE»",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:54",
+      "date": "17/04",
+      "timestamp": 1776444858
+    },
+    {
+      "id": "BFMTV_1776443853",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QU'UN ACCORD AVEC L'IRAN EST \"TRÈS PROCHE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:37",
+      "date": "17/04",
+      "timestamp": 1776443853
+    },
+    {
+      "id": "BFMTV_1776443840",
+      "source": "BFMTV",
+      "text": "ET SI LE ROYAUME-UNI REVOTAIT SUR UN RETOUR DANS L'UE ? L'IDÉE D'UN RÉFÉRENDUM ÉMERGE DANS LE PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:37",
+      "date": "17/04",
+      "timestamp": 1776443840
+    },
+    {
+      "id": "BFMTV_1776443823",
+      "source": "BFMTV",
+      "text": "CONFLIT AU MOYEN-ORIENT: INFORMER EN TEMPS DE GUERRE, LE FILM DE BFMTV",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:37",
+      "date": "17/04",
+      "timestamp": 1776443823
+    },
+    {
+      "id": "BFMTV_1776443563",
+      "source": "BFMTV",
+      "text": "AU CAMEROUN, LÉON XIV DÉNONCE LES \"RAVAGES ENVIRONNEMENTAUX ET SOCIAUX CAUSÉS PAR LA COURSE EFFRÉNÉE AUX MATIÈRES PREMIÈRES ET AUX TERRES RARES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:32",
+      "date": "17/04",
+      "timestamp": 1776443563
+    },
+    {
+      "id": "BFMTV_1776443225",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ ROUVERT: \"IL Y AURA DES IMPACTS SUR L'INFLATION FRANÇAISE AU MOINS JUSQU'À L'ÉTÉ\", INDIQUE MARC TOUATI, ÉCONOMISTE CHEZ ETORO",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:27",
+      "date": "17/04",
+      "timestamp": 1776443225
+    },
+    {
+      "id": "BFMTV_1776442803",
+      "source": "BFMTV",
+      "text": "\"POUTINE À L'EST, TRUMP À L'OUEST\": QUE GAGNERAIT L'EUROPE EN CAS DE RETOUR DU ROYAUME-UNI DANS L'UE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:20",
+      "date": "17/04",
+      "timestamp": 1776442803
+    },
+    {
+      "id": "BFMTV_1776442380",
+      "source": "BFMTV",
+      "text": "DIX ANS APRÈS LE BREXIT: \"AUCUN AVANTAGE À ÊTRE EN DEHORS DE L'UE\", DÉCLARE RICHARD CORBETT, ANCIEN DÉPUTÉ EUROPÉEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:13",
+      "date": "17/04",
+      "timestamp": 1776442380
+    },
     {
       "id": "BFMTV_1776442164",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "21:56",
       "date": "16/04",
       "timestamp": 1776376562
-    },
-    {
-      "id": "BFMTV_1776374381",
-      "source": "BFMTV",
-      "text": "BEYROUTH: DES MANIFESTATIONS DE JOIE POUR LE CESSEZ-LE-FEU ENTRE LE LIBAN ET ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:19",
-      "date": "16/04",
-      "timestamp": 1776374381
-    },
-    {
-      "id": "BFMTV_1776373965",
-      "source": "BFMTV",
-      "text": "IRAN: “ON PEUT METTRE EN ÉCHEC PARTIEL LA PUISSANCE MILITAIRE AMÉRICAINE, MAIS PAS EN ÉCHEC TOTAL”, ESTIME LE GÉNÉRAL PHILIPPE SIDOS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:12",
-      "date": "16/04",
-      "timestamp": 1776373965
-    },
-    {
-      "id": "BFMTV_1776373535",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN SALUE L'ACCORD DE CESSEZ-LE-FEU AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:05",
-      "date": "16/04",
-      "timestamp": 1776373535
-    },
-    {
-      "id": "BFMTV_1776373336",
-      "source": "BFMTV",
-      "text": "INTERVENTION AMÉRICAINE SUR LE SOL IRANIEN: “S’ILS ARRIVENT JUSQU’AUX CÔTES, ON FERA ALORS DES MILLIERS DE PRISONNIERS”, PROMET MOHSEN REZAÏ, CONSEILLER MILITAIRE DE MOJTABA KHAMENEI",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:02",
-      "date": "16/04",
-      "timestamp": 1776373336
-    },
-    {
-      "id": "BFMTV_1776372807",
-      "source": "BFMTV",
-      "text": "ISRAËL/LIBAN: LE HEZBOLLAH DEMANDE AUX RÉFUGIÉS D'ATTENDRE QUE LES FRAPPES ISRAÉLIENNES S'ARRÊTENT AVANT DE RENTRER DANS LE SUD DU PAYS",
-      "urgent": true,
-      "france_related": true,
-      "time": "20:53",
-      "date": "16/04",
-      "timestamp": 1776372807
-    },
-    {
-      "id": "BFMTV_1776372150",
-      "source": "BFMTV",
-      "text": "ISRAËL/LIBAN: “NOUS AVONS L’OPPORTUNITÉ DE PARVENIR À UN ACCORD DE PAIX HISTORIQUE AVEC LE LIBAN”, ANNONCE BENJAMIN NETANYAHU",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:42",
-      "date": "16/04",
-      "timestamp": 1776372150
-    },
-    {
-      "id": "BFMTV_1776372107",
-      "source": "BFMTV",
-      "text": "\"EXTRÊMEMENT CHOQUANT ET INTOLÉRABLE\": UNE ENQUÊTE OUVERTE APRÈS DES VIOLENCES POLICIÈRES CONTRE UN HOMME NOIR À NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:41",
-      "date": "16/04",
-      "timestamp": 1776372107
-    },
-    {
-      "id": "BFMTV_1776371711",
-      "source": "BFMTV",
-      "text": "DERRIÈRE LES TWEETS DE DONALD TRUMP SE CACHE NATALIE HARP, SON ASSISTANTE QU'IL CONSIDÈRE COMME SA FILLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:35",
-      "date": "16/04",
-      "timestamp": 1776371711
-    },
-    {
-      "id": "BFMTV_1776371160",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: À UNE HEURE DU CESSEZ-LE-FEU, ISRAËL ANNONCE FRAPPER DES LANCEURS DE ROQUETTES DU HEZBOLLAH AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:26",
-      "date": "16/04",
-      "timestamp": 1776371160
     }
   ],
   "france": {
