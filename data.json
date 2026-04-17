@@ -1,7 +1,167 @@
 {
-  "last_update": "17/04 13:58",
+  "last_update": "17/04 15:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776438169",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: EMMANUEL MACRON DEMANDE LA RÉOUVERTURE \"INCONDITIONNELLE\" DU DÉTROIT D'ORMUZ ET VEUT UNE MISSION NEUTRE POUR LE SÉCURISER",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:02",
+      "date": "17/04",
+      "timestamp": 1776438169
+    },
+    {
+      "id": "BFMTV_1776437873",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:57",
+      "date": "17/04",
+      "timestamp": 1776437873
+    },
+    {
+      "id": "OPEX360_1776437419",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES A LANCÉ LE PROGRAMME ADAPT POUR REMPLACER LES DRONES TACTIQUES PATROLLER",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:50",
+      "date": "17/04",
+      "timestamp": 1776437419
+    },
+    {
+      "id": "BFMTV_1776436904",
+      "source": "BFMTV",
+      "text": "UNE CROISSANCE À 6% AUX ÉTATS-UNIS ? \"ON VERRA, LE DÉTROIT D'ORMUZ EST OUVERT AUJOURD'HUI\", EXPLIQUE LE SECRÉTAIRE AMÉRICAIN AU COMMERCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:41",
+      "date": "17/04",
+      "timestamp": 1776436904
+    },
+    {
+      "id": "BFMTV_1776436898",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:41",
+      "date": "17/04",
+      "timestamp": 1776436898
+    },
+    {
+      "id": "BFMTV_1776436898",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP REJETTE LA PROPOSITION DES PAYS DE L'OTAN D'AIDER SUR LE DÉTROIT D'ORMUZ ET LEUR DIT DE \"GARDER LEURS DISTANCES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:41",
+      "date": "17/04",
+      "timestamp": 1776436898
+    },
+    {
+      "id": "BFMTV_1776436362",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"LES PRIX DE L'ÉNERGIE DOIVENT BAISSER AUSSI RAPIDEMENT QUE POSSIBLE\", DÉCLARE FRIEDRICH MERZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:32",
+      "date": "17/04",
+      "timestamp": 1776436362
+    },
+    {
+      "id": "BFMTV_1776436225",
+      "source": "BFMTV",
+      "text": "FRIEDRICH MERZ: \"L'ALLEMAGNE EST PRÊTE À APPORTER SA CONTRIBUTION POUR SÉCURISER LA NAVIGATION DANS LE DÉTROIT D'ORMUZ\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:30",
+      "date": "17/04",
+      "timestamp": 1776436225
+    },
+    {
+      "id": "BFMTV_1776435961",
+      "source": "BFMTV",
+      "text": " DÉTROIT D'ORMUZ:  EMMANUEL MACRON DEMANDE LA RÉOUVERTURE \"INCONDITIONNELLE\" ",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:26",
+      "date": "17/04",
+      "timestamp": 1776435961
+    },
+    {
+      "id": "BFMTV_1776435921",
+      "source": "BFMTV",
+      "text": "RÉOUVERTURE DU DÉTROIT D'ORMUZ: \"IL S'AGIT D'AFFIRMER UN PRINCIPE FONDAMENTAL DU DROIT INTERNATIONAL\", JUGE GIORGIA MELONI",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:25",
+      "date": "17/04",
+      "timestamp": 1776435921
+    },
+    {
+      "id": "BFMTV_1776435821",
+      "source": "BFMTV",
+      "text": "SÉCURISATION DU DÉTROIT D'ORMUZ: \"L'EUROPE EST PRÊTE À JOUER SON RÔLE AVEC TOUS SES PARTENAIRES\", AFFIRME GIORGIA MELONI",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:23",
+      "date": "17/04",
+      "timestamp": 1776435821
+    },
+    {
+      "id": "BFMTV_1776435647",
+      "source": "BFMTV",
+      "text": "CAMEROUN: UNE JEUNE FILLE COURT POUR ENLACER LE PAPE LÉON XIV APRÈS UNE MESSE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:20",
+      "date": "17/04",
+      "timestamp": 1776435647
+    },
+    {
+      "id": "BFMTV_1776435478",
+      "source": "BFMTV",
+      "text": "\"LES ÉVÈNEMENTS RÉCENTS SONT ENCOURAGEANTS\", DÉCLARE EMMANUEL MACRON APRÈS LA RÉOUVERTURE DU DÉTROIT D'ORMUZ ANNONCÉE PAR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:17",
+      "date": "17/04",
+      "timestamp": 1776435478
+    },
+    {
+      "id": "BFMTV_1776435254",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: MALGRÉ LA RÉOUVERTURE DU DÉTROIT D'ORMUZ, DONALD TRUMP ANNONCE MAINTENIR LE BLOCUS JUSQU'À UN ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:14",
+      "date": "17/04",
+      "timestamp": 1776435254
+    },
+    {
+      "id": "BFMTV_1776435177",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"AVEC LA FRANCE, LE ROYAUME-UNI PRENDRA LA TÊTE D'UNE MISSION MULTINATIONALE AFIN DE PROTÉGER LA LIBERTÉ DE NAVIGATION DÈS LES CONDITIONS RÉUNIES\", INDIQUE KEIR STARMER",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:12",
+      "date": "17/04",
+      "timestamp": 1776435177
+    },
+    {
+      "id": "BFMTV_1776434819",
+      "source": "BFMTV",
+      "text": "SOMMET SUR LE DÉTROIT D'ORMUZ: \"NOUS NOUS OPPOSONS TOUS À TOUTES RESTRICTIONS (...) QUI ÉQUIVAUDRAIENT À UNE TENTATIVE DE PRIVATISER LE DÉTROIT\", DÉCLARE EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:06",
+      "date": "17/04",
+      "timestamp": 1776434819
+    },
     {
       "id": "BFMTV_1776434170",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "19:48",
       "date": "16/04",
       "timestamp": 1776368926
-    },
-    {
-      "id": "BFMTV_1776368413",
-      "source": "BFMTV",
-      "text": "\"LE RÉGIME IRANIEN NE PEUT PAS TENIR ÉTERNELLEMENT\", AFFIRME BERNARD GUETTA, DÉPUTÉ EUROPÉEN RENEW",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:40",
-      "date": "16/04",
-      "timestamp": 1776368413
-    },
-    {
-      "id": "BFMTV_1776368129",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: “LA STRATÉGIE ÉTAIT MAUVAISE À LA BASE”, AFFIRME LE GÉNÉRAL VINCENT DESPORTES",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:35",
-      "date": "16/04",
-      "timestamp": 1776368129
-    },
-    {
-      "id": "BFMTV_1776367653",
-      "source": "BFMTV",
-      "text": "L’IRAN ACCEPTERAIT DE CÉDER SON URANIUM ENRICHI: “C’EST UNE BONNE NOUVELLE, ON VA QUAND MÊME ATTENDRE LA RÉPONSE DES IRANIENS”, ESTIME L’AMIRAL DIDIER MALETERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:27",
-      "date": "16/04",
-      "timestamp": 1776367653
-    },
-    {
-      "id": "BFMTV_1776367602",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DONALD TRUMP AFFIRME QUE TÉHÉRAN A ACCEPTÉ DE CÉDER SON URANIUM ENRICHI",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:26",
-      "date": "16/04",
-      "timestamp": 1776367602
-    },
-    {
-      "id": "BFMTV_1776366804",
-      "source": "BFMTV",
-      "text": "UNE ENQUÊTE OUVERTE À NEW YORK APRÈS LA VIOLENTE ARRESTATION D'UN HOMME NOIR DANS LE QUARTIER DE BROOKLYN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:13",
-      "date": "16/04",
-      "timestamp": 1776366804
-    },
-    {
-      "id": "BFMTV_1776366044",
-      "source": "BFMTV",
-      "text": " TRÊVE ENTRE ISRAËL ET LE LIBAN: LA RÉACTION DE JEAN-YVES LE DRIAN SUR LES NÉGOCIATIONS EN COURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:00",
-      "date": "16/04",
-      "timestamp": 1776366044
-    },
-    {
-      "id": "BFMTV_1776364732",
-      "source": "BFMTV",
-      "text": " TRÊVE ISRAËL/LIBAN: DONALD TRUMP REVIENT SUR LES NÉGOCIATIONS DE CESSEZ-LE-FEU ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:38",
-      "date": "16/04",
-      "timestamp": 1776364732
-    },
-    {
-      "id": "BFMTV_1776364444",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE CESSEZ-LE-FEU ENTRE LE LIBAN ET ISRAËL \"INCLURA LE HEZBOLLAH\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:34",
-      "date": "16/04",
-      "timestamp": 1776364444
-    },
-    {
-      "id": "BFMTV_1776364231",
-      "source": "BFMTV",
-      "text": "\"NOUS NOUS SOMMES MIS D'ACCORD\": DONALD TRUMP AFFIRME QUE LE CESSEZ-LE-FEU ENTRE LE LIBAN ET ISRAËL \"INCLURA LE HEZBOLLAH\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:30",
-      "date": "16/04",
-      "timestamp": 1776364231
-    },
-    {
-      "id": "BFMTV_1776363762",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"CETTE GUERRE N'AURAIT JAMAIS COMMENCÉ SI J'AVAIS ÉTÉ PRÉSIDENT\", AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:22",
-      "date": "16/04",
-      "timestamp": 1776363762
-    },
-    {
-      "id": "BFMTV_1776362763",
-      "source": "BFMTV",
-      "text": "LE BLOCAGE DU DÉTROIT D'ORMUZ \"SE PASSE TRÈS BIEN\", INDIQUE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:06",
-      "date": "16/04",
-      "timestamp": 1776362763
-    },
-    {
-      "id": "BFMTV_1776362614",
-      "source": "BFMTV",
-      "text": "TRÊVE ISRAËL/LIBAN: \"NOUS NOUS SOMMES MIS D'ACCORD POUR UN CESSEZ-LE-FEU QUI INCLURA LE HEZBOLLAH\", AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:03",
-      "date": "16/04",
-      "timestamp": 1776362614
-    },
-    {
-      "id": "BFMTV_1776362311",
-      "source": "BFMTV",
-      "text": "\"LE MONDE SERAIT EN DANGER\": DONALD TRUMP RÉAFFIRME QUE 'L'IRAN NE PEUT PAS AVOIR L'ARME NUCLÉAIRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:58",
-      "date": "16/04",
-      "timestamp": 1776362311
-    },
-    {
-      "id": "OPEX360_1776361376",
-      "source": "OPEX360",
-      "text": "POUR L’US AIR FORCE, L’EFFICACITÉ ÉNERGÉTIQUE DU BOMBARDIER B-21 RAIDER SERA UN ÉLÉMENT «ESSENTIEL DE SA LÉTALITÉ»",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:42",
-      "date": "16/04",
-      "timestamp": 1776361376
-    },
-    {
-      "id": "BFMTV_1776360811",
-      "source": "BFMTV",
-      "text": "ISRAËL/LIBAN: \"LE DÉSARMEMENT (DU HEZBOLLAH) NE POURRA ÊTRE QUE PROGRESSIF\", AFFIRME JEAN-YVES LE DRIAN, ANCIEN MINISTRE DES AFFAIRES ÉTRANGÈRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:33",
-      "date": "16/04",
-      "timestamp": 1776360811
-    },
-    {
-      "id": "BFMTV_1776359014",
-      "source": "BFMTV",
-      "text": "TRÊVE ENTRE ISRAËL ET LE LIBAN: \"ÇA NE CHANGERA RIEN POUR LE MOMENT\", DÉPLORE CET HABITANT DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:03",
-      "date": "16/04",
-      "timestamp": 1776359014
     }
   ],
   "france": {
