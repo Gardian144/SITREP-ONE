@@ -1,7 +1,37 @@
 {
-  "last_update": "17/04 15:04",
+  "last_update": "17/04 16:13",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776442164",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QUE LES \"ÉTATS-UNIS TRAVAILLERONT AVEC L'IRAN POUR RÉCUPÉRER SON URANIUM ENRICHI\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:09",
+      "date": "17/04",
+      "timestamp": 1776442164
+    },
+    {
+      "id": "BFMTV_1776441430",
+      "source": "BFMTV",
+      "text": "RÉOUVERTURE DU DÉTROIT D'ORMUZ: LE COURS DU BARIL BAISSE DE 12%",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:57",
+      "date": "17/04",
+      "timestamp": 1776441430
+    },
+    {
+      "id": "BFMTV_1776439160",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: DONALD TRUMP PEUT-IL SE METTRE À DOS LES CATHOLIQUES AMÉRICAINS À L’APPROCHE DES MIDTERMS? ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:19",
+      "date": "17/04",
+      "timestamp": 1776439160
+    },
     {
       "id": "BFMTV_1776438169",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "20:26",
       "date": "16/04",
       "timestamp": 1776371160
-    },
-    {
-      "id": "BFMTV_1776369796",
-      "source": "BFMTV",
-      "text": "“S’IL Y A UN VÉRITABLE CESSEZ-LE-FEU, PEUT-ÊTRE QU’IL Y AURA DES CÉLÉBRATIONS”: LES HABITANTS DE BEYROUTH TOUJOURS DANS LE DOUTE, MALGRÉ LA TRÊVE DE DIX JOURS AVEC ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:03",
-      "date": "16/04",
-      "timestamp": 1776369796
-    },
-    {
-      "id": "BFMTV_1776369124",
-      "source": "BFMTV",
-      "text": "LE BRAS DE FER CONTINUE ENTRE DONALD TRUMP ET LE PAPE LÉON XIV",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:52",
-      "date": "16/04",
-      "timestamp": 1776369124
-    },
-    {
-      "id": "BFMTV_1776368926",
-      "source": "BFMTV",
-      "text": "IRAN: MOJTABA KHAMENEI EST \"BLESSÉ ET DÉFIGURÉ\", ANNONCE PETE HEGSETH, SECRÉTAIRE AMÉRICAIN À LA DÉFENSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:48",
-      "date": "16/04",
-      "timestamp": 1776368926
     }
   ],
   "france": {
