@@ -1,7 +1,67 @@
 {
-  "last_update": "17/04 17:09",
+  "last_update": "17/04 18:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776448691",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE LIBAN TRAVAILLE À \"UN ACCORD PERMANENT\" APRÈS LE CESSEZ-LE-FEU AVEC ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:58",
+      "date": "17/04",
+      "timestamp": 1776448691
+    },
+    {
+      "id": "BFMTV_1776448552",
+      "source": "BFMTV",
+      "text": "\"PELICOT FLAMAND\": UN HOMME CONDAMNÉ EN BELGIQUE À DIX ANS DE PRISON POUR AVOIR DROGUÉ, VIOLÉ ET FILMÉ EN SECRET PLUSIEURS EX-COMPAGNES",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:55",
+      "date": "17/04",
+      "timestamp": 1776448552
+    },
+    {
+      "id": "OPEX360_1776447967",
+      "source": "OPEX360",
+      "text": "LE PORTE-AVIONS VALIDE LA CAPACITÉ À LANCER N’IMPORTE QUEL AÉRONEF PENDANT UN RAVITAILLEMENT À LA MER",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:46",
+      "date": "17/04",
+      "timestamp": 1776447967
+    },
+    {
+      "id": "BFMTV_1776447007",
+      "source": "BFMTV",
+      "text": "MADE IN MONTEBOURG - SOMMET SUR LE DÉTROIT D'ORMUZ: “IL EST GRAND TEMPS QUE LES EUROPÉENS DÉCIDENT DE DURCIR LE BRAS DE FER AVEC LES AMÉRICAINS QUI NE SONT PAS NOS AMIS”, AFFIRME ARNAUD MONTEBOURG",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:30",
+      "date": "17/04",
+      "timestamp": 1776447007
+    },
+    {
+      "id": "BFMTV_1776447006",
+      "source": "BFMTV",
+      "text": "NEW YORK: UN POLICIER À CHEVAL SE LANCE DANS UNE COURSE-POURSUITE   ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:30",
+      "date": "17/04",
+      "timestamp": 1776447006
+    },
+    {
+      "id": "BFMTV_1776445607",
+      "source": "BFMTV",
+      "text": "RÉOUVERTURE DU DÉTROIT D'ORMUZ: \"UN PAS DANS LA BONNE DIRECTION\", SELON ANTONIO GUTERRES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:06",
+      "date": "17/04",
+      "timestamp": 1776445607
+    },
     {
       "id": "BFMTV_1776445466",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "04:42",
       "date": "17/04",
       "timestamp": 1776400932
-    },
-    {
-      "id": "BFMTV_1776400874",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE CALME EST REVENU À LA FRONTIÈRE ISRAÉLO-LIBANAISE, CE VENDREDI MATIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:41",
-      "date": "17/04",
-      "timestamp": 1776400874
-    },
-    {
-      "id": "BFMTV_1776400730",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE LIBANAISE ACCUSE ISRAËL D'AVOIR VIOLÉ LE CESSEZ-LE-FEU DÉNONÇANT DES \"ACTES D'AGRESSION\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:38",
-      "date": "17/04",
-      "timestamp": 1776400730
-    },
-    {
-      "id": "BFMTV_1776400417",
-      "source": "BFMTV",
-      "text": "LE BRIEF DU GÉNÉRAL - LA CHINE AURAIT FOURNI DU MATÉRIEL MILITAIRE À L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:33",
-      "date": "17/04",
-      "timestamp": 1776400417
-    },
-    {
-      "id": "BFMTV_1776377532",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES TIRS NOURRIS DANS LA BANLIEUE SUD DE BEYROUTH AU DÉBUT DU CESSEZ-LE-FEU DE 10 JOURS AVEC ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:12",
-      "date": "16/04",
-      "timestamp": 1776377532
-    },
-    {
-      "id": "BFMTV_1776376744",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN SALUE L'ACCORD DE CESSEZ-LE-FEU AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:59",
-      "date": "16/04",
-      "timestamp": 1776376744
-    },
-    {
-      "id": "BFMTV_1776376562",
-      "source": "BFMTV",
-      "text": "“L’ARMÉE LIBANAISE ÉTAIT TRÈS PROCHE DU HEZBOLLAH”, NOTE PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL ",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:56",
-      "date": "16/04",
-      "timestamp": 1776376562
     }
   ],
   "france": {
