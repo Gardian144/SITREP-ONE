@@ -1,7 +1,87 @@
 {
-  "last_update": "17/04 18:05",
+  "last_update": "17/04 19:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776453850",
+      "source": "BFMTV",
+      "text": "L’IRAN DÉMENT AVOIR ACCEPTÉ LE TRANSFERT DE SON URANIUM ENRICHI, SELON LE PORTE-PAROLE DE LA DIPLOMATIE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:24",
+      "date": "17/04",
+      "timestamp": 1776453850
+    },
+    {
+      "id": "BFMTV_1776452328",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LE RAPPEUR D4VD ARRÊTÉ POUR LE MEURTRE D’UNE ADOLESCENTE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:58",
+      "date": "17/04",
+      "timestamp": 1776452328
+    },
+    {
+      "id": "BFMTV_1776451980",
+      "source": "BFMTV",
+      "text": "RÉOUVERTURE DU DÉTROIT D'ORMUZ: “IL Y A UNE DYNAMIQUE QUI EST PLUTÔT POSITIVE MAIS IL SUFFIT D’UN GRAIN DE SABLE DANS LE DÉSERT IRANIEN POUR GRIPPER LA MACHINE”, NOTE ANTOINE BASBOUS, DIRECTEUR DE L’OBSERVATOIRE DES PAYS ARABES",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:53",
+      "date": "17/04",
+      "timestamp": 1776451980
+    },
+    {
+      "id": "BFMTV_1776451170",
+      "source": "BFMTV",
+      "text": "LA TRANSFERT D'UN PRISONNIER TRANSGENRE DANS LE QUARTIER DES FEMMES FAIT POLÉMIQUE EN ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:39",
+      "date": "17/04",
+      "timestamp": 1776451170
+    },
+    {
+      "id": "BFMTV_1776451057",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE L’IRAN ET LES ÉTATS-UNIS: LES IRANIENS SERAIENT CONTRE LE FAIT DE CÉDER LEUR URANIUM ENRICHI AUX AMÉRICAINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:37",
+      "date": "17/04",
+      "timestamp": 1776451057
+    },
+    {
+      "id": "BFMTV_1776450469",
+      "source": "BFMTV",
+      "text": "RÉOUVERTURE DU DÉTROIT D'ORMUZ: DONALD TRUMP AFFIRME QUE LE BLOCUS SUR LES PORTS IRANIENS \"RESTERA PLEINEMENT EN VIGUEUR\" JUSQU'À UN ACCORD AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:27",
+      "date": "17/04",
+      "timestamp": 1776450469
+    },
+    {
+      "id": "BFMTV_1776450107",
+      "source": "BFMTV",
+      "text": "SOUDAN DU SUD: \"LA SITUATION SE DÉTÉRIORE SUR LES PLANS POLITIQUE, SÉCURITAIRE ET ÉCONOMIQUE\", ALERTE LA FRANCE À L'ONU",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:21",
+      "date": "17/04",
+      "timestamp": 1776450107
+    },
+    {
+      "id": "BFMTV_1776449498",
+      "source": "BFMTV",
+      "text": "DES DIPLOMATES IRANIENS DÉNONCENT UNE FAUSSE REPRÉSENTATION DES NÉGOCIATIONS, SELON REUTERS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:11",
+      "date": "17/04",
+      "timestamp": 1776449498
+    },
     {
       "id": "BFMTV_1776448691",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "05:10",
       "date": "17/04",
       "timestamp": 1776402609
-    },
-    {
-      "id": "BFMTV_1776402531",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE EXPLOSION ENTENDUE À LA FRONTIÈRE ENTRE LE LIBAN ET ISRAËL MALGRÉ LE CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:08",
-      "date": "17/04",
-      "timestamp": 1776402531
-    },
-    {
-      "id": "BFMTV_1776402103",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP QUALIFIE LA GUERRE EN IRAN DE \"PETIT DÉTOUR\" PAR UN \"CHARMANT PAYS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:01",
-      "date": "17/04",
-      "timestamp": 1776402103
-    },
-    {
-      "id": "BFMTV_1776401957",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PARTIR OU RESTER, LE DILEMME DES SINISTRÉS DE BEYROUTH, AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:59",
-      "date": "17/04",
-      "timestamp": 1776401957
-    },
-    {
-      "id": "BFMTV_1776401932",
-      "source": "BFMTV",
-      "text": "UNE CONFÉRENCE POUR LA SÉCURISATION DU DÉTROIT D'ORMUZ RASSEMBLANT UNE TRENTAINE DE PAYS EST ORGANISÉ CE VENDREDI APRÈS-MIDI À L'ÉLYSÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:58",
-      "date": "17/04",
-      "timestamp": 1776401932
-    },
-    {
-      "id": "BFMTV_1776401908",
-      "source": "BFMTV",
-      "text": "DES PROBLÈMES DE RAVITAILLEMENT EN NOURRITURE À BORD DU PORTE-AVIONS USS GERALD R. FORD SELON LES MÉDIAS AMÉRICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:58",
-      "date": "17/04",
-      "timestamp": 1776401908
-    },
-    {
-      "id": "BFMTV_1776401422",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE DÉTROIT D'ORMUZ TOUJOURS AU CŒUR DU BRAS DE FER ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:50",
-      "date": "17/04",
-      "timestamp": 1776401422
-    },
-    {
-      "id": "BFMTV_1776401386",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QU'UN ACCORD AVEC L'IRAN EST \"TRÈS PROCHE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:49",
-      "date": "17/04",
-      "timestamp": 1776401386
-    },
-    {
-      "id": "BFMTV_1776400932",
-      "source": "BFMTV",
-      "text": "AU LIBAN, LA JOIE APRÈS L'ENTRÉE EN VIGUEUR DU CESSEZ-LE-FEU",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:42",
-      "date": "17/04",
-      "timestamp": 1776400932
     }
   ],
   "france": {
