@@ -1,7 +1,27 @@
 {
-  "last_update": "18/04 08:27",
+  "last_update": "18/04 09:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776503512",
+      "source": "BFMTV",
+      "text": "LE SOULAGEMENT APRÈS LA LIBÉRATION DE L'OCTOGÉNAIRE FRANÇAISE ARRÊTÉE PAR L'ICE",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:11",
+      "date": "18/04",
+      "timestamp": 1776503512
+    },
+    {
+      "id": "BFMTV_1776501641",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE RÉGIME IRANIEN DIT DE NOUVEAU AVOIR FERMÉ LE DÉTROIT D'ORMUZ EN RÉPONSE AU BLOCUS AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:40",
+      "date": "18/04",
+      "timestamp": 1776501641
+    },
     {
       "id": "BFMTV_1776500546",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "11:09",
       "date": "17/04",
       "timestamp": 1776424146
-    },
-    {
-      "id": "OPEX360_1776422995",
-      "source": "OPEX360",
-      "text": "LE RAFALE TESTE SA CAPACITÉ À TIRER DES ROQUETTES À GUIDAGE LASER DE 68 MM POUR ABATTRE DES DRONES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:49",
-      "date": "17/04",
-      "timestamp": 1776422995
-    },
-    {
-      "id": "BFMTV_1776422615",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:43",
-      "date": "17/04",
-      "timestamp": 1776422615
     }
   ],
   "france": {
