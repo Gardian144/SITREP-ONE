@@ -1,7 +1,97 @@
 {
-  "last_update": "18/04 13:01",
+  "last_update": "18/04 14:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776520850",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DIT QUE L'IRAN \"NE PEUT PAS FAIRE DE CHANTAGE\" AUX ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:00",
+      "date": "18/04",
+      "timestamp": 1776520850
+    },
+    {
+      "id": "BFMTV_1776520698",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DIT QUE LES ÉTATS-UNIS VONT \"RAMENER LA TOTALITÉ\" DE L'URANIUM IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:58",
+      "date": "18/04",
+      "timestamp": 1776520698
+    },
+    {
+      "id": "BFMTV_1776520474",
+      "source": "BFMTV",
+      "text": "DES BATEAUX IRANIENS ONT OUVERT LE FEU SUR UN PÉTROLIER DANS LE DÉTROIT D'ORMUZ ",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:54",
+      "date": "18/04",
+      "timestamp": 1776520474
+    },
+    {
+      "id": "BFMTV_1776519726",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: LES TIREURS AURAIENT CRIÉ \"HEZBOLLAH\" AVANT D’OUVRIR LE FEU SUR LES CASQUES BLEUS, SELON UNE SOURCE AU SEIN DE LA FINUL",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:42",
+      "date": "18/04",
+      "timestamp": 1776519726
+    },
+    {
+      "id": "BFMTV_1776519368",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: \"UN ACTE DE GUERRE CONTRE LA FINUL ET SPÉCIFIQUEMENT CONTRE LE CONTINGENT FRANÇAIS\", JUGE LE GÉNÉRAL PHILIPPE SIDOS, ANCIEN CHEF DE LIAISON DE LA FINUL",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:36",
+      "date": "18/04",
+      "timestamp": 1776519368
+    },
+    {
+      "id": "BFMTV_1776518817",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: \"L'ENSEMBLE DE LA VILLE PARTAGE LA PEINE DE LA FAMILLE ET DES FRÈRES D'ARMES\", RÉAGIT LE MAIRE DE MONTAUBAN",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:26",
+      "date": "18/04",
+      "timestamp": 1776518817
+    },
+    {
+      "id": "BFMTV_1776518438",
+      "source": "BFMTV",
+      "text": "ILS ONT \"OUVERT LE FEU\" SANS AVERTISSEMENT: UN PÉTROLIER ESSUIE DES TIRS DE BATEAUX IRANIENS DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:20",
+      "date": "18/04",
+      "timestamp": 1776518438
+    },
+    {
+      "id": "OPEX360_1776517753",
+      "source": "OPEX360",
+      "text": "LIBAN : UN MILITAIRE DU 17E RÉGIMENT DU GÉNIE PARACHUTISTE A ÉTÉ TUÉ LORS D’UNE ATTAQUE ATTRIBUÉE AU HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:09",
+      "date": "18/04",
+      "timestamp": 1776517753
+    },
+    {
+      "id": "BFMTV_1776517267",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: BFMTV AUPRÈS D'UN CONVOI DES NATIONS UNIES DANS LE SUD DU PAYS",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:01",
+      "date": "18/04",
+      "timestamp": 1776517267
+    },
     {
       "id": "BFMTV_1776517180",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "14:32",
       "date": "17/04",
       "timestamp": 1776436362
-    },
-    {
-      "id": "BFMTV_1776436225",
-      "source": "BFMTV",
-      "text": "FRIEDRICH MERZ: \"L'ALLEMAGNE EST PRÊTE À APPORTER SA CONTRIBUTION POUR SÉCURISER LA NAVIGATION DANS LE DÉTROIT D'ORMUZ\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:30",
-      "date": "17/04",
-      "timestamp": 1776436225
-    },
-    {
-      "id": "BFMTV_1776435961",
-      "source": "BFMTV",
-      "text": " DÉTROIT D'ORMUZ:  EMMANUEL MACRON DEMANDE LA RÉOUVERTURE \"INCONDITIONNELLE\" ",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:26",
-      "date": "17/04",
-      "timestamp": 1776435961
-    },
-    {
-      "id": "BFMTV_1776435921",
-      "source": "BFMTV",
-      "text": "RÉOUVERTURE DU DÉTROIT D'ORMUZ: \"IL S'AGIT D'AFFIRMER UN PRINCIPE FONDAMENTAL DU DROIT INTERNATIONAL\", JUGE GIORGIA MELONI",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:25",
-      "date": "17/04",
-      "timestamp": 1776435921
-    },
-    {
-      "id": "BFMTV_1776435821",
-      "source": "BFMTV",
-      "text": "SÉCURISATION DU DÉTROIT D'ORMUZ: \"L'EUROPE EST PRÊTE À JOUER SON RÔLE AVEC TOUS SES PARTENAIRES\", AFFIRME GIORGIA MELONI",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:23",
-      "date": "17/04",
-      "timestamp": 1776435821
-    },
-    {
-      "id": "BFMTV_1776435647",
-      "source": "BFMTV",
-      "text": "CAMEROUN: UNE JEUNE FILLE COURT POUR ENLACER LE PAPE LÉON XIV APRÈS UNE MESSE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:20",
-      "date": "17/04",
-      "timestamp": 1776435647
-    },
-    {
-      "id": "BFMTV_1776435478",
-      "source": "BFMTV",
-      "text": "\"LES ÉVÈNEMENTS RÉCENTS SONT ENCOURAGEANTS\", DÉCLARE EMMANUEL MACRON APRÈS LA RÉOUVERTURE DU DÉTROIT D'ORMUZ ANNONCÉE PAR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:17",
-      "date": "17/04",
-      "timestamp": 1776435478
-    },
-    {
-      "id": "BFMTV_1776435254",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: MALGRÉ LA RÉOUVERTURE DU DÉTROIT D'ORMUZ, DONALD TRUMP ANNONCE MAINTENIR LE BLOCUS JUSQU'À UN ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:14",
-      "date": "17/04",
-      "timestamp": 1776435254
-    },
-    {
-      "id": "BFMTV_1776435177",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"AVEC LA FRANCE, LE ROYAUME-UNI PRENDRA LA TÊTE D'UNE MISSION MULTINATIONALE AFIN DE PROTÉGER LA LIBERTÉ DE NAVIGATION DÈS LES CONDITIONS RÉUNIES\", INDIQUE KEIR STARMER",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:12",
-      "date": "17/04",
-      "timestamp": 1776435177
-    },
-    {
-      "id": "BFMTV_1776434819",
-      "source": "BFMTV",
-      "text": "SOMMET SUR LE DÉTROIT D'ORMUZ: \"NOUS NOUS OPPOSONS TOUS À TOUTES RESTRICTIONS (...) QUI ÉQUIVAUDRAIENT À UNE TENTATIVE DE PRIVATISER LE DÉTROIT\", DÉCLARE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:06",
-      "date": "17/04",
-      "timestamp": 1776434819
     }
   ],
   "france": {
