@@ -1,7 +1,37 @@
 {
-  "last_update": "18/04 10:06",
+  "last_update": "18/04 11:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776509462",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP \"TWEETE ET PARLE BEAUCOUP\", SELON LE VICE-MINISTRE IRANIEN DES AFFAIRES ÉTRANGÈRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:51",
+      "date": "18/04",
+      "timestamp": 1776509462
+    },
+    {
+      "id": "BFMTV_1776508186",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT REPRENDRE \"LE STRICT CONTRÔLE\" DU DÉTROIT D'ORMUZ FACE AU MAINTIEN DU BLOCUS AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:29",
+      "date": "18/04",
+      "timestamp": 1776508186
+    },
+    {
+      "id": "BFMTV_1776507527",
+      "source": "BFMTV",
+      "text": "L'IRAN ASSURE QUE LE DÉTROIT D'ORMUZ RESTERA \"SOUS CONTRÔLE STRICT\" TANT QUE LES ÉTATS-UNIS \"NE LÈVERONT PAS LES RESTRICTIONS PESANT SUR LIBERTÉ DE CIRCULATION DES NAVIRES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:18",
+      "date": "18/04",
+      "timestamp": 1776507527
+    },
     {
       "id": "OPEX360_1776506610",
       "source": "OPEX360",
@@ -971,36 +1001,6 @@
       "time": "12:05",
       "date": "17/04",
       "timestamp": 1776427522
-    },
-    {
-      "id": "BFMTV_1776427411",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PREMIER MINISTRE BRITANNIQUE KEIR STARMER REÇU PAR EMMANUEL MACRON À L'ÉLYSÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:03",
-      "date": "17/04",
-      "timestamp": 1776427411
-    },
-    {
-      "id": "BFMTV_1776426442",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PREMIER MINISTRE BRITANNIQUE KEIR STARMER REÇU PAR EMMANUEL MACRON À L'ÉLYSÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:47",
-      "date": "17/04",
-      "timestamp": 1776426442
-    },
-    {
-      "id": "BFMTV_1776425643",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: TROIS PÉTROLIERS IRANIENS SOUS SANCTIONS AMÉRICAINES ONT QUITTÉ LE DÉTROIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:34",
-      "date": "17/04",
-      "timestamp": 1776425643
     }
   ],
   "france": {
