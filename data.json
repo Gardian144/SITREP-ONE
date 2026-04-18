@@ -1,7 +1,37 @@
 {
-  "last_update": "18/04 19:09",
+  "last_update": "18/04 19:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776540641",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"IL FALLAIT L'INTERPRÉTER COMME UN OUTIL DE DIALOGUE ET NON UN OBJECTIF EN TANT QUE TEL\", EXPLIQUE LOVA RINEL, CHERCHEURE SPÉCIALISTE DE LA DISSUASION NUCLÉAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:30",
+      "date": "18/04",
+      "timestamp": 1776540641
+    },
+    {
+      "id": "BFMTV_1776540007",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: \"UNE REPRISE DES COMBATS SEMBLE TOUT À FAIT PROBABLE\", EXPLIQUE ANTHONY DABILA, CHERCHEUR ASSOCIÉ À L'INSTITUT D'ÉTUDES DE STRATÉGIE ET DE DÉFENSE À LYON III",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:20",
+      "date": "18/04",
+      "timestamp": 1776540007
+    },
+    {
+      "id": "BFMTV_1776539312",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"TOUT NAVIRE S'APPROCHANT DU DÉTROIT SERA PRIS POUR CIBLE\" (GARDIENS DE LA RÉVOLUTION)",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:08",
+      "date": "18/04",
+      "timestamp": 1776539312
+    },
     {
       "id": "BFMTV_1776538929",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "19:56",
       "date": "17/04",
       "timestamp": 1776455770
-    },
-    {
-      "id": "BFMTV_1776455444",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN DÉMENT AVOIR ACCEPTÉ LE TRANSFERT DE SON URANIUM ENRICHI",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:50",
-      "date": "17/04",
-      "timestamp": 1776455444
-    },
-    {
-      "id": "BFMTV_1776455273",
-      "source": "BFMTV",
-      "text": "“LA FRANCE EST SPÉCIALISÉE DANS LE DÉMINAGE, ON A UNE FORCE D’ACTION TRÈS IMPORTANTE ET TRÈS ENTRAÎNÉE POUR CE GENRE D’OPÉRATION”, RECONNAÎT THOMAS COUVIN, ANCIEN PLONGEUR-DÉMINEUR DE LA MARINE NATIONALE ",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:47",
-      "date": "17/04",
-      "timestamp": 1776455273
-    },
-    {
-      "id": "BFMTV_1776453850",
-      "source": "BFMTV",
-      "text": "L’IRAN DÉMENT AVOIR ACCEPTÉ LE TRANSFERT DE SON URANIUM ENRICHI, SELON LE PORTE-PAROLE DE LA DIPLOMATIE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:24",
-      "date": "17/04",
-      "timestamp": 1776453850
     }
   ],
   "france": {
