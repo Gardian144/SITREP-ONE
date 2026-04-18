@@ -1,7 +1,27 @@
 {
-  "last_update": "18/04 21:18",
+  "last_update": "18/04 21:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776549337",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION IRANIENS ANNONCENT QUE LES NAVIRES S'APPROCHANT D'ORMUZ SERONT \"PRIS POUR CIBLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:55",
+      "date": "18/04",
+      "timestamp": 1776549337
+    },
+    {
+      "id": "BFMTV_1776549140",
+      "source": "BFMTV",
+      "text": "REPRISE ÉVENTUELLE DE LA GUERRE EN IRAN: \"TRUMP FRAPPERA TRÈS FORT S'IL N'OBTIENT PAS CE QU'IL VEUT\", ESTIME ROMUALD SCIORA, CHERCHEUR ASSOCIÉ À L’IRIS ET DIRECTEUR DE L’OBSERVATOIRE POLITIQUE ET GÉOSTRATÉGIQUE DES ÉTATS-UNIS DE L’IRIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:52",
+      "date": "18/04",
+      "timestamp": 1776549140
+    },
     {
       "id": "BFMTV_1776546881",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "21:24",
       "date": "17/04",
       "timestamp": 1776461045
-    },
-    {
-      "id": "BFMTV_1776460513",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE \"DE TRÈS BON ÉCHANGES\" ONT EU LIEU AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:15",
-      "date": "17/04",
-      "timestamp": 1776460513
-    },
-    {
-      "id": "BFMTV_1776460222",
-      "source": "BFMTV",
-      "text": "L'IRAN DÉMENT AVOIR ACCEPTÉ LE TRANSFERT DE SON URANIUM ENRICHI APRÈS LES DÉCLARATIONS DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:10",
-      "date": "17/04",
-      "timestamp": 1776460222
     }
   ],
   "france": {
