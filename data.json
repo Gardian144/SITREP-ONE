@@ -1,7 +1,17 @@
 {
-  "last_update": "18/04 17:22",
+  "last_update": "18/04 18:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776533391",
+      "source": "BFMTV",
+      "text": "\"IL ÉTAIT UN MILITAIRE D'EXCEPTION\": LE CHEF DU RÉGIMENT DU SOLDAT FRANÇAIS TUÉ AU LIBAN ANNONCE UN HOMMAGE DANS LES PROCHAINS JOURS",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:29",
+      "date": "18/04",
+      "timestamp": 1776533391
+    },
     {
       "id": "BFMTV_1776531896",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "18:11",
       "date": "17/04",
       "timestamp": 1776449498
-    },
-    {
-      "id": "BFMTV_1776448691",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE LIBAN TRAVAILLE À \"UN ACCORD PERMANENT\" APRÈS LE CESSEZ-LE-FEU AVEC ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:58",
-      "date": "17/04",
-      "timestamp": 1776448691
     }
   ],
   "france": {
