@@ -1,7 +1,67 @@
 {
-  "last_update": "18/04 15:46",
+  "last_update": "18/04 16:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776529517",
+      "source": "BFMTV",
+      "text": "PEUT-ON VRAIMENT PARLER D'UN CESSEZ-LE-FEU DANS LE SUD DU LIBAN?",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:25",
+      "date": "18/04",
+      "timestamp": 1776529517
+    },
+    {
+      "id": "BFMTV_1776529367",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: \"IL FAUT QUE LES AUTORITÉS LIBANAISES PRENNENT LEURS RESPONSABILITÉS DANS LA RÉGION\", AFFIRME LE GÉNÉRAL PATRICK DUTARTRE, GÉNÉRAL DE L'ARMÉE DE L'AIR ET ANCIEN LEADER DE LA PATROUILLE DE FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:22",
+      "date": "18/04",
+      "timestamp": 1776529367
+    },
+    {
+      "id": "BFMTV_1776529133",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: “CE SONT DES SOLDATS FRANÇAIS QUI ONT ÉTÉ VISÉS” CAR “ILS SONT PARMI LES PLUS ACTIFS” DANS LA RÉGION, ESTIME LE GÉNÉRAL PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:18",
+      "date": "18/04",
+      "timestamp": 1776529133
+    },
+    {
+      "id": "BFMTV_1776528667",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS DE LA FINUL TUÉ DANS UNE EMBUSCADE AU LIBAN: QUE S'EST-IL PASSÉ?",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:11",
+      "date": "18/04",
+      "timestamp": 1776528667
+    },
+    {
+      "id": "BFMTV_1776527313",
+      "source": "BFMTV",
+      "text": "FERMETURE DU DÉTROIT D'ORMUZ: QUE FAUT-IL COMPRENDRE DES DERNIÈRES DÉCLARATIONS DE DONALD TRUMP?",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:48",
+      "date": "18/04",
+      "timestamp": 1776527313
+    },
+    {
+      "id": "BFMTV_1776527236",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: LA MINISTRE DÉLÉGUÉE AUX ARMÉES DEMANDE QUE \"TOUTE LA LUMIÈRE SOIT FAITE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:47",
+      "date": "18/04",
+      "timestamp": 1776527236
+    },
     {
       "id": "BFMTV_1776526988",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "17:46",
       "date": "17/04",
       "timestamp": 1776447967
-    },
-    {
-      "id": "BFMTV_1776447007",
-      "source": "BFMTV",
-      "text": "MADE IN MONTEBOURG - SOMMET SUR LE DÉTROIT D'ORMUZ: “IL EST GRAND TEMPS QUE LES EUROPÉENS DÉCIDENT DE DURCIR LE BRAS DE FER AVEC LES AMÉRICAINS QUI NE SONT PAS NOS AMIS”, AFFIRME ARNAUD MONTEBOURG",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:30",
-      "date": "17/04",
-      "timestamp": 1776447007
-    },
-    {
-      "id": "BFMTV_1776447006",
-      "source": "BFMTV",
-      "text": "NEW YORK: UN POLICIER À CHEVAL SE LANCE DANS UNE COURSE-POURSUITE   ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:30",
-      "date": "17/04",
-      "timestamp": 1776447006
-    },
-    {
-      "id": "BFMTV_1776445607",
-      "source": "BFMTV",
-      "text": "RÉOUVERTURE DU DÉTROIT D'ORMUZ: \"UN PAS DANS LA BONNE DIRECTION\", SELON ANTONIO GUTERRES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:06",
-      "date": "17/04",
-      "timestamp": 1776445607
-    },
-    {
-      "id": "BFMTV_1776445466",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QU'UN ACCORD AVEC L'IRAN EST \"TRÈS PROCHE\" ET QU'IL N'Y A PAS DE \"POINTS DE BLOCAGE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:04",
-      "date": "17/04",
-      "timestamp": 1776445466
-    },
-    {
-      "id": "OPEX360_1776444858",
-      "source": "OPEX360",
-      "text": "APRÈS DES ATTAQUES DE DRONES UKRAINIENS, MOSCOU MENACE LES PAYS BALTES ET LA FINLANDE EN INVOQUANT LA «LÉGITIME DÉFENSE»",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:54",
-      "date": "17/04",
-      "timestamp": 1776444858
-    },
-    {
-      "id": "BFMTV_1776443853",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QU'UN ACCORD AVEC L'IRAN EST \"TRÈS PROCHE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:37",
-      "date": "17/04",
-      "timestamp": 1776443853
     }
   ],
   "france": {
