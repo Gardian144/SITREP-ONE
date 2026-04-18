@@ -1,7 +1,87 @@
 {
-  "last_update": "18/04 11:49",
+  "last_update": "18/04 13:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776517180",
+      "source": "BFMTV",
+      "text": "\"JE NE LE REGRETTE PAS\": MARIA CORINA MACHADO ASSUME D'AVOIR DONNÉ SON PRIX NOBEL DE LA PAIX À DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:59",
+      "date": "18/04",
+      "timestamp": 1776517180
+    },
+    {
+      "id": "BFMTV_1776516690",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON DEMANDE AU LIBAN DE \"FAIRE TOUTE LA LUMIÈRE\" SUR L'ATTAQUE \"INACCEPTABLE\" CONTRE DES CASQUES BLEUS",
+      "urgent": true,
+      "france_related": true,
+      "time": "12:51",
+      "date": "18/04",
+      "timestamp": 1776516690
+    },
+    {
+      "id": "BFMTV_1776516043",
+      "source": "BFMTV",
+      "text": "LE VISAGE DU SERGENT-CHEF FLORIAN MONTORIO TUÉ DANS \"UNE EMBUSCADE\" DANS LE SUD DU LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:40",
+      "date": "18/04",
+      "timestamp": 1776516043
+    },
+    {
+      "id": "BFMTV_1776515912",
+      "source": "BFMTV",
+      "text": "UN SOLDAT FRANÇAIS A ÉTÉ TUÉ \"DANS UNE EMBUSCADE\" DANS LE SUD DU LIBAN, EMMANUEL MACRON ACCUSE LE HEZBOLLAH",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:38",
+      "date": "18/04",
+      "timestamp": 1776515912
+    },
+    {
+      "id": "BFMTV_1776515196",
+      "source": "BFMTV",
+      "text": "LE SOLDAT FRANÇAIS TUÉ AU LIBAN A ÉTÉ TOUCHÉ PAR \"UN TIR DIRECT\" DANS \"UNE EMBUSCADE\", INDIQUE LA MINISTRE DES ARMÉES CATHERINE VAUTRIN ",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:26",
+      "date": "18/04",
+      "timestamp": 1776515196
+    },
+    {
+      "id": "OPEX360_1776514649",
+      "source": "OPEX360",
+      "text": "L’AVION DE TRANSPORT A400M ATLAS POURRA BIENTÔT LANCER DES MISSILES DE CROISIÈRE À LONGUE PORTÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:17",
+      "date": "18/04",
+      "timestamp": 1776514649
+    },
+    {
+      "id": "BFMTV_1776514000",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN SOLDAT FRANÇAIS TUÉ DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "12:06",
+      "date": "18/04",
+      "timestamp": 1776514000
+    },
+    {
+      "id": "BFMTV_1776513461",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES CASQUES BLEUS FRANÇAIS ATTAQUÉS AU LIBAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "11:57",
+      "date": "18/04",
+      "timestamp": 1776513461
+    },
     {
       "id": "BFMTV_1776512568",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "14:06",
       "date": "17/04",
       "timestamp": 1776434819
-    },
-    {
-      "id": "BFMTV_1776434170",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: MALGRÉ LA RÉOUVERTURE DU DÉTROIT D'ORMUZ, DONALD TRUMP ANNONCE MAINTENIR LE BLOCUS JUSQU'À UN ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:56",
-      "date": "17/04",
-      "timestamp": 1776434170
-    },
-    {
-      "id": "BFMTV_1776433534",
-      "source": "BFMTV",
-      "text": "\"DES VIOLATIONS COMMISES SOUS NOS YEUX\" : LE RESPECT DU DROIT INTERNATIONAL \"IMPORTE PLUS QUE JAMAIS\", MARTÈLE LE CHEF DE L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:45",
-      "date": "17/04",
-      "timestamp": 1776433534
-    },
-    {
-      "id": "BFMTV_1776433178",
-      "source": "BFMTV",
-      "text": "RÉOUVERTURE DU DÉTROIT D'ORMUZ: DONALD TRUMP INDIQUE QUE \"LE BLOCUS NAVAL RESTERA EN VIGUEUR\" JUSQU'À LA FIN DES NÉGOCIATIONS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:39",
-      "date": "17/04",
-      "timestamp": 1776433178
-    },
-    {
-      "id": "BFMTV_1776431923",
-      "source": "BFMTV",
-      "text": "\"MERCI !\": DONALD TRUMP RÉAGIT À LA RÉOUVERTURE DU DÉTROIT D'ORMUZ ANNONCÉE PAR LE MINISTRE IRANIEN DES AFFAIRES ÉTRANGÈRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:18",
-      "date": "17/04",
-      "timestamp": 1776431923
-    },
-    {
-      "id": "BFMTV_1776431786",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES SOLDATS AMÉRICAINS FONT FACE À DES PROBLÈMES DE RAVITAILLEMENT DE NOURRITURE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:16",
-      "date": "17/04",
-      "timestamp": 1776431786
-    },
-    {
-      "id": "BFMTV_1776431725",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ANNONCE QUE LE DÉTROIT D'ORMUZ EST \"ENTIÈREMENT OUVERT\" PENDANT LE CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:15",
-      "date": "17/04",
-      "timestamp": 1776431725
-    },
-    {
-      "id": "BFMTV_1776430302",
-      "source": "BFMTV",
-      "text": "LE MINISTRE IRANIEN DES AFFAIRES ÉTRANGÈRES ANNONCE L'OUVERTURE TOTALE DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:51",
-      "date": "17/04",
-      "timestamp": 1776430302
-    },
-    {
-      "id": "BFMTV_1776429457",
-      "source": "BFMTV",
-      "text": "\"J'ESPÈRE QUE LA JUSTICE NE VA PAS LA TRAHIR\": LE PÈRE DE CYANE PANINE, MORTE DANS L'INCENDIE DE CRANS-MONTANA, SE CONFIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:37",
-      "date": "17/04",
-      "timestamp": 1776429457
     }
   ],
   "france": {
