@@ -1,7 +1,27 @@
 {
-  "last_update": "19/04 16:39",
+  "last_update": "19/04 17:21",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776618754",
+      "source": "BFMTV",
+      "text": "REPRISE DES NÉGOCIATIONS AU PAKISTAN: L'IRAN N'A PAS ENCORE DÉCIDÉ DE SA PARTICIPATION AUX DISCUSSIONS D'ISLAMABAD AVEC WASHINGTON",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:12",
+      "date": "19/04",
+      "timestamp": 1776618754
+    },
+    {
+      "id": "BFMTV_1776617327",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: PLUSIEURS NAVIRES ONT ÉTÉ VISÉS PAR DES TIRS IRANIENS CE SAMEDI 18 AVRIL",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:48",
+      "date": "19/04",
+      "timestamp": 1776617327
+    },
     {
       "id": "BFMTV_1776616091",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:32",
       "date": "18/04",
       "timestamp": 1776526334
-    },
-    {
-      "id": "BFMTV_1776526225",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: COMMENT LES SOLDATS DE LA FINUL OPÈRENT SUR LE TERRITOIRE ET QUELLES SONT LEURS MISSIONS?",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:30",
-      "date": "18/04",
-      "timestamp": 1776526225
-    },
-    {
-      "id": "BFMTV_1776525699",
-      "source": "BFMTV",
-      "text": "\"L'ESSENTIEL, C'EST QU'ELLE SOIT EN SÉCURITÉ\": LES ENFANTS DE L'OCTOGÉNAIRE FRANÇAISE DE RETOUR EN FRANCE APRÈS SON ARRESTATION PAR L'ICE AUX ÉTATS-UNIS SE DISENT \"SOULAGÉS\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:21",
-      "date": "18/04",
-      "timestamp": 1776525699
     }
   ],
   "france": {
