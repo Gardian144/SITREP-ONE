@@ -1,7 +1,37 @@
 {
-  "last_update": "19/04 07:40",
+  "last_update": "19/04 08:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776586518",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN AFFIRME QUE SON ARMÉE AGIT \"UNIQUEMENT EN ÉTAT DE LÉGITIME DÉFENSE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:15",
+      "date": "19/04",
+      "timestamp": 1776586518
+    },
+    {
+      "id": "BFMTV_1776586113",
+      "source": "BFMTV",
+      "text": "\"DES PRIX RECORDS\": LE GILET DE SAUVETAGE D'UN SURVIVANT DU TITANIC VENDU POUR PLUS DE 900.000 DOLLARS DANS UNE VENTE AUX ENCHÈRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:08",
+      "date": "19/04",
+      "timestamp": 1776586113
+    },
+    {
+      "id": "BFMTV_1776585263",
+      "source": "BFMTV",
+      "text": "\"PROFONDÉMENT PRÉOCCUPANT\": LES CORPS DE 50 BÉBÉS ET 6 ADULTES DÉCOUVERTS DANS UN CIMETIÈRE DE TRINITÉ-ET-TOBAGO",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:54",
+      "date": "19/04",
+      "timestamp": 1776585263
+    },
     {
       "id": "BFMTV_1776580482",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "05:04",
       "date": "18/04",
       "timestamp": 1776488691
-    },
-    {
-      "id": "BFMTV_1776488500",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DANS LE NORD D'ISRAËL, DES HABITANTS SCEPTIQUES SUR LE CESSEZ-LE-FEU AVEC LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:01",
-      "date": "18/04",
-      "timestamp": 1776488500
-    },
-    {
-      "id": "BFMTV_1776488228",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON VEUT UNE \"MISSION NEUTRE\" POUR SÉCURISER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:57",
-      "date": "18/04",
-      "timestamp": 1776488228
-    },
-    {
-      "id": "BFMTV_1776487974",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE DÉTROIT D'ORMUZ EST-IL VRAIMENT MINÉ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:52",
-      "date": "18/04",
-      "timestamp": 1776487974
     }
   ],
   "france": {
