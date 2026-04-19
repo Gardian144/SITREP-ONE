@@ -1,7 +1,147 @@
 {
-  "last_update": "19/04 03:49",
+  "last_update": "19/04 05:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776577821",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ALLÈGE DES RESTRICTIONS SUR LES SUBSTANCES PSYCHÉDÉLIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:50",
+      "date": "19/04",
+      "timestamp": 1776577821
+    },
+    {
+      "id": "BFMTV_1776577196",
+      "source": "BFMTV",
+      "text": "LA CORÉE DU NORD A PROCÉDÉ À DES TIRS D'ESSAI DE PLUSIEURS MISSILES BALISTIQUES À COURTE PORTÉE, SELON LA CORÉE DU SUD",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:39",
+      "date": "19/04",
+      "timestamp": 1776577196
+    },
+    {
+      "id": "BFMTV_1776577099",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ESCALADE DES TENSIONS AUTOUR DU DÉTROIT D'ORMUZ, 48 HEURES AVANT L'EXPIRATION DU CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:38",
+      "date": "19/04",
+      "timestamp": 1776577099
+    },
+    {
+      "id": "BFMTV_1776576048",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: TÉHÉRAN MAINTIENT LE DÉTROIT D'ORMUZ FERMÉ CE DIMANCHE À TROIS JOURS DE L'EXPIRATION DU CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:20",
+      "date": "19/04",
+      "timestamp": 1776576048
+    },
+    {
+      "id": "BFMTV_1776574601",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUEL EST LE RÔLE DE LA FINUL, GARANT INTERNATIONAL DE LA PAIX AU LIBAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:56",
+      "date": "19/04",
+      "timestamp": 1776574601
+    },
+    {
+      "id": "BFMTV_1776574502",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ: BFMTV AUX CÔTÉS DE LA FINUL AU LIBAN",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:55",
+      "date": "19/04",
+      "timestamp": 1776574502
+    },
+    {
+      "id": "BFMTV_1776574424",
+      "source": "BFMTV",
+      "text": "LA BULGARIE VOTE POUR LA HUITIÈME FOIS EN CINQ ANS, L'EX-PRÉSIDENT ROUMEN RADEV CONSIDÉRÉ COMME FAVORI",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:53",
+      "date": "19/04",
+      "timestamp": 1776574424
+    },
+    {
+      "id": "BFMTV_1776574104",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: TSAHAL AFFIRME QU'ELLE CONTINUERA D'OCCUPER DES DIZAINES DE VILLAGES LIBANAIS FRONTALIERS AVEC LE NORD D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:48",
+      "date": "19/04",
+      "timestamp": 1776574104
+    },
+    {
+      "id": "BFMTV_1776573778",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ÉMOTION À MONTAUBAN APRÈS LA MORT DU SERGENT-CHEF FLORIAN MONTORIO AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "19/04",
+      "timestamp": 1776573778
+    },
+    {
+      "id": "BFMTV_1776573520",
+      "source": "BFMTV",
+      "text": "TÉHÉRAN DURCIT LE TON AU SUJET DU DÉTROIT D'ORMUZ, MAIS AFFIRME QUE LES DISCUSSIONS AVEC WASHINGTON ONT PROGRESSÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:38",
+      "date": "19/04",
+      "timestamp": 1776573520
+    },
+    {
+      "id": "BFMTV_1776573115",
+      "source": "BFMTV",
+      "text": "IRAN: QUI EST BITA HEMMATI, CONDAMNÉE À MORT PAR UN TRIBUNAL RÉVOLUTIONNAIRE ET NOUVEAU VISAGE DE LA RÉPRESSION IRANIENNE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:31",
+      "date": "19/04",
+      "timestamp": 1776573115
+    },
+    {
+      "id": "BFMTV_1776573098",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: LE PRÉSIDENT DU PARLEMENT IRANIEN DIT QUE LES NÉGOCIATIONS ONT PROGRESSÉ MAIS QU'UN ACCORD FINAL RESTE \"LOIN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:31",
+      "date": "19/04",
+      "timestamp": 1776573098
+    },
+    {
+      "id": "BFMTV_1776572935",
+      "source": "BFMTV",
+      "text": "CASQUES BLEUS: 343 SOLDATS MORTS DEPUIS LA CRÉATION DE LA FINUL EN 1987",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:28",
+      "date": "19/04",
+      "timestamp": 1776572935
+    },
+    {
+      "id": "BFMTV_1776572723",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ASSUME DE POURSUIVRE SES OPÉRATIONS MILITAIRES AU SUD-LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:25",
+      "date": "19/04",
+      "timestamp": 1776572723
+    },
     {
       "id": "BFMTV_1776570055",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "04:39",
       "date": "18/04",
       "timestamp": 1776487163
-    },
-    {
-      "id": "BFMTV_1776486904",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE DE REFERMER LE DÉTROIT D'ORMUZ SI LE BLOCUS AMÉRICAIN SE POURSUIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:35",
-      "date": "18/04",
-      "timestamp": 1776486904
-    },
-    {
-      "id": "BFMTV_1776486864",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP PRÉVIENT QUE LE BLOCUS DES PORTS IRANIENS VA \"CONTINUER\" SI UN ACCORD N'EST PAS CONCLU",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:34",
-      "date": "18/04",
-      "timestamp": 1776486864
-    },
-    {
-      "id": "BFMTV_1776486715",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES LIBANAIS ORIGINAIRES DU SUD RENTRENT CHEZ EUX APRÈS L'ANNONCE DE LA TRÊVE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:31",
-      "date": "18/04",
-      "timestamp": 1776486715
-    },
-    {
-      "id": "BFMTV_1776486570",
-      "source": "BFMTV",
-      "text": "CESSEZ-LE-FEU ENTRE ISRAËL ET LE LIBAN: L'ARMÉE ISRAÉLIENNE EXPLIQUE SE RÉSERVER LE DROIT DE CIBLER LE HEZBOLLAH SI ELLE SE SENT EN DANGER",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:29",
-      "date": "18/04",
-      "timestamp": 1776486570
-    },
-    {
-      "id": "BFMTV_1776485764",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP SE DIT CONVAINCU DE POUVOIR RÉCUPÉRER LE STOCK D’URANIUM ENRICHI IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:16",
-      "date": "18/04",
-      "timestamp": 1776485764
-    },
-    {
-      "id": "BFMTV_1776485637",
-      "source": "BFMTV",
-      "text": "\"LE TRANSFERT DE L'URANIUM ENRICHI DE L'IRAN VERS LES ÉTATS-UNIS N'A JAMAIS ÉTÉ ÉVOQUÉ DANS LES NÉGOCIATIONS\", ASSURE LE PORTE-PAROLE DU MINISTÈRE IRANIEN DES AFFAIRES ÉTRANGÈRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:13",
-      "date": "18/04",
-      "timestamp": 1776485637
-    },
-    {
-      "id": "BFMTV_1776485241",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP QU'IL MAINTIENDRA LE BLOCUS AMÉRICAIN SUR LE DÉTROIT D'ORMUZ SI UN ACCORD N'EST PAS CONCLU",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:07",
-      "date": "18/04",
-      "timestamp": 1776485241
-    },
-    {
-      "id": "BFMTV_1776484181",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP PRÉVIENT QUE LE BLOCUS DES PORTS IRANIENS VA \"CONTINUER\" SI UN ACCORD N'EST PAS CONCLU",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:49",
-      "date": "18/04",
-      "timestamp": 1776484181
-    },
-    {
-      "id": "BFMTV_1776466773",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE L'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN \"EN BONNE VOIE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:59",
-      "date": "17/04",
-      "timestamp": 1776466773
-    },
-    {
-      "id": "BFMTV_1776464089",
-      "source": "BFMTV",
-      "text": "IRAN, DÉTROIT D'ORMUZ, LIBAN: DONALD TRUMP REVIENT SUR LA SITUATION AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:14",
-      "date": "17/04",
-      "timestamp": 1776464089
-    },
-    {
-      "id": "BFMTV_1776463977",
-      "source": "BFMTV",
-      "text": "“NOUS ALLONS RENDRE SA GRANDEUR AU LIBAN”, ANNONCE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:12",
-      "date": "17/04",
-      "timestamp": 1776463977
-    },
-    {
-      "id": "BFMTV_1776463742",
-      "source": "BFMTV",
-      "text": "IRAN: \"LES ÉTATS-UNIS VONT OBTENIR TOUTE LA POUSSIÈRE NUCLÉAIRE\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:09",
-      "date": "17/04",
-      "timestamp": 1776463742
-    },
-    {
-      "id": "BFMTV_1776463645",
-      "source": "BFMTV",
-      "text": "\"REGARDEZ TOUS LES FAKE NEWS QUI ATTENDENT\": DONALD TRUMP S'EN PREND ENCORE AUX MÉDIAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:07",
-      "date": "17/04",
-      "timestamp": 1776463645
-    },
-    {
-      "id": "BFMTV_1776463493",
-      "source": "BFMTV",
-      "text": "\"C'EST UNE BELLE JOURNÉE POUR LE MONDE, PARCE QUE L'IRAN VIENT D'ANNONCER QUE LE DÉTROIT D'ORMUZ ÉTAIT TOTALEMENT OUVERT\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:04",
-      "date": "17/04",
-      "timestamp": 1776463493
     }
   ],
   "france": {
