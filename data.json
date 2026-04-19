@@ -1,7 +1,67 @@
 {
-  "last_update": "19/04 10:24",
+  "last_update": "19/04 11:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776596760",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: MAUD BREGEON DIT QU'IL EST \"HORS DE QUESTION QUE LA FRANCE PAYE UN DROIT DE PASSAGE AU DÉTROIT D'ORMUZ\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "11:06",
+      "date": "19/04",
+      "timestamp": 1776596760
+    },
+    {
+      "id": "OPEX360_1776596059",
+      "source": "OPEX360",
+      "text": "L’ALLEMAGNE VA POUVOIR DOTER SES FUTURES FRÉGATES F127 DE SYSTÈMES DE COMBAT AMÉRICAINS POUR 10 MILLIARDS D’EUROS",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:54",
+      "date": "19/04",
+      "timestamp": 1776596059
+    },
+    {
+      "id": "BFMTV_1776595942",
+      "source": "BFMTV",
+      "text": "LA PORTE-PAROLE DU GOUVERNEMENT MAUD BREGEON ÉVOQUE LA MORT DU SERGENT-CHEF MONTORIO AU LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:52",
+      "date": "19/04",
+      "timestamp": 1776595942
+    },
+    {
+      "id": "BFMTV_1776595724",
+      "source": "BFMTV",
+      "text": " LA DÉPOUILLE DU SERGENT-CHEF FLORIAN MONTORIO SERA \"RAPATRIÉE CE DIMANCHE\", ANNONCE MAUD BREGEON ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:48",
+      "date": "19/04",
+      "timestamp": 1776595724
+    },
+    {
+      "id": "BFMTV_1776595596",
+      "source": "BFMTV",
+      "text": "LECTURE ET CHANSONS AVEC DES ENFANTS...BARACK OBAMA ET ZOHRAN MAMDANI SE RENCONTRENT DANS UNE GARDERIE DU BRONX",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:46",
+      "date": "19/04",
+      "timestamp": 1776595596
+    },
+    {
+      "id": "BFMTV_1776595422",
+      "source": "BFMTV",
+      "text": "\"VICTIMES CONFIRMÉES\": DES COUPS DE FEU SIGNALÉS SUR LE CAMPUS D'UNE UNIVERSITÉ DANS L'IOWA, PLUSIEURS BLESSÉS PAR BALLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:43",
+      "date": "19/04",
+      "timestamp": 1776595422
+    },
     {
       "id": "BFMTV_1776594181",
       "source": "BFMTV",
@@ -46,6 +106,16 @@
       "id": "BFMTV_1776593477",
       "source": "BFMTV",
       "text": "LE RAPATRIEMENT DES MILITAIRES FRANÇAIS BLESSÉS AU LIBAN POURRAIT ÊTRE DÉCIDÉ \"DANS LES TOUS PROCHAINS JOURS\", INDIQUE LA PORTE-PAROLE DU GOUVERNEMENT MAUD BREGEON",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:11",
+      "date": "19/04",
+      "timestamp": 1776593477
+    },
+    {
+      "id": "BFMTV_1776593477",
+      "source": "BFMTV",
+      "text": "LE RAPATRIEMENT DES MILITAIRES FRANÇAIS BLESSÉS AU LIBAN POURRAIT ÊTRE DÉCIDÉ \"DANS LES TOUT PROCHAINS JOURS\", INDIQUE LA PORTE-PAROLE DU GOUVERNEMENT MAUD BREGEON",
       "urgent": false,
       "france_related": true,
       "time": "10:11",
@@ -931,76 +1001,6 @@
       "time": "12:38",
       "date": "18/04",
       "timestamp": 1776515912
-    },
-    {
-      "id": "BFMTV_1776515196",
-      "source": "BFMTV",
-      "text": "LE SOLDAT FRANÇAIS TUÉ AU LIBAN A ÉTÉ TOUCHÉ PAR \"UN TIR DIRECT\" DANS \"UNE EMBUSCADE\", INDIQUE LA MINISTRE DES ARMÉES CATHERINE VAUTRIN ",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:26",
-      "date": "18/04",
-      "timestamp": 1776515196
-    },
-    {
-      "id": "OPEX360_1776514649",
-      "source": "OPEX360",
-      "text": "L’AVION DE TRANSPORT A400M ATLAS POURRA BIENTÔT LANCER DES MISSILES DE CROISIÈRE À LONGUE PORTÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:17",
-      "date": "18/04",
-      "timestamp": 1776514649
-    },
-    {
-      "id": "BFMTV_1776514000",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN SOLDAT FRANÇAIS TUÉ DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "12:06",
-      "date": "18/04",
-      "timestamp": 1776514000
-    },
-    {
-      "id": "BFMTV_1776513461",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES CASQUES BLEUS FRANÇAIS ATTAQUÉS AU LIBAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:57",
-      "date": "18/04",
-      "timestamp": 1776513461
-    },
-    {
-      "id": "BFMTV_1776512568",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE GUIDE SUPRÊME ASSURE QUE LA MARINE IRANIENNE EST PRÊTE À INFLIGER DE \"NOUVELLES DÉFAITES\" À L'ENNEMI",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:42",
-      "date": "18/04",
-      "timestamp": 1776512568
-    },
-    {
-      "id": "BFMTV_1776511189",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN PÉTROLIER VISÉ PAR DES TIRS IRANIENS DANS LE DÉTROIT D'ORMUZ ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:19",
-      "date": "18/04",
-      "timestamp": 1776511189
-    },
-    {
-      "id": "BFMTV_1776511039",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE GUIDE SUPRÊME ASSURE QUE LA MARINE IRANIENNE EST PRÊTE À INFLIGER DE \"NOUVELLES DÉFAITES\" À L'ENNEMI",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:17",
-      "date": "18/04",
-      "timestamp": 1776511039
     }
   ],
   "france": {
