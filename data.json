@@ -1,7 +1,47 @@
 {
-  "last_update": "19/04 13:01",
+  "last_update": "19/04 14:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776606596",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN PARACHUTISTE S’ÉCRASE SUR UN TABLEAU D’AFFICHAGE AVANT UN MATCH DE FOOTBALL AMÉRICAIN ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:49",
+      "date": "19/04",
+      "timestamp": 1776606596
+    },
+    {
+      "id": "BFMTV_1776606556",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE L'ENVOI LUNDI D'UNE DÉLÉGATION AU PAKISTAN POUR DES NÉGOCIATIONS AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:49",
+      "date": "19/04",
+      "timestamp": 1776606556
+    },
+    {
+      "id": "BFMTV_1776605660",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISLAMABAD SE PRÉPARE AUX NOUVELLES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:34",
+      "date": "19/04",
+      "timestamp": 1776605660
+    },
+    {
+      "id": "BFMTV_1776604520",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE \"DÉTRUIRE TOUTES LES CENTRALES ÉLECTRIQUES ET LES PONTS\" EN IRAN SI LE RÉGIME REFUSE LE \"DEAL RAISONNABLE\" QUI LUI EST OFFERT",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:15",
+      "date": "19/04",
+      "timestamp": 1776604520
+    },
     {
       "id": "BFMTV_1776603065",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "13:42",
       "date": "18/04",
       "timestamp": 1776519726
-    },
-    {
-      "id": "BFMTV_1776519368",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: \"UN ACTE DE GUERRE CONTRE LA FINUL ET SPÉCIFIQUEMENT CONTRE LE CONTINGENT FRANÇAIS\", JUGE LE GÉNÉRAL PHILIPPE SIDOS, ANCIEN CHEF DE LIAISON DE LA FINUL",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:36",
-      "date": "18/04",
-      "timestamp": 1776519368
-    },
-    {
-      "id": "BFMTV_1776518817",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: \"L'ENSEMBLE DE LA VILLE PARTAGE LA PEINE DE LA FAMILLE ET DES FRÈRES D'ARMES\", RÉAGIT LE MAIRE DE MONTAUBAN",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:26",
-      "date": "18/04",
-      "timestamp": 1776518817
-    },
-    {
-      "id": "BFMTV_1776518438",
-      "source": "BFMTV",
-      "text": "ILS ONT \"OUVERT LE FEU\" SANS AVERTISSEMENT: UN PÉTROLIER ESSUIE DES TIRS DE BATEAUX IRANIENS DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:20",
-      "date": "18/04",
-      "timestamp": 1776518438
-    },
-    {
-      "id": "OPEX360_1776517753",
-      "source": "OPEX360",
-      "text": "LIBAN : UN MILITAIRE DU 17E RÉGIMENT DU GÉNIE PARACHUTISTE A ÉTÉ TUÉ LORS D’UNE ATTAQUE ATTRIBUÉE AU HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:09",
-      "date": "18/04",
-      "timestamp": 1776517753
     }
   ],
   "france": {
