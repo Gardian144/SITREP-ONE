@@ -1,7 +1,27 @@
 {
-  "last_update": "19/04 17:21",
+  "last_update": "19/04 18:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776620390",
+      "source": "BFMTV",
+      "text": "UKRAINE: DEUX POLICIERS SUSPENDUS POUR AVOIR FUI LA LA FUSILLADE MEURTRIÈRE À KIEV ; LE CHEF DE LA POLICE DÉMISSIONNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:39",
+      "date": "19/04",
+      "timestamp": 1776620390
+    },
+    {
+      "id": "BFMTV_1776620126",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN HOMME ABATTU PAR LA POLICE APRÈS AVOIR TUÉ HUIT ENFANTS ÂGÉS DE 1 À 14 ANS EN LOUISIANE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:35",
+      "date": "19/04",
+      "timestamp": 1776620126
+    },
     {
       "id": "BFMTV_1776618754",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:37",
       "date": "18/04",
       "timestamp": 1776526670
-    },
-    {
-      "id": "BFMTV_1776526421",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: DEUX AUTRES SOLDATS FRANÇAIS BLESSÉS SONT DANS UN ÉTAT GRAVE (AFFAIRES ÉTRANGÈRES)",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:33",
-      "date": "18/04",
-      "timestamp": 1776526421
-    },
-    {
-      "id": "BFMTV_1776526334",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BFMTV AUX CÔTÉS DES CASQUES BLEUS DE LA FINUL DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:32",
-      "date": "18/04",
-      "timestamp": 1776526334
     }
   ],
   "france": {
