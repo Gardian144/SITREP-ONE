@@ -1,7 +1,77 @@
 {
-  "last_update": "19/04 18:01",
+  "last_update": "19/04 19:09",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776625257",
+      "source": "BFMTV",
+      "text": "REPRISE DES NÉGOCIATIONS AU PAKISTAN: \"ON EST DANS UNE SITUATION TRÈS PARADOXALE\", EXPLIQUE BERNARD GUETTA, DÉPUTÉ EUROPÉEN (RENEW)",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:00",
+      "date": "19/04",
+      "timestamp": 1776625257
+    },
+    {
+      "id": "BFMTV_1776625037",
+      "source": "BFMTV",
+      "text": "UN CARGO FRANÇAIS DE LA COMPAGNIE CMA-CGM, PROPRIÉTAIRE DE BFMTV-RMC, A ÉTÉ LA CIBLE DE TIRS DE SEMONCE HIER DANS LE DÉTROIT D'ORMUZ, LES TIRS N'ONT PAS FAIT DE BLESSÉS",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:57",
+      "date": "19/04",
+      "timestamp": 1776625037
+    },
+    {
+      "id": "BFMTV_1776623882",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE LA REPRISE DES DISCUSSIONS AU PAKISTAN, TANDIS QUE L'IRAN CRAINT UNE ATTAQUE SURPRISE AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:38",
+      "date": "19/04",
+      "timestamp": 1776623882
+    },
+    {
+      "id": "BFMTV_1776623676",
+      "source": "BFMTV",
+      "text": "MÊME AVEC SA FRAGILITÉ, LE CESSEZ-LE-FEU ENTRE ISRAËL ET LE LIBAN RESTE EN VIGUEUR",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:34",
+      "date": "19/04",
+      "timestamp": 1776623676
+    },
+    {
+      "id": "BFMTV_1776623286",
+      "source": "BFMTV",
+      "text": "LA FLOTTE DES GARDIENS DE LA RÉVOLUTION A INTENSIFIÉ SA SURVEILLANCE DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:28",
+      "date": "19/04",
+      "timestamp": 1776623286
+    },
+    {
+      "id": "BFMTV_1776622689",
+      "source": "BFMTV",
+      "text": "BULGARIE: LA COALITION DE L'EX-PRÉSIDENT ROUMEN RADEV EN TÊTE DES LÉGISLATIVES",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:18",
+      "date": "19/04",
+      "timestamp": 1776622689
+    },
+    {
+      "id": "BFMTV_1776622253",
+      "source": "BFMTV",
+      "text": "REPRISE DES NÉGOCIATIONS AU PAKISTAN: DONALD TRUMP RESTE ISOLÉ À LA MAISON BLANCHE, MULTIPLIANT LES APPELS TÉLÉPHONIQUES AVEC DES JOURNALISTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:10",
+      "date": "19/04",
+      "timestamp": 1776622253
+    },
     {
       "id": "BFMTV_1776620390",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "16:22",
       "date": "18/04",
       "timestamp": 1776529367
-    },
-    {
-      "id": "BFMTV_1776529133",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: “CE SONT DES SOLDATS FRANÇAIS QUI ONT ÉTÉ VISÉS” CAR “ILS SONT PARMI LES PLUS ACTIFS” DANS LA RÉGION, ESTIME LE GÉNÉRAL PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:18",
-      "date": "18/04",
-      "timestamp": 1776529133
-    },
-    {
-      "id": "BFMTV_1776528667",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS DE LA FINUL TUÉ DANS UNE EMBUSCADE AU LIBAN: QUE S'EST-IL PASSÉ?",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:11",
-      "date": "18/04",
-      "timestamp": 1776528667
-    },
-    {
-      "id": "BFMTV_1776527313",
-      "source": "BFMTV",
-      "text": "FERMETURE DU DÉTROIT D'ORMUZ: QUE FAUT-IL COMPRENDRE DES DERNIÈRES DÉCLARATIONS DE DONALD TRUMP?",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:48",
-      "date": "18/04",
-      "timestamp": 1776527313
-    },
-    {
-      "id": "BFMTV_1776527236",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: LA MINISTRE DÉLÉGUÉE AUX ARMÉES DEMANDE QUE \"TOUTE LA LUMIÈRE SOIT FAITE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:47",
-      "date": "18/04",
-      "timestamp": 1776527236
-    },
-    {
-      "id": "BFMTV_1776526988",
-      "source": "BFMTV",
-      "text": "\"PAS DU TOUT DANS MON INTÉRÊT\": LE PAPE REGRETTE QUE SES DISCOURS EN AFRIQUE SOIENT INTERPRÉTÉS COMME UN DÉBAT AVEC DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:43",
-      "date": "18/04",
-      "timestamp": 1776526988
-    },
-    {
-      "id": "BFMTV_1776526895",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: L'IRAN A OUVERT LE FEU SUR PLUSIEURS NAVIRES. QUE SAIT-ON DE CES ATTAQUES?",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:41",
-      "date": "18/04",
-      "timestamp": 1776526895
-    },
-    {
-      "id": "BFMTV_1776526670",
-      "source": "BFMTV",
-      "text": "LE HEZBOLLAH DÉMENT TOUTE IMPLICATION DANS LA MORT DU SOLDAT FRANÇAIS AU LIBAN",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:37",
-      "date": "18/04",
-      "timestamp": 1776526670
     }
   ],
   "france": {
