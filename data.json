@@ -1,7 +1,47 @@
 {
-  "last_update": "19/04 14:04",
+  "last_update": "19/04 14:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776610566",
+      "source": "BFMTV",
+      "text": "LE BLOCUS AMÉRICAIN ET IRANIEN AUTOUR DU DÉTROIT D'ORMUZ S'INTENSIFIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:56",
+      "date": "19/04",
+      "timestamp": 1776610566
+    },
+    {
+      "id": "BFMTV_1776609137",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE MINISTRE ISRAÉLIEN DE LA DÉFENSE ASSURE QU'ISRAËL USERA DE \"TOUTE SA FORCE\" AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:32",
+      "date": "19/04",
+      "timestamp": 1776609137
+    },
+    {
+      "id": "BFMTV_1776609134",
+      "source": "BFMTV",
+      "text": "LA SITUATION AU SUD-LIBAN RESTE TENDUE MALGRÉ LE CESSEZ-LE-FEU EN VIGUEUR DEPUIS TROIS JOURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:32",
+      "date": "19/04",
+      "timestamp": 1776609134
+    },
+    {
+      "id": "BFMTV_1776609133",
+      "source": "BFMTV",
+      "text": " GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QU'UNE DÉLÉGATION AMÉRICAINE SERA AU PAKISTAN DEMAIN \"POUR NÉGOCIER\" AVEC L'IRAN ",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:32",
+      "date": "19/04",
+      "timestamp": 1776609133
+    },
     {
       "id": "BFMTV_1776606596",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "14:08",
       "date": "18/04",
       "timestamp": 1776521294
-    },
-    {
-      "id": "BFMTV_1776520850",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DIT QUE L'IRAN \"NE PEUT PAS FAIRE DE CHANTAGE\" AUX ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:00",
-      "date": "18/04",
-      "timestamp": 1776520850
-    },
-    {
-      "id": "BFMTV_1776520698",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DIT QUE LES ÉTATS-UNIS VONT \"RAMENER LA TOTALITÉ\" DE L'URANIUM IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:58",
-      "date": "18/04",
-      "timestamp": 1776520698
-    },
-    {
-      "id": "BFMTV_1776520474",
-      "source": "BFMTV",
-      "text": "DES BATEAUX IRANIENS ONT OUVERT LE FEU SUR UN PÉTROLIER DANS LE DÉTROIT D'ORMUZ ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:54",
-      "date": "18/04",
-      "timestamp": 1776520474
-    },
-    {
-      "id": "BFMTV_1776519726",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: LES TIREURS AURAIENT CRIÉ \"HEZBOLLAH\" AVANT D’OUVRIR LE FEU SUR LES CASQUES BLEUS, SELON UNE SOURCE AU SEIN DE LA FINUL",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:42",
-      "date": "18/04",
-      "timestamp": 1776519726
     }
   ],
   "france": {
