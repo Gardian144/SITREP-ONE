@@ -1,7 +1,37 @@
 {
-  "last_update": "19/04 19:09",
+  "last_update": "19/04 19:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776628139",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QUE LA MARINE AMÉRICAINE A TIRÉ SUR UN CARGO IRANIEN DANS LE GOLFE D'OMAN ET EN A PRIS LE CONTRÔLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:48",
+      "date": "19/04",
+      "timestamp": 1776628139
+    },
+    {
+      "id": "BFMTV_1776627386",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE QUE LA MARINE AMÉRICAINE A TIRÉ SUR UN CARGO IRANIEN DANS LE GOLFE D'OMAN ET EN A PRIS LE CONTRÔLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:36",
+      "date": "19/04",
+      "timestamp": 1776627386
+    },
+    {
+      "id": "BFMTV_1776626474",
+      "source": "BFMTV",
+      "text": "REPRISE DES NÉGOCIATIONS: L'IRAN A REJETÉ LA TENUE DE NOUVELLES NÉGOCIATIONS ALORS QU'UNE DÉLÉGATION AMÉRICAINE SE RENDRA LUNDI AU PAKISTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:21",
+      "date": "19/04",
+      "timestamp": 1776626474
+    },
     {
       "id": "BFMTV_1776625257",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "16:54",
       "date": "18/04",
       "timestamp": 1776531290
-    },
-    {
-      "id": "BFMTV_1776530903",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: \"CE QUI COMPTE POUR TRUMP, C'EST LA GUERRE DES RÉCITS\", EXPLIQUE DAVID KHALIFA, CO-DIRECTEUR DE L'OBSERVATOIRE MOYEN-ORIENT DE LA FONDATION JEAN-JAURÈS",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:48",
-      "date": "18/04",
-      "timestamp": 1776530903
-    },
-    {
-      "id": "BFMTV_1776529517",
-      "source": "BFMTV",
-      "text": "PEUT-ON VRAIMENT PARLER D'UN CESSEZ-LE-FEU DANS LE SUD DU LIBAN?",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:25",
-      "date": "18/04",
-      "timestamp": 1776529517
-    },
-    {
-      "id": "BFMTV_1776529367",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: \"IL FAUT QUE LES AUTORITÉS LIBANAISES PRENNENT LEURS RESPONSABILITÉS DANS LA RÉGION\", AFFIRME LE GÉNÉRAL PATRICK DUTARTRE, GÉNÉRAL DE L'ARMÉE DE L'AIR ET ANCIEN LEADER DE LA PATROUILLE DE FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:22",
-      "date": "18/04",
-      "timestamp": 1776529367
     }
   ],
   "france": {
