@@ -1,7 +1,37 @@
 {
-  "last_update": "19/04 05:58",
+  "last_update": "19/04 07:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776580482",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE DÉTROIT D'ORMUZ RESTE FERMÉ PAR LE RÉGIME IRANIEN CE DIMANCHE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:34",
+      "date": "19/04",
+      "timestamp": 1776580482
+    },
+    {
+      "id": "BFMTV_1776578520",
+      "source": "BFMTV",
+      "text": "\"IL EST SON PROPRE PROPHÈTE\": ENTRE CLIENTÉLISME ET FAUX PAS, LE JEU DANGEREUX DE DONALD TRUMP AVEC LA RELIGION",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:02",
+      "date": "19/04",
+      "timestamp": 1776578520
+    },
+    {
+      "id": "BFMTV_1776578414",
+      "source": "BFMTV",
+      "text": "KPLER: LA START-UP FRANÇAISE QUI PERMET DE SUIVRE EN DIRECT 300.000 NAVIRES DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:00",
+      "date": "19/04",
+      "timestamp": 1776578414
+    },
     {
       "id": "BFMTV_1776577821",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "04:52",
       "date": "18/04",
       "timestamp": 1776487974
-    },
-    {
-      "id": "BFMTV_1776487837",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: MARIE-THÉRÈSE, L'OCTOGÉNAIRE ARRÊTÉE PAR L'ICE, A ÉTÉ LIBÉRÉE ET A PU REGAGNER LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:50",
-      "date": "18/04",
-      "timestamp": 1776487837
-    },
-    {
-      "id": "BFMTV_1776487502",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES HABITANTS REGAGNENT LA BANLIEUE SUD DE BEYROUTH MALGRÉ LE CESSEZ-LE-FEU FRAGILE ENTRE ISRAËL ET LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:45",
-      "date": "18/04",
-      "timestamp": 1776487502
-    },
-    {
-      "id": "BFMTV_1776487163",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP RÉAFFIRME QUE LES ÉTATS-UNIS IRONT \"CHERCHER L'URANIUM\" IRANIEN \"D'UNE FORME BEAUCOUP MOINS AMICALE\" SI AUCUN ACCORD N'EST SIGNÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:39",
-      "date": "18/04",
-      "timestamp": 1776487163
     }
   ],
   "france": {
