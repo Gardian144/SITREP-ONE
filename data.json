@@ -1,7 +1,37 @@
 {
-  "last_update": "19/04 11:50",
+  "last_update": "19/04 13:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776603065",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: STEVE WITKOFF ET JARED KUSHNER EN ROUTE POUR LE PAKISTAN POUR DE NOUVELLES NÉGOCIATIONS AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:51",
+      "date": "19/04",
+      "timestamp": 1776603065
+    },
+    {
+      "id": "BFMTV_1776601965",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QU'UNE DÉLÉGATION AMÉRICAINE SERA AU PAKISTAN DEMAIN \"POUR NÉGOCIER\" AVEC L'IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "12:32",
+      "date": "19/04",
+      "timestamp": 1776601965
+    },
+    {
+      "id": "BFMTV_1776601456",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QUE DES REPRÉSENTANTS AMÉRICAINS SE RENDENT À ISLAMABAD POUR DES NÉGOCIATIONS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:24",
+      "date": "19/04",
+      "timestamp": 1776601456
+    },
     {
       "id": "BFMTV_1776598560",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "13:09",
       "date": "18/04",
       "timestamp": 1776517753
-    },
-    {
-      "id": "BFMTV_1776517267",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: BFMTV AUPRÈS D'UN CONVOI DES NATIONS UNIES DANS LE SUD DU PAYS",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:01",
-      "date": "18/04",
-      "timestamp": 1776517267
-    },
-    {
-      "id": "BFMTV_1776517180",
-      "source": "BFMTV",
-      "text": "\"JE NE LE REGRETTE PAS\": MARIA CORINA MACHADO ASSUME D'AVOIR DONNÉ SON PRIX NOBEL DE LA PAIX À DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:59",
-      "date": "18/04",
-      "timestamp": 1776517180
-    },
-    {
-      "id": "BFMTV_1776516690",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON DEMANDE AU LIBAN DE \"FAIRE TOUTE LA LUMIÈRE\" SUR L'ATTAQUE \"INACCEPTABLE\" CONTRE DES CASQUES BLEUS",
-      "urgent": true,
-      "france_related": true,
-      "time": "12:51",
-      "date": "18/04",
-      "timestamp": 1776516690
     }
   ],
   "france": {
