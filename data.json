@@ -1,7 +1,77 @@
 {
-  "last_update": "19/04 08:36",
+  "last_update": "19/04 09:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776589362",
+      "source": "BFMTV",
+      "text": "\"IL N'Y A PAS DE MOT\": L'ÉMOTION À MONTAUBAN APRÈS LA MORT DU SERGENT-CHEF FLORIAN MONTORIO ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:02",
+      "date": "19/04",
+      "timestamp": 1776589362
+    },
+    {
+      "id": "BFMTV_1776588746",
+      "source": "BFMTV",
+      "text": "CE QUE L'ON SAIT DE LA MORT DU SERGENT-CHEF FLORIAN MONTORIO AU LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:52",
+      "date": "19/04",
+      "timestamp": 1776588746
+    },
+    {
+      "id": "BFMTV_1776588516",
+      "source": "BFMTV",
+      "text": "\"LE MEILLEUR RESTE À VENIR\": LA COMMUNICATION ÉNIGMATIQUE DE DONALD TRUMP SUR LA GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:48",
+      "date": "19/04",
+      "timestamp": 1776588516
+    },
+    {
+      "id": "BFMTV_1776588425",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:47",
+      "date": "19/04",
+      "timestamp": 1776588425
+    },
+    {
+      "id": "BFMTV_1776588425",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:47",
+      "date": "19/04",
+      "timestamp": 1776588425
+    },
+    {
+      "id": "BFMTV_1776588146",
+      "source": "BFMTV",
+      "text": "DE LA MORT-AUX-RATS RETROUVÉE DANS UN POT POUR BÉBÉS EN AUTRICHE, RAPPEL EN URGENCE DE PRODUITS DANS PLUSIEURS PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:42",
+      "date": "19/04",
+      "timestamp": 1776588146
+    },
+    {
+      "id": "BFMTV_1776587860",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE RÉALISE DE VASTES OPÉRATIONS DE DÉMOLITION DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:37",
+      "date": "19/04",
+      "timestamp": 1776587860
+    },
     {
       "id": "BFMTV_1776586518",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "08:40",
       "date": "18/04",
       "timestamp": 1776501641
-    },
-    {
-      "id": "BFMTV_1776500546",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: TÉHÉRAN AFFIRME AVOIR DE NOUVEAU FERMÉ LE DÉTROIT D'ORMUZ EN RAISON DU BLOCUS AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:22",
-      "date": "18/04",
-      "timestamp": 1776500546
-    },
-    {
-      "id": "BFMTV_1776498321",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'URANIUM ENRICHI IRANIEN AU CŒUR DES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:45",
-      "date": "18/04",
-      "timestamp": 1776498321
-    },
-    {
-      "id": "BFMTV_1776497910",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: CINQ PÉTROLIERS ONT RÉUSSI À PASSER LE DÉTROIT D'ORMUZ CE SAMEDI MATIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:38",
-      "date": "18/04",
-      "timestamp": 1776497910
-    },
-    {
-      "id": "BFMTV_1776496804",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PREMIER MINISTRE PAKISTANAIS A TERMINÉ SA TOURNÉE DANS PLUSIEURS PAYS DE LA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:20",
-      "date": "18/04",
-      "timestamp": 1776496804
-    },
-    {
-      "id": "BFMTV_1776496046",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: RÉOUVERTURE D'UNE PARTIE DE L'ESPACE AÉRIEN IRANIEN, LES VOLS INTERNATIONAUX DE NOUVEAU AUTORISÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:07",
-      "date": "18/04",
-      "timestamp": 1776496046
-    },
-    {
-      "id": "BFMTV_1776491082",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: MALGRÉ LE DÉMENTI DU GOUVERNEMENT IRANIEN, DONALD TRUMP ASSURE QUE L'URANIUM ENRICHI SERA \"RAPPORTÉ AUX ÉTATS-UNIS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:44",
-      "date": "18/04",
-      "timestamp": 1776491082
-    },
-    {
-      "id": "BFMTV_1776488691",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA RÉOUVERTURE DU DÉTROIT DORMUZ SOUMISE AUX CONDITIONS DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:04",
-      "date": "18/04",
-      "timestamp": 1776488691
     }
   ],
   "france": {
