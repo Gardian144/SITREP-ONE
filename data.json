@@ -1,7 +1,57 @@
 {
-  "last_update": "20/04 16:46",
+  "last_update": "20/04 17:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776706646",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QUE LE CESSEZ-LE-FEU AVEC L'IRAN PRENDRA FIN MERCREDI SOIR \"HEURE DE WASHINGTON\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:37",
+      "date": "20/04",
+      "timestamp": 1776706646
+    },
+    {
+      "id": "BFMTV_1776706238",
+      "source": "BFMTV",
+      "text": "STATUE DE JÉSUS ENDOMMAGÉE AU LIBAN PAR UN SOLDAT ISRAÉLIEN: LA PHOTO POLÉMIQUE QUI EMBARRASSE TSAHAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:30",
+      "date": "20/04",
+      "timestamp": 1776706238
+    },
+    {
+      "id": "BFMTV_1776705403",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE UNE FIN DE CESSEZ-LE-FEU AVEC L'IRAN MERCREDI SOIR, \"HEURE DE WASHINGTON\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:16",
+      "date": "20/04",
+      "timestamp": 1776705403
+    },
+    {
+      "id": "OPEX360_1776705368",
+      "source": "OPEX360",
+      "text": "LE COMMISSARIAT DES ARMÉES TESTE UNE SOLUTION INNOVANTE POUR RENFORCER LA PROTECTION BALISTIQUE DU COMBATTANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:16",
+      "date": "20/04",
+      "timestamp": 1776705368
+    },
+    {
+      "id": "BFMTV_1776704834",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE \"LE CESSEZ-LE-FEU AVEC L'IRAN SERA TERMINÉ MERCREDI SOIR\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:07",
+      "date": "20/04",
+      "timestamp": 1776704834
+    },
     {
       "id": "BFMTV_1776703308",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "20:05",
       "date": "19/04",
       "timestamp": 1776629147
-    },
-    {
-      "id": "BFMTV_1776628811",
-      "source": "BFMTV",
-      "text": "TRUMP ANNONCE QUE LA MARINE AMÉRICAINE A TIRÉ SUR UN CARGO IRANIEN ET EN A PRIS LE CONTRÔLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:00",
-      "date": "19/04",
-      "timestamp": 1776628811
-    },
-    {
-      "id": "BFMTV_1776628139",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QUE LA MARINE AMÉRICAINE A TIRÉ SUR UN CARGO IRANIEN DANS LE GOLFE D'OMAN ET EN A PRIS LE CONTRÔLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:48",
-      "date": "19/04",
-      "timestamp": 1776628139
-    },
-    {
-      "id": "BFMTV_1776628139",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN NE COMPTE PAS DISCUTER À NOUVEAU AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:48",
-      "date": "19/04",
-      "timestamp": 1776628139
-    },
-    {
-      "id": "BFMTV_1776627386",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE QUE LA MARINE AMÉRICAINE A TIRÉ SUR UN CARGO IRANIEN DANS LE GOLFE D'OMAN ET EN A PRIS LE CONTRÔLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:36",
-      "date": "19/04",
-      "timestamp": 1776627386
-    },
-    {
-      "id": "BFMTV_1776626474",
-      "source": "BFMTV",
-      "text": "REPRISE DES NÉGOCIATIONS: L'IRAN A REJETÉ LA TENUE DE NOUVELLES NÉGOCIATIONS ALORS QU'UNE DÉLÉGATION AMÉRICAINE SE RENDRA LUNDI AU PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:21",
-      "date": "19/04",
-      "timestamp": 1776626474
     }
   ],
   "france": {
