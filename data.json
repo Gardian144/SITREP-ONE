@@ -1,7 +1,57 @@
 {
-  "last_update": "20/04 19:14",
+  "last_update": "20/04 20:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776714071",
+      "source": "BFMTV",
+      "text": "DANS LE NORD D'ISRAËL, L'ACTIVITÉ MILITAIRE S'INTENSIFIE AVEC DES OPÉRATIONS DE DÉMANTÈLEMENT DES STRUCTURES DU HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:41",
+      "date": "20/04",
+      "timestamp": 1776714071
+    },
+    {
+      "id": "BFMTV_1776713993",
+      "source": "BFMTV",
+      "text": "LE PORTUGAL REJOINT LA COALITION EUROPÉENNE CONTRE LA CRIMINALITÉ ORGANISÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:39",
+      "date": "20/04",
+      "timestamp": 1776713993
+    },
+    {
+      "id": "BFMTV_1776713818",
+      "source": "BFMTV",
+      "text": "LE PORTE-AVIONS CHARLES DE GAULLE A ÉTÉ LOCALISÉ AVEC UN TRACEUR À 5 EUROS, SELON UN MÉDIA NÉERLANDAIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:36",
+      "date": "20/04",
+      "timestamp": 1776713818
+    },
+    {
+      "id": "BFMTV_1776713775",
+      "source": "BFMTV",
+      "text": "LE HEZBOLLAH MENACE DE FRANCHIR LA \"LIGNE JAUNE\", UNE ZONE TAMPON AU SUD DU LIBAN, ACTUELLEMENT SOUS CONTRÔLE ISRAÉLIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:36",
+      "date": "20/04",
+      "timestamp": 1776713775
+    },
+    {
+      "id": "BFMTV_1776712968",
+      "source": "BFMTV",
+      "text": "CARGO IRANIEN INTERCEPTÉ: LES DERNIERS DÉTAILS DE L'OPÉRATION",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:22",
+      "date": "20/04",
+      "timestamp": 1776712968
+    },
     {
       "id": "BFMTV_1776712338",
       "source": "BFMTV",
@@ -11,6 +61,16 @@
       "time": "19:12",
       "date": "20/04",
       "timestamp": 1776712338
+    },
+    {
+      "id": "BFMTV_1776712001",
+      "source": "BFMTV",
+      "text": "CARGO IRANIEN INTERCEPTÉ: L'ANALYSE D'ALAIN BAUER, AUTEUR DE \"TRUMP, LE POUVOIR DES MOTS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:06",
+      "date": "20/04",
+      "timestamp": 1776712001
     },
     {
       "id": "BFMTV_1776711771",
@@ -96,6 +156,16 @@
       "id": "BFMTV_1776705403",
       "source": "BFMTV",
       "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE UNE FIN DE CESSEZ-LE-FEU AVEC L'IRAN MERCREDI SOIR, \"HEURE DE WASHINGTON\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:16",
+      "date": "20/04",
+      "timestamp": 1776705403
+    },
+    {
+      "id": "BFMTV_1776705403",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
       "urgent": true,
       "france_related": false,
       "time": "17:16",
@@ -931,76 +1001,6 @@
       "time": "04:17",
       "date": "20/04",
       "timestamp": 1776658643
-    },
-    {
-      "id": "BFMTV_1776658427",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: À QUELQUES JOURS DE LA FIN DU CESSEZ-LE-FEU, LES NÉGOCIATIONS ENTRE WASHINGTON ET TÉHÉRAN SEMBLENT COMPROMISES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:13",
-      "date": "20/04",
-      "timestamp": 1776658427
-    },
-    {
-      "id": "BFMTV_1776658364",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE DÉLÉGATION AMÉRICAINE DOIT ARRIVER CE LUNDI SOIR AU PAKISTAN POUR DE NOUVELLES NÉGOCIATIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:12",
-      "date": "20/04",
-      "timestamp": 1776658364
-    },
-    {
-      "id": "BFMTV_1776658343",
-      "source": "BFMTV",
-      "text": "LA MARINE AMÉRICAINE SAISIT UN CARGO IRANIEN DANS LE GOLFE D'OMAN, L'IRAN PROMET DE RÉPONDRE À CET \"ACTE DE PIRATERIE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:12",
-      "date": "20/04",
-      "timestamp": 1776658343
-    },
-    {
-      "id": "BFMTV_1776658075",
-      "source": "BFMTV",
-      "text": "COMMENT S'EST DÉROULÉ L'ARRAISONNEMENT DU NAVIRE IRANIEN PAR L'ARMÉE AMÉRICAINE ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:07",
-      "date": "20/04",
-      "timestamp": 1776658075
-    },
-    {
-      "id": "BFMTV_1776658032",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA MARINE AMÉRICAINE A TIRÉ ET PRIS LE CONTRÔLE SUR UN CARGO IRANIEN DANS LE GOLFE D'OMAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:07",
-      "date": "20/04",
-      "timestamp": 1776658032
-    },
-    {
-      "id": "BFMTV_1776635393",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN NE COMPTE PAS DISCUTER À NOUVEAU AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:49",
-      "date": "19/04",
-      "timestamp": 1776635393
-    },
-    {
-      "id": "BFMTV_1776634192",
-      "source": "BFMTV",
-      "text": "LES IMAGES DE LA 31E UNITÉ DE MARINES À BORD DU NAVIRE IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:29",
-      "date": "19/04",
-      "timestamp": 1776634192
     }
   ],
   "france": {
