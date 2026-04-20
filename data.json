@@ -1,7 +1,37 @@
 {
-  "last_update": "20/04 20:07",
+  "last_update": "20/04 21:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776718387",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT DU PARLEMENT IRANIEN ESTIME QUE LES POLITIQUES IRANIENS QUI S'OPPOSENT AUX POURPARLERS DE CESSEZ-LE-FEU SONT \"EXTRÉMISTES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:53",
+      "date": "20/04",
+      "timestamp": 1776718387
+    },
+    {
+      "id": "BFMTV_1776716782",
+      "source": "BFMTV",
+      "text": "LA HAUSSE DU PRIX DU CARBURANT MALGRÉ LA BAISSE DU PRIX DU PÉTROLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:26",
+      "date": "20/04",
+      "timestamp": 1776716782
+    },
+    {
+      "id": "BFMTV_1776715640",
+      "source": "BFMTV",
+      "text": "DÉTROIT D’ORMUZ: LES PRÉOCCUPATIONS DE DONALD TRUMP SUR LE FUTUR ACCORD AVEC L’IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:07",
+      "date": "20/04",
+      "timestamp": 1776715640
+    },
     {
       "id": "BFMTV_1776714071",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "04:27",
       "date": "20/04",
       "timestamp": 1776659232
-    },
-    {
-      "id": "BFMTV_1776658997",
-      "source": "BFMTV",
-      "text": "L'ÉMOTION DANS LA COMMUNE DU SERGENT-CHEF FLORIAN MONTORIO, TUÉ AU LIBAN ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:23",
-      "date": "20/04",
-      "timestamp": 1776658997
-    },
-    {
-      "id": "BFMTV_1776658861",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN PROMET DE \"RIPOSTER BIENTÔT\" À LA SAISIE D'UN CARGO PAR LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:21",
-      "date": "20/04",
-      "timestamp": 1776658861
-    },
-    {
-      "id": "BFMTV_1776658643",
-      "source": "BFMTV",
-      "text": "MALGRÉ LA TRÊVE ENTRE LE LIBAN ET ISRAËL, LES ACCROCHAGES ENTRE LE HEZBOLLAH ET TSAHAL CONTINUENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:17",
-      "date": "20/04",
-      "timestamp": 1776658643
     }
   ],
   "france": {
