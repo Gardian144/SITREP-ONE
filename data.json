@@ -1,7 +1,57 @@
 {
-  "last_update": "20/04 10:57",
+  "last_update": "20/04 12:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776686596",
+      "source": "BFMTV",
+      "text": "ADEL BAKAWAN, SPÉCIALISTE DU MOYEN-ORIENT: \"LE SOUCI MAJEUR DES GARDIENS DE LA RÉVOLUTION CE N'EST PAS LA GUERRE, C'EST SAUVER LA RÉPUBLIQUE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:03",
+      "date": "20/04",
+      "timestamp": 1776686596
+    },
+    {
+      "id": "BFMTV_1776685190",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QU’EST-CE QUE LA \"FLOTTE MOUSTIQUE\", L’ATOUT MARITIME DE L’IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:39",
+      "date": "20/04",
+      "timestamp": 1776685190
+    },
+    {
+      "id": "BFMTV_1776682791",
+      "source": "BFMTV",
+      "text": "DISSUASION NUCLÉAIRE: EMMANUEL MACRON EN VISITE EN POLOGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:59",
+      "date": "20/04",
+      "timestamp": 1776682791
+    },
+    {
+      "id": "BFMTV_1776682759",
+      "source": "BFMTV",
+      "text": "HUIT ENFANTS TUÉS DANS UNE FUSILLADE EN LOUISIANE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:59",
+      "date": "20/04",
+      "timestamp": 1776682759
+    },
+    {
+      "id": "BFMTV_1776682646",
+      "source": "BFMTV",
+      "text": "TUERIE EN LOUISIANE: LE TIREUR AVAIT DES PROBLÈMES DE SANTÉ MENTALE ET DES PENSÉES SUICIDAIRES, SELON SES PROCHES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:57",
+      "date": "20/04",
+      "timestamp": 1776682646
+    },
     {
       "id": "BFMTV_1776682508",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "11:36",
       "date": "19/04",
       "timestamp": 1776598560
-    },
-    {
-      "id": "BFMTV_1776596795",
-      "source": "BFMTV",
-      "text": "COMMENT SE MATÉRIALISE LE BLOCUS DANS LE DÉTROIT D'ORMUZ? L'ANALYSE DU GÉNÉRAL PATRICK DUTARTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:06",
-      "date": "19/04",
-      "timestamp": 1776596795
-    },
-    {
-      "id": "BFMTV_1776596760",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: MAUD BREGEON DIT QU'IL EST \"HORS DE QUESTION QUE LA FRANCE PAYE UN DROIT DE PASSAGE AU DÉTROIT D'ORMUZ\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:06",
-      "date": "19/04",
-      "timestamp": 1776596760
-    },
-    {
-      "id": "OPEX360_1776596059",
-      "source": "OPEX360",
-      "text": "L’ALLEMAGNE VA POUVOIR DOTER SES FUTURES FRÉGATES F127 DE SYSTÈMES DE COMBAT AMÉRICAINS POUR 10 MILLIARDS D’EUROS",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:54",
-      "date": "19/04",
-      "timestamp": 1776596059
-    },
-    {
-      "id": "BFMTV_1776595942",
-      "source": "BFMTV",
-      "text": "LA PORTE-PAROLE DU GOUVERNEMENT MAUD BREGEON ÉVOQUE LA MORT DU SERGENT-CHEF MONTORIO AU LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:52",
-      "date": "19/04",
-      "timestamp": 1776595942
-    },
-    {
-      "id": "BFMTV_1776595724",
-      "source": "BFMTV",
-      "text": " LA DÉPOUILLE DU SERGENT-CHEF FLORIAN MONTORIO SERA \"RAPATRIÉE CE DIMANCHE\", ANNONCE MAUD BREGEON ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:48",
-      "date": "19/04",
-      "timestamp": 1776595724
     }
   ],
   "france": {
