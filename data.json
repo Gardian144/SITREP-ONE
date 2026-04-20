@@ -1,7 +1,147 @@
 {
-  "last_update": "20/04 12:08",
+  "last_update": "20/04 14:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776694070",
+      "source": "BFMTV",
+      "text": "JEAN-PIERRE LACROIX (ONU) AFFIRME \"QU'IL Y UNE FORTE DÉTERMINATION DE LA FINUL A RESTER LÀ OÙ ELLE EST PRÉSENTE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:07",
+      "date": "20/04",
+      "timestamp": 1776694070
+    },
+    {
+      "id": "BFMTV_1776693889",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: \"IL Y A UN CERTAIN NOMBRE D'ÉLÉMENTS QUI SUGGÈRENT UNE RESPONSABILITÉ DU HEZBOLLAH\", AFFIRME JEAN-PIERRE LACROIX (ONU)",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:04",
+      "date": "20/04",
+      "timestamp": 1776693889
+    },
+    {
+      "id": "BFMTV_1776693821",
+      "source": "BFMTV",
+      "text": "\"L'EUROPE EST LE PLUS GRAND SOUTIEN DE L'ÉTAT PALESTINIEN\", AFFIRME KAJA KALLAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:03",
+      "date": "20/04",
+      "timestamp": 1776693821
+    },
+    {
+      "id": "BFMTV_1776693777",
+      "source": "BFMTV",
+      "text": "UKRAINE: DEUX POLICIERS ACCUSÉS D'AVOIR FUI LA FUSILLADE QUI A FAIT SIX MORTS CE SAMEDI À KIEV SUSPENDUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:02",
+      "date": "20/04",
+      "timestamp": 1776693777
+    },
+    {
+      "id": "BFMTV_1776693388",
+      "source": "BFMTV",
+      "text": "UNE SEMAINE APRÈS SON ARRESTATION, L'INFLUENCEUR PANAFRICANISTE KÉMI SEBA DEMANDE L'ASILE À L'AFRIQUE DU SUD",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:56",
+      "date": "20/04",
+      "timestamp": 1776693388
+    },
+    {
+      "id": "BFMTV_1776693212",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:53",
+      "date": "20/04",
+      "timestamp": 1776693212
+    },
+    {
+      "id": "BFMTV_1776693118",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'AUTORITÉ IRANIENNE DE L'AVIATION CIVILE ANNONCE LA RÉOUVERTURE DES DEUX PRINCIPAUX AÉROPORTS DE TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:51",
+      "date": "20/04",
+      "timestamp": 1776693118
+    },
+    {
+      "id": "BFMTV_1776692898",
+      "source": "BFMTV",
+      "text": "SUD LIBAN: LE HEZBOLLAH ASSURE QU'IL BRISERA LA \"LIGNE JAUNE\" ISRAÉLIENNE AU LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:48",
+      "date": "20/04",
+      "timestamp": 1776692898
+    },
+    {
+      "id": "BFMTV_1776692664",
+      "source": "BFMTV",
+      "text": "POURPARLERS IRAN/ÉTATS-UNIS: LA CAPITALE DU PAKISTAN, ISLAMABAD, PLACÉE SOUS HAUTE SÉCURITÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:44",
+      "date": "20/04",
+      "timestamp": 1776692664
+    },
+    {
+      "id": "BFMTV_1776690828",
+      "source": "BFMTV",
+      "text": "IRAN: LES PRINCIPAUX AÉROPORTS DE TÉHÉRAN ROUVRENT, ANNONCE L'AVIATION CIVILE DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:13",
+      "date": "20/04",
+      "timestamp": 1776690828
+    },
+    {
+      "id": "BFMTV_1776689822",
+      "source": "BFMTV",
+      "text": "OUVERT AU DIALOGUE AVEC MOSCOU, EX-PILOTE DE CHASSE... QUI EST ROUMEN RADEV, L'ANCIEN PRÉSIDENT BULGARE ARRIVÉ EN TÊTE AUX LÉGISLATIVES?",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:57",
+      "date": "20/04",
+      "timestamp": 1776689822
+    },
+    {
+      "id": "BFMTV_1776689536",
+      "source": "BFMTV",
+      "text": "BÂTIMENTS ÉVENTRÉS, VITRES CASSÉES... BFMTV AU CŒUR D'UN FIEF DU HEZBOLLAH BOMBARDÉ PAR ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:52",
+      "date": "20/04",
+      "timestamp": 1776689536
+    },
+    {
+      "id": "BFMTV_1776688694",
+      "source": "BFMTV",
+      "text": "UNE IRANIENNE ARRÊTÉE À LOS ANGELES POUR TRAFIC D'ARMES VERS LE SOUDAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:38",
+      "date": "20/04",
+      "timestamp": 1776688694
+    },
+    {
+      "id": "BFMTV_1776688485",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: QUE SAIT-ON DE L'OPÉRATION DE DÉMINAGE LANCÉE PAR LA MARINE AMÉRICAINE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:34",
+      "date": "20/04",
+      "timestamp": 1776688485
+    },
     {
       "id": "BFMTV_1776686596",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "15:37",
       "date": "19/04",
       "timestamp": 1776613057
-    },
-    {
-      "id": "BFMTV_1776611477",
-      "source": "BFMTV",
-      "text": "IL A ÉTÉ TOUCHÉ ALORS QU'IL FÊTAIT LA VICTOIRE DE SON ÉQUIPE: LA VILLE DE LOS ANGELES VA VERSER 11,8 MILLIONS DE DOLLARS À UN HOMME QUI A PERDU UN OEIL APRÈS LE TIR D'UN POLICIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:11",
-      "date": "19/04",
-      "timestamp": 1776611477
-    },
-    {
-      "id": "BFMTV_1776610566",
-      "source": "BFMTV",
-      "text": "LE BLOCUS AMÉRICAIN ET IRANIEN AUTOUR DU DÉTROIT D'ORMUZ S'INTENSIFIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:56",
-      "date": "19/04",
-      "timestamp": 1776610566
-    },
-    {
-      "id": "BFMTV_1776610566",
-      "source": "BFMTV",
-      "text": "LES BLOCUS AMÉRICAIN ET IRANIEN AUTOUR DU DÉTROIT D'ORMUZ TOUJOURS AU CŒUR DES TENSIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:56",
-      "date": "19/04",
-      "timestamp": 1776610566
-    },
-    {
-      "id": "BFMTV_1776609137",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE MINISTRE ISRAÉLIEN DE LA DÉFENSE ASSURE QU'ISRAËL USERA DE \"TOUTE SA FORCE\" AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:32",
-      "date": "19/04",
-      "timestamp": 1776609137
-    },
-    {
-      "id": "BFMTV_1776609134",
-      "source": "BFMTV",
-      "text": "LA SITUATION AU SUD-LIBAN RESTE TENDUE MALGRÉ LE CESSEZ-LE-FEU EN VIGUEUR DEPUIS TROIS JOURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:32",
-      "date": "19/04",
-      "timestamp": 1776609134
-    },
-    {
-      "id": "BFMTV_1776609133",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QU'UNE DÉLÉGATION AMÉRICAINE SERA AU PAKISTAN DEMAIN \"POUR NÉGOCIER\" AVEC L'IRAN ",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:32",
-      "date": "19/04",
-      "timestamp": 1776609133
-    },
-    {
-      "id": "BFMTV_1776606596",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN PARACHUTISTE S’ÉCRASE SUR UN TABLEAU D’AFFICHAGE AVANT UN MATCH DE FOOTBALL AMÉRICAIN ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:49",
-      "date": "19/04",
-      "timestamp": 1776606596
-    },
-    {
-      "id": "BFMTV_1776606556",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE L'ENVOI LUNDI D'UNE DÉLÉGATION AU PAKISTAN POUR DES NÉGOCIATIONS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:49",
-      "date": "19/04",
-      "timestamp": 1776606556
-    },
-    {
-      "id": "BFMTV_1776605660",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISLAMABAD SE PRÉPARE AUX NOUVELLES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:34",
-      "date": "19/04",
-      "timestamp": 1776605660
-    },
-    {
-      "id": "BFMTV_1776604520",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE \"DÉTRUIRE TOUTES LES CENTRALES ÉLECTRIQUES ET LES PONTS\" EN IRAN SI LE RÉGIME REFUSE LE \"DEAL RAISONNABLE\" QUI LUI EST OFFERT",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:15",
-      "date": "19/04",
-      "timestamp": 1776604520
-    },
-    {
-      "id": "BFMTV_1776603065",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: STEVE WITKOFF ET JARED KUSHNER EN ROUTE POUR LE PAKISTAN POUR DE NOUVELLES NÉGOCIATIONS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:51",
-      "date": "19/04",
-      "timestamp": 1776603065
-    },
-    {
-      "id": "BFMTV_1776601965",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QU'UNE DÉLÉGATION AMÉRICAINE SERA AU PAKISTAN DEMAIN \"POUR NÉGOCIER\" AVEC L'IRAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "12:32",
-      "date": "19/04",
-      "timestamp": 1776601965
-    },
-    {
-      "id": "BFMTV_1776601456",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QUE DES REPRÉSENTANTS AMÉRICAINS SE RENDENT À ISLAMABAD POUR DES NÉGOCIATIONS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:24",
-      "date": "19/04",
-      "timestamp": 1776601456
-    },
-    {
-      "id": "BFMTV_1776598560",
-      "source": "BFMTV",
-      "text": "L'IRAN ANNONCE LA REPRISE DES VOLS INTERNATIONAUX DEPUIS L'AÉROPORT DE MACHHAD CE LUNDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:36",
-      "date": "19/04",
-      "timestamp": 1776598560
     }
   ],
   "france": {
