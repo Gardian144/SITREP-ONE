@@ -1,7 +1,87 @@
 {
-  "last_update": "20/04 21:01",
+  "last_update": "20/04 22:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776722222",
+      "source": "BFMTV",
+      "text": "LA MINISTRE DU TRAVAIL DE DONALD TRUMP QUITTE LE GOUVERNEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:57",
+      "date": "20/04",
+      "timestamp": 1776722222
+    },
+    {
+      "id": "BFMTV_1776721393",
+      "source": "BFMTV",
+      "text": "UNE CANADIENNE TUÉE DANS UNE FUSILLADE SUR UN SITE ARCHÉOLOGIQUE AU MEXIQUE, QUATRE AUTRES PERSONNES BLESSÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:43",
+      "date": "20/04",
+      "timestamp": 1776721393
+    },
+    {
+      "id": "BFMTV_1776721044",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"ON N'A PAS D'INFORMATION COMME QUOI ON A VU DES IRANIENS MOUILLER DES MINES\", EXPLIQUE THOMAS COUVIN, ANCIEN PLONGEUR DÉMINEUR DE LA MARINE NATIONALE",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:37",
+      "date": "20/04",
+      "timestamp": 1776721044
+    },
+    {
+      "id": "BFMTV_1776720796",
+      "source": "BFMTV",
+      "text": "UN SPECTACLE \"DE BAS ÉTAGE\": LA RUSSIE S'EN PREND À L'UKRAINE ET À L'UE, LORS D'UNE RÉUNION DU CONSEIL DE SÉCURITÉ DE L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:33",
+      "date": "20/04",
+      "timestamp": 1776720796
+    },
+    {
+      "id": "BFMTV_1776720685",
+      "source": "BFMTV",
+      "text": "CESSEZ-LE-FEU: LA FRANCE APPELLE LA RUSSIE À SE \"JOINDRE AU LARGE CONSENSUS INTERNATIONAL\" (AMBASSADEUR À L'ONU)",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:31",
+      "date": "20/04",
+      "timestamp": 1776720685
+    },
+    {
+      "id": "BFMTV_1776719834",
+      "source": "BFMTV",
+      "text": "SELON LE NEW YORK TIMES, LE PRÉSIDENT DU PARLEMENT IRANIEN NE PARTICIPERA AUX NÉGOCIATIONS AU PAKISTAN QUE SI J.D. VANCE, LE VICE-PRÉSIDENT AMÉRICAIN, EST PRÉSENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:17",
+      "date": "20/04",
+      "timestamp": 1776719834
+    },
+    {
+      "id": "BFMTV_1776719603",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS AVEC L'IRAN: \"ÇA FAIT CINQ SEMAINES QUE TRUMP DIT N'IMPORTE QUOI\", DÉCLARE VINCENT DESPORTES, ANCIEN DIRECTEUR DE L'ÉCOLE DE GUERRE",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:13",
+      "date": "20/04",
+      "timestamp": 1776719603
+    },
+    {
+      "id": "BFMTV_1776718848",
+      "source": "BFMTV",
+      "text": "BLOCUS DU DÉTROIT D’ORMUZ: “LES AMÉRICAINS ET LES IRANIENS LUTTENT CONTRE LE TEMPS”, RÉSUME LE GÉNÉRAL VINCENT DESPORTES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:00",
+      "date": "20/04",
+      "timestamp": 1776718848
+    },
     {
       "id": "BFMTV_1776718387",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "05:18",
       "date": "20/04",
       "timestamp": 1776662298
-    },
-    {
-      "id": "BFMTV_1776662189",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE PROCÈDE À DE NOMBREUSES DESTRUCTIONS À LA FRONTIÈRE ENTRE ISRAËL ET LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:16",
-      "date": "20/04",
-      "timestamp": 1776662189
-    },
-    {
-      "id": "BFMTV_1776661676",
-      "source": "BFMTV",
-      "text": "TROIS MORTS DANS UNE FRAPPE AMÉRICAINE CONTRE UN BATEAU SOUPÇONNÉ DE TRAFIC DE DROGUES DANS LES CARAÏBES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:07",
-      "date": "20/04",
-      "timestamp": 1776661676
-    },
-    {
-      "id": "BFMTV_1776661327",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN NE COMPTE PAS SE RENDRE AU PAKISTAN POUR DE NOUVEAUX POURPARLERS AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:02",
-      "date": "20/04",
-      "timestamp": 1776661327
-    },
-    {
-      "id": "BFMTV_1776661185",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN DISPOSITIF DE SÉCURITÉ RENFORCÉ À ISLAMABAD AU PAKISTAN POUR ACCUEILLIR LES POURPARLERS ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:59",
-      "date": "20/04",
-      "timestamp": 1776661185
-    },
-    {
-      "id": "BFMTV_1776660660",
-      "source": "BFMTV",
-      "text": "L'ARMÉE AMÉRICAINE PUBLIE DE NOUVELLES IMAGES DE L'ARRAISONNEMENT D'UN CARGO IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:51",
-      "date": "20/04",
-      "timestamp": 1776660660
-    },
-    {
-      "id": "BFMTV_1776660051",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN SOLDAT ISRAÉLIEN PHOTOGRAPHIÉ EN TRAIN DE FRAPPER UNE STATUE DE JÉSUS-CHRIST DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:40",
-      "date": "20/04",
-      "timestamp": 1776660051
-    },
-    {
-      "id": "BFMTV_1776659883",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BFMTV À BORD D'UN AVION FRANÇAIS DE PATROUILLE MARITIME",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:38",
-      "date": "20/04",
-      "timestamp": 1776659883
-    },
-    {
-      "id": "BFMTV_1776659232",
-      "source": "BFMTV",
-      "text": "\"UN ACTE DE PIRATERIE ARMÉE\": L'IRAN PROMET DE \"RIPOSTER BIENTÔT\" À LA SAISIE D'UN CARGO PAR LA MARINE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:27",
-      "date": "20/04",
-      "timestamp": 1776659232
     }
   ],
   "france": {
