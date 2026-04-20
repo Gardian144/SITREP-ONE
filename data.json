@@ -1,7 +1,137 @@
 {
-  "last_update": "20/04 04:29",
+  "last_update": "20/04 06:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776665754",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DE L'ESPOIR D'UN ACCORD À LA CRAINTE D'UN REGAIN DE TENSIONS, COMMENT LA SITUATION A BASCULÉ EN QUELQUES JOURS? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:15",
+      "date": "20/04",
+      "timestamp": 1776665754
+    },
+    {
+      "id": "BFMTV_1776665214",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DE L'ARRAISONNEMENT D'UN CARGO IRANIEN PAR LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:06",
+      "date": "20/04",
+      "timestamp": 1776665214
+    },
+    {
+      "id": "BFMTV_1776663871",
+      "source": "BFMTV",
+      "text": "L'IRAN N'IRA PAS AUX POURPARLERS, LE CESSEZ-LE-FEU ARRIVE BIENTÔT À EXPIRATION… Y'A-T-IL UN RISQUE DE REPRISE DES COMBATS ENTRE L'IRAN ET LES ÉTATS-UNIS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:44",
+      "date": "20/04",
+      "timestamp": 1776663871
+    },
+    {
+      "id": "BFMTV_1776663420",
+      "source": "BFMTV",
+      "text": "PIRE TUERIE AUX ÉTATS-UNIS DEPUIS 2024, SUSPECT ABATTU... CE QUE L'ON SAIT DE LA MORT PAR BALLES DE HUIT ENFANTS EN LOUISIANE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:37",
+      "date": "20/04",
+      "timestamp": 1776663420
+    },
+    {
+      "id": "BFMTV_1776663205",
+      "source": "BFMTV",
+      "text": "L'ARMÉE AMÉRICAINE PUBLIE DE NOUVELLES IMAGES DE L'ARRAISONNEMENT D'UN CARGO IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:33",
+      "date": "20/04",
+      "timestamp": 1776663205
+    },
+    {
+      "id": "BFMTV_1776662298",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: MALGRÉ LA TRÊVE ENTRE LE LIBAN ET ISRAËL, LE HEZBOLLAH DIT \"GARDER LE DOIGT SUR LA GÂCHETTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:18",
+      "date": "20/04",
+      "timestamp": 1776662298
+    },
+    {
+      "id": "BFMTV_1776662189",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE PROCÈDE À DE NOMBREUSES DESTRUCTIONS À LA FRONTIÈRE ENTRE ISRAËL ET LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:16",
+      "date": "20/04",
+      "timestamp": 1776662189
+    },
+    {
+      "id": "BFMTV_1776661676",
+      "source": "BFMTV",
+      "text": "TROIS MORTS DANS UNE FRAPPE AMÉRICAINE CONTRE UN BATEAU SOUPÇONNÉ DE TRAFIC DE DROGUES DANS LES CARAÏBES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:07",
+      "date": "20/04",
+      "timestamp": 1776661676
+    },
+    {
+      "id": "BFMTV_1776661327",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN NE COMPTE PAS SE RENDRE AU PAKISTAN POUR DE NOUVEAUX POURPARLERS AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:02",
+      "date": "20/04",
+      "timestamp": 1776661327
+    },
+    {
+      "id": "BFMTV_1776661185",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN DISPOSITIF DE SÉCURITÉ RENFORCÉ À ISLAMABAD AU PAKISTAN POUR ACCUEILLIR LES POURPARLERS ENTRE L'IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:59",
+      "date": "20/04",
+      "timestamp": 1776661185
+    },
+    {
+      "id": "BFMTV_1776660660",
+      "source": "BFMTV",
+      "text": "L'ARMÉE AMÉRICAINE PUBLIE DE NOUVELLES IMAGES DE L'ARRAISONNEMENT D'UN CARGO IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:51",
+      "date": "20/04",
+      "timestamp": 1776660660
+    },
+    {
+      "id": "BFMTV_1776660051",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN SOLDAT ISRAÉLIEN PHOTOGRAPHIÉ EN TRAIN DE FRAPPER UNE STATUE DE JÉSUS-CHRIST DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:40",
+      "date": "20/04",
+      "timestamp": 1776660051
+    },
+    {
+      "id": "BFMTV_1776659883",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BFMTV À BORD D'UN AVION FRANÇAIS DE PATROUILLE MARITIME",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:38",
+      "date": "20/04",
+      "timestamp": 1776659883
+    },
     {
       "id": "BFMTV_1776659232",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "05:39",
       "date": "19/04",
       "timestamp": 1776577196
-    },
-    {
-      "id": "BFMTV_1776577099",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ESCALADE DES TENSIONS AUTOUR DU DÉTROIT D'ORMUZ, 48 HEURES AVANT L'EXPIRATION DU CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:38",
-      "date": "19/04",
-      "timestamp": 1776577099
-    },
-    {
-      "id": "BFMTV_1776576048",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: TÉHÉRAN MAINTIENT LE DÉTROIT D'ORMUZ FERMÉ CE DIMANCHE À TROIS JOURS DE L'EXPIRATION DU CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:20",
-      "date": "19/04",
-      "timestamp": 1776576048
-    },
-    {
-      "id": "BFMTV_1776574601",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QUEL EST LE RÔLE DE LA FINUL, GARANT INTERNATIONAL DE LA PAIX AU LIBAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:56",
-      "date": "19/04",
-      "timestamp": 1776574601
-    },
-    {
-      "id": "BFMTV_1776574502",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ: BFMTV AUX CÔTÉS DE LA FINUL AU LIBAN",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:55",
-      "date": "19/04",
-      "timestamp": 1776574502
-    },
-    {
-      "id": "BFMTV_1776574424",
-      "source": "BFMTV",
-      "text": "LA BULGARIE VOTE POUR LA HUITIÈME FOIS EN CINQ ANS, L'EX-PRÉSIDENT ROUMEN RADEV CONSIDÉRÉ COMME FAVORI",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:53",
-      "date": "19/04",
-      "timestamp": 1776574424
-    },
-    {
-      "id": "BFMTV_1776574104",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TSAHAL AFFIRME QU'ELLE CONTINUERA D'OCCUPER DES DIZAINES DE VILLAGES LIBANAIS FRONTALIERS AVEC LE NORD D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:48",
-      "date": "19/04",
-      "timestamp": 1776574104
-    },
-    {
-      "id": "BFMTV_1776573778",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ÉMOTION À MONTAUBAN APRÈS LA MORT DU SERGENT-CHEF FLORIAN MONTORIO AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:42",
-      "date": "19/04",
-      "timestamp": 1776573778
-    },
-    {
-      "id": "BFMTV_1776573520",
-      "source": "BFMTV",
-      "text": "TÉHÉRAN DURCIT LE TON AU SUJET DU DÉTROIT D'ORMUZ, MAIS AFFIRME QUE LES DISCUSSIONS AVEC WASHINGTON ONT PROGRESSÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:38",
-      "date": "19/04",
-      "timestamp": 1776573520
-    },
-    {
-      "id": "BFMTV_1776573115",
-      "source": "BFMTV",
-      "text": "IRAN: QUI EST BITA HEMMATI, CONDAMNÉE À MORT PAR UN TRIBUNAL RÉVOLUTIONNAIRE ET NOUVEAU VISAGE DE LA RÉPRESSION IRANIENNE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:31",
-      "date": "19/04",
-      "timestamp": 1776573115
-    },
-    {
-      "id": "BFMTV_1776573098",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: LE PRÉSIDENT DU PARLEMENT IRANIEN DIT QUE LES NÉGOCIATIONS ONT PROGRESSÉ MAIS QU'UN ACCORD FINAL RESTE \"LOIN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:31",
-      "date": "19/04",
-      "timestamp": 1776573098
-    },
-    {
-      "id": "BFMTV_1776572935",
-      "source": "BFMTV",
-      "text": "CASQUES BLEUS: 343 SOLDATS MORTS DEPUIS LA CRÉATION DE LA FINUL EN 1987",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:28",
-      "date": "19/04",
-      "timestamp": 1776572935
-    },
-    {
-      "id": "BFMTV_1776572723",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ASSUME DE POURSUIVRE SES OPÉRATIONS MILITAIRES AU SUD-LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:25",
-      "date": "19/04",
-      "timestamp": 1776572723
-    },
-    {
-      "id": "BFMTV_1776570055",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: TÉHÉRAN AFFIRME QUE LES NÉGOCIATIONS ONT PROGRESSÉ MAIS QU'UN ACCORD FINAL RESTE \"LOIN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:40",
-      "date": "19/04",
-      "timestamp": 1776570055
     }
   ],
   "france": {
