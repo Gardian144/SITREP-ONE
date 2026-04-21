@@ -1,7 +1,77 @@
 {
-  "last_update": "21/04 10:49",
+  "last_update": "21/04 11:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776772486",
+      "source": "BFMTV",
+      "text": "SUD-LIBAN: BFMTV AU PLUS PRÈS DES POSITIONS DE TSAHAL, SUR LA \"LIGNE JAUNE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:54",
+      "date": "21/04",
+      "timestamp": 1776772486
+    },
+    {
+      "id": "BFMTV_1776772257",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ACCUSE L'IRAN D'AVOIR \"VIOLÉ LE CESSEZ-LE-FEU À DE NOMBREUSES REPRISES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:50",
+      "date": "21/04",
+      "timestamp": 1776772257
+    },
+    {
+      "id": "BFMTV_1776771198",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ACCUSE L'IRAN D'AVOIR \"VIOLÉ LE CESSEZ-LE-FEU À DE NOMBREUSES REPRISES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:33",
+      "date": "21/04",
+      "timestamp": 1776771198
+    },
+    {
+      "id": "BFMTV_1776771013",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA CÉRÉMONIE D'HOMMAGE AU SERGENT-CHEF FLORIAN MONTORIO, TUÉ AU LIBAN, AURA LIEU CE JEUDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:30",
+      "date": "21/04",
+      "timestamp": 1776771013
+    },
+    {
+      "id": "BFMTV_1776770194",
+      "source": "BFMTV",
+      "text": "AFFAIRE MANDELSON: DEUX DÉPUTÉS EXPULSÉS DU PARLEMENT BRITANNIQUE APRÈS AVOIR ACCUSÉ KEIR STARMER D'AVOIR \"MENTI\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:16",
+      "date": "21/04",
+      "timestamp": 1776770194
+    },
+    {
+      "id": "BFMTV_1776768590",
+      "source": "BFMTV",
+      "text": "DANS LES VILLAGES LIBANAIS DÉTRUITS PAR LES FRAPPES ISRAÉLIENNES, LE HEZBOLLAH AFFICHE SES DRAPEAUX",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:49",
+      "date": "21/04",
+      "timestamp": 1776768590
+    },
+    {
+      "id": "BFMTV_1776768529",
+      "source": "BFMTV",
+      "text": "TROIS SOLDATS JAPONAIS TUÉS DANS L'EXPLOSION D'UN CHAR LORS D'UN EXERCICE MILITAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:48",
+      "date": "21/04",
+      "timestamp": 1776768529
+    },
     {
       "id": "BFMTV_1776767848",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "15:13",
       "date": "20/04",
       "timestamp": 1776698025
-    },
-    {
-      "id": "BFMTV_1776697664",
-      "source": "BFMTV",
-      "text": "\"LA FRANCE N'A PAS ÉTÉ PRISE À PARTIE\" DANS LE DÉTROIT D'ORMUZ, ESTIME EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:07",
-      "date": "20/04",
-      "timestamp": 1776697664
-    },
-    {
-      "id": "OPEX360_1776695807",
-      "source": "OPEX360",
-      "text": "LA 27E BRIGADE D’INFANTERIE DE MONTAGNE EXPÉRIMENTE LE CONCEPT DE «COMBAT DÉCENTRALISÉ»",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:36",
-      "date": "20/04",
-      "timestamp": 1776695807
-    },
-    {
-      "id": "BFMTV_1776694070",
-      "source": "BFMTV",
-      "text": "JEAN-PIERRE LACROIX (ONU) AFFIRME \"QU'IL Y UNE FORTE DÉTERMINATION DE LA FINUL A RESTER LÀ OÙ ELLE EST PRÉSENTE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:07",
-      "date": "20/04",
-      "timestamp": 1776694070
-    },
-    {
-      "id": "BFMTV_1776693889",
-      "source": "BFMTV",
-      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: \"IL Y A UN CERTAIN NOMBRE D'ÉLÉMENTS QUI SUGGÈRENT UNE RESPONSABILITÉ DU HEZBOLLAH\", AFFIRME JEAN-PIERRE LACROIX (ONU)",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:04",
-      "date": "20/04",
-      "timestamp": 1776693889
-    },
-    {
-      "id": "BFMTV_1776693821",
-      "source": "BFMTV",
-      "text": "\"L'EUROPE EST LE PLUS GRAND SOUTIEN DE L'ÉTAT PALESTINIEN\", AFFIRME KAJA KALLAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:03",
-      "date": "20/04",
-      "timestamp": 1776693821
-    },
-    {
-      "id": "BFMTV_1776693777",
-      "source": "BFMTV",
-      "text": "UKRAINE: DEUX POLICIERS ACCUSÉS D'AVOIR FUI LA FUSILLADE QUI A FAIT SIX MORTS CE SAMEDI À KIEV SUSPENDUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:02",
-      "date": "20/04",
-      "timestamp": 1776693777
-    },
-    {
-      "id": "BFMTV_1776693388",
-      "source": "BFMTV",
-      "text": "UNE SEMAINE APRÈS SON ARRESTATION, L'INFLUENCEUR PANAFRICANISTE KÉMI SEBA DEMANDE L'ASILE À L'AFRIQUE DU SUD",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:56",
-      "date": "20/04",
-      "timestamp": 1776693388
     }
   ],
   "france": {
