@@ -1,7 +1,117 @@
 {
-  "last_update": "21/04 09:25",
+  "last_update": "21/04 10:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776767848",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: I'IRAN ESTIME QU'IL Y A UNE \"FORTE PROBABILITÉ\" DE NOUVELLES FRAPPES AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:37",
+      "date": "21/04",
+      "timestamp": 1776767848
+    },
+    {
+      "id": "BFMTV_1776767190",
+      "source": "BFMTV",
+      "text": "ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:26",
+      "date": "21/04",
+      "timestamp": 1776767190
+    },
+    {
+      "id": "BFMTV_1776767190",
+      "source": "BFMTV",
+      "text": "\"DES DÉCÈS ÉVITABLES\": ENVIRON 7.900 MIGRANTS SONT MORTS OU ONT DISPARU SUR LES ROUTES MIGRATOIRES EN 2025, SELON L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:26",
+      "date": "21/04",
+      "timestamp": 1776767190
+    },
+    {
+      "id": "BFMTV_1776767065",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE CHEF DU POUVOIR JUDICIAIRE IRANIEN JUGE QU'IL EXISTE UNE \"FORTE PROBABILITÉ\" DE VOIR DE NOUVELLES FRAPPES AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:24",
+      "date": "21/04",
+      "timestamp": 1776767065
+    },
+    {
+      "id": "BFMTV_1776766922",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA COMMUNICATION DE DONALD TRUMP EST-ELLE UN FREIN À LA DIPLOMATIE? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:22",
+      "date": "21/04",
+      "timestamp": 1776766922
+    },
+    {
+      "id": "OPEX360_1776766218",
+      "source": "OPEX360",
+      "text": "LE DANEMARK A NOTIFIÉ UNE COMMANDE DE SYSTÈMES DE DÉFENSE AÉRIENNE SAMP/T NG À THALES",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:10",
+      "date": "21/04",
+      "timestamp": 1776766218
+    },
+    {
+      "id": "BFMTV_1776765854",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN: \"LES RISQUES LIÉS À LA NOMINATION DE MANDELSON ÉTAIENT BIEN CONNUS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:04",
+      "date": "21/04",
+      "timestamp": 1776765854
+    },
+    {
+      "id": "BFMTV_1776765370",
+      "source": "BFMTV",
+      "text": "UKRAINE: LA BELGIQUE \"ESPÈRE\" LE SOUTIEN DE LA HONGRIE POUR CONSOLIDER LE PRÊT EUROPÉEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:56",
+      "date": "21/04",
+      "timestamp": 1776765370
+    },
+    {
+      "id": "BFMTV_1776765231",
+      "source": "BFMTV",
+      "text": "\"UN TISSU DE MENSONGES\": LE REPRÉSENTANT DE L'UKRAINE À L'ONU RÉPOND AUX ACCUSATIONS DE LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:53",
+      "date": "21/04",
+      "timestamp": 1776765231
+    },
+    {
+      "id": "BFMTV_1776765159",
+      "source": "BFMTV",
+      "text": "\"DES IMBÉCILES MISOGYNES ET IGNARES\": LES SERVIETTES HYGIÉNIQUES BLOQUÉES PAR LES MILITAIRES EN BIRMANIE, LES REBELLES ACCUSÉS DE LES UTILISER EN PREMIER SECOURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:52",
+      "date": "21/04",
+      "timestamp": 1776765159
+    },
+    {
+      "id": "BFMTV_1776764879",
+      "source": "BFMTV",
+      "text": "UN JOURNALISTE PALESTINIEN DÉCRIT DES VIOLENCES SEXUELLES SUBIES EN DÉTENTION ISRAÉLIENNE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:47",
+      "date": "21/04",
+      "timestamp": 1776764879
+    },
     {
       "id": "BFMTV_1776763410",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "13:56",
       "date": "20/04",
       "timestamp": 1776693388
-    },
-    {
-      "id": "BFMTV_1776693212",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:53",
-      "date": "20/04",
-      "timestamp": 1776693212
-    },
-    {
-      "id": "BFMTV_1776693118",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'AUTORITÉ IRANIENNE DE L'AVIATION CIVILE ANNONCE LA RÉOUVERTURE DES DEUX PRINCIPAUX AÉROPORTS DE TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:51",
-      "date": "20/04",
-      "timestamp": 1776693118
-    },
-    {
-      "id": "BFMTV_1776692898",
-      "source": "BFMTV",
-      "text": "SUD LIBAN: LE HEZBOLLAH ASSURE QU'IL BRISERA LA \"LIGNE JAUNE\" ISRAÉLIENNE AU LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:48",
-      "date": "20/04",
-      "timestamp": 1776692898
-    },
-    {
-      "id": "BFMTV_1776692664",
-      "source": "BFMTV",
-      "text": "POURPARLERS IRAN/ÉTATS-UNIS: LA CAPITALE DU PAKISTAN, ISLAMABAD, PLACÉE SOUS HAUTE SÉCURITÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:44",
-      "date": "20/04",
-      "timestamp": 1776692664
-    },
-    {
-      "id": "BFMTV_1776690828",
-      "source": "BFMTV",
-      "text": "IRAN: LES PRINCIPAUX AÉROPORTS DE TÉHÉRAN ROUVRENT, ANNONCE L'AVIATION CIVILE DU PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:13",
-      "date": "20/04",
-      "timestamp": 1776690828
-    },
-    {
-      "id": "BFMTV_1776689822",
-      "source": "BFMTV",
-      "text": "OUVERT AU DIALOGUE AVEC MOSCOU, EX-PILOTE DE CHASSE... QUI EST ROUMEN RADEV, L'ANCIEN PRÉSIDENT BULGARE ARRIVÉ EN TÊTE AUX LÉGISLATIVES?",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:57",
-      "date": "20/04",
-      "timestamp": 1776689822
-    },
-    {
-      "id": "BFMTV_1776689536",
-      "source": "BFMTV",
-      "text": "BÂTIMENTS ÉVENTRÉS, VITRES CASSÉES... BFMTV AU CŒUR D'UN FIEF DU HEZBOLLAH BOMBARDÉ PAR ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:52",
-      "date": "20/04",
-      "timestamp": 1776689536
-    },
-    {
-      "id": "BFMTV_1776688694",
-      "source": "BFMTV",
-      "text": "UNE IRANIENNE ARRÊTÉE À LOS ANGELES POUR TRAFIC D'ARMES VERS LE SOUDAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:38",
-      "date": "20/04",
-      "timestamp": 1776688694
-    },
-    {
-      "id": "BFMTV_1776688485",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: QUE SAIT-ON DE L'OPÉRATION DE DÉMINAGE LANCÉE PAR LA MARINE AMÉRICAINE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:34",
-      "date": "20/04",
-      "timestamp": 1776688485
-    },
-    {
-      "id": "BFMTV_1776686596",
-      "source": "BFMTV",
-      "text": "ADEL BAKAWAN, SPÉCIALISTE DU MOYEN-ORIENT: \"LE SOUCI MAJEUR DES GARDIENS DE LA RÉVOLUTION CE N'EST PAS LA GUERRE, C'EST SAUVER LA RÉPUBLIQUE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:03",
-      "date": "20/04",
-      "timestamp": 1776686596
-    },
-    {
-      "id": "BFMTV_1776685190",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QU’EST-CE QUE LA \"FLOTTE MOUSTIQUE\", L’ATOUT MARITIME DE L’IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:39",
-      "date": "20/04",
-      "timestamp": 1776685190
     }
   ],
   "france": {
