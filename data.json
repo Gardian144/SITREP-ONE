@@ -1,7 +1,147 @@
 {
-  "last_update": "21/04 03:36",
+  "last_update": "21/04 05:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776750541",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN PRÊT À ABATTRE DE \"NOUVELLES CARTES SUR LE CHAMP DE BATAILLE\" SI LE CONFLIT REPREND",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:49",
+      "date": "21/04",
+      "timestamp": 1776750541
+    },
+    {
+      "id": "BFMTV_1776750464",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES COMMUNES DU NORD D'ISRAËL SE MOBILISENT CONTRE LE CESSEZ-LE-FEU AVEC LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:47",
+      "date": "21/04",
+      "timestamp": 1776750464
+    },
+    {
+      "id": "BFMTV_1776750204",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE BARIL DE PÉTROLE STAGNE, EST-CE LE MOMENT DE FAIRE LE PLEIN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:43",
+      "date": "21/04",
+      "timestamp": 1776750204
+    },
+    {
+      "id": "BFMTV_1776749468",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN SE DIT PRÊT À \"ABATTRE DE NOUVELLES CARTES SUR LE CHAMP DE BATAILLE\" SI LE CONFLIT VENAIT À REPRENDRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:31",
+      "date": "21/04",
+      "timestamp": 1776749468
+    },
+    {
+      "id": "BFMTV_1776748275",
+      "source": "BFMTV",
+      "text": "UN SIMPLE TRACEUR À 5 EUROS A PERMIS À UN MÉDIA DE PISTER LE PORTE-AVIONS CHARLES DE GAULLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:11",
+      "date": "21/04",
+      "timestamp": 1776748275
+    },
+    {
+      "id": "BFMTV_1776747894",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS TUÉ AU LIBAN: LE CONSEIL DE SÉCURITÉ DE L'ONU EXIGE QUE LES RESPONSABLES \"SOIENT TRADUITS EN JUSTICE SANS DÉLAI\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:04",
+      "date": "21/04",
+      "timestamp": 1776747894
+    },
+    {
+      "id": "BFMTV_1776747633",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES LIBANAIS DÉPLACÉS RETROUVENT LEUR MAISON DÉTRUITE APRÈS LES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:00",
+      "date": "21/04",
+      "timestamp": 1776747633
+    },
+    {
+      "id": "BFMTV_1776747279",
+      "source": "BFMTV",
+      "text": "SÉCURITÉ RENFORCÉE À ISLAMABAD AVANT DE NOUVEAUX POURPARLERS ENTRE LES ÉTATS-UNIS ET L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:54",
+      "date": "21/04",
+      "timestamp": 1776747279
+    },
+    {
+      "id": "BFMTV_1776746802",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: APRÈS LES TIRS SUR UN CARGO IRANIEN PAR L'ARMÉE AMÉRICAINE DANS LE DÉTROIT D'ORMUZ, LE TRAFIC MARITIME TOUJOURS PARALYSÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:46",
+      "date": "21/04",
+      "timestamp": 1776746802
+    },
+    {
+      "id": "BFMTV_1776746434",
+      "source": "BFMTV",
+      "text": "À QUELQUES JOURS DE L'EXPIRATION DU CESSEZ-LE-FEU, LA TENUE DE NOUVELLES NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS RESTE INCERTAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:40",
+      "date": "21/04",
+      "timestamp": 1776746434
+    },
+    {
+      "id": "BFMTV_1776746301",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE LIBAN, VICTIME DU HEZBOLLAH?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:38",
+      "date": "21/04",
+      "timestamp": 1776746301
+    },
+    {
+      "id": "BFMTV_1776746259",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BIENTÔT DES POURPARLERS ENTRE L'IRAN ET LES ÉTATS-UNIS AU PAKISTAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:37",
+      "date": "21/04",
+      "timestamp": 1776746259
+    },
+    {
+      "id": "BFMTV_1776746164",
+      "source": "BFMTV",
+      "text": "EN ROUTE VERS LE DÉTROIT D'ORMUZ, COMMENT FONCTIONNENT LES BATEAUX CHASSEURS DE MINES AMÉRICAINS?",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:36",
+      "date": "21/04",
+      "timestamp": 1776746164
+    },
+    {
+      "id": "BFMTV_1776746002",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ESTIME QU'IL SERA \"LONG ET DIFFICILE\" D'EXHUMER L'URANIUM IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:33",
+      "date": "21/04",
+      "timestamp": 1776746002
+    },
     {
       "id": "BFMTV_1776723957",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "08:20",
       "date": "20/04",
       "timestamp": 1776673254
-    },
-    {
-      "id": "BFMTV_1776672931",
-      "source": "BFMTV",
-      "text": "LIBAN: LE HEZBOLLAH AUTORISE LES JOURNALISTES À FILMER LES DESTRUCTIONS DANS CETTE BANLIEUE SUD DE BEYROUTH, UNE PREMIÈRE DEPUIS LE DÉBUT DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:15",
-      "date": "20/04",
-      "timestamp": 1776672931
-    },
-    {
-      "id": "BFMTV_1776672064",
-      "source": "BFMTV",
-      "text": "ARGENTINE: DES PILOTES PERDENT LE CONTRÔLE DE LEUR VÉHICULE DANS UN RALLYE FAISANT UN MORT ET PLUSIEURS BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:01",
-      "date": "20/04",
-      "timestamp": 1776672064
-    },
-    {
-      "id": "BFMTV_1776671153",
-      "source": "BFMTV",
-      "text": "DES \"DÉPOUILLES ÉLIMINÉES DE MANIÈRE IRRÉGULIÈRE\": LA CINQUANTAINE DE CORPS DÉCOUVERTS À TRINITÉ-ET-TOBAGO NE SONT PAS DES VICTIMES D'HOMICIDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:45",
-      "date": "20/04",
-      "timestamp": 1776671153
-    },
-    {
-      "id": "BFMTV_1776671139",
-      "source": "BFMTV",
-      "text": "UNE ALLEMANDE ARRÊTÉE AVEC UNE BOMBE ARTISANALE DANS SON SAC À DOS DANS LE SUD DE LA RUSSIE",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:45",
-      "date": "20/04",
-      "timestamp": 1776671139
-    },
-    {
-      "id": "BFMTV_1776670385",
-      "source": "BFMTV",
-      "text": "ILS AVAIENT DÉGRADÉ UNE VOITURE DÉGUISÉS EN OURS POUR TOUCHER L'ASSURANCE: TROIS AMÉRICAINS CONDAMNÉS POUR TENTATIVE DE FRAUDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:33",
-      "date": "20/04",
-      "timestamp": 1776670385
-    },
-    {
-      "id": "BFMTV_1776669852",
-      "source": "BFMTV",
-      "text": "EN DÉPLACEMENT À JÉRUSALEM, LE PRÉSIDENT ARGENTIN JAVIER MILEI ESTIME QUE LA GUERRE CONTRE L'IRAN ÉTAIT \"LA BONNE CHOSE À FAIRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:24",
-      "date": "20/04",
-      "timestamp": 1776669852
-    },
-    {
-      "id": "BFMTV_1776669489",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: TSAHAL PROCÈDE À DE NOMBREUSES DESTRUCTIONS À LA FRONTIÈRE ENTRE ISRAËL ET LE LIBAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:18",
-      "date": "20/04",
-      "timestamp": 1776669489
-    },
-    {
-      "id": "BFMTV_1776668206",
-      "source": "BFMTV",
-      "text": "\"À JAMAIS DANS NOS CŒURS\": VIVE DOULEUR À VALENCE D'AGEN, LA VILLE DU SERGENT-CHEF FLORIAN MONTORIO TUÉ AU LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:56",
-      "date": "20/04",
-      "timestamp": 1776668206
-    },
-    {
-      "id": "BFMTV_1776668148",
-      "source": "BFMTV",
-      "text": "QUATRE AGENTS ANTIDROGUE, DONT DEUX AMÉRICAINS, MEURENT DANS UN ACCIDENT DE LA ROUTE AU MEXIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:55",
-      "date": "20/04",
-      "timestamp": 1776668148
-    },
-    {
-      "id": "BFMTV_1776665754",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DE L'ESPOIR D'UN ACCORD À LA CRAINTE D'UN REGAIN DE TENSIONS, COMMENT LA SITUATION A BASCULÉ EN QUELQUES JOURS? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:15",
-      "date": "20/04",
-      "timestamp": 1776665754
-    },
-    {
-      "id": "BFMTV_1776665214",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DE L'ARRAISONNEMENT D'UN CARGO IRANIEN PAR LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:06",
-      "date": "20/04",
-      "timestamp": 1776665214
-    },
-    {
-      "id": "BFMTV_1776663871",
-      "source": "BFMTV",
-      "text": "L'IRAN N'IRA PAS AUX POURPARLERS, LE CESSEZ-LE-FEU ARRIVE BIENTÔT À EXPIRATION… Y'A-T-IL UN RISQUE DE REPRISE DES COMBATS ENTRE L'IRAN ET LES ÉTATS-UNIS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:44",
-      "date": "20/04",
-      "timestamp": 1776663871
-    },
-    {
-      "id": "BFMTV_1776663420",
-      "source": "BFMTV",
-      "text": "PIRE TUERIE AUX ÉTATS-UNIS DEPUIS 2024, SUSPECT ABATTU... CE QUE L'ON SAIT DE LA MORT PAR BALLES DE HUIT ENFANTS EN LOUISIANE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:37",
-      "date": "20/04",
-      "timestamp": 1776663420
-    },
-    {
-      "id": "BFMTV_1776663205",
-      "source": "BFMTV",
-      "text": "L'ARMÉE AMÉRICAINE PUBLIE DE NOUVELLES IMAGES DE L'ARRAISONNEMENT D'UN CARGO IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:33",
-      "date": "20/04",
-      "timestamp": 1776663205
     }
   ],
   "france": {
