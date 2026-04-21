@@ -1,7 +1,57 @@
 {
-  "last_update": "21/04 20:02",
+  "last_update": "21/04 21:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776804688",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP PROLONGE UNE NOUVELLE FOIS LE CESSEZ-LE-FEU AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:51",
+      "date": "21/04",
+      "timestamp": 1776804688
+    },
+    {
+      "id": "BFMTV_1776802896",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS: \"LE CESSEZ-LE-FEU EST PROLONGÉ\", ANNONCE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:21",
+      "date": "21/04",
+      "timestamp": 1776802896
+    },
+    {
+      "id": "BFMTV_1776802888",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP PROLONGE UNE NOUVELLE FOIS LE CESSEZ-LE-FEU AVEC L'IRAN, LE BLOCUS DES PORTS IRANIENS MAINTENU",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:21",
+      "date": "21/04",
+      "timestamp": 1776802888
+    },
+    {
+      "id": "BFMTV_1776802259",
+      "source": "BFMTV",
+      "text": "“ON A DEUX PARTIES QUI NE SONT PAS TOUT À FAIT MÛRES POUR COMMENCER LES NÉGOCIATIONS”, OBSERVE JACQUES AUDIBERT, ANCIEN CONSEILLER DIPLOMATIQUE DE FRANÇOIS HOLLANDE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:10",
+      "date": "21/04",
+      "timestamp": 1776802259
+    },
+    {
+      "id": "BFMTV_1776801896",
+      "source": "BFMTV",
+      "text": "POURPARLERS ENTRE L’IRAN ET LES ÉTATS-UNIS: “LES NÉGOCIATIONS NE SONT PAS MORTES”, AFFIRME JACQUES AUDIBERT, ANCIEN CONSEILLER DIPLOMATIQUE DE FRANÇOIS HOLLANDE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:04",
+      "date": "21/04",
+      "timestamp": 1776801896
+    },
     {
       "id": "BFMTV_1776801632",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "07:17",
       "date": "21/04",
       "timestamp": 1776755851
-    },
-    {
-      "id": "BFMTV_1776755608",
-      "source": "BFMTV",
-      "text": "LIBAN: À LA RENCONTRE D'UN MEMBRE DU HEZBOLLAH DANS LA BANLIEUE SUD DE BEYROUTH ",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:13",
-      "date": "21/04",
-      "timestamp": 1776755608
-    },
-    {
-      "id": "BFMTV_1776755281",
-      "source": "BFMTV",
-      "text": "SITE ARCHÉOLOGIQUE, COUPS DE FEU... CE QUE L'ON SAIT DE LA FUSILLADE QUI A COÛTÉ LA VIE À UNE CANADIENNE ET FAIT 13 BLESSÉS AU MEXIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:08",
-      "date": "21/04",
-      "timestamp": 1776755281
-    },
-    {
-      "id": "BFMTV_1776754702",
-      "source": "BFMTV",
-      "text": "DES DIRIGEANTS AMÉRICAINS ONT-ILS ENVISAGÉ L'USAGE DE L'ARME NUCLÉAIRE AU MOYEN-ORIENT? DOMINIQUE DE VILLEPIN ESTIME QUE L'IDÉE N'EST \"PAS TOTALEMENT À EXCLURE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:58",
-      "date": "21/04",
-      "timestamp": 1776754702
-    },
-    {
-      "id": "BFMTV_1776754689",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"JE SUIS POUR QUE NOUS AYONS UN RENFORCEMENT DE LA FINUL, VOIRE UNE COALITION DE PAYS QUI PUISSENT AIDER L'ÉTAT LIBANAIS À DÉSARMER LE HEZBOLLAH\", DÉCLARE DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:58",
-      "date": "21/04",
-      "timestamp": 1776754689
-    },
-    {
-      "id": "BFMTV_1776753625",
-      "source": "BFMTV",
-      "text": "L'IRAN A \"UN ESPRIT DE RÉSISTANCE EXTRÊMEMENT SOLIDE\", ESTIME L'ANCIEN PREMIER MINISTRE DOMINIQUE DE VILLEPIN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:40",
-      "date": "21/04",
-      "timestamp": 1776753625
     }
   ],
   "france": {
