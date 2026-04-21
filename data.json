@@ -1,7 +1,67 @@
 {
-  "last_update": "21/04 21:05",
+  "last_update": "21/04 21:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776808475",
+      "source": "BFMTV",
+      "text": "IRAN: DONALD TRUMP DEMANDE LA LIBÉRATION DE HUIT FEMMES MENACÉES D'EXÉCUTION",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:54",
+      "date": "21/04",
+      "timestamp": 1776808475
+    },
+    {
+      "id": "BFMTV_1776807981",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP PROLONGE UNE NOUVELLE FOIS LE CESSEZ-LE-FEU AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:46",
+      "date": "21/04",
+      "timestamp": 1776807981
+    },
+    {
+      "id": "BFMTV_1776806889",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE PAKISTANAIS REMERCIE DONALD TRUMP POUR AVOIR RECONDUIT LE CESSEZ-LE-FEU AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:28",
+      "date": "21/04",
+      "timestamp": 1776806889
+    },
+    {
+      "id": "BFMTV_1776806797",
+      "source": "BFMTV",
+      "text": " DONALD TRUMP PROLONGE UNE NOUVELLE FOIS LE CESSEZ-LE-FEU AVEC L'IRAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:26",
+      "date": "21/04",
+      "timestamp": 1776806797
+    },
+    {
+      "id": "BFMTV_1776806388",
+      "source": "BFMTV",
+      "text": "L'ONU \"N'AVANCE PAS DANS LA BONNE DIRECTION\", SELON LE DIPLOMATE ARGENTIN, RAFAEL MARIANO GROSSI",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:19",
+      "date": "21/04",
+      "timestamp": 1776806388
+    },
+    {
+      "id": "BFMTV_1776806232",
+      "source": "BFMTV",
+      "text": "SUSPENSION DE L'ACCORD UE-ISRAËL: UNE \"INTERROGATION LÉGITIME\" SELON EMMANUEL MACRON",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:17",
+      "date": "21/04",
+      "timestamp": 1776806232
+    },
     {
       "id": "BFMTV_1776804688",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "08:30",
       "date": "21/04",
       "timestamp": 1776760249
-    },
-    {
-      "id": "BFMTV_1776760013",
-      "source": "BFMTV",
-      "text": "SANCTIONS DE L'UE BLOQUÉES PAR L'ANCIEN GOUVERNEMENT ORBAN: \"NOUS ROUVRONS LES DISCUSSIONS ET ESPÉRONS OBTENIR UN RÉSULTAT POSITIF\", DÉCLARE KAJA KALLAS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:26",
-      "date": "21/04",
-      "timestamp": 1776760013
-    },
-    {
-      "id": "BFMTV_1776759897",
-      "source": "BFMTV",
-      "text": "APRÈS SA VISITE EN ANGOLA, LE PAPE LÉON XIV S'ENVOLE POUR LA GUINÉE ÉQUATORIALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:24",
-      "date": "21/04",
-      "timestamp": 1776759897
-    },
-    {
-      "id": "BFMTV_1776759878",
-      "source": "BFMTV",
-      "text": "\"ACCELERATE EU\": L'EUROPE ANNONCE LE LANCEMENT D'UN PLAN ÉNERGÉTIQUE POUR LES TRANSPORTS DES ÉTATS MEMBRES FACE À LA CRISE AU MOYEN-ORIENT ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:24",
-      "date": "21/04",
-      "timestamp": 1776759878
-    },
-    {
-      "id": "BFMTV_1776755897",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SÉBASTIEN LECORNU DEMANDE \"4 MILLIARDS D'EUROS\" D'ÉCONOMIES AU GOUVERNEMENT FACE AUX CONSÉQUENCES DU CONFLIT",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:18",
-      "date": "21/04",
-      "timestamp": 1776755897
-    },
-    {
-      "id": "BFMTV_1776755851",
-      "source": "BFMTV",
-      "text": "TROIS PERSONNES TUÉES PAR UNE FRAPPE ISRAÉLIENNE DANS LE SUD DE GAZA, SELON LA DÉFENSE CIVILE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:17",
-      "date": "21/04",
-      "timestamp": 1776755851
-    },
-    {
-      "id": "BFMTV_1776755851",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:17",
-      "date": "21/04",
-      "timestamp": 1776755851
     }
   ],
   "france": {
