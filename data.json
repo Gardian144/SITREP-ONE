@@ -1,7 +1,137 @@
 {
-  "last_update": "21/04 07:49",
+  "last_update": "21/04 09:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776763410",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QU'AUCUNE DÉLÉGATION N'EST ENCORE PARTIE POUR DES POURPARLERS AU PAKISTAN AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:23",
+      "date": "21/04",
+      "timestamp": 1776763410
+    },
+    {
+      "id": "BFMTV_1776763039",
+      "source": "BFMTV",
+      "text": "LA COUR DE JUSTICE DE L'UNION EUROPÉENNE ACCUSE LA HONGRIE D'AVOIR \"VIOLÉ\" LE DROIT DE L'UE EN MARGINALISANT LES PERSONNES LGBT+",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:17",
+      "date": "21/04",
+      "timestamp": 1776763039
+    },
+    {
+      "id": "BFMTV_1776762776",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: IL EXISTE UNE \"FORTE PROBABILITÉ\" DE NOUVELLES FRAPPES AMÉRICAINES, ESTIME LE CHEF DU SYSTÈME JUDICIAIRE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:12",
+      "date": "21/04",
+      "timestamp": 1776762776
+    },
+    {
+      "id": "BFMTV_1776762368",
+      "source": "BFMTV",
+      "text": "\"COMPLEXE ET PRÉCAIRE\": INTÉRÊTS DIPLOMATIQUES, MILITAIRES... À QUOI SERVENT LES CESSEZ-LE-FEU CONCLUS AU MOYEN-ORIENT?",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:06",
+      "date": "21/04",
+      "timestamp": 1776762368
+    },
+    {
+      "id": "BFMTV_1776761949",
+      "source": "BFMTV",
+      "text": "\"C'EST TELLEMENT DOULOUREUX\": LES DÉPLACÉS LIBANAIS DE RETOUR CHEZ EUX À L'OCCASION D'UN CESSEZ-LE-FEU FRAGILE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:59",
+      "date": "21/04",
+      "timestamp": 1776761949
+    },
+    {
+      "id": "BFMTV_1776761949",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL - HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:59",
+      "date": "21/04",
+      "timestamp": 1776761949
+    },
+    {
+      "id": "BFMTV_1776761387",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"PLUS ÇA DURE, PLUS VOUS VOYEZ DES DIVISIONS À LA TÊTE DE L'IRAN, ENTRE CEUX QUI VEULENT NÉGOCIER ET CEUX QUI NE VEULENT PAS\", DÉCLARE ÉRIC DANON, ANCIEN AMBASSADEUR DE FRANCE EN ISRAËL",
+      "urgent": true,
+      "france_related": true,
+      "time": "08:49",
+      "date": "21/04",
+      "timestamp": 1776761387
+    },
+    {
+      "id": "BFMTV_1776761231",
+      "source": "BFMTV",
+      "text": "LE FUTUR PREMIER MINISTRE HONGROIS PETER MAGYAR EXÉCUTERA LES MANDATS D'ARRÊT DE LA COUR PÉNALE INTERNATIONALE, Y COMPRIS CELUI CONTRE BENJAMIN NETANYAHU",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:47",
+      "date": "21/04",
+      "timestamp": 1776761231
+    },
+    {
+      "id": "BFMTV_1776761033",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE BLOCUS AMÉRICAIN FERAIT PERDRE 435 MILLIONS DE DOLLARS PAR JOUR À L'IRAN, SELON UNE ESTIMATION DU WALL STREET JOURNAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:43",
+      "date": "21/04",
+      "timestamp": 1776761033
+    },
+    {
+      "id": "BFMTV_1776760249",
+      "source": "BFMTV",
+      "text": "DES PREMIERS TIRS À LA MORT DU SUSPECT: LE RÉCIT DES 68 MINUTES DE LA TUERIE EN LOUISIANE OÙ HUIT ENFANTS SONT MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:30",
+      "date": "21/04",
+      "timestamp": 1776760249
+    },
+    {
+      "id": "BFMTV_1776760013",
+      "source": "BFMTV",
+      "text": "SANCTIONS DE L'UE BLOQUÉES PAR L'ANCIEN GOUVERNEMENT ORBAN: \"NOUS ROUVRONS LES DISCUSSIONS ET ESPÉRONS OBTENIR UN RÉSULTAT POSITIF\", DÉCLARE KAJA KALLAS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:26",
+      "date": "21/04",
+      "timestamp": 1776760013
+    },
+    {
+      "id": "BFMTV_1776759897",
+      "source": "BFMTV",
+      "text": "APRÈS SA VISITE EN ANGOLA, LE PAPE LÉON XIV S'ENVOLE POUR LA GUINÉE ÉQUATORIALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:24",
+      "date": "21/04",
+      "timestamp": 1776759897
+    },
+    {
+      "id": "BFMTV_1776759878",
+      "source": "BFMTV",
+      "text": "\"ACCELERATE EU\": L'EUROPE ANNONCE LE LANCEMENT D'UN PLAN ÉNERGÉTIQUE POUR LES TRANSPORTS DES ÉTATS MEMBRES FACE À LA CRISE AU MOYEN-ORIENT ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:24",
+      "date": "21/04",
+      "timestamp": 1776759878
+    },
     {
       "id": "BFMTV_1776755897",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "11:39",
       "date": "20/04",
       "timestamp": 1776685190
-    },
-    {
-      "id": "BFMTV_1776682791",
-      "source": "BFMTV",
-      "text": "DISSUASION NUCLÉAIRE: EMMANUEL MACRON EN VISITE EN POLOGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:59",
-      "date": "20/04",
-      "timestamp": 1776682791
-    },
-    {
-      "id": "BFMTV_1776682759",
-      "source": "BFMTV",
-      "text": "HUIT ENFANTS TUÉS DANS UNE FUSILLADE EN LOUISIANE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:59",
-      "date": "20/04",
-      "timestamp": 1776682759
-    },
-    {
-      "id": "BFMTV_1776682646",
-      "source": "BFMTV",
-      "text": "TUERIE EN LOUISIANE: LE TIREUR AVAIT DES PROBLÈMES DE SANTÉ MENTALE ET DES PENSÉES SUICIDAIRES, SELON SES PROCHES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:57",
-      "date": "20/04",
-      "timestamp": 1776682646
-    },
-    {
-      "id": "BFMTV_1776682508",
-      "source": "BFMTV",
-      "text": "APRÈS UN SÉISME DE MAGNITUDE 7.4, UNE ALERTE AU \"MÉGA-SÉISME\" ÉMISE DANS LE NORD DU JAPON",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:55",
-      "date": "20/04",
-      "timestamp": 1776682508
-    },
-    {
-      "id": "BFMTV_1776682485",
-      "source": "BFMTV",
-      "text": "FERMETURE DU DÉTROIT D'ORMUZ: \"ON EST DANS UNE SITUATION D'ESCALADE\", ANALYSE DAMIEN CHEVALIER, CHARGÉ DE LA SÉCURITÉ AU SEIN DE L'ORGANISATION MARITIME INTERNATIONALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:54",
-      "date": "20/04",
-      "timestamp": 1776682485
-    },
-    {
-      "id": "BFMTV_1776682442",
-      "source": "BFMTV",
-      "text": "LONDRES: UNE INFLUENCEUSE ÉCRASE PLUSIEURS PERSONNES À LA SORTIE D'UNE BOÎTE DE NUIT",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:54",
-      "date": "20/04",
-      "timestamp": 1776682442
-    },
-    {
-      "id": "BFMTV_1776682030",
-      "source": "BFMTV",
-      "text": " UN SOLDAT ISRAÉLIEN PHOTOGRAPHIÉ EN TRAIN DE FRAPPER UNE STATUE DE JÉSUS-CHRIST AU LIBAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:47",
-      "date": "20/04",
-      "timestamp": 1776682030
-    },
-    {
-      "id": "OPEX360_1776682008",
-      "source": "OPEX360",
-      "text": "LA FORMATION DES FUTURS PILOTES UKRAINIENS D’AVIONS DE COMBAT JAS-39 GRIPEN POURRAIT COMMENCER DÈS CETTE ANNÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:46",
-      "date": "20/04",
-      "timestamp": 1776682008
-    },
-    {
-      "id": "BFMTV_1776682000",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA CAPITALE DU PAKISTAN SE PRÉPARE À NOUVEAU À ACCUEILLIR LES POURPARLERS, INCERTITUDE SUR LA PARTICIPATION DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:46",
-      "date": "20/04",
-      "timestamp": 1776682000
-    },
-    {
-      "id": "BFMTV_1776681686",
-      "source": "BFMTV",
-      "text": "\"PAS DE PÉNURIE DE KÉROZÈNE DANS L'UNION EUROPÉENNE\", INSISTE BRUXELLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:41",
-      "date": "20/04",
-      "timestamp": 1776681686
-    },
-    {
-      "id": "BFMTV_1776680880",
-      "source": "BFMTV",
-      "text": "\"PROTECT WHAT MATTERS\": BRUXELLES ANNONCE LE LANCEMENT D'UNE CAMPAGNE POUR PROTÉGER LA DÉMOCRATIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:28",
-      "date": "20/04",
-      "timestamp": 1776680880
-    },
-    {
-      "id": "BFMTV_1776679999",
-      "source": "BFMTV",
-      "text": "DEUX JEUNES DE 17 ET 19 ANS ARRÊTÉS APRÈS UNE NOUVELLE TENTATIVE D'INCENDIE CONTRE UNE SYNAGOGUE À LONDRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:13",
-      "date": "20/04",
-      "timestamp": 1776679999
-    },
-    {
-      "id": "BFMTV_1776679638",
-      "source": "BFMTV",
-      "text": "\"DES VIOLATIONS MANIFESTES DU CESSEZ-LE-FEU\": L'IRAN MET EN DOUTE LE \"SÉRIEUX\" DES ÉTATS-UNIS DANS LA VOIE DIPLOMATIQUE ET LAISSE PLANER LE DOUTE AUTOUR DES POURPARLERS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:07",
-      "date": "20/04",
-      "timestamp": 1776679638
     }
   ],
   "france": {
