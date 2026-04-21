@@ -1,7 +1,67 @@
 {
-  "last_update": "21/04 15:42",
+  "last_update": "21/04 16:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776789533",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SÉBASTIEN LECORNU ANNONCE UN \"DISPOSITIF D'ACCOMPAGNEMENT\" POUR LES \"GRANDS ROULEURS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:38",
+      "date": "21/04",
+      "timestamp": 1776789533
+    },
+    {
+      "id": "BFMTV_1776789372",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE LE CESSEZ-LE-FEU PRENDRA FIN CETTE NUIT, À 2H DU MATIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:36",
+      "date": "21/04",
+      "timestamp": 1776789372
+    },
+    {
+      "id": "OPEX360_1776788802",
+      "source": "OPEX360",
+      "text": "LES SOUS-MARINS NUCLÉAIRES LANCEURS D’ENGINS DE LA ROYAL NAVY PASSENT DÉSORMAIS PLUS DE 6 MOIS EN MER",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:26",
+      "date": "21/04",
+      "timestamp": 1776788802
+    },
+    {
+      "id": "BFMTV_1776787265",
+      "source": "BFMTV",
+      "text": "LIBAN: \"NOUS TRAVAILLONS SUR UNE ÉVENTUELLE MISSION CIVILE DE L'UE\", ANNONCE KAJA KALLAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:01",
+      "date": "21/04",
+      "timestamp": 1776787265
+    },
+    {
+      "id": "BFMTV_1776786480",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PREMIER MINISTRE LIBANAIS REÇU PAR EMMANUEL MACRON À L’ÉLYSÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:48",
+      "date": "21/04",
+      "timestamp": 1776786480
+    },
+    {
+      "id": "BFMTV_1776786167",
+      "source": "BFMTV",
+      "text": "PRÉSIDENCE DE LA FED: KEVIN WARSH ASSURE QU'IL NE SERA \"ABSOLUMENT PAS\" LA MARIONNETTE DE TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:42",
+      "date": "21/04",
+      "timestamp": 1776786167
+    },
     {
       "id": "BFMTV_1776785884",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "19:41",
       "date": "20/04",
       "timestamp": 1776714071
-    },
-    {
-      "id": "BFMTV_1776713993",
-      "source": "BFMTV",
-      "text": "LE PORTUGAL REJOINT LA COALITION EUROPÉENNE CONTRE LA CRIMINALITÉ ORGANISÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:39",
-      "date": "20/04",
-      "timestamp": 1776713993
-    },
-    {
-      "id": "BFMTV_1776713818",
-      "source": "BFMTV",
-      "text": "LE PORTE-AVIONS CHARLES DE GAULLE A ÉTÉ LOCALISÉ AVEC UN TRACEUR À 5 EUROS, SELON UN MÉDIA NÉERLANDAIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:36",
-      "date": "20/04",
-      "timestamp": 1776713818
-    },
-    {
-      "id": "BFMTV_1776713775",
-      "source": "BFMTV",
-      "text": "LE HEZBOLLAH MENACE DE FRANCHIR LA \"LIGNE JAUNE\", UNE ZONE TAMPON AU SUD DU LIBAN, ACTUELLEMENT SOUS CONTRÔLE ISRAÉLIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:36",
-      "date": "20/04",
-      "timestamp": 1776713775
-    },
-    {
-      "id": "BFMTV_1776712968",
-      "source": "BFMTV",
-      "text": "CARGO IRANIEN INTERCEPTÉ: LES DERNIERS DÉTAILS DE L'OPÉRATION",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:22",
-      "date": "20/04",
-      "timestamp": 1776712968
-    },
-    {
-      "id": "BFMTV_1776712338",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT QU'IL NE LÈVERA LE BLOCUS QU'EN CAS D'\"ACCORD\" AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:12",
-      "date": "20/04",
-      "timestamp": 1776712338
-    },
-    {
-      "id": "BFMTV_1776712001",
-      "source": "BFMTV",
-      "text": "CARGO IRANIEN INTERCEPTÉ: L'ANALYSE D'ALAIN BAUER, AUTEUR DE \"TRUMP, LE POUVOIR DES MOTS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:06",
-      "date": "20/04",
-      "timestamp": 1776712001
     }
   ],
   "france": {
