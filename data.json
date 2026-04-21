@@ -1,7 +1,87 @@
 {
-  "last_update": "21/04 17:42",
+  "last_update": "21/04 18:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776797003",
+      "source": "BFMTV",
+      "text": "NEGZZIA, MANNEQUIN IRANIENNE RÉFUGIÉE EN FRANCE: \"DEPUIS QUE JE SUIS ENFANT J'AI VU LES FEMMES CONDAMNÉES À MORT AVEC DES PIERRES\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:43",
+      "date": "21/04",
+      "timestamp": 1776797003
+    },
+    {
+      "id": "BFMTV_1776796596",
+      "source": "BFMTV",
+      "text": "\"UNE RECONNAISSANCE D'ÉCHEC\": L'ADMINISTRATION TRUMP FRAGILISÉE PAR DES SCANDALES ET PLUSIEURS DÉPARTS DE MINISTRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:36",
+      "date": "21/04",
+      "timestamp": 1776796596
+    },
+    {
+      "id": "BFMTV_1776796385",
+      "source": "BFMTV",
+      "text": "\"LA FRANCE EST L'AVOCATE DE SA SOUVERAINETÉ\": POURQUOI ISRAËL VEUT-IL QUE PARIS SE TIENNE LOIN DES NÉGOCIATIONS DE PAIX AVEC LE LIBAN?",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:33",
+      "date": "21/04",
+      "timestamp": 1776796385
+    },
+    {
+      "id": "BFMTV_1776795701",
+      "source": "BFMTV",
+      "text": "CAPACITÉS MILITAIRES IRANIENNES: \"À PARTIR DU MOMENT OÙ ILS VONT SORTIR À L'AIR LIBRE, ILS VONT ÊTRE TRÈS VULNÉRABLES\", ESTIME LE GÉNÉRAL JEAN-JACQUES BOREL",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:21",
+      "date": "21/04",
+      "timestamp": 1776795701
+    },
+    {
+      "id": "BFMTV_1776794274",
+      "source": "BFMTV",
+      "text": "LE LIBAN VEUT LE \"RETRAIT TOTAL DES FORCES ISRAÉLIENNES\", AFFIRME LE PREMIER MINISTRE LIBANAIS, NAWAF SALAM",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:57",
+      "date": "21/04",
+      "timestamp": 1776794274
+    },
+    {
+      "id": "BFMTV_1776794181",
+      "source": "BFMTV",
+      "text": "LIBAN-ISRAËL: “IL FAUT DONNER DU TEMPS À LA NÉGOCIATION ET NE PAS LAISSER LA GUERRE REPRENDRE SES DROITS”, AFFIRME EMMANUEL MACRON",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:56",
+      "date": "21/04",
+      "timestamp": 1776794181
+    },
+    {
+      "id": "BFMTV_1776794135",
+      "source": "BFMTV",
+      "text": "\"LE LIBAN A BESOIN DE 500 MILLIONS D'EUROS\": LE PREMIER MINISTRE LIBANAIS LANCE UN APPEL À L'AIDE FACE À LA CRISE HUMANITAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:55",
+      "date": "21/04",
+      "timestamp": 1776794135
+    },
+    {
+      "id": "BFMTV_1776793393",
+      "source": "BFMTV",
+      "text": "\"J'AURAIS GAGNÉ TRÈS RAPIDEMENT AU VIETNAM\": DONALD TRUMP VANTE SES QUALITÉS DE COMMANDANT EN CHEF ET ESTIME ÊTRE DANS UNE \"POSITION TRÈS FORTE\" EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:43",
+      "date": "21/04",
+      "timestamp": 1776793393
+    },
     {
       "id": "BFMTV_1776793253",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "04:54",
       "date": "21/04",
       "timestamp": 1776747279
-    },
-    {
-      "id": "BFMTV_1776746802",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: APRÈS LES TIRS SUR UN CARGO IRANIEN PAR L'ARMÉE AMÉRICAINE DANS LE DÉTROIT D'ORMUZ, LE TRAFIC MARITIME TOUJOURS PARALYSÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:46",
-      "date": "21/04",
-      "timestamp": 1776746802
-    },
-    {
-      "id": "BFMTV_1776746434",
-      "source": "BFMTV",
-      "text": "À QUELQUES JOURS DE L'EXPIRATION DU CESSEZ-LE-FEU, LA TENUE DE NOUVELLES NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS RESTE INCERTAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:40",
-      "date": "21/04",
-      "timestamp": 1776746434
-    },
-    {
-      "id": "BFMTV_1776746301",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE LIBAN, VICTIME DU HEZBOLLAH?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:38",
-      "date": "21/04",
-      "timestamp": 1776746301
-    },
-    {
-      "id": "BFMTV_1776746259",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BIENTÔT DES POURPARLERS ENTRE L'IRAN ET LES ÉTATS-UNIS AU PAKISTAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:37",
-      "date": "21/04",
-      "timestamp": 1776746259
-    },
-    {
-      "id": "BFMTV_1776746164",
-      "source": "BFMTV",
-      "text": "EN ROUTE VERS LE DÉTROIT D'ORMUZ, COMMENT FONCTIONNENT LES BATEAUX CHASSEURS DE MINES AMÉRICAINS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:36",
-      "date": "21/04",
-      "timestamp": 1776746164
-    },
-    {
-      "id": "BFMTV_1776746002",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ESTIME QU'IL SERA \"LONG ET DIFFICILE\" D'EXHUMER L'URANIUM IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:33",
-      "date": "21/04",
-      "timestamp": 1776746002
-    },
-    {
-      "id": "BFMTV_1776723957",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT QU'IL NE LÈVERA LE BLOCUS QU'EN CAS D'\"ACCORD\" AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:25",
-      "date": "20/04",
-      "timestamp": 1776723957
-    },
-    {
-      "id": "BFMTV_1776722222",
-      "source": "BFMTV",
-      "text": "LA MINISTRE DU TRAVAIL DE DONALD TRUMP QUITTE LE GOUVERNEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:57",
-      "date": "20/04",
-      "timestamp": 1776722222
     }
   ],
   "france": {
