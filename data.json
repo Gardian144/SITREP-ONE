@@ -1,7 +1,87 @@
 {
-  "last_update": "21/04 05:52",
+  "last_update": "21/04 07:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776755897",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SÉBASTIEN LECORNU DEMANDE \"4 MILLIARDS D'EUROS\" D'ÉCONOMIES AU GOUVERNEMENT FACE AUX CONSÉQUENCES DU CONFLIT",
+      "urgent": true,
+      "france_related": true,
+      "time": "07:18",
+      "date": "21/04",
+      "timestamp": 1776755897
+    },
+    {
+      "id": "BFMTV_1776755851",
+      "source": "BFMTV",
+      "text": "TROIS PERSONNES TUÉES PAR UNE FRAPPE ISRAÉLIENNE DANS LE SUD DE GAZA, SELON LA DÉFENSE CIVILE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:17",
+      "date": "21/04",
+      "timestamp": 1776755851
+    },
+    {
+      "id": "BFMTV_1776755851",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:17",
+      "date": "21/04",
+      "timestamp": 1776755851
+    },
+    {
+      "id": "BFMTV_1776755608",
+      "source": "BFMTV",
+      "text": "LIBAN: À LA RENCONTRE D'UN MEMBRE DU HEZBOLLAH DANS LA BANLIEUE SUD DE BEYROUTH ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:13",
+      "date": "21/04",
+      "timestamp": 1776755608
+    },
+    {
+      "id": "BFMTV_1776755281",
+      "source": "BFMTV",
+      "text": "SITE ARCHÉOLOGIQUE, COUPS DE FEU... CE QUE L'ON SAIT DE LA FUSILLADE QUI A COÛTÉ LA VIE À UNE CANADIENNE ET FAIT 13 BLESSÉS AU MEXIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:08",
+      "date": "21/04",
+      "timestamp": 1776755281
+    },
+    {
+      "id": "BFMTV_1776754702",
+      "source": "BFMTV",
+      "text": "DES DIRIGEANTS AMÉRICAINS ONT-ILS ENVISAGÉ L'USAGE DE L'ARME NUCLÉAIRE AU MOYEN-ORIENT? DOMINIQUE DE VILLEPIN ESTIME QUE L'IDÉE N'EST \"PAS TOTALEMENT À EXCLURE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:58",
+      "date": "21/04",
+      "timestamp": 1776754702
+    },
+    {
+      "id": "BFMTV_1776754689",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"JE SUIS POUR QUE NOUS AYONS UN RENFORCEMENT DE LA FINUL, VOIRE UNE COALITION DE PAYS QUI PUISSENT AIDER L'ÉTAT LIBANAIS À DÉSARMER LE HEZBOLLAH\", DÉCLARE DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:58",
+      "date": "21/04",
+      "timestamp": 1776754689
+    },
+    {
+      "id": "BFMTV_1776753625",
+      "source": "BFMTV",
+      "text": "L'IRAN A \"UN ESPRIT DE RÉSISTANCE EXTRÊMEMENT SOLIDE\", ESTIME L'ANCIEN PREMIER MINISTRE DOMINIQUE DE VILLEPIN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:40",
+      "date": "21/04",
+      "timestamp": 1776753625
+    },
     {
       "id": "BFMTV_1776750541",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "10:07",
       "date": "20/04",
       "timestamp": 1776679638
-    },
-    {
-      "id": "BFMTV_1776679136",
-      "source": "BFMTV",
-      "text": "\"L'IMPRESSION QUE LE GOUVERNEMENT NOUS OUBLIE\": L'EX-OTAGE EN IRAN BERNARD PHELAN APPELLE À UNE \"RECONNAISSANCE DE L'ÉTAT DE LEURS SOUFFRANCES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:58",
-      "date": "20/04",
-      "timestamp": 1776679136
-    },
-    {
-      "id": "BFMTV_1776677651",
-      "source": "BFMTV",
-      "text": "LE GOUVERNEMENT ESPAGNOL CRITIQUE LA VENUE À MADRID DE LA PRIX NOBEL DE LA PAIX MARIA CORINA MACHADO COMME \"CHEFFE D'UNE FACTION IDÉOLOGIQUE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:34",
-      "date": "20/04",
-      "timestamp": 1776677651
-    },
-    {
-      "id": "BFMTV_1776677307",
-      "source": "BFMTV",
-      "text": "\"VOUS AVEZ TOUT NOTRE RESPECT\": LE COMMANDANT DE LA FINUL REND HOMMAGE AU SOLDAT FRANÇAIS FLORIAN MONTORIO LORS DU RAPATRIEMENT DE SON CORPS",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:28",
-      "date": "20/04",
-      "timestamp": 1776677307
-    },
-    {
-      "id": "BFMTV_1776677157",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: À BORD DE L'ATLANTIQUE 2, AVION FRANÇAIS DE PATROUILLE MARITIME",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:25",
-      "date": "20/04",
-      "timestamp": 1776677157
-    },
-    {
-      "id": "BFMTV_1776675010",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN N'A PAS PRIS DE DÉCISION SUR SA PARTICIPATION AUX POURPARLERS AVEC LES ÉTATS-UNIS AU PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:50",
-      "date": "20/04",
-      "timestamp": 1776675010
-    },
-    {
-      "id": "BFMTV_1776674756",
-      "source": "BFMTV",
-      "text": "CESSEZ-LE-FEU FRAGILE ENTRE ISRAËL ET LE HEZBOLLAH, DES OPÉRATIONS DE TSAHAL ENCORE MENÉES AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:45",
-      "date": "20/04",
-      "timestamp": 1776674756
-    },
-    {
-      "id": "BFMTV_1776674314",
-      "source": "BFMTV",
-      "text": "LA SOLUTION À DEUX ÉTATS EST \"LA SEULE FAÇON POUR LES PALESTINIENS ET LES ISRAÉLIENS DE VIVRE DANS LA PAIX\", AFFIRME LA VICE-PRÉSIDENTE DE LA COMMISSION EUROPÉENNE KAJA KALLAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:38",
-      "date": "20/04",
-      "timestamp": 1776674314
-    },
-    {
-      "id": "BFMTV_1776673254",
-      "source": "BFMTV",
-      "text": "UN SÉISME DE MAGNITUDE 7,4 SECOUE LE NORD DU JAPON, L'ALERTE TSUNAMI DÉCLENCHÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:20",
-      "date": "20/04",
-      "timestamp": 1776673254
     }
   ],
   "france": {
