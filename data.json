@@ -1,7 +1,47 @@
 {
-  "last_update": "22/04 15:40",
+  "last_update": "22/04 16:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776874037",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"UN DEUXIÈME ROUND DE NÉGOCIATIONS AVEC L’IRAN EST POSSIBLE DÈS VENDREDI\", DÉCLARE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:07",
+      "date": "22/04",
+      "timestamp": 1776874037
+    },
+    {
+      "id": "BFMTV_1776873770",
+      "source": "BFMTV",
+      "text": "DOSSIER LIBYEN À L'ONU: \"UNE LITANIE DE DÉCLARATIONS\", FUSTIGE LE REPRÉSENTANT DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:02",
+      "date": "22/04",
+      "timestamp": 1776873770
+    },
+    {
+      "id": "BFMTV_1776873237",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:53",
+      "date": "22/04",
+      "timestamp": 1776873237
+    },
+    {
+      "id": "OPEX360_1776872879",
+      "source": "OPEX360",
+      "text": "TOUCHÉ LORS D’UNE ATTAQUE AU LIBAN, UN MILITAIRE FRANÇAIS DE LA FINUL A SUCCOMBÉ À SES BLESSURES",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:47",
+      "date": "22/04",
+      "timestamp": 1776872879
+    },
     {
       "id": "BFMTV_1776871793",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "18:21",
       "date": "21/04",
       "timestamp": 1776795701
-    },
-    {
-      "id": "BFMTV_1776794274",
-      "source": "BFMTV",
-      "text": "LE LIBAN VEUT LE \"RETRAIT TOTAL DES FORCES ISRAÉLIENNES\", AFFIRME LE PREMIER MINISTRE LIBANAIS, NAWAF SALAM",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:57",
-      "date": "21/04",
-      "timestamp": 1776794274
-    },
-    {
-      "id": "BFMTV_1776794181",
-      "source": "BFMTV",
-      "text": "LIBAN-ISRAËL: “IL FAUT DONNER DU TEMPS À LA NÉGOCIATION ET NE PAS LAISSER LA GUERRE REPRENDRE SES DROITS”, AFFIRME EMMANUEL MACRON",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:56",
-      "date": "21/04",
-      "timestamp": 1776794181
-    },
-    {
-      "id": "BFMTV_1776794135",
-      "source": "BFMTV",
-      "text": "\"LE LIBAN A BESOIN DE 500 MILLIONS D'EUROS\": LE PREMIER MINISTRE LIBANAIS LANCE UN APPEL À L'AIDE FACE À LA CRISE HUMANITAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:55",
-      "date": "21/04",
-      "timestamp": 1776794135
-    },
-    {
-      "id": "BFMTV_1776793393",
-      "source": "BFMTV",
-      "text": "\"J'AURAIS GAGNÉ TRÈS RAPIDEMENT AU VIETNAM\": DONALD TRUMP VANTE SES QUALITÉS DE COMMANDANT EN CHEF ET ESTIME ÊTRE DANS UNE \"POSITION TRÈS FORTE\" EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:43",
-      "date": "21/04",
-      "timestamp": 1776793393
     }
   ],
   "france": {
