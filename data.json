@@ -1,7 +1,27 @@
 {
-  "last_update": "22/04 22:04",
+  "last_update": "22/04 23:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776895932",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QU'IL N'Y A \"AUCUN CALENDRIER PRÉCIS\" CONCERNANT LA FIN DU CONFLIT AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:12",
+      "date": "22/04",
+      "timestamp": 1776895932
+    },
+    {
+      "id": "BFMTV_1776895423",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LE SECRÉTAIRE À LA MARINE AMÉRICAINE QUITTE SES FONCTIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:03",
+      "date": "22/04",
+      "timestamp": 1776895423
+    },
     {
       "id": "BFMTV_1776894291",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "06:06",
       "date": "22/04",
       "timestamp": 1776837997
-    },
-    {
-      "id": "BFMTV_1776836968",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP A DEMANDÉ CE MARDI AUX DIRIGEANTS IRANIENS DE LIBÉRER PLUSIEURS FEMMES",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:49",
-      "date": "22/04",
-      "timestamp": 1776836968
-    },
-    {
-      "id": "BFMTV_1776836497",
-      "source": "BFMTV",
-      "text": "UN CONDAMNÉ À MORT EXÉCUTÉ EN FLORIDE POUR LE MEURTRE DE SA VOISINE LORS D'UN CAMBRIOLAGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:41",
-      "date": "22/04",
-      "timestamp": 1776836497
     }
   ],
   "france": {
