@@ -1,7 +1,87 @@
 {
-  "last_update": "22/04 16:42",
+  "last_update": "22/04 17:43",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776879364",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: 20 MINES ONT ÉTÉ MISES PAR L'ARMÉE IRANIENNE, SELON LE WASHINGTON POST",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:36",
+      "date": "22/04",
+      "timestamp": 1776879364
+    },
+    {
+      "id": "BFMTV_1776878832",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE L’IRAN RENONCE À L’EXÉCUTION DES HUIT FEMMES CONDAMNÉES À LA PEINE DE MORT",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:27",
+      "date": "22/04",
+      "timestamp": 1776878832
+    },
+    {
+      "id": "OPEX360_1776878676",
+      "source": "OPEX360",
+      "text": "LA DGA A TESTÉ AVEC SUCCÈS L’INTÉGRATION DU MISSILE AIR-AIR MISTRAL 3 SUR L’HÉLICOPTÈRE D’ATTAQUE TIGRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:24",
+      "date": "22/04",
+      "timestamp": 1776878676
+    },
+    {
+      "id": "BFMTV_1776878130",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN EXCLUT TOUTE RÉOUVERTURE DU DÉTROIT D'ORMUZ TANT QUE DURE LE BLOCUS AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:15",
+      "date": "22/04",
+      "timestamp": 1776878130
+    },
+    {
+      "id": "BFMTV_1776877585",
+      "source": "BFMTV",
+      "text": "\"ON EST SENSIBLE AU FAIT QUE L'INSTITUTION PREND LES CHOSES EN MAIN\": L'ÉMOTION DE JEAN-MARIE BOCKEL, DONT LE FILS MILITAIRE EST MORT AU MALI EN 2019",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:06",
+      "date": "22/04",
+      "timestamp": 1776877585
+    },
+    {
+      "id": "BFMTV_1776877102",
+      "source": "BFMTV",
+      "text": "\"DANS CES MOMENTS-LÀ, L'ARMÉE EST UNE GRANDE FAMILLE\": LE TÉMOIGNAGE DE JEAN-MARIE BOCKEL, DONT LE FILS MILITAIRE EST MORT AU MALI EN 2019",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:58",
+      "date": "22/04",
+      "timestamp": 1776877102
+    },
+    {
+      "id": "BFMTV_1776876873",
+      "source": "BFMTV",
+      "text": "SPATIAL, NUCLÉAIRE…LA MORT MYSTÉRIEUSE DE 11 SCIENTIFIQUES AMÉRICAINS FAIT RÉAGIR DONALD TRUMP ",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:54",
+      "date": "22/04",
+      "timestamp": 1776876873
+    },
+    {
+      "id": "BFMTV_1776876536",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"L'EUROPE FAIT CE QU'ELLE DOIT FAIRE\", AFFIRME LE PRÉSIDENT DU CONSEIL EUROPÉEN, ANTÓNIO COSTA",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:48",
+      "date": "22/04",
+      "timestamp": 1776876536
+    },
     {
       "id": "BFMTV_1776874037",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "19:35",
       "date": "21/04",
       "timestamp": 1776800128
-    },
-    {
-      "id": "BFMTV_1776799845",
-      "source": "BFMTV",
-      "text": "RIO DE JANEIRO: PLUS DE 200 TOURISTES ONT ÉTÉ BLOQUÉS PLUSIEURS HEURES PAR UNE FUSILLADE DANS UNE FAVELA AU BRÉSIL",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:30",
-      "date": "21/04",
-      "timestamp": 1776799845
-    },
-    {
-      "id": "BFMTV_1776799230",
-      "source": "BFMTV",
-      "text": "L’IRAN NE SOUHAITERAIT PAS NÉGOCIER AVEC LES ÉTATS-UNIS TANT QU’ILS MAINTIENNENT LEUR BLOCUS DES PORTS IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:20",
-      "date": "21/04",
-      "timestamp": 1776799230
-    },
-    {
-      "id": "BFMTV_1776797850",
-      "source": "BFMTV",
-      "text": "L'IRAN DIFFUSE DES IMAGES DE PROPAGANDE AVEC DES AVIONS DE COMBAT ROSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:57",
-      "date": "21/04",
-      "timestamp": 1776797850
-    },
-    {
-      "id": "BFMTV_1776797663",
-      "source": "BFMTV",
-      "text": "POUR NEGZZIA, RÉFUGIÉE IRANIENNE EN FRANCE, \"LE RÉGIME IRANIEN NE PEUT TOMBER QU'AVEC DES BOMBARDEMENTS\" ",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:54",
-      "date": "21/04",
-      "timestamp": 1776797663
-    },
-    {
-      "id": "BFMTV_1776797003",
-      "source": "BFMTV",
-      "text": "NEGZZIA, MANNEQUIN IRANIENNE RÉFUGIÉE EN FRANCE: \"DEPUIS QUE JE SUIS ENFANT J'AI VU LES FEMMES CONDAMNÉES À MORT AVEC DES PIERRES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:43",
-      "date": "21/04",
-      "timestamp": 1776797003
-    },
-    {
-      "id": "BFMTV_1776796596",
-      "source": "BFMTV",
-      "text": "\"UNE RECONNAISSANCE D'ÉCHEC\": L'ADMINISTRATION TRUMP FRAGILISÉE PAR DES SCANDALES ET PLUSIEURS DÉPARTS DE MINISTRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:36",
-      "date": "21/04",
-      "timestamp": 1776796596
-    },
-    {
-      "id": "BFMTV_1776796385",
-      "source": "BFMTV",
-      "text": "\"LA FRANCE EST L'AVOCATE DE SA SOUVERAINETÉ\": POURQUOI ISRAËL VEUT-IL QUE PARIS SE TIENNE LOIN DES NÉGOCIATIONS DE PAIX AVEC LE LIBAN?",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:33",
-      "date": "21/04",
-      "timestamp": 1776796385
-    },
-    {
-      "id": "BFMTV_1776795701",
-      "source": "BFMTV",
-      "text": "CAPACITÉS MILITAIRES IRANIENNES: \"À PARTIR DU MOMENT OÙ ILS VONT SORTIR À L'AIR LIBRE, ILS VONT ÊTRE TRÈS VULNÉRABLES\", ESTIME LE GÉNÉRAL JEAN-JACQUES BOREL",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:21",
-      "date": "21/04",
-      "timestamp": 1776795701
     }
   ],
   "france": {
