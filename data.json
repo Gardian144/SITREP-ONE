@@ -1,7 +1,127 @@
 {
-  "last_update": "22/04 14:08",
+  "last_update": "22/04 15:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776871793",
+      "source": "BFMTV",
+      "text": "BIRMANIE: LA JUNTE MILITAIRE BLOQUE L'ACCÈS AUX SERVIETTES HYGIÉNIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:29",
+      "date": "22/04",
+      "timestamp": 1776871793
+    },
+    {
+      "id": "BFMTV_1776871594",
+      "source": "BFMTV",
+      "text": "RUSSIE: UN TIGRE S'ÉCHAPPE DE LA SCÈNE ET SE RETROUVE DANS LE PUBLIC",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:26",
+      "date": "22/04",
+      "timestamp": 1776871594
+    },
+    {
+      "id": "BFMTV_1776871494",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP JUGE \"POSSIBLE\" UNE REPRISE DES DISCUSSIONS AVEC L'IRAN DANS LES PROCHAINS JOURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:24",
+      "date": "22/04",
+      "timestamp": 1776871494
+    },
+    {
+      "id": "BFMTV_1776871349",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP JUGE \"POSSIBLE\" LA REPRISE DES DISCUSSIONS AVEC L'IRAN DANS LES PROCHAINS JOURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:22",
+      "date": "22/04",
+      "timestamp": 1776871349
+    },
+    {
+      "id": "BFMTV_1776870431",
+      "source": "BFMTV",
+      "text": "CASQUE BLEU, CHEF D'ÉQUIPE À 31 ANS... QUI ÉTAIT ANICET GIRARDIN, LE DEUXIÈME SOLDAT FRANÇAIS TUÉ AU LIBAN?",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:07",
+      "date": "22/04",
+      "timestamp": 1776870431
+    },
+    {
+      "id": "BFMTV_1776870413",
+      "source": "BFMTV",
+      "text": "LIBYE: LA FRANCE APPELLE \"LES ACTEURS POLITIQUES À S'ENGAGER DE BONNE FOI DANS UNE MÉDIATION\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:06",
+      "date": "22/04",
+      "timestamp": 1776870413
+    },
+    {
+      "id": "BFMTV_1776869656",
+      "source": "BFMTV",
+      "text": "\"LE CAPOREL-CHEF ANICET GIRARDIN EST MORT POUR LA FRANCE\": CATHERINE VAUTRIN REND HOMMAGE AU SOLDAT MORT DES SUITES DE SES BLESSURES AU LIBAN",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:54",
+      "date": "22/04",
+      "timestamp": 1776869656
+    },
+    {
+      "id": "BFMTV_1776869155",
+      "source": "BFMTV",
+      "text": "\"C'ÉTAIT HUIT BÉBÉS\": LE PÈRE DE L'UN DES ENFANTS TUÉS DANS LA FUSILLADE EN LOUISIANE TÉMOIGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:45",
+      "date": "22/04",
+      "timestamp": 1776869155
+    },
+    {
+      "id": "BFMTV_1776869098",
+      "source": "BFMTV",
+      "text": "\"UNE ÉCONOMIE POLITIQUE PERVERTIE\": L'ONU EXHORTE L'ETAT LIBYEN À SUIVRE SES RECOMMANDATIONS POUR LA \"PAIX\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:44",
+      "date": "22/04",
+      "timestamp": 1776869098
+    },
+    {
+      "id": "BFMTV_1776868672",
+      "source": "BFMTV",
+      "text": "SOLDAT FRANÇAIS MORT DES SUITES DE SES BLESSURES AU LIBAN: \"QUE LES RESPONSABLES PUISSENT RENDRE DES COMPTES\", DÉCLARE JEAN-PIERRE LACROIX",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:37",
+      "date": "22/04",
+      "timestamp": 1776868672
+    },
+    {
+      "id": "BFMTV_1776868483",
+      "source": "BFMTV",
+      "text": "UKRAINE: \"LE PÉTROLE COULE DANS L'OLÉODUC DROUJBA\", ANNONCE BRUXELLES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:34",
+      "date": "22/04",
+      "timestamp": 1776868483
+    },
+    {
+      "id": "OPEX360_1776868440",
+      "source": "OPEX360",
+      "text": "NAVAL GROUP SE MET EN ORDRE DE MARCHE POUR VENDRE DEUX CORVETTES GOWIND 2500 À LA CROATIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:34",
+      "date": "22/04",
+      "timestamp": 1776868440
+    },
     {
       "id": "BFMTV_1776866416",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "17:43",
       "date": "21/04",
       "timestamp": 1776793393
-    },
-    {
-      "id": "BFMTV_1776793253",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON ESTIME QUE \"LA PRIORITÉ\" AUJOURD'HUI EST \"D'OEUVRER\" AVEC LE LIBAN \"À LA CONSOLIDATION DE LA TRÊVE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:40",
-      "date": "21/04",
-      "timestamp": 1776793253
-    },
-    {
-      "id": "BFMTV_1776793173",
-      "source": "BFMTV",
-      "text": "LIBAN: \"LA FRANCE S’ENGAGERA POUR LA RECONSTRUCTION DES ZONES TOUCHÉES\", ANNONCE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:39",
-      "date": "21/04",
-      "timestamp": 1776793173
-    },
-    {
-      "id": "BFMTV_1776793041",
-      "source": "BFMTV",
-      "text": "LIBAN: EMMANUEL MACRON APPELLE ISRAËL À \"RENONCER À SES VISÉES TERRITORIALES\" ",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:37",
-      "date": "21/04",
-      "timestamp": 1776793041
-    },
-    {
-      "id": "BFMTV_1776792704",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON APPELLE ISRAËL À \"RENONCER À SES VISÉES TERRITORIALES\" AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:31",
-      "date": "21/04",
-      "timestamp": 1776792704
-    },
-    {
-      "id": "OPEX360_1776792540",
-      "source": "OPEX360",
-      "text": "LA ROYAL NAVY ENVISAGE DE REVENDRE TROIS DE SES HUIT PATROUILLEURS HAUTURIERS À L’URUGUAY",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:29",
-      "date": "21/04",
-      "timestamp": 1776792540
-    },
-    {
-      "id": "BFMTV_1776792369",
-      "source": "BFMTV",
-      "text": "LIBAN: \"LA FRANCE SE TIENT ÉGALEMENT PRÊTE À MAINTENIR SON ENGAGEMENT SUR LE TERRAIN APRÈS LE DÉPART PROGRAMMÉ DE LA FINUL À LA FIN DE L'ANNÉE\", ASSURE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:26",
-      "date": "21/04",
-      "timestamp": 1776792369
-    },
-    {
-      "id": "BFMTV_1776792145",
-      "source": "BFMTV",
-      "text": "LIBAN: \"L’OBTENTION D’UN CESSEZ-LE-FEU TEMPORAIRE EST UN SOULAGEMENT\", DÉCLARE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:22",
-      "date": "21/04",
-      "timestamp": 1776792145
-    },
-    {
-      "id": "BFMTV_1776792067",
-      "source": "BFMTV",
-      "text": "LIBAN-ISRAËL: \"LA PRIORITÉ AUJOURD'HUI, EST D'ŒUVRER ENSEMBLE À LA CONSOLIDATION DE CETTE TRÊVE\", AFFIRME EMMANUEL MACRON",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:21",
-      "date": "21/04",
-      "timestamp": 1776792067
-    },
-    {
-      "id": "BFMTV_1776791994",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON APPELLE À UN \"RETRAIT ISRAÉLIEN DU TERRITOIRE LIBANAIS\" ET AU \"DÉSARMEMENT DU HEZBOLLAH PAR LES LIBANAIS EUX-MÊMES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:19",
-      "date": "21/04",
-      "timestamp": 1776791994
-    },
-    {
-      "id": "BFMTV_1776791451",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS IRAN/ÉTATS-UNIS: LE DÉPART POUR LE PAKISTAN DE JD VANCE ET DE LA DÉLÉGATION AMÉRICAINE EST RETARDÉ ",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:10",
-      "date": "21/04",
-      "timestamp": 1776791451
-    },
-    {
-      "id": "BFMTV_1776790222",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:50",
-      "date": "21/04",
-      "timestamp": 1776790222
-    },
-    {
-      "id": "BFMTV_1776789533",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SÉBASTIEN LECORNU ANNONCE UN \"DISPOSITIF D'ACCOMPAGNEMENT\" POUR LES \"GRANDS ROULEURS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:38",
-      "date": "21/04",
-      "timestamp": 1776789533
     }
   ],
   "france": {
