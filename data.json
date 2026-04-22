@@ -1,7 +1,147 @@
 {
-  "last_update": "22/04 09:54",
+  "last_update": "22/04 11:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776855191",
+      "source": "BFMTV",
+      "text": "EAU EN BOUTEILLE, MÉDICAMENTS, CHARGEURS... LES BELGES INVITÉS À PRÉPARER UN \"KIT D'URGENCE\" EN CAS DE CATASTROPHE NATURELLE OU DE CRISE MONDIALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:53",
+      "date": "22/04",
+      "timestamp": 1776855191
+    },
+    {
+      "id": "BFMTV_1776854789",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP EST TENU À L'ÉCART DE CERTAINES RÉUNIONS EN RAISON DE SON IMPULSIVITÉ, SELON LE WALL STREET JOURNAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:46",
+      "date": "22/04",
+      "timestamp": 1776854789
+    },
+    {
+      "id": "BFMTV_1776854529",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION IRANIENS DISENT AVOIR SAISI DEUX NAVIRES TENTANT DE PASSER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:42",
+      "date": "22/04",
+      "timestamp": 1776854529
+    },
+    {
+      "id": "BFMTV_1776854174",
+      "source": "BFMTV",
+      "text": "LES GARDIENS DE LA RÉVOLUTION DISENT AVOIR SAISI DEUX NAVIRES TENTANT DE PASSER LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:36",
+      "date": "22/04",
+      "timestamp": 1776854174
+    },
+    {
+      "id": "OPEX360_1776853804",
+      "source": "OPEX360",
+      "text": "PARIS ET BERLIN SE DONNENT ENCORE DIX JOURS POUR TROUVER UN ACCORD AU SUJET DU SYSTÈME DE COMBAT AÉRIEN DU FUTUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:30",
+      "date": "22/04",
+      "timestamp": 1776853804
+    },
+    {
+      "id": "BFMTV_1776853145",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AUX ÉTATS-UNIS, LA POSTURE STRATÉGIQUE DE DONALD TRUMP INTERROGE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:19",
+      "date": "22/04",
+      "timestamp": 1776853145
+    },
+    {
+      "id": "BFMTV_1776852060",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT:  \"LA LIBERTÉ DE NAVIGATION EST NON NÉGOCIABLE\", DÉCLARE KAJA KALLAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:01",
+      "date": "22/04",
+      "timestamp": 1776852060
+    },
+    {
+      "id": "BFMTV_1776851792",
+      "source": "BFMTV",
+      "text": "L'UE VEUT SÉCURISER L'APPROVISIONNEMENT EN CARBURANTS, RASSURE DAN JØRGENSEN, COMMISSAIRE EUROPÉEN À L'ÉNERGIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:56",
+      "date": "22/04",
+      "timestamp": 1776851792
+    },
+    {
+      "id": "BFMTV_1776850898",
+      "source": "BFMTV",
+      "text": "\"ISRAËL ET LA PAIX, CE SONT DEUX MOTS QUI N'ONT RIEN À VOIR ENSEMBLE\", AFFIRME SALMMAN HARB",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:41",
+      "date": "22/04",
+      "timestamp": 1776850898
+    },
+    {
+      "id": "BFMTV_1776850299",
+      "source": "BFMTV",
+      "text": "486 MEMBRES PRÉSUMÉS: LES IMAGES IMPRESSIONNANTES DU PROCÈS DU GANG MS-13 AU SALVADOR",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:31",
+      "date": "22/04",
+      "timestamp": 1776850299
+    },
+    {
+      "id": "BFMTV_1776849698",
+      "source": "BFMTV",
+      "text": "\"UNE MENACE POUR LA SÉCURITÉ NATIONALE\": AUX ÉTATS-UNIS, LA DISPARITION D'UNE DIZAINE DE SCIENTIFIQUES INTERROGE, LE FBI LANCE UNE ENQUÊTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:21",
+      "date": "22/04",
+      "timestamp": 1776849698
+    },
+    {
+      "id": "BFMTV_1776848030",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN CARGO QUITTANT L'IRAN STOPPÉ PAR DES TIRS, TÉHÉRAN SE TIENT PRÊT À RIPOSTER",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:53",
+      "date": "22/04",
+      "timestamp": 1776848030
+    },
+    {
+      "id": "BFMTV_1776847543",
+      "source": "BFMTV",
+      "text": "CRANS-MONTANA: LA MÈRE DE CYANE, SERVEUSE TUÉE DANS L'INCENDIE, DÉNONCE \"L'EMPRISE\" DU COUPLE MORETTI ET LES APPELLE À ASSUMER \"LEURS RESPONSABILITÉS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:45",
+      "date": "22/04",
+      "timestamp": 1776847543
+    },
+    {
+      "id": "BFMTV_1776846992",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE DIT AVOIR TUÉ DEUX MEMBRES DU HEZBOLLAH APRÈS LEUR \"VIOLATION DU CESSEZ-LE-FEU\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:36",
+      "date": "22/04",
+      "timestamp": 1776846992
+    },
     {
       "id": "BFMTV_1776845066",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "13:59",
       "date": "21/04",
       "timestamp": 1776779960
-    },
-    {
-      "id": "BFMTV_1776779782",
-      "source": "BFMTV",
-      "text": "SUD-LIBAN: ISRAËL POURSUIT SES OPÉRATIONS MILITAIRES MALGRÉ LE CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:56",
-      "date": "21/04",
-      "timestamp": 1776779782
-    },
-    {
-      "id": "BFMTV_1776779732",
-      "source": "BFMTV",
-      "text": "\"JE M'ATTENDS À BOMBARDER\": DONALD TRUMP AFFIRME NE PAS VOULOIR \"PROLONGER LE CESSEZ-LE-FEU\" AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:55",
-      "date": "21/04",
-      "timestamp": 1776779732
-    },
-    {
-      "id": "BFMTV_1776779560",
-      "source": "BFMTV",
-      "text": "DEUX DES TROIS SOLDATS FRANÇAIS BLESSÉS AU LIBAN ONT ÉTÉ RAPATRIÉS EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:52",
-      "date": "21/04",
-      "timestamp": 1776779560
-    },
-    {
-      "id": "BFMTV_1776779299",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QUELLES SONT LES CAPACITÉS MILITAIRES DE L'IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:48",
-      "date": "21/04",
-      "timestamp": 1776779299
-    },
-    {
-      "id": "BFMTV_1776779176",
-      "source": "BFMTV",
-      "text": "CONFLIT AU MOYEN-ORIENT: INFORMER EN TEMPS DE GUERRE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:46",
-      "date": "21/04",
-      "timestamp": 1776779176
-    },
-    {
-      "id": "BFMTV_1776778872",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP LAISSE ENTENDRE QUE LA CHINE A AIDÉ L'IRAN À RECONSTITUER SON STOCK D'ARMEMENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:41",
-      "date": "21/04",
-      "timestamp": 1776778872
-    },
-    {
-      "id": "BFMTV_1776778753",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ON PEUT SE DEMANDER SI DONALD TRUMP N'EST PAS EN TRAIN DE TOMBER DANS UN PIÈGE TENDU SCIEMMENT PAR LES IRANIENS\", DÉCLARE JEAN-JACQUES ROCHE",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:39",
-      "date": "21/04",
-      "timestamp": 1776778753
-    },
-    {
-      "id": "BFMTV_1776778583",
-      "source": "BFMTV",
-      "text": "CARBURANTS: BRUXELLES ANNONCE \"UN NOUVEL OBSERVATOIRE DES CARBURANTS\" AFIN DE SUIVRE L'APPROVISIONNEMENT ET LES NIVEAUX DE STOCKS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:36",
-      "date": "21/04",
-      "timestamp": 1776778583
-    },
-    {
-      "id": "BFMTV_1776778338",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:32",
-      "date": "21/04",
-      "timestamp": 1776778338
-    },
-    {
-      "id": "BFMTV_1776777167",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS DISENT AVOIR INTERCEPTÉ UN PÉTROLIER IRANIEN SANCTIONNÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:12",
-      "date": "21/04",
-      "timestamp": 1776777167
-    },
-    {
-      "id": "OPEX360_1776777091",
-      "source": "OPEX360",
-      "text": "L’US AIR FORCE DÉCIDE FINALEMENT DE GARDER SES AVIONS D’ATTAQUE A-10 WARTHOG AU MOINS JUSQU’EN 2030",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:11",
-      "date": "21/04",
-      "timestamp": 1776777091
-    },
-    {
-      "id": "BFMTV_1776776726",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"JE M'ATTENDS À BOMBARDER, PARCE QUE JE PENSE QUE C'EST LA MEILLEURE ATTITUDE À ADOPTER\", DÉCLARE DONALD TRUMP ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:05",
-      "date": "21/04",
-      "timestamp": 1776776726
-    },
-    {
-      "id": "BFMTV_1776775516",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ACCUSE L'IRAN D'AVOIR \"VIOLÉ LE CESSEZ-LE-FEU À DE NOMBREUSES REPRISES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:45",
-      "date": "21/04",
-      "timestamp": 1776775516
-    },
-    {
-      "id": "BFMTV_1776772486",
-      "source": "BFMTV",
-      "text": "SUD-LIBAN: BFMTV AU PLUS PRÈS DES POSITIONS DE TSAHAL, SUR LA \"LIGNE JAUNE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:54",
-      "date": "21/04",
-      "timestamp": 1776772486
     }
   ],
   "france": {
