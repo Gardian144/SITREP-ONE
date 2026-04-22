@@ -1,7 +1,147 @@
 {
-  "last_update": "22/04 04:18",
+  "last_update": "22/04 06:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776837997",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE TÉHÉRAN \"S'EFFONDRE FINANCIÈREMENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:06",
+      "date": "22/04",
+      "timestamp": 1776837997
+    },
+    {
+      "id": "BFMTV_1776836968",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP A DEMANDÉ CE MARDI AUX DIRIGEANTS IRANIENS DE LIBÉRER PLUSIEURS FEMMES",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:49",
+      "date": "22/04",
+      "timestamp": 1776836968
+    },
+    {
+      "id": "BFMTV_1776836497",
+      "source": "BFMTV",
+      "text": "UN CONDAMNÉ À MORT EXÉCUTÉ EN FLORIDE POUR LE MEURTRE DE SA VOISINE LORS D'UN CAMBRIOLAGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:41",
+      "date": "22/04",
+      "timestamp": 1776836497
+    },
+    {
+      "id": "BFMTV_1776836256",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN PORTE-CONTENEUR VISÉ PAR DES TIRS IRANIENS AU LARGE D'OMAN MALGRÉ LA PROLONGATION DU CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:37",
+      "date": "22/04",
+      "timestamp": 1776836256
+    },
+    {
+      "id": "BFMTV_1776835798",
+      "source": "BFMTV",
+      "text": "UN PORTE-CONTENEURS A ÉTÉ ATTAQUÉ PAR LE CORPS DES GARDIENS DE LA RÉVOLUTION, SELON L'AGENCE MARITIME BRITANNIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:29",
+      "date": "22/04",
+      "timestamp": 1776835798
+    },
+    {
+      "id": "BFMTV_1776833912",
+      "source": "BFMTV",
+      "text": "SUD-LIBAN: AU PLUS PRÈS DES POSITIONS DE TSAHAL, NOUVEAU THÉÂTRE DE GUERRE MALGRÉ LA TRÊVE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:58",
+      "date": "22/04",
+      "timestamp": 1776833912
+    },
+    {
+      "id": "BFMTV_1776833721",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA PROLONGATION DU CESSEZ-LE-FEU SIGNIFIE-T-ELLE LA REPRISE DES NÉGOCIATIONS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:55",
+      "date": "22/04",
+      "timestamp": 1776833721
+    },
+    {
+      "id": "BFMTV_1776833522",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: MALGRÉ LE BLOCUS AMÉRICAIN, DE NOMBREUX PÉTROLIERS CONTINUENT DE FRANCHIR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:52",
+      "date": "22/04",
+      "timestamp": 1776833522
+    },
+    {
+      "id": "BFMTV_1776833322",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH REVENDIQUE UNE NOUVELLE ATTAQUE SUR LE NORD D'ISRAËL CETTE NUIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:48",
+      "date": "22/04",
+      "timestamp": 1776833322
+    },
+    {
+      "id": "BFMTV_1776833128",
+      "source": "BFMTV",
+      "text": "APRÈS LA PROLONGATION DU CESSEZ-LE-FEU, LE PAKISTAN PRESSE L'IRAN DE REVENIR À LA TABLE DES NÉGOCIATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:45",
+      "date": "22/04",
+      "timestamp": 1776833128
+    },
+    {
+      "id": "BFMTV_1776832878",
+      "source": "BFMTV",
+      "text": "APRÈS LA PROLONGATION DU CESSEZ-LE-FEU, LES GARDIENS DE LA RÉVOLUTION CONTINUENT DE MENACER LES ÉTATS-UNIS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:41",
+      "date": "22/04",
+      "timestamp": 1776832878
+    },
+    {
+      "id": "BFMTV_1776832712",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE VILLAGE LIBANAIS D'EBEL-EL-SAKI DÉSORMAIS EN LIGNE DE MIRE DE L'ARMÉE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:38",
+      "date": "22/04",
+      "timestamp": 1776832712
+    },
+    {
+      "id": "BFMTV_1776832710",
+      "source": "BFMTV",
+      "text": "\"LES ÉLÈVES EN TIRENT DES ENSEIGNEMENTS CHAQUE JOUR\": LE TEXAS AUTORISÉ À IMPOSER L'AFFICHAGE DES DIX COMMANDEMENTS DANS LES ÉCOLES PUBLIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:38",
+      "date": "22/04",
+      "timestamp": 1776832710
+    },
+    {
+      "id": "BFMTV_1776832324",
+      "source": "BFMTV",
+      "text": "LE BRIEF DU GÉNÉRAL - LES PORTE-AVIONS AMÉRICAINS PRÊTS À SERVIR EN CAS DE FRAPPES SUR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:32",
+      "date": "22/04",
+      "timestamp": 1776832324
+    },
     {
       "id": "BFMTV_1776831213",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "10:24",
       "date": "21/04",
       "timestamp": 1776767065
-    },
-    {
-      "id": "BFMTV_1776766922",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA COMMUNICATION DE DONALD TRUMP EST-ELLE UN FREIN À LA DIPLOMATIE? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:22",
-      "date": "21/04",
-      "timestamp": 1776766922
-    },
-    {
-      "id": "OPEX360_1776766218",
-      "source": "OPEX360",
-      "text": "LE DANEMARK A NOTIFIÉ UNE COMMANDE DE SYSTÈMES DE DÉFENSE AÉRIENNE SAMP/T NG À THALES",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:10",
-      "date": "21/04",
-      "timestamp": 1776766218
-    },
-    {
-      "id": "BFMTV_1776765854",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN: \"LES RISQUES LIÉS À LA NOMINATION DE MANDELSON ÉTAIENT BIEN CONNUS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:04",
-      "date": "21/04",
-      "timestamp": 1776765854
-    },
-    {
-      "id": "BFMTV_1776765370",
-      "source": "BFMTV",
-      "text": "UKRAINE: LA BELGIQUE \"ESPÈRE\" LE SOUTIEN DE LA HONGRIE POUR CONSOLIDER LE PRÊT EUROPÉEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:56",
-      "date": "21/04",
-      "timestamp": 1776765370
-    },
-    {
-      "id": "BFMTV_1776765231",
-      "source": "BFMTV",
-      "text": "\"UN TISSU DE MENSONGES\": LE REPRÉSENTANT DE L'UKRAINE À L'ONU RÉPOND AUX ACCUSATIONS DE LA RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:53",
-      "date": "21/04",
-      "timestamp": 1776765231
-    },
-    {
-      "id": "BFMTV_1776765159",
-      "source": "BFMTV",
-      "text": "\"DES IMBÉCILES MISOGYNES ET IGNARES\": LES SERVIETTES HYGIÉNIQUES BLOQUÉES PAR LES MILITAIRES EN BIRMANIE, LES REBELLES ACCUSÉS DE LES UTILISER EN PREMIER SECOURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:52",
-      "date": "21/04",
-      "timestamp": 1776765159
-    },
-    {
-      "id": "BFMTV_1776764879",
-      "source": "BFMTV",
-      "text": "UN JOURNALISTE PALESTINIEN DÉCRIT DES VIOLENCES SEXUELLES SUBIES EN DÉTENTION ISRAÉLIENNE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:47",
-      "date": "21/04",
-      "timestamp": 1776764879
-    },
-    {
-      "id": "BFMTV_1776763410",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QU'AUCUNE DÉLÉGATION N'EST ENCORE PARTIE POUR DES POURPARLERS AU PAKISTAN AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:23",
-      "date": "21/04",
-      "timestamp": 1776763410
-    },
-    {
-      "id": "BFMTV_1776763039",
-      "source": "BFMTV",
-      "text": "LA COUR DE JUSTICE DE L'UNION EUROPÉENNE ACCUSE LA HONGRIE D'AVOIR \"VIOLÉ\" LE DROIT DE L'UE EN MARGINALISANT LES PERSONNES LGBT+",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:17",
-      "date": "21/04",
-      "timestamp": 1776763039
-    },
-    {
-      "id": "BFMTV_1776762776",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: IL EXISTE UNE \"FORTE PROBABILITÉ\" DE NOUVELLES FRAPPES AMÉRICAINES, ESTIME LE CHEF DU SYSTÈME JUDICIAIRE IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:12",
-      "date": "21/04",
-      "timestamp": 1776762776
-    },
-    {
-      "id": "BFMTV_1776762368",
-      "source": "BFMTV",
-      "text": "\"COMPLEXE ET PRÉCAIRE\": INTÉRÊTS DIPLOMATIQUES, MILITAIRES... À QUOI SERVENT LES CESSEZ-LE-FEU CONCLUS AU MOYEN-ORIENT?",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:06",
-      "date": "21/04",
-      "timestamp": 1776762368
-    },
-    {
-      "id": "BFMTV_1776761949",
-      "source": "BFMTV",
-      "text": "\"C'EST TELLEMENT DOULOUREUX\": LES DÉPLACÉS LIBANAIS DE RETOUR CHEZ EUX À L'OCCASION D'UN CESSEZ-LE-FEU FRAGILE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:59",
-      "date": "21/04",
-      "timestamp": 1776761949
-    },
-    {
-      "id": "BFMTV_1776761949",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL - HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:59",
-      "date": "21/04",
-      "timestamp": 1776761949
-    },
-    {
-      "id": "BFMTV_1776761387",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"PLUS ÇA DURE, PLUS VOUS VOYEZ DES DIVISIONS À LA TÊTE DE L'IRAN, ENTRE CEUX QUI VEULENT NÉGOCIER ET CEUX QUI NE VEULENT PAS\", DÉCLARE ÉRIC DANON, ANCIEN AMBASSADEUR DE FRANCE EN ISRAËL",
-      "urgent": true,
-      "france_related": true,
-      "time": "08:49",
-      "date": "21/04",
-      "timestamp": 1776761387
     }
   ],
   "france": {
