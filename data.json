@@ -1,7 +1,77 @@
 {
-  "last_update": "23/04 08:10",
+  "last_update": "23/04 09:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776937908",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'HOMMAGE NATIONAL À L'ADJUDANT FLORIAN MONTORIO EN COURS À MONTAUBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:51",
+      "date": "23/04",
+      "timestamp": 1776937908
+    },
+    {
+      "id": "BFMTV_1776937741",
+      "source": "BFMTV",
+      "text": "LA MARSEILLAISE RETENTIT LORS DE L'HOMMAGE À L'ADJUDANT FLORIAN MONTORIO, TUÉ DANS UNE EMBUSCADE DANS LE SUD DU LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:49",
+      "date": "23/04",
+      "timestamp": 1776937741
+    },
+    {
+      "id": "BFMTV_1776937163",
+      "source": "BFMTV",
+      "text": "LE PRINCE HARRY EST ARRIVÉ EN UKRAINE POUR UNE VISITE SURPRISE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:39",
+      "date": "23/04",
+      "timestamp": 1776937163
+    },
+    {
+      "id": "BFMTV_1776937114",
+      "source": "BFMTV",
+      "text": "LE PRIX DE LA WORLD PRESS PHOTO EST ATTRIBUÉ À LA PHOTOJOURNALISTE CAROL GUZY POUR \"SEPARATED BY ICE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:38",
+      "date": "23/04",
+      "timestamp": 1776937114
+    },
+    {
+      "id": "BFMTV_1776936597",
+      "source": "BFMTV",
+      "text": "DANEMARK: AU MOINS 17 BLESSÉS DANS LA COLLISION DE DEUX TRAINS ",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:29",
+      "date": "23/04",
+      "timestamp": 1776936597
+    },
+    {
+      "id": "BFMTV_1776936461",
+      "source": "BFMTV",
+      "text": "WORLD PRESS PHOTO 2026: LA PHOTO D'UNE FAMILLE DE MIGRANTS EN PLEURS SÉPARÉE PAR L'ICE REMPORTE LE PREMIER PRIX",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:27",
+      "date": "23/04",
+      "timestamp": 1776936461
+    },
+    {
+      "id": "BFMTV_1776933187",
+      "source": "BFMTV",
+      "text": "COLLISION DE TRAINS AU DANEMARK: LES SECOURS DÉNOMBRENT 17 BLESSÉS DONT CINQ DANS UN \"ÉTAT CRITIQUE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:33",
+      "date": "23/04",
+      "timestamp": 1776933187
+    },
     {
       "id": "BFMTV_1776931375",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "12:00",
       "date": "22/04",
       "timestamp": 1776859213
-    },
-    {
-      "id": "BFMTV_1776858153",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:42",
-      "date": "22/04",
-      "timestamp": 1776858153
-    },
-    {
-      "id": "BFMTV_1776857671",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES DÉPLACÉS LIBANAIS DE RETOUR CHEZ EUX À L'OCCASION D'UN CESSEZ-LE-FEU FRAGILE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:34",
-      "date": "22/04",
-      "timestamp": 1776857671
-    },
-    {
-      "id": "BFMTV_1776857204",
-      "source": "BFMTV",
-      "text": "IVRESSE, PARANOÏA, POLÉMIQUES... KASH PATEL, LE PATRON DU FBI FRAGILISÉ PAR UNE ENQUÊTE DE LA PRESSE AMÉRICAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:26",
-      "date": "22/04",
-      "timestamp": 1776857204
-    },
-    {
-      "id": "BFMTV_1776856920",
-      "source": "BFMTV",
-      "text": "NEUF JEUNES DE NATIONALITÉ AMÉRICAINE ET CANADIENNE ARRÊTÉS EN POLOGNE POUR ÊTRE ENTRÉS SANS AUTORISATION DANS LE CAMP D'AUSCHWITZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:22",
-      "date": "22/04",
-      "timestamp": 1776856920
-    },
-    {
-      "id": "BFMTV_1776856225",
-      "source": "BFMTV",
-      "text": "HUIT ENFANTS TUÉS EN LOUISIANE: LE PÈRE D'UNE VICTIME TÉMOIGNE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:10",
-      "date": "22/04",
-      "timestamp": 1776856225
-    },
-    {
-      "id": "BFMTV_1776855191",
-      "source": "BFMTV",
-      "text": "EAU EN BOUTEILLE, MÉDICAMENTS, CHARGEURS... LES BELGES INVITÉS À PRÉPARER UN \"KIT D'URGENCE\" EN CAS DE CATASTROPHE NATURELLE OU DE CRISE MONDIALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:53",
-      "date": "22/04",
-      "timestamp": 1776855191
-    },
-    {
-      "id": "BFMTV_1776854789",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP EST TENU À L'ÉCART DE CERTAINES RÉUNIONS EN RAISON DE SON IMPULSIVITÉ, SELON LE WALL STREET JOURNAL",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:46",
-      "date": "22/04",
-      "timestamp": 1776854789
     }
   ],
   "france": {
