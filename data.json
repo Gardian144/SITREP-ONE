@@ -1,7 +1,27 @@
 {
-  "last_update": "23/04 22:01",
+  "last_update": "23/04 23:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776982747",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE UNE PROLONGATION DU CESSEZ-LE-FEU AU LIBAN DE \"TROIS SEMAINES\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "22:19",
+      "date": "23/04",
+      "timestamp": 1776982747
+    },
+    {
+      "id": "BFMTV_1776981921",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE UNE PROLONGATION DU CESSEZ-LE-FEU AU LIBAN DE \"TROIS SEMAINES\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "22:05",
+      "date": "23/04",
+      "timestamp": 1776981921
+    },
     {
       "id": "BFMTV_1776981146",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "07:37",
       "date": "23/04",
       "timestamp": 1776929850
-    },
-    {
-      "id": "BFMTV_1776929189",
-      "source": "BFMTV",
-      "text": "TRANSMISSIONS D'ENTREPRISES: \"IL FAUT EN FAIRE UNE GRANDE CAUSE ÉCONOMIQUE NATIONALE\", DÉCLARE LE MINISTRE DES PME ET DU COMMERCE SERGE PAPIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:26",
-      "date": "23/04",
-      "timestamp": 1776929189
-    },
-    {
-      "id": "BFMTV_1776928666",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT DÉNONCE \"UN CRIME DE GUERRE\" APRÈS LA MORT DE DEUX SOLDATS FRANÇAIS TUÉS AU LIBAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:17",
-      "date": "23/04",
-      "timestamp": 1776928666
     }
   ],
   "france": {
