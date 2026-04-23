@@ -1,7 +1,117 @@
 {
-  "last_update": "23/04 20:12",
+  "last_update": "23/04 21:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776977931",
+      "source": "BFMTV",
+      "text": "FORUM BFMTV - “LES FRANÇAIS N’ONT PAS DEMANDÉ À ÊTRE EN GUERRE”, RAPPELLE LINA, EN RECHERCHE D’EMPLOI ",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:58",
+      "date": "23/04",
+      "timestamp": 1776977931
+    },
+    {
+      "id": "BFMTV_1776976985",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QU'IL \"N'UTILISERA PAS L'ARME NUCLÉAIRE\" CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:43",
+      "date": "23/04",
+      "timestamp": 1776976985
+    },
+    {
+      "id": "BFMTV_1776976803",
+      "source": "BFMTV",
+      "text": "FORUM BFMTV - “LA FRANCE N’A PAS LES MARGES DE MANŒUVRE QU’ONT L’ESPAGNE, L’ITALIE, ET L’ALLEMAGNE”, SELON MARTIN GARAGNON, ANCIEN PORTE-PAROLE DE “RENAISSANCE”",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:40",
+      "date": "23/04",
+      "timestamp": 1776976803
+    },
+    {
+      "id": "BFMTV_1776976327",
+      "source": "BFMTV",
+      "text": "FORUM BFMTV - GUERRE AU MOYEN-ORIENT: “LES AMÉRICAINS NE SONT PAS NON AMIS AUJOURD’HUI, CE SONT NOS ENNEMIS”, AFFIRME PIERRE, BÉNÉVOLE EN UKRAINE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:32",
+      "date": "23/04",
+      "timestamp": 1776976327
+    },
+    {
+      "id": "BFMTV_1776976268",
+      "source": "BFMTV",
+      "text": "UNE FEMME DE 58 ANS TUÉE PAR UN OURS BRUN EN POLOGNE, UNE ENQUÊTE EN COURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:31",
+      "date": "23/04",
+      "timestamp": 1776976268
+    },
+    {
+      "id": "BFMTV_1776975845",
+      "source": "BFMTV",
+      "text": "\"CE N'EST PAS QUELQUE CHOSE QU'ON DOIT UTILISER\": DONALD TRUMP ASSURE QU'IL \"N'UTILISERA PAS L'ARME NUCLÉAIRE\" CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:24",
+      "date": "23/04",
+      "timestamp": 1776975845
+    },
+    {
+      "id": "BFMTV_1776975780",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DIT NE PAS AVOIR L'INTENTION D'UTILISER L'ARME NUCLÉAIRE CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:23",
+      "date": "23/04",
+      "timestamp": 1776975780
+    },
+    {
+      "id": "BFMTV_1776975611",
+      "source": "BFMTV",
+      "text": "“NON JE N’UTILISERAI PAS L’ARME NUCLÉAIRE SUR L’IRAN, CE N’EST PAS QUELQUE CHOSE QU’ON DOIT UTILISER”, DÉCLARE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:20",
+      "date": "23/04",
+      "timestamp": 1776975611
+    },
+    {
+      "id": "BFMTV_1776975451",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP: \"L'IRAN ESSAIE DE JOUER LA MONTRE, ON NE SAIT PAS QUI EST AUX COMMANDES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:17",
+      "date": "23/04",
+      "timestamp": 1776975451
+    },
+    {
+      "id": "BFMTV_1776975317",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP SUR L'IRAN: \"LE PROBLÈME, C'EST QU'ILS SONT TRÈS DÉSORGANISÉS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:15",
+      "date": "23/04",
+      "timestamp": 1776975317
+    },
+    {
+      "id": "BFMTV_1776975143",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"J’AI DÉTRUIT L’ARMÉE IRANIENNE EN QUATRE SEMAINES\", ANNONCE DONALD TRUMP",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:12",
+      "date": "23/04",
+      "timestamp": 1776975143
+    },
     {
       "id": "BFMTV_1776975018",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "05:35",
       "date": "23/04",
       "timestamp": 1776922515
-    },
-    {
-      "id": "BFMTV_1776921421",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE JOURNALISTE LIBANAISE TUÉE PAR UNE FRAPPE ISRAÉLIENNE DANS LE SUD DU PAYS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:17",
-      "date": "23/04",
-      "timestamp": 1776921421
-    },
-    {
-      "id": "BFMTV_1776920450",
-      "source": "BFMTV",
-      "text": "\"LES FINS DE MOIS SONT UN PETIT PEU COMPLIQUÉES\": LES EFFETS DE LA GUERRE AU MOYEN-ORIENT SE RESSENTENT DANS LE PORTEFEUILLE DES FRANÇAIS ",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:00",
-      "date": "23/04",
-      "timestamp": 1776920450
-    },
-    {
-      "id": "BFMTV_1776920305",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU SUD-LIBAN, CE VILLAGE EST TOTALEMENT ISOLÉ DU RESTE DU PAYS APRÈS DES FRAPPES ISRAÉLIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:58",
-      "date": "23/04",
-      "timestamp": 1776920305
-    },
-    {
-      "id": "BFMTV_1776919391",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE L'IRAN A RENONCÉ À EXÉCUTER HUIT FEMMES À SA DEMANDE, TÉHÉRAN DÉMENT DE \"FAUSSES INFORMATIONS\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:43",
-      "date": "23/04",
-      "timestamp": 1776919391
-    },
-    {
-      "id": "BFMTV_1776919297",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA BATAILLE NAVALE ENTRE L'IRAN ET LES ÉTATS-UNIS EST LANCÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:41",
-      "date": "23/04",
-      "timestamp": 1776919297
-    },
-    {
-      "id": "BFMTV_1776919272",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ÉCONOMIE IRANIENNE À L'ARRÊT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:41",
-      "date": "23/04",
-      "timestamp": 1776919272
-    },
-    {
-      "id": "BFMTV_1776919086",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PAKISTAN SE TIENT PRÊT À DE NOUVELLES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:38",
-      "date": "23/04",
-      "timestamp": 1776919086
-    },
-    {
-      "id": "BFMTV_1776918717",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS TESTENT UN LASER ANTI-DRONE DEPUIS LE PORTE-AVIONS USS GEORGE H.W. BUSH",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:31",
-      "date": "23/04",
-      "timestamp": 1776918717
-    },
-    {
-      "id": "BFMTV_1776918494",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA MAISON BLANCHE ÉVOQUE DES \"DIVISIONS INTERNES\" EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:28",
-      "date": "23/04",
-      "timestamp": 1776918494
-    },
-    {
-      "id": "BFMTV_1776918238",
-      "source": "BFMTV",
-      "text": "LE PENTAGONE ANNONCE LE DÉPART \"AVEC EFFET IMMÉDIAT\" DE JOHN PHELAN, PLUS HAUT RESPONSABLE CIVIL DE LA MARINE AMÉRICAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:23",
-      "date": "23/04",
-      "timestamp": 1776918238
-    },
-    {
-      "id": "BFMTV_1776918202",
-      "source": "BFMTV",
-      "text": "\"UN MENEUR D'HOMMES CHARISMATIQUE APPRÉCIÉ DE TOUS\": ÉMOTION APRÈS LA MORT DU CAPORAL-CHEF ANICET GIRARDIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:23",
-      "date": "23/04",
-      "timestamp": 1776918202
     }
   ],
   "france": {
