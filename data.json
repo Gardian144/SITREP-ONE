@@ -1,7 +1,127 @@
 {
-  "last_update": "23/04 16:08",
+  "last_update": "23/04 17:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776965881",
+      "source": "BFMTV",
+      "text": "L'IRAN EST-IL CAPABLE DE SECTIONNER LES CÂBLES SOUS-MARINS ACHEMINANT L'INTERNET DANS LE MONDE ENTIER?",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:38",
+      "date": "23/04",
+      "timestamp": 1776965881
+    },
+    {
+      "id": "OPEX360_1776965471",
+      "source": "OPEX360",
+      "text": "UN INCENDIE S’EST DÉCLARÉ À BORD DU DESTROYER AMÉRICAIN USS ZUMWALT",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:31",
+      "date": "23/04",
+      "timestamp": 1776965471
+    },
+    {
+      "id": "BFMTV_1776964917",
+      "source": "BFMTV",
+      "text": "BERNARD GUETTA, EURODÉPUTÉ RENEW ET SPÉCIALISTE DE GÉOPOLITIQUE: \"LE RÉGIME IRANIEN N'EST PAS SI SOLIDE QUE ÇA, UN RÉGIME FORT N'EXÉCUTE PAS L'ANNÉE DERNIÈRE 1.639 PERSONNES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:21",
+      "date": "23/04",
+      "timestamp": 1776964917
+    },
+    {
+      "id": "BFMTV_1776964802",
+      "source": "BFMTV",
+      "text": "IRAN: LES VISAGES DE LA RÉPRESSION PAR LA TERREUR, EXÉCUTÉS À MORT PAR LE RÉGIME",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:20",
+      "date": "23/04",
+      "timestamp": 1776964802
+    },
+    {
+      "id": "BFMTV_1776964205",
+      "source": "BFMTV",
+      "text": "AIDE DE L'UE À L'UKRAINE: \"NOUS AVANÇONS\", DIT EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:10",
+      "date": "23/04",
+      "timestamp": 1776964205
+    },
+    {
+      "id": "BFMTV_1776964125",
+      "source": "BFMTV",
+      "text": "MINES DANS LE DÉTROIT D'ORMUZ: \"IL Y A UN DOUTE TOTAL QUI PÈSE SUR CETTE AFFAIRE LÀ\", ESTIME LE GÉNÉRAL PHILIPPE SIDOS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:08",
+      "date": "23/04",
+      "timestamp": 1776964125
+    },
+    {
+      "id": "BFMTV_1776964108",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL SE DIT \"PRÊT À REPRENDRE LA GUERRE CONTRE L'IRAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:08",
+      "date": "23/04",
+      "timestamp": 1776964108
+    },
+    {
+      "id": "BFMTV_1776962741",
+      "source": "BFMTV",
+      "text": "\"LA RÉOUVERTURE DU DÉTROIT D'ORMUZ DOIT SE FAIRE EN BON ORDRE, PAS PAR DES BLOCUS CIBLÉS OU AUTRE\": EMMANUEL MACRON ARRIVE AU CONSEIL EUROPÉEN INFORMEL À CHYPRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:45",
+      "date": "23/04",
+      "timestamp": 1776962741
+    },
+    {
+      "id": "BFMTV_1776962382",
+      "source": "BFMTV",
+      "text": "MORT DE DEUX CASQUES BLEUS FRANÇAIS AU LIBAN: QU'EST-CE QU'UN CRIME DE GUERRE?",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:39",
+      "date": "23/04",
+      "timestamp": 1776962382
+    },
+    {
+      "id": "OPEX360_1776962299",
+      "source": "OPEX360",
+      "text": "ACTUALISATION DE LA LPM : UN AMENDEMENT PRÉVOIT D’ACCORDER LA CARTE DU COMBATTANT AUX ÉQUIPAGES DE SNLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:38",
+      "date": "23/04",
+      "timestamp": 1776962299
+    },
+    {
+      "id": "BFMTV_1776960951",
+      "source": "BFMTV",
+      "text": "\"JE SERAI UN SECRÉTAIRE GÉNÉRAL IMPARTIAL\": L’ANCIEN PRÉSIDENT SÉNÉGALAIS, MACKY SALL, CANDIDAT À LA TÊTE DE L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:15",
+      "date": "23/04",
+      "timestamp": 1776960951
+    },
+    {
+      "id": "BFMTV_1776960757",
+      "source": "BFMTV",
+      "text": " REZA PAHLAVI ASPERGÉ PAR UN LIQUIDE ROUGE À L'ISSUE DE SA CONFÉRENCE DE PRESSE À BERLIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:12",
+      "date": "23/04",
+      "timestamp": 1776960757
+    },
     {
       "id": "BFMTV_1776959989",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "21:12",
       "date": "22/04",
       "timestamp": 1776892369
-    },
-    {
-      "id": "BFMTV_1776891689",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QU'IL N'Y A \"AUCUN CALENDRIER PRÉCIS\" CONCERNANT LA FIN DU CONFLIT AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:01",
-      "date": "22/04",
-      "timestamp": 1776891689
-    },
-    {
-      "id": "BFMTV_1776891497",
-      "source": "BFMTV",
-      "text": "FRAPPES AU LIBAN: LA JOURNALISTE LIBANAISE AMAL KHALIL TUÉE LORS D'UNE FRAPPE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:58",
-      "date": "22/04",
-      "timestamp": 1776891497
-    },
-    {
-      "id": "BFMTV_1776890421",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: “NOUS SOMMES DANS UNE LOGIQUE D’ESCALADE QUI CONDUIT À UNE IMPASSE”, RÉSUME DAMIEN CHEVALIER, DIRECTEUR DE LA DIVISION DE LA SÉCURITÉ À L’ORGANISATION MARITIME INTERNATIONALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:40",
-      "date": "22/04",
-      "timestamp": 1776890421
-    },
-    {
-      "id": "BFMTV_1776889975",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: AU MOINS UN PÉTROLIER IRANIEN EST ESCORTÉ PAR L'ARMÉE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:32",
-      "date": "22/04",
-      "timestamp": 1776889975
-    },
-    {
-      "id": "BFMTV_1776889182",
-      "source": "BFMTV",
-      "text": "IRAN: LES DERNIÈRES INFORMATIONS CONCERNANT L'ÉTAT DE SANTÉ DE MOJTABA KHAMENEI",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:19",
-      "date": "22/04",
-      "timestamp": 1776889182
-    },
-    {
-      "id": "BFMTV_1776889121",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP \"N'A PAS FIXÉ DE DATE LIMITE\" À L'IRAN POUR FAIRE UNE PROPOSITION",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:18",
-      "date": "22/04",
-      "timestamp": 1776889121
-    },
-    {
-      "id": "BFMTV_1776888794",
-      "source": "BFMTV",
-      "text": "ISRAËL/LIBAN: LA TRÊVE À NOUVEAU ENFREINTE PAR DES FRAPPES DE L'ARMÉE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:13",
-      "date": "22/04",
-      "timestamp": 1776888794
-    },
-    {
-      "id": "BFMTV_1776888198",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP \"N'A PAS FIXÉ DE DATE LIMITE POUR RECEVOIR UNE PROPOSITION DE L'IRAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:03",
-      "date": "22/04",
-      "timestamp": 1776888198
-    },
-    {
-      "id": "BFMTV_1776887165",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP \"N'A PAS FIXÉ DE DATE LIMITE POUR RECEVOIR UNE PROPOSITION DE L'IRAN\" ",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:46",
-      "date": "22/04",
-      "timestamp": 1776887165
-    },
-    {
-      "id": "BFMTV_1776886634",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: DONALD TRUMP NE CONSIDÈRE PAS LA SAISIE DE DEUX NAVIRES PAR L'IRAN COMME UNE VIOLATION DU CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:37",
-      "date": "22/04",
-      "timestamp": 1776886634
-    },
-    {
-      "id": "BFMTV_1776885760",
-      "source": "BFMTV",
-      "text": "L'IRAN EXCLUT UNE RÉOUVERTURE DU DÉTROIT D'ORMUZ TANT QUE DURE LE BLOCUS AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:22",
-      "date": "22/04",
-      "timestamp": 1776885760
-    },
-    {
-      "id": "BFMTV_1776884278",
-      "source": "BFMTV",
-      "text": "IRAN: L’US NAVY TESTE UNE ARME LASER ANTI-DRONE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:57",
-      "date": "22/04",
-      "timestamp": 1776884278
     }
   ],
   "france": {
