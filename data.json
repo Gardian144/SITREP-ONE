@@ -1,7 +1,97 @@
 {
-  "last_update": "23/04 06:05",
+  "last_update": "23/04 08:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776931375",
+      "source": "BFMTV",
+      "text": "L'IRAN PUBLIE DES IMAGES DE SES ATTAQUES CONTRE DES NAVIRES DANS LE DÉTROIT D'ORMUZ ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:02",
+      "date": "23/04",
+      "timestamp": 1776931375
+    },
+    {
+      "id": "BFMTV_1776930677",
+      "source": "BFMTV",
+      "text": "\"FAIBLE QI\": DONALD TRUMP REPREND UN STÉRÉOTYPE RACISTE VENU DES SUPRÉMACISTES BLANCS AMÉRICAINS CONTRE SES ADVERSAIRES POLITIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:51",
+      "date": "23/04",
+      "timestamp": 1776930677
+    },
+    {
+      "id": "BFMTV_1776930360",
+      "source": "BFMTV",
+      "text": "PLUSIEURS BLESSÉS AU DANEMARK APRÈS UNE COLLISION ENTRE DEUX TRAINS, LES SECOURS \"MOBILISÉS EN GRAND NOMBRE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:46",
+      "date": "23/04",
+      "timestamp": 1776930360
+    },
+    {
+      "id": "BFMTV_1776929850",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DÉMINER LE DÉTROIT D'ORMUZ POURRAIT PRENDRE SIX MOIS, SELON LE PENTAGONE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:37",
+      "date": "23/04",
+      "timestamp": 1776929850
+    },
+    {
+      "id": "BFMTV_1776929189",
+      "source": "BFMTV",
+      "text": "TRANSMISSIONS D'ENTREPRISES: \"IL FAUT EN FAIRE UNE GRANDE CAUSE ÉCONOMIQUE NATIONALE\", DÉCLARE LE MINISTRE DES PME ET DU COMMERCE SERGE PAPIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:26",
+      "date": "23/04",
+      "timestamp": 1776929189
+    },
+    {
+      "id": "BFMTV_1776928666",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT DÉNONCE \"UN CRIME DE GUERRE\" APRÈS LA MORT DE DEUX SOLDATS FRANÇAIS TUÉS AU LIBAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "07:17",
+      "date": "23/04",
+      "timestamp": 1776928666
+    },
+    {
+      "id": "BFMTV_1776926115",
+      "source": "BFMTV",
+      "text": "\"APPRÉCIÉ DE TOUS\": ÉMOTION DANS LA MARNE APRÈS \"L'ACTION HÉROÏQUE\" DU CAPORAL-CHEF ANICET GIRARDIN, TUÉ DANS L'ATTAQUE AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:35",
+      "date": "23/04",
+      "timestamp": 1776926115
+    },
+    {
+      "id": "BFMTV_1776925112",
+      "source": "BFMTV",
+      "text": "L'HOMMAGE À L'ADJUDANT FLORIAN MONTORIO, TUÉ AU LIBAN, SE TIENDRA À 11H30 À MONTAUBAN ET SERA PRÉSIDÉ PAR CATHERINE VAUTRIN, MINISTRE DES ARMÉES ET DES ANCIENS COMBATTANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:18",
+      "date": "23/04",
+      "timestamp": 1776925112
+    },
+    {
+      "id": "BFMTV_1776924644",
+      "source": "BFMTV",
+      "text": "LA JOURNALISTE LIBANAISE AMAL KHALIL TUÉE PAR UNE FRAPPE ISRAÉLIENNE MALGRÉ LA TRÊVE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:10",
+      "date": "23/04",
+      "timestamp": 1776924644
+    },
     {
       "id": "BFMTV_1776924076",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "10:46",
       "date": "22/04",
       "timestamp": 1776854789
-    },
-    {
-      "id": "BFMTV_1776854529",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION IRANIENS DISENT AVOIR SAISI DEUX NAVIRES TENTANT DE PASSER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:42",
-      "date": "22/04",
-      "timestamp": 1776854529
-    },
-    {
-      "id": "BFMTV_1776854174",
-      "source": "BFMTV",
-      "text": "LES GARDIENS DE LA RÉVOLUTION DISENT AVOIR SAISI DEUX NAVIRES TENTANT DE PASSER LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:36",
-      "date": "22/04",
-      "timestamp": 1776854174
-    },
-    {
-      "id": "OPEX360_1776853804",
-      "source": "OPEX360",
-      "text": "PARIS ET BERLIN SE DONNENT ENCORE DIX JOURS POUR TROUVER UN ACCORD AU SUJET DU SYSTÈME DE COMBAT AÉRIEN DU FUTUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:30",
-      "date": "22/04",
-      "timestamp": 1776853804
-    },
-    {
-      "id": "BFMTV_1776853145",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AUX ÉTATS-UNIS, LA POSTURE STRATÉGIQUE DE DONALD TRUMP INTERROGE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:19",
-      "date": "22/04",
-      "timestamp": 1776853145
-    },
-    {
-      "id": "BFMTV_1776852060",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT:  \"LA LIBERTÉ DE NAVIGATION EST NON NÉGOCIABLE\", DÉCLARE KAJA KALLAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:01",
-      "date": "22/04",
-      "timestamp": 1776852060
-    },
-    {
-      "id": "BFMTV_1776851792",
-      "source": "BFMTV",
-      "text": "L'UE VEUT SÉCURISER L'APPROVISIONNEMENT EN CARBURANTS, RASSURE DAN JØRGENSEN, COMMISSAIRE EUROPÉEN À L'ÉNERGIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:56",
-      "date": "22/04",
-      "timestamp": 1776851792
-    },
-    {
-      "id": "BFMTV_1776850898",
-      "source": "BFMTV",
-      "text": "\"ISRAËL ET LA PAIX, CE SONT DEUX MOTS QUI N'ONT RIEN À VOIR ENSEMBLE\", AFFIRME SALMMAN HARB",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:41",
-      "date": "22/04",
-      "timestamp": 1776850898
-    },
-    {
-      "id": "BFMTV_1776850299",
-      "source": "BFMTV",
-      "text": "486 MEMBRES PRÉSUMÉS: LES IMAGES IMPRESSIONNANTES DU PROCÈS DU GANG MS-13 AU SALVADOR",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:31",
-      "date": "22/04",
-      "timestamp": 1776850299
-    },
-    {
-      "id": "BFMTV_1776849698",
-      "source": "BFMTV",
-      "text": "\"UNE MENACE POUR LA SÉCURITÉ NATIONALE\": AUX ÉTATS-UNIS, LA DISPARITION D'UNE DIZAINE DE SCIENTIFIQUES INTERROGE, LE FBI LANCE UNE ENQUÊTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:21",
-      "date": "22/04",
-      "timestamp": 1776849698
     }
   ],
   "france": {
