@@ -1,7 +1,117 @@
 {
-  "last_update": "23/04 14:11",
+  "last_update": "23/04 16:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1776959989",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE JOURNALISTE TUÉE PAR UNE FRAPPE ISRAÉLIENNE, LES DIRIGEANTS LIBANAIS DÉNONCENT UN \"CRIME DE GUERRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:59",
+      "date": "23/04",
+      "timestamp": 1776959989
+    },
+    {
+      "id": "BFMTV_1776959989",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:59",
+      "date": "23/04",
+      "timestamp": 1776959989
+    },
+    {
+      "id": "BFMTV_1776958900",
+      "source": "BFMTV",
+      "text": "PRÊT DE 90 MILLIARDS D'EUROS À L'UKRAINE: \"AUJOURD'HUI, NOUS TENONS CETTE PROMESSE\", SE FÉLICITE URSULA VON DER LEYEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:41",
+      "date": "23/04",
+      "timestamp": 1776958900
+    },
+    {
+      "id": "BFMTV_1776958138",
+      "source": "BFMTV",
+      "text": "THÉORIE DU COMPLOT: DES COMPLOTISTES MAGA CONTESTENT LA TENTATIVE D'ASSASSINAT DE DONALD TRUMP  ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:28",
+      "date": "23/04",
+      "timestamp": 1776958138
+    },
+    {
+      "id": "BFMTV_1776957554",
+      "source": "BFMTV",
+      "text": "QUELLES SONT LES MINES QUE L'IRAN POSE DANS LE DÉTROIT D'ORMUZ? LES EXPLICATIONS DE THOMAS COUVIN, ANCIEN PLONGEUR-DÉMINEUR DE LA MARINE NATIONALE",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:19",
+      "date": "23/04",
+      "timestamp": 1776957554
+    },
+    {
+      "id": "BFMTV_1776957391",
+      "source": "BFMTV",
+      "text": "SOMMET INFORMEL À CHYPRE: LES DIRIGEANTS EUROPÉENS RETROUVENT VOLODYMYR ZELENSKY À CHYPRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:16",
+      "date": "23/04",
+      "timestamp": 1776957391
+    },
+    {
+      "id": "BFMTV_1776956266",
+      "source": "BFMTV",
+      "text": "L'AUTORITÉ PALESTINIENNE ANNONCE QU'UN ADOLESCENT A ÉTÉ TUÉ PAR DES TIRS ISRAÉLIENS EN CISJORDANIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:57",
+      "date": "23/04",
+      "timestamp": 1776956266
+    },
+    {
+      "id": "BFMTV_1776955937",
+      "source": "BFMTV",
+      "text": "CHINE: UN CLIMATISEUR DÉGRINGOLE ET MANQUE DE S'ÉCRASER SUR UNE FEMME",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:52",
+      "date": "23/04",
+      "timestamp": 1776955937
+    },
+    {
+      "id": "OPEX360_1776955762",
+      "source": "OPEX360",
+      "text": "L’US AIR FORCE ENVISAGE À NOUVEAU DE RETIRER SES DERNIERS AVIONS ESPIONS U-2 «DRAGON LADY» DU SERVICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:49",
+      "date": "23/04",
+      "timestamp": 1776955762
+    },
+    {
+      "id": "BFMTV_1776954901",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS CONTRÔLENT \"TOTALEMENT LE DÉTROIT D'ORMUZ\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:35",
+      "date": "23/04",
+      "timestamp": 1776954901
+    },
+    {
+      "id": "BFMTV_1776953679",
+      "source": "BFMTV",
+      "text": " \"SLEEP PORN\": CE QUE RÉVÈLE UNE ENQUÊTE SUR UNE “ACADÉMIE MONDIALE DU VIOL” EN LIGNE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:14",
+      "date": "23/04",
+      "timestamp": 1776953679
+    },
     {
       "id": "BFMTV_1776951523",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "18:57",
       "date": "22/04",
       "timestamp": 1776884278
-    },
-    {
-      "id": "BFMTV_1776883220",
-      "source": "BFMTV",
-      "text": "LA DISPARITION DE MYSTÉRIEUSE DE ONZE SCIENTIFIQUES AMÉRICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:40",
-      "date": "22/04",
-      "timestamp": 1776883220
-    },
-    {
-      "id": "BFMTV_1776882384",
-      "source": "BFMTV",
-      "text": "LES DÉTAILS DE L'OPÉRATION IRANIENNE SUR LES DEUX NAVIRES ATTAQUÉS DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:26",
-      "date": "22/04",
-      "timestamp": 1776882384
-    },
-    {
-      "id": "BFMTV_1776882164",
-      "source": "BFMTV",
-      "text": "IRAN: LE PORTE-AVIONS USS BUSH EN APPROCHE DU DÉTROIT D’ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:22",
-      "date": "22/04",
-      "timestamp": 1776882164
-    },
-    {
-      "id": "BFMTV_1776879914",
-      "source": "BFMTV",
-      "text": "\"LORSQUE LES CONFLITS SONT DÉCLENCHÉS, JE SERAI LA PREMIÈRE À ALLER SUR PLACE ET À PARLER À TOUTES LES PARTIES\": CANDIDATE À LA TÊTE DE L'ONU, REBECCA GRYNSPAN, PRÉSENTE SES PRIORITÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:45",
-      "date": "22/04",
-      "timestamp": 1776879914
-    },
-    {
-      "id": "BFMTV_1776879814",
-      "source": "BFMTV",
-      "text": "LE TÉMOIGNAGE DE JEAN-MARIE BOCKEL, DONT LE FILS MILITAIRE EST MORT POUR LA FRANCE AU MALI EN 2019",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:43",
-      "date": "22/04",
-      "timestamp": 1776879814
-    },
-    {
-      "id": "BFMTV_1776879364",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: 20 MINES ONT ÉTÉ MISES PAR L'ARMÉE IRANIENNE, SELON LE WASHINGTON POST",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:36",
-      "date": "22/04",
-      "timestamp": 1776879364
-    },
-    {
-      "id": "BFMTV_1776878832",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE L’IRAN RENONCE À L’EXÉCUTION DES HUIT FEMMES CONDAMNÉES À LA PEINE DE MORT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:27",
-      "date": "22/04",
-      "timestamp": 1776878832
-    },
-    {
-      "id": "OPEX360_1776878676",
-      "source": "OPEX360",
-      "text": "LA DGA A TESTÉ AVEC SUCCÈS L’INTÉGRATION DU MISSILE AIR-AIR MISTRAL 3 SUR L’HÉLICOPTÈRE D’ATTAQUE TIGRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:24",
-      "date": "22/04",
-      "timestamp": 1776878676
-    },
-    {
-      "id": "BFMTV_1776878130",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN EXCLUT TOUTE RÉOUVERTURE DU DÉTROIT D'ORMUZ TANT QUE DURE LE BLOCUS AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:15",
-      "date": "22/04",
-      "timestamp": 1776878130
-    },
-    {
-      "id": "BFMTV_1776877585",
-      "source": "BFMTV",
-      "text": "\"ON EST SENSIBLE AU FAIT QUE L'INSTITUTION PREND LES CHOSES EN MAIN\": L'ÉMOTION DE JEAN-MARIE BOCKEL, DONT LE FILS MILITAIRE EST MORT AU MALI EN 2019",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:06",
-      "date": "22/04",
-      "timestamp": 1776877585
-    },
-    {
-      "id": "BFMTV_1776877102",
-      "source": "BFMTV",
-      "text": "\"DANS CES MOMENTS-LÀ, L'ARMÉE EST UNE GRANDE FAMILLE\": LE TÉMOIGNAGE DE JEAN-MARIE BOCKEL, DONT LE FILS MILITAIRE EST MORT AU MALI EN 2019",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:58",
-      "date": "22/04",
-      "timestamp": 1776877102
     }
   ],
   "france": {
