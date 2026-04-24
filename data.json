@@ -1,7 +1,107 @@
 {
-  "last_update": "24/04 17:51",
+  "last_update": "24/04 18:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777056370",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE GUIDE SUPRÊME IRANIEN AURAIT \"INTERDIT LES NÉGOCIATIONS AVEC LES ÉTATS-UNIS\", RAPPORTE UN MÉDIA IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:46",
+      "date": "24/04",
+      "timestamp": 1777056370
+    },
+    {
+      "id": "BFMTV_1777056106",
+      "source": "BFMTV",
+      "text": "\"PERSONNE N'EST TOTALEMENT SÛR QUE CET ALLIÉ EST FIABLE\", LANCE EMMANUEL MACRON À PROPOS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:41",
+      "date": "24/04",
+      "timestamp": 1777056106
+    },
+    {
+      "id": "BFMTV_1777056024",
+      "source": "BFMTV",
+      "text": "IRAN, DÉTROIT D'ORMUZ ... LE RÉCIT DES ARRAISONNEMENTS DE LA MARINE AMÉRICAINE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:40",
+      "date": "24/04",
+      "timestamp": 1777056024
+    },
+    {
+      "id": "BFMTV_1777055910",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LE DÉMINAGE COMPLET POURRAIT PRENDRE 6 MOIS SELON LA PRESSE AMÉRICAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:38",
+      "date": "24/04",
+      "timestamp": 1777055910
+    },
+    {
+      "id": "BFMTV_1777054919",
+      "source": "BFMTV",
+      "text": "POUR EMMANUEL MACRON, \"LES ÉTATS-UNIS POURRAIENT ÊTRE UN ALLIÉ, MAIS CET ALLIÉ N'EST PLUS TRÈS STABLE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:21",
+      "date": "24/04",
+      "timestamp": 1777054919
+    },
+    {
+      "id": "BFMTV_1777053933",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS LANCENT UN ULTIMATUM À L'IRAN LORS D'UNE CONFÉRENCE DE PRESSE TENUE CET APRÈS-MIDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:05",
+      "date": "24/04",
+      "timestamp": 1777053933
+    },
+    {
+      "id": "BFMTV_1777053786",
+      "source": "BFMTV",
+      "text": "PELOTON D'EXÉCUTION, ÉLECTROCUTION... LE MINISTÈRE AMÉRICAIN DE LA JUSTICE ÉLARGIT LES MODES DE MISE À MORT AUTORISÉS AU NIVEAU FÉDÉRAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:03",
+      "date": "24/04",
+      "timestamp": 1777053786
+    },
+    {
+      "id": "BFMTV_1777053599",
+      "source": "BFMTV",
+      "text": "\"ON A À PEU PRÈS 3.000 BATEAUX QUI SONT COINCÉS\": ANTOINE PILLET, DIRECTEUR DES PARTENARIATS DE KPLER, RÉVÈLE COMMENT LEUR ENTREPRISE RÉALISE UNE CARTOGRAPHIE INSTANTANÉE DU TRAFIC MARITIME DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:59",
+      "date": "24/04",
+      "timestamp": 1777053599
+    },
+    {
+      "id": "BFMTV_1777053572",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV ÉCARTE DEUX COMMANDANTS, ACCUSÉS D’AVOIR PERDU DES POSITIONS, MAL SOUTENU LEURS TROUPES AFFAMÉES ET DISSIMULÉ LA RÉALITÉ DU FRONT ",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:59",
+      "date": "24/04",
+      "timestamp": 1777053572
+    },
+    {
+      "id": "BFMTV_1777053305",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS POURRAIENT MANQUER DE MISSILES EN CAS DE NOUVELLE GUERRE FACE À UNE GRANDE PUISSANCE MILITAIRE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:55",
+      "date": "24/04",
+      "timestamp": 1777053305
+    },
     {
       "id": "OPEX360_1777051664",
       "source": "OPEX360",
@@ -901,106 +1001,6 @@
       "time": "20:23",
       "date": "23/04",
       "timestamp": 1776975780
-    },
-    {
-      "id": "BFMTV_1776975611",
-      "source": "BFMTV",
-      "text": "“NON JE N’UTILISERAI PAS L’ARME NUCLÉAIRE SUR L’IRAN, CE N’EST PAS QUELQUE CHOSE QU’ON DOIT UTILISER”, DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:20",
-      "date": "23/04",
-      "timestamp": 1776975611
-    },
-    {
-      "id": "BFMTV_1776975451",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP: \"L'IRAN ESSAIE DE JOUER LA MONTRE, ON NE SAIT PAS QUI EST AUX COMMANDES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:17",
-      "date": "23/04",
-      "timestamp": 1776975451
-    },
-    {
-      "id": "BFMTV_1776975317",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP SUR L'IRAN: \"LE PROBLÈME, C'EST QU'ILS SONT TRÈS DÉSORGANISÉS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:15",
-      "date": "23/04",
-      "timestamp": 1776975317
-    },
-    {
-      "id": "BFMTV_1776975143",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"J’AI DÉTRUIT L’ARMÉE IRANIENNE EN QUATRE SEMAINES\", ANNONCE DONALD TRUMP",
-      "urgent": true,
-      "france_related": true,
-      "time": "20:12",
-      "date": "23/04",
-      "timestamp": 1776975143
-    },
-    {
-      "id": "BFMTV_1776975018",
-      "source": "BFMTV",
-      "text": "IRAN: “CET ACCORD DE BARACK OBAMA SUR LE NUCLÉAIRE IRANIEN ÉTAIT TRÈS MAUVAIS, ÇA LEUR PAVAIT LE CHEMIN VERS L’ARME NUCLÉAIRE”, AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:10",
-      "date": "23/04",
-      "timestamp": 1776975018
-    },
-    {
-      "id": "BFMTV_1776974924",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"ON A UN BLOCUS QUI EST EFFICACE À 100%\", JUGE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:08",
-      "date": "23/04",
-      "timestamp": 1776974924
-    },
-    {
-      "id": "BFMTV_1776974060",
-      "source": "BFMTV",
-      "text": "UKRAINE, MOYEN-ORIENT: LES DIRIGEANTS EUROPÉENS RÉUNIS À CHYPRE, EN PRÉSENCE DE VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:54",
-      "date": "23/04",
-      "timestamp": 1776974060
-    },
-    {
-      "id": "BFMTV_1776973656",
-      "source": "BFMTV",
-      "text": "\"OPÉRATION DES JAMBES\", \"PROTHÈSE\"... MOJTABA KHAMENEI EST GRAVEMENT BLESSÉ ET AURA \"ÉVENTUELLEMENT\" BESOIN DE CHIRURGIE ESTHÉTIQUE, SELON LE NEW YORK TIMES",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:47",
-      "date": "23/04",
-      "timestamp": 1776973656
-    },
-    {
-      "id": "BFMTV_1776973009",
-      "source": "BFMTV",
-      "text": "PRIX DES CARBURANTS: EN ESPAGNE, DANS CETTE STATION, LE DIESEL EST À 1,78 EURO LE LITRE ET LE SANS PLOMB 95 À 1,59 EURO LE LITRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:36",
-      "date": "23/04",
-      "timestamp": 1776973009
-    },
-    {
-      "id": "BFMTV_1776970903",
-      "source": "BFMTV",
-      "text": "CHATGPT ACCUSÉ D’AVOIR AIDÉ UN TUEUR À PLANIFIER UNE FUSILLADE AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:01",
-      "date": "23/04",
-      "timestamp": 1776970903
     }
   ],
   "france": {
