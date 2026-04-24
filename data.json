@@ -1,7 +1,47 @@
 {
-  "last_update": "24/04 15:46",
+  "last_update": "24/04 16:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777047652",
+      "source": "BFMTV",
+      "text": "DÉFENSE, SOUVERAINETÉ EUROPÉENNE: EMMANUEL MACRON A ATTERRI À ATHÈNES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:20",
+      "date": "24/04",
+      "timestamp": 1777047652
+    },
+    {
+      "id": "BFMTV_1777047503",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ENVOIENT UNE DÉLÉGATION À ISLAMABAD, SELON CNN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:18",
+      "date": "24/04",
+      "timestamp": 1777047503
+    },
+    {
+      "id": "BFMTV_1777046089",
+      "source": "BFMTV",
+      "text": "GUERRE MOYEN-ORIENT: QU'EST-CE QUE LES DRONES QUADRICOPTÈRES ? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:54",
+      "date": "24/04",
+      "timestamp": 1777046089
+    },
+    {
+      "id": "OPEX360_1777045697",
+      "source": "OPEX360",
+      "text": "ARIANEGROUP ENVISAGE DE PRODUIRE DES MISSILES BALISTIQUES CONVENTIONNELS EN ALLEMAGNE",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:48",
+      "date": "24/04",
+      "timestamp": 1777045697
+    },
     {
       "id": "BFMTV_1777044057",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "18:51",
       "date": "23/04",
       "timestamp": 1776970273
-    },
-    {
-      "id": "BFMTV_1776969618",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE \"LA MARINE IRANIENNE REPOSE AU FOND DE LA MER\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:40",
-      "date": "23/04",
-      "timestamp": 1776969618
-    },
-    {
-      "id": "BFMTV_1776969309",
-      "source": "BFMTV",
-      "text": "LE PORTE-AVIONS AMÉRICAIN GEORGES BUSH ARRIVE AU LARGE DU MOYEN-ORIENT ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:35",
-      "date": "23/04",
-      "timestamp": 1776969309
-    },
-    {
-      "id": "BFMTV_1776968505",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ISRAËL N'ATTAQUE PAS ACTUELLEMENT L'IRAN\", AFFIRME UNE SOURCE SÉCURITAIRE ISRAÉLIENNE À L'AFP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:21",
-      "date": "23/04",
-      "timestamp": 1776968505
-    },
-    {
-      "id": "BFMTV_1776967842",
-      "source": "BFMTV",
-      "text": "ISRAËL AFFIRME ÊTRE \"PRÊT À REPRENDRE LA GUERRE CONTRE L'IRAN\" ET INDIQUE \"ATTENDRE LE FEU VERT DES ÉTATS-UNIS POUR ACHEVER L'ÉLIMINATION DE LA DYNASTIE KHAMENEI\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:10",
-      "date": "23/04",
-      "timestamp": 1776967842
     }
   ],
   "france": {
