@@ -1,7 +1,77 @@
 {
-  "last_update": "24/04 08:22",
+  "last_update": "24/04 10:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777024770",
+      "source": "BFMTV",
+      "text": "LE PENTAGONE ÉVOQUE UNE POSSIBLE SUSPENSION DE L'ESPAGNE DE L'OTAN, PEDRO SANCHEZ ASSURE N'ÊTRE \"PAS INQUIET\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:59",
+      "date": "24/04",
+      "timestamp": 1777024770
+    },
+    {
+      "id": "BFMTV_1777024136",
+      "source": "BFMTV",
+      "text": "LE MINISTRE DES AFFAIRES ÉTRANGÈRES JEAN-NOËL BARROT ENTAME UNE VISITE DE DEUX JOURS AU TOGO",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:48",
+      "date": "24/04",
+      "timestamp": 1777024136
+    },
+    {
+      "id": "BFMTV_1777024064",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE L'EUROPE À \"S'ENGAGER DAVANTAGE\" AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:47",
+      "date": "24/04",
+      "timestamp": 1777024064
+    },
+    {
+      "id": "BFMTV_1777021715",
+      "source": "BFMTV",
+      "text": "SOUTIEN À L'UKRAINE: L’UE ENVOIE UN \"SIGNAL TRÈS CLAIR\" À LA RUSSIE, AFFIRME KAJA KALLAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:08",
+      "date": "24/04",
+      "timestamp": 1777021715
+    },
+    {
+      "id": "BFMTV_1777019909",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON ESTIME QU'UN RETOUR À LA STABILITÉ \"LE PLUS VITE POSSIBLE\" EST \"DANS L'INTÉRÊT DE TOUS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:38",
+      "date": "24/04",
+      "timestamp": 1777019909
+    },
+    {
+      "id": "BFMTV_1777019737",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS D'ORIGINE INCONNUE EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:35",
+      "date": "24/04",
+      "timestamp": 1777019737
+    },
+    {
+      "id": "BFMTV_1777019152",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS AURAIENT DÉPENSÉ ENTRE 28 ET 35 MILLIARDS DE DOLLARS DANS LA GUERRE AU MOYEN-ORIENT, SELON LE NEW YORK TIMES",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:25",
+      "date": "24/04",
+      "timestamp": 1777019152
+    },
     {
       "id": "BFMTV_1777018672",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "13:08",
       "date": "23/04",
       "timestamp": 1776949727
-    },
-    {
-      "id": "BFMTV_1776949381",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON VEUT UNE \"RÉOUVERTURE DU DÉTROIT D'ORMUZ DANS LA DURÉE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:03",
-      "date": "23/04",
-      "timestamp": 1776949381
-    },
-    {
-      "id": "BFMTV_1776948865",
-      "source": "BFMTV",
-      "text": "\"QUE TOUTE LA LUMIÈRE SOIT FAITE\" EXIGE EMMANUEL MACRON APRÈS LA MORT DE FLORIAN MONTORIO ET ANICET GIRARDIN AU LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:54",
-      "date": "23/04",
-      "timestamp": 1776948865
-    },
-    {
-      "id": "BFMTV_1776948332",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:45",
-      "date": "23/04",
-      "timestamp": 1776948332
-    },
-    {
-      "id": "BFMTV_1776948332",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:45",
-      "date": "23/04",
-      "timestamp": 1776948332
-    },
-    {
-      "id": "BFMTV_1776948332",
-      "source": "BFMTV",
-      "text": "POUR VOLODYMYR ZELENSKY, L'UKRAINE \"MÉRITE UNE PLEINE ADHÉSION\" À L'UE, PAS \"SYMBOLIQUE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:45",
-      "date": "23/04",
-      "timestamp": 1776948332
-    },
-    {
-      "id": "BFMTV_1776948072",
-      "source": "BFMTV",
-      "text": "MOJTABA KHAMENEI, LE NOUVEAU GUIDE SUPRÊME D'IRAN, VIT \"TOTALEMENT CACHÉ\" ET AURAIT DES PROBLÈMES D'ÉLOCUTION",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:41",
-      "date": "23/04",
-      "timestamp": 1776948072
-    },
-    {
-      "id": "BFMTV_1776945930",
-      "source": "BFMTV",
-      "text": "HOMMAGE À FLORIAN MONTORIO: CATHERINE VAUTRIN SALUE \"UN SOLDAT COMPLET\" AU \"SANG-FROID EXEMPLAIRE\" ET AU \"DESTIN DE HÉROS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:05",
-      "date": "23/04",
-      "timestamp": 1776945930
     }
   ],
   "france": {
