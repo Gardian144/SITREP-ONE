@@ -1,7 +1,67 @@
 {
-  "last_update": "24/04 10:03",
+  "last_update": "24/04 11:34",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777029793",
+      "source": "BFMTV",
+      "text": "IRAN: QUE SAIT-ON DE L'ÉTAT DE SANTÉ DE L'AYATOLLAH MOJTABA KHAMENEI?",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:23",
+      "date": "24/04",
+      "timestamp": 1777029793
+    },
+    {
+      "id": "BFMTV_1777027670",
+      "source": "BFMTV",
+      "text": "UN SOLDAT AMÉRICAIN ARRÊTÉ APRÈS AVOIR GAGNÉ 400.000 DOLLARS EN PARIANT SUR LA CHUTE DE MADURO",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:47",
+      "date": "24/04",
+      "timestamp": 1777027670
+    },
+    {
+      "id": "BFMTV_1777027478",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT:  LE HEZBOLLAH SE RÉSERVE LE DROIT DE RIPOSTER AUX \"AGRESSIONS\" D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:44",
+      "date": "24/04",
+      "timestamp": 1777027478
+    },
+    {
+      "id": "OPEX360_1777027157",
+      "source": "OPEX360",
+      "text": "ACTUALISATION DE LA LPM : UN AMENDEMENT POSE LES BASES D’UNE HAUSSE DU FORMAT DES FORCES FRANÇAISES À L’HORIZON 2035",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:39",
+      "date": "24/04",
+      "timestamp": 1777027157
+    },
+    {
+      "id": "BFMTV_1777025505",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN PEINE À STOCKER SON PÉTROLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:11",
+      "date": "24/04",
+      "timestamp": 1777025505
+    },
+    {
+      "id": "BFMTV_1777025474",
+      "source": "BFMTV",
+      "text": "SURVOL ISRAÉLIEN, FAUSSE ALERTE OU BLUFF IRANIEN? LE FLOU AUTOUR DE L'ORIGINE DES EXPLOSIONS À TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:11",
+      "date": "24/04",
+      "timestamp": 1777025474
+    },
     {
       "id": "BFMTV_1777024770",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "13:36",
       "date": "23/04",
       "timestamp": 1776951404
-    },
-    {
-      "id": "BFMTV_1776951027",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ORDONNE DE DÉTRUIRE \"TOUS LES BATEAUX\" POSANT DES MINES DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:30",
-      "date": "23/04",
-      "timestamp": 1776951027
-    },
-    {
-      "id": "BFMTV_1776950826",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ORDONNE DE DÉTRUIRE \"TOUS LES BATEAUX\" POSANT DES MINES DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:27",
-      "date": "23/04",
-      "timestamp": 1776950826
-    },
-    {
-      "id": "BFMTV_1776950582",
-      "source": "BFMTV",
-      "text": "L'IRAN PEUT-IL COUPER LES CÂBLES SOUS-MARINS QUI FOURNISSENT INTERNET DANS LE MONDE ENTIER?",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:23",
-      "date": "23/04",
-      "timestamp": 1776950582
-    },
-    {
-      "id": "BFMTV_1776950079",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ORDONNE DE DÉTRUIRE LES BATEAUX IRANIENS POSANT DES MINES DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:14",
-      "date": "23/04",
-      "timestamp": 1776950079
-    },
-    {
-      "id": "BFMTV_1776949756",
-      "source": "BFMTV",
-      "text": "LIBAN: \"NOUS ŒUVRONS TOUS POUR QUE LE CESSEZ-LE-FEU SOIT PROLONGÉ\" EXPLIQUE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:09",
-      "date": "23/04",
-      "timestamp": 1776949756
-    },
-    {
-      "id": "BFMTV_1776949727",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON DEMANDE QUE \"TOUTE LA LUMIÈRE SOIT FAITE\" SUR LA MORT DE DEUX SOLDATS FRANÇAIS TUÉS AU LIBAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:08",
-      "date": "23/04",
-      "timestamp": 1776949727
     }
   ],
   "france": {
