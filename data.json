@@ -1,7 +1,37 @@
 {
-  "last_update": "24/04 20:47",
+  "last_update": "24/04 21:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777066597",
+      "source": "BFMTV",
+      "text": "SELON LE MÉDIA AXIOS, \"AUCUNE RENCONTRE N'EST PRÉVUE ENTRE L'IRAN ET LES ÉTATS-UNIS\" À ISLAMABAD AU PAKISTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:36",
+      "date": "24/04",
+      "timestamp": 1777066597
+    },
+    {
+      "id": "BFMTV_1777064601",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE LIBAN ANNONCE LA MORT DE SIX PERSONNES DANS DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:03",
+      "date": "24/04",
+      "timestamp": 1777064601
+    },
+    {
+      "id": "BFMTV_1777064116",
+      "source": "BFMTV",
+      "text": "IRAN: \"QUAND DONALD TRUMP PARLE, CE N'EST PAS DE L'INFO, C'EST DE L'INFOX\", ESTIME SERGUEÏ JIMOV, ANCIEN OFFICIER DU RENSEIGNEMENT DU KGB",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:55",
+      "date": "24/04",
+      "timestamp": 1777064116
+    },
     {
       "id": "BFMTV_1777063246",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "21:52",
       "date": "23/04",
       "timestamp": 1776981146
-    },
-    {
-      "id": "BFMTV_1776980576",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE UNE PROLONGATION DU CESSEZ-LE-FEU AU LIBAN DE \"TROIS SEMAINES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:42",
-      "date": "23/04",
-      "timestamp": 1776980576
-    },
-    {
-      "id": "BFMTV_1776980308",
-      "source": "BFMTV",
-      "text": "\"C'EST UNE CRISE SANITAIRE\": LES DÉCÈS PAR CANCER DU RECTUM AUGMENTENT FORTEMENT CHEZ LES JEUNES AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:38",
-      "date": "23/04",
-      "timestamp": 1776980308
-    },
-    {
-      "id": "BFMTV_1776980195",
-      "source": "BFMTV",
-      "text": "FORUM BFMTV -  PRIX DES CARBURANTS: “ON TRAVAILLE GRÂCE AUX TOURISTES MAIS À UN MOMENT, PLUS PERSONNE NE VA VENIR”, CRAINT SYLVIE, FEMME DE CHAMBRE À PARIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:36",
-      "date": "23/04",
-      "timestamp": 1776980195
     }
   ],
   "france": {
