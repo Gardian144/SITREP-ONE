@@ -1,7 +1,27 @@
 {
-  "last_update": "24/04 21:47",
+  "last_update": "24/04 22:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777067957",
+      "source": "BFMTV",
+      "text": "AUX ÉTATS-UNIS, UN PICK-UP MONTE ACCIDENTELLEMENT SUR UNE LAMBORGHINI",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:59",
+      "date": "24/04",
+      "timestamp": 1777067957
+    },
+    {
+      "id": "BFMTV_1777067693",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE LIBAN ANNONCE LA MORT DE SIX PERSONNES DANS DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:54",
+      "date": "24/04",
+      "timestamp": 1777067693
+    },
     {
       "id": "BFMTV_1777066597",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "22:19",
       "date": "23/04",
       "timestamp": 1776982747
-    },
-    {
-      "id": "BFMTV_1776981921",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE UNE PROLONGATION DU CESSEZ-LE-FEU AU LIBAN DE \"TROIS SEMAINES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "22:05",
-      "date": "23/04",
-      "timestamp": 1776981921
-    },
-    {
-      "id": "BFMTV_1776981146",
-      "source": "BFMTV",
-      "text": "UNE PLUIE NOIRE S'ABAT SUR UNE VILLE DU SUD-OUEST DE LA RUSSIE, APRÈS UNE FRAPPE UKRAINIENNE CONTRE UNE RAFFINERIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:52",
-      "date": "23/04",
-      "timestamp": 1776981146
     }
   ],
   "france": {
