@@ -1,7 +1,27 @@
 {
-  "last_update": "24/04 16:56",
+  "last_update": "24/04 17:51",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1777051664",
+      "source": "OPEX360",
+      "text": "LOCKHEED MARTIN SE RETIRE DE L’APPEL D’OFFRES ÉMIS PAR L’US NAVY POUR REMPLACER L’AVION D’ENTRAÎNEMENT T-45 GOSHAWK",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:27",
+      "date": "24/04",
+      "timestamp": 1777051664
+    },
+    {
+      "id": "BFMTV_1777050683",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: LA MAISON BLANCHE CONFIRME QUE LES ÉMISSAIRES DE DONALD TRUMP IRONT AU PAKISTAN SAMEDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:11",
+      "date": "24/04",
+      "timestamp": 1777050683
+    },
     {
       "id": "BFMTV_1777047652",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "19:01",
       "date": "23/04",
       "timestamp": 1776970903
-    },
-    {
-      "id": "BFMTV_1776970650",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS ENTENDUES À TÉHÉRAN, LE SYSTÈME DE DÉFENSE AÉRIENNE ACTIVÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:57",
-      "date": "23/04",
-      "timestamp": 1776970650
-    },
-    {
-      "id": "BFMTV_1776970273",
-      "source": "BFMTV",
-      "text": " \"UNE INSULTE\": DES VICTIMES ITALIENNES DE L'INCENDIE DE CRANS-MONTANA REÇOIVENT DES FACTURES DE PLUS DE 70.000 EUROS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:51",
-      "date": "23/04",
-      "timestamp": 1776970273
     }
   ],
   "france": {
