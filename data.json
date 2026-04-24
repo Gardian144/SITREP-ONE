@@ -1,7 +1,47 @@
 {
-  "last_update": "24/04 19:51",
+  "last_update": "24/04 20:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777063246",
+      "source": "BFMTV",
+      "text": "IRAN: LORS D'UNE PRISE DE PAROLE CE JEUDI, DONALD TRUMP A AFFIRMÉ QU'IL \"N'ÉTAIT PAS PRESSÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:40",
+      "date": "24/04",
+      "timestamp": 1777063246
+    },
+    {
+      "id": "BFMTV_1777062704",
+      "source": "BFMTV",
+      "text": "USS LINCOLN, NAVIRES, AVIONS ... LE CENTCOM A DÉVOILÉ À LA MI-JOURNÉE LE DISPOSITIF AMÉRICAIN AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:31",
+      "date": "24/04",
+      "timestamp": 1777062704
+    },
+    {
+      "id": "BFMTV_1777062136",
+      "source": "BFMTV",
+      "text": "REPRISE DES COMBATS ENTRE LES ÉTATS-UNIS ET L'IRAN ?: POUR PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL, \"C'EST UN SCÉNARIO QU'IL NE FAUT PAS EXCLURE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:22",
+      "date": "24/04",
+      "timestamp": 1777062136
+    },
+    {
+      "id": "BFMTV_1777060259",
+      "source": "BFMTV",
+      "text": "DANS UN ENTRETIEN TÉLÉPHONIQUE À REUTERS, DONALD TRUMP AFFIRME QUE \"L'IRAN VA FAIRE UNE OFFRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:50",
+      "date": "24/04",
+      "timestamp": 1777060259
+    },
     {
       "id": "BFMTV_1777059184",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "21:36",
       "date": "23/04",
       "timestamp": 1776980195
-    },
-    {
-      "id": "BFMTV_1776980050",
-      "source": "BFMTV",
-      "text": "\"LES PRIX LES PLUS BAS DU MONDE\": DONALD TRUMP APPROUVE LA BAISSE DES PRIX DES MÉDICAMENTS SUR ORDONNANCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:34",
-      "date": "23/04",
-      "timestamp": 1776980050
-    },
-    {
-      "id": "BFMTV_1776977931",
-      "source": "BFMTV",
-      "text": "FORUM BFMTV - “LES FRANÇAIS N’ONT PAS DEMANDÉ À ÊTRE EN GUERRE”, RAPPELLE LINA, EN RECHERCHE D’EMPLOI ",
-      "urgent": true,
-      "france_related": true,
-      "time": "20:58",
-      "date": "23/04",
-      "timestamp": 1776977931
-    },
-    {
-      "id": "BFMTV_1776976985",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QU'IL \"N'UTILISERA PAS L'ARME NUCLÉAIRE\" CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:43",
-      "date": "23/04",
-      "timestamp": 1776976985
-    },
-    {
-      "id": "BFMTV_1776976803",
-      "source": "BFMTV",
-      "text": "FORUM BFMTV - “LA FRANCE N’A PAS LES MARGES DE MANŒUVRE QU’ONT L’ESPAGNE, L’ITALIE, ET L’ALLEMAGNE”, SELON MARTIN GARAGNON, ANCIEN PORTE-PAROLE DE “RENAISSANCE”",
-      "urgent": false,
-      "france_related": true,
-      "time": "20:40",
-      "date": "23/04",
-      "timestamp": 1776976803
     }
   ],
   "france": {
