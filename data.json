@@ -1,7 +1,47 @@
 {
-  "last_update": "25/04 14:07",
+  "last_update": "25/04 15:00",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1777128713",
+      "source": "OPEX360",
+      "text": "LES DÉPUTÉS DEMANDENT UNE ÉTUDE DE FAISABILITÉ POUR DOTER LA «FRANCE LIBRE» DE CATAPULTES ÉLECTROMAGNÉTIQUES FRANÇAISES",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:51",
+      "date": "25/04",
+      "timestamp": 1777128713
+    },
+    {
+      "id": "BFMTV_1777128646",
+      "source": "BFMTV",
+      "text": "UNE ATTRACTION À SENSATIONS FORTES CÈDE DANS LES AIRS À LA FERIA DE SÉVILLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:50",
+      "date": "25/04",
+      "timestamp": 1777128646
+    },
+    {
+      "id": "BFMTV_1777127340",
+      "source": "BFMTV",
+      "text": " CATASTROPHE DE TCHERNOBYL : 40 ANS APRÈS, RETOUR SUR L'HISTOIRE DES \" ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:29",
+      "date": "25/04",
+      "timestamp": 1777127340
+    },
+    {
+      "id": "BFMTV_1777126942",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE MINISTRE DES AFFAIRES ÉTRANGÈRES IRANIEN A QUITTÉ LE PAKISTAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:22",
+      "date": "25/04",
+      "timestamp": 1777126942
+    },
     {
       "id": "BFMTV_1777125477",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "13:51",
       "date": "24/04",
       "timestamp": 1777038674
-    },
-    {
-      "id": "BFMTV_1777038343",
-      "source": "BFMTV",
-      "text": "PÉTROLE: LE STOCKAGE ARRIVE BIENTÔT À SATURATION EN IRAN, VERS UNE BAISSE DURABLE DE LA PRODUCTION MONDIALE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:45",
-      "date": "24/04",
-      "timestamp": 1777038343
-    },
-    {
-      "id": "BFMTV_1777037984",
-      "source": "BFMTV",
-      "text": "CHYPRE: LES 27 RENCONTRENT DES CHEFS D'ETAT DU MOYEN-ORIENT ET DE L'UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:39",
-      "date": "24/04",
-      "timestamp": 1777037984
-    },
-    {
-      "id": "BFMTV_1777036500",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP SOUHAITE ACCENTUER LA LUTTE CONTRE LA \"FLOTTE MOUSTIQUE\" DE L'IRAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:15",
-      "date": "24/04",
-      "timestamp": 1777036500
-    },
-    {
-      "id": "BFMTV_1777034436",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: D'IMPRESSIONNANTES TORNADES FONT AU MOINS 10 BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:40",
-      "date": "24/04",
-      "timestamp": 1777034436
     }
   ],
   "france": {
