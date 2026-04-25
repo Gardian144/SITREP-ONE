@@ -1,7 +1,77 @@
 {
-  "last_update": "25/04 13:03",
+  "last_update": "25/04 14:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777125477",
+      "source": "BFMTV",
+      "text": "UKRAINE: DES FRAPPES À DNIPRO FONT AU MOINS CINQ MORTS, VOLODYMYR ZELENSKY DEMANDE PLUS DE SANCTIONS",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:57",
+      "date": "25/04",
+      "timestamp": 1777125477
+    },
+    {
+      "id": "BFMTV_1777125229",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LE MINISTRE IRANIEN DES AFFAIRES ÉTRANGÈRES ABBAS ARAGHCHI A QUITTÉ LE PAKISTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:53",
+      "date": "25/04",
+      "timestamp": 1777125229
+    },
+    {
+      "id": "BFMTV_1777124731",
+      "source": "BFMTV",
+      "text": "CARBURANTS: LA CRAINTE D'UNE PÉNURIE MET LES STATIONS EN TENSION ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:45",
+      "date": "25/04",
+      "timestamp": 1777124731
+    },
+    {
+      "id": "BFMTV_1777123787",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT : L'ARMÉE IRANIENNE ENCORE DEBOUT",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:29",
+      "date": "25/04",
+      "timestamp": 1777123787
+    },
+    {
+      "id": "OPEX360_1777123413",
+      "source": "OPEX360",
+      "text": "ACTUALISATION DE LA LPM : LES DÉPUTÉS DONNENT LA PRIORITÉ À DES SOLUTIONS FRANÇAISES POUR LE FUTUR CHAR INTERMÉDIAIRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:23",
+      "date": "25/04",
+      "timestamp": 1777123413
+    },
+    {
+      "id": "BFMTV_1777122702",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS SE PRÉPARENT À UNE REPRISE DES HOSTILITÉS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:11",
+      "date": "25/04",
+      "timestamp": 1777122702
+    },
+    {
+      "id": "BFMTV_1777122418",
+      "source": "BFMTV",
+      "text": "\"C’EST FINI POUR MOI\": L'ÉCRIVAIN FRANCO-ALGÉRIEN BOUALEM SANSAL SONGE À QUITTER LA FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:06",
+      "date": "25/04",
+      "timestamp": 1777122418
+    },
     {
       "id": "BFMTV_1777118834",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "12:40",
       "date": "24/04",
       "timestamp": 1777034436
-    },
-    {
-      "id": "BFMTV_1777033924",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: POUR PETE HEGSETH, LES EFFORTS DES EUROPÉENS NE SONT \"PAS TRÈS SÉRIEUX\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:32",
-      "date": "24/04",
-      "timestamp": 1777033924
-    },
-    {
-      "id": "BFMTV_1777033634",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"L'IRAN TENTE D'AGRESSER SES VOISINS POUR QUE LE CONFLIT FASSE TACHE D'HUILE\", AFFIRME LE CHEF D'ÉTAT-MAJOR DES ARMÉES DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:27",
-      "date": "24/04",
-      "timestamp": 1777033634
-    },
-    {
-      "id": "BFMTV_1777033171",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS SOMMES PRÊTS À REPRENDRE LES OPÉRATIONS DE GRANDE AMPLEUR SOUS LES ORDRES DU PRÉSIDENT\", ANNONCE LE CHEF D'ÉTAT-MAJOR DES ARMÉES DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:19",
-      "date": "24/04",
-      "timestamp": 1777033171
-    },
-    {
-      "id": "BFMTV_1777033030",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS NE COMPTONS PAS SUR L'EUROPE\", DÉCLARE PETE HEGSETH",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:17",
-      "date": "24/04",
-      "timestamp": 1777033030
-    },
-    {
-      "id": "BFMTV_1777032942",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE MINISTRE DE LA DÉFENSE AMÉRICAIN DÉCLARE QUE LES ÉTATS-UNIS NE \"COMPTENT PAS SUR L'EUROPE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:15",
-      "date": "24/04",
-      "timestamp": 1777032942
-    },
-    {
-      "id": "BFMTV_1777032887",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LE BLOCUS SE MAINTIENDRA AUSSI LONGTEMPS QUE NÉCESSAIRE\", AFFIRME PETE HEGSETH",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:14",
-      "date": "24/04",
-      "timestamp": 1777032887
-    },
-    {
-      "id": "BFMTV_1777032692",
-      "source": "BFMTV",
-      "text": "PETE HEGSETH, SECRÉTAIRE AMÉRICAIN À LA DÉFENSE: \"LES IRANIENS SE COMPORTENT COMME DES PIRATES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:11",
-      "date": "24/04",
-      "timestamp": 1777032692
     }
   ],
   "france": {
