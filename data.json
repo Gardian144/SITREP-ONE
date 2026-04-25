@@ -1,7 +1,27 @@
 {
-  "last_update": "25/04 11:04",
+  "last_update": "25/04 11:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777117791",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: L'ARMÉE IRANIENNE MENACE D'UNE RIPOSTE SI LE BLOCUS AMÉRICAIN SE POURSUIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:49",
+      "date": "25/04",
+      "timestamp": 1777117791
+    },
+    {
+      "id": "BFMTV_1777116153",
+      "source": "BFMTV",
+      "text": " ÉTATS-UNIS: EMMANUEL MACRON RÉPOND AUX CRITIQUES AMÉRICAINES SUR L'OTAN ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:22",
+      "date": "25/04",
+      "timestamp": 1777116153
+    },
     {
       "id": "BFMTV_1777114092",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "11:23",
       "date": "24/04",
       "timestamp": 1777029793
-    },
-    {
-      "id": "BFMTV_1777027670",
-      "source": "BFMTV",
-      "text": "UN SOLDAT AMÉRICAIN ARRÊTÉ APRÈS AVOIR GAGNÉ 400.000 DOLLARS EN PARIANT SUR LA CHUTE DE MADURO",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:47",
-      "date": "24/04",
-      "timestamp": 1777027670
-    },
-    {
-      "id": "BFMTV_1777027478",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT:  LE HEZBOLLAH SE RÉSERVE LE DROIT DE RIPOSTER AUX \"AGRESSIONS\" D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:44",
-      "date": "24/04",
-      "timestamp": 1777027478
     }
   ],
   "france": {
