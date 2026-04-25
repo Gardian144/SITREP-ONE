@@ -1,7 +1,17 @@
 {
-  "last_update": "25/04 09:09",
+  "last_update": "25/04 10:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777108565",
+      "source": "BFMTV",
+      "text": "LE COMMANDEMENT MILITAIRE AMÉRICAIN AFFIRME AVOIR INTERCEPTÉ UN BATEAU IRANIEN DANS LE CADRE DE SON BLOCUS DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:16",
+      "date": "25/04",
+      "timestamp": 1777108565
+    },
     {
       "id": "BFMTV_1777108128",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "08:17",
       "date": "24/04",
       "timestamp": 1777018672
-    },
-    {
-      "id": "BFMTV_1777018547",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS TRAVAILLENT SUR DE NOUVELLES OPTIONS POUR FRAPPER L'IRAN SI LE CESSEZ-LE-FEU DEVAIT PRENDRE FIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:15",
-      "date": "24/04",
-      "timestamp": 1777018547
     }
   ],
   "france": {
