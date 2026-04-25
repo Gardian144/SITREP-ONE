@@ -1,7 +1,57 @@
 {
-  "last_update": "25/04 08:07",
+  "last_update": "25/04 09:09",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777108128",
+      "source": "BFMTV",
+      "text": "DES CENTAINES DE POMPIERS MOBILISÉS CONTRE DES FEUX DE FORÊTS DANS LE NORD DU JAPON",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:08",
+      "date": "25/04",
+      "timestamp": 1777108128
+    },
+    {
+      "id": "BFMTV_1777107246",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA PLUS GRANDE ARMADA AMÉRICAINE DÉPLOYÉE DEPUIS 2003 ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:54",
+      "date": "25/04",
+      "timestamp": 1777107246
+    },
+    {
+      "id": "BFMTV_1777106127",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LE MINISTÈRE DE LA DÉFENSE IRANIEN AFFIRME QUE LES ETATS-UNIS CHERCHENT \"UN MOYEN DE SAUVER LA FACE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:35",
+      "date": "25/04",
+      "timestamp": 1777106127
+    },
+    {
+      "id": "BFMTV_1777105358",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE POINT SUR L'ARMADA AMÉRICAINE DÉPLOYÉE DANS LE GOLFE D'OMAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:22",
+      "date": "25/04",
+      "timestamp": 1777105358
+    },
+    {
+      "id": "BFMTV_1777104840",
+      "source": "BFMTV",
+      "text": "GAZA: DANS LES CAMPS SURPEUPLÉS, RATS ET PARASITES PAR MILLIERS FONT CRAINDRE UNE CATASTROPHE SANITAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:14",
+      "date": "25/04",
+      "timestamp": 1777104840
+    },
     {
       "id": "BFMTV_1777103459",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "08:15",
       "date": "24/04",
       "timestamp": 1777018547
-    },
-    {
-      "id": "BFMTV_1777018416",
-      "source": "BFMTV",
-      "text": "IRAN: TOUJOURS BLESSÉ, MOJTABA KHAMENEI, LE NOUVEAU GUIDE SUPRÊME, AURAIT BESOIN DE CHIRURGIE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:13",
-      "date": "24/04",
-      "timestamp": 1777018416
-    },
-    {
-      "id": "BFMTV_1777018084",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS AVONS TOUS INTÉRÊT\" À CE QUE LA STABILITÉ REVIENNE \"LE PLUS VITE POSSIBLE\", DÉCLARE EMMANUEL MACRON À CHYPRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:08",
-      "date": "24/04",
-      "timestamp": 1777018084
-    },
-    {
-      "id": "BFMTV_1777017455",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON ESTIME QUE \"NOUS AVONS TOUS INTÉRÊT\" À CE QUE LA STABILITÉ REVIENNE \"LE PLUS VITE POSSIBLE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:57",
-      "date": "24/04",
-      "timestamp": 1777017455
-    },
-    {
-      "id": "BFMTV_1777017437",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QU\"IL \"PARLE PLUS AU NOM DU ROYAUME-UNI\" QUE LE PRINCE HARRY APRÈS SES PROPOS SUR LE RÔLE DES ÉTATS-UNIS DANS LA GUERRE EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:57",
-      "date": "24/04",
-      "timestamp": 1777017437
-    },
-    {
-      "id": "BFMTV_1777016282",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ANALYSE DE BRUNO TERTRAIS DE LA FONDATION POUR LA RECHERCHE STRATÉGIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:38",
-      "date": "24/04",
-      "timestamp": 1777016282
     }
   ],
   "france": {
