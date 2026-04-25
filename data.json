@@ -1,7 +1,37 @@
 {
-  "last_update": "25/04 21:21",
+  "last_update": "25/04 22:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777154208",
+      "source": "BFMTV",
+      "text": "BLOCAGE DU DÉTROIT D'ORMUZ: \"ON SE RETROUVE COMPLÈTEMENT PRISONNIERS\", DÉNONCE EMMANUEL CHALARD, SECRÉTAIRE GÉNÉRAL CGT DE LA FÉDÉRATION DES OFFICIERS DE LA MARINE MARCHANDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:56",
+      "date": "25/04",
+      "timestamp": 1777154208
+    },
+    {
+      "id": "BFMTV_1777153821",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS ONT INTERCEPTÉ PLUS DE 2.200 DRONES DEPUIS LE DÉBUT DE LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:50",
+      "date": "25/04",
+      "timestamp": 1777153821
+    },
+    {
+      "id": "BFMTV_1777152579",
+      "source": "BFMTV",
+      "text": "LES IMAGES DE BFMTV DES AVIONS RAVITAILLEURS AMÉRICAINS À L'AÉROPORT BEN GOURION EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:29",
+      "date": "25/04",
+      "timestamp": 1777152579
+    },
     {
       "id": "BFMTV_1777151489",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "20:55",
       "date": "24/04",
       "timestamp": 1777064116
-    },
-    {
-      "id": "BFMTV_1777063246",
-      "source": "BFMTV",
-      "text": "IRAN: LORS D'UNE PRISE DE PAROLE CE JEUDI, DONALD TRUMP A AFFIRMÉ QU'IL \"N'ÉTAIT PAS PRESSÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:40",
-      "date": "24/04",
-      "timestamp": 1777063246
-    },
-    {
-      "id": "BFMTV_1777062704",
-      "source": "BFMTV",
-      "text": "USS LINCOLN, NAVIRES, AVIONS ... LE CENTCOM A DÉVOILÉ À LA MI-JOURNÉE LE DISPOSITIF AMÉRICAIN AU MOYEN-ORIENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:31",
-      "date": "24/04",
-      "timestamp": 1777062704
-    },
-    {
-      "id": "BFMTV_1777062136",
-      "source": "BFMTV",
-      "text": "REPRISE DES COMBATS ENTRE LES ÉTATS-UNIS ET L'IRAN ?: POUR PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL, \"C'EST UN SCÉNARIO QU'IL NE FAUT PAS EXCLURE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:22",
-      "date": "24/04",
-      "timestamp": 1777062136
     }
   ],
   "france": {
