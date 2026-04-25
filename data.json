@@ -1,7 +1,37 @@
 {
-  "last_update": "25/04 15:00",
+  "last_update": "25/04 15:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777132306",
+      "source": "BFMTV",
+      "text": " GUERRE EN UKRAINE : AU MOINS SEPT MORTS ET 34 BLESSÉS DANS UNE ATTAQUE DE DRONES RUSSES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:51",
+      "date": "25/04",
+      "timestamp": 1777132306
+    },
+    {
+      "id": "BFMTV_1777130598",
+      "source": "BFMTV",
+      "text": "LES IMAGES BFMTV DES RAVITAILLEURS AMÉRICAINS À TEL-AVIV",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:23",
+      "date": "25/04",
+      "timestamp": 1777130598
+    },
+    {
+      "id": "BFMTV_1777130134",
+      "source": "BFMTV",
+      "text": "L'IRAN EXÉCUTE UN HOMME CONDAMNÉ POUR \"COOPÉRATION\" AVEC ISRAËL APRÈS LES MANIFESTATIONS DE JANVIER",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:15",
+      "date": "25/04",
+      "timestamp": 1777130134
+    },
     {
       "id": "OPEX360_1777128713",
       "source": "OPEX360",
@@ -971,36 +1001,6 @@
       "time": "14:08",
       "date": "24/04",
       "timestamp": 1777039709
-    },
-    {
-      "id": "BFMTV_1777039465",
-      "source": "BFMTV",
-      "text": "\"LE DUR DES DURS\": QUI EST AHMAD VAHIDI, L'UN DES NOUVEAUX VISAGES DU RÉGIME IRANIEN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:04",
-      "date": "24/04",
-      "timestamp": 1777039465
-    },
-    {
-      "id": "OPEX360_1777039424",
-      "source": "OPEX360",
-      "text": "SELON M. MACRON, PARIS ET BERLIN VONT TRAVAILLER SUR «PLUSIEURS AXES DE COOPÉRATION» POUR SAUVER LE SCAF",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:03",
-      "date": "24/04",
-      "timestamp": 1777039424
-    },
-    {
-      "id": "BFMTV_1777038674",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: LE PRÉSIDENT DU CONSEIL EUROPÉEN JUGE QUE LA RÉOUVERTURE IMMÉDIATE DU DÉTROIT D'ORMUZ EST \"VITALE POUR LE MONDE ENTIER\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:51",
-      "date": "24/04",
-      "timestamp": 1777038674
     }
   ],
   "france": {
