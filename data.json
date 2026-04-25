@@ -1,7 +1,67 @@
 {
-  "last_update": "25/04 19:11",
+  "last_update": "25/04 19:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777146255",
+      "source": "BFMTV",
+      "text": "LIGNE ROUGE - ORMUZ: COMMENT DÉMINER LE DÉTROIT ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:44",
+      "date": "25/04",
+      "timestamp": 1777146255
+    },
+    {
+      "id": "BFMTV_1777146024",
+      "source": "BFMTV",
+      "text": "IRAN, ÉTATS-UNIS, LIBAN: L'INTERVIEW EN INTÉGRALITÉ DE JOSHUA ZARKA, AMBASSADEUR D'ISRAËL EN FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:40",
+      "date": "25/04",
+      "timestamp": 1777146024
+    },
+    {
+      "id": "BFMTV_1777145490",
+      "source": "BFMTV",
+      "text": "AU MOINS SEPT MORTS DANS UN ATTENTAT À LA BOMBE EN COLOMBIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:31",
+      "date": "25/04",
+      "timestamp": 1777145490
+    },
+    {
+      "id": "BFMTV_1777145476",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU ORDONNE DES ATTAQUES CONTRE LE HEZBOLLAH AU LIBAN APRÈS DES VIOLATIONS DU CESSEZ-LE-FEU SELON L'ARMÉE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:31",
+      "date": "25/04",
+      "timestamp": 1777145476
+    },
+    {
+      "id": "BFMTV_1777145079",
+      "source": "BFMTV",
+      "text": "IRAN: \"IL Y A UN AFFAIBLISSEMENT TOTAL DU RÉGIME\", CONSTATE JOSHUA ZARKA, AMBASSADEUR D'ISRAËL EN FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:24",
+      "date": "25/04",
+      "timestamp": 1777145079
+    },
+    {
+      "id": "BFMTV_1777144848",
+      "source": "BFMTV",
+      "text": "POURPARLERS ENTRE L'IRAN ET LES ÉTATS-UNIS: \"IL Y A UN DÉSORDRE QUI NE PERMET PAS UNE NÉGOCIATION ENTRE LES DEUX PAYS\", OBSERVE JOSHUA ZARKA, AMBASSADEUR D'ISRAËL EN FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:20",
+      "date": "25/04",
+      "timestamp": 1777144848
+    },
     {
       "id": "BFMTV_1777143292",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "19:15",
       "date": "24/04",
       "timestamp": 1777058126
-    },
-    {
-      "id": "BFMTV_1777058060",
-      "source": "BFMTV",
-      "text": "DÉFENSE, \"PARTENARIAT STRATÉGIQUE\": QUE VA FAIRE EMMANUEL MACRON EN GRÈCE ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:14",
-      "date": "24/04",
-      "timestamp": 1777058060
-    },
-    {
-      "id": "BFMTV_1777056370",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE GUIDE SUPRÊME IRANIEN AURAIT \"INTERDIT LES NÉGOCIATIONS AVEC LES ÉTATS-UNIS\", RAPPORTE UN MÉDIA IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:46",
-      "date": "24/04",
-      "timestamp": 1777056370
-    },
-    {
-      "id": "BFMTV_1777056106",
-      "source": "BFMTV",
-      "text": "\"PERSONNE N'EST TOTALEMENT SÛR QUE CET ALLIÉ EST FIABLE\", LANCE EMMANUEL MACRON À PROPOS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:41",
-      "date": "24/04",
-      "timestamp": 1777056106
-    },
-    {
-      "id": "BFMTV_1777056024",
-      "source": "BFMTV",
-      "text": "IRAN, DÉTROIT D'ORMUZ ... LE RÉCIT DES ARRAISONNEMENTS DE LA MARINE AMÉRICAINE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:40",
-      "date": "24/04",
-      "timestamp": 1777056024
-    },
-    {
-      "id": "BFMTV_1777055910",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LE DÉMINAGE COMPLET POURRAIT PRENDRE 6 MOIS SELON LA PRESSE AMÉRICAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:38",
-      "date": "24/04",
-      "timestamp": 1777055910
-    },
-    {
-      "id": "BFMTV_1777054919",
-      "source": "BFMTV",
-      "text": "POUR EMMANUEL MACRON, \"LES ÉTATS-UNIS POURRAIENT ÊTRE UN ALLIÉ, MAIS CET ALLIÉ N'EST PLUS TRÈS STABLE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:21",
-      "date": "24/04",
-      "timestamp": 1777054919
     }
   ],
   "france": {
