@@ -1,7 +1,117 @@
 {
-  "last_update": "25/04 10:05",
+  "last_update": "25/04 11:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777114092",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON: \"ON A BESOIN D'ACHETER DAVANTAGE EUROPÉEN, DE PRODUIRE DAVANTAGE EUROPÉEN, D'INNOVER DAVANTAGE EUROPÉEN\" ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:48",
+      "date": "25/04",
+      "timestamp": 1777114092
+    },
+    {
+      "id": "BFMTV_1777114052",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON: \"CE QUI EST DEMANDÉ, PARFOIS GENTIMENT, PARFOIS MOINS GENTIMENT, PAR LES AMÉRICAINS AUX EUROPÉENS, C'EST DE S'OCCUPER DE LEUR SÉCURITÉ\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:47",
+      "date": "25/04",
+      "timestamp": 1777114052
+    },
+    {
+      "id": "BFMTV_1777113804",
+      "source": "BFMTV",
+      "text": "CLAUSE D'ASSISTANCE MUTUELLE EUROPÉENNE: \"NOUS SOMMES VENUS, LA DÉCISION A ÉTÉ PRISE DANS LA MINUTE\" QUAND CHYPRE A ÉTÉ ATTAQUÉE, AFFIRME EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:43",
+      "date": "25/04",
+      "timestamp": 1777113804
+    },
+    {
+      "id": "BFMTV_1777113732",
+      "source": "BFMTV",
+      "text": "UKRAINE: LE PRINCE HARRY S'INITIE AU DÉMINAGE À BOUTCHA, 30 ANS APRÈS DIANA EN ANGOLA",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:42",
+      "date": "25/04",
+      "timestamp": 1777113732
+    },
+    {
+      "id": "BFMTV_1777113579",
+      "source": "BFMTV",
+      "text": "\"TOUT ÇA ME RAPPELLE LE NAZISME\": MARIE-THÉRÈSE, L'OCTOGÉNAIRE FRANÇAISE INTERPELLÉE PAR L'ICE, RACONTE SA RÉTENTION AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:39",
+      "date": "25/04",
+      "timestamp": 1777113579
+    },
+    {
+      "id": "BFMTV_1777113502",
+      "source": "BFMTV",
+      "text": "\"JE SUIS SÛR QU'ON ARRIVERA À 27\": EMMANUEL MACRON ÉVOQUE UN TEXTE QUI \"PERMETTRA D'INTERDIRE LES RÉSEAUX SOCIAUX AUX JEUNES DE MOINS DE 15 ANS\" EN SEPTEMBRE PROCHAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:38",
+      "date": "25/04",
+      "timestamp": 1777113502
+    },
+    {
+      "id": "BFMTV_1777113334",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON APPELLE \"AU MAINTIEN DU CESSEZ-LE-FEU, Y COMPRIS AU LIBAN\" ET À \"LA RÉOUVERTURE PACIFIQUE DU DÉTROIT D'ORMUZ\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:35",
+      "date": "25/04",
+      "timestamp": 1777113334
+    },
+    {
+      "id": "BFMTV_1777113254",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: EMMANUEL MACRON PLAIDE POUR \"LA PAIX ET LA STABILITÉ\" DANS LA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:34",
+      "date": "25/04",
+      "timestamp": 1777113254
+    },
+    {
+      "id": "BFMTV_1777113111",
+      "source": "BFMTV",
+      "text": "DÉFENSE EUROPÉENNE: EMMANUEL MACRON ANNONCE LA SIGNATURE D'UN \"PARTENARIAT STRATÉGIQUE GLOBAL RENFORCÉ\" AVEC LA GRÈCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:31",
+      "date": "25/04",
+      "timestamp": 1777113111
+    },
+    {
+      "id": "BFMTV_1777112852",
+      "source": "BFMTV",
+      "text": "DÉFENSE EUROPÉENNE: EMMANUEL MACRON FAIT ÉTAT D'UN \"MONDE QUI SE FAIT, CHAQUE JOUR, PLUS BRUTAL, PLUS INSTABLE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:27",
+      "date": "25/04",
+      "timestamp": 1777112852
+    },
+    {
+      "id": "OPEX360_1777111967",
+      "source": "OPEX360",
+      "text": "L’OTAN SERAIT SUR LE POINT DE COMMANDER DES AVIONS SUÉDOIS D’ALERTE AVANCÉE GLOBALEYE POUR REMPLACER SES E-3A AWACS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:12",
+      "date": "25/04",
+      "timestamp": 1777111967
+    },
     {
       "id": "BFMTV_1777108565",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "10:44",
       "date": "24/04",
       "timestamp": 1777027478
-    },
-    {
-      "id": "OPEX360_1777027157",
-      "source": "OPEX360",
-      "text": "ACTUALISATION DE LA LPM : UN AMENDEMENT POSE LES BASES D’UNE HAUSSE DU FORMAT DES FORCES FRANÇAISES À L’HORIZON 2035",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:39",
-      "date": "24/04",
-      "timestamp": 1777027157
-    },
-    {
-      "id": "BFMTV_1777025505",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN PEINE À STOCKER SON PÉTROLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:11",
-      "date": "24/04",
-      "timestamp": 1777025505
-    },
-    {
-      "id": "BFMTV_1777025474",
-      "source": "BFMTV",
-      "text": "SURVOL ISRAÉLIEN, FAUSSE ALERTE OU BLUFF IRANIEN? LE FLOU AUTOUR DE L'ORIGINE DES EXPLOSIONS À TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:11",
-      "date": "24/04",
-      "timestamp": 1777025474
-    },
-    {
-      "id": "BFMTV_1777024770",
-      "source": "BFMTV",
-      "text": "LE PENTAGONE ÉVOQUE UNE POSSIBLE SUSPENSION DE L'ESPAGNE DE L'OTAN, PEDRO SANCHEZ ASSURE N'ÊTRE \"PAS INQUIET\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:59",
-      "date": "24/04",
-      "timestamp": 1777024770
-    },
-    {
-      "id": "BFMTV_1777024136",
-      "source": "BFMTV",
-      "text": "LE MINISTRE DES AFFAIRES ÉTRANGÈRES JEAN-NOËL BARROT ENTAME UNE VISITE DE DEUX JOURS AU TOGO",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:48",
-      "date": "24/04",
-      "timestamp": 1777024136
-    },
-    {
-      "id": "BFMTV_1777024064",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE L'EUROPE À \"S'ENGAGER DAVANTAGE\" AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:47",
-      "date": "24/04",
-      "timestamp": 1777024064
-    },
-    {
-      "id": "BFMTV_1777021715",
-      "source": "BFMTV",
-      "text": "SOUTIEN À L'UKRAINE: L’UE ENVOIE UN \"SIGNAL TRÈS CLAIR\" À LA RUSSIE, AFFIRME KAJA KALLAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:08",
-      "date": "24/04",
-      "timestamp": 1777021715
-    },
-    {
-      "id": "BFMTV_1777019909",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON ESTIME QU'UN RETOUR À LA STABILITÉ \"LE PLUS VITE POSSIBLE\" EST \"DANS L'INTÉRÊT DE TOUS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:38",
-      "date": "24/04",
-      "timestamp": 1777019909
-    },
-    {
-      "id": "BFMTV_1777019737",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS D'ORIGINE INCONNUE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:35",
-      "date": "24/04",
-      "timestamp": 1777019737
-    },
-    {
-      "id": "BFMTV_1777019152",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS AURAIENT DÉPENSÉ ENTRE 28 ET 35 MILLIARDS DE DOLLARS DANS LA GUERRE AU MOYEN-ORIENT, SELON LE NEW YORK TIMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:25",
-      "date": "24/04",
-      "timestamp": 1777019152
-    },
-    {
-      "id": "BFMTV_1777018672",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES RAIDS ISRAÉLIENS ONT EU LIEU DANS LE SUD DU LIBAN CE VENDREDI MATIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:17",
-      "date": "24/04",
-      "timestamp": 1777018672
     }
   ],
   "france": {
