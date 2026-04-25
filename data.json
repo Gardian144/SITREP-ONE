@@ -1,7 +1,157 @@
 {
-  "last_update": "25/04 03:32",
+  "last_update": "25/04 05:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777094985",
+      "source": "BFMTV",
+      "text": "CESSEZ-LE-FEU: AU LIBAN, LE RETOUR DES DÉPLACÉS, ENTRE ESPOIR ET PRUDENCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:29",
+      "date": "25/04",
+      "timestamp": 1777094985
+    },
+    {
+      "id": "BFMTV_1777094161",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LE NÉGOCIATEUR IRANIEN AU PAKISTAN, LES ÉMISSAIRES AMÉRICAINS ATTENDUS CE SAMEDI POUR DE NOUVEAUX POURPARLERS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:16",
+      "date": "25/04",
+      "timestamp": 1777094161
+    },
+    {
+      "id": "BFMTV_1777093177",
+      "source": "BFMTV",
+      "text": "DES PALESTINIENS APPELÉS À VOTER AUX MUNICIPALES CE SAMEDI, LE PREMIER SCRUTIN DEPUIS LA GUERRE À GAZA",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:59",
+      "date": "25/04",
+      "timestamp": 1777093177
+    },
+    {
+      "id": "BFMTV_1777093177",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:59",
+      "date": "25/04",
+      "timestamp": 1777093177
+    },
+    {
+      "id": "BFMTV_1777092879",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE MINISTÈRE DE LA SANTÉ LIBANAIS FAIT ÉTAT DE SIX MORTS DANS DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:54",
+      "date": "25/04",
+      "timestamp": 1777092879
+    },
+    {
+      "id": "BFMTV_1777092792",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - QUELLES CIBLES LES ÉTATS-UNIS POURRAIENT-ILS VISER EN IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "25/04",
+      "timestamp": 1777092792
+    },
+    {
+      "id": "BFMTV_1777092204",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: 77% DES AMÉRICAINS JUGENT DONALD TRUMP RESPONSABLE DE LA HAUSSE DES PRIX DES CARBURANTS, SELON UN SONDAGE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:43",
+      "date": "25/04",
+      "timestamp": 1777092204
+    },
+    {
+      "id": "BFMTV_1777092014",
+      "source": "BFMTV",
+      "text": "3 PORTE-AVIONS, 12 NAVIRES, 3 SOUS-MARINS NUCLÉAIRES... DANS LE DÉTROIT D'ORMUZ, LA PLUS GROSSE ARMADA AMÉRICAINE DÉPLOYÉE DEPUIS 2003",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:40",
+      "date": "25/04",
+      "timestamp": 1777092014
+    },
+    {
+      "id": "BFMTV_1777091707",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION AFFIRMENT AVOIR SAISI UN NOUVEAU NAVIRE LIÉ AUX AMÉRICAINS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:35",
+      "date": "25/04",
+      "timestamp": 1777091707
+    },
+    {
+      "id": "BFMTV_1777091700",
+      "source": "BFMTV",
+      "text": "\"LES UKRAINIENS REMONTENT LA PENTE\": L'ARMÉE RUSSE EST-ELLE EN TRAIN DE S'ESSOUFFLER?",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:35",
+      "date": "25/04",
+      "timestamp": 1777091700
+    },
+    {
+      "id": "BFMTV_1777091205",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU ACCUSE LE HEZBOLLAH DE \"SABOTER\" LES EFFORTS DE PAIX AVEC LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:26",
+      "date": "25/04",
+      "timestamp": 1777091205
+    },
+    {
+      "id": "BFMTV_1777090800",
+      "source": "BFMTV",
+      "text": "POUR LE PORTE-PAROLE DU MINISTÈRE IRANIEN DES AFFAIRES ÉTRANGÈRES, \"L'ENJEU PRINCIPAL EST DE METTRE FIN À LA GUERRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:20",
+      "date": "25/04",
+      "timestamp": 1777090800
+    },
+    {
+      "id": "BFMTV_1777090573",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS À ISLAMABAD: L'IRAN AFFIRME QU'IL N'Y A PAS, À CE STADE, D'ENTRETIEN PRÉVU AVEC LA PARTIE AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:16",
+      "date": "25/04",
+      "timestamp": 1777090573
+    },
+    {
+      "id": "BFMTV_1777090264",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES IRANIENS VONT \"FAIRE UNE OFFRE\" AUX AMÉRICAINS CE SAMEDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:11",
+      "date": "25/04",
+      "timestamp": 1777090264
+    },
+    {
+      "id": "BFMTV_1777090090",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: WASHINGTON SE TIENT PRÊT À FRAPPER À NOUVEAU, MALGRÉ LE CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:08",
+      "date": "25/04",
+      "timestamp": 1777090090
+    },
     {
       "id": "BFMTV_1777067957",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "06:04",
       "date": "24/04",
       "timestamp": 1777010660
-    },
-    {
-      "id": "BFMTV_1777010548",
-      "source": "BFMTV",
-      "text": "CE QUE L'ON SAIT DES PREMIÈRES EXPLOSIONS EN IRAN DEPUIS L'ENTRÉE EN VIGUEUR DU CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:02",
-      "date": "24/04",
-      "timestamp": 1777010548
-    },
-    {
-      "id": "BFMTV_1777010159",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP ASSURE AVOIR \"TOUT LE TEMPS DU MONDE\" CONCERNANT TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:55",
-      "date": "24/04",
-      "timestamp": 1777010159
-    },
-    {
-      "id": "BFMTV_1777009576",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:46",
-      "date": "24/04",
-      "timestamp": 1777009576
-    },
-    {
-      "id": "BFMTV_1777009576",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN: UNE INSPECTION INTERNE DU MINISTÈRE AMÉRICAIN DE LA JUSTICE SUR LA GESTION DU DOSSIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:46",
-      "date": "24/04",
-      "timestamp": 1777009576
-    },
-    {
-      "id": "BFMTV_1777009317",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP SOUHAITE ACCENTUER LA LUTTE CONTRE LA \"FLOTTER MOUSTIQUE\" DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:41",
-      "date": "24/04",
-      "timestamp": 1777009317
-    },
-    {
-      "id": "BFMTV_1777008115",
-      "source": "BFMTV",
-      "text": "ERREURS DE COMMUNICATION, DÉFAUT D'ÉQUIPEMENT… CE QUE LE RAPPORT D'ENQUÊTE APRÈS LA COLLISION MORTELLE À L'AÉROPORT DE LAGUARDIA À NEW YORK RÉVÈLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:21",
-      "date": "24/04",
-      "timestamp": 1777008115
-    },
-    {
-      "id": "BFMTV_1777007749",
-      "source": "BFMTV",
-      "text": "400.000 DOLLARS EMPOCHÉS GRÂCE À DES INFORMATIONS CONFIDENTIELLES: UN MILITAIRE AMÉRICAIN POURSUIVI POUR DES PARIS SUR LA CHUTE DE NICOLAS MADURO",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:15",
-      "date": "24/04",
-      "timestamp": 1777007749
-    },
-    {
-      "id": "BFMTV_1777007749",
-      "source": "BFMTV",
-      "text": "ATTAQUE AMÉRICAINE CONTRE LE VENEZUELA",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:15",
-      "date": "24/04",
-      "timestamp": 1777007749
-    },
-    {
-      "id": "BFMTV_1777007563",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE RISQUE D'UN MANQUE DE MUNITIONS À VENIR POUR LES ÉTATS-UNIS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:12",
-      "date": "24/04",
-      "timestamp": 1777007563
-    },
-    {
-      "id": "BFMTV_1777006848",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ARRAISONNE UN NAVIRE SOUS SANCTION DANS L'OCÉAN INDIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:00",
-      "date": "24/04",
-      "timestamp": 1777006848
-    },
-    {
-      "id": "BFMTV_1777006619",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA COLÈRE AUX OBSÈQUES DE AMAL KHALIL, JOURNALISTE LIBANAISE TUÉE PAR UNE FRAPPE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:56",
-      "date": "24/04",
-      "timestamp": 1777006619
-    },
-    {
-      "id": "BFMTV_1777006157",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES LIBANAIS DIVISÉS SUR LA QUESTION DE POTENTIELLES NÉGOCIATIONS ENTRE LE PRÉSIDENT LIBANAIS JOSEPH AOUN ET BENJAMIN NETANYAHU",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:49",
-      "date": "24/04",
-      "timestamp": 1777006157
-    },
-    {
-      "id": "BFMTV_1777005610",
-      "source": "BFMTV",
-      "text": "DE MULTIPLES EXPLOSIONS DANS LE CIEL IRANIEN POUR LA PREMIÈRE FOIS DEPUIS L'ENTRÉE EN VIGUEUR DU CESSEZ-LE-FEU ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:40",
-      "date": "24/04",
-      "timestamp": 1777005610
-    },
-    {
-      "id": "BFMTV_1777005600",
-      "source": "BFMTV",
-      "text": "\"PAS DE PROFONDE FRACTURE\": LE RÉGIME IRANIEN EST-IL AUSSI \"DIVISÉ\" QUE LE PRÉTEND DONALD TRUMP?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:40",
-      "date": "24/04",
-      "timestamp": 1777005600
-    },
-    {
-      "id": "BFMTV_1776982747",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE UNE PROLONGATION DU CESSEZ-LE-FEU AU LIBAN DE \"TROIS SEMAINES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "22:19",
-      "date": "23/04",
-      "timestamp": 1776982747
     }
   ],
   "france": {
