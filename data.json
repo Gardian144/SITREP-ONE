@@ -1,7 +1,37 @@
 {
-  "last_update": "25/04 05:31",
+  "last_update": "25/04 06:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777098326",
+      "source": "BFMTV",
+      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:25",
+      "date": "25/04",
+      "timestamp": 1777098326
+    },
+    {
+      "id": "BFMTV_1777098325",
+      "source": "BFMTV",
+      "text": "INCENDIE DE CRANS-MONTANA: L'ITALIE DIT QU'ELLE NE PAIERA PAS LES FRAIS D'HOSPITALISATION DE SES CITOYENS EN SUISSE, DÉPLORANT DES \"MONTANTS EXORBITANTS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:25",
+      "date": "25/04",
+      "timestamp": 1777098325
+    },
+    {
+      "id": "BFMTV_1777096459",
+      "source": "BFMTV",
+      "text": "\"UN CAUCHEMAR ÉVEILLÉ\": LE FILS DU RÉALISATEUR ROB REINER SE CONFIE DEPUIS LE MEURTRE DE SES PARENTS COMMIS PAR SON FRÈRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:54",
+      "date": "25/04",
+      "timestamp": 1777096459
+    },
     {
       "id": "BFMTV_1777094985",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "06:47",
       "date": "24/04",
       "timestamp": 1777013276
-    },
-    {
-      "id": "BFMTV_1777012769",
-      "source": "BFMTV",
-      "text": "\"CÔTÉ IRANIEN, MAIS AUSSI AMÉRICAIN, LES SYSTÈMES DE DÉCISION SONT COMPLÈTEMENT DYSFONCTIONNELS\", JUGE BRUNO TERTRAIS, DIRECTEUR ADJOINT DE LA FONDATION POUR LA RECHERCHE STRATÉGIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:39",
-      "date": "24/04",
-      "timestamp": 1777012769
-    },
-    {
-      "id": "BFMTV_1777012596",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LES DEUX PARTIES SONT SINCÈREMENT PERSUADÉES D'AVOIR L'AVANTAGE\", ESTIME BRUNO TERTRAIS, DIRECTEUR ADJOINT DE LA FONDATION POUR LA RECHERCHE STRATÉGIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:36",
-      "date": "24/04",
-      "timestamp": 1777012596
-    },
-    {
-      "id": "BFMTV_1777010660",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP LUTTE CONTRE LE SOMMEIL LORS D'UN POINT-PRESSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:04",
-      "date": "24/04",
-      "timestamp": 1777010660
     }
   ],
   "france": {
