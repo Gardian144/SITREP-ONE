@@ -1,7 +1,37 @@
 {
-  "last_update": "25/04 11:53",
+  "last_update": "25/04 13:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777118834",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON: \"CE QUI EST DEMANDÉ PAR LES AMÉRICAINS, C'EST DE S'OCCUPER DE LEUR SÉCURITÉ\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:07",
+      "date": "25/04",
+      "timestamp": 1777118834
+    },
+    {
+      "id": "BFMTV_1777118520",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUATRE MORTS DANS DES FRAPPES ISRAÉLIENNES DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:02",
+      "date": "25/04",
+      "timestamp": 1777118520
+    },
+    {
+      "id": "BFMTV_1777118130",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE MENACE D'UNE \"RIPOSTE\" SI LES ÉTATS-UNIS POURSUIVENT LEUR BLOCUS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:55",
+      "date": "25/04",
+      "timestamp": 1777118130
+    },
     {
       "id": "BFMTV_1777117791",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "12:11",
       "date": "24/04",
       "timestamp": 1777032692
-    },
-    {
-      "id": "BFMTV_1777032530",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"PLUS DE 30 NAVIRES\" ONT ÉTÉ REPOUSSÉS DEPUIS LE DÉBUT DU BLOCUS AMÉRICAIN, ANNONCE PETE HEGSETH",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:08",
-      "date": "24/04",
-      "timestamp": 1777032530
-    },
-    {
-      "id": "BFMTV_1777031738",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE MINISTRE IRANIEN DES AFFAIRES ÉTRANGÈRES ATTENDU À ISLAMABAD CE VENDREDI ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:55",
-      "date": "24/04",
-      "timestamp": 1777031738
-    },
-    {
-      "id": "BFMTV_1777029793",
-      "source": "BFMTV",
-      "text": "IRAN: QUE SAIT-ON DE L'ÉTAT DE SANTÉ DE L'AYATOLLAH MOJTABA KHAMENEI?",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:23",
-      "date": "24/04",
-      "timestamp": 1777029793
     }
   ],
   "france": {
