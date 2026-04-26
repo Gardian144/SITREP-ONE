@@ -1,7 +1,17 @@
 {
-  "last_update": "26/04 19:29",
+  "last_update": "26/04 20:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777232422",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - TIRS PRÈS DE DONALD TRUMP: UNE SÉCURITÉ DÉFAILLANTE ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:40",
+      "date": "26/04",
+      "timestamp": 1777232422
+    },
     {
       "id": "BFMTV_1777231505",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "20:46",
       "date": "25/04",
       "timestamp": 1777149962
-    },
-    {
-      "id": "BFMTV_1777149742",
-      "source": "BFMTV",
-      "text": "POURPARLERS AU PAKISTAN: LE CHEF DE LA DIPLOMATIE IRANIENNE SERA DE RETOUR À ISLAMABAD APRÈS SA VISITE À OMAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:42",
-      "date": "25/04",
-      "timestamp": 1777149742
     }
   ],
   "france": {
