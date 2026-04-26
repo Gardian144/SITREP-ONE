@@ -1,7 +1,57 @@
 {
-  "last_update": "26/04 17:38",
+  "last_update": "26/04 18:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777227938",
+      "source": "BFMTV",
+      "text": "TIRS PRÈS DE DONALD TRUMP: \"ON A QUAND MÊME UN PRÉSIDENT QUI A SUBI LE PLUS DE TENTATIVES D'ASSASSINAT\", OBSERVE DAVID CORONA, ANCIEN NÉGOCIATEUR DU GIGN",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:25",
+      "date": "26/04",
+      "timestamp": 1777227938
+    },
+    {
+      "id": "BFMTV_1777227395",
+      "source": "BFMTV",
+      "text": "TIRS PRÈS DE DONALD TRUMP: LES ÉLÉMENTS TROUBLANTS DU MANIFESTE DE L'ASSAILLANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:16",
+      "date": "26/04",
+      "timestamp": 1777227395
+    },
+    {
+      "id": "BFMTV_1777226217",
+      "source": "BFMTV",
+      "text": "TIRS PRÈS DE DONALD TRUMP: LE PRÉSIDENT AMÉRICAIN \"A TOUJOURS FAIT FACE, C'EST DANS SON TEMPÉRAMENT\", DÉCLARE NICOLAS CONQUER, FONDATEUR DE WESTERN ARC, THINK TANK TRANSATLANTIQUE CONSERVATEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:56",
+      "date": "26/04",
+      "timestamp": 1777226217
+    },
+    {
+      "id": "BFMTV_1777225510",
+      "source": "BFMTV",
+      "text": "TIRS PRÈS DE DONALD TRUMP: \"L'ATTAQUE ARMÉE VISANT HIER SOIR LE PRÉSIDENT DES ÉTATS-UNIS EST INACCEPTABLE\", DÉCLARE EMMANUEL MACRON",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:45",
+      "date": "26/04",
+      "timestamp": 1777225510
+    },
+    {
+      "id": "BFMTV_1777225007",
+      "source": "BFMTV",
+      "text": "TIRS PRÈS DE DONALD TRUMP: LES ÉQUIPES DE BFMTV SONT DEVANT LE DOMICILE DE L'ASSAILLANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:36",
+      "date": "26/04",
+      "timestamp": 1777225007
+    },
     {
       "id": "BFMTV_1777223961",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "18:41",
       "date": "25/04",
       "timestamp": 1777142497
-    },
-    {
-      "id": "BFMTV_1777142283",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP JUSTIFIE SON REFUS D'ENVOYER SES REPRÉSENTANTS AU PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:38",
-      "date": "25/04",
-      "timestamp": 1777142283
-    },
-    {
-      "id": "BFMTV_1777142047",
-      "source": "BFMTV",
-      "text": "IRAN: \"ON A TOUTES LES CARTES EN MAIN\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:34",
-      "date": "25/04",
-      "timestamp": 1777142047
-    },
-    {
-      "id": "BFMTV_1777141850",
-      "source": "BFMTV",
-      "text": "IRAN ET POURPARLERS AU PAKISTAN: \"CELA FAIT TROP DE DÉPLACEMENTS\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:30",
-      "date": "25/04",
-      "timestamp": 1777141850
-    },
-    {
-      "id": "BFMTV_1777141308",
-      "source": "BFMTV",
-      "text": "SELON LES MÉDIAS IRANIENS, L'IRAN \"SE PRÉPARE À LANCER LA PLUS GRANDE FRAPPE DE MISSILES DE L'HISTOIRE CONTRE ISRAËL ET LES BASES AMÉRICAINES\" AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:21",
-      "date": "25/04",
-      "timestamp": 1777141308
-    },
-    {
-      "id": "BFMTV_1777140978",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP A ANNULÉ L'ENVOI D'UNE DÉLÉGATION AMÉRICAINE AU PAKISTAN JUGEANT QUE LES CONSEILLERS AMÉRICAINS \"N'ALLAIENT PAS FAIRE UN VOL DE 18 HEURES POUR RESTER ASSIS À DISCUTER DE RIEN\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:16",
-      "date": "25/04",
-      "timestamp": 1777140978
     }
   ],
   "france": {
