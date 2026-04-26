@@ -1,7 +1,47 @@
 {
-  "last_update": "26/04 15:57",
+  "last_update": "26/04 16:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777221646",
+      "source": "BFMTV",
+      "text": "LE CONTENU DU MANIFESTE DU TIREUR DU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:40",
+      "date": "26/04",
+      "timestamp": 1777221646
+    },
+    {
+      "id": "BFMTV_1777219758",
+      "source": "BFMTV",
+      "text": "MALI : UNE SÉRIE D'ATTAQUES MENÉES PAR DES GROUPES JIHADISTES, LE MINISTRE DE LA DÉFENSE TUÉ ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:09",
+      "date": "26/04",
+      "timestamp": 1777219758
+    },
+    {
+      "id": "BFMTV_1777219156",
+      "source": "BFMTV",
+      "text": "LE ROI CHARLES III, ATTENDU CE LUNDI À WASHINGTON, SE DIT SOULAGÉ\" QUE DONALD TRUMP SOIT \"SAIN ET SAUF\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:59",
+      "date": "26/04",
+      "timestamp": 1777219156
+    },
+    {
+      "id": "BFMTV_1777219156",
+      "source": "BFMTV",
+      "text": "\"LES RESPONSABLES DE L'ADMINISTRATION SONT DES CIBLES\": CE QUE DIT LE MANIFESTE DU TIREUR DU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:59",
+      "date": "26/04",
+      "timestamp": 1777219156
+    },
     {
       "id": "BFMTV_1777218633",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "17:24",
       "date": "25/04",
       "timestamp": 1777137855
-    },
-    {
-      "id": "BFMTV_1777137854",
-      "source": "BFMTV",
-      "text": "\"IL SUFFIT À L'IRAN DE NOUS APPELER\": DONALD TRUMP AFFIRME AVOIR ANNULÉ LE DÉPLACEMENT DE SES ÉMISSAIRES À ISLAMABAD",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:24",
-      "date": "25/04",
-      "timestamp": 1777137854
-    },
-    {
-      "id": "BFMTV_1777137162",
-      "source": "BFMTV",
-      "text": "IRAN, DÉTROIT D'ORMUZ: \"POUR COMPRENDRE CE QU'IL SE PASSE AUJOURD'HUI, ON EST FACE À UN TRILEMME\", EXPLIQUE GILLES GRESSANI, DIRECTEUR DE LA REVUE GÉOPOLITIQUE \"GRAND CONTINENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:12",
-      "date": "25/04",
-      "timestamp": 1777137162
-    },
-    {
-      "id": "BFMTV_1777136837",
-      "source": "BFMTV",
-      "text": "PÉTROLE : \"SI [LES TENSIONS AU MOYEN-ORIENT] DURENT ENCORE DEUX OU TROIS MOIS, EFFECTIVEMENT, IL Y AURA DES PROBLÈMES D'APPROVISIONNEMENTS\", EXPLIQUE JEAN-LOUIS SCHILANSKY, ANCIEN PRÉSIDENT DE L'UNION FRANÇAISE DES INDUSTRIES PÉTROLIÈRES",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:07",
-      "date": "25/04",
-      "timestamp": 1777136837
-    },
-    {
-      "id": "BFMTV_1777136456",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - PÉTROLE: COMMENT ÉVITER DE PASSER PAR LE DÉTROIT D'ORMUZ ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:00",
-      "date": "25/04",
-      "timestamp": 1777136456
     }
   ],
   "france": {
