@@ -1,7 +1,37 @@
 {
-  "last_update": "26/04 15:02",
+  "last_update": "26/04 15:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777218633",
+      "source": "BFMTV",
+      "text": "TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE: LE SUSPECT AURAIT ÉCRIT UN MANIFESTE \"ANTICHRÉTIEN\", SELON DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:50",
+      "date": "26/04",
+      "timestamp": 1777218633
+    },
+    {
+      "id": "BFMTV_1777218601",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE CONFLIT AVEC L'IRAN \"PRENDRA FIN TRÈS BIENTÔT\" ET QUE LES ÉTATS-UNIS \"SERONT VICTORIEUX\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:50",
+      "date": "26/04",
+      "timestamp": 1777218601
+    },
+    {
+      "id": "BFMTV_1777216852",
+      "source": "BFMTV",
+      "text": "DIRECT. TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: LE PRÉSIDENT AMÉRICAIN AFFIRME QUE L'ASSAILLANT \"DÉTESTE LES CHRÉTIENS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:20",
+      "date": "26/04",
+      "timestamp": 1777216852
+    },
     {
       "id": "BFMTV_1777215433",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:00",
       "date": "25/04",
       "timestamp": 1777136456
-    },
-    {
-      "id": "BFMTV_1777135348",
-      "source": "BFMTV",
-      "text": "SUR SON RÉSEAU SOCIAL, DONALD TRUMP A INDIQUÉ QUE \"SI LES IRANIENS VEULENT DISCUTER, IL SUFFIT D'APPELER\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:42",
-      "date": "25/04",
-      "timestamp": 1777135348
-    },
-    {
-      "id": "BFMTV_1777135235",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP DIT AVOIR ANNULÉ L'ENVOI DE SES ÉMISSAIRES À ISLAMABAD",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:40",
-      "date": "25/04",
-      "timestamp": 1777135235
-    },
-    {
-      "id": "BFMTV_1777134168",
-      "source": "BFMTV",
-      "text": "TÉHÉRAN INTENSIFIE SES MENACES FACE AU BLOCUS AMÉRICAIN, PROMETTANT DE FERMER LE DÉTROIT D'ORMUZ ET BAB-EL-MANDEB",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:22",
-      "date": "25/04",
-      "timestamp": 1777134168
     }
   ],
   "france": {
