@@ -1,7 +1,47 @@
 {
-  "last_update": "26/04 09:14",
+  "last_update": "26/04 10:09",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1777197852",
+      "source": "OPEX360",
+      "text": "LE SUCCESSEUR DU MISSILE AIR-AIR À LONGUE PORTÉE METEOR SERA-T-IL UNE VARIANTE DE L’ASTER 30 ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:04",
+      "date": "26/04",
+      "timestamp": 1777197852
+    },
+    {
+      "id": "BFMTV_1777197605",
+      "source": "BFMTV",
+      "text": "TIRS AU DÎNER DE LA PRESSE AVEC DONALD TRUMP: \"LA PEUR, ON L'A TOUS EU\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:00",
+      "date": "26/04",
+      "timestamp": 1777197605
+    },
+    {
+      "id": "BFMTV_1777195865",
+      "source": "BFMTV",
+      "text": "TIRS À UN GALA AVEC DONALD TRUMP: EMMANUEL MACRON DÉNONCE UNE ATTAQUE \"INACCEPTABLE\" ET APPORTE SON \"SOUTIEN\" AU PRÉSIDENT AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:31",
+      "date": "26/04",
+      "timestamp": 1777195865
+    },
+    {
+      "id": "BFMTV_1777194983",
+      "source": "BFMTV",
+      "text": "TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE: EMMANUEL MACRON DÉNONCE UNE \"ATTAQUE INACCEPTABLE\" ET ADRESSE SON SOUTIEN À DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:16",
+      "date": "26/04",
+      "timestamp": 1777194983
+    },
     {
       "id": "BFMTV_1777194707",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "10:48",
       "date": "25/04",
       "timestamp": 1777114092
-    },
-    {
-      "id": "BFMTV_1777114052",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON: \"CE QUI EST DEMANDÉ, PARFOIS GENTIMENT, PARFOIS MOINS GENTIMENT, PAR LES AMÉRICAINS AUX EUROPÉENS, C'EST DE S'OCCUPER DE LEUR SÉCURITÉ\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:47",
-      "date": "25/04",
-      "timestamp": 1777114052
-    },
-    {
-      "id": "BFMTV_1777113804",
-      "source": "BFMTV",
-      "text": "CLAUSE D'ASSISTANCE MUTUELLE EUROPÉENNE: \"NOUS SOMMES VENUS, LA DÉCISION A ÉTÉ PRISE DANS LA MINUTE\" QUAND CHYPRE A ÉTÉ ATTAQUÉE, AFFIRME EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:43",
-      "date": "25/04",
-      "timestamp": 1777113804
-    },
-    {
-      "id": "BFMTV_1777113732",
-      "source": "BFMTV",
-      "text": "UKRAINE: LE PRINCE HARRY S'INITIE AU DÉMINAGE À BOUTCHA, 30 ANS APRÈS DIANA EN ANGOLA",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:42",
-      "date": "25/04",
-      "timestamp": 1777113732
-    },
-    {
-      "id": "BFMTV_1777113579",
-      "source": "BFMTV",
-      "text": "\"TOUT ÇA ME RAPPELLE LE NAZISME\": MARIE-THÉRÈSE, L'OCTOGÉNAIRE FRANÇAISE INTERPELLÉE PAR L'ICE, RACONTE SA RÉTENTION AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:39",
-      "date": "25/04",
-      "timestamp": 1777113579
     }
   ],
   "france": {
