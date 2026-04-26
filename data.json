@@ -1,7 +1,47 @@
 {
-  "last_update": "26/04 13:08",
+  "last_update": "26/04 14:09",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777211973",
+      "source": "BFMTV",
+      "text": "TIRS AU GALA DE LA PRESSE: LE RÉCIT DE LA SOIRÉE PAR L'ENVOYÉE SPÉCIALE DE BFMTV",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:59",
+      "date": "26/04",
+      "timestamp": 1777211973
+    },
+    {
+      "id": "BFMTV_1777211181",
+      "source": "BFMTV",
+      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: LE MINISTRE DE LA JUSTICE AMÉRICAIN DÉCLARE QUE LE SUSPECT \"NE COOPÈRE PAS ACTIVEMENT\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:46",
+      "date": "26/04",
+      "timestamp": 1777211181
+    },
+    {
+      "id": "BFMTV_1777210905",
+      "source": "BFMTV",
+      "text": "TIRS DURANT LE DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE: DONALD TRUMP JUGE QUE LE LIEU N'EST PAS ASSEZ \"SÛR\" ET JUSTIFIE SON BESOIN D'UNE SALLE DE BAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:41",
+      "date": "26/04",
+      "timestamp": 1777210905
+    },
+    {
+      "id": "BFMTV_1777210287",
+      "source": "BFMTV",
+      "text": "TIRS AU DÎNER DES CORRESPONDANTS AVEC DONALD TRUMP: CE QUE L'ON SAIT DU SUSPECT ARRÊTÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:31",
+      "date": "26/04",
+      "timestamp": 1777210287
+    },
     {
       "id": "BFMTV_1777208150",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "16:17",
       "date": "25/04",
       "timestamp": 1777133826
-    },
-    {
-      "id": "BFMTV_1777132946",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE AVOIR ANNULÉ LE DÉPLACEMENT DE SES ÉMISSAIRES AU PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:02",
-      "date": "25/04",
-      "timestamp": 1777132946
-    },
-    {
-      "id": "BFMTV_1777132306",
-      "source": "BFMTV",
-      "text": " GUERRE EN UKRAINE : AU MOINS SEPT MORTS ET 34 BLESSÉS DANS UNE ATTAQUE DE DRONES RUSSES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:51",
-      "date": "25/04",
-      "timestamp": 1777132306
-    },
-    {
-      "id": "BFMTV_1777130598",
-      "source": "BFMTV",
-      "text": "LES IMAGES BFMTV DES RAVITAILLEURS AMÉRICAINS À TEL-AVIV",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:23",
-      "date": "25/04",
-      "timestamp": 1777130598
-    },
-    {
-      "id": "BFMTV_1777130134",
-      "source": "BFMTV",
-      "text": "L'IRAN EXÉCUTE UN HOMME CONDAMNÉ POUR \"COOPÉRATION\" AVEC ISRAËL APRÈS LES MANIFESTATIONS DE JANVIER",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:15",
-      "date": "25/04",
-      "timestamp": 1777130134
     }
   ],
   "france": {
