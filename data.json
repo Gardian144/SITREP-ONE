@@ -1,7 +1,37 @@
 {
-  "last_update": "26/04 14:09",
+  "last_update": "26/04 15:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777215433",
+      "source": "BFMTV",
+      "text": "TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE: LE TIREUR AVAIT ÉCRIT UN \"MANIFESTE ANTI-TRUMP\", SELON FOX NEWS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:57",
+      "date": "26/04",
+      "timestamp": 1777215433
+    },
+    {
+      "id": "BFMTV_1777215281",
+      "source": "BFMTV",
+      "text": "DIRECT. TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: LA PORTE-PAROLE DE LA MAISON BLANCHE AVANCE QUE L'ASSAILLANT \"CHERCHAIT À ASSASSINER\" LE PRÉSIDENT AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:54",
+      "date": "26/04",
+      "timestamp": 1777215281
+    },
+    {
+      "id": "BFMTV_1777214720",
+      "source": "BFMTV",
+      "text": "MALI: LE MINISTRE DE LA DÉFENSE TUÉ LORS D'UNE ATTAQUE CONTRE SA RÉSIDENCE, L'UE \"CONDAMNE FERMEMENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:45",
+      "date": "26/04",
+      "timestamp": 1777214720
+    },
     {
       "id": "BFMTV_1777211973",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "16:22",
       "date": "25/04",
       "timestamp": 1777134168
-    },
-    {
-      "id": "BFMTV_1777134000",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - DÉTROIT D'ORMUZ: L'IMPRESSIONNANTE ARMADA AMÉRICAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:20",
-      "date": "25/04",
-      "timestamp": 1777134000
-    },
-    {
-      "id": "BFMTV_1777133869",
-      "source": "BFMTV",
-      "text": "LE PREMIER MINISTRE HONGROIS SORTANT, VIKTOR ORBÁN, DÉCLARE QU'IL NE SIÉGERA PAS AU PARLEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:17",
-      "date": "25/04",
-      "timestamp": 1777133869
-    },
-    {
-      "id": "BFMTV_1777133826",
-      "source": "BFMTV",
-      "text": "DES AVIONS DE RAVITAILLEMENT AMÉRICAINS ONT ÉTÉ VUS À L'AÉROPORT BEN GOURION DE TEL-AVIV, EN ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:17",
-      "date": "25/04",
-      "timestamp": 1777133826
     }
   ],
   "france": {
