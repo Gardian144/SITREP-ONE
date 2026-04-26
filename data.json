@@ -1,7 +1,77 @@
 {
-  "last_update": "26/04 10:09",
+  "last_update": "26/04 11:04",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1777201026",
+      "source": "OPEX360",
+      "text": "DASSAULT AVIATION RETIENT UN SYSTÈME DE PROPULSION ESPAGNOL POUR SON DÉMONSTRATEUR D’AVION SPATIAL VORTEX-D",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:57",
+      "date": "26/04",
+      "timestamp": 1777201026
+    },
+    {
+      "id": "BFMTV_1777200856",
+      "source": "BFMTV",
+      "text": "\"IL SEMBLERAIT QU'IL Y AIT UNE FUSILLADE\": UN JOURNALISTE DE SKY NEWS SE FILME APRÈS LES TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:54",
+      "date": "26/04",
+      "timestamp": 1777200856
+    },
+    {
+      "id": "BFMTV_1777200626",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ORDONNE L'ÉVACUATION DE SEPT VILLAGES AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:50",
+      "date": "26/04",
+      "timestamp": 1777200626
+    },
+    {
+      "id": "BFMTV_1777199958",
+      "source": "BFMTV",
+      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: LES RÉACTIONS À L'INTERNATIONAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:39",
+      "date": "26/04",
+      "timestamp": 1777199958
+    },
+    {
+      "id": "BFMTV_1777199185",
+      "source": "BFMTV",
+      "text": "TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE: LE RÉCIT DE L'ATTAQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:26",
+      "date": "26/04",
+      "timestamp": 1777199185
+    },
+    {
+      "id": "BFMTV_1777198885",
+      "source": "BFMTV",
+      "text": "\"CEUX QUI ONT LE PLUS D'IMPACT\" SONT VISÉS: DONALD TRUMP REVIENT SUR LES RAISONS DES TIRS AU GALA ET N'HÉSITE PAS À SE COMPARER À ABRAHAM LINCOLN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:21",
+      "date": "26/04",
+      "timestamp": 1777198885
+    },
+    {
+      "id": "BFMTV_1777198789",
+      "source": "BFMTV",
+      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: \"UNE DÉFAILLANCE QUI AURAIT PU ÊTRE UN DÉSASTRE\", POUR LE CRIMINOLOGUE ALAIN BAUER",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:19",
+      "date": "26/04",
+      "timestamp": 1777198789
+    },
     {
       "id": "OPEX360_1777197852",
       "source": "OPEX360",
@@ -16,6 +86,16 @@
       "id": "BFMTV_1777197605",
       "source": "BFMTV",
       "text": "TIRS AU DÎNER DE LA PRESSE AVEC DONALD TRUMP: \"LA PEUR, ON L'A TOUS EU\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:00",
+      "date": "26/04",
+      "timestamp": 1777197605
+    },
+    {
+      "id": "BFMTV_1777197605",
+      "source": "BFMTV",
+      "text": "TIRS AU DÎNER DE LA PRESSE AVEC DONALD TRUMP: \"LA PEUR, ON L'A TOUS EUE\", RACONTE LAURENCE HAÏM, ENVOYÉE SPÉCIALE DE BFMTV",
       "urgent": false,
       "france_related": false,
       "time": "10:00",
@@ -921,86 +1001,6 @@
       "time": "13:23",
       "date": "25/04",
       "timestamp": 1777123413
-    },
-    {
-      "id": "BFMTV_1777122702",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS SE PRÉPARENT À UNE REPRISE DES HOSTILITÉS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:11",
-      "date": "25/04",
-      "timestamp": 1777122702
-    },
-    {
-      "id": "BFMTV_1777122418",
-      "source": "BFMTV",
-      "text": "\"C’EST FINI POUR MOI\": L'ÉCRIVAIN FRANCO-ALGÉRIEN BOUALEM SANSAL SONGE À QUITTER LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:06",
-      "date": "25/04",
-      "timestamp": 1777122418
-    },
-    {
-      "id": "BFMTV_1777118834",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON: \"CE QUI EST DEMANDÉ PAR LES AMÉRICAINS, C'EST DE S'OCCUPER DE LEUR SÉCURITÉ\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:07",
-      "date": "25/04",
-      "timestamp": 1777118834
-    },
-    {
-      "id": "BFMTV_1777118520",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QUATRE MORTS DANS DES FRAPPES ISRAÉLIENNES DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:02",
-      "date": "25/04",
-      "timestamp": 1777118520
-    },
-    {
-      "id": "BFMTV_1777118130",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE MENACE D'UNE \"RIPOSTE\" SI LES ÉTATS-UNIS POURSUIVENT LEUR BLOCUS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:55",
-      "date": "25/04",
-      "timestamp": 1777118130
-    },
-    {
-      "id": "BFMTV_1777117791",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: L'ARMÉE IRANIENNE MENACE D'UNE RIPOSTE SI LE BLOCUS AMÉRICAIN SE POURSUIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:49",
-      "date": "25/04",
-      "timestamp": 1777117791
-    },
-    {
-      "id": "BFMTV_1777116153",
-      "source": "BFMTV",
-      "text": " ÉTATS-UNIS: EMMANUEL MACRON RÉPOND AUX CRITIQUES AMÉRICAINES SUR L'OTAN ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:22",
-      "date": "25/04",
-      "timestamp": 1777116153
-    },
-    {
-      "id": "BFMTV_1777114092",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON: \"ON A BESOIN D'ACHETER DAVANTAGE EUROPÉEN, DE PRODUIRE DAVANTAGE EUROPÉEN, D'INNOVER DAVANTAGE EUROPÉEN\" ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:48",
-      "date": "25/04",
-      "timestamp": 1777114092
     }
   ],
   "france": {
