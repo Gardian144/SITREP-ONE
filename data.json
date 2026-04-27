@@ -1,7 +1,77 @@
 {
-  "last_update": "27/04 11:17",
+  "last_update": "27/04 13:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777294033",
+      "source": "BFMTV",
+      "text": "LE MENTALISTE QUI PERFORMAIT DEVANT DONALD TRUMP AU MOMENT DE SON ÉVACUATION DU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE DÉCRIT LA SCÈNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:47",
+      "date": "27/04",
+      "timestamp": 1777294033
+    },
+    {
+      "id": "BFMTV_1777293423",
+      "source": "BFMTV",
+      "text": "TENSIONS ENTRE LA FRANCE ET L'ALGÉRIE",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:37",
+      "date": "27/04",
+      "timestamp": 1777293423
+    },
+    {
+      "id": "BFMTV_1777292820",
+      "source": "BFMTV",
+      "text": "L'IRAN EXHIBE SES DRONES SHADED DANS UN DÉFILÉ MILITAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:27",
+      "date": "27/04",
+      "timestamp": 1777292820
+    },
+    {
+      "id": "BFMTV_1777290757",
+      "source": "BFMTV",
+      "text": "IRAN: VLADIMIR POUTINE RENCONTRE CE LUNDI LE MINISTRE IRANIEN DES AFFAIRES ÉTRANGÈRES ABBAS ARAGHCHI",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:52",
+      "date": "27/04",
+      "timestamp": 1777290757
+    },
+    {
+      "id": "BFMTV_1777290249",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP VA TENIR UNE RÉUNION DE CRISE SUR L'IRAN, ANNONCENT PLUSIEURS MÉDIAS AMÉRICAINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:44",
+      "date": "27/04",
+      "timestamp": 1777290249
+    },
+    {
+      "id": "BFMTV_1777288975",
+      "source": "BFMTV",
+      "text": "URSULA VON DER LEYEN JUGE \"TROP TÔT\" LA LEVÉE DES SANCTIONS CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:22",
+      "date": "27/04",
+      "timestamp": 1777288975
+    },
+    {
+      "id": "OPEX360_1777288789",
+      "source": "OPEX360",
+      "text": "PORTÉES PAR L’EUROPE ET L’ASIE, LES DÉPENSES MILITAIRES MONDIALES ONT ENCORE AUGMENTÉ DE 2,9 % EN 2025",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:19",
+      "date": "27/04",
+      "timestamp": 1777288789
+    },
     {
       "id": "BFMTV_1777287859",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "11:26",
       "date": "26/04",
       "timestamp": 1777202769
-    },
-    {
-      "id": "BFMTV_1777202555",
-      "source": "BFMTV",
-      "text": " COLOMBIE: AU MOINS 14 MORTS DANS UN ATTENTAT À LA BOMBE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:22",
-      "date": "26/04",
-      "timestamp": 1777202555
-    },
-    {
-      "id": "OPEX360_1777201026",
-      "source": "OPEX360",
-      "text": "DASSAULT AVIATION RETIENT UN SYSTÈME DE PROPULSION ESPAGNOL POUR SON DÉMONSTRATEUR D’AVION SPATIAL VORTEX-D",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:57",
-      "date": "26/04",
-      "timestamp": 1777201026
-    },
-    {
-      "id": "BFMTV_1777200856",
-      "source": "BFMTV",
-      "text": "\"IL SEMBLERAIT QU'IL Y AIT UNE FUSILLADE\": UN JOURNALISTE DE SKY NEWS SE FILME APRÈS LES TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:54",
-      "date": "26/04",
-      "timestamp": 1777200856
-    },
-    {
-      "id": "BFMTV_1777200626",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ORDONNE L'ÉVACUATION DE SEPT VILLAGES AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:50",
-      "date": "26/04",
-      "timestamp": 1777200626
-    },
-    {
-      "id": "BFMTV_1777199958",
-      "source": "BFMTV",
-      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: LES RÉACTIONS À L'INTERNATIONAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:39",
-      "date": "26/04",
-      "timestamp": 1777199958
-    },
-    {
-      "id": "BFMTV_1777199185",
-      "source": "BFMTV",
-      "text": "TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE: LE RÉCIT DE L'ATTAQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:26",
-      "date": "26/04",
-      "timestamp": 1777199185
-    },
-    {
-      "id": "BFMTV_1777198885",
-      "source": "BFMTV",
-      "text": "\"CEUX QUI ONT LE PLUS D'IMPACT\" SONT VISÉS: DONALD TRUMP REVIENT SUR LES RAISONS DES TIRS AU GALA ET N'HÉSITE PAS À SE COMPARER À ABRAHAM LINCOLN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:21",
-      "date": "26/04",
-      "timestamp": 1777198885
     }
   ],
   "france": {
