@@ -1,7 +1,147 @@
 {
-  "last_update": "27/04 03:59",
+  "last_update": "27/04 06:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777271787",
+      "source": "BFMTV",
+      "text": "DIRECT. TIRS AU GALA DE LA PRESSE: DONALD TRUMP RECONNAÎT \"NE PAS AVOIR FACILITÉ LA TÂCHE\" AUX AGENTS DE SÉCURITÉ CHARGÉS DE SON ÉVACUATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:36",
+      "date": "27/04",
+      "timestamp": 1777271787
+    },
+    {
+      "id": "BFMTV_1777271632",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ÉVACUÉ: \"NON SEULEMENT IL Y A EU DES FAILLES, ÇA SE VOIT COMME LE NEZ AU MILIEU DE LA FIGURE\", AFFIRME LE FONDATEUR DU GIGN",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:33",
+      "date": "27/04",
+      "timestamp": 1777271632
+    },
+    {
+      "id": "BFMTV_1777270887",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE CHEF DE LA DIPLOMATIE IRANIENNE EN RUSSIE POUR RENCONTRER VLADIMIR POUTINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:21",
+      "date": "27/04",
+      "timestamp": 1777270887
+    },
+    {
+      "id": "BFMTV_1777269126",
+      "source": "BFMTV",
+      "text": "TIRS À WASHINGTON: DES FAILLES DE SÉCURITÉ LORS DU GALA DE LA PRESSE DE LA MAISON BLANCHE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:52",
+      "date": "27/04",
+      "timestamp": 1777269126
+    },
+    {
+      "id": "BFMTV_1777268667",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES BOMBARDEMENTS ISRAÉLIENS AU LIBAN S'INTENSIFIENT  ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:44",
+      "date": "27/04",
+      "timestamp": 1777268667
+    },
+    {
+      "id": "BFMTV_1777268644",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES FRAPPES S'INTENSIFIENT À LA FRONTIÈRE ENTRE ISRAËL ET LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:44",
+      "date": "27/04",
+      "timestamp": 1777268644
+    },
+    {
+      "id": "BFMTV_1777267631",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: OÙ EN SONT LES DISCUSSIONS ET PROPOSITIONS DE CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:27",
+      "date": "27/04",
+      "timestamp": 1777267631
+    },
+    {
+      "id": "BFMTV_1777265937",
+      "source": "BFMTV",
+      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: QU'EST-CE QUE LE \"SECRET SERVICE\", CES AGENTS CHARGÉS DE LA SÉCURITÉ DU PRÉSIDENT AMÉRICAIN?",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:58",
+      "date": "27/04",
+      "timestamp": 1777265937
+    },
+    {
+      "id": "BFMTV_1777265823",
+      "source": "BFMTV",
+      "text": "CHARLES III SE RENDRA À WASHINGTON MALGRÉ L'ATTAQUE CONTRE LE GALA DE LA PRESSE AVEC DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:57",
+      "date": "27/04",
+      "timestamp": 1777265823
+    },
+    {
+      "id": "BFMTV_1777265618",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN A FAIT UNE NOUVELLE PROPOSITION À L'ADMINISTRATION AMÉRICAINE POUR DÉBLOQUER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "27/04",
+      "timestamp": 1777265618
+    },
+    {
+      "id": "BFMTV_1777265427",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE MÈNE DES RAIDS RÉGULIERS CONTRE LE HEZBOLLAH AU SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:50",
+      "date": "27/04",
+      "timestamp": 1777265427
+    },
+    {
+      "id": "BFMTV_1777265107",
+      "source": "BFMTV",
+      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: LE SUSPECT COMPARAÎT CE LUNDI DEVANT LA JUSTICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:45",
+      "date": "27/04",
+      "timestamp": 1777265107
+    },
+    {
+      "id": "BFMTV_1777264980",
+      "source": "BFMTV",
+      "text": "TIRS LORS DU GALA DE LA PRESSE AVEC DONALD TRUMP: BARACK OBAMA RAPPELLE QUE LA VIOLENCE N'A PAS DE PLACE \"DANS NOTRE DÉMOCRATIE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:43",
+      "date": "27/04",
+      "timestamp": 1777264980
+    },
+    {
+      "id": "BFMTV_1777264934",
+      "source": "BFMTV",
+      "text": "LA POPULARITÉ DE DONALD TRUMP NE FAIBLIT PAS EN ISRAËL ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "27/04",
+      "timestamp": 1777264934
+    },
     {
       "id": "BFMTV_1777241197",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "06:13",
       "date": "26/04",
       "timestamp": 1777184018
-    },
-    {
-      "id": "BFMTV_1777183615",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: UN ÉMISSAIRE IRANIEN ATTENDU AU PAKISTAN MALGRÉ L'ANNULATION DU DÉPLACEMENT DES ÉMISSAIRES DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:06",
-      "date": "26/04",
-      "timestamp": 1777183615
-    },
-    {
-      "id": "BFMTV_1777183120",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ÉVACUÉ APRÈS DES TIRS: L'ARMÉE DÉPLOYÉE DEVANT LE DOMICILE DU SUSPECT",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:58",
-      "date": "26/04",
-      "timestamp": 1777183120
-    },
-    {
-      "id": "BFMTV_1777182574",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ÉVACUÉ, \"ASSASSIN EN PUISSANCE\"... CE QUE L'ON SAIT DES TIRS DURANT LE DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:49",
-      "date": "26/04",
-      "timestamp": 1777182574
-    },
-    {
-      "id": "BFMTV_1777181884",
-      "source": "BFMTV",
-      "text": "TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE: \"CETTE PROFESSION EST DANGEREUSE\", AFFIRME DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:38",
-      "date": "26/04",
-      "timestamp": 1777181884
-    },
-    {
-      "id": "BFMTV_1777181666",
-      "source": "BFMTV",
-      "text": "DIRECT. DONALD TRUMP: UN TIREUR TENTE DE FORCER L'ENTRÉE D'UN GALA AUQUEL ASSISTE LE PRÉSIDENT, LE SUSPECT INTERPELLÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:34",
-      "date": "26/04",
-      "timestamp": 1777181666
-    },
-    {
-      "id": "BFMTV_1777180932",
-      "source": "BFMTV",
-      "text": "TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE: LES IMAGES DE L'EXFILTRATION DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:22",
-      "date": "26/04",
-      "timestamp": 1777180932
-    },
-    {
-      "id": "BFMTV_1777180688",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ÉVACUÉ: LE RÉCIT DES MINUTES QUI ONT PRÉCÉDÉ LES TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:18",
-      "date": "26/04",
-      "timestamp": 1777180688
-    },
-    {
-      "id": "BFMTV_1777180288",
-      "source": "BFMTV",
-      "text": "\"JE NE VEUX PAS QUE CES VOYOUS CHANGENT NOTRE COMPORTEMENT\": DONALD TRUMP ANNONCE QUE LE DÎNER DES CORRESPONDANTS SERA RÉORGANISÉ \"D'ICI 30 JOURS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:11",
-      "date": "26/04",
-      "timestamp": 1777180288
-    },
-    {
-      "id": "BFMTV_1777179474",
-      "source": "BFMTV",
-      "text": "TIRS LORS DU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE: LE TIREUR PRÉSUMÉ AVAIT \"DE NOMBREUSES ARMES\", AFFIRME DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:57",
-      "date": "26/04",
-      "timestamp": 1777179474
-    },
-    {
-      "id": "BFMTV_1777179237",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ÉVACUÉ: LES DERNIERS ÉLÉMENTS SUR LE PROFIL DU SUSPECT",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:53",
-      "date": "26/04",
-      "timestamp": 1777179237
-    },
-    {
-      "id": "BFMTV_1777178508",
-      "source": "BFMTV",
-      "text": "TIRS LORS DU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE: DONALD TRUMP SALUE LE TRAVAIL DES AUTORITÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:41",
-      "date": "26/04",
-      "timestamp": 1777178508
-    },
-    {
-      "id": "BFMTV_1777177812",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ÉVACUÉ: LE TIREUR ARRÊTÉ SERA PRÉSENTÉ LUNDI DEVANT UN TRIBUNAL FÉDÉRAL, SELON LA PROCUREURE DE WASHINGTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:30",
-      "date": "26/04",
-      "timestamp": 1777177812
-    },
-    {
-      "id": "BFMTV_1777177725",
-      "source": "BFMTV",
-      "text": "DIRECT. DONALD TRUMP ÉVACUÉ APRÈS DES TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE, LE SUSPECT APPRÉHENDÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:28",
-      "date": "26/04",
-      "timestamp": 1777177725
-    },
-    {
-      "id": "BFMTV_1777177596",
-      "source": "BFMTV",
-      "text": " ÉTATS-UNIS: DONALD TRUMP ÉVACUÉ APRÈS DES TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:26",
-      "date": "26/04",
-      "timestamp": 1777177596
     }
   ],
   "france": {
