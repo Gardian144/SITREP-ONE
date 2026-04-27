@@ -1,7 +1,147 @@
 {
-  "last_update": "27/04 06:38",
+  "last_update": "27/04 09:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777280524",
+      "source": "BFMTV",
+      "text": "LE HEZBOLLAH RÉAFFIRME SON \"REFUS CATÉGORIQUE\" DE NÉGOCIATIONS DIRECTES AVEC ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:02",
+      "date": "27/04",
+      "timestamp": 1777280524
+    },
+    {
+      "id": "BFMTV_1777280354",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH REFUSE \"CATÉGORIQUEMENT\" LES NÉGOCIATIONS DIRECTES AVEC ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:59",
+      "date": "27/04",
+      "timestamp": 1777280354
+    },
+    {
+      "id": "BFMTV_1777280050",
+      "source": "BFMTV",
+      "text": "TIRS AU DÎNER DES CORRESPONDANTS: QU'EST-CE QUE LE SECRET SERVICE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:54",
+      "date": "27/04",
+      "timestamp": 1777280050
+    },
+    {
+      "id": "BFMTV_1777279342",
+      "source": "BFMTV",
+      "text": "DIRECT. TIRS AU GALA DE LA PRESSE: UN ANCIEN AGENT DU SECRET SERVICE ESTIME QU'IL N'Y A PAS EU DE FAILLE DE SÉCURITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:42",
+      "date": "27/04",
+      "timestamp": 1777279342
+    },
+    {
+      "id": "BFMTV_1777278656",
+      "source": "BFMTV",
+      "text": "UN HOMME CONTINUE DE MANGER SA SALADE PENDANT LES TIRS AU GALA DE LA PRESSE À WASHINGTON ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:30",
+      "date": "27/04",
+      "timestamp": 1777278656
+    },
+    {
+      "id": "BFMTV_1777278153",
+      "source": "BFMTV",
+      "text": "TIRS À WASHINGTON: CES ATTAQUES QUI ONT MARQUÉ L'HISTOIRE AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:22",
+      "date": "27/04",
+      "timestamp": 1777278153
+    },
+    {
+      "id": "BFMTV_1777276428",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: 14 MORTS DANS DES FRAPPES ISRAÉLIENNES AU LIBAN CE DIMANCHE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:53",
+      "date": "27/04",
+      "timestamp": 1777276428
+    },
+    {
+      "id": "BFMTV_1777276044",
+      "source": "BFMTV",
+      "text": "\"ON VIT DANS UN MONDE DE FOUS\":  DONALD TRUMP ASSURE QU'IL N'ÉTAIT PAS \"INQUIET\" LORS DES TIRS AU GALA DE LA PRESSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:47",
+      "date": "27/04",
+      "timestamp": 1777276044
+    },
+    {
+      "id": "BFMTV_1777275371",
+      "source": "BFMTV",
+      "text": "LE MINISTRE DES AFFAIRES ÉTRANGÈRES DE L'IRAN ATTRIBUE L'ÉCHEC DES DISCUSSIONS AU PAKISTAN À \"L'ATTITUDE DES AMÉRICAINS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:36",
+      "date": "27/04",
+      "timestamp": 1777275371
+    },
+    {
+      "id": "BFMTV_1777275371",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:36",
+      "date": "27/04",
+      "timestamp": 1777275371
+    },
+    {
+      "id": "BFMTV_1777274849",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA COTE DE POPULARITÉ DE DONALD TRUMP NE FAIBLIT PAS EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:27",
+      "date": "27/04",
+      "timestamp": 1777274849
+    },
+    {
+      "id": "BFMTV_1777273906",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU LIBAN, LES BOMBARDEMENTS ISRAÉLIENS CONTINUENT MALGRÉ LE CESSEZ-LE-FEU ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:11",
+      "date": "27/04",
+      "timestamp": 1777273906
+    },
+    {
+      "id": "BFMTV_1777273239",
+      "source": "BFMTV",
+      "text": "Y-A-T-IL EU UNE FAILLE DE SÉCURITÉ LORS DES TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP?",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:00",
+      "date": "27/04",
+      "timestamp": 1777273239
+    },
+    {
+      "id": "BFMTV_1777273037",
+      "source": "BFMTV",
+      "text": "TIRS À WASHINGTON: LE FONDATEUR DU GIGN ESTIME QUE \"LA SÉCURITÉ N'ÉTAIT ABSOLUMENT PAS AU NIVEAU\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:57",
+      "date": "27/04",
+      "timestamp": 1777273037
+    },
     {
       "id": "BFMTV_1777271787",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "08:29",
       "date": "26/04",
       "timestamp": 1777192165
-    },
-    {
-      "id": "BFMTV_1777190485",
-      "source": "BFMTV",
-      "text": "DIRECT. TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: UN SUSPECT INTERPELLÉ, LE PRÉSIDENT PARLE D'UN \"LOUP SOLITAIRE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:01",
-      "date": "26/04",
-      "timestamp": 1777190485
-    },
-    {
-      "id": "BFMTV_1777190472",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ÉVACUÉ APRÈS DES TIRS: LES PREMIÈRES HEURES DE L'ENQUÊTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:01",
-      "date": "26/04",
-      "timestamp": 1777190472
-    },
-    {
-      "id": "BFMTV_1777190040",
-      "source": "BFMTV",
-      "text": "40 ANS DE LA CATASTROPHE DE TCHERNOBYL: VOLODYMYR ZELENSKY ACCUSE LA RUSSIE DE \"TERRORISME NUCLÉAIRE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:54",
-      "date": "26/04",
-      "timestamp": 1777190040
-    },
-    {
-      "id": "BFMTV_1777190040",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:54",
-      "date": "26/04",
-      "timestamp": 1777190040
-    },
-    {
-      "id": "BFMTV_1777187589",
-      "source": "BFMTV",
-      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: \"LOUP SOLITAIRE\", DÉVELOPPEUR DE JEUX VIDÉO... QUE SAIT-ON SUR LE SUSPECT?",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:13",
-      "date": "26/04",
-      "timestamp": 1777187589
-    },
-    {
-      "id": "BFMTV_1777187589",
-      "source": "BFMTV",
-      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:13",
-      "date": "26/04",
-      "timestamp": 1777187589
-    },
-    {
-      "id": "BFMTV_1777186758",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ÉVACUÉ APRÈS DES TIRS: BENJAMIN NETANYAHU \"CHOQUÉ\" MAIS \"SOULAGÉ\" QUE LE PRÉSIDENT AMÉRICAIN SOIT \"SAIN ET SAUF\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:59",
-      "date": "26/04",
-      "timestamp": 1777186758
-    },
-    {
-      "id": "BFMTV_1777186499",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ÉVACUÉ APRÈS DES TIRS: DES PERQUISITIONS EN COURS AU DOMICILE DU SUSPECT",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:54",
-      "date": "26/04",
-      "timestamp": 1777186499
-    },
-    {
-      "id": "BFMTV_1777186195",
-      "source": "BFMTV",
-      "text": "RONALD REAGAN A ÉCHAPPÉ À UNE TENTATIVE D'ASSASSINAT DEVANT LE MÊME HÔTEL EN 1980, OÙ AVAIT LIEU LE DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:49",
-      "date": "26/04",
-      "timestamp": 1777186195
-    },
-    {
-      "id": "BFMTV_1777186013",
-      "source": "BFMTV",
-      "text": "\"ON SAVAIT QUE QUELQUE CHOSE DE GRAVE SE PASSAIT\": LES RÉACTIONS DES INVITÉS DU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE APRÈS LES TIRS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:46",
-      "date": "26/04",
-      "timestamp": 1777186013
-    },
-    {
-      "id": "BFMTV_1777185112",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ÉVACUÉ: LES RÉACTIONS À L'INTERNATIONAL APRÈS LES TIRS AU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:31",
-      "date": "26/04",
-      "timestamp": 1777185112
-    },
-    {
-      "id": "BFMTV_1777184820",
-      "source": "BFMTV",
-      "text": "40 ANS APRÈS LA CATASTROPHE DE TCHERNOBYL: L'HISTOIRE DES \"LIQUIDATEURS\", HÉROS SACRIFIÉS DE L'UNION SOVIÉTIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:27",
-      "date": "26/04",
-      "timestamp": 1777184820
-    },
-    {
-      "id": "BFMTV_1777184236",
-      "source": "BFMTV",
-      "text": "\"C'ÉTAIT INTENSE\": LE TÉMOIGNAGE D'UN INVITÉ DU DÎNER DES CORRESPONDANTS DE LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:17",
-      "date": "26/04",
-      "timestamp": 1777184236
-    },
-    {
-      "id": "BFMTV_1777184018",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP: \"JE NE VEUX PAS QUE CES VOYOUS CHANGENT NOTRE COMPORTEMENT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:13",
-      "date": "26/04",
-      "timestamp": 1777184018
     }
   ],
   "france": {
