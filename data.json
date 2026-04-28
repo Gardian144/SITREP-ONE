@@ -1,7 +1,157 @@
 {
-  "last_update": "28/04 13:12",
+  "last_update": "28/04 15:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777390495",
+      "source": "BFMTV",
+      "text": "CARBURANTS: \"JE SOUTIENS LE GOUVERNEMENT SUR LE FAIT DE NE PAS TOUCHER À LA FISCALITÉ\", EXPLIQUE OLGA GIVERNET, ANCIENNE MINISTRE DE L'ÉNERGIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:34",
+      "date": "28/04",
+      "timestamp": 1777390495
+    },
+    {
+      "id": "BFMTV_1777390440",
+      "source": "BFMTV",
+      "text": "LE SUSPECT DU MEURTRE DE DEUX ÉTUDIANTS RECHERCHE SUR CHATGPT COMMENT SE DÉBARRASSER D'UN CORPS  ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:34",
+      "date": "28/04",
+      "timestamp": 1777390440
+    },
+    {
+      "id": "BFMTV_1777390240",
+      "source": "BFMTV",
+      "text": "CARBURANTS: LE SP98 EST PASSÉ À 2,09 EUROS LE LITRE, L'OPPOSITION RÉCLAME LA BAISSE DES PRIX",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:30",
+      "date": "28/04",
+      "timestamp": 1777390240
+    },
+    {
+      "id": "BFMTV_1777390141",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE L'IRAN \"EST DANS UN ÉTAT D'EFFONDREMENT\" ET LUI DEMANDE DE ROUVRIR RAPIDEMENT LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:29",
+      "date": "28/04",
+      "timestamp": 1777390141
+    },
+    {
+      "id": "BFMTV_1777390067",
+      "source": "BFMTV",
+      "text": "\"ILS N'ONT CLAIREMENT AUCUNE STRATÉGIE\": LE CHANCELIER ALLEMAND FRIEDRICH MERZ ESTIME QUE LES ÉTATS-UNIS SE FONT \"HUMILIER\" PAR L'IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:27",
+      "date": "28/04",
+      "timestamp": 1777390067
+    },
+    {
+      "id": "BFMTV_1777389515",
+      "source": "BFMTV",
+      "text": "LA TENSION EST TOUJOURS AUSSI FORTE ENTRE L'ARMÉE ISRAÉLIENNE ET LE HEZBOLLAH DANS LE SUD-LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:18",
+      "date": "28/04",
+      "timestamp": 1777389515
+    },
+    {
+      "id": "BFMTV_1777389378",
+      "source": "BFMTV",
+      "text": "MALGRÉ LES SANCTIONS, L'IRAN CONTINUE D'EXPORTER DU PÉTROLE VERS DES PAYS COMME LA CHINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:16",
+      "date": "28/04",
+      "timestamp": 1777389378
+    },
+    {
+      "id": "BFMTV_1777389155",
+      "source": "BFMTV",
+      "text": "LES ÉMIRATS ARABES UNIS QUITTENT L'OPEP, MARQUANT UN TOURNANT MAJEUR POUR LES PAYS DU GOLFE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:12",
+      "date": "28/04",
+      "timestamp": 1777389155
+    },
+    {
+      "id": "BFMTV_1777389017",
+      "source": "BFMTV",
+      "text": "IRAN: LE PORTE-AVIONS AMÉRICAIN LE DWIGHT D. EISENHOWER EST EN ROUTE VERS LA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:10",
+      "date": "28/04",
+      "timestamp": 1777389017
+    },
+    {
+      "id": "BFMTV_1777388623",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON DÉCORÉ DE LA CROIX DES SEPT BRAS DE LA PRINCIPAUTÉ D'ANDORRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:03",
+      "date": "28/04",
+      "timestamp": 1777388623
+    },
+    {
+      "id": "BFMTV_1777388255",
+      "source": "BFMTV",
+      "text": "IRAN, ORMUZ: POUR LE CHANCELIER ALLEMAND, \"LES AMÉRICAINS N'ONT CLAIREMENT AUCUNE STRATÉGIE\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:57",
+      "date": "28/04",
+      "timestamp": 1777388255
+    },
+    {
+      "id": "BFMTV_1777388132",
+      "source": "BFMTV",
+      "text": "TIRS CONTRE DONALD TRUMP: QUI SONT LES \"WIDE AWAKES\", CE MOUVEMENT DONT FAIT PARTIE L'AUTEUR PRÉSUMÉ DES FAITS?",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:55",
+      "date": "28/04",
+      "timestamp": 1777388132
+    },
+    {
+      "id": "OPEX360_1777386913",
+      "source": "OPEX360",
+      "text": "MALGRÉ DES DOUTES, LE MINISTÈRE BRITANNIQUE DE LA DÉFENSE RELANCE LES LIVRAISONS DE BLINDÉS AJAX À LA BRITISH ARMY",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:35",
+      "date": "28/04",
+      "timestamp": 1777386913
+    },
+    {
+      "id": "BFMTV_1777386869",
+      "source": "BFMTV",
+      "text": "SUR SON RÉSEAU SOCIAL, DONALD TRUMP ASSURE \"QUE L'IRAN EST DANS UN ÉTAT D'EFFONDREMENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:34",
+      "date": "28/04",
+      "timestamp": 1777386869
+    },
+    {
+      "id": "BFMTV_1777386801",
+      "source": "BFMTV",
+      "text": "UN HOMME DE 89 ANS ARMÉ D'UN FUSIL DE CHASSÉ ARRÊTÉ APRÈS DEUX FUSILLADES QUI ONT FAIT QUATRE BLESSÉS À ATHÈNES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:33",
+      "date": "28/04",
+      "timestamp": 1777386801
+    },
     {
       "id": "BFMTV_1777381754",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "16:27",
       "date": "27/04",
       "timestamp": 1777307241
-    },
-    {
-      "id": "BFMTV_1777306860",
-      "source": "BFMTV",
-      "text": "\"JE N'OUBLIERAI JAMAIS CETTE IMAGE DE MA VIE\": LE MENTALISTE QUI EFFECTUAIT UN TOUR DE MAGIE À DONALD TRUMP LORS DES TIRS AU GALA DE LA PRESSE SE CONFIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:21",
-      "date": "27/04",
-      "timestamp": 1777306860
-    },
-    {
-      "id": "BFMTV_1777306858",
-      "source": "BFMTV",
-      "text": "L'IRAN DOIT FAIRE DES \"CONCESSIONS MAJEURES\" POUR METTRE FIN À LA GUERRE, ESTIME LE CHEF DE LA DIPLOMATIE FRANÇAISE, JEAN-NOËL BARROT",
-      "urgent": true,
-      "france_related": true,
-      "time": "16:20",
-      "date": "27/04",
-      "timestamp": 1777306858
-    },
-    {
-      "id": "BFMTV_1777306611",
-      "source": "BFMTV",
-      "text": "\"CE N'EST PAS DE L'HUMOUR\": APRÈS LES TIRS AU GALA DE LA PRESSE, L'ANIMATEUR JIMMY KIMMEL ACCUSÉ PAR MELANIA TRUMP DE \"RÉPANDRE LA HAINE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:16",
-      "date": "27/04",
-      "timestamp": 1777306611
-    },
-    {
-      "id": "OPEX360_1777306607",
-      "source": "OPEX360",
-      "text": "L’AUSTRALIE COMMANDE 268 BLINDÉS BUSHMASTER DE NOUVELLE GÉNÉRATION À THALES POUR 460 MILLIONS D’EUROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:16",
-      "date": "27/04",
-      "timestamp": 1777306607
-    },
-    {
-      "id": "BFMTV_1777305862",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - QUE RISQUE LE SUSPECT QUI A VOULU TUER DONALD TRUMP?",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:04",
-      "date": "27/04",
-      "timestamp": 1777305862
-    },
-    {
-      "id": "BFMTV_1777305457",
-      "source": "BFMTV",
-      "text": "\"NI BLOCAGE, NI CHANTAGE, NI PÉAGE\": AU CONSEIL DE SÉCURITÉ DE L'ONU, JEAN-NOËL BARROT S'OPPOSE À LA POURSUITE DU BLOCAGE DU DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:57",
-      "date": "27/04",
-      "timestamp": 1777305457
-    },
-    {
-      "id": "BFMTV_1777302659",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE À \"TRAITER LE PROBLÈME À LA RACINE\" EN ROUVRANT LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:10",
-      "date": "27/04",
-      "timestamp": 1777302659
-    },
-    {
-      "id": "BFMTV_1777302361",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"LES RÉPONSES NE SONT PAS BONNES\", REGRETTE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:06",
-      "date": "27/04",
-      "timestamp": 1777302361
-    },
-    {
-      "id": "BFMTV_1777302320",
-      "source": "BFMTV",
-      "text": "LE VICE-PRÉSIDENT JD VANCE, UN \"SURVIVANT DÉSIGNÉ\"...QUI GOUVERNERAIT LES ÉTATS-UNIS EN CAS D'ASSASSINAT DE DONALD TRUMP?",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:05",
-      "date": "27/04",
-      "timestamp": 1777302320
-    },
-    {
-      "id": "BFMTV_1777301758",
-      "source": "BFMTV",
-      "text": "LA RÉPUBLIQUE ISLAMIQUE D'IRAN ESTIME QUE SON ARMÉE DEVRAIT AVOIR AUTORITÉ SUR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:55",
-      "date": "27/04",
-      "timestamp": 1777301758
-    },
-    {
-      "id": "BFMTV_1777301377",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:49",
-      "date": "27/04",
-      "timestamp": 1777301377
-    },
-    {
-      "id": "BFMTV_1777301364",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: VLADIMIR POUTINE ASSURE AU CHEF DE LA DIPLOMATIE IRANIENNE QUE LA RUSSIE FERA \"TOUT\" POUR RAMENER LA PAIX",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:49",
-      "date": "27/04",
-      "timestamp": 1777301364
-    },
-    {
-      "id": "BFMTV_1777301142",
-      "source": "BFMTV",
-      "text": "TOUT COMPRENDRE - MINISTRE TUÉ, ATTAQUES COORDONNÉES... QUE SE PASSE-T-IL AU MALI?",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:45",
-      "date": "27/04",
-      "timestamp": 1777301142
-    },
-    {
-      "id": "BFMTV_1777300642",
-      "source": "BFMTV",
-      "text": "\"L'HUMANITÉ A LA MÉMOIRE COURTE\": LE CHEF DE L'ONU ALERTE SUR LES MENACES DE LA COURSE AUX ARSENAUX NUCLÉAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:37",
-      "date": "27/04",
-      "timestamp": 1777300642
-    },
-    {
-      "id": "OPEX360_1777298296",
-      "source": "OPEX360",
-      "text": "ORION 2026 : LE MINISTÈRE DES ARMÉES SE PRÉPARE À RÉQUISITIONNER DES MOYENS CIVILS EN CAS D’ENGAGEMENT MAJEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:58",
-      "date": "27/04",
-      "timestamp": 1777298296
     }
   ],
   "france": {
