@@ -1,7 +1,147 @@
 {
-  "last_update": "28/04 04:06",
+  "last_update": "28/04 06:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777358600",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: MAUD BREGEON ASSURE QU'\"IL N'Y AUCUN RISQUE DE PÉNURIE\" DE CARBURANT",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:43",
+      "date": "28/04",
+      "timestamp": 1777358600
+    },
+    {
+      "id": "BFMTV_1777356792",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES REFUGIÉS DU SUD DU LIBAN CAMPENT À BEYROUTH APRÈS DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:13",
+      "date": "28/04",
+      "timestamp": 1777356792
+    },
+    {
+      "id": "BFMTV_1777356717",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: WASHINGTON DIT EXAMINER LES PROPOSITIONS IRANIENNES POUR DÉBLOQUER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:11",
+      "date": "28/04",
+      "timestamp": 1777356717
+    },
+    {
+      "id": "BFMTV_1777355164",
+      "source": "BFMTV",
+      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: LE TIREUR A ÉTÉ INCULPÉ POUR \"TENTATIVE D'ASSASSINAT\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:46",
+      "date": "28/04",
+      "timestamp": 1777355164
+    },
+    {
+      "id": "BFMTV_1777354990",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES REFUGIÉS DU SUD DU LIBAN CAMPENT À BEYROUTH APRÈS DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:43",
+      "date": "28/04",
+      "timestamp": 1777354990
+    },
+    {
+      "id": "BFMTV_1777353875",
+      "source": "BFMTV",
+      "text": "AFFAIRE WEINSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:24",
+      "date": "28/04",
+      "timestamp": 1777353875
+    },
+    {
+      "id": "BFMTV_1777353875",
+      "source": "BFMTV",
+      "text": "HARVEY WEINSTEIN: LE TÉMOIGNAGE CLÉ D'UNE ANCIENNE ACTRICE AU NOUVEAU PROCÈS POUR VIOL DE L'EX-PRODUCTEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:24",
+      "date": "28/04",
+      "timestamp": 1777353875
+    },
+    {
+      "id": "BFMTV_1777353767",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUATRE MORTS AU LIBAN LUNDI, BENJAMIN NETANYAHU JUSTIFIE LA POURSUITE DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:22",
+      "date": "28/04",
+      "timestamp": 1777353767
+    },
+    {
+      "id": "BFMTV_1777353538",
+      "source": "BFMTV",
+      "text": "BENYAMIN NETANYAHU DÉCLARE QUE \"LES ROQUETTES ET DRONES DU HEZBOLLAH\" IMPOSE LA POURSUITE DE L'ACTION MILITAIRE AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:18",
+      "date": "28/04",
+      "timestamp": 1777353538
+    },
+    {
+      "id": "BFMTV_1777352493",
+      "source": "BFMTV",
+      "text": "LE POINT SUR LA GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES FONT QUATRE MORTS DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:01",
+      "date": "28/04",
+      "timestamp": 1777352493
+    },
+    {
+      "id": "BFMTV_1777352157",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉCOLES ISRAÉLIENNES RESTENT FERMÉES MALGRÉ LA \"TRÊVE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:55",
+      "date": "28/04",
+      "timestamp": 1777352157
+    },
+    {
+      "id": "BFMTV_1777351992",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE SUPERYACHT D'UN OLIGARQUE RUSSE A FRANCHI LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "28/04",
+      "timestamp": 1777351992
+    },
+    {
+      "id": "BFMTV_1777351954",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: TSHAL PUBLIE DES VIDÉOS OÙ DES VILLAGES DANS LE SUD DU LIBAN SONT DYNAMITÉS POUR CRÉER DES \"NO-MANS LAND\" ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:52",
+      "date": "28/04",
+      "timestamp": 1777351954
+    },
+    {
+      "id": "BFMTV_1777351544",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES AU LIBAN FONT QUATRE MORTS DONT UNE FEMME, ET 51 BLESSÉS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:45",
+      "date": "28/04",
+      "timestamp": 1777351544
+    },
     {
       "id": "BFMTV_1777328615",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "07:11",
       "date": "27/04",
       "timestamp": 1777273906
-    },
-    {
-      "id": "BFMTV_1777273239",
-      "source": "BFMTV",
-      "text": "Y-A-T-IL EU UNE FAILLE DE SÉCURITÉ LORS DES TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP?",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:00",
-      "date": "27/04",
-      "timestamp": 1777273239
-    },
-    {
-      "id": "BFMTV_1777273037",
-      "source": "BFMTV",
-      "text": "TIRS À WASHINGTON: LE FONDATEUR DU GIGN ESTIME QUE \"LA SÉCURITÉ N'ÉTAIT ABSOLUMENT PAS AU NIVEAU\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:57",
-      "date": "27/04",
-      "timestamp": 1777273037
-    },
-    {
-      "id": "BFMTV_1777271787",
-      "source": "BFMTV",
-      "text": "DIRECT. TIRS AU GALA DE LA PRESSE: DONALD TRUMP RECONNAÎT \"NE PAS AVOIR FACILITÉ LA TÂCHE\" AUX AGENTS DE SÉCURITÉ CHARGÉS DE SON ÉVACUATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:36",
-      "date": "27/04",
-      "timestamp": 1777271787
-    },
-    {
-      "id": "BFMTV_1777271632",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ÉVACUÉ: \"NON SEULEMENT IL Y A EU DES FAILLES, ÇA SE VOIT COMME LE NEZ AU MILIEU DE LA FIGURE\", AFFIRME LE FONDATEUR DU GIGN",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:33",
-      "date": "27/04",
-      "timestamp": 1777271632
-    },
-    {
-      "id": "BFMTV_1777270887",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE CHEF DE LA DIPLOMATIE IRANIENNE EN RUSSIE POUR RENCONTRER VLADIMIR POUTINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:21",
-      "date": "27/04",
-      "timestamp": 1777270887
-    },
-    {
-      "id": "BFMTV_1777269126",
-      "source": "BFMTV",
-      "text": "TIRS À WASHINGTON: DES FAILLES DE SÉCURITÉ LORS DU GALA DE LA PRESSE DE LA MAISON BLANCHE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:52",
-      "date": "27/04",
-      "timestamp": 1777269126
-    },
-    {
-      "id": "BFMTV_1777268667",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES BOMBARDEMENTS ISRAÉLIENS AU LIBAN S'INTENSIFIENT  ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:44",
-      "date": "27/04",
-      "timestamp": 1777268667
-    },
-    {
-      "id": "BFMTV_1777268644",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES FRAPPES S'INTENSIFIENT À LA FRONTIÈRE ENTRE ISRAËL ET LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:44",
-      "date": "27/04",
-      "timestamp": 1777268644
-    },
-    {
-      "id": "BFMTV_1777267631",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: OÙ EN SONT LES DISCUSSIONS ET PROPOSITIONS DE CESSEZ-LE-FEU ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:27",
-      "date": "27/04",
-      "timestamp": 1777267631
-    },
-    {
-      "id": "BFMTV_1777265937",
-      "source": "BFMTV",
-      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: QU'EST-CE QUE LE \"SECRET SERVICE\", CES AGENTS CHARGÉS DE LA SÉCURITÉ DU PRÉSIDENT AMÉRICAIN?",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:58",
-      "date": "27/04",
-      "timestamp": 1777265937
-    },
-    {
-      "id": "BFMTV_1777265823",
-      "source": "BFMTV",
-      "text": "CHARLES III SE RENDRA À WASHINGTON MALGRÉ L'ATTAQUE CONTRE LE GALA DE LA PRESSE AVEC DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:57",
-      "date": "27/04",
-      "timestamp": 1777265823
-    },
-    {
-      "id": "BFMTV_1777265618",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN A FAIT UNE NOUVELLE PROPOSITION À L'ADMINISTRATION AMÉRICAINE POUR DÉBLOQUER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:53",
-      "date": "27/04",
-      "timestamp": 1777265618
-    },
-    {
-      "id": "BFMTV_1777265427",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE MÈNE DES RAIDS RÉGULIERS CONTRE LE HEZBOLLAH AU SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:50",
-      "date": "27/04",
-      "timestamp": 1777265427
-    },
-    {
-      "id": "BFMTV_1777265107",
-      "source": "BFMTV",
-      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: LE SUSPECT COMPARAÎT CE LUNDI DEVANT LA JUSTICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:45",
-      "date": "27/04",
-      "timestamp": 1777265107
     }
   ],
   "france": {
