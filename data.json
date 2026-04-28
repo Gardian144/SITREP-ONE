@@ -1,7 +1,87 @@
 {
-  "last_update": "28/04 20:40",
+  "last_update": "28/04 21:43",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777411787",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: IL Y A HUIT JOURS, DONALD TRUMP AFFIRMAIT QUE L'IRAN \"DEVAIT SIGNER UN ACCORD\" SINON \"IL SE PASSERA DE TRÈS MAUVAISES CHOSES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:29",
+      "date": "28/04",
+      "timestamp": 1777411787
+    },
+    {
+      "id": "BFMTV_1777411493",
+      "source": "BFMTV",
+      "text": "REPRISE DES FRAPPES SUR L’IRAN: “JE N’EN VOIS PAS FONDAMENTALEMENT L’INTÉRÊT AUJOURD’HUI”, AVOUE LOUIS GAUTIER, ANCIEN SECRÉTAIRE GÉNÉRAL DE LA DÉFENSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:24",
+      "date": "28/04",
+      "timestamp": 1777411493
+    },
+    {
+      "id": "BFMTV_1777411181",
+      "source": "BFMTV",
+      "text": "\"LE GOUVERNEMENT AURA DES PREUVES\": L'EX-DIRECTEUR DU FBI JAMES COMEY INCULPÉ DE \"MENACE CONTRE LA VIE\" DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:19",
+      "date": "28/04",
+      "timestamp": 1777411181
+    },
+    {
+      "id": "BFMTV_1777410163",
+      "source": "BFMTV",
+      "text": "“LES IRANIENS ONT BEAUCOUP PLUS DE CARTES EN MAIN QUE DONALD TRUMP”, ESTIME LE GÉNÉRAL JEAN-PAUL PALOMÉROS",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:02",
+      "date": "28/04",
+      "timestamp": 1777410163
+    },
+    {
+      "id": "BFMTV_1777409940",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: \"LES CHOSES NE BOUGENT PAS PARCE QU'ELLES SONT ÉQUILIBRÉES\", ANALYSE JACQUES AUDIBERT, ANCIEN CONSEILLER DIPLOMATIQUE DE FRANÇOIS HOLLANDE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:59",
+      "date": "28/04",
+      "timestamp": 1777409940
+    },
+    {
+      "id": "BFMTV_1777409489",
+      "source": "BFMTV",
+      "text": "L'EX-DIRECTEUR DU FBI JAMES COMEY INCULPÉ DE \"MENACE CONTRE LA VIE\" DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:51",
+      "date": "28/04",
+      "timestamp": 1777409489
+    },
+    {
+      "id": "BFMTV_1777409175",
+      "source": "BFMTV",
+      "text": "IRAN: LE PAYS CHERCHE À RÉDUIRE SA CONSOMMATION D'ÉLECTRICITÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:46",
+      "date": "28/04",
+      "timestamp": 1777409175
+    },
+    {
+      "id": "BFMTV_1777409141",
+      "source": "BFMTV",
+      "text": "POUR OLIVIER WEBER, ÉCRIVAIN ET GRAND REPORTER, L’IRAN “EST PRÉPARÉ À L’ÉCONOMIE DE GUERRE DEPUIS LES ANNÉES 1980”",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:45",
+      "date": "28/04",
+      "timestamp": 1777409141
+    },
     {
       "id": "BFMTV_1777408697",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "05:43",
       "date": "28/04",
       "timestamp": 1777354990
-    },
-    {
-      "id": "BFMTV_1777353875",
-      "source": "BFMTV",
-      "text": "AFFAIRE WEINSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:24",
-      "date": "28/04",
-      "timestamp": 1777353875
-    },
-    {
-      "id": "BFMTV_1777353875",
-      "source": "BFMTV",
-      "text": "HARVEY WEINSTEIN: LE TÉMOIGNAGE CLÉ D'UNE ANCIENNE ACTRICE AU NOUVEAU PROCÈS POUR VIOL DE L'EX-PRODUCTEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:24",
-      "date": "28/04",
-      "timestamp": 1777353875
-    },
-    {
-      "id": "BFMTV_1777353767",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QUATRE MORTS AU LIBAN LUNDI, BENJAMIN NETANYAHU JUSTIFIE LA POURSUITE DES FRAPPES ISRAÉLIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:22",
-      "date": "28/04",
-      "timestamp": 1777353767
-    },
-    {
-      "id": "BFMTV_1777353538",
-      "source": "BFMTV",
-      "text": "BENYAMIN NETANYAHU DÉCLARE QUE \"LES ROQUETTES ET DRONES DU HEZBOLLAH\" IMPOSE LA POURSUITE DE L'ACTION MILITAIRE AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:18",
-      "date": "28/04",
-      "timestamp": 1777353538
-    },
-    {
-      "id": "BFMTV_1777352493",
-      "source": "BFMTV",
-      "text": "LE POINT SUR LA GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES FONT QUATRE MORTS DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:01",
-      "date": "28/04",
-      "timestamp": 1777352493
-    },
-    {
-      "id": "BFMTV_1777352157",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉCOLES ISRAÉLIENNES RESTENT FERMÉES MALGRÉ LA \"TRÊVE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:55",
-      "date": "28/04",
-      "timestamp": 1777352157
-    },
-    {
-      "id": "BFMTV_1777351992",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE SUPERYACHT D'UN OLIGARQUE RUSSE A FRANCHI LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:53",
-      "date": "28/04",
-      "timestamp": 1777351992
-    },
-    {
-      "id": "BFMTV_1777351954",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TSHAL PUBLIE DES VIDÉOS OÙ DES VILLAGES DANS LE SUD DU LIBAN SONT DYNAMITÉS POUR CRÉER DES \"NO-MANS LAND\" ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:52",
-      "date": "28/04",
-      "timestamp": 1777351954
     }
   ],
   "france": {
