@@ -1,7 +1,157 @@
 {
-  "last_update": "28/04 19:06",
+  "last_update": "28/04 20:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777408697",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: DES DIZAINES DE PÉTROLIERS ET CARGOS ATTENDENT AU LARGE DE DUBAÏ",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:38",
+      "date": "28/04",
+      "timestamp": 1777408697
+    },
+    {
+      "id": "BFMTV_1777408438",
+      "source": "BFMTV",
+      "text": "“DEUX ROIS”: LE TWEET DE LA MAISON BLANCHE SUR LA RENCONTRE ENTRE DONALD TRUMP ET CHARLES III",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:33",
+      "date": "28/04",
+      "timestamp": 1777408438
+    },
+    {
+      "id": "BFMTV_1777408355",
+      "source": "BFMTV",
+      "text": "TWEET DE DONALD TRUMP CONCERNANT L'IRAN: \"POLITIQUEMENT NON, IL N'Y A PAS D'EFFONDREMENT\" DANS LE PAYS, RAPPELLE ELSA VIDAL, ÉDITORIALISTE POLITIQUE INTERNATIONAL ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:32",
+      "date": "28/04",
+      "timestamp": 1777408355
+    },
+    {
+      "id": "BFMTV_1777408005",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP S'EN PREND AU CHANCELIER ALLEMAND QUI \"NE SAIT PAS DE QUOI IL PARLE\" SUR L'IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:26",
+      "date": "28/04",
+      "timestamp": 1777408005
+    },
+    {
+      "id": "BFMTV_1777407899",
+      "source": "BFMTV",
+      "text": "\"NOUS AVONS VRAIMENT TOUT EN COMMUN, SAUF, BIEN SÛR, LA LANGUE\": LE ROI CHARLES LANCE UNE BLAGUE AU CONGRÈS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:24",
+      "date": "28/04",
+      "timestamp": 1777407899
+    },
+    {
+      "id": "BFMTV_1777407693",
+      "source": "BFMTV",
+      "text": "\"CETTE MÊME DÉTERMINATION SANS FAILLE EST NÉCESSAIRE\": L'APPEL DU ROI CHARLES III AU CONGRÈS AMÉRICAIN POUR DÉFENDRE L'UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:21",
+      "date": "28/04",
+      "timestamp": 1777407693
+    },
+    {
+      "id": "BFMTV_1777407631",
+      "source": "BFMTV",
+      "text": "AFFAIRE MANDELSON: LE PREMIER MINISTRE KEIR STARMER ÉCHAPPE À UNE ENQUÊTE PARLEMENTAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:20",
+      "date": "28/04",
+      "timestamp": 1777407631
+    },
+    {
+      "id": "BFMTV_1777407551",
+      "source": "BFMTV",
+      "text": "\"NOTRE PARTENARIAT EST INDISPENSABLE\": CHARLES III ÉVOQUE AU CONGRÈS AMÉRICAIN L'ALLIANCE AMÉRICANO-BRITANNIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:19",
+      "date": "28/04",
+      "timestamp": 1777407551
+    },
+    {
+      "id": "BFMTV_1777406990",
+      "source": "BFMTV",
+      "text": "IRAN: LE DÉTAIL DES POSITIONS DES TROIS PORTE-AVIONS AMÉRICAINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:09",
+      "date": "28/04",
+      "timestamp": 1777406990
+    },
+    {
+      "id": "BFMTV_1777406885",
+      "source": "BFMTV",
+      "text": "\"JE FAIS ACTUELLEMENT AVEC L'IRAN CE QUE D'AUTRES NATIONS AURAIENT DÛ FAIRE\": DONALD TRUMP RÉPOND AU CHANCELIER ALLEMAND FRIEDRICH MERZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:08",
+      "date": "28/04",
+      "timestamp": 1777406885
+    },
+    {
+      "id": "BFMTV_1777406609",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT, GUERRE, IRAN ... L'ARMÉE AMÉRICAINE COMMUNIQUE SUR LE LANCEMENT D'UN NOUVEAU SOUS-MARIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:03",
+      "date": "28/04",
+      "timestamp": 1777406609
+    },
+    {
+      "id": "BFMTV_1777406609",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DANS LES COULISSES DES RÉUNIONS À LA MAISON BLANCHE AVEC DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:03",
+      "date": "28/04",
+      "timestamp": 1777406609
+    },
+    {
+      "id": "BFMTV_1777406322",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: QUI INFLUENCE VRAIMENT DONALD TRUMP ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:58",
+      "date": "28/04",
+      "timestamp": 1777406322
+    },
+    {
+      "id": "BFMTV_1777406278",
+      "source": "BFMTV",
+      "text": "\"DE TELS ACTES DE VIOLENCE NE RÉUSSIRONT JAMAIS\": LE ROI CHARLES III DÉNONCE DEVANT LE CONGRÈS AMÉRICAIN LA VIOLENCE POLITIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:57",
+      "date": "28/04",
+      "timestamp": 1777406278
+    },
+    {
+      "id": "BFMTV_1777406150",
+      "source": "BFMTV",
+      "text": "IRAN: ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE, ANALYSE LES PROPOS DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:55",
+      "date": "28/04",
+      "timestamp": 1777406150
+    },
     {
       "id": "BFMTV_1777402479",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "04:52",
       "date": "28/04",
       "timestamp": 1777351954
-    },
-    {
-      "id": "BFMTV_1777351544",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES AU LIBAN FONT QUATRE MORTS DONT UNE FEMME, ET 51 BLESSÉS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:45",
-      "date": "28/04",
-      "timestamp": 1777351544
-    },
-    {
-      "id": "BFMTV_1777328615",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES FONT QUATRE MORTS DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:23",
-      "date": "27/04",
-      "timestamp": 1777328615
-    },
-    {
-      "id": "BFMTV_1777327517",
-      "source": "BFMTV",
-      "text": "TIRS AU GALA DE LA PRESSE: LE SUSPECT INCULPÉ POUR TENTATIVE D'ASSASSINAT SUR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:05",
-      "date": "27/04",
-      "timestamp": 1777327517
-    },
-    {
-      "id": "BFMTV_1777327394",
-      "source": "BFMTV",
-      "text": "TIRS PRÈS DE DONALD TRUMP: LA PROCUREURE FÉDÉRALE DE WASHINGTON ESTIME QUE LA SITUATION \"AURAIT PU ÊTRE BIEN PIRE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:03",
-      "date": "27/04",
-      "timestamp": 1777327394
-    },
-    {
-      "id": "BFMTV_1777326478",
-      "source": "BFMTV",
-      "text": "LE ROI CHARLES III ACCUEILLI PAR DONALD TRUMP À LA MAISON BLANCHE POUR APAISER LES RELATIONS ENTRE LONDRES ET WASHINGTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:47",
-      "date": "27/04",
-      "timestamp": 1777326478
-    },
-    {
-      "id": "BFMTV_1777325066",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES FONT QUATRE MORTS DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:24",
-      "date": "27/04",
-      "timestamp": 1777325066
-    },
-    {
-      "id": "BFMTV_1777324935",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE ACCUSÉE D'ACCROÎTRE LES DIFFICULTÉS DES GAZAOUIS À ACCÉDER À L'EAU POTABLE EN TUANT UN INGÉNIEUR HYDRAULIQUE ET DEUX CHAUFFEURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:22",
-      "date": "27/04",
-      "timestamp": 1777324935
-    },
-    {
-      "id": "BFMTV_1777324642",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: LES ÉTATS-UNIS ET L'IRAN NE SERAIENT PAS AUSSI LOIN D'UN ACCORD, SELON CNN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:17",
-      "date": "27/04",
-      "timestamp": 1777324642
-    },
-    {
-      "id": "BFMTV_1777324213",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: \"C'EST SE MOQUER DE NOUS, POUTINE QUI PARLE DE LA PAIX\", LANCE SERGUEÏ JIMOV, ANCIEN OFFICIER DU RENSEIGNEMENT DU KGB",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:10",
-      "date": "27/04",
-      "timestamp": 1777324213
-    },
-    {
-      "id": "BFMTV_1777324083",
-      "source": "BFMTV",
-      "text": "VISITE DE CHARLES III AUX ÉTATS-UNIS: UN DISPOSITIF DE SÉCURITÉ TRÈS IMPORTANT A ÉTÉ MIS EN PLACE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:08",
-      "date": "27/04",
-      "timestamp": 1777324083
-    },
-    {
-      "id": "BFMTV_1777323213",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES ONT FAIT QUATRE MORTS DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:53",
-      "date": "27/04",
-      "timestamp": 1777323213
-    },
-    {
-      "id": "BFMTV_1777321832",
-      "source": "BFMTV",
-      "text": "LE ROI CHARLES III ACCUEILLI PAR DONALD TRUMP À LA MAISON BLANCHE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:30",
-      "date": "27/04",
-      "timestamp": 1777321832
-    },
-    {
-      "id": "BFMTV_1777321116",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: LES ÉTATS-UNIS ÉTUDIERAIENT \"UNE NOUVELLE PROPOSITION IRANIENNE\" CONCERNANT LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:18",
-      "date": "27/04",
-      "timestamp": 1777321116
-    },
-    {
-      "id": "BFMTV_1777320518",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: LA PORTE-PAROLE DE LA MAISON BLANCHE CONFIRME LA TENUE D'UNE RÉUNION DE CRISE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:08",
-      "date": "27/04",
-      "timestamp": 1777320518
-    },
-    {
-      "id": "BFMTV_1777320491",
-      "source": "BFMTV",
-      "text": "TIRS PRÈS DU PRÉSIDENT AMÉRICAIN: LE SUSPECT RISQUE LA PRISON À PERPÉTUITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:08",
-      "date": "27/04",
-      "timestamp": 1777320491
     }
   ],
   "france": {
