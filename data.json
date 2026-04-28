@@ -1,7 +1,47 @@
 {
-  "last_update": "28/04 21:43",
+  "last_update": "28/04 22:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777414995",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP S'EN PREND AU CHANCELIER ALLEMAND QUI \"NE SAIT PAS DE QUOI IL PARLE\" SUR L'IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "22:23",
+      "date": "28/04",
+      "timestamp": 1777414995
+    },
+    {
+      "id": "BFMTV_1777413673",
+      "source": "BFMTV",
+      "text": "L’ARMÉE ISRAÉLIENNE AFFIRME AVOIR DÉCOUVERT DES TUNNELS DU HEZBOLLAH DANS LE SUD-LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:01",
+      "date": "28/04",
+      "timestamp": 1777413673
+    },
+    {
+      "id": "BFMTV_1777413219",
+      "source": "BFMTV",
+      "text": "IRAN: LES IMAGES DE SIX HOMMES CONDAMNÉS À MORT QUI DÉFIENT LE RÉGIME JUSQU’AU BOUT",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:53",
+      "date": "28/04",
+      "timestamp": 1777413219
+    },
+    {
+      "id": "BFMTV_1777412937",
+      "source": "BFMTV",
+      "text": "SERGUEÏ JIMOV, ANCIEN OFFICIER DU RENSEIGNEMENT DU KGB, ANALYSE LES RÉCENTES ACTIVITÉS DU MOSSAD",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:48",
+      "date": "28/04",
+      "timestamp": 1777412937
+    },
     {
       "id": "BFMTV_1777411787",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "06:43",
       "date": "28/04",
       "timestamp": 1777358600
-    },
-    {
-      "id": "BFMTV_1777356792",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES REFUGIÉS DU SUD DU LIBAN CAMPENT À BEYROUTH APRÈS DES FRAPPES ISRAÉLIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:13",
-      "date": "28/04",
-      "timestamp": 1777356792
-    },
-    {
-      "id": "BFMTV_1777356717",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: WASHINGTON DIT EXAMINER LES PROPOSITIONS IRANIENNES POUR DÉBLOQUER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:11",
-      "date": "28/04",
-      "timestamp": 1777356717
-    },
-    {
-      "id": "BFMTV_1777355164",
-      "source": "BFMTV",
-      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP: LE TIREUR A ÉTÉ INCULPÉ POUR \"TENTATIVE D'ASSASSINAT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:46",
-      "date": "28/04",
-      "timestamp": 1777355164
-    },
-    {
-      "id": "BFMTV_1777354990",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES REFUGIÉS DU SUD DU LIBAN CAMPENT À BEYROUTH APRÈS DES FRAPPES ISRAÉLIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:43",
-      "date": "28/04",
-      "timestamp": 1777354990
     }
   ],
   "france": {
