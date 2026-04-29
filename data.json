@@ -1,7 +1,57 @@
 {
-  "last_update": "29/04 15:27",
+  "last_update": "29/04 17:05",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1777480216",
+      "source": "OPEX360",
+      "text": "L’US MARINE CORPS VEUT SE DOTER DE DRONES POUR RAVITAILLER SES UNITÉS DANS DES ENVIRONNEMENTS CONTESTÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:30",
+      "date": "29/04",
+      "timestamp": 1777480216
+    },
+    {
+      "id": "BFMTV_1777478767",
+      "source": "BFMTV",
+      "text": "DEUX HOMMES JUIFS BLESSÉS DANS UNE ATTAQUE AU COUTEAU À LONDRES  ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:06",
+      "date": "29/04",
+      "timestamp": 1777478767
+    },
+    {
+      "id": "BFMTV_1777478119",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UNE CONDUCTRICE DE BUS S'ÉVANOUIT AU VOLANT, CINQ ÉLÈVES LUI PORTENT SECOURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:55",
+      "date": "29/04",
+      "timestamp": 1777478119
+    },
+    {
+      "id": "BFMTV_1777476744",
+      "source": "BFMTV",
+      "text": "\"ACTE TERRORISTE\", VICTIMES, SUSPECT… CE QUE L'ON SAIT DE L'ATTAQUE AU COUTEAU DANS UN QUARTIER JUIF DE LONDRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:32",
+      "date": "29/04",
+      "timestamp": 1777476744
+    },
+    {
+      "id": "BFMTV_1777476556",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DONALD TRUMP A ÉVOQUÉ UN BLOCUS DE \"PLUSIEURS MOIS\" DU DÉTROIT D'ORMUZ AVEC DES PATRONS DU SECTEUR PÉTROLIER",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:29",
+      "date": "29/04",
+      "timestamp": 1777476556
+    },
     {
       "id": "BFMTV_1777475847",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "18:54",
       "date": "28/04",
       "timestamp": 1777402479
-    },
-    {
-      "id": "BFMTV_1777402462",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS DEVONS HUMILIER L'AMÉRIQUE\" DÉCLARE MAHMOUD NABAVIAN, MEMBRE DE L'ASSEMBLÉE CONSULTATIVE ISLAMIQUE D'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:54",
-      "date": "28/04",
-      "timestamp": 1777402462
-    },
-    {
-      "id": "BFMTV_1777401721",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"L’IRAN, HÉROS DU SUD GLOBAL, EST EN TRAIN DE DEVENIR CELUI QUI CAUSE DES PÉNURIES\", OBSERVE GILLES KEPEL, SPÉCIALISTE DU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:42",
-      "date": "28/04",
-      "timestamp": 1777401721
-    },
-    {
-      "id": "BFMTV_1777401675",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE AFFIRME AVOIR TROUVÉ UN TUNNEL LONG DE DEUX KILOMÈTRES DU HEZBOLLAH DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:41",
-      "date": "28/04",
-      "timestamp": 1777401675
-    },
-    {
-      "id": "BFMTV_1777401228",
-      "source": "BFMTV",
-      "text": "GRÈCE: UN HOMME DE 89 ANS ARRÊTÉ APRÈS DEUX FUSILLADES QUI ONT FAIT QUATRE BLESSÉS À ATHÈNES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:33",
-      "date": "28/04",
-      "timestamp": 1777401228
-    },
-    {
-      "id": "BFMTV_1777401165",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"L’IRAN VIENT DE NOUS INFORMER QU’IL EST DANS UN ÉTAT D’EFFONDREMENT\", ASSURE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:32",
-      "date": "28/04",
-      "timestamp": 1777401165
     }
   ],
   "france": {
