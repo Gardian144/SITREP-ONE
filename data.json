@@ -1,7 +1,57 @@
 {
-  "last_update": "29/04 21:18",
+  "last_update": "29/04 22:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777501063",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: L'ARMÉE AMÉRICAINE INDIQUE QUE 42 NAVIRES ONT FAIT DEMI-TOUR DEPUIS LE DÉBUT DU BLOCUS DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:17",
+      "date": "29/04",
+      "timestamp": 1777501063
+    },
+    {
+      "id": "BFMTV_1777500029",
+      "source": "BFMTV",
+      "text": "INFLUENCES POLITIQUES: \"JE CRAINS QUE CES ATTAQUES NE PORTENT ATTEINTE À L'INSTITUTION\", SOULIGNE LE PRÉSIDENT DE LA FED, JEROME POWELL",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:00",
+      "date": "29/04",
+      "timestamp": 1777500029
+    },
+    {
+      "id": "BFMTV_1777499999",
+      "source": "BFMTV",
+      "text": "\"IL NOUS AURAIT PROBABLEMENT AIDÉS AVEC L'IRAN\", DÉCLARE DONALD TRUMP À PROPOS DU ROI CHARLES III",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:59",
+      "date": "29/04",
+      "timestamp": 1777499999
+    },
+    {
+      "id": "BFMTV_1777499966",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE QUE LES ÉTATS-UNIS SONT PRÊTS À RÉDUIRE LE NOMBRE DE TROUPES AMÉRICAINES EN ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:59",
+      "date": "29/04",
+      "timestamp": 1777499966
+    },
+    {
+      "id": "BFMTV_1777499533",
+      "source": "BFMTV",
+      "text": "IRAN: LE BUDGET DE LA GUERRE POUR LES ÉTATS-UNIS SERAIT DE 1.500 MILLIARDS DE DOLLARS, SELON PETE HEGSETH, SECRÉTAIRE À LA DÉFENSE AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:52",
+      "date": "29/04",
+      "timestamp": 1777499533
+    },
     {
       "id": "BFMTV_1777497308",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "22:01",
       "date": "28/04",
       "timestamp": 1777413673
-    },
-    {
-      "id": "BFMTV_1777413219",
-      "source": "BFMTV",
-      "text": "IRAN: LES IMAGES DE SIX HOMMES CONDAMNÉS À MORT QUI DÉFIENT LE RÉGIME JUSQU’AU BOUT",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:53",
-      "date": "28/04",
-      "timestamp": 1777413219
-    },
-    {
-      "id": "BFMTV_1777412937",
-      "source": "BFMTV",
-      "text": "SERGUEÏ JIMOV, ANCIEN OFFICIER DU RENSEIGNEMENT DU KGB, ANALYSE LES RÉCENTES ACTIVITÉS DU MOSSAD",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:48",
-      "date": "28/04",
-      "timestamp": 1777412937
-    },
-    {
-      "id": "BFMTV_1777411787",
-      "source": "BFMTV",
-      "text": "IRAN/ÉTATS-UNIS: IL Y A HUIT JOURS, DONALD TRUMP AFFIRMAIT QUE L'IRAN \"DEVAIT SIGNER UN ACCORD\" SINON \"IL SE PASSERA DE TRÈS MAUVAISES CHOSES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:29",
-      "date": "28/04",
-      "timestamp": 1777411787
-    },
-    {
-      "id": "BFMTV_1777411493",
-      "source": "BFMTV",
-      "text": "REPRISE DES FRAPPES SUR L’IRAN: “JE N’EN VOIS PAS FONDAMENTALEMENT L’INTÉRÊT AUJOURD’HUI”, AVOUE LOUIS GAUTIER, ANCIEN SECRÉTAIRE GÉNÉRAL DE LA DÉFENSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:24",
-      "date": "28/04",
-      "timestamp": 1777411493
-    },
-    {
-      "id": "BFMTV_1777411181",
-      "source": "BFMTV",
-      "text": "\"LE GOUVERNEMENT AURA DES PREUVES\": L'EX-DIRECTEUR DU FBI JAMES COMEY INCULPÉ DE \"MENACE CONTRE LA VIE\" DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:19",
-      "date": "28/04",
-      "timestamp": 1777411181
     }
   ],
   "france": {
