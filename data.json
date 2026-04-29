@@ -1,7 +1,147 @@
 {
-  "last_update": "29/04 18:47",
+  "last_update": "29/04 20:09",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777492744",
+      "source": "BFMTV",
+      "text": "IRAN: \"VLADIMIR POUTINE M'A DIT QU'IL AIMERAIT ÊTRE IMPLIQUÉ DANS L'ENRICHISSEMENT DE L'URANIUM, S'IL PEUT NOUS AIDER À L'OBTENIR\", ANNONCE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:59",
+      "date": "29/04",
+      "timestamp": 1777492744
+    },
+    {
+      "id": "BFMTV_1777492179",
+      "source": "BFMTV",
+      "text": "PASSEPORTS, BILLETS, MONUMENTS : DONALD TRUMP SOUHAITE METTRE SON NOM PARTOUT",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:49",
+      "date": "29/04",
+      "timestamp": 1777492179
+    },
+    {
+      "id": "BFMTV_1777491517",
+      "source": "BFMTV",
+      "text": "\"ON A UNE BONNE CHANCE\": DONALD TRUMP CROIT EN UN RETOUR DES AMÉRICAINS SUR LA LUNE D'ICI À LA FIN DE SON MANDAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:38",
+      "date": "29/04",
+      "timestamp": 1777491517
+    },
+    {
+      "id": "BFMTV_1777491480",
+      "source": "BFMTV",
+      "text": "\"JE PRÉVOIS DE FAIRE PROFIL BAS\": LE PRÉSIDENT DE LA FED, JEROME POWELL, ANNONCE QU'IL RESTERA COMME GOUVERNEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:38",
+      "date": "29/04",
+      "timestamp": 1777491480
+    },
+    {
+      "id": "BFMTV_1777491407",
+      "source": "BFMTV",
+      "text": "LE ROI CHARLES III ET LA REINE CAMILLA SE RECUEILLENT AU MÉMORIAL DU 11-SEPTEMBRE À NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:36",
+      "date": "29/04",
+      "timestamp": 1777491407
+    },
+    {
+      "id": "BFMTV_1777491350",
+      "source": "BFMTV",
+      "text": "\"J'AI SUGGÉRÉ UN PETIT CESSEZ-LE-FEU\": DONALD TRUMP DIT AVOIR EU UN \"TRÈS BON\" ÉCHANGE AVEC VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:35",
+      "date": "29/04",
+      "timestamp": 1777491350
+    },
+    {
+      "id": "BFMTV_1777491230",
+      "source": "BFMTV",
+      "text": "\"C'EST NOTRE ESTIMATION\": LE PENTAGONE ÉVALUE LE COÛT DE LA GUERRE EN IRAN À 25 MILLIARDS DE DOLLARS, À CE JOUR",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:33",
+      "date": "29/04",
+      "timestamp": 1777491230
+    },
+    {
+      "id": "BFMTV_1777491186",
+      "source": "BFMTV",
+      "text": "LE FUTUR DIRIGEANT HONGROIS, PETER MAGYAR, RENCONTRE URSULA VON DER LEYEN À BRUXELLES",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:33",
+      "date": "29/04",
+      "timestamp": 1777491186
+    },
+    {
+      "id": "BFMTV_1777491126",
+      "source": "BFMTV",
+      "text": "\"LA POLICE ANTITERRORISTE DIRIGE MAINTENANT L'ENQUÊTE\": DEUX HOMMES JUIFS POIGNARDÉS À LONDRES, LA POLICE PARLE D'ATTAQUE TERRORISTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:32",
+      "date": "29/04",
+      "timestamp": 1777491126
+    },
+    {
+      "id": "BFMTV_1777490995",
+      "source": "BFMTV",
+      "text": "SELON DONALD TRUMP, LES GUERRES EN IRAN ET EN UKRAINE POURRAIENT SE TERMINER EN MÊME TEMPS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:29",
+      "date": "29/04",
+      "timestamp": 1777490995
+    },
+    {
+      "id": "BFMTV_1777489555",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE CORPS DES GARDIENS DE LA RÉVOLUTION MET EN GARDE LES ÉTATS-UNIS D'APRÈS LA TÉLÉVISION D'ÉTAT IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:05",
+      "date": "29/04",
+      "timestamp": 1777489555
+    },
+    {
+      "id": "BFMTV_1777488695",
+      "source": "BFMTV",
+      "text": "ISRAËL: UN HOMME ARRÊTÉ POUR AVOIR PORTÉ UNE KIPPA AVEC LE DRAPEAU PALESTINIEN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:51",
+      "date": "29/04",
+      "timestamp": 1777488695
+    },
+    {
+      "id": "BFMTV_1777488604",
+      "source": "BFMTV",
+      "text": "\"C'EST DE L'INCOMPÉTENCE\": ÉCHANGE TENDU ENTRE UN ÉLU DÉMOCRATE ET PETE HEGSETH, À PROPOS DE LA GUERRE MENÉE CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:50",
+      "date": "29/04",
+      "timestamp": 1777488604
+    },
+    {
+      "id": "BFMTV_1777488487",
+      "source": "BFMTV",
+      "text": "\"NOUS AVONS EU UN TRÈS BON ÉCHANGE\": VLADIMIR POUTINE ET DONALD TRUMP ONT DISCUTÉ DE L'UKRAINE ET DE L'IRAN AU TÉLÉPHONE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:48",
+      "date": "29/04",
+      "timestamp": 1777488487
+    },
     {
       "id": "BFMTV_1777488288",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "20:46",
       "date": "28/04",
       "timestamp": 1777409175
-    },
-    {
-      "id": "BFMTV_1777409141",
-      "source": "BFMTV",
-      "text": "POUR OLIVIER WEBER, ÉCRIVAIN ET GRAND REPORTER, L’IRAN “EST PRÉPARÉ À L’ÉCONOMIE DE GUERRE DEPUIS LES ANNÉES 1980”",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:45",
-      "date": "28/04",
-      "timestamp": 1777409141
-    },
-    {
-      "id": "BFMTV_1777408697",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: DES DIZAINES DE PÉTROLIERS ET CARGOS ATTENDENT AU LARGE DE DUBAÏ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:38",
-      "date": "28/04",
-      "timestamp": 1777408697
-    },
-    {
-      "id": "BFMTV_1777408438",
-      "source": "BFMTV",
-      "text": "“DEUX ROIS”: LE TWEET DE LA MAISON BLANCHE SUR LA RENCONTRE ENTRE DONALD TRUMP ET CHARLES III",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:33",
-      "date": "28/04",
-      "timestamp": 1777408438
-    },
-    {
-      "id": "BFMTV_1777408355",
-      "source": "BFMTV",
-      "text": "TWEET DE DONALD TRUMP CONCERNANT L'IRAN: \"POLITIQUEMENT NON, IL N'Y A PAS D'EFFONDREMENT\" DANS LE PAYS, RAPPELLE ELSA VIDAL, ÉDITORIALISTE POLITIQUE INTERNATIONAL ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:32",
-      "date": "28/04",
-      "timestamp": 1777408355
-    },
-    {
-      "id": "BFMTV_1777408005",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP S'EN PREND AU CHANCELIER ALLEMAND QUI \"NE SAIT PAS DE QUOI IL PARLE\" SUR L'IRAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "20:26",
-      "date": "28/04",
-      "timestamp": 1777408005
-    },
-    {
-      "id": "BFMTV_1777407899",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS VRAIMENT TOUT EN COMMUN, SAUF, BIEN SÛR, LA LANGUE\": LE ROI CHARLES LANCE UNE BLAGUE AU CONGRÈS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:24",
-      "date": "28/04",
-      "timestamp": 1777407899
-    },
-    {
-      "id": "BFMTV_1777407693",
-      "source": "BFMTV",
-      "text": "\"CETTE MÊME DÉTERMINATION SANS FAILLE EST NÉCESSAIRE\": L'APPEL DU ROI CHARLES III AU CONGRÈS AMÉRICAIN POUR DÉFENDRE L'UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:21",
-      "date": "28/04",
-      "timestamp": 1777407693
-    },
-    {
-      "id": "BFMTV_1777407631",
-      "source": "BFMTV",
-      "text": "AFFAIRE MANDELSON: LE PREMIER MINISTRE KEIR STARMER ÉCHAPPE À UNE ENQUÊTE PARLEMENTAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:20",
-      "date": "28/04",
-      "timestamp": 1777407631
-    },
-    {
-      "id": "BFMTV_1777407551",
-      "source": "BFMTV",
-      "text": "\"NOTRE PARTENARIAT EST INDISPENSABLE\": CHARLES III ÉVOQUE AU CONGRÈS AMÉRICAIN L'ALLIANCE AMÉRICANO-BRITANNIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:19",
-      "date": "28/04",
-      "timestamp": 1777407551
-    },
-    {
-      "id": "BFMTV_1777406990",
-      "source": "BFMTV",
-      "text": "IRAN: LE DÉTAIL DES POSITIONS DES TROIS PORTE-AVIONS AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:09",
-      "date": "28/04",
-      "timestamp": 1777406990
-    },
-    {
-      "id": "BFMTV_1777406885",
-      "source": "BFMTV",
-      "text": "\"JE FAIS ACTUELLEMENT AVEC L'IRAN CE QUE D'AUTRES NATIONS AURAIENT DÛ FAIRE\": DONALD TRUMP RÉPOND AU CHANCELIER ALLEMAND FRIEDRICH MERZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "20:08",
-      "date": "28/04",
-      "timestamp": 1777406885
-    },
-    {
-      "id": "BFMTV_1777406609",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT, GUERRE, IRAN ... L'ARMÉE AMÉRICAINE COMMUNIQUE SUR LE LANCEMENT D'UN NOUVEAU SOUS-MARIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:03",
-      "date": "28/04",
-      "timestamp": 1777406609
-    },
-    {
-      "id": "BFMTV_1777406609",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DANS LES COULISSES DES RÉUNIONS À LA MAISON BLANCHE AVEC DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:03",
-      "date": "28/04",
-      "timestamp": 1777406609
-    },
-    {
-      "id": "BFMTV_1777406322",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: QUI INFLUENCE VRAIMENT DONALD TRUMP ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:58",
-      "date": "28/04",
-      "timestamp": 1777406322
     }
   ],
   "france": {
