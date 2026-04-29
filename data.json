@@ -1,7 +1,67 @@
 {
-  "last_update": "29/04 09:33",
+  "last_update": "29/04 11:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777460822",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON APPELLE À RÉFLÉCHIR À DE \"NOUVELLES RÉPONSES\" SUR LES CARBURANTS DANS UN CONTEXTE \"HAUTEMENT INCERTAIN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:07",
+      "date": "29/04",
+      "timestamp": 1777460822
+    },
+    {
+      "id": "BFMTV_1777460089",
+      "source": "BFMTV",
+      "text": "L’IRAN EST-IL VRAIMENT DANS UN \"ÉTAT D’EFFONDREMENT\" COMME L'ASSURE DONALD TRUMP?",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:54",
+      "date": "29/04",
+      "timestamp": 1777460089
+    },
+    {
+      "id": "OPEX360_1777459455",
+      "source": "OPEX360",
+      "text": "SERVICE NATIONAL VOLONTAIRE : L’ARMÉE DE TERRE FAIT LE PLEIN DE CANDIDATS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:44",
+      "date": "29/04",
+      "timestamp": 1777459455
+    },
+    {
+      "id": "BFMTV_1777458911",
+      "source": "BFMTV",
+      "text": "UN PASSEPORT AMÉRICAIN AVEC L'IMAGE DE DONALD TRUMP DÉVOILÉ POUR LE 250E ANNIVERSAIRE DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:35",
+      "date": "29/04",
+      "timestamp": 1777458911
+    },
+    {
+      "id": "BFMTV_1777456828",
+      "source": "BFMTV",
+      "text": "LIBAN: LA VILLE DE NABATIEH, EN DEHORS DE LA ZONE TAMPON, PEINE À RÉSISTER AUX FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:00",
+      "date": "29/04",
+      "timestamp": 1777456828
+    },
+    {
+      "id": "BFMTV_1777455740",
+      "source": "BFMTV",
+      "text": "\"FLAMBÉE DE L'INFLATION ET DES TAUX D'INTÉRÊTS\": URSULA VON DER LEYEN REVIENT SUR L'IMPACT DES SANCTIONS DE L'UE CONTRE LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:42",
+      "date": "29/04",
+      "timestamp": 1777455740
+    },
     {
       "id": "BFMTV_1777454980",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "15:12",
       "date": "28/04",
       "timestamp": 1777389155
-    },
-    {
-      "id": "BFMTV_1777389017",
-      "source": "BFMTV",
-      "text": "IRAN: LE PORTE-AVIONS AMÉRICAIN LE DWIGHT D. EISENHOWER EST EN ROUTE VERS LA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:10",
-      "date": "28/04",
-      "timestamp": 1777389017
-    },
-    {
-      "id": "BFMTV_1777388623",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON DÉCORÉ DE LA CROIX DES SEPT BRAS DE LA PRINCIPAUTÉ D'ANDORRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:03",
-      "date": "28/04",
-      "timestamp": 1777388623
-    },
-    {
-      "id": "BFMTV_1777388255",
-      "source": "BFMTV",
-      "text": "IRAN, ORMUZ: POUR LE CHANCELIER ALLEMAND, \"LES AMÉRICAINS N'ONT CLAIREMENT AUCUNE STRATÉGIE\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:57",
-      "date": "28/04",
-      "timestamp": 1777388255
-    },
-    {
-      "id": "BFMTV_1777388132",
-      "source": "BFMTV",
-      "text": "TIRS CONTRE DONALD TRUMP: QUI SONT LES \"WIDE AWAKES\", CE MOUVEMENT DONT FAIT PARTIE L'AUTEUR PRÉSUMÉ DES FAITS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:55",
-      "date": "28/04",
-      "timestamp": 1777388132
-    },
-    {
-      "id": "OPEX360_1777386913",
-      "source": "OPEX360",
-      "text": "MALGRÉ DES DOUTES, LE MINISTÈRE BRITANNIQUE DE LA DÉFENSE RELANCE LES LIVRAISONS DE BLINDÉS AJAX À LA BRITISH ARMY",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:35",
-      "date": "28/04",
-      "timestamp": 1777386913
-    },
-    {
-      "id": "BFMTV_1777386869",
-      "source": "BFMTV",
-      "text": "SUR SON RÉSEAU SOCIAL, DONALD TRUMP ASSURE \"QUE L'IRAN EST DANS UN ÉTAT D'EFFONDREMENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:34",
-      "date": "28/04",
-      "timestamp": 1777386869
     }
   ],
   "france": {
