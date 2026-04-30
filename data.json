@@ -1,7 +1,127 @@
 {
-  "last_update": "30/04 15:22",
+  "last_update": "30/04 16:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777567728",
+      "source": "BFMTV",
+      "text": " GUERRE EN UKRAINE: KIM JONG-UN QUALIFIE DE \"HÉROS\" LES SOLDATS QUI SE SUICIDENT POUR ÉVITER D'ÊTRE CAPTURÉS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:48",
+      "date": "30/04",
+      "timestamp": 1777567728
+    },
+    {
+      "id": "BFMTV_1777566991",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE MINISTRE DE LA DÉFENSE ISRAÉLIEN AFFIRME QU'ISRAËL POURRAIT \"DEVOIR AGIR À NOUVEAU\" CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:36",
+      "date": "30/04",
+      "timestamp": 1777566991
+    },
+    {
+      "id": "BFMTV_1777566953",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ BLOQUÉ: QUE DIT VRAIMENT LE DROIT INTERNATIONAL FACE À LA CRISE ENTRE L'IRAN ET LES ÉTATS-UNIS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:35",
+      "date": "30/04",
+      "timestamp": 1777566953
+    },
+    {
+      "id": "BFMTV_1777566953",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SÉBASTIEN LECORNU JUGE QUE LE MAINTIEN DU PLAFONNEMENT DES PRIX À LA POMPE PAR TOTALENERGIES \"VA DANS LE BON SENS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:35",
+      "date": "30/04",
+      "timestamp": 1777566953
+    },
+    {
+      "id": "OPEX360_1777566914",
+      "source": "OPEX360",
+      "text": "LE PARLEMENT ROUMAINE APPROUVE L’ACHAT DE 12 HÉLICOPTÈRES H225M CARACAL AUPRÈS DE LA FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:35",
+      "date": "30/04",
+      "timestamp": 1777566914
+    },
+    {
+      "id": "BFMTV_1777565822",
+      "source": "BFMTV",
+      "text": " EMMANUEL MACRON SOUHAITE QUE LA FRANCE SOIT \"UNE PUISSANCE REDOUTÉE PAR SES ENNEMIS\" ",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:17",
+      "date": "30/04",
+      "timestamp": 1777565822
+    },
+    {
+      "id": "BFMTV_1777564939",
+      "source": "BFMTV",
+      "text": "ATTAQUE ANTISÉMITE À LONDRES: LES IMAGES DE LA CAMÉRA DU POLICIER QUI A NEUTRALISÉ LE SUSPECT",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:02",
+      "date": "30/04",
+      "timestamp": 1777564939
+    },
+    {
+      "id": "BFMTV_1777564576",
+      "source": "BFMTV",
+      "text": "ATTAQUES ANTISÉMITES: \"LES GENS ONT PEUR D'ALLER À LA SYNAGOGUE ET PRATIQUER LEUR RELIGION\", DÉPLORE KEIR STARMER",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:56",
+      "date": "30/04",
+      "timestamp": 1777564576
+    },
+    {
+      "id": "BFMTV_1777564555",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON REND HOMMAGE AUX SOLDATS FRANÇAIS MORTS EN IRAK ET AU LIBAN ",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:55",
+      "date": "30/04",
+      "timestamp": 1777564555
+    },
+    {
+      "id": "BFMTV_1777564292",
+      "source": "BFMTV",
+      "text": "KEIR STARMER ACCUSE L'IRAN DE \"VOULOIR NUIRE AUX JUIFS BRITANNIQUES\" AU LENDEMAIN DE L'ATTAQUE AU COUTEAU À LONDRES",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:51",
+      "date": "30/04",
+      "timestamp": 1777564292
+    },
+    {
+      "id": "BFMTV_1777563923",
+      "source": "BFMTV",
+      "text": "LA BELGIQUE CHOISIT ROMÉO ELVIS POUR SON HYMNE DU MONDIAL 2026 ET CRÉÉ LA POLÉMIQUE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:45",
+      "date": "30/04",
+      "timestamp": 1777563923
+    },
+    {
+      "id": "BFMTV_1777562486",
+      "source": "BFMTV",
+      "text": "EXERCICE ORION: EMMANUEL MACRON VEUT \"BÂTIR UNE FRANCE DE LA DÉFENSE CRÉDIBLE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:21",
+      "date": "30/04",
+      "timestamp": 1777562486
+    },
     {
       "id": "BFMTV_1777561626",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "18:44",
       "date": "29/04",
       "timestamp": 1777488288
-    },
-    {
-      "id": "BFMTV_1777487328",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: LE PENTAGONE ÉVALUE LE COÛT DE LA GUERRE EN IRAN À 25 MILLIARDS DE DOLLARS JUSQU'À PRÉSENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:28",
-      "date": "29/04",
-      "timestamp": 1777487328
-    },
-    {
-      "id": "OPEX360_1777483919",
-      "source": "OPEX360",
-      "text": "L’AMÉRICAIN RAYTHEON ENVISAGERAIT DE PRODUIRE DES MISSILES AIR-AIR AIM-120 AMRAAM EN BELGIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:31",
-      "date": "29/04",
-      "timestamp": 1777483919
-    },
-    {
-      "id": "OPEX360_1777480216",
-      "source": "OPEX360",
-      "text": "L’US MARINE CORPS VEUT SE DOTER DE DRONES POUR RAVITAILLER SES UNITÉS DANS DES ENVIRONNEMENTS CONTESTÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:30",
-      "date": "29/04",
-      "timestamp": 1777480216
-    },
-    {
-      "id": "BFMTV_1777478767",
-      "source": "BFMTV",
-      "text": "DEUX HOMMES JUIFS BLESSÉS DANS UNE ATTAQUE AU COUTEAU À LONDRES  ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:06",
-      "date": "29/04",
-      "timestamp": 1777478767
-    },
-    {
-      "id": "BFMTV_1777478119",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UNE CONDUCTRICE DE BUS S'ÉVANOUIT AU VOLANT, CINQ ÉLÈVES LUI PORTENT SECOURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:55",
-      "date": "29/04",
-      "timestamp": 1777478119
-    },
-    {
-      "id": "BFMTV_1777476744",
-      "source": "BFMTV",
-      "text": "\"ACTE TERRORISTE\", VICTIMES, SUSPECT… CE QUE L'ON SAIT DE L'ATTAQUE AU COUTEAU DANS UN QUARTIER JUIF DE LONDRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:32",
-      "date": "29/04",
-      "timestamp": 1777476744
-    },
-    {
-      "id": "BFMTV_1777476556",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DONALD TRUMP A ÉVOQUÉ UN BLOCUS DE \"PLUSIEURS MOIS\" DU DÉTROIT D'ORMUZ AVEC DES PATRONS DU SECTEUR PÉTROLIER",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:29",
-      "date": "29/04",
-      "timestamp": 1777476556
-    },
-    {
-      "id": "BFMTV_1777475847",
-      "source": "BFMTV",
-      "text": "\"LA FRANCE NE PEUT PAS ACCEPTER NI LE HEZBOLLAH, NI TSAHAL\": L'AMBASSADEUR D'ISRAËL EN FRANCE JUGE LES PROPOS DE CATHERINE VAUTRIN SUR LE LIBAN \"D'UNE EXTRÊME GRAVITÉ\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:17",
-      "date": "29/04",
-      "timestamp": 1777475847
-    },
-    {
-      "id": "BFMTV_1777475368",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: DONALD TRUMP A ÉVOQUÉ UN BLOCUS DE \"PLUSIEURS MOIS\" DU DÉTROIT D'ORMUZ AVEC DES PATRONS DU SECTEUR PÉTROLIER",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:09",
-      "date": "29/04",
-      "timestamp": 1777475368
-    },
-    {
-      "id": "BFMTV_1777475205",
-      "source": "BFMTV",
-      "text": "PETE HEGSETH ASSURE QUE LES ÉTATS-UNIS \"SE BATTENT POUR VAINCRE\" DEVANT LES ÉLUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:06",
-      "date": "29/04",
-      "timestamp": 1777475205
-    },
-    {
-      "id": "BFMTV_1777474990",
-      "source": "BFMTV",
-      "text": "SONDAGE BFMTV. GUERRE AU MOYEN-ORIENT: SIX FRANÇAIS SUR DIX JUGENT QU’EMMANUEL MACRON N'EST PAS À LA HAUTEUR DE LA SITUATION",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:03",
-      "date": "29/04",
-      "timestamp": 1777474990
-    },
-    {
-      "id": "BFMTV_1777473786",
-      "source": "BFMTV",
-      "text": "L'ATTAQUE AU COUTEAU CONTRE DEUX HOMMES JUIFS À LONDRES \"FORMELLEMENT DÉCLARÉE COMME UN ACTE TERRORISTE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:43",
-      "date": "29/04",
-      "timestamp": 1777473786
     }
   ],
   "france": {
