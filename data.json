@@ -1,7 +1,57 @@
 {
-  "last_update": "30/04 21:00",
+  "last_update": "30/04 22:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777586445",
+      "source": "BFMTV",
+      "text": "\"IL A COMMENCÉ À LA ROUER DE COUPS\": UN HOMME ARRÊTÉ APRÈS L'AGRESSION D'UNE RELIGIEUSE FRANÇAISE À JÉRUSALEM",
+      "urgent": false,
+      "france_related": true,
+      "time": "22:00",
+      "date": "30/04",
+      "timestamp": 1777586445
+    },
+    {
+      "id": "BFMTV_1777585736",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP RECHIGNE À PORTER UN GILET PARE-BALLES POUR \"NE PAS AVOIR L'AIR DE PESER 10 KILOS DE PLUS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:48",
+      "date": "30/04",
+      "timestamp": 1777585736
+    },
+    {
+      "id": "BFMTV_1777585245",
+      "source": "BFMTV",
+      "text": "IRAN: SI LES ÉTATS-UNIS REPRENNENT LE CONFLIT, ”CELA SE RETOURNERA CONTRE EUX”, SELON LE CONTRE-AMIRAL BERTRAND DE LIGNIÈRES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:40",
+      "date": "30/04",
+      "timestamp": 1777585245
+    },
+    {
+      "id": "BFMTV_1777584539",
+      "source": "BFMTV",
+      "text": "\"INTOLÉRABLE\": LE PRÉSIDENT IRANIEN QUALIFIE LE BLOCUS NAVAL AMÉRICAIN DE \"PROLONGEMENT DES OPÉRATIONS MILITAIRES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:28",
+      "date": "30/04",
+      "timestamp": 1777584539
+    },
+    {
+      "id": "BFMTV_1777583490",
+      "source": "BFMTV",
+      "text": "IRAN: LA DÉFENSE ANTIAÉRIENNE ENTENDUE À TÉHÉRAN, SELON DES MÉDIAS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:11",
+      "date": "30/04",
+      "timestamp": 1777583490
+    },
     {
       "id": "BFMTV_1777580209",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "04:28",
       "date": "30/04",
       "timestamp": 1777523292
-    },
-    {
-      "id": "BFMTV_1777523250",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: SELON LA PRESSE AMÉRICAINE, LE PENTAGONE ENVISAGE DE NOUVELLES FRAPPES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:27",
-      "date": "30/04",
-      "timestamp": 1777523250
-    },
-    {
-      "id": "BFMTV_1777523110",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: DONALD TRUMP ÉVOQUE UNE PROLONGATION DE \"PLUSIEURS MOIS\" DU BLOCUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:25",
-      "date": "30/04",
-      "timestamp": 1777523110
-    },
-    {
-      "id": "BFMTV_1777522679",
-      "source": "BFMTV",
-      "text": "UN JAPONAIS SOUPÇONNÉ D'AVOIR TUÉ SA FEMME ET D'AVOIR UTILISÉ L'INCINÉRATEUR DU ZOO OÙ IL TRAVAILLE POUR LA FAIRE DISPARAÎTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:17",
-      "date": "30/04",
-      "timestamp": 1777522679
-    },
-    {
-      "id": "BFMTV_1777522578",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE ET DONALD TRUMP ONT ÉCHANGÉ PAR TÉLÉPHONE À PROPOS DU CONFLIT EN IRAN ET DE CELUI EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:16",
-      "date": "30/04",
-      "timestamp": 1777522578
-    },
-    {
-      "id": "BFMTV_1777501063",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: L'ARMÉE AMÉRICAINE INDIQUE QUE 42 NAVIRES ONT FAIT DEMI-TOUR DEPUIS LE DÉBUT DU BLOCUS DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:17",
-      "date": "29/04",
-      "timestamp": 1777501063
     }
   ],
   "france": {
