@@ -1,7 +1,107 @@
 {
-  "last_update": "30/04 07:27",
+  "last_update": "30/04 09:34",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777539632",
+      "source": "BFMTV",
+      "text": "KIM JONG-UN",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:00",
+      "date": "30/04",
+      "timestamp": 1777539632
+    },
+    {
+      "id": "BFMTV_1777539632",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:00",
+      "date": "30/04",
+      "timestamp": 1777539632
+    },
+    {
+      "id": "BFMTV_1777539631",
+      "source": "BFMTV",
+      "text": "DES \"HÉROS\": KIM JONG-UN SALUE LES SOLDATS NORD-CORÉENS QUI SE SUICIDENT POUR ÉVITER D'ÊTRE CAPTURÉS EN UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:00",
+      "date": "30/04",
+      "timestamp": 1777539631
+    },
+    {
+      "id": "BFMTV_1777539378",
+      "source": "BFMTV",
+      "text": "À TYR, UN HOMMAGE AUX TROIS SECOURISTES DE LA DÉFENSE CIVILE TUÉS PAR DES FRAPPES ISRAÉLIENNES DANS LE SUD-LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:56",
+      "date": "30/04",
+      "timestamp": 1777539378
+    },
+    {
+      "id": "BFMTV_1777539174",
+      "source": "BFMTV",
+      "text": "UN HOMME ARMÉ D'UN MARTEAU BLESSE CINQ PERSONNES À TOKYO, DONT TROIS POLICIERS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:52",
+      "date": "30/04",
+      "timestamp": 1777539174
+    },
+    {
+      "id": "BFMTV_1777538478",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:41",
+      "date": "30/04",
+      "timestamp": 1777538478
+    },
+    {
+      "id": "BFMTV_1777538478",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VLADIMIR POUTINE PROPOSE UN CESSEZ-LE-FEU LE 9 MAI, VOLODYMYR ZELENSKY DEMANDE DES DÉTAILS",
+      "urgent": true,
+      "france_related": true,
+      "time": "08:41",
+      "date": "30/04",
+      "timestamp": 1777538478
+    },
+    {
+      "id": "BFMTV_1777537375",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT IRANIEN AFFIRME QUE LE BLOCUS NAVAL AMÉRICAIN EST \"VOUÉ À L'ÉCHEC\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:22",
+      "date": "30/04",
+      "timestamp": 1777537375
+    },
+    {
+      "id": "BFMTV_1777535837",
+      "source": "BFMTV",
+      "text": "NOUVELLE-ZÉLANDE: LA JUSTICE REJETTE LA DEMANDE D'APPEL DU TERRORISTE DE CHRISTCHURCH",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:57",
+      "date": "30/04",
+      "timestamp": 1777535837
+    },
+    {
+      "id": "BFMTV_1777535505",
+      "source": "BFMTV",
+      "text": "BLOCUS DU DÉTROIT D'ORMUZ: UN BRAS DE FER ÉGALEMENT DANS LES AIRS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:51",
+      "date": "30/04",
+      "timestamp": 1777535505
+    },
     {
       "id": "BFMTV_1777533116",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "08:30",
       "date": "29/04",
       "timestamp": 1777451450
-    },
-    {
-      "id": "BFMTV_1777451056",
-      "source": "BFMTV",
-      "text": "\"MONSIEUR GENTIL, C'EST FINI!\": DONALD TRUMP PUBLIE UN MONTAGE SUR TRUTH SOCIAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:24",
-      "date": "29/04",
-      "timestamp": 1777451056
-    },
-    {
-      "id": "BFMTV_1777450041",
-      "source": "BFMTV",
-      "text": "\"UNE RÉPONSE COORDONNÉE INDISPENSABLE\" : PHILIPPE TABAROT PARTICIPE À UNE RÉUNION DES MINISTRES DES TRANSPORTS DE L'UE OÙ LE BLOCAGE DU DÉTROIT D’ORMUZ SERA ÉVOQUÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:07",
-      "date": "29/04",
-      "timestamp": 1777450041
-    },
-    {
-      "id": "BFMTV_1777450023",
-      "source": "BFMTV",
-      "text": "LA FRANCE RECOMMANDE À SES RESSORTISSANTS DE QUITTER TEMPORAIREMENT LE MALI \"DÈS QUE POSSIBLE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "08:07",
-      "date": "29/04",
-      "timestamp": 1777450023
-    },
-    {
-      "id": "BFMTV_1777449669",
-      "source": "BFMTV",
-      "text": "LA PEINE DE L'EX-PRÉSIDENT SUD-CORÉEN YOON SUK YEOL ALOURDIE À SEPT ANS DE PRISON EN APPEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:01",
-      "date": "29/04",
-      "timestamp": 1777449669
-    },
-    {
-      "id": "BFMTV_1777448162",
-      "source": "BFMTV",
-      "text": "\"VOUS VOUS SOUVENEZ QUAND ILS MILITAIENT POUR LA LIBERTÉ D'EXPRESSION?\": LA CHAÎNE ABC MENACÉE APRÈS LA BLAGUE DE JIMMY KIMMEL SUR MELANIA TRUMP, L'OPPOSITION DÉNONCE UNE CENSURE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:36",
-      "date": "29/04",
-      "timestamp": 1777448162
-    },
-    {
-      "id": "BFMTV_1777447555",
-      "source": "BFMTV",
-      "text": "SOLE, FONDANT AU CHOCOLAT EN FORME DE RUCHE.. QU'ONT MANGÉ DONALD TRUMP ET CHARLES III LORS DU DÎNER D'ÉTAT À LA MAISON BLANCHE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:25",
-      "date": "29/04",
-      "timestamp": 1777447555
-    },
-    {
-      "id": "BFMTV_1777445696",
-      "source": "BFMTV",
-      "text": "\"DEUX ROIS\": QUAND LA MAISON BLANCHE IMAGINE DONALD TRUMP EN MONARQUE AUX CÔTÉS DE CHARLES III",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:54",
-      "date": "29/04",
-      "timestamp": 1777445696
-    },
-    {
-      "id": "BFMTV_1777445496",
-      "source": "BFMTV",
-      "text": "\" ",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:51",
-      "date": "29/04",
-      "timestamp": 1777445496
-    },
-    {
-      "id": "BFMTV_1777444884",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: TOTALENERGIES AFFICHE UN BÉNÉFICE NET AJUSTÉ EN TRÈS FORTE HAUSSE AU PREMIER TRIMESTRE AVEC 5,4 MILLIARDS DE DOLLARS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:41",
-      "date": "29/04",
-      "timestamp": 1777444884
-    },
-    {
-      "id": "BFMTV_1777444544",
-      "source": "BFMTV",
-      "text": "250 ANS DES ÉTATS-UNIS: LE VISAGE DE DONALD TRUMP VA FIGURER FACE AUX PÈRES FONDATEURS DANS UN NOUVEAU PASSEPORT AMÉRICAIN \"EN ÉDITION LIMITÉE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:35",
-      "date": "29/04",
-      "timestamp": 1777444544
     }
   ],
   "france": {
