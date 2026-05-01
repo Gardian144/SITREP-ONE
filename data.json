@@ -1,7 +1,87 @@
 {
-  "last_update": "01/05 09:11",
+  "last_update": "01/05 10:43",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777631992",
+      "source": "BFMTV",
+      "text": "DES SYSTÈMES DE DÉFENSE ANTIAÉRIENNE SONT ENTRÉS EN ACTION JEUDI SOIR À TÉHÉRAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:39",
+      "date": "01/05",
+      "timestamp": 1777631992
+    },
+    {
+      "id": "OPEX360_1777631750",
+      "source": "OPEX360",
+      "text": "L’ARMÉE NORVÉGIENNE A PRIS POSSESSION DE SES PREMIERS CHARS LEOPARD 2A8",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:35",
+      "date": "01/05",
+      "timestamp": 1777631750
+    },
+    {
+      "id": "BFMTV_1777631062",
+      "source": "BFMTV",
+      "text": "ENFANT INUIT RETIRÉ À SA MÈRE POUR ÊTRE PLACÉ: LES NATIONS UNIES DÉNONCENT UNE POSSIBLE \"DISCRIMINATION ETHNIQUE\" ET POINTENT DU DOIGT LE DANEMARK",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:24",
+      "date": "01/05",
+      "timestamp": 1777631062
+    },
+    {
+      "id": "BFMTV_1777630279",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"LA SITUATION N'EST PAS EN TRAIN DE S'ARRANGER\", COMMANDANT BERTRAND APPERRY, ANCIEN COMMANDANT DE NAVIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:11",
+      "date": "01/05",
+      "timestamp": 1777630279
+    },
+    {
+      "id": "BFMTV_1777629790",
+      "source": "BFMTV",
+      "text": " JÉRUSALEM: UNE RELIGIEUSE CATHOLIQUE FRANÇAISE A ÉTÉ VIOLEMMENT AGRESSÉE ",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:03",
+      "date": "01/05",
+      "timestamp": 1777629790
+    },
+    {
+      "id": "BFMTV_1777629655",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DE NOUVEAUX RAIDS ISRAÉLIENS FONT AU MOINS 17 MORTS AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:00",
+      "date": "01/05",
+      "timestamp": 1777629655
+    },
+    {
+      "id": "BFMTV_1777629447",
+      "source": "BFMTV",
+      "text": "DÉTROIT D’ORMUZ: 913 BATEAUX COMMERCIAUX TOUJOURS BLOQUÉS DANS LE GOLFE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:57",
+      "date": "01/05",
+      "timestamp": 1777629447
+    },
+    {
+      "id": "OPEX360_1777627964",
+      "source": "OPEX360",
+      "text": "UNE AVARIE A PRIVÉ LE DESTROYER AMÉRICAIN USS HIGGINS DE SON SYSTÈME DE PROPULSION PENDANT PLUSIEURS HEURES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:32",
+      "date": "01/05",
+      "timestamp": 1777627964
+    },
     {
       "id": "BFMTV_1777626409",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "10:27",
       "date": "30/04",
       "timestamp": 1777544852
-    },
-    {
-      "id": "BFMTV_1777543491",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - AUX ÉTATS-UNIS, DES ÉCHANGES TENDUS ENTRE LES DÉMOCRATES ET PETE HEGSETH À PROPOS DE LA GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:04",
-      "date": "30/04",
-      "timestamp": 1777543491
-    },
-    {
-      "id": "BFMTV_1777542346",
-      "source": "BFMTV",
-      "text": "\"LE SCORE MOYEN N'A JAMAIS ÉTÉ AUSSI BAS EN 25 ANS\": REPORTERS SANS FRONTIÈRES PUBLIE SON CLASSEMENT ANNUEL DE LA LIBERTÉ DE LA PRESSE ET SONNE L'ALERTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:45",
-      "date": "30/04",
-      "timestamp": 1777542346
-    },
-    {
-      "id": "BFMTV_1777542140",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE EST PRÊTE À MENER DES FRAPPES \"COURTES ET PUISSANTES\", SELON LE MÉDIA AXIOS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:42",
-      "date": "30/04",
-      "timestamp": 1777542140
-    },
-    {
-      "id": "BFMTV_1777539632",
-      "source": "BFMTV",
-      "text": "KIM JONG-UN",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:00",
-      "date": "30/04",
-      "timestamp": 1777539632
-    },
-    {
-      "id": "BFMTV_1777539632",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:00",
-      "date": "30/04",
-      "timestamp": 1777539632
-    },
-    {
-      "id": "BFMTV_1777539631",
-      "source": "BFMTV",
-      "text": "DES \"HÉROS\": KIM JONG-UN SALUE LES SOLDATS NORD-CORÉENS QUI SE SUICIDENT POUR ÉVITER D'ÊTRE CAPTURÉS EN UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:00",
-      "date": "30/04",
-      "timestamp": 1777539631
-    },
-    {
-      "id": "BFMTV_1777539378",
-      "source": "BFMTV",
-      "text": "À TYR, UN HOMMAGE AUX TROIS SECOURISTES DE LA DÉFENSE CIVILE TUÉS PAR DES FRAPPES ISRAÉLIENNES DANS LE SUD-LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:56",
-      "date": "30/04",
-      "timestamp": 1777539378
-    },
-    {
-      "id": "BFMTV_1777539174",
-      "source": "BFMTV",
-      "text": "UN HOMME ARMÉ D'UN MARTEAU BLESSE CINQ PERSONNES À TOKYO, DONT TROIS POLICIERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:52",
-      "date": "30/04",
-      "timestamp": 1777539174
     }
   ],
   "france": {
