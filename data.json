@@ -1,7 +1,67 @@
 {
-  "last_update": "01/05 15:15",
+  "last_update": "01/05 16:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777652948",
+      "source": "BFMTV",
+      "text": "\"IL Y A BEAUCOUP DE DÉSACCORDS, BEAUCOUP DE DISCORDES, BEAUCOUP DE PROBLÈMES\" AVEC L'IRAN, DÉCLARE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:29",
+      "date": "01/05",
+      "timestamp": 1777652948
+    },
+    {
+      "id": "BFMTV_1777652787",
+      "source": "BFMTV",
+      "text": "LES IRANIENS \"VEULENT CONCLURE UN ACCORD, MAIS JE NE SUIS PAS SATISFAIT DE LA PROPOSITION\", DÉCLARE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:26",
+      "date": "01/05",
+      "timestamp": 1777652787
+    },
+    {
+      "id": "BFMTV_1777652618",
+      "source": "BFMTV",
+      "text": "UNE FOULE NOMBREUSE DE PARTISANS DE DONALD TRUMP S'EST RASSEMBLÉE POUR SON MEETING EN FLORIDE CE SOIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:23",
+      "date": "01/05",
+      "timestamp": 1777652618
+    },
+    {
+      "id": "BFMTV_1777652462",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ANNONCENT DE NOUVELLES SANCTIONS CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:21",
+      "date": "01/05",
+      "timestamp": 1777652462
+    },
+    {
+      "id": "BFMTV_1777649674",
+      "source": "BFMTV",
+      "text": "\"JE SUIS JEUNE, C'EST UNE GRANDE OCCASION DE LE VOIR\": DONALD TRUMP S'EXPRIME EN FLORIDE CE SOIR, BFMTV EST SUR PLACE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:34",
+      "date": "01/05",
+      "timestamp": 1777649674
+    },
+    {
+      "id": "BFMTV_1777648549",
+      "source": "BFMTV",
+      "text": "RIPOSTE IRANIENNE: ENTRE LE 28 FÉVRIER ET LE 14 AVRIL, 2.819 MISSILES ET DRONES ONT CIBLÉ LES ÉMIRATS ARABES UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:15",
+      "date": "01/05",
+      "timestamp": 1777648549
+    },
     {
       "id": "BFMTV_1777648392",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "14:37",
       "date": "30/04",
       "timestamp": 1777559828
-    },
-    {
-      "id": "BFMTV_1777559827",
-      "source": "BFMTV",
-      "text": "ATTENTAT DE BONDI BEACH: LA POLICE AUSTRALIENNE AVAIT ÉTÉ ALERTÉE SUR LE RISQUE D'ATTAQUE ANTISÉMITE, COLÈRE DES FAMILLES DE VICTIMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:37",
-      "date": "30/04",
-      "timestamp": 1777559827
-    },
-    {
-      "id": "OPEX360_1777559246",
-      "source": "OPEX360",
-      "text": "LE PROCHAIN CHEF ADJOINT DE LA DIVISION DES OPÉRATIONS DE L’ARMÉE ALLEMANDE SERA UN OFFICIER SUPÉRIEUR AMÉRICAIN",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:27",
-      "date": "30/04",
-      "timestamp": 1777559246
-    },
-    {
-      "id": "BFMTV_1777559118",
-      "source": "BFMTV",
-      "text": "\"LE MONDE EST CONFRONTÉ À LA PLUS GRAVE CRISE ÉNERGÉTIQUE DE SON HISTOIRE\", ALERTE LE DIRECTEUR EXÉCUTIF DE L'AGENCE INTERNATIONALE DE L'ÉNERGIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:25",
-      "date": "30/04",
-      "timestamp": 1777559118
-    },
-    {
-      "id": "BFMTV_1777558763",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: TOTALENERGIES PROMET DE MAINTENIR SON PLAFOND DES PRIX À LA POMPE \"TANT QUE LA CRISE DURERA\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:19",
-      "date": "30/04",
-      "timestamp": 1777558763
-    },
-    {
-      "id": "BFMTV_1777557322",
-      "source": "BFMTV",
-      "text": "BFMTV AU CŒUR DE LA DERNIÈRE PHASE DE L'EXERCICE MILITAIRE ORION-26",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:55",
-      "date": "30/04",
-      "timestamp": 1777557322
-    },
-    {
-      "id": "BFMTV_1777555758",
-      "source": "BFMTV",
-      "text": "NEUF PERSONNES TUÉES DANS UNE FRAPPE ISRAÉLIENNE AU LIBAN, DONT DEUX ENFANTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:29",
-      "date": "30/04",
-      "timestamp": 1777555758
     }
   ],
   "france": {
