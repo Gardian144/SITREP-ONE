@@ -1,7 +1,27 @@
 {
-  "last_update": "01/05 11:44",
+  "last_update": "01/05 12:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777637952",
+      "source": "BFMTV",
+      "text": "ÉLECTION PRÉSIDENTIELLE: \"IL Y A CEUX QUI S'EN VONT, CEUX QUI BAVARDENT ET CEUX QUI SONT PRÊTS, ET NOUS SOMMES PRÊTS\", ASSURE JEAN-LUC MÉLENCHON",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:19",
+      "date": "01/05",
+      "timestamp": 1777637952
+    },
+    {
+      "id": "BFMTV_1777636811",
+      "source": "BFMTV",
+      "text": "AUSTRALIE: DES AFFRONTEMENTS APRÈS LE MEURTRE D’UNE PETITE FILLE ABORIGÈNE DE 5 ANS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:00",
+      "date": "01/05",
+      "timestamp": 1777636811
+    },
     {
       "id": "BFMTV_1777634647",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "11:41",
       "date": "30/04",
       "timestamp": 1777549307
-    },
-    {
-      "id": "BFMTV_1777548178",
-      "source": "BFMTV",
-      "text": "AUX ÉTATS-UNIS, LE PÈRE NOËL LOCAL ET 18 AUTRES PERSONNES ONT ÉTÉ ARRÊTÉES POUR AVOIR TENTÉ DE RENCONTRER DES ENFANTS À DES FINS SEXUELLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:22",
-      "date": "30/04",
-      "timestamp": 1777548178
-    },
-    {
-      "id": "BFMTV_1777547473",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: LE GUIDE SUPRÊME IRANIEN AFFIRME QUE LES ETATS-UNIS ONT SUBI UNE \"DÉFAITE HONTEUSE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:11",
-      "date": "30/04",
-      "timestamp": 1777547473
     }
   ],
   "france": {
