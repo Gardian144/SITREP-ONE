@@ -1,7 +1,67 @@
 {
-  "last_update": "01/05 10:43",
+  "last_update": "01/05 11:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777634647",
+      "source": "BFMTV",
+      "text": "LE DOSSIER DU 13H - GUERRE AU MOYEN-ORIENT: LES FRAPPES EN IRAN PEUVENT-ELLES REPRENDRE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:24",
+      "date": "01/05",
+      "timestamp": 1777634647
+    },
+    {
+      "id": "BFMTV_1777633401",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN REJETTE TOUTE POLITIQUE \"IMPOSÉE\" SOUS LA MENACE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:03",
+      "date": "01/05",
+      "timestamp": 1777633401
+    },
+    {
+      "id": "BFMTV_1777632995",
+      "source": "BFMTV",
+      "text": "JEAN-NOËL BARROT ASSURE QU'IL N'Y AURA \"PAS D'ENTRÉE DE LA FRANCE\" DANS LA GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:56",
+      "date": "01/05",
+      "timestamp": 1777632995
+    },
+    {
+      "id": "BFMTV_1777632923",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: FACE AU RISQUE \"EXTRÊMEMENT ÉLEVÉ\" D'ESCALADE, JEAN-NOËL BARROT APPELLE À CE QUE \"DES NÉGOCIATIONS S'ENGAGENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:55",
+      "date": "01/05",
+      "timestamp": 1777632923
+    },
+    {
+      "id": "BFMTV_1777632801",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT AFFIRME QUE \"LES RISQUES D'ESCALADE SONT EXTRÊMEMENT ÉLEVÉS\", MAIS ASSURE QU'IL N'Y AURA \"PAS D'ENTRÉE DE LA FRANCE DANS LA GUERRE\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:53",
+      "date": "01/05",
+      "timestamp": 1777632801
+    },
+    {
+      "id": "BFMTV_1777632488",
+      "source": "BFMTV",
+      "text": "\"LE DÉTROIT D'ORMUZ DOIT ÊTRE LIBÉRÉ\", DÉCLARE JEAN-NOËL BARROT, MINISTRE DES AFFAIRES ÉTRANGÈRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:48",
+      "date": "01/05",
+      "timestamp": 1777632488
+    },
     {
       "id": "BFMTV_1777631992",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "11:11",
       "date": "30/04",
       "timestamp": 1777547473
-    },
-    {
-      "id": "BFMTV_1777546938",
-      "source": "BFMTV",
-      "text": "ATTAQUES ANTISÉMITES AU ROYAUME-UNI: KEIR STARMER VEUT UNE RÉPONSE \"RAPIDE ET VISIBLE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:02",
-      "date": "30/04",
-      "timestamp": 1777546938
-    },
-    {
-      "id": "BFMTV_1777546119",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"IL N'Y A AUCUNE RAISON QUI FERAIT QUE DONALD TRUMP ABANDONNE LE BLOCUS POUR DES FRAPPES\", SELON ADEL BAKAWAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:48",
-      "date": "30/04",
-      "timestamp": 1777546119
-    },
-    {
-      "id": "BFMTV_1777545708",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE MISSILE HYPERSONIQUE, L'ATOUT DE L'ARMÉE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:41",
-      "date": "30/04",
-      "timestamp": 1777545708
-    },
-    {
-      "id": "OPEX360_1777545590",
-      "source": "OPEX360",
-      "text": "SUCCESSION DU LRU : MBDA ET SAFRAN SE FÉLICITENT DU SUCCÈS DES ESSAIS DE LEUR ROQUETTE À LONGUE PORTÉE THUNDART",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:39",
-      "date": "30/04",
-      "timestamp": 1777545590
-    },
-    {
-      "id": "BFMTV_1777545287",
-      "source": "BFMTV",
-      "text": "\"NOTRE MONDE EST CONFRONTÉ À UN DÉFI ÉNERGÉTIQUE ET ÉCONOMIQUE MAJEUR\": L'ALERTE DE L'AGENCE INTERNATIONALE DE L'ÉNERGIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:34",
-      "date": "30/04",
-      "timestamp": 1777545287
-    },
-    {
-      "id": "BFMTV_1777544852",
-      "source": "BFMTV",
-      "text": "\"BOYCOTTEZ LE MET GALA DE BEZOS\": UNE CAMPAGNE D'AFFICHAGE SAUVAGE CIBLE JEFF BEZOS À NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:27",
-      "date": "30/04",
-      "timestamp": 1777544852
     }
   ],
   "france": {
