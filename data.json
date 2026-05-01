@@ -1,7 +1,57 @@
 {
-  "last_update": "01/05 17:41",
+  "last_update": "01/05 18:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777660728",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP NE SE DIT \"PAS SATISFAIT\" DE LA NOUVELLE OFFRE DE L'IRAN POUR RELANCER LES NÉGOCIATIONS ET MENACE DE \"PULVÉRISER\" LE PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:38",
+      "date": "01/05",
+      "timestamp": 1777660728
+    },
+    {
+      "id": "BFMTV_1777660728",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:38",
+      "date": "01/05",
+      "timestamp": 1777660728
+    },
+    {
+      "id": "BFMTV_1777660353",
+      "source": "BFMTV",
+      "text": "NEW YORK: UNE MAISON EXPLOSE ALORS QUE DES POLICIERS S'APPRÊTENT À RENTRER DEDANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:32",
+      "date": "01/05",
+      "timestamp": 1777660353
+    },
+    {
+      "id": "BFMTV_1777659797",
+      "source": "BFMTV",
+      "text": "POUR DONALD TRUMP, IL Y A \"DEUX OPTIONS\", SOIT \"DÉTRUIRE\" L'IRAN, SOIT \"TROUVER UN ACCORD\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:23",
+      "date": "01/05",
+      "timestamp": 1777659797
+    },
+    {
+      "id": "BFMTV_1777658990",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP SE PRÉPARE POUR LES ÉLECTIONS DE MI-MANDAT AVEC UN DISCOURS EN FLORIDE AXÉ SUR L'ÉCONOMIE CE SOIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:09",
+      "date": "01/05",
+      "timestamp": 1777658990
+    },
     {
       "id": "BFMTV_1777655623",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "16:35",
       "date": "30/04",
       "timestamp": 1777566914
-    },
-    {
-      "id": "OPEX360_1777566914",
-      "source": "OPEX360",
-      "text": "LE PARLEMENT ROUMAIN APPROUVE L’ACHAT DE 12 HÉLICOPTÈRES H225M CARACAL AUPRÈS DE LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:35",
-      "date": "30/04",
-      "timestamp": 1777566914
-    },
-    {
-      "id": "BFMTV_1777565822",
-      "source": "BFMTV",
-      "text": " EMMANUEL MACRON SOUHAITE QUE LA FRANCE SOIT \"UNE PUISSANCE REDOUTÉE PAR SES ENNEMIS\" ",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:17",
-      "date": "30/04",
-      "timestamp": 1777565822
-    },
-    {
-      "id": "BFMTV_1777564939",
-      "source": "BFMTV",
-      "text": "ATTAQUE ANTISÉMITE À LONDRES: LES IMAGES DE LA CAMÉRA DU POLICIER QUI A NEUTRALISÉ LE SUSPECT",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:02",
-      "date": "30/04",
-      "timestamp": 1777564939
-    },
-    {
-      "id": "BFMTV_1777564576",
-      "source": "BFMTV",
-      "text": "ATTAQUES ANTISÉMITES: \"LES GENS ONT PEUR D'ALLER À LA SYNAGOGUE ET PRATIQUER LEUR RELIGION\", DÉPLORE KEIR STARMER",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:56",
-      "date": "30/04",
-      "timestamp": 1777564576
-    },
-    {
-      "id": "BFMTV_1777564555",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON REND HOMMAGE AUX SOLDATS FRANÇAIS MORTS EN IRAK ET AU LIBAN ",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:55",
-      "date": "30/04",
-      "timestamp": 1777564555
     }
   ],
   "france": {
