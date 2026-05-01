@@ -1,7 +1,97 @@
 {
-  "last_update": "01/05 07:12",
+  "last_update": "01/05 09:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777626409",
+      "source": "BFMTV",
+      "text": "VAGUE DE FRAPPES \"PUISSANTES\", RAID SUR ORMUZ… QUELLES SONT DÉSORMAIS LES OPTIONS MILITAIRES POUR DONALD TRUMP EN IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:06",
+      "date": "01/05",
+      "timestamp": 1777626409
+    },
+    {
+      "id": "BFMTV_1777625510",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT APPELLE LES PARTIES À \"TOUT FAIRE\" POUR \"ÉVITER QUE LES HOSTILITÉS NE REPRENNENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:51",
+      "date": "01/05",
+      "timestamp": 1777625510
+    },
+    {
+      "id": "BFMTV_1777624814",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:40",
+      "date": "01/05",
+      "timestamp": 1777624814
+    },
+    {
+      "id": "BFMTV_1777624813",
+      "source": "BFMTV",
+      "text": "\"FLOTTILLE POUR GAZA\": DES DIZAINES DE MILITANTS ARRÊTÉS PAR LES FORCES ISRAÉLIENNES ONT DÉBARQUÉ EN GRÈCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:40",
+      "date": "01/05",
+      "timestamp": 1777624813
+    },
+    {
+      "id": "BFMTV_1777624705",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS EXPÉDIENT 6.500 TONNES DE MUNITIONS À ISRAËL EN 24 HEURES",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:38",
+      "date": "01/05",
+      "timestamp": 1777624705
+    },
+    {
+      "id": "BFMTV_1777623395",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE SERAIT PLUS PUISSANTE QUE NE LE RECONNAÎT PUBLIQUEMENT L'ADMINISTRATION TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:16",
+      "date": "01/05",
+      "timestamp": 1777623395
+    },
+    {
+      "id": "BFMTV_1777622273",
+      "source": "BFMTV",
+      "text": "DES SCÈNES DE VIOLENCE EN AUSTRALIE APRÈS LE MEURTRE D'UNE FILLE ABORIGÈNE DE CINQ ANS, LE SUSPECT PASSÉ À TABAC",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:57",
+      "date": "01/05",
+      "timestamp": 1777622273
+    },
+    {
+      "id": "BFMTV_1777620553",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LES NOUVELLES IMAGES DU TIREUR AU DÎNER DES CORRESPONDANTS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:29",
+      "date": "01/05",
+      "timestamp": 1777620553
+    },
+    {
+      "id": "BFMTV_1777619919",
+      "source": "BFMTV",
+      "text": "ANTÉCÉDENTS, SANTÉ MENTALE... QUEL EST LE PROFIL DU SUSPECT DE L'ATTAQUE ANTISÉMITE DE LONDRES ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:18",
+      "date": "01/05",
+      "timestamp": 1777619919
+    },
     {
       "id": "BFMTV_1777619395",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "08:52",
       "date": "30/04",
       "timestamp": 1777539174
-    },
-    {
-      "id": "BFMTV_1777538478",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:41",
-      "date": "30/04",
-      "timestamp": 1777538478
-    },
-    {
-      "id": "BFMTV_1777538478",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VLADIMIR POUTINE PROPOSE UN CESSEZ-LE-FEU LE 9 MAI, VOLODYMYR ZELENSKY DEMANDE DES DÉTAILS",
-      "urgent": true,
-      "france_related": true,
-      "time": "08:41",
-      "date": "30/04",
-      "timestamp": 1777538478
-    },
-    {
-      "id": "BFMTV_1777537375",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT IRANIEN AFFIRME QUE LE BLOCUS NAVAL AMÉRICAIN EST \"VOUÉ À L'ÉCHEC\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:22",
-      "date": "30/04",
-      "timestamp": 1777537375
-    },
-    {
-      "id": "BFMTV_1777535837",
-      "source": "BFMTV",
-      "text": "NOUVELLE-ZÉLANDE: LA JUSTICE REJETTE LA DEMANDE D'APPEL DU TERRORISTE DE CHRISTCHURCH",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:57",
-      "date": "30/04",
-      "timestamp": 1777535837
-    },
-    {
-      "id": "BFMTV_1777535505",
-      "source": "BFMTV",
-      "text": "BLOCUS DU DÉTROIT D'ORMUZ: UN BRAS DE FER ÉGALEMENT DANS LES AIRS",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:51",
-      "date": "30/04",
-      "timestamp": 1777535505
-    },
-    {
-      "id": "BFMTV_1777533116",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN AFFIRME QUE LE BLOCUS NAVAL AMÉRICAIN EST \"VOUÉ À L'ÉCHEC\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:11",
-      "date": "30/04",
-      "timestamp": 1777533116
-    },
-    {
-      "id": "BFMTV_1777533060",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ANALYSE DE LA STRATÉGIE DE DONALD TRUMP PAR ALAIN BAUER",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:11",
-      "date": "30/04",
-      "timestamp": 1777533060
-    },
-    {
-      "id": "BFMTV_1777531853",
-      "source": "BFMTV",
-      "text": "CONFLIT AU MOYEN-ORIENT: \"CE N'EST PAS ENCORE NOTRE GUERRE\", ASSURE ALAIN BAUER À PROPOS DE L'EXERCICE MILITAIRE FRANÇAIS ORION-26",
-      "urgent": true,
-      "france_related": true,
-      "time": "06:50",
-      "date": "30/04",
-      "timestamp": 1777531853
-    },
-    {
-      "id": "BFMTV_1777531315",
-      "source": "BFMTV",
-      "text": "CONFLIT ENTRE L'IRAN ET LES ÉTATS-UNIS: \"LES GARDIENS DE LA RÉVOLUTION, IL Y A 20 ANS, ONT ANTICIPÉ, PRÉPARÉ, IMAGINÉ CETTE GUERRE\", ESTIME ALAIN BAUER",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:41",
-      "date": "30/04",
-      "timestamp": 1777531315
     }
   ],
   "france": {
