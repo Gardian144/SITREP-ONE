@@ -1,7 +1,57 @@
 {
-  "last_update": "01/05 18:46",
+  "last_update": "01/05 20:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777665153",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE ANNONCE AVOIR TOUCHÉ 40 CIBLES EN 24 HEURES DANS LE SUD-LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:52",
+      "date": "01/05",
+      "timestamp": 1777665153
+    },
+    {
+      "id": "BFMTV_1777663450",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP EST ARRIVÉ EN FLORIDE POUR SON MEETING, UN MEETING À SUIVRE SUR BFMTV",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:24",
+      "date": "01/05",
+      "timestamp": 1777663450
+    },
+    {
+      "id": "BFMTV_1777662377",
+      "source": "BFMTV",
+      "text": "D'APRÈS LE WALL STREET JOURNAL, DES RESPONSABLES IRANIENS ONT AFFIRMÉ QUE TÉHÉRAN POURRAIT RECOURIR À DES ARMES QUI ÉTAIENT JUSQU'À PRÉSENT INUTILISÉES",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:06",
+      "date": "01/05",
+      "timestamp": 1777662377
+    },
+    {
+      "id": "BFMTV_1777661216",
+      "source": "BFMTV",
+      "text": "IRAN: \"JE DEMANDERAIS À DONALD TRUMP DE PRÉCISER SES OBJECTIFS\", DÉTAILLE JEAN-PAUL PALOMÉROS, ANCIEN CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE L'AIR",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:46",
+      "date": "01/05",
+      "timestamp": 1777661216
+    },
+    {
+      "id": "BFMTV_1777661076",
+      "source": "BFMTV",
+      "text": "APRÈS LA FERMETURE D'UNE DÉCHARGE, BALI SE RETROUVE DANS UNE GRAVE CRISE DES DÉCHETS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:44",
+      "date": "01/05",
+      "timestamp": 1777661076
+    },
     {
       "id": "BFMTV_1777660728",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "17:01",
       "date": "30/04",
       "timestamp": 1777568511
-    },
-    {
-      "id": "BFMTV_1777567728",
-      "source": "BFMTV",
-      "text": " GUERRE EN UKRAINE: KIM JONG-UN QUALIFIE DE \"HÉROS\" LES SOLDATS QUI SE SUICIDENT POUR ÉVITER D'ÊTRE CAPTURÉS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:48",
-      "date": "30/04",
-      "timestamp": 1777567728
-    },
-    {
-      "id": "BFMTV_1777566991",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE MINISTRE DE LA DÉFENSE ISRAÉLIEN AFFIRME QU'ISRAËL POURRAIT \"DEVOIR AGIR À NOUVEAU\" CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:36",
-      "date": "30/04",
-      "timestamp": 1777566991
-    },
-    {
-      "id": "BFMTV_1777566953",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ BLOQUÉ: QUE DIT VRAIMENT LE DROIT INTERNATIONAL FACE À LA CRISE ENTRE L'IRAN ET LES ÉTATS-UNIS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:35",
-      "date": "30/04",
-      "timestamp": 1777566953
-    },
-    {
-      "id": "BFMTV_1777566953",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: SÉBASTIEN LECORNU JUGE QUE LE MAINTIEN DU PLAFONNEMENT DES PRIX À LA POMPE PAR TOTALENERGIES \"VA DANS LE BON SENS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:35",
-      "date": "30/04",
-      "timestamp": 1777566953
-    },
-    {
-      "id": "OPEX360_1777566914",
-      "source": "OPEX360",
-      "text": "LE PARLEMENT ROUMAINE APPROUVE L’ACHAT DE 12 HÉLICOPTÈRES H225M CARACAL AUPRÈS DE LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:35",
-      "date": "30/04",
-      "timestamp": 1777566914
     }
   ],
   "france": {
