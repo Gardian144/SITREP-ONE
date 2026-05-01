@@ -1,7 +1,147 @@
 {
-  "last_update": "01/05 04:17",
+  "last_update": "01/05 07:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777619395",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP PRÊT À IGNORER LE CONGRÈS ALORS QU'ARRIVE LA DATE LIMITE POUR OBTENIR L’AUTORISATION DU CONGRÈS DANS LA POURSUITE DU CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:09",
+      "date": "01/05",
+      "timestamp": 1777619395
+    },
+    {
+      "id": "BFMTV_1777619134",
+      "source": "BFMTV",
+      "text": "L'ARTISTE BANKSY REVENDIQUE UNE NOUVELLE STATUE AU CŒUR DE LONDRES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:05",
+      "date": "01/05",
+      "timestamp": 1777619134
+    },
+    {
+      "id": "BFMTV_1777617551",
+      "source": "BFMTV",
+      "text": " GUERRE AU MOYEN-ORIENT: DE NOUVEAUX RAIDS ISRAÉLIENS FONT AU MOINS 17 MORTS DANS LE SUD DU LIBAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:39",
+      "date": "01/05",
+      "timestamp": 1777617551
+    },
+    {
+      "id": "BFMTV_1777617215",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP JR. À LA PRÉSENTATION DE \"THE APPRENTICE\"? AMAZON RÉFLÉCHIT À UN REBOOT DE L'EX-ÉMISSION DU PRÉSIDENT AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:33",
+      "date": "01/05",
+      "timestamp": 1777617215
+    },
+    {
+      "id": "BFMTV_1777615734",
+      "source": "BFMTV",
+      "text": "ATTAQUE ANTISÉMITE À LONDRES: UN SUSPECT INCULPÉ APRÈS L'AGRESSION DE DEUX HOMMES À L'ARME BLANCHE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:08",
+      "date": "01/05",
+      "timestamp": 1777615734
+    },
+    {
+      "id": "BFMTV_1777614394",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES FONT AU MOINS 17 MORTS DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:46",
+      "date": "01/05",
+      "timestamp": 1777614394
+    },
+    {
+      "id": "BFMTV_1777612448",
+      "source": "BFMTV",
+      "text": "L'ITALIE D'\"AUCUNE AIDE\" ET L'ESPAGNE \"ODIEUSE\": APRÈS L'ALLEMAGNE, DONALD TRUMP ENVISAGE D'AUTRES RÉDUCTIONS DE SES TROUPES MILITAIRES EN EUROPE",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:14",
+      "date": "01/05",
+      "timestamp": 1777612448
+    },
+    {
+      "id": "BFMTV_1777611693",
+      "source": "BFMTV",
+      "text": "17 MORTS AU SUD DU LIBAN, DÉFENSE ANTIAÉRIENNE EN IRAN: LE POINT SUR LE CONFLIT AU MOYEN-ORIENT ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:01",
+      "date": "01/05",
+      "timestamp": 1777611693
+    },
+    {
+      "id": "BFMTV_1777611562",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL POURRAIT \"DEVOIR AGIR À NOUVEAU\", LE \"CESSEZ-LE-FEU\" PLUS FRAGILE QUE JAMAIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:59",
+      "date": "01/05",
+      "timestamp": 1777611562
+    },
+    {
+      "id": "BFMTV_1777611305",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL SE DIT PRÊT À REPRENDRE LES FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:55",
+      "date": "01/05",
+      "timestamp": 1777611305
+    },
+    {
+      "id": "BFMTV_1777611289",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS ALLONS RÉCUPÉRER L'URANIUM\" IRANIEN, ASSURE DONALD TRUMP ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:54",
+      "date": "01/05",
+      "timestamp": 1777611289
+    },
+    {
+      "id": "BFMTV_1777610928",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA PROPAGANDE IRANIENNE IMAGINE LA REPRISE DES FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:48",
+      "date": "01/05",
+      "timestamp": 1777610928
+    },
+    {
+      "id": "BFMTV_1777610750",
+      "source": "BFMTV",
+      "text": "DEUX HOMMES EXÉCUTÉS AUX ÉTATS-UNIS, DONT UN QUI AVAIT PASSÉ PRÈS DE 50 ANS DANS LE COULOIR DE LA MORT",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:45",
+      "date": "01/05",
+      "timestamp": 1777610750
+    },
+    {
+      "id": "BFMTV_1777610658",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE EXPOSE AUX MÉDIAS UN ARSENAL PRÉSENTÉ COMME APPARTENANT AU HEZBOLLAH, DANS LE CADRE D'UNE OPÉRATION DE COMMUNICATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:44",
+      "date": "01/05",
+      "timestamp": 1777610658
+    },
     {
       "id": "BFMTV_1777607618",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "06:41",
       "date": "30/04",
       "timestamp": 1777531315
-    },
-    {
-      "id": "BFMTV_1777531191",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES FAMILLES LIBANAISES À NOUVEAU SUR LES ROUTES À CAUSE DES FRAPPES ISRAÉLIENNES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:39",
-      "date": "30/04",
-      "timestamp": 1777531191
-    },
-    {
-      "id": "BFMTV_1777531172",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"IL ESSAIE UN PEU TOUT\", DÉTAILLE ALAIN BAUER À PROPOS DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:39",
-      "date": "30/04",
-      "timestamp": 1777531172
-    },
-    {
-      "id": "BFMTV_1777527984",
-      "source": "BFMTV",
-      "text": "\"ON A DE BONNES CHANCES\": DONALD TRUMP CROIT À UN RETOUR DES AMÉRICAINS SUR LA LUNE D'ICI LA FIN DE SON MANDAT",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:46",
-      "date": "30/04",
-      "timestamp": 1777527984
-    },
-    {
-      "id": "BFMTV_1777525572",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ENVISAGE DE RÉDUIRE LA PRÉSENCE DES FORCES ARMÉES AMÉRICAINES EN ALLEMAGNE APRÈS LES CRITIQUES DU CHANCELIER SUR LA GUERRE EN IRAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:06",
-      "date": "30/04",
-      "timestamp": 1777525572
-    },
-    {
-      "id": "BFMTV_1777525297",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL MENACE D'ÉTENDRE SES FRAPPES DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:01",
-      "date": "30/04",
-      "timestamp": 1777525297
-    },
-    {
-      "id": "BFMTV_1777525050",
-      "source": "BFMTV",
-      "text": "LIBAN: LES FAMILLES À NOUVEAU SUR LES ROUTES À CAUSE DES FRAPPES ISRAÉLIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:57",
-      "date": "30/04",
-      "timestamp": 1777525050
-    },
-    {
-      "id": "BFMTV_1777524773",
-      "source": "BFMTV",
-      "text": "L'ÉTAT D'URGENCE PROCLAMÉ: LA CALIFORNIE EST CONFRONTÉE À UNE INVASION DE MOULES DORÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:52",
-      "date": "30/04",
-      "timestamp": 1777524773
-    },
-    {
-      "id": "BFMTV_1777524195",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ÉCONOMIE DES PAYS DU GOLFE DÉPEND DE L'OUVERTURE DU DÉTROIT D'ORMUZ ET DE L'EXPORT D'HYDROCARBURES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:43",
-      "date": "30/04",
-      "timestamp": 1777524195
-    },
-    {
-      "id": "BFMTV_1777523868",
-      "source": "BFMTV",
-      "text": "TIRS AU GALA DE LA PRESSE: LE SUSPECT S'EST PHOTOGRAPHIÉ, ARMÉ, JUSTE AVANT L'ATTAQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:37",
-      "date": "30/04",
-      "timestamp": 1777523868
-    },
-    {
-      "id": "BFMTV_1777523868",
-      "source": "BFMTV",
-      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:37",
-      "date": "30/04",
-      "timestamp": 1777523868
-    },
-    {
-      "id": "BFMTV_1777523803",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: VLADIMIR POUTINE MET EN GARDE DONALD TRUMP CONTRE LES \"CONSÉQUENCES DOMMAGEABLES\" QU'AURAIT UNE NOUVELLE ACTION MILITAIRE CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:36",
-      "date": "30/04",
-      "timestamp": 1777523803
-    },
-    {
-      "id": "BFMTV_1777523586",
-      "source": "BFMTV",
-      "text": "LE BRIEF DU GÉNÉRAL - LE BLOCUS AMÉRICAIN DU DÉTROIT D'ORMUZ SE JOUE AUSSI DANS LES AIRS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:33",
-      "date": "30/04",
-      "timestamp": 1777523586
-    },
-    {
-      "id": "BFMTV_1777523557",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: VLADIMIR POUTINE MET EN GARDE DONALD TRUMP CONTRE LES \"CONSÉQUENCES DOMMAGEABLES\" QU'AURAIT UNE NOUVELLE ACTION MILITAIRE CONTRE LE PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:32",
-      "date": "30/04",
-      "timestamp": 1777523557
-    },
-    {
-      "id": "BFMTV_1777523557",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:32",
-      "date": "30/04",
-      "timestamp": 1777523557
     }
   ],
   "france": {
