@@ -1,7 +1,47 @@
 {
-  "last_update": "02/05 20:25",
+  "last_update": "02/05 21:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777755454",
+      "source": "BFMTV",
+      "text": "RETRAIT MILITAIRE, CESSEZ-LE-FEU ... LES DISCUSSIONS SE POURSUIVENT ENTRE L'IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:57",
+      "date": "02/05",
+      "timestamp": 1777755454
+    },
+    {
+      "id": "BFMTV_1777755292",
+      "source": "BFMTV",
+      "text": "UN HOMME INTERPELLÉ EN AUTRICHE, SOUPÇONNÉ D'AVOIR CONTAMINÉ DES POTS POUR BÉBÉ AVEC DE LA MORT-AUX-RATS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:54",
+      "date": "02/05",
+      "timestamp": 1777755292
+    },
+    {
+      "id": "BFMTV_1777755075",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: WASHINGTON A PROPOSÉ UNE TRÊVE DE DEUX MOIS À L'IRAN, QUI VEUT RÉSOUDRE TOUTES LES QUESTIONS \"EN 30 JOURS\", SELON L'AGENCE TASNIM",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:51",
+      "date": "02/05",
+      "timestamp": 1777755075
+    },
+    {
+      "id": "BFMTV_1777753658",
+      "source": "BFMTV",
+      "text": "SOUS-MARIN DE POCHE, MISSILES, DRONES ... LES NOUVELLES ARMES DE L'IRAN, MYTHE OU RÉALITÉ ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:27",
+      "date": "02/05",
+      "timestamp": 1777753658
+    },
     {
       "id": "BFMTV_1777753233",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "16:39",
       "date": "01/05",
       "timestamp": 1777653586
-    },
-    {
-      "id": "BFMTV_1777653209",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS AUGMENTÉ LES DROITS DE DOUANE POUR LES VÉHICULES VENANT DE L'UNION EUROPÉENNE PARCE QUE L'UNION EUROPÉENNE N'A PAS RESPECTÉ LE MAGNIFIQUE ACCORD QUE NOUS AVONS CONCLU\", EXPLIQUE DONALD TRUMP ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:33",
-      "date": "01/05",
-      "timestamp": 1777653209
-    },
-    {
-      "id": "BFMTV_1777653103",
-      "source": "BFMTV",
-      "text": "\"LEURS DIRIGEANTS NE S'ENTENDENT PAS\", AFFIRME DONALD TRUMP À PROPOS DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:31",
-      "date": "01/05",
-      "timestamp": 1777653103
-    },
-    {
-      "id": "BFMTV_1777652948",
-      "source": "BFMTV",
-      "text": "\"IL Y A BEAUCOUP DE DÉSACCORDS, BEAUCOUP DE DISCORDES, BEAUCOUP DE PROBLÈMES\" AVEC L'IRAN, DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:29",
-      "date": "01/05",
-      "timestamp": 1777652948
-    },
-    {
-      "id": "BFMTV_1777652787",
-      "source": "BFMTV",
-      "text": "LES IRANIENS \"VEULENT CONCLURE UN ACCORD, MAIS JE NE SUIS PAS SATISFAIT DE LA PROPOSITION\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:26",
-      "date": "01/05",
-      "timestamp": 1777652787
     }
   ],
   "france": {
