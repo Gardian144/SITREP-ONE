@@ -1,11 +1,81 @@
 {
-  "last_update": "02/05 15:44",
+  "last_update": "02/05 16:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777738923",
+      "source": "BFMTV",
+      "text": "DANS LE GOLFE, DES BASES AMÉRICAINES ONT ÉTÉ FORTEMENT ENDOMMAGÉES PAR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:22",
+      "date": "02/05",
+      "timestamp": 1777738923
+    },
+    {
+      "id": "BFMTV_1777738766",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: \"LA GUERRE NE SE GAGNE JAMAIS UNIQUEMENT AVEC L'ARMÉE DE L'AIR, MAIS AVEC DES TROUPES AU SOL\", DÉTAILLE CHRISTIAN QUESNOT, ANCIEN CHEF D'ÉTAT-MAJOR PARTICULIER DES PRÉSIDENTS MITTERRAND ET CHIRAC",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:19",
+      "date": "02/05",
+      "timestamp": 1777738766
+    },
+    {
+      "id": "BFMTV_1777737642",
+      "source": "BFMTV",
+      "text": "IRAN: LA PRIX NOBEL DE LA PAIX NARGES MOHAMMADI HOSPITALISÉE EN URGENCE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:00",
+      "date": "02/05",
+      "timestamp": 1777737642
+    },
+    {
+      "id": "BFMTV_1777737158",
+      "source": "BFMTV",
+      "text": "L'IRANIENNE NARGES MOHAMMADI, LAURÉATE DU PRIX NOBEL DE LA PAIX ET DÉTENUE EN IRAN, HOSPITALISÉE APRÈS UNE GRAVE DÉGRADATION DE SON ÉTAT DE SANTÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:52",
+      "date": "02/05",
+      "timestamp": 1777737158
+    },
+    {
+      "id": "BFMTV_1777737018",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: UN PÉTROLIER DÉTOURNÉ AU LARGE DU YÉMEN ET CONDUIT VERS LA SOMALIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:50",
+      "date": "02/05",
+      "timestamp": 1777737018
+    },
+    {
+      "id": "BFMTV_1777736823",
+      "source": "BFMTV",
+      "text": "L'IRAN SE MOQUE DE DONALD TRUMP EN LE REPRÉSENTANT BÂILLONNÉ AVEC LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:47",
+      "date": "02/05",
+      "timestamp": 1777736823
+    },
     {
       "id": "BFMTV_1777735775",
       "source": "BFMTV",
       "text": "DEPUIS LE COMMENCEMENT DU BLOCUS DU DÉTROIT D'ORMUZ, 48 NAVIRES ONT ÉTÉ DÉTOURNÉS EN 20 JOURS, SELON LE CENTCOM",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:29",
+      "date": "02/05",
+      "timestamp": 1777735775
+    },
+    {
+      "id": "BFMTV_1777735775",
+      "source": "BFMTV",
+      "text": "DEPUIS LE DÉBUT DU BLOCUS DU DÉTROIT D'ORMUZ, 48 NAVIRES ONT ÉTÉ DÉTOURNÉS, SELON LE CENTCOM",
       "urgent": false,
       "france_related": false,
       "time": "15:29",
@@ -931,76 +1001,6 @@
       "time": "10:55",
       "date": "01/05",
       "timestamp": 1777632923
-    },
-    {
-      "id": "BFMTV_1777632801",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT AFFIRME QUE \"LES RISQUES D'ESCALADE SONT EXTRÊMEMENT ÉLEVÉS\", MAIS ASSURE QU'IL N'Y AURA \"PAS D'ENTRÉE DE LA FRANCE DANS LA GUERRE\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:53",
-      "date": "01/05",
-      "timestamp": 1777632801
-    },
-    {
-      "id": "BFMTV_1777632488",
-      "source": "BFMTV",
-      "text": "\"LE DÉTROIT D'ORMUZ DOIT ÊTRE LIBÉRÉ\", DÉCLARE JEAN-NOËL BARROT, MINISTRE DES AFFAIRES ÉTRANGÈRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:48",
-      "date": "01/05",
-      "timestamp": 1777632488
-    },
-    {
-      "id": "BFMTV_1777631992",
-      "source": "BFMTV",
-      "text": "DES SYSTÈMES DE DÉFENSE ANTIAÉRIENNE SONT ENTRÉS EN ACTION JEUDI SOIR À TÉHÉRAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:39",
-      "date": "01/05",
-      "timestamp": 1777631992
-    },
-    {
-      "id": "OPEX360_1777631750",
-      "source": "OPEX360",
-      "text": "L’ARMÉE NORVÉGIENNE A PRIS POSSESSION DE SES PREMIERS CHARS LEOPARD 2A8",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:35",
-      "date": "01/05",
-      "timestamp": 1777631750
-    },
-    {
-      "id": "BFMTV_1777631062",
-      "source": "BFMTV",
-      "text": "ENFANT INUIT RETIRÉ À SA MÈRE POUR ÊTRE PLACÉ: LES NATIONS UNIES DÉNONCENT UNE POSSIBLE \"DISCRIMINATION ETHNIQUE\" ET POINTENT DU DOIGT LE DANEMARK",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:24",
-      "date": "01/05",
-      "timestamp": 1777631062
-    },
-    {
-      "id": "BFMTV_1777630279",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"LA SITUATION N'EST PAS EN TRAIN DE S'ARRANGER\", COMMANDANT BERTRAND APPERRY, ANCIEN COMMANDANT DE NAVIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:11",
-      "date": "01/05",
-      "timestamp": 1777630279
-    },
-    {
-      "id": "BFMTV_1777629790",
-      "source": "BFMTV",
-      "text": " JÉRUSALEM: UNE RELIGIEUSE CATHOLIQUE FRANÇAISE A ÉTÉ VIOLEMMENT AGRESSÉE ",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:03",
-      "date": "01/05",
-      "timestamp": 1777629790
     }
   ],
   "france": {
