@@ -1,7 +1,147 @@
 {
-  "last_update": "02/05 03:50",
+  "last_update": "02/05 06:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777700376",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: COMMENT L'IRAN SE PRÉPARE AU RETOUR DES FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:39",
+      "date": "02/05",
+      "timestamp": 1777700376
+    },
+    {
+      "id": "BFMTV_1777700123",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP DIT N'ÊTRE \"PAS SATISFAIT\" DE LA NOUVELLE OFFRE IRANIENNE POUR RELANCER LES NÉGOCIATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:35",
+      "date": "02/05",
+      "timestamp": 1777700123
+    },
+    {
+      "id": "BFMTV_1777699783",
+      "source": "BFMTV",
+      "text": "FRAPPES AU LIBAN: L'ARMÉE ISRAÉLIENNE APPELLE À ÉVACUER NEUF VILLAGES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:29",
+      "date": "02/05",
+      "timestamp": 1777699783
+    },
+    {
+      "id": "BFMTV_1777699661",
+      "source": "BFMTV",
+      "text": "\"LA MENACE EST TOUJOURS LÀ\": LES ISRAÉLIENS SE PRÉPARENT À DE NOUVEAUX BOMBARDEMENTS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:27",
+      "date": "02/05",
+      "timestamp": 1777699661
+    },
+    {
+      "id": "BFMTV_1777699455",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS VONT RETIRER QUELQUE 5.000 MILITAIRES D'ALLEMAGNE D'ICI UN AN",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:24",
+      "date": "02/05",
+      "timestamp": 1777699455
+    },
+    {
+      "id": "BFMTV_1777699365",
+      "source": "BFMTV",
+      "text": "\"DES SLOGANS INACCEPTABLES\": LE PREMIER MINISTRE BRITANNIQUE ÉVOQUE LA POSSIBILITÉ D'INTERDIRE CERTAINES MARCHES PROPALESTINIENNES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:22",
+      "date": "02/05",
+      "timestamp": 1777699365
+    },
+    {
+      "id": "BFMTV_1777698484",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DÉCLARE DANS UNE LETTRE AU CONGRÈS QUE LES HOSTILITÉS CONTRE L'IRAN SONT \"TERMINÉES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:08",
+      "date": "02/05",
+      "timestamp": 1777698484
+    },
+    {
+      "id": "BFMTV_1777697810",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUI EST BRAD COOPER, L'HOMME QUI MURMURE À L'OREILLE DE TRUMP?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:56",
+      "date": "02/05",
+      "timestamp": 1777697810
+    },
+    {
+      "id": "BFMTV_1777697671",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL SE TIENT PRÊT À LA REPRISE DES HOSTILITÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:54",
+      "date": "02/05",
+      "timestamp": 1777697671
+    },
+    {
+      "id": "BFMTV_1777697204",
+      "source": "BFMTV",
+      "text": "AU LIBAN, LE VILLAGE CHRÉTIEN DEIR MIMAS EST COUPÉ EN DEUX PAR LA LIGNE JAUNE DESSINÉE PAR TSAHAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:46",
+      "date": "02/05",
+      "timestamp": 1777697204
+    },
+    {
+      "id": "BFMTV_1777697073",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS VONT RETIRER 5.000 MILITAIRES D'ALLEMAGNE D'ICI UN AN APRÈS LES CRITIQUES DE FRIEDRICH MERZ SUR LA STRATÉGIE AMÉRICAINE AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:44",
+      "date": "02/05",
+      "timestamp": 1777697073
+    },
+    {
+      "id": "BFMTV_1777696936",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUE CONTIENT L'OFFRE PROPOSÉE PAR L'IRAN AUX ÉTATS-UNIS POUR REPRENDRE LES NÉGOCIATIONS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "02/05",
+      "timestamp": 1777696936
+    },
+    {
+      "id": "BFMTV_1777696609",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP N'ÉCARTE PAS UN DÉBLOCAGE PAR LA FORCE DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:36",
+      "date": "02/05",
+      "timestamp": 1777696609
+    },
+    {
+      "id": "BFMTV_1777696451",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE DIRIGEANTS IRANIENS SONT \"DÉSUNIS\" ET INCAPABLES DE S'ACCORDER SUR UNE STRATÉGIE POUR SORTIR DU CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:34",
+      "date": "02/05",
+      "timestamp": 1777696451
+    },
     {
       "id": "BFMTV_1777674331",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "03:53",
       "date": "01/05",
       "timestamp": 1777607618
-    },
-    {
-      "id": "BFMTV_1777587623",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN AFFIRME QUE LE BLOCUS NAVAL AMÉRICAIN EST UN \"PROLONGEMENT DES OPÉRATIONS MILITAIRES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:20",
-      "date": "30/04",
-      "timestamp": 1777587623
-    },
-    {
-      "id": "BFMTV_1777586445",
-      "source": "BFMTV",
-      "text": "\"IL A COMMENCÉ À LA ROUER DE COUPS\": UN HOMME ARRÊTÉ APRÈS L'AGRESSION D'UNE RELIGIEUSE FRANÇAISE À JÉRUSALEM",
-      "urgent": false,
-      "france_related": true,
-      "time": "22:00",
-      "date": "30/04",
-      "timestamp": 1777586445
-    },
-    {
-      "id": "BFMTV_1777585736",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP RECHIGNE À PORTER UN GILET PARE-BALLES POUR \"NE PAS AVOIR L'AIR DE PESER 10 KILOS DE PLUS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:48",
-      "date": "30/04",
-      "timestamp": 1777585736
-    },
-    {
-      "id": "BFMTV_1777585245",
-      "source": "BFMTV",
-      "text": "IRAN: SI LES ÉTATS-UNIS REPRENNENT LE CONFLIT, ”CELA SE RETOURNERA CONTRE EUX”, SELON LE CONTRE-AMIRAL BERTRAND DE LIGNIÈRES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:40",
-      "date": "30/04",
-      "timestamp": 1777585245
-    },
-    {
-      "id": "BFMTV_1777584539",
-      "source": "BFMTV",
-      "text": "\"INTOLÉRABLE\": LE PRÉSIDENT IRANIEN QUALIFIE LE BLOCUS NAVAL AMÉRICAIN DE \"PROLONGEMENT DES OPÉRATIONS MILITAIRES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:28",
-      "date": "30/04",
-      "timestamp": 1777584539
-    },
-    {
-      "id": "BFMTV_1777583490",
-      "source": "BFMTV",
-      "text": "IRAN: LA DÉFENSE ANTIAÉRIENNE ENTENDUE À TÉHÉRAN, SELON DES MÉDIAS IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:11",
-      "date": "30/04",
-      "timestamp": 1777583490
-    },
-    {
-      "id": "BFMTV_1777580209",
-      "source": "BFMTV",
-      "text": "LIBAN: DE NOUVELLES FRAPPES ISRAÉLIENNES MEURTRIÈRES DANS LE SUD-LIBAN MALGRÉ LE CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:16",
-      "date": "30/04",
-      "timestamp": 1777580209
-    },
-    {
-      "id": "BFMTV_1777580188",
-      "source": "BFMTV",
-      "text": "\"J'AI DIT À GIANNI [INFANTINO] QU'IL POUVAIT FAIRE CE QU'IL VOULAIT\": DONALD TRUMP DIT ÊTRE D'ACCORD POUR QUE L'IRAN JOUE AUX ETATS-UNIS POUR LA MONDIAL-2026",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:16",
-      "date": "30/04",
-      "timestamp": 1777580188
-    },
-    {
-      "id": "BFMTV_1777579696",
-      "source": "BFMTV",
-      "text": "LA POSSIBILITÉ D’UNE REPRISE DU CONFLIT AVEC L’IRAN INQUIÈTE AUX ÉMIRATS ARABES UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:08",
-      "date": "30/04",
-      "timestamp": 1777579696
-    },
-    {
-      "id": "BFMTV_1777578597",
-      "source": "BFMTV",
-      "text": "IRAN: ISRAËL POURRAIT \"DEVOIR AGIR À NOUVEAU\", DÉCLARE ISRAËL KATZ, MINISTRE ISRAÉLIEN DE LA DÉFENSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:49",
-      "date": "30/04",
-      "timestamp": 1777578597
-    },
-    {
-      "id": "BFMTV_1777578376",
-      "source": "BFMTV",
-      "text": "DÉTENUE DEPUIS 2021, L'EX-DIRIGEANTE BIRMANE AUNG SAN SUU KYI PURGERA LE RESTE DE SA PEINE ASSIGNÉE À RÉSIDENCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:46",
-      "date": "30/04",
-      "timestamp": 1777578376
-    },
-    {
-      "id": "BFMTV_1777577844",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP: “L’ÉCONOMIE MONDIALE RISQUE DE S’ÉCROULER À CAUSE DE L’INCOMPÉTENCE DE CE CLOWN”, DÉPLORE BERNARD GUETTA, DÉPUTÉ EUROPÉEN RENEW",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:37",
-      "date": "30/04",
-      "timestamp": 1777577844
-    },
-    {
-      "id": "BFMTV_1777577133",
-      "source": "BFMTV",
-      "text": "PÉTROLE: “LE PRIX VA CHUTER DÈS QUE LA GUERRE PRENDRA FIN”, ANNONCE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:25",
-      "date": "30/04",
-      "timestamp": 1777577133
-    },
-    {
-      "id": "BFMTV_1777576587",
-      "source": "BFMTV",
-      "text": "IRAN/ÉTATS-UNIS: “TOUT VA MAL EN IRAN”, RÉSUME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:16",
-      "date": "30/04",
-      "timestamp": 1777576587
     }
   ],
   "france": {
