@@ -1,7 +1,37 @@
 {
-  "last_update": "02/05 21:07",
+  "last_update": "02/05 21:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777758935",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE \"LA BALLE EST DANS LE CAMP DES ÉTATS-UNIS\", ET SE DÉCLARE \"PRÊT\" À LA GUERRE OU LA DIPLOMATIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:55",
+      "date": "02/05",
+      "timestamp": 1777758935
+    },
+    {
+      "id": "BFMTV_1777758694",
+      "source": "BFMTV",
+      "text": "ENVOI DE PILULE ABORTIVE SUSPENDU: UNE REQUÊTE DÉPOSÉE EN URGENCE DEVANT LA COUR SUPRÊME AMÉRICAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:51",
+      "date": "02/05",
+      "timestamp": 1777758694
+    },
+    {
+      "id": "BFMTV_1777757192",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: MALGRÉ LES NOUVELLES DEMANDES IRANIENNES, DONALD TRUMP RESTE SILENCIEUX",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:26",
+      "date": "02/05",
+      "timestamp": 1777757192
+    },
     {
       "id": "BFMTV_1777755454",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "16:50",
       "date": "01/05",
       "timestamp": 1777654204
-    },
-    {
-      "id": "BFMTV_1777654084",
-      "source": "BFMTV",
-      "text": "IRAN: \"QUAND LA GUERRE SERA TERMINÉE, LE PRIX DE L'ESSENCE REDESCENDRA\", ASSURE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:48",
-      "date": "01/05",
-      "timestamp": 1777654084
-    },
-    {
-      "id": "BFMTV_1777654058",
-      "source": "BFMTV",
-      "text": "L'ÉGLISE DE SCIENTOLOGIE DÉNONCE \"UN HARCÈLEMENT\" APRÈS LES INTRUSIONS DANS SES BÂTIMENTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:47",
-      "date": "01/05",
-      "timestamp": 1777654058
-    },
-    {
-      "id": "BFMTV_1777653586",
-      "source": "BFMTV",
-      "text": "IRAN: \"DES NÉGOCIATIONS SONT EN COURS, MAIS ELLES N'ABOUTISSENT PAS\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:39",
-      "date": "01/05",
-      "timestamp": 1777653586
     }
   ],
   "france": {
