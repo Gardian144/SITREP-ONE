@@ -1,7 +1,57 @@
 {
-  "last_update": "02/05 17:31",
+  "last_update": "02/05 18:35",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777746098",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: 16 BASES AMÉRICAINES ONT ÉTÉ ENDOMMAGÉES PAR L'IRAN DEPUIS LE DÉBUT DE LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:21",
+      "date": "02/05",
+      "timestamp": 1777746098
+    },
+    {
+      "id": "BFMTV_1777745943",
+      "source": "BFMTV",
+      "text": "UNE COMMANDE D'ARMES D'UNE VALEUR DE 8,6 MILLIARDS DE DOLLARS SERA LIVRÉE À ISRAËL ET À DES PAYS DU GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:19",
+      "date": "02/05",
+      "timestamp": 1777745943
+    },
+    {
+      "id": "BFMTV_1777745214",
+      "source": "BFMTV",
+      "text": "L'IRAN SE DIT PRÊT SOIT À REPRENDRE LA GUERRE SOIT À NÉGOCIER, AFFIRMANT QUE \"LA BALLE EST DANS LE CAMP DES ÉTATS-UNIS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:06",
+      "date": "02/05",
+      "timestamp": 1777745214
+    },
+    {
+      "id": "BFMTV_1777743898",
+      "source": "BFMTV",
+      "text": "SOUS LE SOLEIL DE FLORIDE, DONALD TRUMP EST À MAR-A-LAGO, ENTOURÉ DE SES FIDÈLES SUPPORTERS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:44",
+      "date": "02/05",
+      "timestamp": 1777743898
+    },
+    {
+      "id": "BFMTV_1777743082",
+      "source": "BFMTV",
+      "text": "DAUPHINS KAMIKAZES: \"CELA FAIT DÉJÀ DEPUIS LES ANNÉES 60 QUE LES AMÉRICAINS ET LES RUSSES UTILISENT LES CÉTACÉS POUR DES MISSIONS\", RACONTE ÉRIC DEMAY, PRÉSIDENT-FONDATEUR DE L'OBSERVATOIRE DOLPHY",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:31",
+      "date": "02/05",
+      "timestamp": 1777743082
+    },
     {
       "id": "BFMTV_1777741793",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "14:59",
       "date": "01/05",
       "timestamp": 1777647550
-    },
-    {
-      "id": "BFMTV_1777647389",
-      "source": "BFMTV",
-      "text": "\"IL EST POSSIBLE DE RESTAURER LA BIODIVERSITÉ\": LES KIWIS RÉINTRODUITS DANS LA CAPITALE DE LA NOUVELLE-ZÉLANDE, D'OÙ ILS AVAIENT DISPARU DEPUIS PLUS DE CENT ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:56",
-      "date": "01/05",
-      "timestamp": 1777647389
-    },
-    {
-      "id": "BFMTV_1777647055",
-      "source": "BFMTV",
-      "text": "MISSILES, VÉHICULES ... DONALD TRUMP CONTINUE DE FOURNIR UNE AIDE MILITAIRE À ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:50",
-      "date": "01/05",
-      "timestamp": 1777647055
-    },
-    {
-      "id": "BFMTV_1777643449",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN A PRÉSENTÉ UNE NOUVELLE PROPOSITION AUX ÉTATS-UNIS VIA LE PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:50",
-      "date": "01/05",
-      "timestamp": 1777643449
-    },
-    {
-      "id": "BFMTV_1777642970",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LES BASES ILLUSOIRES DES ÉTATS-UNIS N'ONT MÊME PAS LA CAPACITÉ D'ASSURER LEUR PROPRE SÉCURITÉ\", AFFIRME L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:42",
-      "date": "01/05",
-      "timestamp": 1777642970
-    },
-    {
-      "id": "BFMTV_1777637952",
-      "source": "BFMTV",
-      "text": "ÉLECTION PRÉSIDENTIELLE: \"IL Y A CEUX QUI S'EN VONT, CEUX QUI BAVARDENT ET CEUX QUI SONT PRÊTS, ET NOUS SOMMES PRÊTS\", ASSURE JEAN-LUC MÉLENCHON",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:19",
-      "date": "01/05",
-      "timestamp": 1777637952
     }
   ],
   "france": {
