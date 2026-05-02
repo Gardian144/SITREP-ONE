@@ -1,7 +1,47 @@
 {
-  "last_update": "02/05 09:15",
+  "last_update": "02/05 10:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777717340",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS AFFIRMENT QUE LE BLOCUS NAVAL AMÉRICAIN DU DÉTROIT D'ORMUZ COÛTE 4,8 MILLIARDS DE DOLLARS À L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:22",
+      "date": "02/05",
+      "timestamp": 1777717340
+    },
+    {
+      "id": "BFMTV_1777716808",
+      "source": "BFMTV",
+      "text": "\"LA SANCTION DOIT ÊTRE EXEMPLAIRE\": JEAN-NOËL BARROT CONDAMNE L'AGRESSION D'UNE RELIGIEUSE FRANÇAISE À JÉRUSALEM ET DEMANDE \"QUE CESSENT LES ACTES ANTI-CHRÉTIENS\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:13",
+      "date": "02/05",
+      "timestamp": 1777716808
+    },
+    {
+      "id": "BFMTV_1777713461",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: SIX AMÉRICAINS SUR DIX JUGENT QUE L'USAGE DE LA FORCE MILITAIRE CONTRE L'IRAN ÉTAIT UNE ERREUR, SELON UN SONDAGE IPSOS POUR LE WASHINGTON POST ET ABC NEWS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:17",
+      "date": "02/05",
+      "timestamp": 1777713461
+    },
+    {
+      "id": "OPEX360_1777713396",
+      "source": "OPEX360",
+      "text": "LES ÉTATS-UNIS AUTORISENT LE QATAR À SE PROCURER 500 MISSILES DE DÉFENSE AÉRIENNE PATRIOT ET 10 000 ROQUETTES APKWS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:16",
+      "date": "02/05",
+      "timestamp": 1777713396
+    },
     {
       "id": "BFMTV_1777712256",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "06:33",
       "date": "01/05",
       "timestamp": 1777617215
-    },
-    {
-      "id": "BFMTV_1777615734",
-      "source": "BFMTV",
-      "text": "ATTAQUE ANTISÉMITE À LONDRES: UN SUSPECT INCULPÉ APRÈS L'AGRESSION DE DEUX HOMMES À L'ARME BLANCHE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:08",
-      "date": "01/05",
-      "timestamp": 1777615734
-    },
-    {
-      "id": "BFMTV_1777614394",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES FONT AU MOINS 17 MORTS DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:46",
-      "date": "01/05",
-      "timestamp": 1777614394
-    },
-    {
-      "id": "BFMTV_1777612448",
-      "source": "BFMTV",
-      "text": "L'ITALIE D'\"AUCUNE AIDE\" ET L'ESPAGNE \"ODIEUSE\": APRÈS L'ALLEMAGNE, DONALD TRUMP ENVISAGE D'AUTRES RÉDUCTIONS DE SES TROUPES MILITAIRES EN EUROPE",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:14",
-      "date": "01/05",
-      "timestamp": 1777612448
-    },
-    {
-      "id": "BFMTV_1777611693",
-      "source": "BFMTV",
-      "text": "17 MORTS AU SUD DU LIBAN, DÉFENSE ANTIAÉRIENNE EN IRAN: LE POINT SUR LE CONFLIT AU MOYEN-ORIENT ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:01",
-      "date": "01/05",
-      "timestamp": 1777611693
     }
   ],
   "france": {
