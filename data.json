@@ -1,7 +1,57 @@
 {
-  "last_update": "02/05 16:31",
+  "last_update": "02/05 17:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777741793",
+      "source": "BFMTV",
+      "text": "PRIX DES CARBURANTS: \"ON EST ÉCOUTÉ, MAIS ON N'EST PAS ENTENDU\", DÉNONCE PATRICK LEGRAS, PRÉSIDENT DE LA COORDINATION RURALE DES HAUTS-DE-FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:09",
+      "date": "02/05",
+      "timestamp": 1777741793
+    },
+    {
+      "id": "BFMTV_1777740694",
+      "source": "BFMTV",
+      "text": "\"COMME DES PIRATES\": LORS DE SON ALLOCUTION CE VENDREDI, DONALD TRUMP S'EST FÉLICITÉ DE LA CAPTURE D'UN NAVIRE IRANIEN ET DE SA CARGAISON PÉTROLIÈRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:51",
+      "date": "02/05",
+      "timestamp": 1777740694
+    },
+    {
+      "id": "BFMTV_1777740515",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE \"LA BALLE EST DANS LE CAMP DES ÉTATS-UNIS\", ET SE DÉCLARE \"PRÊT\" À LA GUERRE OU LA DIPLOMATIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:48",
+      "date": "02/05",
+      "timestamp": 1777740515
+    },
+    {
+      "id": "BFMTV_1777740386",
+      "source": "BFMTV",
+      "text": "LE VICE-MINISTRE IRANIEN DES AFFAIRES ÉTRANGÈRES ASSURE QUE \"L'IRAN EST PLEINEMENT PRÊT À FAIRE FACE À TOUTE AGRESSION\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:46",
+      "date": "02/05",
+      "timestamp": 1777740386
+    },
+    {
+      "id": "BFMTV_1777739673",
+      "source": "BFMTV",
+      "text": "UN HAUT GRADÉ DE L'ARMÉE ISRAÉLIENNE A DÉCLARÉ QUE SI L'IRAN GARDAIT SON URANIUM ENRICHI, CE SERAIT UN ÉCHEC TOTAL POUR ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:34",
+      "date": "02/05",
+      "timestamp": 1777739673
+    },
     {
       "id": "BFMTV_1777738923",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "12:19",
       "date": "01/05",
       "timestamp": 1777637952
-    },
-    {
-      "id": "BFMTV_1777636811",
-      "source": "BFMTV",
-      "text": "AUSTRALIE: DES AFFRONTEMENTS APRÈS LE MEURTRE D’UNE PETITE FILLE ABORIGÈNE DE 5 ANS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:00",
-      "date": "01/05",
-      "timestamp": 1777636811
-    },
-    {
-      "id": "BFMTV_1777634647",
-      "source": "BFMTV",
-      "text": "LE DOSSIER DU 13H - GUERRE AU MOYEN-ORIENT: LES FRAPPES EN IRAN PEUVENT-ELLES REPRENDRE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:24",
-      "date": "01/05",
-      "timestamp": 1777634647
-    },
-    {
-      "id": "BFMTV_1777633401",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN REJETTE TOUTE POLITIQUE \"IMPOSÉE\" SOUS LA MENACE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:03",
-      "date": "01/05",
-      "timestamp": 1777633401
-    },
-    {
-      "id": "BFMTV_1777632995",
-      "source": "BFMTV",
-      "text": "JEAN-NOËL BARROT ASSURE QU'IL N'Y AURA \"PAS D'ENTRÉE DE LA FRANCE\" DANS LA GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:56",
-      "date": "01/05",
-      "timestamp": 1777632995
-    },
-    {
-      "id": "BFMTV_1777632923",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: FACE AU RISQUE \"EXTRÊMEMENT ÉLEVÉ\" D'ESCALADE, JEAN-NOËL BARROT APPELLE À CE QUE \"DES NÉGOCIATIONS S'ENGAGENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:55",
-      "date": "01/05",
-      "timestamp": 1777632923
     }
   ],
   "france": {
