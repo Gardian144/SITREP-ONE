@@ -1,7 +1,57 @@
 {
-  "last_update": "02/05 10:27",
+  "last_update": "02/05 11:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777720873",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS 16 BASES MILITAIRES ONT ÉTÉ ENDOMMAGÉES PAR L'IRAN DANS LA RÉGION, SELON CNN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:21",
+      "date": "02/05",
+      "timestamp": 1777720873
+    },
+    {
+      "id": "BFMTV_1777720764",
+      "source": "BFMTV",
+      "text": "DEUX MILITANTS DE LA \"FLOTTILLE POUR GAZA\" ARRÊTÉS AU LARGE DE LA GRÈCE SONT ARRIVÉS EN ISRAËL POUR ÊTRE INTERROGÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:19",
+      "date": "02/05",
+      "timestamp": 1777720764
+    },
+    {
+      "id": "BFMTV_1777719137",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL MET L'ACCENT SUR LA NÉCESSAIRE RÉCUPÉRATION DE L'URANIUM IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:52",
+      "date": "02/05",
+      "timestamp": 1777719137
+    },
+    {
+      "id": "OPEX360_1777718816",
+      "source": "OPEX360",
+      "text": "LES ÉTATS-UNIS ANNULENT LE DÉPLOIEMENT DE MISSILES À LONGUE PORTÉE ET D’ARMES HYPERSONIQUES EN ALLEMAGNE",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:46",
+      "date": "02/05",
+      "timestamp": 1777718816
+    },
+    {
+      "id": "BFMTV_1777718087",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP SE VANTE DE LA SAISIE \"TRÈS LUCRATIVE\" D’UN NAVIRE IRANIEN ET DE SA CARGAISON DE PÉTROLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:34",
+      "date": "02/05",
+      "timestamp": 1777718087
+    },
     {
       "id": "BFMTV_1777717340",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "07:29",
       "date": "01/05",
       "timestamp": 1777620553
-    },
-    {
-      "id": "BFMTV_1777619919",
-      "source": "BFMTV",
-      "text": "ANTÉCÉDENTS, SANTÉ MENTALE... QUEL EST LE PROFIL DU SUSPECT DE L'ATTAQUE ANTISÉMITE DE LONDRES ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:18",
-      "date": "01/05",
-      "timestamp": 1777619919
-    },
-    {
-      "id": "BFMTV_1777619395",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP PRÊT À IGNORER LE CONGRÈS ALORS QU'ARRIVE LA DATE LIMITE POUR OBTENIR L’AUTORISATION DU CONGRÈS DANS LA POURSUITE DU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:09",
-      "date": "01/05",
-      "timestamp": 1777619395
-    },
-    {
-      "id": "BFMTV_1777619134",
-      "source": "BFMTV",
-      "text": "L'ARTISTE BANKSY REVENDIQUE UNE NOUVELLE STATUE AU CŒUR DE LONDRES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:05",
-      "date": "01/05",
-      "timestamp": 1777619134
-    },
-    {
-      "id": "BFMTV_1777617551",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: DE NOUVEAUX RAIDS ISRAÉLIENS FONT AU MOINS 17 MORTS DANS LE SUD DU LIBAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:39",
-      "date": "01/05",
-      "timestamp": 1777617551
-    },
-    {
-      "id": "BFMTV_1777617215",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP JR. À LA PRÉSENTATION DE \"THE APPRENTICE\"? AMAZON RÉFLÉCHIT À UN REBOOT DE L'EX-ÉMISSION DU PRÉSIDENT AMÉRICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:33",
-      "date": "01/05",
-      "timestamp": 1777617215
     }
   ],
   "france": {
