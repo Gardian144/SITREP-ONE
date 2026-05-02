@@ -1,7 +1,57 @@
 {
-  "last_update": "02/05 06:06",
+  "last_update": "02/05 07:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777708156",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: UN RESPONSABLE MILITAIRE IRANIEN JUGE \"PROBABLE\" UNE REPRISE DU CONFLIT AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:49",
+      "date": "02/05",
+      "timestamp": 1777708156
+    },
+    {
+      "id": "BFMTV_1777706347",
+      "source": "BFMTV",
+      "text": "UNE COUR D'APPEL AMÉRICAINE SUSPEND PROVISOIREMENT L'ENVOI POSTAL DE LA PILULE ABORTIVE, UN DISTRIBUTEUR VEUT SAISIR LA COUR SUPRÊME",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:19",
+      "date": "02/05",
+      "timestamp": 1777706347
+    },
+    {
+      "id": "BFMTV_1777703090",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN RESPONSABLE MILITAIRE IRANIEN JUGE \"PROBABLE\" UNE REPRISE DU CONFLIT AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:24",
+      "date": "02/05",
+      "timestamp": 1777703090
+    },
+    {
+      "id": "BFMTV_1777702499",
+      "source": "BFMTV",
+      "text": "DROITS DE DOUANE AMÉRICAINS: DONALD TRUMP ACCUSE L'UE DE NE PAS RESPECTER LEUR ACCORD COMMERCIAL ET ANNONCE UNE TAXE DE 25% SUR LES VÉHICULES EUROPÉENS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:14",
+      "date": "02/05",
+      "timestamp": 1777702499
+    },
+    {
+      "id": "BFMTV_1777702043",
+      "source": "BFMTV",
+      "text": "AU MOINS 16 INSTALLATIONS MILITAIRES AMÉRICAINES AU MOYEN-ORIENT ONT ÉTÉ FRAPPÉES PAR L'IRAN DEPUIS LE DÉBUT DU CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:07",
+      "date": "02/05",
+      "timestamp": 1777702043
+    },
     {
       "id": "BFMTV_1777700376",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "04:55",
       "date": "01/05",
       "timestamp": 1777611305
-    },
-    {
-      "id": "BFMTV_1777611289",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS ALLONS RÉCUPÉRER L'URANIUM\" IRANIEN, ASSURE DONALD TRUMP ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:54",
-      "date": "01/05",
-      "timestamp": 1777611289
-    },
-    {
-      "id": "BFMTV_1777610928",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA PROPAGANDE IRANIENNE IMAGINE LA REPRISE DES FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:48",
-      "date": "01/05",
-      "timestamp": 1777610928
-    },
-    {
-      "id": "BFMTV_1777610750",
-      "source": "BFMTV",
-      "text": "DEUX HOMMES EXÉCUTÉS AUX ÉTATS-UNIS, DONT UN QUI AVAIT PASSÉ PRÈS DE 50 ANS DANS LE COULOIR DE LA MORT",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:45",
-      "date": "01/05",
-      "timestamp": 1777610750
-    },
-    {
-      "id": "BFMTV_1777610658",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE EXPOSE AUX MÉDIAS UN ARSENAL PRÉSENTÉ COMME APPARTENANT AU HEZBOLLAH, DANS LE CADRE D'UNE OPÉRATION DE COMMUNICATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:44",
-      "date": "01/05",
-      "timestamp": 1777610658
-    },
-    {
-      "id": "BFMTV_1777607618",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LES SYSTÈMES DE DÉFENSE ANTIAÉRIENNE BRIÈVEMENT ENTRÉS EN ACTION À TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:53",
-      "date": "01/05",
-      "timestamp": 1777607618
     }
   ],
   "france": {
