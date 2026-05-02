@@ -1,7 +1,47 @@
 {
-  "last_update": "02/05 12:06",
+  "last_update": "02/05 13:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777728652",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS APPROUVENT LA VENTE DE MISSILES ANTI-MISSILES PATRIOT AU QATAR POUR QUATRE MILLIARDS DE DOLLARS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:30",
+      "date": "02/05",
+      "timestamp": 1777728652
+    },
+    {
+      "id": "BFMTV_1777728335",
+      "source": "BFMTV",
+      "text": "CE QUE L'ON SAIT DE L'URANIUM ENRICHI EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:25",
+      "date": "02/05",
+      "timestamp": 1777728335
+    },
+    {
+      "id": "OPEX360_1777728149",
+      "source": "OPEX360",
+      "text": "LE CANADA A DISCRÈTEMENT COMMANDÉ DES LANCE-ROQUETTES MULTIPLES M142 HIMARS AUPRÈS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:22",
+      "date": "02/05",
+      "timestamp": 1777728149
+    },
+    {
+      "id": "BFMTV_1777724899",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BFMTV DANS UN VILLAGE BOMBARDÉ CE VENDREDI DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:28",
+      "date": "02/05",
+      "timestamp": 1777724899
+    },
     {
       "id": "BFMTV_1777720873",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "08:51",
       "date": "01/05",
       "timestamp": 1777625510
-    },
-    {
-      "id": "BFMTV_1777624814",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:40",
-      "date": "01/05",
-      "timestamp": 1777624814
-    },
-    {
-      "id": "BFMTV_1777624813",
-      "source": "BFMTV",
-      "text": "\"FLOTTILLE POUR GAZA\": DES DIZAINES DE MILITANTS ARRÊTÉS PAR LES FORCES ISRAÉLIENNES ONT DÉBARQUÉ EN GRÈCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:40",
-      "date": "01/05",
-      "timestamp": 1777624813
-    },
-    {
-      "id": "BFMTV_1777624705",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS EXPÉDIENT 6.500 TONNES DE MUNITIONS À ISRAËL EN 24 HEURES",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:38",
-      "date": "01/05",
-      "timestamp": 1777624705
-    },
-    {
-      "id": "BFMTV_1777623395",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE IRANIENNE SERAIT PLUS PUISSANTE QUE NE LE RECONNAÎT PUBLIQUEMENT L'ADMINISTRATION TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:16",
-      "date": "01/05",
-      "timestamp": 1777623395
     }
   ],
   "france": {
