@@ -1,7 +1,47 @@
 {
-  "last_update": "03/05 11:58",
+  "last_update": "03/05 13:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777814871",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ALLEMAGNE EXIGE AUPRÈS DE L'IRAN LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:27",
+      "date": "03/05",
+      "timestamp": 1777814871
+    },
+    {
+      "id": "BFMTV_1777814275",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: L'IRAN PROMET DE TRANSFORMER LE DÉTROIT D'ORMUZ EN \"CIMETIÈRE DE PORTE-AVIONS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:17",
+      "date": "03/05",
+      "timestamp": 1777814275
+    },
+    {
+      "id": "BFMTV_1777812431",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS INDICES LAISSENT PENSER À UNE REPRISE IMMINENTE DES FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:47",
+      "date": "03/05",
+      "timestamp": 1777812431
+    },
+    {
+      "id": "BFMTV_1777809637",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL AURAIT DÉTRUIT \"UN BÂTIMENT RELIGIEUX\" DANS LE SUD-LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:00",
+      "date": "03/05",
+      "timestamp": 1777809637
+    },
     {
       "id": "BFMTV_1777808852",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "08:16",
       "date": "02/05",
       "timestamp": 1777709775
-    },
-    {
-      "id": "BFMTV_1777708156",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: UN RESPONSABLE MILITAIRE IRANIEN JUGE \"PROBABLE\" UNE REPRISE DU CONFLIT AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:49",
-      "date": "02/05",
-      "timestamp": 1777708156
-    },
-    {
-      "id": "BFMTV_1777706347",
-      "source": "BFMTV",
-      "text": "UNE COUR D'APPEL AMÉRICAINE SUSPEND PROVISOIREMENT L'ENVOI POSTAL DE LA PILULE ABORTIVE, UN DISTRIBUTEUR VEUT SAISIR LA COUR SUPRÊME",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:19",
-      "date": "02/05",
-      "timestamp": 1777706347
-    },
-    {
-      "id": "BFMTV_1777703090",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN RESPONSABLE MILITAIRE IRANIEN JUGE \"PROBABLE\" UNE REPRISE DU CONFLIT AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:24",
-      "date": "02/05",
-      "timestamp": 1777703090
-    },
-    {
-      "id": "BFMTV_1777702499",
-      "source": "BFMTV",
-      "text": "DROITS DE DOUANE AMÉRICAINS: DONALD TRUMP ACCUSE L'UE DE NE PAS RESPECTER LEUR ACCORD COMMERCIAL ET ANNONCE UNE TAXE DE 25% SUR LES VÉHICULES EUROPÉENS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:14",
-      "date": "02/05",
-      "timestamp": 1777702499
     }
   ],
   "france": {
