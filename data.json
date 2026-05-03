@@ -1,7 +1,37 @@
 {
-  "last_update": "03/05 17:27",
+  "last_update": "03/05 18:29",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777832780",
+      "source": "BFMTV",
+      "text": "ARSENAL MILITAIRE: ISRAËL SE RENFORCE MASSIVEMENT DANS LES AIRS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:26",
+      "date": "03/05",
+      "timestamp": 1777832780
+    },
+    {
+      "id": "BFMTV_1777832561",
+      "source": "BFMTV",
+      "text": "QUESTION DES FRANÇAIS SUR LA GUERRE EN IRAN: POURQUOI LES ÉTATS-UNIS NE FONT-ILS PAS COMME AVEC LE JAPON ?",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:22",
+      "date": "03/05",
+      "timestamp": 1777832561
+    },
+    {
+      "id": "BFMTV_1777832123",
+      "source": "BFMTV",
+      "text": "QUESTION DES FRANÇAIS SUR LA GUERRE EN IRAN: DONALD TRUMP VA-T-IL DE NOUVEAU BOMBARDER L'IRAN CETTE SEMAINE ?",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:15",
+      "date": "03/05",
+      "timestamp": 1777832123
+    },
     {
       "id": "BFMTV_1777826379",
       "source": "BFMTV",
@@ -76,6 +106,16 @@
       "id": "BFMTV_1777823132",
       "source": "BFMTV",
       "text": "UN FOYER DE SYNDROME RESPIRATOIRE AIGU SE DÉCLARE SUR UN BATEAU DE CROISIÈRE DANS L'ATLANTIQUE, DEUX MORTS ET UN HOMME EN SOINS INTENSIFS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:45",
+      "date": "03/05",
+      "timestamp": 1777823132
+    },
+    {
+      "id": "BFMTV_1777823132",
+      "source": "BFMTV",
+      "text": "UN FOYER DE SYNDROME RESPIRATOIRE AIGU SE DÉCLARE SUR UN BATEAU DE CROISIÈRE DANS L'ATLANTIQUE, TROIS MORTS ET UN HOMME EN SOINS INTENSIFS",
       "urgent": false,
       "france_related": false,
       "time": "15:45",
@@ -961,46 +1001,6 @@
       "time": "15:12",
       "date": "02/05",
       "timestamp": 1777734755
-    },
-    {
-      "id": "BFMTV_1777734156",
-      "source": "BFMTV",
-      "text": "L'IRAN AVERTIT D'UNE RIPOSTE MASSIVE EN CAS D'ATTAQUE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:02",
-      "date": "02/05",
-      "timestamp": 1777734156
-    },
-    {
-      "id": "BFMTV_1777729934",
-      "source": "BFMTV",
-      "text": "\"PEUT-ÊTRE QU'INCONSCIEMMENT, JE SAVAIS\": CES DEUX JUMELLES DÉCOUVRENT QUARANTE ANS APRÈS QU'ELLES NE SONT PAS NÉES DU MÊME PÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:52",
-      "date": "02/05",
-      "timestamp": 1777729934
-    },
-    {
-      "id": "BFMTV_1777729919",
-      "source": "BFMTV",
-      "text": "UN PÉTROLIER DÉTOURNÉ AU LARGE DU YÉMEN ET DÉROUTÉ VERS LA SOMALIE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:51",
-      "date": "02/05",
-      "timestamp": 1777729919
-    },
-    {
-      "id": "BFMTV_1777728652",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS APPROUVENT LA VENTE DE MISSILES ANTI-MISSILES PATRIOT AU QATAR POUR QUATRE MILLIARDS DE DOLLARS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:30",
-      "date": "02/05",
-      "timestamp": 1777728652
     }
   ],
   "france": {
