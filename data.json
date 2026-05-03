@@ -1,7 +1,37 @@
 {
-  "last_update": "03/05 14:33",
+  "last_update": "03/05 15:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777821927",
+      "source": "BFMTV",
+      "text": "DANS CES NOUVELLES IMAGES DE PROPAGANDE IRANIENNE, TÉHÉRAN DÉPEINT DONALD TRUMP SOUS LES TRAITS D'UN MINION",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:25",
+      "date": "03/05",
+      "timestamp": 1777821927
+    },
+    {
+      "id": "BFMTV_1777819551",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: UN SUPERTANKER IRANIEN AURAIT CONTOURNÉ LE BLOCUS NAVAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:45",
+      "date": "03/05",
+      "timestamp": 1777819551
+    },
+    {
+      "id": "BFMTV_1777819201",
+      "source": "BFMTV",
+      "text": "NOUVEAUX AVIONS DE CHASSE: ISRAËL RENFORCE SON ARSENAL MILITAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:40",
+      "date": "03/05",
+      "timestamp": 1777819201
+    },
     {
       "id": "BFMTV_1777818276",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "10:46",
       "date": "02/05",
       "timestamp": 1777718816
-    },
-    {
-      "id": "BFMTV_1777718087",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP SE VANTE DE LA SAISIE \"TRÈS LUCRATIVE\" D’UN NAVIRE IRANIEN ET DE SA CARGAISON DE PÉTROLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:34",
-      "date": "02/05",
-      "timestamp": 1777718087
-    },
-    {
-      "id": "BFMTV_1777717340",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS AFFIRMENT QUE LE BLOCUS NAVAL AMÉRICAIN DU DÉTROIT D'ORMUZ COÛTE 4,8 MILLIARDS DE DOLLARS À L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:22",
-      "date": "02/05",
-      "timestamp": 1777717340
-    },
-    {
-      "id": "BFMTV_1777716808",
-      "source": "BFMTV",
-      "text": "\"LA SANCTION DOIT ÊTRE EXEMPLAIRE\": JEAN-NOËL BARROT CONDAMNE L'AGRESSION D'UNE RELIGIEUSE FRANÇAISE À JÉRUSALEM ET DEMANDE \"QUE CESSENT LES ACTES ANTI-CHRÉTIENS\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:13",
-      "date": "02/05",
-      "timestamp": 1777716808
     }
   ],
   "france": {
