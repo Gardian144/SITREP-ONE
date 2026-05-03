@@ -1,7 +1,67 @@
 {
-  "last_update": "03/05 18:29",
+  "last_update": "03/05 19:35",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777836641",
+      "source": "BFMTV",
+      "text": "QUESTION DES FRANÇAIS SUR LES PRIX DES CARBURANTS: L'ESSENCE À LA POMPE RESTERA-T-ELLE LONGTEMPS AU-DESSUS DE 2 EUROS ?",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:30",
+      "date": "03/05",
+      "timestamp": 1777836641
+    },
+    {
+      "id": "BFMTV_1777836112",
+      "source": "BFMTV",
+      "text": "QUESTION DES FRANÇAIS SUR LA GUERRE EN IRAN: SELON VOUS, QUAND LA GUERRE EN IRAN VA-T-ELLE SE TERMINER ?",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:21",
+      "date": "03/05",
+      "timestamp": 1777836112
+    },
+    {
+      "id": "BFMTV_1777835986",
+      "source": "BFMTV",
+      "text": "QUESTION DES FRANÇAIS SUR LA GUERRE EN IRAN: POURQUOI ON ENTEND PLUS PARLER DE LA RÉVOLTE DU PEUPLE IRANIEN ? BLACK-OUT TOTAL DE L'INFORMATION ?",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:19",
+      "date": "03/05",
+      "timestamp": 1777835986
+    },
+    {
+      "id": "BFMTV_1777834517",
+      "source": "BFMTV",
+      "text": "QUESTION DES FRANÇAIS SUR LA GUERRE EN IRAN: EST-CE QUE L'IRAN EST AIDÉ PAR LA RUSSIE DE POUTINE ?",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:55",
+      "date": "03/05",
+      "timestamp": 1777834517
+    },
+    {
+      "id": "BFMTV_1777834407",
+      "source": "BFMTV",
+      "text": "QUESTION DES FRANÇAIS SUR LA GUERRE EN IRAN: L'IRAN A-T-IL VRAIMENT LES MOYENS DE FABRIQUER 11 BOMBES NUCLÉAIRES ?",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:53",
+      "date": "03/05",
+      "timestamp": 1777834407
+    },
+    {
+      "id": "BFMTV_1777833011",
+      "source": "BFMTV",
+      "text": "QUESTION DES FRANÇAIS SUR LA GUERRE EN IRAN: SI TRUMP BOMBARDE ENCORE, EST-CE QUE ÇA PEUT PARTIR EN GUERRE MONDIALE ?",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:30",
+      "date": "03/05",
+      "timestamp": 1777833011
+    },
     {
       "id": "BFMTV_1777832780",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "16:00",
       "date": "02/05",
       "timestamp": 1777737642
-    },
-    {
-      "id": "BFMTV_1777737158",
-      "source": "BFMTV",
-      "text": "L'IRANIENNE NARGES MOHAMMADI, LAURÉATE DU PRIX NOBEL DE LA PAIX ET DÉTENUE EN IRAN, HOSPITALISÉE APRÈS UNE GRAVE DÉGRADATION DE SON ÉTAT DE SANTÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:52",
-      "date": "02/05",
-      "timestamp": 1777737158
-    },
-    {
-      "id": "BFMTV_1777737018",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: UN PÉTROLIER DÉTOURNÉ AU LARGE DU YÉMEN ET CONDUIT VERS LA SOMALIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:50",
-      "date": "02/05",
-      "timestamp": 1777737018
-    },
-    {
-      "id": "BFMTV_1777736823",
-      "source": "BFMTV",
-      "text": "L'IRAN SE MOQUE DE DONALD TRUMP EN LE REPRÉSENTANT BÂILLONNÉ AVEC LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:47",
-      "date": "02/05",
-      "timestamp": 1777736823
-    },
-    {
-      "id": "BFMTV_1777735775",
-      "source": "BFMTV",
-      "text": "DEPUIS LE COMMENCEMENT DU BLOCUS DU DÉTROIT D'ORMUZ, 48 NAVIRES ONT ÉTÉ DÉTOURNÉS EN 20 JOURS, SELON LE CENTCOM",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:29",
-      "date": "02/05",
-      "timestamp": 1777735775
-    },
-    {
-      "id": "BFMTV_1777735775",
-      "source": "BFMTV",
-      "text": "DEPUIS LE DÉBUT DU BLOCUS DU DÉTROIT D'ORMUZ, 48 NAVIRES ONT ÉTÉ DÉTOURNÉS, SELON LE CENTCOM",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:29",
-      "date": "02/05",
-      "timestamp": 1777735775
-    },
-    {
-      "id": "BFMTV_1777734755",
-      "source": "BFMTV",
-      "text": "ACCORD AVEC L'IRAN, RENCONTRE AVEC LES PARTISANS ... RETOUR SUR LA PRISE DE PAROLE DE DONALD TRUMP CE VENDREDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:12",
-      "date": "02/05",
-      "timestamp": 1777734755
     }
   ],
   "france": {
