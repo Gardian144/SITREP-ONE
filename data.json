@@ -1,7 +1,147 @@
 {
-  "last_update": "03/05 01:21",
+  "last_update": "03/05 04:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777784092",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL CONFIRME AVOIR FRAPPÉ UN COUVENT AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:54",
+      "date": "03/05",
+      "timestamp": 1777784092
+    },
+    {
+      "id": "BFMTV_1777783707",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BFMTV SUR LES LIEUX D'UNE FRAPPE MORTELLE, À ZRARIYEH, DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:48",
+      "date": "03/05",
+      "timestamp": 1777783707
+    },
+    {
+      "id": "BFMTV_1777783576",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT QU'IL VA \"ÉTUDIER\" UN PLAN IRANIEN POUR RÉSOUDRE LE CONFLIT, MAIS QU'IL \"NE PEUT IMAGINER QU'IL SOIT ACCEPTABLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:46",
+      "date": "03/05",
+      "timestamp": 1777783576
+    },
+    {
+      "id": "BFMTV_1777783235",
+      "source": "BFMTV",
+      "text": "PLAN PROPOSÉ PAR L'IRAN: TÉHÉRAN DONNE UN MOIS AUX ÉTATS-UNIS POUR ROUVRIR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:40",
+      "date": "03/05",
+      "timestamp": 1777783235
+    },
+    {
+      "id": "BFMTV_1777782875",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DU VICE-PRÉSIDENT IRANIEN EN VISITE SURPRISE À TÉHÉRAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:34",
+      "date": "03/05",
+      "timestamp": 1777782875
+    },
+    {
+      "id": "BFMTV_1777782465",
+      "source": "BFMTV",
+      "text": "SUD-LIBAN: LES DERNIÈRES 24H ONT ÉTÉ LES PLUS SANGLANTES DEPUIS LE DÉBUT DU CESSEZ-LE-FEU",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:27",
+      "date": "03/05",
+      "timestamp": 1777782465
+    },
+    {
+      "id": "BFMTV_1777782284",
+      "source": "BFMTV",
+      "text": "\"UNE AFFAIRE PROFONDÉMENT BOULEVERSANTE\": UN HOMME INCULPÉ POUR LE MEURTRE D'UNE PETITE FILLE ABORIGÈNE ÂGÉE DE 5 ANS EN AUSTRALIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:24",
+      "date": "03/05",
+      "timestamp": 1777782284
+    },
+    {
+      "id": "BFMTV_1777781684",
+      "source": "BFMTV",
+      "text": "\"ON AIMERAIT BIEN AVOIR CES PRIX-LÀ EN FRANCE\": CES FRANÇAIS QUI FONT LE PLEIN EN ESPAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:14",
+      "date": "03/05",
+      "timestamp": 1777781684
+    },
+    {
+      "id": "BFMTV_1777781571",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE DÉTROIT D'ORMUZ TOUJOURS AU CŒUR D'UN BRAS DE FER ENTRE L'IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:12",
+      "date": "03/05",
+      "timestamp": 1777781571
+    },
+    {
+      "id": "BFMTV_1777781435",
+      "source": "BFMTV",
+      "text": "YÉMEN: UN PÉTROLIER DÉTOURNÉ PAR DES HOMMES ARMÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:10",
+      "date": "03/05",
+      "timestamp": 1777781435
+    },
+    {
+      "id": "BFMTV_1777781252",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: COMMENT TÉHÉRAN VEUT METTRE FIN AU CONFLIT AVEC SON PLAN EN 14 POINTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:07",
+      "date": "03/05",
+      "timestamp": 1777781252
+    },
+    {
+      "id": "BFMTV_1777781145",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP \"VA ÉTUDIER\" LE NOUVEAU PLAN PROPOSÉ PAR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:05",
+      "date": "03/05",
+      "timestamp": 1777781145
+    },
+    {
+      "id": "BFMTV_1777781043",
+      "source": "BFMTV",
+      "text": "PLAN DE PAIX PROPOSÉ PAR L'IRAN: LES ÉTATS-UNIS DOIVENT CHOISIR ENTRE LA \"DIPLOMATIE\" OU \"LA POURSUITE D'UNE APPROCHE CONFLICTUELLE\", ASSURE TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:04",
+      "date": "03/05",
+      "timestamp": 1777781043
+    },
+    {
+      "id": "BFMTV_1777780128",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP DIT QU'IL VA \"ÉTUDIER UN PLAN\" TRANSMIS PAR TÉHÉRAN, MAIS DOUTE QU'IL SOIT \"ACCEPTABLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "03:48",
+      "date": "03/05",
+      "timestamp": 1777780128
+    },
     {
       "id": "BFMTV_1777758935",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "20:26",
       "date": "01/05",
       "timestamp": 1777667190
-    },
-    {
-      "id": "BFMTV_1777666507",
-      "source": "BFMTV",
-      "text": "\"IL Y A EU UNE TENTATIVE D'ASSASSINAT, JE DEVRAIS ÊTRE DANS UN BUNKER\", DÉCLARE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:15",
-      "date": "01/05",
-      "timestamp": 1777666507
-    },
-    {
-      "id": "BFMTV_1777665153",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE ANNONCE AVOIR TOUCHÉ 40 CIBLES EN 24 HEURES DANS LE SUD-LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:52",
-      "date": "01/05",
-      "timestamp": 1777665153
-    },
-    {
-      "id": "BFMTV_1777663450",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP EST ARRIVÉ EN FLORIDE POUR SON MEETING, UN MEETING À SUIVRE SUR BFMTV",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:24",
-      "date": "01/05",
-      "timestamp": 1777663450
-    },
-    {
-      "id": "BFMTV_1777662377",
-      "source": "BFMTV",
-      "text": "D'APRÈS LE WALL STREET JOURNAL, DES RESPONSABLES IRANIENS ONT AFFIRMÉ QUE TÉHÉRAN POURRAIT RECOURIR À DES ARMES QUI ÉTAIENT JUSQU'À PRÉSENT INUTILISÉES",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:06",
-      "date": "01/05",
-      "timestamp": 1777662377
-    },
-    {
-      "id": "BFMTV_1777661216",
-      "source": "BFMTV",
-      "text": "IRAN: \"JE DEMANDERAIS À DONALD TRUMP DE PRÉCISER SES OBJECTIFS\", DÉTAILLE JEAN-PAUL PALOMÉROS, ANCIEN CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE L'AIR",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:46",
-      "date": "01/05",
-      "timestamp": 1777661216
-    },
-    {
-      "id": "BFMTV_1777661076",
-      "source": "BFMTV",
-      "text": "APRÈS LA FERMETURE D'UNE DÉCHARGE, BALI SE RETROUVE DANS UNE GRAVE CRISE DES DÉCHETS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:44",
-      "date": "01/05",
-      "timestamp": 1777661076
-    },
-    {
-      "id": "BFMTV_1777660728",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP NE SE DIT \"PAS SATISFAIT\" DE LA NOUVELLE OFFRE DE L'IRAN POUR RELANCER LES NÉGOCIATIONS ET MENACE DE \"PULVÉRISER\" LE PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:38",
-      "date": "01/05",
-      "timestamp": 1777660728
-    },
-    {
-      "id": "BFMTV_1777660728",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:38",
-      "date": "01/05",
-      "timestamp": 1777660728
-    },
-    {
-      "id": "BFMTV_1777660353",
-      "source": "BFMTV",
-      "text": "NEW YORK: UNE MAISON EXPLOSE ALORS QUE DES POLICIERS S'APPRÊTENT À RENTRER DEDANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:32",
-      "date": "01/05",
-      "timestamp": 1777660353
-    },
-    {
-      "id": "BFMTV_1777659797",
-      "source": "BFMTV",
-      "text": "POUR DONALD TRUMP, IL Y A \"DEUX OPTIONS\", SOIT \"DÉTRUIRE\" L'IRAN, SOIT \"TROUVER UN ACCORD\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:23",
-      "date": "01/05",
-      "timestamp": 1777659797
-    },
-    {
-      "id": "BFMTV_1777658990",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP SE PRÉPARE POUR LES ÉLECTIONS DE MI-MANDAT AVEC UN DISCOURS EN FLORIDE AXÉ SUR L'ÉCONOMIE CE SOIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:09",
-      "date": "01/05",
-      "timestamp": 1777658990
-    },
-    {
-      "id": "BFMTV_1777655623",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP, \"PAS SATISFAIT\", REJETTE LA NOUVELLE PROPOSITION D'ACCORD DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:13",
-      "date": "01/05",
-      "timestamp": 1777655623
-    },
-    {
-      "id": "BFMTV_1777654240",
-      "source": "BFMTV",
-      "text": "IRAN: POUR DONALD TRUMP, IL Y A \"DEUX OPTIONS\", SOIT \"DÉTRUIRE\" LE PAYS, SOIT \"TROUVER UN ACCORD\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:50",
-      "date": "01/05",
-      "timestamp": 1777654240
-    },
-    {
-      "id": "BFMTV_1777654204",
-      "source": "BFMTV",
-      "text": "DES POMPIERS FRANÇAIS MOBILISÉS POUR LUTTER CONTRE LES FEUX DE VÉGÉTATION AUX PAYS-BAS",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:50",
-      "date": "01/05",
-      "timestamp": 1777654204
     }
   ],
   "france": {
