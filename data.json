@@ -1,7 +1,47 @@
 {
-  "last_update": "03/05 13:38",
+  "last_update": "03/05 14:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777818276",
+      "source": "BFMTV",
+      "text": "LE VICE-PRÉSIDENT DU PARLEMENT IRANIEN DÉCLARE QUE L'IRAN \"NE REVIENDRA PAS AU STADE D'AVANT-GUERRE\" DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:24",
+      "date": "03/05",
+      "timestamp": 1777818276
+    },
+    {
+      "id": "BFMTV_1777818101",
+      "source": "BFMTV",
+      "text": "CES DERNIERS JOURS, LES VOLS MILITAIRES AMÉRICAINS SE MULTIPLIENT EN DIRECTION DU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:21",
+      "date": "03/05",
+      "timestamp": 1777818101
+    },
+    {
+      "id": "BFMTV_1777817863",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN: DONALD TRUMP JUGE INSUFFISANTES LES PROPOSITIONS IRANIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:17",
+      "date": "03/05",
+      "timestamp": 1777817863
+    },
+    {
+      "id": "BFMTV_1777816499",
+      "source": "BFMTV",
+      "text": "FRAPPES AU LIBAN: \"TOUT LE MONDE EST PARTI\", DE NOUVEAUX VILLAGES ÉVACUÉS AU SUD-LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:54",
+      "date": "03/05",
+      "timestamp": 1777816499
+    },
     {
       "id": "BFMTV_1777814871",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "10:13",
       "date": "02/05",
       "timestamp": 1777716808
-    },
-    {
-      "id": "BFMTV_1777713461",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: SIX AMÉRICAINS SUR DIX JUGENT QUE L'USAGE DE LA FORCE MILITAIRE CONTRE L'IRAN ÉTAIT UNE ERREUR, SELON UN SONDAGE IPSOS POUR LE WASHINGTON POST ET ABC NEWS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:17",
-      "date": "02/05",
-      "timestamp": 1777713461
-    },
-    {
-      "id": "OPEX360_1777713396",
-      "source": "OPEX360",
-      "text": "LES ÉTATS-UNIS AUTORISENT LE QATAR À SE PROCURER 500 MISSILES DE DÉFENSE AÉRIENNE PATRIOT ET 10 000 ROQUETTES APKWS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:16",
-      "date": "02/05",
-      "timestamp": 1777713396
-    },
-    {
-      "id": "BFMTV_1777712256",
-      "source": "BFMTV",
-      "text": "\"DE MAUVAISES ODEURS\": LES PROPRIÉTAIRES DE CHIEN ENCOURENT DÉSORMAIS JUSQU'À 500 EUROS D'AMENDE À LIVOURNE, EN ITALIE, S'ILS NE NETTOIENT PAS SON URINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:57",
-      "date": "02/05",
-      "timestamp": 1777712256
-    },
-    {
-      "id": "BFMTV_1777709775",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: UN RESPONSABLE MILITAIRE IRANIEN JUGE \"PROBABLE\" UNE REPRISE DU CONFLIT AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:16",
-      "date": "02/05",
-      "timestamp": 1777709775
     }
   ],
   "france": {
