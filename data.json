@@ -1,7 +1,57 @@
 {
-  "last_update": "03/05 20:24",
+  "last_update": "03/05 21:09",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777842339",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT QUE LES ÉTATS-UNIS ONT \"DES DISCUSSIONS TRÈS POSITIVES\" AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:05",
+      "date": "03/05",
+      "timestamp": 1777842339
+    },
+    {
+      "id": "BFMTV_1777842077",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE QUE LA MARINE AMÉRICAINE VA ESCORTER DES NAVIRES BLOQUÉS À ORMUZ À PARTIR DE DEMAIN MATIN",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:01",
+      "date": "03/05",
+      "timestamp": 1777842077
+    },
+    {
+      "id": "BFMTV_1777841842",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DONALD TRUMP ANNONCE QUE LA MARINE AMÉRICAINE VA ESCORTER DES NAVIRES BLOQUÉS DANS LE DÉTROIT D'ORMUZ À PARTIR DE LUNDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:57",
+      "date": "03/05",
+      "timestamp": 1777841842
+    },
+    {
+      "id": "BFMTV_1777841830",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP SALUE \"DES DISCUSSIONS TRÈS POSITIVES\" AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:57",
+      "date": "03/05",
+      "timestamp": 1777841830
+    },
+    {
+      "id": "BFMTV_1777841163",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE QUE LES ÉTATS-UNIS ONT \"DES DISCUSSIONS TRÈS POSITIVES\" AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:46",
+      "date": "03/05",
+      "timestamp": 1777841163
+    },
     {
       "id": "BFMTV_1777838450",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "17:44",
       "date": "02/05",
       "timestamp": 1777743898
-    },
-    {
-      "id": "BFMTV_1777743082",
-      "source": "BFMTV",
-      "text": "DAUPHINS KAMIKAZES: \"CELA FAIT DÉJÀ DEPUIS LES ANNÉES 60 QUE LES AMÉRICAINS ET LES RUSSES UTILISENT LES CÉTACÉS POUR DES MISSIONS\", RACONTE ÉRIC DEMAY, PRÉSIDENT-FONDATEUR DE L'OBSERVATOIRE DOLPHY",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:31",
-      "date": "02/05",
-      "timestamp": 1777743082
-    },
-    {
-      "id": "BFMTV_1777741793",
-      "source": "BFMTV",
-      "text": "PRIX DES CARBURANTS: \"ON EST ÉCOUTÉ, MAIS ON N'EST PAS ENTENDU\", DÉNONCE PATRICK LEGRAS, PRÉSIDENT DE LA COORDINATION RURALE DES HAUTS-DE-FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:09",
-      "date": "02/05",
-      "timestamp": 1777741793
-    },
-    {
-      "id": "BFMTV_1777740694",
-      "source": "BFMTV",
-      "text": "\"COMME DES PIRATES\": LORS DE SON ALLOCUTION CE VENDREDI, DONALD TRUMP S'EST FÉLICITÉ DE LA CAPTURE D'UN NAVIRE IRANIEN ET DE SA CARGAISON PÉTROLIÈRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:51",
-      "date": "02/05",
-      "timestamp": 1777740694
-    },
-    {
-      "id": "BFMTV_1777740515",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE \"LA BALLE EST DANS LE CAMP DES ÉTATS-UNIS\", ET SE DÉCLARE \"PRÊT\" À LA GUERRE OU LA DIPLOMATIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:48",
-      "date": "02/05",
-      "timestamp": 1777740515
-    },
-    {
-      "id": "BFMTV_1777740386",
-      "source": "BFMTV",
-      "text": "LE VICE-MINISTRE IRANIEN DES AFFAIRES ÉTRANGÈRES ASSURE QUE \"L'IRAN EST PLEINEMENT PRÊT À FAIRE FACE À TOUTE AGRESSION\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:46",
-      "date": "02/05",
-      "timestamp": 1777740386
     }
   ],
   "france": {
