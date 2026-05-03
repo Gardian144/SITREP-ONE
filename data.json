@@ -1,7 +1,57 @@
 {
-  "last_update": "03/05 21:09",
+  "last_update": "03/05 22:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777845069",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP SALUE \"DES DISCUSSIONS TRÈS POSITIVES\" AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:51",
+      "date": "03/05",
+      "timestamp": 1777845069
+    },
+    {
+      "id": "BFMTV_1777844896",
+      "source": "BFMTV",
+      "text": "L'AVION DU PREMIER MINISTRE ESPAGNOL PEDRO SÁNCHEZ CONTRAINT D'ATTERIR EN URGENCE EN TURQUIE EN RAISON D'UN \"IMPRÉVU TECHNIQUE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:48",
+      "date": "03/05",
+      "timestamp": 1777844896
+    },
+    {
+      "id": "BFMTV_1777844489",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: DONALD TRUMP ANNONCE QUE LA MARINE AMÉRICAINE VA ESCORTER DES NAVIRES BLOQUÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:41",
+      "date": "03/05",
+      "timestamp": 1777844489
+    },
+    {
+      "id": "BFMTV_1777844118",
+      "source": "BFMTV",
+      "text": "LES IMAGES DE DONALD TRUMP QUI FAIT UNE APPARITION RAPIDE À DORAL EN FLORIDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:35",
+      "date": "03/05",
+      "timestamp": 1777844118
+    },
+    {
+      "id": "BFMTV_1777843273",
+      "source": "BFMTV",
+      "text": "IRAN: MALGRÉ LES MESSAGES POSITIFS DIFFUSÉS PAR DONALD TRUMP SUR LES RÉSEAUX SOCIAUX, UNE INCERTITUDE PLANE SUR SES PROCHAINES INITIATIVES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:21",
+      "date": "03/05",
+      "timestamp": 1777843273
+    },
     {
       "id": "BFMTV_1777842339",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "18:51",
       "date": "02/05",
       "timestamp": 1777747888
-    },
-    {
-      "id": "BFMTV_1777747201",
-      "source": "BFMTV",
-      "text": "EN VISITE À PALM BEACH, DONALD TRUMP EXPRIME SA VOLONTÉ DE RÉSOUDRE LE CONFLIT IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:40",
-      "date": "02/05",
-      "timestamp": 1777747201
-    },
-    {
-      "id": "BFMTV_1777746098",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: 16 BASES AMÉRICAINES ONT ÉTÉ ENDOMMAGÉES PAR L'IRAN DEPUIS LE DÉBUT DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:21",
-      "date": "02/05",
-      "timestamp": 1777746098
-    },
-    {
-      "id": "BFMTV_1777745943",
-      "source": "BFMTV",
-      "text": "UNE COMMANDE D'ARMES D'UNE VALEUR DE 8,6 MILLIARDS DE DOLLARS SERA LIVRÉE À ISRAËL ET À DES PAYS DU GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:19",
-      "date": "02/05",
-      "timestamp": 1777745943
-    },
-    {
-      "id": "BFMTV_1777745214",
-      "source": "BFMTV",
-      "text": "L'IRAN SE DIT PRÊT SOIT À REPRENDRE LA GUERRE SOIT À NÉGOCIER, AFFIRMANT QUE \"LA BALLE EST DANS LE CAMP DES ÉTATS-UNIS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:06",
-      "date": "02/05",
-      "timestamp": 1777745214
-    },
-    {
-      "id": "BFMTV_1777743898",
-      "source": "BFMTV",
-      "text": "SOUS LE SOLEIL DE FLORIDE, DONALD TRUMP EST À MAR-A-LAGO, ENTOURÉ DE SES FIDÈLES SUPPORTERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:44",
-      "date": "02/05",
-      "timestamp": 1777743898
     }
   ],
   "france": {
