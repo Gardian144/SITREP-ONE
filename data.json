@@ -1,7 +1,67 @@
 {
-  "last_update": "03/05 15:30",
+  "last_update": "03/05 16:29",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777824192",
+      "source": "BFMTV",
+      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:03",
+      "date": "03/05",
+      "timestamp": 1777824192
+    },
+    {
+      "id": "BFMTV_1777824191",
+      "source": "BFMTV",
+      "text": "\"IL AVAIT CLAIREMENT L'INTENTION DE LE TUER\": L'ENQUÊTE A \"ÉTABLI\" QUE L'ASSAILLANT DU GALA DE LA PRESSE À WASHINGTON AVAIT TIRÉ SUR UN POLICIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:03",
+      "date": "03/05",
+      "timestamp": 1777824191
+    },
+    {
+      "id": "BFMTV_1777823906",
+      "source": "BFMTV",
+      "text": "UN NOUVEAU NAVIRE A ÉTÉ ATTAQUÉ DANS LE DÉTROIT D'ORMUZ, AUCUN MEMBRE D'ÉQUIPAGE N'A ÉTÉ BLESSÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:58",
+      "date": "03/05",
+      "timestamp": 1777823906
+    },
+    {
+      "id": "BFMTV_1777823604",
+      "source": "BFMTV",
+      "text": "PLUS DE 30 MORTS EN 3 JOURS: LES FRAPPES ISRAÉLIENNES CONTINUENT AU LIBAN MALGRÉ LE CESSEZ-LE-FEU TOUJOURS EN VIGUEUR",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:53",
+      "date": "03/05",
+      "timestamp": 1777823604
+    },
+    {
+      "id": "BFMTV_1777823132",
+      "source": "BFMTV",
+      "text": "UN FOYER DE SYNDROME RESPIRATOIRE AIGU SE DÉCLARE SUR UN BATEAU DE CROISIÈRE DANS L'ATLANTIQUE, DEUX MORTS ET UN HOMME EN SOINS INTENSIFS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:45",
+      "date": "03/05",
+      "timestamp": 1777823132
+    },
+    {
+      "id": "BFMTV_1777822689",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: AVEC LE BLOCUS DU DÉTROIT D'ORMUZ, LES MONARCHIES PÉTROLIÈRES SONT PARALYSÉES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:38",
+      "date": "03/05",
+      "timestamp": 1777822689
+    },
     {
       "id": "BFMTV_1777821927",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "12:28",
       "date": "02/05",
       "timestamp": 1777724899
-    },
-    {
-      "id": "BFMTV_1777720873",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS 16 BASES MILITAIRES ONT ÉTÉ ENDOMMAGÉES PAR L'IRAN DANS LA RÉGION, SELON CNN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:21",
-      "date": "02/05",
-      "timestamp": 1777720873
-    },
-    {
-      "id": "BFMTV_1777720873",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS 16 BASES MILITAIRES AMÉRICAINES ONT ÉTÉ ENDOMMAGÉES PAR L'IRAN DANS LA RÉGION, SELON CNN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:21",
-      "date": "02/05",
-      "timestamp": 1777720873
-    },
-    {
-      "id": "BFMTV_1777720764",
-      "source": "BFMTV",
-      "text": "DEUX MILITANTS DE LA \"FLOTTILLE POUR GAZA\" ARRÊTÉS AU LARGE DE LA GRÈCE SONT ARRIVÉS EN ISRAËL POUR ÊTRE INTERROGÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:19",
-      "date": "02/05",
-      "timestamp": 1777720764
-    },
-    {
-      "id": "BFMTV_1777719455",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ACCÈS À INTERNET TOUJOURS BLOQUÉ EN IRAN, LE RÉGIME CRAINT DES \"RASSEMBLEMENTS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:57",
-      "date": "02/05",
-      "timestamp": 1777719455
-    },
-    {
-      "id": "BFMTV_1777719137",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL MET L'ACCENT SUR LA NÉCESSAIRE RÉCUPÉRATION DE L'URANIUM IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:52",
-      "date": "02/05",
-      "timestamp": 1777719137
-    },
-    {
-      "id": "OPEX360_1777718816",
-      "source": "OPEX360",
-      "text": "LES ÉTATS-UNIS ANNULENT LE DÉPLOIEMENT DE MISSILES À LONGUE PORTÉE ET D’ARMES HYPERSONIQUES EN ALLEMAGNE",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:46",
-      "date": "02/05",
-      "timestamp": 1777718816
     }
   ],
   "france": {
