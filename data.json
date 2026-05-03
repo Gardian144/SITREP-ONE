@@ -1,7 +1,57 @@
 {
-  "last_update": "03/05 07:21",
+  "last_update": "03/05 09:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777798180",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL VALIDE L'ACQUISITION DE PLUSIEURS AVIONS DE CHASSE DANS LE CADRE DE SON PLAN DE RENFORCEMENT DES FORCES ARMÉES",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:49",
+      "date": "03/05",
+      "timestamp": 1777798180
+    },
+    {
+      "id": "BFMTV_1777796684",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: CE QUE PROPOSE L'IRAN CONCERNANT LE DÉTROIT D'ORMUZ ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:24",
+      "date": "03/05",
+      "timestamp": 1777796684
+    },
+    {
+      "id": "BFMTV_1777796422",
+      "source": "BFMTV",
+      "text": " GUERRE AU MOYEN-ORIENT: DES IRANIENS NAGENT JUSQU'À UN NAVIRE SAISI DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:20",
+      "date": "03/05",
+      "timestamp": 1777796422
+    },
+    {
+      "id": "BFMTV_1777794800",
+      "source": "BFMTV",
+      "text": " CUBA: DONALD TRUMP MENACE DE \"S'EMPARER\" DE CUBA \"PRESQUE IMMÉDIATEMENT\" ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:53",
+      "date": "03/05",
+      "timestamp": 1777794800
+    },
+    {
+      "id": "BFMTV_1777794741",
+      "source": "BFMTV",
+      "text": "LE ROI DU MAROC MOHAMMED VI NOMME SON FILS, LE PRINCE HÉRITIER, AU POSTE DE COORDINATEUR À L'ÉTAT-MAJOR GÉNÉRAL DE L'ARMÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:52",
+      "date": "03/05",
+      "timestamp": 1777794741
+    },
     {
       "id": "BFMTV_1777792462",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "04:34",
       "date": "02/05",
       "timestamp": 1777696451
-    },
-    {
-      "id": "BFMTV_1777674331",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP, \"PAS SATISFAIT\", REJETTE LA NOUVELLE PROPOSITION D'ACCORD DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:25",
-      "date": "01/05",
-      "timestamp": 1777674331
-    },
-    {
-      "id": "BFMTV_1777672882",
-      "source": "BFMTV",
-      "text": "LE PAPE LÉON XIV NOMME UN ANCIEN SANS-PAPIERS ÉVÊQUE AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:01",
-      "date": "01/05",
-      "timestamp": 1777672882
-    },
-    {
-      "id": "BFMTV_1777672475",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DÉCLARE DANS UNE LETTRE AU CONGRÈS QUE LES HOSTILITÉS CONTRE L'IRAN SONT \"TERMINÉES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:54",
-      "date": "01/05",
-      "timestamp": 1777672475
-    },
-    {
-      "id": "BFMTV_1777672033",
-      "source": "BFMTV",
-      "text": "L'IRAN A RÉCEMMENT LANCÉ LA PRODUCTION D'UN INTERCEPTEUR DE QUATRIÈME GÉNÉRATION ENTIÈREMENT CONÇU LOCALEMENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:47",
-      "date": "01/05",
-      "timestamp": 1777672033
-    },
-    {
-      "id": "BFMTV_1777672027",
-      "source": "BFMTV",
-      "text": "“CEUX QUI DISENT QUE LE PROGRAMME NUCLÉAIRE IRANIEN PEUT REPRENDRE DEMAIN: C’EST FAUX”, AFFIRME LOVA RINEL, SPÉCIALISTE DE LA DISSUASION NUCLÉAIRE",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:47",
-      "date": "01/05",
-      "timestamp": 1777672027
     }
   ],
   "france": {
