@@ -1,7 +1,77 @@
 {
-  "last_update": "03/05 04:58",
+  "last_update": "03/05 07:21",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777792462",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: ISRAËL ORDONNE DE NOUVELLES ÉVACUATIONS AU SUD-LIBAN AU-DELÀ DE LA ZONE DE SÉCURITÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:14",
+      "date": "03/05",
+      "timestamp": 1777792462
+    },
+    {
+      "id": "BFMTV_1777787900",
+      "source": "BFMTV",
+      "text": "LA COMPAGNIE AÉRIENNE AMÉRICAINE SPIRIT AIRLINES ANNONCE CESSER SES ACTIVITÉS  ",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:58",
+      "date": "03/05",
+      "timestamp": 1777787900
+    },
+    {
+      "id": "BFMTV_1777787328",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP SE DIT PRÊT À RÉDUIRE \"BIEN DAVANTAGE\" LES TROUPES AMÉRICAINES EN ALLEMAGNE APRÈS L'ANNONCE DU RETRAIT DE 5.000 SOLDATS",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:48",
+      "date": "03/05",
+      "timestamp": 1777787328
+    },
+    {
+      "id": "BFMTV_1777786258",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS VONT \"S'EMPARER PRESQUE IMMÉDIATEMENT\" DE CUBA",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:30",
+      "date": "03/05",
+      "timestamp": 1777786258
+    },
+    {
+      "id": "BFMTV_1777785973",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE APPELLE À ÉVACUER 11 VILLAGES DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:26",
+      "date": "03/05",
+      "timestamp": 1777785973
+    },
+    {
+      "id": "BFMTV_1777785236",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DIT ÊTRE PRÊT À RÉDUIRE LES TROUPES \"BIEN DAVANTAGE\" EN ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:13",
+      "date": "03/05",
+      "timestamp": 1777785236
+    },
+    {
+      "id": "BFMTV_1777785047",
+      "source": "BFMTV",
+      "text": " DONALD TRUMP \"VA ÉTUDIER\" LE PLAN IRANIEN, MAIS DOUTE QU'IL SOIT \"ACCEPTABLE\" ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:10",
+      "date": "03/05",
+      "timestamp": 1777785047
+    },
     {
       "id": "BFMTV_1777784092",
       "source": "BFMTV",
@@ -26,6 +96,16 @@
       "id": "BFMTV_1777783576",
       "source": "BFMTV",
       "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT QU'IL VA \"ÉTUDIER\" UN PLAN IRANIEN POUR RÉSOUDRE LE CONFLIT, MAIS QU'IL \"NE PEUT IMAGINER QU'IL SOIT ACCEPTABLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:46",
+      "date": "03/05",
+      "timestamp": 1777783576
+    },
+    {
+      "id": "BFMTV_1777783576",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
       "urgent": true,
       "france_related": false,
       "time": "04:46",
@@ -921,86 +1001,6 @@
       "time": "21:47",
       "date": "01/05",
       "timestamp": 1777672027
-    },
-    {
-      "id": "BFMTV_1777671560",
-      "source": "BFMTV",
-      "text": "IRAN, ARMÉE AMÉRICAINE, OTAN ... DONALD TRUMP S'EST ADRESSÉ À SES PARTISANS EN FLORIDE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:39",
-      "date": "01/05",
-      "timestamp": 1777671560
-    },
-    {
-      "id": "BFMTV_1777671054",
-      "source": "BFMTV",
-      "text": "IRAN: \"L'OTAN NE NOUS A PAS DU TOUT AIDÉS, L'OTAN EST UN TIGRE DE PAPIER\", CRITIQUE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:30",
-      "date": "01/05",
-      "timestamp": 1777671054
-    },
-    {
-      "id": "BFMTV_1777670258",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN : \"LES STOCKS IRANIENS ONT ÉTÉ POTENTIELLEMENT DÉTRUITS\", ANALYSE BERTRAND DE LIGNIÈRES, ANCIEN CONSEILLER SPÉCIAL POUR LE MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:17",
-      "date": "01/05",
-      "timestamp": 1777670258
-    },
-    {
-      "id": "BFMTV_1777669032",
-      "source": "BFMTV",
-      "text": "“SI L’IRAN AVAIT EU LA BOMBE ISRAËL AURAIT ÉTÉ DÉTRUIT, LE MOYEN-ORIENT ET L’EUROPE AUSSI”, PENSE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:57",
-      "date": "01/05",
-      "timestamp": 1777669032
-    },
-    {
-      "id": "BFMTV_1777668900",
-      "source": "BFMTV",
-      "text": "IRAN: \"JE PENSAIS QUE LE PRIX DU PÉTROLE ÉTAIT BIEN PLUS HAUT, MAIS TOUT CELA VA REDESCENDRE\", ASSURE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:55",
-      "date": "01/05",
-      "timestamp": 1777668900
-    },
-    {
-      "id": "BFMTV_1777667936",
-      "source": "BFMTV",
-      "text": "IRAN: \"ÉVIDEMMENT QU'IL Y A UNE FÉBRILITÉ, [DONALD TRUMP] A COMMENCÉ UNE GUERRE SANS STRATÉGIE\", EXPLIQUE DANIEL COHN-BENDIT, ANCIEN DÉPUTÉ EUROPÉEN ÉCOLOGISTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:38",
-      "date": "01/05",
-      "timestamp": 1777667936
-    },
-    {
-      "id": "BFMTV_1777667856",
-      "source": "BFMTV",
-      "text": "DISCOURS DE DONALD TRUMP: “CE QUI INTÉRESSE LES RETRAITÉS EN FLORIDE, C’EST CE QUE LEUR COÛTE LA GUERRE DES ÉTATS-UNIS”, OBSERVE BERTRAND GALLICHER, SPÉCIALISTE DES RELATIONS INTERNATIONALES",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:37",
-      "date": "01/05",
-      "timestamp": 1777667856
-    },
-    {
-      "id": "BFMTV_1777667190",
-      "source": "BFMTV",
-      "text": "SELON DONALD TRUMP, “ON TRAVERSE L’ÂGE D’OR DES ÉTATS-UNIS”",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:26",
-      "date": "01/05",
-      "timestamp": 1777667190
     }
   ],
   "france": {
