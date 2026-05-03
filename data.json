@@ -1,7 +1,47 @@
 {
-  "last_update": "03/05 19:35",
+  "last_update": "03/05 20:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777838450",
+      "source": "BFMTV",
+      "text": "QUESTION DES FRANÇAIS SUR LA GUERRE EN IRAN: POURQUOI LA FRANCE N'INTERVIENT PAS MILITAIREMENT POUR DÉBLOQUER LE DÉTROIT D'ORMUZ ?",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:00",
+      "date": "03/05",
+      "timestamp": 1777838450
+    },
+    {
+      "id": "BFMTV_1777837994",
+      "source": "BFMTV",
+      "text": "\"CELA N'EST PAS ACCEPTABLE. J'AI ÉTUDIÉ LA PROPOSITION [IRANIENNE], J'AI TOUT ÉTUDIÉ. CELA N'EST PAS ACCEPTABLE\", DÉCLARE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:53",
+      "date": "03/05",
+      "timestamp": 1777837994
+    },
+    {
+      "id": "BFMTV_1777837274",
+      "source": "BFMTV",
+      "text": "QUESTION DES FRANÇAIS SUR LES PRIX DES CARBURANTS: JE REVIENS D'ESPAGNE, LE PRIX POUR LE SP95 EST À 1,40 EURO. POURQUOI UNE SI GROSSE DIFFÉRENCE AVEC LA FRANCE ?",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:41",
+      "date": "03/05",
+      "timestamp": 1777837274
+    },
+    {
+      "id": "BFMTV_1777836827",
+      "source": "BFMTV",
+      "text": "QUESTION DES FRANÇAIS SUR LES PRIX DES CARBURANTS: POURQUOI L'ÉTAT NE FAIT RIEN CONCERNANT LES TAXES ?",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:33",
+      "date": "03/05",
+      "timestamp": 1777836827
+    },
     {
       "id": "BFMTV_1777836641",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "16:46",
       "date": "02/05",
       "timestamp": 1777740386
-    },
-    {
-      "id": "BFMTV_1777739673",
-      "source": "BFMTV",
-      "text": "UN HAUT GRADÉ DE L'ARMÉE ISRAÉLIENNE A DÉCLARÉ QUE SI L'IRAN GARDAIT SON URANIUM ENRICHI, CE SERAIT UN ÉCHEC TOTAL POUR ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:34",
-      "date": "02/05",
-      "timestamp": 1777739673
-    },
-    {
-      "id": "BFMTV_1777738923",
-      "source": "BFMTV",
-      "text": "DANS LE GOLFE, DES BASES AMÉRICAINES ONT ÉTÉ FORTEMENT ENDOMMAGÉES PAR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:22",
-      "date": "02/05",
-      "timestamp": 1777738923
-    },
-    {
-      "id": "BFMTV_1777738766",
-      "source": "BFMTV",
-      "text": "IRAN/ÉTATS-UNIS: \"LA GUERRE NE SE GAGNE JAMAIS UNIQUEMENT AVEC L'ARMÉE DE L'AIR, MAIS AVEC DES TROUPES AU SOL\", DÉTAILLE CHRISTIAN QUESNOT, ANCIEN CHEF D'ÉTAT-MAJOR PARTICULIER DES PRÉSIDENTS MITTERRAND ET CHIRAC",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:19",
-      "date": "02/05",
-      "timestamp": 1777738766
-    },
-    {
-      "id": "BFMTV_1777737642",
-      "source": "BFMTV",
-      "text": "IRAN: LA PRIX NOBEL DE LA PAIX NARGES MOHAMMADI HOSPITALISÉE EN URGENCE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:00",
-      "date": "02/05",
-      "timestamp": 1777737642
     }
   ],
   "france": {
