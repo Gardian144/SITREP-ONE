@@ -1,7 +1,27 @@
 {
-  "last_update": "04/05 00:03",
+  "last_update": "04/05 04:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777867628",
+      "source": "BFMTV",
+      "text": "COMMENT EST-CE QUE LA MARINE AMÉRICAINE VA ESCORTER DES NAVIRES DANS LE DÉTROIT D'ORMUZ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:07",
+      "date": "04/05",
+      "timestamp": 1777867628
+    },
+    {
+      "id": "BFMTV_1777867245",
+      "source": "BFMTV",
+      "text": "DIRECT. DONALD TRUMP ANNONCE QUE LES ÉTATS-UNIS VONT ESCORTER DES NAVIRES À TRAVERS LE DÉTROIT D'ORMUZ, UN TANKER FRAPPÉ PAR \"DES PROJECTILES INCONNUS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:00",
+      "date": "04/05",
+      "timestamp": 1777867245
+    },
     {
       "id": "BFMTV_1777845069",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "19:22",
       "date": "02/05",
       "timestamp": 1777749768
-    },
-    {
-      "id": "BFMTV_1777748856",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT CUBAIN DÉNONCE LE \"NIVEAU DANGEREUX ET SANS PRÉCÉDENT\" DES MENACES DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:07",
-      "date": "02/05",
-      "timestamp": 1777748856
-    },
-    {
-      "id": "BFMTV_1777747888",
-      "source": "BFMTV",
-      "text": "\"L'IRAN DISPOSE ENCORE D'UN CERTAIN NOMBRE DE RENTRÉES FINANCIÈRES\", EXPLIQUE GILLES KEPEL, SPÉCIALISTE DU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:51",
-      "date": "02/05",
-      "timestamp": 1777747888
     }
   ],
   "france": {
