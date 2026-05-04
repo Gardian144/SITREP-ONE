@@ -1,7 +1,97 @@
 {
-  "last_update": "04/05 15:20",
+  "last_update": "04/05 17:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777913545",
+      "source": "BFMTV",
+      "text": "AU MOINS DEUX MORTS ET PLUSIEURS BLESSÉS EN ALLEMAGNE APRÈS QU'UNE VOITURE A FONCÉ DANS LA FOULE, LE SUSPECT INTERPELLÉ",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:52",
+      "date": "04/05",
+      "timestamp": 1777913545
+    },
+    {
+      "id": "BFMTV_1777913356",
+      "source": "BFMTV",
+      "text": "UNE VOITURE FONCE DANS LA FOULE À LEIPZIG (ALLEMAGNE), AU MOINS DEUX MORTS ET PLUSIEURS BLESSÉS",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:49",
+      "date": "04/05",
+      "timestamp": 1777913356
+    },
+    {
+      "id": "BFMTV_1777912980",
+      "source": "BFMTV",
+      "text": "ALLEMAGNE: UNE VOITURE FONCE DANS LA FOULE, AU MOINS DEUX MORTS ET PLUSIEURS BLESSÉS ",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:43",
+      "date": "04/05",
+      "timestamp": 1777912980
+    },
+    {
+      "id": "BFMTV_1777912901",
+      "source": "BFMTV",
+      "text": "\"IL Y A UN BESOIN DE JUSTICE INTERNATIONALE\": L'AMBASSADEUR DE FRANCE AUX PAYS-BAS, FRANÇOIS ALABRUNE, CANDIDAT À LA COUR INTERNATIONALE DE JUSTICE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:41",
+      "date": "04/05",
+      "timestamp": 1777912901
+    },
+    {
+      "id": "OPEX360_1777912304",
+      "source": "OPEX360",
+      "text": "LA FORCE AÉRIENNE ARGENTINE CONFIRME SON INTENTION DE SE PROCURER DEUX AVIONS RAVITAILLEURS KC-135R",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:31",
+      "date": "04/05",
+      "timestamp": 1777912304
+    },
+    {
+      "id": "BFMTV_1777910788",
+      "source": "BFMTV",
+      "text": "JAPON: 50.000 PERSONNES RÉUNIES À TOKYO POUR SOUTENIR LA CONSTITUTION PACIFISTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:06",
+      "date": "04/05",
+      "timestamp": 1777910788
+    },
+    {
+      "id": "BFMTV_1777909277",
+      "source": "BFMTV",
+      "text": "\"LA RUSSIE N'ÉTAIT PAS LÀ\": EN ARMÉNIE, EMMANUEL MACRON TANCE LA RUSSIE ET ESTIME QUE LE CHOIX DE L'EUROPE EST \"LE SEUL RAISONNABLE\" POUR LE PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:41",
+      "date": "04/05",
+      "timestamp": 1777909277
+    },
+    {
+      "id": "OPEX360_1777908369",
+      "source": "OPEX360",
+      "text": "L’US AIR FORCE ENVISAGE D’ARMER SES BOMBARDIERS B-1 LANCER AVEC DES ARMES HYPERSONIQUES AGM-183A ARRW",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:26",
+      "date": "04/05",
+      "timestamp": 1777908369
+    },
+    {
+      "id": "BFMTV_1777908040",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH UTILISE DES DRONES KAMIKAZES CONTRE L'ARMÉE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:20",
+      "date": "04/05",
+      "timestamp": 1777908040
+    },
     {
       "id": "BFMTV_1777907848",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "16:39",
       "date": "03/05",
       "timestamp": 1777826379
-    },
-    {
-      "id": "BFMTV_1777826048",
-      "source": "BFMTV",
-      "text": "LES IMAGES D'UN BATEAU SAISI PAR LES IRANIENS DANS LE DÉTROIT D'ORMUZ LE 21 AVRIL DERNIER",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:34",
-      "date": "03/05",
-      "timestamp": 1777826048
-    },
-    {
-      "id": "BFMTV_1777825674",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PLAN IRANIEN PRÉVOIRAIT DE METTRE FIN AU CONFLIT DANS UN DÉLAI DE 30 JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:27",
-      "date": "03/05",
-      "timestamp": 1777825674
-    },
-    {
-      "id": "BFMTV_1777824192",
-      "source": "BFMTV",
-      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:03",
-      "date": "03/05",
-      "timestamp": 1777824192
-    },
-    {
-      "id": "BFMTV_1777824191",
-      "source": "BFMTV",
-      "text": "\"IL AVAIT CLAIREMENT L'INTENTION DE LE TUER\": L'ENQUÊTE A \"ÉTABLI\" QUE L'ASSAILLANT DU GALA DE LA PRESSE À WASHINGTON AVAIT TIRÉ SUR UN POLICIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:03",
-      "date": "03/05",
-      "timestamp": 1777824191
-    },
-    {
-      "id": "BFMTV_1777823906",
-      "source": "BFMTV",
-      "text": "UN NOUVEAU NAVIRE A ÉTÉ ATTAQUÉ DANS LE DÉTROIT D'ORMUZ, AUCUN MEMBRE D'ÉQUIPAGE N'A ÉTÉ BLESSÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:58",
-      "date": "03/05",
-      "timestamp": 1777823906
-    },
-    {
-      "id": "BFMTV_1777823604",
-      "source": "BFMTV",
-      "text": "PLUS DE 30 MORTS EN 3 JOURS: LES FRAPPES ISRAÉLIENNES CONTINUENT AU LIBAN MALGRÉ LE CESSEZ-LE-FEU TOUJOURS EN VIGUEUR",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:53",
-      "date": "03/05",
-      "timestamp": 1777823604
-    },
-    {
-      "id": "BFMTV_1777823132",
-      "source": "BFMTV",
-      "text": "UN FOYER DE SYNDROME RESPIRATOIRE AIGU SE DÉCLARE SUR UN BATEAU DE CROISIÈRE DANS L'ATLANTIQUE, DEUX MORTS ET UN HOMME EN SOINS INTENSIFS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:45",
-      "date": "03/05",
-      "timestamp": 1777823132
-    },
-    {
-      "id": "BFMTV_1777823132",
-      "source": "BFMTV",
-      "text": "UN FOYER DE SYNDROME RESPIRATOIRE AIGU SE DÉCLARE SUR UN BATEAU DE CROISIÈRE DANS L'ATLANTIQUE, TROIS MORTS ET UN HOMME EN SOINS INTENSIFS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:45",
-      "date": "03/05",
-      "timestamp": 1777823132
-    },
-    {
-      "id": "BFMTV_1777822689",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: AVEC LE BLOCUS DU DÉTROIT D'ORMUZ, LES MONARCHIES PÉTROLIÈRES SONT PARALYSÉES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:38",
-      "date": "03/05",
-      "timestamp": 1777822689
     }
   ],
   "france": {
