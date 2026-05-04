@@ -1,7 +1,157 @@
 {
-  "last_update": "04/05 09:35",
+  "last_update": "04/05 11:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777893542",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QU'UNE FRÉGATE AMÉRICAINE A ÉTÉ CIBLÉE PAR DES TIRS DE MISSILES DANS LE DÉTROIT D'ORMUZ, L'ARMÉE AMÉRICAINE DÉMENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:19",
+      "date": "04/05",
+      "timestamp": 1777893542
+    },
+    {
+      "id": "BFMTV_1777892537",
+      "source": "BFMTV",
+      "text": "\"PROJET LIBERTÉ\" DANS LE DÉTROIT D'ORMUZ: \"ON EST INQUIET DE LA SITUATION, CELA SEMBLE ÊTRE UN PRÉTEXTE POUR RELANCER LE CONFLIT\", SELON EMMANUEL CHALARD",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:02",
+      "date": "04/05",
+      "timestamp": 1777892537
+    },
+    {
+      "id": "BFMTV_1777891378",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:42",
+      "date": "04/05",
+      "timestamp": 1777891378
+    },
+    {
+      "id": "BFMTV_1777891378",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN APPELLE LES ÉTATS-UNIS À ABANDONNER LEURS \"DEMANDES EXCESSIVES\" DANS LE CADRE DES NÉGOCIATIONS DE PAIX",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:42",
+      "date": "04/05",
+      "timestamp": 1777891378
+    },
+    {
+      "id": "BFMTV_1777891159",
+      "source": "BFMTV",
+      "text": "MIDI ÉCO - LE DISPOSITIF D'AIDE POUR LES \"GROS ROULEURS\", COMMENT ÇA MARCHE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:39",
+      "date": "04/05",
+      "timestamp": 1777891159
+    },
+    {
+      "id": "OPEX360_1777891079",
+      "source": "OPEX360",
+      "text": "LES FORCES ARMÉES SUÉDOISES SE DOTENT DE LEUR PREMIER SATELLITE MILITAIRE D’OBSERVATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:37",
+      "date": "04/05",
+      "timestamp": 1777891079
+    },
+    {
+      "id": "BFMTV_1777890667",
+      "source": "BFMTV",
+      "text": "IRAN: UN MÉDIA FAIT ÉTAT DE MISSILES TIRÉS CONTRE UNE FRÉGATE AMÉRICAINE DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:31",
+      "date": "04/05",
+      "timestamp": 1777890667
+    },
+    {
+      "id": "BFMTV_1777890152",
+      "source": "BFMTV",
+      "text": "TROIS MORTS, RAPATRIEMENTS ORGANISÉS, DÉPISTAGE… CE QUE L'ON SAIT SUR LE POSSIBLE FOYER DE HANTAVIRUS PRÉSENT SUR UN BATEAU DE CROISIÈRE DANS L'ATLANTIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:22",
+      "date": "04/05",
+      "timestamp": 1777890152
+    },
+    {
+      "id": "BFMTV_1777890128",
+      "source": "BFMTV",
+      "text": "\"FAIBLE RISQUE\" DE PROPAGATION ET PAS DE RESTRICTION DE VOYAGE: L'OMS RASSURE APRÈS LA POSSIBLE DÉCOUVERTE D'UN FOYER DE HANTAVIRUS À BORD D'UNE CROISIÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:22",
+      "date": "04/05",
+      "timestamp": 1777890128
+    },
+    {
+      "id": "BFMTV_1777889974",
+      "source": "BFMTV",
+      "text": "L'ARMÉE IRANIENNE A MIS EN GARDE LES FORCES ARMÉES AMÉRICAINES CONTRE TOUTE OPÉRATION DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:19",
+      "date": "04/05",
+      "timestamp": 1777889974
+    },
+    {
+      "id": "BFMTV_1777889254",
+      "source": "BFMTV",
+      "text": " UN AVION PERCUTE UN CAMION LORS DE SON ATTERRISSAGE À L'AÉROPORT INTERNATIONAL DE NEWARK",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:07",
+      "date": "04/05",
+      "timestamp": 1777889254
+    },
+    {
+      "id": "BFMTV_1777888798",
+      "source": "BFMTV",
+      "text": "LE MINISTRE ISRAÉLIEN ITAMAR BEN-GVIR CÉLÈBRE SON 50E ANNIVERSAIRE AVEC DES GÂTEAUX ORNÉS DE NŒUDS COULANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:59",
+      "date": "04/05",
+      "timestamp": 1777888798
+    },
+    {
+      "id": "BFMTV_1777888071",
+      "source": "BFMTV",
+      "text": "PRÊT À L'UKRAINE: LE ROYAUME-UNI \"ENVISAGE DE PARTICIPER\",DÉCLARE KEIR STARMER",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:47",
+      "date": "04/05",
+      "timestamp": 1777888071
+    },
+    {
+      "id": "BFMTV_1777887785",
+      "source": "BFMTV",
+      "text": "LE MINISTRE ISRAÉLIEN DE LA SÉCURITÉ NATIONALE FÊTE SON ANNIVERSAIRE AVEC UN GÂTEAU ORNÉ D'UN NŒUD COULANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:43",
+      "date": "04/05",
+      "timestamp": 1777887785
+    },
+    {
+      "id": "BFMTV_1777887549",
+      "source": "BFMTV",
+      "text": "À NEW YORK, UN HOMME ARMÉ D'UNE MACHETTE A ÉTÉ TUÉ PAR LA POLICE DANS LE MÉTRO",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:39",
+      "date": "04/05",
+      "timestamp": 1777887549
+    },
     {
       "id": "BFMTV_1777887164",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "10:08",
       "date": "03/05",
       "timestamp": 1777802888
-    },
-    {
-      "id": "BFMTV_1777802822",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"JE NE VOIS PAS DE PORTE DE SORTIE AUJOURD'HUI\", AFFIRME BRUNO LE MAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:07",
-      "date": "03/05",
-      "timestamp": 1777802822
-    },
-    {
-      "id": "BFMTV_1777801353",
-      "source": "BFMTV",
-      "text": "IRAN: POUR LES GARDIENS DE LA RÉVOLUTION, WASHINGTON N'A LE CHOIX QU'ENTRE UNE \"OPÉRATION IMPOSSIBLE\" OU UN \"MAUVAIS ACCORD\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:42",
-      "date": "03/05",
-      "timestamp": 1777801353
-    },
-    {
-      "id": "BFMTV_1777799842",
-      "source": "BFMTV",
-      "text": "FACE AU BLOCUS DU DÉTROIT D'ORMUZ, L'IRAN RÉDUIT SA PRODUCTION DE PÉTROLE POUR LIMITER LE RISQUE DE SATURATION DES CUVES",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:17",
-      "date": "03/05",
-      "timestamp": 1777799842
-    },
-    {
-      "id": "OPEX360_1777799574",
-      "source": "OPEX360",
-      "text": "LPM ACTUALISÉE : LA MARINE NATIONALE DEVRA ENCORE PATIENTER POUR REMPLACER SES RAFALE LES PLUS ANCIENS",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:12",
-      "date": "03/05",
-      "timestamp": 1777799574
-    },
-    {
-      "id": "BFMTV_1777798180",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL VALIDE L'ACQUISITION DE PLUSIEURS AVIONS DE CHASSE DANS LE CADRE DE SON PLAN DE RENFORCEMENT DES FORCES ARMÉES",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:49",
-      "date": "03/05",
-      "timestamp": 1777798180
-    },
-    {
-      "id": "BFMTV_1777796684",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: CE QUE PROPOSE L'IRAN CONCERNANT LE DÉTROIT D'ORMUZ ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:24",
-      "date": "03/05",
-      "timestamp": 1777796684
-    },
-    {
-      "id": "BFMTV_1777796422",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: DES IRANIENS NAGENT JUSQU'À UN NAVIRE SAISI DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:20",
-      "date": "03/05",
-      "timestamp": 1777796422
-    },
-    {
-      "id": "BFMTV_1777794800",
-      "source": "BFMTV",
-      "text": " CUBA: DONALD TRUMP MENACE DE \"S'EMPARER\" DE CUBA \"PRESQUE IMMÉDIATEMENT\" ",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:53",
-      "date": "03/05",
-      "timestamp": 1777794800
-    },
-    {
-      "id": "BFMTV_1777794741",
-      "source": "BFMTV",
-      "text": "LE ROI DU MAROC MOHAMMED VI NOMME SON FILS, LE PRINCE HÉRITIER, AU POSTE DE COORDINATEUR À L'ÉTAT-MAJOR GÉNÉRAL DE L'ARMÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:52",
-      "date": "03/05",
-      "timestamp": 1777794741
-    },
-    {
-      "id": "BFMTV_1777792462",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: ISRAËL ORDONNE DE NOUVELLES ÉVACUATIONS AU SUD-LIBAN AU-DELÀ DE LA ZONE DE SÉCURITÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:14",
-      "date": "03/05",
-      "timestamp": 1777792462
-    },
-    {
-      "id": "BFMTV_1777787900",
-      "source": "BFMTV",
-      "text": "LA COMPAGNIE AÉRIENNE AMÉRICAINE SPIRIT AIRLINES ANNONCE CESSER SES ACTIVITÉS  ",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:58",
-      "date": "03/05",
-      "timestamp": 1777787900
-    },
-    {
-      "id": "BFMTV_1777787328",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP SE DIT PRÊT À RÉDUIRE \"BIEN DAVANTAGE\" LES TROUPES AMÉRICAINES EN ALLEMAGNE APRÈS L'ANNONCE DU RETRAIT DE 5.000 SOLDATS",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:48",
-      "date": "03/05",
-      "timestamp": 1777787328
-    },
-    {
-      "id": "BFMTV_1777786258",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS VONT \"S'EMPARER PRESQUE IMMÉDIATEMENT\" DE CUBA",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:30",
-      "date": "03/05",
-      "timestamp": 1777786258
-    },
-    {
-      "id": "BFMTV_1777785973",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE APPELLE À ÉVACUER 11 VILLAGES DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:26",
-      "date": "03/05",
-      "timestamp": 1777785973
-    },
-    {
-      "id": "BFMTV_1777785236",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DIT ÊTRE PRÊT À RÉDUIRE LES TROUPES \"BIEN DAVANTAGE\" EN ALLEMAGNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:13",
-      "date": "03/05",
-      "timestamp": 1777785236
     }
   ],
   "france": {
