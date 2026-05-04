@@ -1,7 +1,127 @@
 {
-  "last_update": "04/05 20:14",
+  "last_update": "04/05 21:32",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777929018",
+      "source": "BFMTV",
+      "text": "LA COMPAGNIE MARITIME DANOISE MAERSK  CONFIRME QU’UN DE SES NAVIRES A BIEN RÉUSSI À QUITTER LE DÉTROIT D’ORMUZ, ESCORTÉ PAR LA MARINE AMÉRICAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:10",
+      "date": "04/05",
+      "timestamp": 1777929018
+    },
+    {
+      "id": "BFMTV_1777929002",
+      "source": "BFMTV",
+      "text": "LA COMPÉTITION INTENSE ENTRE LES ÉTATS-UNIS ET LA CHINE SUR LE MARCHÉ DES DRONES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:10",
+      "date": "04/05",
+      "timestamp": 1777929002
+    },
+    {
+      "id": "BFMTV_1777927680",
+      "source": "BFMTV",
+      "text": "IRAN: LES ÉMIRATS ARABES UNIS DÉNONCENT UNE \"ESCALADE DANGEREUSE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:48",
+      "date": "04/05",
+      "timestamp": 1777927680
+    },
+    {
+      "id": "BFMTV_1777927503",
+      "source": "BFMTV",
+      "text": "INCENDIE DE CRANS-MONTANA: APRÈS LA POLÉMIQUE, LE PRÉSIDENT DE LA CONFÉDÉRATION SUISSE ASSURE QUE LES VICTIMES N'AURONT PAS À PAYER DE FRAIS MÉDICAUX",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:45",
+      "date": "04/05",
+      "timestamp": 1777927503
+    },
+    {
+      "id": "BFMTV_1777927503",
+      "source": "BFMTV",
+      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:45",
+      "date": "04/05",
+      "timestamp": 1777927503
+    },
+    {
+      "id": "BFMTV_1777927296",
+      "source": "BFMTV",
+      "text": "\"QUAND JE QUITTERAI MES FONCTIONS DANS, DISONS, HUIT OU NEUF ANS\": LA PLAISANTERIE DE DONALD TRUMP DEVANT DES CHEFS D'ENTREPRISES",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:41",
+      "date": "04/05",
+      "timestamp": 1777927296
+    },
+    {
+      "id": "BFMTV_1777927222",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"CETTE SITUATION PÈSE SUR LA CROISSANCE ET FAIT AUGMENTER L'INFLATION\", CONSTATE LE COMMISSAIRE EUROPÉEN VALDIS DOMBROVSKIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:40",
+      "date": "04/05",
+      "timestamp": 1777927222
+    },
+    {
+      "id": "BFMTV_1777927019",
+      "source": "BFMTV",
+      "text": "LA TENSION MONTE ENTRE LES ÉTATS-UNIS ET L'IRAN AUTOUR DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:36",
+      "date": "04/05",
+      "timestamp": 1777927019
+    },
+    {
+      "id": "BFMTV_1777926030",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: DONALD TRUMP MAINTIENT QUE \"LES DIRIGEANTS IRANIENS ONT ÉTÉ ÉLIMINÉS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:20",
+      "date": "04/05",
+      "timestamp": 1777926030
+    },
+    {
+      "id": "BFMTV_1777925998",
+      "source": "BFMTV",
+      "text": "FOYER PRÉSUMÉ D'HANTAVIRUS: LES PAYS-BAS ÉTUDIENT \"LES POSSIBILITÉS D'ÉVACUER MÉDICALEMENT QUELQUES PERSONNES DU NAVIRE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:19",
+      "date": "04/05",
+      "timestamp": 1777925998
+    },
+    {
+      "id": "BFMTV_1777925761",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: CE QUE L'ON SAIT DE LA PREMIÈRE PHASE DU \"PROJET LIBERTÉ\" DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:16",
+      "date": "04/05",
+      "timestamp": 1777925761
+    },
+    {
+      "id": "BFMTV_1777925715",
+      "source": "BFMTV",
+      "text": "UN HAUT RESPONSABLE IRANIEN AFFIRME QUE L'IRAN, BIEN QU'ENGAGÉ DANS UNE DIPLOMATIE INDIRECTE AVEC LES ÉTATS-UNIS, REFUSE TOUT DIALOGUE DIRECT TANT QUE LE BLOCUS AMÉRICAIN PERSISTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:15",
+      "date": "04/05",
+      "timestamp": 1777925715
+    },
     {
       "id": "BFMTV_1777924870",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "04:53",
       "date": "04/05",
       "timestamp": 1777870434
-    },
-    {
-      "id": "BFMTV_1777870287",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ASSURE AVOIR AJOUTÉ UNE NOUVELLE ARME À SON ARSENAL, LE DRONE \"ARASH 3\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:51",
-      "date": "04/05",
-      "timestamp": 1777870287
-    },
-    {
-      "id": "BFMTV_1777870048",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN TANKER TOUCHÉ PAR \"DES PROJECTILES INCONNUS\" AU LARGE DES ÉMIRATS ARABES UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:47",
-      "date": "04/05",
-      "timestamp": 1777870048
-    },
-    {
-      "id": "BFMTV_1777869889",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE MINISTRE ISRAÉLIEN DE LA DÉFENSE AFFIRME QU'ISRAËL \"SE TIENT PRÊT À INTERVENIR EN IRAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:44",
-      "date": "04/05",
-      "timestamp": 1777869889
-    },
-    {
-      "id": "BFMTV_1777869874",
-      "source": "BFMTV",
-      "text": "NOUVELLES ÉVACUATIONS AU SUD-LIBAN: ONZE VILLAGES SUPPLÉMENTAIRES CIBLÉS PAR ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:44",
-      "date": "04/05",
-      "timestamp": 1777869874
-    },
-    {
-      "id": "BFMTV_1777869643",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ANNONCE DE L'ESCORTE DE NAVIRES PAR LA MARINE AMÉRICAINE POURRAIT-ELLE MENER À LA REPRISE DES COMBATS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:40",
-      "date": "04/05",
-      "timestamp": 1777869643
-    },
-    {
-      "id": "BFMTV_1777867628",
-      "source": "BFMTV",
-      "text": "COMMENT EST-CE QUE LA MARINE AMÉRICAINE VA ESCORTER DES NAVIRES DANS LE DÉTROIT D'ORMUZ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:07",
-      "date": "04/05",
-      "timestamp": 1777867628
-    },
-    {
-      "id": "BFMTV_1777867245",
-      "source": "BFMTV",
-      "text": "DIRECT. DONALD TRUMP ANNONCE QUE LES ÉTATS-UNIS VONT ESCORTER DES NAVIRES À TRAVERS LE DÉTROIT D'ORMUZ, UN TANKER FRAPPÉ PAR \"DES PROJECTILES INCONNUS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:00",
-      "date": "04/05",
-      "timestamp": 1777867245
-    },
-    {
-      "id": "BFMTV_1777845069",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP SALUE \"DES DISCUSSIONS TRÈS POSITIVES\" AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:51",
-      "date": "03/05",
-      "timestamp": 1777845069
-    },
-    {
-      "id": "BFMTV_1777844896",
-      "source": "BFMTV",
-      "text": "L'AVION DU PREMIER MINISTRE ESPAGNOL PEDRO SÁNCHEZ CONTRAINT D'ATTERIR EN URGENCE EN TURQUIE EN RAISON D'UN \"IMPRÉVU TECHNIQUE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:48",
-      "date": "03/05",
-      "timestamp": 1777844896
-    },
-    {
-      "id": "BFMTV_1777844489",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: DONALD TRUMP ANNONCE QUE LA MARINE AMÉRICAINE VA ESCORTER DES NAVIRES BLOQUÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:41",
-      "date": "03/05",
-      "timestamp": 1777844489
-    },
-    {
-      "id": "BFMTV_1777844118",
-      "source": "BFMTV",
-      "text": "LES IMAGES DE DONALD TRUMP QUI FAIT UNE APPARITION RAPIDE À DORAL EN FLORIDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:35",
-      "date": "03/05",
-      "timestamp": 1777844118
-    },
-    {
-      "id": "BFMTV_1777843273",
-      "source": "BFMTV",
-      "text": "IRAN: MALGRÉ LES MESSAGES POSITIFS DIFFUSÉS PAR DONALD TRUMP SUR LES RÉSEAUX SOCIAUX, UNE INCERTITUDE PLANE SUR SES PROCHAINES INITIATIVES",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:21",
-      "date": "03/05",
-      "timestamp": 1777843273
     }
   ],
   "france": {
