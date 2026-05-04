@@ -1,7 +1,47 @@
 {
-  "last_update": "04/05 21:32",
+  "last_update": "04/05 22:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777933483",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE \"TOUT VA BIEN\" ET QUE LES DIRIGEANTS IRANIENS ONT ÉTÉ \"ÉLIMINÉS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:24",
+      "date": "04/05",
+      "timestamp": 1777933483
+    },
+    {
+      "id": "BFMTV_1777932456",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: TÉHÉRAN DÉMENT QUE LES ÉTATS-UNIS AIENT DÉTRUIT SIX BATEAUX IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:07",
+      "date": "04/05",
+      "timestamp": 1777932456
+    },
+    {
+      "id": "BFMTV_1777931281",
+      "source": "BFMTV",
+      "text": "\"JAMAIS LA RELATION NE FUT À CE NIVEAU\": EMMANUEL MACRON REÇOIT L’ORDRE DE LA \"GLOIRE\" EN ARMÉNIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:48",
+      "date": "04/05",
+      "timestamp": 1777931281
+    },
+    {
+      "id": "BFMTV_1777930931",
+      "source": "BFMTV",
+      "text": "L'IRAN N'AURAIT BESOIN QUE DE NEUF À DOUZE MOIS POUR AVOIR L'ARME NUCLÉAIRE, SELON L'AGENCE DE PRESSE REUTERS",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:42",
+      "date": "04/05",
+      "timestamp": 1777930931
+    },
     {
       "id": "BFMTV_1777929018",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "05:40",
       "date": "04/05",
       "timestamp": 1777873254
-    },
-    {
-      "id": "BFMTV_1777872536",
-      "source": "BFMTV",
-      "text": "FACE À DONALD TRUMP ET VLADIMIR POUTINE, LES EUROPÉENS ET LE CANADA SE RÉUNISSENT EN ARMÉNIE DANS UN GRAND RENDEZ-VOUS DIPLOMATIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:28",
-      "date": "04/05",
-      "timestamp": 1777872536
-    },
-    {
-      "id": "BFMTV_1777870789",
-      "source": "BFMTV",
-      "text": "LA DETTE AMÉRICAINE POURRAIT-ELLE EMPÊCHER DONALD TRUMP DE POURSUIVRE LA GUERRE AU MOYEN-ORIENT?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:59",
-      "date": "04/05",
-      "timestamp": 1777870789
-    },
-    {
-      "id": "BFMTV_1777870696",
-      "source": "BFMTV",
-      "text": "APRÈS L'AGRESSION D'UNE RELIGIEUSE FRANÇAISE À JÉRUSALEM, JEAN-NOËL BARROT, MINISTRE DES AFFAIRES ÉTRANGÈRES, DEMANDE \"QUE CESSENT LES ACTES ANTI-CHRÉTIENS\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:58",
-      "date": "04/05",
-      "timestamp": 1777870696
-    },
-    {
-      "id": "BFMTV_1777870434",
-      "source": "BFMTV",
-      "text": "D'APRÈS CNN, L'ADMINISTRATION TRUMP A MINIMISÉ L'AMPLEUR DES DÉGÂTS SUR LES BASES AMÉRICAINES AU MOYEN-ORIENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:53",
-      "date": "04/05",
-      "timestamp": 1777870434
     }
   ],
   "france": {
