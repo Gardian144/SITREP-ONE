@@ -1,7 +1,137 @@
 {
-  "last_update": "05/05 01:19",
+  "last_update": "05/05 04:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777955935",
+      "source": "BFMTV",
+      "text": "APRÈS UN REGAIN DE TENSIONS AU MOYEN-ORIENT, QUE PEUT ANNONCER DONALD TRUMP?",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:38",
+      "date": "05/05",
+      "timestamp": 1777955935
+    },
+    {
+      "id": "BFMTV_1777955889",
+      "source": "BFMTV",
+      "text": "REGAIN DE TENSIONS DANS LE DÉTROIT D'ORMUZ: L'IRAN MET EN GARDE LES ÉTATS-UNIS FACE À UN POSSIBLE \"BOURBIER\" ET ESTIME QU'IL N'Y A \"PAS DE SOLUTION MILITAIRE À LA CRISE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:38",
+      "date": "05/05",
+      "timestamp": 1777955889
+    },
+    {
+      "id": "BFMTV_1777955506",
+      "source": "BFMTV",
+      "text": "FRÉGATES, AVIATION… COMMENT LES ÉMIRATS ARABES UNIS S'ORGANISENT POUR CONTRER LES ATTAQUES IRANIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:31",
+      "date": "05/05",
+      "timestamp": 1777955506
+    },
+    {
+      "id": "BFMTV_1777955365",
+      "source": "BFMTV",
+      "text": "MALGRÉ LA GUERRE AU MOYEN-ORIENT, CES FRANÇAIS QUI N’ONT PAS PEUR DE RESTER À DUBAÏ ",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:29",
+      "date": "05/05",
+      "timestamp": 1777955365
+    },
+    {
+      "id": "BFMTV_1777955183",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ANNONCENT AVOIR DÉTRUIT SIX BATEAUX IRANIENS, TÉHÉRAN DÉMENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:26",
+      "date": "05/05",
+      "timestamp": 1777955183
+    },
+    {
+      "id": "BFMTV_1777954952",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON DÉNONCE DES FRAPPES IRANIENNES \"INACCEPTABLES\" CONTRE LES ÉMIRATS ARABES UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:22",
+      "date": "05/05",
+      "timestamp": 1777954952
+    },
+    {
+      "id": "BFMTV_1777954889",
+      "source": "BFMTV",
+      "text": "DES ÉCHANGES DE COUPS DE FEU PRÈS DE LA MAISON BLANCHE, UN SUSPECT ARMÉ BLESSÉ PAR DES AGENTS FÉDÉRAUX",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:21",
+      "date": "05/05",
+      "timestamp": 1777954889
+    },
+    {
+      "id": "BFMTV_1777954799",
+      "source": "BFMTV",
+      "text": "IRAN: LES RENSEIGNEMENTS AMÉRICAINS AFFIRMENT QUE LE PROGRAMME NUCLÉAIRE IRANIEN N'A PAS ÉTÉ TRÈS ENDOMMAGÉ PAR LES FRAPPES ISRAÉLO-AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:19",
+      "date": "05/05",
+      "timestamp": 1777954799
+    },
+    {
+      "id": "BFMTV_1777954382",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ET ISRAËL ENVISAGENT DES FRAPPES CONTRE DES LANCEURS DE MISSILES ET CONTRE UNE INSTALLATION ÉNERGÉTIQUE IRANIENNE, D'APRÈS UN JOURNAL ISRAÉLIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:13",
+      "date": "05/05",
+      "timestamp": 1777954382
+    },
+    {
+      "id": "BFMTV_1777954310",
+      "source": "BFMTV",
+      "text": "CE QUE L'ON SAIT DE L'URANIUM IRANIEN ET COMMENT LES ÉTATS-UNIS POURRAIENT LE RÉCUPÉRER ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:11",
+      "date": "05/05",
+      "timestamp": 1777954310
+    },
+    {
+      "id": "BFMTV_1777954152",
+      "source": "BFMTV",
+      "text": "AUX ÉMIRATS ARABES UNIS, UNE ATTAQUE DE DRONE A PROVOQUÉ UN INCENDIE SUR LE SITE PÉTROLIER DE FUJAÏRAH. DE SON CÔTÉ, L'IRAN ASSURE QU'IL \"N'AVAIT AUCUN PROJET DE CIBLER LES ÉMIRATS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:09",
+      "date": "05/05",
+      "timestamp": 1777954152
+    },
+    {
+      "id": "BFMTV_1777954111",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS AFFIRMENT AVOIR DÉTRUIT SIX BATEAUX IRANIENS, TÉHÉRAN DÉMENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:08",
+      "date": "05/05",
+      "timestamp": 1777954111
+    },
+    {
+      "id": "BFMTV_1777953935",
+      "source": "BFMTV",
+      "text": "DE LA PLUIE DANS LE NORD ET QUELQUES ORAGES ISOLÉS DANS LE SUD, AVEC DES TEMPÉRATURES COMPRISES ENTRE 13°C ET 22°C... LA MÉTÉO DE CE MARDI 5 MAI",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:05",
+      "date": "05/05",
+      "timestamp": 1777953935
+    },
     {
       "id": "BFMTV_1777933483",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "08:47",
       "date": "04/05",
       "timestamp": 1777884436
-    },
-    {
-      "id": "BFMTV_1777884390",
-      "source": "BFMTV",
-      "text": "L'EUROPE ET LE CANADA NE SONT PAS \"CONDAMNÉS\" À SUBIR UN ORDRE MONDIAL \"BRUTAL\", SELON LE PREMIER MINISTRE CANADIEN MARK CARNEY",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:46",
-      "date": "04/05",
-      "timestamp": 1777884390
-    },
-    {
-      "id": "BFMTV_1777884116",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: EMMANUEL MACRON EXIGE \"UNE RÉOUVERTURE CONCERTÉE ENTRE L’IRAN ET LES ÉTATS-UNIS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:41",
-      "date": "04/05",
-      "timestamp": 1777884116
-    },
-    {
-      "id": "BFMTV_1777884065",
-      "source": "BFMTV",
-      "text": "\"LE CANADA SOUHAITE CONSTRUIRE AVEC NOUS UN ORDRE INTERNATIONAL\", AFFIRME LE PRÉSIDENT DU CONSEIL EUROPÉEN, ANTONIO COSTA",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:41",
-      "date": "04/05",
-      "timestamp": 1777884065
-    },
-    {
-      "id": "BFMTV_1777883911",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN APPELLE LES ÉTATS-UNIS À RENONCER À LEURS \"DEMANDES EXCESSIVES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "08:38",
-      "date": "04/05",
-      "timestamp": 1777883911
-    },
-    {
-      "id": "BFMTV_1777883720",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE : \"L'EUROPE DOIT ÊTRE À LA TABLE DE TOUTE DISCUSSION\", AFFIRME VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:35",
-      "date": "04/05",
-      "timestamp": 1777883720
-    },
-    {
-      "id": "BFMTV_1777883145",
-      "source": "BFMTV",
-      "text": "DÉFILÉ DU 9-MAI RÉDUIT : \"LA RUSSIE N'EST PAS FORTE\", POUR VOLODYMYR ZELENSKY QUI APPELLE À UN NOUVEAU PAQUET DE SANCTIONS DE L'UE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:25",
-      "date": "04/05",
-      "timestamp": 1777883145
-    },
-    {
-      "id": "BFMTV_1777882446",
-      "source": "BFMTV",
-      "text": "DANS LE GOLFE, LES DÉGÂTS CAUSÉS PAR L'IRAN SUR LES BASES AMÉRICAINES ONT ÉTÉ MINIMISÉS PAR L'ADMINISTRATION TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:14",
-      "date": "04/05",
-      "timestamp": 1777882446
-    },
-    {
-      "id": "BFMTV_1777881885",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS SOMMES DES NAINS DANS LA CRISE QUI A LIEU\", ESTIME JÉRÔME GUEDJ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:04",
-      "date": "04/05",
-      "timestamp": 1777881885
-    },
-    {
-      "id": "BFMTV_1777878210",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN PRÉVIENT QUE L'ARMÉE AMÉRICAINE SERA ATTAQUÉE SI ELLE S'APPROCHE DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:03",
-      "date": "04/05",
-      "timestamp": 1777878210
-    },
-    {
-      "id": "BFMTV_1777876816",
-      "source": "BFMTV",
-      "text": "\"C'EST UNE EUROPE QUI BÂTIT SA SÉCURITÉ, SA DÉFENSE\": EMMANUEL MACRON ARRIVE SOMMET DE LA COMMUNAUTÉ POLITIQUE EUROPÉENNE, EN ARMÉNIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:40",
-      "date": "04/05",
-      "timestamp": 1777876816
-    },
-    {
-      "id": "BFMTV_1777876668",
-      "source": "BFMTV",
-      "text": "\"IL EST ESSENTIEL QUE LE CESSEZ-LE-FEU SOIT RESPECTÉ AU LIBAN\", RAPPELLE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:37",
-      "date": "04/05",
-      "timestamp": 1777876668
-    },
-    {
-      "id": "BFMTV_1777873958",
-      "source": "BFMTV",
-      "text": "DESTROYERS, AVIONS… LES MOYENS MIS EN PLACE PAR LA MARINE AMÉRICAINE POUR LIBÉRER LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:52",
-      "date": "04/05",
-      "timestamp": 1777873958
-    },
-    {
-      "id": "BFMTV_1777873254",
-      "source": "BFMTV",
-      "text": "LA MARINE AMÉRICAINE VA ESCORTER, À PARTIR DE CE LUNDI, DES NAVIRES DE PAYS TIERS BLOQUÉS DANS LE GOLFE À TRAVERS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:40",
-      "date": "04/05",
-      "timestamp": 1777873254
     }
   ],
   "france": {
