@@ -1,7 +1,57 @@
 {
-  "last_update": "05/05 19:18",
+  "last_update": "05/05 20:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778013140",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS PROPOSENT UNE RÉSOLUTION DU CONSEIL DE SÉCURITÉ DE L'ONU POUR DÉFENDRE LA LIBERTÉ DE NAVIGATION ET SÉCURISER LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:32",
+      "date": "05/05",
+      "timestamp": 1778013140
+    },
+    {
+      "id": "BFMTV_1778011839",
+      "source": "BFMTV",
+      "text": "IRAN: MARCO RUBIO, SECRÉTAIRE D'ÉTAT AMÉRICAIN, AFFIRME QUE LA PHASE OFFENSIVE EST \"TERMINÉE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:10",
+      "date": "05/05",
+      "timestamp": 1778011839
+    },
+    {
+      "id": "BFMTV_1778011789",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: MARCO RUBIO, SECRÉTAIRE D'ÉTAT AMÉRICAIN, ASSURE QUE LA PHASE OFFENSIVE EST \"FINIE\" EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:09",
+      "date": "05/05",
+      "timestamp": 1778011789
+    },
+    {
+      "id": "BFMTV_1778010474",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LES IMAGES SATELLITES DES DESTROYERS AMÉRICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:47",
+      "date": "05/05",
+      "timestamp": 1778010474
+    },
+    {
+      "id": "BFMTV_1778009022",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP QUALIFIE LE CONFLIT AVEC L'IRAN DE \"PETIT ACCROCHAGE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:23",
+      "date": "05/05",
+      "timestamp": 1778009022
+    },
     {
       "id": "BFMTV_1778008606",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "04:08",
       "date": "05/05",
       "timestamp": 1777954111
-    },
-    {
-      "id": "BFMTV_1777953935",
-      "source": "BFMTV",
-      "text": "DE LA PLUIE DANS LE NORD ET QUELQUES ORAGES ISOLÉS DANS LE SUD, AVEC DES TEMPÉRATURES COMPRISES ENTRE 13°C ET 22°C... LA MÉTÉO DE CE MARDI 5 MAI",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:05",
-      "date": "05/05",
-      "timestamp": 1777953935
-    },
-    {
-      "id": "BFMTV_1777933483",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE \"TOUT VA BIEN\" ET QUE LES DIRIGEANTS IRANIENS ONT ÉTÉ \"ÉLIMINÉS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:24",
-      "date": "04/05",
-      "timestamp": 1777933483
-    },
-    {
-      "id": "BFMTV_1777932456",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TÉHÉRAN DÉMENT QUE LES ÉTATS-UNIS AIENT DÉTRUIT SIX BATEAUX IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:07",
-      "date": "04/05",
-      "timestamp": 1777932456
-    },
-    {
-      "id": "BFMTV_1777931281",
-      "source": "BFMTV",
-      "text": "\"JAMAIS LA RELATION NE FUT À CE NIVEAU\": EMMANUEL MACRON REÇOIT L’ORDRE DE LA \"GLOIRE\" EN ARMÉNIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:48",
-      "date": "04/05",
-      "timestamp": 1777931281
-    },
-    {
-      "id": "BFMTV_1777930931",
-      "source": "BFMTV",
-      "text": "L'IRAN N'AURAIT BESOIN QUE DE NEUF À DOUZE MOIS POUR AVOIR L'ARME NUCLÉAIRE, SELON L'AGENCE DE PRESSE REUTERS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:42",
-      "date": "04/05",
-      "timestamp": 1777930931
     }
   ],
   "france": {
