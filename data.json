@@ -1,7 +1,137 @@
 {
-  "last_update": "05/05 09:19",
+  "last_update": "05/05 10:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777978603",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS SUR UN BATEAU DE CROISIÈRE: L'ESPAGNE NE CONFIRME PAS L'ACCOSTAGE DU NAVIRE, \"AUCUNE DÉCISION\" N'A ÉTÉ PRISE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:56",
+      "date": "05/05",
+      "timestamp": 1777978603
+    },
+    {
+      "id": "OPEX360_1777977301",
+      "source": "OPEX360",
+      "text": "LES ÉMIRATS ARABES UNIS COMMANDENT DIX AVIONS MILITAIRES DE TRANSPORT C-390 AUPRÈS DU BRÉSILIEN EMBRAER",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:35",
+      "date": "05/05",
+      "timestamp": 1777977301
+    },
+    {
+      "id": "BFMTV_1777976721",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS VONT-ILS RIPOSTER AUX NOUVELLES ATTAQUES IRANIENNES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:25",
+      "date": "05/05",
+      "timestamp": 1777976721
+    },
+    {
+      "id": "BFMTV_1777976614",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE TÉMOIGNAGE DU CAPITAINE D'UN PÉTROLIER BLOQUÉ DANS LE DÉTROIT D'ORMUZ DEPUIS LE 28 FÉVRIER",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:23",
+      "date": "05/05",
+      "timestamp": 1777976614
+    },
+    {
+      "id": "BFMTV_1777976394",
+      "source": "BFMTV",
+      "text": "UN OURS SE RETROUVE EN LIBERTÉ DANS LES RUES DE LOS ANGELES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:19",
+      "date": "05/05",
+      "timestamp": 1777976394
+    },
+    {
+      "id": "BFMTV_1777975836",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE CHEF DE LA DIPLOMATIE IRANIENNE SE REND MARDI EN CHINE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:10",
+      "date": "05/05",
+      "timestamp": 1777975836
+    },
+    {
+      "id": "BFMTV_1777975118",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON: \"AUCUNE PAIX NE PEUT SE NÉGOCIER (...) SI ELLE SE JOUE SUR LA LOI DU PLUS FORT, SUR LA MENACE QU'ELLE SOIT CELLE DES BOMBES OU DES TARIFS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:58",
+      "date": "05/05",
+      "timestamp": 1777975118
+    },
+    {
+      "id": "BFMTV_1777974183",
+      "source": "BFMTV",
+      "text": "L''EUROPE EST LE PARTENAIRE \"LE PLUS NATUREL\" DE L'ARMÉNIE ET DU SUD CAUCASE, ASSURE EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:43",
+      "date": "05/05",
+      "timestamp": 1777974183
+    },
+    {
+      "id": "BFMTV_1777973603",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS PENDANT UNE CROISIÈRE: L'OMS SOUPÇONNE UNE \"TRANSMISSION INTERHUMAINE\" DE LA MALADIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:33",
+      "date": "05/05",
+      "timestamp": 1777973603
+    },
+    {
+      "id": "BFMTV_1777973583",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS À BORD DU BATEAU L'HONDIUS: L'OMS CONFIRME \"LE TOTAL À SEPT CAS, DEUX CONFIRMÉS ET CINQ SUSPECTS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:33",
+      "date": "05/05",
+      "timestamp": 1777973583
+    },
+    {
+      "id": "BFMTV_1777973513",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS SUR UN BATEAU : L'OMS SOUPÇONNE UNE \"TRANSMISSION INTERHUMAINE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:31",
+      "date": "05/05",
+      "timestamp": 1777973513
+    },
+    {
+      "id": "BFMTV_1777973182",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ESTIME QUE LE CONFLIT POURRAIT SE PROLONGER ENCORE \"DEUX À TROIS SEMAINES\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:26",
+      "date": "05/05",
+      "timestamp": 1777973182
+    },
+    {
+      "id": "BFMTV_1777972819",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - LE DÉTROIT D'ORMUZ TRANSFORMÉ EN CHAMP DE BATAILLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:20",
+      "date": "05/05",
+      "timestamp": 1777972819
+    },
     {
       "id": "BFMTV_1777972514",
       "source": "BFMTV",
@@ -21,6 +151,16 @@
       "time": "09:06",
       "date": "05/05",
       "timestamp": 1777971991
+    },
+    {
+      "id": "BFMTV_1777971619",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:00",
+      "date": "05/05",
+      "timestamp": 1777971619
     },
     {
       "id": "BFMTV_1777971618",
@@ -861,146 +1001,6 @@
       "time": "14:32",
       "date": "04/05",
       "timestamp": 1777905135
-    },
-    {
-      "id": "BFMTV_1777903801",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS CONSOLIDÉ DES ALLIANCES\": EMMANUEL MACRON SALUE LA VOLONTÉ DE L'ARMÉNIE DE S'ÉMANCIPER DE LA RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:10",
-      "date": "04/05",
-      "timestamp": 1777903801
-    },
-    {
-      "id": "BFMTV_1777902927",
-      "source": "BFMTV",
-      "text": "CARBURANTS: \"S'IL Y A DES PROFITS EXCESSIFS OU DES COMPORTEMENTS SPÉCULATEURS, LES EUROPÉENS DEVRONT Y RÉPONDRE\", DÉCLARE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:55",
-      "date": "04/05",
-      "timestamp": 1777902927
-    },
-    {
-      "id": "BFMTV_1777902799",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON : \"L'EUROPE EST À UN MOMENT DE VÉRITÉ, QUI SUPPOSE PLUS D'UNITÉ, PLUS D'AMBITION\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:53",
-      "date": "04/05",
-      "timestamp": 1777902799
-    },
-    {
-      "id": "BFMTV_1777901756",
-      "source": "BFMTV",
-      "text": "DÉFENSE: \"L'EUROPE DOIT S'ADAPTER À CE NOUVEAU MONDE ET S'ASSURER QUE NOUS AVONS SUFFISAMMENT D'ARGENT POUR FINANCER CE QUI DOIT ÊTRE FAIT\", ESTIME ROLAND LESCURE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:35",
-      "date": "04/05",
-      "timestamp": 1777901756
-    },
-    {
-      "id": "BFMTV_1777901231",
-      "source": "BFMTV",
-      "text": "\"VOUS AVEZ TOUT LE CANADA DERRIÈRE VOUS, SE TENANT AUX CÔTÉS DU PEUPLE UKRAINIEN\", DÉCLARE MARK CARNEY",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:27",
-      "date": "04/05",
-      "timestamp": 1777901231
-    },
-    {
-      "id": "BFMTV_1777901018",
-      "source": "BFMTV",
-      "text": "DEUX NAVIRES MARCHANDS BATTANT PAVILLON AMÉRICAIN ONT FRANCHI LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:23",
-      "date": "04/05",
-      "timestamp": 1777901018
-    },
-    {
-      "id": "BFMTV_1777900703",
-      "source": "BFMTV",
-      "text": "TROIS MORTS, CINQ FRANÇAIS À BORD, DÉBARQUEMENT INTERDIT AU CAP-VERT… CE QUE L'ON SAIT SUR LE POSSIBLE FOYER DE HANTAVIRUS PRÉSENT SUR UN BATEAU DE CROISIÈRE DANS L'ATLANTIQUE",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:18",
-      "date": "04/05",
-      "timestamp": 1777900703
-    },
-    {
-      "id": "BFMTV_1777899239",
-      "source": "BFMTV",
-      "text": "SUD-LIBAN:  ÉVACUÉ ET PILONNÉ PAR TSAHAL, HABBOUCHE EST DEVENU UN VILLAGE FANTÔME ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:53",
-      "date": "04/05",
-      "timestamp": 1777899239
-    },
-    {
-      "id": "BFMTV_1777897318",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON APPELLE À UNE \"RÉOUVERTURE CONCERTÉE ENTRE L'IRAN ET LES ÉTATS-UNIS\" DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:21",
-      "date": "04/05",
-      "timestamp": 1777897318
-    },
-    {
-      "id": "BFMTV_1777897127",
-      "source": "BFMTV",
-      "text": "BLOCAGE DU DÉTROIT D'ORMUZ: \"NOUS DEVONS AVOIR DES GARANTIES QUE LES MINES SONT BIEN RETIRÉES\", AFFIRME LE CAPITAINE D'UN PÉTROLIER INDIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:18",
-      "date": "04/05",
-      "timestamp": 1777897127
-    },
-    {
-      "id": "BFMTV_1777896748",
-      "source": "BFMTV",
-      "text": "\"PROJET LIBERTÉ\" DANS LE DÉTROIT D'ORMUZ: EN QUOI CONSISTE L'OPÉRATION DE L'ARMÉE AMÉRICAINE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:12",
-      "date": "04/05",
-      "timestamp": 1777896748
-    },
-    {
-      "id": "BFMTV_1777896395",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QU'UNE FRÉGATE AMÉRICAINE A ÉTÉ CIBLÉE PAR DES TIRS DE MISSILES DANS LE DÉTROIT D'ORMUZ, L'ARMÉE AMÉRICAINE DÉMENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:06",
-      "date": "04/05",
-      "timestamp": 1777896395
-    },
-    {
-      "id": "BFMTV_1777896076",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: 1.500 BEAGLES UTILISÉS POUR LA RECHERCHE BIOMÉDICALE SAUVÉS PAR DES ASSOCIATIONS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:01",
-      "date": "04/05",
-      "timestamp": 1777896076
-    },
-    {
-      "id": "BFMTV_1777896000",
-      "source": "BFMTV",
-      "text": "TROIS MORTS, DÉBARQUEMENT INTERDIT AU CAP-VERT, DÉPISTAGE… CE QUE L'ON SAIT SUR LE POSSIBLE FOYER DE HANTAVIRUS PRÉSENT SUR UN BATEAU DE CROISIÈRE DANS L'ATLANTIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:00",
-      "date": "04/05",
-      "timestamp": 1777896000
     }
   ],
   "france": {
