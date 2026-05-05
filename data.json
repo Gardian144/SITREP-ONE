@@ -1,7 +1,97 @@
 {
-  "last_update": "05/05 07:05",
+  "last_update": "05/05 09:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1777972514",
+      "source": "BFMTV",
+      "text": "\"HUIT OU NEUF ANS\": DONALD TRUMP PLAISANTE SUR LA DURÉE DE SON MANDAT PRÉSIDENTIEL",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:15",
+      "date": "05/05",
+      "timestamp": 1777972514
+    },
+    {
+      "id": "BFMTV_1777971991",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ESTIME QUE LE CONFLIT POURRAIT SE PROLONGER ENCORE \"DEUX À TROIS SEMAINES\" MAIS ASSURE AVOIR \"DÉJÀ GAGNÉ\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:06",
+      "date": "05/05",
+      "timestamp": 1777971991
+    },
+    {
+      "id": "BFMTV_1777971618",
+      "source": "BFMTV",
+      "text": "\"MOI JE N'AI PAS FLIPPÉ\": MALGRÉ LA GUERRE AU MOYEN-ORIENT, CES FRANÇAIS ONT DÉCIDÉ DE RESTER À DUBAÏ",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:00",
+      "date": "05/05",
+      "timestamp": 1777971618
+    },
+    {
+      "id": "BFMTV_1777970990",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA PROPAGANDE IRANIENNE S'EN PREND AUX ÉMIRATS ARABES UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:49",
+      "date": "05/05",
+      "timestamp": 1777970990
+    },
+    {
+      "id": "BFMTV_1777966575",
+      "source": "BFMTV",
+      "text": "FOYER PRÉSUMÉ D'HANTAVIRUS PENDANT UNE CROISIÈRE: UN DEUXIÈME CAS CONFIRMÉ EN LABORATOIRE, CINQ AUTRES CAS SUSPECTÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:36",
+      "date": "05/05",
+      "timestamp": 1777966575
+    },
+    {
+      "id": "BFMTV_1777966357",
+      "source": "BFMTV",
+      "text": "OUVERTURE DU PREMIER SOMMET UE-ARMÉNIE ET CÉRÉMONIE DE SIGNATURE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:32",
+      "date": "05/05",
+      "timestamp": 1777966357
+    },
+    {
+      "id": "BFMTV_1777965444",
+      "source": "BFMTV",
+      "text": "\"ÉLIMINONS TOUS LES MILLIARDAIRES\": LE PARQUET FÉDÉRAL INDIQUE QUE LE SUSPECT DES INCENDIES DE LOS ANGELES VOUAIT UNE HAINE AUX RICHES",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:17",
+      "date": "05/05",
+      "timestamp": 1777965444
+    },
+    {
+      "id": "BFMTV_1777965444",
+      "source": "BFMTV",
+      "text": "INCENDIES À LOS ANGELES",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:17",
+      "date": "05/05",
+      "timestamp": 1777965444
+    },
+    {
+      "id": "BFMTV_1777965072",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN \"N'A MÊME PAS ENCORE COMMENCÉ\" FACE AUX ÉTATS-UNIS, ASSURE LE PRÉSIDENT DU PARLEMENT IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:11",
+      "date": "05/05",
+      "timestamp": 1777965072
+    },
     {
       "id": "BFMTV_1777963832",
       "source": "BFMTV",
@@ -41,6 +131,16 @@
       "time": "06:41",
       "date": "05/05",
       "timestamp": 1777963301
+    },
+    {
+      "id": "BFMTV_1777963056",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:37",
+      "date": "05/05",
+      "timestamp": 1777963056
     },
     {
       "id": "BFMTV_1777963055",
@@ -901,106 +1001,6 @@
       "time": "12:00",
       "date": "04/05",
       "timestamp": 1777896000
-    },
-    {
-      "id": "BFMTV_1777895286",
-      "source": "BFMTV",
-      "text": "ESCORTE AMÉRICAINE DANS LE DÉTROIT D'ORMUZ: LES ÉTATS-UNIS MOBILISENT 15.000 SOLDATS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:48",
-      "date": "04/05",
-      "timestamp": 1777895286
-    },
-    {
-      "id": "BFMTV_1777893542",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QU'UNE FRÉGATE AMÉRICAINE A ÉTÉ CIBLÉE PAR DES TIRS DE MISSILES DANS LE DÉTROIT D'ORMUZ, L'ARMÉE AMÉRICAINE DÉMENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:19",
-      "date": "04/05",
-      "timestamp": 1777893542
-    },
-    {
-      "id": "BFMTV_1777892537",
-      "source": "BFMTV",
-      "text": "\"PROJET LIBERTÉ\" DANS LE DÉTROIT D'ORMUZ: \"ON EST INQUIET DE LA SITUATION, CELA SEMBLE ÊTRE UN PRÉTEXTE POUR RELANCER LE CONFLIT\", SELON EMMANUEL CHALARD",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:02",
-      "date": "04/05",
-      "timestamp": 1777892537
-    },
-    {
-      "id": "BFMTV_1777891378",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:42",
-      "date": "04/05",
-      "timestamp": 1777891378
-    },
-    {
-      "id": "BFMTV_1777891378",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN APPELLE LES ÉTATS-UNIS À ABANDONNER LEURS \"DEMANDES EXCESSIVES\" DANS LE CADRE DES NÉGOCIATIONS DE PAIX",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:42",
-      "date": "04/05",
-      "timestamp": 1777891378
-    },
-    {
-      "id": "BFMTV_1777891159",
-      "source": "BFMTV",
-      "text": "MIDI ÉCO - LE DISPOSITIF D'AIDE POUR LES \"GROS ROULEURS\", COMMENT ÇA MARCHE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:39",
-      "date": "04/05",
-      "timestamp": 1777891159
-    },
-    {
-      "id": "OPEX360_1777891079",
-      "source": "OPEX360",
-      "text": "LES FORCES ARMÉES SUÉDOISES SE DOTENT DE LEUR PREMIER SATELLITE MILITAIRE D’OBSERVATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:37",
-      "date": "04/05",
-      "timestamp": 1777891079
-    },
-    {
-      "id": "OPEX360_1777891079",
-      "source": "OPEX360",
-      "text": "LA SUÈDE SE DOTE DE SON PREMIER SATELLITE MILITAIRE D’OBSERVATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:37",
-      "date": "04/05",
-      "timestamp": 1777891079
-    },
-    {
-      "id": "BFMTV_1777890667",
-      "source": "BFMTV",
-      "text": "IRAN: UN MÉDIA FAIT ÉTAT DE MISSILES TIRÉS CONTRE UNE FRÉGATE AMÉRICAINE DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:31",
-      "date": "04/05",
-      "timestamp": 1777890667
-    },
-    {
-      "id": "BFMTV_1777890152",
-      "source": "BFMTV",
-      "text": "TROIS MORTS, RAPATRIEMENTS ORGANISÉS, DÉPISTAGE… CE QUE L'ON SAIT SUR LE POSSIBLE FOYER DE HANTAVIRUS PRÉSENT SUR UN BATEAU DE CROISIÈRE DANS L'ATLANTIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:22",
-      "date": "04/05",
-      "timestamp": 1777890152
     }
   ],
   "france": {
