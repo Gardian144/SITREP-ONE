@@ -1,7 +1,137 @@
 {
-  "last_update": "06/05 12:05",
+  "last_update": "06/05 14:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778077939",
+      "source": "BFMTV",
+      "text": "LES DÉTAILS DE L'ATTAQUE DU NAVIRE FRANÇAIS TOUCHÉ DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:32",
+      "date": "06/05",
+      "timestamp": 1778077939
+    },
+    {
+      "id": "BFMTV_1778077142",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LES IMAGES DE L'ÉVACUATION DE CAS SUSPECTS DU NAVIRE MV HONDIUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:19",
+      "date": "06/05",
+      "timestamp": 1778077142
+    },
+    {
+      "id": "OPEX360_1778076974",
+      "source": "OPEX360",
+      "text": "LE PORTE-AVIONS CHARLES DE GAULLE A REÇU L’ORDRE DE SE RAPPROCHER DU DÉTROIT D’ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:16",
+      "date": "06/05",
+      "timestamp": 1778076974
+    },
+    {
+      "id": "BFMTV_1778076811",
+      "source": "BFMTV",
+      "text": "TEXAS: UN ANCIEN CHAUFFEUR FEDEX CONDAMNÉ À MORT POUR LE MEURTRE D'UNE FILLETTE DE 7 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:13",
+      "date": "06/05",
+      "timestamp": 1778076811
+    },
+    {
+      "id": "BFMTV_1778076616",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LE NAVIRE ACCOSTERA SUR L'ÎLE DE TENERIFE \"DANS UN DÉLAI DE TROIS JOURS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:10",
+      "date": "06/05",
+      "timestamp": 1778076616
+    },
+    {
+      "id": "BFMTV_1778076393",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: D'APRÈS L'ÉLYSÉE, LA FRANCE \"EST PRÊTE ET CAPABLE DE SÉCURISER LE DÉTROIT D'ORMUZ\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:06",
+      "date": "06/05",
+      "timestamp": 1778076393
+    },
+    {
+      "id": "BFMTV_1778076041",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE: LE CHEF DE L'OMS \"NE PENSE PAS\" QUE LA SITUATION SOIT SIMILAIRE AU DÉBUT DE LA PANDÉMIE DE COVID-19",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:00",
+      "date": "06/05",
+      "timestamp": 1778076041
+    },
+    {
+      "id": "BFMTV_1778074813",
+      "source": "BFMTV",
+      "text": "IL SE PRÉPARE À INTERVENIR POUR ROUVRIR LE DÉTROIT D'ORMUZ: LE PORTE-AVIONS CHARLES DE GAULLE DÉPLOYÉ AU LARGE DU YÉMEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:40",
+      "date": "06/05",
+      "timestamp": 1778074813
+    },
+    {
+      "id": "BFMTV_1778073683",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE L'IRAN DE NOUVEAUX BOMBARDEMENTS EN L'ABSENCE D'ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:21",
+      "date": "06/05",
+      "timestamp": 1778073683
+    },
+    {
+      "id": "BFMTV_1778073452",
+      "source": "BFMTV",
+      "text": "DÎNER EN CABINE, PORT DU MASQUE ET FILMS: À QUOI RESSEMBLE LE QUOTIDIEN DES PASSAGERS DU MV HONDIUS, FOYER PRÉSUMÉ D'HANTAVIRUS?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:17",
+      "date": "06/05",
+      "timestamp": 1778073452
+    },
+    {
+      "id": "BFMTV_1778072390",
+      "source": "BFMTV",
+      "text": "G7 COMMERCE: \"NOUS ALLONS MUSCLER NOS RÉPONSES\" FACE AUX DÉSÉQUILIBRES DU COMMERCE MONDIAL, AFFIRME NICOLAS FORISSIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:59",
+      "date": "06/05",
+      "timestamp": 1778072390
+    },
+    {
+      "id": "BFMTV_1778071771",
+      "source": "BFMTV",
+      "text": "G7: \"LES RELATIONS TRANSATLANTIQUES ENTRE L'EUROPE ET LES ÉTATS-UNIS SONT ESSENTIELLES\", DÉCLARE NICOLAS FORISSIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:49",
+      "date": "06/05",
+      "timestamp": 1778071771
+    },
+    {
+      "id": "BFMTV_1778070464",
+      "source": "BFMTV",
+      "text": "\"UNE INTENSITÉ PLUS FORTE QU'AVANT\": DONALD TRUMP MENACE DE BOMBARDER L'IRAN SI TÉHÉRAN NE CONCLUT PAS UN ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:27",
+      "date": "06/05",
+      "timestamp": 1778070464
+    },
     {
       "id": "BFMTV_1778069010",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "14:17",
       "date": "05/05",
       "timestamp": 1777990649
-    },
-    {
-      "id": "BFMTV_1777989519",
-      "source": "BFMTV",
-      "text": " MALGRÉ LA GUERRE AU MOYEN-ORIENT, CES FRANÇAIS QUI N’ONT PAS PEUR DE RESTER À DUBAÏ  ",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:58",
-      "date": "05/05",
-      "timestamp": 1777989519
-    },
-    {
-      "id": "BFMTV_1777989223",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS SUR UN BATEAU DE CROISIÈRE: UNE \"INSPECTION\" VA ÊTRE MENÉE \"PAR UNE ÉQUIPE D'ÉPIDÉMIOLOGISTES\" POUR DÉTERMINER SI L'ACCOSTAGE EST POSSIBLE DANS LES CANARIES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:53",
-      "date": "05/05",
-      "timestamp": 1777989223
-    },
-    {
-      "id": "BFMTV_1777988137",
-      "source": "BFMTV",
-      "text": "L'ASSEMBLÉE NATIONALE REND HOMMAGE AUX MILITAIRES MORTS EN EXERCICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:35",
-      "date": "05/05",
-      "timestamp": 1777988137
-    },
-    {
-      "id": "BFMTV_1777986197",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON DÉNONCE LES FRAPPES DANS LE DÉTROIT D'ORMUZ, \"UNE FAUTE QUI NOURRIT LA GUERRE ET CONDUIT À L'ESCALADE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:03",
-      "date": "05/05",
-      "timestamp": 1777986197
-    },
-    {
-      "id": "BFMTV_1777985769",
-      "source": "BFMTV",
-      "text": "UN HOMME SUSPECTÉ D'AVOIR DÉCLENCHÉ UN INCENDIE MEURTRIER À LOS ANGELES CAR IL HAÏSSAIT LES RICHES  ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:56",
-      "date": "05/05",
-      "timestamp": 1777985769
-    },
-    {
-      "id": "BFMTV_1777985340",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"IL FAUT QUE L'IRAN ABANDONNE SES AMBITIONS NUCLÉAIRES\", ASSURE PETE HEGSETH",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:49",
-      "date": "05/05",
-      "timestamp": 1777985340
-    },
-    {
-      "id": "BFMTV_1777984971",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"J'ESPÈRE QUE LE PEUPLE IRANIEN SAURA TROUVER LE BÉNÉFICE DE CETTE OPÉRATION\", DÉCLARE PETE HEGSETH, SECRÉTAIRE AMÉRICAIN À LA DÉFENSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:42",
-      "date": "05/05",
-      "timestamp": 1777984971
-    },
-    {
-      "id": "BFMTV_1777984603",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LE CESSEZ-LE-FEU N'EST PAS TERMINÉ\", ASSURE PETE HEGSETH, SECRÉTAIRE AMÉRICAIN À LA DÉFENSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:36",
-      "date": "05/05",
-      "timestamp": 1777984603
-    },
-    {
-      "id": "OPEX360_1777984592",
-      "source": "OPEX360",
-      "text": "DEUX SAPEURS DE L’ARMÉE DE TERRE ONT PERDU LA VIE LORS D’UN STAGE DE PLONGÉE DE COMBAT À ANGERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:36",
-      "date": "05/05",
-      "timestamp": 1777984592
-    },
-    {
-      "id": "BFMTV_1777984508",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LA CHAÎNE DE COMMANDEMENT IRANIENNE EST FRACTURÉE\", ASSURE LE CHEF D'ÉTAT-MAJOR AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:35",
-      "date": "05/05",
-      "timestamp": 1777984508
-    },
-    {
-      "id": "BFMTV_1777984152",
-      "source": "BFMTV",
-      "text": "IRAN: L'ARMÉE AMÉRICAINE PRÊTE À REPRENDRE \"DES OPÉRATIONS MAJEURES DE COMBAT SI NÉCESSAIRE\", ASSURE LE CHEF D'ÉTAT-MAJOR",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:29",
-      "date": "05/05",
-      "timestamp": 1777984152
-    },
-    {
-      "id": "BFMTV_1777983529",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"NOUS VOULONS STABILISER LA SITUATION POUR QUE LE COMMERCE PUISSE REPRENDRE\", DÉCLARE PETE HEGSETH",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:18",
-      "date": "05/05",
-      "timestamp": 1777983529
-    },
-    {
-      "id": "BFMTV_1777983443",
-      "source": "BFMTV",
-      "text": "\"NOUS SOMMES PRÊTS À FAIRE FEU POUR PROTÉGER NOS NAVIRES\", ALERTE PETE HEGSETH, SECRÉTAIRE AMÉRICAIN À LA DÉFENSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:17",
-      "date": "05/05",
-      "timestamp": 1777983443
     }
   ],
   "france": {
