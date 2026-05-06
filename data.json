@@ -1,7 +1,137 @@
 {
-  "last_update": "06/05 07:35",
+  "last_update": "06/05 10:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778061344",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: POUR EMMANUEL MACRON, \"CE N'EST EN AUCUN CAS LA FRANCE QUI A ÉTÉ VISÉE\" APRÈS QU'UN NAVIRE CMA CGM A ÉTÉ TOUCHÉ DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:55",
+      "date": "06/05",
+      "timestamp": 1778061344
+    },
+    {
+      "id": "BFMTV_1778060639",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE: UN FRANÇAIS IDENTIFIÉ COMME CAS CONTACT LORS D'UN VOL EMPRUNTÉ PAR L’UN DES MALADES",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:43",
+      "date": "06/05",
+      "timestamp": 1778060639
+    },
+    {
+      "id": "BFMTV_1778060114",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:35",
+      "date": "06/05",
+      "timestamp": 1778060114
+    },
+    {
+      "id": "BFMTV_1778060113",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE: LE DIRIGEANT DES ÎLES CANARIES ESPAGNOLES REFUSE L'ACCOSTAGE DU BATEAU INFECTÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:35",
+      "date": "06/05",
+      "timestamp": 1778060113
+    },
+    {
+      "id": "BFMTV_1778060081",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UNE FEMME POURSUIT EN VOITURE UN ENFANT SUR UN TROTTOIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:34",
+      "date": "06/05",
+      "timestamp": 1778060081
+    },
+    {
+      "id": "BFMTV_1778059924",
+      "source": "BFMTV",
+      "text": "SUSPENSION DU \"PROJET LIBERTÉ\" DE DONALD TRUMP, UNE VICTOIRE POUR L'IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:32",
+      "date": "06/05",
+      "timestamp": 1778059924
+    },
+    {
+      "id": "BFMTV_1778058750",
+      "source": "BFMTV",
+      "text": "LE MÉDIA AMÉRICAIN AXIOS ANNONCE QUE LES ÉTATS-UNIS ET L’IRAN SERAIENT PROCHES D’UN MÉMORANDUM D’UNE PAGE POUR METTRE FIN À LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:12",
+      "date": "06/05",
+      "timestamp": 1778058750
+    },
+    {
+      "id": "BFMTV_1778055941",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LES CONTRADICTIONS DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:25",
+      "date": "06/05",
+      "timestamp": 1778055941
+    },
+    {
+      "id": "BFMTV_1778055061",
+      "source": "BFMTV",
+      "text": "\"RIEN N'INDIQUE QU'IL S'AGISSE D'UN ACTE CRIMINEL\": EN CORÉE DU SUD, LE JUGE QUI A ALOURDI LA PEINE DE PRISON DE L'EX-PREMIÈRE DAME RETROUVÉ MORT",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:11",
+      "date": "06/05",
+      "timestamp": 1778055061
+    },
+    {
+      "id": "BFMTV_1778054737",
+      "source": "BFMTV",
+      "text": "\"NE PAS ÊTRE OTAGES DE CERTAINS PAYS QUI DOMINENT LE MARCHÉ\": LES PAYS DU G7 DISCUTERONT DE LA SÉCURISATION DE LA CHAÎNE D'APPROVISIONNEMENT EN MINÉRAUX CRITIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:05",
+      "date": "06/05",
+      "timestamp": 1778054737
+    },
+    {
+      "id": "BFMTV_1778054430",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE: UN PASSAGER INFECTÉ PAR LA SOUCHE DES ANDES, TRANSMISSIBLE ENTRE HUMAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:00",
+      "date": "06/05",
+      "timestamp": 1778054430
+    },
+    {
+      "id": "BFMTV_1778054193",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA CHINE DÉFEND LE \"DROIT LÉGITIME\" DE L'IRAN AU NUCLÉAIRE CIVIL ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:56",
+      "date": "06/05",
+      "timestamp": 1778054193
+    },
+    {
+      "id": "BFMTV_1778053697",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: UN CARGO DU GROUPE FRANÇAIS CMA-CGM ATTAQUÉ DANS LE DÉTROIT D'ORMUZ ",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:48",
+      "date": "06/05",
+      "timestamp": 1778053697
+    },
     {
       "id": "BFMTV_1778052443",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "11:00",
       "date": "05/05",
       "timestamp": 1777978815
-    },
-    {
-      "id": "BFMTV_1777978603",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS SUR UN BATEAU DE CROISIÈRE: L'ESPAGNE NE CONFIRME PAS L'ACCOSTAGE DU NAVIRE, \"AUCUNE DÉCISION\" N'A ÉTÉ PRISE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:56",
-      "date": "05/05",
-      "timestamp": 1777978603
-    },
-    {
-      "id": "OPEX360_1777977301",
-      "source": "OPEX360",
-      "text": "LES ÉMIRATS ARABES UNIS COMMANDENT DIX AVIONS MILITAIRES DE TRANSPORT C-390 AUPRÈS DU BRÉSILIEN EMBRAER",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:35",
-      "date": "05/05",
-      "timestamp": 1777977301
-    },
-    {
-      "id": "BFMTV_1777976721",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS VONT-ILS RIPOSTER AUX NOUVELLES ATTAQUES IRANIENNES?",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:25",
-      "date": "05/05",
-      "timestamp": 1777976721
-    },
-    {
-      "id": "BFMTV_1777976614",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE TÉMOIGNAGE DU CAPITAINE D'UN PÉTROLIER BLOQUÉ DANS LE DÉTROIT D'ORMUZ DEPUIS LE 28 FÉVRIER",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:23",
-      "date": "05/05",
-      "timestamp": 1777976614
-    },
-    {
-      "id": "BFMTV_1777976394",
-      "source": "BFMTV",
-      "text": "UN OURS SE RETROUVE EN LIBERTÉ DANS LES RUES DE LOS ANGELES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:19",
-      "date": "05/05",
-      "timestamp": 1777976394
-    },
-    {
-      "id": "BFMTV_1777975836",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE CHEF DE LA DIPLOMATIE IRANIENNE SE REND MARDI EN CHINE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:10",
-      "date": "05/05",
-      "timestamp": 1777975836
-    },
-    {
-      "id": "BFMTV_1777975118",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON: \"AUCUNE PAIX NE PEUT SE NÉGOCIER (...) SI ELLE SE JOUE SUR LA LOI DU PLUS FORT, SUR LA MENACE QU'ELLE SOIT CELLE DES BOMBES OU DES TARIFS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:58",
-      "date": "05/05",
-      "timestamp": 1777975118
-    },
-    {
-      "id": "BFMTV_1777974183",
-      "source": "BFMTV",
-      "text": "L''EUROPE EST LE PARTENAIRE \"LE PLUS NATUREL\" DE L'ARMÉNIE ET DU SUD CAUCASE, ASSURE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:43",
-      "date": "05/05",
-      "timestamp": 1777974183
-    },
-    {
-      "id": "BFMTV_1777973603",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS PENDANT UNE CROISIÈRE: L'OMS SOUPÇONNE UNE \"TRANSMISSION INTERHUMAINE\" DE LA MALADIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:33",
-      "date": "05/05",
-      "timestamp": 1777973603
-    },
-    {
-      "id": "BFMTV_1777973583",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS À BORD DU BATEAU L'HONDIUS: L'OMS CONFIRME \"LE TOTAL À SEPT CAS, DEUX CONFIRMÉS ET CINQ SUSPECTS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:33",
-      "date": "05/05",
-      "timestamp": 1777973583
-    },
-    {
-      "id": "BFMTV_1777973513",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN BATEAU : L'OMS SOUPÇONNE UNE \"TRANSMISSION INTERHUMAINE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:31",
-      "date": "05/05",
-      "timestamp": 1777973513
-    },
-    {
-      "id": "BFMTV_1777973182",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ESTIME QUE LE CONFLIT POURRAIT SE PROLONGER ENCORE \"DEUX À TROIS SEMAINES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:26",
-      "date": "05/05",
-      "timestamp": 1777973182
-    },
-    {
-      "id": "BFMTV_1777972819",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - LE DÉTROIT D'ORMUZ TRANSFORMÉ EN CHAMP DE BATAILLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:20",
-      "date": "05/05",
-      "timestamp": 1777972819
     }
   ],
   "france": {
