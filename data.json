@@ -1,7 +1,107 @@
 {
-  "last_update": "06/05 18:00",
+  "last_update": "06/05 19:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778096392",
+      "source": "BFMTV",
+      "text": "LES DÉTAILS DE L'ATTAQUE AMÉRICAINE SUR UN PÉTROLIER IRANIEN ESSAYANT DE FORCER LE BLOCUS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:39",
+      "date": "06/05",
+      "timestamp": 1778096392
+    },
+    {
+      "id": "BFMTV_1778095624",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LE CARGO TOUCHÉ ÉTAIT SOUS PROTECTION AMÉRICAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:27",
+      "date": "06/05",
+      "timestamp": 1778095624
+    },
+    {
+      "id": "BFMTV_1778094640",
+      "source": "BFMTV",
+      "text": "AVEC L’IRAN, “NOUS AVONS DE TRÈS BONS ÉCHANGES DEPUIS 24 HEURES”, ADMET DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:10",
+      "date": "06/05",
+      "timestamp": 1778094640
+    },
+    {
+      "id": "BFMTV_1778094627",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS L'ONT \"EMPORTÉ\" CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:10",
+      "date": "06/05",
+      "timestamp": 1778094627
+    },
+    {
+      "id": "BFMTV_1778094349",
+      "source": "BFMTV",
+      "text": "IRAN: “TOUS LES NAVIRES ONT EXPLOSÉ ET SE RETROUVENT AU FOND DE LA MER”, ANNONCE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:05",
+      "date": "06/05",
+      "timestamp": 1778094349
+    },
+    {
+      "id": "BFMTV_1778094029",
+      "source": "BFMTV",
+      "text": "LES IMAGES DU PORTE-AVIONS CHARLES DE GAULLE TRAVERSANT LE CANAL DE SUEZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:00",
+      "date": "06/05",
+      "timestamp": 1778094029
+    },
+    {
+      "id": "BFMTV_1778093952",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: “LA POSITION DE LA FRANCE EST EXTRÊMEMENT CLAIRE”, DÉCLARE LE GÉNÉRAL PATRICK DUTARTE",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:59",
+      "date": "06/05",
+      "timestamp": 1778093952
+    },
+    {
+      "id": "BFMTV_1778093537",
+      "source": "BFMTV",
+      "text": "LES IMAGES DU PORTE-AVIONS CHARLES DE GAULLE TRAVERSANT LE CANAL DE SUEZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:52",
+      "date": "06/05",
+      "timestamp": 1778093537
+    },
+    {
+      "id": "BFMTV_1778092986",
+      "source": "BFMTV",
+      "text": "DÉTROIT D’ORMUZ: L’ARMÉE AMÉRICAINE AFFIRME AVOIR NEUTRALISÉ UN NAVIRE IRANIEN À L’AIDE D’UN F-18",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:43",
+      "date": "06/05",
+      "timestamp": 1778092986
+    },
+    {
+      "id": "BFMTV_1778091520",
+      "source": "BFMTV",
+      "text": "IRAN: HUIT MORTS DANS L'INCENDIE D'UN CENTRE COMMERCIAL PRÈS DE TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:18",
+      "date": "06/05",
+      "timestamp": 1778091520
+    },
     {
       "id": "BFMTV_1778089471",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "21:23",
       "date": "05/05",
       "timestamp": 1778016225
-    },
-    {
-      "id": "BFMTV_1778016001",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE INTENSIFIE LA PRESSION SUR L'IRAN POUR LA POURSUITE DE L'OPÉRATION \"EPIC FURY\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:20",
-      "date": "05/05",
-      "timestamp": 1778016001
-    },
-    {
-      "id": "BFMTV_1778015347",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN BATEAU DE CROISIÈRE: \"AUCUN NOUVEAU CAS SYMPTOMATIQUE\" IDENTIFIÉ À BORD, TROIS PERSONNES ÉVACUÉES DANS LES PROCHAINES HEURES",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:09",
-      "date": "05/05",
-      "timestamp": 1778015347
-    },
-    {
-      "id": "BFMTV_1778014960",
-      "source": "BFMTV",
-      "text": "L'IRAN DÉMENT \"CATÉGORIQUEMENT\" AVOIR ATTAQUÉ LES ÉMIRATS ARABES UNIS CE MARDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:02",
-      "date": "05/05",
-      "timestamp": 1778014960
-    },
-    {
-      "id": "BFMTV_1778014542",
-      "source": "BFMTV",
-      "text": "CNN RÉVÈLE DES IMAGES SATELLITES DES SITES NUCLÉAIRES IRANIENS FRAPPÉS PAR LES ÉTATS-UNIS ET ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:55",
-      "date": "05/05",
-      "timestamp": 1778014542
-    },
-    {
-      "id": "BFMTV_1778014059",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP SOUHAITE ARMER L'OPPOSITION IRANIENNE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:47",
-      "date": "05/05",
-      "timestamp": 1778014059
-    },
-    {
-      "id": "BFMTV_1778013870",
-      "source": "BFMTV",
-      "text": "\"NOUS N'AVONS JAMAIS EU AUSSI PEUR\": L'IRANIENNE ET LAURÉATE DU PRIX NOBEL DE LA PAIX NARGES MOHAMMADI \"ENTRE LA VIE ET LA MORT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:44",
-      "date": "05/05",
-      "timestamp": 1778013870
-    },
-    {
-      "id": "BFMTV_1778013140",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS PROPOSENT UNE RÉSOLUTION DU CONSEIL DE SÉCURITÉ DE L'ONU POUR DÉFENDRE LA LIBERTÉ DE NAVIGATION ET SÉCURISER LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:32",
-      "date": "05/05",
-      "timestamp": 1778013140
-    },
-    {
-      "id": "BFMTV_1778011839",
-      "source": "BFMTV",
-      "text": "IRAN: MARCO RUBIO, SECRÉTAIRE D'ÉTAT AMÉRICAIN, AFFIRME QUE LA PHASE OFFENSIVE EST \"TERMINÉE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:10",
-      "date": "05/05",
-      "timestamp": 1778011839
-    },
-    {
-      "id": "BFMTV_1778011789",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: MARCO RUBIO, SECRÉTAIRE D'ÉTAT AMÉRICAIN, ASSURE QUE LA PHASE OFFENSIVE EST \"FINIE\" EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:09",
-      "date": "05/05",
-      "timestamp": 1778011789
-    },
-    {
-      "id": "BFMTV_1778010474",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LES IMAGES SATELLITES DES DESTROYERS AMÉRICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:47",
-      "date": "05/05",
-      "timestamp": 1778010474
     }
   ],
   "france": {
