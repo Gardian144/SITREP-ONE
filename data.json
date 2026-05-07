@@ -1,7 +1,137 @@
 {
-  "last_update": "07/05 04:05",
+  "last_update": "07/05 07:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778138007",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: LE NAVIRE A QUITTÉ LE CAP-VERT, UN DEUXIÈME AVION DE RAPATRIEMENT POUR UN PASSAGER ÉVACUÉ A ATTERRI À AMSTERDAM",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:13",
+      "date": "07/05",
+      "timestamp": 1778138007
+    },
+    {
+      "id": "BFMTV_1778137602",
+      "source": "BFMTV",
+      "text": "MARCO RUBIO ARRIVE EN ITALIE POUR RENCONTRER LÉON XIV",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:06",
+      "date": "07/05",
+      "timestamp": 1778137602
+    },
+    {
+      "id": "BFMTV_1778137575",
+      "source": "BFMTV",
+      "text": "\"HORS DE QUESTION\": JEAN-NOËL BARROT ÉCARTE LA POSSIBILITÉ DE LEVER \"LA MOINDRE SANCTION\" INTERNATIONALE CONTRE L'IRAN TANT QUE LE DÉTROIT D'ORMUZ RESTE BLOQUÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:06",
+      "date": "07/05",
+      "timestamp": 1778137575
+    },
+    {
+      "id": "BFMTV_1778137499",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LE TÉMOIGNAGE EXCLUSIF D'UNE PASSAGÈRE FRANÇAISE COINCÉE À BORD DU MV HONDIUS",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:04",
+      "date": "07/05",
+      "timestamp": 1778137499
+    },
+    {
+      "id": "BFMTV_1778137352",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA FRANCE S'OPPOSE À LEVER \"LA MOINDRE SANCTION\" CONTRE L'IRAN TANT QUE LE DÉTROIT D'ORMUZ RESTE BLOQUÉ",
+      "urgent": true,
+      "france_related": true,
+      "time": "07:02",
+      "date": "07/05",
+      "timestamp": 1778137352
+    },
+    {
+      "id": "BFMTV_1778136618",
+      "source": "BFMTV",
+      "text": "\"UN GRAND BARBECUE COMME SI DE RIEN N'ÉTAIT\": UNE FRANÇAISE PASSAGÈRE DU NAVIRE AVEC UN FOYER D'HANTAVIRUS DÉPLORE DES MESURES DE DISTANCIATION INSUFFISANTES À BORD",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:50",
+      "date": "07/05",
+      "timestamp": 1778136618
+    },
+    {
+      "id": "BFMTV_1778133191",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL SE DIT PRÊT À TOUS LES SCÉNARIOS FACE À L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:53",
+      "date": "07/05",
+      "timestamp": 1778133191
+    },
+    {
+      "id": "BFMTV_1778132572",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: POURQUOI LE CHARLES DE GAULLE S'Y REND MAINTENANT ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:42",
+      "date": "07/05",
+      "timestamp": 1778132572
+    },
+    {
+      "id": "BFMTV_1778132100",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: ZACK POLANSKI, L'\"ÉCO-POPULISTE\" À LA TÊTE DES VERTS QUI VEUT \"REMPLACER\" LES TRAVAILLISTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:35",
+      "date": "07/05",
+      "timestamp": 1778132100
+    },
+    {
+      "id": "BFMTV_1778130790",
+      "source": "BFMTV",
+      "text": "GUERRE EU MOYEN-ORIENT: TSAHAL NE LÂCHE RIEN CONTRE LE HEZBOLLAH, AVEC DES CONSÉQUENCES CONCRÈTES SUR LES ISRAÉLIENS DU NORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:13",
+      "date": "07/05",
+      "timestamp": 1778130790
+    },
+    {
+      "id": "BFMTV_1778128678",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE: LE TÉMOIGNAGE EXCLUSIF D'UNE PASSAGÈRE FRANÇAISE COINCÉE DANS LE MV HONDIUS",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:37",
+      "date": "07/05",
+      "timestamp": 1778128678
+    },
+    {
+      "id": "BFMTV_1778128327",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: L'AGENCE SANITAIRE AMÉRICAINE ESTIME QUE LE RISQUE D'INFECTION EST \"EXTRÊMEMENT FAIBLE\" POUR LES AMÉRICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:32",
+      "date": "07/05",
+      "timestamp": 1778128327
+    },
+    {
+      "id": "BFMTV_1778128252",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: L'ARGENTINE RETRACE LE PARCOURS DES NÉERLANDAIS MORTS ET ENVOIE DES EXPERTS À USHUAÏA",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:30",
+      "date": "07/05",
+      "timestamp": 1778128252
+    },
     {
       "id": "BFMTV_1778106392",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "06:39",
       "date": "06/05",
       "timestamp": 1778049575
-    },
-    {
-      "id": "BFMTV_1778049575",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:39",
-      "date": "06/05",
-      "timestamp": 1778049575
-    },
-    {
-      "id": "BFMTV_1778047754",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: À PEINE LANCÉE, DONALD TRUMP ANNONCE SUSPENDRE L'OPÉRATION D'ESCORTE DE BATEAUX ",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:09",
-      "date": "06/05",
-      "timestamp": 1778047754
-    },
-    {
-      "id": "BFMTV_1778046556",
-      "source": "BFMTV",
-      "text": "TIRS AU GALA DE LA PRESSE AVEC DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:49",
-      "date": "06/05",
-      "timestamp": 1778046556
-    },
-    {
-      "id": "BFMTV_1778046554",
-      "source": "BFMTV",
-      "text": "L'ASSAILLANT DU GALA DE LA PRESSE À WASHINGTON INCULPÉ D'AGRESSION ARMÉE CONTRE UN AGENT FÉDÉRAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:49",
-      "date": "06/05",
-      "timestamp": 1778046554
-    },
-    {
-      "id": "BFMTV_1778045699",
-      "source": "BFMTV",
-      "text": "MISSILES ET DRONES: L'IRAN ENCORE LOIN DE LA PÉNURIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:34",
-      "date": "06/05",
-      "timestamp": 1778045699
-    },
-    {
-      "id": "BFMTV_1778045606",
-      "source": "BFMTV",
-      "text": "LE BRIEF DU GÉNÉRAL - LE F-18, LA PIÈCE MAÎTRESSE DU BLOCUS AMÉRICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:33",
-      "date": "06/05",
-      "timestamp": 1778045606
-    },
-    {
-      "id": "BFMTV_1778044403",
-      "source": "BFMTV",
-      "text": "ISRAËL PRÊT À BOMBARDER L’IRAN, MAIS IMPOSSIBLE DE PASSER À L’ACTION SANS LE FEU VERT DES AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:13",
-      "date": "06/05",
-      "timestamp": 1778044403
-    },
-    {
-      "id": "BFMTV_1778044298",
-      "source": "BFMTV",
-      "text": "TROIS MORTS DANS UNE FRAPPE AMÉRICAINE CONTRE UN BATEAU DE NARCOTRAFIQUANTS PRÉSUMÉS DANS L'EST DU PACIFIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:11",
-      "date": "06/05",
-      "timestamp": 1778044298
-    },
-    {
-      "id": "BFMTV_1778043089",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LE \"POJET LIBERTÉ\" EN PAUSE SELON MARCO RUBIO, SECRÉTAIRE D'ÉTAT AMÉRICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:51",
-      "date": "06/05",
-      "timestamp": 1778043089
-    },
-    {
-      "id": "BFMTV_1778042436",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS À NOUVEAU VISÉS PAR PLUSIEURS ATTAQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:40",
-      "date": "06/05",
-      "timestamp": 1778042436
-    },
-    {
-      "id": "BFMTV_1778042356",
-      "source": "BFMTV",
-      "text": "MÉTÉO: UN TEMPS PERTURBÉ ET DE L'ORAGE DANS LE SUD DE LA FRANCE ENCORE AUJOURD'HUI",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:39",
-      "date": "06/05",
-      "timestamp": 1778042356
-    },
-    {
-      "id": "BFMTV_1778042300",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA PROPAGANDE IRANIENNE TRANSFORME DONALD TRUMP… EN MINIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:38",
-      "date": "06/05",
-      "timestamp": 1778042300
-    },
-    {
-      "id": "BFMTV_1778042264",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:37",
-      "date": "06/05",
-      "timestamp": 1778042264
     }
   ],
   "france": {
