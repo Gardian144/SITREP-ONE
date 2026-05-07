@@ -1,7 +1,147 @@
 {
-  "last_update": "07/05 07:17",
+  "last_update": "07/05 10:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778147841",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PORTE-AVIONS CHARLES DE GAULLE \"EST EN MER ROUGE\", LA FRANCE \"PRÊTE\" À \"SÉCURISER LE TRAFIC\" À ORMUZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:57",
+      "date": "07/05",
+      "timestamp": 1778147841
+    },
+    {
+      "id": "BFMTV_1778147491",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - LE DÉPLOIEMENT DES FORCES FRANÇAISES DANS LE GOLFE POURRAIT COÛTER PLUS D'UN MILLIARD D'EUROS EN 2026",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:51",
+      "date": "07/05",
+      "timestamp": 1778147491
+    },
+    {
+      "id": "BFMTV_1778147445",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: \"PLUS PERSONNE N'A DE SYMPTÔMES À BORD\" DU NAVIRE, SELON LE CROISIÉRISTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:50",
+      "date": "07/05",
+      "timestamp": 1778147445
+    },
+    {
+      "id": "BFMTV_1778144605",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ÉVOQUE UNE \"EXCURSION DE 6 SEMAINES\" POUR DÉSIGNER LE CONFLIT AVEC L'IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:03",
+      "date": "07/05",
+      "timestamp": 1778144605
+    },
+    {
+      "id": "BFMTV_1778143979",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES DÉGÂTS AU LENDEMAIN D'UNE FRAPPE ISRAÉLIENNE À BEYROUTH",
+      "urgent": true,
+      "france_related": true,
+      "time": "08:52",
+      "date": "07/05",
+      "timestamp": 1778143979
+    },
+    {
+      "id": "BFMTV_1778143607",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARABIE SAOUDITE REFUSE L'ESPACE AÉRIEN AUX AVIONS DE CHASSE AMÉRICAINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:46",
+      "date": "07/05",
+      "timestamp": 1778143607
+    },
+    {
+      "id": "BFMTV_1778143409",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - LE PORTE-AVIONS CHARLES-DE-GAULLE EST EN ROUTE VERS LE GOLFE D'ADEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:43",
+      "date": "07/05",
+      "timestamp": 1778143409
+    },
+    {
+      "id": "BFMTV_1778143321",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT:  LA FLOTTE AMÉRICAINE OUVRE LE FEU SUR UN PÉTROLIER IRANIEN DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:42",
+      "date": "07/05",
+      "timestamp": 1778143321
+    },
+    {
+      "id": "BFMTV_1778143273",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP SOUHAITE UN ACCORD AVEC L'IRAN, ISRAËL S'INQUIÈTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:41",
+      "date": "07/05",
+      "timestamp": 1778143273
+    },
+    {
+      "id": "BFMTV_1778141945",
+      "source": "BFMTV",
+      "text": "GUERRE INFORMATIONNELLE : JEAN-NOËL BARROT ANNONCE LA CRÉATION D'UN \"CONTINGENT NUMÉRIQUE DE LA RÉSERVE DIPLOMATIQUE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:19",
+      "date": "07/05",
+      "timestamp": 1778141945
+    },
+    {
+      "id": "BFMTV_1778141829",
+      "source": "BFMTV",
+      "text": "\"FRENCH RESPONSE ARRIVE SUR TIKTOK ET ÇA VA ENVOYER DU LOURD !\", ANNONCE JEAN-NOËL BARROT",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:17",
+      "date": "07/05",
+      "timestamp": 1778141829
+    },
+    {
+      "id": "BFMTV_1778141721",
+      "source": "BFMTV",
+      "text": "PORTE-AVIONS CHARLES DE GAULLE EN MER ROUGE: LA FRANCE \"PRÊTE À PRENDRE SES RESPONSABILITÉS\" POUR \"SÉCURISER LE TRAFIC\" À ORMUZ",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:15",
+      "date": "07/05",
+      "timestamp": 1778141721
+    },
+    {
+      "id": "BFMTV_1778141239",
+      "source": "BFMTV",
+      "text": "VIDÉOS LEGO DU RÉGIME IRANIEN : \"L'APOGÉE DE LA GUERRE INFORMATIONNELLE À COÛT ZÉRO\", SELON JEAN-NOËL BARROT",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:07",
+      "date": "07/05",
+      "timestamp": 1778141239
+    },
+    {
+      "id": "BFMTV_1778140691",
+      "source": "BFMTV",
+      "text": "\"LES NOUVEAUX EMPIRES SE SONT ARMÉS DE RÉCITS SIMPLISTES ET BRUTAUX\", DÉNONCE JEAN-NOËL BARROT",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:58",
+      "date": "07/05",
+      "timestamp": 1778140691
+    },
     {
       "id": "BFMTV_1778138007",
       "source": "BFMTV",
@@ -483,6 +623,16 @@
       "timestamp": 1778083837
     },
     {
+      "id": "OPEX360_1778083837",
+      "source": "OPEX360",
+      "text": "RHEINMETALL DEMANDE 12 MILLIARDS D’EUROS POUR CONSTRUIRE LES HUIT FRÉGATES POLYVALENTES F126 DE LA MARINE ALLEMANDE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:10",
+      "date": "06/05",
+      "timestamp": 1778083837
+    },
+    {
       "id": "BFMTV_1778083673",
       "source": "BFMTV",
       "text": "TOUT CE QU’IL FAUT SAVOIR SUR L’HANTAVIRUS ET LE BATEAU DE CROISIÈRE INFECTÉ ",
@@ -851,156 +1001,6 @@
       "time": "09:35",
       "date": "06/05",
       "timestamp": 1778060114
-    },
-    {
-      "id": "BFMTV_1778060113",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE: LE DIRIGEANT DES ÎLES CANARIES ESPAGNOLES REFUSE L'ACCOSTAGE DU BATEAU INFECTÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:35",
-      "date": "06/05",
-      "timestamp": 1778060113
-    },
-    {
-      "id": "BFMTV_1778060081",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UNE FEMME POURSUIT EN VOITURE UN ENFANT SUR UN TROTTOIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:34",
-      "date": "06/05",
-      "timestamp": 1778060081
-    },
-    {
-      "id": "BFMTV_1778059924",
-      "source": "BFMTV",
-      "text": "SUSPENSION DU \"PROJET LIBERTÉ\" DE DONALD TRUMP, UNE VICTOIRE POUR L'IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:32",
-      "date": "06/05",
-      "timestamp": 1778059924
-    },
-    {
-      "id": "BFMTV_1778058750",
-      "source": "BFMTV",
-      "text": "LE MÉDIA AMÉRICAIN AXIOS ANNONCE QUE LES ÉTATS-UNIS ET L’IRAN SERAIENT PROCHES D’UN MÉMORANDUM D’UNE PAGE POUR METTRE FIN À LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:12",
-      "date": "06/05",
-      "timestamp": 1778058750
-    },
-    {
-      "id": "BFMTV_1778055941",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LES CONTRADICTIONS DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:25",
-      "date": "06/05",
-      "timestamp": 1778055941
-    },
-    {
-      "id": "BFMTV_1778055061",
-      "source": "BFMTV",
-      "text": "\"RIEN N'INDIQUE QU'IL S'AGISSE D'UN ACTE CRIMINEL\": EN CORÉE DU SUD, LE JUGE QUI A ALOURDI LA PEINE DE PRISON DE L'EX-PREMIÈRE DAME RETROUVÉ MORT",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:11",
-      "date": "06/05",
-      "timestamp": 1778055061
-    },
-    {
-      "id": "BFMTV_1778054737",
-      "source": "BFMTV",
-      "text": "\"NE PAS ÊTRE OTAGES DE CERTAINS PAYS QUI DOMINENT LE MARCHÉ\": LES PAYS DU G7 DISCUTERONT DE LA SÉCURISATION DE LA CHAÎNE D'APPROVISIONNEMENT EN MINÉRAUX CRITIQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:05",
-      "date": "06/05",
-      "timestamp": 1778054737
-    },
-    {
-      "id": "BFMTV_1778054430",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE: UN PASSAGER INFECTÉ PAR LA SOUCHE DES ANDES, TRANSMISSIBLE ENTRE HUMAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:00",
-      "date": "06/05",
-      "timestamp": 1778054430
-    },
-    {
-      "id": "BFMTV_1778054193",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA CHINE DÉFEND LE \"DROIT LÉGITIME\" DE L'IRAN AU NUCLÉAIRE CIVIL ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:56",
-      "date": "06/05",
-      "timestamp": 1778054193
-    },
-    {
-      "id": "BFMTV_1778053697",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: UN CARGO DU GROUPE FRANÇAIS CMA-CGM ATTAQUÉ DANS LE DÉTROIT D'ORMUZ ",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:48",
-      "date": "06/05",
-      "timestamp": 1778053697
-    },
-    {
-      "id": "BFMTV_1778052443",
-      "source": "BFMTV",
-      "text": "\"NOUS ESPÉRONS QUE CETTE SITUATION SERA RÉSOLUE BIENTÔT\": UN PASSAGER DU BATEAU DE CROISIÈRE AVEC UN FOYER PRÉSUMÉ D'HANTAVIRUS TÉMOIGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:27",
-      "date": "06/05",
-      "timestamp": 1778052443
-    },
-    {
-      "id": "BFMTV_1778051871",
-      "source": "BFMTV",
-      "text": "UN CARGO AFFRÉTÉ PAR LA COMPAGNIE FRANÇAISE CMA CGM A FAIT L'OBJET D'UNE \"ATTAQUE\" DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:17",
-      "date": "06/05",
-      "timestamp": 1778051871
-    },
-    {
-      "id": "BFMTV_1778051864",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES MEMBRES D’ÉQUIPAGE D'UN PORTE-CONTENEUR AFFRÉTÉ PAR CMA CGM BLESSÉS APRÈS UNE \"ATTAQUE\" DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:17",
-      "date": "06/05",
-      "timestamp": 1778051864
-    },
-    {
-      "id": "BFMTV_1778050803",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES MEMBRES D’ÉQUIPAGE D'UN PORTE-CONTENEUR AFFRÉTÉ PAR CMA CGM BLESSÉS APRÈS UNE \"ATTAQUE\" DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:00",
-      "date": "06/05",
-      "timestamp": 1778050803
-    },
-    {
-      "id": "BFMTV_1778049575",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV ACCUSE MOSCOU D'AVOIR VIOLÉ SON CESSEZ-LE-FEU UNILATÉRAL AVEC \"108 DRONES ET TROIS MISSILES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:39",
-      "date": "06/05",
-      "timestamp": 1778049575
     }
   ],
   "france": {
