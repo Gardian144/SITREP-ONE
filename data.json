@@ -1,7 +1,77 @@
 {
-  "last_update": "07/05 18:06",
+  "last_update": "07/05 19:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778180397",
+      "source": "BFMTV",
+      "text": "IRAN: LES IMAGES D'UNE PARADE AVEC DES DRONES AMÉRICAINS ABATTUS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:59",
+      "date": "07/05",
+      "timestamp": 1778180397
+    },
+    {
+      "id": "BFMTV_1778180086",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE GÉNÉRAL JEAN-PAUL PALOMÉROS, ANCIEN CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE L'AIR, DÉCRIT LA STRATÉGIE DE DONALD TRUMP DE  \"CACOPHONIE INACHEVÉE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:54",
+      "date": "07/05",
+      "timestamp": 1778180086
+    },
+    {
+      "id": "BFMTV_1778179697",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUI DIRIGE L'IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:48",
+      "date": "07/05",
+      "timestamp": 1778179697
+    },
+    {
+      "id": "BFMTV_1778179637",
+      "source": "BFMTV",
+      "text": "INDE: COMMENT LE RECYCLAGE DE LA FAST FASHION EMPOISONNE LA VILLE DE PANIPAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:47",
+      "date": "07/05",
+      "timestamp": 1778179637
+    },
+    {
+      "id": "BFMTV_1778178233",
+      "source": "BFMTV",
+      "text": "SUD-LIBAN: BFMTV AU CŒUR DES INSTALLATIONS SOUTERRAINES DU HEZBOLLAH",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:23",
+      "date": "07/05",
+      "timestamp": 1778178233
+    },
+    {
+      "id": "BFMTV_1778177273",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:07",
+      "date": "07/05",
+      "timestamp": 1778177273
+    },
+    {
+      "id": "BFMTV_1778177273",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE APPELLE LES HABITANTS DE KIEV À QUITTER LA VILLE FACE À LA MENACE D'UNE FRAPPE LE 9 MAI",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:07",
+      "date": "07/05",
+      "timestamp": 1778177273
+    },
     {
       "id": "BFMTV_1778175348",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "17:11",
       "date": "06/05",
       "timestamp": 1778087483
-    },
-    {
-      "id": "BFMTV_1778086963",
-      "source": "BFMTV",
-      "text": "\"LES ÉTATS-UNIS ONT LE RESPECT DU MONDE\", SE RÉJOUIT DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:02",
-      "date": "06/05",
-      "timestamp": 1778086963
-    },
-    {
-      "id": "BFMTV_1778086801",
-      "source": "BFMTV",
-      "text": "\"NOUS N'ALLONS PAS LAISSER L'IRAN SE DOTER DE L'ARME NUCLÉAIRE\", SOUTIENT DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:00",
-      "date": "06/05",
-      "timestamp": 1778086801
-    },
-    {
-      "id": "BFMTV_1778086563",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: CE QUE L'ON SAIT DU DÉPLOIEMENT DU CHARLES DE GAULLE EN MER ROUGE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:56",
-      "date": "06/05",
-      "timestamp": 1778086563
-    },
-    {
-      "id": "BFMTV_1778086176",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: “DES TRANSMISSIONS MAIS PAS AUSSI IMPORTANTES QU’AVEC LA COVID-19”, EXPLIQUE UN MÉDECIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:49",
-      "date": "06/05",
-      "timestamp": 1778086176
-    },
-    {
-      "id": "BFMTV_1778085543",
-      "source": "BFMTV",
-      "text": "\"PLUS RIEN NE TE REND HEUREUX\": ENTRE BOMBARDEMENTS ET INFLATION, UN IRANIEN RACONTE SON QUOTIDIEN APRÈS DEUX MOIS DE GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:39",
-      "date": "06/05",
-      "timestamp": 1778085543
-    },
-    {
-      "id": "OPEX360_1778083837",
-      "source": "OPEX360",
-      "text": "RHEINMETALL DEMANDE 12 MILLIARDS D’EUROS POUR CONSTRUIRE LES SIX FRÉGATES POLYVALENTES F126 DE LA MARINE ALLEMANDE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:10",
-      "date": "06/05",
-      "timestamp": 1778083837
-    },
-    {
-      "id": "OPEX360_1778083837",
-      "source": "OPEX360",
-      "text": "RHEINMETALL DEMANDE 12 MILLIARDS D’EUROS POUR CONSTRUIRE LES HUIT FRÉGATES POLYVALENTES F126 DE LA MARINE ALLEMANDE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:10",
-      "date": "06/05",
-      "timestamp": 1778083837
     }
   ],
   "france": {
