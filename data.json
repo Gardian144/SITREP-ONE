@@ -1,7 +1,97 @@
 {
-  "last_update": "07/05 10:00",
+  "last_update": "07/05 11:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778154568",
+      "source": "BFMTV",
+      "text": "COMMENT VA OPÉRER LE CHARLES DE GAULLE EN MER ROUGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:49",
+      "date": "07/05",
+      "timestamp": 1778154568
+    },
+    {
+      "id": "BFMTV_1778154135",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN DIT AVOIR RENCONTRÉ LE GUIDE SUPRÊME MOJTABA KHAMENEI",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:42",
+      "date": "07/05",
+      "timestamp": 1778154135
+    },
+    {
+      "id": "BFMTV_1778153184",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: UNE PASSAGÈRE FRANÇAISE DÉNONCE DES MESURES DE DISTANCIATION INSUFFISANTES À BORD DU MV HONDIUS",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:26",
+      "date": "07/05",
+      "timestamp": 1778153184
+    },
+    {
+      "id": "BFMTV_1778152839",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: QUAND LE CAPITAINE DU MV HONDIUS A ANNONCÉ LE PREMIER DÉCÈS AUX PASSAGERS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:20",
+      "date": "07/05",
+      "timestamp": 1778152839
+    },
+    {
+      "id": "OPEX360_1778151462",
+      "source": "OPEX360",
+      "text": "L’ESPAGNE ENVISAGE UNE COOPÉRATION AVEC LA TURQUIE POUR SE PROCURER DES CHASSEURS-BOMBARDIERS DE 5E GÉNÉRATION KAAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:57",
+      "date": "07/05",
+      "timestamp": 1778151462
+    },
+    {
+      "id": "BFMTV_1778151374",
+      "source": "BFMTV",
+      "text": "UN SOLDAT DE TSAHAL PHOTOGRAPHIÉ EN TRAIN DE \"FAIRE FUMER\" UNE STATUE DE LA VIERGE MARIE AU LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:56",
+      "date": "07/05",
+      "timestamp": 1778151374
+    },
+    {
+      "id": "BFMTV_1778150414",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN SOLDAT ISRAÉLIEN PHOTOGRAPHIÉ METTANT UNE CIGARETTE DANS LA BOUCHE D'UNE STATUE DE LA VIERGE MARIE AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:40",
+      "date": "07/05",
+      "timestamp": 1778150414
+    },
+    {
+      "id": "BFMTV_1778150096",
+      "source": "BFMTV",
+      "text": "\"MISSION NEUTRE\", \"SÉCURISATION\"... POURQUOI LE PORTE-AVIONS CHARLES DE GAULLE SE DIRIGE VERS LA MER ROUGE À PROXIMITÉ DU DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:34",
+      "date": "07/05",
+      "timestamp": 1778150096
+    },
+    {
+      "id": "BFMTV_1778148626",
+      "source": "BFMTV",
+      "text": "UN \"SIGNAL\" QU'UNE COALITION EST \"PRÊTE\" À SÉCURISER LE DÉTROIT D'ORMUZ: LE PORTE-AVIONS CHARLES DE GAULLE SE DIRIGE VERS LA MER ROUGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:10",
+      "date": "07/05",
+      "timestamp": 1778148626
+    },
     {
       "id": "BFMTV_1778147841",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "11:41",
       "date": "06/05",
       "timestamp": 1778067705
-    },
-    {
-      "id": "BFMTV_1778066744",
-      "source": "BFMTV",
-      "text": "HANDAVIRUS: LES IMAGES DE L'ÉVACUATION DE CAS SUSPECTS DU NAVIRE MV HONDIUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:25",
-      "date": "06/05",
-      "timestamp": 1778066744
-    },
-    {
-      "id": "BFMTV_1778064895",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:54",
-      "date": "06/05",
-      "timestamp": 1778064895
-    },
-    {
-      "id": "OPEX360_1778064725",
-      "source": "OPEX360",
-      "text": "LA TURQUIE A L’INTENTION DE DÉVELOPPER UN MISSILE BALISTIQUE INTERCONTINENTAL",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:52",
-      "date": "06/05",
-      "timestamp": 1778064725
-    },
-    {
-      "id": "BFMTV_1778064572",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: UN BATEAU-AMBULANCE ARRIVE PRÈS DU NAVIRE DE CROISIÈRE MV HONDIUS, AU LARGE DU CAP-VERT, OÙ TROIS CAS SUSPECTS ONT ÉTÉ ÉVACUÉS SELON L'OMS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:49",
-      "date": "06/05",
-      "timestamp": 1778064572
-    },
-    {
-      "id": "BFMTV_1778064106",
-      "source": "BFMTV",
-      "text": "CE QUE L'ON SAIT SUR LE NAVIRE CMA CGM QUI A ÉTÉ TOUCHÉ DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:41",
-      "date": "06/05",
-      "timestamp": 1778064106
-    },
-    {
-      "id": "BFMTV_1778062113",
-      "source": "BFMTV",
-      "text": "POUR EMMANUEL MACRON, \"CE N'EST EN AUCUN CAS LA FRANCE QUI A ÉTÉ VISÉE\" APRÈS QU'UN NAVIRE CMA CGM A ÉTÉ TOUCHÉ DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:08",
-      "date": "06/05",
-      "timestamp": 1778062113
-    },
-    {
-      "id": "BFMTV_1778061344",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: POUR EMMANUEL MACRON, \"CE N'EST EN AUCUN CAS LA FRANCE QUI A ÉTÉ VISÉE\" APRÈS QU'UN NAVIRE CMA CGM A ÉTÉ TOUCHÉ DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:55",
-      "date": "06/05",
-      "timestamp": 1778061344
-    },
-    {
-      "id": "BFMTV_1778060639",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE: UN FRANÇAIS IDENTIFIÉ COMME CAS CONTACT LORS D'UN VOL EMPRUNTÉ PAR L’UN DES MALADES",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:43",
-      "date": "06/05",
-      "timestamp": 1778060639
-    },
-    {
-      "id": "BFMTV_1778060114",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:35",
-      "date": "06/05",
-      "timestamp": 1778060114
     }
   ],
   "france": {
