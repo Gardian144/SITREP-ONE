@@ -1,7 +1,127 @@
 {
-  "last_update": "08/05 04:35",
+  "last_update": "08/05 06:21",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778221213",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP A MENACÉ L'IRAN SUR DE REPRÉSAILLES \"VIOLENTES\" S'IL NE SIGNAIT PAS \"RAPIDEMENT\" UN ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:20",
+      "date": "08/05",
+      "timestamp": 1778221213
+    },
+    {
+      "id": "BFMTV_1778220941",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS ACTIVENT LEUR DÉFENSE AÉRIENNE CONTRE DES MISSILES IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:15",
+      "date": "08/05",
+      "timestamp": 1778220941
+    },
+    {
+      "id": "BFMTV_1778220509",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ACCUSE L'ARMÉE AMÉRICAINE D'AVOIR VIOLÉ LE CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:08",
+      "date": "08/05",
+      "timestamp": 1778220509
+    },
+    {
+      "id": "BFMTV_1778220482",
+      "source": "BFMTV",
+      "text": "AU MOINS TROIS MORTS ET DIX PERSONNES DISPARUES EN INDONÉSIE APRÈS L'ÉRUPTION DU VOLCAN DUKONO DANS L'EST DE L'ARCHIPEL",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:08",
+      "date": "08/05",
+      "timestamp": 1778220482
+    },
+    {
+      "id": "BFMTV_1778219568",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: HUIT CAS SIGNALÉS AU TOTAL, DONT TROIS MORTS, SELON L'OMS, QUI PARLE D'AUTRES CAS \"POSSIBLES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:52",
+      "date": "08/05",
+      "timestamp": 1778219568
+    },
+    {
+      "id": "BFMTV_1778218255",
+      "source": "BFMTV",
+      "text": "LA RUSSIE DIT AVOIR INTERCEPTÉ 264 DRONES UKRAINIENS DEPUIS LE DÉBUT DE SA TRÊVE UNILATÉRALE, VOLODYMYR ZELENSKY FAIT ÉTAT DE 850 FRAPPES DE DRONES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:30",
+      "date": "08/05",
+      "timestamp": 1778218255
+    },
+    {
+      "id": "BFMTV_1778217707",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: COMMENT ISRAËL POUSSE POUR LA REPRISE DES BOMBARDEMENTS CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:21",
+      "date": "08/05",
+      "timestamp": 1778217707
+    },
+    {
+      "id": "BFMTV_1778217355",
+      "source": "BFMTV",
+      "text": "SELON LA PRESSE ISRAÉLIENNE, L'ÉTAT HÉBREU NIE AVOIR PARTICIPÉ AUX FRAPPES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:15",
+      "date": "08/05",
+      "timestamp": 1778217355
+    },
+    {
+      "id": "BFMTV_1778216323",
+      "source": "BFMTV",
+      "text": "AU LIBAN, DES FRAPPES ISRAÉLIENNES FONT AU MOINS 12 MORTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:58",
+      "date": "08/05",
+      "timestamp": 1778216323
+    },
+    {
+      "id": "BFMTV_1778216021",
+      "source": "BFMTV",
+      "text": "PREMIÈRE ATTAQUE MORTELLE D'OURS CONFIRMÉE EN 2026 AU JAPON, UNE ENQUÊTE EN COURS SUR DEUX AUTRES DÉCÈS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "08/05",
+      "timestamp": 1778216021
+    },
+    {
+      "id": "BFMTV_1778215996",
+      "source": "BFMTV",
+      "text": "APRÈS DEUX MOIS DE GUERRE, QUE RESTE-T-IL DE L'ARSENAL MILITAIRE IRANIEN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "08/05",
+      "timestamp": 1778215996
+    },
+    {
+      "id": "BFMTV_1778214979",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS AFFIRMENT ÊTRE EN TRAIN D'INTERCEPTER DES MISSILES ET DES DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:36",
+      "date": "08/05",
+      "timestamp": 1778214979
+    },
     {
       "id": "BFMTV_1778214753",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "05:42",
       "date": "07/05",
       "timestamp": 1778132572
-    },
-    {
-      "id": "BFMTV_1778132100",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: ZACK POLANSKI, L'\"ÉCO-POPULISTE\" À LA TÊTE DES VERTS QUI VEUT \"REMPLACER\" LES TRAVAILLISTES",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:35",
-      "date": "07/05",
-      "timestamp": 1778132100
-    },
-    {
-      "id": "BFMTV_1778130790",
-      "source": "BFMTV",
-      "text": "GUERRE EU MOYEN-ORIENT: TSAHAL NE LÂCHE RIEN CONTRE LE HEZBOLLAH, AVEC DES CONSÉQUENCES CONCRÈTES SUR LES ISRAÉLIENS DU NORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:13",
-      "date": "07/05",
-      "timestamp": 1778130790
-    },
-    {
-      "id": "BFMTV_1778128678",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE: LE TÉMOIGNAGE EXCLUSIF D'UNE PASSAGÈRE FRANÇAISE COINCÉE DANS LE MV HONDIUS",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:37",
-      "date": "07/05",
-      "timestamp": 1778128678
-    },
-    {
-      "id": "BFMTV_1778128327",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: L'AGENCE SANITAIRE AMÉRICAINE ESTIME QUE LE RISQUE D'INFECTION EST \"EXTRÊMEMENT FAIBLE\" POUR LES AMÉRICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:32",
-      "date": "07/05",
-      "timestamp": 1778128327
-    },
-    {
-      "id": "BFMTV_1778128252",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: L'ARGENTINE RETRACE LE PARCOURS DES NÉERLANDAIS MORTS ET ENVOIE DES EXPERTS À USHUAÏA",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:30",
-      "date": "07/05",
-      "timestamp": 1778128252
-    },
-    {
-      "id": "BFMTV_1778106392",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS L'ONT \"EMPORTÉ\" CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:26",
-      "date": "06/05",
-      "timestamp": 1778106392
-    },
-    {
-      "id": "BFMTV_1778104384",
-      "source": "BFMTV",
-      "text": "PSG EN FINALE DE LA LIGUE DES CHAMPIONS: DES TENSIONS ENTRE POLICIERS ET SUPPORTERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:53",
-      "date": "06/05",
-      "timestamp": 1778104384
-    },
-    {
-      "id": "BFMTV_1778104093",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: L'ÉVACUATION DES PASSAGERS DU NAVIRE DE CROISIÈRE COMMENCERA LUNDI À PARTIR DES CANARIES",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:48",
-      "date": "06/05",
-      "timestamp": 1778104093
-    },
-    {
-      "id": "BFMTV_1778103086",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: EMMANUEL MACRON S'EST ENTRETENU AVEC LE PRÉSIDENT IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:31",
-      "date": "06/05",
-      "timestamp": 1778103086
-    },
-    {
-      "id": "BFMTV_1778102624",
-      "source": "BFMTV",
-      "text": "SELON LE GÉNÉRAL PHILIPPE SIDOS, LES IRANIENS ONT DÉMONTRÉ QUE LE DÉTROIT D’ORMUZ “N’EST PAS LIBRE”",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:23",
-      "date": "06/05",
-      "timestamp": 1778102624
-    },
-    {
-      "id": "BFMTV_1778102446",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP JUGE UN ACCORD \"TRÈS POSSIBLE\" AVEC L'IRAN APRÈS DE \"TRÈS BONNES DISCUSSIONS\" DANS LES DERNIÈRES 24 HEURES",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:20",
-      "date": "06/05",
-      "timestamp": 1778102446
-    },
-    {
-      "id": "BFMTV_1778101231",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: QUAND DONALD TRUMP DIT TOUT ET SON CONTRAIRE À PROPOS DU CALENDRIER",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:00",
-      "date": "06/05",
-      "timestamp": 1778101231
     }
   ],
   "france": {
