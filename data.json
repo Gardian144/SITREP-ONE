@@ -1,7 +1,47 @@
 {
-  "last_update": "08/05 11:14",
+  "last_update": "08/05 12:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778243207",
+      "source": "BFMTV",
+      "text": "LIBAN: AU CŒUR D'UN VILLAGE SECOUÉ PAR DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:26",
+      "date": "08/05",
+      "timestamp": 1778243207
+    },
+    {
+      "id": "BFMTV_1778242117",
+      "source": "BFMTV",
+      "text": "SANS ACCORD, DONALD TRUMP MENACE L'IRAN DE REPRÉSAILLES \"VIOLENTES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:08",
+      "date": "08/05",
+      "timestamp": 1778242117
+    },
+    {
+      "id": "BFMTV_1778241003",
+      "source": "BFMTV",
+      "text": "DESTROYERS AMÉRICAINS ATTAQUÉS: À QUOI RESSEMBLENT-ILS?",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:50",
+      "date": "08/05",
+      "timestamp": 1778241003
+    },
+    {
+      "id": "BFMTV_1778240232",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: L'ARMÉE IRANIENNE DIT AVOIR SAISI UN PÉTROLIER EN MER D'OMAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:37",
+      "date": "08/05",
+      "timestamp": 1778240232
+    },
     {
       "id": "BFMTV_1778238015",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "10:56",
       "date": "07/05",
       "timestamp": 1778151374
-    },
-    {
-      "id": "BFMTV_1778150414",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN SOLDAT ISRAÉLIEN PHOTOGRAPHIÉ METTANT UNE CIGARETTE DANS LA BOUCHE D'UNE STATUE DE LA VIERGE MARIE AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:40",
-      "date": "07/05",
-      "timestamp": 1778150414
-    },
-    {
-      "id": "BFMTV_1778150096",
-      "source": "BFMTV",
-      "text": "\"MISSION NEUTRE\", \"SÉCURISATION\"... POURQUOI LE PORTE-AVIONS CHARLES DE GAULLE SE DIRIGE VERS LA MER ROUGE À PROXIMITÉ DU DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:34",
-      "date": "07/05",
-      "timestamp": 1778150096
-    },
-    {
-      "id": "BFMTV_1778148626",
-      "source": "BFMTV",
-      "text": "UN \"SIGNAL\" QU'UNE COALITION EST \"PRÊTE\" À SÉCURISER LE DÉTROIT D'ORMUZ: LE PORTE-AVIONS CHARLES DE GAULLE SE DIRIGE VERS LA MER ROUGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:10",
-      "date": "07/05",
-      "timestamp": 1778148626
-    },
-    {
-      "id": "BFMTV_1778147841",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PORTE-AVIONS CHARLES DE GAULLE \"EST EN MER ROUGE\", LA FRANCE \"PRÊTE\" À \"SÉCURISER LE TRAFIC\" À ORMUZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:57",
-      "date": "07/05",
-      "timestamp": 1778147841
     }
   ],
   "france": {
