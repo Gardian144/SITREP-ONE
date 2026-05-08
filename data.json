@@ -1,7 +1,67 @@
 {
-  "last_update": "08/05 08:08",
+  "last_update": "08/05 09:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778233754",
+      "source": "BFMTV",
+      "text": "PERCÉE DU PARTI D'EXTRÊME DROITE REFORM UK AUX ÉLECTIONS LOCALES AU ROYAUME-UNI, KEIR STARMER DÉPLORE DES RÉSULTATS \"DOULOUREUX\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:49",
+      "date": "08/05",
+      "timestamp": 1778233754
+    },
+    {
+      "id": "BFMTV_1778233166",
+      "source": "BFMTV",
+      "text": "EN CHINE, LE BILAN DE L'EXPLOSION DANS UNE USINE DE FEUX D'ARTIFICE PASSE À 37 MORTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:39",
+      "date": "08/05",
+      "timestamp": 1778233166
+    },
+    {
+      "id": "BFMTV_1778232555",
+      "source": "BFMTV",
+      "text": "PRISE D'OTAGES EN COURS DANS UNE BANQUE À SINZIG, DANS L'OUEST DE L'ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:29",
+      "date": "08/05",
+      "timestamp": 1778232555
+    },
+    {
+      "id": "BFMTV_1778229969",
+      "source": "BFMTV",
+      "text": "ILS NE POURRONT PLUS QUITTER LE PAYS: LES ÉTATS-UNIS VONT RÉVOQUER LES PASSEPORTS DES PARENTS QUI NE PAIENT PAS LEURS PENSIONS ALIMENTAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:46",
+      "date": "08/05",
+      "timestamp": 1778229969
+    },
+    {
+      "id": "BFMTV_1778229018",
+      "source": "BFMTV",
+      "text": "IMPORTANT FEU DE FORÊT DANS LA ZONE RADIOACTIVE DE TCHERNOBYL APRÈS LA CHUTE D'UN DRONE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:30",
+      "date": "08/05",
+      "timestamp": 1778229018
+    },
+    {
+      "id": "BFMTV_1778228486",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - COMMENT LE DÉTROIT D'ORMUZ S'EST EMBRASÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:21",
+      "date": "08/05",
+      "timestamp": 1778228486
+    },
     {
       "id": "BFMTV_1778227079",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "08:41",
       "date": "07/05",
       "timestamp": 1778143273
-    },
-    {
-      "id": "BFMTV_1778141945",
-      "source": "BFMTV",
-      "text": "GUERRE INFORMATIONNELLE : JEAN-NOËL BARROT ANNONCE LA CRÉATION D'UN \"CONTINGENT NUMÉRIQUE DE LA RÉSERVE DIPLOMATIQUE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:19",
-      "date": "07/05",
-      "timestamp": 1778141945
-    },
-    {
-      "id": "BFMTV_1778141829",
-      "source": "BFMTV",
-      "text": "\"FRENCH RESPONSE ARRIVE SUR TIKTOK ET ÇA VA ENVOYER DU LOURD !\", ANNONCE JEAN-NOËL BARROT",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:17",
-      "date": "07/05",
-      "timestamp": 1778141829
-    },
-    {
-      "id": "BFMTV_1778141721",
-      "source": "BFMTV",
-      "text": "PORTE-AVIONS CHARLES DE GAULLE EN MER ROUGE: LA FRANCE \"PRÊTE À PRENDRE SES RESPONSABILITÉS\" POUR \"SÉCURISER LE TRAFIC\" À ORMUZ",
-      "urgent": false,
-      "france_related": true,
-      "time": "08:15",
-      "date": "07/05",
-      "timestamp": 1778141721
-    },
-    {
-      "id": "BFMTV_1778141239",
-      "source": "BFMTV",
-      "text": "VIDÉOS LEGO DU RÉGIME IRANIEN : \"L'APOGÉE DE LA GUERRE INFORMATIONNELLE À COÛT ZÉRO\", SELON JEAN-NOËL BARROT",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:07",
-      "date": "07/05",
-      "timestamp": 1778141239
-    },
-    {
-      "id": "BFMTV_1778140691",
-      "source": "BFMTV",
-      "text": "\"LES NOUVEAUX EMPIRES SE SONT ARMÉS DE RÉCITS SIMPLISTES ET BRUTAUX\", DÉNONCE JEAN-NOËL BARROT",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:58",
-      "date": "07/05",
-      "timestamp": 1778140691
-    },
-    {
-      "id": "BFMTV_1778138007",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: LE NAVIRE A QUITTÉ LE CAP-VERT, UN DEUXIÈME AVION DE RAPATRIEMENT POUR UN PASSAGER ÉVACUÉ A ATTERRI À AMSTERDAM",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:13",
-      "date": "07/05",
-      "timestamp": 1778138007
     }
   ],
   "france": {
