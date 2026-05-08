@@ -1,7 +1,107 @@
 {
-  "last_update": "08/05 12:47",
+  "last_update": "08/05 14:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778251730",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: UN NOUVEAU CAS CONTACT SUSPECT IDENTIFIÉ PARMI LES PERSONNES AYANT VOYAGÉ À CÔTÉ DE LA NÉERLANDAISE DÉCÉDÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:48",
+      "date": "08/05",
+      "timestamp": 1778251730
+    },
+    {
+      "id": "BFMTV_1778251413",
+      "source": "BFMTV",
+      "text": "DÉTROIT D’ORMUZ: DES “AFFRONTEMENTS” ONT LIEU DEPUIS UNE HEURE, SELON DES MÉDIAS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:43",
+      "date": "08/05",
+      "timestamp": 1778251413
+    },
+    {
+      "id": "BFMTV_1778250819",
+      "source": "BFMTV",
+      "text": "DÉTROIT D’ORMUZ: LES IMAGES DES PÉTROLIERS FRAPPÉS PAR L’ARMÉE AMÉRICAINE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:33",
+      "date": "08/05",
+      "timestamp": 1778250819
+    },
+    {
+      "id": "BFMTV_1778249610",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LES SITES IRANIENS VISÉS PAR LA RIPOSTE AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:13",
+      "date": "08/05",
+      "timestamp": 1778249610
+    },
+    {
+      "id": "BFMTV_1778248807",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: L'ARMÉE IRANIENNE DIT AVOIR SAISI UN PÉTROLIER EN MER D'OMAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:00",
+      "date": "08/05",
+      "timestamp": 1778248807
+    },
+    {
+      "id": "BFMTV_1778246598",
+      "source": "BFMTV",
+      "text": "\"CRIMES D'ÉTAT\", \"MASSACRES\"... POUR LES ALGÉRIENS, SÉTIF REPRÉSENTE \"UNE DATE CONSTITUTIVE DE L'HISTOIRE DU MOUVEMENT NATIONAL\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:23",
+      "date": "08/05",
+      "timestamp": 1778246598
+    },
+    {
+      "id": "BFMTV_1778246598",
+      "source": "BFMTV",
+      "text": "TENSIONS ENTRE LA FRANCE ET L'ALGÉRIE",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:23",
+      "date": "08/05",
+      "timestamp": 1778246598
+    },
+    {
+      "id": "BFMTV_1778245567",
+      "source": "BFMTV",
+      "text": "MARCO RUBIO JUGE \"INACCEPTABLE\" QUE L'IRAN CONTRÔLE LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:06",
+      "date": "08/05",
+      "timestamp": 1778245567
+    },
+    {
+      "id": "OPEX360_1778245292",
+      "source": "OPEX360",
+      "text": "L’UKRAINE ESPÈRE FINALISER L’ACHAT D’AVIONS DE COMBAT GRIPEN E/F D’ICI LA FIN DE L’ANNÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:01",
+      "date": "08/05",
+      "timestamp": 1778245292
+    },
+    {
+      "id": "BFMTV_1778244624",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE ANNONCE QUE DES TIRS EN PROVENANCE DU LIBAN ONT ÉTÉ DÉTECTÉS EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:50",
+      "date": "08/05",
+      "timestamp": 1778244624
+    },
     {
       "id": "BFMTV_1778243207",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "13:02",
       "date": "07/05",
       "timestamp": 1778158962
-    },
-    {
-      "id": "BFMTV_1778158961",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN DIT AVOIR RENCONTRÉ LE GUIDE SUPRÊME, MOJTABA KHAMENEI, QUI N'A PAS ÉTÉ VU EN PUBLIC DEPUIS SA NOMINATION",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:02",
-      "date": "07/05",
-      "timestamp": 1778158961
-    },
-    {
-      "id": "BFMTV_1778158039",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - AU MOINS 228 STRUCTURES OU ÉQUIPEMENTS AMÉRICAINS ONT ÉTÉ TOUCHÉS AU MOYEN-ORIENT, SELON LE WASHINGTON POST",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:47",
-      "date": "07/05",
-      "timestamp": 1778158039
-    },
-    {
-      "id": "BFMTV_1778157186",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LE RISQUE POUR LES EUROPÉENS EST \"FAIBLE\", INSISTE LA COMMISSION EUROPÉENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:33",
-      "date": "07/05",
-      "timestamp": 1778157186
-    },
-    {
-      "id": "BFMTV_1778155540",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT IRANIEN AFFIRME AVOIR RENCONTRÉ LE GUIDE SUPRÊME MOJTABA KHAMENEI, QUI N'A PAS ÉTÉ VU EN PUBLIC DEPUIS SA NOMINATION DÉBUT MARS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:05",
-      "date": "07/05",
-      "timestamp": 1778155540
-    },
-    {
-      "id": "BFMTV_1778154568",
-      "source": "BFMTV",
-      "text": "COMMENT VA OPÉRER LE CHARLES DE GAULLE EN MER ROUGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:49",
-      "date": "07/05",
-      "timestamp": 1778154568
-    },
-    {
-      "id": "BFMTV_1778154135",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN DIT AVOIR RENCONTRÉ LE GUIDE SUPRÊME MOJTABA KHAMENEI",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:42",
-      "date": "07/05",
-      "timestamp": 1778154135
-    },
-    {
-      "id": "BFMTV_1778153184",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: UNE PASSAGÈRE FRANÇAISE DÉNONCE DES MESURES DE DISTANCIATION INSUFFISANTES À BORD DU MV HONDIUS",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:26",
-      "date": "07/05",
-      "timestamp": 1778153184
-    },
-    {
-      "id": "BFMTV_1778152839",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: QUAND LE CAPITAINE DU MV HONDIUS A ANNONCÉ LE PREMIER DÉCÈS AUX PASSAGERS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:20",
-      "date": "07/05",
-      "timestamp": 1778152839
-    },
-    {
-      "id": "OPEX360_1778151462",
-      "source": "OPEX360",
-      "text": "L’ESPAGNE ENVISAGE UNE COOPÉRATION AVEC LA TURQUIE POUR SE PROCURER DES CHASSEURS-BOMBARDIERS DE 5E GÉNÉRATION KAAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:57",
-      "date": "07/05",
-      "timestamp": 1778151462
-    },
-    {
-      "id": "BFMTV_1778151374",
-      "source": "BFMTV",
-      "text": "UN SOLDAT DE TSAHAL PHOTOGRAPHIÉ EN TRAIN DE \"FAIRE FUMER\" UNE STATUE DE LA VIERGE MARIE AU LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:56",
-      "date": "07/05",
-      "timestamp": 1778151374
     }
   ],
   "france": {
