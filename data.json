@@ -1,7 +1,67 @@
 {
-  "last_update": "08/05 17:44",
+  "last_update": "08/05 18:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778266467",
+      "source": "BFMTV",
+      "text": "L'ARMÉE COLOMBIENNE DÉCOUVRE UN DRONE CHARGÉ D'EXPLOSIFS PRÈS DE L'AÉROPORT INTERNATIONAL DE BOGOTÁ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:54",
+      "date": "08/05",
+      "timestamp": 1778266467
+    },
+    {
+      "id": "BFMTV_1778266354",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: LE MINISTÈRE DE LA SANTÉ INDIQUE QU'UN FRANÇAIS CAS CONTACT A ÉTÉ TESTÉ NÉGATIF",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:52",
+      "date": "08/05",
+      "timestamp": 1778266354
+    },
+    {
+      "id": "BFMTV_1778264693",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: POUR ALI KHEZRIAN, MEMBRE DU PARLEMENT IRANIEN, \"UN BLOCUS NAVAL EST UNE ACTION MILITAIRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:24",
+      "date": "08/05",
+      "timestamp": 1778264693
+    },
+    {
+      "id": "BFMTV_1778264447",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE UN CESSEZ-LE-FEU DE TROIS JOURS ENTRE LA RUSSIE ET L'UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:20",
+      "date": "08/05",
+      "timestamp": 1778264447
+    },
+    {
+      "id": "BFMTV_1778264053",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"IL Y A UNE AGGRAVATION DANS LA FAÇON DE TRAITER LES BATEAUX IRANIENS\", ANALYSE PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:14",
+      "date": "08/05",
+      "timestamp": 1778264053
+    },
+    {
+      "id": "BFMTV_1778263525",
+      "source": "BFMTV",
+      "text": "MANIFESTATION AUX ÎLES CANARIES CONTRE L’ARRIVÉE DU MV HONDIUS, TOUCHÉ PAR UN FOYER D'HANTAVIRUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:05",
+      "date": "08/05",
+      "timestamp": 1778263525
+    },
     {
       "id": "BFMTV_1778261459",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "17:18",
       "date": "07/05",
       "timestamp": 1778174297
-    },
-    {
-      "id": "BFMTV_1778173182",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:59",
-      "date": "07/05",
-      "timestamp": 1778173182
-    },
-    {
-      "id": "OPEX360_1778171433",
-      "source": "OPEX360",
-      "text": "ORION 26 : L’ARMÉE DE TERRE A EU RECOURS UNE CAPACITÉ DE RENSEIGNEMENT SPATIAL FOURNIE PAR LE FINLANDAIS ICEYE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:30",
-      "date": "07/05",
-      "timestamp": 1778171433
-    },
-    {
-      "id": "BFMTV_1778171092",
-      "source": "BFMTV",
-      "text": "OUGANDA: DES CHIENS MALTRAITÉS UTILISÉS PAR DES ESCROCS POUR ARNAQUER DES DONATEURS SUR TIKTOK",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:24",
-      "date": "07/05",
-      "timestamp": 1778171092
-    },
-    {
-      "id": "BFMTV_1778170029",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:07",
-      "date": "07/05",
-      "timestamp": 1778170029
-    },
-    {
-      "id": "BFMTV_1778169750",
-      "source": "BFMTV",
-      "text": "MEURTRE, MENSONGES, MARIAGE... “ET POUR LE PIRE”, LA SÉRIE BASÉE SUR L’HISTOIRE VRAIE DE CETTE ÉCOSSAISE CARTONNE SUR NETFLIX ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:02",
-      "date": "07/05",
-      "timestamp": 1778169750
-    },
-    {
-      "id": "BFMTV_1778169488",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP: POURQUOI LA GUERRE EN IRAN LUI COÛTE TRÈS CHER EN POPULARITÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:58",
-      "date": "07/05",
-      "timestamp": 1778169488
     }
   ],
   "france": {
