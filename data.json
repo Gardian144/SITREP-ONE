@@ -1,7 +1,47 @@
 {
-  "last_update": "09/05 08:51",
+  "last_update": "09/05 10:04",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1778319344",
+      "source": "OPEX360",
+      "text": "LA BELGIQUE ENVISAGE DE COMMANDER DES MISSILES AIR-AIR AMÉRICAINS AMRAAM POUR 3,69 MILLIARDS DE DOLLARS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:35",
+      "date": "09/05",
+      "timestamp": 1778319344
+    },
+    {
+      "id": "BFMTV_1778318351",
+      "source": "BFMTV",
+      "text": "UN MOINE BOUDDHISTE À LA TÊTE D'UN IMPORTANT TEMPLE AU SRI LANKA ARRÊTÉ POUR AGRESSION SEXUELLE SUR UNE MINEURE DE 11 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:19",
+      "date": "09/05",
+      "timestamp": 1778318351
+    },
+    {
+      "id": "BFMTV_1778318147",
+      "source": "BFMTV",
+      "text": "MV HONDIUS: COMMENT LES PASSAGERS VONT ÊTRE RAPATRIÉS DANS LEURS PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:15",
+      "date": "09/05",
+      "timestamp": 1778318147
+    },
+    {
+      "id": "BFMTV_1778318024",
+      "source": "BFMTV",
+      "text": "DES SOLDATS NORD-CORÉENS PARTICIPENT AU DÉFILÉ DE LA VICTOIRE À MOSCOU",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:13",
+      "date": "09/05",
+      "timestamp": 1778318024
+    },
     {
       "id": "BFMTV_1778316017",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "08:21",
       "date": "08/05",
       "timestamp": 1778228486
-    },
-    {
-      "id": "BFMTV_1778227079",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: UN NOUVEAU CAS SUSPECT DÉCELÉ SUR UN BRITANNIQUE SUR L'ARCHIPEL DE SAINTE-HÉLÈNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:57",
-      "date": "08/05",
-      "timestamp": 1778227079
-    },
-    {
-      "id": "BFMTV_1778226045",
-      "source": "BFMTV",
-      "text": "\"TOUT VA BIEN POUR NOUS\": UN COUPLE DE FRANÇAIS PRÉSENT SUR LE MV HONDIUS ASSURE QU'IL N'Y A \"PAS DE PANIQUE À BORD\" MALGRÉ LE FOYER D'HANTAVIRUS",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:40",
-      "date": "08/05",
-      "timestamp": 1778226045
-    },
-    {
-      "id": "BFMTV_1778224571",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON VEUT \"RESTAURER UN DIALOGUE EFFICACE\" AVEC L'ALGÉRIE ET RENVOIE L'AMBASSADEUR DE FRANCE À ALGER QUI \"REPRENDRA SES ACTIVITÉS\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:16",
-      "date": "08/05",
-      "timestamp": 1778224571
-    },
-    {
-      "id": "BFMTV_1778223694",
-      "source": "BFMTV",
-      "text": "LE CESSEZ-LE-FEU DÉJÀ ROMPU AU MOYEN-ORIENT? L'ANALYSE DE DIDIER FRANÇOIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:01",
-      "date": "08/05",
-      "timestamp": 1778223694
     }
   ],
   "france": {
