@@ -1,7 +1,77 @@
 {
-  "last_update": "09/05 07:06",
+  "last_update": "09/05 08:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778316017",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE MARÉE NOIRE DÉTECTÉE AU LARGE DE L'ÎLE DE KHARG",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:40",
+      "date": "09/05",
+      "timestamp": 1778316017
+    },
+    {
+      "id": "BFMTV_1778314666",
+      "source": "BFMTV",
+      "text": "IRAN: LE BUREAU DU GUIDE SUPRÊME AFFIRME QUE MOJTABA KHAMENEI EST \"EN PARFAITE SANTÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:17",
+      "date": "09/05",
+      "timestamp": 1778314666
+    },
+    {
+      "id": "BFMTV_1778314620",
+      "source": "BFMTV",
+      "text": "\"ÇA SE PROPAGE COMME UNE TRAÎNÉE DE POUDRE\": AUX FIDJI, L’EXPLOSION DES CAS DE VIH DÉSORMAIS CRISE SANITAIRE NATIONALE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:17",
+      "date": "09/05",
+      "timestamp": 1778314620
+    },
+    {
+      "id": "BFMTV_1778313428",
+      "source": "BFMTV",
+      "text": "COMMÉMORATIONS DU 9-MAI: VLADIMIR POUTINE SOUTIENT QUE LA GUERRE EN UKRAINE EST UNE CAUSE \"JUSTE\" ET DIT QUE L'ARMÉE RUSSE AFFRONTE DES \"FORCES AGRESSIVES\" SOUTENUES PAR L'OTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:57",
+      "date": "09/05",
+      "timestamp": 1778313428
+    },
+    {
+      "id": "BFMTV_1778313428",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:57",
+      "date": "09/05",
+      "timestamp": 1778313428
+    },
+    {
+      "id": "BFMTV_1778312365",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LE BUREAU DU GUIDE SUPRÊME IRANIEN ASSURE QUE MOJTABA KHAMENEI EST EN \"BONNE SANTÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:39",
+      "date": "09/05",
+      "timestamp": 1778312365
+    },
+    {
+      "id": "BFMTV_1778311816",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: NEUF LOCALITÉS LIBANAISES APPELÉES À ÉVACUER PAR L'ARMÉE ISRAÉLIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:30",
+      "date": "09/05",
+      "timestamp": 1778311816
+    },
     {
       "id": "BFMTV_1778309203",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "07:01",
       "date": "08/05",
       "timestamp": 1778223694
-    },
-    {
-      "id": "BFMTV_1778222880",
-      "source": "BFMTV",
-      "text": "\"UNE TACTIQUE D'INTIMIDATION\": LES AGENTS DE LA POLICE DE L'IMMIGRATION SOMMÉS DE NE PLUS PORTER DE MASQUE DANS L'ÉTAT DE NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:48",
-      "date": "08/05",
-      "timestamp": 1778222880
-    },
-    {
-      "id": "BFMTV_1778222544",
-      "source": "BFMTV",
-      "text": "DIDIER FRANÇOIS (ÉDITORIALISTE DÉFENSE BFMTV): \"MILITAIREMENT, IL N'Y A AUCUN DOUTE SUR LA SUPÉRIORITÉ DE LA FLOTTE AMÉRICAINE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:42",
-      "date": "08/05",
-      "timestamp": 1778222544
-    },
-    {
-      "id": "BFMTV_1778222344",
-      "source": "BFMTV",
-      "text": "DESTROYERS AMÉRICAINS ATTAQUÉS: \"IL Y A UNE VOLONTÉ DE L'IRAN DE GARDER LA MAIN SUR LE DÉTROIT D'ORMUZ\", EXPLIQUE DIDIER FRANÇOIS, ÉDITORIALISTE DÉFENSE BFMTV",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:39",
-      "date": "08/05",
-      "timestamp": 1778222344
-    },
-    {
-      "id": "BFMTV_1778221213",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP A MENACÉ L'IRAN SUR DE REPRÉSAILLES \"VIOLENTES\" S'IL NE SIGNAIT PAS \"RAPIDEMENT\" UN ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:20",
-      "date": "08/05",
-      "timestamp": 1778221213
-    },
-    {
-      "id": "BFMTV_1778220941",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS ACTIVENT LEUR DÉFENSE AÉRIENNE CONTRE DES MISSILES IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:15",
-      "date": "08/05",
-      "timestamp": 1778220941
-    },
-    {
-      "id": "BFMTV_1778220509",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ACCUSE L'ARMÉE AMÉRICAINE D'AVOIR VIOLÉ LE CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:08",
-      "date": "08/05",
-      "timestamp": 1778220509
-    },
-    {
-      "id": "BFMTV_1778220482",
-      "source": "BFMTV",
-      "text": "AU MOINS TROIS MORTS ET DIX PERSONNES DISPARUES EN INDONÉSIE APRÈS L'ÉRUPTION DU VOLCAN DUKONO DANS L'EST DE L'ARCHIPEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:08",
-      "date": "08/05",
-      "timestamp": 1778220482
     }
   ],
   "france": {
