@@ -1,7 +1,57 @@
 {
-  "last_update": "09/05 13:52",
+  "last_update": "09/05 14:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778337988",
+      "source": "BFMTV",
+      "text": "LE ROYAUME-UNI VA ENVOYER UN DESTROYER AU MOYEN-ORIENT POUR UNE FUTURE MISSION DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:46",
+      "date": "09/05",
+      "timestamp": 1778337988
+    },
+    {
+      "id": "BFMTV_1778337897",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN DESTROYER BRITANNIQUE ENVOYÉ EN \"PRÉPOSITIONNEMENT\" POUR LA FUTURE MISSION INTERNATIONALE DE SÉCURISATION DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:44",
+      "date": "09/05",
+      "timestamp": 1778337897
+    },
+    {
+      "id": "BFMTV_1778337804",
+      "source": "BFMTV",
+      "text": "OPÉRATION \"INÉDITE\", \"COULOIR ENTIÈREMENT BOUCLÉ\", RAPATRIEMENTS: TENERIFE SE PRÉPARE À L'ÉVACUATION DU NAVIRE FOYER D'HANTAVIRUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:43",
+      "date": "09/05",
+      "timestamp": 1778337804
+    },
+    {
+      "id": "BFMTV_1778337318",
+      "source": "BFMTV",
+      "text": "UN BATEAU DE CROISIÈRE VICTIME D'UNE ÉPIDÉMIE DE NOROVIRUS DANS LES CARAÏBES, 115 PASSAGERS ET MEMBRES D'ÉQUIPAGE MALADES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:35",
+      "date": "09/05",
+      "timestamp": 1778337318
+    },
+    {
+      "id": "BFMTV_1778336561",
+      "source": "BFMTV",
+      "text": "LE MEXIQUE VEUT AVANCER LA FIN DES COURS DE 40 JOURS EN RAISON DU MONDIAL 2026",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:22",
+      "date": "09/05",
+      "timestamp": 1778336561
+    },
     {
       "id": "OPEX360_1778334621",
       "source": "OPEX360",
@@ -106,6 +156,16 @@
       "id": "OPEX360_1778324921",
       "source": "OPEX360",
       "text": "VARSOVIE A OFFICIALISÉ UN PRÊT DE 44 MILLIARDS D’EUROS AUPRÈS DE LA COMMISSION EUROPÉENNE POUR FINANCER SA DÉFENSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:08",
+      "date": "09/05",
+      "timestamp": 1778324921
+    },
+    {
+      "id": "OPEX360_1778324921",
+      "source": "OPEX360",
+      "text": "VARSOVIE A OFFICIALISÉ UN EMPRUNT DE 44 MILLIARDS D’EUROS AUPRÈS DE LA COMMISSION EUROPÉENNE POUR FINANCER SA DÉFENSE",
       "urgent": false,
       "france_related": false,
       "time": "11:08",
@@ -941,66 +1001,6 @@
       "time": "13:06",
       "date": "08/05",
       "timestamp": 1778245567
-    },
-    {
-      "id": "OPEX360_1778245292",
-      "source": "OPEX360",
-      "text": "L’UKRAINE ESPÈRE FINALISER L’ACHAT D’AVIONS DE COMBAT GRIPEN E/F D’ICI LA FIN DE L’ANNÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:01",
-      "date": "08/05",
-      "timestamp": 1778245292
-    },
-    {
-      "id": "BFMTV_1778244624",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE ANNONCE QUE DES TIRS EN PROVENANCE DU LIBAN ONT ÉTÉ DÉTECTÉS EN ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:50",
-      "date": "08/05",
-      "timestamp": 1778244624
-    },
-    {
-      "id": "BFMTV_1778243207",
-      "source": "BFMTV",
-      "text": "LIBAN: AU CŒUR D'UN VILLAGE SECOUÉ PAR DES FRAPPES ISRAÉLIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:26",
-      "date": "08/05",
-      "timestamp": 1778243207
-    },
-    {
-      "id": "BFMTV_1778242117",
-      "source": "BFMTV",
-      "text": "SANS ACCORD, DONALD TRUMP MENACE L'IRAN DE REPRÉSAILLES \"VIOLENTES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:08",
-      "date": "08/05",
-      "timestamp": 1778242117
-    },
-    {
-      "id": "BFMTV_1778241003",
-      "source": "BFMTV",
-      "text": "DESTROYERS AMÉRICAINS ATTAQUÉS: À QUOI RESSEMBLENT-ILS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:50",
-      "date": "08/05",
-      "timestamp": 1778241003
-    },
-    {
-      "id": "BFMTV_1778240232",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: L'ARMÉE IRANIENNE DIT AVOIR SAISI UN PÉTROLIER EN MER D'OMAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:37",
-      "date": "08/05",
-      "timestamp": 1778240232
     }
   ],
   "france": {
