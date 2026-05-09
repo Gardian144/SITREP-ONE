@@ -1,7 +1,47 @@
 {
-  "last_update": "09/05 15:52",
+  "last_update": "09/05 16:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778345450",
+      "source": "BFMTV",
+      "text": "CHINE ET RUSSIE, DES SOUTIENS PRÉCIEUX POUR L'IRAN ?: \"ON A DU MAL À COMPRENDRE QUI SONT LES AMIS, LES ENNEMIS DE DONALD TRUMP\", ANALYSE FRÉDÉRIC MARTEL, ÉCRIVAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:50",
+      "date": "09/05",
+      "timestamp": 1778345450
+    },
+    {
+      "id": "BFMTV_1778344840",
+      "source": "BFMTV",
+      "text": "HÔPITAL MILITAIRE, CHAMBRES \"À PRESSION NÉGATIVE\", CONFINEMENT À DOMICILE... COMMENT VA SE DÉROULER L'ISOLEMENT DES PASSAGERS DU NAVIRE FOYER D'HANTAVIRUS APRÈS LEUR RAPATRIEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:40",
+      "date": "09/05",
+      "timestamp": 1778344840
+    },
+    {
+      "id": "BFMTV_1778342094",
+      "source": "BFMTV",
+      "text": "UNE NOUVELLE FRAPPE ISRAÉLIENNE DANS LE SUD-LIBAN FAIT SEPT MORTS, DONT UNE FILLETTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:54",
+      "date": "09/05",
+      "timestamp": 1778342094
+    },
+    {
+      "id": "BFMTV_1778341653",
+      "source": "BFMTV",
+      "text": "TENSIONS ENTRE LA FRANCE ET L'ALGÉRIE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:47",
+      "date": "09/05",
+      "timestamp": 1778341653
+    },
     {
       "id": "BFMTV_1778341652",
       "source": "BFMTV",
@@ -27,6 +67,16 @@
       "source": "BFMTV",
       "text": "FACE AUX GUERRE, EMMANUEL MACRON APPELLE À \"RECONSTRUIRE L'UNITÉ ENTRE LES PAYS\"",
       "urgent": true,
+      "france_related": false,
+      "time": "15:21",
+      "date": "09/05",
+      "timestamp": 1778340084
+    },
+    {
+      "id": "BFMTV_1778340084",
+      "source": "BFMTV",
+      "text": "FACE À LA SITUATION GÉOPOLITIQUE ACTUELLE, EMMANUEL MACRON APPELLE À \"RECONSTRUIRE L'UNITÉ ENTRE LES PAYS\"",
+      "urgent": false,
       "france_related": false,
       "time": "15:21",
       "date": "09/05",
@@ -951,56 +1001,6 @@
       "time": "14:48",
       "date": "08/05",
       "timestamp": 1778251730
-    },
-    {
-      "id": "BFMTV_1778251651",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: LES ÉTATS-UNIS ANNONCENT AVOIR FRAPPÉ DEUX PÉTROLIERS IRANIENS QUI TENTAIENT \"DE VIOLER LE BLOCUS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:47",
-      "date": "08/05",
-      "timestamp": 1778251651
-    },
-    {
-      "id": "BFMTV_1778251413",
-      "source": "BFMTV",
-      "text": "DÉTROIT D’ORMUZ: DES “AFFRONTEMENTS” ONT LIEU DEPUIS UNE HEURE, SELON DES MÉDIAS IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:43",
-      "date": "08/05",
-      "timestamp": 1778251413
-    },
-    {
-      "id": "BFMTV_1778250819",
-      "source": "BFMTV",
-      "text": "DÉTROIT D’ORMUZ: LES IMAGES DES PÉTROLIERS FRAPPÉS PAR L’ARMÉE AMÉRICAINE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:33",
-      "date": "08/05",
-      "timestamp": 1778250819
-    },
-    {
-      "id": "BFMTV_1778249610",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LES SITES IRANIENS VISÉS PAR LA RIPOSTE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:13",
-      "date": "08/05",
-      "timestamp": 1778249610
-    },
-    {
-      "id": "BFMTV_1778248807",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: L'ARMÉE IRANIENNE DIT AVOIR SAISI UN PÉTROLIER EN MER D'OMAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:00",
-      "date": "08/05",
-      "timestamp": 1778248807
     }
   ],
   "france": {
