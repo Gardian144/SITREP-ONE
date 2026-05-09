@@ -1,7 +1,147 @@
 {
-  "last_update": "09/05 01:22",
+  "last_update": "09/05 04:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778301900",
+      "source": "BFMTV",
+      "text": "CRAINTE D'UNE ATTAQUE UKRAINIENNE, VLADIMIR POUTINE INQUIET POUR SA SÉCURITÉ... LE DÉFILÉ MILITAIRE POUR LA VICTOIRE DU 9-MAI LARGEMENT RÉDUIT ET SOUS TENSION À MOSCOU",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:45",
+      "date": "09/05",
+      "timestamp": 1778301900
+    },
+    {
+      "id": "BFMTV_1778301521",
+      "source": "BFMTV",
+      "text": "\"JE NE COMPRENDS PAS COMMENT CE MONDE PEUT RESTER SILENCIEUX FACE À ISRAËL\": LE RÉCIT DES RÉFUGIÉS LIBANAIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:38",
+      "date": "09/05",
+      "timestamp": 1778301521
+    },
+    {
+      "id": "BFMTV_1778301161",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA TENSION RESTE MAXIMALE DANS LE DÉTROIT D'OMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:32",
+      "date": "09/05",
+      "timestamp": 1778301161
+    },
+    {
+      "id": "BFMTV_1778301037",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LE NAVIRE DE CROISIÈRE MV HONDIUS DOIT ARRIVER CE DIMANCHE À TENERIFE, AUX CANARIES",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:30",
+      "date": "09/05",
+      "timestamp": 1778301037
+    },
+    {
+      "id": "BFMTV_1778300847",
+      "source": "BFMTV",
+      "text": "DÉFILÉ DU 9-MAI EN RUSSIE: DONALD TRUMP ANNONCE UN CESSEZ-LE-FEU DE TROIS JOURS ENTRE L'UKRAINE ET LA RUSSIE À PARTIR DE CE SAMEDI",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:27",
+      "date": "09/05",
+      "timestamp": 1778300847
+    },
+    {
+      "id": "BFMTV_1778300711",
+      "source": "BFMTV",
+      "text": "PETE HEGSETH, LE VISAGE CONTESTÉ DE LA GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:25",
+      "date": "09/05",
+      "timestamp": 1778300711
+    },
+    {
+      "id": "BFMTV_1778300445",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT:\tUNE MARÉE NOIRE DÉTECTÉE AU LARGE DE L'ÎLE DE KHARG, PRINCIPAL TERMINAL PÉTROLIER DE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:20",
+      "date": "09/05",
+      "timestamp": 1778300445
+    },
+    {
+      "id": "BFMTV_1778300089",
+      "source": "BFMTV",
+      "text": "\"UN PUISSANT SYMBOLE DE RÉSILIENCE, DE LIBERTÉ\": UN PASTEUR AMÉRICAIN SE JUSTIFIE APRÈS AVOIR BÉNI UNE STATUE DORÉE DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:14",
+      "date": "09/05",
+      "timestamp": 1778300089
+    },
+    {
+      "id": "BFMTV_1778300059",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE MULTIPLIE LES RAIDS MEURTRIERS AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:14",
+      "date": "09/05",
+      "timestamp": 1778300059
+    },
+    {
+      "id": "BFMTV_1778299884",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LE PENTAGONE DÉCLASSIFIE 160 FICHIERS SUR LES OVNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:11",
+      "date": "09/05",
+      "timestamp": 1778299884
+    },
+    {
+      "id": "BFMTV_1778299734",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: COMMENT L'IRAN VEUT ÉTABLIR SA PROPRE AUTORITÉ SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:08",
+      "date": "09/05",
+      "timestamp": 1778299734
+    },
+    {
+      "id": "BFMTV_1778299604",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: SANS ACCORD, LE \"PROJET LIBERTÉ\" DE DONALD TRUMP RESSUSCITÉ? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:06",
+      "date": "09/05",
+      "timestamp": 1778299604
+    },
+    {
+      "id": "BFMTV_1778299358",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ATTEND INCESSAMMENT UNE RÉPONSE DE L'IRAN À SA DERNIÈRE PROPOSITION DE PAIX",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:02",
+      "date": "09/05",
+      "timestamp": 1778299358
+    },
+    {
+      "id": "BFMTV_1778299082",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP DIT ATTENDRE INCESSAMMENT UNE RÉPONSE DE TÉHÉRAN À SA DERNIÈRE PROPOSITION DE PAIX",
+      "urgent": true,
+      "france_related": false,
+      "time": "03:58",
+      "date": "09/05",
+      "timestamp": 1778299082
+    },
     {
       "id": "BFMTV_1778279186",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "04:53",
       "date": "08/05",
       "timestamp": 1778216021
-    },
-    {
-      "id": "BFMTV_1778215996",
-      "source": "BFMTV",
-      "text": "APRÈS DEUX MOIS DE GUERRE, QUE RESTE-T-IL DE L'ARSENAL MILITAIRE IRANIEN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:53",
-      "date": "08/05",
-      "timestamp": 1778215996
-    },
-    {
-      "id": "BFMTV_1778214979",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS AFFIRMENT ÊTRE EN TRAIN D'INTERCEPTER DES MISSILES ET DES DRONES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:36",
-      "date": "08/05",
-      "timestamp": 1778214979
-    },
-    {
-      "id": "BFMTV_1778214753",
-      "source": "BFMTV",
-      "text": "LE BRIEF DU GÉNÉRAL - TROIS NAVIRES AMÉRICAINS ONT ÉTÉ ATTAQUÉS PAR L'IRAN DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:32",
-      "date": "08/05",
-      "timestamp": 1778214753
-    },
-    {
-      "id": "BFMTV_1778214636",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: L'ARGENTINE ANNONCE QU'À CE STADE, IL N'EST \"PAS POSSIBLE DE CONFIRMER L'ORIGINE DE LA CONTAGION\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:30",
-      "date": "08/05",
-      "timestamp": 1778214636
-    },
-    {
-      "id": "BFMTV_1778214634",
-      "source": "BFMTV",
-      "text": "LIBAN: AU CŒUR DES TUNNELS DU HEZBOLLAH",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:30",
-      "date": "08/05",
-      "timestamp": 1778214634
-    },
-    {
-      "id": "BFMTV_1778214309",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DONALD TRUMP ASSURE QUE LE CESSEZ-LE-FEU EST TOUJOURS EN VIGUEUR MALGRÉ DES ÉCHANGES DE FRAPPES, IL SOMME TÉHÉRAN DE SIGNER UN ACCORD \"RAPIDEMENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:25",
-      "date": "08/05",
-      "timestamp": 1778214309
-    },
-    {
-      "id": "BFMTV_1778213918",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: COMMENT L'ARMÉE FRANÇAISE S'ADAPTE AUX NOUVELLES MENACES ",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:18",
-      "date": "08/05",
-      "timestamp": 1778213918
-    },
-    {
-      "id": "BFMTV_1778213754",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS VISÉS PAR UNE ATTAQUE DE MISSILES ET DE DRONES IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:15",
-      "date": "08/05",
-      "timestamp": 1778213754
-    },
-    {
-      "id": "BFMTV_1778213663",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI LES ATTAQUES IRANIENNES ET AMÉRICAINES N'EMPÊCHENT PAS LA CONCLUSION D'UN ACCORD ENTRE LES DEUX PAYS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:14",
-      "date": "08/05",
-      "timestamp": 1778213663
-    },
-    {
-      "id": "BFMTV_1778213581",
-      "source": "BFMTV",
-      "text": "NAVIRES, AVIONS... COMMENT LA FRANCE MUSCLE SA STRATÉGIE ",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:13",
-      "date": "08/05",
-      "timestamp": 1778213581
-    },
-    {
-      "id": "BFMTV_1778213428",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TÉHÉRAN ASSURE QUE LES ÉTATS-UNIS ONT COMMENCÉ À FRAPPER DEUX NAVIRES IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:10",
-      "date": "08/05",
-      "timestamp": 1778213428
-    },
-    {
-      "id": "BFMTV_1778213402",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP QUALIFIE DE \"BROUTILLE\" LES ATTAQUES IRANIENNES ET AMÉRICAINES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:10",
-      "date": "08/05",
-      "timestamp": 1778213402
-    },
-    {
-      "id": "BFMTV_1778213225",
-      "source": "BFMTV",
-      "text": "L'ARMÉE AMÉRICAINE CIBLE DES INSTALLATIONS MILITAIRES IRANIENNES, EN REPRÉSAILLES À DES ATTAQUES SUR SES NAVIRES, AFFIRME WASHINGTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:07",
-      "date": "08/05",
-      "timestamp": 1778213225
-    },
-    {
-      "id": "BFMTV_1778212490",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE CESSEZ-LE-FEU EST TOUJOURS EN VIGUEUR MALGRÉ L'ATTAQUE DES NAVIRES AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:54",
-      "date": "08/05",
-      "timestamp": 1778212490
     }
   ],
   "france": {
