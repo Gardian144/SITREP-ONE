@@ -1,7 +1,67 @@
 {
-  "last_update": "09/05 04:47",
+  "last_update": "09/05 07:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778309203",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: COMMENT LES PASSAGERS VONT ÊTRE ÉVACUÉS DU MV HONDIUS À TENERIFE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:46",
+      "date": "09/05",
+      "timestamp": 1778309203
+    },
+    {
+      "id": "BFMTV_1778308822",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE AFFIRME AVOIR FRAPPÉ PLUS DE 85 SITES DU HEZBOLLAH EN 24 HEURES",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:40",
+      "date": "09/05",
+      "timestamp": 1778308822
+    },
+    {
+      "id": "BFMTV_1778307900",
+      "source": "BFMTV",
+      "text": "\"LE FOSSÉ SE CREUSE\": AVEC LA GUERRE EN IRAN, DONALD TRUMP S'EST MIS À DOS TOUS LES EUROPÉENS, MÊME SES AMIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:25",
+      "date": "09/05",
+      "timestamp": 1778307900
+    },
+    {
+      "id": "BFMTV_1778305175",
+      "source": "BFMTV",
+      "text": "ISRAËL: DES SIRÈNES D'ALERTE ANTIAÉRIENNE ONT RETENTI DANS PLUSIEURS VILLES DU NORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:39",
+      "date": "09/05",
+      "timestamp": 1778305175
+    },
+    {
+      "id": "BFMTV_1778304923",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: SIX CAS CONFIRMÉS AU TOTAL, LE CHEF DE L'OMS ATTENDU AUX CANARIES POUR COORDONNER LES ÉVACUATIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:35",
+      "date": "09/05",
+      "timestamp": 1778304923
+    },
+    {
+      "id": "BFMTV_1778302737",
+      "source": "BFMTV",
+      "text": "TOTALENERGIES: CES PROFESSIONNELS EN PROFITENT DU PLAFONNEMENT DES PRIX DU CARBURANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:58",
+      "date": "09/05",
+      "timestamp": 1778302737
+    },
     {
       "id": "BFMTV_1778301900",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "06:08",
       "date": "08/05",
       "timestamp": 1778220482
-    },
-    {
-      "id": "BFMTV_1778219568",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: HUIT CAS SIGNALÉS AU TOTAL, DONT TROIS MORTS, SELON L'OMS, QUI PARLE D'AUTRES CAS \"POSSIBLES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:52",
-      "date": "08/05",
-      "timestamp": 1778219568
-    },
-    {
-      "id": "BFMTV_1778218255",
-      "source": "BFMTV",
-      "text": "LA RUSSIE DIT AVOIR INTERCEPTÉ 264 DRONES UKRAINIENS DEPUIS LE DÉBUT DE SA TRÊVE UNILATÉRALE, VOLODYMYR ZELENSKY FAIT ÉTAT DE 850 FRAPPES DE DRONES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:30",
-      "date": "08/05",
-      "timestamp": 1778218255
-    },
-    {
-      "id": "BFMTV_1778217707",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: COMMENT ISRAËL POUSSE POUR LA REPRISE DES BOMBARDEMENTS CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:21",
-      "date": "08/05",
-      "timestamp": 1778217707
-    },
-    {
-      "id": "BFMTV_1778217355",
-      "source": "BFMTV",
-      "text": "SELON LA PRESSE ISRAÉLIENNE, L'ÉTAT HÉBREU NIE AVOIR PARTICIPÉ AUX FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:15",
-      "date": "08/05",
-      "timestamp": 1778217355
-    },
-    {
-      "id": "BFMTV_1778216323",
-      "source": "BFMTV",
-      "text": "AU LIBAN, DES FRAPPES ISRAÉLIENNES FONT AU MOINS 12 MORTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:58",
-      "date": "08/05",
-      "timestamp": 1778216323
-    },
-    {
-      "id": "BFMTV_1778216021",
-      "source": "BFMTV",
-      "text": "PREMIÈRE ATTAQUE MORTELLE D'OURS CONFIRMÉE EN 2026 AU JAPON, UNE ENQUÊTE EN COURS SUR DEUX AUTRES DÉCÈS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:53",
-      "date": "08/05",
-      "timestamp": 1778216021
     }
   ],
   "france": {
