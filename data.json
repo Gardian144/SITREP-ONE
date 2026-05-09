@@ -1,7 +1,47 @@
 {
-  "last_update": "09/05 10:04",
+  "last_update": "09/05 11:11",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1778324921",
+      "source": "OPEX360",
+      "text": "VARSOVIE A OFFICIALISÉ UN PRÊT DE 44 MILLIARDS D’EUROS AUPRÈS DE LA COMMISSION EUROPÉENNE POUR FINANCER SA DÉFENSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:08",
+      "date": "09/05",
+      "timestamp": 1778324921
+    },
+    {
+      "id": "BFMTV_1778324532",
+      "source": "BFMTV",
+      "text": "QUE CONTIENNENT LES DOCUMENTS INÉDITS SUR LES OVNIS PUBLIÉS PAR LE PENTAGONE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:02",
+      "date": "09/05",
+      "timestamp": 1778324532
+    },
+    {
+      "id": "BFMTV_1778323706",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: LE NAVIRE MV HONDIUS EN ROUTE VERS LES CANARIES, DES VOLS DE RAPATRIEMENT DÉJÀ PRÉVUS VERS PLUSIEURS PAYS DONT LA FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:48",
+      "date": "09/05",
+      "timestamp": 1778323706
+    },
+    {
+      "id": "BFMTV_1778322970",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: FRAPPES DE L'ARMÉE ISRAÉLIENNE DANS LE SUD DU LIBAN APRÈS DES APPELS À ÉVACUER",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:36",
+      "date": "09/05",
+      "timestamp": 1778322970
+    },
     {
       "id": "OPEX360_1778319344",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "09:39",
       "date": "08/05",
       "timestamp": 1778233166
-    },
-    {
-      "id": "BFMTV_1778232555",
-      "source": "BFMTV",
-      "text": "PRISE D'OTAGES EN COURS DANS UNE BANQUE À SINZIG, DANS L'OUEST DE L'ALLEMAGNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:29",
-      "date": "08/05",
-      "timestamp": 1778232555
-    },
-    {
-      "id": "BFMTV_1778229969",
-      "source": "BFMTV",
-      "text": "ILS NE POURRONT PLUS QUITTER LE PAYS: LES ÉTATS-UNIS VONT RÉVOQUER LES PASSEPORTS DES PARENTS QUI NE PAIENT PAS LEURS PENSIONS ALIMENTAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:46",
-      "date": "08/05",
-      "timestamp": 1778229969
-    },
-    {
-      "id": "BFMTV_1778229018",
-      "source": "BFMTV",
-      "text": "IMPORTANT FEU DE FORÊT DANS LA ZONE RADIOACTIVE DE TCHERNOBYL APRÈS LA CHUTE D'UN DRONE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:30",
-      "date": "08/05",
-      "timestamp": 1778229018
-    },
-    {
-      "id": "BFMTV_1778228486",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - COMMENT LE DÉTROIT D'ORMUZ S'EST EMBRASÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:21",
-      "date": "08/05",
-      "timestamp": 1778228486
     }
   ],
   "france": {
