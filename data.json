@@ -1,7 +1,77 @@
 {
-  "last_update": "09/05 17:51",
+  "last_update": "09/05 19:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778353078",
+      "source": "BFMTV",
+      "text": "DESTROYER, APACHE, OCEAN TRADER: L'ARMADA AMÉRICAINE SE DÉPLOIE DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:57",
+      "date": "09/05",
+      "timestamp": 1778353078
+    },
+    {
+      "id": "BFMTV_1778352183",
+      "source": "BFMTV",
+      "text": "LA CHINE ET LA RUSSIE, DES SOUTIENS PRÉCIEUX POUR L'IRAN ? L'ANALYSE DE FRÉDÉRIC MARTEL, ÉCRIVAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:43",
+      "date": "09/05",
+      "timestamp": 1778352183
+    },
+    {
+      "id": "BFMTV_1778352176",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: SÉBASTIEN LECORNU TIENDRA DEMAIN UNE RÉUNION À MATIGNON POUR FAIRE UN POINT DE SITUATION SUR LE VIRUS",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:42",
+      "date": "09/05",
+      "timestamp": 1778352176
+    },
+    {
+      "id": "BFMTV_1778351910",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP A PARTAGÉ UN ARTICLE SUR SON RÉSEAU SOCIAL AFFIRMANT QUE PLUS DE 50 % DES AMÉRICAINS PRÉFÈRENT QUE L'IRAN N'OBTIENNE PAS L'ARME NUCLÉAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:38",
+      "date": "09/05",
+      "timestamp": 1778351910
+    },
+    {
+      "id": "BFMTV_1778350339",
+      "source": "BFMTV",
+      "text": "BLOCUS DU DÉTROIT D'ORMUZ: L'ACTIVITÉ MARITIME A ÉTÉ DISCRÈTE AU COURS DES DEUX DERNIERS JOURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:12",
+      "date": "09/05",
+      "timestamp": 1778350339
+    },
+    {
+      "id": "BFMTV_1778350164",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS AVEC LES ÉTATS-UNIS: L'IRAN MAINTIENT UNE POSTURE INFLEXIBLE CONCERNANT SON PROGRAMME NUCLÉAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:09",
+      "date": "09/05",
+      "timestamp": 1778350164
+    },
+    {
+      "id": "BFMTV_1778348846",
+      "source": "BFMTV",
+      "text": "DÉCLASSIFICATION DE DOCUMENTS SECRETS SUR LES OVNIS: \"LE PHÉNOMÈNE EST ANCIEN, IL EST DÉBATTU DEPUIS 1947\", RACONTE SYLVAIN MAISONNEUVE, AUTEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:47",
+      "date": "09/05",
+      "timestamp": 1778348846
+    },
     {
       "id": "BFMTV_1778348421",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "17:27",
       "date": "08/05",
       "timestamp": 1778261275
-    },
-    {
-      "id": "BFMTV_1778259734",
-      "source": "BFMTV",
-      "text": "“CETTE GUERRE EST TRÈS COMPLEXE À DÉCRIRE, ELLE ÉTAIT IMPRÉVISIBLE ET SON ISSUE N’EST PAS ÉVIDENTE”, ESTIME OLIVIER POIVRE D’ARVOR, ÉCRIVAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:02",
-      "date": "08/05",
-      "timestamp": 1778259734
-    },
-    {
-      "id": "OPEX360_1778258702",
-      "source": "OPEX360",
-      "text": "L’AGENCE DU PENTAGONE DÉDIÉE À L’INNOVATION A FAIT VOLER LE XRQ-73, UN DRONE À PROPULSION HYBRIDE «RÉVOLUTIONNAIRE»",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:45",
-      "date": "08/05",
-      "timestamp": 1778258702
-    },
-    {
-      "id": "BFMTV_1778257829",
-      "source": "BFMTV",
-      "text": "“LE DÉPARTEMENT DE LA GUERRE A RENDU PUBLIC LA PREMIÈRE TRANCHE DES DOSSIERS OVNI”, ANNONCE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:30",
-      "date": "08/05",
-      "timestamp": 1778257829
-    },
-    {
-      "id": "BFMTV_1778257116",
-      "source": "BFMTV",
-      "text": "LES IMAGES DE PROPAGANDE DE L’ARMÉE IRANIENNE QUI AFFIRME AVOIR ARRAISONNÉ UN PÉTROLIER",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:18",
-      "date": "08/05",
-      "timestamp": 1778257116
-    },
-    {
-      "id": "BFMTV_1778253530",
-      "source": "BFMTV",
-      "text": "DÉTROIT D’ORMUZ: “MALHEUREUSEMENT, IL Y A TOUJOURS 20.000 MARINS BLOQUÉS”, SELON EMMANUEL CHALARD, SECRÉTAIRE GÉNÉRAL DE LA FÉDÉRATION DES OFFICIERS DE LA MARINE MARCHANDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:18",
-      "date": "08/05",
-      "timestamp": 1778253530
-    },
-    {
-      "id": "BFMTV_1778253042",
-      "source": "BFMTV",
-      "text": "SELON LE WASHINGTON POST, LES IRANIENS ONT LA CAPACITÉ DE RÉSISTER AU BLOCUS DU DÉTROIT D’ORMUZ PENDANT TROIS À QUATRE MOIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:10",
-      "date": "08/05",
-      "timestamp": 1778253042
-    },
-    {
-      "id": "BFMTV_1778252882",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LE RAPATRIEMENT DES PASSAGERS DEVRAIT COMMENCER ENTRE DIMANCHE ET LUNDI, APRÈS UN PROTOCOLE SPÉCIAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:08",
-      "date": "08/05",
-      "timestamp": 1778252882
     }
   ],
   "france": {
