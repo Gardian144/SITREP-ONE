@@ -1,7 +1,37 @@
 {
-  "last_update": "09/05 14:50",
+  "last_update": "09/05 15:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778341652",
+      "source": "BFMTV",
+      "text": "ALICE RUFO ANNONCE QUE LA FRANCE ET L'ALGÉRIE VONT INTENSIFIER LEURS COOPÉRATIONS \"DE SÉCURITÉ ET DE DÉFENSE\", \"MIGRATOIRE\" ET \"JUDICIAIRE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:47",
+      "date": "09/05",
+      "timestamp": 1778341652
+    },
+    {
+      "id": "BFMTV_1778341250",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: ACCUEILLIR LE MV HONDIUS AUX CANARIES EST \"UN DEVOIR MORAL\", DIT LE PREMIER MINISTRE ESPAGNOL PEDRO SÁNCHEZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:40",
+      "date": "09/05",
+      "timestamp": 1778341250
+    },
+    {
+      "id": "BFMTV_1778340084",
+      "source": "BFMTV",
+      "text": "FACE AUX GUERRE, EMMANUEL MACRON APPELLE À \"RECONSTRUIRE L'UNITÉ ENTRE LES PAYS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:21",
+      "date": "09/05",
+      "timestamp": 1778340084
+    },
     {
       "id": "BFMTV_1778337988",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "14:00",
       "date": "08/05",
       "timestamp": 1778248807
-    },
-    {
-      "id": "BFMTV_1778246598",
-      "source": "BFMTV",
-      "text": "\"CRIMES D'ÉTAT\", \"MASSACRES\"... POUR LES ALGÉRIENS, SÉTIF REPRÉSENTE \"UNE DATE CONSTITUTIVE DE L'HISTOIRE DU MOUVEMENT NATIONAL\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:23",
-      "date": "08/05",
-      "timestamp": 1778246598
-    },
-    {
-      "id": "BFMTV_1778246598",
-      "source": "BFMTV",
-      "text": "TENSIONS ENTRE LA FRANCE ET L'ALGÉRIE",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:23",
-      "date": "08/05",
-      "timestamp": 1778246598
-    },
-    {
-      "id": "BFMTV_1778245567",
-      "source": "BFMTV",
-      "text": "MARCO RUBIO JUGE \"INACCEPTABLE\" QUE L'IRAN CONTRÔLE LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:06",
-      "date": "08/05",
-      "timestamp": 1778245567
     }
   ],
   "france": {
