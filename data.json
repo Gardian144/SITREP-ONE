@@ -1,7 +1,147 @@
 {
-  "last_update": "10/05 10:14",
+  "last_update": "10/05 11:15",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778411315",
+      "source": "BFMTV",
+      "text": "UN AVION PERCUTE ET TUE UNE PERSONNE QUI MARCHAIT SUR LA PISTE DE L'AÉROPORT DE DENVER",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:08",
+      "date": "10/05",
+      "timestamp": 1778411315
+    },
+    {
+      "id": "BFMTV_1778411262",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: LES PASSAGERS FRANÇAIS EN COURS D'ÉVACUATION DU NAVIRE MV HONDIUS À TENERIFE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:07",
+      "date": "10/05",
+      "timestamp": 1778411262
+    },
+    {
+      "id": "BFMTV_1778410889",
+      "source": "BFMTV",
+      "text": "THIERRY BRETON: \"DONALD TRUMP ARRIVE EN CHINE EN ÉTAT DE FAIBLESSE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:01",
+      "date": "10/05",
+      "timestamp": 1778410889
+    },
+    {
+      "id": "BFMTV_1778410394",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LES PASSAGERS FRANÇAIS DÉCLARÉS ASYMPTOMATIQUES, ANNONCE L'AMBASSADE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:53",
+      "date": "10/05",
+      "timestamp": 1778410394
+    },
+    {
+      "id": "OPEX360_1778409974",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE TERRE VEUT ENCOURAGER L’ACCÈS DES MILITAIRES DU RANG LES PLUS MÉRITANTS AU CORPS DES SOUS-OFFICIERS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:46",
+      "date": "10/05",
+      "timestamp": 1778409974
+    },
+    {
+      "id": "BFMTV_1778409912",
+      "source": "BFMTV",
+      "text": "THIERRY BRETON: \"L'IRAN A RÉUSSI À FAIRE RÉAPPARAÎTRE DE FAÇON CLAIRE ET DURABLE UNE FRAGMENTATION DU MOYEN-ORIENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:45",
+      "date": "10/05",
+      "timestamp": 1778409912
+    },
+    {
+      "id": "BFMTV_1778409633",
+      "source": "BFMTV",
+      "text": "TOTALENERGIES: \"ON PEUT ÊTRE FIER EN FRANCE D'AVOIR L'UN DES PLUS GRANDS GROUPES PÉTROLIERS AU MONDE\", ESTIME THIERRY BRETON",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:40",
+      "date": "10/05",
+      "timestamp": 1778409633
+    },
+    {
+      "id": "BFMTV_1778409381",
+      "source": "BFMTV",
+      "text": "POUR THIERRY BRETON, LE BLOCAGE DES PRIX DU CARBURANT PROPOSÉ PAR JEAN-LUC MÉLENCHON \"N'A AUCUN SENS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:36",
+      "date": "10/05",
+      "timestamp": 1778409381
+    },
+    {
+      "id": "BFMTV_1778409077",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"L'IRAN, À LA FIN, FERA CE QUE LA CHINE LUI DIRA DE FAIRE\", ASSURE THIERRY BRETON",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:31",
+      "date": "10/05",
+      "timestamp": 1778409077
+    },
+    {
+      "id": "BFMTV_1778408817",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"CETTE GUERRE N'EST PAS NOTRE GUERRE (...) MAIS NOUS SOMMES TOUS MASSIVEMENT IMPACTÉS\", AFFIRME THIERRY BRETON",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:26",
+      "date": "10/05",
+      "timestamp": 1778408817
+    },
+    {
+      "id": "BFMTV_1778408795",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VLADIMIR POUTINE PENSE QUE LE CONFLIT \"TOUCHE À SA FIN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:26",
+      "date": "10/05",
+      "timestamp": 1778408795
+    },
+    {
+      "id": "BFMTV_1778408291",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"IL FAUDRA UNE TIERCE PARTIE\" POUR UN ÉVENTUEL ACCORD, ASSURE THIERRY BRETON ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:18",
+      "date": "10/05",
+      "timestamp": 1778408291
+    },
+    {
+      "id": "BFMTV_1778408094",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"ON EST DANS UNE LOGIQUE DE POSTURE ET DE NARRATIF\", ASSURE L'ANCIEN COMMISSAIRE EUROPÉEN THIERRY BRETON",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:14",
+      "date": "10/05",
+      "timestamp": 1778408094
+    },
+    {
+      "id": "BFMTV_1778407979",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"ON EST TOUJOURS DANS LA LOGIQUE DU CESSEZ-LE-FEU, C'EST ABSOLUMENT INDISPENSABLE POUR LES DEUX PARTIES\", ESTIME L'ANCIEN COMMISSAIRE EUROPÉEN THIERRY BRETON",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:12",
+      "date": "10/05",
+      "timestamp": 1778407979
+    },
     {
       "id": "BFMTV_1778406137",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "13:13",
       "date": "09/05",
       "timestamp": 1778332401
-    },
-    {
-      "id": "BFMTV_1778331889",
-      "source": "BFMTV",
-      "text": "SOUCOUPES VOLANTES, LUMIÈRES DANS L'ESPACE ET ORBES QUI FLOTTENT: QUE CONTIENNENT LES DOCUMENTS SUR LES OVNIS PUBLIÉS PAR LE GOUVERNEMENT AMÉRICAIN?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:04",
-      "date": "09/05",
-      "timestamp": 1778331889
-    },
-    {
-      "id": "BFMTV_1778331099",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE A MENÉ DE NOUVELLES FRAPPES DANS LE SUD DU LIBAN APRÈS DES APPELS À ÉVACUATION",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:51",
-      "date": "09/05",
-      "timestamp": 1778331099
-    },
-    {
-      "id": "BFMTV_1778330455",
-      "source": "BFMTV",
-      "text": "LE ROYAUME-UNI VA ENVOYER UN DESTROYER AU MOYEN-ORIENT EN PRÉVISION DE LA MISSION INTERNATIONALE DE SÉCURISATION DU DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:40",
-      "date": "09/05",
-      "timestamp": 1778330455
-    },
-    {
-      "id": "BFMTV_1778329528",
-      "source": "BFMTV",
-      "text": "LE TÉMOIGNAGE DE RÉFUGIÉS LIBANAIS DONT LES HABITATIONS ONT ÉTÉ DYNAMITÉES PAR L’ARMÉE ISRAÉLIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:25",
-      "date": "09/05",
-      "timestamp": 1778329528
-    },
-    {
-      "id": "BFMTV_1778329091",
-      "source": "BFMTV",
-      "text": "LE BUREAU DU GUIDE SUPRÊME IRANIEN ASSURE QUE MOJTABA KHAMENEI EST EN \"PLEINE SANTÉ\" ET DÉNONCE DES \"MENSONGES\" DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:18",
-      "date": "09/05",
-      "timestamp": 1778329091
-    },
-    {
-      "id": "BFMTV_1778327922",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES INDICES D'UNE NOUVELLE OPÉRATION AMÉRICAINE À VENIR?  ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:58",
-      "date": "09/05",
-      "timestamp": 1778327922
-    },
-    {
-      "id": "BFMTV_1778327500",
-      "source": "BFMTV",
-      "text": "\"IL EST EN PLEINE FORME\": UN HAUT RESPONSABLE DU RÉGIME IRANIEN ÉVOQUE L'ÉTAT DE SANTÉ DU GUIDE SUPRÊME ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:51",
-      "date": "09/05",
-      "timestamp": 1778327500
-    },
-    {
-      "id": "OPEX360_1778324921",
-      "source": "OPEX360",
-      "text": "VARSOVIE A OFFICIALISÉ UN PRÊT DE 44 MILLIARDS D’EUROS AUPRÈS DE LA COMMISSION EUROPÉENNE POUR FINANCER SA DÉFENSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:08",
-      "date": "09/05",
-      "timestamp": 1778324921
-    },
-    {
-      "id": "OPEX360_1778324921",
-      "source": "OPEX360",
-      "text": "VARSOVIE A OFFICIALISÉ UN EMPRUNT DE 44 MILLIARDS D’EUROS AUPRÈS DE LA COMMISSION EUROPÉENNE POUR FINANCER SA DÉFENSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:08",
-      "date": "09/05",
-      "timestamp": 1778324921
-    },
-    {
-      "id": "BFMTV_1778324532",
-      "source": "BFMTV",
-      "text": "QUE CONTIENNENT LES DOCUMENTS INÉDITS SUR LES OVNIS PUBLIÉS PAR LE PENTAGONE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:02",
-      "date": "09/05",
-      "timestamp": 1778324532
-    },
-    {
-      "id": "BFMTV_1778323706",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: LE NAVIRE MV HONDIUS EN ROUTE VERS LES CANARIES, DES VOLS DE RAPATRIEMENT DÉJÀ PRÉVUS VERS PLUSIEURS PAYS DONT LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:48",
-      "date": "09/05",
-      "timestamp": 1778323706
-    },
-    {
-      "id": "BFMTV_1778322970",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: FRAPPES DE L'ARMÉE ISRAÉLIENNE DANS LE SUD DU LIBAN APRÈS DES APPELS À ÉVACUER",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:36",
-      "date": "09/05",
-      "timestamp": 1778322970
-    },
-    {
-      "id": "OPEX360_1778319344",
-      "source": "OPEX360",
-      "text": "LA BELGIQUE ENVISAGE DE COMMANDER DES MISSILES AIR-AIR AMÉRICAINS AMRAAM POUR 3,69 MILLIARDS DE DOLLARS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:35",
-      "date": "09/05",
-      "timestamp": 1778319344
-    },
-    {
-      "id": "BFMTV_1778318351",
-      "source": "BFMTV",
-      "text": "UN MOINE BOUDDHISTE À LA TÊTE D'UN IMPORTANT TEMPLE AU SRI LANKA ARRÊTÉ POUR AGRESSION SEXUELLE SUR UNE MINEURE DE 11 ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:19",
-      "date": "09/05",
-      "timestamp": 1778318351
     }
   ],
   "france": {
