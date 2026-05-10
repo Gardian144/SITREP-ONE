@@ -1,5 +1,5 @@
 {
-  "last_update": "10/05 22:05",
+  "last_update": "10/05 23:08",
   "impacts": [],
   "news": [
     {
@@ -36,6 +36,16 @@
       "id": "BFMTV_1778448426",
       "source": "BFMTV",
       "text": "DIRECT. HANTAVIRUS: LE PATIENT SYMPTOMATIQUE EST UNE FEMME QUI A PRÉSENTÉ DE LA FIÈVRE PENDANT LE VOL DE RAPATRIEMENT (INFO BFMTV)",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:27",
+      "date": "10/05",
+      "timestamp": 1778448426
+    },
+    {
+      "id": "BFMTV_1778448426",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LE PATIENT SYMPTOMATIQUE EST UNE FEMME QUI A PRÉSENTÉ DE LA FIÈVRE PENDANT LE VOL DE RAPATRIEMENT (INFO BFMTV)",
       "urgent": false,
       "france_related": false,
       "time": "21:27",
@@ -991,16 +1001,6 @@
       "time": "05:15",
       "date": "10/05",
       "timestamp": 1778390100
-    },
-    {
-      "id": "BFMTV_1778389980",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LE MV HONDIUS EST ARRIVÉ DANS LE PORT DE GRANADILLA À TENERIFE, AUX CANARIES",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:13",
-      "date": "10/05",
-      "timestamp": 1778389980
     }
   ],
   "france": {
