@@ -1,7 +1,47 @@
 {
-  "last_update": "10/05 11:15",
+  "last_update": "10/05 12:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778412534",
+      "source": "BFMTV",
+      "text": "\"UNE PREMIÈRE POUR L'ARMÉE BRITANNIQUE\": DES SOLDATS ET DU MATÉRIEL PARACHUTÉS SUR UNE ÎLE ISOLÉE DE L'ATLANTIQUE POUR VENIR EN AIDE À UN ANCIEN PASSAGER DU MV HONDIUS PRÉSENTANT DES SYMPTÔMES D'HANTAVIRUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:28",
+      "date": "10/05",
+      "timestamp": 1778412534
+    },
+    {
+      "id": "BFMTV_1778412229",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: LES PASSAGERS FRANÇAIS ONT QUITTÉ LES CANARIES, L'ÉVACUATION SE POURSUIT",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:23",
+      "date": "10/05",
+      "timestamp": 1778412229
+    },
+    {
+      "id": "BFMTV_1778412166",
+      "source": "BFMTV",
+      "text": "IRAN: LE CHEF DE L'ARMÉE A RENCONTRÉ LE GUIDE SUPRÊME MOJTABA KHAMENEI, SELON LA TÉLÉVISION D'ÉTAT",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:22",
+      "date": "10/05",
+      "timestamp": 1778412166
+    },
+    {
+      "id": "BFMTV_1778412037",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LES PASSAGERS FRANÇAIS ONT DÉBARQUÉ DU NAVIRE MV HONDIUS À TENERIFE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:20",
+      "date": "10/05",
+      "timestamp": 1778412037
+    },
     {
       "id": "BFMTV_1778411315",
       "source": "BFMTV",
@@ -11,6 +51,16 @@
       "time": "11:08",
       "date": "10/05",
       "timestamp": 1778411315
+    },
+    {
+      "id": "BFMTV_1778411266",
+      "source": "BFMTV",
+      "text": "THIERRY BRETON ESTIME QU'IL FAUDRA \"UNE TIERCE PARTIE\" POUR RÉSOUDRE LE CONFLIT AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:07",
+      "date": "10/05",
+      "timestamp": 1778411266
     },
     {
       "id": "BFMTV_1778411262",
@@ -951,56 +1001,6 @@
       "time": "14:43",
       "date": "09/05",
       "timestamp": 1778337804
-    },
-    {
-      "id": "BFMTV_1778337318",
-      "source": "BFMTV",
-      "text": "UN BATEAU DE CROISIÈRE VICTIME D'UNE ÉPIDÉMIE DE NOROVIRUS DANS LES CARAÏBES, 115 PASSAGERS ET MEMBRES D'ÉQUIPAGE MALADES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:35",
-      "date": "09/05",
-      "timestamp": 1778337318
-    },
-    {
-      "id": "BFMTV_1778336561",
-      "source": "BFMTV",
-      "text": "LE MEXIQUE VEUT AVANCER LA FIN DES COURS DE 40 JOURS EN RAISON DU MONDIAL 2026",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:22",
-      "date": "09/05",
-      "timestamp": 1778336561
-    },
-    {
-      "id": "OPEX360_1778334621",
-      "source": "OPEX360",
-      "text": "LE MEXIQUE A LANCÉ UN PROGRAMME POUR REMPLACER SES AVIONS DE COMBAT F-5E/F TIGER II",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:50",
-      "date": "09/05",
-      "timestamp": 1778334621
-    },
-    {
-      "id": "BFMTV_1778334593",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QUE SAIT-ON DE LA MARÉE NOIRE AU LARGE DE L'ÎLE DE KHARG? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:49",
-      "date": "09/05",
-      "timestamp": 1778334593
-    },
-    {
-      "id": "BFMTV_1778332401",
-      "source": "BFMTV",
-      "text": "OFFICIELLEMENT ÉLU PREMIER MINISTRE DE LA HONGRIE, PETER MAGYAR PROMET DE \"SERVIR\" LE PAYS ET NON \"DE RÉGNER\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:13",
-      "date": "09/05",
-      "timestamp": 1778332401
     }
   ],
   "france": {
