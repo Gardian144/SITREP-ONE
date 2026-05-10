@@ -1,7 +1,117 @@
 {
-  "last_update": "10/05 12:06",
+  "last_update": "10/05 13:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778421009",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: L'ARRIVÉE DES PASSAGERS FRANÇAIS PRÉVUE VERS 17 HEURES AU BOURGET, LES ÉVACUATIONS SE POURSUIVENT",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:50",
+      "date": "10/05",
+      "timestamp": 1778421009
+    },
+    {
+      "id": "BFMTV_1778420464",
+      "source": "BFMTV",
+      "text": "ÉDOUARD PHILIPPE: \"CONTRAIREMENT À D'AUTRES, ÊTRE CANDIDAT À LA PRÉSIDENTIELLE N'EST PAS MA PROFESSION\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:41",
+      "date": "10/05",
+      "timestamp": 1778420464
+    },
+    {
+      "id": "BFMTV_1778420074",
+      "source": "BFMTV",
+      "text": "ÉDOUARD PHILIPPE: \"PARCE QUE J'AIME L'ÉCOLE PUBLIQUE, PARCE QUE MES ENFANTS SONT À L'ÉCOLE PUBLIQUE, JE VEUX QU'ELLE REDEVIENNE L'ÉCOLE DE LA RÉUSSITE ET DU MÉRITE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:34",
+      "date": "10/05",
+      "timestamp": 1778420074
+    },
+    {
+      "id": "BFMTV_1778419745",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN DIT AVOIR ENVOYÉ SA RÉPONSE AU PLAN AMÉRICAIN POUR METTRE FIN À LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:29",
+      "date": "10/05",
+      "timestamp": 1778419745
+    },
+    {
+      "id": "BFMTV_1778419729",
+      "source": "BFMTV",
+      "text": "ÉDOUARD PHILIPPE: \"DANS UN CERTAIN NOMBRE DE QUARTIERS, NOUS VOYONS DES TERRITOIRES PERDUS OU BEAUCOUP PLUS TENUS PAR LES DEALERS QUE PAR LA RÉPUBLIQUE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:28",
+      "date": "10/05",
+      "timestamp": 1778419729
+    },
+    {
+      "id": "BFMTV_1778419630",
+      "source": "BFMTV",
+      "text": "PLUS DE 200.000 PERSONNES MIGRANTES ONT TRAVERSÉ LA MANCHE POUR ACCOSTER EN ANGLETERRE DEPUIS 2018, SELON UN BILAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:27",
+      "date": "10/05",
+      "timestamp": 1778419630
+    },
+    {
+      "id": "BFMTV_1778419104",
+      "source": "BFMTV",
+      "text": "ÉDOUARD PHILIPPE: \"JE NE VAIS PAS M'EXCUSER D'AVOIR ÉTÉ LE PREMIER PREMIER MINISTRE D'EMMANUEL MACRON\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:18",
+      "date": "10/05",
+      "timestamp": 1778419104
+    },
+    {
+      "id": "BFMTV_1778418888",
+      "source": "BFMTV",
+      "text": "\"TOUT VA BIEN\": LES CINQ FRANÇAIS À BORD DU NAVIRE MV HONDIUS RAPATRIÉS DES CANARIES, LES ÉVACUATIONS SE POURSUIVENT",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:14",
+      "date": "10/05",
+      "timestamp": 1778418888
+    },
+    {
+      "id": "BFMTV_1778417170",
+      "source": "BFMTV",
+      "text": "NAVIRE TOUCHÉ AU QATAR, DRONES AUX ÉMIRATS ARABES UNIS ET AU KOWEÏT...LE GOLFE SOUS TENSION MAXIMALE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:46",
+      "date": "10/05",
+      "timestamp": 1778417170
+    },
+    {
+      "id": "BFMTV_1778416402",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN A ENVOYÉ SA RÉPONSE À LA PROPOSITION AMÉRICAINE VIA LE MÉDIATEUR PAKISTANAIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:33",
+      "date": "10/05",
+      "timestamp": 1778416402
+    },
+    {
+      "id": "BFMTV_1778416104",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BEYROUTH SURVOLÉ PAR DES DRONES ISRAÉLIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:28",
+      "date": "10/05",
+      "timestamp": 1778416104
+    },
     {
       "id": "BFMTV_1778412534",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "16:53",
       "date": "09/05",
       "timestamp": 1778345609
-    },
-    {
-      "id": "BFMTV_1778345450",
-      "source": "BFMTV",
-      "text": "CHINE ET RUSSIE, DES SOUTIENS PRÉCIEUX POUR L'IRAN ?: \"ON A DU MAL À COMPRENDRE QUI SONT LES AMIS, LES ENNEMIS DE DONALD TRUMP\", ANALYSE FRÉDÉRIC MARTEL, ÉCRIVAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:50",
-      "date": "09/05",
-      "timestamp": 1778345450
-    },
-    {
-      "id": "BFMTV_1778344840",
-      "source": "BFMTV",
-      "text": "HÔPITAL MILITAIRE, CHAMBRES \"À PRESSION NÉGATIVE\", CONFINEMENT À DOMICILE... COMMENT VA SE DÉROULER L'ISOLEMENT DES PASSAGERS DU NAVIRE FOYER D'HANTAVIRUS APRÈS LEUR RAPATRIEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:40",
-      "date": "09/05",
-      "timestamp": 1778344840
-    },
-    {
-      "id": "BFMTV_1778342094",
-      "source": "BFMTV",
-      "text": "UNE NOUVELLE FRAPPE ISRAÉLIENNE DANS LE SUD-LIBAN FAIT SEPT MORTS, DONT UNE FILLETTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:54",
-      "date": "09/05",
-      "timestamp": 1778342094
-    },
-    {
-      "id": "BFMTV_1778341653",
-      "source": "BFMTV",
-      "text": "TENSIONS ENTRE LA FRANCE ET L'ALGÉRIE",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:47",
-      "date": "09/05",
-      "timestamp": 1778341653
-    },
-    {
-      "id": "BFMTV_1778341652",
-      "source": "BFMTV",
-      "text": "ALICE RUFO ANNONCE QUE LA FRANCE ET L'ALGÉRIE VONT INTENSIFIER LEURS COOPÉRATIONS \"DE SÉCURITÉ ET DE DÉFENSE\", \"MIGRATOIRE\" ET \"JUDICIAIRE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:47",
-      "date": "09/05",
-      "timestamp": 1778341652
-    },
-    {
-      "id": "BFMTV_1778341250",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: ACCUEILLIR LE MV HONDIUS AUX CANARIES EST \"UN DEVOIR MORAL\", DIT LE PREMIER MINISTRE ESPAGNOL PEDRO SÁNCHEZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:40",
-      "date": "09/05",
-      "timestamp": 1778341250
-    },
-    {
-      "id": "BFMTV_1778340084",
-      "source": "BFMTV",
-      "text": "FACE AUX GUERRE, EMMANUEL MACRON APPELLE À \"RECONSTRUIRE L'UNITÉ ENTRE LES PAYS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:21",
-      "date": "09/05",
-      "timestamp": 1778340084
-    },
-    {
-      "id": "BFMTV_1778340084",
-      "source": "BFMTV",
-      "text": "FACE À LA SITUATION GÉOPOLITIQUE ACTUELLE, EMMANUEL MACRON APPELLE À \"RECONSTRUIRE L'UNITÉ ENTRE LES PAYS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:21",
-      "date": "09/05",
-      "timestamp": 1778340084
-    },
-    {
-      "id": "BFMTV_1778337988",
-      "source": "BFMTV",
-      "text": "LE ROYAUME-UNI VA ENVOYER UN DESTROYER AU MOYEN-ORIENT POUR UNE FUTURE MISSION DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:46",
-      "date": "09/05",
-      "timestamp": 1778337988
-    },
-    {
-      "id": "BFMTV_1778337897",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN DESTROYER BRITANNIQUE ENVOYÉ EN \"PRÉPOSITIONNEMENT\" POUR LA FUTURE MISSION INTERNATIONALE DE SÉCURISATION DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:44",
-      "date": "09/05",
-      "timestamp": 1778337897
-    },
-    {
-      "id": "BFMTV_1778337804",
-      "source": "BFMTV",
-      "text": "OPÉRATION \"INÉDITE\", \"COULOIR ENTIÈREMENT BOUCLÉ\", RAPATRIEMENTS: TENERIFE SE PRÉPARE À L'ÉVACUATION DU NAVIRE FOYER D'HANTAVIRUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:43",
-      "date": "09/05",
-      "timestamp": 1778337804
     }
   ],
   "france": {
