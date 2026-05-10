@@ -1,7 +1,47 @@
 {
-  "last_update": "10/05 13:55",
+  "last_update": "10/05 14:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778424670",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: LES PASSAGERS FRANÇAIS ÉVACUÉS DU NAVIRE ONT ATTERRI AU BOURGET, LES ÉVACUATIONS SE POURSUIVENT",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:51",
+      "date": "10/05",
+      "timestamp": 1778424670
+    },
+    {
+      "id": "BFMTV_1778424606",
+      "source": "BFMTV",
+      "text": "DEUX SECOURISTES LIÉS AU HEZBOLLAH ONT ÉTÉ TUÉS DANS LE SUD-LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:50",
+      "date": "10/05",
+      "timestamp": 1778424606
+    },
+    {
+      "id": "BFMTV_1778424603",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LES CINQ PASSAGERS FRANÇAIS DU MV HONDIUS ONT ATTERRI AU BOURGET",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:50",
+      "date": "10/05",
+      "timestamp": 1778424603
+    },
+    {
+      "id": "BFMTV_1778422513",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: D'APRÈS UNE ESTIMATION DU RENSEIGNEMENT ISRAÉLIEN, SUR LES 80.000 DRONES QUE L'IRAN POSSÉDAIT AU DÉBUT DE L'ANNÉE, 40% SERAIENT ENCORE INTACTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:15",
+      "date": "10/05",
+      "timestamp": 1778422513
+    },
     {
       "id": "BFMTV_1778421009",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "17:40",
       "date": "09/05",
       "timestamp": 1778348421
-    },
-    {
-      "id": "BFMTV_1778347378",
-      "source": "BFMTV",
-      "text": "LES DRONES D'ATTAQUE DU HEZBOLLAH, SOUVENT APPELÉS DRONES KAMIKAZES, INQUIÈTENT L'ARMÉE ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:22",
-      "date": "09/05",
-      "timestamp": 1778347378
-    },
-    {
-      "id": "BFMTV_1778347180",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - L'IRAN DÉVERSE-T-IL SON PÉTROLE EN PLEINE MER ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:19",
-      "date": "09/05",
-      "timestamp": 1778347180
-    },
-    {
-      "id": "BFMTV_1778346277",
-      "source": "BFMTV",
-      "text": "LES BOMBARDEMENTS ISRAÉLIENS SE POURSUIVENT DANS LE SUD DU LIBAN, ALIMENTANT LES TENSIONS AVEC LE HEZBOLLAH",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:04",
-      "date": "09/05",
-      "timestamp": 1778346277
-    },
-    {
-      "id": "BFMTV_1778345609",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - \"OCEAN TRADER\": LE GÉANT DES MERS AMÉRICAIN ENTRE EN SCÈNE ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:53",
-      "date": "09/05",
-      "timestamp": 1778345609
     }
   ],
   "france": {
