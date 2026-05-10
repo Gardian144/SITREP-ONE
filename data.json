@@ -1,7 +1,77 @@
 {
-  "last_update": "10/05 08:53",
+  "last_update": "10/05 10:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778406137",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE KOWEÏT ANNONCE AVOIR SUBI UNE ATTAQUE DE DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:42",
+      "date": "10/05",
+      "timestamp": 1778406137
+    },
+    {
+      "id": "OPEX360_1778405482",
+      "source": "OPEX360",
+      "text": "À LA SUITE DU GROUPE AÉRONAVAL FRANÇAIS, LE DESTROYER BRITANNIQUE HMS DRAGON SE RAPPROCHE DU DÉTROIT D’ORMUZ",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:31",
+      "date": "10/05",
+      "timestamp": 1778405482
+    },
+    {
+      "id": "BFMTV_1778405180",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LES PASSAGERS SONT \"DES CONTACTS À HAUT RISQUE\", SELON L'OMS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:26",
+      "date": "10/05",
+      "timestamp": 1778405180
+    },
+    {
+      "id": "BFMTV_1778405052",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LE DÉBARQUEMENT DES PASSAGERS DU MV HONDIUS A COMMENCÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:24",
+      "date": "10/05",
+      "timestamp": 1778405052
+    },
+    {
+      "id": "BFMTV_1778404708",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LES RESSORTISSANTS FRANÇAIS VONT \"TOUS BIEN\" ET \"AUCUN NE PRÉSENTE DE SYMPTÔMES\", INDIQUE NICOLAS PILLEREL, REPRÉSENTANT DE L'AMBASSADE DE FRANCE EN ESPAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:18",
+      "date": "10/05",
+      "timestamp": 1778404708
+    },
+    {
+      "id": "BFMTV_1778404556",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LES RESSORTISSANTS FRANÇAIS SERONT ÉVACUÉS PAR AVION \"DANS LES PROCHAINES HEURES\", INDIQUE NICOLAS PILLEREL, REPRÉSENTANT DE L'AMBASSADE DE FRANCE EN ESPAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:15",
+      "date": "10/05",
+      "timestamp": 1778404556
+    },
+    {
+      "id": "BFMTV_1778403715",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LE DÉBARQUEMENT DES PASSAGERS DU NAVIRE MV HONDIUS DÉBUTE À TENERIFE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:01",
+      "date": "10/05",
+      "timestamp": 1778403715
+    },
     {
       "id": "BFMTV_1778402931",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "09:19",
       "date": "09/05",
       "timestamp": 1778318351
-    },
-    {
-      "id": "BFMTV_1778318147",
-      "source": "BFMTV",
-      "text": "MV HONDIUS: COMMENT LES PASSAGERS VONT ÊTRE RAPATRIÉS DANS LEURS PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:15",
-      "date": "09/05",
-      "timestamp": 1778318147
-    },
-    {
-      "id": "BFMTV_1778318024",
-      "source": "BFMTV",
-      "text": "DES SOLDATS NORD-CORÉENS PARTICIPENT AU DÉFILÉ DE LA VICTOIRE À MOSCOU",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:13",
-      "date": "09/05",
-      "timestamp": 1778318024
-    },
-    {
-      "id": "BFMTV_1778316017",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE MARÉE NOIRE DÉTECTÉE AU LARGE DE L'ÎLE DE KHARG",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:40",
-      "date": "09/05",
-      "timestamp": 1778316017
-    },
-    {
-      "id": "BFMTV_1778314666",
-      "source": "BFMTV",
-      "text": "IRAN: LE BUREAU DU GUIDE SUPRÊME AFFIRME QUE MOJTABA KHAMENEI EST \"EN PARFAITE SANTÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:17",
-      "date": "09/05",
-      "timestamp": 1778314666
-    },
-    {
-      "id": "BFMTV_1778314620",
-      "source": "BFMTV",
-      "text": "\"ÇA SE PROPAGE COMME UNE TRAÎNÉE DE POUDRE\": AUX FIDJI, L’EXPLOSION DES CAS DE VIH DÉSORMAIS CRISE SANITAIRE NATIONALE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:17",
-      "date": "09/05",
-      "timestamp": 1778314620
-    },
-    {
-      "id": "BFMTV_1778313428",
-      "source": "BFMTV",
-      "text": "COMMÉMORATIONS DU 9-MAI: VLADIMIR POUTINE SOUTIENT QUE LA GUERRE EN UKRAINE EST UNE CAUSE \"JUSTE\" ET DIT QUE L'ARMÉE RUSSE AFFRONTE DES \"FORCES AGRESSIVES\" SOUTENUES PAR L'OTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:57",
-      "date": "09/05",
-      "timestamp": 1778313428
-    },
-    {
-      "id": "BFMTV_1778313428",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:57",
-      "date": "09/05",
-      "timestamp": 1778313428
     }
   ],
   "france": {
