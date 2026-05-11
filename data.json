@@ -1,7 +1,157 @@
 {
-  "last_update": "11/05 08:05",
+  "last_update": "11/05 11:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778497819",
+      "source": "BFMTV",
+      "text": "L'ONU APPELLE À \"UN SYSTÈME INTERNATIONAL PLUS ÉQUITABLE\" POUR L’AFRIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:10",
+      "date": "11/05",
+      "timestamp": 1778497819
+    },
+    {
+      "id": "BFMTV_1778497591",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES PRIX DU PÉTROLE AUGMENTENT ET PASSENT À 104 DOLLARS LE BARIL",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:06",
+      "date": "11/05",
+      "timestamp": 1778497591
+    },
+    {
+      "id": "BFMTV_1778497558",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: L'ÉTAT DE SANTÉ DU BRITANNIQUE HOSPITALISÉ EN AFRIQUE DU SUD, L'UN DES PREMIERS CAS TESTÉS POSITIFS, \"S'AMÉLIORE PROGRESSIVEMENT\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:05",
+      "date": "11/05",
+      "timestamp": 1778497558
+    },
+    {
+      "id": "BFMTV_1778497212",
+      "source": "BFMTV",
+      "text": "RESTITUTIONS DE BIENS CULTURELS: \"ON A CONSTRUIT QUELQUE CHOSE D'INARRÊTABLE\", ASSURE EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:00",
+      "date": "11/05",
+      "timestamp": 1778497212
+    },
+    {
+      "id": "BFMTV_1778496590",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN JUGE AVOIR RÉCLAMÉ DES \"DROITS LÉGITIMES\" DANS SA PROPOSITION DE TRÊVE MALGRÉ LE REJET CATÉGORIQUE DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:49",
+      "date": "11/05",
+      "timestamp": 1778496590
+    },
+    {
+      "id": "BFMTV_1778496382",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: COMMENT LES ÉTATS-UNIS ET ISRAËL ENVISAGENT D'ALLER CHERCHER L'URANIUM ENRICHI IRANIEN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:46",
+      "date": "11/05",
+      "timestamp": 1778496382
+    },
+    {
+      "id": "OPEX360_1778496288",
+      "source": "OPEX360",
+      "text": "ARTILLERIE : L’ARMÉE ARMÉNIENNE A REÇU SES PREMIERS CAESAR",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:44",
+      "date": "11/05",
+      "timestamp": 1778496288
+    },
+    {
+      "id": "BFMTV_1778496022",
+      "source": "BFMTV",
+      "text": "LES CORPS DE DEUX RANDONNEURS DISPARUS RETROUVÉS ENLACÉS APRÈS L'ÉRUPTION DU VOLCAN DUKONO EN INDONÉSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:40",
+      "date": "11/05",
+      "timestamp": 1778496022
+    },
+    {
+      "id": "BFMTV_1778495415",
+      "source": "BFMTV",
+      "text": "\"C'EST UN MANQUE DE RESPECT\": EMMANUEL MACRON S'ÉNERVE SUR SCÈNE FACE À UNE SALLE TROP BRUYANTE AU KENYA",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:30",
+      "date": "11/05",
+      "timestamp": 1778495415
+    },
+    {
+      "id": "BFMTV_1778494774",
+      "source": "BFMTV",
+      "text": "\"C'EST UN TOTAL MANQUE DE RESPECT\" : AU KENYA, LA COLÈRE D'EMMANUEL LORS D'UNE CONFÉRENCE SUR LA CULTURE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:19",
+      "date": "11/05",
+      "timestamp": 1778494774
+    },
+    {
+      "id": "BFMTV_1778494499",
+      "source": "BFMTV",
+      "text": "AU 73E JOUR DE GUERRE AU MOYEN-ORIENT, OÙ EN SONT LES NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:14",
+      "date": "11/05",
+      "timestamp": 1778494499
+    },
+    {
+      "id": "BFMTV_1778493336",
+      "source": "BFMTV",
+      "text": "\"LE PATRIMOINE CULTUREL [...]N'ÉTAIT PAS EN AFRIQUE\": EMMANUEL MACRON PLAIDE POUR LA RESTITUTION DES ŒUVRES D'ART",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:55",
+      "date": "11/05",
+      "timestamp": 1778493336
+    },
+    {
+      "id": "BFMTV_1778493184",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA PORTE-PAROLE DU GOUVERNEMENT ASSURE QU'IL N'A \"JAMAIS ÉTÉ QUESTION DE POSTURE OFFENSIVE\" DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:53",
+      "date": "11/05",
+      "timestamp": 1778493184
+    },
+    {
+      "id": "BFMTV_1778493136",
+      "source": "BFMTV",
+      "text": "\"NOUS AVONS FAIT LES BONS GRANDS CHOIX POLITIQUES\" : KEIR STARMER DÉFEND SON BILAN MALGRÉ LA DÉFAITE DU PARTI TRAVAILLISTE AUX ÉLECTIONS LOCALES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:52",
+      "date": "11/05",
+      "timestamp": 1778493136
+    },
+    {
+      "id": "BFMTV_1778492946",
+      "source": "BFMTV",
+      "text": "KEIR STARMER PROMET DE \"METTRE LE ROYAUME-UNI AU COEUR DE L'EUROPE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:49",
+      "date": "11/05",
+      "timestamp": 1778492946
+    },
     {
       "id": "BFMTV_1778486355",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "11:07",
       "date": "10/05",
       "timestamp": 1778411266
-    },
-    {
-      "id": "BFMTV_1778411262",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: LES PASSAGERS FRANÇAIS EN COURS D'ÉVACUATION DU NAVIRE MV HONDIUS À TENERIFE",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:07",
-      "date": "10/05",
-      "timestamp": 1778411262
-    },
-    {
-      "id": "BFMTV_1778410889",
-      "source": "BFMTV",
-      "text": "THIERRY BRETON: \"DONALD TRUMP ARRIVE EN CHINE EN ÉTAT DE FAIBLESSE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:01",
-      "date": "10/05",
-      "timestamp": 1778410889
-    },
-    {
-      "id": "BFMTV_1778410394",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LES PASSAGERS FRANÇAIS DÉCLARÉS ASYMPTOMATIQUES, ANNONCE L'AMBASSADE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:53",
-      "date": "10/05",
-      "timestamp": 1778410394
-    },
-    {
-      "id": "OPEX360_1778409974",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE TERRE VEUT ENCOURAGER L’ACCÈS DES MILITAIRES DU RANG LES PLUS MÉRITANTS AU CORPS DES SOUS-OFFICIERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:46",
-      "date": "10/05",
-      "timestamp": 1778409974
-    },
-    {
-      "id": "BFMTV_1778409912",
-      "source": "BFMTV",
-      "text": "THIERRY BRETON: \"L'IRAN A RÉUSSI À FAIRE RÉAPPARAÎTRE DE FAÇON CLAIRE ET DURABLE UNE FRAGMENTATION DU MOYEN-ORIENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:45",
-      "date": "10/05",
-      "timestamp": 1778409912
-    },
-    {
-      "id": "BFMTV_1778409633",
-      "source": "BFMTV",
-      "text": "TOTALENERGIES: \"ON PEUT ÊTRE FIER EN FRANCE D'AVOIR L'UN DES PLUS GRANDS GROUPES PÉTROLIERS AU MONDE\", ESTIME THIERRY BRETON",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:40",
-      "date": "10/05",
-      "timestamp": 1778409633
-    },
-    {
-      "id": "BFMTV_1778409381",
-      "source": "BFMTV",
-      "text": "POUR THIERRY BRETON, LE BLOCAGE DES PRIX DU CARBURANT PROPOSÉ PAR JEAN-LUC MÉLENCHON \"N'A AUCUN SENS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:36",
-      "date": "10/05",
-      "timestamp": 1778409381
-    },
-    {
-      "id": "BFMTV_1778409077",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"L'IRAN, À LA FIN, FERA CE QUE LA CHINE LUI DIRA DE FAIRE\", ASSURE THIERRY BRETON",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:31",
-      "date": "10/05",
-      "timestamp": 1778409077
-    },
-    {
-      "id": "BFMTV_1778408817",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"CETTE GUERRE N'EST PAS NOTRE GUERRE (...) MAIS NOUS SOMMES TOUS MASSIVEMENT IMPACTÉS\", AFFIRME THIERRY BRETON",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:26",
-      "date": "10/05",
-      "timestamp": 1778408817
-    },
-    {
-      "id": "BFMTV_1778408795",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VLADIMIR POUTINE PENSE QUE LE CONFLIT \"TOUCHE À SA FIN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:26",
-      "date": "10/05",
-      "timestamp": 1778408795
-    },
-    {
-      "id": "BFMTV_1778408291",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"IL FAUDRA UNE TIERCE PARTIE\" POUR UN ÉVENTUEL ACCORD, ASSURE THIERRY BRETON ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:18",
-      "date": "10/05",
-      "timestamp": 1778408291
-    },
-    {
-      "id": "BFMTV_1778408094",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ON EST DANS UNE LOGIQUE DE POSTURE ET DE NARRATIF\", ASSURE L'ANCIEN COMMISSAIRE EUROPÉEN THIERRY BRETON",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:14",
-      "date": "10/05",
-      "timestamp": 1778408094
-    },
-    {
-      "id": "BFMTV_1778407979",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ON EST TOUJOURS DANS LA LOGIQUE DU CESSEZ-LE-FEU, C'EST ABSOLUMENT INDISPENSABLE POUR LES DEUX PARTIES\", ESTIME L'ANCIEN COMMISSAIRE EUROPÉEN THIERRY BRETON",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:12",
-      "date": "10/05",
-      "timestamp": 1778407979
-    },
-    {
-      "id": "BFMTV_1778406137",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE KOWEÏT ANNONCE AVOIR SUBI UNE ATTAQUE DE DRONES",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:42",
-      "date": "10/05",
-      "timestamp": 1778406137
-    },
-    {
-      "id": "OPEX360_1778405482",
-      "source": "OPEX360",
-      "text": "À LA SUITE DU GROUPE AÉRONAVAL FRANÇAIS, LE DESTROYER BRITANNIQUE HMS DRAGON SE RAPPROCHE DU DÉTROIT D’ORMUZ",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:31",
-      "date": "10/05",
-      "timestamp": 1778405482
     }
   ],
   "france": {
