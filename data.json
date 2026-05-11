@@ -1,7 +1,17 @@
 {
-  "last_update": "11/05 22:07",
+  "last_update": "11/05 23:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778538319",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LE PERSONNEL D'UN HÔPITAL NÉERLANDAIS TRAITANT UN MALADE MIS EN QUARANTAINE APRÈS DES ERREURS DE PROCÉDURE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:25",
+      "date": "11/05",
+      "timestamp": 1778538319
+    },
     {
       "id": "BFMTV_1778537013",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "21:35",
       "date": "10/05",
       "timestamp": 1778448930
-    },
-    {
-      "id": "BFMTV_1778448426",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: LE PATIENT SYMPTOMATIQUE EST UNE FEMME QUI A PRÉSENTÉ DE LA FIÈVRE PENDANT LE VOL DE RAPATRIEMENT (INFO BFMTV)",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:27",
-      "date": "10/05",
-      "timestamp": 1778448426
     }
   ],
   "france": {
