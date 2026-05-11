@@ -1,7 +1,127 @@
 {
-  "last_update": "11/05 18:57",
+  "last_update": "11/05 20:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778531723",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: CE QUE L’ON SAIT DES DIFFÉRENTS PROTOCOLES D’ISOLEMENT SELON LES PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:35",
+      "date": "11/05",
+      "timestamp": 1778531723
+    },
+    {
+      "id": "BFMTV_1778531490",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: LE PERSONNEL D'UN HÔPITAL NÉERLANDAIS TRAITANT UN MALADE MIS EN QUARANTAINE APRÈS DES ERREURS DE PROCÉDURE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:31",
+      "date": "11/05",
+      "timestamp": 1778531490
+    },
+    {
+      "id": "BFMTV_1778530885",
+      "source": "BFMTV",
+      "text": "ALAIN BAUER, AUTEUR, ANALYSE DONALD TRUMP ET SA GESTION DE LA GUERRE EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:21",
+      "date": "11/05",
+      "timestamp": 1778530885
+    },
+    {
+      "id": "BFMTV_1778529686",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN SE DIT PRÊT À \"DONNER UNE LEÇON\" EN CAS D'AGRESSION",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:01",
+      "date": "11/05",
+      "timestamp": 1778529686
+    },
+    {
+      "id": "BFMTV_1778525116",
+      "source": "BFMTV",
+      "text": "\"NOS FORCES ARMÉES SONT PRÊTES À RÉPONDRE DE MANIÈRE INSTRUCTIVE À TOUTE AGRESSION\", ANNONCE LE PRÉSIDENT DU PARLEMENT IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:45",
+      "date": "11/05",
+      "timestamp": 1778525116
+    },
+    {
+      "id": "BFMTV_1778524945",
+      "source": "BFMTV",
+      "text": "\"LES IRANIENS SONT GAGNANTS, L'IRAN A LE TEMPS, ET LE TEMPS, C'EST CE QUE DONALD TRUMP N'A PAS\", ANALYSE ALAIN BAUER, AUTEUR DU LIVRE \"TRUMP, LE POUVOIR DES MOTS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:42",
+      "date": "11/05",
+      "timestamp": 1778524945
+    },
+    {
+      "id": "BFMTV_1778524635",
+      "source": "BFMTV",
+      "text": "\"LE PRÉSIDENT TRUMP, C'EST UN PEU DR HOUSE\", IRONISE ALAIN BAUER, AUTEUR DU LIVRE \"TRUMP, LE POUVOIR DES MOTS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:37",
+      "date": "11/05",
+      "timestamp": 1778524635
+    },
+    {
+      "id": "BFMTV_1778524025",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LA PHOTO QUI FAIT POLÉMIQUE EN ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:27",
+      "date": "11/05",
+      "timestamp": 1778524025
+    },
+    {
+      "id": "BFMTV_1778521483",
+      "source": "BFMTV",
+      "text": "IRAN: \"LA FRANCE N'EST PAS EN GUERRE\", RAPPELLE FRÉDÉRIC ENCEL, PROFESSEUR DE GÉOPOLITIQUE",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:44",
+      "date": "11/05",
+      "timestamp": 1778521483
+    },
+    {
+      "id": "BFMTV_1778521278",
+      "source": "BFMTV",
+      "text": "IRAN: \"LE RAPPORT DE FORCE MILITAIRE EST EN FAVEUR DES ÉTATS-UNIS\", OBSERVE FRÉDÉRIC ENCEL, PROFESSEUR DE GÉOPOLITIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:41",
+      "date": "11/05",
+      "timestamp": 1778521278
+    },
+    {
+      "id": "BFMTV_1778520344",
+      "source": "BFMTV",
+      "text": "LE CHARLES DE GAULLE SE RAPPROCHE DU DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:25",
+      "date": "11/05",
+      "timestamp": 1778520344
+    },
+    {
+      "id": "BFMTV_1778520213",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP CRITIQUE LA PROPOSITION DE CESSEZ-LE-FEU IRANIENNE, LA QUALIFIANT DE \"TORCHON\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:23",
+      "date": "11/05",
+      "timestamp": 1778520213
+    },
     {
       "id": "OPEX360_1778519380",
       "source": "OPEX360",
@@ -881,126 +1001,6 @@
       "time": "20:25",
       "date": "10/05",
       "timestamp": 1778444723
-    },
-    {
-      "id": "BFMTV_1778444373",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP JUGE \"TOTALEMENT INACCEPTABLE\" LA RÉPONSE DE L'IRAN POUR METTRE FIN À LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:19",
-      "date": "10/05",
-      "timestamp": 1778444373
-    },
-    {
-      "id": "BFMTV_1778444073",
-      "source": "BFMTV",
-      "text": "ÉCHANGE ENTRE DONALD TRUMP ET BENJAMIN NETANYAHU CONCERNANT L'IRAN: \"ON A UN LANGAGE BELLIQUEUX\", OBSERVE PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:14",
-      "date": "10/05",
-      "timestamp": 1778444073
-    },
-    {
-      "id": "BFMTV_1778442011",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP ET LE PREMIER MINISTRE ISRAÉLIEN BENJAMIN NETANYAHU SE SONT ENTRETENUS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:40",
-      "date": "10/05",
-      "timestamp": 1778442011
-    },
-    {
-      "id": "BFMTV_1778441777",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP ENTEND \"FAIRE PRESSION\" SUR XI JINPING LORS DE SA VISITE EN CHINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:36",
-      "date": "10/05",
-      "timestamp": 1778441777
-    },
-    {
-      "id": "BFMTV_1778440779",
-      "source": "BFMTV",
-      "text": "\"FORCE SPATIALE\" POUR SURVEILLER L'URANIUM EN IRAN: \"TOUT EST SURVEILLÉ, VOUS AVEZ DES PHOTOS EN PERMANENCE\", EXPLIQUE PATRICK DUTARTRE, GÉNÉRAL DE L'ARMÉE DE L'AIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:19",
-      "date": "10/05",
-      "timestamp": 1778440779
-    },
-    {
-      "id": "BFMTV_1778439352",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP DEVRAIT S'ENTRETENIR AVEC LE PREMIER MINISTRE ISRAÉLIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:55",
-      "date": "10/05",
-      "timestamp": 1778439352
-    },
-    {
-      "id": "BFMTV_1778438634",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: SÉBASTIEN LECORNU TIENDRA LUNDI APRÈS-MIDI À MATIGNON UNE NOUVELLE RÉUNION SUR LA SITUATION LIÉE AU VIRUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:43",
-      "date": "10/05",
-      "timestamp": 1778438634
-    },
-    {
-      "id": "BFMTV_1778437153",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES TENSIONS DANS LE GOLFE S'INTENSIFIENT AVEC L'INTERCEPTION DE DRONES PAR LES ÉMIRATS ARABES UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:19",
-      "date": "10/05",
-      "timestamp": 1778437153
-    },
-    {
-      "id": "BFMTV_1778436960",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON EN VISITE À NAIROBI AU KENYA, RÉPOND FERMEMENT AUX AVERTISSEMENTS DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:16",
-      "date": "10/05",
-      "timestamp": 1778436960
-    },
-    {
-      "id": "BFMTV_1778436911",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DÉCLARE QUE LES ETATS-UNIS ONT BESOIN DE \"DEUX SEMAINES\" DE PLUS POUR ÉLIMINER TOUTES LES CIBLES IRANIENNES",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:15",
-      "date": "10/05",
-      "timestamp": 1778436911
-    },
-    {
-      "id": "BFMTV_1778436208",
-      "source": "BFMTV",
-      "text": "SUR SON RÉSEAU SOCIAL, DONALD TRUMP AFFIRME QUE \"LES IRANIENS MÈNENT LES ÉTATS-UNIS EN BATEAU\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:03",
-      "date": "10/05",
-      "timestamp": 1778436208
-    },
-    {
-      "id": "BFMTV_1778431865",
-      "source": "BFMTV",
-      "text": "IRAN: \"ILS ONT DES POSITIONS TRÈS FERMES, ILS PRÉPARENT LES DOSSIERS DEPUIS LONGTEMPS\", RACONTE ROBERT MALLEY, ANCIEN NÉGOCIATEUR AMÉRICAIN SUR LE NUCLÉAIRE IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:51",
-      "date": "10/05",
-      "timestamp": 1778431865
     }
   ],
   "france": {
