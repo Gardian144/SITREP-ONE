@@ -1,7 +1,167 @@
 {
-  "last_update": "11/05 14:08",
+  "last_update": "11/05 16:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778517713",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: LA FRANÇAISE CONTAMINÉE \"TOUJOURS EN RÉANIMATION DANS UN ÉTAT STABLE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:41",
+      "date": "11/05",
+      "timestamp": 1778517713
+    },
+    {
+      "id": "OPEX360_1778515798",
+      "source": "OPEX360",
+      "text": "LA POLOGNE S’INTÉRESSE À L’AVION D’ALERTE AVANCÉE AMÉRICAIN AERIS X POUR REMPLACER SES DEUX SAAB 340 AEW&C",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:09",
+      "date": "11/05",
+      "timestamp": 1778515798
+    },
+    {
+      "id": "BFMTV_1778514439",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP PROMET UNE \"VICTOIRE COMPLÈTE\" DES ÉTATS-UNIS CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:47",
+      "date": "11/05",
+      "timestamp": 1778514439
+    },
+    {
+      "id": "BFMTV_1778512366",
+      "source": "BFMTV",
+      "text": "\"NOUS N'AVONS AUCUN CAS DANS NOTRE HISTOIRE\": À USHUAÏA, LES AUTORITÉS SANITAIRES REJETTENT LA PATERNITÉ DU FOYER D'HANTAVIRUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:12",
+      "date": "11/05",
+      "timestamp": 1778512366
+    },
+    {
+      "id": "BFMTV_1778511421",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL - HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:57",
+      "date": "11/05",
+      "timestamp": 1778511421
+    },
+    {
+      "id": "BFMTV_1778511421",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:57",
+      "date": "11/05",
+      "timestamp": 1778511421
+    },
+    {
+      "id": "BFMTV_1778511420",
+      "source": "BFMTV",
+      "text": "L'UNION EUROPÉENNE SANCTIONNE DES COLONS EXTRÉMISTES ISRAÉLIENS POUR DES VIOLENCES EN CISJORDANIE, ISRAËL DÉNONCE UNE DÉCISION \"ARBITRAIRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:57",
+      "date": "11/05",
+      "timestamp": 1778511420
+    },
+    {
+      "id": "BFMTV_1778511226",
+      "source": "BFMTV",
+      "text": "LA FRANCE VA FACILITER LA RESTITUTION DES ŒUVRES PILLÉES PENDANT LA COLONISATION",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:53",
+      "date": "11/05",
+      "timestamp": 1778511226
+    },
+    {
+      "id": "BFMTV_1778511053",
+      "source": "BFMTV",
+      "text": "SOMMET DE NAIROBI: EMMANUEL MACRON ANNONCE 23 MILLIARDS D'EUROS D'INVESTISSEMENTS FRANÇAIS ET AFRICAINS EN AFRIQUE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:50",
+      "date": "11/05",
+      "timestamp": 1778511053
+    },
+    {
+      "id": "BFMTV_1778510895",
+      "source": "BFMTV",
+      "text": "CANADA: UNE MOTO RESTE SUSPENDUE À UN FEU DE SIGNALISATION APRÈS UN ACCIDENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:48",
+      "date": "11/05",
+      "timestamp": 1778510895
+    },
+    {
+      "id": "BFMTV_1778510635",
+      "source": "BFMTV",
+      "text": "UKRAINE : \"LA DYNAMIQUE DE LA GUERRE CHANGE\", EN FAVEUR DE KIEV, ASSURE L'UE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:43",
+      "date": "11/05",
+      "timestamp": 1778510635
+    },
+    {
+      "id": "BFMTV_1778510630",
+      "source": "BFMTV",
+      "text": "IRAN: DONALD TRUMP \"ENVISAGE DE RELANCER LE PROJET LIBERTÉ\" DANS LE DÉTROIT D'OMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:43",
+      "date": "11/05",
+      "timestamp": 1778510630
+    },
+    {
+      "id": "OPEX360_1778510190",
+      "source": "OPEX360",
+      "text": "LETTONIE : UN COLONEL A ÉTÉ NOMMÉ À LA TÊTE DU MINISTÈRE DE LA DÉFENSE POUR RENFORCER LA LUTTE ANTIDRONE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:36",
+      "date": "11/05",
+      "timestamp": 1778510190
+    },
+    {
+      "id": "BFMTV_1778510139",
+      "source": "BFMTV",
+      "text": "MALGRÉ LES TENSIONS DANS LE DÉTROIT D'ORMUZ, TROIS PÉTROLIERS ONT PU TRAVERSER ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:35",
+      "date": "11/05",
+      "timestamp": 1778510139
+    },
+    {
+      "id": "BFMTV_1778510062",
+      "source": "BFMTV",
+      "text": "ENFANTS UKRAINIENS TRANSFÉRÉS DE FORCE: L'UE ANNONCE DES SANCTIONS CONTRE DES RESPONSABLES RUSSES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:34",
+      "date": "11/05",
+      "timestamp": 1778510062
+    },
+    {
+      "id": "BFMTV_1778508520",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: DES MILITAIRES BRITANNIQUES DÉPLOYÉS SUR L'UNE DES ÎLES LES PLUS ISOLÉES DU MONDE POUR PORTER ASSISTANCE À UN HOMME",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:08",
+      "date": "11/05",
+      "timestamp": 1778508520
+    },
     {
       "id": "BFMTV_1778507812",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "15:52",
       "date": "10/05",
       "timestamp": 1778428379
-    },
-    {
-      "id": "BFMTV_1778427588",
-      "source": "BFMTV",
-      "text": "DANS UNE INTERVIEW, BENJAMIN NETANYAHU DÉCLARE QUE \"LA GUERRE EN IRAN N'EST PAS TERMINÉE PARCE QU'IL RESTE ENCORE DE L'URANIUM ENRICHI QUI DOIT ÊTRE RETIRÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:39",
-      "date": "10/05",
-      "timestamp": 1778427588
-    },
-    {
-      "id": "BFMTV_1778426780",
-      "source": "BFMTV",
-      "text": "SELON LE WALL STREET JOURNAL, ISRAËL A INSTALLÉ UNE BASE MILITAIRE SECRÈTE DANS LE DÉSERT IRAKIEN POUR MIEUX FRAPPER L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:26",
-      "date": "10/05",
-      "timestamp": 1778426780
-    },
-    {
-      "id": "BFMTV_1778426349",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP RÉITÈRE QUE LES ÉTATS-UNIS \"OBTIENDRONT L'URANIUM ENRICHI DE L'IRAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:19",
-      "date": "10/05",
-      "timestamp": 1778426349
-    },
-    {
-      "id": "BFMTV_1778426162",
-      "source": "BFMTV",
-      "text": "LES FORCES ARMÉES IRANIENNES ONT DÉCLARÉ \"QUE LES UNITÉS SONT PRÊTES À RÉPONDRE AUX MENACES AMÉRICAINES ET SIONISTES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:16",
-      "date": "10/05",
-      "timestamp": 1778426162
-    },
-    {
-      "id": "BFMTV_1778425512",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: UN DRONE A ATTAQUÉ UN VRAQUIER PRÈS DE DOHA, DÉCLENCHANT UN INCENDIE RAPIDEMENT MAÎTRISÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:05",
-      "date": "10/05",
-      "timestamp": 1778425512
-    },
-    {
-      "id": "BFMTV_1778424670",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: LES PASSAGERS FRANÇAIS ÉVACUÉS DU NAVIRE ONT ATTERRI AU BOURGET, LES ÉVACUATIONS SE POURSUIVENT",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:51",
-      "date": "10/05",
-      "timestamp": 1778424670
-    },
-    {
-      "id": "BFMTV_1778424606",
-      "source": "BFMTV",
-      "text": "DEUX SECOURISTES LIÉS AU HEZBOLLAH ONT ÉTÉ TUÉS DANS LE SUD-LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:50",
-      "date": "10/05",
-      "timestamp": 1778424606
-    },
-    {
-      "id": "BFMTV_1778424603",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LES CINQ PASSAGERS FRANÇAIS DU MV HONDIUS ONT ATTERRI AU BOURGET",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:50",
-      "date": "10/05",
-      "timestamp": 1778424603
-    },
-    {
-      "id": "BFMTV_1778422513",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: D'APRÈS UNE ESTIMATION DU RENSEIGNEMENT ISRAÉLIEN, SUR LES 80.000 DRONES QUE L'IRAN POSSÉDAIT AU DÉBUT DE L'ANNÉE, 40% SERAIENT ENCORE INTACTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:15",
-      "date": "10/05",
-      "timestamp": 1778422513
-    },
-    {
-      "id": "BFMTV_1778421009",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: L'ARRIVÉE DES PASSAGERS FRANÇAIS PRÉVUE VERS 17 HEURES AU BOURGET, LES ÉVACUATIONS SE POURSUIVENT",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:50",
-      "date": "10/05",
-      "timestamp": 1778421009
-    },
-    {
-      "id": "BFMTV_1778420464",
-      "source": "BFMTV",
-      "text": "ÉDOUARD PHILIPPE: \"CONTRAIREMENT À D'AUTRES, ÊTRE CANDIDAT À LA PRÉSIDENTIELLE N'EST PAS MA PROFESSION\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:41",
-      "date": "10/05",
-      "timestamp": 1778420464
-    },
-    {
-      "id": "BFMTV_1778420074",
-      "source": "BFMTV",
-      "text": "ÉDOUARD PHILIPPE: \"PARCE QUE J'AIME L'ÉCOLE PUBLIQUE, PARCE QUE MES ENFANTS SONT À L'ÉCOLE PUBLIQUE, JE VEUX QU'ELLE REDEVIENNE L'ÉCOLE DE LA RÉUSSITE ET DU MÉRITE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:34",
-      "date": "10/05",
-      "timestamp": 1778420074
-    },
-    {
-      "id": "BFMTV_1778419745",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN DIT AVOIR ENVOYÉ SA RÉPONSE AU PLAN AMÉRICAIN POUR METTRE FIN À LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:29",
-      "date": "10/05",
-      "timestamp": 1778419745
-    },
-    {
-      "id": "BFMTV_1778419729",
-      "source": "BFMTV",
-      "text": "ÉDOUARD PHILIPPE: \"DANS UN CERTAIN NOMBRE DE QUARTIERS, NOUS VOYONS DES TERRITOIRES PERDUS OU BEAUCOUP PLUS TENUS PAR LES DEALERS QUE PAR LA RÉPUBLIQUE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:28",
-      "date": "10/05",
-      "timestamp": 1778419729
-    },
-    {
-      "id": "BFMTV_1778419630",
-      "source": "BFMTV",
-      "text": "PLUS DE 200.000 PERSONNES MIGRANTES ONT TRAVERSÉ LA MANCHE POUR ACCOSTER EN ANGLETERRE DEPUIS 2018, SELON UN BILAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:27",
-      "date": "10/05",
-      "timestamp": 1778419630
-    },
-    {
-      "id": "BFMTV_1778419104",
-      "source": "BFMTV",
-      "text": "ÉDOUARD PHILIPPE: \"JE NE VAIS PAS M'EXCUSER D'AVOIR ÉTÉ LE PREMIER PREMIER MINISTRE D'EMMANUEL MACRON\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:18",
-      "date": "10/05",
-      "timestamp": 1778419104
     }
   ],
   "france": {
