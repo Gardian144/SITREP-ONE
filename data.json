@@ -1,7 +1,97 @@
 {
-  "last_update": "11/05 00:08",
+  "last_update": "11/05 04:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778474056",
+      "source": "BFMTV",
+      "text": "LE CORPS D'UN DES DEUX MILITAIRES AMÉRICAINS DISPARUS AU MAROC RETROUVÉ EN MER",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:34",
+      "date": "11/05",
+      "timestamp": 1778474056
+    },
+    {
+      "id": "BFMTV_1778473977",
+      "source": "BFMTV",
+      "text": "À CAUSE DE L'OCCUPATION ISRAÉLIENNE, LA VILLE PORTUAIRE DE TYR AU LIBAN FAIT FACE À UN DÉBUT DE PÉNURIE ALIMENTAIRE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:32",
+      "date": "11/05",
+      "timestamp": 1778473977
+    },
+    {
+      "id": "BFMTV_1778473945",
+      "source": "BFMTV",
+      "text": "LE BRIEF DU GÉNÉRAL - COMMENT FONCTIONNE LA \"SPACE FORCE\" AMÉRICAINE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:32",
+      "date": "11/05",
+      "timestamp": 1778473945
+    },
+    {
+      "id": "BFMTV_1778473924",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP REJETTE LA RÉPONSE DE L'IRAN, TÉHÉRAN AFFIRME NE PLUS AVOIR DE \"RETENUE\" EN CAS D'ATTAQUE CONTRE SES NAVIRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:32",
+      "date": "11/05",
+      "timestamp": 1778473924
+    },
+    {
+      "id": "BFMTV_1778473573",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: UNE PASSAGÈRE RAPATRIÉE EN FRANCE PRÉSENTE UNE LÉGÈRE FIÈVRE, UNE VINGTAINE DE CAS CONTACT IDENTIFIÉS SUR LE TERRITOIRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:26",
+      "date": "11/05",
+      "timestamp": 1778473573
+    },
+    {
+      "id": "BFMTV_1778473520",
+      "source": "BFMTV",
+      "text": "RÉOUVERTURE PAR ÉTAPE DU DÉTROIT D'ORMUZ, DILUTION D'UNE PARTIE DE SON URANIUM... POURQUOI DONALD TRUMP A REFUSÉ LA PROPOSITION IRANIENNE POUR METTRE FIN AU CONFLIT AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:25",
+      "date": "11/05",
+      "timestamp": 1778473520
+    },
+    {
+      "id": "BFMTV_1778473340",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN POSE SES CONDITIONS POUR METTRE FIN AU CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:22",
+      "date": "11/05",
+      "timestamp": 1778473340
+    },
+    {
+      "id": "BFMTV_1778472748",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHOU DÉCLARE QUE \"LA GUERRE N'EST PAS FINIE\" ET VEUT VOIR \"TOMBER\" LE POUVOIR IRANIEN, APRÈS UN ÉCHANGE TÉLÉPHONIQUE AVEC DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:12",
+      "date": "11/05",
+      "timestamp": 1778472748
+    },
+    {
+      "id": "BFMTV_1778472554",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP JUGE \"TOTALEMENT INACCEPTABLE\" LA RÉPONSE DE L'IRAN POUR METTRE FIN AU CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:09",
+      "date": "11/05",
+      "timestamp": 1778472554
+    },
     {
       "id": "BFMTV_1778449109",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "08:21",
       "date": "10/05",
       "timestamp": 1778401269
-    },
-    {
-      "id": "BFMTV_1778399463",
-      "source": "BFMTV",
-      "text": "MV HONDIUS: LES CINQ RESSORTISSANTS FRANÇAIS SERONT RAPATRIÉS DANS LA JOURNÉE",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:51",
-      "date": "10/05",
-      "timestamp": 1778399463
-    },
-    {
-      "id": "BFMTV_1778395592",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA BASE MILITAIRE SECRÈTE D'ISRAËL DÉCOUVERTE EN IRAK, SELON LE WALL STREET JOURNAL",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:46",
-      "date": "10/05",
-      "timestamp": 1778395592
-    },
-    {
-      "id": "BFMTV_1778395107",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: LE NAVIRE DE CROISIÈRE MV HONDIUS ARRIVÉ AU PORT DE GRANADILLA À TENERIFE, LES PASSAGERS VONT ÉVACUER",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:38",
-      "date": "10/05",
-      "timestamp": 1778395107
-    },
-    {
-      "id": "BFMTV_1778394150",
-      "source": "BFMTV",
-      "text": "MV HONDIUS: COMMENT VA SE DÉROULER LE DÉBARQUEMENT DES PASSAGERS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:22",
-      "date": "10/05",
-      "timestamp": 1778394150
-    },
-    {
-      "id": "BFMTV_1778393695",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: UN NAVIRE TOUCHÉ PAR UN PROJECTILE AU LARGE DES CÔTES DU QATAR",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:14",
-      "date": "10/05",
-      "timestamp": 1778393695
-    },
-    {
-      "id": "BFMTV_1778393303",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: UN NAVIRE FRAPPÉ AU LARGE DU QATAR",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:08",
-      "date": "10/05",
-      "timestamp": 1778393303
-    },
-    {
-      "id": "BFMTV_1778393151",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LE BATEAU DE CROISIÈRE MV HONDIUS EST ARRIVÉ DANS LE PORT DE GRANADILLA, À TENERIFE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:05",
-      "date": "10/05",
-      "timestamp": 1778393151
-    },
-    {
-      "id": "BFMTV_1778391373",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LE NAVIRE DE CROISIÈRE MV HONDIUS EST ARRIVÉ À TENERIFE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:36",
-      "date": "10/05",
-      "timestamp": 1778391373
-    },
-    {
-      "id": "BFMTV_1778390100",
-      "source": "BFMTV",
-      "text": "RELATIONS AVEC ISRAËL, POSTURE FACE AU CONFLIT... COMMENT LA GUERRE AU MOYEN-ORIENT CREUSE LES DISSENSIONS ENTRE MONARCHIES DU GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:15",
-      "date": "10/05",
-      "timestamp": 1778390100
     }
   ],
   "france": {
