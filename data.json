@@ -1,7 +1,137 @@
 {
-  "last_update": "11/05 04:36",
+  "last_update": "11/05 08:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778486355",
+      "source": "BFMTV",
+      "text": "\"ON A ENVIE D'ÊTRE DES PARTENAIRES D'ÉGAL À ÉGAL\", DÉCLARE EMMANUEL MACON AU SOMMET AFRICA FORWARD À NAIROBI",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:59",
+      "date": "11/05",
+      "timestamp": 1778486355
+    },
+    {
+      "id": "BFMTV_1778486299",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: LA MINISTRE DE LA SANTÉ ANNONCE QU'UNE FRANÇAISE A ÉTÉ TESTÉE POSITIVE",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:58",
+      "date": "11/05",
+      "timestamp": 1778486299
+    },
+    {
+      "id": "BFMTV_1778485984",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN EXIGE LA \"FIN DE LA GUERRE DANS LA RÉGION\" ET LE DÉBLOCAGE DES AVOIRS GELÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:53",
+      "date": "11/05",
+      "timestamp": 1778485984
+    },
+    {
+      "id": "BFMTV_1778485657",
+      "source": "BFMTV",
+      "text": "UE: KAJA KALLAS SOUHAITE \"UN ACCORD POLITIQUE\" POUR SANCTIONNER LES COLONS EXTRÉMISTES ISRAÉLIENS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:47",
+      "date": "11/05",
+      "timestamp": 1778485657
+    },
+    {
+      "id": "BFMTV_1778485525",
+      "source": "BFMTV",
+      "text": "\"QU'ILS SOIENT LOYAUX\": DONALD TRUMP MET LA PRESSION SUR LES JUGES DE LA COUR SUPRÊME DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:45",
+      "date": "11/05",
+      "timestamp": 1778485525
+    },
+    {
+      "id": "BFMTV_1778485429",
+      "source": "BFMTV",
+      "text": "UKRAINE: L'UNION EUROPÉENNE REJETTE LA PROPOSITION RUSSE IMPLIQUANT GERHARD SCHRÖDER POUR DES FUTURES DISCUSSIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:43",
+      "date": "11/05",
+      "timestamp": 1778485429
+    },
+    {
+      "id": "BFMTV_1778484606",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE DÔME DE FER ISRAÉLIEN TOUCHÉ PAR LE HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:30",
+      "date": "11/05",
+      "timestamp": 1778484606
+    },
+    {
+      "id": "BFMTV_1778476846",
+      "source": "BFMTV",
+      "text": "L'IRAN FAIT MONTER LES ENCHÈRES ET LA PRESSION SUR DONALD TRUMP EN RESTANT INFLEXIBLE SUR LA RÉOUVERTURE DU DÉTROIT D'ORMUZ ET LA QUESTION DU NUCLÉAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:20",
+      "date": "11/05",
+      "timestamp": 1778476846
+    },
+    {
+      "id": "BFMTV_1778476114",
+      "source": "BFMTV",
+      "text": "U MOYEN-ORIENT: DONALD TRUMP QUALIFIE LA RÉPONSE DE L'IRAN AUX PROPOSITIONS AMÉRICAINES DE \"TOTALEMENT INACCEPTABLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:08",
+      "date": "11/05",
+      "timestamp": 1778476114
+    },
+    {
+      "id": "BFMTV_1778475868",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU AFFIRME QUE LA GUERRE EN IRAN N'EST \"PAS FINIE\", IL FAUT \"RETIRER\" L'URANIUM ENRICHI",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:04",
+      "date": "11/05",
+      "timestamp": 1778475868
+    },
+    {
+      "id": "BFMTV_1778475746",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEUX SECOURISTES AFFILIÉS AU HEZBOLLAH TUÉS DANS DES FRAPPES ISRAÉLIENNES DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:02",
+      "date": "11/05",
+      "timestamp": 1778475746
+    },
+    {
+      "id": "BFMTV_1778475734",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN- ORIENT: L'IRAN DISPOSE-T-IL RÉELLEMENT DE DAUPHINS KAMIKAZES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:02",
+      "date": "11/05",
+      "timestamp": 1778475734
+    },
+    {
+      "id": "BFMTV_1778475578",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA RUSSIE SOUPÇONNÉE D'APPROVISIONNER L'IRAN EN ARMES CONTRE DU PÉTROLE PAR LA MER CASPIENNE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:59",
+      "date": "11/05",
+      "timestamp": 1778475578
+    },
     {
       "id": "BFMTV_1778474056",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "09:31",
       "date": "10/05",
       "timestamp": 1778405482
-    },
-    {
-      "id": "BFMTV_1778405180",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LES PASSAGERS SONT \"DES CONTACTS À HAUT RISQUE\", SELON L'OMS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:26",
-      "date": "10/05",
-      "timestamp": 1778405180
-    },
-    {
-      "id": "BFMTV_1778405052",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LE DÉBARQUEMENT DES PASSAGERS DU MV HONDIUS A COMMENCÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:24",
-      "date": "10/05",
-      "timestamp": 1778405052
-    },
-    {
-      "id": "BFMTV_1778404708",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LES RESSORTISSANTS FRANÇAIS VONT \"TOUS BIEN\" ET \"AUCUN NE PRÉSENTE DE SYMPTÔMES\", INDIQUE NICOLAS PILLEREL, REPRÉSENTANT DE L'AMBASSADE DE FRANCE EN ESPAGNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:18",
-      "date": "10/05",
-      "timestamp": 1778404708
-    },
-    {
-      "id": "BFMTV_1778404556",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LES RESSORTISSANTS FRANÇAIS SERONT ÉVACUÉS PAR AVION \"DANS LES PROCHAINES HEURES\", INDIQUE NICOLAS PILLEREL, REPRÉSENTANT DE L'AMBASSADE DE FRANCE EN ESPAGNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:15",
-      "date": "10/05",
-      "timestamp": 1778404556
-    },
-    {
-      "id": "BFMTV_1778403715",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LE DÉBARQUEMENT DES PASSAGERS DU NAVIRE MV HONDIUS DÉBUTE À TENERIFE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:01",
-      "date": "10/05",
-      "timestamp": 1778403715
-    },
-    {
-      "id": "BFMTV_1778402931",
-      "source": "BFMTV",
-      "text": "LA STAR DE BOLLYWOOD VIJAY INVESTIE À LA TÊTE DE L'EXÉCUTIF D'UN ÉTAT DU SUD DE L'INDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:48",
-      "date": "10/05",
-      "timestamp": 1778402931
-    },
-    {
-      "id": "BFMTV_1778402399",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: LE DÉBARQUEMENT DES PASSAGERS DU NAVIRE MV HONDIUS DÉBUTE À TENERIFE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:39",
-      "date": "10/05",
-      "timestamp": 1778402399
-    },
-    {
-      "id": "BFMTV_1778402311",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE NAVIRE TOUCHÉ PAR UN PROJECTILE AU LARGE DES CÔTES DU QATAR BAT PAVILLON AMÉRICAIN, SELON UNE AGENCE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:38",
-      "date": "10/05",
-      "timestamp": 1778402311
-    },
-    {
-      "id": "BFMTV_1778402261",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES CÂBLES SOUS-MARINS, NOUVEAU MOYEN DE PRESSION DE L'IRAN DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:37",
-      "date": "10/05",
-      "timestamp": 1778402261
-    },
-    {
-      "id": "BFMTV_1778401854",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR LE NAVIRE MV HONDIUS: LE PATIENT ZÉRO ÉTAIT UN ORNITHOLOGUE NÉERLANDAIS DE 70 ANS EN VOYAGE AVEC SON ÉPOUSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:30",
-      "date": "10/05",
-      "timestamp": 1778401854
-    },
-    {
-      "id": "BFMTV_1778401854",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:30",
-      "date": "10/05",
-      "timestamp": 1778401854
-    },
-    {
-      "id": "BFMTV_1778401618",
-      "source": "BFMTV",
-      "text": "HONGRIE: LE NOUVEAU MINISTRE DE LA SANTÉ REPRODUIT SA DANSE ENDIABLÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:26",
-      "date": "10/05",
-      "timestamp": 1778401618
-    },
-    {
-      "id": "BFMTV_1778401269",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE NAVIRE TOUCHÉ PAR UN PROJECTILE DANS LE GOLFE PERSIQUE EST AMÉRICAIN, SELON L'AGENCE IRANIENNE FARS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:21",
-      "date": "10/05",
-      "timestamp": 1778401269
     }
   ],
   "france": {
