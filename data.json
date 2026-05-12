@@ -1,7 +1,57 @@
 {
-  "last_update": "12/05 20:14",
+  "last_update": "12/05 21:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778621603",
+      "source": "BFMTV",
+      "text": "L'IRAN DÉCLARE \"QU'EN CAS D'ATTAQUE RENOUVELÉE\", IL POURRAIT ENRICHIR SON URANIUM \"À 90%\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:33",
+      "date": "12/05",
+      "timestamp": 1778621603
+    },
+    {
+      "id": "BFMTV_1778620180",
+      "source": "BFMTV",
+      "text": "MARINE, DIRIGEANTS, ARMÉE DE L'AIR: DONALD TRUMP S'EN PREND AUX MÉDIAS \"QUI DIFFUSENT DE FAUSSES INFORMATIONS\" QUI AFFIRMENT QUE \"L'ENNEMI IRANIEN SE PORTE BIEN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:09",
+      "date": "12/05",
+      "timestamp": 1778620180
+    },
+    {
+      "id": "BFMTV_1778620000",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS/CHINE: UN VOYAGE DIPLOMATIQUE QUI N’ARRIVE PAS AU BON MOMENT POUR DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:06",
+      "date": "12/05",
+      "timestamp": 1778620000
+    },
+    {
+      "id": "BFMTV_1778618263",
+      "source": "BFMTV",
+      "text": "LA FRANCE VA PRENDRE \"UNE INITIATIVE\" À L'ONU SUR SA PROPOSITION DE MISSION \"NEUTRE\" DE SÉCURISATION DU DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:37",
+      "date": "12/05",
+      "timestamp": 1778618263
+    },
+    {
+      "id": "BFMTV_1778617339",
+      "source": "BFMTV",
+      "text": "IRAN: LES HÉLICOPTÈRES TIGRES FRANÇAIS POURRAIENT ÊTRE L’ARME ANTI-DRONES UTILISÉE POUR LE DÉBLOCAGE DU DÉTROIT D’ORMUZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:22",
+      "date": "12/05",
+      "timestamp": 1778617339
+    },
     {
       "id": "BFMTV_1778616501",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "21:06",
       "date": "11/05",
       "timestamp": 1778533565
-    },
-    {
-      "id": "BFMTV_1778531723",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: CE QUE L’ON SAIT DES DIFFÉRENTS PROTOCOLES D’ISOLEMENT SELON LES PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:35",
-      "date": "11/05",
-      "timestamp": 1778531723
-    },
-    {
-      "id": "BFMTV_1778531490",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: LE PERSONNEL D'UN HÔPITAL NÉERLANDAIS TRAITANT UN MALADE MIS EN QUARANTAINE APRÈS DES ERREURS DE PROCÉDURE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:31",
-      "date": "11/05",
-      "timestamp": 1778531490
-    },
-    {
-      "id": "BFMTV_1778530885",
-      "source": "BFMTV",
-      "text": "ALAIN BAUER, AUTEUR, ANALYSE DONALD TRUMP ET SA GESTION DE LA GUERRE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:21",
-      "date": "11/05",
-      "timestamp": 1778530885
-    },
-    {
-      "id": "BFMTV_1778529686",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN SE DIT PRÊT À \"DONNER UNE LEÇON\" EN CAS D'AGRESSION",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:01",
-      "date": "11/05",
-      "timestamp": 1778529686
-    },
-    {
-      "id": "BFMTV_1778525116",
-      "source": "BFMTV",
-      "text": "\"NOS FORCES ARMÉES SONT PRÊTES À RÉPONDRE DE MANIÈRE INSTRUCTIVE À TOUTE AGRESSION\", ANNONCE LE PRÉSIDENT DU PARLEMENT IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:45",
-      "date": "11/05",
-      "timestamp": 1778525116
     }
   ],
   "france": {
