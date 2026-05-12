@@ -1,7 +1,67 @@
 {
-  "last_update": "12/05 21:42",
+  "last_update": "12/05 22:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778624891",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: TROIS ADOLESCENTS D'UNE MÊME FRATRIE PARMI LES CAS CONTACTS FRANÇAIS (INFO BFMTV)",
+      "urgent": false,
+      "france_related": true,
+      "time": "22:28",
+      "date": "12/05",
+      "timestamp": 1778624891
+    },
+    {
+      "id": "BFMTV_1778623404",
+      "source": "BFMTV",
+      "text": "LE DIRECTEUR DU FBI KASH PATEL RÉFUTE LES ALLÉGATIONS D'ALCOOLISME LORS D'UNE AUDITION AU SÉNAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:03",
+      "date": "12/05",
+      "timestamp": 1778623404
+    },
+    {
+      "id": "BFMTV_1778622976",
+      "source": "BFMTV",
+      "text": "“L’HÉLICOPTÈRE TIGRE C’EST UNE ARME PUISSANTE MAIS SURTOUT BEAUCOUP MOINS COÛTEUSE QUE LES AUTRES DISPOSITIFS QUE L'ON A POUR INTERCEPTER LES DRONES”, EXPLIQUE LE LIEUTENANT-COLONEL GUILLAUME ANCEL",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:56",
+      "date": "12/05",
+      "timestamp": 1778622976
+    },
+    {
+      "id": "BFMTV_1778622956",
+      "source": "BFMTV",
+      "text": "DE NOUVELLE FRAPPES ISRAÉLIENNES FONT 13 MORTS DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:55",
+      "date": "12/05",
+      "timestamp": 1778622956
+    },
+    {
+      "id": "BFMTV_1778622811",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: LA PENSÉE STRATÉGIQUE DE JOHN WARDEN, ILLUSTRÉE PAR LA THÉORIE DES \"CINQ CERCLES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:53",
+      "date": "12/05",
+      "timestamp": 1778622811
+    },
+    {
+      "id": "BFMTV_1778622332",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS \"GAGNERONT EN IRAN, PEU IMPORTE COMMENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:45",
+      "date": "12/05",
+      "timestamp": 1778622332
+    },
     {
       "id": "BFMTV_1778621603",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "22:02",
       "date": "11/05",
       "timestamp": 1778536931
-    },
-    {
-      "id": "BFMTV_1778536621",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN SE DIT PRÊT À \"DONNER UNE LEÇON\" EN CAS D'AGRESSION",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:57",
-      "date": "11/05",
-      "timestamp": 1778536621
-    },
-    {
-      "id": "BFMTV_1778536531",
-      "source": "BFMTV",
-      "text": "L’IMAGE D’UN SOUS-MARIN AMÉRICAIN NUCLÉAIRE AU LARGE DE GIBRALTAR",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:55",
-      "date": "11/05",
-      "timestamp": 1778536531
-    },
-    {
-      "id": "BFMTV_1778534483",
-      "source": "BFMTV",
-      "text": "RETOUR DES ENFANTS UKRAINIENS: LE CANADA VEUT EXERCER \"DE PLUS EN PLUS DE PRESSION\" SUR LA RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:21",
-      "date": "11/05",
-      "timestamp": 1778534483
-    },
-    {
-      "id": "BFMTV_1778534180",
-      "source": "BFMTV",
-      "text": "VIEUX DE 1.500 ANS, LE FOURREAU EN OR D'UNE ÉPÉE RETROUVÉ PAR UN RANDONNEUR EN NORVÈGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:16",
-      "date": "11/05",
-      "timestamp": 1778534180
-    },
-    {
-      "id": "BFMTV_1778534096",
-      "source": "BFMTV",
-      "text": "IRAN: \"NOUS POURRIONS INTERVENIR PENDANT DEUX SEMAINES SUPPLÉMENTAIRES ET FRAPPER CHAQUE CIBLE UNE PAR UNE\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:14",
-      "date": "11/05",
-      "timestamp": 1778534096
-    },
-    {
-      "id": "BFMTV_1778533565",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP PROMET UNE \"VICTOIRE COMPLÈTE\" DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:06",
-      "date": "11/05",
-      "timestamp": 1778533565
     }
   ],
   "france": {
