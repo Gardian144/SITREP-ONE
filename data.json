@@ -1,7 +1,127 @@
 {
-  "last_update": "12/05 18:17",
+  "last_update": "12/05 20:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778616501",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS/IRAN: EN CAS D’ÉCHEC DU CESSEZ-LE-FEU, LES AMÉRICAINS POURRAIENT MENER UNE NOUVELLE OPÉRATION MILITAIRE, SELON NBC",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:08",
+      "date": "12/05",
+      "timestamp": 1778616501
+    },
+    {
+      "id": "BFMTV_1778615481",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LA FRANCE VA PRENDRE \"UNE INITIATIVE\" À L'ONU SUR SA PROPOSITION DE MISSION \"NEUTRE\", DÉCLARE EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:51",
+      "date": "12/05",
+      "timestamp": 1778615481
+    },
+    {
+      "id": "BFMTV_1778615157",
+      "source": "BFMTV",
+      "text": "IRAN: RENCONTRE ENTRE DONALD TRUMP ET XI JINPING, LA PAIX SE JOUE À PÉKIN ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:45",
+      "date": "12/05",
+      "timestamp": 1778615157
+    },
+    {
+      "id": "BFMTV_1778615050",
+      "source": "BFMTV",
+      "text": "INFLATION, CARBURANTS, CONSOMMATION ... ENTRETIEN AVEC DOMINIQUE SCHELCHER (COOPÉRATIVE U)",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:44",
+      "date": "12/05",
+      "timestamp": 1778615050
+    },
+    {
+      "id": "BFMTV_1778613632",
+      "source": "BFMTV",
+      "text": "CARBURANTS: \"TOTALENERGIES N'EST PAS UN PROFITEUR DE GUERRE, LE PDG MÈNE BIEN SON ENTREPRISE\", EXPLIQUE DOMINIQUE SCHELCHER, PDG DE COOPÉRATIVE U",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:20",
+      "date": "12/05",
+      "timestamp": 1778613632
+    },
+    {
+      "id": "BFMTV_1778612688",
+      "source": "BFMTV",
+      "text": " DÉBLOCAGE DU DÉTROIT D'ORMUZ: L'IRAN RIDICULISE ENCORE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:04",
+      "date": "12/05",
+      "timestamp": 1778612688
+    },
+    {
+      "id": "BFMTV_1778612126",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DONALD TRUMP ASSURE QUE XI JINPING N'A PAS BESOIN D'INTERVENIR",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:55",
+      "date": "12/05",
+      "timestamp": 1778612126
+    },
+    {
+      "id": "BFMTV_1778611426",
+      "source": "BFMTV",
+      "text": "RENCONTRE ENTRE DONALD TRUMP ET XI JINPING: \"LES CHINOIS SAVENT PARFAITEMENT JOUER LA DIPLOMATIE DU SOURIRE QUI NE DIT ABSOLUMENT RIEN\", ANALYSE SERGUEÏ JIMOV, ANCIEN OFFICIER DU RENSEIGNEMENT DU KGB",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:43",
+      "date": "12/05",
+      "timestamp": 1778611426
+    },
+    {
+      "id": "BFMTV_1778610708",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP QUITTE LES ÉTATS-UNIS POUR SE RENDRE EN CHINE, OÙ IL RENCONTRERA XI JINPING",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:31",
+      "date": "12/05",
+      "timestamp": 1778610708
+    },
+    {
+      "id": "BFMTV_1778610291",
+      "source": "BFMTV",
+      "text": "AVANT SON DÉPART POUR LA CHINE, DONALD TRUMP FAIT LE POINT SUR LA SITUATION AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:24",
+      "date": "12/05",
+      "timestamp": 1778610291
+    },
+    {
+      "id": "BFMTV_1778610019",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: TROIS ADOLESCENTS D'UNE MÊME FRATRIE PARMI LES CAS CONTACTS FRANÇAIS (INFO BFMTV)",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:20",
+      "date": "12/05",
+      "timestamp": 1778610019
+    },
+    {
+      "id": "BFMTV_1778609483",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS \"GAGNERONT EN IRAN, PEU IMPORTE COMMENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:11",
+      "date": "12/05",
+      "timestamp": 1778609483
+    },
     {
       "id": "BFMTV_1778609454",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "18:45",
       "date": "11/05",
       "timestamp": 1778525116
-    },
-    {
-      "id": "BFMTV_1778524945",
-      "source": "BFMTV",
-      "text": "\"LES IRANIENS SONT GAGNANTS, L'IRAN A LE TEMPS, ET LE TEMPS, C'EST CE QUE DONALD TRUMP N'A PAS\", ANALYSE ALAIN BAUER, AUTEUR DU LIVRE \"TRUMP, LE POUVOIR DES MOTS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:42",
-      "date": "11/05",
-      "timestamp": 1778524945
-    },
-    {
-      "id": "BFMTV_1778524635",
-      "source": "BFMTV",
-      "text": "\"LE PRÉSIDENT TRUMP, C'EST UN PEU DR HOUSE\", IRONISE ALAIN BAUER, AUTEUR DU LIVRE \"TRUMP, LE POUVOIR DES MOTS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:37",
-      "date": "11/05",
-      "timestamp": 1778524635
-    },
-    {
-      "id": "BFMTV_1778524025",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LA PHOTO QUI FAIT POLÉMIQUE EN ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:27",
-      "date": "11/05",
-      "timestamp": 1778524025
-    },
-    {
-      "id": "BFMTV_1778521483",
-      "source": "BFMTV",
-      "text": "IRAN: \"LA FRANCE N'EST PAS EN GUERRE\", RAPPELLE FRÉDÉRIC ENCEL, PROFESSEUR DE GÉOPOLITIQUE",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:44",
-      "date": "11/05",
-      "timestamp": 1778521483
-    },
-    {
-      "id": "BFMTV_1778521278",
-      "source": "BFMTV",
-      "text": "IRAN: \"LE RAPPORT DE FORCE MILITAIRE EST EN FAVEUR DES ÉTATS-UNIS\", OBSERVE FRÉDÉRIC ENCEL, PROFESSEUR DE GÉOPOLITIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:41",
-      "date": "11/05",
-      "timestamp": 1778521278
-    },
-    {
-      "id": "BFMTV_1778520344",
-      "source": "BFMTV",
-      "text": "LE CHARLES DE GAULLE SE RAPPROCHE DU DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:25",
-      "date": "11/05",
-      "timestamp": 1778520344
-    },
-    {
-      "id": "BFMTV_1778520213",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP CRITIQUE LA PROPOSITION DE CESSEZ-LE-FEU IRANIENNE, LA QUALIFIANT DE \"TORCHON\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:23",
-      "date": "11/05",
-      "timestamp": 1778520213
-    },
-    {
-      "id": "OPEX360_1778519380",
-      "source": "OPEX360",
-      "text": "DASSAULT AVIATION ET L’ALLEMAND OHB S’ALLIENT POUR PROPOSER L’AVION ORBITAL VORTEX S À L’AGENCE SPATIALE EUROPÉENNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:09",
-      "date": "11/05",
-      "timestamp": 1778519380
-    },
-    {
-      "id": "BFMTV_1778518421",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DÉCLARE QUE L'HANTAVIRUS EST \"BEAUCOUP PLUS DIFFICILE À ATTRAPER\" QUE LE COVID-19",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:53",
-      "date": "11/05",
-      "timestamp": 1778518421
-    },
-    {
-      "id": "BFMTV_1778517713",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: LA FRANÇAISE CONTAMINÉE \"TOUJOURS EN RÉANIMATION DANS UN ÉTAT STABLE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:41",
-      "date": "11/05",
-      "timestamp": 1778517713
-    },
-    {
-      "id": "OPEX360_1778515798",
-      "source": "OPEX360",
-      "text": "LA POLOGNE S’INTÉRESSE À L’AVION D’ALERTE AVANCÉE AMÉRICAIN AERIS X POUR REMPLACER SES DEUX SAAB 340 AEW&C",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:09",
-      "date": "11/05",
-      "timestamp": 1778515798
-    },
-    {
-      "id": "BFMTV_1778515325",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"111 MISSILES ONT ÉTÉ TIRÉS SUR NOS BÂTIMENTS\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:02",
-      "date": "11/05",
-      "timestamp": 1778515325
     }
   ],
   "france": {
