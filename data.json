@@ -1,7 +1,127 @@
 {
-  "last_update": "12/05 09:38",
+  "last_update": "12/05 11:34",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778585198",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: DES RASSEMBLEMENTS DE JEUNES DÉGÉNÈRENT ET INQUIÈTENT LES AUTORITÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:26",
+      "date": "12/05",
+      "timestamp": 1778585198
+    },
+    {
+      "id": "BFMTV_1778584411",
+      "source": "BFMTV",
+      "text": "UN RAPPORT ISRAÉLIEN ACCUSE LE HAMAS DE VIOLENCES SEXUELLES “SYSTÉMATIQUES” ET “DE TORTURE” LORS DES ATTAQUES DU 7-OCTOBRE ET PENDANT LA CAPTIVITÉ DES OTAGES À GAZA",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:13",
+      "date": "12/05",
+      "timestamp": 1778584411
+    },
+    {
+      "id": "BFMTV_1778583808",
+      "source": "BFMTV",
+      "text": "LA COMMISSION EUROPÉENNE CONFIRME AVOIR PROPOSÉ À DES REPRÉSENTANTS TALIBANS UNE RÉUNION À BRUXELLES POUR PARLER MIGRATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:03",
+      "date": "12/05",
+      "timestamp": 1778583808
+    },
+    {
+      "id": "BFMTV_1778583497",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE DÉTROIT D'ORMUZ TOUJOURS PARALYSÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:58",
+      "date": "12/05",
+      "timestamp": 1778583497
+    },
+    {
+      "id": "BFMTV_1778583345",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: SÉBASTIEN LECORNU APPELLE À \"RENFORCER IMMÉDIATEMENT LA COOPÉRATION AVEC LES ÉTATS VOISINS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:55",
+      "date": "12/05",
+      "timestamp": 1778583345
+    },
+    {
+      "id": "OPEX360_1778581354",
+      "source": "OPEX360",
+      "text": "THALES ET ARIANEGROUP SALUENT LES ESSAIS RÉUSSIS DE LEUR ROQUETTE BALISTIQUE FLP-T 150 ET DÉVOILENT LE LANCEUR X-FIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:22",
+      "date": "12/05",
+      "timestamp": 1778581354
+    },
+    {
+      "id": "BFMTV_1778581229",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE CHEF DU HEZBOLLAH VEUT TRANSFORMER LA BATAILLE EN \"ENFER POUR ISRAËL\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:20",
+      "date": "12/05",
+      "timestamp": 1778581229
+    },
+    {
+      "id": "BFMTV_1778580979",
+      "source": "BFMTV",
+      "text": "UNE FUSILLADE ÉCLATE PRÈS DE L’UNIVERSITÉ D'HARVARD, DEUX PERSONNES GRAVEMENT BLESSÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:16",
+      "date": "12/05",
+      "timestamp": 1778580979
+    },
+    {
+      "id": "BFMTV_1778580421",
+      "source": "BFMTV",
+      "text": "\"ON SE SENT UN PEU COUPABLE\": LENNART MONTERLOS, JEUNE CYCLISTE FRANCO-ALLEMAND, REVIENT SUR SES QUATRE MOIS DE DÉTENTION EN IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:07",
+      "date": "12/05",
+      "timestamp": 1778580421
+    },
+    {
+      "id": "BFMTV_1778580207",
+      "source": "BFMTV",
+      "text": "\"JE PENSAIS RENTRER CHEZ MOI RAPIDEMENT\": CES RUSSES EXILÉS EN FRANCE POUR ÉCHAPPER À LA GUERRE DE VLADIMIR POUTINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:03",
+      "date": "12/05",
+      "timestamp": 1778580207
+    },
+    {
+      "id": "BFMTV_1778579891",
+      "source": "BFMTV",
+      "text": "\"LE MONDE N'A PAS BESOIN DE PLUS D'ÉGOÏSME\": PEDRO SÁNCHEZ DÉFEND SON CHOIX D'AVOIR ACCUEILLI LE MV HONDIUS AUX CANARIES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:58",
+      "date": "12/05",
+      "timestamp": 1778579891
+    },
+    {
+      "id": "BFMTV_1778579797",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DU CHARLES DE GAULLE EN ESCALE À DJIBOUTI",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:56",
+      "date": "12/05",
+      "timestamp": 1778579797
+    },
     {
       "id": "BFMTV_1778578345",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "11:10",
       "date": "11/05",
       "timestamp": 1778497819
-    },
-    {
-      "id": "BFMTV_1778497591",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES PRIX DU PÉTROLE AUGMENTENT ET PASSENT À 104 DOLLARS LE BARIL",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:06",
-      "date": "11/05",
-      "timestamp": 1778497591
-    },
-    {
-      "id": "BFMTV_1778497558",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: L'ÉTAT DE SANTÉ DU BRITANNIQUE HOSPITALISÉ EN AFRIQUE DU SUD, L'UN DES PREMIERS CAS TESTÉS POSITIFS, \"S'AMÉLIORE PROGRESSIVEMENT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:05",
-      "date": "11/05",
-      "timestamp": 1778497558
-    },
-    {
-      "id": "BFMTV_1778497212",
-      "source": "BFMTV",
-      "text": "RESTITUTIONS DE BIENS CULTURELS: \"ON A CONSTRUIT QUELQUE CHOSE D'INARRÊTABLE\", ASSURE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:00",
-      "date": "11/05",
-      "timestamp": 1778497212
-    },
-    {
-      "id": "BFMTV_1778496590",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN JUGE AVOIR RÉCLAMÉ DES \"DROITS LÉGITIMES\" DANS SA PROPOSITION DE TRÊVE MALGRÉ LE REJET CATÉGORIQUE DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:49",
-      "date": "11/05",
-      "timestamp": 1778496590
-    },
-    {
-      "id": "BFMTV_1778496382",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: COMMENT LES ÉTATS-UNIS ET ISRAËL ENVISAGENT D'ALLER CHERCHER L'URANIUM ENRICHI IRANIEN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:46",
-      "date": "11/05",
-      "timestamp": 1778496382
-    },
-    {
-      "id": "OPEX360_1778496288",
-      "source": "OPEX360",
-      "text": "ARTILLERIE : L’ARMÉE ARMÉNIENNE A REÇU SES PREMIERS CAESAR",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:44",
-      "date": "11/05",
-      "timestamp": 1778496288
-    },
-    {
-      "id": "BFMTV_1778496022",
-      "source": "BFMTV",
-      "text": "LES CORPS DE DEUX RANDONNEURS DISPARUS RETROUVÉS ENLACÉS APRÈS L'ÉRUPTION DU VOLCAN DUKONO EN INDONÉSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:40",
-      "date": "11/05",
-      "timestamp": 1778496022
-    },
-    {
-      "id": "BFMTV_1778495415",
-      "source": "BFMTV",
-      "text": "\"C'EST UN MANQUE DE RESPECT\": EMMANUEL MACRON S'ÉNERVE SUR SCÈNE FACE À UNE SALLE TROP BRUYANTE AU KENYA",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:30",
-      "date": "11/05",
-      "timestamp": 1778495415
-    },
-    {
-      "id": "BFMTV_1778494774",
-      "source": "BFMTV",
-      "text": "\"C'EST UN TOTAL MANQUE DE RESPECT\" : AU KENYA, LA COLÈRE D'EMMANUEL LORS D'UNE CONFÉRENCE SUR LA CULTURE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:19",
-      "date": "11/05",
-      "timestamp": 1778494774
-    },
-    {
-      "id": "BFMTV_1778494499",
-      "source": "BFMTV",
-      "text": "AU 73E JOUR DE GUERRE AU MOYEN-ORIENT, OÙ EN SONT LES NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:14",
-      "date": "11/05",
-      "timestamp": 1778494499
-    },
-    {
-      "id": "BFMTV_1778493336",
-      "source": "BFMTV",
-      "text": "\"LE PATRIMOINE CULTUREL [...]N'ÉTAIT PAS EN AFRIQUE\": EMMANUEL MACRON PLAIDE POUR LA RESTITUTION DES ŒUVRES D'ART",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:55",
-      "date": "11/05",
-      "timestamp": 1778493336
-    },
-    {
-      "id": "BFMTV_1778493184",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA PORTE-PAROLE DU GOUVERNEMENT ASSURE QU'IL N'A \"JAMAIS ÉTÉ QUESTION DE POSTURE OFFENSIVE\" DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:53",
-      "date": "11/05",
-      "timestamp": 1778493184
     }
   ],
   "france": {
