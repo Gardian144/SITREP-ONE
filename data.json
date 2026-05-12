@@ -1,7 +1,127 @@
 {
-  "last_update": "12/05 04:05",
+  "last_update": "12/05 06:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778568465",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: UNE RÉUNION INTERMINISTÉRIELLE EST PRÉVUE À MATIGNON À 8H30 (INFO BFMTV)",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:47",
+      "date": "12/05",
+      "timestamp": 1778568465
+    },
+    {
+      "id": "BFMTV_1778568273",
+      "source": "BFMTV",
+      "text": "7-OCTOBRE: UN RAPPORT ISRAÉLIEN ACCUSE LE HAMAS DE VIOLENCES SEXUELLES \"SYSTÉMATIQUES\" ET \"À GRANDE ÉCHELLE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:44",
+      "date": "12/05",
+      "timestamp": 1778568273
+    },
+    {
+      "id": "BFMTV_1778568273",
+      "source": "BFMTV",
+      "text": "ATTAQUES DU 7 OCTOBRE 2023 DU HAMAS CONTRE ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:44",
+      "date": "12/05",
+      "timestamp": 1778568273
+    },
+    {
+      "id": "BFMTV_1778567978",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN SE DIT PRÊT À \"DONNER UNE LEÇON\" EN CAS DE NOUVELLE AGRESSION DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:39",
+      "date": "12/05",
+      "timestamp": 1778567978
+    },
+    {
+      "id": "BFMTV_1778562056",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: JUSTE AVANT LE CESSEZ-LE-FEU, LE PAKISTAN A ACCEPTÉ LE STATIONNEMENT DE QUELQUES AVIONS MILITAIRES IRANIENS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:00",
+      "date": "12/05",
+      "timestamp": 1778562056
+    },
+    {
+      "id": "BFMTV_1778561778",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA FRANCE ET LE ROYAUME-UNI CO-PRÉSIDENT UNE RÉUNION AVEC UNE QUARANTAINE DE LEURS HOMOLOGUES POUR TENTER DE SÉCURISER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:56",
+      "date": "12/05",
+      "timestamp": 1778561778
+    },
+    {
+      "id": "BFMTV_1778561745",
+      "source": "BFMTV",
+      "text": "L'IRAN EXÉCUTE UN ÉTUDIANT ACCUSÉ D'ESPIONNAGE POUR LE MOSSAD ET LA CIA",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:55",
+      "date": "12/05",
+      "timestamp": 1778561745
+    },
+    {
+      "id": "BFMTV_1778561139",
+      "source": "BFMTV",
+      "text": "APRÈS LA RÉPONSE DES IRANIENS AU PLAN DE PAIX AMÉRICAIN POUR METTRE UN TERME À LA GUERRE AU MOYEN-ORIENT, DONALD TRUMP LAISSE ÉCLATER SA COLÈRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:45",
+      "date": "12/05",
+      "timestamp": 1778561139
+    },
+    {
+      "id": "BFMTV_1778561116",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: UN PASSAGER ESPAGNOL DU MV HONDIUS TESTÉ POSITIF SANS PRÉSENTER DE SYMPTÔMES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:45",
+      "date": "12/05",
+      "timestamp": 1778561116
+    },
+    {
+      "id": "BFMTV_1778560613",
+      "source": "BFMTV",
+      "text": "\"DES EXAMENS DE ROUTINE\": DONALD TRUMP VA SE SOUMETTRE À UN BILAN DE SANTÉ LE 26 MAI PROCHAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:36",
+      "date": "12/05",
+      "timestamp": 1778560613
+    },
+    {
+      "id": "BFMTV_1778560461",
+      "source": "BFMTV",
+      "text": "LE BRIEF DU GÉNÉRAL - GUERRE AU MOYEN-ORIENT: LE SOUS-MARIN NUCLÉAIRE USS ALASKA APERÇU DANS LE DÉTROIT DE GIBRALTAR ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:34",
+      "date": "12/05",
+      "timestamp": 1778560461
+    },
+    {
+      "id": "BFMTV_1778559915",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ESTIME QUE LA TRÊVE AVEC L'IRAN EST \"SOUS ASSISTANCE RESPIRATOIRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:25",
+      "date": "12/05",
+      "timestamp": 1778559915
+    },
     {
       "id": "BFMTV_1778558539",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "05:02",
       "date": "11/05",
       "timestamp": 1778475734
-    },
-    {
-      "id": "BFMTV_1778475578",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA RUSSIE SOUPÇONNÉE D'APPROVISIONNER L'IRAN EN ARMES CONTRE DU PÉTROLE PAR LA MER CASPIENNE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:59",
-      "date": "11/05",
-      "timestamp": 1778475578
-    },
-    {
-      "id": "BFMTV_1778474056",
-      "source": "BFMTV",
-      "text": "LE CORPS D'UN DES DEUX MILITAIRES AMÉRICAINS DISPARUS AU MAROC RETROUVÉ EN MER",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:34",
-      "date": "11/05",
-      "timestamp": 1778474056
-    },
-    {
-      "id": "BFMTV_1778473977",
-      "source": "BFMTV",
-      "text": "À CAUSE DE L'OCCUPATION ISRAÉLIENNE, LA VILLE PORTUAIRE DE TYR AU LIBAN FAIT FACE À UN DÉBUT DE PÉNURIE ALIMENTAIRE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:32",
-      "date": "11/05",
-      "timestamp": 1778473977
-    },
-    {
-      "id": "BFMTV_1778473945",
-      "source": "BFMTV",
-      "text": "LE BRIEF DU GÉNÉRAL - COMMENT FONCTIONNE LA \"SPACE FORCE\" AMÉRICAINE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:32",
-      "date": "11/05",
-      "timestamp": 1778473945
-    },
-    {
-      "id": "BFMTV_1778473924",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP REJETTE LA RÉPONSE DE L'IRAN, TÉHÉRAN AFFIRME NE PLUS AVOIR DE \"RETENUE\" EN CAS D'ATTAQUE CONTRE SES NAVIRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:32",
-      "date": "11/05",
-      "timestamp": 1778473924
-    },
-    {
-      "id": "BFMTV_1778473573",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: UNE PASSAGÈRE RAPATRIÉE EN FRANCE PRÉSENTE UNE LÉGÈRE FIÈVRE, UNE VINGTAINE DE CAS CONTACT IDENTIFIÉS SUR LE TERRITOIRE",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:26",
-      "date": "11/05",
-      "timestamp": 1778473573
-    },
-    {
-      "id": "BFMTV_1778473520",
-      "source": "BFMTV",
-      "text": "RÉOUVERTURE PAR ÉTAPE DU DÉTROIT D'ORMUZ, DILUTION D'UNE PARTIE DE SON URANIUM... POURQUOI DONALD TRUMP A REFUSÉ LA PROPOSITION IRANIENNE POUR METTRE FIN AU CONFLIT AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:25",
-      "date": "11/05",
-      "timestamp": 1778473520
-    },
-    {
-      "id": "BFMTV_1778473340",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN POSE SES CONDITIONS POUR METTRE FIN AU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:22",
-      "date": "11/05",
-      "timestamp": 1778473340
-    },
-    {
-      "id": "BFMTV_1778472748",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHOU DÉCLARE QUE \"LA GUERRE N'EST PAS FINIE\" ET VEUT VOIR \"TOMBER\" LE POUVOIR IRANIEN, APRÈS UN ÉCHANGE TÉLÉPHONIQUE AVEC DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:12",
-      "date": "11/05",
-      "timestamp": 1778472748
-    },
-    {
-      "id": "BFMTV_1778472554",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP JUGE \"TOTALEMENT INACCEPTABLE\" LA RÉPONSE DE L'IRAN POUR METTRE FIN AU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:09",
-      "date": "11/05",
-      "timestamp": 1778472554
-    },
-    {
-      "id": "BFMTV_1778449109",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:38",
-      "date": "10/05",
-      "timestamp": 1778449109
-    },
-    {
-      "id": "BFMTV_1778449109",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PARIS ET LONDRES COPRÉSIDERONT MARDI UNE RÉUNION DE MINISTRES DE LA DÉFENSE SUR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:38",
-      "date": "10/05",
-      "timestamp": 1778449109
     }
   ],
   "france": {
