@@ -1,7 +1,127 @@
 {
-  "last_update": "12/05 13:26",
+  "last_update": "12/05 16:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778601122",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: LA MINISTRE DE LA SANTÉ INDIQUE QUE \"DES ENFANTS\" SE TROUVENT PARMI LES CAS CONTACT EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:52",
+      "date": "12/05",
+      "timestamp": 1778601122
+    },
+    {
+      "id": "BFMTV_1778600831",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: \"ON NE CONNAÎT PAS LES FACTEURS DE RISQUE DE GRAVITÉ\", INDIQUE LE PR XAVIER LESCURE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:47",
+      "date": "12/05",
+      "timestamp": 1778600831
+    },
+    {
+      "id": "BFMTV_1778598462",
+      "source": "BFMTV",
+      "text": "\"CES FONDS IRONT DIRECTEMENT AUX DRONES\": L'UKRAINE RECEVRA EN JUIN LE PREMIER VERSEMENT DE SON PRÊT DE 90 MILLIARDS, ANNONCE BRUXELLES",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:07",
+      "date": "12/05",
+      "timestamp": 1778598462
+    },
+    {
+      "id": "OPEX360_1778596433",
+      "source": "OPEX360",
+      "text": "LE CONTRE-ESPIONNAGE MILITAIRE FRANÇAIS NOTE UNE HAUSSE DES ATTEINTES PHYSIQUES CONTRE LES EMPRISES DE LA DÉFENSE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:33",
+      "date": "12/05",
+      "timestamp": 1778596433
+    },
+    {
+      "id": "BFMTV_1778595710",
+      "source": "BFMTV",
+      "text": "LE QATAR DÉNONCE LE \"CHANTAGE\" IRANIEN CONCERNANT LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:21",
+      "date": "12/05",
+      "timestamp": 1778595710
+    },
+    {
+      "id": "BFMTV_1778595559",
+      "source": "BFMTV",
+      "text": "SABLE ROUGE, PLAGE ROUGE ... LES IMAGES DE PROPAGANDE IRANIENNE CONCERNANT LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:19",
+      "date": "12/05",
+      "timestamp": 1778595559
+    },
+    {
+      "id": "BFMTV_1778595416",
+      "source": "BFMTV",
+      "text": "LIGNE ROUGE - ICE: AU CŒUR DE LA POLICE ANTI-MIGRANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:16",
+      "date": "12/05",
+      "timestamp": 1778595416
+    },
+    {
+      "id": "BFMTV_1778595133",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - MOYEN-ORIENT: PORTE-AVIONS, HÉLICOPTÈRES ... PARIS AVANCE SES PIONS DANS LA RÉGION",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:12",
+      "date": "12/05",
+      "timestamp": 1778595133
+    },
+    {
+      "id": "BFMTV_1778595014",
+      "source": "BFMTV",
+      "text": "\"NOUS ATTENDONS LE DOIGT SUR LA GÂCHETTE\", MENACE L'IRAN ALORS QUE LE PENTAGONE DÉCLARE \"AVOIR UN PLAN POUR INTENSIFIER\" SES ACTIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:10",
+      "date": "12/05",
+      "timestamp": 1778595014
+    },
+    {
+      "id": "BFMTV_1778593373",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UNE FRAPPE ISRAÉLIENNE TUE DEUX SECOURISTES DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:42",
+      "date": "12/05",
+      "timestamp": 1778593373
+    },
+    {
+      "id": "BFMTV_1778593151",
+      "source": "BFMTV",
+      "text": "LAMINE YAMAL BRANDIT UN DRAPEAU PALESTINIEN LORS DES CÉLÉBRATIONS DU TITRE DU FC BARCELONE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:39",
+      "date": "12/05",
+      "timestamp": 1778593151
+    },
+    {
+      "id": "BFMTV_1778592582",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE CHEF DU HEZBOLLAH LIBANAIS MENACE DE \"TRANSFORMER LA BATAILLE EN ENFER POUR ISRAËL\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:29",
+      "date": "12/05",
+      "timestamp": 1778592582
+    },
     {
       "id": "BFMTV_1778591634",
       "source": "BFMTV",
@@ -16,6 +136,16 @@
       "id": "BFMTV_1778590928",
       "source": "BFMTV",
       "text": "PETE HEGSETH: \"NOUS AVONS UN PLAN D’ESCALADE CONTRE L’IRAN, SI NÉCESSAIRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:02",
+      "date": "12/05",
+      "timestamp": 1778590928
+    },
+    {
+      "id": "BFMTV_1778590928",
+      "source": "BFMTV",
+      "text": "PETE HEGSETH: \"NOUS AVONS UN PLAN POUR INTENSIFIER NOS ACTIONS, SI NÉCESSAIRE\" CONTRE L'IRAN",
       "urgent": true,
       "france_related": false,
       "time": "13:02",
@@ -871,136 +1001,6 @@
       "time": "14:57",
       "date": "11/05",
       "timestamp": 1778511421
-    },
-    {
-      "id": "BFMTV_1778511421",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:57",
-      "date": "11/05",
-      "timestamp": 1778511421
-    },
-    {
-      "id": "BFMTV_1778511420",
-      "source": "BFMTV",
-      "text": "L'UNION EUROPÉENNE SANCTIONNE DES COLONS EXTRÉMISTES ISRAÉLIENS POUR DES VIOLENCES EN CISJORDANIE, ISRAËL DÉNONCE UNE DÉCISION \"ARBITRAIRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:57",
-      "date": "11/05",
-      "timestamp": 1778511420
-    },
-    {
-      "id": "BFMTV_1778511226",
-      "source": "BFMTV",
-      "text": "LA FRANCE VA FACILITER LA RESTITUTION DES ŒUVRES PILLÉES PENDANT LA COLONISATION",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:53",
-      "date": "11/05",
-      "timestamp": 1778511226
-    },
-    {
-      "id": "BFMTV_1778511053",
-      "source": "BFMTV",
-      "text": "SOMMET DE NAIROBI: EMMANUEL MACRON ANNONCE 23 MILLIARDS D'EUROS D'INVESTISSEMENTS FRANÇAIS ET AFRICAINS EN AFRIQUE",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:50",
-      "date": "11/05",
-      "timestamp": 1778511053
-    },
-    {
-      "id": "BFMTV_1778510895",
-      "source": "BFMTV",
-      "text": "CANADA: UNE MOTO RESTE SUSPENDUE À UN FEU DE SIGNALISATION APRÈS UN ACCIDENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:48",
-      "date": "11/05",
-      "timestamp": 1778510895
-    },
-    {
-      "id": "BFMTV_1778510635",
-      "source": "BFMTV",
-      "text": "UKRAINE : \"LA DYNAMIQUE DE LA GUERRE CHANGE\", EN FAVEUR DE KIEV, ASSURE L'UE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:43",
-      "date": "11/05",
-      "timestamp": 1778510635
-    },
-    {
-      "id": "BFMTV_1778510630",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP \"ENVISAGE DE RELANCER LE PROJET LIBERTÉ\" DANS LE DÉTROIT D'OMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:43",
-      "date": "11/05",
-      "timestamp": 1778510630
-    },
-    {
-      "id": "OPEX360_1778510190",
-      "source": "OPEX360",
-      "text": "LETTONIE : UN COLONEL A ÉTÉ NOMMÉ À LA TÊTE DU MINISTÈRE DE LA DÉFENSE POUR RENFORCER LA LUTTE ANTIDRONE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:36",
-      "date": "11/05",
-      "timestamp": 1778510190
-    },
-    {
-      "id": "OPEX360_1778510190",
-      "source": "OPEX360",
-      "text": "LETTONIE : UN COLONEL A ÉTÉ NOMMÉ MINISTRE DE LA DÉFENSE POUR RENFORCER LA LUTTE ANTIDRONE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:36",
-      "date": "11/05",
-      "timestamp": 1778510190
-    },
-    {
-      "id": "BFMTV_1778510139",
-      "source": "BFMTV",
-      "text": "MALGRÉ LES TENSIONS DANS LE DÉTROIT D'ORMUZ, TROIS PÉTROLIERS ONT PU TRAVERSER ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:35",
-      "date": "11/05",
-      "timestamp": 1778510139
-    },
-    {
-      "id": "BFMTV_1778510062",
-      "source": "BFMTV",
-      "text": "ENFANTS UKRAINIENS TRANSFÉRÉS DE FORCE: L'UE ANNONCE DES SANCTIONS CONTRE DES RESPONSABLES RUSSES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:34",
-      "date": "11/05",
-      "timestamp": 1778510062
-    },
-    {
-      "id": "BFMTV_1778508520",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: DES MILITAIRES BRITANNIQUES DÉPLOYÉS SUR L'UNE DES ÎLES LES PLUS ISOLÉES DU MONDE POUR PORTER ASSISTANCE À UN HOMME",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:08",
-      "date": "11/05",
-      "timestamp": 1778508520
-    },
-    {
-      "id": "BFMTV_1778507812",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: SÉBASTIEN LECORNU VA RECEVOIR À MATIGNON DES ÉPIDÉMIOLOGISTES POUR FAIRE LE POINT SUR LA SITUATION (INFO BFMTV)",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:56",
-      "date": "11/05",
-      "timestamp": 1778507812
     }
   ],
   "france": {
