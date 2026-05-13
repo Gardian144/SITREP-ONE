@@ -1,7 +1,97 @@
 {
-  "last_update": "13/05 17:33",
+  "last_update": "13/05 19:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778699938",
+      "source": "BFMTV",
+      "text": "SELON LE GÉNÉRAL JEAN-PAUL PALOMÉROS, C’EST UNE GUERRE “DIFFICILE À GÉRER, MÊME POUR CELUI QUI A L’AVANTAGE TECHNOLOGIQUE”",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:18",
+      "date": "13/05",
+      "timestamp": 1778699938
+    },
+    {
+      "id": "BFMTV_1778699294",
+      "source": "BFMTV",
+      "text": "DÉTROIT D’ORMUZ: LA FRANCE VA ENVOYER SES HÉLICOPTÈRES TIGRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:08",
+      "date": "13/05",
+      "timestamp": 1778699294
+    },
+    {
+      "id": "BFMTV_1778699245",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: LES CAS CONTACTS FRANÇAIS NE PRÉSENTENT AUCUN SYMPTÔME, LES QUATRE ENFANTS TESTÉS NÉGATIFS",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:07",
+      "date": "13/05",
+      "timestamp": 1778699245
+    },
+    {
+      "id": "BFMTV_1778698829",
+      "source": "BFMTV",
+      "text": "IRAN: LES PAYS DU GOLFE PRÊTS À ENTRER EN GUERRE ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:00",
+      "date": "13/05",
+      "timestamp": 1778698829
+    },
+    {
+      "id": "BFMTV_1778698218",
+      "source": "BFMTV",
+      "text": "LE RENSEIGNEMENT AMÉRICAIN ESTIME QUE L’IRAN A CONSERVÉ D’IMPORTANTES CAPACITÉS DE MISSILES, SELON LE NEW YORK TIMES",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:50",
+      "date": "13/05",
+      "timestamp": 1778698218
+    },
+    {
+      "id": "BFMTV_1778697733",
+      "source": "BFMTV",
+      "text": "UN DEUXIÈME SOUS-MARIN NUCLÉAIRE AMÉRICAIN APERÇU EN 48 HEURES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:42",
+      "date": "13/05",
+      "timestamp": 1778697733
+    },
+    {
+      "id": "BFMTV_1778696974",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: ACCUSÉE D'ÊTRE ESPIONNE POUR LA CHINE, UNE MAIRE AMÉRICAINE DÉMISSIONNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:29",
+      "date": "13/05",
+      "timestamp": 1778696974
+    },
+    {
+      "id": "BFMTV_1778694422",
+      "source": "BFMTV",
+      "text": "À BUCAREST POUR ÉVOQUER LA GUERRE EN UKRAINE, LE CHEF DE L'OTAN MARK RUTTE PLAIDE POUR \"UNE EUROPE PLUS FORTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:47",
+      "date": "13/05",
+      "timestamp": 1778694422
+    },
+    {
+      "id": "BFMTV_1778694363",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: L'AGENCE MARITIME DE L'ONU ASSURE SUIVRE LES NÉGOCIATIONS PROPOSÉES PAR LA FRANCE ET LE ROYAUME-UNI",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:46",
+      "date": "13/05",
+      "timestamp": 1778694363
+    },
     {
       "id": "BFMTV_1778693004",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "17:09",
       "date": "12/05",
       "timestamp": 1778605783
-    },
-    {
-      "id": "BFMTV_1778603270",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:27",
-      "date": "12/05",
-      "timestamp": 1778603270
-    },
-    {
-      "id": "OPEX360_1778602251",
-      "source": "OPEX360",
-      "text": "L’AUTRICHE A FAIT DÉCOLLER DES EUROFIGHTER POUR INTERCEPTER DES AVIONS U-28A AMÉRICAINS NON AUTORISÉS DANS SON ESPACE AÉRIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:10",
-      "date": "12/05",
-      "timestamp": 1778602251
-    },
-    {
-      "id": "OPEX360_1778602251",
-      "source": "OPEX360",
-      "text": "L’AUTRICHE A FAIT DÉCOLLER DES EUROFIGHTER POUR INTERCEPTER DES AVIONS U-28A AMÉRICAINS NON AUTORISÉS DANS SON ESPACE AÉRIEN [MÀJ]",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:10",
-      "date": "12/05",
-      "timestamp": 1778602251
-    },
-    {
-      "id": "BFMTV_1778601122",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: LA MINISTRE DE LA SANTÉ INDIQUE QUE \"DES ENFANTS\" SE TROUVENT PARMI LES CAS CONTACT EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:52",
-      "date": "12/05",
-      "timestamp": 1778601122
-    },
-    {
-      "id": "BFMTV_1778600831",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: \"ON NE CONNAÎT PAS LES FACTEURS DE RISQUE DE GRAVITÉ\", INDIQUE LE PR XAVIER LESCURE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:47",
-      "date": "12/05",
-      "timestamp": 1778600831
-    },
-    {
-      "id": "BFMTV_1778598462",
-      "source": "BFMTV",
-      "text": "\"CES FONDS IRONT DIRECTEMENT AUX DRONES\": L'UKRAINE RECEVRA EN JUIN LE PREMIER VERSEMENT DE SON PRÊT DE 90 MILLIARDS, ANNONCE BRUXELLES",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:07",
-      "date": "12/05",
-      "timestamp": 1778598462
-    },
-    {
-      "id": "OPEX360_1778596433",
-      "source": "OPEX360",
-      "text": "LE CONTRE-ESPIONNAGE MILITAIRE FRANÇAIS NOTE UNE HAUSSE DES ATTEINTES PHYSIQUES CONTRE LES EMPRISES DE LA DÉFENSE",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:33",
-      "date": "12/05",
-      "timestamp": 1778596433
-    },
-    {
-      "id": "BFMTV_1778595710",
-      "source": "BFMTV",
-      "text": "LE QATAR DÉNONCE LE \"CHANTAGE\" IRANIEN CONCERNANT LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:21",
-      "date": "12/05",
-      "timestamp": 1778595710
-    },
-    {
-      "id": "BFMTV_1778595559",
-      "source": "BFMTV",
-      "text": "SABLE ROUGE, PLAGE ROUGE ... LES IMAGES DE PROPAGANDE IRANIENNE CONCERNANT LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:19",
-      "date": "12/05",
-      "timestamp": 1778595559
     }
   ],
   "france": {
