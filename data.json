@@ -1,7 +1,147 @@
 {
-  "last_update": "13/05 04:06",
+  "last_update": "13/05 07:26",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778657051",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: HUIT CAS CONTACT RAPATRIÉS À PARIS POUR LEUR QUARANTAINE EN RAISON D'UN NIVEAU DE RISQUE PLUS IMPORTANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:24",
+      "date": "13/05",
+      "timestamp": 1778657051
+    },
+    {
+      "id": "BFMTV_1778656035",
+      "source": "BFMTV",
+      "text": "LIBAN: DEUX FRAPPES DE DRONE ONT VISÉ DES VÉHICULES SUR UNE AUTOROUTE RELIANT BEYROUTH AU SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:07",
+      "date": "13/05",
+      "timestamp": 1778656035
+    },
+    {
+      "id": "BFMTV_1778655561",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE GÉNÉRAL JEAN-PAUL PALOMÉROS ESTIME \"PROBABLE QUE LA GUERRE REDÉMARRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:59",
+      "date": "13/05",
+      "timestamp": 1778655561
+    },
+    {
+      "id": "BFMTV_1778654981",
+      "source": "BFMTV",
+      "text": "JEAN-PAUL PALOMÉROS, ANCIEN CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE L'AIR: \"IL NE FAUT PAS LAISSER L'IRAN RESPIRER\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:49",
+      "date": "13/05",
+      "timestamp": 1778654981
+    },
+    {
+      "id": "BFMTV_1778654646",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES DES ÉMIRATS ARABES UNIS ET DE L'ARABIE SAOUDITE SUR L'IRAN? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:44",
+      "date": "13/05",
+      "timestamp": 1778654646
+    },
+    {
+      "id": "BFMTV_1778654569",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"L'HEURE DE VÉRITÉ VA S'APPROCHER\", ESTIME JEAN-PAUL PALOMÉROS, ANCIEN CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE L'AIR",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:42",
+      "date": "13/05",
+      "timestamp": 1778654569
+    },
+    {
+      "id": "BFMTV_1778652978",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS/IRAN: UN DEUXIÈME SOUS-MARIN NUCLÉAIRE AMÉRICAIN REPÉRÉ DANS LE DÉTROIT DE GIBRALTAR",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:16",
+      "date": "13/05",
+      "timestamp": 1778652978
+    },
+    {
+      "id": "BFMTV_1778650567",
+      "source": "BFMTV",
+      "text": "L'ANCIEN BRAS DROIT DE VOLODYMYR ZELENSKY NIE LES ACCUSATIONS DE CORRUPTION QU'IL JUGE \"INFONDÉES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:36",
+      "date": "13/05",
+      "timestamp": 1778650567
+    },
+    {
+      "id": "BFMTV_1778650105",
+      "source": "BFMTV",
+      "text": "ORMUZ: \"LE PORTE-AVIONS PEUT FÉDÉRER LA FORCE DE LA COALITION\", SELON LE GÉNÉRAL PELLISTRANDI",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:28",
+      "date": "13/05",
+      "timestamp": 1778650105
+    },
+    {
+      "id": "BFMTV_1778649466",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: EN CAS DE REPRISE DES COMBATS, LES ÉTATS-UNIS LANCERAIENT L'OPÉRATION \"MARTEAU DE FER\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:17",
+      "date": "13/05",
+      "timestamp": 1778649466
+    },
+    {
+      "id": "BFMTV_1778648340",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU SUD-LIBAN, ILS CONTINUENT DE CULTIVER LES CHAMPS SOUS LES BOMBES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:59",
+      "date": "13/05",
+      "timestamp": 1778648340
+    },
+    {
+      "id": "BFMTV_1778648292",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: NOUVELLES NÉGOCIATIONS ENTRE AMBASSADEURS LIBANAIS ET ISRAÉLIENS, JEUDI À WASHINGTON",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:58",
+      "date": "13/05",
+      "timestamp": 1778648292
+    },
+    {
+      "id": "BFMTV_1778647802",
+      "source": "BFMTV",
+      "text": "IRAN: LES ÉTATS-UNIS \"N'ONT PAS BESOIN D'AIDE\" FACE À L'IRAN, AFFIRME DONALD TRUMP ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:50",
+      "date": "13/05",
+      "timestamp": 1778647802
+    },
+    {
+      "id": "BFMTV_1778647754",
+      "source": "BFMTV",
+      "text": "LE BLOCUS DES PORTS IRANIENS PAR LA MARINE AMÉRICAINE PEUT-IL VRAIMENT FAIRE PLIER L'IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:49",
+      "date": "13/05",
+      "timestamp": 1778647754
+    },
     {
       "id": "BFMTV_1778644920",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "06:47",
       "date": "12/05",
       "timestamp": 1778568465
-    },
-    {
-      "id": "BFMTV_1778568273",
-      "source": "BFMTV",
-      "text": "7-OCTOBRE: UN RAPPORT ISRAÉLIEN ACCUSE LE HAMAS DE VIOLENCES SEXUELLES \"SYSTÉMATIQUES\" ET \"À GRANDE ÉCHELLE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:44",
-      "date": "12/05",
-      "timestamp": 1778568273
-    },
-    {
-      "id": "BFMTV_1778568273",
-      "source": "BFMTV",
-      "text": "ATTAQUES DU 7 OCTOBRE 2023 DU HAMAS CONTRE ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:44",
-      "date": "12/05",
-      "timestamp": 1778568273
-    },
-    {
-      "id": "BFMTV_1778567978",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN SE DIT PRÊT À \"DONNER UNE LEÇON\" EN CAS DE NOUVELLE AGRESSION DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:39",
-      "date": "12/05",
-      "timestamp": 1778567978
-    },
-    {
-      "id": "BFMTV_1778562056",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: JUSTE AVANT LE CESSEZ-LE-FEU, LE PAKISTAN A ACCEPTÉ LE STATIONNEMENT DE QUELQUES AVIONS MILITAIRES IRANIENS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:00",
-      "date": "12/05",
-      "timestamp": 1778562056
-    },
-    {
-      "id": "BFMTV_1778561778",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA FRANCE ET LE ROYAUME-UNI CO-PRÉSIDENT UNE RÉUNION AVEC UNE QUARANTAINE DE LEURS HOMOLOGUES POUR TENTER DE SÉCURISER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:56",
-      "date": "12/05",
-      "timestamp": 1778561778
-    },
-    {
-      "id": "BFMTV_1778561745",
-      "source": "BFMTV",
-      "text": "L'IRAN EXÉCUTE UN ÉTUDIANT ACCUSÉ D'ESPIONNAGE POUR LE MOSSAD ET LA CIA",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:55",
-      "date": "12/05",
-      "timestamp": 1778561745
-    },
-    {
-      "id": "BFMTV_1778561139",
-      "source": "BFMTV",
-      "text": "APRÈS LA RÉPONSE DES IRANIENS AU PLAN DE PAIX AMÉRICAIN POUR METTRE UN TERME À LA GUERRE AU MOYEN-ORIENT, DONALD TRUMP LAISSE ÉCLATER SA COLÈRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:45",
-      "date": "12/05",
-      "timestamp": 1778561139
-    },
-    {
-      "id": "BFMTV_1778561116",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: UN PASSAGER ESPAGNOL DU MV HONDIUS TESTÉ POSITIF SANS PRÉSENTER DE SYMPTÔMES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:45",
-      "date": "12/05",
-      "timestamp": 1778561116
-    },
-    {
-      "id": "BFMTV_1778560613",
-      "source": "BFMTV",
-      "text": "\"DES EXAMENS DE ROUTINE\": DONALD TRUMP VA SE SOUMETTRE À UN BILAN DE SANTÉ LE 26 MAI PROCHAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:36",
-      "date": "12/05",
-      "timestamp": 1778560613
-    },
-    {
-      "id": "BFMTV_1778560461",
-      "source": "BFMTV",
-      "text": "LE BRIEF DU GÉNÉRAL - GUERRE AU MOYEN-ORIENT: LE SOUS-MARIN NUCLÉAIRE USS ALASKA APERÇU DANS LE DÉTROIT DE GIBRALTAR ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:34",
-      "date": "12/05",
-      "timestamp": 1778560461
-    },
-    {
-      "id": "BFMTV_1778559915",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ESTIME QUE LA TRÊVE AVEC L'IRAN EST \"SOUS ASSISTANCE RESPIRATOIRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:25",
-      "date": "12/05",
-      "timestamp": 1778559915
-    },
-    {
-      "id": "BFMTV_1778558539",
-      "source": "BFMTV",
-      "text": "DU SOLEIL SUR TOUTE LA FRANCE SAUF QUELQUES ORAGES DANS LE SUD-OUEST, AVEC DES TEMPÉRATURES COMPRISES ENTRE 13°C ET 25°C... LA MÉTÉO DE CE MARDI 12 MAI",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:02",
-      "date": "12/05",
-      "timestamp": 1778558539
-    },
-    {
-      "id": "BFMTV_1778538319",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LE PERSONNEL D'UN HÔPITAL NÉERLANDAIS TRAITANT UN MALADE MIS EN QUARANTAINE APRÈS DES ERREURS DE PROCÉDURE",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:25",
-      "date": "11/05",
-      "timestamp": 1778538319
-    },
-    {
-      "id": "BFMTV_1778537013",
-      "source": "BFMTV",
-      "text": "\"J'ATTENDS AVEC IMPATIENCE MON VOYAGE EN CHINE. DE GRANDES CHOSES VONT SE PASSER POUR LES DEUX PAYS\", DÉCLARE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:03",
-      "date": "11/05",
-      "timestamp": 1778537013
     }
   ],
   "france": {
