@@ -1,7 +1,127 @@
 {
-  "last_update": "13/05 07:26",
+  "last_update": "13/05 10:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778666455",
+      "source": "BFMTV",
+      "text": "DIRECT. HANTAVIRUS: \"AUCUNE RAISON DE PORTER UN MASQUE\" ACTUELLEMENT, ASSURE LA MINISTRE DE LA SANTÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:00",
+      "date": "13/05",
+      "timestamp": 1778666455
+    },
+    {
+      "id": "BFMTV_1778665273",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: JEAN-PAUL PALOMÉROS, ANCIEN CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE L'AIR, ESTIME \"PROBABLE QUE LA GUERRE REDÉMARRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:41",
+      "date": "13/05",
+      "timestamp": 1778665273
+    },
+    {
+      "id": "BFMTV_1778663147",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - \"PROJET LIBERTÉ\" DE DONALD TRUMP: LES COULISSES D'UN FIASCO",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:05",
+      "date": "13/05",
+      "timestamp": 1778663147
+    },
+    {
+      "id": "BFMTV_1778662061",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'AIE ALERTE SUR LES STOCKS MONDIAUX DE PÉTROLE QUI S'ÉPUISENT \"À UN RYTHME RECORD\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:47",
+      "date": "13/05",
+      "timestamp": 1778662061
+    },
+    {
+      "id": "BFMTV_1778661991",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - L'ARSENAL IRANIEN RESTE LARGEMENT OPÉRATIONNEL SELON DES ÉVALUATIONS DU RENSEIGNEMENT AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:46",
+      "date": "13/05",
+      "timestamp": 1778661991
+    },
+    {
+      "id": "BFMTV_1778661790",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'INFLATION AU PLUS HAUT DEPUIS TROIS ANS AUX ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:43",
+      "date": "13/05",
+      "timestamp": 1778661790
+    },
+    {
+      "id": "BFMTV_1778661595",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"CES FRAPPES RÉPÉTÉES PAR ISRAËL CONTRE LE HEZBOLLAH NE FONT QUE FRAGILISER LE LIBAN\", JUGE LE CONTRE-AMIRAL BERTRAND DE LIGNIÈRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:39",
+      "date": "13/05",
+      "timestamp": 1778661595
+    },
+    {
+      "id": "BFMTV_1778661145",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POUR LE GÉNÉRAL JEAN-PAUL PALOMÉROS, \"IL EST PROBABLE QUE LA GUERRE REDÉMARRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:32",
+      "date": "13/05",
+      "timestamp": 1778661145
+    },
+    {
+      "id": "BFMTV_1778661040",
+      "source": "BFMTV",
+      "text": "MISSION DE SÉCURISATION DU DÉTROIT D'ORMUZ: \"LA FRANCE PROPOSE DE FAIRE QUELQUE CHOSE QUI PRIVE L'IRAN DE L'UN DE SES DEUX LEVIERS ESSENTIELS\", ANALYSE FRANÇOIS CLEMENCEAU",
+      "urgent": true,
+      "france_related": true,
+      "time": "08:30",
+      "date": "13/05",
+      "timestamp": 1778661040
+    },
+    {
+      "id": "BFMTV_1778660680",
+      "source": "BFMTV",
+      "text": "PIÉTON PERCUTÉ PAR UN AVION SUR L'AÉROPORT DE DENVER: LES AUTORITÉS AMÉRICAINES CONCLUENT QU'IL S'AGIT D'UN SUICIDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:24",
+      "date": "13/05",
+      "timestamp": 1778660680
+    },
+    {
+      "id": "BFMTV_1778660597",
+      "source": "BFMTV",
+      "text": "L'ÉCHANGE TENDU ENTRE LE DIRECTEUR DU FBI, ACCUSÉ DE CONSOMMATION EXCESSIVE D'ALCOOL, ET UN SÉNATEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:23",
+      "date": "13/05",
+      "timestamp": 1778660597
+    },
+    {
+      "id": "BFMTV_1778657358",
+      "source": "BFMTV",
+      "text": "L'ARABIE SAOUDITE ET LES ÉMIRATS ARABES UNIS ONT MENÉ DES FRAPPES SECRÈTES CONTRE L'IRAN FIN MARS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:29",
+      "date": "13/05",
+      "timestamp": 1778657358
+    },
     {
       "id": "BFMTV_1778657051",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "09:15",
       "date": "12/05",
       "timestamp": 1778577309
-    },
-    {
-      "id": "BFMTV_1778576177",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: SÉBASTIEN LECORNU APPELLE À \"RENFORCER LA COOPÉRATION AVEC LES ÉTATS VOISINS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:56",
-      "date": "12/05",
-      "timestamp": 1778576177
-    },
-    {
-      "id": "BFMTV_1778575946",
-      "source": "BFMTV",
-      "text": "QUEL PROGRAMME POUR DONALD TRUMP EN CHINE? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:52",
-      "date": "12/05",
-      "timestamp": 1778575946
-    },
-    {
-      "id": "BFMTV_1778575250",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LE PATRON DE L'OMS \"ESPÈRE QUE LES PAYS SUIVRONT SES CONSEILS ET RECOMMANDATIONS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:40",
-      "date": "12/05",
-      "timestamp": 1778575250
-    },
-    {
-      "id": "BFMTV_1778575147",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉMIRATS ARABES UNIS ONT MENÉ DES FRAPPES CONTRE L'IRAN EN AVRIL, SELON LE WALL STREET JOURNAL",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:39",
-      "date": "12/05",
-      "timestamp": 1778575147
-    },
-    {
-      "id": "BFMTV_1778574645",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: \"NOTRE TRAVAIL N'EST PAS TERMINÉ\", AVERTIT LE PATRON DE L'OMS APRÈS L'ÉVACUATION DU HONDIUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:30",
-      "date": "12/05",
-      "timestamp": 1778574645
-    },
-    {
-      "id": "BFMTV_1778574413",
-      "source": "BFMTV",
-      "text": "\"POUR LE MOMENT, IL N'Y A AUCUN SIGNE QUE NOUS ASSISTONS AU DÉBUT D'UNE ÉPIDÉMIE PLUS IMPORTANTE\" D'HANTAVIRUS, AFFIRME LE CHEF DE L'OMS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:26",
-      "date": "12/05",
-      "timestamp": 1778574413
-    },
-    {
-      "id": "BFMTV_1778574129",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: MAINTENIR SUR LE NAVIRE LES PASSAGERS PENDANT TOUTE LA PÉRIODE DE QUARANTAINE \"AURAIT ÉTÉ INHUMAIN ET INUTILE\", DÉCLARE LE CHEF DE L'OMS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:22",
-      "date": "12/05",
-      "timestamp": 1778574129
-    },
-    {
-      "id": "BFMTV_1778573330",
-      "source": "BFMTV",
-      "text": "POUR DONALD TRUMP, \"LA MAISON BLANCHE ÉTAIT UNE PORCHERIE\" AVANT LES RÉNOVATIONS QU'IL A FAIT EFFECTUER",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:08",
-      "date": "12/05",
-      "timestamp": 1778573330
-    },
-    {
-      "id": "BFMTV_1778572325",
-      "source": "BFMTV",
-      "text": "URSULA VON DER LEYEN ACCUSE LES ENTREPRISES DU NUMÉRIQUE DE \"TIRER PROFIT DE LA VULNÉRABILITÉ DES ENFANTS POUR CAPITALISER SUR LEURS PEURS ET LEURS MOMENTS DE DOUTE DE SOI\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:52",
-      "date": "12/05",
-      "timestamp": 1778572325
-    },
-    {
-      "id": "BFMTV_1778572234",
-      "source": "BFMTV",
-      "text": "L'UNION EUROPÉENNE ENVISAGE \"DE RETARDER L’ACCÈS AUX RÉSEAUX SOCIAUX\" AUX MINEURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:50",
-      "date": "12/05",
-      "timestamp": 1778572234
-    },
-    {
-      "id": "BFMTV_1778571084",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LE PROFESSEUR GILLES PIALOUX ESTIME QUE \"BEAUCOUP D'ÉLÉMENTS VONT CONTRE L'IDÉE D'UNE PANDÉMIE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:31",
-      "date": "12/05",
-      "timestamp": 1778571084
-    },
-    {
-      "id": "BFMTV_1778568465",
-      "source": "BFMTV",
-      "text": "DIRECT. HANTAVIRUS: UNE RÉUNION INTERMINISTÉRIELLE EST PRÉVUE À MATIGNON À 8H30 (INFO BFMTV)",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:47",
-      "date": "12/05",
-      "timestamp": 1778568465
     }
   ],
   "france": {
