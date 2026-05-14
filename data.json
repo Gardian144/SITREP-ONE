@@ -1,7 +1,57 @@
 {
-  "last_update": "14/05 17:13",
+  "last_update": "14/05 19:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778785101",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH DIT AVOIR UTILISÉ UN DRONE POUR VISER DES SOLDATS DANS LE NORD D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:58",
+      "date": "14/05",
+      "timestamp": 1778785101
+    },
+    {
+      "id": "BFMTV_1778784998",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN AVION PRIVÉ S'ÉCRASE EN MER, LES 11 PASSAGERS SECOURUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:56",
+      "date": "14/05",
+      "timestamp": 1778784998
+    },
+    {
+      "id": "BFMTV_1778783944",
+      "source": "BFMTV",
+      "text": "L'IRAN AFFIRME AVOIR DÉPLOYÉ DES SOUS-MARINS DE POCHE DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:39",
+      "date": "14/05",
+      "timestamp": 1778783944
+    },
+    {
+      "id": "BFMTV_1778782344",
+      "source": "BFMTV",
+      "text": "EGYPTAIR: DIX ANS APRÈS LE CRASH, LE PARQUET DE PARIS DEMANDE UN NON-LIEU GÉNÉRAL",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:12",
+      "date": "14/05",
+      "timestamp": 1778782344
+    },
+    {
+      "id": "BFMTV_1778780472",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP EN CHINE: \"CETTE RENCONTRE EST PERÇUE COMME UN 'BUSINESS DEAL' PLUS QU'UNE AFFAIRE DIPLOMATIQUE\", ESTIME GILLES KEPEL",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:41",
+      "date": "14/05",
+      "timestamp": 1778780472
+    },
     {
       "id": "BFMTV_1778778374",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "17:47",
       "date": "13/05",
       "timestamp": 1778694422
-    },
-    {
-      "id": "BFMTV_1778694363",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: L'AGENCE MARITIME DE L'ONU ASSURE SUIVRE LES NÉGOCIATIONS PROPOSÉES PAR LA FRANCE ET LE ROYAUME-UNI",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:46",
-      "date": "13/05",
-      "timestamp": 1778694363
-    },
-    {
-      "id": "BFMTV_1778693004",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN ACCUSE LE KOWEÏT D'AVOIR ATTAQUÉ UN BATEAU IRANIEN ET \"DIT AVOIR LE DROIT DE RIPOSTER\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:23",
-      "date": "13/05",
-      "timestamp": 1778693004
-    },
-    {
-      "id": "BFMTV_1778692873",
-      "source": "BFMTV",
-      "text": "EN ETHIOPIE, EMMANUEL MACRON RÉAFFIRME SON ATTACHEMENT AU MULTILATÉRALISME",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:21",
-      "date": "13/05",
-      "timestamp": 1778692873
-    },
-    {
-      "id": "OPEX360_1778692526",
-      "source": "OPEX360",
-      "text": "NAVAL GROUP A LIVRÉ DES PROTOTYPES DE «RUCHES» POUR ESSAIMS DE DRONES AU 1ER RÉGIMENT D’INFANTERIE DE MARINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:15",
-      "date": "13/05",
-      "timestamp": 1778692526
-    },
-    {
-      "id": "BFMTV_1778692177",
-      "source": "BFMTV",
-      "text": "L'UE N'INTERDIRA PAS LES THÉRAPIES DE CONVERSION DES PERSONNES LGBT+ MAIS VEUT ENCOURAGER LES ÉTATS À LE FAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:09",
-      "date": "13/05",
-      "timestamp": 1778692177
     }
   ],
   "france": {
