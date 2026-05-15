@@ -1,7 +1,127 @@
 {
-  "last_update": "15/05 16:26",
+  "last_update": "15/05 18:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778867959",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:59",
+      "date": "15/05",
+      "timestamp": 1778867959
+    },
+    {
+      "id": "BFMTV_1778867478",
+      "source": "BFMTV",
+      "text": "MADE IN MONTEBOURG - “LES DATACENTERS ORBITAUX CE N’EST PLUS DU TOUT DE LA SCIENCE FICTION, ÇA VA ARRIVER”, ANNONCE EMERIC LHOMME, PDG ET FONDATEUR D’ALATYR",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:51",
+      "date": "15/05",
+      "timestamp": 1778867478
+    },
+    {
+      "id": "BFMTV_1778867255",
+      "source": "BFMTV",
+      "text": "UNE INFLUENCEUSE AMÉRICAINE \"MAGA\" INCULPÉE POUR UNE AGRESSION À LONDRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:47",
+      "date": "15/05",
+      "timestamp": 1778867255
+    },
+    {
+      "id": "OPEX360_1778866826",
+      "source": "OPEX360",
+      "text": "UNE VEDETTE DE LA GUARDIA CIVIL ESPAGNOLE S’EST APPROCHÉE À VIVE ALLURE D’UN SOUS-MARIN BRITANNIQUE À GIBRALTAR",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:40",
+      "date": "15/05",
+      "timestamp": 1778866826
+    },
+    {
+      "id": "BFMTV_1778865194",
+      "source": "BFMTV",
+      "text": "MADE IN MONTEBOURG - “LES CHINOIS ONT MONTRÉ À DONALD TRUMP QU’ILS ÉTAIENT LES PATRONS”, ESTIME L’ANCIEN MINISTRE DE L’ÉCONOMIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:13",
+      "date": "15/05",
+      "timestamp": 1778865194
+    },
+    {
+      "id": "BFMTV_1778864545",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH DIT AVOIR ATTAQUÉ L'ARMÉE ISRAÉLIENNE DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:02",
+      "date": "15/05",
+      "timestamp": 1778864545
+    },
+    {
+      "id": "BFMTV_1778864175",
+      "source": "BFMTV",
+      "text": "LIBAN: L'ARMÉE ISRAÉLIENNE CONTINUE DE MENER DES FRAPPES CONTRE LE HEZBOLLAH DANS LA RÉGION DE TYR",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:56",
+      "date": "15/05",
+      "timestamp": 1778864175
+    },
+    {
+      "id": "BFMTV_1778863928",
+      "source": "BFMTV",
+      "text": "IRAN: “NOTRE MISSION N’EST PAS ENCORE TERMINÉE”, DÉCLARE ISRAËL KATZ, MINISTRE ISRAÉLIEN DE LA DÉFENSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:52",
+      "date": "15/05",
+      "timestamp": 1778863928
+    },
+    {
+      "id": "BFMTV_1778863917",
+      "source": "BFMTV",
+      "text": "LA SYRIE APPELLE À NE PAS LAISSER LES DIFFICULTÉS ACTUELLES OCCULTER LES RÉALISATIONS \"PRESQUE MIRACULEUSES\" DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:51",
+      "date": "15/05",
+      "timestamp": 1778863917
+    },
+    {
+      "id": "BFMTV_1778863856",
+      "source": "BFMTV",
+      "text": "LES AUTORITÉS SANITAIRES ANNONCENT UNE NOUVELLE ÉPIDÉMIE D'EBOLA EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:50",
+      "date": "15/05",
+      "timestamp": 1778863856
+    },
+    {
+      "id": "BFMTV_1778863347",
+      "source": "BFMTV",
+      "text": "DÉTROIT D’ORMUZ: DONALD TRUMP AFFIRME QU'IL \"N'A PAS AIMÉ LA PREMIÈRE PHRASE\" DE LA PROPOSITION IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:42",
+      "date": "15/05",
+      "timestamp": 1778863347
+    },
+    {
+      "id": "BFMTV_1778862586",
+      "source": "BFMTV",
+      "text": "UN ADOLESCENT PALESTINIEN DE 15 ANS TUÉ PAR DES SOLDATS ISRAÉLIENS EN CISJORDANIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:29",
+      "date": "15/05",
+      "timestamp": 1778862586
+    },
     {
       "id": "OPEX360_1778861237",
       "source": "OPEX360",
@@ -881,126 +1001,6 @@
       "time": "15:47",
       "date": "14/05",
       "timestamp": 1778773626
-    },
-    {
-      "id": "BFMTV_1778770232",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS 3 BLESSÉS DONT 1 GRAVE EN ISRAËL DANS UNE ATTAQUE AU DRONE DU HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:50",
-      "date": "14/05",
-      "timestamp": 1778770232
-    },
-    {
-      "id": "BFMTV_1778769823",
-      "source": "BFMTV",
-      "text": "IRAN: DES CITOYENS ENTRÉS EN RÉSISTANCE CONTRE LE RÉGIME ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:43",
-      "date": "14/05",
-      "timestamp": 1778769823
-    },
-    {
-      "id": "BFMTV_1778769757",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE NAVIRE ARRAISONNÉ AU LARGE DES ÉMIRATS ARABES UNIS ÉTAIT AU MOUILLAGE AU SUD DU DÉTROIT D'ORMUZ ET SE DIRIGEAIT VERS LES EAUX TERRITORIALES IRANIENNES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:42",
-      "date": "14/05",
-      "timestamp": 1778769757
-    },
-    {
-      "id": "BFMTV_1778767163",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DE NOUVELLES NÉGOCIATIONS ENTRE ISRAËL ET LE LIBAN S'OUVRENT À WASHINGTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:59",
-      "date": "14/05",
-      "timestamp": 1778767163
-    },
-    {
-      "id": "BFMTV_1778766914",
-      "source": "BFMTV",
-      "text": "PLUS DE 1.500 DRONES, AU MOINS 11 MORTS ET DES DIZAINES DE BLESSÉS... CE QUE L'ON SAIT DES ATTAQUES RUSSES SUCCESSIVES EN UKRAINE DEPUIS 48 HEURES",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:55",
-      "date": "14/05",
-      "timestamp": 1778766914
-    },
-    {
-      "id": "BFMTV_1778765013",
-      "source": "BFMTV",
-      "text": "LE MINISTRE DE LA SANTÉ BRITANNIQUE, WES STREETING, ANNONCE SA DÉMISSION SUR FOND DE CRISE POLITIQUE AU ROYAUME-UNI",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:23",
-      "date": "14/05",
-      "timestamp": 1778765013
-    },
-    {
-      "id": "BFMTV_1778764635",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LE PENTAGONE ANNONCE QUE 70 NAVIRES ONT ÉTÉ REDIRIGÉS DEPUIS LE DÉBUT DU BLOCUS AMÉRICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:17",
-      "date": "14/05",
-      "timestamp": 1778764635
-    },
-    {
-      "id": "BFMTV_1778762994",
-      "source": "BFMTV",
-      "text": "AU SUD DU LIBAN, L'ARMÉE ISRAÉLIENNE POURSUIT SES FRAPPES CONTRE LE HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:49",
-      "date": "14/05",
-      "timestamp": 1778762994
-    },
-    {
-      "id": "BFMTV_1778762723",
-      "source": "BFMTV",
-      "text": "VISITE EN CHINE: DONALD TRUMP SORT DU BANQUET AVEC XI JINPING",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:45",
-      "date": "14/05",
-      "timestamp": 1778762723
-    },
-    {
-      "id": "BFMTV_1778761054",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - POURQUOI TAÏWAN EST UN POINT CENTRAL DANS LA RELATION CHINE/ÉTATS-UNIS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:17",
-      "date": "14/05",
-      "timestamp": 1778761054
-    },
-    {
-      "id": "BFMTV_1778760363",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP CONVIE XI JINPING À WASHINGTON EN SEPTEMBRE POUR UNE VISITE D'ÉTAT",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:06",
-      "date": "14/05",
-      "timestamp": 1778760363
-    },
-    {
-      "id": "BFMTV_1778760194",
-      "source": "BFMTV",
-      "text": "DE VIOLENTS ORAGES FONT 89 MORTS ET 53 BLESSÉS DANS L'ÉTAT DE L'UTTAR PRADESH EN INDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:03",
-      "date": "14/05",
-      "timestamp": 1778760194
     }
   ],
   "france": {
