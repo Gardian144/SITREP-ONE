@@ -1,7 +1,37 @@
 {
-  "last_update": "15/05 19:53",
+  "last_update": "15/05 20:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778876319",
+      "source": "BFMTV",
+      "text": "“AUJOURD’HUI DONALD TRUMP N’EST PAS CRÉDIBLE AUX ÉTATS-UNIS”, ESTIME DANIEL COHN-BENDIT, ANCIEN DÉPUTÉ EUROPÉEN ÉCOLOGISTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:18",
+      "date": "15/05",
+      "timestamp": 1778876319
+    },
+    {
+      "id": "BFMTV_1778876088",
+      "source": "BFMTV",
+      "text": "EUROVISION 2026: UN CONCERT PRO-PALESTINE ORGANISÉ À VIENNE CONTRE LA PRÉSENCE D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:14",
+      "date": "15/05",
+      "timestamp": 1778876088
+    },
+    {
+      "id": "BFMTV_1778875458",
+      "source": "BFMTV",
+      "text": "DÉTROIT D’ORMUZ: “JE DIRAIS PRESQUE QUE L’IRAN A GAGNÉ SUR CETTE QUESTION DE PÉAGE”, EXPLIQUE OLIVIER LASMOLES, OFFICIER DE RÉSERVE OPÉRATIONNELLE DE LA MARINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:04",
+      "date": "15/05",
+      "timestamp": 1778875458
+    },
     {
       "id": "BFMTV_1778874194",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "19:37",
       "date": "14/05",
       "timestamp": 1778787474
-    },
-    {
-      "id": "BFMTV_1778786711",
-      "source": "BFMTV",
-      "text": "“POUR LA PREMIÈRE FOIS, LA CHINE EST VRAIMENT L’ÉGALE DES ÉTATS-UNIS”, ESTIME ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:25",
-      "date": "14/05",
-      "timestamp": 1778786711
-    },
-    {
-      "id": "BFMTV_1778785101",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH DIT AVOIR UTILISÉ UN DRONE POUR VISER DES SOLDATS DANS LE NORD D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:58",
-      "date": "14/05",
-      "timestamp": 1778785101
-    },
-    {
-      "id": "BFMTV_1778784998",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN AVION PRIVÉ S'ÉCRASE EN MER, LES 11 PASSAGERS SECOURUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:56",
-      "date": "14/05",
-      "timestamp": 1778784998
     }
   ],
   "france": {
