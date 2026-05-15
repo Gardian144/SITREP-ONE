@@ -1,7 +1,57 @@
 {
-  "last_update": "15/05 00:10",
+  "last_update": "15/05 04:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778818500",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA CHINE RÉCLAME UN CESSEZ-LE-FEU DURABLE ET LA RÉOUVERTURE DU DÉTROIT D'ORMUZ \"DÈS QUE POSSIBLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:15",
+      "date": "15/05",
+      "timestamp": 1778818500
+    },
+    {
+      "id": "BFMTV_1778818329",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES AUTORITÉS INDIENNES DÉNONCENT L'ATTAQUE D'UN BATEAU AU LARGE DES CÔTES D'OMAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:12",
+      "date": "15/05",
+      "timestamp": 1778818329
+    },
+    {
+      "id": "BFMTV_1778818236",
+      "source": "BFMTV",
+      "text": "SOMMET CHINE- ÉTATS-UNIS: \"VOUS AVEZ DEUX PRÉSIDENTS QUI SE SONT PARLÉS, MAIS QUI NE SE SONT PAS ENTENDUS\", EXPLIQUE FRANÇOIS CLÉMENCEAU",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:10",
+      "date": "15/05",
+      "timestamp": 1778818236
+    },
+    {
+      "id": "BFMTV_1778818113",
+      "source": "BFMTV",
+      "text": "SOMMET CHINE-ÉTATS-UNIS: LES IMAGES DES DERNIERS ÉCHANGES ENTRE DONALD TRUMP ET XI JINPING AVANT LA CÉRÉMONIE DE DÉPART",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:08",
+      "date": "15/05",
+      "timestamp": 1778818113
+    },
+    {
+      "id": "BFMTV_1778816778",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: PÉKIN RÉCLAME UN CESSEZ-LE-FEU DURABLE ET LA RÉOUVERTURE DU DÉTROIT D'ORMUZ \"DÈS QUE POSSIBLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "03:46",
+      "date": "15/05",
+      "timestamp": 1778816778
+    },
     {
       "id": "BFMTV_1778797705",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "22:01",
       "date": "13/05",
       "timestamp": 1778709679
-    },
-    {
-      "id": "BFMTV_1778708556",
-      "source": "BFMTV",
-      "text": "DES ENTREPRISES CHINOISES PRÉPARENT DES VENTES SECRÈTES D’ARMES À L’IRAN, SELON LE NEW YORK TIMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:42",
-      "date": "13/05",
-      "timestamp": 1778708556
-    },
-    {
-      "id": "BFMTV_1778708144",
-      "source": "BFMTV",
-      "text": "IRAN: “EN QUELQUES SEMAINES, ILS PEUVENT AVOIR DE L’URANIUM ENRICHI À 90%”, ESTIME EMMANUELLE GALICHET, ENSEIGNANTE-CHERCHEUSE EN PHYSIQUE NUCLÉAIRE",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:35",
-      "date": "13/05",
-      "timestamp": 1778708144
-    },
-    {
-      "id": "BFMTV_1778707769",
-      "source": "BFMTV",
-      "text": "“DEPUIS LE DÉBUT DE CE CONFLIT, ON SOUS-ESTIME LES SERVICES DE RENSEIGNEMENT IRANIENS”, DÉCLARE BERTRAND VILMER, ANCIEN CHEF D’ÉTAT-MAJOR INTERARMÉES",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:29",
-      "date": "13/05",
-      "timestamp": 1778707769
-    },
-    {
-      "id": "BFMTV_1778707112",
-      "source": "BFMTV",
-      "text": "JD VANCE ANNONCE LA SUSPENSION DU REMBOURSEMENT D'UN MILLIARD DE DOLLARS DE MEDICAID À LA CALIFORNIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:18",
-      "date": "13/05",
-      "timestamp": 1778707112
-    },
-    {
-      "id": "BFMTV_1778706673",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP \"DISPOSE DE NOMBREUSES OPTIONS\" POUR EMPÊCHER L'IRAN D'AVOIR LA BOMBE NUCLÉAIRE, AFFIRME JD VANCE, VICE-PRÉSIDENT DES ÉTATS-UNIS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:11",
-      "date": "13/05",
-      "timestamp": 1778706673
     }
   ],
   "france": {
