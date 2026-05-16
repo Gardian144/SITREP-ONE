@@ -1,7 +1,67 @@
 {
-  "last_update": "16/05 13:59",
+  "last_update": "16/05 15:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778943175",
+      "source": "BFMTV",
+      "text": "AU MOINS HUIT MORTS ET UNE TRENTAINE DE BLESSÉS EN THAÏLANDE, APRÈS UNE COLLISION ENTRE UN TRAIN ET UN BUS À BANGKOK",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:52",
+      "date": "16/05",
+      "timestamp": 1778943175
+    },
+    {
+      "id": "BFMTV_1778942442",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP RÉPOND À BFMTV SUR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:40",
+      "date": "16/05",
+      "timestamp": 1778942442
+    },
+    {
+      "id": "BFMTV_1778942189",
+      "source": "BFMTV",
+      "text": "UN SECOURISTE MEURT EN TENTANT DE RETROUVER LES CINQ ITALIENS VICTIMES D'UN ACCIDENT DE PLONGÉE AUX MALDIVES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:36",
+      "date": "16/05",
+      "timestamp": 1778942189
+    },
+    {
+      "id": "BFMTV_1778940789",
+      "source": "BFMTV",
+      "text": "\"ILS ONT INTÉRÊT À CONCLURE UN ACCORD\": DONALD TRUMP RÉPOND À BFMTV SUR LES NÉGOCIATIONS AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:13",
+      "date": "16/05",
+      "timestamp": 1778940789
+    },
+    {
+      "id": "BFMTV_1778940599",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP RÉPOND À BFMTV: LES IRANIENS \"FERAIENT MIEUX DE CONCLURE UN ACCORD\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:09",
+      "date": "16/05",
+      "timestamp": 1778940599
+    },
+    {
+      "id": "BFMTV_1778939964",
+      "source": "BFMTV",
+      "text": "LIBAN: DES FRAPPES ISRAÉLIENNES MALGRÉ LA PROLONGATION DU CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:59",
+      "date": "16/05",
+      "timestamp": 1778939964
+    },
     {
       "id": "BFMTV_1778939770",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "12:00",
       "date": "15/05",
       "timestamp": 1778846403
-    },
-    {
-      "id": "BFMTV_1778846208",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"JE NE PEUX PAS VOUS DIRE SI NOUS ALLONS BOMBARDER\", AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:56",
-      "date": "15/05",
-      "timestamp": 1778846208
-    },
-    {
-      "id": "BFMTV_1778845852",
-      "source": "BFMTV",
-      "text": "INTELLIGENCE ARTIFICIELLE: \"NOUS SOMMES LARGEMENT DEVANT LA CHINE, MAIS ELLE EST DEUXIÈME\", AFFIRME DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:50",
-      "date": "15/05",
-      "timestamp": 1778845852
-    },
-    {
-      "id": "BFMTV_1778845740",
-      "source": "BFMTV",
-      "text": "VISITE DE DONALD TRUMP EN CHINE: \"NOUS N'AVONS PAS PARLÉ DES DROITS DE DOUANE\", INDIQUE LE PRÉSIDENT AMÉRICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:49",
-      "date": "15/05",
-      "timestamp": 1778845740
-    },
-    {
-      "id": "BFMTV_1778845600",
-      "source": "BFMTV",
-      "text": "\"UN CERTAIN CLIMAT SOCIAL S’Y EST SOUDAINEMENT DÉVELOPPÉ\": FRIEDRICH MERZ DÉCONSEILLE AUX JEUNES ALLEMANDS D'ALLER S'INSTALLER AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:46",
-      "date": "15/05",
-      "timestamp": 1778845600
-    },
-    {
-      "id": "BFMTV_1778845359",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"JE NE DEMANDE AUCUNE FAVEUR DES CHINOIS\", ASSURE DONALD TRUMP",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:42",
-      "date": "15/05",
-      "timestamp": 1778845359
-    },
-    {
-      "id": "BFMTV_1778845182",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"ILS NE PEUVENT PAS AVOIR D'ARME NUCLÉAIRE\", ASSURE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:39",
-      "date": "15/05",
-      "timestamp": 1778845182
     }
   ],
   "france": {
