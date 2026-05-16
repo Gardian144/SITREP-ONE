@@ -1,7 +1,67 @@
 {
-  "last_update": "16/05 09:58",
+  "last_update": "16/05 11:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778928360",
+      "source": "BFMTV",
+      "text": "\"C'ÉTAIT LE PONT LE PLUS HAUT DU MOYEN-ORIENT\": CNN SE REND SUR LE PONT IRANIEN DE KARAJ GRAVEMENT ENDOMMAGÉ PAR LES FRAPPES AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:46",
+      "date": "16/05",
+      "timestamp": 1778928360
+    },
+    {
+      "id": "BFMTV_1778928033",
+      "source": "BFMTV",
+      "text": "LES BIJOUX DE LA COURONNE: KOH-I-NOOR, LE \"DIAMANT MAUDIT\" DE LA FAMILLE ROYALE BRITANNIQUE AU COEUR D'UNE GUERRE DIPLOMATIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:40",
+      "date": "16/05",
+      "timestamp": 1778928033
+    },
+    {
+      "id": "BFMTV_1778927012",
+      "source": "BFMTV",
+      "text": "LA STRATÉGIE DE DONALD TRUMP EN IRAN: \"UNE IMPROVISATION PERMANENTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:23",
+      "date": "16/05",
+      "timestamp": 1778927012
+    },
+    {
+      "id": "BFMTV_1778927010",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE A ANNONCÉ MENER DES FRAPPES CONTRE LE HEZBOLLAH DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:23",
+      "date": "16/05",
+      "timestamp": 1778927010
+    },
+    {
+      "id": "OPEX360_1778926605",
+      "source": "OPEX360",
+      "text": "LA DISPONIBILITÉ DES F-35B BRITANNIQUES EST AFFECTÉE PAR DES PROBLÈMES DE CORROSION",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:16",
+      "date": "16/05",
+      "timestamp": 1778926605
+    },
+    {
+      "id": "BFMTV_1778926052",
+      "source": "BFMTV",
+      "text": "EUROVISION: LA PARTICIPATION D'ISRAËL AU CONCOURS SUSCITE LA POLÉMIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:07",
+      "date": "16/05",
+      "timestamp": 1778926052
+    },
     {
       "id": "BFMTV_1778924708",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "09:50",
       "date": "15/05",
       "timestamp": 1778838606
-    },
-    {
-      "id": "BFMTV_1778838294",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS NE SOMMES PAS RESPONSABLES DE L'AFFAIRE DU DÉTROIT D'ORMUZ, N'AVONS PAS LANCÉ CETTE GUERRE\", AFFIRME L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:44",
-      "date": "15/05",
-      "timestamp": 1778838294
-    },
-    {
-      "id": "BFMTV_1778834092",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: \"CETTE GUERRE DE NE DOIT PAS CONTINUER\", DÉCLARE LA CHINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:34",
-      "date": "15/05",
-      "timestamp": 1778834092
-    },
-    {
-      "id": "BFMTV_1778833798",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE LE DÉTROIT D'ORMUZ ROUVRIRA LORSQUE LES ÉTATS-UNIS LÈVERONT LEUR BLOCUS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:29",
-      "date": "15/05",
-      "timestamp": 1778833798
-    },
-    {
-      "id": "BFMTV_1778833198",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - À QUOI RESSEMBLE LE TRAFIC DANS LE DÉTROIT D'ORMUZ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:19",
-      "date": "15/05",
-      "timestamp": 1778833198
-    },
-    {
-      "id": "BFMTV_1778832955",
-      "source": "BFMTV",
-      "text": "\"IL A PASSÉ LE CANAL DE SUEZ\": LE MINISTÈRE DES ARMÉES DONNE DES AVANCÉES DU PORTE-AVIONS CHARLES DE GAULLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:15",
-      "date": "15/05",
-      "timestamp": 1778832955
-    },
-    {
-      "id": "BFMTV_1778832431",
-      "source": "BFMTV",
-      "text": "COMMENT LA VISITE DE DONALD TRUMP EN CHINE EST-ELLE VUE AUX ÉTATS-UNIS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:07",
-      "date": "15/05",
-      "timestamp": 1778832431
     }
   ],
   "france": {
