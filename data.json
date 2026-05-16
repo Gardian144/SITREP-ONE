@@ -1,7 +1,67 @@
 {
-  "last_update": "16/05 06:34",
+  "last_update": "16/05 08:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1778919704",
+      "source": "BFMTV",
+      "text": "\"UNE CATASTROPHE POUR LA SÉCURITÉ NATIONALE\": DONALD TRUMP ACCUSÉ DE CORRUPTION PAR L'OPPOSITION DÉMOCRATE APRÈS LA RÉVÉLATION DE TRANSACTIONS BOURSIÈRES EFFECTUÉES EN SON NOM",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:21",
+      "date": "16/05",
+      "timestamp": 1778919704
+    },
+    {
+      "id": "BFMTV_1778917587",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE DIT MENER DES FRAPPES CONTRE LE HEZBOLLAH DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:46",
+      "date": "16/05",
+      "timestamp": 1778917587
+    },
+    {
+      "id": "BFMTV_1778915213",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT RUSSE VLADIMIR POUTINE SE RENDRA EN VISITE EN CHINE LES 19 ET 20 MAI",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:06",
+      "date": "16/05",
+      "timestamp": 1778915213
+    },
+    {
+      "id": "BFMTV_1778914133",
+      "source": "BFMTV",
+      "text": "\"RENFORCER LE PARTENARIAT GLOBAL\": VLADIMIR POUTINE RENCONTRERA XI JINPING LORS D'UNE VISITE EN CHINE LES 19 ET 20 MAI PROCHAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:48",
+      "date": "16/05",
+      "timestamp": 1778914133
+    },
+    {
+      "id": "BFMTV_1778913921",
+      "source": "BFMTV",
+      "text": "LE COMMANDANT D'UNE MILICE PRO-IRAN ARRÊTÉ PAR LES ÉTATS-UNIS, ACCUSÉ D'AVOIR PLANIFIÉ DES ATTAQUES NOTAMMENT CONTRE DES SITES JUIFS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:45",
+      "date": "16/05",
+      "timestamp": 1778913921
+    },
+    {
+      "id": "BFMTV_1778913561",
+      "source": "BFMTV",
+      "text": "\"OPÉRATION MASSUE\": LA NOUVELLE STRATÉGIE AMÉRICAINE EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:39",
+      "date": "16/05",
+      "timestamp": 1778913561
+    },
     {
       "id": "BFMTV_1778913196",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "08:03",
       "date": "15/05",
       "timestamp": 1778832202
-    },
-    {
-      "id": "BFMTV_1778832036",
-      "source": "BFMTV",
-      "text": "POUR MAIA SANDU, PRÉSIDENTE DE LA MOLDAVIE, L’ÉLARGISSEMENT DE L'UE VERS LE FLANC EST, EST UN \"CHOIX STRATÉGIQUE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:00",
-      "date": "15/05",
-      "timestamp": 1778832036
-    },
-    {
-      "id": "BFMTV_1778831833",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE APPELLE À ÉVACUER LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:57",
-      "date": "15/05",
-      "timestamp": 1778831833
-    },
-    {
-      "id": "BFMTV_1778831370",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - QUELS SONT LES CHIFFRES DU BUDGET MILITAIRE AMÉRICAIN?",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:49",
-      "date": "15/05",
-      "timestamp": 1778831370
-    },
-    {
-      "id": "BFMTV_1778818500",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA CHINE RÉCLAME UN CESSEZ-LE-FEU DURABLE ET LA RÉOUVERTURE DU DÉTROIT D'ORMUZ \"DÈS QUE POSSIBLE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:15",
-      "date": "15/05",
-      "timestamp": 1778818500
-    },
-    {
-      "id": "BFMTV_1778818329",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES AUTORITÉS INDIENNES DÉNONCENT L'ATTAQUE D'UN BATEAU AU LARGE DES CÔTES D'OMAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:12",
-      "date": "15/05",
-      "timestamp": 1778818329
-    },
-    {
-      "id": "BFMTV_1778818236",
-      "source": "BFMTV",
-      "text": "SOMMET CHINE- ÉTATS-UNIS: \"VOUS AVEZ DEUX PRÉSIDENTS QUI SE SONT PARLÉS, MAIS QUI NE SE SONT PAS ENTENDUS\", EXPLIQUE FRANÇOIS CLÉMENCEAU",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:10",
-      "date": "15/05",
-      "timestamp": 1778818236
     }
   ],
   "france": {
