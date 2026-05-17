@@ -1,7 +1,17 @@
 {
-  "last_update": "17/05 10:50",
+  "last_update": "17/05 11:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779015329",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:55",
+      "date": "17/05",
+      "timestamp": 1779015329
+    },
     {
       "id": "OPEX360_1779014685",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "20:04",
       "date": "15/05",
       "timestamp": 1778875458
-    },
-    {
-      "id": "BFMTV_1778874194",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ANNONCENT UNE EXTENSION DU CESSEZ-LE-FEU ENTRE ISRAËL ET LE LIBAN PENDANT 45 JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:43",
-      "date": "15/05",
-      "timestamp": 1778874194
     }
   ],
   "france": {
