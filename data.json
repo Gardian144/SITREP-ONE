@@ -1,7 +1,127 @@
 {
-  "last_update": "17/05 04:31",
+  "last_update": "17/05 07:26",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779002060",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE AFFIRME AVOIR ÉTÉ VISÉE PAR PLUS DE 500 DRONES UKRAINIENS, AU MOINS QUATRE MORTS RECENSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:14",
+      "date": "17/05",
+      "timestamp": 1779002060
+    },
+    {
+      "id": "BFMTV_1779000457",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE ATTAQUÉE PAR PLUS DE 500 DRONES, AU MOINS QUATRE MORTS RECENSÉS EN PÉRIPHÉRIE DE MOSCOU",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:47",
+      "date": "17/05",
+      "timestamp": 1779000457
+    },
+    {
+      "id": "BFMTV_1778999689",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LE BATEAU ARRAISONNÉ JEUDI DERNIER AU LARGE DES ÉMIRATS ARABES UNIS ÉTAIT UN NAVIRE CHINOIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:34",
+      "date": "17/05",
+      "timestamp": 1778999689
+    },
+    {
+      "id": "BFMTV_1778998273",
+      "source": "BFMTV",
+      "text": "ITALIE: UN HOMME FONCE SUR DES PIÉTONS AVEC SA VOITURE À MODÈNE, FAISANT HUIT BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:11",
+      "date": "17/05",
+      "timestamp": 1778998273
+    },
+    {
+      "id": "BFMTV_1778997686",
+      "source": "BFMTV",
+      "text": "LONDRES: DES DIZAINES DE MILLIERS DE PERSONNES POUR UNE MARCHE D'EXTRÊME DROITE ET UNE CONTRE-MANIFESTATION PROPALESTINIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:01",
+      "date": "17/05",
+      "timestamp": 1778997686
+    },
+    {
+      "id": "BFMTV_1778996577",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:42",
+      "date": "17/05",
+      "timestamp": 1778996577
+    },
+    {
+      "id": "BFMTV_1778993873",
+      "source": "BFMTV",
+      "text": "\"IL N'Y A PAS DE CESSEZ-LE-FEU AVEC ISRAËL, C'EST QUE DES PAROLES EN L'AIR\": MALGRÉ LA TRÊVE, LES LIBANAIS TOUJOURS SOUS LE FEU DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:57",
+      "date": "17/05",
+      "timestamp": 1778993873
+    },
+    {
+      "id": "BFMTV_1778993111",
+      "source": "BFMTV",
+      "text": "LIBAN: PLUSIEURS DIZAINES DE LOCALITÉS DANS LE SUD DU PAYS FRAPPÉES CE SAMEDI PAR ISRAËL ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:45",
+      "date": "17/05",
+      "timestamp": 1778993111
+    },
+    {
+      "id": "BFMTV_1778992938",
+      "source": "BFMTV",
+      "text": "DES PIRATES INFORMATIQUES IRANIENS S'EN SERAIENT PRIS À CERTAINES STATIONS-SERVICES AMÉRICAINES, SELON CNN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "17/05",
+      "timestamp": 1778992938
+    },
+    {
+      "id": "BFMTV_1778992731",
+      "source": "BFMTV",
+      "text": "DANS LES COULISSES DE L'APPEL ENTRE DONALD TRUMP ET LE CORRESPONDANT DE BFMTV AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:38",
+      "date": "17/05",
+      "timestamp": 1778992731
+    },
+    {
+      "id": "BFMTV_1778992539",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: L'IRAN EXPLIQUE AVOIR \"MIS EN PLACE UN MÉCANISME PROFESSIONNEL DE GESTION DU TRAFIC\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:35",
+      "date": "17/05",
+      "timestamp": 1778992539
+    },
+    {
+      "id": "BFMTV_1778992411",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN EST-IL PRÊT EN CAS DE REPRISE DES FRAPPES AMÉRICAINES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:33",
+      "date": "17/05",
+      "timestamp": 1778992411
+    },
     {
       "id": "BFMTV_1778991979",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "17:13",
       "date": "15/05",
       "timestamp": 1778865194
-    },
-    {
-      "id": "BFMTV_1778864545",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH DIT AVOIR ATTAQUÉ L'ARMÉE ISRAÉLIENNE DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:02",
-      "date": "15/05",
-      "timestamp": 1778864545
-    },
-    {
-      "id": "BFMTV_1778864175",
-      "source": "BFMTV",
-      "text": "LIBAN: L'ARMÉE ISRAÉLIENNE CONTINUE DE MENER DES FRAPPES CONTRE LE HEZBOLLAH DANS LA RÉGION DE TYR",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:56",
-      "date": "15/05",
-      "timestamp": 1778864175
-    },
-    {
-      "id": "BFMTV_1778863928",
-      "source": "BFMTV",
-      "text": "IRAN: “NOTRE MISSION N’EST PAS ENCORE TERMINÉE”, DÉCLARE ISRAËL KATZ, MINISTRE ISRAÉLIEN DE LA DÉFENSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:52",
-      "date": "15/05",
-      "timestamp": 1778863928
-    },
-    {
-      "id": "BFMTV_1778863917",
-      "source": "BFMTV",
-      "text": "LA SYRIE APPELLE À NE PAS LAISSER LES DIFFICULTÉS ACTUELLES OCCULTER LES RÉALISATIONS \"PRESQUE MIRACULEUSES\" DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:51",
-      "date": "15/05",
-      "timestamp": 1778863917
-    },
-    {
-      "id": "BFMTV_1778863856",
-      "source": "BFMTV",
-      "text": "LES AUTORITÉS SANITAIRES ANNONCENT UNE NOUVELLE ÉPIDÉMIE D'EBOLA EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:50",
-      "date": "15/05",
-      "timestamp": 1778863856
-    },
-    {
-      "id": "BFMTV_1778863347",
-      "source": "BFMTV",
-      "text": "DÉTROIT D’ORMUZ: DONALD TRUMP AFFIRME QU'IL \"N'A PAS AIMÉ LA PREMIÈRE PHRASE\" DE LA PROPOSITION IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:42",
-      "date": "15/05",
-      "timestamp": 1778863347
-    },
-    {
-      "id": "BFMTV_1778862586",
-      "source": "BFMTV",
-      "text": "UN ADOLESCENT PALESTINIEN DE 15 ANS TUÉ PAR DES SOLDATS ISRAÉLIENS EN CISJORDANIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:29",
-      "date": "15/05",
-      "timestamp": 1778862586
-    },
-    {
-      "id": "OPEX360_1778861237",
-      "source": "OPEX360",
-      "text": "ARTILLERIE : L’ARMÉE DE TERRE ENGAGE LE GRIFFON MEPAC DANS UNE MISSION EXTÉRIEURE POUR LA PREMIÈRE FOIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:07",
-      "date": "15/05",
-      "timestamp": 1778861237
-    },
-    {
-      "id": "BFMTV_1778861076",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE DIT AVOIR \"INTERCEPTÉ PLUSIEURS AÉRONEFS HOSTILES\" QUI SE DIRIGEAIENT VERS SES SOLDATS DANS LE SUD-LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:04",
-      "date": "15/05",
-      "timestamp": 1778861076
-    },
-    {
-      "id": "BFMTV_1778860887",
-      "source": "BFMTV",
-      "text": "\"LA SYRIE POURSUIT SA TRANSITION POLITIQUE\": LA FRANCE SALUE LES AVANCÉES DU GOUVERNEMENT PROVISOIRE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:01",
-      "date": "15/05",
-      "timestamp": 1778860887
-    },
-    {
-      "id": "BFMTV_1778859430",
-      "source": "BFMTV",
-      "text": "IRAN: LES CIBLES QUE LES ÉTATS-UNIS POURRAIENT FRAPPER",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:37",
-      "date": "15/05",
-      "timestamp": 1778859430
-    },
-    {
-      "id": "BFMTV_1778859186",
-      "source": "BFMTV",
-      "text": "DEUX MORTS APRÈS LE CRASH D'UN PETIT AVION SUR UNE MAISON DANS L'OHIO",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:33",
-      "date": "15/05",
-      "timestamp": 1778859186
     }
   ],
   "france": {
