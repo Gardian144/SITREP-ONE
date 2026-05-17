@@ -1,7 +1,57 @@
 {
-  "last_update": "17/05 14:55",
+  "last_update": "17/05 15:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779032949",
+      "source": "BFMTV",
+      "text": "PRÈS DE 90 DÉCÈS, SOUCHE SANS VACCIN, LÉTALITÉ IMPORTANTE... CE QUE L'ON SAIT DE L'ÉPIDÉMIE D'EBOLA QUI TOUCHE LA RÉPUBLIQUE DÉMOCRATIQUE DU CONGO",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:49",
+      "date": "17/05",
+      "timestamp": 1779032949
+    },
+    {
+      "id": "BFMTV_1779031720",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: “JE M'ENTRETIENDRAI AVEC NOTRE AMI LE PRÉSIDENT TRUMP”, ANNONCE BENJAMIN NETANYAHU ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:28",
+      "date": "17/05",
+      "timestamp": 1779031720
+    },
+    {
+      "id": "BFMTV_1779031052",
+      "source": "BFMTV",
+      "text": "ÉMIRATS ARABES UNIS: “C’EST UN AVERTISSEMENT MAIS CE N’EST PAS UN DRONE QUI VA ABÎMER CETTE CENTRALE”, EXPLIQUE EMMANUELLE GALICHET, ENSEIGNANTE-CHERCHEUSE EN PHYSIQUE NUCLÉAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:17",
+      "date": "17/05",
+      "timestamp": 1779031052
+    },
+    {
+      "id": "BFMTV_1779030694",
+      "source": "BFMTV",
+      "text": "ÉMIRATS ARABES UNIS: L'AGENCE INTERNATIONALE DE L'ÉNERGIE ATOMIQUE EXPRIME SA “PROFONDE PRÉOCCUPATION” SUITE À L’ATTAQUE AU DRONE PRÈS D'UNE CENTRALE NUCLÉAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:11",
+      "date": "17/05",
+      "timestamp": 1779030694
+    },
+    {
+      "id": "BFMTV_1779029894",
+      "source": "BFMTV",
+      "text": "UN HOMME TUÉ PAR UNE OURSE ET SON PETIT DANS UN MASSIF EN BULGARIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:58",
+      "date": "17/05",
+      "timestamp": 1779029894
+    },
     {
       "id": "BFMTV_1779029599",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "06:45",
       "date": "16/05",
       "timestamp": 1778913921
-    },
-    {
-      "id": "BFMTV_1778913561",
-      "source": "BFMTV",
-      "text": "\"OPÉRATION MASSUE\": LA NOUVELLE STRATÉGIE AMÉRICAINE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:39",
-      "date": "16/05",
-      "timestamp": 1778913561
-    },
-    {
-      "id": "BFMTV_1778913196",
-      "source": "BFMTV",
-      "text": "\"IL N'A PU ÊTRE RÉANIMÉ\": UN HOMME MEURT APRÈS UNE ATTAQUE DE REQUIN EN AUSTRALIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:33",
-      "date": "16/05",
-      "timestamp": 1778913196
-    },
-    {
-      "id": "BFMTV_1778909953",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DESSERRE L'ÉTAU SUR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:39",
-      "date": "16/05",
-      "timestamp": 1778909953
-    },
-    {
-      "id": "BFMTV_1778908279",
-      "source": "BFMTV",
-      "text": "LE FBI PROPOSE 200.000 DOLLARS POUR TOUTE INFORMATION SUR UNE EX-SPÉCIALISTE DU RENSEIGNEMENT DE L'ARMÉE DE L'AIR, ACCUSÉE D'ESPIONNAGE AU PROFIT DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:11",
-      "date": "16/05",
-      "timestamp": 1778908279
-    },
-    {
-      "id": "BFMTV_1778907558",
-      "source": "BFMTV",
-      "text": "ISRAËL POURSUIT SES RAIDS AU LIBAN, MALGRÉ LA PROLONGATION DU CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:59",
-      "date": "16/05",
-      "timestamp": 1778907558
     }
   ],
   "france": {
