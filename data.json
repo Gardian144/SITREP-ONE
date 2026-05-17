@@ -1,7 +1,27 @@
 {
-  "last_update": "17/05 19:36",
+  "last_update": "17/05 20:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779049145",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP “A LES MOYENS DE TOUT DÉTRUIRE, C’EST ÇA LA DIFFÉRENCE AVEC BEAUCOUP D’AUTRES”, OBSERVE LE GÉNÉRAL DOMINIQUE DELORT ",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:19",
+      "date": "17/05",
+      "timestamp": 1779049145
+    },
+    {
+      "id": "BFMTV_1779047411",
+      "source": "BFMTV",
+      "text": "SANS ACCORD, “IL NE RESTERA PLUS RIEN” DE L’IRAN, ASSURE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:50",
+      "date": "17/05",
+      "timestamp": 1779047411
+    },
     {
       "id": "BFMTV_1779045682",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:40",
       "date": "16/05",
       "timestamp": 1778928033
-    },
-    {
-      "id": "BFMTV_1778927012",
-      "source": "BFMTV",
-      "text": "LA STRATÉGIE DE DONALD TRUMP EN IRAN: \"UNE IMPROVISATION PERMANENTE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:23",
-      "date": "16/05",
-      "timestamp": 1778927012
-    },
-    {
-      "id": "BFMTV_1778927010",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE A ANNONCÉ MENER DES FRAPPES CONTRE LE HEZBOLLAH DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:23",
-      "date": "16/05",
-      "timestamp": 1778927010
     }
   ],
   "france": {
