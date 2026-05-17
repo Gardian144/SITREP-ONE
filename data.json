@@ -1,7 +1,87 @@
 {
-  "last_update": "17/05 13:50",
+  "last_update": "17/05 14:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779029599",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: TÉHÉRAN NE VEUT PAS NÉGOCIER SUR LA QUESTION DU NUCLÉAIRE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:53",
+      "date": "17/05",
+      "timestamp": 1779029599
+    },
+    {
+      "id": "BFMTV_1779029035",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: PRÈS DE 3.000 MORTS AU LIBAN DEPUIS LE 2 MARS, SELON LE DERNIER BILAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:43",
+      "date": "17/05",
+      "timestamp": 1779029035
+    },
+    {
+      "id": "BFMTV_1779028718",
+      "source": "BFMTV",
+      "text": "ÉMIRATS ARABES UNIS: CE QUE L’ON SAIT DE LA FRAPPE DE DRONE PRÈS DE LA CENTRALE NUCLÉAIRE DE BARAKAH ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:38",
+      "date": "17/05",
+      "timestamp": 1779028718
+    },
+    {
+      "id": "BFMTV_1779028385",
+      "source": "BFMTV",
+      "text": "LIBAN: ISRAËL EST ACCUSÉ DE CIBLER LES SECOURISTES",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:33",
+      "date": "17/05",
+      "timestamp": 1779028385
+    },
+    {
+      "id": "BFMTV_1779027858",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:24",
+      "date": "17/05",
+      "timestamp": 1779027858
+    },
+    {
+      "id": "BFMTV_1779027858",
+      "source": "BFMTV",
+      "text": "ATTAQUES DU 7 OCTOBRE 2023 DU HAMAS CONTRE ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:24",
+      "date": "17/05",
+      "timestamp": 1779027858
+    },
+    {
+      "id": "BFMTV_1779027857",
+      "source": "BFMTV",
+      "text": "\"J'AI PROMIS QUE CHAQUE ARCHITECTE DU MASSACRE SERAIT ÉLIMINÉ\": BENJAMIN NETANYAHU AFFIRME QU'ISRAËL EST PROCHE D'AVOIR TUÉ TOUS LES RESPONSABLES DU 7-OCTOBRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:24",
+      "date": "17/05",
+      "timestamp": 1779027857
+    },
+    {
+      "id": "BFMTV_1779027643",
+      "source": "BFMTV",
+      "text": "LES CONDITIONS QUI BLOQUENT LES DISCUSSIONS ENTRE ENTRE L’IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:20",
+      "date": "17/05",
+      "timestamp": 1779027643
+    },
     {
       "id": "BFMTV_1779024756",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "04:59",
       "date": "16/05",
       "timestamp": 1778907558
-    },
-    {
-      "id": "BFMTV_1778907439",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QUE RESTE-T-IL DES STOCKS DE MISSILES AMÉRICAINS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:57",
-      "date": "16/05",
-      "timestamp": 1778907439
-    },
-    {
-      "id": "BFMTV_1778906757",
-      "source": "BFMTV",
-      "text": "TAÏWAN AFFIRME ÊTRE \"UNE NATION INDÉPENDANTE\" ET \"PAS SUBORDONNÉE\" À LA CHINE, APRÈS LA MISE EN GARDE DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:45",
-      "date": "16/05",
-      "timestamp": 1778906757
-    },
-    {
-      "id": "BFMTV_1778906709",
-      "source": "BFMTV",
-      "text": "COUVENT DÉTRUIT AU LIBAN: \"LE SITE EST INTACT ET EN SÉCURITÉ\" SELON ISRAËL, QUI DÉMENT LES ACCUSATIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:45",
-      "date": "16/05",
-      "timestamp": 1778906709
-    },
-    {
-      "id": "BFMTV_1778906409",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: LE PORTE-AVIONS FRANÇAIS CHARLES-DE-GAULLE EST ENTRÉ EN MER D'ARABIE",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:40",
-      "date": "16/05",
-      "timestamp": 1778906409
-    },
-    {
-      "id": "BFMTV_1778906253",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP EST PRÊT À REPRENDRE LES COMBATS, SELON LA PRESSE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:37",
-      "date": "16/05",
-      "timestamp": 1778906253
-    },
-    {
-      "id": "BFMTV_1778905634",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA STRATÉGIE DE LA MENACE PERMANENTE DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:27",
-      "date": "16/05",
-      "timestamp": 1778905634
-    },
-    {
-      "id": "BFMTV_1778905195",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: UNE MANIFESTATION ANTI-IMMIGRATION DE GRANDE AMPLEUR ORGANISÉE À LONDRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:19",
-      "date": "16/05",
-      "timestamp": 1778905195
-    },
-    {
-      "id": "BFMTV_1778905054",
-      "source": "BFMTV",
-      "text": "\"ÇA FAIT 53 ANS QU'ON EST DANS CETTE SITUATION\": AU LIBAN, LE VILLAGE DE MACHGHARA DEVENU FANTÔME",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:17",
-      "date": "16/05",
-      "timestamp": 1778905054
     }
   ],
   "france": {
