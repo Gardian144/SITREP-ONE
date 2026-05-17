@@ -1,7 +1,87 @@
 {
-  "last_update": "17/05 11:59",
+  "last_update": "17/05 13:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779024756",
+      "source": "BFMTV",
+      "text": "ÉPIDÉMIE D'ÉBOLA EN RDC: L'OMS RELÈVE SON NIVEAU D'ALERTE À \"URGENCE INTERNATIONALE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:32",
+      "date": "17/05",
+      "timestamp": 1779024756
+    },
+    {
+      "id": "BFMTV_1779024347",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:25",
+      "date": "17/05",
+      "timestamp": 1779024347
+    },
+    {
+      "id": "BFMTV_1779023600",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU DOIT PARLER À DONALD TRUMP CE DIMANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:13",
+      "date": "17/05",
+      "timestamp": 1779023600
+    },
+    {
+      "id": "BFMTV_1779023289",
+      "source": "BFMTV",
+      "text": "UNE FRAPPE DE DRONE PROVOQUE UN INCENDIE PRÈS D'UNE CENTRALE NUCLÉAIRE AUX ÉMIRATS ARABES UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:08",
+      "date": "17/05",
+      "timestamp": 1779023289
+    },
+    {
+      "id": "BFMTV_1779022455",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE FRAPPE À PROXIMITÉ D'UNE CENTRALE NUCLÉAIRE AUX ÉMIRATS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:54",
+      "date": "17/05",
+      "timestamp": 1779022455
+    },
+    {
+      "id": "BFMTV_1779021947",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:45",
+      "date": "17/05",
+      "timestamp": 1779021947
+    },
+    {
+      "id": "BFMTV_1779021669",
+      "source": "BFMTV",
+      "text": "LIBAN: TSAHAL ORDONNE L'ÉVACUATION DE QUATRE NOUVEAUX VILLAGES",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:41",
+      "date": "17/05",
+      "timestamp": 1779021669
+    },
+    {
+      "id": "BFMTV_1779021107",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES NÉGOCIATIONS \"DANS L'IMPASSE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:31",
+      "date": "17/05",
+      "timestamp": 1779021107
+    },
     {
       "id": "BFMTV_1779015329",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "04:17",
       "date": "16/05",
       "timestamp": 1778905054
-    },
-    {
-      "id": "BFMTV_1778904766",
-      "source": "BFMTV",
-      "text": "L'IRAN ASSURE QUE LE DÉTROIT D'ORMUZ EST OUVERT À \"TOUS LES NAVIRES COMMERCIAUX\", À CONDITION QU'ILS \"COOPÈRENT\" AVEC LES FORCES NAVALES IRANIENNES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:12",
-      "date": "16/05",
-      "timestamp": 1778904766
-    },
-    {
-      "id": "BFMTV_1778904708",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE QU'UN CHEF DE DAESH A ÉTÉ \"ÉLIMINÉ\" AU NIGERIA DANS UNE OPÉRATION IMPLIQUANT L'ARMÉE AMÉRICAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:11",
-      "date": "16/05",
-      "timestamp": 1778904708
-    },
-    {
-      "id": "BFMTV_1778903827",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: ACCORD POUR UN CESSEZ-LE-FEU PROLONGÉ ENTRE ISRAËL ET LE LIBAN, MALGRÉ DE NOUVELLES FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:57",
-      "date": "16/05",
-      "timestamp": 1778903827
-    },
-    {
-      "id": "BFMTV_1778880044",
-      "source": "BFMTV",
-      "text": "“PRENDRE DONALD TRUMP AU SÉRIEUX, ÇA REVIENDRAIT À ENVISAGER UNE ATTAQUE NUCLÉAIRE”, IRONISE L’AMIRAL JEAN-LOUIS VICHOT",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:20",
-      "date": "15/05",
-      "timestamp": 1778880044
-    },
-    {
-      "id": "BFMTV_1778879941",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ANNONCENT UNE EXTENSION DU CESSEZ-LE-FEU ENTRE ISRAËL ET LE LIBAN PENDANT 45 JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:19",
-      "date": "15/05",
-      "timestamp": 1778879941
-    },
-    {
-      "id": "BFMTV_1778876319",
-      "source": "BFMTV",
-      "text": "“AUJOURD’HUI DONALD TRUMP N’EST PAS CRÉDIBLE AUX ÉTATS-UNIS”, ESTIME DANIEL COHN-BENDIT, ANCIEN DÉPUTÉ EUROPÉEN ÉCOLOGISTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:18",
-      "date": "15/05",
-      "timestamp": 1778876319
-    },
-    {
-      "id": "BFMTV_1778876088",
-      "source": "BFMTV",
-      "text": "EUROVISION 2026: UN CONCERT PRO-PALESTINE ORGANISÉ À VIENNE CONTRE LA PRÉSENCE D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:14",
-      "date": "15/05",
-      "timestamp": 1778876088
-    },
-    {
-      "id": "BFMTV_1778875458",
-      "source": "BFMTV",
-      "text": "DÉTROIT D’ORMUZ: “JE DIRAIS PRESQUE QUE L’IRAN A GAGNÉ SUR CETTE QUESTION DE PÉAGE”, EXPLIQUE OLIVIER LASMOLES, OFFICIER DE RÉSERVE OPÉRATIONNELLE DE LA MARINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:04",
-      "date": "15/05",
-      "timestamp": 1778875458
     }
   ],
   "france": {
