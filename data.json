@@ -1,7 +1,47 @@
 {
-  "last_update": "17/05 18:09",
+  "last_update": "17/05 19:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779045682",
+      "source": "BFMTV",
+      "text": "POUR LE GÉNÉRAL PATRICK DUTARTRE, “IL Y A UN FAISCEAU D'INDICES QUI NOUS AMÈNE À PENSER QU’IL POURRAIT Y AVOIR UNE REPRISE DES HOSTILITÉS”",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:21",
+      "date": "17/05",
+      "timestamp": 1779045682
+    },
+    {
+      "id": "BFMTV_1779045435",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP PRÉVIENT QU'\"IL NE RESTERA PLUS RIEN\" DE L'IRAN SI TÉHÉRAN N'ACCEPTE PAS UN ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:17",
+      "date": "17/05",
+      "timestamp": 1779045435
+    },
+    {
+      "id": "BFMTV_1779042874",
+      "source": "BFMTV",
+      "text": "WASHINGTON ACCUSE CUBA D'AVOIR DISCUTÉ D'ATTAQUES DE DRONES CONTRE LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:34",
+      "date": "17/05",
+      "timestamp": 1779042874
+    },
+    {
+      "id": "BFMTV_1779041499",
+      "source": "BFMTV",
+      "text": "PASSANTS FAUCHÉS PAR UN AUTOMOBILISTE EN ITALIE: LA THÈSE DU TROUBLE PSYCHIATRIQUE PRIVILÉGIÉE PAR LES ENQUÊTEURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:11",
+      "date": "17/05",
+      "timestamp": 1779041499
+    },
     {
       "id": "BFMTV_1779036975",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "10:23",
       "date": "16/05",
       "timestamp": 1778927010
-    },
-    {
-      "id": "OPEX360_1778926605",
-      "source": "OPEX360",
-      "text": "LA DISPONIBILITÉ DES F-35B BRITANNIQUES EST AFFECTÉE PAR DES PROBLÈMES DE CORROSION",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:16",
-      "date": "16/05",
-      "timestamp": 1778926605
-    },
-    {
-      "id": "BFMTV_1778926052",
-      "source": "BFMTV",
-      "text": "EUROVISION: LA PARTICIPATION D'ISRAËL AU CONCOURS SUSCITE LA POLÉMIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:07",
-      "date": "16/05",
-      "timestamp": 1778926052
-    },
-    {
-      "id": "BFMTV_1778924708",
-      "source": "BFMTV",
-      "text": "MORT DE CINQ ITALIENS DANS UN ACCIDENT DE PLONGÉE: LES MALDIVES SUSPENDENT LA LICENCE D'UN NAVIRE DE LUXE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:45",
-      "date": "16/05",
-      "timestamp": 1778924708
-    },
-    {
-      "id": "BFMTV_1778924217",
-      "source": "BFMTV",
-      "text": "IRAN: UNE PRÉSENTATRICE POSE AVEC UNE ARME",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:36",
-      "date": "16/05",
-      "timestamp": 1778924217
     }
   ],
   "france": {
