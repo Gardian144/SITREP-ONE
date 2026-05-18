@@ -1,7 +1,127 @@
 {
-  "last_update": "18/05 06:13",
+  "last_update": "18/05 10:42",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1779100784",
+      "source": "OPEX360",
+      "text": "DEUX AVIONS DE GUERRE ÉLECTRONIQUE EA-18 GROWLER DE L’US NAVY SONT ENTRÉS EN COLLISION LORS D’UNE DÉMONSTRATION",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:39",
+      "date": "18/05",
+      "timestamp": 1779100784
+    },
+    {
+      "id": "BFMTV_1779100719",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN ANNONCE LA CRÉATION D'UN ORGANISME CHARGÉ DE GÉRER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:38",
+      "date": "18/05",
+      "timestamp": 1779100719
+    },
+    {
+      "id": "BFMTV_1779099543",
+      "source": "BFMTV",
+      "text": "\"ILS N'ACCEPTENT VRAIMENT AUCUN TYPE DE MÉDIATION OU D'AIDE\": L'UE DÉPLORE SON IMPUISSANCE FACE AUX ÉTATS-UNIS ET À L'IRAN SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:19",
+      "date": "18/05",
+      "timestamp": 1779099543
+    },
+    {
+      "id": "BFMTV_1779099448",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DES DÉGÂTS PROVOQUÉS PAR UNE FRAPPE ISRAÉLIENNE SUR UN VILLAGE LIBANAIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:17",
+      "date": "18/05",
+      "timestamp": 1779099448
+    },
+    {
+      "id": "BFMTV_1779098700",
+      "source": "BFMTV",
+      "text": "UNE NOUVELLE \"FLOTTILLE POUR GAZA\" INTERCEPTÉE PAR ISRAËL AU LARGE DE CHYPRE, LA TURQUIE DÉNONCE \"UN ACTE DE PIRATERIE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:05",
+      "date": "18/05",
+      "timestamp": 1779098700
+    },
+    {
+      "id": "BFMTV_1779098315",
+      "source": "BFMTV",
+      "text": "COMMANDANT DE LA \"SPACE FORCE\" ET DOIGT SUR LE BOUTON ROUGE: DONALD TRUMP PARTAGE DE NOUVELLES IMAGES GÉNÉRÉES PAR IA APRÈS SES MENACES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:58",
+      "date": "18/05",
+      "timestamp": 1779098315
+    },
+    {
+      "id": "BFMTV_1779098156",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN TRAIN PERCUTE VIOLEMMENT UN CAMION À UN PASSAGE À NIVEAU",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:55",
+      "date": "18/05",
+      "timestamp": 1779098156
+    },
+    {
+      "id": "BFMTV_1779097274",
+      "source": "BFMTV",
+      "text": "L'IRAN ANNONCE LA CRÉATION D'UN ORGANISME CHARGÉ DE GÉRER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:41",
+      "date": "18/05",
+      "timestamp": 1779097274
+    },
+    {
+      "id": "BFMTV_1779095922",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - CE QUE L'ON SAIT DES BASES SECRÈTES INSTALLÉES PAR ISRAËL EN IRAK",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:18",
+      "date": "18/05",
+      "timestamp": 1779095922
+    },
+    {
+      "id": "BFMTV_1779095536",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT AVOIR RÉPONDU À LA DERNIÈRE PROPOSITION AMÉRICAINE VISANT À METTRE FIN AU CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:12",
+      "date": "18/05",
+      "timestamp": 1779095536
+    },
+    {
+      "id": "BFMTV_1779095359",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT AVOIR RÉPONDU À LA DERNIÈRE PROPOSITION AMÉRICAINE VISANT À METTRE FIN AU CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:09",
+      "date": "18/05",
+      "timestamp": 1779095359
+    },
+    {
+      "id": "BFMTV_1779093592",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: LE NAVIRE DE CROISIÈRE MV HONDIUS EST ARRIVÉ AU PORT DE ROTTERDAM",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:39",
+      "date": "18/05",
+      "timestamp": 1779093592
+    },
     {
       "id": "BFMTV_1779084503",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "04:10",
       "date": "17/05",
       "timestamp": 1778991048
-    },
-    {
-      "id": "BFMTV_1778990840",
-      "source": "BFMTV",
-      "text": "\"ILS VONT PASSER UN MAUVAIS MOMENT\": DONALD TRUMP RÉPOND AU CORRESPONDANT DE BFMTV AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:07",
-      "date": "17/05",
-      "timestamp": 1778990840
-    },
-    {
-      "id": "BFMTV_1778990697",
-      "source": "BFMTV",
-      "text": "\"LE CALME AVANT LA TEMPÊTE\": DONALD TRUMP MET EN GARDE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:04",
-      "date": "17/05",
-      "timestamp": 1778990697
-    },
-    {
-      "id": "BFMTV_1778968736",
-      "source": "BFMTV",
-      "text": "LE HEZBOLLAH ANNONCE AVOIR LANCÉ UNE ATTAQUE DE DRONES SUR LE NORD D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:58",
-      "date": "16/05",
-      "timestamp": 1778968736
-    },
-    {
-      "id": "BFMTV_1778967684",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE À BFMTV QUE L'IRAN \"PASSERA UN TRÈS MAUVAIS MOMENT\" SI UN ACCORD N'EST PAS CONCLU",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:41",
-      "date": "16/05",
-      "timestamp": 1778967684
-    },
-    {
-      "id": "BFMTV_1778962932",
-      "source": "BFMTV",
-      "text": "SUR SON RÉSEAU SOCIAL, DONALD TRUMP MENACE DE NOUVEAU L'IRAN VIA UN VISUEL GÉNÉRÉ PAR L'INTELLIGENCE ARTIFICIELLE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:22",
-      "date": "16/05",
-      "timestamp": 1778962932
-    },
-    {
-      "id": "BFMTV_1778960379",
-      "source": "BFMTV",
-      "text": "TSAHAL ANNONCE LA MORT D'UN DE SES SOLDATS AU SUD-LIBAN DANS UNE ATTAQUE DE DRONE DU HEZBOLLAHTSAHAL ANNONCE LA MORT D'UN DE SES SOLDATS AU SUD-LIBAN DANS UNE ATTAQUE DE DRONE DU HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:39",
-      "date": "16/05",
-      "timestamp": 1778960379
-    },
-    {
-      "id": "BFMTV_1778957296",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LE STATU QUO N'EST PAS TENABLE POUR LES AMÉRICAINS, IL EST TENABLE POUR LES IRANIENS\", ESTIME ANTOINE BASBOUS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:48",
-      "date": "16/05",
-      "timestamp": 1778957296
-    },
-    {
-      "id": "BFMTV_1778956208",
-      "source": "BFMTV",
-      "text": "DÉSIGNATIONS DE CIBLES, RÉUNIONS AVEC L'ARMÉE AMÉRICAINE… COMMENT L'ARMÉE ISRAÉLIENNE SE PRÉPARE À UNE ÉVENTUELLE REPRISE DES FRAPPES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:30",
-      "date": "16/05",
-      "timestamp": 1778956208
-    },
-    {
-      "id": "BFMTV_1778955424",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP POSTE UNE VIDÉO, GÉNÉRÉE PAR L'INTELLIGENCE ARTIFICIELLE, METTANT EN SCÈNE UN LASER UTILISÉ PAR L'ARMÉE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:17",
-      "date": "16/05",
-      "timestamp": 1778955424
-    },
-    {
-      "id": "BFMTV_1778952901",
-      "source": "BFMTV",
-      "text": "DES DIZAINES DE MILLIERS DE PERSONNES DANS LA RUE À LONDRES POUR UNE MARCHE D'EXTRÊME DROITE ET UNE CONTRE-MANIFESTATION PROPALESTINIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:35",
-      "date": "16/05",
-      "timestamp": 1778952901
-    },
-    {
-      "id": "BFMTV_1778952828",
-      "source": "BFMTV",
-      "text": "EN ISRAËL, LA SOCIÉTÉ DIVISÉE SUR LA NÉCESSITÉ DE LA REPRISE DES FRAPPES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:33",
-      "date": "16/05",
-      "timestamp": 1778952828
-    },
-    {
-      "id": "BFMTV_1778951423",
-      "source": "BFMTV",
-      "text": "NOTRE CORRESPONDANT AUX ÉTATS-UNIS RACONTE LES COULISSES DE SON APPEL AVEC DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:10",
-      "date": "16/05",
-      "timestamp": 1778951423
     }
   ],
   "france": {
