@@ -1,7 +1,167 @@
 {
-  "last_update": "18/05 14:19",
+  "last_update": "18/05 17:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779123778",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: PLUS DE 3.000 PERSONNES ONT ÉTÉ TUÉES DANS DES FRAPPES ISRAÉLIENNES DEPUIS LE 2 MARS, SELON LE GOUVERNEMENT LIBANAIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:02",
+      "date": "18/05",
+      "timestamp": 1779123778
+    },
+    {
+      "id": "OPEX360_1779123727",
+      "source": "OPEX360",
+      "text": "LES EUROFIGHTER TYPHOON DE LA ROYAL AIR FORCE SONT APTES À TIRER DES ROQUETTES GUIDÉES CONTRE LES DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:02",
+      "date": "18/05",
+      "timestamp": 1779123727
+    },
+    {
+      "id": "BFMTV_1779122175",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH APPELLE À REFUSER \"L’ILLUSION D’UN ACCORD DE PAIX\" AVEC ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:36",
+      "date": "18/05",
+      "timestamp": 1779122175
+    },
+    {
+      "id": "BFMTV_1779122129",
+      "source": "BFMTV",
+      "text": "KEIR STARMER SOUS PRESSION: \"JE VEUX VRAIMENT ME BATTRE POUR LA PROCHAINE ÉLECTION\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:35",
+      "date": "18/05",
+      "timestamp": 1779122129
+    },
+    {
+      "id": "BFMTV_1779121305",
+      "source": "BFMTV",
+      "text": "JAPON: UN HOMME A ÉTÉ ARRÊTÉ POUR AVOIR PÉNÉTRÉ DANS L'ENCLOS DU SINGE PUNCH",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:21",
+      "date": "18/05",
+      "timestamp": 1779121305
+    },
+    {
+      "id": "OPEX360_1779118596",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT A COMMANDÉ UN NOUVEAU CAPTEUR DE SIGNAUX RADAR AUPRÈS DU FRANÇAIS EVIDEN",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:36",
+      "date": "18/05",
+      "timestamp": 1779118596
+    },
+    {
+      "id": "BFMTV_1779117903",
+      "source": "BFMTV",
+      "text": "MALDIVES: LES CORPS DES QUATRE PLONGEURS DISPARUS RETROUVÉS DANS UNE GROTTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:25",
+      "date": "18/05",
+      "timestamp": 1779117903
+    },
+    {
+      "id": "BFMTV_1779117322",
+      "source": "BFMTV",
+      "text": "FUSILLADE À NICE : LES DEUX PERSONNES DÉCÉDÉES SONT \"TOTALEMENT ÉTRANGÈRES AU TRAFIC DE STUPÉFIANTS\", CONFIRME LE PROCUREUR DE MARSEILLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:15",
+      "date": "18/05",
+      "timestamp": 1779117322
+    },
+    {
+      "id": "BFMTV_1779116894",
+      "source": "BFMTV",
+      "text": "LE MINISTRE DE LA JUSTICE GÉRALD DARMANIN EN DÉPLACEMENT À ALGER ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:08",
+      "date": "18/05",
+      "timestamp": 1779116894
+    },
+    {
+      "id": "BFMTV_1779116867",
+      "source": "BFMTV",
+      "text": "HANTAVIRUS: \"AUCUN RISQUE DE PROPAGATION SUPPLÉMENTAIRE\" APRÈS L'ARRIVÉE DU MV HONDIUS AUX PAYS-BAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:07",
+      "date": "18/05",
+      "timestamp": 1779116867
+    },
+    {
+      "id": "BFMTV_1779116591",
+      "source": "BFMTV",
+      "text": "EBOLA: QUE CHANGE L'ACTIVATION DE \"L'URGENCE DE SANTÉ PUBLIQUE DE PORTÉE INTERNATIONALE\" EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO?",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:03",
+      "date": "18/05",
+      "timestamp": 1779116591
+    },
+    {
+      "id": "BFMTV_1779116114",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS UN HÔTEL RÉQUISITIONNÉ EN ISRAËL PAR L’ARMÉE AMÉRICAINE, QUI ACCROÎT SA PRÉSENCE MILITAIRE DANS LA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:55",
+      "date": "18/05",
+      "timestamp": 1779116114
+    },
+    {
+      "id": "BFMTV_1779115315",
+      "source": "BFMTV",
+      "text": "\"ON A PU DIALOGUER DANS UN BON ESPRIT\": LE PREMIER MINISTRE DU GROENLAND SE FÉLICITE D'UNE PREMIÈRE RÉUNION \"CONSTRUCTIVE\" AVEC L'ÉMISSAIRE DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:41",
+      "date": "18/05",
+      "timestamp": 1779115315
+    },
+    {
+      "id": "BFMTV_1779115315",
+      "source": "BFMTV",
+      "text": "TENSION AUTOUR DU GROENLAND",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:41",
+      "date": "18/05",
+      "timestamp": 1779115315
+    },
+    {
+      "id": "BFMTV_1779115096",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L’IRAN A CRÉÉ UN ORGANISME DESTINÉ À GÉRER LE DÉTROIT D’ORMUZ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:38",
+      "date": "18/05",
+      "timestamp": 1779115096
+    },
+    {
+      "id": "BFMTV_1779115053",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES VENUS EN FAMILLE\": L’IRAN MET EN SCÈNE DES ENFANTS ET DES CIVILS ARMÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:37",
+      "date": "18/05",
+      "timestamp": 1779115053
+    },
     {
       "id": "BFMTV_1779113682",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "10:38",
       "date": "17/05",
       "timestamp": 1779014293
-    },
-    {
-      "id": "BFMTV_1779014200",
-      "source": "BFMTV",
-      "text": "ÉMIRATS ARABES UNIS: UNE FRAPPE DE DRONE PRÈS DE LA CENTRALE NUCLÉAIRE DE BARAKAH PROVOQUE UN INCENDIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:36",
-      "date": "17/05",
-      "timestamp": 1779014200
-    },
-    {
-      "id": "BFMTV_1779013967",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS IMAGINONS QU'IL EST IMPOPULAIRE\", MAIS UNE PARTIE DE L'AMÉRIQUE \"TROUVE EN DONALD TRUMP UN HÉROS\", AFFIRME ALAIN BAUER ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:32",
-      "date": "17/05",
-      "timestamp": 1779013967
-    },
-    {
-      "id": "BFMTV_1779012940",
-      "source": "BFMTV",
-      "text": "THAÏLANDE: AU MOINS 8 MORTS DANS UNE COLLISION ENTRE UN TRAIN ET UN BUS À BANGKOK",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:15",
-      "date": "17/05",
-      "timestamp": 1779012940
-    },
-    {
-      "id": "BFMTV_1779012714",
-      "source": "BFMTV",
-      "text": "CONDITIONS DE L'IRAN: \"ILS NE PARLENT PAS DE CE QUI BLOQUE: LE NUCLÉAIRE\", AFFIRME ALAIN BAUER",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:11",
-      "date": "17/05",
-      "timestamp": 1779012714
-    },
-    {
-      "id": "BFMTV_1779012140",
-      "source": "BFMTV",
-      "text": "LEVÉE DES SANCTIONS, FIN DE LA GUERRE SUR TOUS LES FRONTS... L'IRAN IMPOSE SES CONDITIONS, PRÉALABLES À TOUTE DISCUSSION AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:02",
-      "date": "17/05",
-      "timestamp": 1779012140
-    },
-    {
-      "id": "OPEX360_1779010404",
-      "source": "OPEX360",
-      "text": "AYANT PROPOSÉ SON AVION D’ENTRAÎNEMENT À LA FRANCE ET AU ROYAUME-UNI, AERALIS A ÉTÉ PLACÉ EN REDRESSEMENT JUDICIAIRE",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:33",
-      "date": "17/05",
-      "timestamp": 1779010404
-    },
-    {
-      "id": "BFMTV_1779010154",
-      "source": "BFMTV",
-      "text": "IRAN: DES ENTRAÎNEMENTS AU MANIEMENT DES ARMES DANS DES MOSQUÉES",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:29",
-      "date": "17/05",
-      "timestamp": 1779010154
-    },
-    {
-      "id": "BFMTV_1779009442",
-      "source": "BFMTV",
-      "text": "\"IMPLIQUÉ DANS DIVERS CRIMES\": HOMME CLÉ DU POUVOIR AU VENEZUELA SOUS NICOLÁS MADURO, ALEX SAAB ÉTÉ EXPULSÉ VERS LES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:17",
-      "date": "17/05",
-      "timestamp": 1779009442
-    },
-    {
-      "id": "BFMTV_1779008106",
-      "source": "BFMTV",
-      "text": "HUIT PIÉTONS FAUCHÉS PAR UNE VOITURE À MODÈNE: LE \"HÉROS\" QUI A ARRÊTÉ LE CONDUCTEUR DU VÉHICULE SALUÉ PAR LE GOUVERNEMENT ITALIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:55",
-      "date": "17/05",
-      "timestamp": 1779008106
-    },
-    {
-      "id": "BFMTV_1779007639",
-      "source": "BFMTV",
-      "text": "\"C'EST DES PAROLES EN L'AIR\": LES FRAPPES ISRAÉLIENNES SE POURSUIVENT AU LIBAN, MALGRÉ LA TRÊVE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:47",
-      "date": "17/05",
-      "timestamp": 1779007639
-    },
-    {
-      "id": "BFMTV_1779006777",
-      "source": "BFMTV",
-      "text": " DÉTROIT D'ORMUZ: L'IRAN ANNONCE QU'IL DÉVOILERA BIENTÔT SON PLAN DE GESTION DU TRAFIC",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:32",
-      "date": "17/05",
-      "timestamp": 1779006777
-    },
-    {
-      "id": "BFMTV_1779005959",
-      "source": "BFMTV",
-      "text": "LA MISE EN GARDE DE DONALD TRUMP À L'IRAN: \"LE CALME AVANT LA TEMPÊTE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:19",
-      "date": "17/05",
-      "timestamp": 1779005959
-    },
-    {
-      "id": "BFMTV_1779005749",
-      "source": "BFMTV",
-      "text": "600 DRONES, LA VILLE DE MOSCOU TOUCHÉE... CE QUE L'ON SAIT DE L'ATTAQUE MASSIVE UKRAINIENNE QUI A FAIT AU MOINS QUATRE MORTS EN RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:15",
-      "date": "17/05",
-      "timestamp": 1779005749
-    },
-    {
-      "id": "BFMTV_1779002060",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA RUSSIE AFFIRME AVOIR ÉTÉ VISÉE PAR PLUS DE 500 DRONES UKRAINIENS, AU MOINS QUATRE MORTS RECENSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:14",
-      "date": "17/05",
-      "timestamp": 1779002060
-    },
-    {
-      "id": "BFMTV_1779000457",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA RUSSIE ATTAQUÉE PAR PLUS DE 500 DRONES, AU MOINS QUATRE MORTS RECENSÉS EN PÉRIPHÉRIE DE MOSCOU",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:47",
-      "date": "17/05",
-      "timestamp": 1779000457
-    },
-    {
-      "id": "BFMTV_1778999689",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LE BATEAU ARRAISONNÉ JEUDI DERNIER AU LARGE DES ÉMIRATS ARABES UNIS ÉTAIT UN NAVIRE CHINOIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:34",
-      "date": "17/05",
-      "timestamp": 1778999689
     }
   ],
   "france": {
