@@ -1,11 +1,71 @@
 {
-  "last_update": "18/05 20:46",
+  "last_update": "18/05 22:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779141192",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP REPORTE DES FRAPPES EN IRAN POUR \"DEUX OU TROIS JOURS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:53",
+      "date": "18/05",
+      "timestamp": 1779141192
+    },
+    {
+      "id": "BFMTV_1779140981",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP REPORTE DES FRAPPES: “POURQUOI MONTER UNE GROSSE OPÉRATION QUAND IL SUFFIT D’ATTENDRE”, OBSERVE MICHEL POLACCO, SPÉCIALISTE DES QUESTIONS DE DÉFENSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:49",
+      "date": "18/05",
+      "timestamp": 1779140981
+    },
+    {
+      "id": "BFMTV_1779140050",
+      "source": "BFMTV",
+      "text": "\"ON EST DANS LA GUERRE DE PROPAGANDE\": L’IRAN CONTINUE SA MISE EN SCÈNE DE \"L'AGRESSÉ\", DÉCRYPTE OLIVIER WEBER, GRAND REPORTER",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:34",
+      "date": "18/05",
+      "timestamp": 1779140050
+    },
+    {
+      "id": "BFMTV_1779139318",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LES AMÉRICAINS CHERCHENT UN ACCORD\", SELON LE LIEUTENANT-COLONEL GUILLAUME ANCEL",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:21",
+      "date": "18/05",
+      "timestamp": 1779139318
+    },
+    {
+      "id": "BFMTV_1779137866",
+      "source": "BFMTV",
+      "text": "SAN DIEGO: UN TIREUR \"NEUTRALISÉ\" APRÈS UNE INTRUSION DANS UN CENTRE ISLAMIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:57",
+      "date": "18/05",
+      "timestamp": 1779137866
+    },
     {
       "id": "BFMTV_1779136373",
       "source": "BFMTV",
       "text": "UN TIREUR \"NEUTRALISÉ\" APRÈS UNE INTRUSION DANS UN CENTRE ISLAMIQUE À SAN DIEGO EN CALIFORNIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:32",
+      "date": "18/05",
+      "timestamp": 1779136373
+    },
+    {
+      "id": "BFMTV_1779136373",
+      "source": "BFMTV",
+      "text": "AU MOINS TROIS MORTS APRÈS UNE FUSILLADE DANS UN CENTRE ISLAMIQUE À SAN DIEGO, DEUX SUSPECTS RETROUVÉS MORTS À PROXIMITÉ",
       "urgent": false,
       "france_related": false,
       "time": "20:32",
@@ -941,66 +1001,6 @@
       "time": "16:54",
       "date": "17/05",
       "timestamp": 1779036845
-    },
-    {
-      "id": "BFMTV_1779036105",
-      "source": "BFMTV",
-      "text": "PAYS DU GOLFE: LES SITES SENSIBLES QUI POURRAIENT ÊTRE DANS LE VISEUR DE L’IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:41",
-      "date": "17/05",
-      "timestamp": 1779036105
-    },
-    {
-      "id": "BFMTV_1779035858",
-      "source": "BFMTV",
-      "text": "IRAN: ISRAËL SE TIENT PRÊT À UNE REPRISE DES FRAPPES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:37",
-      "date": "17/05",
-      "timestamp": 1779035858
-    },
-    {
-      "id": "BFMTV_1779035025",
-      "source": "BFMTV",
-      "text": "ÉMIRATS ARABES UNIS: LES DÉTAILS DE LA FRAPPE DE DRONE PRÈS DE LA CENTRALE NUCLÉAIRE DE BARAKAH ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:23",
-      "date": "17/05",
-      "timestamp": 1779035025
-    },
-    {
-      "id": "BFMTV_1779033628",
-      "source": "BFMTV",
-      "text": "LIBAN: PRÈS DE 3.000 PERSONNES SONT MORTES DANS LE PAYS DEPUIS LE DÉBUT DU CONFLIT AVEC ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:00",
-      "date": "17/05",
-      "timestamp": 1779033628
-    },
-    {
-      "id": "BFMTV_1779032949",
-      "source": "BFMTV",
-      "text": "PRÈS DE 90 DÉCÈS, SOUCHE SANS VACCIN, LÉTALITÉ IMPORTANTE... CE QUE L'ON SAIT DE L'ÉPIDÉMIE D'EBOLA QUI TOUCHE LA RÉPUBLIQUE DÉMOCRATIQUE DU CONGO",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:49",
-      "date": "17/05",
-      "timestamp": 1779032949
-    },
-    {
-      "id": "BFMTV_1779031720",
-      "source": "BFMTV",
-      "text": "IRAN/ÉTATS-UNIS: “JE M'ENTRETIENDRAI AVEC NOTRE AMI LE PRÉSIDENT TRUMP”, ANNONCE BENJAMIN NETANYAHU ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:28",
-      "date": "17/05",
-      "timestamp": 1779031720
     }
   ],
   "france": {
