@@ -1,7 +1,27 @@
 {
-  "last_update": "18/05 22:02",
+  "last_update": "18/05 23:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779143113",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DEMANDE À L'ARMÉE AMÉRICAINE DE \"SE TENIR PRÊTE À LANCER UN ASSAUT COMPLET\" CONTRE L’IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "22:25",
+      "date": "18/05",
+      "timestamp": 1779143113
+    },
+    {
+      "id": "BFMTV_1779141620",
+      "source": "BFMTV",
+      "text": "MONDIAL 2026: LES JOUEURS IRANIENS N’ONT OBTENU AUCUN VISA POUR LES ÉTATS-UNIS \"À L’INSTANT T\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:00",
+      "date": "18/05",
+      "timestamp": 1779141620
+    },
     {
       "id": "BFMTV_1779141192",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "18:11",
       "date": "17/05",
       "timestamp": 1779041499
-    },
-    {
-      "id": "BFMTV_1779036975",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP PRÉVIENT QU'\"IL NE RESTERA PLUS RIEN\" DE L'IRAN SI TÉHÉRAN N'ACCEPTE PAS UN ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:56",
-      "date": "17/05",
-      "timestamp": 1779036975
-    },
-    {
-      "id": "BFMTV_1779036845",
-      "source": "BFMTV",
-      "text": "“POUR L’IRAN, LE TEMPS EST COMPTÉ”, AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:54",
-      "date": "17/05",
-      "timestamp": 1779036845
     }
   ],
   "france": {
