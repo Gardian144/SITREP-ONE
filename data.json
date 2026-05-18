@@ -1,7 +1,117 @@
 {
-  "last_update": "18/05 17:16",
+  "last_update": "18/05 19:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779131450",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP RENONCE À UNE ATTAQUE PRÉVUE MARDI CONTRE L'IRAN À LA DEMANDE DE PAYS DU GOLFE",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:10",
+      "date": "18/05",
+      "timestamp": 1779131450
+    },
+    {
+      "id": "BFMTV_1779130530",
+      "source": "BFMTV",
+      "text": "OFER BRONCHTEIN, MILITANT POUR LA PAIX ENTRE ISRAÉLIENS ET PALESTINIENS, EST MORT À L'ÂGE DE 69 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:55",
+      "date": "18/05",
+      "timestamp": 1779130530
+    },
+    {
+      "id": "BFMTV_1779128748",
+      "source": "BFMTV",
+      "text": "SPECTACULAIRE COLLISION D’AVIONS DE CHASSE AUX ÉTATS-UNIS: \"CE GENRE D’ACCIDENT ARRIVE\", ANALYSE LE GÉNÉRAL VINCENT DESPORTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:25",
+      "date": "18/05",
+      "timestamp": 1779128748
+    },
+    {
+      "id": "BFMTV_1779128379",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS SOMMES DANS UNE IMPASSE\", S'INQUIÈTE LE GÉNÉRAL VINCENT DESPORTES",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:19",
+      "date": "18/05",
+      "timestamp": 1779128379
+    },
+    {
+      "id": "BFMTV_1779128072",
+      "source": "BFMTV",
+      "text": "UN HOMME VIOLEMMENT AGRESSÉ EN BELGIQUE, LA POLICE TENTE DE LE RETROUVER",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:14",
+      "date": "18/05",
+      "timestamp": 1779128072
+    },
+    {
+      "id": "BFMTV_1779127669",
+      "source": "BFMTV",
+      "text": "\"L'ABOLITIONNISME PROGRESSE, MAIS LES IRRÉDUCTIBLES TUENT EN MASSE\": SELON AMNESTY INTERNATIONAL, AU MOINS 2.707 EXÉCUTIONS ONT EU LIEU EN 2025, UN NOMBRE RECORD CES DERNIÈRES DÉCENNIES",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:07",
+      "date": "18/05",
+      "timestamp": 1779127669
+    },
+    {
+      "id": "BFMTV_1779127669",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:07",
+      "date": "18/05",
+      "timestamp": 1779127669
+    },
+    {
+      "id": "BFMTV_1779127093",
+      "source": "BFMTV",
+      "text": "MONDIAL 2026: LES JOUEURS IRANIENS POURRONT-ILS OBTENIR UN VISA POUR ENTRER AUX ÉTATS-UNIS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:58",
+      "date": "18/05",
+      "timestamp": 1779127093
+    },
+    {
+      "id": "BFMTV_1779126475",
+      "source": "BFMTV",
+      "text": "LE CHAUFFEUR D'UN CAMION CONDAMNÉ AU ROYAUME-UNI POUR AVOIR DISSIMULÉ 90 KILOS DE COCAÏNE DANS UN CHARGEMENT DE LA MARQUE DE KIM KARDASHIAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:47",
+      "date": "18/05",
+      "timestamp": 1779126475
+    },
+    {
+      "id": "BFMTV_1779125995",
+      "source": "BFMTV",
+      "text": "TENSIONS ENTRE LA FRANCE ET L'ALGÉRIE",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:39",
+      "date": "18/05",
+      "timestamp": 1779125995
+    },
+    {
+      "id": "BFMTV_1779125870",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ET L’IRAN CAMPENT SUR LEUR POSITION DANS LES NÉGOCIATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:37",
+      "date": "18/05",
+      "timestamp": 1779125870
+    },
     {
       "id": "BFMTV_1779123778",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "14:20",
       "date": "17/05",
       "timestamp": 1779027643
-    },
-    {
-      "id": "BFMTV_1779024756",
-      "source": "BFMTV",
-      "text": "ÉPIDÉMIE D'ÉBOLA EN RDC: L'OMS RELÈVE SON NIVEAU D'ALERTE À \"URGENCE INTERNATIONALE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:32",
-      "date": "17/05",
-      "timestamp": 1779024756
-    },
-    {
-      "id": "BFMTV_1779024347",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:25",
-      "date": "17/05",
-      "timestamp": 1779024347
-    },
-    {
-      "id": "BFMTV_1779023600",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU DOIT PARLER À DONALD TRUMP CE DIMANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:13",
-      "date": "17/05",
-      "timestamp": 1779023600
-    },
-    {
-      "id": "BFMTV_1779023289",
-      "source": "BFMTV",
-      "text": "UNE FRAPPE DE DRONE PROVOQUE UN INCENDIE PRÈS D'UNE CENTRALE NUCLÉAIRE AUX ÉMIRATS ARABES UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:08",
-      "date": "17/05",
-      "timestamp": 1779023289
-    },
-    {
-      "id": "BFMTV_1779022455",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE FRAPPE À PROXIMITÉ D'UNE CENTRALE NUCLÉAIRE AUX ÉMIRATS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:54",
-      "date": "17/05",
-      "timestamp": 1779022455
-    },
-    {
-      "id": "BFMTV_1779021947",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:45",
-      "date": "17/05",
-      "timestamp": 1779021947
-    },
-    {
-      "id": "BFMTV_1779021669",
-      "source": "BFMTV",
-      "text": "LIBAN: TSAHAL ORDONNE L'ÉVACUATION DE QUATRE NOUVEAUX VILLAGES",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:41",
-      "date": "17/05",
-      "timestamp": 1779021669
-    },
-    {
-      "id": "BFMTV_1779021107",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES NÉGOCIATIONS \"DANS L'IMPASSE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:31",
-      "date": "17/05",
-      "timestamp": 1779021107
-    },
-    {
-      "id": "BFMTV_1779015329",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:55",
-      "date": "17/05",
-      "timestamp": 1779015329
-    },
-    {
-      "id": "OPEX360_1779014685",
-      "source": "OPEX360",
-      "text": "LA GRÈCE RECONSIDÈRE SON ACHAT DE DRONES TACTIQUES PATROLLER AUPRÈS DU FRANÇAIS SAFRAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:44",
-      "date": "17/05",
-      "timestamp": 1779014685
-    },
-    {
-      "id": "BFMTV_1779014293",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DÉTROIT D'ORMUZ, SANCTIONS.... L'IRAN FIXE SES CONDITIONS POUR NÉGOCIER AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:38",
-      "date": "17/05",
-      "timestamp": 1779014293
     }
   ],
   "france": {
