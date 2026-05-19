@@ -1,7 +1,77 @@
 {
-  "last_update": "19/05 08:48",
+  "last_update": "19/05 12:10",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1779185281",
+      "source": "OPEX360",
+      "text": "LA SUÈDE ANNONCE SON INTENTION D’ACQUÉRIR QUATRE FRÉGATES DE DÉFENSE ET D’INTERVENTION AUPRÈS DU FRANÇAIS NAVAL GROUP",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:08",
+      "date": "19/05",
+      "timestamp": 1779185281
+    },
+    {
+      "id": "BFMTV_1779182216",
+      "source": "BFMTV",
+      "text": "\"NOUS AVONS ÉTÉ TESTÉS ET AVONS DÉMONTRÉ QUE NOUS POUVONS NOUS DÉFENDRE\": LES CHEFS MILITAIRES DE L'OTAN RÉUNIS À BRUXELLES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:16",
+      "date": "19/05",
+      "timestamp": 1779182216
+    },
+    {
+      "id": "BFMTV_1779181957",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:12",
+      "date": "19/05",
+      "timestamp": 1779181957
+    },
+    {
+      "id": "BFMTV_1779181957",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:12",
+      "date": "19/05",
+      "timestamp": 1779181957
+    },
+    {
+      "id": "BFMTV_1779181957",
+      "source": "BFMTV",
+      "text": "LA RUSSIE MOBILISE DES MILLIERS DE SOLDATS DANS LE PAYS POUR TROIS JOURS D'EXERCICES DE SES FORCES NUCLÉAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:12",
+      "date": "19/05",
+      "timestamp": 1779181957
+    },
+    {
+      "id": "BFMTV_1779181549",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - L'IRAN MENACE DE TAXER LES CÂBLES INTERNET SOUS-MARINS DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:05",
+      "date": "19/05",
+      "timestamp": 1779181549
+    },
+    {
+      "id": "BFMTV_1779181339",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: FACE AUX REVIREMENTS DE DONALD TRUMP, L'IRAN DEMEURE FERME SUR SES POSITIONS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:02",
+      "date": "19/05",
+      "timestamp": 1779181339
+    },
     {
       "id": "BFMTV_1779179501",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "09:12",
       "date": "18/05",
       "timestamp": 1779095536
-    },
-    {
-      "id": "BFMTV_1779095359",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT AVOIR RÉPONDU À LA DERNIÈRE PROPOSITION AMÉRICAINE VISANT À METTRE FIN AU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:09",
-      "date": "18/05",
-      "timestamp": 1779095359
-    },
-    {
-      "id": "BFMTV_1779093592",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: LE NAVIRE DE CROISIÈRE MV HONDIUS EST ARRIVÉ AU PORT DE ROTTERDAM",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:39",
-      "date": "18/05",
-      "timestamp": 1779093592
-    },
-    {
-      "id": "BFMTV_1779084503",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: PLUSIEURS PAYS DE LA RÉGION CONDAMNENT L'ATTAQUE PRÈS D'UN SITE NUCLÉAIRE AUX ÉMIRATS ARABES UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:08",
-      "date": "18/05",
-      "timestamp": 1779084503
-    },
-    {
-      "id": "BFMTV_1779084155",
-      "source": "BFMTV",
-      "text": "LES IMAGES DE LA COLLISION DE DEUX AVIONS MILITAIRES AMÉRICAINS LORS D'UN SALON AÉRIEN DANS L'IDAHO",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:02",
-      "date": "18/05",
-      "timestamp": 1779084155
-    },
-    {
-      "id": "BFMTV_1779082729",
-      "source": "BFMTV",
-      "text": "\"GUERRE SPIRITUELLE\", \"MOMENT HISTORIQUE\": L'AMÉRIQUE TRUMPISTE CÉLÈBRE SES RACINES CHRÉTIENNES LORS D'UN MARATHON DE \"PRIÈRE NATIONALE\" À WASHINGTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:38",
-      "date": "18/05",
-      "timestamp": 1779082729
-    },
-    {
-      "id": "BFMTV_1779082664",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DANS DES IMAGES DE PROPAGANDE, L'IRAN APPREND LE MANIEMENT DES ARMES À SA POPULATION À LA TÉLÉVISION",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:37",
-      "date": "18/05",
-      "timestamp": 1779082664
-    },
-    {
-      "id": "BFMTV_1779080644",
-      "source": "BFMTV",
-      "text": "LA CORÉE DU NORD ANNONCE VOULOIR RENFORCER SES UNITÉS MILITAIRES DE PREMIÈRE LIGNE FACE À \"L'ENNEMI JURÉ\" SUD-CORÉEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:04",
-      "date": "18/05",
-      "timestamp": 1779080644
     }
   ],
   "france": {
