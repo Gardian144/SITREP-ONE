@@ -1,7 +1,37 @@
 {
-  "last_update": "19/05 20:03",
+  "last_update": "19/05 21:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779226478",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UNE FRAPPE ISRAÉLIENNE FAIT DIX MORTS DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:34",
+      "date": "19/05",
+      "timestamp": 1779226478
+    },
+    {
+      "id": "BFMTV_1779225207",
+      "source": "BFMTV",
+      "text": "ORMUZ: AU MOINS 10 MINES IDENTIFIÉES DANS LE DÉTROIT (MÉDIAS US)",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:13",
+      "date": "19/05",
+      "timestamp": 1779225207
+    },
+    {
+      "id": "BFMTV_1779224862",
+      "source": "BFMTV",
+      "text": "ORMUZ: AU MOINS 10 MINES IDENTIFIÉES DANS LE DÉTROIT (MÉDIAS US)",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:07",
+      "date": "19/05",
+      "timestamp": 1779224862
+    },
     {
       "id": "BFMTV_1779220403",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "15:08",
       "date": "18/05",
       "timestamp": 1779116894
-    },
-    {
-      "id": "BFMTV_1779116867",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS: \"AUCUN RISQUE DE PROPAGATION SUPPLÉMENTAIRE\" APRÈS L'ARRIVÉE DU MV HONDIUS AUX PAYS-BAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:07",
-      "date": "18/05",
-      "timestamp": 1779116867
-    },
-    {
-      "id": "BFMTV_1779116591",
-      "source": "BFMTV",
-      "text": "EBOLA: QUE CHANGE L'ACTIVATION DE \"L'URGENCE DE SANTÉ PUBLIQUE DE PORTÉE INTERNATIONALE\" EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO?",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:03",
-      "date": "18/05",
-      "timestamp": 1779116591
-    },
-    {
-      "id": "BFMTV_1779116114",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS UN HÔTEL RÉQUISITIONNÉ EN ISRAËL PAR L’ARMÉE AMÉRICAINE, QUI ACCROÎT SA PRÉSENCE MILITAIRE DANS LA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:55",
-      "date": "18/05",
-      "timestamp": 1779116114
     }
   ],
   "france": {
