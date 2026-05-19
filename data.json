@@ -1,7 +1,57 @@
 {
-  "last_update": "19/05 18:04",
+  "last_update": "19/05 20:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779220403",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: TÉHÉRAN A TRANSMIS DE NOUVELLES DEMANDES À WASHINGTON",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:53",
+      "date": "19/05",
+      "timestamp": 1779220403
+    },
+    {
+      "id": "BFMTV_1779217265",
+      "source": "BFMTV",
+      "text": "RETRAIT DE 4 000 SOLDATS DE POLOGNE: JD VANCE ÉVOQUE UN SIMPLE \"REPORT\" DES TROUPES",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:01",
+      "date": "19/05",
+      "timestamp": 1779217265
+    },
+    {
+      "id": "BFMTV_1779217170",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE EN CHINE: QUELS SONT LES OBJECTIFS DE CETTE VISITE ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:59",
+      "date": "19/05",
+      "timestamp": 1779217170
+    },
+    {
+      "id": "BFMTV_1779216918",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP POURRAIT RELANCER LES FRAPPES DANS QUELQUES JOURS: \"SON OBJECTIF C'EST D'AMENER LES IRANIENS À LA TABLE DES NÉGOCIATIONS\", ESTIME LE GÉNÉRAL JEAN-JACQUES BOREL",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:55",
+      "date": "19/05",
+      "timestamp": 1779216918
+    },
+    {
+      "id": "BFMTV_1779215120",
+      "source": "BFMTV",
+      "text": "J.D. VANCE: \"NOUS AVONS L'OCCASION DE REDÉFINIR LA RELATION QUI EXISTE ENTRE L'IRAN ET LES USA DEPUIS 47 ANS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:25",
+      "date": "19/05",
+      "timestamp": 1779215120
+    },
     {
       "id": "BFMTV_1779213658",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "14:55",
       "date": "18/05",
       "timestamp": 1779116114
-    },
-    {
-      "id": "BFMTV_1779115315",
-      "source": "BFMTV",
-      "text": "\"ON A PU DIALOGUER DANS UN BON ESPRIT\": LE PREMIER MINISTRE DU GROENLAND SE FÉLICITE D'UNE PREMIÈRE RÉUNION \"CONSTRUCTIVE\" AVEC L'ÉMISSAIRE DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:41",
-      "date": "18/05",
-      "timestamp": 1779115315
-    },
-    {
-      "id": "BFMTV_1779115315",
-      "source": "BFMTV",
-      "text": "TENSION AUTOUR DU GROENLAND",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:41",
-      "date": "18/05",
-      "timestamp": 1779115315
-    },
-    {
-      "id": "BFMTV_1779115096",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L’IRAN A CRÉÉ UN ORGANISME DESTINÉ À GÉRER LE DÉTROIT D’ORMUZ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:38",
-      "date": "18/05",
-      "timestamp": 1779115096
-    },
-    {
-      "id": "BFMTV_1779115053",
-      "source": "BFMTV",
-      "text": "\"NOUS SOMMES VENUS EN FAMILLE\": L’IRAN MET EN SCÈNE DES ENFANTS ET DES CIVILS ARMÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:37",
-      "date": "18/05",
-      "timestamp": 1779115053
-    },
-    {
-      "id": "BFMTV_1779113682",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN DIT AVOIR FRAPPÉ DES GROUPES LIÉS AUX ÉTATS-UNIS ET ISRAËL DANS L'OUEST DU PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:14",
-      "date": "18/05",
-      "timestamp": 1779113682
     }
   ],
   "france": {
