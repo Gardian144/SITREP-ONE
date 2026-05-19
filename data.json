@@ -1,7 +1,167 @@
 {
-  "last_update": "19/05 12:10",
+  "last_update": "19/05 15:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779205663",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE L'IRAN DISPOSE DE \"DEUX, TROIS JOURS\" AVANT QUE LES FRAPPES AMÉRICAINES NE REPRENNENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:47",
+      "date": "19/05",
+      "timestamp": 1779205663
+    },
+    {
+      "id": "BFMTV_1779205294",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE ARRIVE À PÉKIN POUR UNE RENCONTRE AVEC LE PRÉSIDENT CHINOIS XI JINPING",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:41",
+      "date": "19/05",
+      "timestamp": 1779205294
+    },
+    {
+      "id": "OPEX360_1779204669",
+      "source": "OPEX360",
+      "text": "LE BÂTIMENT RAVITAILLEUR DE FORCES «JACQUES STOSSKOPF» A DÉJÀ ÉTÉ ADMIS AU SERVICE ACTIF AU SEIN DE LA MARINE NATIONALE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:31",
+      "date": "19/05",
+      "timestamp": 1779204669
+    },
+    {
+      "id": "BFMTV_1779203510",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DÉCLARE QUE L'IRAN DISPOSE DE \"DEUX, TROIS JOURS\" AVANT QUE LES FRAPPES AMÉRICAINES NE REPRENNENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:11",
+      "date": "19/05",
+      "timestamp": 1779203510
+    },
+    {
+      "id": "BFMTV_1779203273",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"DÈS QUE CETTE GUERRE SERA TERMINÉE, LES PRIX DU CARBURANT VONT S'EFFONDRER\", AFFIRME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:07",
+      "date": "19/05",
+      "timestamp": 1779203273
+    },
+    {
+      "id": "BFMTV_1779202843",
+      "source": "BFMTV",
+      "text": "LE RETRAIT ANNONCÉ DE TROUPES AMÉRICAINES EN EUROPE N'A \"PAS D'IMPACT\" SUR LA CAPACITÉ DE DÉFENSE DE L'OTAN, ASSURE SON COMMANDANT SUPRÊME EN EUROPE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:00",
+      "date": "19/05",
+      "timestamp": 1779202843
+    },
+    {
+      "id": "BFMTV_1779202638",
+      "source": "BFMTV",
+      "text": "\"TOUT ÉTAIT PRÊT POUR QUE JE DONNE L'ORDRE\": DONALD TRUMP AFFIRME QU'IL ÉTAIT À \"UNE HEURE DE FRAPPER L'IRAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:57",
+      "date": "19/05",
+      "timestamp": 1779202638
+    },
+    {
+      "id": "BFMTV_1779201961",
+      "source": "BFMTV",
+      "text": "FRAPPES À VENIR SUR L'IRAN: \"J'ÉTAIS À UNE HEURE DE DÉCIDER\", AFFIRME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:46",
+      "date": "19/05",
+      "timestamp": 1779201961
+    },
+    {
+      "id": "BFMTV_1779201804",
+      "source": "BFMTV",
+      "text": "\"JE N'AI PAS ENCORE DÉCIDÉ\": DONALD TRUMP N'ÉCARTE PAS DE NOUVELLES POTENTIELLES FRAPPES SUR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:43",
+      "date": "19/05",
+      "timestamp": 1779201804
+    },
+    {
+      "id": "BFMTV_1779201590",
+      "source": "BFMTV",
+      "text": "SALLE DE BAL DE DONALD TRUMP: \"CE SERA LE PLUS BEAU BÂTIMENT DE WASHINGTON\", AFFIRME LE PRÉSIDENT AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:39",
+      "date": "19/05",
+      "timestamp": 1779201590
+    },
+    {
+      "id": "BFMTV_1779200268",
+      "source": "BFMTV",
+      "text": "LE MINISTRE DE LA DÉFENSE DES ÉMIRATS ARABES UNIS VA RENCONTRER SÉBASTIEN LECORNU À MATIGNON",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:17",
+      "date": "19/05",
+      "timestamp": 1779200268
+    },
+    {
+      "id": "BFMTV_1779200129",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE D'ATTAQUER LES PUITS DE PÉTROLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:15",
+      "date": "19/05",
+      "timestamp": 1779200129
+    },
+    {
+      "id": "BFMTV_1779199770",
+      "source": "BFMTV",
+      "text": "WASHINGTON D.C.: UNE VIOLENTE RIXE ENTRE ADOLESCENTS ÉCLATE AU BEAU MILIEU D'UN RESTAURANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:09",
+      "date": "19/05",
+      "timestamp": 1779199770
+    },
+    {
+      "id": "BFMTV_1779198244",
+      "source": "BFMTV",
+      "text": "LA SUÈDE VA ACHETER QUATRE FRÉGATES AU GROUPE FRANÇAIS NAVAL GROUP",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:44",
+      "date": "19/05",
+      "timestamp": 1779198244
+    },
+    {
+      "id": "BFMTV_1779197625",
+      "source": "BFMTV",
+      "text": "INCENDIE ET RÉOUVERTURE DE NOTRE-DAME DE PARIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:33",
+      "date": "19/05",
+      "timestamp": 1779197625
+    },
+    {
+      "id": "OPEX360_1779196729",
+      "source": "OPEX360",
+      "text": "L’ITALIE SE DÉTOURNE DE BOEING POUR ACQUÉRIR SIX AVIONS RAVITAILLEURS AIRBUS A330 MRTT POUR 1,4 MILLIARD D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:18",
+      "date": "19/05",
+      "timestamp": 1779196729
+    },
     {
       "id": "OPEX360_1779185281",
       "source": "OPEX360",
@@ -841,166 +1001,6 @@
       "time": "12:09",
       "date": "18/05",
       "timestamp": 1779106165
-    },
-    {
-      "id": "BFMTV_1779103952",
-      "source": "BFMTV",
-      "text": "LE DOSSIER DU 13H - COMMENT RÉPONDRE AUX RÉPERCUSSIONS ÉCONOMIQUES DE LA GUERRE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:32",
-      "date": "18/05",
-      "timestamp": 1779103952
-    },
-    {
-      "id": "BFMTV_1779102693",
-      "source": "BFMTV",
-      "text": "LES CORPS DE QUATRE PLONGEURS ITALIENS MORTS DANS L'ARCHIPEL DES MALDIVES ONT ÉTÉ RETROUVÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:11",
-      "date": "18/05",
-      "timestamp": 1779102693
-    },
-    {
-      "id": "BFMTV_1779102279",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ANNONCE LA CRÉATION D'UN ORGANISME DESTINÉ À GÉRER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:04",
-      "date": "18/05",
-      "timestamp": 1779102279
-    },
-    {
-      "id": "BFMTV_1779102268",
-      "source": "BFMTV",
-      "text": "\"JE M'INQUIÈTE TOUJOURS, C'EST MON MÉTIER !\": LA RÉPONSE DE CHRISTINE LAGARDE (BCE) SUR LE REPLI DU MARCHÉ DE LA DETTE DES ÉTATS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:04",
-      "date": "18/05",
-      "timestamp": 1779102268
-    },
-    {
-      "id": "BFMTV_1779102192",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE RÉUNION DE CRISE EST ANNONCÉE DEMAIN ENTRE DONALD TRUMP ET SES CONSEILLERS",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:03",
-      "date": "18/05",
-      "timestamp": 1779102192
-    },
-    {
-      "id": "BFMTV_1779102142",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: FACE AUX MENACES DE DONALD TRUMP, LA PROPAGANDE IRANIENNE EXHIBE DES ARMES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:02",
-      "date": "18/05",
-      "timestamp": 1779102142
-    },
-    {
-      "id": "OPEX360_1779100784",
-      "source": "OPEX360",
-      "text": "DEUX AVIONS DE GUERRE ÉLECTRONIQUE EA-18 GROWLER DE L’US NAVY SONT ENTRÉS EN COLLISION LORS D’UNE DÉMONSTRATION",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:39",
-      "date": "18/05",
-      "timestamp": 1779100784
-    },
-    {
-      "id": "BFMTV_1779100719",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN ANNONCE LA CRÉATION D'UN ORGANISME CHARGÉ DE GÉRER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:38",
-      "date": "18/05",
-      "timestamp": 1779100719
-    },
-    {
-      "id": "BFMTV_1779099543",
-      "source": "BFMTV",
-      "text": "\"ILS N'ACCEPTENT VRAIMENT AUCUN TYPE DE MÉDIATION OU D'AIDE\": L'UE DÉPLORE SON IMPUISSANCE FACE AUX ÉTATS-UNIS ET À L'IRAN SUR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:19",
-      "date": "18/05",
-      "timestamp": 1779099543
-    },
-    {
-      "id": "BFMTV_1779099448",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DES DÉGÂTS PROVOQUÉS PAR UNE FRAPPE ISRAÉLIENNE SUR UN VILLAGE LIBANAIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:17",
-      "date": "18/05",
-      "timestamp": 1779099448
-    },
-    {
-      "id": "BFMTV_1779098700",
-      "source": "BFMTV",
-      "text": "UNE NOUVELLE \"FLOTTILLE POUR GAZA\" INTERCEPTÉE PAR ISRAËL AU LARGE DE CHYPRE, LA TURQUIE DÉNONCE \"UN ACTE DE PIRATERIE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:05",
-      "date": "18/05",
-      "timestamp": 1779098700
-    },
-    {
-      "id": "BFMTV_1779098315",
-      "source": "BFMTV",
-      "text": "COMMANDANT DE LA \"SPACE FORCE\" ET DOIGT SUR LE BOUTON ROUGE: DONALD TRUMP PARTAGE DE NOUVELLES IMAGES GÉNÉRÉES PAR IA APRÈS SES MENACES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:58",
-      "date": "18/05",
-      "timestamp": 1779098315
-    },
-    {
-      "id": "BFMTV_1779098156",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN TRAIN PERCUTE VIOLEMMENT UN CAMION À UN PASSAGE À NIVEAU",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:55",
-      "date": "18/05",
-      "timestamp": 1779098156
-    },
-    {
-      "id": "BFMTV_1779097274",
-      "source": "BFMTV",
-      "text": "L'IRAN ANNONCE LA CRÉATION D'UN ORGANISME CHARGÉ DE GÉRER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:41",
-      "date": "18/05",
-      "timestamp": 1779097274
-    },
-    {
-      "id": "BFMTV_1779095922",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - CE QUE L'ON SAIT DES BASES SECRÈTES INSTALLÉES PAR ISRAËL EN IRAK",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:18",
-      "date": "18/05",
-      "timestamp": 1779095922
-    },
-    {
-      "id": "BFMTV_1779095536",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT AVOIR RÉPONDU À LA DERNIÈRE PROPOSITION AMÉRICAINE VISANT À METTRE FIN AU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:12",
-      "date": "18/05",
-      "timestamp": 1779095536
     }
   ],
   "france": {
