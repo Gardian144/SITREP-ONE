@@ -1,7 +1,157 @@
 {
-  "last_update": "20/05 04:36",
+  "last_update": "20/05 08:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779264442",
+      "source": "BFMTV",
+      "text": "ALERTE AU DRONE EN LITUANIE: LE PRÉSIDENT ET LA PREMIÈRE MINISTRE BRIÈVEMENT CONDUITS AUX ABRIS, L'AÉROPORT DE VILNIUS FERMÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:07",
+      "date": "20/05",
+      "timestamp": 1779264442
+    },
+    {
+      "id": "BFMTV_1779264264",
+      "source": "BFMTV",
+      "text": "BLOCAGE DU DÉTROIT D'ORMUZ: LE CHEF DE L’ONU, ANTÓNIO GUTERRES, DEMANDE À RÉTABLIR \"IMMÉDIATEMENT\" LA LIBERTÉ DE NAVIGATION",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:04",
+      "date": "20/05",
+      "timestamp": 1779264264
+    },
+    {
+      "id": "BFMTV_1779264013",
+      "source": "BFMTV",
+      "text": "\"UN ORDRE MONDIAL PLUS JUSTE ET PLUS DÉMOCRATIQUE\": VLADIMIR POUTINE LOUE DEVANT XI JINPING DES RELATIONS À UN NIVEAU \"SANS PRÉCÉDENT\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:00",
+      "date": "20/05",
+      "timestamp": 1779264013
+    },
+    {
+      "id": "BFMTV_1779263863",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN PROMET UNE GUERRE BIEN \"AU-DELÀ DE LA RÉGION\" EN CAS D'ATTAQUE AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:57",
+      "date": "20/05",
+      "timestamp": 1779263863
+    },
+    {
+      "id": "BFMTV_1779260941",
+      "source": "BFMTV",
+      "text": "UN SÉISME DE MAGNITUDE 6,1 FAIT UNE TRENTAINE DE BLESSÉS LÉGERS AU PÉROU",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:09",
+      "date": "20/05",
+      "timestamp": 1779260941
+    },
+    {
+      "id": "BFMTV_1779258536",
+      "source": "BFMTV",
+      "text": "ATTAQUE SUR LA CENTRALE NUCLÉAIRE DE BARAKAH: \"NOUS NOUS RÉSERVONS LE DROIT TOTAL ET INHÉRENT DE PROTÉGER NOTRE TERRITOIRE\", DÉCLARE LE REPRÉSENTANT DES ÉMIRATS ARABES UNIS À L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:28",
+      "date": "20/05",
+      "timestamp": 1779258536
+    },
+    {
+      "id": "BFMTV_1779258442",
+      "source": "BFMTV",
+      "text": "ÉMIRATS ARABES UNIS: LA FRANCE \"CONDAMNE\" L'ATTAQUE DE DRONES PRÈS DE LA CENTRALE NUCLÉAIRE DE BARAKAH",
+      "urgent": true,
+      "france_related": true,
+      "time": "06:27",
+      "date": "20/05",
+      "timestamp": 1779258442
+    },
+    {
+      "id": "BFMTV_1779258221",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES EN TRAIN DE TOUT BALAYER\": DONALD TRUMP ASSURE QU’UN ACCORD POUR METTRE FIN À LA GUERRE AVEC L’IRAN VA SE CONCLURE \"TRÈS RAPIDEMENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:23",
+      "date": "20/05",
+      "timestamp": 1779258221
+    },
+    {
+      "id": "BFMTV_1779256396",
+      "source": "BFMTV",
+      "text": "UN IRANIEN, LIBÉRÉ APRÈS DIX ANS DE PRISON POUR \"ESPIONNAGE\", RENTRE AUX ÉTATS-UNIS OÙ IL RÉSIDE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:53",
+      "date": "20/05",
+      "timestamp": 1779256396
+    },
+    {
+      "id": "BFMTV_1779255695",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:41",
+      "date": "20/05",
+      "timestamp": 1779255695
+    },
+    {
+      "id": "BFMTV_1779255694",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: UN TEXTE POUR ORDONNER UNE FIN AU CONFLIT PROGRESSE AU SÉNAT AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:41",
+      "date": "20/05",
+      "timestamp": 1779255694
+    },
+    {
+      "id": "BFMTV_1779253931",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: XI JINPING DÉCLARE À VLADIMIR POUTINE QU'UNE REPRISE DES HOSTILITÉS SERAIT \"INOPPORTUNE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:12",
+      "date": "20/05",
+      "timestamp": 1779253931
+    },
+    {
+      "id": "BFMTV_1779253697",
+      "source": "BFMTV",
+      "text": "GUERRE AVEC L'IRAN: DONALD TRUMP PROMET DE \"RÉGLER L'AFFAIRE\" DU NUCLÉAIRE IRANIEN \"RAPIDEMENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:08",
+      "date": "20/05",
+      "timestamp": 1779253697
+    },
+    {
+      "id": "BFMTV_1779253325",
+      "source": "BFMTV",
+      "text": "SIX MINEURES SECOURUES EN ÉQUATEUR D'UN RÉSEAU DE TRAITE D'ÊTRES HUMAINS SOUPÇONNÉ D'ÊTRE LIÉ À UNE SECTE JUIVE ULTRA-ORTHODOXE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:02",
+      "date": "20/05",
+      "timestamp": 1779253325
+    },
+    {
+      "id": "BFMTV_1779252694",
+      "source": "BFMTV",
+      "text": "PÉAGE, SYSTÈMES D'ASSURANCE, TAXES SUR LES CÂBLES SOUS-MARINS... COMMENT L'IRAN EST PRÊT À TOUT POUR CONSERVER LE CONTRÔLE SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:51",
+      "date": "20/05",
+      "timestamp": 1779252694
+    },
     {
       "id": "BFMTV_1779251673",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "20:57",
       "date": "18/05",
       "timestamp": 1779137866
-    },
-    {
-      "id": "BFMTV_1779136373",
-      "source": "BFMTV",
-      "text": "UN TIREUR \"NEUTRALISÉ\" APRÈS UNE INTRUSION DANS UN CENTRE ISLAMIQUE À SAN DIEGO EN CALIFORNIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:32",
-      "date": "18/05",
-      "timestamp": 1779136373
-    },
-    {
-      "id": "BFMTV_1779136373",
-      "source": "BFMTV",
-      "text": "AU MOINS TROIS MORTS APRÈS UNE FUSILLADE DANS UN CENTRE ISLAMIQUE À SAN DIEGO, DEUX SUSPECTS RETROUVÉS MORTS À PROXIMITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:32",
-      "date": "18/05",
-      "timestamp": 1779136373
-    },
-    {
-      "id": "BFMTV_1779135849",
-      "source": "BFMTV",
-      "text": "JEAN-PIERRE RAFFARIN ANALYSE DONALD TRUMP ET SA GESTION DE LA GUERRE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:24",
-      "date": "18/05",
-      "timestamp": 1779135849
-    },
-    {
-      "id": "BFMTV_1779135132",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP REPORTE DES FRAPPES: \"LE POING DE FER DE LA GRANDE NATION IRANIENNE LES FORCERA À BATTRE EN RETRAITE\", RÉAGIT L’IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:12",
-      "date": "18/05",
-      "timestamp": 1779135132
-    },
-    {
-      "id": "BFMTV_1779134251",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES NÉGOCIATIONS SONT DÉSORMAIS \"SÉRIEUSES\" AVEC L’IRAN, SELON DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:57",
-      "date": "18/05",
-      "timestamp": 1779134251
-    },
-    {
-      "id": "BFMTV_1779133617",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP DEMANDE À L'ARMÉE AMÉRICAINE DE \"SE TENIR PRÊTE À LANCER UN ASSAUT COMPLET\" CONTRE L’IRAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "19:46",
-      "date": "18/05",
-      "timestamp": 1779133617
-    },
-    {
-      "id": "BFMTV_1779133006",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP ANNONCE \"SUSPENDRE\" DES FRAPPES PRÉVUES MARDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:36",
-      "date": "18/05",
-      "timestamp": 1779133006
-    },
-    {
-      "id": "BFMTV_1779131998",
-      "source": "BFMTV",
-      "text": "\"IL FAUT VRAIMENT QUE L’EUROPE MONTRE NOTRE VOLONTÉ D’INDÉPENDANCE\", RÉCLAME JEAN-PIERRE RAFFARIN, ANCIEN PREMIER MINISTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:19",
-      "date": "18/05",
-      "timestamp": 1779131998
-    },
-    {
-      "id": "BFMTV_1779131933",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE SE REND EN CHINE: \"IL EST EN ÉTAT DE FAIBLESSE\", SOULIGNE JEAN-PIERRE RAFFARIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:18",
-      "date": "18/05",
-      "timestamp": 1779131933
-    },
-    {
-      "id": "BFMTV_1779131787",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ON A LE CHOIX ENTRE UN EMBRASEMENT GÉNÉRAL OU UNE DISCUSSION\", ANALYSE JEAN-PIERRE RAFFARIN, ANCIEN PREMIER MINISTRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:16",
-      "date": "18/05",
-      "timestamp": 1779131787
-    },
-    {
-      "id": "BFMTV_1779131757",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP RENONCE À UNE ATTAQUE PRÉVUE MARDI CONTRE L'IRAN À LA DEMANDE DE DIRIGEANTS DU GOLFE",
-      "urgent": true,
-      "france_related": true,
-      "time": "19:15",
-      "date": "18/05",
-      "timestamp": 1779131757
-    },
-    {
-      "id": "BFMTV_1779131626",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"IL FAUT PRENDRE DONALD TRUMP COMME UN ÊTRE ASSEZ DANGEREUX\", ESTIME JEAN-PIERRE RAFFARIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:13",
-      "date": "18/05",
-      "timestamp": 1779131626
-    },
-    {
-      "id": "BFMTV_1779131450",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP RENONCE À UNE ATTAQUE PRÉVUE MARDI CONTRE L'IRAN À LA DEMANDE DE PAYS DU GOLFE",
-      "urgent": true,
-      "france_related": true,
-      "time": "19:10",
-      "date": "18/05",
-      "timestamp": 1779131450
-    },
-    {
-      "id": "BFMTV_1779130530",
-      "source": "BFMTV",
-      "text": "OFER BRONCHTEIN, MILITANT POUR LA PAIX ENTRE ISRAÉLIENS ET PALESTINIENS, EST MORT À L'ÂGE DE 69 ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:55",
-      "date": "18/05",
-      "timestamp": 1779130530
-    },
-    {
-      "id": "BFMTV_1779128748",
-      "source": "BFMTV",
-      "text": "SPECTACULAIRE COLLISION D’AVIONS DE CHASSE AUX ÉTATS-UNIS: \"CE GENRE D’ACCIDENT ARRIVE\", ANALYSE LE GÉNÉRAL VINCENT DESPORTES",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:25",
-      "date": "18/05",
-      "timestamp": 1779128748
     }
   ],
   "france": {
