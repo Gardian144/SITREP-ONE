@@ -1,7 +1,67 @@
 {
-  "last_update": "20/05 17:31",
+  "last_update": "20/05 19:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779303542",
+      "source": "BFMTV",
+      "text": "DÉTROIT D’ORMUZ: “NOTRE BLOCUS A ÉTÉ INFAILLIBLE”, DÉCLARE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:59",
+      "date": "20/05",
+      "timestamp": 1779303542
+    },
+    {
+      "id": "BFMTV_1779303351",
+      "source": "BFMTV",
+      "text": "IRAN: “SI JE PEUX EMPÊCHER UNE GUERRE ET ÉPARGNER DES VIES EN ATTENDANT QUELQUES JOURS DE PLUS, JE PENSE QUE CELA VAUT LE COUP”, AFFIRME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:55",
+      "date": "20/05",
+      "timestamp": 1779303351
+    },
+    {
+      "id": "BFMTV_1779303138",
+      "source": "BFMTV",
+      "text": "FLOTTILLE POUR GAZA: LES IMAGES DE MILITANTS AGENOUILLÉS DEVANT UN MINISTRE ISRAÉLIEN FONT POLÉMIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:52",
+      "date": "20/05",
+      "timestamp": 1779303138
+    },
+    {
+      "id": "BFMTV_1779300791",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES NÉGOCIATIONS AVEC L'IRAN EN SONT \"À LEUR PHASE FINALE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:13",
+      "date": "20/05",
+      "timestamp": 1779300791
+    },
+    {
+      "id": "OPEX360_1779299276",
+      "source": "OPEX360",
+      "text": "LE FRANÇAIS CS GROUP VA ASSURER LA PROTECTION DU QUARTIER GÉNÉRAL DE L’OTAN CONTRE LES DRONES",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:47",
+      "date": "20/05",
+      "timestamp": 1779299276
+    },
+    {
+      "id": "BFMTV_1779299151",
+      "source": "BFMTV",
+      "text": "ISRAËL: LES IMAGES DE MILITANTS D'UNE FLOTTILLE POUR GAZA AGENOUILLÉS ET LES MAINS LIÉES PROVOQUENT UN TOLLÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:45",
+      "date": "20/05",
+      "timestamp": 1779299151
+    },
     {
       "id": "BFMTV_1779297858",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "14:57",
       "date": "19/05",
       "timestamp": 1779202638
-    },
-    {
-      "id": "BFMTV_1779201961",
-      "source": "BFMTV",
-      "text": "FRAPPES À VENIR SUR L'IRAN: \"J'ÉTAIS À UNE HEURE DE DÉCIDER\", AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:46",
-      "date": "19/05",
-      "timestamp": 1779201961
-    },
-    {
-      "id": "BFMTV_1779201804",
-      "source": "BFMTV",
-      "text": "\"JE N'AI PAS ENCORE DÉCIDÉ\": DONALD TRUMP N'ÉCARTE PAS DE NOUVELLES POTENTIELLES FRAPPES SUR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:43",
-      "date": "19/05",
-      "timestamp": 1779201804
-    },
-    {
-      "id": "BFMTV_1779201590",
-      "source": "BFMTV",
-      "text": "SALLE DE BAL DE DONALD TRUMP: \"CE SERA LE PLUS BEAU BÂTIMENT DE WASHINGTON\", AFFIRME LE PRÉSIDENT AMÉRICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:39",
-      "date": "19/05",
-      "timestamp": 1779201590
-    },
-    {
-      "id": "BFMTV_1779200268",
-      "source": "BFMTV",
-      "text": "LE MINISTRE DE LA DÉFENSE DES ÉMIRATS ARABES UNIS VA RENCONTRER SÉBASTIEN LECORNU À MATIGNON",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:17",
-      "date": "19/05",
-      "timestamp": 1779200268
-    },
-    {
-      "id": "BFMTV_1779200129",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE D'ATTAQUER LES PUITS DE PÉTROLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:15",
-      "date": "19/05",
-      "timestamp": 1779200129
-    },
-    {
-      "id": "BFMTV_1779199770",
-      "source": "BFMTV",
-      "text": "WASHINGTON D.C.: UNE VIOLENTE RIXE ENTRE ADOLESCENTS ÉCLATE AU BEAU MILIEU D'UN RESTAURANT",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:09",
-      "date": "19/05",
-      "timestamp": 1779199770
     }
   ],
   "france": {
