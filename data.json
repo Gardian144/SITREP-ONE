@@ -1,7 +1,27 @@
 {
-  "last_update": "20/05 21:24",
+  "last_update": "20/05 22:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779314664",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN AFFIRME QUE \"LES OPTIONS RESTENT OUVERTES\" POUR METTRE FIN AU CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:04",
+      "date": "20/05",
+      "timestamp": 1779314664
+    },
+    {
+      "id": "BFMTV_1779312358",
+      "source": "BFMTV",
+      "text": "\"UNE MANŒUVRE POLITIQUE\": LES ÉTATS-UNIS INCULPENT L'EX-PRÉSIDENT CUBAIN RAUL CASTRO",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:25",
+      "date": "20/05",
+      "timestamp": 1779312358
+    },
     {
       "id": "BFMTV_1779310572",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "16:53",
       "date": "19/05",
       "timestamp": 1779209631
-    },
-    {
-      "id": "BFMTV_1779207217",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: DES CANDIDATES DE \"MARIÉS AU PREMIER REGARD\" ACCUSENT LEUR MARI DE VIOLS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:13",
-      "date": "19/05",
-      "timestamp": 1779207217
-    },
-    {
-      "id": "BFMTV_1779206231",
-      "source": "BFMTV",
-      "text": "\"ÇA SUFFIT CES LARMES DE CROCODILE\": À L'ONU, L'UKRAINE DEMANDE À LA RUSSIE D'ARRÊTER DE SE \"PLAINDRE\" DES SOUFFRANCES DES \"PAUVRES RUSSES\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:57",
-      "date": "19/05",
-      "timestamp": 1779206231
     }
   ],
   "france": {
