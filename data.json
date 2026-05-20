@@ -1,7 +1,147 @@
 {
-  "last_update": "20/05 08:16",
+  "last_update": "20/05 11:26",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779274632",
+      "source": "BFMTV",
+      "text": "ÉVIAN SE PRÉPARE AU SOMMET DU G7, AUQUEL PARTICIPERA DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:57",
+      "date": "20/05",
+      "timestamp": 1779274632
+    },
+    {
+      "id": "OPEX360_1779273840",
+      "source": "OPEX360",
+      "text": "LA RUSSIE A FAIT VOLER UNE VERSION BIPLACE DE SON AVION DE COMBAT DE 5E GÉNÉRATION SU-57 FELON",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:44",
+      "date": "20/05",
+      "timestamp": 1779273840
+    },
+    {
+      "id": "BFMTV_1779273224",
+      "source": "BFMTV",
+      "text": "NIGERIA: CE CANDIDAT AUX ÉLECTIONS LÉGISLATIVES, ATTEINT DE NANISME, OBLIGÉ DE SE RETIRER À CAUSE DE SON ÂGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:33",
+      "date": "20/05",
+      "timestamp": 1779273224
+    },
+    {
+      "id": "BFMTV_1779272100",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: OÙ L'IRAN POURRAIT-IL FRAPPER SI LA GUERRE S'ÉTEND \"AU-DELÀ DE LA RÉGION\"?",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:15",
+      "date": "20/05",
+      "timestamp": 1779272100
+    },
+    {
+      "id": "BFMTV_1779271573",
+      "source": "BFMTV",
+      "text": "PLUS DE 65.000 MILITAIRES MOBILISÉS, PLUS DE 200 LANCEURS DE MISSILES... LES IMAGES DES EXERCICES DES FORCES NUCLÉAIRES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:06",
+      "date": "20/05",
+      "timestamp": 1779271573
+    },
+    {
+      "id": "BFMTV_1779271183",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LE CONFLIT S'ENLISE ET LES CONSÉQUENCES DU CONFLIT SERONT AMENÉES À DURER\", INDIQUE LA PORTE-PAROLE DU GOUVERNEMENT MAUD BREGEON",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:59",
+      "date": "20/05",
+      "timestamp": 1779271183
+    },
+    {
+      "id": "BFMTV_1779269905",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN DRONE A ÉTÉ INTERCEPTÉ DANS L'ESPACE AÉRIEN JORDANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:38",
+      "date": "20/05",
+      "timestamp": 1779269905
+    },
+    {
+      "id": "BFMTV_1779269699",
+      "source": "BFMTV",
+      "text": "EBOLA: L'OMS JUGE LE RISQUE ÉPIDÉMIQUE \"ÉLEVÉ\" AUX NIVEAUX NATIONAL ET RÉGIONAL, \"FAIBLE\" AU NIVEAU MONDIAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:34",
+      "date": "20/05",
+      "timestamp": 1779269699
+    },
+    {
+      "id": "BFMTV_1779269185",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - LES ÉTATS-UNIS ET ISRAËL AURAIENT ENVISAGÉ DE PLACER MAHMOUD AHMADINEJAD AU POUVOIR EN IRAN, D'APRÈS DES INFORMATIONS DU NEW YORK TIMES",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:26",
+      "date": "20/05",
+      "timestamp": 1779269185
+    },
+    {
+      "id": "BFMTV_1779267968",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN PROMET UNE GUERRE BIEN \"AU-DELÀ DE LA RÉGION\" EN CAS D'ATTAQUE AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:06",
+      "date": "20/05",
+      "timestamp": 1779267968
+    },
+    {
+      "id": "BFMTV_1779267674",
+      "source": "BFMTV",
+      "text": "\"NOUS AVONS UNE ARMÉE QUI EST COMPLÈTE ET POLYVALENTE\", ESTIME LE CHEF DU GROUPEMENT DE COMMANDOS PARACHUTISTES BENOÎT VALADIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:01",
+      "date": "20/05",
+      "timestamp": 1779267674
+    },
+    {
+      "id": "BFMTV_1779267529",
+      "source": "BFMTV",
+      "text": "\"LE DRONE NOUS AIDE ÉNORMÉMENT, MAIS IL NE REMPLACERA JAMAIS L'HOMME\", EXPLIQUE LE CHEF DU GROUPEMENT DE COMMANDOS PARACHUTISTES BENOÎT VALADIER",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:58",
+      "date": "20/05",
+      "timestamp": 1779267529
+    },
+    {
+      "id": "BFMTV_1779266868",
+      "source": "BFMTV",
+      "text": "HONGRIE : LE PREMIER MINISTRE PETER MAGYAR EN POLOGNE POUR SON PREMIER DÉPLACEMENT OFFICIEL À L'ÉTRANGER",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:47",
+      "date": "20/05",
+      "timestamp": 1779266868
+    },
+    {
+      "id": "BFMTV_1779265037",
+      "source": "BFMTV",
+      "text": "\"LE MULTILATÉRALISME N'EST PAS EN CRISE\": ANTÓNIO GUTERRES DÉNONCE LE COMPORTEMENT DES SUPERPUISSANCES \"QUI VIOLENT LE DROIT INTERNATIONAL\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:17",
+      "date": "20/05",
+      "timestamp": 1779265037
+    },
     {
       "id": "BFMTV_1779264442",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "04:54",
       "date": "19/05",
       "timestamp": 1779166475
-    },
-    {
-      "id": "BFMTV_1779166428",
-      "source": "BFMTV",
-      "text": "DE QUELS MOYENS DISPOSENT LES ÉTATS-UNIS EN CAS DE REPRISE DES FRAPPES EN IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:53",
-      "date": "19/05",
-      "timestamp": 1779166428
-    },
-    {
-      "id": "BFMTV_1779166217",
-      "source": "BFMTV",
-      "text": "DEPUIS LE DÉBUT DES FRAPPES ISRAÉLIENNES SUR LE LIBAN, PLUS DE 3.000 PERSONNES SONT MORTES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:50",
-      "date": "19/05",
-      "timestamp": 1779166217
-    },
-    {
-      "id": "BFMTV_1779165846",
-      "source": "BFMTV",
-      "text": "ROUTES TERRESTRES, OLÉODUCS... LES PAYS DU GOLFE TRAVAILLENT À UNE STRATÉGIE DE CONTOURNEMENT DU DÉTROIT D'ORMUZ POUR ACHEMINER DU PÉTROLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:44",
-      "date": "19/05",
-      "timestamp": 1779165846
-    },
-    {
-      "id": "BFMTV_1779165516",
-      "source": "BFMTV",
-      "text": "APRÈS L'ANNONCE DU REPORT DES FRAPPES EN IRAN, JUSQU'OÙ PEUT ALLER LA PATIENCE DE DONALD TRUMP ? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:38",
-      "date": "19/05",
-      "timestamp": 1779165516
-    },
-    {
-      "id": "BFMTV_1779165393",
-      "source": "BFMTV",
-      "text": "LE BRIEF DU GENERAL - QUE POURRAIENT ÊTRE LES CIBLES D'UNE  \"ATTAQUE TOTALE ET À GRANDE ÉCHELLE\" DES ÉTATS-UNIS CONTRE L'IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:36",
-      "date": "19/05",
-      "timestamp": 1779165393
-    },
-    {
-      "id": "BFMTV_1779165104",
-      "source": "BFMTV",
-      "text": "AUX ÉTATS-UNIS, AU MOINS TROIS MORTS APRÈS DES TIRS DANS UNE MOSQUÉE EN CALIFORNIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:31",
-      "date": "19/05",
-      "timestamp": 1779165104
-    },
-    {
-      "id": "BFMTV_1779164893",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL SE TIENT PRÊT À UNE REPRISE DES FRAPPES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:28",
-      "date": "19/05",
-      "timestamp": 1779164893
-    },
-    {
-      "id": "BFMTV_1779143113",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DEMANDE À L'ARMÉE AMÉRICAINE DE \"SE TENIR PRÊTE À LANCER UN ASSAUT COMPLET\" CONTRE L’IRAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "22:25",
-      "date": "18/05",
-      "timestamp": 1779143113
-    },
-    {
-      "id": "BFMTV_1779141620",
-      "source": "BFMTV",
-      "text": "MONDIAL 2026: LES JOUEURS IRANIENS N’ONT OBTENU AUCUN VISA POUR LES ÉTATS-UNIS \"À L’INSTANT T\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:00",
-      "date": "18/05",
-      "timestamp": 1779141620
-    },
-    {
-      "id": "BFMTV_1779141192",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP REPORTE DES FRAPPES EN IRAN POUR \"DEUX OU TROIS JOURS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:53",
-      "date": "18/05",
-      "timestamp": 1779141192
-    },
-    {
-      "id": "BFMTV_1779140981",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP REPORTE DES FRAPPES: “POURQUOI MONTER UNE GROSSE OPÉRATION QUAND IL SUFFIT D’ATTENDRE”, OBSERVE MICHEL POLACCO, SPÉCIALISTE DES QUESTIONS DE DÉFENSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:49",
-      "date": "18/05",
-      "timestamp": 1779140981
-    },
-    {
-      "id": "BFMTV_1779140050",
-      "source": "BFMTV",
-      "text": "\"ON EST DANS LA GUERRE DE PROPAGANDE\": L’IRAN CONTINUE SA MISE EN SCÈNE DE \"L'AGRESSÉ\", DÉCRYPTE OLIVIER WEBER, GRAND REPORTER",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:34",
-      "date": "18/05",
-      "timestamp": 1779140050
-    },
-    {
-      "id": "BFMTV_1779139318",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LES AMÉRICAINS CHERCHENT UN ACCORD\", SELON LE LIEUTENANT-COLONEL GUILLAUME ANCEL",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:21",
-      "date": "18/05",
-      "timestamp": 1779139318
-    },
-    {
-      "id": "BFMTV_1779137866",
-      "source": "BFMTV",
-      "text": "SAN DIEGO: UN TIREUR \"NEUTRALISÉ\" APRÈS UNE INTRUSION DANS UN CENTRE ISLAMIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:57",
-      "date": "18/05",
-      "timestamp": 1779137866
     }
   ],
   "france": {
