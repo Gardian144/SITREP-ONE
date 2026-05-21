@@ -1,7 +1,147 @@
 {
-  "last_update": "21/05 14:28",
+  "last_update": "21/05 17:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779383346",
+      "source": "BFMTV",
+      "text": "IRAN: QUAND LA CIA CONTREDIT DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:09",
+      "date": "21/05",
+      "timestamp": 1779383346
+    },
+    {
+      "id": "BFMTV_1779381226",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE GOUVERNEMENT SALUE L'ÉCONOMIE FRANÇAISE QUI \"TIENT\" MALGRÉ LE CONFLIT",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:33",
+      "date": "21/05",
+      "timestamp": 1779381226
+    },
+    {
+      "id": "BFMTV_1779380909",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: SÉBASTIEN LECORNU ÉVOQUE LES DIFFÉRENTS SCÉNARIOS",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:28",
+      "date": "21/05",
+      "timestamp": 1779380909
+    },
+    {
+      "id": "OPEX360_1779380035",
+      "source": "OPEX360",
+      "text": "LA 5E ESCADRE DE CHASSE S’EXERCE AU «RÉARMEMENT À CHAUD» POUR METTRE UNE PRESSION CONTINUE SUR UN ADVERSAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:13",
+      "date": "21/05",
+      "timestamp": 1779380035
+    },
+    {
+      "id": "BFMTV_1779379521",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:05",
+      "date": "21/05",
+      "timestamp": 1779379521
+    },
+    {
+      "id": "BFMTV_1779379501",
+      "source": "BFMTV",
+      "text": "LA MÈRE DES DEUX ENFANTS FRANÇAIS RETROUVÉS SEULS SUR UNE ROUTE AU PORTUGAL ARRÊTÉE À FATIMA",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:05",
+      "date": "21/05",
+      "timestamp": 1779379501
+    },
+    {
+      "id": "BFMTV_1779377813",
+      "source": "BFMTV",
+      "text": "\"NOTRE PRÉFÉRENCE À CUBA ET PARTOUT DANS LE MONDE EST UN ACCORD DIPLOMATIQUE NÉGOCIÉ\", AFFIRME MARCO RUBIO",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:36",
+      "date": "21/05",
+      "timestamp": 1779377813
+    },
+    {
+      "id": "BFMTV_1779377666",
+      "source": "BFMTV",
+      "text": " \"GAZA SERA DÉRADICALISÉE\", ASSURENT LES ÉTATS-UNIS À L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:34",
+      "date": "21/05",
+      "timestamp": 1779377666
+    },
+    {
+      "id": "BFMTV_1779376638",
+      "source": "BFMTV",
+      "text": "\"LE PROFESSIONEL DE SANTÉ NE DEVRAIT PAS AVOIR À MENDIER UN SOUTIEN DE BASE\", DÉCLARE NOAH WYLE, ACTEUR STAR DE LA SÉRIE \"THE PITT\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:17",
+      "date": "21/05",
+      "timestamp": 1779376638
+    },
+    {
+      "id": "BFMTV_1779376222",
+      "source": "BFMTV",
+      "text": "DEUX ENFANTS FRANÇAIS DE 4 ET 5 ANS DÉCOUVERTS SEULS SUR UNE ROUTE AU PORTUGAL, UNE INFORMATION JUDICIAIRE OUVERTE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:10",
+      "date": "21/05",
+      "timestamp": 1779376222
+    },
+    {
+      "id": "BFMTV_1779375959",
+      "source": "BFMTV",
+      "text": "IMMUNITÉ À VIE POUR DONALD TRUMP: L'ACCORD FISCAL PRÉVOIT LA CRÉATION D'UN FONDS D'INDEMNISATION DE SES FIDÈLES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:05",
+      "date": "21/05",
+      "timestamp": 1779375959
+    },
+    {
+      "id": "BFMTV_1779375281",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: DE SPECTACULAIRES INONDATIONS À NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:54",
+      "date": "21/05",
+      "timestamp": 1779375281
+    },
+    {
+      "id": "BFMTV_1779375223",
+      "source": "BFMTV",
+      "text": "UNE INFLUENCEUSE AMÉRICAINE ET SON PÈRE ACCUSÉS D'AVOIR PLANIFIÉ L'ASSASSINAT DE SON EX-PETIT-AMI",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:53",
+      "date": "21/05",
+      "timestamp": 1779375223
+    },
+    {
+      "id": "OPEX360_1779374310",
+      "source": "OPEX360",
+      "text": "ARMEMENT TERRESTRE : LA FRANCE VA-T-ELLE ÊTRE OBLIGÉE DE RÉDUIRE SA PARTICIPATION AU CAPITAL DE KNDS À 30 % ?",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:38",
+      "date": "21/05",
+      "timestamp": 1779374310
+    },
     {
       "id": "BFMTV_1779370903",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "11:58",
       "date": "20/05",
       "timestamp": 1779278296
-    },
-    {
-      "id": "BFMTV_1779277820",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES ATTENTATS PRO-IRANIENS PEUVENT-ILS CIBLER LA FRANCE?",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:50",
-      "date": "20/05",
-      "timestamp": 1779277820
-    },
-    {
-      "id": "BFMTV_1779274632",
-      "source": "BFMTV",
-      "text": "ÉVIAN SE PRÉPARE AU SOMMET DU G7, AUQUEL PARTICIPERA DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:57",
-      "date": "20/05",
-      "timestamp": 1779274632
-    },
-    {
-      "id": "OPEX360_1779273840",
-      "source": "OPEX360",
-      "text": "LA RUSSIE A FAIT VOLER UNE VERSION BIPLACE DE SON AVION DE COMBAT DE 5E GÉNÉRATION SU-57 FELON",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:44",
-      "date": "20/05",
-      "timestamp": 1779273840
-    },
-    {
-      "id": "BFMTV_1779273224",
-      "source": "BFMTV",
-      "text": "NIGERIA: CE CANDIDAT AUX ÉLECTIONS LÉGISLATIVES, ATTEINT DE NANISME, OBLIGÉ DE SE RETIRER À CAUSE DE SON ÂGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:33",
-      "date": "20/05",
-      "timestamp": 1779273224
-    },
-    {
-      "id": "BFMTV_1779272100",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: OÙ L'IRAN POURRAIT-IL FRAPPER SI LA GUERRE S'ÉTEND \"AU-DELÀ DE LA RÉGION\"?",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:15",
-      "date": "20/05",
-      "timestamp": 1779272100
-    },
-    {
-      "id": "BFMTV_1779271573",
-      "source": "BFMTV",
-      "text": "PLUS DE 65.000 MILITAIRES MOBILISÉS, PLUS DE 200 LANCEURS DE MISSILES... LES IMAGES DES EXERCICES DES FORCES NUCLÉAIRES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:06",
-      "date": "20/05",
-      "timestamp": 1779271573
-    },
-    {
-      "id": "BFMTV_1779271183",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LE CONFLIT S'ENLISE ET LES CONSÉQUENCES DU CONFLIT SERONT AMENÉES À DURER\", INDIQUE LA PORTE-PAROLE DU GOUVERNEMENT MAUD BREGEON",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:59",
-      "date": "20/05",
-      "timestamp": 1779271183
-    },
-    {
-      "id": "BFMTV_1779269905",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN DRONE A ÉTÉ INTERCEPTÉ DANS L'ESPACE AÉRIEN JORDANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:38",
-      "date": "20/05",
-      "timestamp": 1779269905
-    },
-    {
-      "id": "BFMTV_1779269699",
-      "source": "BFMTV",
-      "text": "EBOLA: L'OMS JUGE LE RISQUE ÉPIDÉMIQUE \"ÉLEVÉ\" AUX NIVEAUX NATIONAL ET RÉGIONAL, \"FAIBLE\" AU NIVEAU MONDIAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:34",
-      "date": "20/05",
-      "timestamp": 1779269699
-    },
-    {
-      "id": "BFMTV_1779269185",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - LES ÉTATS-UNIS ET ISRAËL AURAIENT ENVISAGÉ DE PLACER MAHMOUD AHMADINEJAD AU POUVOIR EN IRAN, D'APRÈS DES INFORMATIONS DU NEW YORK TIMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:26",
-      "date": "20/05",
-      "timestamp": 1779269185
-    },
-    {
-      "id": "BFMTV_1779267968",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN PROMET UNE GUERRE BIEN \"AU-DELÀ DE LA RÉGION\" EN CAS D'ATTAQUE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:06",
-      "date": "20/05",
-      "timestamp": 1779267968
-    },
-    {
-      "id": "BFMTV_1779267674",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS UNE ARMÉE QUI EST COMPLÈTE ET POLYVALENTE\", ESTIME LE CHEF DU GROUPEMENT DE COMMANDOS PARACHUTISTES BENOÎT VALADIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:01",
-      "date": "20/05",
-      "timestamp": 1779267674
-    },
-    {
-      "id": "BFMTV_1779267529",
-      "source": "BFMTV",
-      "text": "\"LE DRONE NOUS AIDE ÉNORMÉMENT, MAIS IL NE REMPLACERA JAMAIS L'HOMME\", EXPLIQUE LE CHEF DU GROUPEMENT DE COMMANDOS PARACHUTISTES BENOÎT VALADIER",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:58",
-      "date": "20/05",
-      "timestamp": 1779267529
-    },
-    {
-      "id": "BFMTV_1779266868",
-      "source": "BFMTV",
-      "text": "HONGRIE : LE PREMIER MINISTRE PETER MAGYAR EN POLOGNE POUR SON PREMIER DÉPLACEMENT OFFICIEL À L'ÉTRANGER",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:47",
-      "date": "20/05",
-      "timestamp": 1779266868
     }
   ],
   "france": {
