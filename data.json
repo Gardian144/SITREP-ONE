@@ -1,7 +1,67 @@
 {
-  "last_update": "21/05 21:11",
+  "last_update": "21/05 22:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779401853",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS VONT S'\"EMPARER\" DE L'URANIUM ENRICHI EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:17",
+      "date": "21/05",
+      "timestamp": 1779401853
+    },
+    {
+      "id": "BFMTV_1779401133",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE L'ENVOI DE 5.000 MILITAIRES AMÉRICAINS EN POLOGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:05",
+      "date": "21/05",
+      "timestamp": 1779401133
+    },
+    {
+      "id": "BFMTV_1779400014",
+      "source": "BFMTV",
+      "text": "LE PORTE-AVIONS AMÉRICAIN “NIMITZ” EST ARRIVÉ PRÈS DE CUBA",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:46",
+      "date": "21/05",
+      "timestamp": 1779400014
+    },
+    {
+      "id": "BFMTV_1779398712",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE L’ENVOI DE 5.000 SOLDATS AMÉRICAINS EN POLOGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:25",
+      "date": "21/05",
+      "timestamp": 1779398712
+    },
+    {
+      "id": "BFMTV_1779398171",
+      "source": "BFMTV",
+      "text": "\"ÇA NE TOMBE PAS AU MEILLEUR MOMENT POUR MOI\": DONALD TRUMP \"VA ESSAYER\" D'ALLER AU MARIAGE DE SON FILS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:16",
+      "date": "21/05",
+      "timestamp": 1779398171
+    },
+    {
+      "id": "BFMTV_1779398016",
+      "source": "BFMTV",
+      "text": "IRAN: DES SIMILITUDES ENTRE LA DISPARITION DE MOJTABA KHAMENEI ET CELLE D'OUSSAMA BEN LADEN, SELON FOX NEWS",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:13",
+      "date": "21/05",
+      "timestamp": 1779398016
+    },
     {
       "id": "BFMTV_1779394572",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "17:03",
       "date": "20/05",
       "timestamp": 1779296589
-    },
-    {
-      "id": "BFMTV_1779294669",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES NÉGOCIATIONS AVEC L'IRAN EN SONT \"À LEUR PHASE FINALE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:31",
-      "date": "20/05",
-      "timestamp": 1779294669
-    },
-    {
-      "id": "BFMTV_1779291419",
-      "source": "BFMTV",
-      "text": "MAROC: JEAN-NOËL BARROT ANNONCE UNE VISITE PROCHAINE DU ROI MOHAMMED VI EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:36",
-      "date": "20/05",
-      "timestamp": 1779291419
-    },
-    {
-      "id": "BFMTV_1779290099",
-      "source": "BFMTV",
-      "text": "RUSSIE: 65.000 SOLDATS MOBILISÉS POUR UN EXERCICE DE DISSUASION NUCLÉAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:14",
-      "date": "20/05",
-      "timestamp": 1779290099
-    },
-    {
-      "id": "BFMTV_1779290011",
-      "source": "BFMTV",
-      "text": "LES CORPS DES QUATRE PLONGEURS ITALIENS MORTS LORS DU DRAME AUX MALDIVES ONT ÉTÉ REMONTÉS À LA SURFACE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:13",
-      "date": "20/05",
-      "timestamp": 1779290011
-    },
-    {
-      "id": "BFMTV_1779289996",
-      "source": "BFMTV",
-      "text": "LA KNESSET FAIT UN PAS VERS LA DISSOLUTION : BENJAMIN NETANYAHU POURRAIT-IL PERDRE DE FUTURES LÉGISLATIVES?",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:13",
-      "date": "20/05",
-      "timestamp": 1779289996
-    },
-    {
-      "id": "BFMTV_1779289266",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE BENJAMIN NETANYAHU FERA \"TOUT CE QU'(IL) VEUT QU'IL FASSE\" EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:01",
-      "date": "20/05",
-      "timestamp": 1779289266
     }
   ],
   "france": {
