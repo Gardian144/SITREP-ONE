@@ -1,7 +1,137 @@
 {
-  "last_update": "21/05 04:44",
+  "last_update": "21/05 08:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779351677",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE CHEF DE L'ARMÉE PAKISTANAISE ATTENDU À TÉHÉRAN EN VUE DE NÉGOCIATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:21",
+      "date": "21/05",
+      "timestamp": 1779351677
+    },
+    {
+      "id": "BFMTV_1779350679",
+      "source": "BFMTV",
+      "text": "\"IL EST TEMPS QUE LES ÉTATS-UNIS REMETTENT LEUR EMPREINTE SUR LE GROENLAND\", SELON L'ÉMISSAIRE DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:04",
+      "date": "21/05",
+      "timestamp": 1779350679
+    },
+    {
+      "id": "BFMTV_1779349167",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: JEAN-YVES LE DRIAN ESTIME QUE LE LIBAN EST \"EN SITUATION DE PÉRIL\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:39",
+      "date": "21/05",
+      "timestamp": 1779349167
+    },
+    {
+      "id": "BFMTV_1779348355",
+      "source": "BFMTV",
+      "text": "ASSAUT DU CAPITOLE: DEUX POLICIERS PRÉSENTS ATTAQUENT DONALD TRUMP EN JUSTICE POUR EMPÊCHER L'INDEMNISATION DES MILITANTS IMPLIQUÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:25",
+      "date": "21/05",
+      "timestamp": 1779348355
+    },
+    {
+      "id": "BFMTV_1779348134",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NETANYAHU FERA TOUT CE QUE JE LUI DIS DE FAIRE\", ASSURE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:22",
+      "date": "21/05",
+      "timestamp": 1779348134
+    },
+    {
+      "id": "BFMTV_1779348097",
+      "source": "BFMTV",
+      "text": "UKRAINE: DES DÉMINEURS RETIRENT UN DRONE RUSSE NON EXPLOSÉ D'UN IMMEUBLE À ODESSA",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:21",
+      "date": "21/05",
+      "timestamp": 1779348097
+    },
+    {
+      "id": "BFMTV_1779348084",
+      "source": "BFMTV",
+      "text": "MILITANTS DE LA \"FLOTTILLE POUR GAZA\" FILMÉS AGENOUILLÉS ET LES MAINS LIÉES: L'AMBASSADEUR ISRAÉLIEN EN FRANCE DÉNONCE DES IMAGES \"CONTRAIRES AUX VALEURS\" D'ISRAËL",
+      "urgent": true,
+      "france_related": true,
+      "time": "07:21",
+      "date": "21/05",
+      "timestamp": 1779348084
+    },
+    {
+      "id": "BFMTV_1779346232",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS: \"IL Y A DES SIGNES D'OUVERTURE\", ASSURE JEAN-YVES LE DRIAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:50",
+      "date": "21/05",
+      "timestamp": 1779346232
+    },
+    {
+      "id": "BFMTV_1779346159",
+      "source": "BFMTV",
+      "text": " \"CETTE MISE EN SCÈNE EST HONTEUSE\": JEAN-YVES LE DRIAN RÉAGIT À LA VIDÉO DIFFUSÉE PAR UN MINISTRE ISRAÉLIEN OÙ L'ON VOIT DES MILITANTS DE LA FLOTTILLE POUR GAZA AGENOUILLÉS DEVANT LUI",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:49",
+      "date": "21/05",
+      "timestamp": 1779346159
+    },
+    {
+      "id": "BFMTV_1779341162",
+      "source": "BFMTV",
+      "text": "UN SÉISME DE MAGNITUDE 4,4 SECOUE LA RÉGION DE NAPLES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:26",
+      "date": "21/05",
+      "timestamp": 1779341162
+    },
+    {
+      "id": "BFMTV_1779340382",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES PROPOSITIONS FORMULÉES PAR LES ÉTATS-UNIS SONT-ELLES ACCEPTABLES POUR L'IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:13",
+      "date": "21/05",
+      "timestamp": 1779340382
+    },
+    {
+      "id": "BFMTV_1779339759",
+      "source": "BFMTV",
+      "text": "BFMTV AUX CÔTÉS DES SPÉCIALISTES DE LA LUTTE ANTI-DRONES ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:02",
+      "date": "21/05",
+      "timestamp": 1779339759
+    },
+    {
+      "id": "BFMTV_1779339298",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI L'ÉTAT HÉBREU REDOUTE-T-IL UN ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:54",
+      "date": "21/05",
+      "timestamp": 1779339298
+    },
     {
       "id": "BFMTV_1779338363",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "04:25",
       "date": "20/05",
       "timestamp": 1779251113
-    },
-    {
-      "id": "BFMTV_1779250886",
-      "source": "BFMTV",
-      "text": "POURTANT TRÈS PRISÉE PAR LES ÉTRANGERS ET LES LIBANAIS, LA VILLE DE TYR AU SUD-LIBAN EST VIDÉE DE SES TOURISTES À CAUSE DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:21",
-      "date": "20/05",
-      "timestamp": 1779250886
-    },
-    {
-      "id": "BFMTV_1779250836",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP PARTICIPERA AU SOMMET DU G7 EN FRANCE DU 15 AU 17 JUIN",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:20",
-      "date": "20/05",
-      "timestamp": 1779250836
-    },
-    {
-      "id": "BFMTV_1779250410",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA TÉLÉVISION D'ÉTAT IRANIENNE DIFFUSE DES IMAGES DE DONALD TRUMP ET DE BENJAMIN NETANYAHU AVEC UNE CIBLE SUR LE FRONT ET LE TORSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:13",
-      "date": "20/05",
-      "timestamp": 1779250410
-    },
-    {
-      "id": "BFMTV_1779250135",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QUEL EST LE TYPE DE MINES DÉCOUVERTES PAR LES ÉTATS-UNIS DANS LE DÉTROIT D'ORMUZ ET COMMENT LES ÉVACUER DE LA ZONE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:08",
-      "date": "20/05",
-      "timestamp": 1779250135
-    },
-    {
-      "id": "BFMTV_1779249989",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP LAISSE TOUJOURS PLANER LA MENACE D'UNE REPRISE DES FRAPPES AMÉRICAINES CONTRE L'IRAN EN CAS D'ÉCHEC DES NÉGOCIATIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:06",
-      "date": "20/05",
-      "timestamp": 1779249989
-    },
-    {
-      "id": "BFMTV_1779249811",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS AFFIRMENT AVOIR DÉCOUVERT AU MOINS UNE DIZAINE DE MINES DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:03",
-      "date": "20/05",
-      "timestamp": 1779249811
-    },
-    {
-      "id": "BFMTV_1779229751",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE FRAPPE ISRAÉLIENNE FAIT DIX MORTS DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:29",
-      "date": "19/05",
-      "timestamp": 1779229751
-    },
-    {
-      "id": "BFMTV_1779227838",
-      "source": "BFMTV",
-      "text": "DE NOUVELLES FRAPPES ISRAÉLIENNES FONT 19 MORTS DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:57",
-      "date": "19/05",
-      "timestamp": 1779227838
-    },
-    {
-      "id": "BFMTV_1779227744",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE VICE-PRÉSIDENT AMÉRICAIN JD VANCE ÉVOQUE DE \"BONS PROGRÈS\" DANS LES DISCUSSIONS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:55",
-      "date": "19/05",
-      "timestamp": 1779227744
-    },
-    {
-      "id": "BFMTV_1779227614",
-      "source": "BFMTV",
-      "text": "ILS ONT GAGNÉ DES MILLIONS EN PARIANT SUR LA GUERRE: QUAND LE CONFLIT AU MOYEN-ORIENT RAPPORTE GROS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:53",
-      "date": "19/05",
-      "timestamp": 1779227614
-    },
-    {
-      "id": "BFMTV_1779227357",
-      "source": "BFMTV",
-      "text": "\"KIEV VEUT LANCER DES DRONES DEPUIS LES ÉTATS BALTES\", AFFIRME LA RUSSIE À L'ONU",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:49",
-      "date": "19/05",
-      "timestamp": 1779227357
-    },
-    {
-      "id": "BFMTV_1779227227",
-      "source": "BFMTV",
-      "text": "RETRAITS DE TROUPES AMÉRICAINES EN EUROPE: \"PAS D'IMPACT\" SUR LA CAPACITÉ DE DÉFENSE DE L'OTAN, ASSURE SON CHEF DES ARMÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:47",
-      "date": "19/05",
-      "timestamp": 1779227227
-    },
-    {
-      "id": "BFMTV_1779226478",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UNE FRAPPE ISRAÉLIENNE FAIT DIX MORTS DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:34",
-      "date": "19/05",
-      "timestamp": 1779226478
     }
   ],
   "france": {
