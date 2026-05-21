@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05 22:52",
+  "last_update": "21/05 00:06",
   "impacts": [],
   "news": [
     {
@@ -193,6 +193,16 @@
       "timestamp": 1779296589
     },
     {
+      "id": "BFMTV_1779294669",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES NÉGOCIATIONS AVEC L'IRAN EN SONT \"À LEUR PHASE FINALE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:31",
+      "date": "20/05",
+      "timestamp": 1779294669
+    },
+    {
       "id": "BFMTV_1779291419",
       "source": "BFMTV",
       "text": "MAROC: JEAN-NOËL BARROT ANNONCE UNE VISITE PROCHAINE DU ROI MOHAMMED VI EN FRANCE",
@@ -281,6 +291,16 @@
       "time": "14:26",
       "date": "20/05",
       "timestamp": 1779287202
+    },
+    {
+      "id": "BFMTV_1779286570",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:16",
+      "date": "20/05",
+      "timestamp": 1779286570
     },
     {
       "id": "BFMTV_1779286569",
@@ -981,26 +1001,6 @@
       "time": "17:20",
       "date": "19/05",
       "timestamp": 1779211223
-    },
-    {
-      "id": "BFMTV_1779210913",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES AMÉRICAINS ET LES RUSSES TESTENT LEUR ARSENAL NUCLÉAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:15",
-      "date": "19/05",
-      "timestamp": 1779210913
-    },
-    {
-      "id": "BFMTV_1779209631",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE EST ARRIVÉ À PÉKIN POUR UNE RENCONTRE AVEC LE PRÉSIDENT CHINOIS XI JINPING, CE MARDI 19 MAI",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:53",
-      "date": "19/05",
-      "timestamp": 1779209631
     }
   ],
   "france": {
