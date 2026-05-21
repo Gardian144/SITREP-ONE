@@ -1,7 +1,137 @@
 {
-  "last_update": "21/05 08:22",
+  "last_update": "21/05 11:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779363762",
+      "source": "BFMTV",
+      "text": "\"REFUS D'ENTRÉE SUR LE TERRITOIRE AMÉRICAIN\": UN VOL PARIS-DÉTROIT S'ARRÊTE À MONTRÉAL POUR DÉBARQUER UN PASSAGER CONGOLAIS EN RAISON DU VIRUS EBOLA",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:42",
+      "date": "21/05",
+      "timestamp": 1779363762
+    },
+    {
+      "id": "BFMTV_1779363024",
+      "source": "BFMTV",
+      "text": "LE DOSSIER DU 13H - GUERRE AU MOYEN-ORIENT: DONALD TRUMP EST-IL EN TRAIN DE FÂCHER SES ALLIÉS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:30",
+      "date": "21/05",
+      "timestamp": 1779363024
+    },
+    {
+      "id": "BFMTV_1779361635",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS INCULPENT L'EX-PRÉSIDENT CUBAIN RAUL CASTRO, ACCUSÉ DE COMPLOT EN VUE D'ASSASSINER DES AMÉRICAINS, DANS UNE AFFAIRE REMONTANT À 1996",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:07",
+      "date": "21/05",
+      "timestamp": 1779361635
+    },
+    {
+      "id": "BFMTV_1779361147",
+      "source": "BFMTV",
+      "text": "DEUX ENFANTS FRANÇAIS DE 3 ET 5 ANS DÉCOUVERTS SEULS SUR UNE ROUTE AU PORTUGAL, UNE INFORMATION JUDICIAIRE OUVERTE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:59",
+      "date": "21/05",
+      "timestamp": 1779361147
+    },
+    {
+      "id": "BFMTV_1779360929",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DEUX MORTS DANS UNE FRAPPE EN RUSSIE, KIEV DIT AVOIR VISÉ UNE RAFFINERIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:55",
+      "date": "21/05",
+      "timestamp": 1779360929
+    },
+    {
+      "id": "BFMTV_1779360027",
+      "source": "BFMTV",
+      "text": "MÈCHE BLONDE ET 700 KILOS: UN BUFFLE ALBINOS \"SOSIE\" DE DONALD TRUMP DEVENU UNE STAR AU BANGLADESH AVANT SON SACRIFICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:40",
+      "date": "21/05",
+      "timestamp": 1779360027
+    },
+    {
+      "id": "OPEX360_1779359634",
+      "source": "OPEX360",
+      "text": "LONDRES DÉNONCE L’INTERCEPTION «DANGEREUSE» DE L’UN DE SES AVIONS DE RENSEIGNEMENT PAR LA FORCE AÉRIENNE RUSSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:33",
+      "date": "21/05",
+      "timestamp": 1779359634
+    },
+    {
+      "id": "BFMTV_1779358983",
+      "source": "BFMTV",
+      "text": "EMPRISONNÉ PLUS D'UN MOIS APRÈS UN MESSAGE IRONIQUE SUR L’ASSASSINAT DE CHARLIE KIRK, UN AMÉRICAIN STOPPE SES POURSUITES POUR \"DÉTENTION ILLÉGALE\" ET EMPOCHE PLUS DE 800.000 DOLLARS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:23",
+      "date": "21/05",
+      "timestamp": 1779358983
+    },
+    {
+      "id": "BFMTV_1779358808",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UN RESPONSABLE ÉMIRATI QUALIFIE LE PROJET DE L'IRAN SUR ORMUZ DE \"CHIMÈRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:20",
+      "date": "21/05",
+      "timestamp": 1779358808
+    },
+    {
+      "id": "BFMTV_1779357837",
+      "source": "BFMTV",
+      "text": "\"FLOTTILLE POUR GAZA\": ISRAËL S'APPRÊTE À EXPULSER LES MILITANTS ÉTRANGERS CAPTURÉS EN MER",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:03",
+      "date": "21/05",
+      "timestamp": 1779357837
+    },
+    {
+      "id": "BFMTV_1779357500",
+      "source": "BFMTV",
+      "text": "L'IMMIGRATION NETTE A CHUTÉ DE PRÈS DE MOITIÉ AU ROYAUME-UNI EN 2025, LA MINISTRE DE L'INTÉRIEUR SE FÉLICITE DE \"RÉELS PROGRÈS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:58",
+      "date": "21/05",
+      "timestamp": 1779357500
+    },
+    {
+      "id": "BFMTV_1779357286",
+      "source": "BFMTV",
+      "text": "274 PERSONNES ONT RÉUSSI À GRIMPER EN HAUT DE L'EVEREST EN UN JOUR, UN NOUVEAU RECORD",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:54",
+      "date": "21/05",
+      "timestamp": 1779357286
+    },
+    {
+      "id": "BFMTV_1779356995",
+      "source": "BFMTV",
+      "text": "UN PHOTOGRAPHE INCULPÉ POUR AVOIR VOLÉ UNE VICTIME LORS DE L’ATTENTAT DE BONDI EN AUSTRALIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:49",
+      "date": "21/05",
+      "timestamp": 1779356995
+    },
     {
       "id": "BFMTV_1779351677",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "06:27",
       "date": "20/05",
       "timestamp": 1779258442
-    },
-    {
-      "id": "BFMTV_1779258221",
-      "source": "BFMTV",
-      "text": "\"NOUS SOMMES EN TRAIN DE TOUT BALAYER\": DONALD TRUMP ASSURE QU’UN ACCORD POUR METTRE FIN À LA GUERRE AVEC L’IRAN VA SE CONCLURE \"TRÈS RAPIDEMENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:23",
-      "date": "20/05",
-      "timestamp": 1779258221
-    },
-    {
-      "id": "BFMTV_1779256396",
-      "source": "BFMTV",
-      "text": "UN IRANIEN, LIBÉRÉ APRÈS DIX ANS DE PRISON POUR \"ESPIONNAGE\", RENTRE AUX ÉTATS-UNIS OÙ IL RÉSIDE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:53",
-      "date": "20/05",
-      "timestamp": 1779256396
-    },
-    {
-      "id": "BFMTV_1779255695",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:41",
-      "date": "20/05",
-      "timestamp": 1779255695
-    },
-    {
-      "id": "BFMTV_1779255694",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT: UN TEXTE POUR ORDONNER UNE FIN AU CONFLIT PROGRESSE AU SÉNAT AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:41",
-      "date": "20/05",
-      "timestamp": 1779255694
-    },
-    {
-      "id": "BFMTV_1779253931",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: XI JINPING DÉCLARE À VLADIMIR POUTINE QU'UNE REPRISE DES HOSTILITÉS SERAIT \"INOPPORTUNE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:12",
-      "date": "20/05",
-      "timestamp": 1779253931
-    },
-    {
-      "id": "BFMTV_1779253697",
-      "source": "BFMTV",
-      "text": "GUERRE AVEC L'IRAN: DONALD TRUMP PROMET DE \"RÉGLER L'AFFAIRE\" DU NUCLÉAIRE IRANIEN \"RAPIDEMENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:08",
-      "date": "20/05",
-      "timestamp": 1779253697
-    },
-    {
-      "id": "BFMTV_1779253325",
-      "source": "BFMTV",
-      "text": "SIX MINEURES SECOURUES EN ÉQUATEUR D'UN RÉSEAU DE TRAITE D'ÊTRES HUMAINS SOUPÇONNÉ D'ÊTRE LIÉ À UNE SECTE JUIVE ULTRA-ORTHODOXE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:02",
-      "date": "20/05",
-      "timestamp": 1779253325
-    },
-    {
-      "id": "BFMTV_1779252694",
-      "source": "BFMTV",
-      "text": "PÉAGE, SYSTÈMES D'ASSURANCE, TAXES SUR LES CÂBLES SOUS-MARINS... COMMENT L'IRAN EST PRÊT À TOUT POUR CONSERVER LE CONTRÔLE SUR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:51",
-      "date": "20/05",
-      "timestamp": 1779252694
-    },
-    {
-      "id": "BFMTV_1779251673",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:34",
-      "date": "20/05",
-      "timestamp": 1779251673
-    },
-    {
-      "id": "BFMTV_1779251672",
-      "source": "BFMTV",
-      "text": "NOUVELLE \"FLOTTILLE POUR GAZA\": LES 430 MILITANTS DE L'ÉQUIPAGE TRANSFÉRÉS EN ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:34",
-      "date": "20/05",
-      "timestamp": 1779251672
-    },
-    {
-      "id": "BFMTV_1779251472",
-      "source": "BFMTV",
-      "text": "LE BRIEF DU GÉNÉRAL - LA RUSSIE ORGANISE DES EXERCICES DE PRÉPARATION ET D'UTILISATION D'ARMEMENT NUCLÉAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:31",
-      "date": "20/05",
-      "timestamp": 1779251472
-    },
-    {
-      "id": "BFMTV_1779251259",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL AFFIRME DEVOIR REPRENDRE LES FRAPPES POUR ÉVITER DE SUBIR UNE ATTAQUE IRANIENNE PRÉVENTIVE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:27",
-      "date": "20/05",
-      "timestamp": 1779251259
-    },
-    {
-      "id": "BFMTV_1779251113",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DE NOUVELLES FRAPPES ISRAÉLIENNES FONT 19 MORTS DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:25",
-      "date": "20/05",
-      "timestamp": 1779251113
     }
   ],
   "france": {
