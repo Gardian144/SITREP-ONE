@@ -1,7 +1,57 @@
 {
-  "last_update": "22/05 19:13",
+  "last_update": "22/05 20:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779482508",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:41",
+      "date": "22/05",
+      "timestamp": 1779482508
+    },
+    {
+      "id": "BFMTV_1779482507",
+      "source": "BFMTV",
+      "text": "\"J'AI SUBI DES ATTOUCHEMENTS\": LES FRANÇAIS RENTRÉS À PARIS DE LA \"FLOTTILLE POUR GAZA\" RAPPORTENT DES VIOLENCES ET DES HUMILIATIONS",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:41",
+      "date": "22/05",
+      "timestamp": 1779482507
+    },
+    {
+      "id": "BFMTV_1779482326",
+      "source": "BFMTV",
+      "text": "MAROC: AU MOINS 15 MORTS LORS DE L'EFFONDREMENT D'UN IMMEUBLE À FÈS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:38",
+      "date": "22/05",
+      "timestamp": 1779482326
+    },
+    {
+      "id": "BFMTV_1779481992",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP BOUSCULE SON AGENDA: “IL EST IMPORTANT POUR MOI DE RESTER À WASHINGTON DANS CETTE PÉRIODE CRUCIALE”, EXPLIQUE LE PRÉSIDENT DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:33",
+      "date": "22/05",
+      "timestamp": 1779481992
+    },
+    {
+      "id": "BFMTV_1779477793",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L’IRAN PRÉPARERAIT UNE ATTAQUE SURPRISE CONTRE ISRAËL ET LES PAYS DU GOLFE, SELON LES SERVICES DE RENSEIGNEMENT ISRAÉLIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:23",
+      "date": "22/05",
+      "timestamp": 1779477793
+    },
     {
       "id": "BFMTV_1779477025",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "16:33",
       "date": "21/05",
       "timestamp": 1779381226
-    },
-    {
-      "id": "BFMTV_1779380909",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: SÉBASTIEN LECORNU ÉVOQUE LES DIFFÉRENTS SCÉNARIOS",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:28",
-      "date": "21/05",
-      "timestamp": 1779380909
-    },
-    {
-      "id": "OPEX360_1779380035",
-      "source": "OPEX360",
-      "text": "LA 5E ESCADRE DE CHASSE S’EXERCE AU «RÉARMEMENT À CHAUD» POUR METTRE UNE PRESSION CONTINUE SUR UN ADVERSAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:13",
-      "date": "21/05",
-      "timestamp": 1779380035
-    },
-    {
-      "id": "BFMTV_1779379521",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:05",
-      "date": "21/05",
-      "timestamp": 1779379521
-    },
-    {
-      "id": "BFMTV_1779379501",
-      "source": "BFMTV",
-      "text": "LA MÈRE DES DEUX ENFANTS FRANÇAIS RETROUVÉS SEULS SUR UNE ROUTE AU PORTUGAL ARRÊTÉE À FATIMA",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:05",
-      "date": "21/05",
-      "timestamp": 1779379501
-    },
-    {
-      "id": "BFMTV_1779377813",
-      "source": "BFMTV",
-      "text": "\"NOTRE PRÉFÉRENCE À CUBA ET PARTOUT DANS LE MONDE EST UN ACCORD DIPLOMATIQUE NÉGOCIÉ\", AFFIRME MARCO RUBIO",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:36",
-      "date": "21/05",
-      "timestamp": 1779377813
     }
   ],
   "france": {
