@@ -1,7 +1,137 @@
 {
-  "last_update": "22/05 06:06",
+  "last_update": "22/05 09:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779442747",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES RESPONSABLES ÉMIRATIS APPELLENT L'IRAN À \"NE PAS SURESTIMER SES CARTES\" DANS LES NÉGOCIATIONS AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:39",
+      "date": "22/05",
+      "timestamp": 1779442747
+    },
+    {
+      "id": "BFMTV_1779442462",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - IRAN: UN ARSENAL MILITAIRE PRESQUE INTACT?",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:34",
+      "date": "22/05",
+      "timestamp": 1779442462
+    },
+    {
+      "id": "BFMTV_1779441681",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP EN CHINE: À PÉKIN LA RETENUE, À WASHINGTON L'OFFENSIVE TOUS AZIMUTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:21",
+      "date": "22/05",
+      "timestamp": 1779441681
+    },
+    {
+      "id": "BFMTV_1779440984",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LA COALITION FRANCO-BRITANNIQUE SE RENFORCE AVEC L'ARRIVÉE DU NAVIRE HMS DRAGON",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:09",
+      "date": "22/05",
+      "timestamp": 1779440984
+    },
+    {
+      "id": "BFMTV_1779440833",
+      "source": "BFMTV",
+      "text": "\"IL FAUDRA Y RÉPONDRE\" : MARCO RUBIO ÉVOQUE \"LA DÉCEPTION\" DE DONALD TRUMP FACE À \"CERTAINS ALLIÉS\" SUR LE MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:07",
+      "date": "22/05",
+      "timestamp": 1779440833
+    },
+    {
+      "id": "BFMTV_1779439747",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE SECRÉTAIRE D'ÉTAT AMÉRICAIN MARCO RUBIO EXHORTE L'OTAN À \"RÉPONDRE\" AUX \"INQUIÉTUDES\" DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:49",
+      "date": "22/05",
+      "timestamp": 1779439747
+    },
+    {
+      "id": "BFMTV_1779439487",
+      "source": "BFMTV",
+      "text": "MARCO RUBIO AFFIRME QUE LES DÉCISIONS SUR LES TROUPES AMÉRICAINES EN EUROPE NE SONT PAS \"PUNITIVES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:44",
+      "date": "22/05",
+      "timestamp": 1779439487
+    },
+    {
+      "id": "BFMTV_1779439314",
+      "source": "BFMTV",
+      "text": "LA POLOGNE REMERCIE DONALD TRUMP POUR L’ENVOI DE 5 000 MILITAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:41",
+      "date": "22/05",
+      "timestamp": 1779439314
+    },
+    {
+      "id": "BFMTV_1779438965",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS : \"IL Y A EU QUELQUES PROGRÈS LÉGERS\" ANNONCE MARCO RUBIO",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:36",
+      "date": "22/05",
+      "timestamp": 1779438965
+    },
+    {
+      "id": "BFMTV_1779437238",
+      "source": "BFMTV",
+      "text": "LES DEUX ENFANTS FRANÇAIS DE 4 ET 5 ANS RETROUVÉS SEULS AU BORD D'UNE ROUTE AU PORTUGAL PLACÉS EN FAMILLE D'ACCUEIL",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:07",
+      "date": "22/05",
+      "timestamp": 1779437238
+    },
+    {
+      "id": "BFMTV_1779436220",
+      "source": "BFMTV",
+      "text": "DANS CE VILLAGE LIBANAIS, LES HABITANTS SONT STRICTEMENT RATIONNÉS EN EAU APRÈS DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:50",
+      "date": "22/05",
+      "timestamp": 1779436220
+    },
+    {
+      "id": "BFMTV_1779436171",
+      "source": "BFMTV",
+      "text": "\"DÉRAISONNABLE ET INCONSÉQUENT\": LA RÉPONSE DE JEAN-NOËL BARROT AUX RESPONSABLES POLITIQUES QUI VEULENT UN RETRAIT DE LA FRANCE DE L'OTAN",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:49",
+      "date": "22/05",
+      "timestamp": 1779436171
+    },
+    {
+      "id": "BFMTV_1779433898",
+      "source": "BFMTV",
+      "text": "76 MÈTRES DE HAUT, SURMONTÉE DE STATUES DORÉES... L'ARCHE MONUMENTALE VOULUE PAR DONALD TRUMP À WASHINGTON A ÉTÉ APPROUVÉE EN COMMISSION",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:11",
+      "date": "22/05",
+      "timestamp": 1779433898
+    },
     {
       "id": "BFMTV_1779429704",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "04:29",
       "date": "21/05",
       "timestamp": 1779337780
-    },
-    {
-      "id": "BFMTV_1779337774",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AVEC UNE POSSIBLE REPRISE DES FRAPPES, LES RÉSERVISTES ISRAÉLIENS SONT MOBILISÉS, OBLIGEANT L'ÉCONOMIE ISRAÉLIENNE À S'ADAPTER",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:29",
-      "date": "21/05",
-      "timestamp": 1779337774
-    },
-    {
-      "id": "BFMTV_1779337118",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: L'IRAN DÉVOILE UNE NOUVELLE CARTE QUI MONTRE LA ZONE QUI SERAIT SOUS LE CONTRÔLE DE TÉHÉRAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:18",
-      "date": "21/05",
-      "timestamp": 1779337118
-    },
-    {
-      "id": "BFMTV_1779336993",
-      "source": "BFMTV",
-      "text": "UNE NOUVELLE ZONE DE SUPERVISION IRANIENNE DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:16",
-      "date": "21/05",
-      "timestamp": 1779336993
-    },
-    {
-      "id": "BFMTV_1779336897",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN EXAMINE LES PROPOSITIONS AMÉRICAINES, MAIS SONT-ELLES PLUS ACCEPTABLES QUE LES PRÉCÉDENTES POUR TÉHÉRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:14",
-      "date": "21/05",
-      "timestamp": 1779336897
-    },
-    {
-      "id": "BFMTV_1779336815",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE LES NÉGOCIATIONS AVEC L'IRAN SONT \"DANS LEUR PHASE FINALE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:13",
-      "date": "21/05",
-      "timestamp": 1779336815
-    },
-    {
-      "id": "BFMTV_1779314664",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN AFFIRME QUE \"LES OPTIONS RESTENT OUVERTES\" POUR METTRE FIN AU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:04",
-      "date": "20/05",
-      "timestamp": 1779314664
-    },
-    {
-      "id": "BFMTV_1779312358",
-      "source": "BFMTV",
-      "text": "\"UNE MANŒUVRE POLITIQUE\": LES ÉTATS-UNIS INCULPENT L'EX-PRÉSIDENT CUBAIN RAUL CASTRO",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:25",
-      "date": "20/05",
-      "timestamp": 1779312358
-    },
-    {
-      "id": "BFMTV_1779310572",
-      "source": "BFMTV",
-      "text": "FORUM BFMTV - \"L'INFLATION EST VALABLE AUSSI POUR LES RESTAURATEURS\", DÉPLORE MÉDÉRIC, PROPRIÉTAIRE DE PLUSIEURS CRÊPERIES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:56",
-      "date": "20/05",
-      "timestamp": 1779310572
-    },
-    {
-      "id": "BFMTV_1779308829",
-      "source": "BFMTV",
-      "text": "EBOLA: L’OMS JUGE LE RISQUE \"ÉLEVÉ\" EN AFRIQUE CENTRALE, MAIS \"FAIBLE\" AU NIVEAU MONDIAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:27",
-      "date": "20/05",
-      "timestamp": 1779308829
-    },
-    {
-      "id": "BFMTV_1779307829",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN AFFIRME QUE \"LES OPTIONS RESTENT OUVERTES\" POUR METTRE FIN AU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:10",
-      "date": "20/05",
-      "timestamp": 1779307829
-    },
-    {
-      "id": "BFMTV_1779306934",
-      "source": "BFMTV",
-      "text": "\"NOUS SOUTENONS LE LIBAN, NOUS DEVONS ÊTRE PRÉSENTS\", ASSURE ÉLÉONORE CAROIT, MINISTRE CHARGÉE DE LA FRANCOPHONIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:55",
-      "date": "20/05",
-      "timestamp": 1779306934
-    },
-    {
-      "id": "BFMTV_1779306914",
-      "source": "BFMTV",
-      "text": "IRAN: \"NOUS POURRIONS ÊTRE AMENÉS À LES FRAPPER ENCORE PLUS FORT, MAIS PEUT-ÊTRE PAS\", PRÉVIENT DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:55",
-      "date": "20/05",
-      "timestamp": 1779306914
-    },
-    {
-      "id": "BFMTV_1779306271",
-      "source": "BFMTV",
-      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:44",
-      "date": "20/05",
-      "timestamp": 1779306271
     }
   ],
   "france": {
