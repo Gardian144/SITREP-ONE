@@ -1,7 +1,137 @@
 {
-  "last_update": "23/05 11:59",
+  "last_update": "23/05 13:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779544066",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP POSTE UNE CARTE DE L'IRAN AUX COULEURS DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:47",
+      "date": "23/05",
+      "timestamp": 1779544066
+    },
+    {
+      "id": "BFMTV_1779543795",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: MARCO RUBIO ESTIME QU'IL Y A \"UNE CHANCE\" QUE L'IRAN ACCEPTE UN ACCORD DÈS AUJOURD'HUI",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:43",
+      "date": "23/05",
+      "timestamp": 1779543795
+    },
+    {
+      "id": "BFMTV_1779543243",
+      "source": "BFMTV",
+      "text": "IRAN: \"PLUS CETTE TRÊVE DURE, PLUS C'EST COMPLIQUÉ POUR DONALD TRUMP DE REPARTIR À L'ASSAUT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:34",
+      "date": "23/05",
+      "timestamp": 1779543243
+    },
+    {
+      "id": "BFMTV_1779542584",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: ISRAËL ANNONCE DES FRAPPES SUR PLUSIEURS VILLAGES DU SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:23",
+      "date": "23/05",
+      "timestamp": 1779542584
+    },
+    {
+      "id": "BFMTV_1779541735",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ANNONCE DES FRAPPES IMMINENTES DANS LE SUD DU LIBAN, PLUSIEURS VILLAGES INVITÉS À ÉVACUER",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:08",
+      "date": "23/05",
+      "timestamp": 1779541735
+    },
+    {
+      "id": "BFMTV_1779540752",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL S'INQUIÈTE DE SA DÉPENDANCE MILITAIRE VIS-À-VIS DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:52",
+      "date": "23/05",
+      "timestamp": 1779540752
+    },
+    {
+      "id": "BFMTV_1779540453",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT:  UN INCIDENT AU LARGE DU YÉMEN AVEC UN CARGO",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:47",
+      "date": "23/05",
+      "timestamp": 1779540453
+    },
+    {
+      "id": "BFMTV_1779539656",
+      "source": "BFMTV",
+      "text": "\"LE POUVOIR MILITAIRE DES ÉTATS-UNIS A ÉTÉ INCAPABLE DE SE TRANSFORMER EN POUVOIR POLITIQUE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:34",
+      "date": "23/05",
+      "timestamp": 1779539656
+    },
+    {
+      "id": "OPEX360_1779539434",
+      "source": "OPEX360",
+      "text": "LE PROGRAMME ASWF ÉTANT EN GRANDE DIFFICULTÉ, LA BELGIQUE RISQUE DE SE RETROUVER SANS FRÉGATE PENDANT PLUSIEURS ANNÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:30",
+      "date": "23/05",
+      "timestamp": 1779539434
+    },
+    {
+      "id": "BFMTV_1779539002",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP A RÉUNIT LE CONSEIL DE SÉCURITÉ NATIONAL À LA MAISON-BLANCHE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:23",
+      "date": "23/05",
+      "timestamp": 1779539002
+    },
+    {
+      "id": "BFMTV_1779538669",
+      "source": "BFMTV",
+      "text": "\"NOUS NE POUVONS TOLÉRER QUE DES RESSORTISSANTS PUISSENT ÊTRE AINSI BRUTALISÉS\": LE MINISTRE ISRAÉLIEN BEN GVIR INTERDIT DE TERRITOIRE FRANÇAIS APRÈS LA VIDÉO DE L'ARRESTATION DES MILITANTS DE LA \"FLOTTILLE POUR GAZA\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:17",
+      "date": "23/05",
+      "timestamp": 1779538669
+    },
+    {
+      "id": "BFMTV_1779538481",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS: LES POTENTIELLES CIBLES DES AMÉRICAINS EN IRAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:14",
+      "date": "23/05",
+      "timestamp": 1779538481
+    },
+    {
+      "id": "BFMTV_1779538449",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ANNONCE DES FRAPPES IMMINENTES SUR PLUSIEURS VILLAGES DU SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:14",
+      "date": "23/05",
+      "timestamp": 1779538449
+    },
     {
       "id": "BFMTV_1779536966",
       "source": "BFMTV",
@@ -683,6 +813,16 @@
       "timestamp": 1779470205
     },
     {
+      "id": "OPEX360_1779470205",
+      "source": "OPEX360",
+      "text": "LA PATROUILLE ACROBATIQUE DE L’AVIATION ROYALE CANADIENNE VA TROQUER SES AVIONS À RÉACTION CT-114 TUTOR CONTRE DES PILATUS PC-21",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:16",
+      "date": "22/05",
+      "timestamp": 1779470205
+    },
+    {
       "id": "BFMTV_1779469848",
       "source": "BFMTV",
       "text": "LA POLITIQUE AMÉRICAINE S'INVITE DANS LES RUES DE NEW DELHI AVEC DES TUK-TUK À L'EFFIGIE DE DONALD TRUMP",
@@ -861,146 +1001,6 @@
       "time": "13:56",
       "date": "22/05",
       "timestamp": 1779458210
-    },
-    {
-      "id": "OPEX360_1779454949",
-      "source": "OPEX360",
-      "text": "ÉMIRATS : LES CHARS LECLERC DU 5E RÉGIMENT DE CUIRASSIERS S’EXERCENT À LA LUTTE ANTIDRONE EN TIRANT DES OBUS 120 OEFC",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:02",
-      "date": "22/05",
-      "timestamp": 1779454949
-    },
-    {
-      "id": "BFMTV_1779452141",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'EX-CONSEILLER DE DONALD TRUMP À LA SÉCURITÉ NATIONALE ESTIME QU'IL \"NE CONNAÎT PAS SES OBJECTIFS PRINCIPAUX\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:15",
-      "date": "22/05",
-      "timestamp": 1779452141
-    },
-    {
-      "id": "BFMTV_1779452060",
-      "source": "BFMTV",
-      "text": "LE PREMIER MINISTRE DU SÉNÉGAL DÉNONCE \"UNE TYRANNIE\" DE L'OCCIDENT QUI VEUT \"IMPOSER L'HOMOSEXUALITÉ AU RESTE DU MONDE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:14",
-      "date": "22/05",
-      "timestamp": 1779452060
-    },
-    {
-      "id": "BFMTV_1779451065",
-      "source": "BFMTV",
-      "text": "JOHN BOLTON: \"IL FAUT ABSOLUMENT LIBÉRER LE DÉTROIT D'ORMUZ\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:57",
-      "date": "22/05",
-      "timestamp": 1779451065
-    },
-    {
-      "id": "BFMTV_1779450742",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LE PROBLÈME DE TRUMP, C'EST QU'IL NE SAIT TOUJOURS PAS QUELS SONT SES OBJECTIFS PRINCIPAUX\", DÉCLARE JOHN BOLTON, ANCIEN CONSEILLER À LA SÉCURITÉ NATIONALE DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:52",
-      "date": "22/05",
-      "timestamp": 1779450742
-    },
-    {
-      "id": "BFMTV_1779447391",
-      "source": "BFMTV",
-      "text": "UN HÔPITAL ACCUEILLANT DES MALADES D'EBOLA INCENDIÉ EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:56",
-      "date": "22/05",
-      "timestamp": 1779447391
-    },
-    {
-      "id": "OPEX360_1779447385",
-      "source": "OPEX360",
-      "text": "L’AUSTRALIE VA DÉPENSER 6,7 MILLIARDS D’EUROS POUR GARDER SES VIEUX SOUS-MARINS DE TYPE COLLINS EN SERVICE JUSQU’EN 2040",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:56",
-      "date": "22/05",
-      "timestamp": 1779447385
-    },
-    {
-      "id": "BFMTV_1779447240",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QU'EST-CE QUE L'ATLANTIQUE 2, L'AVION FRANÇAIS QUI ESCORTE LE NAVIRE BRITANNIQUE HMS DRAGON?",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:54",
-      "date": "22/05",
-      "timestamp": 1779447240
-    },
-    {
-      "id": "BFMTV_1779446907",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: MARCO RUBIO ÉVOQUE LA \"DÉCEPTION\" DE DONALD TRUMP \"FACE À CERTAINS ALLIÉS DE L'OTAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:48",
-      "date": "22/05",
-      "timestamp": 1779446907
-    },
-    {
-      "id": "BFMTV_1779446761",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:46",
-      "date": "22/05",
-      "timestamp": 1779446761
-    },
-    {
-      "id": "BFMTV_1779446700",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IMPRESSIONNANT RÉARMEMENT ÉCLAIR DE L'IRAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:45",
-      "date": "22/05",
-      "timestamp": 1779446700
-    },
-    {
-      "id": "BFMTV_1779446436",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS PATINENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:40",
-      "date": "22/05",
-      "timestamp": 1779446436
-    },
-    {
-      "id": "BFMTV_1779444709",
-      "source": "BFMTV",
-      "text": "UN ALPINISTE BRITANNIQUE GRIMPE POUR LA 20E FOIS LE SOMMET DU MONT EVEREST ET BAT UN NOUVEAU RECORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:11",
-      "date": "22/05",
-      "timestamp": 1779444709
-    },
-    {
-      "id": "BFMTV_1779444376",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN HÔPITAL TOUCHÉ PAR UNE FRAPPE ISRAÉLIENNE AU LIBAN, FAISANT 9 BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:06",
-      "date": "22/05",
-      "timestamp": 1779444376
     }
   ],
   "france": {
