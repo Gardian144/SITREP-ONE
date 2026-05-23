@@ -1,7 +1,67 @@
 {
-  "last_update": "23/05 05:02",
+  "last_update": "23/05 07:43",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779520968",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES FAILLES DU BLOCUS AMÉRICAIN SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:22",
+      "date": "23/05",
+      "timestamp": 1779520968
+    },
+    {
+      "id": "BFMTV_1779520512",
+      "source": "BFMTV",
+      "text": "IRAN: \"ILS N'AURONT JAMAIS L'ARME NUCLÉAIRE\", AFFIRME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:15",
+      "date": "23/05",
+      "timestamp": 1779520512
+    },
+    {
+      "id": "BFMTV_1779519174",
+      "source": "BFMTV",
+      "text": "CHINE: AU MOINS 82 MORTS APRÈS UNE EXPLOSION DANS UNE MINE DE CHARBON, DES OPÉRATIONS DE SAUVETAGE EN COURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:52",
+      "date": "23/05",
+      "timestamp": 1779519174
+    },
+    {
+      "id": "BFMTV_1779518197",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN BROUILLAGE GPS MASSIF DANS LE GOLFE PERSIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:36",
+      "date": "23/05",
+      "timestamp": 1779518197
+    },
+    {
+      "id": "BFMTV_1779515439",
+      "source": "BFMTV",
+      "text": "L'IRAN POURRAIT LANCER UNE ATTAQUE SURPRISE CONTRE ISRAËL ET LES PAYS DU GOLFE, SELON LES RENSEIGNEMENTS ISRAÉLIENS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:50",
+      "date": "23/05",
+      "timestamp": 1779515439
+    },
+    {
+      "id": "BFMTV_1779513284",
+      "source": "BFMTV",
+      "text": "\"UNE EXPLOSION DE GAZ\": AU MOINS 82 MORTS APRÈS L'ACCIDENT D'UNE MINE DE CHARBON EN CHINE, DES OPÉRATIONS DE SAUVETAGE EN COURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:14",
+      "date": "23/05",
+      "timestamp": 1779513284
+    },
     {
       "id": "BFMTV_1779512476",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "04:45",
       "date": "22/05",
       "timestamp": 1779425141
-    },
-    {
-      "id": "BFMTV_1779425017",
-      "source": "BFMTV",
-      "text": "BLOCAGE DU DÉTROIT D'ORMUZ: UN ACCORD DIPLOMATIQUE IMPOSSIBLE ENTRE LES ÉTATS-UNIS ET L'IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:43",
-      "date": "22/05",
-      "timestamp": 1779425017
-    },
-    {
-      "id": "BFMTV_1779424372",
-      "source": "BFMTV",
-      "text": "LIBAN: LES 250 HABITANTS DU VILLAGE DE DEIR MIMAS TRÈS STRICTEMENT RATIONNÉS EN EAU DEPUIS DES FRAPPES ISRAÉLIENNES QUI ONT DÉTRUIT LE PUIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:32",
-      "date": "22/05",
-      "timestamp": 1779424372
-    },
-    {
-      "id": "BFMTV_1779423410",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: MALGRÉ L'ESPOIR AMÉRICAIN D'ABOUTIR À UN ACCORD AVEC L'IRAN, DES BLOCAGES DEMEURENT ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:16",
-      "date": "22/05",
-      "timestamp": 1779423410
-    },
-    {
-      "id": "BFMTV_1779423346",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS: QUI EST ASIM MUNIR, LE CHEF DE L'ARMÉE PAKISTANAISE, ATTENDU À TÉHÉRAN ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:15",
-      "date": "22/05",
-      "timestamp": 1779423346
-    },
-    {
-      "id": "BFMTV_1779423274",
-      "source": "BFMTV",
-      "text": "SELON LES MÉDIAS AMÉRICAINS, L'ARMÉE IRANIENNE RECONSTITUE SON STOCK D'ARMES PLUS VITE QUE PRÉVU",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:14",
-      "date": "22/05",
-      "timestamp": 1779423274
-    },
-    {
-      "id": "BFMTV_1779401853",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS VONT S'\"EMPARER\" DE L'URANIUM ENRICHI EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:17",
-      "date": "21/05",
-      "timestamp": 1779401853
     }
   ],
   "france": {
