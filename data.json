@@ -1,7 +1,57 @@
 {
-  "last_update": "23/05 18:32",
+  "last_update": "23/05 19:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779565520",
+      "source": "BFMTV",
+      "text": "L’IRAN DIT AVOIR DES MISSILES À IMPULSION ÉLECTROMAGNÉTIQUE: \"ÇA VA CASSER LES CAPACITÉS DE TRANSMISSION\", ANALYSE LE GÉNÉRAL VINCENT DESPORTES",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:45",
+      "date": "23/05",
+      "timestamp": 1779565520
+    },
+    {
+      "id": "BFMTV_1779563040",
+      "source": "BFMTV",
+      "text": "\"IL NE PRÉSENTE TOUJOURS AUCUN SYMPTÔME D'HANTAVIRUS\": L'OMS ANNONCE QUE LE CAPITAINE DU MV HONDIUS VA ENFIN QUITTER LE NAVIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:04",
+      "date": "23/05",
+      "timestamp": 1779563040
+    },
+    {
+      "id": "BFMTV_1779562005",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L’IRAN SE MOQUE DE DONALD TRUMP EN PLEINE NÉGOCIATION POUR UN ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:46",
+      "date": "23/05",
+      "timestamp": 1779562005
+    },
+    {
+      "id": "BFMTV_1779561680",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON A ÉCHANGÉ AVEC PLUSIEURS DIRIGEANTS DU GOLFE ET AVEC DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:41",
+      "date": "23/05",
+      "timestamp": 1779561680
+    },
+    {
+      "id": "BFMTV_1779561426",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP \"ENTEND MOINS\" BENJAMIN NETANYAHU, SELON SERGUEÏ JIMOV, ANCIEN OFFICIER DU KGB",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:37",
+      "date": "23/05",
+      "timestamp": 1779561426
+    },
     {
       "id": "BFMTV_1779560637",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "21:00",
       "date": "22/05",
       "timestamp": 1779483613
-    },
-    {
-      "id": "BFMTV_1779482949",
-      "source": "BFMTV",
-      "text": "SUD-LIBAN: L’ARMÉE ISRAÉLIENNE APPELLE À ÉVACUER DEUX ZONES À TYR",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:49",
-      "date": "22/05",
-      "timestamp": 1779482949
-    },
-    {
-      "id": "BFMTV_1779482508",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:41",
-      "date": "22/05",
-      "timestamp": 1779482508
-    },
-    {
-      "id": "BFMTV_1779482507",
-      "source": "BFMTV",
-      "text": "\"J'AI SUBI DES ATTOUCHEMENTS\": LES FRANÇAIS RENTRÉS À PARIS DE LA \"FLOTTILLE POUR GAZA\" RAPPORTENT DES VIOLENCES ET DES HUMILIATIONS",
-      "urgent": false,
-      "france_related": true,
-      "time": "20:41",
-      "date": "22/05",
-      "timestamp": 1779482507
-    },
-    {
-      "id": "BFMTV_1779482326",
-      "source": "BFMTV",
-      "text": "MAROC: AU MOINS 15 MORTS LORS DE L'EFFONDREMENT D'UN IMMEUBLE À FÈS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:38",
-      "date": "22/05",
-      "timestamp": 1779482326
-    },
-    {
-      "id": "BFMTV_1779481992",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP BOUSCULE SON AGENDA: “IL EST IMPORTANT POUR MOI DE RESTER À WASHINGTON DANS CETTE PÉRIODE CRUCIALE”, EXPLIQUE LE PRÉSIDENT DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:33",
-      "date": "22/05",
-      "timestamp": 1779481992
     }
   ],
   "france": {
