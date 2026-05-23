@@ -1,7 +1,67 @@
 {
-  "last_update": "23/05 21:54",
+  "last_update": "23/05 22:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779576445",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES COUPS DE FEU ENTENDUS PRÈS DE LA MAISON-BLANCHE",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:47",
+      "date": "23/05",
+      "timestamp": 1779576445
+    },
+    {
+      "id": "BFMTV_1779574258",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QU'UN ACCORD AVEC L'IRAN A ÉTÉ \"LARGEMENT NÉGOCIÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:10",
+      "date": "23/05",
+      "timestamp": 1779574258
+    },
+    {
+      "id": "BFMTV_1779573784",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP INDIQUE QUE L'ACCORD AVEC L'IRAN EST \"EN COURS DE FINALISATION\" ET INCLUT LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:03",
+      "date": "23/05",
+      "timestamp": 1779573784
+    },
+    {
+      "id": "BFMTV_1779573576",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE PROJET D'ACCORD AVEC L'IRAN INCLUT LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:59",
+      "date": "23/05",
+      "timestamp": 1779573576
+    },
+    {
+      "id": "BFMTV_1779573462",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L’IRAN VEUT GARDER LE CONTRÔLE DU DÉTROIT D’ORMUZ, MÊME EN CAS D’ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:57",
+      "date": "23/05",
+      "timestamp": 1779573462
+    },
+    {
+      "id": "BFMTV_1779573212",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES PARTISANS DE DONALD TRUMP S’OPPOSENT AU POTENTIEL ACCORD ANNONCÉ PAR LE PRÉSIDENT AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:53",
+      "date": "23/05",
+      "timestamp": 1779573212
+    },
     {
       "id": "BFMTV_1779572861",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "04:54",
       "date": "23/05",
       "timestamp": 1779512069
-    },
-    {
-      "id": "BFMTV_1779511180",
-      "source": "BFMTV",
-      "text": "AVOIRS GELÉS, NUCLÉAIRE IRANIEN... LES POINTS DE LA DISCORDE ENTRE WASHINGTON ET TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:39",
-      "date": "23/05",
-      "timestamp": 1779511180
-    },
-    {
-      "id": "BFMTV_1779510920",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP CONFIRME QU'IL RATERA LE MARIAGE DE SON FILS ALORS QUE LES NÉGOCIATIONS AVEC L'IRAN CONTINUENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:35",
-      "date": "23/05",
-      "timestamp": 1779510920
-    },
-    {
-      "id": "BFMTV_1779510824",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TÉHÉRAN AVERTIT LES ÉTATS-UNIS QUE LA GUERRE POURRAIT S’ÉTENDRE AU-DELÀ DE LA RÉGION EN CAS DE NOUVELLE ATTAQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:33",
-      "date": "23/05",
-      "timestamp": 1779510824
-    },
-    {
-      "id": "BFMTV_1779510471",
-      "source": "BFMTV",
-      "text": "UNE ALLEMANDE DIT AVOIR ÉTÉ DROGUÉE, VIOLÉE, FILMÉE APRÈS LA DÉCOUVERTE DE 67 VIDÉOS DE SÉVICES, MAIS LA PRESCRIPTION FREINE L'ENQUÊTE",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:27",
-      "date": "23/05",
-      "timestamp": 1779510471
-    },
-    {
-      "id": "BFMTV_1779510410",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DEUX BÂTIMENTS FRAPPÉS PAR ISRAËL CE VENDREDI DANS LE SUD-LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:26",
-      "date": "23/05",
-      "timestamp": 1779510410
-    },
-    {
-      "id": "BFMTV_1779509927",
-      "source": "BFMTV",
-      "text": "\"ÇA CASSE OU ÇA EXPLOSE\": PRÈS DE 40.000 PERSONNES ÉVACUÉES À CAUSE D'UNE FUITE CHIMIQUE EN CALIFORNIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:18",
-      "date": "23/05",
-      "timestamp": 1779509927
     }
   ],
   "france": {
