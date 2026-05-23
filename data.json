@@ -1,7 +1,77 @@
 {
-  "last_update": "23/05 07:43",
+  "last_update": "23/05 09:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779528161",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN INCIDENT AU LARGE DU YÉMEN AVEC UN CARGO",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:22",
+      "date": "23/05",
+      "timestamp": 1779528161
+    },
+    {
+      "id": "BFMTV_1779527727",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS: L'IRAN DISPOSE TOUJOURS D'UN IMPORTANT ARSENAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:15",
+      "date": "23/05",
+      "timestamp": 1779527727
+    },
+    {
+      "id": "BFMTV_1779526163",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE BILAN DE LA FRAPPE SUR UN LYCÉE EN TERRITOIRE OCCUPÉ PAR MOSCOU MONTE À AU MOINS 10 MORTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:49",
+      "date": "23/05",
+      "timestamp": 1779526163
+    },
+    {
+      "id": "BFMTV_1779525753",
+      "source": "BFMTV",
+      "text": "AU MOINS 90 MORTS, 247 MINEURS SOUS TERRE… CE QUE L'ON SAIT DE L'EXPLOSION DANS UNE MINE DE CHARBON EN CHINE, PLUS GRAVE ACCIDENT DEPUIS 2009",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:42",
+      "date": "23/05",
+      "timestamp": 1779525753
+    },
+    {
+      "id": "BFMTV_1779525476",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES BROUILLAGES GPS DANS LE GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:37",
+      "date": "23/05",
+      "timestamp": 1779525476
+    },
+    {
+      "id": "BFMTV_1779524642",
+      "source": "BFMTV",
+      "text": "\"ORBES ORANGES\", \"BRUITS SOURDS\"... LE PENTAGONE PUBLIE UN NOUVEAU LOT DE PLUS DE 60 DOCUMENTS SUR LES OVNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:24",
+      "date": "23/05",
+      "timestamp": 1779524642
+    },
+    {
+      "id": "BFMTV_1779524283",
+      "source": "BFMTV",
+      "text": "\"SON FILS EST DE PLUS EN PLUS SUR LE DEVANT DE LA SCÈNE\": LE ROI DU MAROC MOHAMMED VI PRÉPARE-T-IL DÉJÀ SA SUCCESSION?",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:18",
+      "date": "23/05",
+      "timestamp": 1779524283
+    },
     {
       "id": "BFMTV_1779520968",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "07:49",
       "date": "22/05",
       "timestamp": 1779436171
-    },
-    {
-      "id": "BFMTV_1779433898",
-      "source": "BFMTV",
-      "text": "76 MÈTRES DE HAUT, SURMONTÉE DE STATUES DORÉES... L'ARCHE MONUMENTALE VOULUE PAR DONALD TRUMP À WASHINGTON A ÉTÉ APPROUVÉE EN COMMISSION",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:11",
-      "date": "22/05",
-      "timestamp": 1779433898
-    },
-    {
-      "id": "BFMTV_1779429704",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL ANNONCE AVOIR TUÉ DEUX \"INDIVIDUS ARMÉS\" PRÈS DE SA FRONTIÈRE AVEC LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:01",
-      "date": "22/05",
-      "timestamp": 1779429704
-    },
-    {
-      "id": "BFMTV_1779428453",
-      "source": "BFMTV",
-      "text": "\"DEUX ENFANTS ICI, PERDUS?\": ALEXANDRE RACONTE COMMENT IL A RECUEILLI LES DEUX ENFANTS FRANÇAIS DÉCOUVERTS SEULS AU BORD D'UNE ROUTE AU PORTUGAL",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:40",
-      "date": "22/05",
-      "timestamp": 1779428453
-    },
-    {
-      "id": "BFMTV_1779426234",
-      "source": "BFMTV",
-      "text": "LE BRIEF DU GÉNÉRAL - 65.000 SOLDATS, PLUS DE 200 LANCEURS DE MISSILES... LA RUSSIE MONTRE LES MUSCLES AVEC DES EXERCICES NUCLÉAIRES DE TRÈS GRANDE AMPLEUR",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:03",
-      "date": "22/05",
-      "timestamp": 1779426234
-    },
-    {
-      "id": "BFMTV_1779426012",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES 440 KILOS D'URANIUM ENRICHI IRANIEN, LE POINT DE TENSION N°1 DANS LES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:00",
-      "date": "22/05",
-      "timestamp": 1779426012
-    },
-    {
-      "id": "BFMTV_1779425852",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IMPATIENT DONALD TRUMP FACE À LA LENTEUR DES NÉGOCIATIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:57",
-      "date": "22/05",
-      "timestamp": 1779425852
-    },
-    {
-      "id": "BFMTV_1779425141",
-      "source": "BFMTV",
-      "text": "AU LIBAN, AU MOINS 26 PERSONNES MORTES SELON LE MINISTÈRE DE LA SANTÉ LIBANAIS QUI DÉNONCE UNE FRAPPE CONTRE L'HÔPITAL DE TIBNINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:45",
-      "date": "22/05",
-      "timestamp": 1779425141
     }
   ],
   "france": {
