@@ -1,7 +1,17 @@
 {
-  "last_update": "23/05 23:56",
+  "last_update": "24/05 03:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779594534",
+      "source": "BFMTV",
+      "text": "\"LES AGENTS DE POLICE ONT RIPOSTÉ\": COUPS DE FEU PRÈS DE LA MAISON BLANCHE, LE TIREUR ABATTU, UN PASSANT BLESSÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "03:48",
+      "date": "24/05",
+      "timestamp": 1779594534
+    },
     {
       "id": "BFMTV_1779576445",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "05:01",
       "date": "23/05",
       "timestamp": 1779512476
-    },
-    {
-      "id": "BFMTV_1779512325",
-      "source": "BFMTV",
-      "text": "L'ADMINISTRATION TRUMP IMPOSE DÉSORMAIS AUX ÉTRANGERS VOULANT UNE CARTE VERTE DE RETOURNER DANS LEUR PAYS D'ORIGINE POUR EN FAIRE LA DEMANDE, SAUF CAS EXCEPTIONNEL",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:58",
-      "date": "23/05",
-      "timestamp": 1779512325
     }
   ],
   "france": {
