@@ -1,7 +1,77 @@
 {
-  "last_update": "24/05 17:30",
+  "last_update": "24/05 18:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779647850",
+      "source": "BFMTV",
+      "text": "33 NAVIRES ONT FRANCHI LE DÉTROIT D'ORMUZ DÉCLARE LES GARDIENS DE LA RÉVOLUTION",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:37",
+      "date": "24/05",
+      "timestamp": 1779647850
+    },
+    {
+      "id": "BFMTV_1779647686",
+      "source": "BFMTV",
+      "text": "\"SI JE CONCLUS UN ACCORD AVEC L'IRAN, CE SERA UN ACCORD JUSTE ET ÉQUITABLE\", PROMET DONALD TRUMP SUR SON RÉSEAU SOCIAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:34",
+      "date": "24/05",
+      "timestamp": 1779647686
+    },
+    {
+      "id": "BFMTV_1779646978",
+      "source": "BFMTV",
+      "text": "ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS: BENJAMIN NETANYAHU AFFIRME S'ÊTRE ACCORDÉ AVEC DONALD TRUMP SUR LA NÉCESSITÉ DE \"DÉMANTELER LES INSTALLATIONS D'ENRICHISSEMENT D'URANIUM IRANIENNES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:22",
+      "date": "24/05",
+      "timestamp": 1779646978
+    },
+    {
+      "id": "BFMTV_1779646648",
+      "source": "BFMTV",
+      "text": "ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS: SELON PLUSIEURS AGENCES DE PRESSE IRANIENNES, DES POINTS DE BLOCAGE PERSISTENT DANS LES NÉGOCIATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:17",
+      "date": "24/05",
+      "timestamp": 1779646648
+    },
+    {
+      "id": "BFMTV_1779646225",
+      "source": "BFMTV",
+      "text": "ACCORD AVEC L'IRAN: PLUSIEURS SÉNATEURS RÉPUBLICAINS ESTIMENT QUE L'ACCORD EST MAUVAIS POUR LES ÉTATS-UNIS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:10",
+      "date": "24/05",
+      "timestamp": 1779646225
+    },
+    {
+      "id": "BFMTV_1779645585",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT IRANIEN RÉAFFIRME QUE L'IRAN N'A JAMAIS CHERCHÉ À FABRIQUER L'ARME NUCLÉAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:59",
+      "date": "24/05",
+      "timestamp": 1779645585
+    },
+    {
+      "id": "BFMTV_1779643936",
+      "source": "BFMTV",
+      "text": "\"IL Y A DEUX GRANDES PUISSANCES MILITAIRES AUJOURD'HUI: LA CHINE ET LES ÉTATS-UNIS\", OBSERVE PATRICK DUTARTRE, GÉNÉRAL DE L'ARMÉE DE L'AIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:32",
+      "date": "24/05",
+      "timestamp": 1779643936
+    },
     {
       "id": "BFMTV_1779643121",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "21:16",
       "date": "23/05",
       "timestamp": 1779570977
-    },
-    {
-      "id": "BFMTV_1779570339",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE DÉTROIT D’ORMUZ \"SERA ROUVERT\" SI L’ACCORD EST ENTÉRINÉ, COMMUNIQUE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:05",
-      "date": "23/05",
-      "timestamp": 1779570339
-    },
-    {
-      "id": "BFMTV_1779570121",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE PROJET D'ACCORD AVEC L'IRAN INCLUT LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:02",
-      "date": "23/05",
-      "timestamp": 1779570121
-    },
-    {
-      "id": "BFMTV_1779570026",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"UN ACCORD A ÉTÉ LARGEMENT NÉGOCIÉ ET RESTE À FINALISER\", ANNONCE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:00",
-      "date": "23/05",
-      "timestamp": 1779570026
-    },
-    {
-      "id": "BFMTV_1779569534",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"JE NE CONCLURAIS AUCUN ACCORD S’IL N’ÉTAIT PAS AVANTAGEUX POUR ISRAËL\", DIT DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:52",
-      "date": "23/05",
-      "timestamp": 1779569534
-    },
-    {
-      "id": "BFMTV_1779568760",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LES PAYS DU GOLFE ONT LE PLUS À PERDRE\", ANALYSE ANTHONY DABILA, CHERCHEUR",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:39",
-      "date": "23/05",
-      "timestamp": 1779568760
-    },
-    {
-      "id": "BFMTV_1779566921",
-      "source": "BFMTV",
-      "text": "CHINE: AU MOINS 82 MORTS DANS UNE EXPLOSION DANS UNE MINE DE CHARBON",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:08",
-      "date": "23/05",
-      "timestamp": 1779566921
-    },
-    {
-      "id": "BFMTV_1779566434",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON S'EST ENTRETENU AVEC DONALD TRUMP ET DES DIRIGEANTS DU GOLFE POUR PRÔNER UNE SOLUTION NÉGOCIÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:00",
-      "date": "23/05",
-      "timestamp": 1779566434
     }
   ],
   "france": {
