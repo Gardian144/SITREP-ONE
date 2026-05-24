@@ -1,7 +1,67 @@
 {
-  "last_update": "24/05 18:47",
+  "last_update": "24/05 20:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779649839",
+      "source": "BFMTV",
+      "text": "\"LA FRANCE PEUT AIDER DANS PLUSIEURS CRISES\", ESTIME DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:10",
+      "date": "24/05",
+      "timestamp": 1779649839
+    },
+    {
+      "id": "BFMTV_1779649511",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN : \"LES IRANIENS SONT COMPLÈTEMENT EN BANQUEROUTE\", EXPLIQUE DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:05",
+      "date": "24/05",
+      "timestamp": 1779649511
+    },
+    {
+      "id": "BFMTV_1779649281",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"ON N'INTERVIENT PAS POUR CHANGER UN RÉGIME\", EXPLIQUE DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:01",
+      "date": "24/05",
+      "timestamp": 1779649281
+    },
+    {
+      "id": "BFMTV_1779648950",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: \"ON NE PEUT PAS TOUT OBTENIR PAR LA FORCE\", DÉCLARE DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:55",
+      "date": "24/05",
+      "timestamp": 1779648950
+    },
+    {
+      "id": "BFMTV_1779648722",
+      "source": "BFMTV",
+      "text": "IRAN: \"CETTE AVENTURE AMÉRICAINE EST UN FIASCO\", OBSERVE DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:52",
+      "date": "24/05",
+      "timestamp": 1779648722
+    },
+    {
+      "id": "BFMTV_1779648475",
+      "source": "BFMTV",
+      "text": "ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS: \"NOUS SOMMES DANS UN MOMENT QUI CORRESPOND À UN MARCHÉ DE DUPES\", OBSERVE DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:47",
+      "date": "24/05",
+      "timestamp": 1779648475
+    },
     {
       "id": "BFMTV_1779647850",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "22:03",
       "date": "23/05",
       "timestamp": 1779573784
-    },
-    {
-      "id": "BFMTV_1779573576",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE PROJET D'ACCORD AVEC L'IRAN INCLUT LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:59",
-      "date": "23/05",
-      "timestamp": 1779573576
-    },
-    {
-      "id": "BFMTV_1779573462",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L’IRAN VEUT GARDER LE CONTRÔLE DU DÉTROIT D’ORMUZ, MÊME EN CAS D’ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:57",
-      "date": "23/05",
-      "timestamp": 1779573462
-    },
-    {
-      "id": "BFMTV_1779573212",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES PARTISANS DE DONALD TRUMP S’OPPOSENT AU POTENTIEL ACCORD ANNONCÉ PAR LE PRÉSIDENT AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:53",
-      "date": "23/05",
-      "timestamp": 1779573212
-    },
-    {
-      "id": "BFMTV_1779572861",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU ET DONALD TRUMP ONT ÉCHANGÉ AU SUJET D’UN POTENTIEL ACCORD AVEC L’IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:47",
-      "date": "23/05",
-      "timestamp": 1779572861
-    },
-    {
-      "id": "BFMTV_1779570977",
-      "source": "BFMTV",
-      "text": "QUATRE PERSONNES INTERPELLÉES EN ESPAGNE APRÈS DES HEURTS LORS RETOUR DU RETOUR DE MILITANTS DE LA \"FLOTTILLE POUR GAZA",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:16",
-      "date": "23/05",
-      "timestamp": 1779570977
-    },
-    {
-      "id": "BFMTV_1779570977",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:16",
-      "date": "23/05",
-      "timestamp": 1779570977
     }
   ],
   "france": {
