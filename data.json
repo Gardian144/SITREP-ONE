@@ -1,7 +1,87 @@
 {
-  "last_update": "24/05 16:15",
+  "last_update": "24/05 17:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779643121",
+      "source": "BFMTV",
+      "text": "\"LE NUCLÉAIRE EST UN ENJEU MAJEUR\" DANS LES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN, EXPLIQUE PATRICK DUTARTRE, GÉNÉRAL DE L'ARMÉE DE L'AIR",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:18",
+      "date": "24/05",
+      "timestamp": 1779643121
+    },
+    {
+      "id": "BFMTV_1779642027",
+      "source": "BFMTV",
+      "text": "LE CHEF DU HEZBOLLAH DIT ESPÉRER UN ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS QUI INCLUT AUSSI LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:00",
+      "date": "24/05",
+      "timestamp": 1779642027
+    },
+    {
+      "id": "BFMTV_1779641806",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT IRANIEN RÉAFFIRME QUE L'IRAN N'A JAMAIS CHERCHÉ À FABRIQUER L'ARME ATOMIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:56",
+      "date": "24/05",
+      "timestamp": 1779641806
+    },
+    {
+      "id": "BFMTV_1779641135",
+      "source": "BFMTV",
+      "text": "OBJECTIF LUNE: LA CHINE LANCE SA MISSION SHENZHOU-23, UN ASTRONAUTE RESTERA UN AN EN ORBITE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:45",
+      "date": "24/05",
+      "timestamp": 1779641135
+    },
+    {
+      "id": "BFMTV_1779640875",
+      "source": "BFMTV",
+      "text": "ACCORD ÉTATS-UNIS/IRAN: LA QUESTION DU DÉTROIT D'ORMUZ SUSCITE DES POINTS DE VUE OPPOSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:41",
+      "date": "24/05",
+      "timestamp": 1779640875
+    },
+    {
+      "id": "BFMTV_1779640621",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - GUERRE EN IRAN: LES DERNIÈRES INFORMATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:37",
+      "date": "24/05",
+      "timestamp": 1779640621
+    },
+    {
+      "id": "BFMTV_1779640250",
+      "source": "BFMTV",
+      "text": "ACCORD ÉTATS-UNIS/IRAN: ALORS QUE LES NÉGOCIATIONS SE POURSUIVENT, LA PROPAGANDE IRANIENNE CONTINUE DE PUBLIER DES IMAGES CONTROVERSÉES",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:30",
+      "date": "24/05",
+      "timestamp": 1779640250
+    },
+    {
+      "id": "BFMTV_1779639560",
+      "source": "BFMTV",
+      "text": "ACCORD ÉTATS-UNIS/IRAN: \"LE RISQUE MAJEUR DANS LES NÉGOCIATIONS, C'EST LA PERSONNALITÉ DE TRUMP\", OBSERVE VINCENT DESPORTES, ANCIEN DIRECTEUR DE L'ÉCOLE DE GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:19",
+      "date": "24/05",
+      "timestamp": 1779639560
+    },
     {
       "id": "BFMTV_1779638653",
       "source": "BFMTV",
@@ -346,6 +426,16 @@
       "id": "OPEX360_1779620186",
       "source": "OPEX360",
       "text": "À SON TOUR, LA BRITISH ARMY RENOUE AVEC CERTAINS FONDAMENTAUX DU COMBAT À CHEVAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:56",
+      "date": "24/05",
+      "timestamp": 1779620186
+    },
+    {
+      "id": "OPEX360_1779620186",
+      "source": "OPEX360",
+      "text": "À SON TOUR, LA BRITISH ARMY RENOUE AVEC CERTAINS ASPECTS FONDAMENTAUX DU COMBAT À CHEVAL",
       "urgent": false,
       "france_related": false,
       "time": "10:56",
@@ -911,96 +1001,6 @@
       "time": "20:00",
       "date": "23/05",
       "timestamp": 1779566434
-    },
-    {
-      "id": "BFMTV_1779566434",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:00",
-      "date": "23/05",
-      "timestamp": 1779566434
-    },
-    {
-      "id": "BFMTV_1779566232",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LES OPTIONS MILITAIRES NE RAPPORTERAIENT PAS DE GAINS\", JUGE PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:57",
-      "date": "23/05",
-      "timestamp": 1779566232
-    },
-    {
-      "id": "BFMTV_1779565823",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN ACCORD VALIDÉ PAR LES ÉTATS-UNIS ET L'IRAN, SELON LE WASHINGTON TIMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:50",
-      "date": "23/05",
-      "timestamp": 1779565823
-    },
-    {
-      "id": "BFMTV_1779565520",
-      "source": "BFMTV",
-      "text": "L’IRAN DIT AVOIR DES MISSILES À IMPULSION ÉLECTROMAGNÉTIQUE: \"ÇA VA CASSER LES CAPACITÉS DE TRANSMISSION\", ANALYSE LE GÉNÉRAL VINCENT DESPORTES",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:45",
-      "date": "23/05",
-      "timestamp": 1779565520
-    },
-    {
-      "id": "BFMTV_1779563040",
-      "source": "BFMTV",
-      "text": "\"IL NE PRÉSENTE TOUJOURS AUCUN SYMPTÔME D'HANTAVIRUS\": L'OMS ANNONCE QUE LE CAPITAINE DU MV HONDIUS VA ENFIN QUITTER LE NAVIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:04",
-      "date": "23/05",
-      "timestamp": 1779563040
-    },
-    {
-      "id": "BFMTV_1779562005",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L’IRAN SE MOQUE DE DONALD TRUMP EN PLEINE NÉGOCIATION POUR UN ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:46",
-      "date": "23/05",
-      "timestamp": 1779562005
-    },
-    {
-      "id": "BFMTV_1779561680",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON A ÉCHANGÉ AVEC PLUSIEURS DIRIGEANTS DU GOLFE ET AVEC DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:41",
-      "date": "23/05",
-      "timestamp": 1779561680
-    },
-    {
-      "id": "BFMTV_1779561426",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP \"ENTEND MOINS\" BENJAMIN NETANYAHU, SELON SERGUEÏ JIMOV, ANCIEN OFFICIER DU KGB",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:37",
-      "date": "23/05",
-      "timestamp": 1779561426
-    },
-    {
-      "id": "BFMTV_1779560637",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS FORMONS UN REMPART INFRANCHISSABLE CONTRE LES ENNEMIS IRANIENS\", DÉCLARE PETE HEGSETH",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:23",
-      "date": "23/05",
-      "timestamp": 1779560637
     }
   ],
   "france": {
