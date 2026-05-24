@@ -1,7 +1,57 @@
 {
-  "last_update": "24/05 21:10",
+  "last_update": "24/05 22:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779659523",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP APPELLE SES NÉGOCIATEURS À \"NE PAS SE PRÉCIPITER\" POUR CONCLURE UN ACCORD AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:52",
+      "date": "24/05",
+      "timestamp": 1779659523
+    },
+    {
+      "id": "BFMTV_1779658874",
+      "source": "BFMTV",
+      "text": "LIBAN: MARCO RUBIO CONDAMNE \"LES MENACES DE VIOLENCE ET DE RENVERSEMENT DE LA PART DU HEZBOLLAH\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:41",
+      "date": "24/05",
+      "timestamp": 1779658874
+    },
+    {
+      "id": "BFMTV_1779658352",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: BENJAMIN NETANYAHU A POSTÉ UNE IMAGE INDIQUANT QUE \"L'IRAN N'AURA JAMAIS L'ARME NUCLÉAIRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:32",
+      "date": "24/05",
+      "timestamp": 1779658352
+    },
+    {
+      "id": "BFMTV_1779657826",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: LE SÉNATEUR RÉPUBLICAIN TED CRUZ DÉCLARE SUR X \"ÊTRE PROFONDÉMENT PRÉOCCUPÉ AU SUJET D'UN ACCORD AVEC L'IRAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:23",
+      "date": "24/05",
+      "timestamp": 1779657826
+    },
+    {
+      "id": "BFMTV_1779657136",
+      "source": "BFMTV",
+      "text": "ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS: LE DÉBLOCAGE DES AVOIRS IRANIENS, BLOQUÉS PAR LES SANCTIONS AMÉRICAINES EST AU CŒUR DES NÉGOCIATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:12",
+      "date": "24/05",
+      "timestamp": 1779657136
+    },
     {
       "id": "BFMTV_1779656495",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "04:52",
       "date": "24/05",
       "timestamp": 1779598372
-    },
-    {
-      "id": "BFMTV_1779597924",
-      "source": "BFMTV",
-      "text": "COUPS DE FEU PRÈS DE LA MAISON BLANCHE: DONALD TRUMP AFFIRME QUE LE TIREUR \"AVAIT DES ANTÉCÉDENTS DE VIOLENCE ET SEMBLAIT OBSÉDÉ PAR LE BÂTIMENT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:45",
-      "date": "24/05",
-      "timestamp": 1779597924
-    },
-    {
-      "id": "BFMTV_1779597829",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA MENACE IRANIENNE INQUIÈTE TOUJOURS LES PAYS DU GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:43",
-      "date": "24/05",
-      "timestamp": 1779597829
-    },
-    {
-      "id": "BFMTV_1779597697",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: COMMENT L'IRAN VEUT GARDER LE CONTRÔLE SUR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:41",
-      "date": "24/05",
-      "timestamp": 1779597697
-    },
-    {
-      "id": "BFMTV_1779597436",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: COUPS DE FEU PRÈS DE LA MAISON BLANCHE, LE TIREUR ABATTU PAR LE SECRET SERVICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:37",
-      "date": "24/05",
-      "timestamp": 1779597436
-    },
-    {
-      "id": "BFMTV_1779594534",
-      "source": "BFMTV",
-      "text": "\"LES AGENTS DE POLICE ONT RIPOSTÉ\": COUPS DE FEU PRÈS DE LA MAISON BLANCHE, LE TIREUR ABATTU, UN PASSANT BLESSÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "03:48",
-      "date": "24/05",
-      "timestamp": 1779594534
     }
   ],
   "france": {
