@@ -1,7 +1,147 @@
 {
-  "last_update": "24/05 10:56",
+  "last_update": "24/05 12:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779622332",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES FRAPPES ISRAÉLIENNES RENDENT DIFFICILE LA PRISE EN CHARGE DES PATIENTS DANS UN HÔPITAL DE TYR, AU LIBAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:32",
+      "date": "24/05",
+      "timestamp": 1779622332
+    },
+    {
+      "id": "BFMTV_1779622295",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"LES PAYS DU GOLFE N'ONT PLUS CONFIANCE EN LA DÉFENSE DES ÉTATS-UNIS\", AFFIRME LE GÉNÉRAL VINCENT DESPORTES",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:31",
+      "date": "24/05",
+      "timestamp": 1779622295
+    },
+    {
+      "id": "BFMTV_1779621933",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES VERSIONS AMÉRICAINES ET IRANIENNES D'UN \"ACCORD DE PAIX\" DIVERGENT SUR LA RÉOUVERTURE DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:25",
+      "date": "24/05",
+      "timestamp": 1779621933
+    },
+    {
+      "id": "BFMTV_1779621915",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QUE L'ACCORD AVEC L'IRAN PRÉVOIT LA RÉOUVERTURE DU DÉTROIT D'ORMUZ, TÉHÉRAN PRÉCISE QU'IL RESTERAIT \"SOUS CONTRÔLE\" IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:25",
+      "date": "24/05",
+      "timestamp": 1779621915
+    },
+    {
+      "id": "OPEX360_1779620753",
+      "source": "OPEX360",
+      "text": "LES BLINDÉS GRIFFON DE L’ARMÉE DE TERRE VONT ÊTRE DOTÉS D’UNE FONCTION DE DÉTECTION AUTOMATIQUE BASÉE SUR L’IA",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:05",
+      "date": "24/05",
+      "timestamp": 1779620753
+    },
+    {
+      "id": "BFMTV_1779620739",
+      "source": "BFMTV",
+      "text": "LIBAN/ISRAËL: \"ON A POUR LA PREMIÈRE FOIS DEPUIS DES ANNÉES DES NÉGOCIATIONS QUI ONT ÉTÉ ROUVERTES\", OBSERVE THIERRY BRETON",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:05",
+      "date": "24/05",
+      "timestamp": 1779620739
+    },
+    {
+      "id": "BFMTV_1779620629",
+      "source": "BFMTV",
+      "text": "THIERRY BRETON: \"LES ÉTATS-UNIS NOUS MANQUENT CRUELLEMENT\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:03",
+      "date": "24/05",
+      "timestamp": 1779620629
+    },
+    {
+      "id": "BFMTV_1779620530",
+      "source": "BFMTV",
+      "text": "ASSAUT DU CAPITOLE: LE MINISTÈRE AMÉRICAIN DE LA JUSTICE SUPPRIME DE SON SITE INTERNET DES COMMUNIQUÉS DE PRESSE SUR LES MILITANTS IMPLIQUÉS, DÉNONÇANT DE \"LA PROPAGANDE PARTISANE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:02",
+      "date": "24/05",
+      "timestamp": 1779620530
+    },
+    {
+      "id": "BFMTV_1779620530",
+      "source": "BFMTV",
+      "text": "INVESTITURE DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:02",
+      "date": "24/05",
+      "timestamp": 1779620530
+    },
+    {
+      "id": "BFMTV_1779620489",
+      "source": "BFMTV",
+      "text": "NUCLÉAIRE IRANIEN: TÉHÉRAN FAIT \"DEPUIS TOUT LE TEMPS DES CONCESSIONS RÉVERSIBLES\", EXPLIQUE EMMANUELLE GALICHET, ENSEIGNANTE-CHERCHEUSE EN PHYSIQUE NUCLÉAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:01",
+      "date": "24/05",
+      "timestamp": 1779620489
+    },
+    {
+      "id": "BFMTV_1779620340",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"LES FRANÇAIS ONT UNE EXPERTISE SUR LE DÉMINAGE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:59",
+      "date": "24/05",
+      "timestamp": 1779620340
+    },
+    {
+      "id": "OPEX360_1779620186",
+      "source": "OPEX360",
+      "text": "À SON TOUR, LA BRITISH ARMY RENOUE AVEC CERTAINS FONDAMENTAUX DU COMBAT À CHEVAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:56",
+      "date": "24/05",
+      "timestamp": 1779620186
+    },
+    {
+      "id": "BFMTV_1779620161",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POUR THIERRY BRETON, LE DÉTROIT D'ORMUZ VA \"SANS DOUTE ROUVRIR\" CE SOIR",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:56",
+      "date": "24/05",
+      "timestamp": 1779620161
+    },
+    {
+      "id": "BFMTV_1779620059",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"QUI VOUS DIT QU'IL Y A DES MINES ? C'EST L'IRAN (...) PEUT-ÊTRE QU'IL N'Y EN A PAS DU TOUT\", AFFIRME LE GÉNÉRAL VINCENT DESPORTES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:54",
+      "date": "24/05",
+      "timestamp": 1779620059
+    },
     {
       "id": "BFMTV_1779619291",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "14:48",
       "date": "23/05",
       "timestamp": 1779547680
-    },
-    {
-      "id": "BFMTV_1779547191",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES DÉTAILS DU POTENTIEL PROTOCOLE D'ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:39",
-      "date": "23/05",
-      "timestamp": 1779547191
-    },
-    {
-      "id": "BFMTV_1779546861",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN EST EN \"PHASE DE FINALISATION\" D'UN PROTOCOLE D'ACCORD AVEC LES ÉTATS-UNIS, SELON LE PORTE-PAROLE DU MINISTÈRE IRANIEN DES AFFAIRES ÉTRANGÈRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:34",
-      "date": "23/05",
-      "timestamp": 1779546861
-    },
-    {
-      "id": "BFMTV_1779546444",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"DES PROGRÈS ONT ÉTÉ RÉALISÉS\" AVEC L'IRAN, ASSURE MARCO RUBIO",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:27",
-      "date": "23/05",
-      "timestamp": 1779546444
-    },
-    {
-      "id": "BFMTV_1779546032",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN ÉVOQUE UNE \"TENDANCE AU RAPPROCHEMENT\" AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:20",
-      "date": "23/05",
-      "timestamp": 1779546032
-    },
-    {
-      "id": "BFMTV_1779546005",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ESTIME QUE LES \"POINTS DE VUE SE SONT RAPPROCHÉS\" AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:20",
-      "date": "23/05",
-      "timestamp": 1779546005
-    },
-    {
-      "id": "BFMTV_1779545644",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: MARCO RUBIO ESTIME QU’IL Y A \"UNE CHANCE\" QUE L’IRAN ACCEPTE UN ACCORD DÈS AUJOURD’HUI",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:14",
-      "date": "23/05",
-      "timestamp": 1779545644
-    },
-    {
-      "id": "BFMTV_1779545058",
-      "source": "BFMTV",
-      "text": "ISRAËL: LES SIRÈNES D'ALERTE ONT RETENTI À PLUSIEURS REPRISES CE SAMEDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:04",
-      "date": "23/05",
-      "timestamp": 1779545058
-    },
-    {
-      "id": "BFMTV_1779544634",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: OBJET D'UNE GUERRE DE COMMUNICATION ENTRE LES ÉTATS-UNIS ET L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:57",
-      "date": "23/05",
-      "timestamp": 1779544634
-    },
-    {
-      "id": "BFMTV_1779544066",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP POSTE UNE CARTE DE L'IRAN AUX COULEURS DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:47",
-      "date": "23/05",
-      "timestamp": 1779544066
-    },
-    {
-      "id": "BFMTV_1779543795",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: MARCO RUBIO ESTIME QU'IL Y A \"UNE CHANCE\" QUE L'IRAN ACCEPTE UN ACCORD DÈS AUJOURD'HUI",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:43",
-      "date": "23/05",
-      "timestamp": 1779543795
-    },
-    {
-      "id": "BFMTV_1779543243",
-      "source": "BFMTV",
-      "text": "IRAN: \"PLUS CETTE TRÊVE DURE, PLUS C'EST COMPLIQUÉ POUR DONALD TRUMP DE REPARTIR À L'ASSAUT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:34",
-      "date": "23/05",
-      "timestamp": 1779543243
-    },
-    {
-      "id": "BFMTV_1779542584",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: ISRAËL ANNONCE DES FRAPPES SUR PLUSIEURS VILLAGES DU SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:23",
-      "date": "23/05",
-      "timestamp": 1779542584
-    },
-    {
-      "id": "BFMTV_1779541735",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ANNONCE DES FRAPPES IMMINENTES DANS LE SUD DU LIBAN, PLUSIEURS VILLAGES INVITÉS À ÉVACUER",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:08",
-      "date": "23/05",
-      "timestamp": 1779541735
-    },
-    {
-      "id": "BFMTV_1779540752",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL S'INQUIÈTE DE SA DÉPENDANCE MILITAIRE VIS-À-VIS DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:52",
-      "date": "23/05",
-      "timestamp": 1779540752
     }
   ],
   "france": {
