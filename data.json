@@ -1,7 +1,57 @@
 {
-  "last_update": "25/05 15:42",
+  "last_update": "25/05 17:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779724891",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UNE REMISE DE DIPLÔMES SOUS LA PLUIE FAIT POLÉMIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:01",
+      "date": "25/05",
+      "timestamp": 1779724891
+    },
+    {
+      "id": "BFMTV_1779724724",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: QU'EST-CE QUE LE MISSILE ORECHNIK, CAPABLE D'EMPORTER UNE OGIVE NUCLÉAIRE ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:58",
+      "date": "25/05",
+      "timestamp": 1779724724
+    },
+    {
+      "id": "BFMTV_1779724517",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN: BENJAMIN NETANYAHU, INQUIET, A ASSURÉ \"NE PAS AVOIR LES MOYENS D'INFLUENCER DONALD TRUMP\" À DES PROCHES",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:55",
+      "date": "25/05",
+      "timestamp": 1779724517
+    },
+    {
+      "id": "BFMTV_1779724066",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LES GARDIENS DE LA RÉVOLUTION DÉCLARENT AVOIR LAISSÉ PASSER 32 NAVIRES AU COURS DES DERNIÈRES 24H",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:47",
+      "date": "25/05",
+      "timestamp": 1779724066
+    },
+    {
+      "id": "BFMTV_1779723763",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"ON EST EN TRAIN DE VIVRE LA PREMIÈRE GUERRE OÙ L'INTELLIGENCE ARTIFICIELLE JOUE UN RÔLE CRUCIAL\", ASSURE ANIS AYARI, INGÉNIEUR EN IA",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:42",
+      "date": "25/05",
+      "timestamp": 1779723763
+    },
     {
       "id": "BFMTV_1779723604",
       "source": "BFMTV",
@@ -56,6 +106,16 @@
       "id": "BFMTV_1779712789",
       "source": "BFMTV",
       "text": "33,5°C PRÈS DE LONDRES: LE RECORD DE TEMPÉRATURE AU ROYAUME-UNI POUR UN MOIS DE MAI QUI REMONTAIT À 1944 BATTU",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:39",
+      "date": "25/05",
+      "timestamp": 1779712789
+    },
+    {
+      "id": "BFMTV_1779712789",
+      "source": "BFMTV",
+      "text": "34,8°C AU SUD DE LONDRES: LE RECORD DE TEMPÉRATURE AU ROYAUME-UNI POUR UN MOIS DE MAI QUI REMONTAIT À 1944 BATTU",
       "urgent": false,
       "france_related": false,
       "time": "12:39",
@@ -941,66 +1001,6 @@
       "time": "11:25",
       "date": "24/05",
       "timestamp": 1779621915
-    },
-    {
-      "id": "OPEX360_1779620753",
-      "source": "OPEX360",
-      "text": "LES BLINDÉS GRIFFON DE L’ARMÉE DE TERRE VONT ÊTRE DOTÉS D’UNE FONCTION DE DÉTECTION AUTOMATIQUE BASÉE SUR L’IA",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:05",
-      "date": "24/05",
-      "timestamp": 1779620753
-    },
-    {
-      "id": "BFMTV_1779620739",
-      "source": "BFMTV",
-      "text": "LIBAN/ISRAËL: \"ON A POUR LA PREMIÈRE FOIS DEPUIS DES ANNÉES DES NÉGOCIATIONS QUI ONT ÉTÉ ROUVERTES\", OBSERVE THIERRY BRETON",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:05",
-      "date": "24/05",
-      "timestamp": 1779620739
-    },
-    {
-      "id": "BFMTV_1779620629",
-      "source": "BFMTV",
-      "text": "THIERRY BRETON: \"LES ÉTATS-UNIS NOUS MANQUENT CRUELLEMENT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:03",
-      "date": "24/05",
-      "timestamp": 1779620629
-    },
-    {
-      "id": "BFMTV_1779620530",
-      "source": "BFMTV",
-      "text": "ASSAUT DU CAPITOLE: LE MINISTÈRE AMÉRICAIN DE LA JUSTICE SUPPRIME DE SON SITE INTERNET DES COMMUNIQUÉS DE PRESSE SUR LES MILITANTS IMPLIQUÉS, DÉNONÇANT DE \"LA PROPAGANDE PARTISANE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:02",
-      "date": "24/05",
-      "timestamp": 1779620530
-    },
-    {
-      "id": "BFMTV_1779620530",
-      "source": "BFMTV",
-      "text": "INVESTITURE DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:02",
-      "date": "24/05",
-      "timestamp": 1779620530
-    },
-    {
-      "id": "BFMTV_1779620489",
-      "source": "BFMTV",
-      "text": "NUCLÉAIRE IRANIEN: TÉHÉRAN FAIT \"DEPUIS TOUT LE TEMPS DES CONCESSIONS RÉVERSIBLES\", EXPLIQUE EMMANUELLE GALICHET, ENSEIGNANTE-CHERCHEUSE EN PHYSIQUE NUCLÉAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:01",
-      "date": "24/05",
-      "timestamp": 1779620489
     }
   ],
   "france": {
