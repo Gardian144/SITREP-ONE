@@ -1,7 +1,177 @@
 {
-  "last_update": "25/05 05:04",
+  "last_update": "25/05 12:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779712789",
+      "source": "BFMTV",
+      "text": "33,5°C PRÈS DE LONDRES: LE RECORD DE TEMPÉRATURE AU ROYAUME-UNI POUR UN MOIS DE MAI QUI REMONTAIT À 1944 BATTU",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:39",
+      "date": "25/05",
+      "timestamp": 1779712789
+    },
+    {
+      "id": "OPEX360_1779712308",
+      "source": "OPEX360",
+      "text": "LA GRÈCE A RETENU THALES POUR MODERNISER LE SYSTÈME DE COMBAT ET LES CAPTEURS DE SES FRÉGATES DE TYPE HYDRA",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:31",
+      "date": "25/05",
+      "timestamp": 1779712308
+    },
+    {
+      "id": "BFMTV_1779712166",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE MISSILE RUSSE ORECHNIK EST-IL UNE ARME CAPABLE DE MENACER TOUTE L'EUROPE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:29",
+      "date": "25/05",
+      "timestamp": 1779712166
+    },
+    {
+      "id": "BFMTV_1779710843",
+      "source": "BFMTV",
+      "text": "UN INCENDIE SE DÉCLARE DANS UN SITE INDUSTRIEL AU SUD DE BRUXELLES, DES HABITANTS ÉVACUÉS ET LE PLAN DE CATASTROPHE COMMUNALE DÉCLENCHÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:07",
+      "date": "25/05",
+      "timestamp": 1779710843
+    },
+    {
+      "id": "BFMTV_1779710330",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LES IMAGES IMPRESSIONNANTES DES BATEAUX BLOQUÉS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:58",
+      "date": "25/05",
+      "timestamp": 1779710330
+    },
+    {
+      "id": "BFMTV_1779710117",
+      "source": "BFMTV",
+      "text": "DEUX FRANÇAIS PORTÉS DISPARUS APRÈS DES \"DIFFICULTÉS\" EN MER AU LARGE DU MAROC, LEUR CATAMARAN RETROUVÉ VIDE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:55",
+      "date": "25/05",
+      "timestamp": 1779710117
+    },
+    {
+      "id": "BFMTV_1779708622",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: DONALD TRUMP AFFIRME QUE L'ACCORD AVEC TÉHÉRAN SERA SOIT \"EXCELLENT\", SOIT \"IL N'Y AURA PAS D'ACCORD\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:30",
+      "date": "25/05",
+      "timestamp": 1779708622
+    },
+    {
+      "id": "BFMTV_1779707659",
+      "source": "BFMTV",
+      "text": "LE PAPE LÉON XIV APPELLE À \"DÉSARMER\" L'IA POUR \"L'EMPÊCHER DE DOMINER L'HUMAIN\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:14",
+      "date": "25/05",
+      "timestamp": 1779707659
+    },
+    {
+      "id": "BFMTV_1779707644",
+      "source": "BFMTV",
+      "text": "TOKYO: UNE SUBSTANCE PULVÉRISÉE DANS UN CENTRE COMMERCIAL, UNE VINGTAINE DE BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:14",
+      "date": "25/05",
+      "timestamp": 1779707644
+    },
+    {
+      "id": "BFMTV_1779707510",
+      "source": "BFMTV",
+      "text": "PHILIPPINES: UN IMMEUBLE EN CONSTRUCTION S’EFFONDRE, AU MOINS QUATRE MORTS ET UNE QUINZAINE DE DISPARUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:11",
+      "date": "25/05",
+      "timestamp": 1779707510
+    },
+    {
+      "id": "BFMTV_1779706288",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ACCORD AVEC L'IRAN SERA \"FORMIDABLE ET SIGNIFICATIF\" OU \"IL N'Y AURA PAS D'ACCORD\", ASSURE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:51",
+      "date": "25/05",
+      "timestamp": 1779706288
+    },
+    {
+      "id": "BFMTV_1779706226",
+      "source": "BFMTV",
+      "text": "SEPT PERSONNES COINCÉES DANS UNE GROTTE DEPUIS CINQ JOURS AU LAOS APRÈS UNE BRUTALE MONTÉE DES EAUX",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:50",
+      "date": "25/05",
+      "timestamp": 1779706226
+    },
+    {
+      "id": "BFMTV_1779705678",
+      "source": "BFMTV",
+      "text": "LE SMARTPHONE PATRIOTIQUE TRUMP MOBILE EST COMPOSÉ DE...COMPOSANTS ASIATIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:41",
+      "date": "25/05",
+      "timestamp": 1779705678
+    },
+    {
+      "id": "BFMTV_1779705298",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL SOUHAITE GARDER SA LIBERTÉ D'ACTION EN CAS D'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:34",
+      "date": "25/05",
+      "timestamp": 1779705298
+    },
+    {
+      "id": "BFMTV_1779704873",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES AVOIRS IRANIENS GELÉS, LEVIER CRUCIAL DE L'ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:27",
+      "date": "25/05",
+      "timestamp": 1779704873
+    },
+    {
+      "id": "OPEX360_1779704696",
+      "source": "OPEX360",
+      "text": "LA PATROUILLE ACROBATIQUE DE LA ROYAL AIR FORCE EST CONTRAINTE DE RÉDUIRE LE NOMBRE DE SES AVIONS HAWK T1",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:24",
+      "date": "25/05",
+      "timestamp": 1779704696
+    },
+    {
+      "id": "BFMTV_1779704189",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES BOMBARDEMENTS ISRAÉLIENS SE POURSUIVENT DANS LE SUD-LIBAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:16",
+      "date": "25/05",
+      "timestamp": 1779704189
+    },
     {
       "id": "BFMTV_1779685184",
       "source": "BFMTV",
@@ -831,176 +1001,6 @@
       "time": "10:41",
       "date": "24/05",
       "timestamp": 1779619291
-    },
-    {
-      "id": "BFMTV_1779619157",
-      "source": "BFMTV",
-      "text": "PROTOCOLE D'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN: \"IL Y A  60 JOURS, POUR DONALD TRUMP, C'EST TRÈS IMPORTANT\", AFFIRME THIERRY BRETON",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:39",
-      "date": "24/05",
-      "timestamp": 1779619157
-    },
-    {
-      "id": "BFMTV_1779618826",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: URSULA VON DER LEYEN SALUE \"LES PROGRÈS VERS UN ACCORD ENTRE LES ÉTATS-UNIS ET L’IRAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:33",
-      "date": "24/05",
-      "timestamp": 1779618826
-    },
-    {
-      "id": "BFMTV_1779618567",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"L'IRAN FERA À LA FIN CE QUE LA CHINE LUI DEMANDERA DE FAIRE\", AFFIRME THIERRY BRETON",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:29",
-      "date": "24/05",
-      "timestamp": 1779618567
-    },
-    {
-      "id": "BFMTV_1779617795",
-      "source": "BFMTV",
-      "text": "THIERRY BRETON: \"  SI L'IRAN EN EST LÀ AUJOURD'HUI, C'EST ÉVIDEMMENT GRÂCE À LA CHINE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:16",
-      "date": "24/05",
-      "timestamp": 1779617795
-    },
-    {
-      "id": "BFMTV_1779617332",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LA CHINE REGARDE DE FAÇON CLINIQUE CE QUI SE PASSE\", EXPLIQUE THIERRY BRETON",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:08",
-      "date": "24/05",
-      "timestamp": 1779617332
-    },
-    {
-      "id": "BFMTV_1779617102",
-      "source": "BFMTV",
-      "text": "\"C'EST UN SUCCÈS POUR L'IRAN\": THIERRY BRETON EST \"CONVAINCU\" QU'UN ACCORD PEUT ÊTRE TROUVÉ ENTRE WASHINGTON ET TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:05",
-      "date": "24/05",
-      "timestamp": 1779617102
-    },
-    {
-      "id": "BFMTV_1779616763",
-      "source": "BFMTV",
-      "text": "LES INQUIÉTUDES DES ISRAÉLIENS FACE À LA PERSPECTIVE D'UN ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS: \"J'ESPÈRE QUE DONALD TRUMP VA RESPECTER SA PAROLE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:59",
-      "date": "24/05",
-      "timestamp": 1779616763
-    },
-    {
-      "id": "BFMTV_1779615077",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BENNY GANTZ, ANCIEN MINISTRE DE LA DÉFENSE ISRAÉLIEN, ESTIME QU'UN ACCORD AVEC L'IRAN ET UN CESSEZ-LE-FEU AVEC LE LIBAN, SERAIT UNE \"ERREUR STRATÉGIQUE\" POUR ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:31",
-      "date": "24/05",
-      "timestamp": 1779615077
-    },
-    {
-      "id": "BFMTV_1779614547",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TÉHÉRAN EST \"PRÊT À UN ÉVENTUEL ÉCHEC DES NÉGOCIATIONS NUCLÉAIRES\", AFFIRME L'AGENCE IRANIENNE TASNIM",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:22",
-      "date": "24/05",
-      "timestamp": 1779614547
-    },
-    {
-      "id": "BFMTV_1779614241",
-      "source": "BFMTV",
-      "text": "\"VIVE LE MULET!\": DES CENTAINES DE PARTICIPANTS RASSEMBLÉS POUR LE CHAMPIONNAT D'EUROPE DE LA COUPE MULET EN BELGIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:17",
-      "date": "24/05",
-      "timestamp": 1779614241
-    },
-    {
-      "id": "BFMTV_1779614059",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN ESPOIR DE PAIX AU LIBAN, EN CAS D'ACCORD IRAN/ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:14",
-      "date": "24/05",
-      "timestamp": 1779614059
-    },
-    {
-      "id": "BFMTV_1779613086",
-      "source": "BFMTV",
-      "text": "SUSPECT ABATTU, UN BLESSÉ... CE QUE L'ON SAIT DES TIRS ENTENDUS PRÈS DE LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:58",
-      "date": "24/05",
-      "timestamp": 1779613086
-    },
-    {
-      "id": "BFMTV_1779612410",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS QUATRE MORTS À KIEV ET DANS SA RÉGION APRÈS DES FRAPPES RUSSES, VOLODYMYR ZELENSKY DIT QUE MOSCOU A FRAPPÉ AVEC UN MISSILE ORECHNIK",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:46",
-      "date": "24/05",
-      "timestamp": 1779612410
-    },
-    {
-      "id": "BFMTV_1779612001",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: CE QUE L'ON SAIT DU PROJET DE PROTOCOLE ENTRE L'IRAN ET LES ÉTATS-UNIS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:40",
-      "date": "24/05",
-      "timestamp": 1779612001
-    },
-    {
-      "id": "BFMTV_1779611814",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: MARCO RUBIO ASSURE QUE L'IRAN N'AURA \"JAMAIS\" L'ARME NUCLÉAIRE \"TANT QUE DONALD TRUMP EST PRÉSIDENT DES ÉTATS-UNIS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:36",
-      "date": "24/05",
-      "timestamp": 1779611814
-    },
-    {
-      "id": "BFMTV_1779611425",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: MARCO RUBIO AFFIRME QU'UNE ANNONCE POURRAIT ÊTRE FAITE CE DIMANCHE SUR UN ACCORD AVEC TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:30",
-      "date": "24/05",
-      "timestamp": 1779611425
-    },
-    {
-      "id": "BFMTV_1779609650",
-      "source": "BFMTV",
-      "text": "\"UNE VOITURE PIÉGÉE\": AU MOINS 24 MORTS APRÈS UNE ATTAQUE À L'EXPLOSIF DANS UN TRAIN AU PAKISTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:00",
-      "date": "24/05",
-      "timestamp": 1779609650
     }
   ],
   "france": {
