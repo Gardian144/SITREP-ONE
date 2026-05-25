@@ -1,7 +1,57 @@
 {
-  "last_update": "25/05 12:44",
+  "last_update": "25/05 15:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779723604",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: SELON LES RESPONSABLES IRANIENS, UN ACCORD EST POSSIBLE \"SI LES AMÉRICAINS PRENNENT LES DÉCISIONS NÉCESSAIRES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:40",
+      "date": "25/05",
+      "timestamp": 1779723604
+    },
+    {
+      "id": "BFMTV_1779721960",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP EXIGE DE L'ARABIE SAOUDITE ET DU QATAR QU'ILS SIGNENT LES ACCORDS D'ABRAHAM AFIN DE NORMALISER LEURS RELATIONS AVEC ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:12",
+      "date": "25/05",
+      "timestamp": 1779721960
+    },
+    {
+      "id": "BFMTV_1779718697",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: TYR, AU SUD-LIBAN, VISÉE PAR DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:18",
+      "date": "25/05",
+      "timestamp": 1779718697
+    },
+    {
+      "id": "BFMTV_1779717067",
+      "source": "BFMTV",
+      "text": "BASE MILITAIRE AUX ÉMIRATS ARABES UNIS: UN CHAR LECLERC FRANÇAIS EST PARVENU À ABATTRE UN DRONE LORS DE TESTS",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:51",
+      "date": "25/05",
+      "timestamp": 1779717067
+    },
+    {
+      "id": "BFMTV_1779715159",
+      "source": "BFMTV",
+      "text": "L’ARABIE SAOUDITE ACCUEILLE 1,5 MILLION DE MUSULMANS QUI ENTAMENT LEUR PÈLERINAGE À LA MECQUE, SOUS HAUTE SURVEILLANCE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:19",
+      "date": "25/05",
+      "timestamp": 1779715159
+    },
     {
       "id": "BFMTV_1779712789",
       "source": "BFMTV",
@@ -36,6 +86,16 @@
       "id": "BFMTV_1779710843",
       "source": "BFMTV",
       "text": "UN INCENDIE SE DÉCLARE DANS UN SITE INDUSTRIEL AU SUD DE BRUXELLES, DES HABITANTS ÉVACUÉS ET LE PLAN DE CATASTROPHE COMMUNALE DÉCLENCHÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:07",
+      "date": "25/05",
+      "timestamp": 1779710843
+    },
+    {
+      "id": "BFMTV_1779710843",
+      "source": "BFMTV",
+      "text": "DES FUMÉES TOXIQUES DANS LE CIEL BELGE: UN INCENDIE DANS UNE USINE ENTRAINE UN PLAN D'URGENCE PRÈS DE BRUXELLES",
       "urgent": false,
       "france_related": false,
       "time": "12:07",
@@ -941,66 +1001,6 @@
       "time": "11:01",
       "date": "24/05",
       "timestamp": 1779620489
-    },
-    {
-      "id": "BFMTV_1779620340",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"LES FRANÇAIS ONT UNE EXPERTISE SUR LE DÉMINAGE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:59",
-      "date": "24/05",
-      "timestamp": 1779620340
-    },
-    {
-      "id": "OPEX360_1779620186",
-      "source": "OPEX360",
-      "text": "À SON TOUR, LA BRITISH ARMY RENOUE AVEC CERTAINS FONDAMENTAUX DU COMBAT À CHEVAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:56",
-      "date": "24/05",
-      "timestamp": 1779620186
-    },
-    {
-      "id": "OPEX360_1779620186",
-      "source": "OPEX360",
-      "text": "À SON TOUR, LA BRITISH ARMY RENOUE AVEC CERTAINS ASPECTS FONDAMENTAUX DU COMBAT À CHEVAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:56",
-      "date": "24/05",
-      "timestamp": 1779620186
-    },
-    {
-      "id": "BFMTV_1779620161",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POUR THIERRY BRETON, LE DÉTROIT D'ORMUZ VA \"SANS DOUTE ROUVRIR\" CE SOIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:56",
-      "date": "24/05",
-      "timestamp": 1779620161
-    },
-    {
-      "id": "BFMTV_1779620059",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"QUI VOUS DIT QU'IL Y A DES MINES ? C'EST L'IRAN (...) PEUT-ÊTRE QU'IL N'Y EN A PAS DU TOUT\", AFFIRME LE GÉNÉRAL VINCENT DESPORTES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:54",
-      "date": "24/05",
-      "timestamp": 1779620059
-    },
-    {
-      "id": "BFMTV_1779619291",
-      "source": "BFMTV",
-      "text": "ACCORD POSSIBLE ENTRE L'IRAN ET LES ÉTATS-UNIS: \"LE GRAND PERDANT, C'EST BENJAMIN NETANYAHU\", ESTIME THIERRY BRETON",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:41",
-      "date": "24/05",
-      "timestamp": 1779619291
     }
   ],
   "france": {
