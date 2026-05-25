@@ -1,7 +1,147 @@
 {
-  "last_update": "25/05 00:15",
+  "last_update": "25/05 05:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779685184",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS IRAN/ÉTATS-UNIS: QUI A VRAIMENT INTÉRÊT À SIGNER UN ACCORD?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:59",
+      "date": "25/05",
+      "timestamp": 1779685184
+    },
+    {
+      "id": "BFMTV_1779685059",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: WASHINGTON ASSURE QU'UN ACCORD AVEC TÉHÉRAN EST TOUJOURS POSSIBLE CE LUNDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:57",
+      "date": "25/05",
+      "timestamp": 1779685059
+    },
+    {
+      "id": "BFMTV_1779684746",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: SUR LES RÉSEAUX SOCIAUX, L'IRAN MÈNE UNE VÉRITABLE GUERRE DU RÉCIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:52",
+      "date": "25/05",
+      "timestamp": 1779684746
+    },
+    {
+      "id": "BFMTV_1779684729",
+      "source": "BFMTV",
+      "text": " \"ON NE VEUT PAS DE PAIX AVEC ISRAËL\": LES LIBANAIS PESSIMISTES FACE À UN POSSIBLE ACCORD AVEC ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:52",
+      "date": "25/05",
+      "timestamp": 1779684729
+    },
+    {
+      "id": "BFMTV_1779684359",
+      "source": "BFMTV",
+      "text": "FAUTE D'ACCORD AVEC L'IRAN, DONALD TRUMP POURSUIT LE BLOCUS DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:45",
+      "date": "25/05",
+      "timestamp": 1779684359
+    },
+    {
+      "id": "BFMTV_1779684324",
+      "source": "BFMTV",
+      "text": "LE BRIEF DU GÉNÉRAL - L’ARMÉE FRANÇAISE TESTE L’UTILISATION DES CHARS LECLERC COMME DÉFENSE ANTI-AÉRIENNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:45",
+      "date": "25/05",
+      "timestamp": 1779684324
+    },
+    {
+      "id": "BFMTV_1779684171",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ, NUCLÉAIRE....: QUELS SONT LES POINTS CLÉS DES NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "25/05",
+      "timestamp": 1779684171
+    },
+    {
+      "id": "BFMTV_1779684135",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "25/05",
+      "timestamp": 1779684135
+    },
+    {
+      "id": "BFMTV_1779683660",
+      "source": "BFMTV",
+      "text": "SUD-LIBAN: QUE SE PASSE-T-IL EN DESSOUS DE \"LA LIGNE JAUNE\", ZONE CONTRÔLÉE PAR ISRAËL?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:34",
+      "date": "25/05",
+      "timestamp": 1779683660
+    },
+    {
+      "id": "BFMTV_1779683506",
+      "source": "BFMTV",
+      "text": "L'OMS ANNONCE PLUS DE DE 900 CAS SUSPECTS D'EBOLA EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:31",
+      "date": "25/05",
+      "timestamp": 1779683506
+    },
+    {
+      "id": "BFMTV_1779683067",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS IRAN/ÉTATS-UNIS: LES POINTS BLOQUANTS D'UN ACCORD DE PAIX",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:24",
+      "date": "25/05",
+      "timestamp": 1779683067
+    },
+    {
+      "id": "BFMTV_1779682799",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS IRAN/ÉTATS-UNIS: DES DÉSACCORDS SUBSISTENT SUR LA GESTION DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:19",
+      "date": "25/05",
+      "timestamp": 1779682799
+    },
+    {
+      "id": "BFMTV_1779682454",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS IRAN/ÉTATS-UNIS: LES CONDITIONS D'ISRAËL POUR UN ACCORD DE PAIX",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:14",
+      "date": "25/05",
+      "timestamp": 1779682454
+    },
+    {
+      "id": "BFMTV_1779682243",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"UN ACCORD AVEC L'IRAN EST POSSIBLE AUJOURD'HUI\", AFFIRME MARCO RUBIO, SECRÉTAIRE D'ÉTAT DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:10",
+      "date": "25/05",
+      "timestamp": 1779682243
+    },
     {
       "id": "BFMTV_1779659523",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "08:00",
       "date": "24/05",
       "timestamp": 1779609650
-    },
-    {
-      "id": "BFMTV_1779608942",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE ANNONCE POURRAIT ÊTRE FAITE CE DIMANCHE SUR UN ACCORD AVEC TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:49",
-      "date": "24/05",
-      "timestamp": 1779608942
-    },
-    {
-      "id": "BFMTV_1779608554",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP CONSULTE SES HOMOLOGUES DU GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:42",
-      "date": "24/05",
-      "timestamp": 1779608554
-    },
-    {
-      "id": "BFMTV_1779607358",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON S'EST ENTRETENU AVEC DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:22",
-      "date": "24/05",
-      "timestamp": 1779607358
-    },
-    {
-      "id": "BFMTV_1779607131",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:18",
-      "date": "24/05",
-      "timestamp": 1779607131
-    },
-    {
-      "id": "BFMTV_1779607017",
-      "source": "BFMTV",
-      "text": "\"ENTRE 20 ET 25 DÉTONATIONS\", SUSPECT DÉJÀ CONNU DU SECRET SERVICE... CE QUE L'ON SAIT DES TIRS PRÈS DE LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:16",
-      "date": "24/05",
-      "timestamp": 1779607017
-    },
-    {
-      "id": "BFMTV_1779604385",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN ET AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE L'ACCORD AVEC L'IRAN EST \"EN COURS DE FINALISATION\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:33",
-      "date": "24/05",
-      "timestamp": 1779604385
-    },
-    {
-      "id": "BFMTV_1779601294",
-      "source": "BFMTV",
-      "text": "\"IL A ÉTÉ SORTI DE L'EAU ET EST DÉCÉDÉ DE SES BLESSURES\": UN HOMME MEURT APRÈS AVOIR ÉTÉ ATTAQUÉ PAR UN REQUIN EN AUSTRALIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:41",
-      "date": "24/05",
-      "timestamp": 1779601294
-    },
-    {
-      "id": "BFMTV_1779600553",
-      "source": "BFMTV",
-      "text": "AVEC LA HAUSSE DES PRIX DU CARBURANT, LES PLAISANCIERS RESTENT À QUAI",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:29",
-      "date": "24/05",
-      "timestamp": 1779600553
-    },
-    {
-      "id": "BFMTV_1779599660",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: CE QUE L'ON SAIT DES COUPS DE FEU PRÈS DE LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:14",
-      "date": "24/05",
-      "timestamp": 1779599660
-    },
-    {
-      "id": "BFMTV_1779599530",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ, SANCTIONS SUR L'IRAN... WASHINGTON ET TÉHÉRAN CHERCHENT À FINALISER UN ACCORD POUR LA FIN DE LA GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:12",
-      "date": "24/05",
-      "timestamp": 1779599530
-    },
-    {
-      "id": "BFMTV_1779598788",
-      "source": "BFMTV",
-      "text": "COUPS DE FEU PRÈS DE LA MAISON BLANCHE: DONALD TRUMP AFFIRME QUE LE TIREUR \"AVAIT DES ANTÉCÉDENTS DE VIOLENCE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:59",
-      "date": "24/05",
-      "timestamp": 1779598788
-    },
-    {
-      "id": "BFMTV_1779598684",
-      "source": "BFMTV",
-      "text": "ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS: TÉHÉRAN PRÉVIENT QU'ILS \"N'ABANDONNERONT PAS LE HEZBOLLAH\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:58",
-      "date": "24/05",
-      "timestamp": 1779598684
-    },
-    {
-      "id": "BFMTV_1779598545",
-      "source": "BFMTV",
-      "text": "\"J'ESPÈRE QUE DONALD TRUMP VA RESPECTER SA PAROLE\": LES INQUIÉTUDES DES ISRAÉLIENS FACE À LA PERSPECTIVE D'UN ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:55",
-      "date": "24/05",
-      "timestamp": 1779598545
-    },
-    {
-      "id": "BFMTV_1779598372",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: CE QUE CONTIENT LE POSSIBLE ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:52",
-      "date": "24/05",
-      "timestamp": 1779598372
     }
   ],
   "france": {
