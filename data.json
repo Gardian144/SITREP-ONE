@@ -1,7 +1,67 @@
 {
-  "last_update": "26/05 19:46",
+  "last_update": "26/05 21:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779831497",
+      "source": "BFMTV",
+      "text": "IRAN: “LES NATIONS ET TERRITOIRES DE LA RÉGION NE SERVIRONT PLUS DE BOUCLIERS AUX BASES AMÉRICAINES\", AFFIRME MOJTABA KHAMENEI ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:38",
+      "date": "26/05",
+      "timestamp": 1779831497
+    },
+    {
+      "id": "BFMTV_1779831320",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU AFFIRME QUE L'ARMÉE ISRAÉLIENNE PREND LE CONTRÔLE DE \"ZONES STRATÉGIQUES\" DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:35",
+      "date": "26/05",
+      "timestamp": 1779831320
+    },
+    {
+      "id": "BFMTV_1779829604",
+      "source": "BFMTV",
+      "text": "MISSILES, MINES ... CE QUE L'ON SAIT DES FRAPPES AMÉRICAINES SUR LE TERRITOIRE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:06",
+      "date": "26/05",
+      "timestamp": 1779829604
+    },
+    {
+      "id": "BFMTV_1779829422",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP VA FINALEMENT RÉUNIR SON GOUVERNEMENT À LA MAISON BLANCHE ET NON AU CAMP DAVID À CAUSE DE “MAUVAISES CONDITIONS MÉTÉO”",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:03",
+      "date": "26/05",
+      "timestamp": 1779829422
+    },
+    {
+      "id": "BFMTV_1779828948",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS IRAN/ÉTATS-UNIS: DES MÉDIATEURS RÉVÈLENT DES PROGRÈS SIGNIFICATIFS DANS LES DISCUSSIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:55",
+      "date": "26/05",
+      "timestamp": 1779828948
+    },
+    {
+      "id": "BFMTV_1779826838",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: ANTONIO GUTERRES SE DIT \"VIVEMENT PRÉOCCUPÉ\" PAR LES MENACES RUSSES SUR KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:20",
+      "date": "26/05",
+      "timestamp": 1779826838
+    },
     {
       "id": "BFMTV_1779824670",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "17:59",
       "date": "25/05",
       "timestamp": 1779731944
-    },
-    {
-      "id": "BFMTV_1779731861",
-      "source": "BFMTV",
-      "text": "MEMORIAL DAY: DONALD TRUMP PARTICIPE À LA CÉRÉMONIE DE DÉPÔT DE GERBE À ARLINGTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:57",
-      "date": "25/05",
-      "timestamp": 1779731861
-    },
-    {
-      "id": "BFMTV_1779724891",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UNE REMISE DE DIPLÔMES SOUS LA PLUIE FAIT POLÉMIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:01",
-      "date": "25/05",
-      "timestamp": 1779724891
-    },
-    {
-      "id": "BFMTV_1779724724",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: QU'EST-CE QUE LE MISSILE ORECHNIK, CAPABLE D'EMPORTER UNE OGIVE NUCLÉAIRE ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:58",
-      "date": "25/05",
-      "timestamp": 1779724724
-    },
-    {
-      "id": "BFMTV_1779724517",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN: BENJAMIN NETANYAHU, INQUIET, A ASSURÉ \"NE PAS AVOIR LES MOYENS D'INFLUENCER DONALD TRUMP\" À DES PROCHES",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:55",
-      "date": "25/05",
-      "timestamp": 1779724517
-    },
-    {
-      "id": "BFMTV_1779724066",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LES GARDIENS DE LA RÉVOLUTION DÉCLARENT AVOIR LAISSÉ PASSER 32 NAVIRES AU COURS DES DERNIÈRES 24H",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:47",
-      "date": "25/05",
-      "timestamp": 1779724066
-    },
-    {
-      "id": "BFMTV_1779723763",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ON EST EN TRAIN DE VIVRE LA PREMIÈRE GUERRE OÙ L'INTELLIGENCE ARTIFICIELLE JOUE UN RÔLE CRUCIAL\", ASSURE ANIS AYARI, INGÉNIEUR EN IA",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:42",
-      "date": "25/05",
-      "timestamp": 1779723763
     }
   ],
   "france": {
