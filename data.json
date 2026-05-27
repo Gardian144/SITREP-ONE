@@ -1,7 +1,107 @@
 {
-  "last_update": "27/05 18:33",
+  "last_update": "27/05 20:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779913350",
+      "source": "BFMTV",
+      "text": "DISSUASION NUCLÉAIRE: \"LA FRANCE OUVRE UN DIALOGUE AVEC SES ALLIÉS PROCHES\" DÉCLARE JONAS GAHR STØRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:22",
+      "date": "27/05",
+      "timestamp": 1779913350
+    },
+    {
+      "id": "BFMTV_1779913233",
+      "source": "BFMTV",
+      "text": "LIBAN: LES IMAGES DE BFMTV À TYR APRÈS LES BOMBARDEMENTS DE L’ARMÉE ISRAÉLIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:20",
+      "date": "27/05",
+      "timestamp": 1779913233
+    },
+    {
+      "id": "BFMTV_1779911955",
+      "source": "BFMTV",
+      "text": "LA NORVÈGE REJOINT LA \"DISSUASION NUCLÉAIRE AVANCÉE\" INSTAURÉE PAR LA FRANCE, ANNONCE EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:59",
+      "date": "27/05",
+      "timestamp": 1779911955
+    },
+    {
+      "id": "BFMTV_1779911814",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: “SANS ACCORD, NOUS ACHÈVERONS L’IRAN”, MENACE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:56",
+      "date": "27/05",
+      "timestamp": 1779911814
+    },
+    {
+      "id": "BFMTV_1779910440",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:34",
+      "date": "27/05",
+      "timestamp": 1779910440
+    },
+    {
+      "id": "BFMTV_1779909842",
+      "source": "BFMTV",
+      "text": "SELON MOHAMMAD BAGHER GHALIBAF, PRÉSIDENT DU PARLEMENT IRANIEN, L’IRAN A INFLIGÉ AUX ÉTATS-UNIS “UNE LOURDE DÉFAITE QUE LE MONDE ENTIER A OBSERVÉ”  ",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:24",
+      "date": "27/05",
+      "timestamp": 1779909842
+    },
+    {
+      "id": "BFMTV_1779909253",
+      "source": "BFMTV",
+      "text": "OTAN: LES ÉTATS-UNIS SOUHAITENT UNE RÉDUCTION MAJEURE DE LEUR CAPACITÉ MILITAIRE EN EUROPE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:14",
+      "date": "27/05",
+      "timestamp": 1779909253
+    },
+    {
+      "id": "BFMTV_1779908272",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS AURAIENT BESOIN DE TROIS ANS POUR RECONSTITUER LEUR STOCK DE MISSILES",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:57",
+      "date": "27/05",
+      "timestamp": 1779908272
+    },
+    {
+      "id": "BFMTV_1779907818",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP S’EXPRIME SUR LES NÉGOCIATIONS AVEC L’IRAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:50",
+      "date": "27/05",
+      "timestamp": 1779907818
+    },
+    {
+      "id": "BFMTV_1779907160",
+      "source": "BFMTV",
+      "text": "LES NOUVELLES IMAGES DE LA PROPAGANDE IRANIENNE QUI TOURNE DONALD TRUMP EN RIDICULE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:39",
+      "date": "27/05",
+      "timestamp": 1779907160
+    },
     {
       "id": "BFMTV_1779904283",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "16:05",
       "date": "26/05",
       "timestamp": 1779811531
-    },
-    {
-      "id": "BFMTV_1779810602",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: 108 NAVIRES ONT ÉTÉ REDIRIGÉS PAR L'ARMÉE AMÉRICAINE DEPUIS LE DÉBUT DU BLOCUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:50",
-      "date": "26/05",
-      "timestamp": 1779810602
-    },
-    {
-      "id": "BFMTV_1779810411",
-      "source": "BFMTV",
-      "text": "DANS LA VILLE DE TYR AU SUD-LIBAN, LE HEZBOLLAH FAIT FACE À DES BOMBARDEMENTS INTENSIFS DE L'ARMÉE ISRAÉLIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:46",
-      "date": "26/05",
-      "timestamp": 1779810411
-    },
-    {
-      "id": "OPEX360_1779809899",
-      "source": "OPEX360",
-      "text": "LES FORCES ARMÉES ALLEMANDES COMMANDENT 60 RADARS DE RECONNAISSANCE TERRESTRE À THALES",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:38",
-      "date": "26/05",
-      "timestamp": 1779809899
-    },
-    {
-      "id": "BFMTV_1779809804",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: UN PÉTROLIER A ÉTÉ TOUCHÉ PAR UNE EXPLOSION À OMAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:36",
-      "date": "26/05",
-      "timestamp": 1779809804
-    },
-    {
-      "id": "BFMTV_1779809470",
-      "source": "BFMTV",
-      "text": "ANGLETERRE: EN PLEINE CANICULE, DEUX ATTRACTIONS TOMBENT EN PANNE À 60 MÈTRES DE HAUT ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:31",
-      "date": "26/05",
-      "timestamp": 1779809470
-    },
-    {
-      "id": "BFMTV_1779809057",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DONALD TRUMP CONVOQUE SON CABINET DEMAIN ALORS QUE LA MARINE AMÉRICAINE RELANCE LE \"PROJET LIBERTÉ\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:24",
-      "date": "26/05",
-      "timestamp": 1779809057
-    },
-    {
-      "id": "BFMTV_1779806974",
-      "source": "BFMTV",
-      "text": "MONDIAL 2026: LE MEXIQUE VA ACCUEILLIR LA DÉLÉGATION IRANIENNE À LA PLACE DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:49",
-      "date": "26/05",
-      "timestamp": 1779806974
-    },
-    {
-      "id": "BFMTV_1779804710",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: TÉHÉRAN MENACE DE NE LAISSER \"AUCUN ACTE D'AGRESSION SANS RÉPONSE\" APRÈS LA \"VIOLATION FLAGRANTE\" DU CESSEZ-LE-FEU AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:11",
-      "date": "26/05",
-      "timestamp": 1779804710
-    },
-    {
-      "id": "BFMTV_1779802580",
-      "source": "BFMTV",
-      "text": "BELGIQUE: QUATRE MORTS, DONT DEUX ENFANTS, DANS UN ACCIDENT ENTRE UN TRAIN ET UN CAR SCOLAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:36",
-      "date": "26/05",
-      "timestamp": 1779802580
-    },
-    {
-      "id": "OPEX360_1779802200",
-      "source": "OPEX360",
-      "text": "COMME LE SUFFREN, LE FUTUR SOUS-MARIN NUCLÉAIRE D’ATTAQUE SUD-CORÉEN UTILISERA DE L’URANIUM FAIBLEMENT ENRICHI",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:30",
-      "date": "26/05",
-      "timestamp": 1779802200
     }
   ],
   "france": {
