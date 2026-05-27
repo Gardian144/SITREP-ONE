@@ -1,7 +1,147 @@
 {
-  "last_update": "27/05 11:59",
+  "last_update": "27/05 16:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1779897828",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA MAISON BLANCHE RÉFUTE LES INFORMATIONS D'UN PROJET D'ACCORD EXPOSÉ PAR LA TÉLÉVISION D'ÉTAT IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:03",
+      "date": "27/05",
+      "timestamp": 1779897828
+    },
+    {
+      "id": "OPEX360_1779897215",
+      "source": "OPEX360",
+      "text": "LE CANADA VA OUVRIR DES NÉGOCIATIONS POUR ACHETER SIX AVIONS D’ALERTE AVANCÉE GLOBALEYE AUPRÈS DE SAAB",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:53",
+      "date": "27/05",
+      "timestamp": 1779897215
+    },
+    {
+      "id": "BFMTV_1779895654",
+      "source": "BFMTV",
+      "text": "KEIR STARMER ET DONALD TUSK SIGNENT UN TRAITÉ DE SÉCURITÉ FACE AU \"DÉFI DE L'AGRESSION RUSSE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:27",
+      "date": "27/05",
+      "timestamp": 1779895654
+    },
+    {
+      "id": "BFMTV_1779893797",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP IRONISE SUR L'ARMÉE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:56",
+      "date": "27/05",
+      "timestamp": 1779893797
+    },
+    {
+      "id": "BFMTV_1779892499",
+      "source": "BFMTV",
+      "text": "DES CAS SOUVENT \"ÉVITABLES\": LE TAUX DE SUICIDE CHEZ LES DÉTENUS DE L'ICE EN FORTE HAUSSE DEPUIS LE RETOUR AU POUVOIR DE DONALD TRUMP AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:34",
+      "date": "27/05",
+      "timestamp": 1779892499
+    },
+    {
+      "id": "BFMTV_1779891372",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP RÉUNIT LES MEMBRES DE SON GOUVERNEMENT AVEC PLUSIEURS SUJETS SUR LA TABLE, DONT LES DISCUSSIONS AVEC TÉHÉRAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:16",
+      "date": "27/05",
+      "timestamp": 1779891372
+    },
+    {
+      "id": "OPEX360_1779890411",
+      "source": "OPEX360",
+      "text": "ACTUALISATION DE LA LPM : LE SÉNAT CORRIGE LA COPIE DU GOUVERNEMENT EN PROPOSANT 14 MILLIARDS D’EUROS DE PLUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:00",
+      "date": "27/05",
+      "timestamp": 1779890411
+    },
+    {
+      "id": "BFMTV_1779890243",
+      "source": "BFMTV",
+      "text": "SOUTENU PAR DONALD TRUMP, L'ULTRACONSERVATEUR KEN PAXTON REMPORTE LA PRIMAIRE RÉPUBLICAINE AU TEXAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:57",
+      "date": "27/05",
+      "timestamp": 1779890243
+    },
+    {
+      "id": "BFMTV_1779887502",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: L'IRAN DISCUTERAIT DES NOUVELLES RÈGLES DE PASSAGE AVEC OMAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:11",
+      "date": "27/05",
+      "timestamp": 1779887502
+    },
+    {
+      "id": "BFMTV_1779886766",
+      "source": "BFMTV",
+      "text": "UN YOUTUBEUR CONDAMNÉ POUR AVOIR DÉPOSÉ UNE CANETTE DE COCA-COLA À UNE TRIBU ISOLÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:59",
+      "date": "27/05",
+      "timestamp": 1779886766
+    },
+    {
+      "id": "BFMTV_1779886717",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: 23 BATEAUX SONT PASSÉS DEPUIS 24H, SELON LES GARDIENS DE LA RÉVOLUTION",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:58",
+      "date": "27/05",
+      "timestamp": 1779886717
+    },
+    {
+      "id": "BFMTV_1779886145",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON ACCUEILLE, LE PREMIER MINISTRE BULGARE, ROUMEN RADEV À L'ELYSÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:49",
+      "date": "27/05",
+      "timestamp": 1779886145
+    },
+    {
+      "id": "BFMTV_1779884489",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QUI SONT CES TANKERS QUI PASSENT LE DÉTROIT?",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:21",
+      "date": "27/05",
+      "timestamp": 1779884489
+    },
+    {
+      "id": "BFMTV_1779883091",
+      "source": "BFMTV",
+      "text": "ETATS-UNIS : COINCÉ DANS UNE GROTTE ET INCAPABLE DE BOUGER PENDANT 6 HEURES, CE SPÉLÉOLOGUE EXPÉRIMENTÉ SECOURU",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:58",
+      "date": "27/05",
+      "timestamp": 1779883091
+    },
     {
       "id": "BFMTV_1779882588",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "11:15",
       "date": "26/05",
       "timestamp": 1779794150
-    },
-    {
-      "id": "BFMTV_1779793194",
-      "source": "BFMTV",
-      "text": "\"UN BILAN DRAMATIQUE\": UN CAR SCOLAIRE PERCUTÉ PAR UN TRAIN EN BELGIQUE, QUATRE MORTS DONT DEUX ENFANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:59",
-      "date": "26/05",
-      "timestamp": 1779793194
-    },
-    {
-      "id": "BFMTV_1779792856",
-      "source": "BFMTV",
-      "text": "LAOS: SEPT PERSONNES SONT COINCÉES DANS UNE GROTTE DEPUIS SIX JOURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:54",
-      "date": "26/05",
-      "timestamp": 1779792856
-    },
-    {
-      "id": "BFMTV_1779791743",
-      "source": "BFMTV",
-      "text": "UN CAR SCOLAIRE PERCUTÉ PAR UN TRAIN EN BELGIQUE: QUATRE PERSONNES, DONT DEUX ENFANTS, TUÉES DANS LA COLLISION",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:35",
-      "date": "26/05",
-      "timestamp": 1779791743
-    },
-    {
-      "id": "BFMTV_1779791247",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES HABITANTS DE NABATIYÉ (LIBAN) APPELÉS À ÉVACUER PAR L'ARMÉE ISRAÉLIENNE EN PRÉVISION DE FRAPPES CONTRE LE HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:27",
-      "date": "26/05",
-      "timestamp": 1779791247
-    },
-    {
-      "id": "OPEX360_1779788874",
-      "source": "OPEX360",
-      "text": "FEUX DANS LA PROFONDEUR : DÉVELOPPÉ PAR THALES ET SOFRAME, LE LANCEUR X-FIRE A EFFECTUÉ SES PREMIERS TIRS AVEC SUCCÈS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:47",
-      "date": "26/05",
-      "timestamp": 1779788874
-    },
-    {
-      "id": "BFMTV_1779783634",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE LES PAYS DU GOLFE \"NE SERVIRONT PLUS DE BOUCLIER\" AUX AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:20",
-      "date": "26/05",
-      "timestamp": 1779783634
-    },
-    {
-      "id": "BFMTV_1779783502",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - MISSILES, POSEURS DE MINES…CE QUE WASHINGTON A FRAPPÉ ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:18",
-      "date": "26/05",
-      "timestamp": 1779783502
-    },
-    {
-      "id": "BFMTV_1779783031",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'AMBASSADEUR D'ISRAËL EN FRANCE AFFIRME QUE TEL-AVIV \"FERA CE QU'IL FAUT FAIRE\" TANT QUE LE HEZBOLLAH SERA UNE \"MENACE\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "08:10",
-      "date": "26/05",
-      "timestamp": 1779783031
-    },
-    {
-      "id": "BFMTV_1779782669",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L’IRAN DIT AVOIR ABATTU UN DRONE AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:04",
-      "date": "26/05",
-      "timestamp": 1779782669
-    },
-    {
-      "id": "BFMTV_1779782495",
-      "source": "BFMTV",
-      "text": "\"ÇA NE FAIT QUE L'AIDER DANS UNE PÉRIODE ÉLECTORALE\": L'AMBASSADEUR D'ISRAËL EN FRANCE ÉVOQUE L'INTERDICTION DE TERRITOIRE FRANÇAIS DU MINISTRE ISRAÉLIEN BEN GVIR",
-      "urgent": true,
-      "france_related": true,
-      "time": "08:01",
-      "date": "26/05",
-      "timestamp": 1779782495
-    },
-    {
-      "id": "BFMTV_1779781830",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: JOSHUA ZARKA AFFIRME QU’ISRAËL CONTINUERA “DE COMBATTRE LE HEZBOLLAH TANT QU’IL SERA UNE MENACE POUR LE PAYS”",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:50",
-      "date": "26/05",
-      "timestamp": 1779781830
-    },
-    {
-      "id": "BFMTV_1779781783",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'AMBASSADEUR D'ISRAËL EN FRANCE DIT \"DOUTER\" DE LA \"CAPACITÉ PSYCHOLOGIQUE OU PHYSIQUE\" DE MOJTABA KHAMENEI DE \"GÉRER L'IRAN\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:49",
-      "date": "26/05",
-      "timestamp": 1779781783
-    },
-    {
-      "id": "BFMTV_1779781445",
-      "source": "BFMTV",
-      "text": "L’ARMÉE AMÉRICAINE ANNONCE AVOIR MENÉ DES FRAPPES EN IRAN, EN PLEINE NÉGOCIATIONS AVEC TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:44",
-      "date": "26/05",
-      "timestamp": 1779781445
-    },
-    {
-      "id": "BFMTV_1779781401",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: JOSHUA ZARKA, AMBASSADEUR D’ISRAËL EN FRANCE, SOUHAITE “QU’IL N'Y AIT AUCUNE FORCE DU HEZBOLLAH AU SUD DU FLEUVE LITANI”",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:43",
-      "date": "26/05",
-      "timestamp": 1779781401
     }
   ],
   "france": {
