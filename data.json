@@ -1,7 +1,27 @@
 {
-  "last_update": "28/05 22:21",
+  "last_update": "28/05 23:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780007605",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA MAISON BLANCHE CONFIRME À BFMTV QU'UN ACCORD POUR METTRE FIN AU CONFLIT AVEC L'IRAN EST SUR LA TABLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:33",
+      "date": "28/05",
+      "timestamp": 1780007605
+    },
+    {
+      "id": "BFMTV_1780007225",
+      "source": "BFMTV",
+      "text": "LES DEUX FRANÇAIS DISPARUS EN MER AU MAROC ONT ÉTÉ RETROUVÉS SAINS ET SAUFS",
+      "urgent": false,
+      "france_related": true,
+      "time": "22:27",
+      "date": "28/05",
+      "timestamp": 1780007225
+    },
     {
       "id": "BFMTV_1780005431",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:53",
       "date": "27/05",
       "timestamp": 1779897215
-    },
-    {
-      "id": "BFMTV_1779895654",
-      "source": "BFMTV",
-      "text": "KEIR STARMER ET DONALD TUSK SIGNENT UN TRAITÉ DE SÉCURITÉ FACE AU \"DÉFI DE L'AGRESSION RUSSE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:27",
-      "date": "27/05",
-      "timestamp": 1779895654
-    },
-    {
-      "id": "BFMTV_1779893797",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP IRONISE SUR L'ARMÉE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:56",
-      "date": "27/05",
-      "timestamp": 1779893797
     }
   ],
   "france": {
