@@ -1,7 +1,57 @@
 {
-  "last_update": "29/05 17:44",
+  "last_update": "29/05 19:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780082219",
+      "source": "BFMTV",
+      "text": "DE NOUVELLES PERQUISITIONS MENÉES AU PORTUGAL HUIT MOIS APRÈS L'ACCIDENT DU FUNICULAIRE À LISBONNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:16",
+      "date": "29/05",
+      "timestamp": 1780082219
+    },
+    {
+      "id": "BFMTV_1780080641",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: LA RÉUNION DE CRISE EST TERMINÉE À LA MAISON BLANCHE SELON PLUSIEURS MÉDIAS AMÉRICAINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:50",
+      "date": "29/05",
+      "timestamp": 1780080641
+    },
+    {
+      "id": "BFMTV_1780079896",
+      "source": "BFMTV",
+      "text": "POURPARLERS ENTRE LES ÉTATS-UNIS ET L'IRAN: BENJAMIN NETANYAHU S'OPPOSE FERMEMENT À CET ACCORD, QUI INCLUT DES DISCUSSIONS SUR LE PROGRAMME NUCLÉAIRE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:38",
+      "date": "29/05",
+      "timestamp": 1780079896
+    },
+    {
+      "id": "BFMTV_1780078876",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS/IRAN: LES POURPARLERS SONT DANS L'IMPASSE CONCERNANT LE PROGRAMME NUCLÉAIRE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:21",
+      "date": "29/05",
+      "timestamp": 1780078876
+    },
+    {
+      "id": "BFMTV_1780077338",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA ROUMANIE DÉCLARE LE CONSUL GÉNÉRAL RUSSE PERSONA NON GRATA APRÈS LA CHUTE D'UN DRONE SUR UN IMMEUBLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:55",
+      "date": "29/05",
+      "timestamp": 1780077338
+    },
     {
       "id": "OPEX360_1780076170",
       "source": "OPEX360",
@@ -951,56 +1001,6 @@
       "time": "14:19",
       "date": "28/05",
       "timestamp": 1779977955
-    },
-    {
-      "id": "BFMTV_1779977875",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: 14 MORTS DANS DES FRAPPES ISRAÉLIENNES DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:17",
-      "date": "28/05",
-      "timestamp": 1779977875
-    },
-    {
-      "id": "OPEX360_1779976866",
-      "source": "OPEX360",
-      "text": "LA CHINE DIT AVOIR «CHASSÉ» LA FRÉGATE NÉERLANDAISE HNLMS DE RUYTER DES ÎLES PARACELS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:01",
-      "date": "28/05",
-      "timestamp": 1779976866
-    },
-    {
-      "id": "BFMTV_1779975026",
-      "source": "BFMTV",
-      "text": "L'AFRIQUE DU SUD FACE UNE VAGUE DE MANIFESTATIONS ET DE VIOLENCES XÉNOPHOBES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:30",
-      "date": "28/05",
-      "timestamp": 1779975026
-    },
-    {
-      "id": "BFMTV_1779973531",
-      "source": "BFMTV",
-      "text": "L'EUROPE NE SERA JAMAIS UN \"MÉDIATEUR NEUTRE\" ENTRE L'UKRAINE ET LA RUSSIE DIT KAJA KALLAS, CHEFFE DE LA DIPLOMATIE DE L'UE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:05",
-      "date": "28/05",
-      "timestamp": 1779973531
-    },
-    {
-      "id": "BFMTV_1779973014",
-      "source": "BFMTV",
-      "text": "TEMU: L'UNION EUROPÉENNE INFLIGE UNE AMENDE DE 200 MILLIONS D'EUROS AU GÉANT CHINOIS POUR LA VENTE DE PRODUITS ILLÉGAUX AUX CONSOMMATEURS EUROPÉENS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:56",
-      "date": "28/05",
-      "timestamp": 1779973014
     }
   ],
   "france": {
