@@ -1,7 +1,87 @@
 {
-  "last_update": "30/05 08:03",
+  "last_update": "30/05 10:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780133634",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'HÔPITAL TURC DE SAÏDA MOBILISÉ POUR SOIGNER LES BLESSÉS LIBANAIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:33",
+      "date": "30/05",
+      "timestamp": 1780133634
+    },
+    {
+      "id": "BFMTV_1780133533",
+      "source": "BFMTV",
+      "text": "LE HEZBOLLAH REVENDIQUE DES TIRS DE ROQUETTES VERS KIRYAT SHMONA, VILLE DU NORD D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:32",
+      "date": "30/05",
+      "timestamp": 1780133533
+    },
+    {
+      "id": "BFMTV_1780133391",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"TANT QU'IL N'Y AURA PAS UNE SITUATION DE PAIX, LE DÉMINAGE NE POURRA PAS DÉMARRER SEREINEMENT\", EXPLIQUE UN ANCIEN PLONGEUR DÉMINEUR DE LA MARINE NATIONALE",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:29",
+      "date": "30/05",
+      "timestamp": 1780133391
+    },
+    {
+      "id": "BFMTV_1780133222",
+      "source": "BFMTV",
+      "text": "LES VOLS BRIÈVEMENT SUSPENDUS À L'AÉROPORT DE MUNICH APRÈS L'OBSERVATION PRÉSUMÉE D'UN DRONE PAR DES PILOTES",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:27",
+      "date": "30/05",
+      "timestamp": 1780133222
+    },
+    {
+      "id": "BFMTV_1780132479",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE BASE MILITAIRE AMÉRICAINE AU KOWEÏT FRAPPÉE PAR UN MISSILE BALISTIQUE IRANIEN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:14",
+      "date": "30/05",
+      "timestamp": 1780132479
+    },
+    {
+      "id": "BFMTV_1780131036",
+      "source": "BFMTV",
+      "text": "LA RUSSIE RAPPELLE SON AMBASSADEUR EN ARMÉNIE POUR \"CONSULTATIONS\" À CAUSE DU \"RAPPROCHEMENT\" D'EREVAN AVEC L'UNION EUROPÉENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:50",
+      "date": "30/05",
+      "timestamp": 1780131036
+    },
+    {
+      "id": "BFMTV_1780129425",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES RENSEIGNEMENTS AMÉRICAINS ESTIMENT QU'IL Y A UNE DOUZAINE DE MINES DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:23",
+      "date": "30/05",
+      "timestamp": 1780129425
+    },
+    {
+      "id": "BFMTV_1780128941",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH REVENDIQUE \"UNE SALVE DE ROQUETTES\" CONTRE UNE VILLE DU NORD D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:15",
+      "date": "30/05",
+      "timestamp": 1780128941
+    },
     {
       "id": "BFMTV_1780126303",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "21:32",
       "date": "28/05",
       "timestamp": 1780003937
-    },
-    {
-      "id": "BFMTV_1780003527",
-      "source": "BFMTV",
-      "text": "CHINE: UNE OFFRE D'EMPLOI DE BERGER DEVIENT VIRALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:25",
-      "date": "28/05",
-      "timestamp": 1780003527
-    },
-    {
-      "id": "BFMTV_1780003101",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: “CELA RESTE ACCEPTABLE DANS LE CADRE DE NÉGOCIATIONS, MAIS ÇA PEUT DÉRAPER TRÈS VITE”, ESTIME LE GÉNÉRAL SERGE CHOLLEY",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:18",
-      "date": "28/05",
-      "timestamp": 1780003101
-    },
-    {
-      "id": "BFMTV_1780002866",
-      "source": "BFMTV",
-      "text": "SCOTT BESSENT : \"JE NE VOIS RIEN D'INCONVENANT À CE QUE DONALD TRUMP FIGURE SUR LE BILLET COMMÉMORATIF DU 250E ANNIVERSAIRE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:14",
-      "date": "28/05",
-      "timestamp": 1780002866
-    },
-    {
-      "id": "BFMTV_1780001674",
-      "source": "BFMTV",
-      "text": "SCOTT BESSENT SUR L'IRAN: \"NOUS SOMMES PATIENTS, MAIS NOTRE PATIENCE A DES LIMITES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:54",
-      "date": "28/05",
-      "timestamp": 1780001674
-    },
-    {
-      "id": "BFMTV_1780001672",
-      "source": "BFMTV",
-      "text": "L’IRAN AFFIRME AVOIR INTERCEPTÉ UN NOUVEAU DRONE AMÉRICAIN, SELON L'AGENCE DE PRESSE MEHR",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:54",
-      "date": "28/05",
-      "timestamp": 1780001672
-    },
-    {
-      "id": "BFMTV_1780001598",
-      "source": "BFMTV",
-      "text": "\"L'IA VA INÉVITABLEMENT CHANGER LA GUERRE\", LANCE LE VICE-PRÉSIDENT DES USA",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:53",
-      "date": "28/05",
-      "timestamp": 1780001598
-    },
-    {
-      "id": "BFMTV_1780001221",
-      "source": "BFMTV",
-      "text": "L’IRAN AURAIT AFFRONTÉ “DES AVIONS ENNEMIS”, SELON LA TÉLÉVISION D’ÉTAT",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:47",
-      "date": "28/05",
-      "timestamp": 1780001221
-    },
-    {
-      "id": "BFMTV_1780000814",
-      "source": "BFMTV",
-      "text": "DÉTROIT D’ORMUZ: L’IRAN AURAIT TIRÉ SUR QUATRE NAVIRES QUI ESSAYAIENT DE FRANCHIR LE DÉTROIT, SELON L’AGENCE FARS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:40",
-      "date": "28/05",
-      "timestamp": 1780000814
     }
   ],
   "france": {
