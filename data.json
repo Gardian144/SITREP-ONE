@@ -1,7 +1,17 @@
 {
-  "last_update": "31/05 14:10",
+  "last_update": "31/05 15:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780236507",
+      "source": "BFMTV",
+      "text": "UNE FEMME A ÉPOUSÉ SON MARI DIX JOURS AVANT QU’IL NE MEURE D’UN CANCER DES OS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:08",
+      "date": "31/05",
+      "timestamp": 1780236507
+    },
     {
       "id": "BFMTV_1780236159",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "15:27",
       "date": "29/05",
       "timestamp": 1780068443
-    },
-    {
-      "id": "OPEX360_1780066119",
-      "source": "OPEX360",
-      "text": "LE FRANÇAIS AURA AERO VA DÉVOILER LA VERSION DÉFINITIVE DE SON DRONE MALE ENBATA LORS D’EUROSATORY 26",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:48",
-      "date": "29/05",
-      "timestamp": 1780066119
     }
   ],
   "france": {
