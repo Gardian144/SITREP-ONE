@@ -1,7 +1,37 @@
 {
-  "last_update": "31/05 19:40",
+  "last_update": "31/05 20:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780259494",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL - HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:31",
+      "date": "31/05",
+      "timestamp": 1780259494
+    },
+    {
+      "id": "BFMTV_1780258832",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI ISRAËL AFFIRME QUE LA PRISE DE LA FORTERESSE DE BEAUFORT AU LIBAN EST UNE \"ÉTAPE SPECTACULAIRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:20",
+      "date": "31/05",
+      "timestamp": 1780258832
+    },
+    {
+      "id": "BFMTV_1780257271",
+      "source": "BFMTV",
+      "text": "VICTOIRE DU PSG: LE BALLON D'OR 2025, OUSMANE DEMBÉLÉ ACCLAMÉ PAR LE PUBLIC PARISIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:54",
+      "date": "31/05",
+      "timestamp": 1780257271
+    },
     {
       "id": "BFMTV_1780247318",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "15:57",
       "date": "29/05",
       "timestamp": 1780070240
-    },
-    {
-      "id": "BFMTV_1780069231",
-      "source": "BFMTV",
-      "text": "TÉHÉRAN DEMANDE À WASHINGTON DE RENONCER À SES DEMANDES \"EXCESSIVES\" POUR METTRE FIN À LA GUERRE",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:40",
-      "date": "29/05",
-      "timestamp": 1780069231
-    },
-    {
-      "id": "BFMTV_1780069076",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE QUE \"LE BLOCUS VA ÊTRE LEVÉ\" DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:37",
-      "date": "29/05",
-      "timestamp": 1780069076
-    },
-    {
-      "id": "BFMTV_1780068976",
-      "source": "BFMTV",
-      "text": "UN FAON SAUVÉ PAR DES POMPIERS EN INTERVENTION LORS D'INONDATIONS DANS L'INDIANA",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:36",
-      "date": "29/05",
-      "timestamp": 1780068976
     }
   ],
   "france": {
