@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05 15:39",
+  "last_update": "31/05 16:45",
   "impacts": [],
   "news": [
     {
@@ -116,6 +116,16 @@
       "id": "OPEX360_1780225805",
       "source": "OPEX360",
       "text": "LES NAGEURS DE COMBAT VONT DISPOSER D’UN MOYEN INNOVANT D’INFILTRATION AVEC LA PLANCHE MOTORISÉE FLOTTANTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:10",
+      "date": "31/05",
+      "timestamp": 1780225805
+    },
+    {
+      "id": "OPEX360_1780225805",
+      "source": "OPEX360",
+      "text": "LES NAGEURS DE COMBAT VONT DISPOSER D’UN MOYEN INNOVANT D’INFILTRATION AVEC LA PLANCHE MOTORISÉE SUBMERSIBLE",
       "urgent": false,
       "france_related": false,
       "time": "11:10",
@@ -991,16 +1001,6 @@
       "time": "15:33",
       "date": "29/05",
       "timestamp": 1780068808
-    },
-    {
-      "id": "BFMTV_1780068443",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP DIT SE RENDRE DANS LA SALLE DE CRISE DE LA MAISON BLANCHE \"POUR PRENDRE UNE DÉCISION FINALE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:27",
-      "date": "29/05",
-      "timestamp": 1780068443
     }
   ],
   "france": {
