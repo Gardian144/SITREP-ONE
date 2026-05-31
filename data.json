@@ -1,7 +1,77 @@
 {
-  "last_update": "31/05 12:01",
+  "last_update": "31/05 14:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780236159",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: PLUSIEURS VILLAGES DU SUD DU LIBAN TOUCHÉS PAR DES BOMBARDEMENTS ISRAÉLIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:02",
+      "date": "31/05",
+      "timestamp": 1780236159
+    },
+    {
+      "id": "BFMTV_1780235866",
+      "source": "BFMTV",
+      "text": "DANS LES LITS, LES FOURS, LES ÉCOLES, LES CHAMPS... L'OUEST DE L'AUSTRALIE EN PROIE À UNE COLOSSALE INVASION DE SOURIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:57",
+      "date": "31/05",
+      "timestamp": 1780235866
+    },
+    {
+      "id": "BFMTV_1780234047",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ANNONCE QUE SON OPÉRATION AU LIBAN EST \"EN TRAIN DE S'ÉTENDRE À D'AUTRES ZONES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:27",
+      "date": "31/05",
+      "timestamp": 1780234047
+    },
+    {
+      "id": "BFMTV_1780233834",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP A AFFIRMÉ AVOIR REÇU LA GARANTIE QUE TÉHÉRAN NE SE DOTERAIT PAS DE L'ARME ATOMIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:23",
+      "date": "31/05",
+      "timestamp": 1780233834
+    },
+    {
+      "id": "BFMTV_1780230859",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN AVION AMÉRICAIN A TIRÉ SUR UN NAVIRE QUI TENTAIT DE FORCER LE BLOCUS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:34",
+      "date": "31/05",
+      "timestamp": 1780230859
+    },
+    {
+      "id": "BFMTV_1780229941",
+      "source": "BFMTV",
+      "text": "UKRAINE: UN DRONE FRAPPE LA CENTRALE NUCLÉAIRE DE ZAPORIJIA CONTRÔLÉE PAR MOSCOU",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:19",
+      "date": "31/05",
+      "timestamp": 1780229941
+    },
+    {
+      "id": "BFMTV_1780229941",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:19",
+      "date": "31/05",
+      "timestamp": 1780229941
+    },
     {
       "id": "BFMTV_1780228378",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "14:48",
       "date": "29/05",
       "timestamp": 1780066119
-    },
-    {
-      "id": "BFMTV_1780062827",
-      "source": "BFMTV",
-      "text": "\"TOTALENERGIES N'A PAS À S'EXCUSER DE RÉUSSIR\", AFFIRME PATRICK POUYANNÉ, PDG DE TOTALENERGIES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:53",
-      "date": "29/05",
-      "timestamp": 1780062827
-    },
-    {
-      "id": "BFMTV_1780062038",
-      "source": "BFMTV",
-      "text": "PROJET D'ACCORD IRAN/USA: DONALD TRUMP SE LAISSE PLUSIEURS JOURS DE RÉFLEXION",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:40",
-      "date": "29/05",
-      "timestamp": 1780062038
-    },
-    {
-      "id": "BFMTV_1780060962",
-      "source": "BFMTV",
-      "text": "\"JE SUIS DE NOUVEAU TON FILS\": APRÈS AVOIR ÉTÉ VOLÉ AU CHILI SOUS PINOCHET QUAND IL AVAIT NEUF MOIS, UN AMÉRICAIN DE 36 ANS RETROUVE SA MÈRE BIOLOGIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:22",
-      "date": "29/05",
-      "timestamp": 1780060962
-    },
-    {
-      "id": "BFMTV_1780059121",
-      "source": "BFMTV",
-      "text": "MANQUE DE TEMPS, CONDITIONS \"PAS RÉUNIES\"... POURQUOI LA ROUMANIE N'EST-ELLE PAS PARVENUE À INTERCEPTER LE DRONE RUSSE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:52",
-      "date": "29/05",
-      "timestamp": 1780059121
-    },
-    {
-      "id": "BFMTV_1780057769",
-      "source": "BFMTV",
-      "text": "LES PASSAGERS DE MONTAGNES RUSSES SECOURUS À 30 MÈTRES DE HAUTEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:29",
-      "date": "29/05",
-      "timestamp": 1780057769
-    },
-    {
-      "id": "BFMTV_1780057404",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - LA ROUMANIE, PAYS DE L'OTAN, VISÉE PAR UN DRONE RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:23",
-      "date": "29/05",
-      "timestamp": 1780057404
-    },
-    {
-      "id": "BFMTV_1780057187",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ MINÉ: \"L'IRAN PLACE SES PIONS\", ANALYSE GÉNÉRAL PHILIPPE SIDOS, ANCIEN CHEF DU BUREAU DE LIAISON DE LA FINUL",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:19",
-      "date": "29/05",
-      "timestamp": 1780057187
     }
   ],
   "france": {
