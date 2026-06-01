@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06 22:35",
+  "last_update": "01/06 23:57",
   "impacts": [],
   "news": [
     {
@@ -111,6 +111,16 @@
       "time": "18:56",
       "date": "01/06",
       "timestamp": 1780340196
+    },
+    {
+      "id": "BFMTV_1780339566",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:46",
+      "date": "01/06",
+      "timestamp": 1780339566
     },
     {
       "id": "BFMTV_1780339565",
@@ -991,16 +1001,6 @@
       "time": "14:09",
       "date": "30/05",
       "timestamp": 1780150145
-    },
-    {
-      "id": "BFMTV_1780145842",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DEUX SOLDATS LIBANAIS GRIÈVEMENT BLESSÉS APRÈS UNE ATTAQUE \"CIBLÉE\" ISRAÉLIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:57",
-      "date": "30/05",
-      "timestamp": 1780145842
     }
   ],
   "france": {
