@@ -1,7 +1,137 @@
 {
-  "last_update": "01/06 04:00",
+  "last_update": "01/06 09:34",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780304958",
+      "source": "BFMTV",
+      "text": "CINQ MORTS ET 19 BLESSÉS EN INDONÉSIE APRÈS L'EXPLOSION D'UNE BOMBE DATANT PROBABLEMENT DE LA SECONDE GUERRE MONDIALE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:09",
+      "date": "01/06",
+      "timestamp": 1780304958
+    },
+    {
+      "id": "BFMTV_1780303618",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: EMMANUEL MACRON A ÉCHANGÉ AVEC DONALD TRUMP ET A SALUÉ SES \"EFFORTS DÉTERMINÉS\" POUR \"PARVENIR RAPIDEMENT\" À UN ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:46",
+      "date": "01/06",
+      "timestamp": 1780303618
+    },
+    {
+      "id": "BFMTV_1780303321",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UN MORT ET 26 BLESSÉS DANS DES FRAPPES NOCTURNES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:42",
+      "date": "01/06",
+      "timestamp": 1780303321
+    },
+    {
+      "id": "BFMTV_1780302998",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL VA FRAPPER LA BANLIEUE SUD DE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:36",
+      "date": "01/06",
+      "timestamp": 1780302998
+    },
+    {
+      "id": "BFMTV_1780296078",
+      "source": "BFMTV",
+      "text": "DÉBORDEMENTS APRÈS LE SACRE DU PSG: \"NOUS SOMMES EN TRAIN DE PERDRE LA MAIN SUR NOTRE PROPRE TERRITOIRE\", ASSURE JORDAN BARDELLA",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:41",
+      "date": "01/06",
+      "timestamp": 1780296078
+    },
+    {
+      "id": "BFMTV_1780295068",
+      "source": "BFMTV",
+      "text": "MANIFESTATIONS EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:24",
+      "date": "01/06",
+      "timestamp": 1780295068
+    },
+    {
+      "id": "BFMTV_1780295067",
+      "source": "BFMTV",
+      "text": "L'IRAN EXÉCUTE DEUX HOMMES ACCUSÉS D'ÊTRE RESPONSABLES DE LA \"DESTRUCTION\" D'UNE MOSQUÉE LORS DES MANIFESTATIONS DE JANVIER",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:24",
+      "date": "01/06",
+      "timestamp": 1780295067
+    },
+    {
+      "id": "BFMTV_1780295018",
+      "source": "BFMTV",
+      "text": "LA MARINE NATIONALE ARRAISONNE UN PÉTROLIER EN PROVENANCE DE RUSSIE DANS L'ATLANTIQUE ",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:23",
+      "date": "01/06",
+      "timestamp": 1780295018
+    },
+    {
+      "id": "BFMTV_1780288899",
+      "source": "BFMTV",
+      "text": "LIBAN: LA DÉTRESSE DES DÉPLACÉS FACE AUX RAIDS ISRAÉLIENS AU LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:41",
+      "date": "01/06",
+      "timestamp": 1780288899
+    },
+    {
+      "id": "BFMTV_1780288829",
+      "source": "BFMTV",
+      "text": "LE BRIEF DU GÉNÉRAL - DONALD TRUMP PUBLIE UNE VIDÉO GÉNÉRÉE PAR IA METTANT EN SCÈNE AIR FORCE ONE ENTOURÉ DE BOMBARDIERS B2",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:40",
+      "date": "01/06",
+      "timestamp": 1780288829
+    },
+    {
+      "id": "BFMTV_1780288601",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: LES ÉTATS-UNIS ONT ANNONCÉ AVOIR FRAPPÉ DES RADARS ET DES SITES DE CONTRÔLES DE DRONES EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:36",
+      "date": "01/06",
+      "timestamp": 1780288601
+    },
+    {
+      "id": "BFMTV_1780287678",
+      "source": "BFMTV",
+      "text": "LA ROUMANIE AFFIRME QUE C'EST UN DRONE RUSSE DE TYPE \"GERAN-2\" QUI A PERCUTÉ UN IMMEUBLE JEUDI SOIR",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:21",
+      "date": "01/06",
+      "timestamp": 1780287678
+    },
+    {
+      "id": "BFMTV_1780287465",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS ANNONCENT AVOIR MENÉ DES NOUVELLES FRAPPES DANS LE SUD DE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:17",
+      "date": "01/06",
+      "timestamp": 1780287465
+    },
     {
       "id": "BFMTV_1780264520",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "19:16",
       "date": "29/05",
       "timestamp": 1780082219
-    },
-    {
-      "id": "BFMTV_1780080641",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: LA RÉUNION DE CRISE EST TERMINÉE À LA MAISON BLANCHE SELON PLUSIEURS MÉDIAS AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:50",
-      "date": "29/05",
-      "timestamp": 1780080641
-    },
-    {
-      "id": "BFMTV_1780079896",
-      "source": "BFMTV",
-      "text": "POURPARLERS ENTRE LES ÉTATS-UNIS ET L'IRAN: BENJAMIN NETANYAHU S'OPPOSE FERMEMENT À CET ACCORD, QUI INCLUT DES DISCUSSIONS SUR LE PROGRAMME NUCLÉAIRE IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:38",
-      "date": "29/05",
-      "timestamp": 1780079896
-    },
-    {
-      "id": "BFMTV_1780078876",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS/IRAN: LES POURPARLERS SONT DANS L'IMPASSE CONCERNANT LE PROGRAMME NUCLÉAIRE IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:21",
-      "date": "29/05",
-      "timestamp": 1780078876
-    },
-    {
-      "id": "BFMTV_1780077338",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA ROUMANIE DÉCLARE LE CONSUL GÉNÉRAL RUSSE PERSONA NON GRATA APRÈS LA CHUTE D'UN DRONE SUR UN IMMEUBLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:55",
-      "date": "29/05",
-      "timestamp": 1780077338
-    },
-    {
-      "id": "OPEX360_1780076170",
-      "source": "OPEX360",
-      "text": "L’ALLEMAGNE ENVISAGERAIT DE COMMANDER ENTRE 10 ET 20 AVIONS DE TRANSPORT A400M ATLAS DE PLUS",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:36",
-      "date": "29/05",
-      "timestamp": 1780076170
-    },
-    {
-      "id": "BFMTV_1780075385",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT QU'IL S'APPRÊTE À PRENDRE \"SA DÉCISION FINALE\" SUR UN POSSIBLE ACCORD AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:23",
-      "date": "29/05",
-      "timestamp": 1780075385
-    },
-    {
-      "id": "BFMTV_1780075065",
-      "source": "BFMTV",
-      "text": "\"LE MOYEN-ORIENT C'EST LE LAS VEGAS SANGLANT DES TRANSGRESSIONS INTERNATIONALES\": L'ONU CONDAMNÉE À L'IMPUISSANCE DANS CE CONFLIT?",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:17",
-      "date": "29/05",
-      "timestamp": 1780075065
-    },
-    {
-      "id": "BFMTV_1780074530",
-      "source": "BFMTV",
-      "text": "IRAN: ALORS QU'UNE RÉUNION DE CRISE EST EN COURS À WASHINGTON, LE CONFLIT ENTRE LE HEZBOLLAH ET ISRAËL SE POURSUIT AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:08",
-      "date": "29/05",
-      "timestamp": 1780074530
-    },
-    {
-      "id": "BFMTV_1780074292",
-      "source": "BFMTV",
-      "text": "\"ILS MARCHENT PARMI NOUS\": LA MAISON BLANCHE COMPARE LES IMMIGRÉS À DES EXTRATERRESTRES SUR UN NOUVEAU SITE INTERNET",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:04",
-      "date": "29/05",
-      "timestamp": 1780074292
-    },
-    {
-      "id": "BFMTV_1780074155",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IRANIENS CONTESTENT LA VERSION DE DONALD TRUMP ",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:02",
-      "date": "29/05",
-      "timestamp": 1780074155
-    },
-    {
-      "id": "OPEX360_1780072543",
-      "source": "OPEX360",
-      "text": "UN RAPPROCHEMENT ENTRE AIRBUS ET SAAB POUR DÉVELOPPER UN AVION DE COMBAT DE 6E GÉNÉRATION SE PRÉCISE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:35",
-      "date": "29/05",
-      "timestamp": 1780072543
-    },
-    {
-      "id": "BFMTV_1780072446",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT ÊTRE SUR LE POINT DE PRENDRE \"SA DÉCISION FINALE\" SUR UN POSSIBLE ACCORD AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:34",
-      "date": "29/05",
-      "timestamp": 1780072446
-    },
-    {
-      "id": "BFMTV_1780071211",
-      "source": "BFMTV",
-      "text": "TOUT COMPRENDRE. URANIUM ENRICHI: POURQUOI LES STOCKS IRANIENS SONT AU CŒUR DES NÉGOCIATIONS ENTRE WASHINGTON ET TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:13",
-      "date": "29/05",
-      "timestamp": 1780071211
     }
   ],
   "france": {
