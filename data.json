@@ -1,7 +1,137 @@
 {
-  "last_update": "01/06 15:42",
+  "last_update": "01/06 20:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780340196",
+      "source": "BFMTV",
+      "text": "LIBAN: LES IMAGES DE LA FORTERESSE DE BEAUFORT PRISE D'ASSAUT PAR L'ARMÉE ISRAÉLIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:56",
+      "date": "01/06",
+      "timestamp": 1780340196
+    },
+    {
+      "id": "BFMTV_1780339565",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QUE \"LES DISCUSSIONS CONTINUENT À UN RYTHME RAPIDE\" AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:46",
+      "date": "01/06",
+      "timestamp": 1780339565
+    },
+    {
+      "id": "BFMTV_1780338633",
+      "source": "BFMTV",
+      "text": "IA, ROBOT: EMMANUEL MACRON VEUT \"INSTALLER DES CAPACITÉS DE CALCUL BEAUCOUP PLUS IMPORTANTES EN FRANCE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:30",
+      "date": "01/06",
+      "timestamp": 1780338633
+    },
+    {
+      "id": "BFMTV_1780337405",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN MÉDIA IRANIEN AFFIRME QUE TÉHÉRAN A SUSPENDU LES NÉGOCIATIONS AVEC WASHINGTON",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:10",
+      "date": "01/06",
+      "timestamp": 1780337405
+    },
+    {
+      "id": "BFMTV_1780336642",
+      "source": "BFMTV",
+      "text": "\"AUCUNE TROUPE ISRAÉLIENNE NE SE RENDRA À BEYROUTH\": DONALD TRUMP AFFIRME QU'ISRAËL ET LE HEZBOLLAH LUI ONT PROMIS UN APAISEMENT AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:57",
+      "date": "01/06",
+      "timestamp": 1780336642
+    },
+    {
+      "id": "BFMTV_1780336101",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE \"LES DISCUSSIONS CONTINUENT À UN RYTHME RAPIDE\" AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:48",
+      "date": "01/06",
+      "timestamp": 1780336101
+    },
+    {
+      "id": "BFMTV_1780335584",
+      "source": "BFMTV",
+      "text": "XENIA FEDOROVA, INGÉRENCE RUSSE À VISAGE DÉCOUVERT ? LES EXPLICATIONS DE NOTRE JOURNALISTE RAPHAEL GRABLY",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:39",
+      "date": "01/06",
+      "timestamp": 1780335584
+    },
+    {
+      "id": "OPEX360_1780335315",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE TERRE COMPTE UN NOUVEAU RÉGIMENT APRÈS LE CHANGEMENT DE NOM DU 28E GROUPE GÉOGRAPHIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:35",
+      "date": "01/06",
+      "timestamp": 1780335315
+    },
+    {
+      "id": "BFMTV_1780332856",
+      "source": "BFMTV",
+      "text": "VIOLENCES APRÈS LA VICTOIRE DU PSG: LES PREMIÈRES PEINES SONT TOMBÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:54",
+      "date": "01/06",
+      "timestamp": 1780332856
+    },
+    {
+      "id": "BFMTV_1780331919",
+      "source": "BFMTV",
+      "text": "UNE IMPRESSIONNANTE EXPLOSION DANS UNE USINE MALTAISE DE FEUX D'ARTIFICE FAIT DEUX BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:38",
+      "date": "01/06",
+      "timestamp": 1780331919
+    },
+    {
+      "id": "OPEX360_1780330007",
+      "source": "OPEX360",
+      "text": "LE CANADA SE CONTENTERAIT DE SEULEMENT 30 F-35A, LA PRIORITÉ ALLANT VERS L’ACHAT DE 60 JAS-39 GRIPEN E/F",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:06",
+      "date": "01/06",
+      "timestamp": 1780330007
+    },
+    {
+      "id": "BFMTV_1780329163",
+      "source": "BFMTV",
+      "text": "L'IRAN MENACE ET APPELLE À ÉVACUER LE NORD D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:52",
+      "date": "01/06",
+      "timestamp": 1780329163
+    },
+    {
+      "id": "BFMTV_1780328903",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE APPELLE À L'ÉVACUATION DE LA BANLIEUE SUD DE BEYROUTH AU LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:48",
+      "date": "01/06",
+      "timestamp": 1780328903
+    },
     {
       "id": "BFMTV_1780328331",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "09:27",
       "date": "30/05",
       "timestamp": 1780133222
-    },
-    {
-      "id": "BFMTV_1780132479",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE BASE MILITAIRE AMÉRICAINE AU KOWEÏT FRAPPÉE PAR UN MISSILE BALISTIQUE IRANIEN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:14",
-      "date": "30/05",
-      "timestamp": 1780132479
-    },
-    {
-      "id": "BFMTV_1780131036",
-      "source": "BFMTV",
-      "text": "LA RUSSIE RAPPELLE SON AMBASSADEUR EN ARMÉNIE POUR \"CONSULTATIONS\" À CAUSE DU \"RAPPROCHEMENT\" D'EREVAN AVEC L'UNION EUROPÉENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:50",
-      "date": "30/05",
-      "timestamp": 1780131036
-    },
-    {
-      "id": "BFMTV_1780129425",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES RENSEIGNEMENTS AMÉRICAINS ESTIMENT QU'IL Y A UNE DOUZAINE DE MINES DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:23",
-      "date": "30/05",
-      "timestamp": 1780129425
-    },
-    {
-      "id": "BFMTV_1780128941",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH REVENDIQUE \"UNE SALVE DE ROQUETTES\" CONTRE UNE VILLE DU NORD D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:15",
-      "date": "30/05",
-      "timestamp": 1780128941
-    },
-    {
-      "id": "BFMTV_1780126303",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP RENONCE AU CONTRÔLE DU KENNEDY CENTER, SALLE DE SPECTACLES EMBLÉMATIQUE DE WASHINGTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:31",
-      "date": "30/05",
-      "timestamp": 1780126303
-    },
-    {
-      "id": "BFMTV_1780126078",
-      "source": "BFMTV",
-      "text": "LA RÉPUBLIQUE DÉMOCRATIQUE DU CONGO UNE NOUVELLE FOIS CONFRONTÉE À UNE ÉPIDÉMIE D'EBOLA",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:27",
-      "date": "30/05",
-      "timestamp": 1780126078
-    },
-    {
-      "id": "BFMTV_1780126008",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE APPELLE LES HABITANTS DE SEPT VILLAGES DU SUD DU LIBAN À ÉVACUER",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:26",
-      "date": "30/05",
-      "timestamp": 1780126008
-    },
-    {
-      "id": "BFMTV_1780124677",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE APPELLE LES HABITANTS DE SEPT VILLAGES DU SUD DU LIBAN À ÉVACUER",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:04",
-      "date": "30/05",
-      "timestamp": 1780124677
-    },
-    {
-      "id": "BFMTV_1780122584",
-      "source": "BFMTV",
-      "text": "IL Y A 4 ANS JOUR POUR JOUR, FRÉDÉRIC LECLERC-IMHOFF, JOURNALISTE POUR BFMTV, ÉTAIT TUÉ EN UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:29",
-      "date": "30/05",
-      "timestamp": 1780122584
-    },
-    {
-      "id": "BFMTV_1780121110",
-      "source": "BFMTV",
-      "text": "\"UNE VIOLATION MANIFESTE DU DROIT INTERNATIONAL\": À GAZA ET AU LIBAN, L’ARMÉE ISRAÉLIENNE ÉTEND SON CONTRÔLE TERRITORIAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:05",
-      "date": "30/05",
-      "timestamp": 1780121110
-    },
-    {
-      "id": "BFMTV_1780121110",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:05",
-      "date": "30/05",
-      "timestamp": 1780121110
-    },
-    {
-      "id": "BFMTV_1780119378",
-      "source": "BFMTV",
-      "text": "MALGRÉ \"SON EXCELLENTE SANTÉ\", DONALD TRUMP SE VOIT CONSEILLER \"LA POURSUITE DE LA PERTE DE POIDS\" PAR SON MÉDECIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:36",
-      "date": "30/05",
-      "timestamp": 1780119378
-    },
-    {
-      "id": "BFMTV_1780117910",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES SECOURISTES EN PREMIÈRE LIGNE DU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:11",
-      "date": "30/05",
-      "timestamp": 1780117910
     }
   ],
   "france": {
