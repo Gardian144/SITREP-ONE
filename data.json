@@ -1,7 +1,57 @@
 {
-  "last_update": "02/06 04:23",
+  "last_update": "02/06 08:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780388606",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UN RESPONSABLE MILITAIRE IRANIEN JUGE \"INÉVITABLE\" UNE REPRISE DE LA GUERRE CONTRE LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:23",
+      "date": "02/06",
+      "timestamp": 1780388606
+    },
+    {
+      "id": "BFMTV_1780388158",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT ESTIME QU'UN \"ACCORD EST À PORTÉE DE MAIN\" ET APPELLE LES ÉTATS-UNIS ET L'IRAN À \"TOUT FAIRE POUR LE CONCLURE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:15",
+      "date": "02/06",
+      "timestamp": 1780388158
+    },
+    {
+      "id": "BFMTV_1780383963",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE IMPORTANTE ATTAQUE RUSSE FAIT NEUF MORTS ET DES DIZAINES DE BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:06",
+      "date": "02/06",
+      "timestamp": 1780383963
+    },
+    {
+      "id": "BFMTV_1780374848",
+      "source": "BFMTV",
+      "text": "LE BRIEF DU GÉNÉRAL - LA CHINE CONTINUE-T-ELLE D'ARMER L'IRAN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:34",
+      "date": "02/06",
+      "timestamp": 1780374848
+    },
+    {
+      "id": "BFMTV_1780374810",
+      "source": "BFMTV",
+      "text": "DE NOUVEAUX AFFRONTEMENTS ENTRE ISRAËL ET LE HEZBOLLAH, DONALD TRUMP AFFIRME QUE LES DEUX CAMPS LUI ONT PROMIS UN APAISEMENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:33",
+      "date": "02/06",
+      "timestamp": 1780374810
+    },
     {
       "id": "BFMTV_1780373532",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "16:59",
       "date": "30/05",
       "timestamp": 1780160389
-    },
-    {
-      "id": "BFMTV_1780156952",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PREMIER MINISTRE LIBANAIS DÉNONCE \"LA DANGEREUSE ESCALADE D'ISRAËL\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:02",
-      "date": "30/05",
-      "timestamp": 1780156952
-    },
-    {
-      "id": "BFMTV_1780156094",
-      "source": "BFMTV",
-      "text": "UN HOMME A RECONNU AVOIR VENDU DES \"KITS DE SUICIDE\" EN LIGNE, AU MOINS 14 PERSONNES SONT MORTES AU CANADA ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:48",
-      "date": "30/05",
-      "timestamp": 1780156094
-    },
-    {
-      "id": "BFMTV_1780153531",
-      "source": "BFMTV",
-      "text": "AU LIBAN, MALGRÉ LE CESSEZ-LE-FEU, ISRAËL CONTINUE DE BOMBARDER DES VILLAGES",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:05",
-      "date": "30/05",
-      "timestamp": 1780153531
-    },
-    {
-      "id": "BFMTV_1780153027",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS RAPPELLENT LEURS \"LIGNES ROUGES\" POUR PARVENIR À UN ACCORD AVEC L'IRAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:57",
-      "date": "30/05",
-      "timestamp": 1780153027
-    },
-    {
-      "id": "BFMTV_1780151219",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"UN OBJET FLOTTANT SOUPÇONNÉ D'ÊTRE UNE MINE\" REPÉRÉ DANS LES EAUX OMANAISES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:26",
-      "date": "30/05",
-      "timestamp": 1780151219
     }
   ],
   "france": {
