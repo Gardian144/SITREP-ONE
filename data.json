@@ -1,7 +1,127 @@
 {
-  "last_update": "02/06 08:51",
+  "last_update": "02/06 12:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780403968",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL DIT AVOIR OBTENU L'AVAL AMÉRICAIN POUR FRAPPER LA BANLIEUE SUD DE BEYROUTH EN CAS D'ATTAQUE DU HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:39",
+      "date": "02/06",
+      "timestamp": 1780403968
+    },
+    {
+      "id": "BFMTV_1780403594",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT URUGUAYEN S'EXCUSE APRÈS AVOIR ÉTÉ AU COEUR D'UNE POLÉMIQUE POUR L'ACHAT D'UN VEHICULE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:33",
+      "date": "02/06",
+      "timestamp": 1780403594
+    },
+    {
+      "id": "BFMTV_1780403480",
+      "source": "BFMTV",
+      "text": "\"TU ES COMPLÈTEMENT FOU\" : DONALD TRUMP MET LA PRESSION SUR BENJAMIN NETANYAHU POUR ACCÉLÉRER LES NÉGOCIATIONS AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:31",
+      "date": "02/06",
+      "timestamp": 1780403480
+    },
+    {
+      "id": "BFMTV_1780403307",
+      "source": "BFMTV",
+      "text": "DISPARITION DE SCIENTIFIQUES AMÉRICAINS: LES \"RESTES\" D'UNE EMPLOYÉE DE LABORATOIRE DÉCOUVERTS DANS UNE FORÊT",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:28",
+      "date": "02/06",
+      "timestamp": 1780403307
+    },
+    {
+      "id": "BFMTV_1780402400",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: POURQUOI L'IRAN NE SOUHAITE PAS LÂCHER SON CONTRÔLE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:13",
+      "date": "02/06",
+      "timestamp": 1780402400
+    },
+    {
+      "id": "BFMTV_1780399892",
+      "source": "BFMTV",
+      "text": "TAÏWAN SUSPEND SES VOLS D'ENTRAINEMENT APRÈS LA MORT DE DEUX PILOTES LORS D'UN EXERCICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:31",
+      "date": "02/06",
+      "timestamp": 1780399892
+    },
+    {
+      "id": "OPEX360_1780398317",
+      "source": "OPEX360",
+      "text": "LES ÉTATS-UNIS ENVISAGENT D’AUGMENTER LE NOMBRE DE LEURS ARMES NUCLÉAIRES MISES À LA DISPOSITION DE L’OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:05",
+      "date": "02/06",
+      "timestamp": 1780398317
+    },
+    {
+      "id": "BFMTV_1780397443",
+      "source": "BFMTV",
+      "text": "UN AVION DOIT FAIRE DEMI-TOUR À CAUSE D’UN PASSAGER AYANT APPELÉ SON ENCEINTE BLUETOOTH “BOMBE”",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:50",
+      "date": "02/06",
+      "timestamp": 1780397443
+    },
+    {
+      "id": "BFMTV_1780395122",
+      "source": "BFMTV",
+      "text": "\"UNE PHOTO CULTE\": UNE GRAND-MÈRE AVEC SON DÉAMBULATEUR FLASHÉE PAR UN RADAR À 42KM/H EN ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:12",
+      "date": "02/06",
+      "timestamp": 1780395122
+    },
+    {
+      "id": "BFMTV_1780392505",
+      "source": "BFMTV",
+      "text": "PORTUGAL: UN CYCLISTE S'EN PREND VIOLEMMENT À UNE AUTOMOBILISTE SUITE À UN DIFFÉREND ROUTIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:28",
+      "date": "02/06",
+      "timestamp": 1780392505
+    },
+    {
+      "id": "BFMTV_1780392423",
+      "source": "BFMTV",
+      "text": "TRAFIC DE DROGUE: UN TUNNEL SOUTERRAIN DÉCOUVERT ENTRE LE MEXIQUE ET LES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:27",
+      "date": "02/06",
+      "timestamp": 1780392423
+    },
+    {
+      "id": "BFMTV_1780390440",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BFMTV SUR LE LIEU D'UN RAID AÉRIEN ISRAÉLIEN À TYR  ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:54",
+      "date": "02/06",
+      "timestamp": 1780390440
+    },
     {
       "id": "BFMTV_1780388606",
       "source": "BFMTV",
@@ -26,6 +146,16 @@
       "id": "BFMTV_1780383963",
       "source": "BFMTV",
       "text": "GUERRE EN UKRAINE: UNE IMPORTANTE ATTAQUE RUSSE FAIT NEUF MORTS ET DES DIZAINES DE BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:06",
+      "date": "02/06",
+      "timestamp": 1780383963
+    },
+    {
+      "id": "BFMTV_1780383963",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE IMPORTANTE ATTAQUE RUSSE FAIT 18 MORTS ET DES DIZAINES DE BLESSÉS",
       "urgent": true,
       "france_related": false,
       "time": "07:06",
@@ -871,136 +1001,6 @@
       "time": "06:44",
       "date": "31/05",
       "timestamp": 1780209874
-    },
-    {
-      "id": "BFMTV_1780209263",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP SOUHAITE SE PRODUIRE EN MEETING POUR L'ANNIVERSAIRE DES ÉTATS-UNIS À LA PLACE DES MUSICIENS ET SE COMPARE À ELVIS PRESLEY",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:34",
-      "date": "31/05",
-      "timestamp": 1780209263
-    },
-    {
-      "id": "BFMTV_1780206283",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BEYROUTH ACCUSE ISRAËL DE MENER UNE \"POLITIQUE DE LA TERRE BRÛLÉE\" AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:44",
-      "date": "31/05",
-      "timestamp": 1780206283
-    },
-    {
-      "id": "BFMTV_1780205123",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE ANNONCE QUE SON OPÉRATION AU LIBAN CONTRE LE HEZBOLLAH EST \"EN TRAIN DE S'ÉTENDRE À D'AUTRES ZONES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:25",
-      "date": "31/05",
-      "timestamp": 1780205123
-    },
-    {
-      "id": "BFMTV_1780202618",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ PAYANT: QUE FONT LES AUTRES PAYS POUR RENTABILISER CES PASSAGES STRATÉGIQUES?",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:43",
-      "date": "31/05",
-      "timestamp": 1780202618
-    },
-    {
-      "id": "BFMTV_1780202424",
-      "source": "BFMTV",
-      "text": "DANS LE DÉTROIT D’ORMUZ, LES BATEAUX RESTENT IMMOBILES, SUSPENDUS À UN ACCORD ENTRE LES ÉTATS-UNIS ET L’IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:40",
-      "date": "31/05",
-      "timestamp": 1780202424
-    },
-    {
-      "id": "BFMTV_1780202240",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT ET EN IRAN: DONALD TRUMP AFFIRME AVOIR REÇU DE L'IRAN L'ENGAGEMENT À NE PAS SE DOTER DE L'ARME NUCLÉAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:37",
-      "date": "31/05",
-      "timestamp": 1780202240
-    },
-    {
-      "id": "BFMTV_1780201975",
-      "source": "BFMTV",
-      "text": "\"ILS ONT ACCEPTÉ CELA\": DONALD TRUMP AFFIRME QUE L'IRAN S'EST ENGAGÉ À NE PAS SE DOTER DE L'ARME NUCLÉAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:32",
-      "date": "31/05",
-      "timestamp": 1780201975
-    },
-    {
-      "id": "BFMTV_1780201573",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TSAHAL ET LE HEZBOLLAH SE RENDENT COUP POUR COUP",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:26",
-      "date": "31/05",
-      "timestamp": 1780201573
-    },
-    {
-      "id": "BFMTV_1780200923",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP A RENVOYÉ UNE PROPOSITION D'ACCORD PLUS STRICTE À L'IRAN, SELON DES MÉDIAS AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:15",
-      "date": "31/05",
-      "timestamp": 1780200923
-    },
-    {
-      "id": "BFMTV_1780200832",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP A ADRESSÉ UNE PROPOSITION D'ACCORD PLUS STRICTE À L'IRAN, SELON DES MÉDIAS AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:13",
-      "date": "31/05",
-      "timestamp": 1780200832
-    },
-    {
-      "id": "BFMTV_1780200828",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LA MARINE AMÉRICAINE A TIRÉ SUR UN CARGO QUI TENTAIT DE FORCER LE BLOCUS.",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:13",
-      "date": "31/05",
-      "timestamp": 1780200828
-    },
-    {
-      "id": "BFMTV_1780177788",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PREMIER MINISTRE LIBANAIS DÉNONCE \"LA DANGEREUSE ESCALADE D'ISRAËL\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:49",
-      "date": "30/05",
-      "timestamp": 1780177788
-    },
-    {
-      "id": "BFMTV_1780160389",
-      "source": "BFMTV",
-      "text": "LE SECRÉTAIRE AMÉRICAIN À LA DÉFENSE S'EN PREND AUX EUROPÉENS ET LES APPELLE À S'ABSTENIR DE FAIRE \"LA MORALE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:59",
-      "date": "30/05",
-      "timestamp": 1780160389
     }
   ],
   "france": {
