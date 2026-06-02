@@ -1,7 +1,17 @@
 {
-  "last_update": "01/06 23:57",
+  "last_update": "02/06 04:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780373532",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA SITUATION SEMBLE FIGÉE SUR LE TERRAIN APRÈS L'APPEL ENTRE DONALD TRUMP ET BENJAMIN NETANYAHU",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:12",
+      "date": "02/06",
+      "timestamp": 1780373532
+    },
     {
       "id": "BFMTV_1780352167",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "14:26",
       "date": "30/05",
       "timestamp": 1780151219
-    },
-    {
-      "id": "OPEX360_1780150145",
-      "source": "OPEX360",
-      "text": "LE PORTE-AVIONS HMS PRINCE OF WALES EST CONTRAINT DE RESTER EN NORVÈGE POUR EFFECTUER DES RÉPARATIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:09",
-      "date": "30/05",
-      "timestamp": 1780150145
     }
   ],
   "france": {
