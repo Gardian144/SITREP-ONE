@@ -1,7 +1,87 @@
 {
-  "last_update": "02/06 17:08",
+  "last_update": "02/06 20:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780427663",
+      "source": "BFMTV",
+      "text": "\"UNE PERSONNE TRÈS MÉTICULEUSE\": POURQUOI DONALD TRUMP SUBIT AUTANT D'EXAMENS MÉDICAUX ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:14",
+      "date": "02/06",
+      "timestamp": 1780427663
+    },
+    {
+      "id": "BFMTV_1780426782",
+      "source": "BFMTV",
+      "text": "\"JE TIENS À VOUS FÉLICITER\": LE PRÉSIDENT RWANDAIS SALUE LE \"COURAGE\" ET \"L'HUMANITÉ\" D'EMMANUEL MACRON SUR LA MÉMOIRE DU GÉNOCIDE DES TUTSIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:59",
+      "date": "02/06",
+      "timestamp": 1780426782
+    },
+    {
+      "id": "BFMTV_1780426570",
+      "source": "BFMTV",
+      "text": "MISSILES: QUAND LA CHINE ARME SECRÈTEMENT L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:56",
+      "date": "02/06",
+      "timestamp": 1780426570
+    },
+    {
+      "id": "BFMTV_1780425644",
+      "source": "BFMTV",
+      "text": "UN MÉMORIAL EN HOMMAGE AUX VICTIMES DU GÉNOCIDE DES TUTSIS AU RWANDA INAUGURÉ À PARIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:40",
+      "date": "02/06",
+      "timestamp": 1780425644
+    },
+    {
+      "id": "BFMTV_1780421923",
+      "source": "BFMTV",
+      "text": "UNE BÂCHE DE SOUTIEN AU JOURNALISTE CHRISTOPHE GLEIZES, DÉTENU EN ALGÉRIE, DÉVOILÉE À MARSEILLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:38",
+      "date": "02/06",
+      "timestamp": 1780421923
+    },
+    {
+      "id": "BFMTV_1780421902",
+      "source": "BFMTV",
+      "text": "RICHARD GERE S'EN PREND À DONALD TRUMP, QU'IL QUALIFIE DE \"MANIAQUE\" QUI DÉTRUIT \"TOUT CE QU'IL Y A DE BON\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:38",
+      "date": "02/06",
+      "timestamp": 1780421902
+    },
+    {
+      "id": "OPEX360_1780421378",
+      "source": "OPEX360",
+      "text": "L’ESPAGNE VA ACQUÉRIR CINQ CHASSEURS-BOMBARDIERS AV-8B HARRIER II AUPRÈS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:29",
+      "date": "02/06",
+      "timestamp": 1780421378
+    },
+    {
+      "id": "BFMTV_1780421360",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS PENSENT QUE LE GUIDE SUPRÊME IRANIEN MOJTABA KHAMENEI \"S'IMPLIQUE DE PLUS EN PLUS\" DANS LA DIRECTION DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:29",
+      "date": "02/06",
+      "timestamp": 1780421360
+    },
     {
       "id": "BFMTV_1780418886",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "13:23",
       "date": "31/05",
       "timestamp": 1780233834
-    },
-    {
-      "id": "BFMTV_1780230859",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN AVION AMÉRICAIN A TIRÉ SUR UN NAVIRE QUI TENTAIT DE FORCER LE BLOCUS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:34",
-      "date": "31/05",
-      "timestamp": 1780230859
-    },
-    {
-      "id": "BFMTV_1780229941",
-      "source": "BFMTV",
-      "text": "UKRAINE: UN DRONE FRAPPE LA CENTRALE NUCLÉAIRE DE ZAPORIJIA CONTRÔLÉE PAR MOSCOU",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:19",
-      "date": "31/05",
-      "timestamp": 1780229941
-    },
-    {
-      "id": "BFMTV_1780229941",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:19",
-      "date": "31/05",
-      "timestamp": 1780229941
-    },
-    {
-      "id": "BFMTV_1780228378",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT DEMANDE UNE \"RÉUNION D'URGENCE\" DU CONSEIL DE SÉCURITÉ DE L'ONU SUR LES OPÉRATIONS ISRAÉLIENNES AU LIBAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:52",
-      "date": "31/05",
-      "timestamp": 1780228378
-    },
-    {
-      "id": "BFMTV_1780228128",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT A DEMANDÉ UNE \"RÉUNION D'URGENCE\" DU CONSEIL DE SÉCURITÉ DE L'ONU SUR LES OPÉRATIONS MILITAIRES ISRAÉLIENNES AU LIBAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:48",
-      "date": "31/05",
-      "timestamp": 1780228128
-    },
-    {
-      "id": "BFMTV_1780226561",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME AVOIR REÇU DE L'IRAN L'ENGAGEMENT À NE PAS SE DOTER DE L'ARME NUCLÉAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:22",
-      "date": "31/05",
-      "timestamp": 1780226561
-    },
-    {
-      "id": "OPEX360_1780225805",
-      "source": "OPEX360",
-      "text": "LES NAGEURS DE COMBAT VONT DISPOSER D’UN MOYEN INNOVANT D’INFILTRATION AVEC LA PLANCHE MOTORISÉE FLOTTANTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:10",
-      "date": "31/05",
-      "timestamp": 1780225805
-    },
-    {
-      "id": "OPEX360_1780225805",
-      "source": "OPEX360",
-      "text": "LES NAGEURS DE COMBAT VONT DISPOSER D’UN MOYEN INNOVANT D’INFILTRATION AVEC LA PLANCHE MOTORISÉE SUBMERSIBLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:10",
-      "date": "31/05",
-      "timestamp": 1780225805
     }
   ],
   "france": {
