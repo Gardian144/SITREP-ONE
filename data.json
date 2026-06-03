@@ -1,7 +1,127 @@
 {
-  "last_update": "03/06 05:25",
+  "last_update": "03/06 10:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780481203",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN PROMET \"UN DÉLUGE DE MISSILES ET DRONES\" EN CAS DE NOUVELLE AGRESSION AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:06",
+      "date": "03/06",
+      "timestamp": 1780481203
+    },
+    {
+      "id": "BFMTV_1780481171",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN MORT ET PLUSIEURS BLESSÉS DANS L'ATTAQUE SUR L'AÉROPORT DU KOWEÏT",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:06",
+      "date": "03/06",
+      "timestamp": 1780481171
+    },
+    {
+      "id": "BFMTV_1780480498",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES ALERTES AÉRIENNES DANS LE NORD D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:54",
+      "date": "03/06",
+      "timestamp": 1780480498
+    },
+    {
+      "id": "BFMTV_1780479750",
+      "source": "BFMTV",
+      "text": "UN HÉLICOPTÈRE DE LA ROYAL NAVY S'ÉCRASE DANS UN CHAMP AU ROYAUME-UNI, LES SECOURS DÉPLOYÉS SUR PLACE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:42",
+      "date": "03/06",
+      "timestamp": 1780479750
+    },
+    {
+      "id": "BFMTV_1780479205",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'AÉROPORT DU KOWEÏT TOUCHÉ PAR DES DRONES IRANIENS, AU MOINS UN MORT RECENSÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:33",
+      "date": "03/06",
+      "timestamp": 1780479205
+    },
+    {
+      "id": "BFMTV_1780477939",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: SIX PERSONNES TUÉES DANS DES FRAPPES ISRAÉLIENNES À TYR",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:12",
+      "date": "03/06",
+      "timestamp": 1780477939
+    },
+    {
+      "id": "BFMTV_1780474892",
+      "source": "BFMTV",
+      "text": "L'INCENDIE D'UN HÔTEL FAIT AU MOINS 21 MORTS À NEW DELHI EN INDE, DES RECHERCHES TOUJOURS EN COURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:21",
+      "date": "03/06",
+      "timestamp": 1780474892
+    },
+    {
+      "id": "BFMTV_1780470051",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:00",
+      "date": "03/06",
+      "timestamp": 1780470051
+    },
+    {
+      "id": "BFMTV_1780470051",
+      "source": "BFMTV",
+      "text": "DES DRONES UKRAINIENS ONT TOUCHÉ SAINT-PÉTERSBOURG, OÙ S'OUVRE LE FORUM ÉCONOMIQUE AUQUEL DOIT PARTICIPER VLADIMIR POUTINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:00",
+      "date": "03/06",
+      "timestamp": 1780470051
+    },
+    {
+      "id": "BFMTV_1780468042",
+      "source": "BFMTV",
+      "text": "DES MANIFESTANTS S'EN PRENNENT À LA POLICE À SOUTHAMPTON EN ANGLETERRE APRÈS LE MEURTRE D'UN ÉTUDIANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:27",
+      "date": "03/06",
+      "timestamp": 1780468042
+    },
+    {
+      "id": "BFMTV_1780467868",
+      "source": "BFMTV",
+      "text": "\"TRUMP RÉCOMPENSE SON LARBIN\": BILL PULTE, FIDÈLE DU PRÉSIDENT AMÉRICAIN SANS EXPÉRIENCE, DÉSIGNÉ \"CHEF DES ESPIONS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:24",
+      "date": "03/06",
+      "timestamp": 1780467868
+    },
+    {
+      "id": "BFMTV_1780466128",
+      "source": "BFMTV",
+      "text": "UNE FRAPPE DE DRONE UKRAINIEN SUR UN BUS FAIT SEPT MORTS ET 11 BLESSÉS EN CRIMÉE, TERRITOIRE ANNEXÉE PAR LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:55",
+      "date": "03/06",
+      "timestamp": 1780466128
+    },
     {
       "id": "BFMTV_1780463862",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "06:24",
       "date": "01/06",
       "timestamp": 1780295067
-    },
-    {
-      "id": "BFMTV_1780295018",
-      "source": "BFMTV",
-      "text": "LA MARINE NATIONALE ARRAISONNE UN PÉTROLIER EN PROVENANCE DE RUSSIE DANS L'ATLANTIQUE ",
-      "urgent": false,
-      "france_related": true,
-      "time": "06:23",
-      "date": "01/06",
-      "timestamp": 1780295018
-    },
-    {
-      "id": "BFMTV_1780288899",
-      "source": "BFMTV",
-      "text": "LIBAN: LA DÉTRESSE DES DÉPLACÉS FACE AUX RAIDS ISRAÉLIENS AU LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:41",
-      "date": "01/06",
-      "timestamp": 1780288899
-    },
-    {
-      "id": "BFMTV_1780288829",
-      "source": "BFMTV",
-      "text": "LE BRIEF DU GÉNÉRAL - DONALD TRUMP PUBLIE UNE VIDÉO GÉNÉRÉE PAR IA METTANT EN SCÈNE AIR FORCE ONE ENTOURÉ DE BOMBARDIERS B2",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:40",
-      "date": "01/06",
-      "timestamp": 1780288829
-    },
-    {
-      "id": "BFMTV_1780288601",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: LES ÉTATS-UNIS ONT ANNONCÉ AVOIR FRAPPÉ DES RADARS ET DES SITES DE CONTRÔLES DE DRONES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:36",
-      "date": "01/06",
-      "timestamp": 1780288601
-    },
-    {
-      "id": "BFMTV_1780287678",
-      "source": "BFMTV",
-      "text": "LA ROUMANIE AFFIRME QUE C'EST UN DRONE RUSSE DE TYPE \"GERAN-2\" QUI A PERCUTÉ UN IMMEUBLE JEUDI SOIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:21",
-      "date": "01/06",
-      "timestamp": 1780287678
-    },
-    {
-      "id": "BFMTV_1780287465",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS ANNONCENT AVOIR MENÉ DES NOUVELLES FRAPPES DANS LE SUD DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:17",
-      "date": "01/06",
-      "timestamp": 1780287465
-    },
-    {
-      "id": "BFMTV_1780264520",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON ESTIME QUE \"RIEN NE JUSTIFIE L'ESCALADE MAJEURE EN COURS AU SUD LIBAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:55",
-      "date": "31/05",
-      "timestamp": 1780264520
-    },
-    {
-      "id": "BFMTV_1780259494",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL - HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:31",
-      "date": "31/05",
-      "timestamp": 1780259494
-    },
-    {
-      "id": "BFMTV_1780258832",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI ISRAËL AFFIRME QUE LA PRISE DE LA FORTERESSE DE BEAUFORT AU LIBAN EST UNE \"ÉTAPE SPECTACULAIRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:20",
-      "date": "31/05",
-      "timestamp": 1780258832
-    },
-    {
-      "id": "BFMTV_1780257271",
-      "source": "BFMTV",
-      "text": "VICTOIRE DU PSG: LE BALLON D'OR 2025, OUSMANE DEMBÉLÉ ACCLAMÉ PAR LE PUBLIC PARISIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:54",
-      "date": "31/05",
-      "timestamp": 1780257271
-    },
-    {
-      "id": "BFMTV_1780247318",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON ESTIME QUE \"RIEN NE JUSTIFIE L'ESCALADE MAJEURE EN COURS AU SUD LIBAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:08",
-      "date": "31/05",
-      "timestamp": 1780247318
-    },
-    {
-      "id": "BFMTV_1780236507",
-      "source": "BFMTV",
-      "text": "UNE FEMME A ÉPOUSÉ SON MARI DIX JOURS AVANT QU’IL NE MEURE D’UN CANCER DES OS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:08",
-      "date": "31/05",
-      "timestamp": 1780236507
     }
   ],
   "france": {
