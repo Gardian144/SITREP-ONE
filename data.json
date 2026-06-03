@@ -1,7 +1,97 @@
 {
-  "last_update": "03/06 15:14",
+  "last_update": "03/06 19:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780513164",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU ESTIME QUE L'IRAN \"JOUE AVEC LE FEU\" APRÈS L'ATTAQUE CONTRE LE KOWEÏT",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:59",
+      "date": "03/06",
+      "timestamp": 1780513164
+    },
+    {
+      "id": "BFMTV_1780511692",
+      "source": "BFMTV",
+      "text": "\"MOSCOU PANIQUE\": KAJA KALLAS RÉAGIT AUX RÉCENTES ATTAQUES DE DRONES UKRAINIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:34",
+      "date": "03/06",
+      "timestamp": 1780511692
+    },
+    {
+      "id": "BFMTV_1780511662",
+      "source": "BFMTV",
+      "text": "POURPARLERS ISRAÉLO-LIBANAIS: MARCO RUBIO DIT ESPÉRER L'ADOPTION D'UN \"PLAN D'ACTION\" SUR LA SÉCURITÉ AU LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:34",
+      "date": "03/06",
+      "timestamp": 1780511662
+    },
+    {
+      "id": "BFMTV_1780510784",
+      "source": "BFMTV",
+      "text": "UN HOMME EN FINLANDE INCULPÉ POUR VIOLENCES SEXUELLES SUR PLUS DE 360 ENFANTS, ÂGÉS DE 9 À 15 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:19",
+      "date": "03/06",
+      "timestamp": 1780510784
+    },
+    {
+      "id": "BFMTV_1780509940",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSISTERA AU PROCHAIN SOMMET DE L'OTAN EN TURQUIE, DIT MARCO RUBIO",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:05",
+      "date": "03/06",
+      "timestamp": 1780509940
+    },
+    {
+      "id": "OPEX360_1780507455",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT LANCE UN PARTENARIAT D’INNOVATION POUR DÉVELOPPER UN «PLANEUR RAVITAILLEUR LOGISTIQUE»",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:24",
+      "date": "03/06",
+      "timestamp": 1780507455
+    },
+    {
+      "id": "BFMTV_1780505056",
+      "source": "BFMTV",
+      "text": "TROIS MILITAIRES BRITANNIQUES MEURENT DANS UN CRASH D'HÉLICOPTÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:44",
+      "date": "03/06",
+      "timestamp": 1780505056
+    },
+    {
+      "id": "BFMTV_1780503224",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LIBÉRÉ POUR ALLER COMBATTRE, CE TUEUR EN SÉRIE RUSSE S’EST VOLATILISÉ ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:13",
+      "date": "03/06",
+      "timestamp": 1780503224
+    },
+    {
+      "id": "OPEX360_1780502895",
+      "source": "OPEX360",
+      "text": "LES ÉTATS-UNIS AUTORISENT LE VIETNAM À SE PROCURER DES PIÈCES DÉTACHÉES D’AVIONS DE TRANSPORT C-130 HERCULES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:08",
+      "date": "03/06",
+      "timestamp": 1780502895
+    },
     {
       "id": "BFMTV_1780499271",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "15:52",
       "date": "01/06",
       "timestamp": 1780329163
-    },
-    {
-      "id": "BFMTV_1780328903",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE APPELLE À L'ÉVACUATION DE LA BANLIEUE SUD DE BEYROUTH AU LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:48",
-      "date": "01/06",
-      "timestamp": 1780328903
-    },
-    {
-      "id": "BFMTV_1780328331",
-      "source": "BFMTV",
-      "text": "UN MÉDIA IRANIEN DIT QUE TÉHÉRAN A SUSPENDU LES NÉGOCIATIONS AVEC WASHINGTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:38",
-      "date": "01/06",
-      "timestamp": 1780328331
-    },
-    {
-      "id": "BFMTV_1780328182",
-      "source": "BFMTV",
-      "text": "LA JUSTICE ESPAGNOLE ABANDONNE L'UNE DES ACCUSATIONS VISANT LE FRÈRE DE PEDRO SÁNCHEZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:36",
-      "date": "01/06",
-      "timestamp": 1780328182
-    },
-    {
-      "id": "BFMTV_1780327163",
-      "source": "BFMTV",
-      "text": "PAYS-BAS: DES POLICIERS VIOLENTENT UNE FEMME ENCEINTE DANS UN CENTRE DE DEMANDEURS D'ASILE",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:19",
-      "date": "01/06",
-      "timestamp": 1780327163
-    },
-    {
-      "id": "BFMTV_1780325938",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: UN MÉDIA IRANIEN AFFIRME QUE TÉHÉRAN A SUSPENDU LES NÉGOCIATIONS AVEC WASHINGTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:58",
-      "date": "01/06",
-      "timestamp": 1780325938
-    },
-    {
-      "id": "BFMTV_1780325273",
-      "source": "BFMTV",
-      "text": "DEUX HOMMES TOUJOURS DISPARUS DANS UNE GROTTE INONDÉE AU LAOS, LES SAUVETEURS CHERCHENT UN NOUVEL ACCÈS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:47",
-      "date": "01/06",
-      "timestamp": 1780325273
-    },
-    {
-      "id": "BFMTV_1780324328",
-      "source": "BFMTV",
-      "text": "BLOCUS DU DÉTROIT D'ORMUZ: LE COURS DU PÉTROLE S'ENVOLE À NOUVEAU",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:32",
-      "date": "01/06",
-      "timestamp": 1780324328
-    },
-    {
-      "id": "OPEX360_1780323756",
-      "source": "OPEX360",
-      "text": "CAPACITÉS MILITAIRES : LE GÉNÉRAL MANDON ÉVOQUE LE RISQUE D’UN «DÉCROCHAGE» DE LA FRANCE PAR RAPPORT À L’ALLEMAGNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:22",
-      "date": "01/06",
-      "timestamp": 1780323756
-    },
-    {
-      "id": "BFMTV_1780322952",
-      "source": "BFMTV",
-      "text": "MALTE: UNE IMPRESSIONNANTE EXPLOSION DANS UNE USINE DE FEUX D'ARTIFICE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:09",
-      "date": "01/06",
-      "timestamp": 1780322952
     }
   ],
   "france": {
