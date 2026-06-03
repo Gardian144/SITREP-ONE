@@ -1,7 +1,37 @@
 {
-  "last_update": "03/06 00:16",
+  "last_update": "03/06 05:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780463862",
+      "source": "BFMTV",
+      "text": "DEUX VIROLOGUES INCULPÉS AUX ÉTATS-UNIS POUR AVOIR TENTÉ D'IMPORTER LE VIRUS MPOX D'AFRIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:17",
+      "date": "03/06",
+      "timestamp": 1780463862
+    },
+    {
+      "id": "BFMTV_1780463600",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE KOWEÏT AFFIRME AVOIR ÉTÉ UNE NOUVELLE FOIS VISÉ PAR DES ATTAQUES DE MISSILES ET DE DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:13",
+      "date": "03/06",
+      "timestamp": 1780463600
+    },
+    {
+      "id": "BFMTV_1780462937",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE DIT AVOIR REPOUSSÉ DES ATTAQUES DE MISSILES IRANIENS VISANT DES PAYS DU GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:02",
+      "date": "03/06",
+      "timestamp": 1780462937
+    },
     {
       "id": "BFMTV_1780439280",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "14:08",
       "date": "31/05",
       "timestamp": 1780236507
-    },
-    {
-      "id": "BFMTV_1780236159",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: PLUSIEURS VILLAGES DU SUD DU LIBAN TOUCHÉS PAR DES BOMBARDEMENTS ISRAÉLIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:02",
-      "date": "31/05",
-      "timestamp": 1780236159
-    },
-    {
-      "id": "BFMTV_1780235866",
-      "source": "BFMTV",
-      "text": "DANS LES LITS, LES FOURS, LES ÉCOLES, LES CHAMPS... L'OUEST DE L'AUSTRALIE EN PROIE À UNE COLOSSALE INVASION DE SOURIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:57",
-      "date": "31/05",
-      "timestamp": 1780235866
-    },
-    {
-      "id": "BFMTV_1780234047",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ANNONCE QUE SON OPÉRATION AU LIBAN EST \"EN TRAIN DE S'ÉTENDRE À D'AUTRES ZONES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:27",
-      "date": "31/05",
-      "timestamp": 1780234047
     }
   ],
   "france": {
