@@ -1,7 +1,167 @@
 {
-  "last_update": "03/06 10:19",
+  "last_update": "03/06 15:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780499271",
+      "source": "BFMTV",
+      "text": "DES MANIFESTANTS AFFRONTENT LA POLICE EN ANGLETERRE APRÈS LE MEURTRE D'UN ÉTUDIANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:07",
+      "date": "03/06",
+      "timestamp": 1780499271
+    },
+    {
+      "id": "BFMTV_1780498898",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU ASSURE QUE LUI ET DONALD TRUMP \"SONT D'ACCORD SUR LE PRINCIPAL\" CONCERNANT L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:01",
+      "date": "03/06",
+      "timestamp": 1780498898
+    },
+    {
+      "id": "BFMTV_1780497544",
+      "source": "BFMTV",
+      "text": "DES VICTIMES ÂGÉES DE 9 À 15 ANS: UN HOMME INCULPÉ EN FINLANDE POUR VIOLENCES SEXUELLES SUR PLUS DE 360 ENFANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:39",
+      "date": "03/06",
+      "timestamp": 1780497544
+    },
+    {
+      "id": "OPEX360_1780495610",
+      "source": "OPEX360",
+      "text": "UN HÉLICOPTÈRE MERLIN DE LA ROYAL NAVY S’EST ÉCRASÉ DANS LE SUD-EST DE L’ANGLETERRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:06",
+      "date": "03/06",
+      "timestamp": 1780495610
+    },
+    {
+      "id": "BFMTV_1780493983",
+      "source": "BFMTV",
+      "text": "AU MOINS TROIS MORTS APRÈS LE CRASH D'UN HÉLICOPTÈRE DE LA ROYAL NAVY DANS UN CHAMP AU ROYAUME-UNI",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:39",
+      "date": "03/06",
+      "timestamp": 1780493983
+    },
+    {
+      "id": "BFMTV_1780493863",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DES DÉGÂTS À L'AÉROPORT DU KOWEÏT CAUSÉS PAR UNE FRAPPE IRANIENNE MEURTRIÈRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:37",
+      "date": "03/06",
+      "timestamp": 1780493863
+    },
+    {
+      "id": "BFMTV_1780491509",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DES DÉGÂTS À L'AÉROPORT DU KOWEÏT APRÈS DES FRAPPES IRANIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:58",
+      "date": "03/06",
+      "timestamp": 1780491509
+    },
+    {
+      "id": "BFMTV_1780490813",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT QU'IL \"AIMERAIT\" RENCONTRER LE GUIDE SUPRÊME MOJTABA KHAMENEI, QU'IL JUGE RÉELLEMENT \"IMPLIQUÉ\" EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:46",
+      "date": "03/06",
+      "timestamp": 1780490813
+    },
+    {
+      "id": "BFMTV_1780489567",
+      "source": "BFMTV",
+      "text": "\"UN DIRIGEANT INTELLIGENT\": DONALD TRUMP ANNONCE SOUTENIR LE CANDIDAT DE LA DROITE DURE À LA PRÉSIDENTIELLE EN COLOMBIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:26",
+      "date": "03/06",
+      "timestamp": 1780489567
+    },
+    {
+      "id": "BFMTV_1780489340",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - GUERRE EN IRAN: LE RÉCIT D'UNE NUIT DE FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:22",
+      "date": "03/06",
+      "timestamp": 1780489340
+    },
+    {
+      "id": "BFMTV_1780486191",
+      "source": "BFMTV",
+      "text": "\"NOUS DEVONS CONTINUER À METTRE LA PRESSION SUR LA MACHINE DE GUERRE RUSSE\", AFFIRME EMMANUEL MACRON",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:29",
+      "date": "03/06",
+      "timestamp": 1780486191
+    },
+    {
+      "id": "OPEX360_1780484191",
+      "source": "OPEX360",
+      "text": "L’INDE A OFFICIELLEMENT TRANSMIS À LA FRANCE UNE LETTRE DE DEMANDE POUR SE PROCURER 114 RAFALE SUPPLÉMENTAIRES",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:56",
+      "date": "03/06",
+      "timestamp": 1780484191
+    },
+    {
+      "id": "BFMTV_1780483813",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS AFFIRMENT AVOIR MIS HORS SERVICE UN PÉTROLIER QUI TENTAIT DE VIOLER LEUR BLOCUS DES PORTS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:50",
+      "date": "03/06",
+      "timestamp": 1780483813
+    },
+    {
+      "id": "BFMTV_1780483412",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS AFFIRMENT AVOIR REPOUSSÉ PLUSIEURS ATTAQUES IRANIENNES DANS LA RÉGION DU GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:43",
+      "date": "03/06",
+      "timestamp": 1780483412
+    },
+    {
+      "id": "BFMTV_1780483335",
+      "source": "BFMTV",
+      "text": "ARBRES DÉRACINÉS, 370.000 HABITANTS ÉVACUÉS, ROUTES FERMÉES... LES IMAGES DE LA VIOLENTE TEMPÊTE TROPICALE QUI A FRAPPÉ L'EST DU JAPON",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:42",
+      "date": "03/06",
+      "timestamp": 1780483335
+    },
+    {
+      "id": "BFMTV_1780482231",
+      "source": "BFMTV",
+      "text": "JAPON: UN OURS BLESSE QUATRE PERSONNES À FUKUSHIMA AVANT D'ÊTRE CAPTURÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:23",
+      "date": "03/06",
+      "timestamp": 1780482231
+    },
     {
       "id": "BFMTV_1780481203",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "14:09",
       "date": "01/06",
       "timestamp": 1780322952
-    },
-    {
-      "id": "BFMTV_1780321826",
-      "source": "BFMTV",
-      "text": "LA PROCUREURE GÉNÉRALE D'ISRAËL ALERTE SUR UN \"DÉMANTÈLEMENT\" DES INSTITUTIONS DÉMOCRATIQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:50",
-      "date": "01/06",
-      "timestamp": 1780321826
-    },
-    {
-      "id": "BFMTV_1780321520",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: UN MÉDIA IRANIEN DIT QUE TÉHÉRAN A SUSPENDU LES NÉGOCIATIONS AVEC WASHINGTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:45",
-      "date": "01/06",
-      "timestamp": 1780321520
-    },
-    {
-      "id": "BFMTV_1780320766",
-      "source": "BFMTV",
-      "text": "AUX ÉTATS-UNIS, UN POLICIER LICENCIÉ APRÈS AVOIR VIOLEMMENT FRAPPÉ UNE FEMME NOIRE EN CAROLINE DU NORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:32",
-      "date": "01/06",
-      "timestamp": 1780320766
-    },
-    {
-      "id": "BFMTV_1780318357",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: PLUS DE 1.000 PERSONNES DÉGUISÉES EN MARILYN MONROE SE SONT RÉUNIES POUR SON CENTENAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:52",
-      "date": "01/06",
-      "timestamp": 1780318357
-    },
-    {
-      "id": "BFMTV_1780318315",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: TOUT ACCORD DOIT ÊTRE SUIVI DE DISCUSSIONS \"PLUS APPROFONDIES\" SUR LE NUCLÉAIRE IRANIEN, ESTIME KAJA KALLAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:51",
-      "date": "01/06",
-      "timestamp": 1780318315
-    },
-    {
-      "id": "BFMTV_1780318219",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - CE QUE L'ON SAIT DU PÉTROLIER EN PROVENANCE DE RUSSIE ARRAISONNÉ PAR LA MARINE FRANÇAISE",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:50",
-      "date": "01/06",
-      "timestamp": 1780318219
-    },
-    {
-      "id": "BFMTV_1780316687",
-      "source": "BFMTV",
-      "text": "SIX AGRESSIONS À L'ARME BLANCHE EN MARGE DE LA PARADE D'ARSENAL À LONDRES, UN HOMME HOSPITALISÉ DANS UN \"ÉTAT CRITIQUE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:24",
-      "date": "01/06",
-      "timestamp": 1780316687
-    },
-    {
-      "id": "BFMTV_1780315966",
-      "source": "BFMTV",
-      "text": "UN PÉTROLIER EN PROVENANCE DE RUSSIE ARRAISONNÉ PAR LA MARINE FRANÇAISE",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:12",
-      "date": "01/06",
-      "timestamp": 1780315966
-    },
-    {
-      "id": "OPEX360_1780310818",
-      "source": "OPEX360",
-      "text": "LA MARINE NATIONALE A ARRAISONNÉ UN QUATRIÈME PÉTROLIER LIÉ À LA «FLOTTE FANTÔME» RUSSE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:46",
-      "date": "01/06",
-      "timestamp": 1780310818
-    },
-    {
-      "id": "BFMTV_1780304958",
-      "source": "BFMTV",
-      "text": "CINQ MORTS ET 19 BLESSÉS EN INDONÉSIE APRÈS L'EXPLOSION D'UNE BOMBE DATANT PROBABLEMENT DE LA SECONDE GUERRE MONDIALE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:09",
-      "date": "01/06",
-      "timestamp": 1780304958
-    },
-    {
-      "id": "BFMTV_1780303618",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: EMMANUEL MACRON A ÉCHANGÉ AVEC DONALD TRUMP ET A SALUÉ SES \"EFFORTS DÉTERMINÉS\" POUR \"PARVENIR RAPIDEMENT\" À UN ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:46",
-      "date": "01/06",
-      "timestamp": 1780303618
-    },
-    {
-      "id": "BFMTV_1780303321",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN MORT ET 26 BLESSÉS DANS DES FRAPPES NOCTURNES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:42",
-      "date": "01/06",
-      "timestamp": 1780303321
-    },
-    {
-      "id": "BFMTV_1780302998",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL VA FRAPPER LA BANLIEUE SUD DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:36",
-      "date": "01/06",
-      "timestamp": 1780302998
-    },
-    {
-      "id": "BFMTV_1780296078",
-      "source": "BFMTV",
-      "text": "DÉBORDEMENTS APRÈS LE SACRE DU PSG: \"NOUS SOMMES EN TRAIN DE PERDRE LA MAIN SUR NOTRE PROPRE TERRITOIRE\", ASSURE JORDAN BARDELLA",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:41",
-      "date": "01/06",
-      "timestamp": 1780296078
-    },
-    {
-      "id": "BFMTV_1780295068",
-      "source": "BFMTV",
-      "text": "MANIFESTATIONS EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:24",
-      "date": "01/06",
-      "timestamp": 1780295068
-    },
-    {
-      "id": "BFMTV_1780295067",
-      "source": "BFMTV",
-      "text": "L'IRAN EXÉCUTE DEUX HOMMES ACCUSÉS D'ÊTRE RESPONSABLES DE LA \"DESTRUCTION\" D'UNE MOSQUÉE LORS DES MANIFESTATIONS DE JANVIER",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:24",
-      "date": "01/06",
-      "timestamp": 1780295067
     }
   ],
   "france": {
