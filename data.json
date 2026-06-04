@@ -1,7 +1,127 @@
 {
-  "last_update": "04/06 14:59",
+  "last_update": "04/06 17:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780594462",
+      "source": "BFMTV",
+      "text": "\"NOUS AVONS TOUJOURS COOPÉRÉ\": VLADIMIR POUTINE SE FÉLICITE DE L'ALLIANCE RUSSO-CHINOISE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:34",
+      "date": "04/06",
+      "timestamp": 1780594462
+    },
+    {
+      "id": "BFMTV_1780592802",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN ADOLESCENT ATTEINT DE TRISOMIE 21 REÇOIT PLUS DE 1.000 CARTES D'ANNIVERSAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:06",
+      "date": "04/06",
+      "timestamp": 1780592802
+    },
+    {
+      "id": "OPEX360_1780592526",
+      "source": "OPEX360",
+      "text": "LES DÉPUTÉS SUISSES VEULENT UNE ÉTUDE SUR UNE ÉVENTUELLE PROLONGATION DES F/A-18 HORNET AU-DELÀ DE 2030",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:02",
+      "date": "04/06",
+      "timestamp": 1780592526
+    },
+    {
+      "id": "BFMTV_1780588684",
+      "source": "BFMTV",
+      "text": "\"LEUR INVESTISSEMENT EST DÉTERMINANT\": L'AVIS D'UN MILITAIRE FRANÇAIS SUR LE BUDGET DÉFENSE DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:58",
+      "date": "04/06",
+      "timestamp": 1780588684
+    },
+    {
+      "id": "BFMTV_1780588275",
+      "source": "BFMTV",
+      "text": "UN GUIDE NÉPALAIS PORTÉ DISPARU SUR LES PENTES DE L'EVEREST RETROUVÉ VIVANT SIX JOURS APRÈS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:51",
+      "date": "04/06",
+      "timestamp": 1780588275
+    },
+    {
+      "id": "BFMTV_1780588190",
+      "source": "BFMTV",
+      "text": "\"LES AMÉRICAINS CONNAISSENT TRÈS BIEN LEUR HISTOIRE\": LES ÉTATS-UNIS ACCUEILLENT LA PATROUILLE DE FRANCE POUR LES 250 ANS DE L'INDÉPENDANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:49",
+      "date": "04/06",
+      "timestamp": 1780588190
+    },
+    {
+      "id": "OPEX360_1780588115",
+      "source": "OPEX360",
+      "text": "LA SUÈDE VA LOUER LE SOUS-MARIN HSWMS SÖDERMANLAND À LA POLOGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:48",
+      "date": "04/06",
+      "timestamp": 1780588115
+    },
+    {
+      "id": "BFMTV_1780587993",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UNE AGRESSION ANTISÉMITE FILMÉE DANS LE MÉTRO NEW-YORKAIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:46",
+      "date": "04/06",
+      "timestamp": 1780587993
+    },
+    {
+      "id": "BFMTV_1780587911",
+      "source": "BFMTV",
+      "text": "\"ÇA SE PRÉPARE TRÈS EN AMONT\": LE DÉFI DE LA PATROUILLE DE FRANCE POUR SA TOURNÉE AMÉRICAINE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:45",
+      "date": "04/06",
+      "timestamp": 1780587911
+    },
+    {
+      "id": "BFMTV_1780587379",
+      "source": "BFMTV",
+      "text": "INFO BFMTV. MISSION FRANCO-BRITANNIQUE DE DÉMINAGE DANS LE DÉTROIT D'ORMUZ: LE COMMANDANT OPÉRATIONNEL SERA FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:36",
+      "date": "04/06",
+      "timestamp": 1780587379
+    },
+    {
+      "id": "BFMTV_1780587253",
+      "source": "BFMTV",
+      "text": "PROCESSUS D'ADHÉSION À L'UE: EMMANUEL MACRON \"CONFIANT\" SUR L'AVENIR EUROPÉEN DU MONTÉNÉGRO",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:34",
+      "date": "04/06",
+      "timestamp": 1780587253
+    },
+    {
+      "id": "BFMTV_1780587150",
+      "source": "BFMTV",
+      "text": "AU MOINS QUATRE MORTS DANS DES FRAPPES UKRAINIENNES EN CRIMÉE ANNEXÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:32",
+      "date": "04/06",
+      "timestamp": 1780587150
+    },
     {
       "id": "BFMTV_1780584357",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "06:24",
       "date": "03/06",
       "timestamp": 1780467868
-    },
-    {
-      "id": "BFMTV_1780466128",
-      "source": "BFMTV",
-      "text": "UNE FRAPPE DE DRONE UKRAINIEN SUR UN BUS FAIT SEPT MORTS ET 11 BLESSÉS EN CRIMÉE, TERRITOIRE ANNEXÉE PAR LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:55",
-      "date": "03/06",
-      "timestamp": 1780466128
-    },
-    {
-      "id": "BFMTV_1780463862",
-      "source": "BFMTV",
-      "text": "DEUX VIROLOGUES INCULPÉS AUX ÉTATS-UNIS POUR AVOIR TENTÉ D'IMPORTER LE VIRUS MPOX D'AFRIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:17",
-      "date": "03/06",
-      "timestamp": 1780463862
-    },
-    {
-      "id": "BFMTV_1780463600",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE KOWEÏT AFFIRME AVOIR ÉTÉ UNE NOUVELLE FOIS VISÉ PAR DES ATTAQUES DE MISSILES ET DE DRONES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:13",
-      "date": "03/06",
-      "timestamp": 1780463600
-    },
-    {
-      "id": "BFMTV_1780462937",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE DIT AVOIR REPOUSSÉ DES ATTAQUES DE MISSILES IRANIENS VISANT DES PAYS DU GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:02",
-      "date": "03/06",
-      "timestamp": 1780462937
-    },
-    {
-      "id": "BFMTV_1780439280",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS PENSENT QUE MOJTABA KHAMENEI EST \"VIVANT\" ET \"DE PLUS EN PLUS IMPLIQUÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:28",
-      "date": "02/06",
-      "timestamp": 1780439280
-    },
-    {
-      "id": "BFMTV_1780427663",
-      "source": "BFMTV",
-      "text": "\"UNE PERSONNE TRÈS MÉTICULEUSE\": POURQUOI DONALD TRUMP SUBIT AUTANT D'EXAMENS MÉDICAUX ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:14",
-      "date": "02/06",
-      "timestamp": 1780427663
-    },
-    {
-      "id": "BFMTV_1780426782",
-      "source": "BFMTV",
-      "text": "\"JE TIENS À VOUS FÉLICITER\": LE PRÉSIDENT RWANDAIS SALUE LE \"COURAGE\" ET \"L'HUMANITÉ\" D'EMMANUEL MACRON SUR LA MÉMOIRE DU GÉNOCIDE DES TUTSIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:59",
-      "date": "02/06",
-      "timestamp": 1780426782
-    },
-    {
-      "id": "BFMTV_1780426570",
-      "source": "BFMTV",
-      "text": "MISSILES: QUAND LA CHINE ARME SECRÈTEMENT L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:56",
-      "date": "02/06",
-      "timestamp": 1780426570
-    },
-    {
-      "id": "BFMTV_1780425644",
-      "source": "BFMTV",
-      "text": "UN MÉMORIAL EN HOMMAGE AUX VICTIMES DU GÉNOCIDE DES TUTSIS AU RWANDA INAUGURÉ À PARIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:40",
-      "date": "02/06",
-      "timestamp": 1780425644
-    },
-    {
-      "id": "BFMTV_1780421923",
-      "source": "BFMTV",
-      "text": "UNE BÂCHE DE SOUTIEN AU JOURNALISTE CHRISTOPHE GLEIZES, DÉTENU EN ALGÉRIE, DÉVOILÉE À MARSEILLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:38",
-      "date": "02/06",
-      "timestamp": 1780421923
-    },
-    {
-      "id": "BFMTV_1780421902",
-      "source": "BFMTV",
-      "text": "RICHARD GERE S'EN PREND À DONALD TRUMP, QU'IL QUALIFIE DE \"MANIAQUE\" QUI DÉTRUIT \"TOUT CE QU'IL Y A DE BON\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:38",
-      "date": "02/06",
-      "timestamp": 1780421902
-    },
-    {
-      "id": "OPEX360_1780421378",
-      "source": "OPEX360",
-      "text": "L’ESPAGNE VA ACQUÉRIR CINQ CHASSEURS-BOMBARDIERS AV-8B HARRIER II AUPRÈS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:29",
-      "date": "02/06",
-      "timestamp": 1780421378
     }
   ],
   "france": {
