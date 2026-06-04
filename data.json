@@ -1,7 +1,57 @@
 {
-  "last_update": "04/06 20:08",
+  "last_update": "04/06 21:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780606933",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:02",
+      "date": "04/06",
+      "timestamp": 1780606933
+    },
+    {
+      "id": "BFMTV_1780606932",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY PROPOSE À VLADIMIR POUTINE UNE RENCONTRE EN TÊTE-À-TÊTE, LE KREMLIN ASSURE QU'IL PEUT VENIR \"À TOUT MOMENT\" À MOSCOU",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:02",
+      "date": "04/06",
+      "timestamp": 1780606932
+    },
+    {
+      "id": "BFMTV_1780606121",
+      "source": "BFMTV",
+      "text": "BARACK OBAMA",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:48",
+      "date": "04/06",
+      "timestamp": 1780606121
+    },
+    {
+      "id": "BFMTV_1780606120",
+      "source": "BFMTV",
+      "text": "BARACK OBAMA S'OFFRE, À SON TOUR, UN MONUMENT À SA GLOIRE À CHICAGO",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:48",
+      "date": "04/06",
+      "timestamp": 1780606120
+    },
+    {
+      "id": "BFMTV_1780604584",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES TOUT À FAIT PRÊTS\": VLADIMIR POUTINE \"DISPOSÉ\" À DES COMPROMIS POUR LA PAIX EN UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:23",
+      "date": "04/06",
+      "timestamp": 1780604584
+    },
     {
       "id": "BFMTV_1780602050",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "10:43",
       "date": "03/06",
       "timestamp": 1780483412
-    },
-    {
-      "id": "BFMTV_1780483335",
-      "source": "BFMTV",
-      "text": "ARBRES DÉRACINÉS, 370.000 HABITANTS ÉVACUÉS, ROUTES FERMÉES... LES IMAGES DE LA VIOLENTE TEMPÊTE TROPICALE QUI A FRAPPÉ L'EST DU JAPON",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:42",
-      "date": "03/06",
-      "timestamp": 1780483335
-    },
-    {
-      "id": "BFMTV_1780482231",
-      "source": "BFMTV",
-      "text": "JAPON: UN OURS BLESSE QUATRE PERSONNES À FUKUSHIMA AVANT D'ÊTRE CAPTURÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:23",
-      "date": "03/06",
-      "timestamp": 1780482231
-    },
-    {
-      "id": "BFMTV_1780481203",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN PROMET \"UN DÉLUGE DE MISSILES ET DRONES\" EN CAS DE NOUVELLE AGRESSION AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:06",
-      "date": "03/06",
-      "timestamp": 1780481203
-    },
-    {
-      "id": "BFMTV_1780481171",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN MORT ET PLUSIEURS BLESSÉS DANS L'ATTAQUE SUR L'AÉROPORT DU KOWEÏT",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:06",
-      "date": "03/06",
-      "timestamp": 1780481171
-    },
-    {
-      "id": "BFMTV_1780480498",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES ALERTES AÉRIENNES DANS LE NORD D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:54",
-      "date": "03/06",
-      "timestamp": 1780480498
     }
   ],
   "france": {
