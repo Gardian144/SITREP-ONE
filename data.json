@@ -1,7 +1,27 @@
 {
-  "last_update": "04/06 21:53",
+  "last_update": "04/06 23:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780611573",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON ASSURE QUE LA FRANCE SOUTIENT LE CESSEZ-LE-FEU AU LIBAN ET SE \"TIENT À DISPOSITION\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "22:19",
+      "date": "04/06",
+      "timestamp": 1780611573
+    },
+    {
+      "id": "BFMTV_1780610697",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DÉBLOQUE 700 MILLIONS DE DOLLARS POUR L'INDUSTRIE DU CHARBON",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:04",
+      "date": "04/06",
+      "timestamp": 1780610697
+    },
     {
       "id": "BFMTV_1780606933",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:56",
       "date": "03/06",
       "timestamp": 1780484191
-    },
-    {
-      "id": "BFMTV_1780483813",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS AFFIRMENT AVOIR MIS HORS SERVICE UN PÉTROLIER QUI TENTAIT DE VIOLER LEUR BLOCUS DES PORTS IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:50",
-      "date": "03/06",
-      "timestamp": 1780483813
-    },
-    {
-      "id": "BFMTV_1780483412",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS AFFIRMENT AVOIR REPOUSSÉ PLUSIEURS ATTAQUES IRANIENNES DANS LA RÉGION DU GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:43",
-      "date": "03/06",
-      "timestamp": 1780483412
     }
   ],
   "france": {
