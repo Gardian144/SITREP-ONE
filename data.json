@@ -1,7 +1,27 @@
 {
-  "last_update": "03/06 22:04",
+  "last_update": "04/06 00:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780525712",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU ESTIME QUE L'IRAN \"JOUE AVEC LE FEU\" APRÈS L'ATTAQUE CONTRE LE KOWEÏT",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:28",
+      "date": "03/06",
+      "timestamp": 1780525712
+    },
+    {
+      "id": "BFMTV_1780525283",
+      "source": "BFMTV",
+      "text": "\"UN MESSAGE FORT\": LES DÉPUTÉS AMÉRICAINS APPROUVENT UN TEXTE ORDONNANT LA FIN DE LA GUERRE CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:21",
+      "date": "03/06",
+      "timestamp": 1780525283
+    },
     {
       "id": "BFMTV_1780523970",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "21:19",
       "date": "01/06",
       "timestamp": 1780348769
-    },
-    {
-      "id": "BFMTV_1780340196",
-      "source": "BFMTV",
-      "text": "LIBAN: LES IMAGES DE LA FORTERESSE DE BEAUFORT PRISE D'ASSAUT PAR L'ARMÉE ISRAÉLIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:56",
-      "date": "01/06",
-      "timestamp": 1780340196
-    },
-    {
-      "id": "BFMTV_1780339566",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:46",
-      "date": "01/06",
-      "timestamp": 1780339566
     }
   ],
   "france": {
