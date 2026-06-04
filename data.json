@@ -1,7 +1,147 @@
 {
-  "last_update": "04/06 08:56",
+  "last_update": "04/06 11:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780572445",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION EXIGENT LE RETRAIT D'ISRAËL DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:27",
+      "date": "04/06",
+      "timestamp": 1780572445
+    },
+    {
+      "id": "BFMTV_1780572408",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN SITE AMÉRICAIN DE L’IMMIGRATION COMPARE LES ÉTRANGERS À DES EXTRATERRESTRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:26",
+      "date": "04/06",
+      "timestamp": 1780572408
+    },
+    {
+      "id": "BFMTV_1780571448",
+      "source": "BFMTV",
+      "text": "POURQUOI LE DÉSARMEMENT DU HEZBOLLAH DIVISE LE LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:10",
+      "date": "04/06",
+      "timestamp": 1780571448
+    },
+    {
+      "id": "BFMTV_1780569725",
+      "source": "BFMTV",
+      "text": "DES FOOTBALLEUSES NORD-CORÉENNES, VAINQUEURES DE LA LIGUE DES CHAMPIONS FÉMININE ASIATIQUE, FONDENT EN LARMES DEVANT KIM JONG-UN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:42",
+      "date": "04/06",
+      "timestamp": 1780569725
+    },
+    {
+      "id": "BFMTV_1780569363",
+      "source": "BFMTV",
+      "text": "\"LE BREXIT A DÉCOMPLEXÉ LA PAROLE D'EXTRÊME-DROITE\": POURQUOI LES ÉMEUTES ET MANIFESTATIONS ANTI-IMMIGRATION SE RÉPÈTENT PLUS EN ANGLETERRE QUE CHEZ LEURS VOISINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:36",
+      "date": "04/06",
+      "timestamp": 1780569363
+    },
+    {
+      "id": "OPEX360_1780568857",
+      "source": "OPEX360",
+      "text": "LE CANADA CONFIRME LA COMMANDE DE 26 LANCE-ROQUETTES MULTIPLES AMÉRICAINS HIMARS POUR 1,9 MILLIARD DE DOLLARS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:27",
+      "date": "04/06",
+      "timestamp": 1780568857
+    },
+    {
+      "id": "BFMTV_1780568000",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE GUIDE SUPRÊME MOJTABA KHAMENEI ACCUSE LES ÉTATS-UNIS DE CHERCHER À \"DIVISER\" LA NATION IRANIENNE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:13",
+      "date": "04/06",
+      "timestamp": 1780568000
+    },
+    {
+      "id": "BFMTV_1780566984",
+      "source": "BFMTV",
+      "text": "MORT DE MARJANE SATRAPI: EMMANUEL ET BRIGITTE MACRON SALUENT \"UNE IMMENSE ARTISTE QUI AVAIT TRANSFORMÉ UNE ENFANCE IRANIENNE EN FABLE UNIVERSELLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:56",
+      "date": "04/06",
+      "timestamp": 1780566984
+    },
+    {
+      "id": "BFMTV_1780566841",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN CASQUE BLEU TUÉ ET DEUX AUTRES BLESSÉS DANS LE SUD DU LIBAN APRÈS UNE FRAPPE SUR UNE BASE DE L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:54",
+      "date": "04/06",
+      "timestamp": 1780566841
+    },
+    {
+      "id": "BFMTV_1780566737",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DIT QU'IL \"AIMERAIT\" RENCONTRER LE GUIDE SUPRÊME IRANIEN MOJTABA KHAMENEI",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:52",
+      "date": "04/06",
+      "timestamp": 1780566737
+    },
+    {
+      "id": "BFMTV_1780565677",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL CONTINUE SES FRAPPES AU LIBAN MALGRÉ L'ANNONCE D'UN CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:34",
+      "date": "04/06",
+      "timestamp": 1780565677
+    },
+    {
+      "id": "BFMTV_1780564379",
+      "source": "BFMTV",
+      "text": "\"UNE DÉFAITE AMÈRE\": L'ALLEMAGNE ÉCHOUE À SE FAIRE ÉLIRE AU CONSEIL DE SÉCURITÉ DE L'ONU, UNE PREMIÈRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:12",
+      "date": "04/06",
+      "timestamp": 1780564379
+    },
+    {
+      "id": "BFMTV_1780563756",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ET LE LIBAN CONDITIONNENT LE CESSEZ-LE-FEU À UN \"ARRÊT COMPLET\" DES TIRS DU HEZBOLLAH ET À LA CRÉATION DE \"ZONES PILOTES\" SOUS CONTRÔLE DE L'ARMÉE LIBANAISE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:02",
+      "date": "04/06",
+      "timestamp": 1780563756
+    },
+    {
+      "id": "BFMTV_1780563391",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN CASQUE BLEU TUÉ DANS LE SUD-EST DU LIBAN, TOUCHÉ PAR \"DES OBUS DE MORTIER\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:56",
+      "date": "04/06",
+      "timestamp": 1780563391
+    },
     {
       "id": "BFMTV_1780563228",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "12:39",
       "date": "02/06",
       "timestamp": 1780403968
-    },
-    {
-      "id": "BFMTV_1780403594",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT URUGUAYEN S'EXCUSE APRÈS AVOIR ÉTÉ AU COEUR D'UNE POLÉMIQUE POUR L'ACHAT D'UN VEHICULE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:33",
-      "date": "02/06",
-      "timestamp": 1780403594
-    },
-    {
-      "id": "BFMTV_1780403480",
-      "source": "BFMTV",
-      "text": "\"TU ES COMPLÈTEMENT FOU\" : DONALD TRUMP MET LA PRESSION SUR BENJAMIN NETANYAHU POUR ACCÉLÉRER LES NÉGOCIATIONS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:31",
-      "date": "02/06",
-      "timestamp": 1780403480
-    },
-    {
-      "id": "BFMTV_1780403307",
-      "source": "BFMTV",
-      "text": "DISPARITION DE SCIENTIFIQUES AMÉRICAINS: LES \"RESTES\" D'UNE EMPLOYÉE DE LABORATOIRE DÉCOUVERTS DANS UNE FORÊT",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:28",
-      "date": "02/06",
-      "timestamp": 1780403307
-    },
-    {
-      "id": "BFMTV_1780402400",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: POURQUOI L'IRAN NE SOUHAITE PAS LÂCHER SON CONTRÔLE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:13",
-      "date": "02/06",
-      "timestamp": 1780402400
-    },
-    {
-      "id": "BFMTV_1780399892",
-      "source": "BFMTV",
-      "text": "TAÏWAN SUSPEND SES VOLS D'ENTRAINEMENT APRÈS LA MORT DE DEUX PILOTES LORS D'UN EXERCICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:31",
-      "date": "02/06",
-      "timestamp": 1780399892
-    },
-    {
-      "id": "OPEX360_1780398317",
-      "source": "OPEX360",
-      "text": "LES ÉTATS-UNIS ENVISAGENT D’AUGMENTER LE NOMBRE DE LEURS ARMES NUCLÉAIRES MISES À LA DISPOSITION DE L’OTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:05",
-      "date": "02/06",
-      "timestamp": 1780398317
-    },
-    {
-      "id": "BFMTV_1780397443",
-      "source": "BFMTV",
-      "text": "UN AVION DOIT FAIRE DEMI-TOUR À CAUSE D’UN PASSAGER AYANT APPELÉ SON ENCEINTE BLUETOOTH “BOMBE”",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:50",
-      "date": "02/06",
-      "timestamp": 1780397443
-    },
-    {
-      "id": "BFMTV_1780395122",
-      "source": "BFMTV",
-      "text": "\"UNE PHOTO CULTE\": UNE GRAND-MÈRE AVEC SON DÉAMBULATEUR FLASHÉE PAR UN RADAR À 42KM/H EN ALLEMAGNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:12",
-      "date": "02/06",
-      "timestamp": 1780395122
-    },
-    {
-      "id": "BFMTV_1780392505",
-      "source": "BFMTV",
-      "text": "PORTUGAL: UN CYCLISTE S'EN PREND VIOLEMMENT À UNE AUTOMOBILISTE SUITE À UN DIFFÉREND ROUTIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:28",
-      "date": "02/06",
-      "timestamp": 1780392505
-    },
-    {
-      "id": "BFMTV_1780392423",
-      "source": "BFMTV",
-      "text": "TRAFIC DE DROGUE: UN TUNNEL SOUTERRAIN DÉCOUVERT ENTRE LE MEXIQUE ET LES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:27",
-      "date": "02/06",
-      "timestamp": 1780392423
-    },
-    {
-      "id": "BFMTV_1780390440",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BFMTV SUR LE LIEU D'UN RAID AÉRIEN ISRAÉLIEN À TYR  ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:54",
-      "date": "02/06",
-      "timestamp": 1780390440
-    },
-    {
-      "id": "BFMTV_1780388606",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UN RESPONSABLE MILITAIRE IRANIEN JUGE \"INÉVITABLE\" UNE REPRISE DE LA GUERRE CONTRE LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:23",
-      "date": "02/06",
-      "timestamp": 1780388606
-    },
-    {
-      "id": "BFMTV_1780388158",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT ESTIME QU'UN \"ACCORD EST À PORTÉE DE MAIN\" ET APPELLE LES ÉTATS-UNIS ET L'IRAN À \"TOUT FAIRE POUR LE CONCLURE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:15",
-      "date": "02/06",
-      "timestamp": 1780388158
-    },
-    {
-      "id": "BFMTV_1780383963",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UNE IMPORTANTE ATTAQUE RUSSE FAIT NEUF MORTS ET DES DIZAINES DE BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:06",
-      "date": "02/06",
-      "timestamp": 1780383963
     }
   ],
   "france": {
