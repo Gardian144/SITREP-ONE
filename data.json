@@ -1,7 +1,27 @@
 {
-  "last_update": "05/06 19:11",
+  "last_update": "05/06 20:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780692640",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES AUTORITÉS LIBANAISES FONT ÉTAT DE CINQ MORTS DANS UNE FRAPPE ISRAÉLIENNE SUR LE SUD DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:50",
+      "date": "05/06",
+      "timestamp": 1780692640
+    },
+    {
+      "id": "BFMTV_1780690355",
+      "source": "BFMTV",
+      "text": "\"DES ACCUSATIONS SANS FONDEMENT\": LE QUAI D'ORSAY DÉNONCE LA CONDAMNATION D'UN AGENT DIPLOMATIQUE FRANÇAIS AU MALI",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:12",
+      "date": "05/06",
+      "timestamp": 1780690355
+    },
     {
       "id": "OPEX360_1780681392",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "09:34",
       "date": "04/06",
       "timestamp": 1780565677
-    },
-    {
-      "id": "BFMTV_1780564379",
-      "source": "BFMTV",
-      "text": "\"UNE DÉFAITE AMÈRE\": L'ALLEMAGNE ÉCHOUE À SE FAIRE ÉLIRE AU CONSEIL DE SÉCURITÉ DE L'ONU, UNE PREMIÈRE",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:12",
-      "date": "04/06",
-      "timestamp": 1780564379
-    },
-    {
-      "id": "BFMTV_1780563756",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ET LE LIBAN CONDITIONNENT LE CESSEZ-LE-FEU À UN \"ARRÊT COMPLET\" DES TIRS DU HEZBOLLAH ET À LA CRÉATION DE \"ZONES PILOTES\" SOUS CONTRÔLE DE L'ARMÉE LIBANAISE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:02",
-      "date": "04/06",
-      "timestamp": 1780563756
     }
   ],
   "france": {
