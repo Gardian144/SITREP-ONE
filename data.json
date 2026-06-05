@@ -1,7 +1,107 @@
 {
-  "last_update": "05/06 11:50",
+  "last_update": "05/06 14:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780670654",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT LIBANAIS SOMME L'IRAN DE NE PLUS \"INTERVENIR AU LIBAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:44",
+      "date": "05/06",
+      "timestamp": 1780670654
+    },
+    {
+      "id": "BFMTV_1780669035",
+      "source": "BFMTV",
+      "text": "AUX ÉTATS-UNIS, DES VOLEURS DÉROBENT PLUS DE 40.000 DOLLARS DE CARTES POKÉMON",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:17",
+      "date": "05/06",
+      "timestamp": 1780669035
+    },
+    {
+      "id": "BFMTV_1780668888",
+      "source": "BFMTV",
+      "text": "PROJET DE JARED KUSHNER EN ALBANIE: \"IL N'Y A PAS DE RAISON DE S'INQUIÉTER\", ASSURE LE PREMIER MINISTRE ALBANAIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:14",
+      "date": "05/06",
+      "timestamp": 1780668888
+    },
+    {
+      "id": "BFMTV_1780668764",
+      "source": "BFMTV",
+      "text": "LA NASA ORDONNE AUX ASTRONAUTES À BORD DE LA STATION SPATIALE INTERNATIONALE DE SE PRÉPARER POUR UNE POTENTIELLE ÉVACUATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:12",
+      "date": "05/06",
+      "timestamp": 1780668764
+    },
+    {
+      "id": "BFMTV_1780667862",
+      "source": "BFMTV",
+      "text": "UN DRONE EXPLOSE EN ROUMANIE, L'UKRAINE ADMET QUE L'APPAREIL EST LE SIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:57",
+      "date": "05/06",
+      "timestamp": 1780667862
+    },
+    {
+      "id": "BFMTV_1780666337",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:32",
+      "date": "05/06",
+      "timestamp": 1780666337
+    },
+    {
+      "id": "BFMTV_1780666336",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY ATTENDU AU ROYAUME-UNI DIMANCHE, EN PRÉSENCE D'EMMANUEL MACRON, POUR ÉVOQUER \"DE POTENTIELLES NÉGOCIATIONS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:32",
+      "date": "05/06",
+      "timestamp": 1780666336
+    },
+    {
+      "id": "BFMTV_1780665695",
+      "source": "BFMTV",
+      "text": "PETE HEGSETH ARRIVE EN FRANCE POUR LE 82E ANNIVERSAIRE DU DÉBARQUEMENT",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:21",
+      "date": "05/06",
+      "timestamp": 1780665695
+    },
+    {
+      "id": "BFMTV_1780664631",
+      "source": "BFMTV",
+      "text": "LA RUSSIE POURRAIT ATTAQUER L'OTAN \"DÈS 2030\", AFFIRME LE PREMIER MINISTRE BRITANNIQUE KEIR STARMER",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:03",
+      "date": "05/06",
+      "timestamp": 1780664631
+    },
+    {
+      "id": "BFMTV_1780663214",
+      "source": "BFMTV",
+      "text": "AUSTRALIE: PLUS DE 100.000 CAFARDS ILLÉGAUX SAISIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:40",
+      "date": "05/06",
+      "timestamp": 1780663214
+    },
     {
       "id": "BFMTV_1780660055",
       "source": "BFMTV",
@@ -76,6 +176,16 @@
       "id": "OPEX360_1780655915",
       "source": "OPEX360",
       "text": "LE MINISTÈRE DES ARMÉES SALUE LE SUCCÈS DU TIR D’UN MISSILE MICA/IR NG PAR UN RAFALE EN VOL HYPERSONIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:38",
+      "date": "05/06",
+      "timestamp": 1780655915
+    },
+    {
+      "id": "OPEX360_1780655915",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES SALUE LE SUCCÈS DU TIR D’UN MISSILE MICA/IR NG PAR UN RAFALE EN VOL SUPERSONIQUE",
       "urgent": true,
       "france_related": false,
       "time": "10:38",
@@ -891,116 +1001,6 @@
       "time": "04:42",
       "date": "04/06",
       "timestamp": 1780548164
-    },
-    {
-      "id": "BFMTV_1780547690",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES DÉPUTÉS AMÉRICAINS APPROUVENT UN TEXTE ORDONNANT LA FIN DE LA GUERRE CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:34",
-      "date": "04/06",
-      "timestamp": 1780547690
-    },
-    {
-      "id": "BFMTV_1780547657",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"AUCUN PROGRÈS TANGIBLE\" DANS LES NÉGOCIATIONS AVEC LES ÉTATS-UNIS, SELON TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:34",
-      "date": "04/06",
-      "timestamp": 1780547657
-    },
-    {
-      "id": "BFMTV_1780545180",
-      "source": "BFMTV",
-      "text": "CARTE. PALAIS DE GOLESTAN, VILLE ANTIQUE DE TYR, FORTERESSE DE BEAUFORT... CES SITES DU PATRIMOINE MONDIAL ENDOMMAGÉS PAR LA GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:53",
-      "date": "04/06",
-      "timestamp": 1780545180
-    },
-    {
-      "id": "BFMTV_1780525712",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU ESTIME QUE L'IRAN \"JOUE AVEC LE FEU\" APRÈS L'ATTAQUE CONTRE LE KOWEÏT",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:28",
-      "date": "03/06",
-      "timestamp": 1780525712
-    },
-    {
-      "id": "BFMTV_1780525283",
-      "source": "BFMTV",
-      "text": "\"UN MESSAGE FORT\": LES DÉPUTÉS AMÉRICAINS APPROUVENT UN TEXTE ORDONNANT LA FIN DE LA GUERRE CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:21",
-      "date": "03/06",
-      "timestamp": 1780525283
-    },
-    {
-      "id": "BFMTV_1780523970",
-      "source": "BFMTV",
-      "text": "IRAN: LES DÉPUTÉS AMÉRICAINS ONT VOTÉ UN TEXTE ORDONNANT LA FIN DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:59",
-      "date": "03/06",
-      "timestamp": 1780523970
-    },
-    {
-      "id": "BFMTV_1780523389",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE LES NÉGOCIATIONS AVEC L'IRAN POURRAIENT ABOUTIR \"CE WEEK-END\" ET VEUT LES \"SÉPARER\" DE CELLES SUR LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:49",
-      "date": "03/06",
-      "timestamp": 1780523389
-    },
-    {
-      "id": "BFMTV_1780521031",
-      "source": "BFMTV",
-      "text": "\"JE NE VOIS PAS UN SOURIRE\": DONALD TRUMP ATTAQUE UNE JOURNALISTE DE CNN POUR NE PAS SOURIRE DAVANTAGE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:10",
-      "date": "03/06",
-      "timestamp": 1780521031
-    },
-    {
-      "id": "BFMTV_1780520980",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"J'AIMERAIS RENCONTRER MOJTABA KHAMENEI\", ASSURE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:09",
-      "date": "03/06",
-      "timestamp": 1780520980
-    },
-    {
-      "id": "BFMTV_1780520874",
-      "source": "BFMTV",
-      "text": "\"JE VOUDRAIS LES SÉPARER\": DONALD TRUMP VEUT \"SÉPARER\" LES DISCUSSIONS SUR LE LIBAN DE CELLES SUR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:07",
-      "date": "03/06",
-      "timestamp": 1780520874
-    },
-    {
-      "id": "BFMTV_1780520814",
-      "source": "BFMTV",
-      "text": "\"CELA POURRAIT ARRIVER PENDANT LE WEEK-END\": DONALD TRUMP DIT QUE LES DISCUSSIONS AVEC L'IRAN POURRAIENT ABOUTIR TRÈS BIENTÔT",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:06",
-      "date": "03/06",
-      "timestamp": 1780520814
     }
   ],
   "france": {
