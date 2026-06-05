@@ -1,7 +1,17 @@
 {
-  "last_update": "05/06 22:16",
+  "last_update": "05/06 23:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780698492",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES AUTORITÉS LIBANAISES FONT ÉTAT DE CINQ MORTS DANS UNE FRAPPE ISRAÉLIENNE SUR LE SUD DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:28",
+      "date": "05/06",
+      "timestamp": 1780698492
+    },
     {
       "id": "BFMTV_1780692640",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:52",
       "date": "04/06",
       "timestamp": 1780566737
-    },
-    {
-      "id": "BFMTV_1780565677",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL CONTINUE SES FRAPPES AU LIBAN MALGRÉ L'ANNONCE D'UN CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:34",
-      "date": "04/06",
-      "timestamp": 1780565677
     }
   ],
   "france": {
