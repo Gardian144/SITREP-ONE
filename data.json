@@ -1,7 +1,37 @@
 {
-  "last_update": "05/06 00:20",
+  "last_update": "05/06 04:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780635062",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP FUSTIGE LE VOTE \"ANTIPATRIOTIQUE\" AU CONGRÈS VISANT À METTRE FIN À LA GUERRE CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:51",
+      "date": "05/06",
+      "timestamp": 1780635062
+    },
+    {
+      "id": "BFMTV_1780632934",
+      "source": "BFMTV",
+      "text": "MISSION FRANCO-BRITANNIQUE DE DÉMINAGE DANS LE DÉTROIT D'ORMUZ: LE COMMANDANT OPÉRATIONNEL SERA FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:15",
+      "date": "05/06",
+      "timestamp": 1780632934
+    },
+    {
+      "id": "BFMTV_1780630920",
+      "source": "BFMTV",
+      "text": "LE PAPE FACE À LA CHUTE DU CATHOLICISME: LÉON XIV VA SE RENDRE EN ESPAGNE POUR UN VOYAGE AXÉ SUR LES QUESTIONS MIGRATOIRES ET SOCIALES",
+      "urgent": false,
+      "france_related": false,
+      "time": "03:42",
+      "date": "05/06",
+      "timestamp": 1780630920
+    },
     {
       "id": "BFMTV_1780611573",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "12:26",
       "date": "03/06",
       "timestamp": 1780489567
-    },
-    {
-      "id": "BFMTV_1780489340",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - GUERRE EN IRAN: LE RÉCIT D'UNE NUIT DE FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:22",
-      "date": "03/06",
-      "timestamp": 1780489340
-    },
-    {
-      "id": "BFMTV_1780486191",
-      "source": "BFMTV",
-      "text": "\"NOUS DEVONS CONTINUER À METTRE LA PRESSION SUR LA MACHINE DE GUERRE RUSSE\", AFFIRME EMMANUEL MACRON",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:29",
-      "date": "03/06",
-      "timestamp": 1780486191
-    },
-    {
-      "id": "OPEX360_1780484191",
-      "source": "OPEX360",
-      "text": "L’INDE A OFFICIELLEMENT TRANSMIS À LA FRANCE UNE LETTRE DE DEMANDE POUR SE PROCURER 114 RAFALE SUPPLÉMENTAIRES",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:56",
-      "date": "03/06",
-      "timestamp": 1780484191
     }
   ],
   "france": {
