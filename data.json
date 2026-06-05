@@ -1,7 +1,17 @@
 {
-  "last_update": "05/06 17:15",
+  "last_update": "05/06 19:11",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1780681392",
+      "source": "OPEX360",
+      "text": "LE BRÉSIL A L’INTENTION DE COMMANDER VINGT AVIONS DE COMBAT GRIPEN E/F DE PLUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:43",
+      "date": "05/06",
+      "timestamp": 1780681392
+    },
     {
       "id": "OPEX360_1780677481",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "09:02",
       "date": "04/06",
       "timestamp": 1780563756
-    },
-    {
-      "id": "BFMTV_1780563391",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN CASQUE BLEU TUÉ DANS LE SUD-EST DU LIBAN, TOUCHÉ PAR \"DES OBUS DE MORTIER\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:56",
-      "date": "04/06",
-      "timestamp": 1780563391
     }
   ],
   "france": {
