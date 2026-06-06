@@ -1,7 +1,37 @@
 {
-  "last_update": "06/06 19:46",
+  "last_update": "06/06 21:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780777301",
+      "source": "BFMTV",
+      "text": "LIBAN: TROIS MILITAIRES ONT ÉTÉ TUÉS PAR L'ARMÉE ISRAÉLIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:21",
+      "date": "06/06",
+      "timestamp": 1780777301
+    },
+    {
+      "id": "BFMTV_1780777223",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: SEPT MISSILES BALISTIQUES ONT ÉTÉ INTERCEPTÉS AU KOWEÏT ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:20",
+      "date": "06/06",
+      "timestamp": 1780777223
+    },
+    {
+      "id": "BFMTV_1780776475",
+      "source": "BFMTV",
+      "text": "ALORS QUE LES ÉTATS-UNIS ONT FRAPPÉ L'IRAN, TÉHÉRAN A RIPOSTÉ DANS LE GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:07",
+      "date": "06/06",
+      "timestamp": 1780776475
+    },
     {
       "id": "BFMTV_1780768111",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "19:38",
       "date": "04/06",
       "timestamp": 1780601889
-    },
-    {
-      "id": "BFMTV_1780601834",
-      "source": "BFMTV",
-      "text": "\"QU'EN EST-IL DE LA FRANCE ?\": LA PIQUE DE VLADIMIR POUTINE À PROPOS DE LA DETTE PUBLIQUE FRANÇAISE",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:37",
-      "date": "04/06",
-      "timestamp": 1780601834
-    },
-    {
-      "id": "BFMTV_1780599648",
-      "source": "BFMTV",
-      "text": "JAPON: LA FAMILLE D’UN ÉTUDIANT AMÉRICAIN DISPARU DEPUIS LE 29 MAI LANCE UN APPEL POUR LE RETROUVER ",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:00",
-      "date": "04/06",
-      "timestamp": 1780599648
-    },
-    {
-      "id": "BFMTV_1780596736",
-      "source": "BFMTV",
-      "text": "IRAN, KENNEDY CENTER, CAPITOLE... EN UNE SEMAINE, DONALD TRUMP ENCHAÎNE LES DÉCONVENUES",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:12",
-      "date": "04/06",
-      "timestamp": 1780596736
     }
   ],
   "france": {
