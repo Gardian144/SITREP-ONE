@@ -1,7 +1,17 @@
 {
-  "last_update": "06/06 15:40",
+  "last_update": "06/06 16:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780762277",
+      "source": "BFMTV",
+      "text": "EN VISITE D'ÉTAT EN ESPAGNE, LE PAPE S'EST EXPRIMÉ SUR LES ABUS SEXUELS DANS L'ÉGLISE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:11",
+      "date": "06/06",
+      "timestamp": 1780762277
+    },
     {
       "id": "BFMTV_1780759064",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "17:53",
       "date": "04/06",
       "timestamp": 1780595618
-    },
-    {
-      "id": "BFMTV_1780595211",
-      "source": "BFMTV",
-      "text": "\"C'EST UNE SITUATION COMPLIQUÉE\": VLADIMIR POUTINE RÉPOND À MARCO RUBIO QUI S’INQUIÈTE DU RISQUE \"D’ESCALADE\" DANS LA GUERRE EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:46",
-      "date": "04/06",
-      "timestamp": 1780595211
     }
   ],
   "france": {
