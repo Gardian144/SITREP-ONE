@@ -1,7 +1,47 @@
 {
-  "last_update": "06/06 06:42",
+  "last_update": "06/06 09:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780734416",
+      "source": "BFMTV",
+      "text": "\"NOTRE POLITIQUE DOIT RASSEMBLER\": LES SERVICES DE KEIR STARMER DÉNONCENT DES TENTATIVES D'INGÉRENCE DE JD VANCE, APRÈS SES PROPOS SUR LA MORT D'UN ÉTUDIANT BRITANNIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:26",
+      "date": "06/06",
+      "timestamp": 1780734416
+    },
+    {
+      "id": "BFMTV_1780732222",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BAHREÏN DIT AVOIR ÉTÉ CIBLÉ PAR L'IRAN ET DÉNONCE UNE \"AGRESSION FLAGRANTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:50",
+      "date": "06/06",
+      "timestamp": 1780732222
+    },
+    {
+      "id": "BFMTV_1780731839",
+      "source": "BFMTV",
+      "text": "\"J'AI FAIT BEAUCOUP DE TRAVAIL DANS VOS CATHÉDRALES ET VOS PALAIS\": EN RUSSIE, LE RESPONSABLE DE LA SALLE DE BAL DE DONALD TRUMP SE DIT \"INSPIRÉ\" PAR SAINT-PÉTERSBOURG",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:43",
+      "date": "06/06",
+      "timestamp": 1780731839
+    },
+    {
+      "id": "BFMTV_1780731270",
+      "source": "BFMTV",
+      "text": "UNE \"GRAVE\" ATTAQUE: UN PLONGEUR TUÉ PAR UN REQUIN DE 4,5 MÈTRES DE LARGE EN AUSTRALIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:34",
+      "date": "06/06",
+      "timestamp": 1780731270
+    },
     {
       "id": "BFMTV_1780726782",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "13:45",
       "date": "04/06",
       "timestamp": 1780580750
-    },
-    {
-      "id": "BFMTV_1780580336",
-      "source": "BFMTV",
-      "text": "ATTENTAT À BONDI BEACH, EN AUSTRALIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:38",
-      "date": "04/06",
-      "timestamp": 1780580336
-    },
-    {
-      "id": "BFMTV_1780580335",
-      "source": "BFMTV",
-      "text": "ATTENTAT DE BONDI BEACH: LE \"HÉROS\" QUI AVAIT DÉSARMÉ L'UN DES ASSAILLANTS INCULPÉ D'AGRESSION CONTRE SON PÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:38",
-      "date": "04/06",
-      "timestamp": 1780580335
-    },
-    {
-      "id": "BFMTV_1780580028",
-      "source": "BFMTV",
-      "text": "XENIA FEDOROVA: LA CHRONIQUEUSE \"ÉTAIT EN CHARGE D'UNE AGENCE DE PROPAGANDE D'ÉTAT\" RUSSE, RAPPELLE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:33",
-      "date": "04/06",
-      "timestamp": 1780580028
-    },
-    {
-      "id": "BFMTV_1780579918",
-      "source": "BFMTV",
-      "text": "AU MOINS QUATRE MORTS DANS UN ACCIDENT D'AVION EN CROATIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:31",
-      "date": "04/06",
-      "timestamp": 1780579918
     }
   ],
   "france": {
