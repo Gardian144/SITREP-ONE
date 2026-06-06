@@ -1,7 +1,57 @@
 {
-  "last_update": "06/06 14:09",
+  "last_update": "06/06 15:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780759064",
+      "source": "BFMTV",
+      "text": "CÉRÉMONIE DU 6 JUIN: LE DISCOURS DU PREMIER MINISTRE SÉBASTIEN LECORNU",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:17",
+      "date": "06/06",
+      "timestamp": 1780759064
+    },
+    {
+      "id": "BFMTV_1780758154",
+      "source": "BFMTV",
+      "text": "CÉRÉMONIE DU 6 JUIN: LES MOTS DE PETE HEGSETH, SECRÉTAIRE À LA DÉFENSE DES ÉTATS-UNIS À BFMTV",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:02",
+      "date": "06/06",
+      "timestamp": 1780758154
+    },
+    {
+      "id": "BFMTV_1780757408",
+      "source": "BFMTV",
+      "text": "LIBAN: À DEBBINE, LE MAIGRE ESPOIR DU RETRAIT D'ISRAËL, BFMTV A PU SE RENDRE SUR PLACE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:50",
+      "date": "06/06",
+      "timestamp": 1780757408
+    },
+    {
+      "id": "BFMTV_1780756171",
+      "source": "BFMTV",
+      "text": "CÉRÉMONIE DU 6 JUIN: LE SECRÉTAIRE À LA DÉFENSE AMÉRICAIN PETE HEGSETH ABSENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:29",
+      "date": "06/06",
+      "timestamp": 1780756171
+    },
+    {
+      "id": "OPEX360_1780756061",
+      "source": "OPEX360",
+      "text": "ÉTATS-UNIS : UN AVION DE COMBAT DE NOUVELLE GÉNÉRATION INCONNU A ÉTÉ PHOTOGRAPHIÉ AUX ABORDS DE LA «ZONE 51»",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:27",
+      "date": "06/06",
+      "timestamp": 1780756061
+    },
     {
       "id": "BFMTV_1780754809",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "17:46",
       "date": "04/06",
       "timestamp": 1780595211
-    },
-    {
-      "id": "BFMTV_1780594462",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS TOUJOURS COOPÉRÉ\": VLADIMIR POUTINE SE FÉLICITE DE L'ALLIANCE RUSSO-CHINOISE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:34",
-      "date": "04/06",
-      "timestamp": 1780594462
-    },
-    {
-      "id": "BFMTV_1780592802",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN ADOLESCENT ATTEINT DE TRISOMIE 21 REÇOIT PLUS DE 1.000 CARTES D'ANNIVERSAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:06",
-      "date": "04/06",
-      "timestamp": 1780592802
-    },
-    {
-      "id": "OPEX360_1780592526",
-      "source": "OPEX360",
-      "text": "LES DÉPUTÉS SUISSES VEULENT UNE ÉTUDE SUR UNE ÉVENTUELLE PROLONGATION DES F/A-18 HORNET AU-DELÀ DE 2030",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:02",
-      "date": "04/06",
-      "timestamp": 1780592526
-    },
-    {
-      "id": "BFMTV_1780588684",
-      "source": "BFMTV",
-      "text": "\"LEUR INVESTISSEMENT EST DÉTERMINANT\": L'AVIS D'UN MILITAIRE FRANÇAIS SUR LE BUDGET DÉFENSE DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:58",
-      "date": "04/06",
-      "timestamp": 1780588684
-    },
-    {
-      "id": "BFMTV_1780588275",
-      "source": "BFMTV",
-      "text": "UN GUIDE NÉPALAIS PORTÉ DISPARU SUR LES PENTES DE L'EVEREST RETROUVÉ VIVANT SIX JOURS APRÈS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:51",
-      "date": "04/06",
-      "timestamp": 1780588275
     }
   ],
   "france": {
