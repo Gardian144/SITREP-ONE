@@ -1,7 +1,37 @@
 {
-  "last_update": "06/06 09:12",
+  "last_update": "06/06 11:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780742053",
+      "source": "BFMTV",
+      "text": "L'ARMÉE DE TERRE FRANÇAISE DÉPLOIE DES HÉLICOPTÈRES TIGRES POUR INTERCEPTER DES DRONES IRANIENS",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:34",
+      "date": "06/06",
+      "timestamp": 1780742053
+    },
+    {
+      "id": "OPEX360_1780740812",
+      "source": "OPEX360",
+      "text": "LE DANEMARK ENVISAGE L’ACHAT DE 200 MISSILES DE CROISIÈRE À LONGUE PORTÉE AGM-158 JASSM ER AUPRÈS DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:13",
+      "date": "06/06",
+      "timestamp": 1780740812
+    },
+    {
+      "id": "BFMTV_1780739229",
+      "source": "BFMTV",
+      "text": "\"JE NE PENSAIS PAS M'EN SORTIR VIVANT\": L'ALPINISTE NÉPALAIS SECOURU APRÈS SIX JOURS SEUL SUR L'EVEREST RACONTE COMMENT IL A SURVÉCU EN \"RONGEANT DE LA GLACE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:47",
+      "date": "06/06",
+      "timestamp": 1780739229
+    },
     {
       "id": "BFMTV_1780734416",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "14:37",
       "date": "04/06",
       "timestamp": 1780583864
-    },
-    {
-      "id": "BFMTV_1780583669",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON ASSURE QUE LA FRANCE SOUTIENT LE CESSEZ-LE-FEU AU LIBAN ET SE \"TIENT À DISPOSITION\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:34",
-      "date": "04/06",
-      "timestamp": 1780583669
-    },
-    {
-      "id": "BFMTV_1780582098",
-      "source": "BFMTV",
-      "text": "EN ITALIE, QUATRE TRAVAILLEURS MIGRANTS RETROUVÉS BRÛLÉS VIFS DANS UN VÉHICULE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:08",
-      "date": "04/06",
-      "timestamp": 1780582098
-    },
-    {
-      "id": "BFMTV_1780580750",
-      "source": "BFMTV",
-      "text": "FLORIDE: UNE VOITURE S'ÉCRASE SUR LA DEVANTURE D'UNE MAISON",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:45",
-      "date": "04/06",
-      "timestamp": 1780580750
     }
   ],
   "france": {
