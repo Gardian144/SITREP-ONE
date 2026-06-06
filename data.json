@@ -1,7 +1,127 @@
 {
-  "last_update": "06/06 03:26",
+  "last_update": "06/06 06:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780726782",
+      "source": "BFMTV",
+      "text": "UNE \"GRAVE\" ATTAQUE: UN PLONGEUR GRIÈVEMENT BLESSÉ PAR UN REQUIN DE 4,5 MÈTRES DE LARGE EN AUSTRALIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:19",
+      "date": "06/06",
+      "timestamp": 1780726782
+    },
+    {
+      "id": "BFMTV_1780725720",
+      "source": "BFMTV",
+      "text": "\"UN PROCESSUS VOUÉ À L'ÉCHEC\": SITÔT ANNONCÉ PAR DONALD TRUMP, LE CESSEZ-LE-FEU AU LIBAN DÉJÀ ENTERRÉ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:02",
+      "date": "06/06",
+      "timestamp": 1780725720
+    },
+    {
+      "id": "BFMTV_1780724633",
+      "source": "BFMTV",
+      "text": "LE PAPE LÉON XIV ATTENDU EN ESPAGNE POUR UNE VISITE HAUTEMENT SYMBOLIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:43",
+      "date": "06/06",
+      "timestamp": 1780724633
+    },
+    {
+      "id": "BFMTV_1780724507",
+      "source": "BFMTV",
+      "text": "WASHINGTON A VISÉ DEUX SITES DE SURVEILLANCE CÔTIÈRE IRANIENS, EN RÉPONSE AUX FRAPPES DANS LE GOLF PERSIQUE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:41",
+      "date": "06/06",
+      "timestamp": 1780724507
+    },
+    {
+      "id": "BFMTV_1780721615",
+      "source": "BFMTV",
+      "text": "NASA: CE QUE L'ON SAIT DE LA FUITE D'AIR À BORD DE LA STATION SPATIALE INTERNATIONALE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:53",
+      "date": "06/06",
+      "timestamp": 1780721615
+    },
+    {
+      "id": "BFMTV_1780721374",
+      "source": "BFMTV",
+      "text": "UKRAINE: VLADIMIR POUTINE NE VOIT PAS \"L'INTÉRÊT D'UNE RENCONTRE\" AVEC VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:49",
+      "date": "06/06",
+      "timestamp": 1780721374
+    },
+    {
+      "id": "BFMTV_1780721238",
+      "source": "BFMTV",
+      "text": "LIBAN: À DEBBINE, LE MAIGRE ESPOIR DU RETRAIT DE TSAHAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:47",
+      "date": "06/06",
+      "timestamp": 1780721238
+    },
+    {
+      "id": "BFMTV_1780721008",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION ONT ANNONCÉ AVOIR FRAPPÉ DES BASES \"ENNEMIES\" DANS LE GOLF PERSIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:43",
+      "date": "06/06",
+      "timestamp": 1780721008
+    },
+    {
+      "id": "BFMTV_1780720507",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:35",
+      "date": "06/06",
+      "timestamp": 1780720507
+    },
+    {
+      "id": "BFMTV_1780719496",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN APPELLE LE PRÉSIDENT LIBANAIS À SAUVER SON PAYS CONTRE SON \"VRAI ENNEMI\" ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:18",
+      "date": "06/06",
+      "timestamp": 1780719496
+    },
+    {
+      "id": "BFMTV_1780719479",
+      "source": "BFMTV",
+      "text": "L'ARMÉE DE TERRE FRANÇAISE DÉPLOIE DES HÉLICOPTÈRES TIGRES POUR INTERCEPTER LES DRONES IRANIENS LANCÉS VERS LE GOLFE ",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:17",
+      "date": "06/06",
+      "timestamp": 1780719479
+    },
+    {
+      "id": "BFMTV_1780719252",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE KOWEÏT ET LE BAHREÏN FRAPPÉS PAR DES DRONES IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:14",
+      "date": "06/06",
+      "timestamp": 1780719252
+    },
     {
       "id": "BFMTV_1780698492",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "13:31",
       "date": "04/06",
       "timestamp": 1780579918
-    },
-    {
-      "id": "BFMTV_1780579424",
-      "source": "BFMTV",
-      "text": "LIBAN: LA FRANCE SOUTIENT LE CESSEZ-LE-FEU, SE \"TIENT À DISPOSITION\", DÉCLARE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:23",
-      "date": "04/06",
-      "timestamp": 1780579424
-    },
-    {
-      "id": "BFMTV_1780574582",
-      "source": "BFMTV",
-      "text": "FUSILLADE LORS D'UNE CÉRÉMONIE DE REMISE DE DIPLÔMES EN CALIFORNIE, UN JEUNE DE 18 ANS TUÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:03",
-      "date": "04/06",
-      "timestamp": 1780574582
-    },
-    {
-      "id": "BFMTV_1780572445",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION EXIGENT LE RETRAIT D'ISRAËL DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:27",
-      "date": "04/06",
-      "timestamp": 1780572445
-    },
-    {
-      "id": "BFMTV_1780572408",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN SITE AMÉRICAIN DE L’IMMIGRATION COMPARE LES ÉTRANGERS À DES EXTRATERRESTRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:26",
-      "date": "04/06",
-      "timestamp": 1780572408
-    },
-    {
-      "id": "BFMTV_1780571448",
-      "source": "BFMTV",
-      "text": "POURQUOI LE DÉSARMEMENT DU HEZBOLLAH DIVISE LE LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:10",
-      "date": "04/06",
-      "timestamp": 1780571448
-    },
-    {
-      "id": "BFMTV_1780569725",
-      "source": "BFMTV",
-      "text": "DES FOOTBALLEUSES NORD-CORÉENNES, VAINQUEURES DE LA LIGUE DES CHAMPIONS FÉMININE ASIATIQUE, FONDENT EN LARMES DEVANT KIM JONG-UN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:42",
-      "date": "04/06",
-      "timestamp": 1780569725
-    },
-    {
-      "id": "BFMTV_1780569363",
-      "source": "BFMTV",
-      "text": "\"LE BREXIT A DÉCOMPLEXÉ LA PAROLE D'EXTRÊME-DROITE\": POURQUOI LES ÉMEUTES ET MANIFESTATIONS ANTI-IMMIGRATION SE RÉPÈTENT PLUS EN ANGLETERRE QUE CHEZ LEURS VOISINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:36",
-      "date": "04/06",
-      "timestamp": 1780569363
-    },
-    {
-      "id": "OPEX360_1780568857",
-      "source": "OPEX360",
-      "text": "LE CANADA CONFIRME LA COMMANDE DE 26 LANCE-ROQUETTES MULTIPLES AMÉRICAINS HIMARS POUR 1,9 MILLIARD DE DOLLARS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:27",
-      "date": "04/06",
-      "timestamp": 1780568857
-    },
-    {
-      "id": "BFMTV_1780568000",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE GUIDE SUPRÊME MOJTABA KHAMENEI ACCUSE LES ÉTATS-UNIS DE CHERCHER À \"DIVISER\" LA NATION IRANIENNE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:13",
-      "date": "04/06",
-      "timestamp": 1780568000
-    },
-    {
-      "id": "BFMTV_1780566984",
-      "source": "BFMTV",
-      "text": "MORT DE MARJANE SATRAPI: EMMANUEL ET BRIGITTE MACRON SALUENT \"UNE IMMENSE ARTISTE QUI AVAIT TRANSFORMÉ UNE ENFANCE IRANIENNE EN FABLE UNIVERSELLE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:56",
-      "date": "04/06",
-      "timestamp": 1780566984
-    },
-    {
-      "id": "BFMTV_1780566841",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN CASQUE BLEU TUÉ ET DEUX AUTRES BLESSÉS DANS LE SUD DU LIBAN APRÈS UNE FRAPPE SUR UNE BASE DE L'ONU",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:54",
-      "date": "04/06",
-      "timestamp": 1780566841
-    },
-    {
-      "id": "BFMTV_1780566737",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DIT QU'IL \"AIMERAIT\" RENCONTRER LE GUIDE SUPRÊME IRANIEN MOJTABA KHAMENEI",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:52",
-      "date": "04/06",
-      "timestamp": 1780566737
     }
   ],
   "france": {
