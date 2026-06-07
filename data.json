@@ -1,7 +1,17 @@
 {
-  "last_update": "07/06 18:03",
+  "last_update": "07/06 19:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780860531",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL ANNONCE LA FERMETURE DES ÉCOLES DANS TOUT LE PAYS DEMAIN APRÈS DES TIRS IRANIENS",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:28",
+      "date": "07/06",
+      "timestamp": 1780860531
+    },
     {
       "id": "BFMTV_1780852286",
       "source": "BFMTV",
@@ -986,16 +996,6 @@
       "id": "OPEX360_1780655915",
       "source": "OPEX360",
       "text": "LE MINISTÈRE DES ARMÉES SALUE LE SUCCÈS DU TIR D’UN MISSILE MICA/IR NG PAR UN RAFALE EN VOL HYPERSONIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:38",
-      "date": "05/06",
-      "timestamp": 1780655915
-    },
-    {
-      "id": "OPEX360_1780655915",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES SALUE LE SUCCÈS DU TIR D’UN MISSILE MICA/IR NG PAR UN RAFALE EN VOL SUPERSONIQUE",
       "urgent": true,
       "france_related": false,
       "time": "10:38",
