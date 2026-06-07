@@ -1,7 +1,27 @@
 {
-  "last_update": "07/06 16:51",
+  "last_update": "07/06 18:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780852286",
+      "source": "BFMTV",
+      "text": "VIOLENCES CONTRE LES PALESTINIENS EN CISJORDANIE OCCUPÉE: JEAN-NOËL BARROT ASSURE QUE DES NOUVELLES SANCTIONS EUROPÉENNES SONT À L'ÉTUDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:11",
+      "date": "07/06",
+      "timestamp": 1780852286
+    },
+    {
+      "id": "BFMTV_1780852286",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:11",
+      "date": "07/06",
+      "timestamp": 1780852286
+    },
     {
       "id": "BFMTV_1780847674",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:38",
       "date": "05/06",
       "timestamp": 1780655915
-    },
-    {
-      "id": "BFMTV_1780653694",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LES EUROPÉENS PRENNENT LEURS RESPONSABILITÉS\", À DÉCLARÉ EMMANUEL MACRON À DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:01",
-      "date": "05/06",
-      "timestamp": 1780653694
-    },
-    {
-      "id": "BFMTV_1780653633",
-      "source": "BFMTV",
-      "text": "LA LETTRE DE VOLODYMYR ZELENSKY À VLADIMIR POUTINE EST \"UNE BONNE INITIATIVE\", SALUE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:00",
-      "date": "05/06",
-      "timestamp": 1780653633
     }
   ],
   "france": {
