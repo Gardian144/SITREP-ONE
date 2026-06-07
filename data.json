@@ -1,7 +1,97 @@
 {
-  "last_update": "07/06 01:55",
+  "last_update": "07/06 06:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780811083",
+      "source": "BFMTV",
+      "text": "ESPAGNE: LES FIDÈLES AU RENDEZ-VOUS POUR LA MESSE XXL QUE DONNERA LE PAPE LÉON XIV",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:44",
+      "date": "07/06",
+      "timestamp": 1780811083
+    },
+    {
+      "id": "BFMTV_1780810918",
+      "source": "BFMTV",
+      "text": "DÉBARQUEMENT: PETE HEGSETH ÉVOQUE UNE \"INVASION\" D'IMMIGRÉS POUR LA \"CIVILISATION OCCIDENTALE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:41",
+      "date": "07/06",
+      "timestamp": 1780810918
+    },
+    {
+      "id": "BFMTV_1780807809",
+      "source": "BFMTV",
+      "text": "LÉON XIV EN ESPAGNE: UN MILLION DE FIDÈLES ATTENDUS POUR UNE MESSE EN PLEIN CŒUR DE MADRID",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:50",
+      "date": "07/06",
+      "timestamp": 1780807809
+    },
+    {
+      "id": "BFMTV_1780807633",
+      "source": "BFMTV",
+      "text": "LES ISRAÉLIENS DIVISÉS FACE À UNE GUERRE DONT ILS NE VOIENT PAS LE BOUT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:47",
+      "date": "07/06",
+      "timestamp": 1780807633
+    },
+    {
+      "id": "BFMTV_1780807415",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MAINTIENT LA PRESSION SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:43",
+      "date": "07/06",
+      "timestamp": 1780807415
+    },
+    {
+      "id": "BFMTV_1780806060",
+      "source": "BFMTV",
+      "text": "CAMPS SURPEUPLÉS, MALADIES, PÉNURIES DE MATÉRIEL MÉDICAL ET D'EAU... À GAZA, LA SITUATION HUMANITAIRE \"DEMEURE CATASTROPHIQUE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:21",
+      "date": "07/06",
+      "timestamp": 1780806060
+    },
+    {
+      "id": "BFMTV_1780805950",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS DISENT AVOIR ABATTU DEUX DRONES IRANIENS ALORS QUE LE CONFLIT ENTRE DANS SON 100E JOUR",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:19",
+      "date": "07/06",
+      "timestamp": 1780805950
+    },
+    {
+      "id": "BFMTV_1780805840",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PATRIMOINE LIBANAIS EN DANGER AVEC LES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:17",
+      "date": "07/06",
+      "timestamp": 1780805840
+    },
+    {
+      "id": "BFMTV_1780805605",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LES ÉTATS-UNIS ANNONCENT AVOIR UNE NOUVELLE FOIS INTERCEPTÉ DEUX DRONES IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:13",
+      "date": "07/06",
+      "timestamp": 1780805605
+    },
     {
       "id": "BFMTV_1780782333",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "04:15",
       "date": "05/06",
       "timestamp": 1780632934
-    },
-    {
-      "id": "BFMTV_1780630920",
-      "source": "BFMTV",
-      "text": "LE PAPE FACE À LA CHUTE DU CATHOLICISME: LÉON XIV VA SE RENDRE EN ESPAGNE POUR UN VOYAGE AXÉ SUR LES QUESTIONS MIGRATOIRES ET SOCIALES",
-      "urgent": false,
-      "france_related": false,
-      "time": "03:42",
-      "date": "05/06",
-      "timestamp": 1780630920
-    },
-    {
-      "id": "BFMTV_1780611573",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON ASSURE QUE LA FRANCE SOUTIENT LE CESSEZ-LE-FEU AU LIBAN ET SE \"TIENT À DISPOSITION\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "22:19",
-      "date": "04/06",
-      "timestamp": 1780611573
-    },
-    {
-      "id": "BFMTV_1780610697",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DÉBLOQUE 700 MILLIONS DE DOLLARS POUR L'INDUSTRIE DU CHARBON",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:04",
-      "date": "04/06",
-      "timestamp": 1780610697
-    },
-    {
-      "id": "BFMTV_1780606933",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:02",
-      "date": "04/06",
-      "timestamp": 1780606933
-    },
-    {
-      "id": "BFMTV_1780606932",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY PROPOSE À VLADIMIR POUTINE UNE RENCONTRE EN TÊTE-À-TÊTE, LE KREMLIN ASSURE QU'IL PEUT VENIR \"À TOUT MOMENT\" À MOSCOU",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:02",
-      "date": "04/06",
-      "timestamp": 1780606932
-    },
-    {
-      "id": "BFMTV_1780606121",
-      "source": "BFMTV",
-      "text": "BARACK OBAMA",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:48",
-      "date": "04/06",
-      "timestamp": 1780606121
-    },
-    {
-      "id": "BFMTV_1780606120",
-      "source": "BFMTV",
-      "text": "BARACK OBAMA S'OFFRE, À SON TOUR, UN MONUMENT À SA GLOIRE À CHICAGO",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:48",
-      "date": "04/06",
-      "timestamp": 1780606120
-    },
-    {
-      "id": "BFMTV_1780604584",
-      "source": "BFMTV",
-      "text": "\"NOUS SOMMES TOUT À FAIT PRÊTS\": VLADIMIR POUTINE \"DISPOSÉ\" À DES COMPROMIS POUR LA PAIX EN UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:23",
-      "date": "04/06",
-      "timestamp": 1780604584
-    },
-    {
-      "id": "BFMTV_1780602050",
-      "source": "BFMTV",
-      "text": "\"VOUS POUVEZ VENIR\": VLADIMIR POUTINE APPELLE LES REPRÉSENTANTS DE L'UE À VENIR LE RENCONTRER",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:40",
-      "date": "04/06",
-      "timestamp": 1780602050
     }
   ],
   "france": {
