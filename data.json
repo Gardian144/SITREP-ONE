@@ -1,7 +1,37 @@
 {
-  "last_update": "08/06 16:18",
+  "last_update": "08/06 18:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780943376",
+      "source": "BFMTV",
+      "text": "L'ADMINISTRATION TRUMP COMPTE DÉNATURALISER 17 CITOYENS AMÉRICAINS ACCUSÉS DE CRIMES ET DE FRAUDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:29",
+      "date": "08/06",
+      "timestamp": 1780943376
+    },
+    {
+      "id": "BFMTV_1780941407",
+      "source": "BFMTV",
+      "text": "DES COLONS ISRAÉLIENS ATTAQUENT DES HABITANTS PALESTINIENS AU NORD DE LA CISJORDANIE OCCUPÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:56",
+      "date": "08/06",
+      "timestamp": 1780941407
+    },
+    {
+      "id": "OPEX360_1780939747",
+      "source": "OPEX360",
+      "text": "SCAF : BERLIN ET PARIS CONVIENNENT DE METTRE UN TERME À LEUR PROJET CONJOINT D’AVION DE COMBAT DE 6E GÉNÉRATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:29",
+      "date": "08/06",
+      "timestamp": 1780939747
+    },
     {
       "id": "BFMTV_1780935181",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "09:47",
       "date": "06/06",
       "timestamp": 1780739229
-    },
-    {
-      "id": "BFMTV_1780734416",
-      "source": "BFMTV",
-      "text": "\"NOTRE POLITIQUE DOIT RASSEMBLER\": LES SERVICES DE KEIR STARMER DÉNONCENT DES TENTATIVES D'INGÉRENCE DE JD VANCE, APRÈS SES PROPOS SUR LA MORT D'UN ÉTUDIANT BRITANNIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:26",
-      "date": "06/06",
-      "timestamp": 1780734416
-    },
-    {
-      "id": "BFMTV_1780732222",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BAHREÏN DIT AVOIR ÉTÉ CIBLÉ PAR L'IRAN ET DÉNONCE UNE \"AGRESSION FLAGRANTE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:50",
-      "date": "06/06",
-      "timestamp": 1780732222
-    },
-    {
-      "id": "BFMTV_1780731839",
-      "source": "BFMTV",
-      "text": "\"J'AI FAIT BEAUCOUP DE TRAVAIL DANS VOS CATHÉDRALES ET VOS PALAIS\": EN RUSSIE, LE RESPONSABLE DE LA SALLE DE BAL DE DONALD TRUMP SE DIT \"INSPIRÉ\" PAR SAINT-PÉTERSBOURG",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:43",
-      "date": "06/06",
-      "timestamp": 1780731839
     }
   ],
   "france": {
