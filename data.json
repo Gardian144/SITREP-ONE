@@ -1,7 +1,87 @@
 {
-  "last_update": "08/06 12:07",
+  "last_update": "08/06 16:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780935181",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL RIPOSTERA \"AVEC FORCE\" À TOUTE NOUVELLE ATTAQUE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:13",
+      "date": "08/06",
+      "timestamp": 1780935181
+    },
+    {
+      "id": "BFMTV_1780934993",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:09",
+      "date": "08/06",
+      "timestamp": 1780934993
+    },
+    {
+      "id": "BFMTV_1780934992",
+      "source": "BFMTV",
+      "text": "OFFENSIVE ISRAÉLIENNE AU LIBAN, NÉGOCIATIONS BLOQUÉES... POURQUOI L'IRAN A DÉCIDÉ DE FRAPPER ISRAËL APRÈS DEUX MOIS DE TRÊVE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:09",
+      "date": "08/06",
+      "timestamp": 1780934992
+    },
+    {
+      "id": "OPEX360_1780932613",
+      "source": "OPEX360",
+      "text": "L’ALLEMAGNE A L’AMBITION DE DEVENIR LE CHEF DE FILE DES «TECHNOLOGIES AÉRONAUTIQUES MILITAIRES DE POINTE» EN EUROPE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:30",
+      "date": "08/06",
+      "timestamp": 1780932613
+    },
+    {
+      "id": "BFMTV_1780930868",
+      "source": "BFMTV",
+      "text": "AU MOINS 35 MORTS APRÈS UN SÉISME DE MAGNITUDE 7,8 AUX PHILIPPINES, DE NOMBREUX BÂTIMENTS EFFONDRÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:01",
+      "date": "08/06",
+      "timestamp": 1780930868
+    },
+    {
+      "id": "BFMTV_1780930598",
+      "source": "BFMTV",
+      "text": "ÎLE MAURICE: APRÈS LE GROENLAND, LES ÉTATS-UNIS ENVISAGENT DE RACHETER LES ÎLES CHAGOS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:56",
+      "date": "08/06",
+      "timestamp": 1780930598
+    },
+    {
+      "id": "BFMTV_1780928897",
+      "source": "BFMTV",
+      "text": "UN DRONE ERRANT ABATTU EN LETTONIE PAR DES RAFALE FRANÇAIS DE L'OTAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:28",
+      "date": "08/06",
+      "timestamp": 1780928897
+    },
+    {
+      "id": "BFMTV_1780927127",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN SUSPEND SON OPÉRATION CONTRE ISRAËL APRÈS DE PREMIÈRES FRAPPES DEPUIS LA TRÊVE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:58",
+      "date": "08/06",
+      "timestamp": 1780927127
+    },
     {
       "id": "BFMTV_1780920373",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "07:43",
       "date": "06/06",
       "timestamp": 1780731839
-    },
-    {
-      "id": "BFMTV_1780731270",
-      "source": "BFMTV",
-      "text": "UNE \"GRAVE\" ATTAQUE: UN PLONGEUR TUÉ PAR UN REQUIN DE 4,5 MÈTRES DE LARGE EN AUSTRALIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:34",
-      "date": "06/06",
-      "timestamp": 1780731270
-    },
-    {
-      "id": "BFMTV_1780726782",
-      "source": "BFMTV",
-      "text": "UNE \"GRAVE\" ATTAQUE: UN PLONGEUR GRIÈVEMENT BLESSÉ PAR UN REQUIN DE 4,5 MÈTRES DE LARGE EN AUSTRALIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:19",
-      "date": "06/06",
-      "timestamp": 1780726782
-    },
-    {
-      "id": "BFMTV_1780725720",
-      "source": "BFMTV",
-      "text": "\"UN PROCESSUS VOUÉ À L'ÉCHEC\": SITÔT ANNONCÉ PAR DONALD TRUMP, LE CESSEZ-LE-FEU AU LIBAN DÉJÀ ENTERRÉ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:02",
-      "date": "06/06",
-      "timestamp": 1780725720
-    },
-    {
-      "id": "BFMTV_1780724633",
-      "source": "BFMTV",
-      "text": "LE PAPE LÉON XIV ATTENDU EN ESPAGNE POUR UNE VISITE HAUTEMENT SYMBOLIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:43",
-      "date": "06/06",
-      "timestamp": 1780724633
-    },
-    {
-      "id": "BFMTV_1780724507",
-      "source": "BFMTV",
-      "text": "WASHINGTON A VISÉ DEUX SITES DE SURVEILLANCE CÔTIÈRE IRANIENS, EN RÉPONSE AUX FRAPPES DANS LE GOLF PERSIQUE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:41",
-      "date": "06/06",
-      "timestamp": 1780724507
-    },
-    {
-      "id": "BFMTV_1780721615",
-      "source": "BFMTV",
-      "text": "NASA: CE QUE L'ON SAIT DE LA FUITE D'AIR À BORD DE LA STATION SPATIALE INTERNATIONALE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:53",
-      "date": "06/06",
-      "timestamp": 1780721615
-    },
-    {
-      "id": "BFMTV_1780721374",
-      "source": "BFMTV",
-      "text": "UKRAINE: VLADIMIR POUTINE NE VOIT PAS \"L'INTÉRÊT D'UNE RENCONTRE\" AVEC VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:49",
-      "date": "06/06",
-      "timestamp": 1780721374
-    },
-    {
-      "id": "BFMTV_1780721238",
-      "source": "BFMTV",
-      "text": "LIBAN: À DEBBINE, LE MAIGRE ESPOIR DU RETRAIT DE TSAHAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:47",
-      "date": "06/06",
-      "timestamp": 1780721238
     }
   ],
   "france": {
