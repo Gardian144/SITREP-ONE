@@ -1,7 +1,57 @@
 {
-  "last_update": "08/06 18:41",
+  "last_update": "08/06 21:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1780949961",
+      "source": "BFMTV",
+      "text": "FINALE DU MONDIAL: ZOHRAN MAMDANI, LE MAIRE DE NEW YORK, ANNONCE UNE PROJECTION GÉANTE GRATUITE POUR 50 000 PERSONNES",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:19",
+      "date": "08/06",
+      "timestamp": 1780949961
+    },
+    {
+      "id": "BFMTV_1780949608",
+      "source": "BFMTV",
+      "text": "À L’ONU, LA FRANCE RÉAFFIRME SON SOUTIEN \"INDÉFECTIBLE\" À L’UKRAINE",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:13",
+      "date": "08/06",
+      "timestamp": 1780949608
+    },
+    {
+      "id": "BFMTV_1780949473",
+      "source": "BFMTV",
+      "text": "IRAN: L'UE IMPOSE SES PREMIÈRES SANCTIONS EN MATIÈRE DE LIBERTÉ DE NAVIGATION",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:11",
+      "date": "08/06",
+      "timestamp": 1780949473
+    },
+    {
+      "id": "BFMTV_1780945644",
+      "source": "BFMTV",
+      "text": "VOLÉ PUIS MANGÉ DANS UN RESTAURANT, CE CHIEN RELANCE LE DÉBAT SUR LA CONSOMMATION DE VIANDE DE CHIENS EN CHINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:07",
+      "date": "08/06",
+      "timestamp": 1780945644
+    },
+    {
+      "id": "BFMTV_1780945374",
+      "source": "BFMTV",
+      "text": "CE JEUNE GARÇON GAZAOUI PLEURE SES LUNETTES CASSÉES, UNE CAGNOTTE EST CRÉÉE POUR L’AIDER",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:02",
+      "date": "08/06",
+      "timestamp": 1780945374
+    },
     {
       "id": "BFMTV_1780943376",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "12:57",
       "date": "06/06",
       "timestamp": 1780750649
-    },
-    {
-      "id": "BFMTV_1780750183",
-      "source": "BFMTV",
-      "text": "ALICE RUFO, MINISTRE DÉLÉGUÉE DES ANCIENS COMBATTANTS, EN MARGE DE L'ANNIVERSAIRE DU DÉBARQUEMENT EN NORMANDIE:  CETTE SOLIDARITÉ EST \"LE CIMENT DE L'AMITIÉ FRANCO-AMÉRICAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:49",
-      "date": "06/06",
-      "timestamp": 1780750183
-    },
-    {
-      "id": "OPEX360_1780745071",
-      "source": "OPEX360",
-      "text": "LA NOUVELLE-ZÉLANDE VA POUVOIR SE PROCURER CINQ HÉLICOPTÈRES MH60R SEAHAWK AMÉRICAINS POUR 1,5 MILLIARD DE DOLLARS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:24",
-      "date": "06/06",
-      "timestamp": 1780745071
-    },
-    {
-      "id": "BFMTV_1780742053",
-      "source": "BFMTV",
-      "text": "L'ARMÉE DE TERRE FRANÇAISE DÉPLOIE DES HÉLICOPTÈRES TIGRES POUR INTERCEPTER DES DRONES IRANIENS",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:34",
-      "date": "06/06",
-      "timestamp": 1780742053
-    },
-    {
-      "id": "OPEX360_1780740812",
-      "source": "OPEX360",
-      "text": "LE DANEMARK ENVISAGE L’ACHAT DE 200 MISSILES DE CROISIÈRE À LONGUE PORTÉE AGM-158 JASSM ER AUPRÈS DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:13",
-      "date": "06/06",
-      "timestamp": 1780740812
-    },
-    {
-      "id": "BFMTV_1780739229",
-      "source": "BFMTV",
-      "text": "\"JE NE PENSAIS PAS M'EN SORTIR VIVANT\": L'ALPINISTE NÉPALAIS SECOURU APRÈS SIX JOURS SEUL SUR L'EVEREST RACONTE COMMENT IL A SURVÉCU EN \"RONGEANT DE LA GLACE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:47",
-      "date": "06/06",
-      "timestamp": 1780739229
     }
   ],
   "france": {
