@@ -1,7 +1,67 @@
 {
-  "last_update": "09/06 16:47",
+  "last_update": "09/06 19:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781028781",
+      "source": "BFMTV",
+      "text": "APRÈS UNE ATTAQUE AU COUTEAU À BELFAST, L’EXTRÊME DROITE LANCE DES APPELS À MANIFESTER",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:13",
+      "date": "09/06",
+      "timestamp": 1781028781
+    },
+    {
+      "id": "BFMTV_1781026767",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN CAMION CHARGÉ DE FEUX D'ARTIFICE PREND FEU SUR UNE AUTOROUTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:39",
+      "date": "09/06",
+      "timestamp": 1781026767
+    },
+    {
+      "id": "BFMTV_1781026067",
+      "source": "BFMTV",
+      "text": "LES COMBATS DE MMA À LA MAISON BLANCHE POUR L’ANNIVERSAIRE DE DONALD TRUMP POURRAIENT ÊTRE ANNULÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:27",
+      "date": "09/06",
+      "timestamp": 1781026067
+    },
+    {
+      "id": "OPEX360_1781026064",
+      "source": "OPEX360",
+      "text": "LE SÉNAT A LARGEMENT ADOPTÉ UNE VERSION REMANIÉE DU PROJET D’ACTUALISATION DE LA LOI DE PROGRAMMATION MILITAIRE 2024-30",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:27",
+      "date": "09/06",
+      "timestamp": 1781026064
+    },
+    {
+      "id": "BFMTV_1781024337",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP PROMET DE \"RÉPLIQUER\" APRÈS QUE \"LES IRANIENS ONT ABATTU\" UN HÉLICOPTÈRE AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:58",
+      "date": "09/06",
+      "timestamp": 1781024337
+    },
+    {
+      "id": "BFMTV_1781023759",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP PROMET DE \"RÉPLIQUER\" APRÈS QUE \"LES IRANIENS ONT ABATTU\" UN HÉLICOPTÈRE AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:49",
+      "date": "09/06",
+      "timestamp": 1781023759
+    },
     {
       "id": "OPEX360_1781022343",
       "source": "OPEX360",
@@ -941,66 +1001,6 @@
       "time": "09:02",
       "date": "07/06",
       "timestamp": 1780822945
-    },
-    {
-      "id": "BFMTV_1780821213",
-      "source": "BFMTV",
-      "text": "PLUS DE 1,2 MILLION DE PERSONNES DANS LES RUES DE MADRID POUR UNE MESSE DE LÉON XIV",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:33",
-      "date": "07/06",
-      "timestamp": 1780821213
-    },
-    {
-      "id": "BFMTV_1780820741",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:25",
-      "date": "07/06",
-      "timestamp": 1780820741
-    },
-    {
-      "id": "BFMTV_1780819718",
-      "source": "BFMTV",
-      "text": "LE PENTAGONE RELÈVE LE NIVEAU DE MENACE EN MATIÈRE DE CONTRE-ESPIONNAGE CONCERNANT ISRAËL AU SEUIL LE PLUS ÉLEVÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:08",
-      "date": "07/06",
-      "timestamp": 1780819718
-    },
-    {
-      "id": "BFMTV_1780815570",
-      "source": "BFMTV",
-      "text": "\"C'ÉTAIT VRAIMENT HORS DU COMMUN\": 12 BLESSÉS DANS L'OHIO EN MARGE D'UN FESTIVAL, LE OU LES TIREURS TOUJOURS EN FUITE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:59",
-      "date": "07/06",
-      "timestamp": 1780815570
-    },
-    {
-      "id": "BFMTV_1780814040",
-      "source": "BFMTV",
-      "text": "\"REPRENDRE LA MAIN SUR UNE ÎLE QUI LEUR ÉCHAPPE DEPUIS 1959\": QUE CHERCHENT LES ÉTATS-UNIS EN MENAÇANT CUBA?",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:34",
-      "date": "07/06",
-      "timestamp": 1780814040
-    },
-    {
-      "id": "BFMTV_1780811083",
-      "source": "BFMTV",
-      "text": "ESPAGNE: LES FIDÈLES AU RENDEZ-VOUS POUR LA MESSE XXL QUE DONNERA LE PAPE LÉON XIV",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:44",
-      "date": "07/06",
-      "timestamp": 1780811083
     }
   ],
   "france": {
