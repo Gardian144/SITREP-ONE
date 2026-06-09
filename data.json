@@ -1,7 +1,67 @@
 {
-  "last_update": "09/06 11:38",
+  "last_update": "09/06 14:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781013737",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE BRITANNIQUE DÉNONCE UNE ATTAQUE AU COUTEAU \"RÉVOLTANTE\" À BELFAST, DES APPELS À MANIFESTER LANCÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:02",
+      "date": "09/06",
+      "timestamp": 1781013737
+    },
+    {
+      "id": "BFMTV_1781013088",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UNE FRAPPE ISRAÉLIENNE FAIT HUIT MORTS À TYR AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:51",
+      "date": "09/06",
+      "timestamp": 1781013088
+    },
+    {
+      "id": "BFMTV_1781010890",
+      "source": "BFMTV",
+      "text": "MONDIAL 2026: UN ARBITRE SOMALIEN NE POURRA PAS PARTICIPER APRÈS AVOIR ÉTÉ REFOULÉ LORS DE SON ENTRÉE AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:14",
+      "date": "09/06",
+      "timestamp": 1781010890
+    },
+    {
+      "id": "BFMTV_1781009327",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE \"LES NÉGOCIATIONS AVEC L'IRAN SE POURSUIVENT\" ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:48",
+      "date": "09/06",
+      "timestamp": 1781009327
+    },
+    {
+      "id": "BFMTV_1781008830",
+      "source": "BFMTV",
+      "text": "LA BATAILLE POUR LA MAIRIE DE LOS ANGELES SE JOUERA ENTRE DEUX DÉMOCRATES",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:40",
+      "date": "09/06",
+      "timestamp": 1781008830
+    },
+    {
+      "id": "BFMTV_1781005960",
+      "source": "BFMTV",
+      "text": "CABILLAUD RUSSE: LE SECTEUR DE LA PÊCHE INCLUS POUR LA PREMIÈRE FOIS DANS LE PAQUET EUROPÉEN DE SANCTIONS CONTRE LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:52",
+      "date": "09/06",
+      "timestamp": 1781005960
+    },
     {
       "id": "BFMTV_1781004382",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "04:43",
       "date": "07/06",
       "timestamp": 1780807415
-    },
-    {
-      "id": "BFMTV_1780806060",
-      "source": "BFMTV",
-      "text": "CAMPS SURPEUPLÉS, MALADIES, PÉNURIES DE MATÉRIEL MÉDICAL ET D'EAU... À GAZA, LA SITUATION HUMANITAIRE \"DEMEURE CATASTROPHIQUE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:21",
-      "date": "07/06",
-      "timestamp": 1780806060
-    },
-    {
-      "id": "BFMTV_1780805950",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS DISENT AVOIR ABATTU DEUX DRONES IRANIENS ALORS QUE LE CONFLIT ENTRE DANS SON 100E JOUR",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:19",
-      "date": "07/06",
-      "timestamp": 1780805950
-    },
-    {
-      "id": "BFMTV_1780805840",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PATRIMOINE LIBANAIS EN DANGER AVEC LES FRAPPES ISRAÉLIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:17",
-      "date": "07/06",
-      "timestamp": 1780805840
-    },
-    {
-      "id": "BFMTV_1780805605",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LES ÉTATS-UNIS ANNONCENT AVOIR UNE NOUVELLE FOIS INTERCEPTÉ DEUX DRONES IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:13",
-      "date": "07/06",
-      "timestamp": 1780805605
-    },
-    {
-      "id": "BFMTV_1780782333",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QU'IL RESTE À L'IRAN \"21 À 22%\" DE SES MISSILES",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:45",
-      "date": "06/06",
-      "timestamp": 1780782333
-    },
-    {
-      "id": "BFMTV_1780777301",
-      "source": "BFMTV",
-      "text": "LIBAN: TROIS MILITAIRES ONT ÉTÉ TUÉS PAR L'ARMÉE ISRAÉLIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:21",
-      "date": "06/06",
-      "timestamp": 1780777301
     }
   ],
   "france": {
