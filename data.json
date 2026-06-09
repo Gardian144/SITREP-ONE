@@ -1,7 +1,67 @@
 {
-  "last_update": "09/06 08:21",
+  "last_update": "09/06 11:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781004382",
+      "source": "BFMTV",
+      "text": "URSULA VON DER LEYEN VEUT INTERDIRE L’ENTRÉE DES ANCIENS COMBATTANTS RUSSES DANS L'UNION EUROPÉENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:26",
+      "date": "09/06",
+      "timestamp": 1781004382
+    },
+    {
+      "id": "BFMTV_1781004159",
+      "source": "BFMTV",
+      "text": "LES 9 ÉTATS DOTÉS DE L'ARME NUCLÉAIRE ONT DÉPENSÉ PRÈS DE 17 MILLIARDS DE DOLLARS DE PLUS QUE L’AN DERNIER CONSACRÉES À LEURS ARSENAUX NUCLÉAIRES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:22",
+      "date": "09/06",
+      "timestamp": 1781004159
+    },
+    {
+      "id": "BFMTV_1781002216",
+      "source": "BFMTV",
+      "text": "UNE DÉLÉGATION LFI AU LIBAN POUR RENCONTRER LE PRÉSIDENT JOSEPH AOUN ET AFFIRMER LA \"SOLIDARITÉ AVEC LE PEUPLE LIBANAIS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:50",
+      "date": "09/06",
+      "timestamp": 1781002216
+    },
+    {
+      "id": "BFMTV_1781001168",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DEUX SOLDATS IRANIENS TUÉS PAR DES FRAPPES ISRAÉLIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:32",
+      "date": "09/06",
+      "timestamp": 1781001168
+    },
+    {
+      "id": "OPEX360_1781000175",
+      "source": "OPEX360",
+      "text": "AIRBUS HELICOPTERS DÉVELOPPE UN DRONE CARGO À PARTIR DE SON HÉLICOPTÈRE H145",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:16",
+      "date": "09/06",
+      "timestamp": 1781000175
+    },
+    {
+      "id": "BFMTV_1780998071",
+      "source": "BFMTV",
+      "text": "L'ALPINISTE NÉPALAIS QUI A SURVÉCU SEUL SUR L'EVEREST PENDANT SIX JOURS A QUITTÉ LES SOINS INTENSIFS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:41",
+      "date": "09/06",
+      "timestamp": 1780998071
+    },
     {
       "id": "BFMTV_1780992082",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "20:21",
       "date": "06/06",
       "timestamp": 1780777301
-    },
-    {
-      "id": "BFMTV_1780777223",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: SEPT MISSILES BALISTIQUES ONT ÉTÉ INTERCEPTÉS AU KOWEÏT ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:20",
-      "date": "06/06",
-      "timestamp": 1780777223
-    },
-    {
-      "id": "BFMTV_1780776475",
-      "source": "BFMTV",
-      "text": "ALORS QUE LES ÉTATS-UNIS ONT FRAPPÉ L'IRAN, TÉHÉRAN A RIPOSTÉ DANS LE GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:07",
-      "date": "06/06",
-      "timestamp": 1780776475
-    },
-    {
-      "id": "BFMTV_1780768111",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QU'IL RESTE À L'IRAN \"22% DE SES MISSILES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:48",
-      "date": "06/06",
-      "timestamp": 1780768111
-    },
-    {
-      "id": "BFMTV_1780767822",
-      "source": "BFMTV",
-      "text": "IRAN-ÉTATS-UNIS: LA TENSION MONTE DANS LE GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:43",
-      "date": "06/06",
-      "timestamp": 1780767822
-    },
-    {
-      "id": "BFMTV_1780762277",
-      "source": "BFMTV",
-      "text": "EN VISITE D'ÉTAT EN ESPAGNE, LE PAPE S'EST EXPRIMÉ SUR LES ABUS SEXUELS DANS L'ÉGLISE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:11",
-      "date": "06/06",
-      "timestamp": 1780762277
-    },
-    {
-      "id": "BFMTV_1780759064",
-      "source": "BFMTV",
-      "text": "CÉRÉMONIE DU 6 JUIN: LE DISCOURS DU PREMIER MINISTRE SÉBASTIEN LECORNU",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:17",
-      "date": "06/06",
-      "timestamp": 1780759064
     }
   ],
   "france": {
