@@ -1,7 +1,47 @@
 {
-  "last_update": "09/06 14:04",
+  "last_update": "09/06 16:47",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1781022343",
+      "source": "OPEX360",
+      "text": "LA SUISSE A COMMANDÉ 32 OBUSIERS AUTOMOTEURS DONAR 10×10 DE 155 MM AUPRÈS DE KNDS DEUTSCHLAND",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:25",
+      "date": "09/06",
+      "timestamp": 1781022343
+    },
+    {
+      "id": "BFMTV_1781016642",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT CHINOIS VEUT PORTER LA RELATION AVEC LA CORÉE DU NORD À “DE NOUVEAUX SOMMETS”",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:50",
+      "date": "09/06",
+      "timestamp": 1781016642
+    },
+    {
+      "id": "BFMTV_1781016314",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: UN HÉLICOPTÈRE AMÉRICAIN S'ÉCRASE EN MER D'OMAN, LES DEUX PILOTES SECOURUS PAR L'ARMÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:45",
+      "date": "09/06",
+      "timestamp": 1781016314
+    },
+    {
+      "id": "OPEX360_1781014423",
+      "source": "OPEX360",
+      "text": "LE COÛT D’EXPLOITATION DES VINGT-SEPT F-35A DANOIS SERA PLUS ÉLEVÉ DE 25 % PAR RAPPORT AUX ESTIMATIONS INITIALES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:13",
+      "date": "09/06",
+      "timestamp": 1781014423
+    },
     {
       "id": "BFMTV_1781013737",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "05:44",
       "date": "07/06",
       "timestamp": 1780811083
-    },
-    {
-      "id": "BFMTV_1780810918",
-      "source": "BFMTV",
-      "text": "DÉBARQUEMENT: PETE HEGSETH ÉVOQUE UNE \"INVASION\" D'IMMIGRÉS POUR LA \"CIVILISATION OCCIDENTALE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:41",
-      "date": "07/06",
-      "timestamp": 1780810918
-    },
-    {
-      "id": "BFMTV_1780807809",
-      "source": "BFMTV",
-      "text": "LÉON XIV EN ESPAGNE: UN MILLION DE FIDÈLES ATTENDUS POUR UNE MESSE EN PLEIN CŒUR DE MADRID",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:50",
-      "date": "07/06",
-      "timestamp": 1780807809
-    },
-    {
-      "id": "BFMTV_1780807633",
-      "source": "BFMTV",
-      "text": "LES ISRAÉLIENS DIVISÉS FACE À UNE GUERRE DONT ILS NE VOIENT PAS LE BOUT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:47",
-      "date": "07/06",
-      "timestamp": 1780807633
-    },
-    {
-      "id": "BFMTV_1780807415",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MAINTIENT LA PRESSION SUR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:43",
-      "date": "07/06",
-      "timestamp": 1780807415
     }
   ],
   "france": {
