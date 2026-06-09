@@ -1,7 +1,27 @@
 {
-  "last_update": "09/06 19:12",
+  "last_update": "09/06 21:13",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781036742",
+      "source": "BFMTV",
+      "text": "NUCLÉAIRE EN IRAN: LES USA À L'ONU APPELLENT \"LA CHINE ET LA RUSSIE À CESSER DE SABOTER LES DÉCISIONS DU CONSEIL DE SÉCURITÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:25",
+      "date": "09/06",
+      "timestamp": 1781036742
+    },
+    {
+      "id": "BFMTV_1781036711",
+      "source": "BFMTV",
+      "text": "NUCLÉAIRE IRANIEN: LA FRANCE À L'ONU DÉNONCE UN STOCK D’URANIUM ENRICHI SANS JUSTIFICATION CIVILE",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:25",
+      "date": "09/06",
+      "timestamp": 1781036711
+    },
     {
       "id": "BFMTV_1781028781",
       "source": "BFMTV",
@@ -41,6 +61,16 @@
       "time": "17:27",
       "date": "09/06",
       "timestamp": 1781026064
+    },
+    {
+      "id": "BFMTV_1781025455",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:17",
+      "date": "09/06",
+      "timestamp": 1781025455
     },
     {
       "id": "BFMTV_1781024337",
@@ -971,36 +1001,6 @@
       "time": "10:01",
       "date": "07/06",
       "timestamp": 1780826490
-    },
-    {
-      "id": "BFMTV_1780826136",
-      "source": "BFMTV",
-      "text": "UNE PERSONNE TUÉE ET CINQ AUTRES BLESSÉES DANS UNE FUSILLADE DANS LE CENTRE D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:55",
-      "date": "07/06",
-      "timestamp": 1780826136
-    },
-    {
-      "id": "BFMTV_1780825473",
-      "source": "BFMTV",
-      "text": "LES ISRAÉLIENS ÉPUISÉS APRÈS 100 JOURS DE GUERRE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:44",
-      "date": "07/06",
-      "timestamp": 1780825473
-    },
-    {
-      "id": "BFMTV_1780822945",
-      "source": "BFMTV",
-      "text": "AU MOINS UN MORT DANS UNE FUSILLADE DANS UNE STATION-SERVICE EN ISRAËL, L'ASSAILLANT \"NEUTRALISÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:02",
-      "date": "07/06",
-      "timestamp": 1780822945
     }
   ],
   "france": {
