@@ -1,7 +1,67 @@
 {
-  "last_update": "09/06 21:13",
+  "last_update": "09/06 22:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781044149",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ANNONCENT BOMBARDER L'IRAN APRÈS L'ATTAQUE CONTRE UN HÉLICOPTÈRE AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:29",
+      "date": "09/06",
+      "timestamp": 1781044149
+    },
+    {
+      "id": "BFMTV_1781044063",
+      "source": "BFMTV",
+      "text": "DES MANIFESTANTS INCENDIENT DES VÉHICULES À BELFAST AU LENDEMAIN D'UNE ATTAQUE AU COUTEAU IMPUTÉE À UN RÉFUGIÉ SOUDANAIS",
+      "urgent": true,
+      "france_related": true,
+      "time": "22:27",
+      "date": "09/06",
+      "timestamp": 1781044063
+    },
+    {
+      "id": "BFMTV_1781043335",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS ANNONCENT BOMBARDER L'IRAN APRÈS L'ATTAQUE D'UN HÉLICOPTÈRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:15",
+      "date": "09/06",
+      "timestamp": 1781043335
+    },
+    {
+      "id": "BFMTV_1781042886",
+      "source": "BFMTV",
+      "text": "IRAN: DONALD TRUMP VEUT UNE RIPOSTE \"TRÈS PUISSANTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:08",
+      "date": "09/06",
+      "timestamp": 1781042886
+    },
+    {
+      "id": "BFMTV_1781042045",
+      "source": "BFMTV",
+      "text": "IRAN: LES ÉTATS-UNIS ANNONCENT UNE RIPOSTE CONTRE TÉHÉRAN APRÈS L’ATTAQUE SUR UN HÉLICOPTÈRE AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:54",
+      "date": "09/06",
+      "timestamp": 1781042045
+    },
+    {
+      "id": "BFMTV_1781040904",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ANNONCENT BOMBARDER L'IRAN APRÈS L'ATTAQUE CONTRE UN HÉLICOPTÈRE AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:35",
+      "date": "09/06",
+      "timestamp": 1781040904
+    },
     {
       "id": "BFMTV_1781036742",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "15:54",
       "date": "07/06",
       "timestamp": 1780847674
-    },
-    {
-      "id": "BFMTV_1780837213",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL DIT FRAPPER LA BANLIEUE SUD DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:00",
-      "date": "07/06",
-      "timestamp": 1780837213
-    },
-    {
-      "id": "BFMTV_1780832371",
-      "source": "BFMTV",
-      "text": "À MADRID, LA MESSE DU PAPE LÉON XIV A RASSEMBLÉ PLUS D'1,2 MILLION DE PERSONNES",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:39",
-      "date": "07/06",
-      "timestamp": 1780832371
-    },
-    {
-      "id": "OPEX360_1780831095",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES A ÉVALUÉ LE PSEUDO-SATELLITE DE MOYENNE ALTITUDE SKYDWELLER POUR LA SURVEILLANCE MARITIME",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:18",
-      "date": "07/06",
-      "timestamp": 1780831095
-    },
-    {
-      "id": "OPEX360_1780830843",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES RELATIVISE LE RISQUE DE CIBLAGE D’UN NAVIRE VIA LA FONCTION GPS DES OBJETS CONNECTÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:14",
-      "date": "07/06",
-      "timestamp": 1780830843
-    },
-    {
-      "id": "BFMTV_1780830050",
-      "source": "BFMTV",
-      "text": "DOMINIQUE DE VILLEPIN: IL Y A UNE \"DÉRIVE DE LA DÉMOCRATIE AMÉRICAINE\", ESTIME-T-IL EN RÉACTION AUX PROPOS DE PETE HEGSETH SUR UNE SUPPOSÉE \"INVASION MIGRATOIRE\" EN EUROPE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:00",
-      "date": "07/06",
-      "timestamp": 1780830050
-    },
-    {
-      "id": "BFMTV_1780826490",
-      "source": "BFMTV",
-      "text": "AU MOINS UN MORT APRÈS PLUSIEURS FUSILLADES EN ISRAËL, L'UN DES ASSAILLANTS \"NEUTRALISÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:01",
-      "date": "07/06",
-      "timestamp": 1780826490
     }
   ],
   "france": {
