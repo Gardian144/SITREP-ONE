@@ -1,7 +1,67 @@
 {
-  "last_update": "10/06 16:13",
+  "last_update": "10/06 18:43",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781113096",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS VONT \"ATTAQUER TRÈS DUREMENT\" L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:38",
+      "date": "10/06",
+      "timestamp": 1781113096
+    },
+    {
+      "id": "BFMTV_1781112942",
+      "source": "BFMTV",
+      "text": "LE PAPE LÉON XIV ARRIVE À LA SAGRADA FAMILIA",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:35",
+      "date": "10/06",
+      "timestamp": 1781112942
+    },
+    {
+      "id": "BFMTV_1781112924",
+      "source": "BFMTV",
+      "text": " L'ÉGYPTE, L'ARABIE SAOUDITE, LE QATAR ET LES ÉMIRATS ARABES UNIS, INVITÉS AU G7, ANNONCE EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:35",
+      "date": "10/06",
+      "timestamp": 1781112924
+    },
+    {
+      "id": "OPEX360_1781112036",
+      "source": "OPEX360",
+      "text": "LOCKHEED MARTIN ASSURE POUVOIR LIVRER DES M142 HIMARS À LA FRANCE 18 MOIS APRÈS LA NOTIFICATION D’UNE COMMANDE",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:20",
+      "date": "10/06",
+      "timestamp": 1781112036
+    },
+    {
+      "id": "BFMTV_1781111055",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON ANNONCE QUE VOLODYMYR ZELENSKY PARTICIPERA AU G7",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:04",
+      "date": "10/06",
+      "timestamp": 1781111055
+    },
+    {
+      "id": "BFMTV_1781110106",
+      "source": "BFMTV",
+      "text": "LIBAN: QUI ÉTAIT FLORIAN GILLET, LE MILITAIRE FRANÇAIS TUÉ APRÈS UN TIR ACCIDENTEL?",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:48",
+      "date": "10/06",
+      "timestamp": 1781110106
+    },
     {
       "id": "BFMTV_1781107484",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "08:40",
       "date": "08/06",
       "timestamp": 1780908030
-    },
-    {
-      "id": "BFMTV_1780907912",
-      "source": "BFMTV",
-      "text": "PHILIPPINES: UN PUISSANT SÉISME DE MAGNITUDE 7,8 FAIT AU MOINS 15 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:38",
-      "date": "08/06",
-      "timestamp": 1780907912
-    },
-    {
-      "id": "BFMTV_1780907120",
-      "source": "BFMTV",
-      "text": "\"CECI EST INACCEPTABLE\": BFMTV AUX FUNÉRAILLES DE TROIS MILITAIRES LIBANAIS TUÉS PAR UNE FRAPPE ISRAÉLIENNE DANS LE SUD DU PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:25",
-      "date": "08/06",
-      "timestamp": 1780907120
-    },
-    {
-      "id": "BFMTV_1780900565",
-      "source": "BFMTV",
-      "text": "AU MOINS 15 MORTS APRÈS UN SÉISME DE MAGNITUDE 7,8 AUX PHILIPPINES, DES ALERTES TSUNAMI EN COURS DANS PLUSIEURS PAYS DU PACIFIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:36",
-      "date": "08/06",
-      "timestamp": 1780900565
-    },
-    {
-      "id": "BFMTV_1780900517",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL FRAPPE UNE USINE PÉTROCHIMIQUE DANS LE SUD-OUEST DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:35",
-      "date": "08/06",
-      "timestamp": 1780900517
-    },
-    {
-      "id": "BFMTV_1780898171",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ET L'IRAN REPRENNENT LEURS ATTAQUES RÉCIPROQUES, LA TRÊVE PLUS QUE JAMAIS MENACÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:56",
-      "date": "08/06",
-      "timestamp": 1780898171
-    },
-    {
-      "id": "BFMTV_1780896591",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN MORT DANS UNE FRAPPE DE DRONE CONTRE UN TRAIN RELIANT MOSCOU À LA CRIMÉE ANNEXÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:29",
-      "date": "08/06",
-      "timestamp": 1780896591
     }
   ],
   "france": {
