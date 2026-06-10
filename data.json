@@ -1,7 +1,27 @@
 {
-  "last_update": "10/06 00:12",
+  "last_update": "10/06 04:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781066553",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS FRAPPENT L'IRAN APRÈS L'ATTAQUE D'UN HÉLICOPTÈRE AMÉRICAIN, TÉHÉRAN RIPOSTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "10/06",
+      "timestamp": 1781066553
+    },
+    {
+      "id": "BFMTV_1781064834",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT AVOIR VISÉ DES BASES AMÉRICAINES DU GOLFE EN RIPOSTE À DES FRAPPES DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:13",
+      "date": "10/06",
+      "timestamp": 1781064834
+    },
     {
       "id": "BFMTV_1781044149",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "17:11",
       "date": "07/06",
       "timestamp": 1780852286
-    },
-    {
-      "id": "BFMTV_1780852286",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:11",
-      "date": "07/06",
-      "timestamp": 1780852286
-    },
-    {
-      "id": "BFMTV_1780847674",
-      "source": "BFMTV",
-      "text": "ARÈNE DE MMA À LA MAISON-BLANCHE: DONALD TRUMP LA COMPARE À LA TOUR EIFFEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:54",
-      "date": "07/06",
-      "timestamp": 1780847674
     }
   ],
   "france": {
