@@ -1,7 +1,37 @@
 {
-  "last_update": "10/06 21:16",
+  "last_update": "10/06 23:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781130173",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE DES \"FRAPPES DÉFENSIVES\" CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:22",
+      "date": "10/06",
+      "timestamp": 1781130173
+    },
+    {
+      "id": "BFMTV_1781130134",
+      "source": "BFMTV",
+      "text": "ILLUMINATIONS, SONS... LES IMAGES IMPRESSIONNANTES DE LA BÉNÉDICTION DE LA PLUS HAUTE TOUR DE LA SAGRADA FAMILIA PAR LE PAPE LÉON XIV",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:22",
+      "date": "10/06",
+      "timestamp": 1781130134
+    },
+    {
+      "id": "BFMTV_1781126870",
+      "source": "BFMTV",
+      "text": "IRAN/USA: \"SI NOUS DEVONS NÉGOCIER AVEC DES BOMBES, NOUS NÉGOCIERONS AVEC DES BOMBES\", DÉCLARE PETE HEGSETH",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:27",
+      "date": "10/06",
+      "timestamp": 1781126870
+    },
     {
       "id": "BFMTV_1781124606",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "10:58",
       "date": "08/06",
       "timestamp": 1780916326
-    },
-    {
-      "id": "BFMTV_1780913745",
-      "source": "BFMTV",
-      "text": "JEAN-NOËL BARROT \"CONDAMNE\" LES FRAPPES IRANIENNES SUR ISRAËL ET APPELLE \"TOUTES LES PARTIES À LA RETENUE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:15",
-      "date": "08/06",
-      "timestamp": 1780913745
-    },
-    {
-      "id": "OPEX360_1780911304",
-      "source": "OPEX360",
-      "text": "UN HÉLICOPTÈRE DE LA GENDARMERIE NATIONALE S’EST ÉCRASÉ DANS LA RÉGION D’ORLÉANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:35",
-      "date": "08/06",
-      "timestamp": 1780911304
-    },
-    {
-      "id": "BFMTV_1780911108",
-      "source": "BFMTV",
-      "text": "UNE VILLE JAPONAISE FERME PRÈS DE 100 ÉCOLES APRÈS PLUSIEURS SIGNALEMENTS D'OURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:31",
-      "date": "08/06",
-      "timestamp": 1780911108
     }
   ],
   "france": {
