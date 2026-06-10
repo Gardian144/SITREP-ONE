@@ -1,7 +1,17 @@
 {
-  "last_update": "10/06 08:47",
+  "last_update": "10/06 12:19",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1781087029",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT VEUT INTÉGRER LE MISSILE VL-MICA AU SYSTÈME DE DÉFENSE AÉRIENNE SAMP/T NG",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:23",
+      "date": "10/06",
+      "timestamp": 1781087029
+    },
     {
       "id": "BFMTV_1781081167",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "20:36",
       "date": "07/06",
       "timestamp": 1780864576
-    },
-    {
-      "id": "BFMTV_1780864520",
-      "source": "BFMTV",
-      "text": "REPRISE DES FRAPPES IRANIENNES VERS ISRAËL: DONALD TRUMP DÉCLARE QU'IL VA APPELER BENJAMIN NETANYAHU ET LUI DIRE DE NE PAS RIPOSTER SELON LE MÉDIA AXIOS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:35",
-      "date": "07/06",
-      "timestamp": 1780864520
     }
   ],
   "france": {
