@@ -1,7 +1,57 @@
 {
-  "last_update": "11/06 01:39",
+  "last_update": "11/06 06:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781159000",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE AVOIR MENÉ \"DE NOUVELLES FRAPPES DÉFENSIVES\" EN IRAN, TÉHÉRAN RIPOSTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:23",
+      "date": "11/06",
+      "timestamp": 1781159000
+    },
+    {
+      "id": "BFMTV_1781154844",
+      "source": "BFMTV",
+      "text": "DISSIDENTS, JOURNALISTES, COMMUNAUTÉ JUIVE... 22 PAYS, DONT LA FRANCE, DEMANDENT À L'IRAN DE CESSER LES ATTAQUES \"SUR LEURS TERRITOIRES\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:14",
+      "date": "11/06",
+      "timestamp": 1781154844
+    },
+    {
+      "id": "BFMTV_1781152454",
+      "source": "BFMTV",
+      "text": "LE PAPE LÉON XIV A BÉNI LA PLUS HAUTE TOUR DE LA SAGRADA FAMILIA",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:34",
+      "date": "11/06",
+      "timestamp": 1781152454
+    },
+    {
+      "id": "BFMTV_1781152298",
+      "source": "BFMTV",
+      "text": "AGRESSION AU COUTEAU À BELFAST: NOUVELLE NUIT DE MANIFESTATIONS ET DE VIOLENCES, LA POLICE FAIT USAGE D'UN CANON À EAU",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:31",
+      "date": "11/06",
+      "timestamp": 1781152298
+    },
+    {
+      "id": "BFMTV_1781151375",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN RÉPLIQUE FACE AUX BOMBARDEMENTS AMÉRICAINS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:16",
+      "date": "11/06",
+      "timestamp": 1781151375
+    },
     {
       "id": "BFMTV_1781130173",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "15:01",
       "date": "08/06",
       "timestamp": 1780930868
-    },
-    {
-      "id": "BFMTV_1780930598",
-      "source": "BFMTV",
-      "text": "ÎLE MAURICE: APRÈS LE GROENLAND, LES ÉTATS-UNIS ENVISAGENT DE RACHETER LES ÎLES CHAGOS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:56",
-      "date": "08/06",
-      "timestamp": 1780930598
-    },
-    {
-      "id": "BFMTV_1780928897",
-      "source": "BFMTV",
-      "text": "UN DRONE ERRANT ABATTU EN LETTONIE PAR DES RAFALE FRANÇAIS DE L'OTAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:28",
-      "date": "08/06",
-      "timestamp": 1780928897
-    },
-    {
-      "id": "BFMTV_1780927127",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN SUSPEND SON OPÉRATION CONTRE ISRAËL APRÈS DE PREMIÈRES FRAPPES DEPUIS LA TRÊVE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:58",
-      "date": "08/06",
-      "timestamp": 1780927127
-    },
-    {
-      "id": "BFMTV_1780920373",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN ANNONCE UNE \"CESSATION\" DES FRAPPES CONTRE ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:06",
-      "date": "08/06",
-      "timestamp": 1780920373
-    },
-    {
-      "id": "OPEX360_1780916326",
-      "source": "OPEX360",
-      "text": "UN RAFALE FRANÇAIS A ABATTU UN DRONE ÉGARÉ DANS L’ESPACE AÉRIEN DE LA LETTONIE",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:58",
-      "date": "08/06",
-      "timestamp": 1780916326
     }
   ],
   "france": {
