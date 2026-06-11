@@ -1,7 +1,67 @@
 {
-  "last_update": "11/06 14:54",
+  "last_update": "11/06 18:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781199569",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE \"ANNULER\" LES FRAPPES AMÉRICAINES PRÉVUES CE SOIR SUR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:39",
+      "date": "11/06",
+      "timestamp": 1781199569
+    },
+    {
+      "id": "BFMTV_1781199340",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE ANNULER LES FRAPPES AMÉRICAINES PRÉVUES CE SOIR CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:35",
+      "date": "11/06",
+      "timestamp": 1781199340
+    },
+    {
+      "id": "OPEX360_1781198922",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES A COMMANDÉ À MBDA LE DÉVELOPPEMENT DU MISSILE À CAPACITÉ NUCLÉAIRE ASN4G",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:28",
+      "date": "11/06",
+      "timestamp": 1781198922
+    },
+    {
+      "id": "OPEX360_1781198664",
+      "source": "OPEX360",
+      "text": "LA GAZELLE ÉTANT IRREMPLAÇABLE, L’ARMÉE DE TERRE SONGE À DOTER SES FUTURS HÉLICOPTÈRES GUÉPARD DE MISSILES ANTICHARS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:24",
+      "date": "11/06",
+      "timestamp": 1781198664
+    },
+    {
+      "id": "BFMTV_1781193677",
+      "source": "BFMTV",
+      "text": "LES LOCAUX DU PENTAGONE ÉVACUÉS APRÈS UNE FAUSSE ALERTE SUR UN \"INCIDENT LIÉ À DES SUBSTANCES DANGEREUSES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:01",
+      "date": "11/06",
+      "timestamp": 1781193677
+    },
+    {
+      "id": "BFMTV_1781190088",
+      "source": "BFMTV",
+      "text": "AGRESSION AU COUTEAU À BELFAST: APRÈS UNE NOUVELLE NUIT D'ÉMEUTES, DOWNING STREET DÉNONCE DES VIOLENCES \"RACISTES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:01",
+      "date": "11/06",
+      "timestamp": 1781190088
+    },
     {
       "id": "OPEX360_1781189194",
       "source": "OPEX360",
@@ -941,66 +1001,6 @@
       "time": "13:14",
       "date": "09/06",
       "timestamp": 1781010890
-    },
-    {
-      "id": "BFMTV_1781009327",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE \"LES NÉGOCIATIONS AVEC L'IRAN SE POURSUIVENT\" ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:48",
-      "date": "09/06",
-      "timestamp": 1781009327
-    },
-    {
-      "id": "BFMTV_1781008830",
-      "source": "BFMTV",
-      "text": "LA BATAILLE POUR LA MAIRIE DE LOS ANGELES SE JOUERA ENTRE DEUX DÉMOCRATES",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:40",
-      "date": "09/06",
-      "timestamp": 1781008830
-    },
-    {
-      "id": "BFMTV_1781005960",
-      "source": "BFMTV",
-      "text": "CABILLAUD RUSSE: LE SECTEUR DE LA PÊCHE INCLUS POUR LA PREMIÈRE FOIS DANS LE PAQUET EUROPÉEN DE SANCTIONS CONTRE LA RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:52",
-      "date": "09/06",
-      "timestamp": 1781005960
-    },
-    {
-      "id": "BFMTV_1781004382",
-      "source": "BFMTV",
-      "text": "URSULA VON DER LEYEN VEUT INTERDIRE L’ENTRÉE DES ANCIENS COMBATTANTS RUSSES DANS L'UNION EUROPÉENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:26",
-      "date": "09/06",
-      "timestamp": 1781004382
-    },
-    {
-      "id": "BFMTV_1781004159",
-      "source": "BFMTV",
-      "text": "LES 9 ÉTATS DOTÉS DE L'ARME NUCLÉAIRE ONT DÉPENSÉ PRÈS DE 17 MILLIARDS DE DOLLARS DE PLUS QUE L’AN DERNIER CONSACRÉES À LEURS ARSENAUX NUCLÉAIRES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:22",
-      "date": "09/06",
-      "timestamp": 1781004159
-    },
-    {
-      "id": "BFMTV_1781002216",
-      "source": "BFMTV",
-      "text": "UNE DÉLÉGATION LFI AU LIBAN POUR RENCONTRER LE PRÉSIDENT JOSEPH AOUN ET AFFIRMER LA \"SOLIDARITÉ AVEC LE PEUPLE LIBANAIS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:50",
-      "date": "09/06",
-      "timestamp": 1781002216
     }
   ],
   "france": {
