@@ -1,11 +1,111 @@
 {
-  "last_update": "11/06 18:12",
+  "last_update": "11/06 20:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781209904",
+      "source": "BFMTV",
+      "text": "UN ACCORD SIGNÉ \"BIENTÔT\" ET APPROUVÉ PAR LE GUIDE SUPRÊME IRANIEN ANNONCE LE PRÉSIDENT AMÉRICAIN DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:31",
+      "date": "11/06",
+      "timestamp": 1781209904
+    },
+    {
+      "id": "BFMTV_1781209814",
+      "source": "BFMTV",
+      "text": "LE SECRÉTAIRE D'ETAT MARCO RUBIO SIGNE UN PROTOCOLE DE DIPLOMATIE SPORTIVE, AVEC DANA WHITE, PRÉSIDENT-DIRECTEUR GÉNÉRAL DE L'UFC",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:30",
+      "date": "11/06",
+      "timestamp": 1781209814
+    },
+    {
+      "id": "BFMTV_1781208903",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE “UN DEAL AVEC L’IRAN, APPROUVÉ PAR MOJTABA KHAMENEI” ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:15",
+      "date": "11/06",
+      "timestamp": 1781208903
+    },
+    {
+      "id": "BFMTV_1781208850",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DONALD TRUMP AFFIRME QUE LE GUIDE SUPRÊME IRANIEN MOJTABA KHAMENEI A VALIDÉ L'ACCORD AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:14",
+      "date": "11/06",
+      "timestamp": 1781208850
+    },
+    {
+      "id": "BFMTV_1781208520",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE GUIDE SUPRÊME IRANIEN A VALIDÉ L'ACCORD AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:08",
+      "date": "11/06",
+      "timestamp": 1781208520
+    },
+    {
+      "id": "BFMTV_1781204897",
+      "source": "BFMTV",
+      "text": "\"VOUS ÊTES MALHONNÊTE\" : COMMENT DONALD TRUMP A FAIT DES JOURNALISTES SON ADVERSAIRE FAVORI",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:08",
+      "date": "11/06",
+      "timestamp": 1781204897
+    },
+    {
+      "id": "BFMTV_1781204571",
+      "source": "BFMTV",
+      "text": "AFFAIRE LYHANNA: LES ÉTATS-UNIS AVAIENT SIGNALÉ À LA FRANCE LE COMPORTEMENT DE JÉRÔME BARELLA",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:02",
+      "date": "11/06",
+      "timestamp": 1781204571
+    },
+    {
+      "id": "BFMTV_1781202378",
+      "source": "BFMTV",
+      "text": "HÉLICOPTÈRE AMÉRICAIN APACHE ABATTU: LE RÉCIT D'UN SAUVETAGE EN MER",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:26",
+      "date": "11/06",
+      "timestamp": 1781202378
+    },
+    {
+      "id": "BFMTV_1781202221",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE ANNULER LES FRAPPES AMÉRICAINES PRÉVUES CE SOIR CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:23",
+      "date": "11/06",
+      "timestamp": 1781202221
+    },
     {
       "id": "BFMTV_1781199569",
       "source": "BFMTV",
       "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE \"ANNULER\" LES FRAPPES AMÉRICAINES PRÉVUES CE SOIR SUR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:39",
+      "date": "11/06",
+      "timestamp": 1781199569
+    },
+    {
+      "id": "BFMTV_1781199569",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP \"ANNULE\" LES FRAPPES PRÉVUES CE SOIR SUR L'IRAN ET ÉVOQUE UNE SIGNATURE D'ACCORD \"PEUT-ÊTRE EN EUROPE\" DANS LES PROCHAINS JOURS",
       "urgent": true,
       "france_related": false,
       "time": "17:39",
@@ -901,106 +1001,6 @@
       "time": "17:27",
       "date": "09/06",
       "timestamp": 1781026064
-    },
-    {
-      "id": "BFMTV_1781025455",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:17",
-      "date": "09/06",
-      "timestamp": 1781025455
-    },
-    {
-      "id": "BFMTV_1781024337",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP PROMET DE \"RÉPLIQUER\" APRÈS QUE \"LES IRANIENS ONT ABATTU\" UN HÉLICOPTÈRE AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:58",
-      "date": "09/06",
-      "timestamp": 1781024337
-    },
-    {
-      "id": "BFMTV_1781023759",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP PROMET DE \"RÉPLIQUER\" APRÈS QUE \"LES IRANIENS ONT ABATTU\" UN HÉLICOPTÈRE AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:49",
-      "date": "09/06",
-      "timestamp": 1781023759
-    },
-    {
-      "id": "OPEX360_1781022343",
-      "source": "OPEX360",
-      "text": "LA SUISSE A COMMANDÉ 32 OBUSIERS AUTOMOTEURS DONAR 10×10 DE 155 MM AUPRÈS DE KNDS DEUTSCHLAND",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:25",
-      "date": "09/06",
-      "timestamp": 1781022343
-    },
-    {
-      "id": "BFMTV_1781016642",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT CHINOIS VEUT PORTER LA RELATION AVEC LA CORÉE DU NORD À “DE NOUVEAUX SOMMETS”",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:50",
-      "date": "09/06",
-      "timestamp": 1781016642
-    },
-    {
-      "id": "BFMTV_1781016314",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: UN HÉLICOPTÈRE AMÉRICAIN S'ÉCRASE EN MER D'OMAN, LES DEUX PILOTES SECOURUS PAR L'ARMÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:45",
-      "date": "09/06",
-      "timestamp": 1781016314
-    },
-    {
-      "id": "OPEX360_1781014423",
-      "source": "OPEX360",
-      "text": "LE COÛT D’EXPLOITATION DES VINGT-SEPT F-35A DANOIS SERA PLUS ÉLEVÉ DE 25 % PAR RAPPORT AUX ESTIMATIONS INITIALES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:13",
-      "date": "09/06",
-      "timestamp": 1781014423
-    },
-    {
-      "id": "BFMTV_1781013737",
-      "source": "BFMTV",
-      "text": "LE PREMIER MINISTRE BRITANNIQUE DÉNONCE UNE ATTAQUE AU COUTEAU \"RÉVOLTANTE\" À BELFAST, DES APPELS À MANIFESTER LANCÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:02",
-      "date": "09/06",
-      "timestamp": 1781013737
-    },
-    {
-      "id": "BFMTV_1781013088",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UNE FRAPPE ISRAÉLIENNE FAIT HUIT MORTS À TYR AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:51",
-      "date": "09/06",
-      "timestamp": 1781013088
-    },
-    {
-      "id": "BFMTV_1781010890",
-      "source": "BFMTV",
-      "text": "MONDIAL 2026: UN ARBITRE SOMALIEN NE POURRA PAS PARTICIPER APRÈS AVOIR ÉTÉ REFOULÉ LORS DE SON ENTRÉE AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:14",
-      "date": "09/06",
-      "timestamp": 1781010890
     }
   ],
   "france": {
