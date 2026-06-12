@@ -1,7 +1,87 @@
 {
-  "last_update": "12/06 09:11",
+  "last_update": "12/06 12:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781267017",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU ASSURE QUE DONALD TRUMP ET LUI SONT \"ENTIÈREMENT D'ACCORD\" POUR QUE L'IRAN N'AIT JAMAIS LA BOMBE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:23",
+      "date": "12/06",
+      "timestamp": 1781267017
+    },
+    {
+      "id": "BFMTV_1781264609",
+      "source": "BFMTV",
+      "text": "LA CHINE CONFIRME DÉTENIR UN CITOYEN AMÉRICAIN SOUPÇONNÉ D'ESPIONNAGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:43",
+      "date": "12/06",
+      "timestamp": 1781264609
+    },
+    {
+      "id": "BFMTV_1781261020",
+      "source": "BFMTV",
+      "text": "UN BÉBÉ PALESTINIEN TUÉ PAR DES SOLDATS: LA VERSION DE L’ARMÉE ISRAÉLIENNE EST MISE À MAL PAR UNE VIDÉO D’UNE ONG",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:43",
+      "date": "12/06",
+      "timestamp": 1781261020
+    },
+    {
+      "id": "OPEX360_1781260090",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT A PUBLIÉ UNE DEMANDE D’INFORMATIONS SUR LES DRONES DE COMBAT COLLABORATIF",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:28",
+      "date": "12/06",
+      "timestamp": 1781260090
+    },
+    {
+      "id": "BFMTV_1781259659",
+      "source": "BFMTV",
+      "text": "CALIFORNIE: UN POLICIER BLESSÉ PAR LE TIR DE SON PROPRE COLLÈGUE APRÈS UNE PLAISANTERIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:20",
+      "date": "12/06",
+      "timestamp": 1781259659
+    },
+    {
+      "id": "BFMTV_1781259508",
+      "source": "BFMTV",
+      "text": "UNE ARÈNE DE MMA INSTALLÉE DANS LES JARDINS DE LA MAISON BLANCHE POUR LES 80 ANS DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:18",
+      "date": "12/06",
+      "timestamp": 1781259508
+    },
+    {
+      "id": "BFMTV_1781256326",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES TOUS, D'UNE CERTAINE MANIÈRE, DES MIGRANTS\": LE PAPE LÉON XIV FINIT SA VISITE EN ESPAGNE PAR UN DÉPLACEMENT AUX CANARIES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:25",
+      "date": "12/06",
+      "timestamp": 1781256326
+    },
+    {
+      "id": "BFMTV_1781256115",
+      "source": "BFMTV",
+      "text": "CONSIDÉRÉE COMME UNE MENACE ENVERS DONALD TRUMP, L’INSCRIPTION DU NUMÉRO 8647 AU NATIONAL MALL DE WASHINGTON FAIT L’OBJET D’UNE ENQUÊTE  ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:21",
+      "date": "12/06",
+      "timestamp": 1781256115
+    },
     {
       "id": "BFMTV_1781255304",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "15:23",
       "date": "10/06",
       "timestamp": 1781105015
-    },
-    {
-      "id": "OPEX360_1781103589",
-      "source": "OPEX360",
-      "text": "UN SOLDAT DU 8E RÉGIMENT DE PARACHUTISTES D’INFANTERIE DE MARINE EST MORT ACCIDENTELLEMENT AU LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:59",
-      "date": "10/06",
-      "timestamp": 1781103589
-    },
-    {
-      "id": "BFMTV_1781101582",
-      "source": "BFMTV",
-      "text": "UNE PERSONNE COLLE 200 PORTES DANS UN LYCÉE AUX ÉTATS-UNIS ET ENGENDRE 70.000 DOLLARS DE DOMMAGES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:26",
-      "date": "10/06",
-      "timestamp": 1781101582
-    },
-    {
-      "id": "BFMTV_1781101502",
-      "source": "BFMTV",
-      "text": "TOUT COMPRENDRE. ATTAQUE AU COUTEAU, APPELS À LA HAINE, ÉMEUTES XÉNOPHOBES... QUE SE PASSE-T-IL À BELFAST?",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:25",
-      "date": "10/06",
-      "timestamp": 1781101502
-    },
-    {
-      "id": "BFMTV_1781099933",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: MORT D'UN SOLDAT FRANÇAIS EN OPÉRATION AU LIBAN \"ATTEINT PAR UN TIR ACCIDENTEL\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:58",
-      "date": "10/06",
-      "timestamp": 1781099933
-    },
-    {
-      "id": "BFMTV_1781099583",
-      "source": "BFMTV",
-      "text": "\"LES TROUBLES NE SONT PAS LES BIENVENUS\": LA FAMILLE DE LA VICTIME D'UNE ATTAQUE AU COUTEAU À BELFAST LANCE UN APPEL AU \"CALME\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:53",
-      "date": "10/06",
-      "timestamp": 1781099583
-    },
-    {
-      "id": "OPEX360_1781099452",
-      "source": "OPEX360",
-      "text": "APRÈS L’ÉCHEC DU SCAF, BERLIN ENVISAGE QUATRE OPTIONS POUR MODERNISER SA FORCE AÉRIENNE, DONT L’ACHAT DE F-35 SUPPLÉMENTAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:50",
-      "date": "10/06",
-      "timestamp": 1781099452
-    },
-    {
-      "id": "BFMTV_1781098916",
-      "source": "BFMTV",
-      "text": "INCENDIE MEURTRIER À HONG KONG: SEPT PERSONNES ET DEUX ENTREPRISES INCULPÉES APRÈS LE FEU QUI AVAIT FAIT 168 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:41",
-      "date": "10/06",
-      "timestamp": 1781098916
-    },
-    {
-      "id": "BFMTV_1781097834",
-      "source": "BFMTV",
-      "text": "PETE HEGSETH ARRIVE SUR LA BASE AMÉRICAINE DE GUANTANAMO BAY",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:23",
-      "date": "10/06",
-      "timestamp": 1781097834
     }
   ],
   "france": {
