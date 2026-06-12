@@ -1,7 +1,67 @@
 {
-  "last_update": "12/06 20:25",
+  "last_update": "12/06 22:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781301542",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN INDIQUE QUE L'ACCORD SIGNÉ AVEC WASHINGTON SE FERA DANS \"LES PROCHAINS JOURS\" ET \"À DISTANCE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:59",
+      "date": "12/06",
+      "timestamp": 1781301542
+    },
+    {
+      "id": "BFMTV_1781299700",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - LE COMPORTEMENT EN LIGNE DE JÉRÔME BARELLA SIGNALÉ PAR LES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:28",
+      "date": "12/06",
+      "timestamp": 1781299700
+    },
+    {
+      "id": "BFMTV_1781297492",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: TÉHÉRAN A \"BON ESPOIR\" DE SIGNER UN ACCORD \"À DISTANCE\", \"DANS LES PROCHAINS JOURS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:51",
+      "date": "12/06",
+      "timestamp": 1781297492
+    },
+    {
+      "id": "BFMTV_1781297296",
+      "source": "BFMTV",
+      "text": "ACCORD IMMINENT ENTRE L'IRAN ET LES ÉTATS-UNIS ? LA VIVE INQUIÉTUDE DES ISRAÉLIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:48",
+      "date": "12/06",
+      "timestamp": 1781297296
+    },
+    {
+      "id": "BFMTV_1781296726",
+      "source": "BFMTV",
+      "text": "URANIUM ENRICHI: L'IRAN ESTIME QUE LA SEULE SOLUTION EST DE DILUER LES STOCKS SUR SON SOL ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:38",
+      "date": "12/06",
+      "timestamp": 1781296726
+    },
+    {
+      "id": "BFMTV_1781296619",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: SELON UN HAUT RESPONSABLE AMÉRICAIN, IL Y A \"80 À 85%\" DE CHANCES QUE LES DEUX PAYS SIGNENT UN ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:36",
+      "date": "12/06",
+      "timestamp": 1781296619
+    },
     {
       "id": "BFMTV_1781290456",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "10:38",
       "date": "11/06",
       "timestamp": 1781174286
-    },
-    {
-      "id": "OPEX360_1781174286",
-      "source": "OPEX360",
-      "text": "AIRBUS DÉVOILE LE DRONE DE COMBAT COLLABORATIF U760 RAVENSTORM, DÉDIÉ AUX OPÉRATIONS MULTIDOMAINES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:38",
-      "date": "11/06",
-      "timestamp": 1781174286
-    },
-    {
-      "id": "BFMTV_1781173768",
-      "source": "BFMTV",
-      "text": "UNE TV OFFERTE AUX SUPPORTERS ARGENTINS DONT LA DEMANDE DE VISA POUR LES ÉTATS-UNIS A ÉTÉ REFUSÉE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:29",
-      "date": "11/06",
-      "timestamp": 1781173768
-    },
-    {
-      "id": "BFMTV_1781172669",
-      "source": "BFMTV",
-      "text": "\"ON VERRA BIEN CE QUE DONNERA CET ACCORD\": DONALD TRUMP AFFIRME CONTINUER DE \"FRAPPER FORT\" L'IRAN BIEN QUE LES NÉGOCIATIONS SONT TOUJOURS EN COURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:11",
-      "date": "11/06",
-      "timestamp": 1781172669
-    },
-    {
-      "id": "BFMTV_1781171127",
-      "source": "BFMTV",
-      "text": "CHINE: UNE FEMME ÉCHAPPE DE JUSTESSE À LA CHUTE D'UN ARBRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:45",
-      "date": "11/06",
-      "timestamp": 1781171127
-    },
-    {
-      "id": "BFMTV_1781170759",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN GARANTIT QUE LE DÉTROIT D'ORMUZ EST \"FERMÉ JUSQU'À NOUVEL ORDRE\" MALGRÉ LES DÉMENTIS AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:39",
-      "date": "11/06",
-      "timestamp": 1781170759
-    },
-    {
-      "id": "BFMTV_1781170252",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ESTIME LE CESSEZ-LE-FEU \"PRATIQUEMENT DÉNUÉ DE SENS\" APRÈS LES DERNIÈRES FRAPPES AMÉRICAINES",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:30",
-      "date": "11/06",
-      "timestamp": 1781170252
     }
   ],
   "france": {
