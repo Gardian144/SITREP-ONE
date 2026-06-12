@@ -1,7 +1,127 @@
 {
-  "last_update": "12/06 12:31",
+  "last_update": "12/06 15:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781279085",
+      "source": "BFMTV",
+      "text": "FIN DU SCAF: \"CE N'EST PAS LA FIN DU MONDE NON PLUS, LA FRANCE SAIT FAIRE DES AVIONS DE COMBAT\", RASSURE LE DÉLÉGUÉ GÉNÉRAL POUR L'ARMEMENT",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:44",
+      "date": "12/06",
+      "timestamp": 1781279085
+    },
+    {
+      "id": "BFMTV_1781276959",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES TERMES DE L'ACCORD DIVULGUÉS PAR TÉHÉRAN N'ONT \"RIEN À VOIR AVEC CE QUI A ÉTÉ CONVENU\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:09",
+      "date": "12/06",
+      "timestamp": 1781276959
+    },
+    {
+      "id": "BFMTV_1781276536",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: DONALD TRUMP AFFIRME QUE LES TERMES DE L'ACCORD DIVULGUÉS PAR TÉHÉRAN N'ONT \"RIEN À VOIR AVEC CE QUI A ÉTÉ CONVENU\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:02",
+      "date": "12/06",
+      "timestamp": 1781276536
+    },
+    {
+      "id": "BFMTV_1781276333",
+      "source": "BFMTV",
+      "text": "L'EUROPE A UNE \"GÉNÉRATION DE RETARD\" SUR SA \"DÉPENSE MILITAIRE\", AFFIRME THOMAS GOMARD, DIRECTEUR DE L'IFRI",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:58",
+      "date": "12/06",
+      "timestamp": 1781276333
+    },
+    {
+      "id": "BFMTV_1781274293",
+      "source": "BFMTV",
+      "text": "DES MILLIERS D'ALBANAIS MANIFESTENT CONTRE UN PROJET DE COMPLEXE HÔTELIER LIÉ À LA FAMILLE TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:24",
+      "date": "12/06",
+      "timestamp": 1781274293
+    },
+    {
+      "id": "BFMTV_1781274040",
+      "source": "BFMTV",
+      "text": "SANCTIONS CONTRE LA RUSSIE: \"LES GUERRES PRENNENT FIN LORSQUE L'AGRESSEUR EST À COURT D'ARGENT\", RAPPELLE LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:20",
+      "date": "12/06",
+      "timestamp": 1781274040
+    },
+    {
+      "id": "OPEX360_1781271075",
+      "source": "OPEX360",
+      "text": "AVIONS DE COMBAT : PARIS POURRAIT SE TOURNER VERS STOCKHOLM TANDIS QU’UN AXE ENTRE BERLIN ET MADRID SE DESSINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:31",
+      "date": "12/06",
+      "timestamp": 1781271075
+    },
+    {
+      "id": "BFMTV_1781270512",
+      "source": "BFMTV",
+      "text": "\"IL Y A DES PROBLÈMES QUI RESTENT EN SUSPENS\": LA CHEFFE DE LA DIPLOMATIE DE L’UE, KAJA KALLAS, DÉPLORE LES OBSTACLES À LA SOLUTION À DEUX ÉTATS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:21",
+      "date": "12/06",
+      "timestamp": 1781270512
+    },
+    {
+      "id": "BFMTV_1781269830",
+      "source": "BFMTV",
+      "text": "NUCLÉAIRE IRANIEN: \"L'EUROPE PEUT AIDER\", AFFIRME LA CHEFFE DE LA DIPLOMATIE DE L'UE, APRÈS L'ACCORD ANNONCÉ PAR DONALD TRUMP AVEC TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:10",
+      "date": "12/06",
+      "timestamp": 1781269830
+    },
+    {
+      "id": "BFMTV_1781269529",
+      "source": "BFMTV",
+      "text": "LE NIGER CRIMINALISE L’HOMOSEXUALITÉ DANS SON NOUVEAU CODE PÉNAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:05",
+      "date": "12/06",
+      "timestamp": 1781269529
+    },
+    {
+      "id": "BFMTV_1781269090",
+      "source": "BFMTV",
+      "text": "\"ON EST UN PEU OPTIMISTES\": LA PRUDENCE DE BRUXELLES APRÈS L'ANNONCE DE DONALD TRUMP D'UN ACCORD AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:58",
+      "date": "12/06",
+      "timestamp": 1781269090
+    },
+    {
+      "id": "BFMTV_1781269011",
+      "source": "BFMTV",
+      "text": "QUÉBEC: CES VIDÉOS DE CRIMES GÉNÉRÉES PAR IA FONT DES MILLIERS DE VUES SUR FACEBOOK, LA POLICE S'INQUIÈTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:56",
+      "date": "12/06",
+      "timestamp": 1781269011
+    },
     {
       "id": "BFMTV_1781267017",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "20:49",
       "date": "10/06",
       "timestamp": 1781124541
-    },
-    {
-      "id": "BFMTV_1781124369",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:46",
-      "date": "10/06",
-      "timestamp": 1781124369
-    },
-    {
-      "id": "BFMTV_1781124368",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN: BILL GATES ASSURE DEVANT LE CONGRÈS AMÉRICAIN \"N'AVOIR JAMAIS FAIT DE MAL À QUICONQUE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:46",
-      "date": "10/06",
-      "timestamp": 1781124368
-    },
-    {
-      "id": "BFMTV_1781113096",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS VONT \"ATTAQUER TRÈS DUREMENT\" L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:38",
-      "date": "10/06",
-      "timestamp": 1781113096
-    },
-    {
-      "id": "BFMTV_1781112942",
-      "source": "BFMTV",
-      "text": "LE PAPE LÉON XIV ARRIVE À LA SAGRADA FAMILIA",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:35",
-      "date": "10/06",
-      "timestamp": 1781112942
-    },
-    {
-      "id": "BFMTV_1781112924",
-      "source": "BFMTV",
-      "text": " L'ÉGYPTE, L'ARABIE SAOUDITE, LE QATAR ET LES ÉMIRATS ARABES UNIS, INVITÉS AU G7, ANNONCE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:35",
-      "date": "10/06",
-      "timestamp": 1781112924
-    },
-    {
-      "id": "OPEX360_1781112036",
-      "source": "OPEX360",
-      "text": "LOCKHEED MARTIN ASSURE POUVOIR LIVRER DES M142 HIMARS À LA FRANCE 18 MOIS APRÈS LA NOTIFICATION D’UNE COMMANDE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:20",
-      "date": "10/06",
-      "timestamp": 1781112036
-    },
-    {
-      "id": "BFMTV_1781111055",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON ANNONCE QUE VOLODYMYR ZELENSKY PARTICIPERA AU G7",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:04",
-      "date": "10/06",
-      "timestamp": 1781111055
-    },
-    {
-      "id": "BFMTV_1781110106",
-      "source": "BFMTV",
-      "text": "LIBAN: QUI ÉTAIT FLORIAN GILLET, LE MILITAIRE FRANÇAIS TUÉ APRÈS UN TIR ACCIDENTEL?",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:48",
-      "date": "10/06",
-      "timestamp": 1781110106
-    },
-    {
-      "id": "BFMTV_1781107484",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS VONT \"ATTAQUER TRÈS DUREMENT\" L'IRAN, ASSURE DONALD TRUMP ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:04",
-      "date": "10/06",
-      "timestamp": 1781107484
-    },
-    {
-      "id": "BFMTV_1781106777",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS \"VONT ATTAQUER\" L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:52",
-      "date": "10/06",
-      "timestamp": 1781106777
-    },
-    {
-      "id": "BFMTV_1781105254",
-      "source": "BFMTV",
-      "text": "\"QU'A-T-IL VU ? QUE SAVAIT-IL ?\": BILL GATES AUDITIONNÉ À HUIS CLOS SUR L'AFFAIRE ESPTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:27",
-      "date": "10/06",
-      "timestamp": 1781105254
-    },
-    {
-      "id": "BFMTV_1781105015",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN SOLDAT FRANÇAIS DE 21 ANS EST MORT EN OPÉRATION AU LIBAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:23",
-      "date": "10/06",
-      "timestamp": 1781105015
     }
   ],
   "france": {
