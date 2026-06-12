@@ -1,11 +1,141 @@
 {
-  "last_update": "12/06 05:02",
+  "last_update": "12/06 09:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781255304",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL AFFIRME AVOIR \"ÉLIMINÉ\" 80 MEMBRES DU HEZBOLLAH CETTE SEMAINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:08",
+      "date": "12/06",
+      "timestamp": 1781255304
+    },
+    {
+      "id": "BFMTV_1781254847",
+      "source": "BFMTV",
+      "text": "ABANDON DU SCAF: \"NOUS EN AVONS BESOIN\", ASSURE LE GÉNÉRAL JÉRÔME BELLANGER, CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE L'AIR ET DE L'ESPACE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:00",
+      "date": "12/06",
+      "timestamp": 1781254847
+    },
+    {
+      "id": "BFMTV_1781254807",
+      "source": "BFMTV",
+      "text": "FIN DU SCAF: \"IL NE FAUT PAS VOIR ÇA COMME UN ÉCHEC DE LA COOPÉRATION FRANCO-ALLEMANDE\", EXPLIQUE LE DIRECTEUR GÉNÉRAL DE SAFRAN",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:00",
+      "date": "12/06",
+      "timestamp": 1781254807
+    },
+    {
+      "id": "BFMTV_1781254438",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - CE QUE PRÉVOIT LE NOUVEL ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN QUE DONALD TRUMP DIT VOULOIR SIGNER \"CE WEEK-END\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:53",
+      "date": "12/06",
+      "timestamp": 1781254438
+    },
+    {
+      "id": "BFMTV_1781254109",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BFMTV SUR UN SITE PROTÉGÉ PAR L'UNESCO À TYR",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:48",
+      "date": "12/06",
+      "timestamp": 1781254109
+    },
+    {
+      "id": "BFMTV_1781251581",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - LE COMPORTEMENT EN LIGNE DE JÉRÔME BARELLA AVAIT ÉTÉ SIGNALÉ À LA FRANCE PAR LES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:06",
+      "date": "12/06",
+      "timestamp": 1781251581
+    },
+    {
+      "id": "BFMTV_1781250430",
+      "source": "BFMTV",
+      "text": "LA COUR SUPRÊME AMÉRICAINE EMPÊCHE L'EXÉCUTION À L'AZOTE D'UN HOMME EN ALABAMA",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:47",
+      "date": "12/06",
+      "timestamp": 1781250430
+    },
+    {
+      "id": "BFMTV_1781250244",
+      "source": "BFMTV",
+      "text": "ACCORD AVEC L'IRAN ANNONCÉ PAR DONALD TRUMP: L'ANALYSE DU GÉNÉRAL PATRICK DUTARTRE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:44",
+      "date": "12/06",
+      "timestamp": 1781250244
+    },
+    {
+      "id": "BFMTV_1781248984",
+      "source": "BFMTV",
+      "text": "SURVOL DE NEW YORK PAR LA PATROUILLE DE FRANCE: \"UN SYMBOLE EXTRÊMEMENT FORT DE RAYONNEMENT\", JUGE LE GÉNÉRAL PATRICK DUTARTRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:23",
+      "date": "12/06",
+      "timestamp": 1781248984
+    },
+    {
+      "id": "BFMTV_1781248665",
+      "source": "BFMTV",
+      "text": "ABANDON DU SCAF: \"C'EST DÉCEVANT\", ESTIME LE GÉNÉRAL PATRICK DUTARTRE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:17",
+      "date": "12/06",
+      "timestamp": 1781248665
+    },
+    {
+      "id": "BFMTV_1781248194",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME AVOIR VALIDÉ UN ACCORD AVEC L'IRAN, TÉHÉRAN NUANCE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:09",
+      "date": "12/06",
+      "timestamp": 1781248194
+    },
+    {
+      "id": "BFMTV_1781246144",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN: \"ON SE DEMANDE PARFOIS SI DONALD TRUMP NE TRANSFORME PAS SES DÉSIRS EN RÉALITÉ\", JUGE LE GÉNÉRAL PATRICK DUTARTRE ",
+      "urgent": true,
+      "france_related": true,
+      "time": "06:35",
+      "date": "12/06",
+      "timestamp": 1781246144
+    },
     {
       "id": "BFMTV_1781239984",
       "source": "BFMTV",
       "text": "MALGRÉ LES FRAPPES ISRAÉLIENNES, CES LYCÉENS DÉPLACÉS ESPÈRENT POUVOIR PASSER LE BAC",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "12/06",
+      "timestamp": 1781239984
+    },
+    {
+      "id": "BFMTV_1781239984",
+      "source": "BFMTV",
+      "text": "MALGRÉ LES FRAPPES ISRAÉLIENNES, CES LYCÉENS LIBANAIS DÉPLACÉS ESPÈRENT POUVOIR PASSER LE BAC",
       "urgent": true,
       "france_related": false,
       "time": "04:53",
@@ -871,136 +1001,6 @@
       "time": "13:23",
       "date": "10/06",
       "timestamp": 1781097834
-    },
-    {
-      "id": "BFMTV_1781093140",
-      "source": "BFMTV",
-      "text": "UN EX-TALIBAN CONDAMNÉ À 42 ANS DE PRISON AUX ÉTATS-UNIS APRÈS DES ATTAQUES MORTELLES CONTRE DES MILITAIRES AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:05",
-      "date": "10/06",
-      "timestamp": 1781093140
-    },
-    {
-      "id": "BFMTV_1781092447",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ESTIME QUE L'IRAN \"A MIS TROP DE TEMPS À NÉGOCIER\" ET VA \"DEVOIR EN PAYER LE PRIX\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:54",
-      "date": "10/06",
-      "timestamp": 1781092447
-    },
-    {
-      "id": "BFMTV_1781090840",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN \"A MIS TROP DE TEMPS À NÉGOCIER\" ET VA \"DEVOIR EN PAYER LE PRIX\" ASSURE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:27",
-      "date": "10/06",
-      "timestamp": 1781090840
-    },
-    {
-      "id": "BFMTV_1781089968",
-      "source": "BFMTV",
-      "text": "MONDIAL 2026: LES MANIFESTATIONS S'INTENSIFIENT À MEXICO, L'ACCÈS AU STADE DU MATCH D'OUVERTURE BLOQUÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:12",
-      "date": "10/06",
-      "timestamp": 1781089968
-    },
-    {
-      "id": "OPEX360_1781087029",
-      "source": "OPEX360",
-      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT VEUT INTÉGRER LE MISSILE VL-MICA AU SYSTÈME DE DÉFENSE AÉRIENNE SAMP/T NG",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:23",
-      "date": "10/06",
-      "timestamp": 1781087029
-    },
-    {
-      "id": "BFMTV_1781081167",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN ESTIME QUE LA DIPLOMATIE AVEC LES ÉTATS-UNIS A ÉTÉ \"MISE À MAL\" PAR LES FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:46",
-      "date": "10/06",
-      "timestamp": 1781081167
-    },
-    {
-      "id": "BFMTV_1781076759",
-      "source": "BFMTV",
-      "text": "NEW YORK: LA PATROUILLE DE FRANCE SURVOLE LA STATUE DE LA LIBERTÉ",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:32",
-      "date": "10/06",
-      "timestamp": 1781076759
-    },
-    {
-      "id": "BFMTV_1781075722",
-      "source": "BFMTV",
-      "text": "LE PAPE LÉON XIV, EN VISITE À BARCELONE, SERA CE SOIR À LA SAGRADA FAMILIA POUR BÉNIR LA PLUS HAUTE TOUR QUI VIENT JUSTE D'ÊTRE ACHEVÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:15",
-      "date": "10/06",
-      "timestamp": 1781075722
-    },
-    {
-      "id": "BFMTV_1781073525",
-      "source": "BFMTV",
-      "text": "IRLANDE DU NORD: DE VIOLENTES MANIFESTATIONS ANTI-IMMIGRATION APRÈS UNE ATTAQUE AU COUTEAU",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:38",
-      "date": "10/06",
-      "timestamp": 1781073525
-    },
-    {
-      "id": "BFMTV_1781072403",
-      "source": "BFMTV",
-      "text": "MORT BRUTALE DE GAUDI, GUERRE ET PANDÉMIE: LA SAGRADA FAMILIA, L'HISTOIRE D'UNE INTERMINABLE CONSTRUCTION",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:20",
-      "date": "10/06",
-      "timestamp": 1781072403
-    },
-    {
-      "id": "BFMTV_1781072147",
-      "source": "BFMTV",
-      "text": "LES IMAGES DE LA PATROUILLE DE FRANCE SURVOLANT NEW YORK ET LA STATUE DE LA LIBERTÉ",
-      "urgent": false,
-      "france_related": true,
-      "time": "06:15",
-      "date": "10/06",
-      "timestamp": 1781072147
-    },
-    {
-      "id": "BFMTV_1781069714",
-      "source": "BFMTV",
-      "text": "IMMEUBLE INCENDIÉ, \"COCKTAIL MOLOTOV\"... LES IMAGES DES VIOLENCES EN MARGE D'UNE MANIFESTATION ANTI-IMMIGRÉS À BELFAST APRÈS L'AGRESSION AU COUTEAU D'UN HOMME",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:35",
-      "date": "10/06",
-      "timestamp": 1781069714
-    },
-    {
-      "id": "BFMTV_1781069301",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TÉHÉRAN CIBLE DES BASES AMÉRICAINES DANS LE GOLFE EN RÉPONSE AUX FRAPPES DES ÉTATS-UNIS SUR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:28",
-      "date": "10/06",
-      "timestamp": 1781069301
     }
   ],
   "france": {
