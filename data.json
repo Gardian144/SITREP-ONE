@@ -1,7 +1,77 @@
 {
-  "last_update": "12/06 00:05",
+  "last_update": "12/06 05:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781239984",
+      "source": "BFMTV",
+      "text": "MALGRÉ LES FRAPPES ISRAÉLIENNES, CES LYCÉENS DÉPLACÉS ESPÈRENT POUVOIR PASSER LE BAC",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "12/06",
+      "timestamp": 1781239984
+    },
+    {
+      "id": "BFMTV_1781239590",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP JOUE-T-IL AVEC LES COURS DE LA BOURSE? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:46",
+      "date": "12/06",
+      "timestamp": 1781239590
+    },
+    {
+      "id": "BFMTV_1781239168",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN SERAIT VALIDÉ SELON DONALD TRUMP, L'IRAN RÉPOND NE PAS ENCORE AVOIR PRIS DE DÉCISION",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:39",
+      "date": "12/06",
+      "timestamp": 1781239168
+    },
+    {
+      "id": "BFMTV_1781238799",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE AVOIR TROUVÉ \"UN BON ACCORD\" AVEC L'IRAN, TÉHÉRAN DIT NE PAS AVOIR PRIS DE DÉCISION DÉFINITIVE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:33",
+      "date": "12/06",
+      "timestamp": 1781238799
+    },
+    {
+      "id": "BFMTV_1781238451",
+      "source": "BFMTV",
+      "text": "\"86 47\": LA POLICE AMÉRICAINE DES PARCS NATIONAUX ENQUÊTE SUR UNE INSCRIPTION JUGÉE ANTI-DONALD TRUMP AU NATIONAL MALL",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:27",
+      "date": "12/06",
+      "timestamp": 1781238451
+    },
+    {
+      "id": "BFMTV_1781237842",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN \"OPTIMISME PRUDENT\" EN ISRAËL APRÈS L'ANNONCE DE DONALD TRUMP D'UN ACCORD VALIDÉ ENTRE LES ÉTATS-UNIS ET L'IRAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:17",
+      "date": "12/06",
+      "timestamp": 1781237842
+    },
+    {
+      "id": "BFMTV_1781237454",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE GUIDE SUPRÊME IRANIEN A VALIDÉ L'ACCORD AVEC LES ÉTATS-UNIS, L'IRAN NUANCE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:10",
+      "date": "12/06",
+      "timestamp": 1781237454
+    },
     {
       "id": "BFMTV_1781216793",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "05:28",
       "date": "10/06",
       "timestamp": 1781069301
-    },
-    {
-      "id": "BFMTV_1781066553",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS FRAPPENT L'IRAN APRÈS L'ATTAQUE D'UN HÉLICOPTÈRE AMÉRICAIN, TÉHÉRAN RIPOSTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:42",
-      "date": "10/06",
-      "timestamp": 1781066553
-    },
-    {
-      "id": "BFMTV_1781064834",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT AVOIR VISÉ DES BASES AMÉRICAINES DU GOLFE EN RIPOSTE À DES FRAPPES DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:13",
-      "date": "10/06",
-      "timestamp": 1781064834
-    },
-    {
-      "id": "BFMTV_1781044149",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ANNONCENT BOMBARDER L'IRAN APRÈS L'ATTAQUE CONTRE UN HÉLICOPTÈRE AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:29",
-      "date": "09/06",
-      "timestamp": 1781044149
-    },
-    {
-      "id": "BFMTV_1781044063",
-      "source": "BFMTV",
-      "text": "DES MANIFESTANTS INCENDIENT DES VÉHICULES À BELFAST AU LENDEMAIN D'UNE ATTAQUE AU COUTEAU IMPUTÉE À UN RÉFUGIÉ SOUDANAIS",
-      "urgent": true,
-      "france_related": true,
-      "time": "22:27",
-      "date": "09/06",
-      "timestamp": 1781044063
-    },
-    {
-      "id": "BFMTV_1781043335",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS ANNONCENT BOMBARDER L'IRAN APRÈS L'ATTAQUE D'UN HÉLICOPTÈRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:15",
-      "date": "09/06",
-      "timestamp": 1781043335
-    },
-    {
-      "id": "BFMTV_1781042886",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP VEUT UNE RIPOSTE \"TRÈS PUISSANTE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:08",
-      "date": "09/06",
-      "timestamp": 1781042886
-    },
-    {
-      "id": "BFMTV_1781042045",
-      "source": "BFMTV",
-      "text": "IRAN: LES ÉTATS-UNIS ANNONCENT UNE RIPOSTE CONTRE TÉHÉRAN APRÈS L’ATTAQUE SUR UN HÉLICOPTÈRE AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:54",
-      "date": "09/06",
-      "timestamp": 1781042045
     }
   ],
   "france": {
