@@ -1,7 +1,67 @@
 {
-  "last_update": "12/06 18:06",
+  "last_update": "12/06 20:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781290456",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:54",
+      "date": "12/06",
+      "timestamp": 1781290456
+    },
+    {
+      "id": "BFMTV_1781290455",
+      "source": "BFMTV",
+      "text": "L'UNION EUROPÉENNE VA REPRENDRE LES NÉGOCIATIONS SUR L'ADHÉSION DE L'UKRAINE EN DÉBUT DE SEMAINE PROCHAINE",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:54",
+      "date": "12/06",
+      "timestamp": 1781290455
+    },
+    {
+      "id": "BFMTV_1781289200",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON ESPÈRE UN ACCORD \"TRÈS PROCHAINEMENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:33",
+      "date": "12/06",
+      "timestamp": 1781289200
+    },
+    {
+      "id": "BFMTV_1781289180",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE CANADIEN MARK CARNEY SALUE \"LE LEADERSHIP\" D'EMMANUEL MACRON \"QUANT À LA RECONNAISSANCE DE LA PALESTINE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:33",
+      "date": "12/06",
+      "timestamp": 1781289180
+    },
+    {
+      "id": "BFMTV_1781288166",
+      "source": "BFMTV",
+      "text": "PATATE VOLANTE DANS LE CIEL, URSS ET ORBES FLOTTANTS: QUE CONTIENNENT LES NOUVEAUX DOCUMENTS SUR LES OVNIS PUBLIÉS PAR LE PENTAGONE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:16",
+      "date": "12/06",
+      "timestamp": 1781288166
+    },
+    {
+      "id": "BFMTV_1781288124",
+      "source": "BFMTV",
+      "text": "DEUX POLICIERS PÉRUVIENS DÉGUISÉS EN MASCOTTES DU MONDIAL ONT ARRÊTÉ UN TRAFIQUANT DE DROGUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:15",
+      "date": "12/06",
+      "timestamp": 1781288124
+    },
     {
       "id": "OPEX360_1781284963",
       "source": "OPEX360",
@@ -941,66 +1001,6 @@
       "time": "09:30",
       "date": "11/06",
       "timestamp": 1781170252
-    },
-    {
-      "id": "BFMTV_1781168006",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP: \"NOUS N'AVONS BESOIN DE RIEN DE CE QUE LE CANADA OU LE MEXIQUE ONT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:53",
-      "date": "11/06",
-      "timestamp": 1781168006
-    },
-    {
-      "id": "BFMTV_1781167540",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - COMMENT LES ÉTATS-UNIS ONT-ILS SECRÈTEMENT FAIT TRANSPORTER DU PÉTROLE PAR LE DÉTROIT D'ORMUZ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:45",
-      "date": "11/06",
-      "timestamp": 1781167540
-    },
-    {
-      "id": "BFMTV_1781167492",
-      "source": "BFMTV",
-      "text": "ATTAQUE AMÉRICAINE D'UN NAVIRE AU LARGE D'OMAN: LES TROIS MARINS INDIENS PORTÉS DISPARUS SONT MORTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:44",
-      "date": "11/06",
-      "timestamp": 1781167492
-    },
-    {
-      "id": "BFMTV_1781159000",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE AVOIR MENÉ \"DE NOUVELLES FRAPPES DÉFENSIVES\" EN IRAN, TÉHÉRAN RIPOSTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:23",
-      "date": "11/06",
-      "timestamp": 1781159000
-    },
-    {
-      "id": "BFMTV_1781154844",
-      "source": "BFMTV",
-      "text": "DISSIDENTS, JOURNALISTES, COMMUNAUTÉ JUIVE... 22 PAYS, DONT LA FRANCE, DEMANDENT À L'IRAN DE CESSER LES ATTAQUES \"SUR LEURS TERRITOIRES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:14",
-      "date": "11/06",
-      "timestamp": 1781154844
-    },
-    {
-      "id": "BFMTV_1781152454",
-      "source": "BFMTV",
-      "text": "LE PAPE LÉON XIV A BÉNI LA PLUS HAUTE TOUR DE LA SAGRADA FAMILIA",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:34",
-      "date": "11/06",
-      "timestamp": 1781152454
     }
   ],
   "france": {
