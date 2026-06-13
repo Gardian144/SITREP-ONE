@@ -1,7 +1,67 @@
 {
-  "last_update": "13/06 14:25",
+  "last_update": "13/06 15:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781364803",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UNE RENCONTRE ENTRE DEUX HAUTS RESPONSABLES AMÉRICAIN ET IRANIEN EN SUISSE LA SEMAINE PROCHAINE (INFO BFMTV)",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:33",
+      "date": "13/06",
+      "timestamp": 1781364803
+    },
+    {
+      "id": "BFMTV_1781364074",
+      "source": "BFMTV",
+      "text": "MONDIAL 2026: INSTALLÉS EN PLEIN CŒUR DE NEW YORK, DEUX INFLUENCEURS VONT ÊTRE PAYÉS POUR REGARDER LES 104 MATCHS DU TOURNOI DEPUIS UNE CABINE TRANSPARENTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:21",
+      "date": "13/06",
+      "timestamp": 1781364074
+    },
+    {
+      "id": "BFMTV_1781363522",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE RÉUNION DE TRÈS HAUT NIVEAU SE TIENDRA EN SUISSE ENTRE REPRÉSENTANTS AMÉRICAINS ET IRANIENS (INFO BFMTV)",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:12",
+      "date": "13/06",
+      "timestamp": 1781363522
+    },
+    {
+      "id": "BFMTV_1781363059",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:04",
+      "date": "13/06",
+      "timestamp": 1781363059
+    },
+    {
+      "id": "BFMTV_1781363058",
+      "source": "BFMTV",
+      "text": "\"UN ÊTRE HUMAIN ABOMINABLE\": MELINDA GATES REVIENT SUR SA SEULE RENCONTRE AVEC JEFFREY EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:04",
+      "date": "13/06",
+      "timestamp": 1781363058
+    },
+    {
+      "id": "BFMTV_1781362006",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMME PLUS PROCHES QUE JAMAIS\": LE PAKISTAN ASSURE QU'UN ACCORD DE PAIX ENTRE L'IRAN ET LES ÉTATS-UNIS EST SUR LE POINT D'ÊTRE FINALISÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:46",
+      "date": "13/06",
+      "timestamp": 1781362006
+    },
     {
       "id": "OPEX360_1781359789",
       "source": "OPEX360",
@@ -941,66 +1001,6 @@
       "time": "04:17",
       "date": "12/06",
       "timestamp": 1781237842
-    },
-    {
-      "id": "BFMTV_1781237454",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE GUIDE SUPRÊME IRANIEN A VALIDÉ L'ACCORD AVEC LES ÉTATS-UNIS, L'IRAN NUANCE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:10",
-      "date": "12/06",
-      "timestamp": 1781237454
-    },
-    {
-      "id": "BFMTV_1781216793",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE GUIDE SUPRÊME IRANIEN A VALIDÉ L'ACCORD AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:26",
-      "date": "11/06",
-      "timestamp": 1781216793
-    },
-    {
-      "id": "BFMTV_1781214249",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE LE GUIDE SUPRÊME IRANIEN A VALIDÉ L'ACCORD AVEC LES ÉTATS-UNIS, L'IRAN RÉPOND NE PAS ENCORE AVOIR PRIS DE DÉCISION",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:44",
-      "date": "11/06",
-      "timestamp": 1781214249
-    },
-    {
-      "id": "BFMTV_1781212462",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE AVOIR TROUVÉ \"UN TRÈS BON ACCORD\" AVEC L'IRAN, APPROUVÉ PAR MOJTABA KHAMENEI ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:14",
-      "date": "11/06",
-      "timestamp": 1781212462
-    },
-    {
-      "id": "BFMTV_1781211893",
-      "source": "BFMTV",
-      "text": "“L’IRAN N’A PAS ENCORE PRIS DE DÉCISION DÉFINITIVE CONCERNANT UN ACCORD” AVEC LES ÉTATS-UNIS, DÉCLARE LE PORTE-PAROLE DU MINISTÈRE DES AFFAIRES ÉTRANGÈRES IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:04",
-      "date": "11/06",
-      "timestamp": 1781211893
-    },
-    {
-      "id": "BFMTV_1781211433",
-      "source": "BFMTV",
-      "text": "L'IRAN NE CONFIRME PAS AVOIR TROUVÉ D'ACCORD AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:57",
-      "date": "11/06",
-      "timestamp": 1781211433
     }
   ],
   "france": {
