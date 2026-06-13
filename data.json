@@ -1,7 +1,47 @@
 {
-  "last_update": "13/06 07:35",
+  "last_update": "13/06 10:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781343227",
+      "source": "BFMTV",
+      "text": "UN AVION DE TRANSPORT DE L'ARMÉE DE L'AIR S'ÉCRASE EN INDE À L'ATTERRISSAGE, AU MOINS 5 MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:33",
+      "date": "13/06",
+      "timestamp": 1781343227
+    },
+    {
+      "id": "BFMTV_1781340497",
+      "source": "BFMTV",
+      "text": "NUCLÉAIRE IRANIEN: TÉHÉRAN AFFIRME QUE LA SEULE SOLUTION EST DE \"DILUER L'URANIUM\" SUR SON SOL",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:48",
+      "date": "13/06",
+      "timestamp": 1781340497
+    },
+    {
+      "id": "BFMTV_1781340029",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ, NUCLÉAIRE... QUE CONTIENT L'ACCORD SELON LES ÉTATS-UNIS?",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:40",
+      "date": "13/06",
+      "timestamp": 1781340029
+    },
+    {
+      "id": "BFMTV_1781337451",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES DANS LE SUD DU LIBAN APRÈS UN AVERTISSEMENT D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:57",
+      "date": "13/06",
+      "timestamp": 1781337451
+    },
     {
       "id": "BFMTV_1781335108",
       "source": "BFMTV",
@@ -51,6 +91,16 @@
       "time": "05:18",
       "date": "13/06",
       "timestamp": 1781327939
+    },
+    {
+      "id": "BFMTV_1781326380",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "13/06",
+      "timestamp": 1781326380
     },
     {
       "id": "BFMTV_1781326379",
@@ -951,56 +1001,6 @@
       "time": "16:01",
       "date": "11/06",
       "timestamp": 1781193677
-    },
-    {
-      "id": "BFMTV_1781190088",
-      "source": "BFMTV",
-      "text": "AGRESSION AU COUTEAU À BELFAST: APRÈS UNE NOUVELLE NUIT D'ÉMEUTES, DOWNING STREET DÉNONCE DES VIOLENCES \"RACISTES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:01",
-      "date": "11/06",
-      "timestamp": 1781190088
-    },
-    {
-      "id": "OPEX360_1781189194",
-      "source": "OPEX360",
-      "text": "AYANT PERDU UN ARBITRAGE BUDGÉTAIRE CRUCIAL, LE SECRÉTAIRE BRITANNIQUE À LA DÉFENSE, JOHN HEALEY, A REMIS SA DÉMISSION",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:46",
-      "date": "11/06",
-      "timestamp": 1781189194
-    },
-    {
-      "id": "BFMTV_1781188770",
-      "source": "BFMTV",
-      "text": "L'ITALIE CONDAMNÉE PAR LA CEDH POUR DISCRIMINATION ET ATTEINTE À LA LIBERTÉ DE RELIGION DES TÉMOINS DE JÉHOVAH",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:39",
-      "date": "11/06",
-      "timestamp": 1781188770
-    },
-    {
-      "id": "BFMTV_1781187245",
-      "source": "BFMTV",
-      "text": "FRANCE, ÉTATS-UNIS... 22 PAYS DEMANDENT À L'IRAN DE CESSER LES ATTAQUES \"SUR LEURS TERRITOIRES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:14",
-      "date": "11/06",
-      "timestamp": 1781187245
-    },
-    {
-      "id": "BFMTV_1781186647",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QU'IL VA FRAPPER L'IRAN \"TRÈS FORT CE SOIR\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:04",
-      "date": "11/06",
-      "timestamp": 1781186647
     }
   ],
   "france": {
