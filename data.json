@@ -1,7 +1,67 @@
 {
-  "last_update": "13/06 10:16",
+  "last_update": "13/06 12:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781352267",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ACCORD DE PAIX ENTRE LES ÉTATS-UNIS ET L'IRAN PROBABLEMENT FINALISÉ DANS LES 24 HEURES, SELON LE PAKISTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:04",
+      "date": "13/06",
+      "timestamp": 1781352267
+    },
+    {
+      "id": "OPEX360_1781350305",
+      "source": "OPEX360",
+      "text": "LA POLOGNE A L’INTENTION D’ACQUÉRIR TRENTE-DEUX CHASSEURS-BOMBARDIERS F-35A SUPPLÉMENTAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:31",
+      "date": "13/06",
+      "timestamp": 1781350305
+    },
+    {
+      "id": "BFMTV_1781347930",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE DÉFUNT GUIDE SUPRÊME IRANIEN ALI KHAMENEI INHUMÉ LE 9 JUILLET",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:52",
+      "date": "13/06",
+      "timestamp": 1781347930
+    },
+    {
+      "id": "BFMTV_1781347499",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: CE QUE L'ON SAIT DES DRONES IRANIENS ABATTUS PAR LES ÉTATS-UNIS  ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:44",
+      "date": "13/06",
+      "timestamp": 1781347499
+    },
+    {
+      "id": "OPEX360_1781346456",
+      "source": "OPEX360",
+      "text": "SEULEMENT 25 % DES F-35 EXPLOITÉS PAR LES FORCES AMÉRICAINES SONT PLEINEMENT OPÉRATIONNELS, SELON UN NOUVEL AUDIT",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:27",
+      "date": "13/06",
+      "timestamp": 1781346456
+    },
+    {
+      "id": "BFMTV_1781346221",
+      "source": "BFMTV",
+      "text": "UN JUGE MAINTIENT SA DÉCISION DE RETRAIT DU NOM DE DONALD TRUMP DU PRESTIGIEUX KENNEDY CENTER À WASHINGTON",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:23",
+      "date": "13/06",
+      "timestamp": 1781346221
+    },
     {
       "id": "BFMTV_1781343227",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "18:23",
       "date": "11/06",
       "timestamp": 1781202221
-    },
-    {
-      "id": "BFMTV_1781199569",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE \"ANNULER\" LES FRAPPES AMÉRICAINES PRÉVUES CE SOIR SUR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:39",
-      "date": "11/06",
-      "timestamp": 1781199569
-    },
-    {
-      "id": "BFMTV_1781199569",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP \"ANNULE\" LES FRAPPES PRÉVUES CE SOIR SUR L'IRAN ET ÉVOQUE UNE SIGNATURE D'ACCORD \"PEUT-ÊTRE EN EUROPE\" DANS LES PROCHAINS JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:39",
-      "date": "11/06",
-      "timestamp": 1781199569
-    },
-    {
-      "id": "BFMTV_1781199340",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE ANNULER LES FRAPPES AMÉRICAINES PRÉVUES CE SOIR CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:35",
-      "date": "11/06",
-      "timestamp": 1781199340
-    },
-    {
-      "id": "OPEX360_1781198922",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES A COMMANDÉ À MBDA LE DÉVELOPPEMENT DU MISSILE À CAPACITÉ NUCLÉAIRE ASN4G",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:28",
-      "date": "11/06",
-      "timestamp": 1781198922
-    },
-    {
-      "id": "OPEX360_1781198664",
-      "source": "OPEX360",
-      "text": "LA GAZELLE ÉTANT IRREMPLAÇABLE, L’ARMÉE DE TERRE SONGE À DOTER SES FUTURS HÉLICOPTÈRES GUÉPARD DE MISSILES ANTICHARS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:24",
-      "date": "11/06",
-      "timestamp": 1781198664
-    },
-    {
-      "id": "BFMTV_1781193677",
-      "source": "BFMTV",
-      "text": "LES LOCAUX DU PENTAGONE ÉVACUÉS APRÈS UNE FAUSSE ALERTE SUR UN \"INCIDENT LIÉ À DES SUBSTANCES DANGEREUSES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:01",
-      "date": "11/06",
-      "timestamp": 1781193677
     }
   ],
   "france": {
