@@ -1,7 +1,27 @@
 {
-  "last_update": "13/06 18:56",
+  "last_update": "13/06 20:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781381367",
+      "source": "BFMTV",
+      "text": "CESSEZ-LE-FEU, DÉTROIT D'ORMUZ, DÉBLOCAGE DES AVOIRS IRANIENS ... LE DÉTAIL DU PROJET D'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:09",
+      "date": "13/06",
+      "timestamp": 1781381367
+    },
+    {
+      "id": "BFMTV_1781377729",
+      "source": "BFMTV",
+      "text": "LE PORTE-AVIONS CHARLES DE GAULLE VA RENTRER À TOULON DANS LES PROCHAINS JOURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:08",
+      "date": "13/06",
+      "timestamp": 1781377729
+    },
     {
       "id": "BFMTV_1781375372",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "09:00",
       "date": "12/06",
       "timestamp": 1781254807
-    },
-    {
-      "id": "BFMTV_1781254438",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - CE QUE PRÉVOIT LE NOUVEL ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN QUE DONALD TRUMP DIT VOULOIR SIGNER \"CE WEEK-END\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:53",
-      "date": "12/06",
-      "timestamp": 1781254438
-    },
-    {
-      "id": "BFMTV_1781254109",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BFMTV SUR UN SITE PROTÉGÉ PAR L'UNESCO À TYR",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:48",
-      "date": "12/06",
-      "timestamp": 1781254109
     }
   ],
   "france": {
