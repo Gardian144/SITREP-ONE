@@ -1,7 +1,117 @@
 {
-  "last_update": "13/06 12:08",
+  "last_update": "13/06 14:25",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1781359789",
+      "source": "OPEX360",
+      "text": "À SON TOUR, BOEING SE RETIRE DE L’APPEL D’OFFRES ÉMIS PAR L’US NAVY POUR REMPLACER L’AVION D’ENTRAÎNEMENT T-45C GOSHAWK",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:09",
+      "date": "13/06",
+      "timestamp": 1781359789
+    },
+    {
+      "id": "BFMTV_1781358267",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN EXCLUT TOUTE SIGNATURE D'UN ACCORD AVEC LES ÉTATS-UNIS DANS LES PROCHAINES 24 HEURES",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:44",
+      "date": "13/06",
+      "timestamp": 1781358267
+    },
+    {
+      "id": "BFMTV_1781357899",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ESPÈRE UN ACCORD À LA VEILLE DU G7",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:38",
+      "date": "13/06",
+      "timestamp": 1781357899
+    },
+    {
+      "id": "BFMTV_1781357478",
+      "source": "BFMTV",
+      "text": "\"VÉRITABLEMENT INADMISSIBLE\": DEUX ARRESTATIONS PAR L'ICE SUR LE PARKING D'UNE ÉCOLE DE BALTIMORE FONT POLÉMIQUE AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:31",
+      "date": "13/06",
+      "timestamp": 1781357478
+    },
+    {
+      "id": "BFMTV_1781357231",
+      "source": "BFMTV",
+      "text": "LE BARIL AU PLUS BAS, L'ESPOIR D'UNE BAISSE DES PRIX À LA POMPE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:27",
+      "date": "13/06",
+      "timestamp": 1781357231
+    },
+    {
+      "id": "BFMTV_1781356959",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT : \"DONALD TRUMP A COMPRIS QUE LE RÉGIME IRANIEN NE TOMBERAIT PAS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:22",
+      "date": "13/06",
+      "timestamp": 1781356959
+    },
+    {
+      "id": "BFMTV_1781356754",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE \"SIGNATURE ÉLECTRONIQUE\" ÉVOQUÉE POUR SIGNER UN ÉVENTUEL ACCORD IRAN/ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:19",
+      "date": "13/06",
+      "timestamp": 1781356754
+    },
+    {
+      "id": "BFMTV_1781356219",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS AFFIRMENT AVOIR INTERCEPTÉ DES DRONES IRANIENS DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:10",
+      "date": "13/06",
+      "timestamp": 1781356219
+    },
+    {
+      "id": "BFMTV_1781355627",
+      "source": "BFMTV",
+      "text": "\"ÇA COMPTE PLUS QUE L'ARGENT\": UN NIGÉRIAN SANS PAPIERS QUI N'AVAIT PAS PU EMPOCHER LES 500.000 EUROS REMPORTÉS À LA LOTERIE ITALIENNE FINIT PAR OBTENIR UN PERMIS DE SÉJOUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:00",
+      "date": "13/06",
+      "timestamp": 1781355627
+    },
+    {
+      "id": "BFMTV_1781355594",
+      "source": "BFMTV",
+      "text": "MONDIAL 2026: UN CORPS DÉCOUVERT À PROXIMITÉ DU STADE OÙ S'ENTRAÎNE L'IRAN AU MEXIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:59",
+      "date": "13/06",
+      "timestamp": 1781355594
+    },
+    {
+      "id": "BFMTV_1781352763",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMME PLUS PROCHES QUE JAMAIS\": LE PAKISTAN ASSURE QU'UN ACCORD DE PAIX ENTRE L'IRAN ET LES ÉTATS-UNIS DEVRAIT \"PROBABLEMENT\" ÊTRE FINALISÉ DANS LES 24 HEURES",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:12",
+      "date": "13/06",
+      "timestamp": 1781352763
+    },
     {
       "id": "BFMTV_1781352267",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "20:57",
       "date": "11/06",
       "timestamp": 1781211433
-    },
-    {
-      "id": "BFMTV_1781210536",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE AVOIR TROUVÉ \"UN TRÈS BON ACCORD\" AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:42",
-      "date": "11/06",
-      "timestamp": 1781210536
-    },
-    {
-      "id": "BFMTV_1781210093",
-      "source": "BFMTV",
-      "text": "IRAN: DONALD TRUMP ÉVOQUE UNE SIGNATURE D'ACCORD \"PEUT-ÊTRE EN EUROPE\" ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:34",
-      "date": "11/06",
-      "timestamp": 1781210093
-    },
-    {
-      "id": "BFMTV_1781209904",
-      "source": "BFMTV",
-      "text": "UN ACCORD SIGNÉ \"BIENTÔT\" ET APPROUVÉ PAR LE GUIDE SUPRÊME IRANIEN ANNONCE LE PRÉSIDENT AMÉRICAIN DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:31",
-      "date": "11/06",
-      "timestamp": 1781209904
-    },
-    {
-      "id": "BFMTV_1781209814",
-      "source": "BFMTV",
-      "text": "LE SECRÉTAIRE D'ETAT MARCO RUBIO SIGNE UN PROTOCOLE DE DIPLOMATIE SPORTIVE, AVEC DANA WHITE, PRÉSIDENT-DIRECTEUR GÉNÉRAL DE L'UFC",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:30",
-      "date": "11/06",
-      "timestamp": 1781209814
-    },
-    {
-      "id": "BFMTV_1781208903",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE “UN DEAL AVEC L’IRAN, APPROUVÉ PAR MOJTABA KHAMENEI” ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:15",
-      "date": "11/06",
-      "timestamp": 1781208903
-    },
-    {
-      "id": "BFMTV_1781208850",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DONALD TRUMP AFFIRME QUE LE GUIDE SUPRÊME IRANIEN MOJTABA KHAMENEI A VALIDÉ L'ACCORD AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:14",
-      "date": "11/06",
-      "timestamp": 1781208850
-    },
-    {
-      "id": "BFMTV_1781208520",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE GUIDE SUPRÊME IRANIEN A VALIDÉ L'ACCORD AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:08",
-      "date": "11/06",
-      "timestamp": 1781208520
-    },
-    {
-      "id": "BFMTV_1781204897",
-      "source": "BFMTV",
-      "text": "\"VOUS ÊTES MALHONNÊTE\" : COMMENT DONALD TRUMP A FAIT DES JOURNALISTES SON ADVERSAIRE FAVORI",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:08",
-      "date": "11/06",
-      "timestamp": 1781204897
-    },
-    {
-      "id": "BFMTV_1781204571",
-      "source": "BFMTV",
-      "text": "AFFAIRE LYHANNA: LES ÉTATS-UNIS AVAIENT SIGNALÉ À LA FRANCE LE COMPORTEMENT DE JÉRÔME BARELLA",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:02",
-      "date": "11/06",
-      "timestamp": 1781204571
-    },
-    {
-      "id": "BFMTV_1781202378",
-      "source": "BFMTV",
-      "text": "HÉLICOPTÈRE AMÉRICAIN APACHE ABATTU: LE RÉCIT D'UN SAUVETAGE EN MER",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:26",
-      "date": "11/06",
-      "timestamp": 1781202378
-    },
-    {
-      "id": "BFMTV_1781202221",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE ANNULER LES FRAPPES AMÉRICAINES PRÉVUES CE SOIR CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:23",
-      "date": "11/06",
-      "timestamp": 1781202221
     }
   ],
   "france": {
