@@ -1,7 +1,77 @@
 {
-  "last_update": "13/06 17:37",
+  "last_update": "13/06 18:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781375372",
+      "source": "BFMTV",
+      "text": "INFO BFMTV. LE PORTE-AVIONS CHARLES DE GAULLE QUITTE LA MÉDITERRANÉE ORIENTALE ET SERA REMPLACÉ PAR LE PORTE-HÉLICOPTÈRES MISTRAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:29",
+      "date": "13/06",
+      "timestamp": 1781375372
+    },
+    {
+      "id": "BFMTV_1781375063",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE LA SIGNATURE D'UN ACCORD AVEC L'IRAN EST PRÉVUE POUR CE DIMANCHE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:24",
+      "date": "13/06",
+      "timestamp": 1781375063
+    },
+    {
+      "id": "BFMTV_1781374907",
+      "source": "BFMTV",
+      "text": "INFO BFMTV. GUERRE AU MOYEN-ORIENT: UNE RENCONTRE ENTRE DEUX HAUTS RESPONSABLES AMÉRICAIN ET IRANIEN PRÉVUE EN SUISSE LA SEMAINE PROCHAINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:21",
+      "date": "13/06",
+      "timestamp": 1781374907
+    },
+    {
+      "id": "BFMTV_1781374615",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: SELON DONALD TRUMP, L'ACCORD EST UN \"MUR CONTRE L'ARME NUCLÉAIRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:16",
+      "date": "13/06",
+      "timestamp": 1781374615
+    },
+    {
+      "id": "BFMTV_1781373842",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: LE DÉTROIT D'ORMUZ SERA \"OUVERT IMMÉDIATEMENT\" APRÈS LA SIGNATURE DE L'ACCORD ASSURE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:04",
+      "date": "13/06",
+      "timestamp": 1781373842
+    },
+    {
+      "id": "BFMTV_1781372872",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP, LYHANNA, IRAN ... ENTRETIEN AVEC ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:47",
+      "date": "13/06",
+      "timestamp": 1781372872
+    },
+    {
+      "id": "BFMTV_1781372207",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: \"CHEZ DONALD TRUMP, TOUT EST SYMBOLE\", ANALYSE ALAIN BAUER, AUTEUR DU LIVRE \"TRUMP, LE POUVOIR DES MOTS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:36",
+      "date": "13/06",
+      "timestamp": 1781372207
+    },
     {
       "id": "BFMTV_1781371617",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "08:48",
       "date": "12/06",
       "timestamp": 1781254109
-    },
-    {
-      "id": "BFMTV_1781251581",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - LE COMPORTEMENT EN LIGNE DE JÉRÔME BARELLA AVAIT ÉTÉ SIGNALÉ À LA FRANCE PAR LES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "08:06",
-      "date": "12/06",
-      "timestamp": 1781251581
-    },
-    {
-      "id": "BFMTV_1781250430",
-      "source": "BFMTV",
-      "text": "LA COUR SUPRÊME AMÉRICAINE EMPÊCHE L'EXÉCUTION À L'AZOTE D'UN HOMME EN ALABAMA",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:47",
-      "date": "12/06",
-      "timestamp": 1781250430
-    },
-    {
-      "id": "BFMTV_1781250244",
-      "source": "BFMTV",
-      "text": "ACCORD AVEC L'IRAN ANNONCÉ PAR DONALD TRUMP: L'ANALYSE DU GÉNÉRAL PATRICK DUTARTRE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:44",
-      "date": "12/06",
-      "timestamp": 1781250244
-    },
-    {
-      "id": "BFMTV_1781248984",
-      "source": "BFMTV",
-      "text": "SURVOL DE NEW YORK PAR LA PATROUILLE DE FRANCE: \"UN SYMBOLE EXTRÊMEMENT FORT DE RAYONNEMENT\", JUGE LE GÉNÉRAL PATRICK DUTARTRE",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:23",
-      "date": "12/06",
-      "timestamp": 1781248984
-    },
-    {
-      "id": "BFMTV_1781248665",
-      "source": "BFMTV",
-      "text": "ABANDON DU SCAF: \"C'EST DÉCEVANT\", ESTIME LE GÉNÉRAL PATRICK DUTARTRE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:17",
-      "date": "12/06",
-      "timestamp": 1781248665
-    },
-    {
-      "id": "BFMTV_1781248194",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME AVOIR VALIDÉ UN ACCORD AVEC L'IRAN, TÉHÉRAN NUANCE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:09",
-      "date": "12/06",
-      "timestamp": 1781248194
-    },
-    {
-      "id": "BFMTV_1781246144",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN: \"ON SE DEMANDE PARFOIS SI DONALD TRUMP NE TRANSFORME PAS SES DÉSIRS EN RÉALITÉ\", JUGE LE GÉNÉRAL PATRICK DUTARTRE ",
-      "urgent": true,
-      "france_related": true,
-      "time": "06:35",
-      "date": "12/06",
-      "timestamp": 1781246144
     }
   ],
   "france": {
