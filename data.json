@@ -1,7 +1,17 @@
 {
-  "last_update": "13/06 21:44",
+  "last_update": "13/06 22:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781387161",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LA SIGNATURE D'UN ACCORD AVEC L'IRAN EST PRÉVUE POUR CE DIMANCHE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:46",
+      "date": "13/06",
+      "timestamp": 1781387161
+    },
     {
       "id": "BFMTV_1781383190",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:21",
       "date": "12/06",
       "timestamp": 1781256115
-    },
-    {
-      "id": "BFMTV_1781255304",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL AFFIRME AVOIR \"ÉLIMINÉ\" 80 MEMBRES DU HEZBOLLAH CETTE SEMAINE",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:08",
-      "date": "12/06",
-      "timestamp": 1781255304
     }
   ],
   "france": {
