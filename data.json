@@ -1,7 +1,137 @@
 {
-  "last_update": "13/06 03:39",
+  "last_update": "13/06 07:35",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781335108",
+      "source": "BFMTV",
+      "text": "EN DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ANNONCE DES FRAPPES IMMINENTES SUR LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:18",
+      "date": "13/06",
+      "timestamp": 1781335108
+    },
+    {
+      "id": "BFMTV_1781334702",
+      "source": "BFMTV",
+      "text": "LIBAN: LA VILLE DE TYR SOUMISE À UN PILONNAGE INCESSANT DE L'ARMÉE ISRAÉLIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:11",
+      "date": "13/06",
+      "timestamp": 1781334702
+    },
+    {
+      "id": "BFMTV_1781334335",
+      "source": "BFMTV",
+      "text": "UN AVION DE TRANSPORT DE L'ARMÉE DE L'AIR S'ÉCRASE EN INDE À L'ATTERRISSAGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:05",
+      "date": "13/06",
+      "timestamp": 1781334335
+    },
+    {
+      "id": "BFMTV_1781327939",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:18",
+      "date": "13/06",
+      "timestamp": 1781327939
+    },
+    {
+      "id": "BFMTV_1781327939",
+      "source": "BFMTV",
+      "text": "\"LA LANGUE D'UN ÉTAT AGRESSEUR NE PEUT PAS BÉNÉFICIER D'INSTRUMENTS DE PROTECTION\": VOLODYMYR ZELENSKY RETIRE AU RUSSE SON STATUT DE LANGUE PROTÉGÉE EN UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:18",
+      "date": "13/06",
+      "timestamp": 1781327939
+    },
+    {
+      "id": "BFMTV_1781326379",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS DISENT AVOIR ABATTU DES DRONES IRANIENS, MALGRÉ L'OPTIMISME AFFICHÉ UN PEU PLUS TÔT POUR UN ACCORD DE PAIX",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:52",
+      "date": "13/06",
+      "timestamp": 1781326379
+    },
+    {
+      "id": "BFMTV_1781325872",
+      "source": "BFMTV",
+      "text": "ELON MUSK EST DEVENU LE PREMIER “TRILLIONNAIRE” DE L’HISTOIRE APRÈS L'INTRODUCTION DE SPACE X EN BOURSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:44",
+      "date": "13/06",
+      "timestamp": 1781325872
+    },
+    {
+      "id": "BFMTV_1781325665",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES FILETS DE PÊCHE CONTRE LES DRONES À FIBRE OPTIQUE LANCÉS PAR LE HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:41",
+      "date": "13/06",
+      "timestamp": 1781325665
+    },
+    {
+      "id": "BFMTV_1781325248",
+      "source": "BFMTV",
+      "text": "GRIÈVEMENT BLESSÉE AUX BRAS ET AUX JAMBES: UNE NAGEUSE DANS UN ÉTAT CRITIQUE APRÈS AVOIR ÉTÉ MORDUE PAR UN REQUIN SUR L'UNE DES PLAGES LES PLUS FRÉQUENTÉES D'AUSTRALIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:34",
+      "date": "13/06",
+      "timestamp": 1781325248
+    },
+    {
+      "id": "BFMTV_1781324706",
+      "source": "BFMTV",
+      "text": "LE CHEF DU GANG VÉNÉZUÉLIEN TREN DE ARAGUA TUÉ DANS UNE OPÉRATION COMBINÉE ENTRE ÉTATS-UNIS ET VENEZUELA",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:25",
+      "date": "13/06",
+      "timestamp": 1781324706
+    },
+    {
+      "id": "BFMTV_1781323703",
+      "source": "BFMTV",
+      "text": "ARRÊT DES COMBATS SUR LE FRONT LIBANAIS: LE POINT DE CRISPATION POUR BENJAMIN NETANYAHU",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:08",
+      "date": "13/06",
+      "timestamp": 1781323703
+    },
+    {
+      "id": "BFMTV_1781323496",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS AFFIRMENT AVOIR ABATTU DES DRONES IRANIENS QUI CIBLAIENT DES NAVIRES DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:04",
+      "date": "13/06",
+      "timestamp": 1781323496
+    },
+    {
+      "id": "BFMTV_1781323346",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT AVOIR \"BON ESPOIR\" DE SIGNER UN ACCORD \"DANS LES PROCHAINS JOURS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:02",
+      "date": "13/06",
+      "timestamp": 1781323346
+    },
     {
       "id": "BFMTV_1781303285",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "14:04",
       "date": "11/06",
       "timestamp": 1781186647
-    },
-    {
-      "id": "BFMTV_1781184054",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:20",
-      "date": "11/06",
-      "timestamp": 1781184054
-    },
-    {
-      "id": "BFMTV_1781184053",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE FRAPPER \"TRÈS FORT\" L'IRAN CE JEUDI SOIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:20",
-      "date": "11/06",
-      "timestamp": 1781184053
-    },
-    {
-      "id": "BFMTV_1781183892",
-      "source": "BFMTV",
-      "text": "LE NIGER CRIMINALISE L'HOMOSEXUALITÉ AVEC DE LOURDES PEINES ALLANT JUSQU'À 20 ANS DE PRISON",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:18",
-      "date": "11/06",
-      "timestamp": 1781183892
-    },
-    {
-      "id": "BFMTV_1781183402",
-      "source": "BFMTV",
-      "text": "UNE JOURNALISTE FRANÇAISE DE RFI SE VOIT REFUSER L'ENTRÉE SUR LE TERRITOIRE D'ISRAËL, PARIS DIT REGRETTER CETTE DÉCISION",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:10",
-      "date": "11/06",
-      "timestamp": 1781183402
-    },
-    {
-      "id": "BFMTV_1781183166",
-      "source": "BFMTV",
-      "text": "UN CHEVAL DE CALÈCHE MEURT À CENTRAL PARK, LE MAIRE DE NEW YORK APPELÉ À INTERDIRE CETTE PRATIQUE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:06",
-      "date": "11/06",
-      "timestamp": 1781183166
-    },
-    {
-      "id": "BFMTV_1781182997",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QU'IL VA FRAPPER L'IRAN \"TRÈS FORT CE SOIR\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:03",
-      "date": "11/06",
-      "timestamp": 1781182997
-    },
-    {
-      "id": "BFMTV_1781181731",
-      "source": "BFMTV",
-      "text": "TENSIONS ENTRE LA FRANCE ET L'ALGÉRIE",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:42",
-      "date": "11/06",
-      "timestamp": 1781181731
-    },
-    {
-      "id": "BFMTV_1781181619",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:40",
-      "date": "11/06",
-      "timestamp": 1781181619
-    },
-    {
-      "id": "BFMTV_1781179178",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS DISENT AVOIR NEUTRALISÉ UN TROISIÈME PÉTROLIER VIOLANT LE BLOCUS DES PORTS IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:59",
-      "date": "11/06",
-      "timestamp": 1781179178
-    },
-    {
-      "id": "BFMTV_1781178294",
-      "source": "BFMTV",
-      "text": "UN PILOTE DE LIGNE D'AIR CANADA ARRÊTÉ APRÈS AVOIR MENTI SUR SON DIPLÔME PENDANT 17 ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:44",
-      "date": "11/06",
-      "timestamp": 1781178294
-    },
-    {
-      "id": "BFMTV_1781177643",
-      "source": "BFMTV",
-      "text": "LE MINISTRE AMÉRICAIN DE LA DÉFENSE MET EN GARDE CUBA LORS D'UN DÉPLACEMENT À GUANTANAMO",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:34",
-      "date": "11/06",
-      "timestamp": 1781177643
-    },
-    {
-      "id": "BFMTV_1781175764",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN GARANTIT QUE LE DÉTROIT D'ORMUZ EST \"FERMÉ JUSQU'À NOUVEL ORDRE\" MALGRÉ LES DÉMENTIS AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:02",
-      "date": "11/06",
-      "timestamp": 1781175764
-    },
-    {
-      "id": "BFMTV_1781174590",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN GARANTIT LA FERMETURE DU DÉTROIT D'ORMUZ \"JUSQU'À NOUVEL ORDRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:43",
-      "date": "11/06",
-      "timestamp": 1781174590
     }
   ],
   "france": {
