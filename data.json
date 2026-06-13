@@ -1,7 +1,27 @@
 {
-  "last_update": "13/06 20:17",
+  "last_update": "13/06 21:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781383190",
+      "source": "BFMTV",
+      "text": "UN MAIRE ABATTU PAR BALLES DANS LE SUD DU MEXIQUE, OÙ DES CARTELS DU NARCOTRAFIC SÉVISSENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:39",
+      "date": "13/06",
+      "timestamp": 1781383190
+    },
+    {
+      "id": "BFMTV_1781382695",
+      "source": "BFMTV",
+      "text": "SELON CNN, L'IRAN AURAIT SCELLÉ UN STOCK D'URANIUM ET POSÉ DES MINES PAR CRAINTE D'UNE OPÉRATION AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:31",
+      "date": "13/06",
+      "timestamp": 1781382695
+    },
     {
       "id": "BFMTV_1781381367",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "09:08",
       "date": "12/06",
       "timestamp": 1781255304
-    },
-    {
-      "id": "BFMTV_1781254847",
-      "source": "BFMTV",
-      "text": "ABANDON DU SCAF: \"NOUS EN AVONS BESOIN\", ASSURE LE GÉNÉRAL JÉRÔME BELLANGER, CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE L'AIR ET DE L'ESPACE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:00",
-      "date": "12/06",
-      "timestamp": 1781254847
-    },
-    {
-      "id": "BFMTV_1781254807",
-      "source": "BFMTV",
-      "text": "FIN DU SCAF: \"IL NE FAUT PAS VOIR ÇA COMME UN ÉCHEC DE LA COOPÉRATION FRANCO-ALLEMANDE\", EXPLIQUE LE DIRECTEUR GÉNÉRAL DE SAFRAN",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:00",
-      "date": "12/06",
-      "timestamp": 1781254807
     }
   ],
   "france": {
