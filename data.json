@@ -1,11 +1,51 @@
 {
-  "last_update": "14/06 11:29",
+  "last_update": "14/06 13:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781441687",
+      "source": "BFMTV",
+      "text": "L'IRAN JUGE \"INUTILE DE POURSUIVRE\" LES POURPARLERS AVEC LES ETATS-UNIS \"SI\" LES ENGAGEMENTS NE SONT PAS TENUS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:54",
+      "date": "14/06",
+      "timestamp": 1781441687
+    },
+    {
+      "id": "BFMTV_1781441157",
+      "source": "BFMTV",
+      "text": "LES AVOIRS IRANIENS GELÉS, AU CŒUR DES NÉGOCIATIONS AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:45",
+      "date": "14/06",
+      "timestamp": 1781441157
+    },
+    {
+      "id": "BFMTV_1781439277",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE LE DÉTROIT D'ORMUZ VA ROUVRIR DÈS LA SIGNATURE D'UN ACCORD MAIS À QUELLES CONDITIONS?",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:14",
+      "date": "14/06",
+      "timestamp": 1781439277
+    },
     {
       "id": "OPEX360_1781436105",
       "source": "OPEX360",
       "text": "L’ARMÉE DE TERRE A ÉVALUÉ LE 120MC, UNE NOUVEAU SYSTÈME DE MORTIER DE 120 MM MOBILE PROPOSÉ PAR THALES",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:21",
+      "date": "14/06",
+      "timestamp": 1781436105
+    },
+    {
+      "id": "OPEX360_1781436105",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE TERRE A ÉVALUÉ LE 120MC, UN NOUVEAU SYSTÈME DE MORTIER DE 120 MM MOBILE PROPOSÉ PAR THALES",
       "urgent": false,
       "france_related": false,
       "time": "11:21",
@@ -961,46 +1001,6 @@
       "time": "18:16",
       "date": "12/06",
       "timestamp": 1781288166
-    },
-    {
-      "id": "BFMTV_1781288124",
-      "source": "BFMTV",
-      "text": "DEUX POLICIERS PÉRUVIENS DÉGUISÉS EN MASCOTTES DU MONDIAL ONT ARRÊTÉ UN TRAFIQUANT DE DROGUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:15",
-      "date": "12/06",
-      "timestamp": 1781288124
-    },
-    {
-      "id": "OPEX360_1781284963",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE A REÇU LE DERNIER DES HUIT HÉLICOPTÈRES CARACAL COMMANDÉS EN 2021",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:22",
-      "date": "12/06",
-      "timestamp": 1781284963
-    },
-    {
-      "id": "BFMTV_1781283686",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: LE PREMIER MINISTRE DU PAKISTAN AFFIRME QU'UN ACCORD DE PAIX A ÉTÉ \"ATTEINT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:01",
-      "date": "12/06",
-      "timestamp": 1781283686
-    },
-    {
-      "id": "BFMTV_1781283445",
-      "source": "BFMTV",
-      "text": "\"LA SOLUTION À DEUX ETATS RESTE LE SEUL CHEMIN VIABLE POUR APPORTER UNE PAIX DURABLE AU MOYEN-ORIENT\", ASSURE KAJA KALLAS, LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:57",
-      "date": "12/06",
-      "timestamp": 1781283445
     }
   ],
   "france": {
