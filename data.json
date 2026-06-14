@@ -1,7 +1,37 @@
 {
-  "last_update": "14/06 18:12",
+  "last_update": "14/06 19:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781463307",
+      "source": "BFMTV",
+      "text": "L'ANNIVERSAIRE DE DONALD TRUMP, UNE FÊTE XXL À LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:55",
+      "date": "14/06",
+      "timestamp": 1781463307
+    },
+    {
+      "id": "BFMTV_1781461789",
+      "source": "BFMTV",
+      "text": "COLLISION MORTELLE D'HÉLICOPTÈRES À RIO: LE CHANTEUR AMÉRICAIN OLIVER TREE, QUI SE TROUVAIT À BORD, EST MORT",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:29",
+      "date": "14/06",
+      "timestamp": 1781461789
+    },
+    {
+      "id": "BFMTV_1781461254",
+      "source": "BFMTV",
+      "text": "PROJECTILES, INCENDIES, ANTI-G7 ... LES IMAGES DES AFFRONTEMENTS À GENÈVE EN SUISSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:20",
+      "date": "14/06",
+      "timestamp": 1781461254
+    },
     {
       "id": "BFMTV_1781460192",
       "source": "BFMTV",
@@ -91,6 +121,26 @@
       "time": "15:56",
       "date": "14/06",
       "timestamp": 1781452573
+    },
+    {
+      "id": "BFMTV_1781452573",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:56",
+      "date": "14/06",
+      "timestamp": 1781452573
+    },
+    {
+      "id": "BFMTV_1781452000",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:46",
+      "date": "14/06",
+      "timestamp": 1781452000
     },
     {
       "id": "BFMTV_1781451999",
@@ -951,56 +1001,6 @@
       "time": "08:48",
       "date": "13/06",
       "timestamp": 1781340497
-    },
-    {
-      "id": "BFMTV_1781340029",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ, NUCLÉAIRE... QUE CONTIENT L'ACCORD SELON LES ÉTATS-UNIS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:40",
-      "date": "13/06",
-      "timestamp": 1781340029
-    },
-    {
-      "id": "BFMTV_1781337451",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DES FRAPPES ISRAÉLIENNES DANS LE SUD DU LIBAN APRÈS UN AVERTISSEMENT D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:57",
-      "date": "13/06",
-      "timestamp": 1781337451
-    },
-    {
-      "id": "BFMTV_1781335108",
-      "source": "BFMTV",
-      "text": "EN DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ANNONCE DES FRAPPES IMMINENTES SUR LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:18",
-      "date": "13/06",
-      "timestamp": 1781335108
-    },
-    {
-      "id": "BFMTV_1781334702",
-      "source": "BFMTV",
-      "text": "LIBAN: LA VILLE DE TYR SOUMISE À UN PILONNAGE INCESSANT DE L'ARMÉE ISRAÉLIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:11",
-      "date": "13/06",
-      "timestamp": 1781334702
-    },
-    {
-      "id": "BFMTV_1781334335",
-      "source": "BFMTV",
-      "text": "UN AVION DE TRANSPORT DE L'ARMÉE DE L'AIR S'ÉCRASE EN INDE À L'ATTERRISSAGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:05",
-      "date": "13/06",
-      "timestamp": 1781334335
     }
   ],
   "france": {
