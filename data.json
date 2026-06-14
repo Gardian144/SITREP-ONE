@@ -1,7 +1,97 @@
 {
-  "last_update": "14/06 13:16",
+  "last_update": "14/06 15:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781450177",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP CONDAMNE LES FRAPPES ISRAÉLIENNES SUR BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:16",
+      "date": "14/06",
+      "timestamp": 1781450177
+    },
+    {
+      "id": "BFMTV_1781449414",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP APPELLE À LA FIN DES ATTAQUES APRÈS LES FRAPPES ISRAÉLIENNES SUR BEYROUTH AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:03",
+      "date": "14/06",
+      "timestamp": 1781449414
+    },
+    {
+      "id": "BFMTV_1781449283",
+      "source": "BFMTV",
+      "text": "LA TENSION NE RETOMBE PAS ENTRE ISRAËL ET LE HEZBOLLAH, ALORS QUE L'IRAN PRÉVIENT QUE LES FRAPPES ISRAÉLIENNES AU LIBAN NE RESTERONT PAS IMPUNIES",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:01",
+      "date": "14/06",
+      "timestamp": 1781449283
+    },
+    {
+      "id": "BFMTV_1781448575",
+      "source": "BFMTV",
+      "text": "G7 À ÉVIAN: UNE MANIFESTATION EST EN COURS À GENÈVE EN SUISSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:49",
+      "date": "14/06",
+      "timestamp": 1781448575
+    },
+    {
+      "id": "BFMTV_1781448383",
+      "source": "BFMTV",
+      "text": "LA COLLISION DE DEUX HÉLICOPTÈRES FAIT 6 MORTS À RIO DE JANEIRO, AU BRÉSIL",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:46",
+      "date": "14/06",
+      "timestamp": 1781448383
+    },
+    {
+      "id": "BFMTV_1781448214",
+      "source": "BFMTV",
+      "text": "MALGRÉ LE CESSEZ-LE-FEU, ISRAËL A REPRIS SES FRAPPES SUR LA BANLIEUE SUD DE BEYROUTH",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:43",
+      "date": "14/06",
+      "timestamp": 1781448214
+    },
+    {
+      "id": "BFMTV_1781448084",
+      "source": "BFMTV",
+      "text": "L'IRAN MENACE DE STOPPER LES NÉGOCIATIONS AVEC LES ÉTATS-UNIS, DONALD TRUMP N'A PAS ENCORE RÉAGI",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:41",
+      "date": "14/06",
+      "timestamp": 1781448084
+    },
+    {
+      "id": "BFMTV_1781448003",
+      "source": "BFMTV",
+      "text": "L'IRAN MENACE DE STOPPER LES NÉGOCIATIONS AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:40",
+      "date": "14/06",
+      "timestamp": 1781448003
+    },
+    {
+      "id": "BFMTV_1781443720",
+      "source": "BFMTV",
+      "text": "L'IRAN AVERTIT QUE LES NOUVELLES FRAPPES ISRAÉLIENNES SUR LE SUD DE BEYROUTH NE RESTERONT \"PAS IMPUNIES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:28",
+      "date": "14/06",
+      "timestamp": 1781443720
+    },
     {
       "id": "BFMTV_1781441687",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "21:28",
       "date": "12/06",
       "timestamp": 1781299700
-    },
-    {
-      "id": "BFMTV_1781297492",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: TÉHÉRAN A \"BON ESPOIR\" DE SIGNER UN ACCORD \"À DISTANCE\", \"DANS LES PROCHAINS JOURS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:51",
-      "date": "12/06",
-      "timestamp": 1781297492
-    },
-    {
-      "id": "BFMTV_1781297296",
-      "source": "BFMTV",
-      "text": "ACCORD IMMINENT ENTRE L'IRAN ET LES ÉTATS-UNIS ? LA VIVE INQUIÉTUDE DES ISRAÉLIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:48",
-      "date": "12/06",
-      "timestamp": 1781297296
-    },
-    {
-      "id": "BFMTV_1781296726",
-      "source": "BFMTV",
-      "text": "URANIUM ENRICHI: L'IRAN ESTIME QUE LA SEULE SOLUTION EST DE DILUER LES STOCKS SUR SON SOL ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:38",
-      "date": "12/06",
-      "timestamp": 1781296726
-    },
-    {
-      "id": "BFMTV_1781296619",
-      "source": "BFMTV",
-      "text": "IRAN/ÉTATS-UNIS: SELON UN HAUT RESPONSABLE AMÉRICAIN, IL Y A \"80 À 85%\" DE CHANCES QUE LES DEUX PAYS SIGNENT UN ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:36",
-      "date": "12/06",
-      "timestamp": 1781296619
-    },
-    {
-      "id": "BFMTV_1781290456",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:54",
-      "date": "12/06",
-      "timestamp": 1781290456
-    },
-    {
-      "id": "BFMTV_1781290455",
-      "source": "BFMTV",
-      "text": "L'UNION EUROPÉENNE VA REPRENDRE LES NÉGOCIATIONS SUR L'ADHÉSION DE L'UKRAINE EN DÉBUT DE SEMAINE PROCHAINE",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:54",
-      "date": "12/06",
-      "timestamp": 1781290455
-    },
-    {
-      "id": "BFMTV_1781289200",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON ESPÈRE UN ACCORD \"TRÈS PROCHAINEMENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:33",
-      "date": "12/06",
-      "timestamp": 1781289200
-    },
-    {
-      "id": "BFMTV_1781289180",
-      "source": "BFMTV",
-      "text": "LE PREMIER MINISTRE CANADIEN MARK CARNEY SALUE \"LE LEADERSHIP\" D'EMMANUEL MACRON \"QUANT À LA RECONNAISSANCE DE LA PALESTINE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:33",
-      "date": "12/06",
-      "timestamp": 1781289180
-    },
-    {
-      "id": "BFMTV_1781288166",
-      "source": "BFMTV",
-      "text": "PATATE VOLANTE DANS LE CIEL, URSS ET ORBES FLOTTANTS: QUE CONTIENNENT LES NOUVEAUX DOCUMENTS SUR LES OVNIS PUBLIÉS PAR LE PENTAGONE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:16",
-      "date": "12/06",
-      "timestamp": 1781288166
     }
   ],
   "france": {
