@@ -1,7 +1,177 @@
 {
-  "last_update": "15/06 10:35",
+  "last_update": "15/06 16:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781539133",
+      "source": "BFMTV",
+      "text": "\"JE VAIS REGARDER LE MUR\": LA RÉPONSE HILARANTE D'UNE JEUNE COLLÉGIENNE QUI APPREND L'INTERDICTION DES RÉSEAUX SOCIAUX AU ROYAUME-UNI",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:58",
+      "date": "15/06",
+      "timestamp": 1781539133
+    },
+    {
+      "id": "OPEX360_1781538999",
+      "source": "OPEX360",
+      "text": "LE SUCCESSEUR DU LECLERC SERA LE CAPINT, UN CHAR DOTÉ D’UNE TOURELLE ASCALON ET D’UN CHÂSSIS ALLEMAND",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:56",
+      "date": "15/06",
+      "timestamp": 1781538999
+    },
+    {
+      "id": "BFMTV_1781538861",
+      "source": "BFMTV",
+      "text": "LE CHANCELIER ALLEMAND, FRIEDRICH MERZ, ARRIVE EN SUISSE AVANT DE SE RENDRE À ÉVIAN POUR LE G7",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:54",
+      "date": "15/06",
+      "timestamp": 1781538861
+    },
+    {
+      "id": "BFMTV_1781538244",
+      "source": "BFMTV",
+      "text": "LE MAIRE DE LONDRES LANCE UN PLAN À 7 MILLIONS DE LIVRES STERLING CONTRE LA DÉSINFORMATION EN LIGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:44",
+      "date": "15/06",
+      "timestamp": 1781538244
+    },
+    {
+      "id": "BFMTV_1781537615",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - QUE CONTENAIT LE PRÉCÉDENT ACCORD SUR LE NUCLÉAIRE IRANIEN, QUE DONALD TRUMP AVAIT QUITTÉ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:33",
+      "date": "15/06",
+      "timestamp": 1781537615
+    },
+    {
+      "id": "BFMTV_1781537424",
+      "source": "BFMTV",
+      "text": "NEW YORK: DE JEUNES PORTORICAINS RÉCLAMENT L'INDÉPENDANCE DE LEUR ÎLE LORS D'UNE GRANDE PARADE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:30",
+      "date": "15/06",
+      "timestamp": 1781537424
+    },
+    {
+      "id": "BFMTV_1781536939",
+      "source": "BFMTV",
+      "text": "NEUF ANS APRÈS, LE \"PUTNEY PUSHER\" A ÉTÉ ARRÊTÉ POUR AVOIR POUSSÉ UNE FEMME SOUS LES ROUES D'UN BUS À LONDRES EN 2017",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:22",
+      "date": "15/06",
+      "timestamp": 1781536939
+    },
+    {
+      "id": "BFMTV_1781535749",
+      "source": "BFMTV",
+      "text": "DIRECT. SOMMET DU G7: DONALD TRUMP ACCUEILLI PAR EMMANUEL MACRON À ÉVIAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:02",
+      "date": "15/06",
+      "timestamp": 1781535749
+    },
+    {
+      "id": "BFMTV_1781535737",
+      "source": "BFMTV",
+      "text": "G7: DONALD TRUMP EST ARRIVÉ À ÉVIAN-LES-BAINS, OÙ SE DÉROULE LE SOMMET",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:02",
+      "date": "15/06",
+      "timestamp": 1781535737
+    },
+    {
+      "id": "BFMTV_1781535625",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY DIT AVOIR PROPOSÉ UNE RENCONTRE AVEC VLADIMIR POUTINE LORS DU G7 EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:00",
+      "date": "15/06",
+      "timestamp": 1781535625
+    },
+    {
+      "id": "BFMTV_1781535063",
+      "source": "BFMTV",
+      "text": "SOMMET DU G7: L'HÉLICOPTÈRE DE DONALD TRUMP ATTERRIT À ÉVIAN ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:51",
+      "date": "15/06",
+      "timestamp": 1781535063
+    },
+    {
+      "id": "BFMTV_1781534529",
+      "source": "BFMTV",
+      "text": "\"PERSONNE NE CONNAÎT L'AMPLEUR RÉELLE DE L'ÉPIDÉMIE EN RDC\": MÉDECINS SANS FRONTIÈRES ALERTE SUR LA RÉPONSE TARDIVE À EBOLA",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:42",
+      "date": "15/06",
+      "timestamp": 1781534529
+    },
+    {
+      "id": "BFMTV_1781532996",
+      "source": "BFMTV",
+      "text": "G7: DONALD TRUMP DESCEND DE SON AVION AVANT DE REJOINDRE LE SOMMET À ÉVIAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:16",
+      "date": "15/06",
+      "timestamp": 1781532996
+    },
+    {
+      "id": "BFMTV_1781532270",
+      "source": "BFMTV",
+      "text": "SOMMET DU G7 À ÉVIAN: DONALD TRUMP VIENT D'ATTERRIR À L'AÉROPORT DE GENÈVE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:04",
+      "date": "15/06",
+      "timestamp": 1781532270
+    },
+    {
+      "id": "BFMTV_1781532023",
+      "source": "BFMTV",
+      "text": "LA FRANCE ET BRUXELLES VONT SIGNER MERCREDI UN ACCORD DE PRÊT DE 15 MILLIARDS D’EUROS POUR LA DÉFENSE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:00",
+      "date": "15/06",
+      "timestamp": 1781532023
+    },
+    {
+      "id": "OPEX360_1781527718",
+      "source": "OPEX360",
+      "text": "ARTILLERIE : LE SUCCESSEUR DU LANCE-ROQUETTE UNITAIRE SERA LE SYSTÈME THUNDART, PROPOSÉ PAR MBDA ET SAFRAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:48",
+      "date": "15/06",
+      "timestamp": 1781527718
+    },
+    {
+      "id": "OPEX360_1781519846",
+      "source": "OPEX360",
+      "text": "RENAULT ET THALES DÉVOILENT 4TROOP, UN VÉHICULE 4×4 TACTIQUE DE COMMANDEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:37",
+      "date": "15/06",
+      "timestamp": 1781519846
+    },
     {
       "id": "BFMTV_1781519458",
       "source": "BFMTV",
@@ -831,176 +1001,6 @@
       "time": "20:31",
       "date": "13/06",
       "timestamp": 1781382695
-    },
-    {
-      "id": "BFMTV_1781381367",
-      "source": "BFMTV",
-      "text": "CESSEZ-LE-FEU, DÉTROIT D'ORMUZ, DÉBLOCAGE DES AVOIRS IRANIENS ... LE DÉTAIL DU PROJET D'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:09",
-      "date": "13/06",
-      "timestamp": 1781381367
-    },
-    {
-      "id": "BFMTV_1781377729",
-      "source": "BFMTV",
-      "text": "LE PORTE-AVIONS CHARLES DE GAULLE VA RENTRER À TOULON DANS LES PROCHAINS JOURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:08",
-      "date": "13/06",
-      "timestamp": 1781377729
-    },
-    {
-      "id": "BFMTV_1781375372",
-      "source": "BFMTV",
-      "text": "INFO BFMTV. LE PORTE-AVIONS CHARLES DE GAULLE QUITTE LA MÉDITERRANÉE ORIENTALE ET SERA REMPLACÉ PAR LE PORTE-HÉLICOPTÈRES MISTRAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:29",
-      "date": "13/06",
-      "timestamp": 1781375372
-    },
-    {
-      "id": "BFMTV_1781375063",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE LA SIGNATURE D'UN ACCORD AVEC L'IRAN EST PRÉVUE POUR CE DIMANCHE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:24",
-      "date": "13/06",
-      "timestamp": 1781375063
-    },
-    {
-      "id": "BFMTV_1781374907",
-      "source": "BFMTV",
-      "text": "INFO BFMTV. GUERRE AU MOYEN-ORIENT: UNE RENCONTRE ENTRE DEUX HAUTS RESPONSABLES AMÉRICAIN ET IRANIEN PRÉVUE EN SUISSE LA SEMAINE PROCHAINE",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:21",
-      "date": "13/06",
-      "timestamp": 1781374907
-    },
-    {
-      "id": "BFMTV_1781374615",
-      "source": "BFMTV",
-      "text": "IRAN/ÉTATS-UNIS: SELON DONALD TRUMP, L'ACCORD EST UN \"MUR CONTRE L'ARME NUCLÉAIRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:16",
-      "date": "13/06",
-      "timestamp": 1781374615
-    },
-    {
-      "id": "BFMTV_1781373842",
-      "source": "BFMTV",
-      "text": "IRAN/ÉTATS-UNIS: LE DÉTROIT D'ORMUZ SERA \"OUVERT IMMÉDIATEMENT\" APRÈS LA SIGNATURE DE L'ACCORD ASSURE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:04",
-      "date": "13/06",
-      "timestamp": 1781373842
-    },
-    {
-      "id": "BFMTV_1781372872",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP, LYHANNA, IRAN ... ENTRETIEN AVEC ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:47",
-      "date": "13/06",
-      "timestamp": 1781372872
-    },
-    {
-      "id": "BFMTV_1781372207",
-      "source": "BFMTV",
-      "text": "IRAN/ÉTATS-UNIS: \"CHEZ DONALD TRUMP, TOUT EST SYMBOLE\", ANALYSE ALAIN BAUER, AUTEUR DU LIVRE \"TRUMP, LE POUVOIR DES MOTS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:36",
-      "date": "13/06",
-      "timestamp": 1781372207
-    },
-    {
-      "id": "BFMTV_1781371617",
-      "source": "BFMTV",
-      "text": "IRAN/ÉTATS-UNIS: DONALD TRUMP ASSURE QUE L'ACCORD SERA BIEN SIGNÉ CE DIMANCHE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:26",
-      "date": "13/06",
-      "timestamp": 1781371617
-    },
-    {
-      "id": "BFMTV_1781369683",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LA SIGNATURE D'UN ACCORD AVEC L'IRAN EST PRÉVUE POUR CE DIMANCHE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:54",
-      "date": "13/06",
-      "timestamp": 1781369683
-    },
-    {
-      "id": "BFMTV_1781369195",
-      "source": "BFMTV",
-      "text": "INFO BFMTV - UNE RENCONTRE ENTRE HAUTS RESPONSABLES AMÉRICAINS ET IRANIENS SE TIENDRA EN SUISSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:46",
-      "date": "13/06",
-      "timestamp": 1781369195
-    },
-    {
-      "id": "BFMTV_1781368369",
-      "source": "BFMTV",
-      "text": "SELON REUTERS, LES ÉMIRATS ARABES UNIS AURAIENT BLOQUÉ UNE ENVELOPPE FINANCIÈRE DE 10 À 20 MILLIARDS DE DOLLARS À DESTINATION DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:32",
-      "date": "13/06",
-      "timestamp": 1781368369
-    },
-    {
-      "id": "BFMTV_1781368188",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PORTE-AVIONS CHARLES-DE-GAULLE VA RENTRER À TOULON (INFO BFMTV)",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:29",
-      "date": "13/06",
-      "timestamp": 1781368188
-    },
-    {
-      "id": "BFMTV_1781368072",
-      "source": "BFMTV",
-      "text": "IRAN/ÉTATS-UNIS: LES NÉGOCIATIONS SUR LE PROGRAMME NUCLÉAIRE IRANIEN S'INTENSIFIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:27",
-      "date": "13/06",
-      "timestamp": 1781368072
-    },
-    {
-      "id": "BFMTV_1781367444",
-      "source": "BFMTV",
-      "text": "APRÈS LE G7, EMMANUEL MACRON ET DONALD TRUMP DÎNERONT MERCREDI À VERSAILLES POUR CÉLÉBRER LES 250 ANS DE L’INDÉPENDANCE DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:17",
-      "date": "13/06",
-      "timestamp": 1781367444
-    },
-    {
-      "id": "BFMTV_1781364803",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UNE RENCONTRE ENTRE DEUX HAUTS RESPONSABLES AMÉRICAIN ET IRANIEN EN SUISSE LA SEMAINE PROCHAINE (INFO BFMTV)",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:33",
-      "date": "13/06",
-      "timestamp": 1781364803
     }
   ],
   "france": {
