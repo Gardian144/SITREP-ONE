@@ -1,7 +1,57 @@
 {
-  "last_update": "16/06 00:10",
+  "last_update": "16/06 05:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781587521",
+      "source": "BFMTV",
+      "text": "ACCIDENT APRÈS LE DÉCOLLAGE, BOULE DE FEU… CE QUE L'ON SAIT SUR LE CRASH MORTEL D'UN BOMBARDIER B-52 AMÉRICAIN QUI A FAIT HUIT MORTS EN CALIFORNIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:25",
+      "date": "16/06",
+      "timestamp": 1781587521
+    },
+    {
+      "id": "BFMTV_1781584827",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: À TROIS JOURS DE LA SIGNATURE DE L'ACCORD DE PAIX, DONALD TRUMP RÉPÈTE QUE LE DÉTROIT D'ORMUZ SERA \"COMPLÈTEMENT OUVERT\" VENDREDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:40",
+      "date": "16/06",
+      "timestamp": 1781584827
+    },
+    {
+      "id": "BFMTV_1781584798",
+      "source": "BFMTV",
+      "text": "LES AMÉRICAINS DISENT SAVOIR OÙ SE TROUVENT LES MINES DANS LE DÉTROIT D'ORMUZ ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:39",
+      "date": "16/06",
+      "timestamp": 1781584798
+    },
+    {
+      "id": "BFMTV_1781583897",
+      "source": "BFMTV",
+      "text": "UN BOMBARDIER B-52 AMÉRICAIN S'ÉCRASE EN CALIFORNIE, HUIT MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:24",
+      "date": "16/06",
+      "timestamp": 1781583897
+    },
+    {
+      "id": "BFMTV_1781583363",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE UNE RÉOUVERTURE \"COMPLÈTE\" DU DÉTROIT D'ORMUZ VENDREDI, DES ZONES MINÉES POSENT TOUJOURS QUESTION ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:16",
+      "date": "16/06",
+      "timestamp": 1781583363
+    },
     {
       "id": "BFMTV_1781563433",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "15:01",
       "date": "14/06",
       "timestamp": 1781449283
-    },
-    {
-      "id": "BFMTV_1781448575",
-      "source": "BFMTV",
-      "text": "G7 À ÉVIAN: UNE MANIFESTATION EST EN COURS À GENÈVE EN SUISSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:49",
-      "date": "14/06",
-      "timestamp": 1781448575
-    },
-    {
-      "id": "BFMTV_1781448383",
-      "source": "BFMTV",
-      "text": "LA COLLISION DE DEUX HÉLICOPTÈRES FAIT 6 MORTS À RIO DE JANEIRO, AU BRÉSIL",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:46",
-      "date": "14/06",
-      "timestamp": 1781448383
-    },
-    {
-      "id": "BFMTV_1781448214",
-      "source": "BFMTV",
-      "text": "MALGRÉ LE CESSEZ-LE-FEU, ISRAËL A REPRIS SES FRAPPES SUR LA BANLIEUE SUD DE BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:43",
-      "date": "14/06",
-      "timestamp": 1781448214
-    },
-    {
-      "id": "BFMTV_1781448084",
-      "source": "BFMTV",
-      "text": "L'IRAN MENACE DE STOPPER LES NÉGOCIATIONS AVEC LES ÉTATS-UNIS, DONALD TRUMP N'A PAS ENCORE RÉAGI",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:41",
-      "date": "14/06",
-      "timestamp": 1781448084
-    },
-    {
-      "id": "BFMTV_1781448003",
-      "source": "BFMTV",
-      "text": "L'IRAN MENACE DE STOPPER LES NÉGOCIATIONS AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:40",
-      "date": "14/06",
-      "timestamp": 1781448003
     }
   ],
   "france": {
