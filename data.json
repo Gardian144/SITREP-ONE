@@ -1,7 +1,17 @@
 {
-  "last_update": "16/06 21:59",
+  "last_update": "16/06 23:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781648971",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL DIT AVOIR INTERCEPTÉ DES ROQUETTES DU HEZBOLLAH ET AVOIR RIPOSTÉ PAR DES FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:29",
+      "date": "16/06",
+      "timestamp": 1781648971
+    },
     {
       "id": "BFMTV_1781644891",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "10:06",
       "date": "15/06",
       "timestamp": 1781517986
-    },
-    {
-      "id": "BFMTV_1781517608",
-      "source": "BFMTV",
-      "text": "PATRIMOINE DE L'UNESCO, RÉACTIONS INTERNATIONALES... CE QUE L'ON SAIT DE L'INCENDIE QUI A RAVAGÉ UNE CATHÉDRALE ORTHODOXE À KIEV APRÈS DES FRAPPES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:00",
-      "date": "15/06",
-      "timestamp": 1781517608
     }
   ],
   "france": {
