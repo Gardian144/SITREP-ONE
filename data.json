@@ -1,7 +1,27 @@
 {
-  "last_update": "16/06 19:22",
+  "last_update": "16/06 21:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781644891",
+      "source": "BFMTV",
+      "text": "\"C'EST ABSOLUMENT INTOLÉRABLE\": LE CHEF DE L'ONU ANTÓNIO GUTERRES DÉPLORE LA PAUVRETÉ ET LES VIOLENCES LIÉES AUX GANGS EN HAÏTI",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:21",
+      "date": "16/06",
+      "timestamp": 1781644891
+    },
+    {
+      "id": "BFMTV_1781642747",
+      "source": "BFMTV",
+      "text": "\"C'EST UNE GUERRE DE CHOIX\": KAMALA HARRIS FUSTIGE UN CONFLIT EN IRAN QUE LE \"PEUPLE AMÉRICAIN NE VOULAIT PAS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:45",
+      "date": "16/06",
+      "timestamp": 1781642747
+    },
     {
       "id": "BFMTV_1781636111",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:00",
       "date": "15/06",
       "timestamp": 1781517608
-    },
-    {
-      "id": "BFMTV_1781517505",
-      "source": "BFMTV",
-      "text": "UN SÉISME DE MAGNITUDE 6,2 FRAPPE LE SUD DES PHILIPPINES",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:58",
-      "date": "15/06",
-      "timestamp": 1781517505
-    },
-    {
-      "id": "BFMTV_1781516996",
-      "source": "BFMTV",
-      "text": "LONDRES: DES CENTAINES DE CYCLISTES DÉFILENT NUS DANS LES RUES DE LA CAPITALE ANGLAISE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:49",
-      "date": "15/06",
-      "timestamp": 1781516996
     }
   ],
   "france": {
