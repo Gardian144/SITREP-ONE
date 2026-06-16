@@ -1,7 +1,67 @@
 {
-  "last_update": "16/06 15:33",
+  "last_update": "16/06 19:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781636111",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL DIT AVOIR INTERCEPTÉ DES ROQUETTES DU HEZBOLLAH ET AVOIR RIPOSTÉ PAR DES FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:55",
+      "date": "16/06",
+      "timestamp": 1781636111
+    },
+    {
+      "id": "BFMTV_1781632405",
+      "source": "BFMTV",
+      "text": "ESPAGNE: LICENCIÉ APRÈS AVOIR REGARDÉ UN MATCH DE FOOT AU TRAVAIL, UN MANAGER DE BURGER KING GAGNE EN JUSTICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:53",
+      "date": "16/06",
+      "timestamp": 1781632405
+    },
+    {
+      "id": "OPEX360_1781631640",
+      "source": "OPEX360",
+      "text": "LA FRÉGATE RUSSE AMIRAL GRIGOROVITCH EST ACCUSÉE D’AVOIR TIRÉ DES COUPS DE SEMONCE VERS UN YACHT PRÈS DE L’ÎLE DE WIGHT",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:40",
+      "date": "16/06",
+      "timestamp": 1781631640
+    },
+    {
+      "id": "BFMTV_1781628926",
+      "source": "BFMTV",
+      "text": "UN YACHT SIGNALE DES TIRS DE SEMONCE D'UN NAVIRE DE GUERRE RUSSE DANS LA MANCHE, UNE ENQUÊTE EST OUVERTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:55",
+      "date": "16/06",
+      "timestamp": 1781628926
+    },
+    {
+      "id": "BFMTV_1781626281",
+      "source": "BFMTV",
+      "text": "\"NOUS ALLONS PRODUIRE ENVIRON 10 MILLIONS DE DRONES CETTE ANNÉE\": VOLODYMYR ZELENSKY MAINTIENT SA VOLONTÉ DE PRODUIRE DES DRONES EN GRANDE CAPACITÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:11",
+      "date": "16/06",
+      "timestamp": 1781626281
+    },
+    {
+      "id": "BFMTV_1781625940",
+      "source": "BFMTV",
+      "text": "UN YACHT SIGNALE DES TIRS DE SEMONCE D'UN NAVIRE DE GUERRE RUSSE DANS LA MANCHE, UNE ENQUÊTE EN COURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:05",
+      "date": "16/06",
+      "timestamp": 1781625940
+    },
     {
       "id": "OPEX360_1781623814",
       "source": "OPEX360",
@@ -941,66 +1001,6 @@
       "time": "09:49",
       "date": "15/06",
       "timestamp": 1781516996
-    },
-    {
-      "id": "BFMTV_1781516876",
-      "source": "BFMTV",
-      "text": "G7: BFMTV EN DIRECT DE L'HÔTEL ROYAL D'ÉVIAN, OÙ SE DÉROULERA LE SOMMET",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:47",
-      "date": "15/06",
-      "timestamp": 1781516876
-    },
-    {
-      "id": "BFMTV_1781516455",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:40",
-      "date": "15/06",
-      "timestamp": 1781516455
-    },
-    {
-      "id": "BFMTV_1781516324",
-      "source": "BFMTV",
-      "text": "CATHERINE VAUTRIN SALUE \"L'ACCORD ANNONCÉ CETTE NUIT\" ENTRE LES ÉTATS-UNIS ET L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:38",
-      "date": "15/06",
-      "timestamp": 1781516324
-    },
-    {
-      "id": "BFMTV_1781516033",
-      "source": "BFMTV",
-      "text": "BRÉSIL: UNE FEMME MEURT LORS D’UN SAUT DANS LE VIDE À CAUSE DE L’OUBLI DE LA CORDE DE SÉCURITÉ ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:33",
-      "date": "15/06",
-      "timestamp": 1781516033
-    },
-    {
-      "id": "BFMTV_1781496235",
-      "source": "BFMTV",
-      "text": "DIRECT. MOYEN-ORIENT: DONALD TRUMP ANNONCE QUE L'ACCORD AVEC L'IRAN EST \" DÉSORMAIS FINALISÉ\", TÉHÉRAN DIT AVOIR \"REMPORTÉ DE GRANDES VICTOIRES\" DURANT CETTE GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:03",
-      "date": "15/06",
-      "timestamp": 1781496235
-    },
-    {
-      "id": "BFMTV_1781476108",
-      "source": "BFMTV",
-      "text": "APRÈS DONALD TRUMP, L'IRAN CONFIRME QUE \"LE TEXTE D'ACCORD DE PAIX A ÉTÉ FINALISÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:28",
-      "date": "14/06",
-      "timestamp": 1781476108
     }
   ],
   "france": {
