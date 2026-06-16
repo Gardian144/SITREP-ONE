@@ -1,7 +1,157 @@
 {
-  "last_update": "16/06 05:33",
+  "last_update": "16/06 10:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781605508",
+      "source": "BFMTV",
+      "text": "LES ECLAIREURS - COMBIEN LA GUERRE EN IRAN A-T-ELLE COÛTÉ AUX ÉTATS-UNIS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:25",
+      "date": "16/06",
+      "timestamp": 1781605508
+    },
+    {
+      "id": "OPEX360_1781605427",
+      "source": "OPEX360",
+      "text": "UTILISÉ PAR L’US AIR FORCE POUR DES ESSAIS UN VOL, UN BOMBARDIER B-52H S’EST ÉCRASÉ SUR LA BASE D’EDWARDS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:23",
+      "date": "16/06",
+      "timestamp": 1781605427
+    },
+    {
+      "id": "BFMTV_1781604908",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QU'IL N'Y A \"AUCUNE OBLIGATION\" POUR WASHINGTON D'INVESTIR EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:15",
+      "date": "16/06",
+      "timestamp": 1781604908
+    },
+    {
+      "id": "BFMTV_1781604627",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT QUE \"L'IRAN N'AURA JAMAIS L'ARME NUCLÉAIRE\" SINON IL Y AURA \"DES CONSÉQUENCES TERRIBLES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:10",
+      "date": "16/06",
+      "timestamp": 1781604627
+    },
+    {
+      "id": "BFMTV_1781604592",
+      "source": "BFMTV",
+      "text": "PÉAGE, FRAIS DE SERVICE, GRATUITÉ… DANS QUELLES CONDITIONS LE DÉTROIT D'ORMUZ POURRAIT-IL ROUVRIR?",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:09",
+      "date": "16/06",
+      "timestamp": 1781604592
+    },
+    {
+      "id": "BFMTV_1781604546",
+      "source": "BFMTV",
+      "text": "UN CARICATURISTE RUSSE, CRITIQUE DE VLADIMIR POUTINE, ABATTU EN POLOGNE, DEUX BIÉLORUSSES INTERPELLÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:09",
+      "date": "16/06",
+      "timestamp": 1781604546
+    },
+    {
+      "id": "BFMTV_1781603619",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP \"CROIT QU'IL VA Y A VOIR UN CHANGEMENT DE RÉGIME\" EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:53",
+      "date": "16/06",
+      "timestamp": 1781603619
+    },
+    {
+      "id": "BFMTV_1781603307",
+      "source": "BFMTV",
+      "text": "\"LA SEULE CHOSE QUI EST IMPORTANTE, C'EST QUE L'IRAN N'AURA JAMAIS L'ARME NUCLÉAIRE\", AFFIRME DONALD TRUMP ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:48",
+      "date": "16/06",
+      "timestamp": 1781603307
+    },
+    {
+      "id": "BFMTV_1781603126",
+      "source": "BFMTV",
+      "text": "LE PIC N'A PAS ENCORE ÉTÉ ATTEINT: LA CROIX-ROUGE PRÉVIENT QUE L'ÉPIDÉMIE D'EBOLA POURRAIT DURER \"ENCORE UN AN\" EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:45",
+      "date": "16/06",
+      "timestamp": 1781603126
+    },
+    {
+      "id": "BFMTV_1781602694",
+      "source": "BFMTV",
+      "text": "UN SÉISME DE MAGNITUDE 6,7 A FRAPPÉ L'INDONÉSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:38",
+      "date": "16/06",
+      "timestamp": 1781602694
+    },
+    {
+      "id": "BFMTV_1781602306",
+      "source": "BFMTV",
+      "text": "ONU: LA FRANCE POINTE LA DÉTÉRIORATION DES \"CONDITIONS DE VIE DES POPULATIONS CIVILES PALESTINIENNES\" DANS LES TERRITOIRES OCCUPÉS ET À GAZA",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:31",
+      "date": "16/06",
+      "timestamp": 1781602306
+    },
+    {
+      "id": "BFMTV_1781602112",
+      "source": "BFMTV",
+      "text": "NEW YORK: UNE VIOLENTE BAGARRE ÉCLATE ENTRE SUPPORTERS ALGÉRIENS ET ARGENTINS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:28",
+      "date": "16/06",
+      "timestamp": 1781602112
+    },
+    {
+      "id": "BFMTV_1781599414",
+      "source": "BFMTV",
+      "text": "G7 À EVIAN: L'ARRIVÉE DE DONALD TRUMP AUTOUR DE LA TABLE RONDE POUR LA PAIX EN UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:43",
+      "date": "16/06",
+      "timestamp": 1781599414
+    },
+    {
+      "id": "BFMTV_1781599086",
+      "source": "BFMTV",
+      "text": "UNE QUARANTAINE DE CHATS VOLÉS POUR ÊTRE TRANSFORMÉS EN VIANDE RENDUS À LEURS PROPRIÉTAIRES AU VIETNAM, UN RÉSEAU DÉMANTELÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:38",
+      "date": "16/06",
+      "timestamp": 1781599086
+    },
+    {
+      "id": "BFMTV_1781598635",
+      "source": "BFMTV",
+      "text": "LOS ANGELES: LA POLICE ABAT LE CHIEN D'UNE FEMME CÉLÉBRANT LA VICTOIRE DES KNICKS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:30",
+      "date": "16/06",
+      "timestamp": 1781598635
+    },
     {
       "id": "BFMTV_1781587521",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "17:15",
       "date": "14/06",
       "timestamp": 1781457353
-    },
-    {
-      "id": "BFMTV_1781457148",
-      "source": "BFMTV",
-      "text": "DES AFFRONTEMENTS ONT LIEU ENTRE MANIFESTANTS ET POLICIERS À GENÈVE EN SUISSE EN MARGE DU G7 QUI SE DÉROULERA À ÉVIAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:12",
-      "date": "14/06",
-      "timestamp": 1781457148
-    },
-    {
-      "id": "BFMTV_1781457111",
-      "source": "BFMTV",
-      "text": "UN POLICIER AMÉRICAIN JONGLE DEVANT DES SUPPORTERS À BOSTON ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:11",
-      "date": "14/06",
-      "timestamp": 1781457111
-    },
-    {
-      "id": "BFMTV_1781456119",
-      "source": "BFMTV",
-      "text": "DE MULTIPLES AFFRONTEMENTS ENTRE MANIFESTANTS ANTI-G7 ET POLICE RECENSÉS AUTOUR DE L'ONU À GENÈVE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:55",
-      "date": "14/06",
-      "timestamp": 1781456119
-    },
-    {
-      "id": "BFMTV_1781452573",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:56",
-      "date": "14/06",
-      "timestamp": 1781452573
-    },
-    {
-      "id": "BFMTV_1781452573",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY A DISCUTÉ DE LA GUERRE AVEC DONALD TRUMP EN L'APPELANT POUR SON 80E ANNIVERSAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:56",
-      "date": "14/06",
-      "timestamp": 1781452573
-    },
-    {
-      "id": "BFMTV_1781452573",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:56",
-      "date": "14/06",
-      "timestamp": 1781452573
-    },
-    {
-      "id": "BFMTV_1781452000",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:46",
-      "date": "14/06",
-      "timestamp": 1781452000
-    },
-    {
-      "id": "BFMTV_1781451999",
-      "source": "BFMTV",
-      "text": "\"NE GÂCHONS PAS TOUT!\": ALORS QU'IL ESPÈRE UN ACCORD AVEC L'IRAN, DONALD TRUMP JUGE QUE LES FRAPPES ISRAÉLIENNES SUR BEYROUTH \"N'AURAIENT PAS DÛ AVOIR LIEU\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:46",
-      "date": "14/06",
-      "timestamp": 1781451999
-    },
-    {
-      "id": "BFMTV_1781451722",
-      "source": "BFMTV",
-      "text": "LES FRAPPES ISRAÉLIENNES AU LIBAN NE RESTERONT PAS \"IMPUNIES\" DÉCLARE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:42",
-      "date": "14/06",
-      "timestamp": 1781451722
-    },
-    {
-      "id": "BFMTV_1781451490",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: BARACK OBAMA JUGE \"PEU PROBABLE\" QU'UN ACCORD AVEC L'IRAN SOIT \"DIFFÉRENT\" DE CELUI QU'IL AVAIT NÉGOCIÉ EN 2015",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:38",
-      "date": "14/06",
-      "timestamp": 1781451490
-    },
-    {
-      "id": "BFMTV_1781451344",
-      "source": "BFMTV",
-      "text": "G7 À ÉVIAN: UNE MANIFESTATION SOUS HAUTE SURVEILLANCE EST EN COURS À GENÈVE EN SUISSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:35",
-      "date": "14/06",
-      "timestamp": 1781451344
-    },
-    {
-      "id": "BFMTV_1781450939",
-      "source": "BFMTV",
-      "text": "TROIS MORTS ET UN DISPARU EN CROATIE APRÈS LA COLLISION EN MER ENTRE UN CATAMARAN ET UN VOILIER BATTANT PAVILLON FRANÇAIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:28",
-      "date": "14/06",
-      "timestamp": 1781450939
-    },
-    {
-      "id": "BFMTV_1781450177",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP CONDAMNE LES FRAPPES ISRAÉLIENNES SUR BEYROUTH",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:16",
-      "date": "14/06",
-      "timestamp": 1781450177
-    },
-    {
-      "id": "BFMTV_1781449414",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP APPELLE À LA FIN DES ATTAQUES APRÈS LES FRAPPES ISRAÉLIENNES SUR BEYROUTH AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:03",
-      "date": "14/06",
-      "timestamp": 1781449414
-    },
-    {
-      "id": "BFMTV_1781449283",
-      "source": "BFMTV",
-      "text": "LA TENSION NE RETOMBE PAS ENTRE ISRAËL ET LE HEZBOLLAH, ALORS QUE L'IRAN PRÉVIENT QUE LES FRAPPES ISRAÉLIENNES AU LIBAN NE RESTERONT PAS IMPUNIES",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:01",
-      "date": "14/06",
-      "timestamp": 1781449283
     }
   ],
   "france": {
