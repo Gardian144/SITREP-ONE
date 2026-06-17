@@ -1,7 +1,167 @@
 {
-  "last_update": "17/06 16:03",
+  "last_update": "17/06 18:34",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781720202",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QUE L'ACCORD AVEC L'IRAN SERA SIGNÉ \"BIENTÔT\", \"PEUT-ÊTRE\" JEUDI OU VENDREDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:16",
+      "date": "17/06",
+      "timestamp": 1781720202
+    },
+    {
+      "id": "BFMTV_1781719613",
+      "source": "BFMTV",
+      "text": "DIRECT. FIN DU SOMMET G7: DONALD TRUMP EN ROUTE POUR VERSAILLES OÙ IL DOIT DÎNER AVEC EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:06",
+      "date": "17/06",
+      "timestamp": 1781719613
+    },
+    {
+      "id": "BFMTV_1781719394",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP EMBARQUE DANS SON AVION POUR REJOINDRE VERSAILLES ET SON DÎNER AVEC EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:03",
+      "date": "17/06",
+      "timestamp": 1781719394
+    },
+    {
+      "id": "BFMTV_1781718610",
+      "source": "BFMTV",
+      "text": "\"L'IA VA CRÉER UNE PÉNURIE DE MAIN-D'ŒUVRE\": SELON JEFF BEZOS, FONDATEUR D'AMAZON, L'INTELLIGENCE ARTIFICIELLE NE VA PAS DÉTRUIRE DES EMPLOIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:50",
+      "date": "17/06",
+      "timestamp": 1781718610
+    },
+    {
+      "id": "OPEX360_1781718397",
+      "source": "OPEX360",
+      "text": "ARTILLERIE : KNDS DÉVOILE LE SYSTÈME D’ARTILLERIE À LONGUE PORTÉE LORAS, POTENTIEL SUCCESSEUR DU CAESAR",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:46",
+      "date": "17/06",
+      "timestamp": 1781718397
+    },
+    {
+      "id": "BFMTV_1781717987",
+      "source": "BFMTV",
+      "text": "LES DÉTAILS DE LA RÉCEPTION DE DONALD TRUMP AU CHÂTEAU DE VERSAILLES",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:39",
+      "date": "17/06",
+      "timestamp": 1781717987
+    },
+    {
+      "id": "BFMTV_1781716021",
+      "source": "BFMTV",
+      "text": "SOMMET DU G7: LE DISCOURS DE DONALD TRUMP CONCERNANT L'ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:07",
+      "date": "17/06",
+      "timestamp": 1781716021
+    },
+    {
+      "id": "BFMTV_1781715065",
+      "source": "BFMTV",
+      "text": "CHÂTEAU DE VERSAILLES: \"PEUT-ÊTRE LE PLUS BEAU DE TOUS LES PALAIS DU MONDE\", RECONNAÎT DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:51",
+      "date": "17/06",
+      "timestamp": 1781715065
+    },
+    {
+      "id": "BFMTV_1781714892",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DONALD TRUMP REMERCIE XI JINPING ET VLADIMIR POUTINE POUR ÊTRE \"RESTÉS NEUTRES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:48",
+      "date": "17/06",
+      "timestamp": 1781714892
+    },
+    {
+      "id": "BFMTV_1781714227",
+      "source": "BFMTV",
+      "text": "HAMAS: \"CE SONT DES GENS QUI ONT GRANDI AVEC DES MITRAILLETTES À LA MAIN, CE N'EST PAS FACILE DE TRAVAILLER AVEC DES GENS COMME ÇA\", ESTIME DONALD TRUMP ",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:37",
+      "date": "17/06",
+      "timestamp": 1781714227
+    },
+    {
+      "id": "BFMTV_1781714178",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ESTIME QU'ISRAËL \"POURRAIT MIEUX SE COMPORTER\" AU LIBAN ET FAIRE UN \"MEILLEUR TRAVAIL\" ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:36",
+      "date": "17/06",
+      "timestamp": 1781714178
+    },
+    {
+      "id": "BFMTV_1781713552",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QUE L'ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS SERA \"TRÈS PROBABLEMENT\" SIGNÉ JEUDI OU VENDREDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:25",
+      "date": "17/06",
+      "timestamp": 1781713552
+    },
+    {
+      "id": "BFMTV_1781713321",
+      "source": "BFMTV",
+      "text": "IRAN: LE BLOCUS AMÉRICAIN \"RESTERA DANS LES ANNALES COMME LE MEILLEURE BLOCUS\" DE L'HISTOIRE, ESTIME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:22",
+      "date": "17/06",
+      "timestamp": 1781713321
+    },
+    {
+      "id": "BFMTV_1781713306",
+      "source": "BFMTV",
+      "text": "IRAN: \"C'EST SIMPLEMENT UN PROTOCOLE D'ACCORD, SI ON N'Y ARRIVE PAS EN 60 JOURS, ON REVIENDRA AUX BOMBARDEMENTS\", ANNONCE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:21",
+      "date": "17/06",
+      "timestamp": 1781713306
+    },
+    {
+      "id": "BFMTV_1781713137",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE BENJAMIN NETANYAHU \"S'EXCITE UN PEU\" MAIS QU'IL EST \"FORMIDABLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:18",
+      "date": "17/06",
+      "timestamp": 1781713137
+    },
+    {
+      "id": "BFMTV_1781712920",
+      "source": "BFMTV",
+      "text": "SOMMET DU G7: \"EMMANUEL ET BRIGITTE MACRON ONT FAIT UN EXCELLENT TRAVAIL\", AFFIRME DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:15",
+      "date": "17/06",
+      "timestamp": 1781712920
+    },
     {
       "id": "OPEX360_1781710931",
       "source": "OPEX360",
@@ -841,166 +1001,6 @@
       "time": "04:16",
       "date": "16/06",
       "timestamp": 1781583363
-    },
-    {
-      "id": "BFMTV_1781563433",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN AFFIRME \"QU'UN ACCORD FINAL N'A PAS ENCORE ÉTÉ CONCLU\" AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:43",
-      "date": "15/06",
-      "timestamp": 1781563433
-    },
-    {
-      "id": "BFMTV_1781562949",
-      "source": "BFMTV",
-      "text": "UN BOMBARDIER B-52 AMÉRICAIN S'ÉCRASE EN CALIFORNIE AVEC HUIT PERSONNES À SON BORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:35",
-      "date": "15/06",
-      "timestamp": 1781562949
-    },
-    {
-      "id": "BFMTV_1781560147",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: TROIS PÉTROLIERS ET DEUX NAVIRES IRANIENS ONT PU FRANCHIR LE BLOCUS NAVAL AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:49",
-      "date": "15/06",
-      "timestamp": 1781560147
-    },
-    {
-      "id": "BFMTV_1781559964",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU AFFIRME QUE LA GUERRE CONTRE L'IRAN A SAUVÉ ISRAËL DE LA MENACE D'UNE \"DESTRUCTION NUCLÉAIRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:46",
-      "date": "15/06",
-      "timestamp": 1781559964
-    },
-    {
-      "id": "BFMTV_1781556498",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN BOMBARDIER B-52 AMÉRICAIN S'ÉCRASE EN CALIFORNIE APRÈS SON DÉCOLLAGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:48",
-      "date": "15/06",
-      "timestamp": 1781556498
-    },
-    {
-      "id": "BFMTV_1781554295",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU AFFIRME QUE L'ARMÉE ISRAÉLIENNE RESTERA À GAZA, AU LIBAN ET EN SYRIE \"TANT QU'IL LE FAUDRA\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:11",
-      "date": "15/06",
-      "timestamp": 1781554295
-    },
-    {
-      "id": "BFMTV_1781553989",
-      "source": "BFMTV",
-      "text": "\"NOUS NE FAISONS AUCUNE FAVEUR À L'UKRAINE\": LA COMMISSION EUROPÉENNE DIT AVOIR \"FRANCHI\" UNE ÉTAPE IMPORTANTE POUR UNE ADHÉSION DE L'UKRAINE À L'UE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:06",
-      "date": "15/06",
-      "timestamp": 1781553989
-    },
-    {
-      "id": "BFMTV_1781553770",
-      "source": "BFMTV",
-      "text": "ACCORD ÉTATS-UNIS/IRAN: \"C'EST UNE TRAGÉDIE POUR LE PEUPLE IRANIEN, LE SENTIMENT D'AVOIR SOUFFERT EN VAIN\", CONSTATE DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:02",
-      "date": "15/06",
-      "timestamp": 1781553770
-    },
-    {
-      "id": "BFMTV_1781553752",
-      "source": "BFMTV",
-      "text": "IRAN: “NOUS AVONS SAUVÉS L’ÉTAT D’ISRAËL DE LA MENACE D’UNE DESTRUCTION NUCLÉAIRE”, AFFIRME BENJAMIN NETANYAHU, PREMIER MINISTRE ISRAÉLIEN  ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:02",
-      "date": "15/06",
-      "timestamp": 1781553752
-    },
-    {
-      "id": "BFMTV_1781553732",
-      "source": "BFMTV",
-      "text": "ACCORD ÉTATS-UNIS/IRAN: LES COÛTS DES CARBURANTS SONT-ILS SUR LE POINT DE DIMINUER SIGNIFICATIVEMENT ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:02",
-      "date": "15/06",
-      "timestamp": 1781553732
-    },
-    {
-      "id": "BFMTV_1781553731",
-      "source": "BFMTV",
-      "text": "NUCLÉAIRE IRANIEN: “LE PROGRAMME A ÉTÉ CONSIDÉRABLEMENT AFFAIBLI ET RETARDÉ”, SELON DOMINIQUE DE VILLEPIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:02",
-      "date": "15/06",
-      "timestamp": 1781553731
-    },
-    {
-      "id": "BFMTV_1781553704",
-      "source": "BFMTV",
-      "text": "\"AUCUN SIGNE TRÈS CONCRET\": L'ESPOIR DU BEAU-PÈRE DE CHRISTOPHE GLEIZES, DÉTENU EN ALGÉRIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:01",
-      "date": "15/06",
-      "timestamp": 1781553704
-    },
-    {
-      "id": "BFMTV_1781553416",
-      "source": "BFMTV",
-      "text": "UN BOMBARDIER B-52 AMÉRICAIN S'ÉCRASE EN CALIFORNIE, LES SECOURS SUR PLACE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:56",
-      "date": "15/06",
-      "timestamp": 1781553416
-    },
-    {
-      "id": "BFMTV_1781553401",
-      "source": "BFMTV",
-      "text": "MORT DE LYHANNA: DES MILLIERS DE PERSONNES MANIFESTENT DEVANT LE MINISTÈRE DE LA JUSTICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:56",
-      "date": "15/06",
-      "timestamp": 1781553401
-    },
-    {
-      "id": "BFMTV_1781553053",
-      "source": "BFMTV",
-      "text": "DOMINIQUE DE VIILEPIN ASSURE QUE L'ACCORD DE PAIX EST \"UN SUCCÈS DE COMMUNICATION\" POUR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:50",
-      "date": "15/06",
-      "timestamp": 1781553053
-    },
-    {
-      "id": "BFMTV_1781552910",
-      "source": "BFMTV",
-      "text": "UN BOMBARDIER B-52 AMÉRICAIN S'ÉCRASE EN CALIFORNIE PEU APRÈS SON DÉCOLLAGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:48",
-      "date": "15/06",
-      "timestamp": 1781552910
     }
   ],
   "france": {
