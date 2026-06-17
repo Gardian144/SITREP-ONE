@@ -1,7 +1,177 @@
 {
-  "last_update": "17/06 12:05",
+  "last_update": "17/06 16:03",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1781710931",
+      "source": "OPEX360",
+      "text": "LA FRANCE A OFFICIALISÉ UN EMPRUNT EUROPÉEN DE 15,1 MILLIARDS D’EUROS POUR FINANCER UNE PARTIE DE LA LPM 2024-30",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:42",
+      "date": "17/06",
+      "timestamp": 1781710931
+    },
+    {
+      "id": "BFMTV_1781710805",
+      "source": "BFMTV",
+      "text": "VOICI COMBIEN LA GUERRE EN IRAN A COÛTÉ À DONALD TRUMP (ET AUX AMÉRICAINS)",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:40",
+      "date": "17/06",
+      "timestamp": 1781710805
+    },
+    {
+      "id": "BFMTV_1781710755",
+      "source": "BFMTV",
+      "text": "DIRECT. SOMMET DU G7: EMMANUEL MACRON AFFIRME N'AVOIR \"JAMAIS ÉTÉ AMBIGU, NI FAIBLE AVEC DONALD TRUMP\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:39",
+      "date": "17/06",
+      "timestamp": 1781710755
+    },
+    {
+      "id": "BFMTV_1781710039",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON: \"JE SUIS COMME COMME LES BLEUS, QUE JE JOUE À L'EXTÉRIEUR OU À DOMICILE, MON BUT EST DE MARQUER DES BUTS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:27",
+      "date": "17/06",
+      "timestamp": 1781710039
+    },
+    {
+      "id": "BFMTV_1781709764",
+      "source": "BFMTV",
+      "text": " \"CET ACCORD QUI MET FIN AUX COMBATS, DU DÉTROIT D'ORMUZ AU LIBAN, C'EST UNE BONNE CHOSE\", AFFIRME EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:22",
+      "date": "17/06",
+      "timestamp": 1781709764
+    },
+    {
+      "id": "BFMTV_1781709727",
+      "source": "BFMTV",
+      "text": "\"FOR SURE\": EMMANUEL MACRON RÉPOND À UNE QUESTION SUR SA RELATION AVEC DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:22",
+      "date": "17/06",
+      "timestamp": 1781709727
+    },
+    {
+      "id": "BFMTV_1781709326",
+      "source": "BFMTV",
+      "text": "POUR EMMANUEL MACRON, DONALD TRUMP A TENU À “RAPPELER QUE LES ÉTATS-UNIS ONT UNE CAPACITÉ DE DISSUASION”",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:15",
+      "date": "17/06",
+      "timestamp": 1781709326
+    },
+    {
+      "id": "BFMTV_1781708811",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON: \"J'AI TOUJOURS EU CONFIANCE DANS LE PRÉSIDENT TRUMP\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:06",
+      "date": "17/06",
+      "timestamp": 1781708811
+    },
+    {
+      "id": "BFMTV_1781708589",
+      "source": "BFMTV",
+      "text": "UKRAINE: “CE N’EST PAS À NOUS DE DIRE OÙ COMMENCE ET COMMENT SE STRUCTURE LA DISCUSSION SUR LES TERRITOIRES”, AFFIRME EMMANUEL MACRON ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:03",
+      "date": "17/06",
+      "timestamp": 1781708589
+    },
+    {
+      "id": "BFMTV_1781708411",
+      "source": "BFMTV",
+      "text": "SOMMET DU G7: “NUL NE PEUT PLUS IGNORER L’IMPACT DE L’INTELLIGENCE ARTIFICIELLE SUR NOS DÉMOCRATIES ET NOS SOCIÉTÉS”, RECONNAÎT EMMANUEL MACRON ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:00",
+      "date": "17/06",
+      "timestamp": 1781708411
+    },
+    {
+      "id": "BFMTV_1781708379",
+      "source": "BFMTV",
+      "text": "SOMMET DU G7:  EMMANUEL MACRON ÉVOQUE \"UN CONSENSUS QUI MONTE\" SUR LA \"NÉCESSITÉ DE PROTÉGER L'ENFANCE EN LIGNE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:59",
+      "date": "17/06",
+      "timestamp": 1781708379
+    },
+    {
+      "id": "BFMTV_1781708335",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: EMMANUEL MACRON SALUE UN \"TRÈS BON ACCORD\" QUI \"MET FIN À UNE TRÈS GRANDE INSTABILITÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:58",
+      "date": "17/06",
+      "timestamp": 1781708335
+    },
+    {
+      "id": "BFMTV_1781708218",
+      "source": "BFMTV",
+      "text": "G7: \"DES DÉCLARATIONS IMPORTANTES ONT AUSSI ÉTÉ CONCLUES POUR COMBATTRE LE NARCOTRAFIC\", ANNONCE EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:56",
+      "date": "17/06",
+      "timestamp": 1781708218
+    },
+    {
+      "id": "BFMTV_1781707984",
+      "source": "BFMTV",
+      "text": "EBOLA: EMMANUEL MACRON ANNONCE UN INVESTISSEMENT DU G7 \"DE PLUS D’UN MILLIARD\" POUR “AIDER LA RDC, L’OUGANDA ET TOUS LES TERRITOIRES QUI POURRAIENT ÊTRE TOUCHÉS”",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:53",
+      "date": "17/06",
+      "timestamp": 1781707984
+    },
+    {
+      "id": "BFMTV_1781707634",
+      "source": "BFMTV",
+      "text": "SOMMET DU G7: EMMANUEL MACRON RÉAFFIRME LA \"NÉCESSITÉ DE DÉFENDRE L'INTÉGRITÉ TERRITORIALE ET LA SOUVERAINETÉ DU LIBAN\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:47",
+      "date": "17/06",
+      "timestamp": 1781707634
+    },
+    {
+      "id": "BFMTV_1781707565",
+      "source": "BFMTV",
+      "text": "SOMMET DU G7: “NOUS AVONS UNANIMEMENT SALUÉ LE TRÈS BON ACCORD CONCLU ENTRE LES ÉTATS-UNIS ET L’IRAN”, DÉCLARE EMMANUEL MACRON ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:46",
+      "date": "17/06",
+      "timestamp": 1781707565
+    },
+    {
+      "id": "OPEX360_1781701982",
+      "source": "OPEX360",
+      "text": "THALES S’ASSOCIE À RENAULT POUR PRODUIRE AU MOINS 1 000 MUNITIONS TÉLÉOPÉRÉES TOUTATIS PAR MOIS DÈS 2027",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:13",
+      "date": "17/06",
+      "timestamp": 1781701982
+    },
     {
       "id": "BFMTV_1781696821",
       "source": "BFMTV",
@@ -831,176 +1001,6 @@
       "time": "19:48",
       "date": "15/06",
       "timestamp": 1781552910
-    },
-    {
-      "id": "BFMTV_1781552272",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: POUR DOMINIQUE DE VILLEPIN, \"C'EST LE PLUS GRAND ÉCHEC DES ÉTATS-UNIS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:37",
-      "date": "15/06",
-      "timestamp": 1781552272
-    },
-    {
-      "id": "BFMTV_1781551735",
-      "source": "BFMTV",
-      "text": "URANIUM ENRICHI DILUÉ: QUELLES GARANTIES POSSIBLES ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:28",
-      "date": "15/06",
-      "timestamp": 1781551735
-    },
-    {
-      "id": "BFMTV_1781551538",
-      "source": "BFMTV",
-      "text": "INTELLIGENCE ARTIFICIELLE: “ON RENTRE DANS UNE BATAILLE TECHNOLOGIQUE QUI VA CONCENTRER BEAUCOUP DE L’ÉNERGIE AMÉRICAINE”, ESTIME DOMINIQUE DE VILLEPIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:25",
-      "date": "15/06",
-      "timestamp": 1781551538
-    },
-    {
-      "id": "BFMTV_1781551217",
-      "source": "BFMTV",
-      "text": "IRAN: POUR DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE, \"C'EST LE PLUS GRAND ÉCHEC DES ÉTATS-UNIS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:20",
-      "date": "15/06",
-      "timestamp": 1781551217
-    },
-    {
-      "id": "BFMTV_1781551132",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN AFFIRME \"QU'UN ACCORD FINAL N'A PAS ENCORE ÉTÉ CONCLU\" AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:18",
-      "date": "15/06",
-      "timestamp": 1781551132
-    },
-    {
-      "id": "BFMTV_1781550958",
-      "source": "BFMTV",
-      "text": "ORMUZ: \"LE DÉTROIT N'EST NI VRAIMENT OUVERT, NI VRAIMENT FERMÉ\", EXPLIQUE DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:15",
-      "date": "15/06",
-      "timestamp": 1781550958
-    },
-    {
-      "id": "BFMTV_1781550796",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS/IRAN: \"IL FAUDRAIT QUE DONALD TRUMP ACCEPTE QUE L'UNION EUROPÉENNE FASSE PARTIE DE LA NÉGOCIATION, PARCE QUE C'EST UN GAGE DE SÉRIEUX\", DÉTAILLE DOMINIQUE DE VILLEPIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:13",
-      "date": "15/06",
-      "timestamp": 1781550796
-    },
-    {
-      "id": "BFMTV_1781550775",
-      "source": "BFMTV",
-      "text": "DOMINIQUE DE VILLEPIN: \"L'IRAN SURVIT, MAIS RIEN QU'EN FAISANT CELA, IL AFFIRME SA VICTOIRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:12",
-      "date": "15/06",
-      "timestamp": 1781550775
-    },
-    {
-      "id": "BFMTV_1781550472",
-      "source": "BFMTV",
-      "text": "ACCORD IRAN/ÉTATS-UNIS: \"C'EST PLUTÔT UN SUCCÈS DE COMMUNICATION\" POUR DONALD TRUMP, AFFIRME DOMINIQUE DE VILLEPIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:07",
-      "date": "15/06",
-      "timestamp": 1781550472
-    },
-    {
-      "id": "BFMTV_1781549941",
-      "source": "BFMTV",
-      "text": "L’IRAN DEMANDE À LA FIFA D’INTERDIRE DANS LES STADES CE DRAPEAU DEVENU UN SYMBOLE D’OPPOSITION",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:59",
-      "date": "15/06",
-      "timestamp": 1781549941
-    },
-    {
-      "id": "BFMTV_1781549610",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"LES IRANIENS N'ABDIQUERONT PAS SUR LE CONTRÔLE DU DÉTROIT D'ORMUZ\", ASSURE LE GÉNÉRAL JEAN-PAUL PALOMÉROS, ANCIEN CHEF D'ÉTAT-MAJOR DE L'ARMÉE DE L'AIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:53",
-      "date": "15/06",
-      "timestamp": 1781549610
-    },
-    {
-      "id": "BFMTV_1781549405",
-      "source": "BFMTV",
-      "text": "À GAZA, DES COUTURIERS TRANSFORMENT DES DÉCHETS EN ROBE POUR ENFANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:50",
-      "date": "15/06",
-      "timestamp": 1781549405
-    },
-    {
-      "id": "BFMTV_1781549141",
-      "source": "BFMTV",
-      "text": "AUGMENTATION DES PRIX: \"ON SERA ENTRE 3,5% ET 4% D'INFLATION\", ESTIME MARC TOUATI, ÉCONOMISTE CHEZ ETORO",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:45",
-      "date": "15/06",
-      "timestamp": 1781549141
-    },
-    {
-      "id": "BFMTV_1781548714",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QUELS LES MOYENS À DISPOSITION DE LA FRANCE POUR AIDER LES ÉTATS-UNIS À LA SÉCURISATION DU DÉTROIT D'ORMUZ?",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:38",
-      "date": "15/06",
-      "timestamp": 1781548714
-    },
-    {
-      "id": "OPEX360_1781542991",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE L’AIR VA DÉPLOYER DES DRONES MQ-9A REAPER EN CORSE POUR RÉPONDRE AUX SOLLICITATIONS DE L’OTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:03",
-      "date": "15/06",
-      "timestamp": 1781542991
-    },
-    {
-      "id": "BFMTV_1781539133",
-      "source": "BFMTV",
-      "text": "\"JE VAIS REGARDER LE MUR\": LA RÉPONSE HILARANTE D'UNE JEUNE COLLÉGIENNE QUI APPREND L'INTERDICTION DES RÉSEAUX SOCIAUX AU ROYAUME-UNI",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:58",
-      "date": "15/06",
-      "timestamp": 1781539133
-    },
-    {
-      "id": "OPEX360_1781538999",
-      "source": "OPEX360",
-      "text": "LE SUCCESSEUR DU LECLERC SERA LE CAPINT, UN CHAR DOTÉ D’UNE TOURELLE ASCALON ET D’UN CHÂSSIS ALLEMAND",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:56",
-      "date": "15/06",
-      "timestamp": 1781538999
     }
   ],
   "france": {
