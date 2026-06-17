@@ -1,7 +1,57 @@
 {
-  "last_update": "17/06 02:06",
+  "last_update": "17/06 07:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781680259",
+      "source": "BFMTV",
+      "text": "CHÂTEAU DE VERSAILLES FERMÉ, CENTRE-VILLE BOUCLÉ... LA \"JOURNÉE À FUIR\" DES HABITANTS DE LA CITÉ ROYALE AVANT LE DÎNER D'EMMANUEL MACRON ET DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:10",
+      "date": "17/06",
+      "timestamp": 1781680259
+    },
+    {
+      "id": "BFMTV_1781679358",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE FRAPPE À PLUSIEURS REPRISES LE SUD DU LIBAN MALGRÉ L'ACCORD CONCLU",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:55",
+      "date": "17/06",
+      "timestamp": 1781679358
+    },
+    {
+      "id": "BFMTV_1781674497",
+      "source": "BFMTV",
+      "text": "INCIDENT \"ISOLÉ\", EMPÊCHER \"UNE ÉVENTUELLE COLLISION\"… CE QUE L'ON SAIT SUR LES TIRS DE SEMONCE D'UN NAVIRE DE GUERRE RUSSE DANS LA MANCHE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:34",
+      "date": "17/06",
+      "timestamp": 1781674497
+    },
+    {
+      "id": "BFMTV_1781669865",
+      "source": "BFMTV",
+      "text": "RÉCEPTION DES CHEFS D'ÉTAT AU CHÂTEAU DE VERSAILLES: LES ENJEUX DU DÎNER ENTRE DONALD TRUMP ET EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:17",
+      "date": "17/06",
+      "timestamp": 1781669865
+    },
+    {
+      "id": "BFMTV_1781669340",
+      "source": "BFMTV",
+      "text": "\"LES MILITAIRES VONT SE CRAMPONNER AU POUVOIR\": L’ACCORD ANNONCÉ PAR DONALD TRUMP, LOIN DE SUSCITER DE L’ESPOIR CHEZ LES IRANIENS INSTALLÉS EN FRANCE",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:09",
+      "date": "17/06",
+      "timestamp": 1781669340
+    },
     {
       "id": "BFMTV_1781648971",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "10:37",
       "date": "15/06",
       "timestamp": 1781519846
-    },
-    {
-      "id": "BFMTV_1781519458",
-      "source": "BFMTV",
-      "text": "LE \"SPIDER-MAN DU YÉMEN\" MEURT APRÈS UNE CHUTE DANS UN CRATÈRE VOLCANIQUE PROFOND DE 120 MÈTRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:30",
-      "date": "15/06",
-      "timestamp": 1781519458
-    },
-    {
-      "id": "BFMTV_1781519179",
-      "source": "BFMTV",
-      "text": "UNE CATHÉDRALE HISTORIQUE INCENDIÉE À KIEV APRÈS DES FRAPPES RUSSES, 11 MORTS DANS LE PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:26",
-      "date": "15/06",
-      "timestamp": 1781519179
-    },
-    {
-      "id": "BFMTV_1781519098",
-      "source": "BFMTV",
-      "text": "DIRECT. MOYEN-ORIENT: LE PRÉSIDENT LIBANAIS ESPÈRE QUE L'ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS METTRA \"DÉFINITIVEMENT FIN\" À LA GUERRE AVEC ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:24",
-      "date": "15/06",
-      "timestamp": 1781519098
-    },
-    {
-      "id": "BFMTV_1781518722",
-      "source": "BFMTV",
-      "text": "QUEL RÔLE PEUT JOUER LA FRANCE DANS LA RÉOUVERTURE DU DÉTROIT D'ORMUZ?",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:18",
-      "date": "15/06",
-      "timestamp": 1781518722
-    },
-    {
-      "id": "BFMTV_1781517986",
-      "source": "BFMTV",
-      "text": "\"QUE LE PÉTROLE COULE À FLOT\": CE QUE CONTIENT L'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:06",
-      "date": "15/06",
-      "timestamp": 1781517986
     }
   ],
   "france": {
