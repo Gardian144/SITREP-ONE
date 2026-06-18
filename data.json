@@ -1,7 +1,17 @@
 {
-  "last_update": "18/06 21:13",
+  "last_update": "18/06 23:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781821690",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: EMMANUEL MACRON \"NE CROIT PAS\" QUE LA GUERRE \"SOIT TOTALEMENT TERMINÉE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:28",
+      "date": "18/06",
+      "timestamp": 1781821690
+    },
     {
       "id": "BFMTV_1781814525",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:15",
       "date": "17/06",
       "timestamp": 1781712920
-    },
-    {
-      "id": "OPEX360_1781710931",
-      "source": "OPEX360",
-      "text": "LA FRANCE A OFFICIALISÉ UN EMPRUNT EUROPÉEN DE 15,1 MILLIARDS D’EUROS POUR FINANCER UNE PARTIE DE LA LPM 2024-30",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:42",
-      "date": "17/06",
-      "timestamp": 1781710931
     }
   ],
   "france": {
