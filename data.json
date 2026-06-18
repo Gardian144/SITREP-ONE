@@ -1,7 +1,77 @@
 {
-  "last_update": "18/06 00:15",
+  "last_update": "18/06 05:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781758983",
+      "source": "BFMTV",
+      "text": "UN SOLDAT ISRAÉLIEN DE 20 ANS TUÉ DANS LE SUD DU LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:03",
+      "date": "18/06",
+      "timestamp": 1781758983
+    },
+    {
+      "id": "BFMTV_1781758880",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP SIGNE À VERSAILLES L'ACCORD POUR METTRE FIN AU CONFLIT AVEC L'IRAN, EMMANUEL MACRON SALUE \"UN MOMENT DE PAIX\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:01",
+      "date": "18/06",
+      "timestamp": 1781758880
+    },
+    {
+      "id": "BFMTV_1781757946",
+      "source": "BFMTV",
+      "text": "\"ÇA RAPPELLE CE QUE LA FRANCE SAIT FAIRE\": EMMANUEL MACRON SE FÉLICITE DE LA SIGNATURE PAR DONALD TRUMP DE L'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN À VERSAILLES",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:45",
+      "date": "18/06",
+      "timestamp": 1781757946
+    },
+    {
+      "id": "BFMTV_1781757803",
+      "source": "BFMTV",
+      "text": "UN JEUNE HOMME DE 18 ANS MEURT DANS UN ACCIDENT DE CALÈCHE À CENTRAL PARK, À NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:43",
+      "date": "18/06",
+      "timestamp": 1781757803
+    },
+    {
+      "id": "BFMTV_1781757185",
+      "source": "BFMTV",
+      "text": "AVEC LA SIGNATURE DE L'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN, LE TRAFIC MARITIME VA-T-IL REPRENDRE DANS LE DÉTROIT D'ORMUZ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:33",
+      "date": "18/06",
+      "timestamp": 1781757185
+    },
+    {
+      "id": "BFMTV_1781756016",
+      "source": "BFMTV",
+      "text": "ACCORD SIGNÉ ENTRE LES ÉTATS-UNIS ET L'IRAN: TÉHÉRAN REVENDIQUE UNE VICTOIRE TOTALE ET ESTIME QUE LE TEXTE \"ACTE L'ÉCHEC DES ÉTATS-UNIS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:13",
+      "date": "18/06",
+      "timestamp": 1781756016
+    },
+    {
+      "id": "BFMTV_1781755514",
+      "source": "BFMTV",
+      "text": "LES IMAGES DE DONALD TRUMP SIGNANT L'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN DEPUIS LE CHÂTEAU DE VERSAILLES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:05",
+      "date": "18/06",
+      "timestamp": 1781755514
+    },
     {
       "id": "BFMTV_1781737362",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "14:10",
       "date": "16/06",
       "timestamp": 1781619000
-    },
-    {
-      "id": "BFMTV_1781618603",
-      "source": "BFMTV",
-      "text": "TROIS NAVIRES IRANIENS ONT TRAVERSÉ LE DÉTROIT D'ORMUZ, SELON LA TÉLÉVISION D'ÉTAT IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:03",
-      "date": "16/06",
-      "timestamp": 1781618603
-    },
-    {
-      "id": "OPEX360_1781618525",
-      "source": "OPEX360",
-      "text": "TRANSMISSIONS : EN ATTENDANT IRIS², LE MINISTÈRE DES ARMÉES S’ASSURE UN ACCÈS À LA CONSTELLATION EN ORBITE BASSE ONEWEB",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:02",
-      "date": "16/06",
-      "timestamp": 1781618525
-    },
-    {
-      "id": "BFMTV_1781617523",
-      "source": "BFMTV",
-      "text": "L'ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS SERA SIGNÉ AU BURGENSTOCK EN SUISSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:45",
-      "date": "16/06",
-      "timestamp": 1781617523
-    },
-    {
-      "id": "BFMTV_1781616533",
-      "source": "BFMTV",
-      "text": "\"C'EST PAS DU PLAQUÉ OR, C'EST DU LOURD\": DONALD TRUMP SE RÉJOUIT D'ÊTRE INVITÉ À UN DÎNER AU CHÂTEAU DE VERSAILLES PAR EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:28",
-      "date": "16/06",
-      "timestamp": 1781616533
-    },
-    {
-      "id": "BFMTV_1781616036",
-      "source": "BFMTV",
-      "text": "LES ECLAIREURS-LE DÉTROIT D'ORMUZ DÉMINER: LES EUROPÉENS FIGURENT PARMI LES MEILLEURS DU MONDE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:20",
-      "date": "16/06",
-      "timestamp": 1781616036
-    },
-    {
-      "id": "BFMTV_1781615835",
-      "source": "BFMTV",
-      "text": "SOMMET DU G7 À ÉVIAN: UNE NOUVELLE RÉUNION DE TRAVAIL DÉMARRE AVEC L'ENSEMBLE DES CHEFS D'ÉTAT",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:17",
-      "date": "16/06",
-      "timestamp": 1781615835
-    },
-    {
-      "id": "BFMTV_1781615551",
-      "source": "BFMTV",
-      "text": "SOMMET DU G7 À ÉVIAN: LES IMAGES DE LA PHOTO DE FAMILLE DES DIRIGEANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:12",
-      "date": "16/06",
-      "timestamp": 1781615551
     }
   ],
   "france": {
