@@ -1,7 +1,137 @@
 {
-  "last_update": "18/06 05:07",
+  "last_update": "18/06 09:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781775780",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES POURPARLERS ENTRE ÉTATS-UNIS ET IRAN MAINTENUS VENDREDI EN SUISSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:43",
+      "date": "18/06",
+      "timestamp": 1781775780
+    },
+    {
+      "id": "BFMTV_1781773578",
+      "source": "BFMTV",
+      "text": "\"UN VÉRITABLE RÉEXAMEN\": LE SECRÉTAIRE AMÉRICAIN À LA DÉFENSE PETE HEGSETH REMET SUR LA TABLE LA PRÉSENCE MILITAIRE DES ÉTATS-UNIS EN EUROPE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:06",
+      "date": "18/06",
+      "timestamp": 1781773578
+    },
+    {
+      "id": "BFMTV_1781772803",
+      "source": "BFMTV",
+      "text": "OTAN: PETE HEGSETH ANNONCE \"UN RÉEXAMEN DE SIX MOIS DU DÉPARTEMENT DE LA GUERRE QUI ÉTUDIERA LA POSTURE ET LE DÉPLOIEMENT DES FORCES AMÉRICAINES EN EUROPE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:53",
+      "date": "18/06",
+      "timestamp": 1781772803
+    },
+    {
+      "id": "BFMTV_1781772107",
+      "source": "BFMTV",
+      "text": "UNE SITUATION \"SANS PRÉCÉDENT\": AU ROYAUME-UNI, UNE ÉLECTION LÉGISLATIVE PARTIELLE À HAUT RISQUE POUR LE PREMIER MINISTRE KEIR STARMER",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:41",
+      "date": "18/06",
+      "timestamp": 1781772107
+    },
+    {
+      "id": "BFMTV_1781771827",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: L'ATTAQUE NOCTURNE UKRAINIENNE SUR UNE RAFFINERIE À MOSCOU EST UNE \"RIPOSTE JUSTIFIÉE\", SELON VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:37",
+      "date": "18/06",
+      "timestamp": 1781771827
+    },
+    {
+      "id": "BFMTV_1781770435",
+      "source": "BFMTV",
+      "text": "13.000 PETITS D'ÉLÉPHANTS DE MER MORTS DE LA GRIPPE AVIAIRE SUR UNE ÎLE VOLCANIQUE AUSTRALIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:13",
+      "date": "18/06",
+      "timestamp": 1781770435
+    },
+    {
+      "id": "BFMTV_1781770151",
+      "source": "BFMTV",
+      "text": "ACCORD ENTRE LES USA ET L'IRAN: \"MAINTENANT LE TRAVAIL TECHNIQUE COMMENCE\", DÉCLARE RAFAEL GROSSI",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:09",
+      "date": "18/06",
+      "timestamp": 1781770151
+    },
+    {
+      "id": "BFMTV_1781770025",
+      "source": "BFMTV",
+      "text": "\"L'OTAN 3.0 EST VRAIMENT EN TRAIN DE SE RÉALISER\", AFFIRME MARK RUTTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:07",
+      "date": "18/06",
+      "timestamp": 1781770025
+    },
+    {
+      "id": "BFMTV_1781768543",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DE DONALD TRUMP SIGNANT L'ACCORD DEPUIS LE CHÂTEAU DE VERSAILLES",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:42",
+      "date": "18/06",
+      "timestamp": 1781768543
+    },
+    {
+      "id": "BFMTV_1781763831",
+      "source": "BFMTV",
+      "text": "OTAN: LA CONTRIBUTION AMÉRICAINE EST \"UN MESSAGE AU MONDE\" QUI INDIQUE QUE LES ÉTATS-UNIS \"SERONT PRÊTS À RÉAGIR LE CAS ÉCHÉANT DE MANIÈRE MUSCLÉE\", SELON PETE HEGSETH",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:23",
+      "date": "18/06",
+      "timestamp": 1781763831
+    },
+    {
+      "id": "BFMTV_1781763768",
+      "source": "BFMTV",
+      "text": "\"C'EST UN REVERS TERRIBLE\": BENJAMIN NETANYAHU, GRAND PERDANT DE L'ACCORD DE PAIX ENTRE L'IRAN ET LES ÉTATS-UNIS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:22",
+      "date": "18/06",
+      "timestamp": 1781763768
+    },
+    {
+      "id": "BFMTV_1781762574",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:02",
+      "date": "18/06",
+      "timestamp": 1781762574
+    },
+    {
+      "id": "BFMTV_1781762573",
+      "source": "BFMTV",
+      "text": "\"UN ACTE DE PAIX\": EMMANUEL GRÉGOIRE PROPOSE À PARIS LA CITOYENNETÉ D'HONNEUR AUX CIVILS ET JOURNALISTES PALESTINIENS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:02",
+      "date": "18/06",
+      "timestamp": 1781762573
+    },
     {
       "id": "BFMTV_1781758983",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "17:53",
       "date": "16/06",
       "timestamp": 1781632405
-    },
-    {
-      "id": "OPEX360_1781631640",
-      "source": "OPEX360",
-      "text": "LA FRÉGATE RUSSE AMIRAL GRIGOROVITCH EST ACCUSÉE D’AVOIR TIRÉ DES COUPS DE SEMONCE VERS UN YACHT PRÈS DE L’ÎLE DE WIGHT",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:40",
-      "date": "16/06",
-      "timestamp": 1781631640
-    },
-    {
-      "id": "BFMTV_1781628926",
-      "source": "BFMTV",
-      "text": "UN YACHT SIGNALE DES TIRS DE SEMONCE D'UN NAVIRE DE GUERRE RUSSE DANS LA MANCHE, UNE ENQUÊTE EST OUVERTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:55",
-      "date": "16/06",
-      "timestamp": 1781628926
-    },
-    {
-      "id": "BFMTV_1781626281",
-      "source": "BFMTV",
-      "text": "\"NOUS ALLONS PRODUIRE ENVIRON 10 MILLIONS DE DRONES CETTE ANNÉE\": VOLODYMYR ZELENSKY MAINTIENT SA VOLONTÉ DE PRODUIRE DES DRONES EN GRANDE CAPACITÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:11",
-      "date": "16/06",
-      "timestamp": 1781626281
-    },
-    {
-      "id": "BFMTV_1781625940",
-      "source": "BFMTV",
-      "text": "UN YACHT SIGNALE DES TIRS DE SEMONCE D'UN NAVIRE DE GUERRE RUSSE DANS LA MANCHE, UNE ENQUÊTE EN COURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:05",
-      "date": "16/06",
-      "timestamp": 1781625940
-    },
-    {
-      "id": "OPEX360_1781623814",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE VA MODIFIER VINGT A400M ATLAS POUR LES DOTER DE CAPACITÉS DE COMBAT COLLABORATIF",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:30",
-      "date": "16/06",
-      "timestamp": 1781623814
-    },
-    {
-      "id": "BFMTV_1781623150",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: QUATRE MORTS À LA SUITE DE FRAPPES ISRAÉLIENNES DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:19",
-      "date": "16/06",
-      "timestamp": 1781623150
-    },
-    {
-      "id": "BFMTV_1781622569",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP À VERSAILLES: \"LA DIPLOMATIE, C'EST AUSSI SE PARLER QUAND LES MOMENTS SONT DIFFICILES\", ASSURE ANNE GENETET, DÉPUTÉE EPR",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:09",
-      "date": "16/06",
-      "timestamp": 1781622569
-    },
-    {
-      "id": "BFMTV_1781622281",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP À VERSAILLES: \"QUAND VOUS ÊTES MENACÉS, VOUS NE FAITES PAS UN DÎNER SOUS LES DORURES\", AFFIRME HADRIEN CLOUET, DÉPUTÉ LFI",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:04",
-      "date": "16/06",
-      "timestamp": 1781622281
-    },
-    {
-      "id": "BFMTV_1781621645",
-      "source": "BFMTV",
-      "text": "L'INDE PRÉVOIT UNE MISSION POUR RAPATRIER LE CORPS DE \"GREEN BOOTS\", UN ALPINISTE MORT EN GRAVISSANT L'EVEREST IL Y A TRENTE ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:54",
-      "date": "16/06",
-      "timestamp": 1781621645
-    },
-    {
-      "id": "BFMTV_1781621448",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:50",
-      "date": "16/06",
-      "timestamp": 1781621448
-    },
-    {
-      "id": "BFMTV_1781621447",
-      "source": "BFMTV",
-      "text": "\"IL DOIT ÊTRE PLUS RESPONSABLE\": DONALD TRUMP CRITIQUE BENJAMIN NETANYAHU ET DIT AVOIR \"SUGGÉRÉ À ISRAËL DE LAISSER LA SYRIE S'OCCUPER DU HEZBOLLAH\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:50",
-      "date": "16/06",
-      "timestamp": 1781621447
-    },
-    {
-      "id": "BFMTV_1781619044",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:10",
-      "date": "16/06",
-      "timestamp": 1781619044
-    },
-    {
-      "id": "BFMTV_1781619000",
-      "source": "BFMTV",
-      "text": "UNE GRANDE RAFFINERIE DE MOSCOU TOUCHÉE PAR UN DRONE UKRAINIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:10",
-      "date": "16/06",
-      "timestamp": 1781619000
     }
   ],
   "france": {
