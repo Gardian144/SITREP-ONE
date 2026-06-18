@@ -1,7 +1,27 @@
 {
-  "last_update": "17/06 22:46",
+  "last_update": "18/06 00:15",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781737362",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP À VERSAILLES: LE PRÉSIDENT AMÉRICAIN SE DIT \"TRÈS CONTENT\" D'ÊTRE AU CHÂTEAU AVEC EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "23:02",
+      "date": "17/06",
+      "timestamp": 1781737362
+    },
+    {
+      "id": "BFMTV_1781737233",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP A SIGNÉ L'ACCORD DE PAIX ENTRE L'IRAN ET LES ÉTATS-UNIS À VERSAILLES",
+      "urgent": true,
+      "france_related": false,
+      "time": "23:00",
+      "date": "17/06",
+      "timestamp": 1781737233
+    },
     {
       "id": "BFMTV_1781735520",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "13:12",
       "date": "16/06",
       "timestamp": 1781615551
-    },
-    {
-      "id": "BFMTV_1781615413",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP RAVI D'ÊTRE INVITÉ À DÎNER À VERSAILLES PAR EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:10",
-      "date": "16/06",
-      "timestamp": 1781615413
-    },
-    {
-      "id": "BFMTV_1781605508",
-      "source": "BFMTV",
-      "text": "LES ECLAIREURS - COMBIEN LA GUERRE EN IRAN A-T-ELLE COÛTÉ AUX ÉTATS-UNIS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:25",
-      "date": "16/06",
-      "timestamp": 1781605508
     }
   ],
   "france": {
