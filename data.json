@@ -1,7 +1,147 @@
 {
-  "last_update": "18/06 12:42",
+  "last_update": "18/06 16:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781798871",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: TROIS MORTS DANS DES FRAPPES ISRAÉLIENNES DANS LE SUD-LIBAN, MALGRÉ LA SIGNATURE D'UN PROTOCOLE D'ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:07",
+      "date": "18/06",
+      "timestamp": 1781798871
+    },
+    {
+      "id": "BFMTV_1781798106",
+      "source": "BFMTV",
+      "text": "ESPAGNE: LA POLICE SAISIT PLUS DE 16 TONNES D'ÉQUIPEMENTS DE FOOTBALL CONTREFAITS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:55",
+      "date": "18/06",
+      "timestamp": 1781798106
+    },
+    {
+      "id": "OPEX360_1781797848",
+      "source": "OPEX360",
+      "text": "LE DRONE MALE ENBATA DU FRANÇAIS AURA AERO SERA DOTÉ DU NOUVEAU RADAR AIRMASTER C DE THALES",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:50",
+      "date": "18/06",
+      "timestamp": 1781797848
+    },
+    {
+      "id": "BFMTV_1781797664",
+      "source": "BFMTV",
+      "text": "\"NOUS ALLONS COMMENCER LE COMPTE À REBOURS\": JD VANCE DIT QUE LA PÉRIODE DE NÉGOCIATIONS DE 60 JOURS AVEC L'IRAN COMMENCE CE JEUDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:47",
+      "date": "18/06",
+      "timestamp": 1781797664
+    },
+    {
+      "id": "BFMTV_1781797500",
+      "source": "BFMTV",
+      "text": "IRAN: LEUR \"PROGRAMME D'ARMEMENT NUCLÉAIRE EST DÉTRUIT. IL A DISPARU\", ASSURE LE VICE-PRÉSIDENT AMÉRICAIN JD VANCE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:45",
+      "date": "18/06",
+      "timestamp": 1781797500
+    },
+    {
+      "id": "BFMTV_1781796420",
+      "source": "BFMTV",
+      "text": "LES KNICKS CÉLÈBRENT LEUR TITRE DE CHAMPIONS NBA 2026 LORS D'UNE PARADE À NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:27",
+      "date": "18/06",
+      "timestamp": 1781796420
+    },
+    {
+      "id": "BFMTV_1781794076",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE \"LE PÉTROLE COULE À FLOTS\", AU LENDEMAIN DE LA SIGNATURE DE L'ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:47",
+      "date": "18/06",
+      "timestamp": 1781794076
+    },
+    {
+      "id": "BFMTV_1781793554",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE CEUX QUI CRITIQUENT L'ACCORD AVEC L'IRAN \"SONT SOIT JALOUX, SOIT DE MAUVAISES PERSONNES, SOIT STUPIDES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:39",
+      "date": "18/06",
+      "timestamp": 1781793554
+    },
+    {
+      "id": "OPEX360_1781793551",
+      "source": "OPEX360",
+      "text": "LE CHAR AMX-30B POURRAIT REVENIR EN SERVICE SOUS LA FORME D’UN ROBOT TERRESTRE DE COMBAT, ARMÉ D’UN CANON DE 25 MM",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:39",
+      "date": "18/06",
+      "timestamp": 1781793551
+    },
+    {
+      "id": "BFMTV_1781792543",
+      "source": "BFMTV",
+      "text": "\"NATASHA DOLL\": EN CHINE, CETTE POUPÉE NOIRE VENDUE COMME UN OBJET ANTI-STRESS FAIT POLÉMIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:22",
+      "date": "18/06",
+      "timestamp": 1781792543
+    },
+    {
+      "id": "BFMTV_1781790350",
+      "source": "BFMTV",
+      "text": "CARICATURISTE RUSSE ABATTU EN POLOGNE: UN HOMME \"SOUPÇONNÉ D'AVOIR PARTICIPÉ AU MEURTRE\" INTERPELLÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:45",
+      "date": "18/06",
+      "timestamp": 1781790350
+    },
+    {
+      "id": "BFMTV_1781788366",
+      "source": "BFMTV",
+      "text": "PRÉSENCE MILITAIRE AMÉRICAINE EN EUROPE: \"L'OTAN EST EN TRAIN DE VIVRE LA PLUS GRANDE TRANSFORMATION DE SON HISTOIRE\", ESTIME SON SECRÉTAIRE GÉNÉRAL MARK RUTTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:12",
+      "date": "18/06",
+      "timestamp": 1781788366
+    },
+    {
+      "id": "BFMTV_1781787191",
+      "source": "BFMTV",
+      "text": "\"LES ÉTATS-UNIS ET LEURS ALLIÉS NOUS ONT ABANDONNÉS\": UN OPPOSANT IRANIEN TÉMOIGNE APRÈS LE PROTOCOLE D'ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:53",
+      "date": "18/06",
+      "timestamp": 1781787191
+    },
+    {
+      "id": "BFMTV_1781787038",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: UN NAVIRE FRANÇAIS DE GAZ NATUREL LIQUÉFIÉ PASSE DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:50",
+      "date": "18/06",
+      "timestamp": 1781787038
+    },
     {
       "id": "BFMTV_1781786219",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "11:47",
       "date": "17/06",
       "timestamp": 1781696821
-    },
-    {
-      "id": "BFMTV_1781695270",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE RECOMMENCER À \"BALANCER DES BOMBES\" SI L'IRAN \"NE SE COMPORTE PAS BIEN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:21",
-      "date": "17/06",
-      "timestamp": 1781695270
-    },
-    {
-      "id": "BFMTV_1781695089",
-      "source": "BFMTV",
-      "text": "DES BARS DE BOSTON À COURT DE BIÈRES À CAUSE...DES SUPPORTERS ÉCOSSAIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:18",
-      "date": "17/06",
-      "timestamp": 1781695089
-    },
-    {
-      "id": "BFMTV_1781694649",
-      "source": "BFMTV",
-      "text": "\"JE SUIS LE BOSS\", PLAISANTE DONALD TRUMP EN ARRIVANT AVEC UNE HEURE DE RETARD À UNE RÉUNION DU G7",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:10",
-      "date": "17/06",
-      "timestamp": 1781694649
-    },
-    {
-      "id": "BFMTV_1781694605",
-      "source": "BFMTV",
-      "text": "PROTOCOLE D'ACCORD IRAN/ÉTATS-UNIS: DONALD TRUMP DIT QU'IL REPRENDRA \"LES LANCEMENTS DE BOMBES\" S'IL N'EST PAS D'ACCORD AVEC LE TEXTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:10",
-      "date": "17/06",
-      "timestamp": 1781694605
-    },
-    {
-      "id": "BFMTV_1781693387",
-      "source": "BFMTV",
-      "text": "G7: \"JE SUIS LE BOSS\", A LANCÉ DONALD TRUMP  EN RETARD POUR UNE SESSION DE TRAVAIL SUR LA CROISSANCE ÉCONOMIQUE MONDIALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:49",
-      "date": "17/06",
-      "timestamp": 1781693387
-    },
-    {
-      "id": "BFMTV_1781693326",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP CONVIÉ POUR \"UN DÎNER DE TRAVAIL\" CE MERCREDI SOIR À VERSAILLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:48",
-      "date": "17/06",
-      "timestamp": 1781693326
-    },
-    {
-      "id": "BFMTV_1781693167",
-      "source": "BFMTV",
-      "text": "\"C'EST MOI LE PATRON\": LA PETITE BLAGUE DE DONALD TRUMP, EN RETARD À UNE RÉUNION, À SES HOMOLOGUES DU G7",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:46",
-      "date": "17/06",
-      "timestamp": 1781693167
-    },
-    {
-      "id": "BFMTV_1781693138",
-      "source": "BFMTV",
-      "text": "L’UKRAINE PROPOSE DES SALAIRES ALLANT JUSQU’À 9.000 EUROS PAR MOIS POUR RECRUTER DE NOUVEAUX SOLDATS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:45",
-      "date": "17/06",
-      "timestamp": 1781693138
-    },
-    {
-      "id": "OPEX360_1781691287",
-      "source": "OPEX360",
-      "text": "ARTILLERIE : LA MALAISIE COMMANDE DIX-HUIT CAESAR AUPRÈS DE KNDS FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:14",
-      "date": "17/06",
-      "timestamp": 1781691287
-    },
-    {
-      "id": "BFMTV_1781691225",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP EN RETARD À UNE RÉUNION DU G7, L'ÉCONOMIE MONDIALE AU MENU",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:13",
-      "date": "17/06",
-      "timestamp": 1781691225
-    },
-    {
-      "id": "BFMTV_1781689786",
-      "source": "BFMTV",
-      "text": "TEXAS: UN PETIT AVION PRIVÉ S'ÉCRASE SUR UNE AUTOROUTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:49",
-      "date": "17/06",
-      "timestamp": 1781689786
-    },
-    {
-      "id": "BFMTV_1781686733",
-      "source": "BFMTV",
-      "text": "UN MORT APRÈS UNE NOUVELLE FRAPPE DE L'ARMÉE AMÉRICAINE CONTRE UN BATEAU DE NARCOTRAFIQUANTS PRÉSUMÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:58",
-      "date": "17/06",
-      "timestamp": 1781686733
-    },
-    {
-      "id": "BFMTV_1781686009",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL POURSUIT SES FRAPPES DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:46",
-      "date": "17/06",
-      "timestamp": 1781686009
-    },
-    {
-      "id": "BFMTV_1781685491",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES DÉTAILS DE L'ACCORD ENTRE WASHINGTON ET TÉHÉRAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:38",
-      "date": "17/06",
-      "timestamp": 1781685491
     }
   ],
   "france": {
