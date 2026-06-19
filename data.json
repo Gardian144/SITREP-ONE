@@ -1,7 +1,107 @@
 {
-  "last_update": "19/06 02:05",
+  "last_update": "19/06 07:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781853474",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT APPELLE LES ÉTATS-UNIS À \"EXERCER TOUTE LA PRESSION NÉCESSAIRE\" SUR ISRAËL CONCERNANT LE LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:17",
+      "date": "19/06",
+      "timestamp": 1781853474
+    },
+    {
+      "id": "OPEX360_1781852507",
+      "source": "OPEX360",
+      "text": "LE GÉNÉRAL JACQUES LANGLADE DE MONTGROS SERA LE PROCHAIN CHEF D’ÉTAT-MAJOR DE L’ARMÉE DE TERRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:01",
+      "date": "19/06",
+      "timestamp": 1781852507
+    },
+    {
+      "id": "BFMTV_1781852024",
+      "source": "BFMTV",
+      "text": "LE TRAVAILLISTE ANDY BURNHAM ÉLU DÉPUTÉ AU ROYAUME-UNI ET EN POSITION DE SUCCÉDER AU PREMIER MINISTRE KEIR STARMER",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:53",
+      "date": "19/06",
+      "timestamp": 1781852024
+    },
+    {
+      "id": "BFMTV_1781850991",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"CELA NOUS RAPPELLE QU'ON VA DEVOIR FAIRE AVEC DE MOINS EN MOINS DE COMBUSTIBLES FOSSILES\", AFFIRME JEAN-MARC JANCOVICI, INGÉNIEUR SPÉCIALISTE DU CLIMAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:36",
+      "date": "19/06",
+      "timestamp": 1781850991
+    },
+    {
+      "id": "BFMTV_1781849354",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA SUISSE ANNONCE LE REPORT DES POURPARLERS ENTRE LES ÉTATS-UNIS ET L'IRAN PRÉVUS CE VENDREDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:09",
+      "date": "19/06",
+      "timestamp": 1781849354
+    },
+    {
+      "id": "BFMTV_1781846771",
+      "source": "BFMTV",
+      "text": "LA SUISSE ANNONCE QUE LES NÉGOCIATIONS PRÉVUES CE VENDREDI ENTRE LES ÉTATS-UNIS ET L'IRAN SONT \"REPORTÉES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:26",
+      "date": "19/06",
+      "timestamp": 1781846771
+    },
+    {
+      "id": "BFMTV_1781845825",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS DANS L'INCERTITUDE APRÈS DES FRAPPES ISRAÉLIENNES AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:10",
+      "date": "19/06",
+      "timestamp": 1781845825
+    },
+    {
+      "id": "BFMTV_1781845510",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES DÉLÉGATIONS AMÉRICAINE ET IRANIENNE REPORTENT LEUR VENUE EN SUISSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:05",
+      "date": "19/06",
+      "timestamp": 1781845510
+    },
+    {
+      "id": "BFMTV_1781844048",
+      "source": "BFMTV",
+      "text": "ACCORD IRAN-ÉTATS-UNIS: TOP CHRONO DE 60 JOURS POUR NÉGOCIER L'ÉPINEUSE QUESTION DU PROGRAMME NUCLÉAIRE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:40",
+      "date": "19/06",
+      "timestamp": 1781844048
+    },
+    {
+      "id": "BFMTV_1781843426",
+      "source": "BFMTV",
+      "text": "LE GUIDE SUPRÊME IRANIEN APPROUVE L'ACCORD AVEC WASHINGTON, MAIS L'INCERTITUDE RÈGNE SUR LE DÉBUT DES POURPARLERS EN VUE D'UNE PAIX DÉFINITIVE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:30",
+      "date": "19/06",
+      "timestamp": 1781843426
+    },
     {
       "id": "BFMTV_1781821690",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "17:39",
       "date": "17/06",
       "timestamp": 1781717987
-    },
-    {
-      "id": "BFMTV_1781716021",
-      "source": "BFMTV",
-      "text": "SOMMET DU G7: LE DISCOURS DE DONALD TRUMP CONCERNANT L'ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:07",
-      "date": "17/06",
-      "timestamp": 1781716021
-    },
-    {
-      "id": "BFMTV_1781715065",
-      "source": "BFMTV",
-      "text": "CHÂTEAU DE VERSAILLES: \"PEUT-ÊTRE LE PLUS BEAU DE TOUS LES PALAIS DU MONDE\", RECONNAÎT DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:51",
-      "date": "17/06",
-      "timestamp": 1781715065
-    },
-    {
-      "id": "BFMTV_1781714892",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DONALD TRUMP REMERCIE XI JINPING ET VLADIMIR POUTINE POUR ÊTRE \"RESTÉS NEUTRES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:48",
-      "date": "17/06",
-      "timestamp": 1781714892
-    },
-    {
-      "id": "BFMTV_1781714227",
-      "source": "BFMTV",
-      "text": "HAMAS: \"CE SONT DES GENS QUI ONT GRANDI AVEC DES MITRAILLETTES À LA MAIN, CE N'EST PAS FACILE DE TRAVAILLER AVEC DES GENS COMME ÇA\", ESTIME DONALD TRUMP ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:37",
-      "date": "17/06",
-      "timestamp": 1781714227
-    },
-    {
-      "id": "BFMTV_1781714178",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ESTIME QU'ISRAËL \"POURRAIT MIEUX SE COMPORTER\" AU LIBAN ET FAIRE UN \"MEILLEUR TRAVAIL\" ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:36",
-      "date": "17/06",
-      "timestamp": 1781714178
-    },
-    {
-      "id": "BFMTV_1781713552",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QUE L'ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS SERA \"TRÈS PROBABLEMENT\" SIGNÉ JEUDI OU VENDREDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:25",
-      "date": "17/06",
-      "timestamp": 1781713552
-    },
-    {
-      "id": "BFMTV_1781713321",
-      "source": "BFMTV",
-      "text": "IRAN: LE BLOCUS AMÉRICAIN \"RESTERA DANS LES ANNALES COMME LE MEILLEURE BLOCUS\" DE L'HISTOIRE, ESTIME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:22",
-      "date": "17/06",
-      "timestamp": 1781713321
-    },
-    {
-      "id": "BFMTV_1781713306",
-      "source": "BFMTV",
-      "text": "IRAN: \"C'EST SIMPLEMENT UN PROTOCOLE D'ACCORD, SI ON N'Y ARRIVE PAS EN 60 JOURS, ON REVIENDRA AUX BOMBARDEMENTS\", ANNONCE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:21",
-      "date": "17/06",
-      "timestamp": 1781713306
-    },
-    {
-      "id": "BFMTV_1781713137",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE BENJAMIN NETANYAHU \"S'EXCITE UN PEU\" MAIS QU'IL EST \"FORMIDABLE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:18",
-      "date": "17/06",
-      "timestamp": 1781713137
-    },
-    {
-      "id": "BFMTV_1781712920",
-      "source": "BFMTV",
-      "text": "SOMMET DU G7: \"EMMANUEL ET BRIGITTE MACRON ONT FAIT UN EXCELLENT TRAVAIL\", AFFIRME DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:15",
-      "date": "17/06",
-      "timestamp": 1781712920
     }
   ],
   "france": {
