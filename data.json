@@ -1,7 +1,37 @@
 {
-  "last_update": "19/06 17:27",
+  "last_update": "19/06 19:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781895090",
+      "source": "BFMTV",
+      "text": "PLUSIEURS PERSONNES BLESSÉES APRÈS UNE COLLISION ENTRE DEUX TRAINS AU NORD DE LONDRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:51",
+      "date": "19/06",
+      "timestamp": 1781895090
+    },
+    {
+      "id": "BFMTV_1781893232",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL \"S'ENGAGE\" À RESPECTER LE CESSEZ-LE-FEU AU LIBAN SI LE HEZBOLLAH \"MET FIN AUX HOSTILITÉS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:20",
+      "date": "19/06",
+      "timestamp": 1781893232
+    },
+    {
+      "id": "BFMTV_1781891561",
+      "source": "BFMTV",
+      "text": "MADE IN MONTEBOURG - DES ROBOTS FRANÇAIS BIENTÔT DANS LE DÉTROIT D'ORMUZ ? LES DÉTAILS DE JEAN CROSETTI, PDG DE BUBBLE ROBOTICS",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:52",
+      "date": "19/06",
+      "timestamp": 1781891561
+    },
     {
       "id": "BFMTV_1781889146",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "06:23",
       "date": "18/06",
       "timestamp": 1781763831
-    },
-    {
-      "id": "BFMTV_1781763768",
-      "source": "BFMTV",
-      "text": "\"C'EST UN REVERS TERRIBLE\": BENJAMIN NETANYAHU, GRAND PERDANT DE L'ACCORD DE PAIX ENTRE L'IRAN ET LES ÉTATS-UNIS?",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:22",
-      "date": "18/06",
-      "timestamp": 1781763768
-    },
-    {
-      "id": "BFMTV_1781762574",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:02",
-      "date": "18/06",
-      "timestamp": 1781762574
-    },
-    {
-      "id": "BFMTV_1781762573",
-      "source": "BFMTV",
-      "text": "\"UN ACTE DE PAIX\": EMMANUEL GRÉGOIRE PROPOSE À PARIS LA CITOYENNETÉ D'HONNEUR AUX CIVILS ET JOURNALISTES PALESTINIENS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:02",
-      "date": "18/06",
-      "timestamp": 1781762573
     }
   ],
   "france": {
