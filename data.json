@@ -1,7 +1,47 @@
 {
-  "last_update": "19/06 15:14",
+  "last_update": "19/06 17:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781889146",
+      "source": "BFMTV",
+      "text": "IRAN/ÉTATS-UNIS: \"C'EST UN ACCORD QUI AFFIRME L'ÉCHEC DE L'AMÉRIQUE ET LA RÉUSSITE DE L'IRAN\", ANALYSE ARNAUD MONTEBOURG, ANCIEN MINISTRE DE L'ÉCONOMIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:12",
+      "date": "19/06",
+      "timestamp": 1781889146
+    },
+    {
+      "id": "BFMTV_1781888558",
+      "source": "BFMTV",
+      "text": "\"JE SUIS FRANCHEMENT STUPÉFAITE\": GIORGIA MELONI RÉPOND À DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:02",
+      "date": "19/06",
+      "timestamp": 1781888558
+    },
+    {
+      "id": "OPEX360_1781887481",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT A COMMANDÉ DES MISSILES ANTICHARS À COURTE PORTÉE NLAW AUPRÈS DE SAAB",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:44",
+      "date": "19/06",
+      "timestamp": 1781887481
+    },
+    {
+      "id": "BFMTV_1781885145",
+      "source": "BFMTV",
+      "text": " IMMIGRATION: L'OPPOSITION D'EMMANUEL MACRON AUX \"HUBS DE RETOUR\" HORS DES FRONTIÈRES DE L'UNION EUROPÉENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:05",
+      "date": "19/06",
+      "timestamp": 1781885145
+    },
     {
       "id": "BFMTV_1781881796",
       "source": "BFMTV",
@@ -86,6 +126,16 @@
       "id": "OPEX360_1781878043",
       "source": "OPEX360",
       "text": "THALES ET HANWHA AEROSPACE ONT L’INTENTION DE COOPÉRER DANS LE DOMAINE DE LA FRAPPE TERRESTE À LONGUE PORTÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:07",
+      "date": "19/06",
+      "timestamp": 1781878043
+    },
+    {
+      "id": "OPEX360_1781878043",
+      "source": "OPEX360",
+      "text": "THALES ET HANWHA AEROSPACE ONT L’INTENTION DE COOPÉRER DANS LE DOMAINE DE LA FRAPPE TERRESTRE À LONGUE PORTÉE",
       "urgent": true,
       "france_related": false,
       "time": "14:07",
@@ -951,56 +1001,6 @@
       "time": "06:02",
       "date": "18/06",
       "timestamp": 1781762573
-    },
-    {
-      "id": "BFMTV_1781758983",
-      "source": "BFMTV",
-      "text": "UN SOLDAT ISRAÉLIEN DE 20 ANS TUÉ DANS LE SUD DU LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:03",
-      "date": "18/06",
-      "timestamp": 1781758983
-    },
-    {
-      "id": "BFMTV_1781758880",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP SIGNE À VERSAILLES L'ACCORD POUR METTRE FIN AU CONFLIT AVEC L'IRAN, EMMANUEL MACRON SALUE \"UN MOMENT DE PAIX\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:01",
-      "date": "18/06",
-      "timestamp": 1781758880
-    },
-    {
-      "id": "BFMTV_1781757946",
-      "source": "BFMTV",
-      "text": "\"ÇA RAPPELLE CE QUE LA FRANCE SAIT FAIRE\": EMMANUEL MACRON SE FÉLICITE DE LA SIGNATURE PAR DONALD TRUMP DE L'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN À VERSAILLES",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:45",
-      "date": "18/06",
-      "timestamp": 1781757946
-    },
-    {
-      "id": "BFMTV_1781757803",
-      "source": "BFMTV",
-      "text": "UN JEUNE HOMME DE 18 ANS MEURT DANS UN ACCIDENT DE CALÈCHE À CENTRAL PARK, À NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:43",
-      "date": "18/06",
-      "timestamp": 1781757803
-    },
-    {
-      "id": "BFMTV_1781757185",
-      "source": "BFMTV",
-      "text": "AVEC LA SIGNATURE DE L'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN, LE TRAFIC MARITIME VA-T-IL REPRENDRE DANS LE DÉTROIT D'ORMUZ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:33",
-      "date": "18/06",
-      "timestamp": 1781757185
     }
   ],
   "france": {
