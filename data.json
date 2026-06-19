@@ -1,7 +1,137 @@
 {
-  "last_update": "19/06 07:27",
+  "last_update": "19/06 11:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781869653",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU MENACE DE FAIRE \"PAYER UN PRIX TRÈS LOURD\" AU HEZBOLLAH APRÈS LA MORT DE SOLDATS ISRAÉLIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:47",
+      "date": "19/06",
+      "timestamp": 1781869653
+    },
+    {
+      "id": "BFMTV_1781867693",
+      "source": "BFMTV",
+      "text": "NEW YORK: DES COUPS DE FEU TIRÉS À TIMES SQUARE, SANS FAIRE DE BLESSÉ SELON LA POLICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:14",
+      "date": "19/06",
+      "timestamp": 1781867693
+    },
+    {
+      "id": "BFMTV_1781866442",
+      "source": "BFMTV",
+      "text": "UN ENFANT DE TROIS ANS GRIÈVEMENT BLESSÉ DANS L'ENCLOS DES CROCODILES D'UN ZOO BRITANNIQUE, UN HOMME INTERPELLÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:54",
+      "date": "19/06",
+      "timestamp": 1781866442
+    },
+    {
+      "id": "BFMTV_1781864299",
+      "source": "BFMTV",
+      "text": "AU MOINS 18 MORTS, DANS DES FRAPPES ISRAÉLIENNES DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:18",
+      "date": "19/06",
+      "timestamp": 1781864299
+    },
+    {
+      "id": "OPEX360_1781862622",
+      "source": "OPEX360",
+      "text": "L’AMIRAL CHRISTOPHE CLUZEL VA ÊTRE NOMMÉ CHEF D’ÉTAT-MAJOR DE LA MARINE NATIONALE",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:50",
+      "date": "19/06",
+      "timestamp": 1781862622
+    },
+    {
+      "id": "BFMTV_1781861735",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN MINISTRE ISRAÉLIEN DIT QUE \"TOUT LE LIBAN DOIT BRÛLER\" APRÈS LA MORT DE QUATRE SOLDATS, 18 MORTS CÔTÉ LIBANAIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:35",
+      "date": "19/06",
+      "timestamp": 1781861735
+    },
+    {
+      "id": "BFMTV_1781861521",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE NÉGOCIATEUR EN CHEF IRANIEN CONDITIONNE TOUTE DISCUSSION AVEC LES ÉTATS-UNIS AUX \"LIGNES ROUGES\" FIXÉES PAR TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:32",
+      "date": "19/06",
+      "timestamp": 1781861521
+    },
+    {
+      "id": "BFMTV_1781860883",
+      "source": "BFMTV",
+      "text": "TROIS ANCIENS PRÉSIDENTS, STEVEN SPIELBERG, ANGELA MERKEL... L'INAUGURATION XXL DU MUSÉE PRÉSIDENTIEL DE BARACK OBAMA À CHICAGO",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:21",
+      "date": "19/06",
+      "timestamp": 1781860883
+    },
+    {
+      "id": "BFMTV_1781859939",
+      "source": "BFMTV",
+      "text": "\"LA SALLE DE MUSIQUE ÉTAIT EN FEU\": INCENDIE DANS UNE ÉCOLE PRIMAIRE À TOKYO, AU MOINS 10 BLESSÉS RECENSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:05",
+      "date": "19/06",
+      "timestamp": 1781859939
+    },
+    {
+      "id": "BFMTV_1781858149",
+      "source": "BFMTV",
+      "text": "LE SUD DU LIBAN TOUJOURS VISÉ PAR L'ARMÉE ISRAÉLIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:35",
+      "date": "19/06",
+      "timestamp": 1781858149
+    },
+    {
+      "id": "BFMTV_1781858054",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN MINISTRE ISRAÉLIEN AFFIRME QUE \"TOUT LE LIBAN DOIT BRÛLER\" APRÈS LA MORT DE QUATRE SOLDATS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:34",
+      "date": "19/06",
+      "timestamp": 1781858054
+    },
+    {
+      "id": "BFMTV_1781857669",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS DEUX MORTS, DONT UNE ENFANT DE 8 ANS, DANS DES FRAPPES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:27",
+      "date": "19/06",
+      "timestamp": 1781857669
+    },
+    {
+      "id": "BFMTV_1781855219",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT APPELLE À NE PAS \"SURINTERPRÉTER\" LE REPORT DES POURPARLERS EN SUISSE, MAIS JUGE QUE LE \"PLUS DUR RESTE À FAIRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:46",
+      "date": "19/06",
+      "timestamp": 1781855219
+    },
     {
       "id": "BFMTV_1781853474",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "19:51",
       "date": "17/06",
       "timestamp": 1781725916
-    },
-    {
-      "id": "BFMTV_1781723962",
-      "source": "BFMTV",
-      "text": "IRAN: \"L'ARMÉE AMÉRICAINE VA RESTER UN CERTAIN TEMPS\", ESTIME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:19",
-      "date": "17/06",
-      "timestamp": 1781723962
-    },
-    {
-      "id": "BFMTV_1781723755",
-      "source": "BFMTV",
-      "text": "DÎNER À VERSAILLES AVEC EMMANUEL MACRON: \"ÇA VA ÊTRE FANTASTIQUE\", S'ENTHOUSIASME DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:15",
-      "date": "17/06",
-      "timestamp": 1781723755
-    },
-    {
-      "id": "BFMTV_1781723083",
-      "source": "BFMTV",
-      "text": "\"CE COMITÉ RAMÈNERA LA STABILITÉ DES PRIX\": KEVIN WARSH ASSURE QUE LA FED VA PERMETTRE AUX AMÉRICAINS DE RETROUVER DES PRIX STABLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:04",
-      "date": "17/06",
-      "timestamp": 1781723083
-    },
-    {
-      "id": "BFMTV_1781723018",
-      "source": "BFMTV",
-      "text": "L'AVION DE DONALD TRUMP ATTERRIT À L'AÉROPORT DE PARIS-ORLY",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:03",
-      "date": "17/06",
-      "timestamp": 1781723018
-    },
-    {
-      "id": "BFMTV_1781722616",
-      "source": "BFMTV",
-      "text": "LE DÎNER ENTRE DONALD TRUMP ET EMMANUEL MACRON AURA LIEU DANS LA GALERIE BASSE DU CHÂTEAU DE VERSAILLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:56",
-      "date": "17/06",
-      "timestamp": 1781722616
-    },
-    {
-      "id": "BFMTV_1781722501",
-      "source": "BFMTV",
-      "text": "DILUTION DES STOCKS D'URANIUM, SANCTIONS IRANIENNES, DÉTROIT D'ORMUZ... LE TEXTE DU PROTOCOLE D'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN RÉVÉLÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:55",
-      "date": "17/06",
-      "timestamp": 1781722501
-    },
-    {
-      "id": "BFMTV_1781722212",
-      "source": "BFMTV",
-      "text": "DÉMISSION DU PDG, GOBELETS CASSÉS, COURS D’HISTOIRE OBLIGATOIRE: LE BAD BUZZ DE STARBUCKS EN CORÉE DU SUD ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:50",
-      "date": "17/06",
-      "timestamp": 1781722212
-    },
-    {
-      "id": "BFMTV_1781720202",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE QUE L'ACCORD AVEC L'IRAN SERA SIGNÉ \"BIENTÔT\", \"PEUT-ÊTRE\" JEUDI OU VENDREDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:16",
-      "date": "17/06",
-      "timestamp": 1781720202
-    },
-    {
-      "id": "BFMTV_1781719613",
-      "source": "BFMTV",
-      "text": "DIRECT. FIN DU SOMMET G7: DONALD TRUMP EN ROUTE POUR VERSAILLES OÙ IL DOIT DÎNER AVEC EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:06",
-      "date": "17/06",
-      "timestamp": 1781719613
-    },
-    {
-      "id": "BFMTV_1781719394",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP EMBARQUE DANS SON AVION POUR REJOINDRE VERSAILLES ET SON DÎNER AVEC EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:03",
-      "date": "17/06",
-      "timestamp": 1781719394
-    },
-    {
-      "id": "BFMTV_1781718610",
-      "source": "BFMTV",
-      "text": "\"L'IA VA CRÉER UNE PÉNURIE DE MAIN-D'ŒUVRE\": SELON JEFF BEZOS, FONDATEUR D'AMAZON, L'INTELLIGENCE ARTIFICIELLE NE VA PAS DÉTRUIRE DES EMPLOIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:50",
-      "date": "17/06",
-      "timestamp": 1781718610
-    },
-    {
-      "id": "OPEX360_1781718397",
-      "source": "OPEX360",
-      "text": "ARTILLERIE : KNDS DÉVOILE LE SYSTÈME D’ARTILLERIE À LONGUE PORTÉE LORAS, POTENTIEL SUCCESSEUR DU CAESAR",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:46",
-      "date": "17/06",
-      "timestamp": 1781718397
-    },
-    {
-      "id": "BFMTV_1781717987",
-      "source": "BFMTV",
-      "text": "LES DÉTAILS DE LA RÉCEPTION DE DONALD TRUMP AU CHÂTEAU DE VERSAILLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:39",
-      "date": "17/06",
-      "timestamp": 1781717987
     }
   ],
   "france": {
