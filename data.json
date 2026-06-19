@@ -1,7 +1,27 @@
 {
-  "last_update": "19/06 20:48",
+  "last_update": "19/06 22:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781906113",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL \"S'ENGAGE\" À RESPECTER LE CESSEZ-LE-FEU AU LIBAN SI LE HEZBOLLAH \"MET FIN AUX HOSTILITÉS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:55",
+      "date": "19/06",
+      "timestamp": 1781906113
+    },
+    {
+      "id": "BFMTV_1781902913",
+      "source": "BFMTV",
+      "text": "L'AMBASSADEUR D'ISRAËL AUX ÉTATS-UNIS ASSURE QUE SON PAYS RESPECTERA LE CESSEZ-LE-FEU AU LIBAN SI LE HEZBOLLAH \"MET FIN AUX HOSTILITÉS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:01",
+      "date": "19/06",
+      "timestamp": 1781902913
+    },
     {
       "id": "BFMTV_1781901852",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:13",
       "date": "18/06",
       "timestamp": 1781770435
-    },
-    {
-      "id": "BFMTV_1781770151",
-      "source": "BFMTV",
-      "text": "ACCORD ENTRE LES USA ET L'IRAN: \"MAINTENANT LE TRAVAIL TECHNIQUE COMMENCE\", DÉCLARE RAFAEL GROSSI",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:09",
-      "date": "18/06",
-      "timestamp": 1781770151
-    },
-    {
-      "id": "BFMTV_1781770025",
-      "source": "BFMTV",
-      "text": "\"L'OTAN 3.0 EST VRAIMENT EN TRAIN DE SE RÉALISER\", AFFIRME MARK RUTTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:07",
-      "date": "18/06",
-      "timestamp": 1781770025
     }
   ],
   "france": {
