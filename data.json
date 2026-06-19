@@ -1,7 +1,27 @@
 {
-  "last_update": "19/06 19:14",
+  "last_update": "19/06 20:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781901852",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DESCEND DU NOUVEL AVION PRÉSIDENTIEL, UN BOEING 747, DONNÉ PAR LE QATAR",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:44",
+      "date": "19/06",
+      "timestamp": 1781901852
+    },
+    {
+      "id": "BFMTV_1781901417",
+      "source": "BFMTV",
+      "text": "UN MORT ET DE \"NOMBREUX BLESSÉS\" APRÈS UNE COLLISION ENTRE DEUX TRAINS AU NORD DE LONDRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:36",
+      "date": "19/06",
+      "timestamp": 1781901417
+    },
     {
       "id": "BFMTV_1781895090",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:07",
       "date": "18/06",
       "timestamp": 1781770025
-    },
-    {
-      "id": "BFMTV_1781768543",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DE DONALD TRUMP SIGNANT L'ACCORD DEPUIS LE CHÂTEAU DE VERSAILLES",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:42",
-      "date": "18/06",
-      "timestamp": 1781768543
-    },
-    {
-      "id": "BFMTV_1781763831",
-      "source": "BFMTV",
-      "text": "OTAN: LA CONTRIBUTION AMÉRICAINE EST \"UN MESSAGE AU MONDE\" QUI INDIQUE QUE LES ÉTATS-UNIS \"SERONT PRÊTS À RÉAGIR LE CAS ÉCHÉANT DE MANIÈRE MUSCLÉE\", SELON PETE HEGSETH",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:23",
-      "date": "18/06",
-      "timestamp": 1781763831
     }
   ],
   "france": {
