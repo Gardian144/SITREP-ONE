@@ -1,11 +1,51 @@
 {
-  "last_update": "20/06 06:02",
+  "last_update": "20/06 09:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781948082",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: AU MOINS 5 MORTS DANS DES FRAPPES ISRAÉLIENNES AU LIBAN AU LENDEMAIN D'UNE ANNONCE DE CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:34",
+      "date": "20/06",
+      "timestamp": 1781948082
+    },
+    {
+      "id": "BFMTV_1781936172",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS 5 MORTS DANS DES FRAPPES ISRAÉLIENNES AU SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:16",
+      "date": "20/06",
+      "timestamp": 1781936172
+    },
+    {
+      "id": "BFMTV_1781935434",
+      "source": "BFMTV",
+      "text": "UN PROJET SIGNÉ DONALD TRUMP QUI S'ÉCAILLE: LA PEINTURE BLEUE TOUT JUSTE APPLIQUÉE SUR LE BASSIN RÉFLÉCHISSANT DU LINCOLN MEMORIAL SE DÉCOLLE DÉJÀ À L'APPROCHE DES CÉLÉBRATIONS DES 250 ANS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:03",
+      "date": "20/06",
+      "timestamp": 1781935434
+    },
     {
       "id": "BFMTV_1781934506",
       "source": "BFMTV",
       "text": "GUERRE EN UKRAINE: AU MOINS UN MORT DANS UN BOMBARDEMENT RUSSE SUR UN QUARTIER RÉSIDENTIEL DE KHARKIV",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:48",
+      "date": "20/06",
+      "timestamp": 1781934506
+    },
+    {
+      "id": "BFMTV_1781934506",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
       "urgent": true,
       "france_related": false,
       "time": "05:48",
@@ -961,46 +1001,6 @@
       "time": "10:34",
       "date": "18/06",
       "timestamp": 1781778866
-    },
-    {
-      "id": "BFMTV_1781778627",
-      "source": "BFMTV",
-      "text": "COMBIEN A COÛTÉ LA GUERRE EN IRAN À DONALD TRUMP ? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:30",
-      "date": "18/06",
-      "timestamp": 1781778627
-    },
-    {
-      "id": "BFMTV_1781778485",
-      "source": "BFMTV",
-      "text": "PORC NOIR, ASPERGES ET TARTE AU CHOCOLAT: LE MENU DU DÎNER ENTRE DONALD TRUMP ET EMMANUEL MACRON À VERSAILLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:28",
-      "date": "18/06",
-      "timestamp": 1781778485
-    },
-    {
-      "id": "BFMTV_1781777834",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS BESOIN QUE VOUS VOUS ENGAGIEZ ET FASSIEZ PLUS\": LE MESSAGE DE PETE HEGSETH À SON NOUVEL HOMOLOGUE BRITANNIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:17",
-      "date": "18/06",
-      "timestamp": 1781777834
-    },
-    {
-      "id": "BFMTV_1781776877",
-      "source": "BFMTV",
-      "text": "\"MA FILLE ÉTAIT MÉCONNAISSABLE\": UNE ADOLESCENTE DE 16 ANS MEURT D'AMAIGRISSEMENT EXTRÊME AU JAPON, SA MÈRE PORTE PLAINTE CONTRE L'ÉTAT",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:01",
-      "date": "18/06",
-      "timestamp": 1781776877
     }
   ],
   "france": {
