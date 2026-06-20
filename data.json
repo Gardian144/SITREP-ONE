@@ -1,7 +1,57 @@
 {
-  "last_update": "20/06 15:15",
+  "last_update": "20/06 16:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781971165",
+      "source": "BFMTV",
+      "text": "GIORGIA MELONI DÉNONCE LES ATTAQUES \"INSENSÉES\" DE DONALD TRUMP À SON ÉGARD",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:59",
+      "date": "20/06",
+      "timestamp": 1781971165
+    },
+    {
+      "id": "BFMTV_1781971124",
+      "source": "BFMTV",
+      "text": "ISRAËL AFFIRME QUE LE HEZBOLLAH VIOLE \"CONSTAMMENT\" LE CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:58",
+      "date": "20/06",
+      "timestamp": 1781971124
+    },
+    {
+      "id": "BFMTV_1781970521",
+      "source": "BFMTV",
+      "text": "LA TENSION MONTE D'UN CRAN AU NIVEAU DU DÉTROIT D'ORMUZ ALORS QUE L'IRAN ANNONCE \"SA FERMETURE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:48",
+      "date": "20/06",
+      "timestamp": 1781970521
+    },
+    {
+      "id": "BFMTV_1781970275",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH ET ISRAËL S'ACCUSENT MUTUELLEMENT DE VIOLER LE CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:44",
+      "date": "20/06",
+      "timestamp": 1781970275
+    },
+    {
+      "id": "BFMTV_1781969965",
+      "source": "BFMTV",
+      "text": "SELON LES MÉDIAS ISRAÉLIENS, TSAHAL VA CESSER LES COMBATS AU LIBAN ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:39",
+      "date": "20/06",
+      "timestamp": 1781969965
+    },
     {
       "id": "BFMTV_1781967370",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "16:51",
       "date": "18/06",
       "timestamp": 1781801472
-    },
-    {
-      "id": "BFMTV_1781799786",
-      "source": "BFMTV",
-      "text": "LA RUSSIE MENACE L'UKRAINE DE NOUVELLES \"FRAPPES MASSIVES\" APRÈS L'ATTAQUE SUR MOSCOU",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:23",
-      "date": "18/06",
-      "timestamp": 1781799786
-    },
-    {
-      "id": "BFMTV_1781799510",
-      "source": "BFMTV",
-      "text": "JD VANCE DIT QUE LES ÉTATS-UNIS ONT LEVÉ LE BLOCUS CONTRE L'IRAN POUR UNE DOUZAINE DE BATEAUX",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:18",
-      "date": "18/06",
-      "timestamp": 1781799510
-    },
-    {
-      "id": "BFMTV_1781798871",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: TROIS MORTS DANS DES FRAPPES ISRAÉLIENNES DANS LE SUD-LIBAN, MALGRÉ LA SIGNATURE D'UN PROTOCOLE D'ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:07",
-      "date": "18/06",
-      "timestamp": 1781798871
-    },
-    {
-      "id": "BFMTV_1781798106",
-      "source": "BFMTV",
-      "text": "ESPAGNE: LA POLICE SAISIT PLUS DE 16 TONNES D'ÉQUIPEMENTS DE FOOTBALL CONTREFAITS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:55",
-      "date": "18/06",
-      "timestamp": 1781798106
-    },
-    {
-      "id": "OPEX360_1781797848",
-      "source": "OPEX360",
-      "text": "LE DRONE MALE ENBATA DU FRANÇAIS AURA AERO SERA DOTÉ DU NOUVEAU RADAR AIRMASTER C DE THALES",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:50",
-      "date": "18/06",
-      "timestamp": 1781797848
     }
   ],
   "france": {
