@@ -1,7 +1,77 @@
 {
-  "last_update": "20/06 01:31",
+  "last_update": "20/06 06:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781934506",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS UN MORT DANS UN BOMBARDEMENT RUSSE SUR UN QUARTIER RÉSIDENTIEL DE KHARKIV",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:48",
+      "date": "20/06",
+      "timestamp": 1781934506
+    },
+    {
+      "id": "BFMTV_1781933450",
+      "source": "BFMTV",
+      "text": "UN MORT ET DES DIZAINES DE BLESSÉS APRÈS UNE COLLISION ENTRE DEUX TRAINS AU NORD DE LONDRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:30",
+      "date": "20/06",
+      "timestamp": 1781933450
+    },
+    {
+      "id": "BFMTV_1781930843",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES NÉGOCIATIONS ENTRE L'IRAN ET LES ÉTATS-UNIS AURONT LIEU CE SAMEDI EN SUISSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:47",
+      "date": "20/06",
+      "timestamp": 1781930843
+    },
+    {
+      "id": "BFMTV_1781929860",
+      "source": "BFMTV",
+      "text": "UN PREMIER CAS DE GRIPPE AVIAIRE H5 DÉTECTÉ EN AUSTRALIE SUR UN OISEAU MIGRATEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:31",
+      "date": "20/06",
+      "timestamp": 1781929860
+    },
+    {
+      "id": "BFMTV_1781929620",
+      "source": "BFMTV",
+      "text": "MISSILES, DÉTROIT D'ORMUZ, SANCTIONS... LES RECULADES DE DONALD TRUMP FACE À L'IRAN AVANT DE NOUVELLES NÉGOCIATIONS SUR LE NUCLÉAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:27",
+      "date": "20/06",
+      "timestamp": 1781929620
+    },
+    {
+      "id": "BFMTV_1781929151",
+      "source": "BFMTV",
+      "text": "UN MORT ET UNE CENTAINE DE BLESSÉS APRÈS UNE COLLISION ENTRE DEUX TRAINS AU NORD DE LONDRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:19",
+      "date": "20/06",
+      "timestamp": 1781929151
+    },
+    {
+      "id": "BFMTV_1781929060",
+      "source": "BFMTV",
+      "text": "DE NOUVELLES FRAPPES AU LIBAN, MALGRÉ UN CESSEZ-LE-FEU ENTRÉ EN VIGUEUR CE VENDREDI ENTRE ISRAËL ET LE HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:17",
+      "date": "20/06",
+      "timestamp": 1781929060
+    },
     {
       "id": "BFMTV_1781906771",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "10:01",
       "date": "18/06",
       "timestamp": 1781776877
-    },
-    {
-      "id": "BFMTV_1781775780",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES POURPARLERS ENTRE ÉTATS-UNIS ET IRAN MAINTENUS VENDREDI EN SUISSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:43",
-      "date": "18/06",
-      "timestamp": 1781775780
-    },
-    {
-      "id": "BFMTV_1781773578",
-      "source": "BFMTV",
-      "text": "\"UN VÉRITABLE RÉEXAMEN\": LE SECRÉTAIRE AMÉRICAIN À LA DÉFENSE PETE HEGSETH REMET SUR LA TABLE LA PRÉSENCE MILITAIRE DES ÉTATS-UNIS EN EUROPE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:06",
-      "date": "18/06",
-      "timestamp": 1781773578
-    },
-    {
-      "id": "BFMTV_1781772803",
-      "source": "BFMTV",
-      "text": "OTAN: PETE HEGSETH ANNONCE \"UN RÉEXAMEN DE SIX MOIS DU DÉPARTEMENT DE LA GUERRE QUI ÉTUDIERA LA POSTURE ET LE DÉPLOIEMENT DES FORCES AMÉRICAINES EN EUROPE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:53",
-      "date": "18/06",
-      "timestamp": 1781772803
-    },
-    {
-      "id": "BFMTV_1781772803",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS VONT RÉEXAMINER LEUR PRÉSENCE MILITAIRE EN EUROPE, ANNONCE LE SECRÉTAIRE D'ETAT À LA DÉFENSE PETE HEGSETH",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:53",
-      "date": "18/06",
-      "timestamp": 1781772803
-    },
-    {
-      "id": "BFMTV_1781772107",
-      "source": "BFMTV",
-      "text": "UNE SITUATION \"SANS PRÉCÉDENT\": AU ROYAUME-UNI, UNE ÉLECTION LÉGISLATIVE PARTIELLE À HAUT RISQUE POUR LE PREMIER MINISTRE KEIR STARMER",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:41",
-      "date": "18/06",
-      "timestamp": 1781772107
-    },
-    {
-      "id": "BFMTV_1781771827",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: L'ATTAQUE NOCTURNE UKRAINIENNE SUR UNE RAFFINERIE À MOSCOU EST UNE \"RIPOSTE JUSTIFIÉE\", SELON VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:37",
-      "date": "18/06",
-      "timestamp": 1781771827
-    },
-    {
-      "id": "BFMTV_1781771827",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:37",
-      "date": "18/06",
-      "timestamp": 1781771827
     }
   ],
   "france": {
