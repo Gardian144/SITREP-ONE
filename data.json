@@ -1,7 +1,17 @@
 {
-  "last_update": "20/06 21:20",
+  "last_update": "20/06 22:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781992673",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: SEPT MORTS DANS DES FRAPPES ISRAÉLIENNES DANS L'EST ET LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:57",
+      "date": "20/06",
+      "timestamp": 1781992673
+    },
     {
       "id": "BFMTV_1781990048",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:57",
       "date": "18/06",
       "timestamp": 1781812640
-    },
-    {
-      "id": "BFMTV_1781811181",
-      "source": "BFMTV",
-      "text": "\"TU FAISAIS LE TRAVAIL DU PEUPLE\": MICHELLE OBAMA REND HOMMAGE À BARACK OBAMA LORS DE L'INAUGURATION DU MUSÉE PRÉSIDENTIEL À CHICAGO",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:33",
-      "date": "18/06",
-      "timestamp": 1781811181
     }
   ],
   "france": {
