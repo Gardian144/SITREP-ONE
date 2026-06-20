@@ -1,7 +1,37 @@
 {
-  "last_update": "20/06 11:34",
+  "last_update": "20/06 13:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781959828",
+      "source": "BFMTV",
+      "text": "\"ELLE VEUT À NOUVEAU FAIRE AMI-AMI POUR REMONTER DANS LES SONDAGES\": DONALD TRUMP RÉAFFIRME QUE GIORGIA MELONI LUI A DEMANDÉ \"À PLUSIEURS REPRISES\" DE PRENDRE UNE PHOTO AVEC LUI AU G7",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:50",
+      "date": "20/06",
+      "timestamp": 1781959828
+    },
+    {
+      "id": "BFMTV_1781959025",
+      "source": "BFMTV",
+      "text": "UN TRIBUNAL ESPAGNOL INTERDIT À L'ÉPOUSE DU PREMIER MINISTRE PEDRO SÁNCHEZ DE QUITTER LE PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:37",
+      "date": "20/06",
+      "timestamp": 1781959025
+    },
+    {
+      "id": "BFMTV_1781956139",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS AVEC L'IRAN: L'ÉMISSAIRE AMÉRICAIN STEVE WITKOFF EN ROUTE POUR LA SUISSE POUR MENER DES DISCUSSIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:48",
+      "date": "20/06",
+      "timestamp": 1781956139
+    },
     {
       "id": "BFMTV_1781954889",
       "source": "BFMTV",
@@ -61,6 +91,16 @@
       "time": "09:34",
       "date": "20/06",
       "timestamp": 1781948082
+    },
+    {
+      "id": "BFMTV_1781937527",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:38",
+      "date": "20/06",
+      "timestamp": 1781937527
     },
     {
       "id": "BFMTV_1781936172",
@@ -961,46 +1001,6 @@
       "time": "14:22",
       "date": "18/06",
       "timestamp": 1781792543
-    },
-    {
-      "id": "BFMTV_1781790350",
-      "source": "BFMTV",
-      "text": "CARICATURISTE RUSSE ABATTU EN POLOGNE: UN HOMME \"SOUPÇONNÉ D'AVOIR PARTICIPÉ AU MEURTRE\" INTERPELLÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:45",
-      "date": "18/06",
-      "timestamp": 1781790350
-    },
-    {
-      "id": "BFMTV_1781788366",
-      "source": "BFMTV",
-      "text": "PRÉSENCE MILITAIRE AMÉRICAINE EN EUROPE: \"L'OTAN EST EN TRAIN DE VIVRE LA PLUS GRANDE TRANSFORMATION DE SON HISTOIRE\", ESTIME SON SECRÉTAIRE GÉNÉRAL MARK RUTTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:12",
-      "date": "18/06",
-      "timestamp": 1781788366
-    },
-    {
-      "id": "BFMTV_1781787191",
-      "source": "BFMTV",
-      "text": "\"LES ÉTATS-UNIS ET LEURS ALLIÉS NOUS ONT ABANDONNÉS\": UN OPPOSANT IRANIEN TÉMOIGNE APRÈS LE PROTOCOLE D'ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:53",
-      "date": "18/06",
-      "timestamp": 1781787191
-    },
-    {
-      "id": "BFMTV_1781787038",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: UN NAVIRE FRANÇAIS DE GAZ NATUREL LIQUÉFIÉ PASSE DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:50",
-      "date": "18/06",
-      "timestamp": 1781787038
     }
   ],
   "france": {
