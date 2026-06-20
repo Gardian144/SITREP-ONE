@@ -1,7 +1,57 @@
 {
-  "last_update": "20/06 09:41",
+  "last_update": "20/06 11:34",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781954889",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH DIT AVOIR ATTAQUÉ DES FORCES ISRAÉLIENNES QUI TENTAIENT UNE \"INFILTRATION\" DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:28",
+      "date": "20/06",
+      "timestamp": 1781954889
+    },
+    {
+      "id": "OPEX360_1781953221",
+      "source": "OPEX360",
+      "text": "LE FRANÇAIS AURA AERO A LANCÉ DES TRAVAUX PRÉLIMINAIRES EN VUE DE DÉVELOPPER UN DRONE DE COMBAT COLLABORATIF",
+      "urgent": true,
+      "france_related": true,
+      "time": "11:00",
+      "date": "20/06",
+      "timestamp": 1781953221
+    },
+    {
+      "id": "BFMTV_1781952459",
+      "source": "BFMTV",
+      "text": "CHINE : UN PARAPENTISTE SUSPENDU DANS LE VIDE APRÈS S'ÊTRE ACCROCHÉ À UNE GRUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:47",
+      "date": "20/06",
+      "timestamp": 1781952459
+    },
+    {
+      "id": "OPEX360_1781949537",
+      "source": "OPEX360",
+      "text": "L’AVIATION ROYALE CANADIENNE NÉGOCIE L’ACHAT D’AVIONS D’ENTRAÎNEMENT M-346 MASTER AUPRÈS DE LEONARDO",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:58",
+      "date": "20/06",
+      "timestamp": 1781949537
+    },
+    {
+      "id": "BFMTV_1781948403",
+      "source": "BFMTV",
+      "text": "RÉPUBLIQUE DOMINICAINE: UNE PERSONNE DÉCÉDÉE ET 1.700 TOURISTES ÉVACUÉS APRÈS UN INCENDIE DANS UN HÔTEL",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:40",
+      "date": "20/06",
+      "timestamp": 1781948403
+    },
     {
       "id": "BFMTV_1781948082",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "12:50",
       "date": "18/06",
       "timestamp": 1781787038
-    },
-    {
-      "id": "BFMTV_1781786219",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT IRANIEN SALUE UN ACCORD \"HISTORIQUE\" AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:36",
-      "date": "18/06",
-      "timestamp": 1781786219
-    },
-    {
-      "id": "BFMTV_1781780212",
-      "source": "BFMTV",
-      "text": "DE L’OPÉRATION \"FUREUR ÉPIQUE\" À LA SIGNATURE SURPRISE D’UN ACCORD À VERSAILLES, LE RÉCIT DE TROIS MOIS DE GUERRE EN IRAN QUI ONT TOURNÉ AU BOURBIER POUR DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:56",
-      "date": "18/06",
-      "timestamp": 1781780212
-    },
-    {
-      "id": "BFMTV_1781780210",
-      "source": "BFMTV",
-      "text": "MILAN: DES CONDUCTEURS DE TRAM ACCUSÉS DE SE PARTAGER DES IMAGES DE VIDÉOSURVEILLANCE DE PASSAGÈRES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:56",
-      "date": "18/06",
-      "timestamp": 1781780210
-    },
-    {
-      "id": "BFMTV_1781779086",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:38",
-      "date": "18/06",
-      "timestamp": 1781779086
-    },
-    {
-      "id": "OPEX360_1781778866",
-      "source": "OPEX360",
-      "text": "LA FRANCE COMMANDE PLUSIEURS MILLIERS DE MITRAILLEUSES LÉGÈRES AUPRÈS DU BELGE FN HERSTAL",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:34",
-      "date": "18/06",
-      "timestamp": 1781778866
     }
   ],
   "france": {
