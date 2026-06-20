@@ -1,7 +1,37 @@
 {
-  "last_update": "20/06 16:54",
+  "last_update": "20/06 18:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1781978320",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH ET ISRAËL S'ACCUSENT MUTUELLEMENT DE VIOLER LE CESSEZ-LE-FEU, TSAHAL ANNONCE LA MORT D'UN DE SES SOLDATS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:58",
+      "date": "20/06",
+      "timestamp": 1781978320
+    },
+    {
+      "id": "BFMTV_1781976293",
+      "source": "BFMTV",
+      "text": "LE PROTOCOLE D'ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS POURRAIT ÊTRE REMIS EN CAUSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:24",
+      "date": "20/06",
+      "timestamp": 1781976293
+    },
+    {
+      "id": "BFMTV_1781975294",
+      "source": "BFMTV",
+      "text": "MALGRÉ LE CESSEZ-LE-FEU, ISRAËL CONTINUE DE PILONNER LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:08",
+      "date": "20/06",
+      "timestamp": 1781975294
+    },
     {
       "id": "BFMTV_1781971165",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:18",
       "date": "18/06",
       "timestamp": 1781803103
-    },
-    {
-      "id": "BFMTV_1781802973",
-      "source": "BFMTV",
-      "text": "JAPON: DES EXERCICES POUR SE PRÉPARER À INTERVENIR FACE À UN OURS SONT ORGANISÉS DANS LES ÉCOLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:16",
-      "date": "18/06",
-      "timestamp": 1781802973
-    },
-    {
-      "id": "BFMTV_1781801504",
-      "source": "BFMTV",
-      "text": "\"J'AI L'INTENTION D'ALLER EN SUISSE\": JD VANCE PENSE ALLER \"CE WEEK-END\" EN SUISSE POUR DES NÉGOCIATIONS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:51",
-      "date": "18/06",
-      "timestamp": 1781801504
-    },
-    {
-      "id": "BFMTV_1781801472",
-      "source": "BFMTV",
-      "text": "INCENDIES, FUMÉE NOIRE, DÉBRIS: LES IMAGES IMPRESSIONNANTES DES FRAPPES DE DRONES UKRAINIENS SUR UNE RAFFINERIE À MOSCOU",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:51",
-      "date": "18/06",
-      "timestamp": 1781801472
     }
   ],
   "france": {
