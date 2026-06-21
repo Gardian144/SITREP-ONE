@@ -1,7 +1,27 @@
 {
-  "last_update": "21/06 11:35",
+  "last_update": "21/06 13:26",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782046763",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: PRÉSENT EN SUISSE POUR NÉGOCIER AVEC L'IRAN, JD VANCE SALUE UNE \"RENCONTRE HISTORIQUE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:59",
+      "date": "21/06",
+      "timestamp": 1782046763
+    },
+    {
+      "id": "BFMTV_1782041739",
+      "source": "BFMTV",
+      "text": "VERS UNE DÉMISSION DE KEIR STARMER? LE PREMIER MINISTRE BRITANNIQUE \"RÉFLÉCHIT AUX RÉALITÉS POLITIQUES\", SELON SON MINISTRE DU COMMERCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:35",
+      "date": "21/06",
+      "timestamp": 1782041739
+    },
     {
       "id": "OPEX360_1782040426",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "09:32",
       "date": "19/06",
       "timestamp": 1781861521
-    },
-    {
-      "id": "BFMTV_1781860883",
-      "source": "BFMTV",
-      "text": "TROIS ANCIENS PRÉSIDENTS, STEVEN SPIELBERG, ANGELA MERKEL... L'INAUGURATION XXL DU MUSÉE PRÉSIDENTIEL DE BARACK OBAMA À CHICAGO",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:21",
-      "date": "19/06",
-      "timestamp": 1781860883
-    },
-    {
-      "id": "BFMTV_1781859939",
-      "source": "BFMTV",
-      "text": "\"LA SALLE DE MUSIQUE ÉTAIT EN FEU\": INCENDIE DANS UNE ÉCOLE PRIMAIRE À TOKYO, AU MOINS 10 BLESSÉS RECENSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:05",
-      "date": "19/06",
-      "timestamp": 1781859939
     }
   ],
   "france": {
