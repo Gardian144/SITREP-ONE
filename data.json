@@ -1,7 +1,17 @@
 {
-  "last_update": "21/06 18:51",
+  "last_update": "21/06 20:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782070361",
+      "source": "BFMTV",
+      "text": "POURPARLERS EN SUISSE: LA DÉLÉGATION IRANIENNE \"RESTE ENGAGÉE\" DANS LES DISCUSSIONS AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:32",
+      "date": "21/06",
+      "timestamp": 1782070361
+    },
     {
       "id": "BFMTV_1782067682",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "14:24",
       "date": "19/06",
       "timestamp": 1781879062
-    },
-    {
-      "id": "BFMTV_1781878678",
-      "source": "BFMTV",
-      "text": "WASHINGTON: LE BASSIN DU LINCOLN MEMORIAL VIRE AU VERT UNE SEMAINE APRÈS LA FIN DE SA RÉNOVATION",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:17",
-      "date": "19/06",
-      "timestamp": 1781878678
     }
   ],
   "france": {
