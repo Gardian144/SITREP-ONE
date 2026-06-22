@@ -1,7 +1,87 @@
 {
-  "last_update": "22/06 17:49",
+  "last_update": "22/06 20:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782159842",
+      "source": "BFMTV",
+      "text": "\"C'EST UN MOMENT TRÈS TRISTE\": L'ÉMOTION DU MINISTRE DE LA SÉCURITÉ INTÉRIEURE DU QUÉBEC APRÈS LA MORT D'UN POLICIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:24",
+      "date": "22/06",
+      "timestamp": 1782159842
+    },
+    {
+      "id": "BFMTV_1782159559",
+      "source": "BFMTV",
+      "text": "NABIL FAHMY, ANCIEN CHEF DE LA DIPLOMATIE ÉGYPTIENNE, OFFICIELLEMENT NOMMÉ À LA TÊTE DE LA LIGUE ARABE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:19",
+      "date": "22/06",
+      "timestamp": 1782159559
+    },
+    {
+      "id": "BFMTV_1782157936",
+      "source": "BFMTV",
+      "text": "UNE FUSILLADE À MONTRÉAL FAIT AU MOINS TROIS MORTS, DONT LE SUSPECT",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:52",
+      "date": "22/06",
+      "timestamp": 1782157936
+    },
+    {
+      "id": "BFMTV_1782157642",
+      "source": "BFMTV",
+      "text": "CANADA : TROIS MORTS, DONT LE SUSPECT ET UN POLICIER, DANS UNE FUSILLADE À MONTRÉAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:47",
+      "date": "22/06",
+      "timestamp": 1782157642
+    },
+    {
+      "id": "BFMTV_1782156512",
+      "source": "BFMTV",
+      "text": "L’INFLUENCEUR AMÉRICAIN MASCULINISTE CLAVICULAR MOQUÉ SUR LES RÉSEAUX SOCIAUX APRÈS S’ÊTRE FAIT RECALER PAR DES PARISIENNES",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:28",
+      "date": "22/06",
+      "timestamp": 1782156512
+    },
+    {
+      "id": "BFMTV_1782155563",
+      "source": "BFMTV",
+      "text": "POUR ALAIN BAUER, LES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN, \"C'EST DU THÉÂTRE DE BOULEVARD\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:12",
+      "date": "22/06",
+      "timestamp": 1782155563
+    },
+    {
+      "id": "BFMTV_1782153521",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN: \"C'EST DU THÉÂTRE DE BOULEVARD\", OBSERVE ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:38",
+      "date": "22/06",
+      "timestamp": 1782153521
+    },
+    {
+      "id": "BFMTV_1782153235",
+      "source": "BFMTV",
+      "text": "LES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN PRENNENT UN TOURNANT AVEC L'INFLUENCE DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:33",
+      "date": "22/06",
+      "timestamp": 1782153235
+    },
     {
       "id": "BFMTV_1782149552",
       "source": "BFMTV",
@@ -81,6 +161,16 @@
       "time": "14:49",
       "date": "22/06",
       "timestamp": 1782139790
+    },
+    {
+      "id": "BFMTV_1782136972",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:02",
+      "date": "22/06",
+      "timestamp": 1782136972
     },
     {
       "id": "OPEX360_1782136252",
@@ -911,96 +1001,6 @@
       "time": "14:56",
       "date": "20/06",
       "timestamp": 1781967370
-    },
-    {
-      "id": "BFMTV_1781966774",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS IRAN/ÉTATS-UNIS: LA DÉLÉGATION IRANIENNE IRA EN SUISSE POUR \"SUIVRE ET EXIGER LA MISE EN ŒUVRE DES ENGAGEMENTS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:46",
-      "date": "20/06",
-      "timestamp": 1781966774
-    },
-    {
-      "id": "BFMTV_1781966535",
-      "source": "BFMTV",
-      "text": "L'IRAN PRÉVIENT LES ÉTATS-UNIS QUE L'ACCORD EST \"EN DANGER\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:42",
-      "date": "20/06",
-      "timestamp": 1781966535
-    },
-    {
-      "id": "BFMTV_1781962872",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT \"FERMER\" LE DÉTROIT D'ORMUZ EN RÉACTION AUX ATTAQUES D'ISRAËL AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:41",
-      "date": "20/06",
-      "timestamp": 1781962872
-    },
-    {
-      "id": "OPEX360_1781962870",
-      "source": "OPEX360",
-      "text": "JOHN COCKERILL DEFENSE ET ARQUUS ONT PRÉSENTÉ LE BLINDÉ DE RECONNAISSANCE ET DE COMBAT FENRIS, ARMÉ D’UN CANON DE 105 MM",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:41",
-      "date": "20/06",
-      "timestamp": 1781962870
-    },
-    {
-      "id": "BFMTV_1781962698",
-      "source": "BFMTV",
-      "text": "TÉHÉRAN ANNONCE \"FERMER\" LE DÉTROIT D'ORMUZ APRÈS LES ATTAQUES ISRAÉLIENNES AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:38",
-      "date": "20/06",
-      "timestamp": 1781962698
-    },
-    {
-      "id": "BFMTV_1781961675",
-      "source": "BFMTV",
-      "text": "L'IRAN DIT \"FERMER\" LE DÉTROIT D'ORMUZ EN RÉACTION AUX ATTAQUES D'ISRAËL AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:21",
-      "date": "20/06",
-      "timestamp": 1781961675
-    },
-    {
-      "id": "BFMTV_1781959828",
-      "source": "BFMTV",
-      "text": "\"ELLE VEUT À NOUVEAU FAIRE AMI-AMI POUR REMONTER DANS LES SONDAGES\": DONALD TRUMP RÉAFFIRME QUE GIORGIA MELONI LUI A DEMANDÉ \"À PLUSIEURS REPRISES\" DE PRENDRE UNE PHOTO AVEC LUI AU G7",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:50",
-      "date": "20/06",
-      "timestamp": 1781959828
-    },
-    {
-      "id": "BFMTV_1781959025",
-      "source": "BFMTV",
-      "text": "UN TRIBUNAL ESPAGNOL INTERDIT À L'ÉPOUSE DU PREMIER MINISTRE PEDRO SÁNCHEZ DE QUITTER LE PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:37",
-      "date": "20/06",
-      "timestamp": 1781959025
-    },
-    {
-      "id": "BFMTV_1781956139",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS AVEC L'IRAN: L'ÉMISSAIRE AMÉRICAIN STEVE WITKOFF EN ROUTE POUR LA SUISSE POUR MENER DES DISCUSSIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:48",
-      "date": "20/06",
-      "timestamp": 1781956139
     }
   ],
   "france": {
