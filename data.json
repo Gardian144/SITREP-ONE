@@ -1,7 +1,117 @@
 {
-  "last_update": "22/06 13:06",
+  "last_update": "22/06 17:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782149552",
+      "source": "BFMTV",
+      "text": "LA PATROUILLE DE FRANCE SURVOLE LE WASHINGTON MONUMENT DEVANT LES YEUX ÉBAHIS DES AMÉRICAINS",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:32",
+      "date": "22/06",
+      "timestamp": 1782149552
+    },
+    {
+      "id": "OPEX360_1782149248",
+      "source": "OPEX360",
+      "text": "THALES NOUE UN «PARTENARIAT STRATÉGIQUE» AVEC LES PAYS-BAS POUR AUGMENTER SA PRODUCTION D’ANTENNES RADAR DE 60 %",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:27",
+      "date": "22/06",
+      "timestamp": 1782149248
+    },
+    {
+      "id": "BFMTV_1782147979",
+      "source": "BFMTV",
+      "text": "COÛT DE LA VIE, AFFAIRE EPSTEIN, MANQUE DE LEADERSHIP... LE PREMIER MINISTRE BRITANNIQUE KEIR STARMER QUITTE LE POUVOIR APRÈS UN LONG CHEMIN DE CROIX",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:06",
+      "date": "22/06",
+      "timestamp": 1782147979
+    },
+    {
+      "id": "BFMTV_1782146674",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: ANDY BURNHAM INVESTI DÉPUTÉ, ÉTAPE NÉCESSAIRE POUR DEVENIR PREMIER MINISTRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:44",
+      "date": "22/06",
+      "timestamp": 1782146674
+    },
+    {
+      "id": "OPEX360_1782145500",
+      "source": "OPEX360",
+      "text": "OTAN : LE PARLEMENT FINLANDAIS A LEVÉ L’INTERDICTION TOTALE DES ARMES NUCLÉAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:25",
+      "date": "22/06",
+      "timestamp": 1782145500
+    },
+    {
+      "id": "BFMTV_1782141365",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES DÉGÂTS SUBIS DANS LE SUD DU LIBAN ESTIMÉS À 1,21 MILLIARD D'EUROS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:16",
+      "date": "22/06",
+      "timestamp": 1782141365
+    },
+    {
+      "id": "BFMTV_1782140031",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN STAND DE FEUX D'ARTIFICE EXPLOSE EN OKLAHOMA",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:53",
+      "date": "22/06",
+      "timestamp": 1782140031
+    },
+    {
+      "id": "BFMTV_1782139790",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS IRAN/ÉTATS-UNIS: DES INSPECTEURS DU NUCLÉAIRE IRONT EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:49",
+      "date": "22/06",
+      "timestamp": 1782139790
+    },
+    {
+      "id": "OPEX360_1782136252",
+      "source": "OPEX360",
+      "text": "LE CANADA FAIT L’ACQUISITION D’UN RADAR TRANSHORIZON AUPRÈS DE L’AUSTRALIE POUR RENFORCER LA DÉFENSE DE L’ARCTIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:50",
+      "date": "22/06",
+      "timestamp": 1782136252
+    },
+    {
+      "id": "BFMTV_1782134112",
+      "source": "BFMTV",
+      "text": "COLOMBIE: QUI EST ABELARDO DE LA ESPRIELLA, LE NOUVEAU PRÉSIDENT COLOMBIEN ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:15",
+      "date": "22/06",
+      "timestamp": 1782134112
+    },
+    {
+      "id": "BFMTV_1782133700",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: DES POLICIERS ONT TIRÉ SUR UNE VOITURE, TUANT UN BÉBÉ D’UN AN DANS LES BRAS DE SA MÈRE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:08",
+      "date": "22/06",
+      "timestamp": 1782133700
+    },
     {
       "id": "BFMTV_1782133411",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "11:48",
       "date": "20/06",
       "timestamp": 1781956139
-    },
-    {
-      "id": "BFMTV_1781954889",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH DIT AVOIR ATTAQUÉ DES FORCES ISRAÉLIENNES QUI TENTAIENT UNE \"INFILTRATION\" DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:28",
-      "date": "20/06",
-      "timestamp": 1781954889
-    },
-    {
-      "id": "OPEX360_1781953221",
-      "source": "OPEX360",
-      "text": "LE FRANÇAIS AURA AERO A LANCÉ DES TRAVAUX PRÉLIMINAIRES EN VUE DE DÉVELOPPER UN DRONE DE COMBAT COLLABORATIF",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:00",
-      "date": "20/06",
-      "timestamp": 1781953221
-    },
-    {
-      "id": "BFMTV_1781952459",
-      "source": "BFMTV",
-      "text": "CHINE : UN PARAPENTISTE SUSPENDU DANS LE VIDE APRÈS S'ÊTRE ACCROCHÉ À UNE GRUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:47",
-      "date": "20/06",
-      "timestamp": 1781952459
-    },
-    {
-      "id": "OPEX360_1781949537",
-      "source": "OPEX360",
-      "text": "L’AVIATION ROYALE CANADIENNE NÉGOCIE L’ACHAT D’AVIONS D’ENTRAÎNEMENT M-346 MASTER AUPRÈS DE LEONARDO",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:58",
-      "date": "20/06",
-      "timestamp": 1781949537
-    },
-    {
-      "id": "BFMTV_1781948403",
-      "source": "BFMTV",
-      "text": "RÉPUBLIQUE DOMINICAINE: UNE PERSONNE DÉCÉDÉE ET 1.700 TOURISTES ÉVACUÉS APRÈS UN INCENDIE DANS UN HÔTEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:40",
-      "date": "20/06",
-      "timestamp": 1781948403
-    },
-    {
-      "id": "BFMTV_1781948082",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: AU MOINS 5 MORTS DANS DES FRAPPES ISRAÉLIENNES AU LIBAN AU LENDEMAIN D'UNE ANNONCE DE CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:34",
-      "date": "20/06",
-      "timestamp": 1781948082
-    },
-    {
-      "id": "BFMTV_1781937527",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:38",
-      "date": "20/06",
-      "timestamp": 1781937527
-    },
-    {
-      "id": "BFMTV_1781936172",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS 5 MORTS DANS DES FRAPPES ISRAÉLIENNES AU SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:16",
-      "date": "20/06",
-      "timestamp": 1781936172
-    },
-    {
-      "id": "BFMTV_1781935434",
-      "source": "BFMTV",
-      "text": "UN PROJET SIGNÉ DONALD TRUMP QUI S'ÉCAILLE: LA PEINTURE BLEUE TOUT JUSTE APPLIQUÉE SUR LE BASSIN RÉFLÉCHISSANT DU LINCOLN MEMORIAL SE DÉCOLLE DÉJÀ À L'APPROCHE DES CÉLÉBRATIONS DES 250 ANS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:03",
-      "date": "20/06",
-      "timestamp": 1781935434
-    },
-    {
-      "id": "BFMTV_1781934506",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS UN MORT DANS UN BOMBARDEMENT RUSSE SUR UN QUARTIER RÉSIDENTIEL DE KHARKIV",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:48",
-      "date": "20/06",
-      "timestamp": 1781934506
-    },
-    {
-      "id": "BFMTV_1781934506",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:48",
-      "date": "20/06",
-      "timestamp": 1781934506
     }
   ],
   "france": {
