@@ -1,7 +1,47 @@
 {
-  "last_update": "23/06 11:31",
+  "last_update": "23/06 14:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782222107",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"VOUS AVEZ CE QU'ON APPELLE LE NOUVEL ORDRE IRANIEN AU MOYEN-ORIENT\", AFFIRME ADEL BAKAWAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:41",
+      "date": "23/06",
+      "timestamp": 1782222107
+    },
+    {
+      "id": "BFMTV_1782218884",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: LA TÉLÉVISION D'ÉTAT IRANIENNE CONFIRME QU'OMAN A ACCEPTÉ DE PRÉLEVER DES REDEVANCES DE SERVICES DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:48",
+      "date": "23/06",
+      "timestamp": 1782218884
+    },
+    {
+      "id": "BFMTV_1782218753",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: 36 NAVIRES ONT FRANCHI LE DÉTROIT D'ORMUZ LUNDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:45",
+      "date": "23/06",
+      "timestamp": 1782218753
+    },
+    {
+      "id": "BFMTV_1782218172",
+      "source": "BFMTV",
+      "text": "ALLEMAGNE: UNE ENQUÊTE OUVERTE POUR AGRESSIONS SEXUELLES DANS UNE PISCINE D'EUROPA-PARK",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:36",
+      "date": "23/06",
+      "timestamp": 1782218172
+    },
     {
       "id": "BFMTV_1782209960",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "08:58",
       "date": "21/06",
       "timestamp": 1782032317
-    },
-    {
-      "id": "BFMTV_1782032136",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE LE LIBAN SERA LE \"PRINCIPAL\" SUJET DISCUTÉ AVEC LES ÉTATS-UNIS LORS DES POURPARLERS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:55",
-      "date": "21/06",
-      "timestamp": 1782032136
-    },
-    {
-      "id": "BFMTV_1782031179",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE LE LIBAN SERA LE \"PRINCIPAL\" SUJET DISCUTÉ AVEC LES ÉTATS-UNIS LORS DES POURPARLERS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:39",
-      "date": "21/06",
-      "timestamp": 1782031179
-    },
-    {
-      "id": "BFMTV_1782027583",
-      "source": "BFMTV",
-      "text": "DE POSSIBLES ACTES ANTIMUSULMANS: L'ANTITERRORISME SAISI APRÈS UNE SÉRIE D'\"ATTAQUES\" À EDIMBOURG",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:39",
-      "date": "21/06",
-      "timestamp": 1782027583
-    },
-    {
-      "id": "BFMTV_1782027492",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL - HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:38",
-      "date": "21/06",
-      "timestamp": 1782027492
     }
   ],
   "france": {
