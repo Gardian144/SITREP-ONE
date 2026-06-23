@@ -1,7 +1,47 @@
 {
-  "last_update": "23/06 18:31",
+  "last_update": "23/06 20:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782241095",
+      "source": "BFMTV",
+      "text": "IRAN: 11.000 MARINS SONT EN TRAIN D'ÊTRE ÉVACUÉS DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:58",
+      "date": "23/06",
+      "timestamp": 1782241095
+    },
+    {
+      "id": "BFMTV_1782240955",
+      "source": "BFMTV",
+      "text": "\"AUCUN PAYS N'EST AUTORISÉ À PERCEVOIR DES PÉAGES\": WASHINGTON N'ACCEPTERA PAS DE FRAIS SUR LE DÉTROIT D'ORMUZ, SELON MARCO RUBIO",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:55",
+      "date": "23/06",
+      "timestamp": 1782240955
+    },
+    {
+      "id": "BFMTV_1782240915",
+      "source": "BFMTV",
+      "text": "POUR MOHAMMAD GHALIBAF, NÉGOCIATEUR EN CHEF IRANIEN, \"L'ADMINISTRATION DU DÉTROIT D'ORMUZ NE REVIENDRA JAMAIS À CE QU'ELLE ÉTAIT AVANT LA GUERRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:55",
+      "date": "23/06",
+      "timestamp": 1782240915
+    },
+    {
+      "id": "BFMTV_1782239701",
+      "source": "BFMTV",
+      "text": "LEVI’S, HEINZ: POURQUOI CES MARQUES DOIVENT-ELLES CACHER LEUR LOGO PENDANT LE MONDIAL 2026 ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:35",
+      "date": "23/06",
+      "timestamp": 1782239701
+    },
     {
       "id": "BFMTV_1782239208",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "13:38",
       "date": "21/06",
       "timestamp": 1782049121
-    },
-    {
-      "id": "BFMTV_1782046763",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: PRÉSENT EN SUISSE POUR NÉGOCIER AVEC L'IRAN, JD VANCE SALUE UNE \"RENCONTRE HISTORIQUE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:59",
-      "date": "21/06",
-      "timestamp": 1782046763
-    },
-    {
-      "id": "BFMTV_1782041739",
-      "source": "BFMTV",
-      "text": "VERS UNE DÉMISSION DE KEIR STARMER? LE PREMIER MINISTRE BRITANNIQUE \"RÉFLÉCHIT AUX RÉALITÉS POLITIQUES\", SELON SON MINISTRE DU COMMERCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:35",
-      "date": "21/06",
-      "timestamp": 1782041739
-    },
-    {
-      "id": "OPEX360_1782040426",
-      "source": "OPEX360",
-      "text": "LES PAYS-BAS ONT CONFIRMÉ UNE COMMANDE DE TORPILLES LOURDES F-21 «ARTÉMIS» AUPRÈS DU FRANÇAIS NAVAL GROUP",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:13",
-      "date": "21/06",
-      "timestamp": 1782040426
-    },
-    {
-      "id": "BFMTV_1782039909",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN DIT QU'IL NE CHERCHE PAS LA BOMBE NUCLÉAIRE, MAIS QU'IL NE RENONCERA PAS NON PLUS À L'ENRICHISSEMENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:05",
-      "date": "21/06",
-      "timestamp": 1782039909
     }
   ],
   "france": {
