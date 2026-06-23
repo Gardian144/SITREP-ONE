@@ -1,7 +1,37 @@
 {
-  "last_update": "23/06 14:04",
+  "last_update": "23/06 16:41",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1782232809",
+      "source": "OPEX360",
+      "text": "LEONARDO ET BAYKAR ASSOCIENT L’AVION D’ATTAQUE LÉGER M346 AU DRONE DE COMBAT COLLABORATIF KIZILELMA",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:40",
+      "date": "23/06",
+      "timestamp": 1782232809
+    },
+    {
+      "id": "BFMTV_1782225795",
+      "source": "BFMTV",
+      "text": "DEUX PORTE-AVIONS AMÉRICAINS SONT TOUJOURS DÉPLOYÉS AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:43",
+      "date": "23/06",
+      "timestamp": 1782225795
+    },
+    {
+      "id": "OPEX360_1782225157",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT S’INTÉRESSE AU DRONE TACTIQUE D’AÉROCOMBAT S301, DÉVELOPPÉ PAR SCHIEBEL ET THALES",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:32",
+      "date": "23/06",
+      "timestamp": 1782225157
+    },
     {
       "id": "BFMTV_1782222107",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "09:54",
       "date": "21/06",
       "timestamp": 1782035640
-    },
-    {
-      "id": "BFMTV_1782034788",
-      "source": "BFMTV",
-      "text": "\"NE PAS PRENDRE DE RISQUES INUTILES\": TROIS ADOLESCENTS ÂGÉS DE 12 À 13 ANS MEURENT SUR UNE PLAGE EN ESPAGNE APRÈS DE FORTES VAGUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:39",
-      "date": "21/06",
-      "timestamp": 1782034788
-    },
-    {
-      "id": "BFMTV_1782032636",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE DÉTROIT D'ORMUZ, PRINCIPAL SUJET DE DISCORDE ENTRE LES ÉTATS-UNIS ET L'IRAN AVANT LES POURPARLERS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:03",
-      "date": "21/06",
-      "timestamp": 1782032636
-    },
-    {
-      "id": "BFMTV_1782032317",
-      "source": "BFMTV",
-      "text": "\"ICE OU NICE?\": DONALD TRUMP ENVISAGE DE RENOMMER LA POLICE AMÉRICAINE DE L'IMMIGRATION ET LANCE UN SONDAGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:58",
-      "date": "21/06",
-      "timestamp": 1782032317
     }
   ],
   "france": {
