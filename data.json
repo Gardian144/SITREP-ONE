@@ -1,7 +1,57 @@
 {
-  "last_update": "23/06 04:20",
+  "last_update": "23/06 08:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782201088",
+      "source": "BFMTV",
+      "text": "LE TRAFIC REPREND PROGRESSIVEMENT DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:51",
+      "date": "23/06",
+      "timestamp": 1782201088
+    },
+    {
+      "id": "BFMTV_1782199058",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE NÉGOCIATEUR EN CHEF DE L'IRAN AFFIRME QUE LE DÉTROIT D'ORMUZ SERA ADMINISTRÉ PAR TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:17",
+      "date": "23/06",
+      "timestamp": 1782199058
+    },
+    {
+      "id": "BFMTV_1782193257",
+      "source": "BFMTV",
+      "text": "FRANCE-IRAK: FAN ZONES FERMÉES, MATCH RETARDÉ… COMMENT FONCTIONNE LE PROTOCOLE MÉTÉO AMÉRICAIN PENDANT LE MONDIAL?",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:40",
+      "date": "23/06",
+      "timestamp": 1782193257
+    },
+    {
+      "id": "BFMTV_1782191400",
+      "source": "BFMTV",
+      "text": "\"J'AI EU L'IMPRESSION QUE LE PAYS ME DISAIT FUCK YOU\": DIX ANS APRÈS LE RÉFÉRENDUM SUR LE BREXIT, CES FRANÇAIS REVIENNENT SUR LEUR DÉPART DU ROYAUME-UNI",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:10",
+      "date": "23/06",
+      "timestamp": 1782191400
+    },
+    {
+      "id": "BFMTV_1782191211",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP MENACE DE PRISON QUICONQUE ENDOMMAGERAIT LE BASSIN PRÈS DU LINCOLN MEMORIAL DE WASHINGTON QU'IL A FAIT RÉNOVER",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:06",
+      "date": "23/06",
+      "timestamp": 1782191211
+    },
     {
       "id": "BFMTV_1782165808",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "19:51",
       "date": "20/06",
       "timestamp": 1781985070
-    },
-    {
-      "id": "BFMTV_1781983878",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP MENACE D'IMPOSER UN PÉAGE AMÉRICAIN DANS LE DÉTROIT D'ORMUZ EN CAS D'ÉCHEC DES NÉGOCIATIONS AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:31",
-      "date": "20/06",
-      "timestamp": 1781983878
-    },
-    {
-      "id": "BFMTV_1781980512",
-      "source": "BFMTV",
-      "text": "ALORS QUE L'IRAN A ANNONCÉ LA FERMETURE DU DÉTROIT D'ORMUZ, LE PAYS MENACE LES NAVIRES QUI S'APPROCHENT DU PASSAGE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:35",
-      "date": "20/06",
-      "timestamp": 1781980512
-    },
-    {
-      "id": "BFMTV_1781978320",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE HEZBOLLAH ET ISRAËL S'ACCUSENT MUTUELLEMENT DE VIOLER LE CESSEZ-LE-FEU, TSAHAL ANNONCE LA MORT D'UN DE SES SOLDATS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:58",
-      "date": "20/06",
-      "timestamp": 1781978320
-    },
-    {
-      "id": "BFMTV_1781976293",
-      "source": "BFMTV",
-      "text": "LE PROTOCOLE D'ACCORD ENTRE L'IRAN ET LES ÉTATS-UNIS POURRAIT ÊTRE REMIS EN CAUSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:24",
-      "date": "20/06",
-      "timestamp": 1781976293
-    },
-    {
-      "id": "BFMTV_1781975294",
-      "source": "BFMTV",
-      "text": "MALGRÉ LE CESSEZ-LE-FEU, ISRAËL CONTINUE DE PILONNER LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:08",
-      "date": "20/06",
-      "timestamp": 1781975294
     }
   ],
   "france": {
