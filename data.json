@@ -1,7 +1,27 @@
 {
-  "last_update": "23/06 16:41",
+  "last_update": "23/06 18:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782239208",
+      "source": "BFMTV",
+      "text": "LE SECRÉTAIRE D'ÉTAT AMÉRICAIN MARCO RUBIO RÉAFFIRME QUE WASHINGTON N'ACCEPTERA PAS DE PÉAGE OU FRAIS SUR LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:26",
+      "date": "23/06",
+      "timestamp": 1782239208
+    },
+    {
+      "id": "OPEX360_1782235897",
+      "source": "OPEX360",
+      "text": "ROME VOUDRAIT ACCUEILLIR BERLIN AU SEIN DU GCAP, LE PROJET D’AVION DE COMBAT MENÉ AVEC LONDRES ET TOKYO",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:31",
+      "date": "23/06",
+      "timestamp": 1782235897
+    },
     {
       "id": "OPEX360_1782232809",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "11:05",
       "date": "21/06",
       "timestamp": 1782039909
-    },
-    {
-      "id": "OPEX360_1782038086",
-      "source": "OPEX360",
-      "text": "L’ARME BLINDÉE CAVALERIE POURRAIT RENOUER AVEC LES BLINDÉS MÉDIANS CHENILLÉS POUR «PERCER» LES LIGNES ENNEMIES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:34",
-      "date": "21/06",
-      "timestamp": 1782038086
-    },
-    {
-      "id": "BFMTV_1782035640",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES LIBANAIS RETIENNENT LEUR SOUFFLE APRÈS L'ARRÊT TEMPORAIRE DES TIRS PAR ISRAËL ET AVANT LE DÉBUT DES POURPARLERS ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:54",
-      "date": "21/06",
-      "timestamp": 1782035640
     }
   ],
   "france": {
