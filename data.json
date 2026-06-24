@@ -1,7 +1,37 @@
 {
-  "last_update": "24/06 01:31",
+  "last_update": "24/06 05:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782278052",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP FUSTIGE UNE RÉSOLUTION SYMBOLIQUE DU CONGRÈS ORDONNANT LE RETRAIT DES FORCES AMÉRICAINES DANS LA GUERRE CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:14",
+      "date": "24/06",
+      "timestamp": 1782278052
+    },
+    {
+      "id": "BFMTV_1782277046",
+      "source": "BFMTV",
+      "text": "KIM JONG UN ANNONCE ÉQUIPER DES NAVIRES MILITAIRES NORD-CORÉENS D'ARMES NUCLÉAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:57",
+      "date": "24/06",
+      "timestamp": 1782277046
+    },
+    {
+      "id": "BFMTV_1782274825",
+      "source": "BFMTV",
+      "text": "LE CONGRÈS AMÉRICAIN ADOPTE UNE RÉSOLUTION POUR DEMANDER LE RETRAIT DES FORCES AMÉRICAINES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:20",
+      "date": "24/06",
+      "timestamp": 1782274825
+    },
     {
       "id": "BFMTV_1782248845",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "14:40",
       "date": "21/06",
       "timestamp": 1782052853
-    },
-    {
-      "id": "BFMTV_1782052620",
-      "source": "BFMTV",
-      "text": "PRÉSENT EN SUISSE POUR NÉGOCIER AVEC L'IRAN, J.D. VANCE SALUE UNE \"RENCONTRE HISTORIQUE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:37",
-      "date": "21/06",
-      "timestamp": 1782052620
-    },
-    {
-      "id": "BFMTV_1782049877",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE TRAFIC SE POURSUIT MALGRÉ LE CHANTAGE IRANIEN ET LE DÉBUT DES POURPARLERS EN SUISSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:51",
-      "date": "21/06",
-      "timestamp": 1782049877
-    },
-    {
-      "id": "BFMTV_1782049829",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ET L'IRAN ONT ENTAMÉ LEURS POURPARLERS EN SUISSE POUR METTRE DÉFINITIVEMENT FIN AU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:50",
-      "date": "21/06",
-      "timestamp": 1782049829
     }
   ],
   "france": {
