@@ -1,7 +1,57 @@
 {
-  "last_update": "24/06 09:28",
+  "last_update": "24/06 12:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782300734",
+      "source": "BFMTV",
+      "text": "CANICULE: À LONDRES, LA TEMPÉRATURE POURRAIT ATTEINDRE LES 40°C",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:32",
+      "date": "24/06",
+      "timestamp": 1782300734
+    },
+    {
+      "id": "BFMTV_1782299445",
+      "source": "BFMTV",
+      "text": "ENLEVÉE DEPUIS CINQ MOIS, LA MÈRE DE SAVANNAH GUTHRIE, ANIMATRICE STAR AMÉRICAINE, SERAIT MORTE D'APRÈS SES RAVISSEURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:10",
+      "date": "24/06",
+      "timestamp": 1782299445
+    },
+    {
+      "id": "OPEX360_1782298102",
+      "source": "OPEX360",
+      "text": "LA POLOGNE NÉGOCIE L’ACHAT D’AVIONS RAVITAILLEURS A330 MRTT AVEC L’ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:48",
+      "date": "24/06",
+      "timestamp": 1782298102
+    },
+    {
+      "id": "BFMTV_1782297040",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: 11 000 MARINS DOIVENT ÊTRE ÉVACUÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:30",
+      "date": "24/06",
+      "timestamp": 1782297040
+    },
+    {
+      "id": "BFMTV_1782295433",
+      "source": "BFMTV",
+      "text": "AU MOINS TROIS MORTS DANS DES FRAPPES DE DRONES UKRAINIENS EN RUSSIE, LA VILLE DE SÉBASTOPOL PRIVÉE D'ÉLECTRICITÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:03",
+      "date": "24/06",
+      "timestamp": 1782295433
+    },
     {
       "id": "BFMTV_1782292258",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "20:29",
       "date": "21/06",
       "timestamp": 1782073794
-    },
-    {
-      "id": "BFMTV_1782070361",
-      "source": "BFMTV",
-      "text": "POURPARLERS EN SUISSE: LA DÉLÉGATION IRANIENNE \"RESTE ENGAGÉE\" DANS LES DISCUSSIONS AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:32",
-      "date": "21/06",
-      "timestamp": 1782070361
-    },
-    {
-      "id": "BFMTV_1782067682",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA DÉLÉGATION IRANIENNE A QUITTÉ LE LIEU DES DISCUSSIONS APRÈS UN MESSAGE \"INSULTANT\" DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:48",
-      "date": "21/06",
-      "timestamp": 1782067682
-    },
-    {
-      "id": "BFMTV_1782067031",
-      "source": "BFMTV",
-      "text": "ALORS QUE DES NAVIRES PASSENT LE DÉTROIT D'ORMUZ, L'IRAN MAINTIENT LA PRESSION",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:37",
-      "date": "21/06",
-      "timestamp": 1782067031
-    },
-    {
-      "id": "BFMTV_1782060856",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE CHEF DU HEZBOLLAH DIT REFUSER TOUTE ZONE DE SÉCURITÉ ISRAÉLIENNE DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:54",
-      "date": "21/06",
-      "timestamp": 1782060856
-    },
-    {
-      "id": "BFMTV_1782059984",
-      "source": "BFMTV",
-      "text": "LE CHÂTEAU DE VERSAILLES AURAIT-IL DÛ ACCUEILLIR DONALD TRUMP ?: \"C'ÉTAIT EXTRÊMEMENT DÉPLAISANT\", ANALYSE BERNARD GUETTA, DÉPUTÉ EUROPÉEN RENEW",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:39",
-      "date": "21/06",
-      "timestamp": 1782059984
     }
   ],
   "france": {
