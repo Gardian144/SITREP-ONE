@@ -1,7 +1,47 @@
 {
-  "last_update": "24/06 15:06",
+  "last_update": "24/06 17:17",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1782320761",
+      "source": "OPEX360",
+      "text": "AIRBUS HELICOPTERS A LIVRÉ LE PREMIER DES QUINZE HÉLICOPTÈRES LÉGERS H145M ATTENDUS PAR LA FORCE AÉRIENNE BELGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:06",
+      "date": "24/06",
+      "timestamp": 1782320761
+    },
+    {
+      "id": "BFMTV_1782318415",
+      "source": "BFMTV",
+      "text": "EBOLA EN FRANCE: LE RISQUE MONDIAL POUR LA SANTÉ PUBLIQUE RESTE \"FAIBLE\", SELON LE CHEF DE L'OMS",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:26",
+      "date": "24/06",
+      "timestamp": 1782318415
+    },
+    {
+      "id": "OPEX360_1782315200",
+      "source": "OPEX360",
+      "text": "L’ALLEMAGNE S’ÉPARGNE UN FIASCO EN ABANDONNANT SON AMBITIEUX PROGRAMME DE FRÉGATES F126",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:33",
+      "date": "24/06",
+      "timestamp": 1782315200
+    },
+    {
+      "id": "BFMTV_1782313941",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN CAMION TRANSPORTANT DEUX MILLIONS D’ABEILLES SE RENVERSE SUR UNE ROUTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:12",
+      "date": "24/06",
+      "timestamp": 1782313941
+    },
     {
       "id": "BFMTV_1782313461",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "09:58",
       "date": "22/06",
       "timestamp": 1782122281
-    },
-    {
-      "id": "BFMTV_1782119075",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: L'ÉMOTION DE KEIR STARMER APRÈS L'ANNONCE DE SA DÉMISSION",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:04",
-      "date": "22/06",
-      "timestamp": 1782119075
-    },
-    {
-      "id": "BFMTV_1782119049",
-      "source": "BFMTV",
-      "text": "LE PREMIER MINISTRE BRITANNIQUE KEIR STARMER ANNONCE SA DÉMISSION",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:04",
-      "date": "22/06",
-      "timestamp": 1782119049
-    },
-    {
-      "id": "BFMTV_1782111225",
-      "source": "BFMTV",
-      "text": "ISRAËL EST \"FRAGILISÉ\" DANS LA GUERRE AU MOYEN-ORIENT, ANALYSE GILLES KEPEL",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:53",
-      "date": "22/06",
-      "timestamp": 1782111225
-    },
-    {
-      "id": "BFMTV_1782111082",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL LÈVE LES RESTRICTIONS DE RASSEMBLEMENT PRÈS DE LA FRONTIÈRE AVEC LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:51",
-      "date": "22/06",
-      "timestamp": 1782111082
     }
   ],
   "france": {
