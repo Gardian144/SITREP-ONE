@@ -1,7 +1,17 @@
 {
-  "last_update": "25/06 19:23",
+  "last_update": "25/06 21:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782419913",
+      "source": "BFMTV",
+      "text": "AU MOINS 188 MORTS ET 1.500 BLESSÉS, DÉGÂTS CONSIDÉRABLES... CE QUE L'ON SAIT DU PUISSANT DOUBLE SÉISME AU VENEZUELA",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:38",
+      "date": "25/06",
+      "timestamp": 1782419913
+    },
     {
       "id": "BFMTV_1782412222",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "08:49",
       "date": "23/06",
       "timestamp": 1782204540
-    },
-    {
-      "id": "BFMTV_1782203879",
-      "source": "BFMTV",
-      "text": "\"JE FERAI CE QUE JE DOIS FAIRE. \": DONALD TRUMP MENACE DE NOUVEAU L'IRAN EN CAS DE NON-RESPECT DE L'ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:37",
-      "date": "23/06",
-      "timestamp": 1782203879
     }
   ],
   "france": {
