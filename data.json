@@ -1,7 +1,97 @@
 {
-  "last_update": "25/06 09:44",
+  "last_update": "25/06 12:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782388654",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:57",
+      "date": "25/06",
+      "timestamp": 1782388654
+    },
+    {
+      "id": "BFMTV_1782388653",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS NE VEULENT PAS D'UN ACCORD AVEC L'IRAN \"À N'IMPORTE QUEL PRIX\", SELON MARCO RUBIO",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:57",
+      "date": "25/06",
+      "timestamp": 1782388653
+    },
+    {
+      "id": "BFMTV_1782388024",
+      "source": "BFMTV",
+      "text": "SÉISMES AU VENEZUELA: EMMANUEL MACRON PROPOSE L'ASSISTANCE DE LA FRANCE QUI VA DÉPLOYER 85 SECOURISTES SUR PLACE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:47",
+      "date": "25/06",
+      "timestamp": 1782388024
+    },
+    {
+      "id": "BFMTV_1782386354",
+      "source": "BFMTV",
+      "text": "\"NE PAS AVOIR À CHOISIR ENTRE ÊTRE UNE MÈRE ET UNE MINISTRE\": UNE MINISTRE SUÉDOISE ASSISTE AVEC SON BÉBÉ À UNE RÉUNION EUROPÉENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:19",
+      "date": "25/06",
+      "timestamp": 1782386354
+    },
+    {
+      "id": "BFMTV_1782384207",
+      "source": "BFMTV",
+      "text": "UNE VILLE ALLEMANDE INTERDIT L'ACCÈS AU LAC MUNICIPAL AUX NAGEURS NON-GERMANOPHONES ET PROVOQUE UN TOLLÉ NATIONAL",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:43",
+      "date": "25/06",
+      "timestamp": 1782384207
+    },
+    {
+      "id": "BFMTV_1782383733",
+      "source": "BFMTV",
+      "text": "SCÈNES DE PANIQUE ET IMPORTANTS DÉGÂTS APRÈS UN DOUBLE SÉISME AU VENEZUELA, AU MOINS 164 MORTS ET 1.000 BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:35",
+      "date": "25/06",
+      "timestamp": 1782383733
+    },
+    {
+      "id": "OPEX360_1782382705",
+      "source": "OPEX360",
+      "text": "LA SUISSE MÈNE DES NÉGOCIATIONS AVEC LA FRANCE, ISRAËL ET LA CORÉE DU SUD POUR SE PROCURER UN SECOND SYSTÈME DE DÉFENSE AÉRIENNE",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:18",
+      "date": "25/06",
+      "timestamp": 1782382705
+    },
+    {
+      "id": "BFMTV_1782381541",
+      "source": "BFMTV",
+      "text": "LE RISQUE D'UN \"CHAOS TOTAL\": MARCO RUBIO AVERTIT QUE LA MISE EN PLACE DE PÉAGES À ORMUZ POURRAIT \"SE PROPAGER\" À D'AUTRES PASSAGES MARITIMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:59",
+      "date": "25/06",
+      "timestamp": 1782381541
+    },
+    {
+      "id": "BFMTV_1782381297",
+      "source": "BFMTV",
+      "text": "IRAN: \"NOUS NE VOULONS PAS D'ACCORD À N'IMPORTE QUEL PRIX\", DÉCLARE MARCO RUBIO, SECRÉTAIRE D'ÉTAT AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:54",
+      "date": "25/06",
+      "timestamp": 1782381297
+    },
     {
       "id": "BFMTV_1782380585",
       "source": "BFMTV",
@@ -36,6 +126,16 @@
       "id": "BFMTV_1782378147",
       "source": "BFMTV",
       "text": "AU MOINS 32 MORTS ET 700 BLESSÉS, DÉGÂTS CONSIDÉRABLES... CE QUE L'ON SAIT DU PUISSANT DOUBLE SÉISME AU VENEZUELA",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:02",
+      "date": "25/06",
+      "timestamp": 1782378147
+    },
+    {
+      "id": "BFMTV_1782378147",
+      "source": "BFMTV",
+      "text": "AU MOINS 164 MORTS ET 1.000 BLESSÉS, DÉGÂTS CONSIDÉRABLES... CE QUE L'ON SAIT DU PUISSANT DOUBLE SÉISME AU VENEZUELA",
       "urgent": false,
       "france_related": false,
       "time": "09:02",
@@ -901,106 +1001,6 @@
       "time": "21:07",
       "date": "22/06",
       "timestamp": 1782162463
-    },
-    {
-      "id": "BFMTV_1782159842",
-      "source": "BFMTV",
-      "text": "\"C'EST UN MOMENT TRÈS TRISTE\": L'ÉMOTION DU MINISTRE DE LA SÉCURITÉ INTÉRIEURE DU QUÉBEC APRÈS LA MORT D'UN POLICIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:24",
-      "date": "22/06",
-      "timestamp": 1782159842
-    },
-    {
-      "id": "BFMTV_1782159559",
-      "source": "BFMTV",
-      "text": "NABIL FAHMY, ANCIEN CHEF DE LA DIPLOMATIE ÉGYPTIENNE, OFFICIELLEMENT NOMMÉ À LA TÊTE DE LA LIGUE ARABE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:19",
-      "date": "22/06",
-      "timestamp": 1782159559
-    },
-    {
-      "id": "BFMTV_1782157936",
-      "source": "BFMTV",
-      "text": "UNE FUSILLADE À MONTRÉAL FAIT AU MOINS TROIS MORTS, DONT LE SUSPECT",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:52",
-      "date": "22/06",
-      "timestamp": 1782157936
-    },
-    {
-      "id": "BFMTV_1782157642",
-      "source": "BFMTV",
-      "text": "CANADA : TROIS MORTS, DONT LE SUSPECT ET UN POLICIER, DANS UNE FUSILLADE À MONTRÉAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:47",
-      "date": "22/06",
-      "timestamp": 1782157642
-    },
-    {
-      "id": "BFMTV_1782156512",
-      "source": "BFMTV",
-      "text": "L’INFLUENCEUR AMÉRICAIN MASCULINISTE CLAVICULAR MOQUÉ SUR LES RÉSEAUX SOCIAUX APRÈS S’ÊTRE FAIT RECALER PAR DES PARISIENNES",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:28",
-      "date": "22/06",
-      "timestamp": 1782156512
-    },
-    {
-      "id": "BFMTV_1782155563",
-      "source": "BFMTV",
-      "text": "POUR ALAIN BAUER, LES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN, \"C'EST DU THÉÂTRE DE BOULEVARD\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:12",
-      "date": "22/06",
-      "timestamp": 1782155563
-    },
-    {
-      "id": "BFMTV_1782153521",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN: \"C'EST DU THÉÂTRE DE BOULEVARD\", OBSERVE ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:38",
-      "date": "22/06",
-      "timestamp": 1782153521
-    },
-    {
-      "id": "BFMTV_1782153235",
-      "source": "BFMTV",
-      "text": "LES NÉGOCIATIONS ENTRE LES ÉTATS-UNIS ET L'IRAN PRENNENT UN TOURNANT AVEC L'INFLUENCE DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:33",
-      "date": "22/06",
-      "timestamp": 1782153235
-    },
-    {
-      "id": "BFMTV_1782149552",
-      "source": "BFMTV",
-      "text": "LA PATROUILLE DE FRANCE SURVOLE LE WASHINGTON MONUMENT DEVANT LES YEUX ÉBAHIS DES AMÉRICAINS",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:32",
-      "date": "22/06",
-      "timestamp": 1782149552
-    },
-    {
-      "id": "OPEX360_1782149248",
-      "source": "OPEX360",
-      "text": "THALES NOUE UN «PARTENARIAT STRATÉGIQUE» AVEC LES PAYS-BAS POUR AUGMENTER SA PRODUCTION D’ANTENNES RADAR DE 60 %",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:27",
-      "date": "22/06",
-      "timestamp": 1782149248
     }
   ],
   "france": {
