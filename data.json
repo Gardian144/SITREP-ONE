@@ -1,7 +1,87 @@
 {
-  "last_update": "25/06 15:12",
+  "last_update": "25/06 17:23",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1782407968",
+      "source": "OPEX360",
+      "text": "LA MARINE NATIONALE VA TESTER LA MUNITION TÉLÉOPÉRÉE AKERON RCX 50 CONÇUE PAR MBDA ET NOVADEM",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:19",
+      "date": "25/06",
+      "timestamp": 1782407968
+    },
+    {
+      "id": "BFMTV_1782406909",
+      "source": "BFMTV",
+      "text": "UN CARGO TOUCHÉ PAR UN \"PROJECTILE D'ORIGINE INCONNUE\" DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:01",
+      "date": "25/06",
+      "timestamp": 1782406909
+    },
+    {
+      "id": "BFMTV_1782404903",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: ATTAQUES DE DRONES, PÉNURIE D'ESSENCE, QUE SE PASSE-T-IL EN CRIMÉE? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:28",
+      "date": "25/06",
+      "timestamp": 1782404903
+    },
+    {
+      "id": "BFMTV_1782403893",
+      "source": "BFMTV",
+      "text": "ACCORD IRAN-USA: QU’A RÉELLEMENT GAGNÉ DONALD TRUMP?",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:11",
+      "date": "25/06",
+      "timestamp": 1782403893
+    },
+    {
+      "id": "BFMTV_1782402528",
+      "source": "BFMTV",
+      "text": "POURPARLERS LIBAN-ISRAËL: \"NOUS SOMMES TRÈS PRÈS D'OBTENIR UN ENGAGEMENT D'INTENTION DE LA PART DES DEUX PAYS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:48",
+      "date": "25/06",
+      "timestamp": 1782402528
+    },
+    {
+      "id": "BFMTV_1782402108",
+      "source": "BFMTV",
+      "text": "MARCO RUBIO JUGE \"REGRETTABLE\" QUE L'ITALIE AIT ANNULÉ UNE RÉUNION AUX ETATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:41",
+      "date": "25/06",
+      "timestamp": 1782402108
+    },
+    {
+      "id": "BFMTV_1782401388",
+      "source": "BFMTV",
+      "text": "CRANS-MONTANA: AGATA, SURVIVANTE DE L'INCENDIE, REÇOIT LE PRIX DU COURAGE DANS SON ÉCOLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:29",
+      "date": "25/06",
+      "timestamp": 1782401388
+    },
+    {
+      "id": "OPEX360_1782400830",
+      "source": "OPEX360",
+      "text": "LA MARINE NATIONALE A REÇU LE SOUS-MARIN NUCLÉAIRE D’ATTAQUE DE GRASSE, LE QUATRIÈME DE LA CLASSE SUFFREN",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:20",
+      "date": "25/06",
+      "timestamp": 1782400830
+    },
     {
       "id": "BFMTV_1782400018",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "08:16",
       "date": "23/06",
       "timestamp": 1782202579
-    },
-    {
-      "id": "BFMTV_1782202127",
-      "source": "BFMTV",
-      "text": "L'ITALIE DÉCLARE UNE ALERTE ROUGE CANICULE DANS 15 VILLES DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:08",
-      "date": "23/06",
-      "timestamp": 1782202127
-    },
-    {
-      "id": "BFMTV_1782201088",
-      "source": "BFMTV",
-      "text": "LE TRAFIC REPREND PROGRESSIVEMENT DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:51",
-      "date": "23/06",
-      "timestamp": 1782201088
-    },
-    {
-      "id": "BFMTV_1782199058",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE NÉGOCIATEUR EN CHEF DE L'IRAN AFFIRME QUE LE DÉTROIT D'ORMUZ SERA ADMINISTRÉ PAR TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:17",
-      "date": "23/06",
-      "timestamp": 1782199058
-    },
-    {
-      "id": "BFMTV_1782193257",
-      "source": "BFMTV",
-      "text": "FRANCE-IRAK: FAN ZONES FERMÉES, MATCH RETARDÉ… COMMENT FONCTIONNE LE PROTOCOLE MÉTÉO AMÉRICAIN PENDANT LE MONDIAL?",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:40",
-      "date": "23/06",
-      "timestamp": 1782193257
-    },
-    {
-      "id": "BFMTV_1782191400",
-      "source": "BFMTV",
-      "text": "\"J'AI EU L'IMPRESSION QUE LE PAYS ME DISAIT FUCK YOU\": DIX ANS APRÈS LE RÉFÉRENDUM SUR LE BREXIT, CES FRANÇAIS REVIENNENT SUR LEUR DÉPART DU ROYAUME-UNI",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:10",
-      "date": "23/06",
-      "timestamp": 1782191400
-    },
-    {
-      "id": "BFMTV_1782191211",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP MENACE DE PRISON QUICONQUE ENDOMMAGERAIT LE BASSIN PRÈS DU LINCOLN MEMORIAL DE WASHINGTON QU'IL A FAIT RÉNOVER",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:06",
-      "date": "23/06",
-      "timestamp": 1782191211
-    },
-    {
-      "id": "BFMTV_1782165808",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES DÉGÂTS SUBIS DANS LE SUD DU LIBAN ESTIMÉS À 1,21 MILLIARD D'EUROS",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:03",
-      "date": "22/06",
-      "timestamp": 1782165808
-    },
-    {
-      "id": "BFMTV_1782165800",
-      "source": "BFMTV",
-      "text": "FUSILLADE À MONTRÉAL: LA PISTE TERRORISTE ÉCARTÉE, SELON LE MINISTRE DE LA SÉCURITÉ INTÉRIEURE DU QUÉBEC",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:03",
-      "date": "22/06",
-      "timestamp": 1782165800
     }
   ],
   "france": {
