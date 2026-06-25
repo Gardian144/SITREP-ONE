@@ -1,7 +1,37 @@
 {
-  "last_update": "25/06 17:23",
+  "last_update": "25/06 19:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782412222",
+      "source": "BFMTV",
+      "text": "\"IL N’Y A PLUS RIEN DE GLACIAIRE\": EMMANUEL MACRON IRONISE À PROPOS DE SES RELATIONS AVEC GIORGIA MELONI",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:30",
+      "date": "25/06",
+      "timestamp": 1782412222
+    },
+    {
+      "id": "BFMTV_1782412071",
+      "source": "BFMTV",
+      "text": "\"NOS RELATIONS N’ONT JAMAIS ÉTÉ GLACIALES\": GIORGIA MELONI DIT AVOIR DES ÉCHANGES SÉRIEUX AVEC EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:27",
+      "date": "25/06",
+      "timestamp": 1782412071
+    },
+    {
+      "id": "BFMTV_1782411903",
+      "source": "BFMTV",
+      "text": "\"RENFORCER LA SOUVERAINETÉ DU LIBAN\": LA FRANCE ET L'ITALIE VEULENT METTRE EN PLACE UNE \"COALITION\" MULTINATIONALE POUR SUCCÉDER À LA FINUL",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:25",
+      "date": "25/06",
+      "timestamp": 1782411903
+    },
     {
       "id": "OPEX360_1782407968",
       "source": "OPEX360",
@@ -971,36 +1001,6 @@
       "time": "08:37",
       "date": "23/06",
       "timestamp": 1782203879
-    },
-    {
-      "id": "BFMTV_1782203819",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: L'ONU EXPRIME \"SES INQUIÉTUDES\" APRÈS LA REPRISE DE FRAPPES AUTOUR DE LA CENTRALE NUCLÉAIRE DE ZAPORIJIA",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:36",
-      "date": "23/06",
-      "timestamp": 1782203819
-    },
-    {
-      "id": "BFMTV_1782203667",
-      "source": "BFMTV",
-      "text": "\"LE CHAOS CLIMATIQUE S'ACCÉLÈRE SOUS NOS YEUX\", ALERTE ANTÓNIO GUTERRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:34",
-      "date": "23/06",
-      "timestamp": 1782203667
-    },
-    {
-      "id": "BFMTV_1782202579",
-      "source": "BFMTV",
-      "text": "\"IL S'EST TIRÉ UNE BALLE DANS LE PIED\": DONALD TRUMP RÉAGIT À LA DÉMISSION DE KEIR STARMER",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:16",
-      "date": "23/06",
-      "timestamp": 1782202579
     }
   ],
   "france": {
