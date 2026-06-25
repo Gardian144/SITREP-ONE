@@ -1,7 +1,37 @@
 {
-  "last_update": "25/06 01:49",
+  "last_update": "25/06 06:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782363886",
+      "source": "BFMTV",
+      "text": "SCÈNES DE PANIQUE ET IMPORTANTS DÉGÂTS APRÈS UN DOUBLE SÉISME AU VENEZUELA, AU MOINS 32 MORTS ET 700 BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:04",
+      "date": "25/06",
+      "timestamp": 1782363886
+    },
+    {
+      "id": "BFMTV_1782362916",
+      "source": "BFMTV",
+      "text": "\"UNE GUERRE D'AGRESSION ILLÉGALE\": L'IRAN ACCUSE L'OTAN DE \"COMPLICITÉ ACTIVE\" DANS LES OPÉRATIONS MENÉES CONTRE LUI PAR LES ÉTATS-UNIS ET ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:48",
+      "date": "25/06",
+      "timestamp": 1782362916
+    },
+    {
+      "id": "BFMTV_1782361352",
+      "source": "BFMTV",
+      "text": "ORMUZ: 11.000 MARINS, BLOQUÉS DEPUIS TROIS MOIS DANS LE DÉTROIT, EN COURS D'ÉVACUATION ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:22",
+      "date": "25/06",
+      "timestamp": 1782361352
+    },
     {
       "id": "BFMTV_1782334807",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "12:46",
       "date": "22/06",
       "timestamp": 1782132377
-    },
-    {
-      "id": "BFMTV_1782132219",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: UN SEPTIÈME PREMIER MINISTRE APRÈS KEIR STARMER, UN AVEU D'ÉCHEC DU BREXIT ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:43",
-      "date": "22/06",
-      "timestamp": 1782132219
-    },
-    {
-      "id": "BFMTV_1782131708",
-      "source": "BFMTV",
-      "text": "DÉMISSION DE KEIR STARMER: ANDY BURNHAM, GRAND FAVORI POUR LE REMPLACER ? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:35",
-      "date": "22/06",
-      "timestamp": 1782131708
-    },
-    {
-      "id": "BFMTV_1782131171",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: APRÈS LES POURPARLERS EN SUISSE AVEC L'IRAN, JD VANCE SALUE \"DES BASES TRÈS SOLIDES\" EN VUE D'UN ACCORD FINAL",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:26",
-      "date": "22/06",
-      "timestamp": 1782131171
     }
   ],
   "france": {
