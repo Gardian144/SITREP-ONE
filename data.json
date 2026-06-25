@@ -1,7 +1,137 @@
 {
-  "last_update": "25/06 06:06",
+  "last_update": "25/06 09:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782380585",
+      "source": "BFMTV",
+      "text": "UN PÉTROLIER EN PROVENANCE DE RUSSIE \"ARRAISONNÉ\" PAR LA MARINE NATIONALE EN MÉDITERRANÉE",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:43",
+      "date": "25/06",
+      "timestamp": 1782380585
+    },
+    {
+      "id": "BFMTV_1782380091",
+      "source": "BFMTV",
+      "text": "\"L'AMÉRIQUE EST DE RETOUR\": DONALD TRUMP LANCE LES FESTIVITÉS POUR LES 250 ANS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:34",
+      "date": "25/06",
+      "timestamp": 1782380091
+    },
+    {
+      "id": "BFMTV_1782378648",
+      "source": "BFMTV",
+      "text": "IMMEUBLES EFFONDRÉS, AMBASSADE DE FRANCE TOUCHÉE... LES IMAGES DU DOUBLE SÉISME MEURTRIER AU VENEZUELA",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:10",
+      "date": "25/06",
+      "timestamp": 1782378648
+    },
+    {
+      "id": "BFMTV_1782378147",
+      "source": "BFMTV",
+      "text": "AU MOINS 32 MORTS ET 700 BLESSÉS, DÉGÂTS CONSIDÉRABLES... CE QUE L'ON SAIT DU PUISSANT DOUBLE SÉISME AU VENEZUELA",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:02",
+      "date": "25/06",
+      "timestamp": 1782378147
+    },
+    {
+      "id": "BFMTV_1782374289",
+      "source": "BFMTV",
+      "text": "DEUX PUISSANTS SÉISMES DE MAGNITUDE 7,2 ET 7,5 ONT SECOUÉ LE VENEZUELA",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:58",
+      "date": "25/06",
+      "timestamp": 1782374289
+    },
+    {
+      "id": "BFMTV_1782374114",
+      "source": "BFMTV",
+      "text": "UN SÉISME DE MAGNITUDE 7,2 ENREGISTRÉ DANS LE NORD DU JAPON, PAS DE RISQUE DE TSUNAMI IDENTIFIÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:55",
+      "date": "25/06",
+      "timestamp": 1782374114
+    },
+    {
+      "id": "BFMTV_1782373746",
+      "source": "BFMTV",
+      "text": "GIORGIA MELONI",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:49",
+      "date": "25/06",
+      "timestamp": 1782373746
+    },
+    {
+      "id": "BFMTV_1782373746",
+      "source": "BFMTV",
+      "text": "\"UNE NÉCESSITÉ POUR LES DEUX PAYS DE TRAVAILLER ENSEMBLE\": LES RELATIONS \"CYCLIQUES\" ENTRE LA FRANCE ET L'ITALIE, TOILE DE FOND DE LA VISITE DE MELONI À ANTIBES",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:49",
+      "date": "25/06",
+      "timestamp": 1782373746
+    },
+    {
+      "id": "BFMTV_1782371992",
+      "source": "BFMTV",
+      "text": "\"IL TIENT BON\": DONALD TRUMP JUGE QUE VOLODYMYR ZELENSKY \"S'EN SORT PLUTÔT BIEN\" DANS LA GUERRE CONTRE LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:19",
+      "date": "25/06",
+      "timestamp": 1782371992
+    },
+    {
+      "id": "BFMTV_1782370437",
+      "source": "BFMTV",
+      "text": "VENEZUELA: LES ÉTATS-UNIS VONT \"IMMÉDIATEMENT\" DÉPLOYER DES SECOURISTES (MARCO RUBIO)",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:53",
+      "date": "25/06",
+      "timestamp": 1782370437
+    },
+    {
+      "id": "BFMTV_1782369591",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL - HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:39",
+      "date": "25/06",
+      "timestamp": 1782369591
+    },
+    {
+      "id": "BFMTV_1782369591",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE ANNONCE LA MORT D'UN SOLDAT LORS D'UNE \"ACTIVITÉ OPÉRATIONELLE\" DANS LE SUD DU LIBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:39",
+      "date": "25/06",
+      "timestamp": 1782369591
+    },
+    {
+      "id": "BFMTV_1782368585",
+      "source": "BFMTV",
+      "text": "SÉISMES AU VENEZUELA: AU MOINS 32 MORTS ET 700 BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:23",
+      "date": "25/06",
+      "timestamp": 1782368585
+    },
     {
       "id": "BFMTV_1782363886",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "17:27",
       "date": "22/06",
       "timestamp": 1782149248
-    },
-    {
-      "id": "BFMTV_1782147979",
-      "source": "BFMTV",
-      "text": "COÛT DE LA VIE, AFFAIRE EPSTEIN, MANQUE DE LEADERSHIP... LE PREMIER MINISTRE BRITANNIQUE KEIR STARMER QUITTE LE POUVOIR APRÈS UN LONG CHEMIN DE CROIX",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:06",
-      "date": "22/06",
-      "timestamp": 1782147979
-    },
-    {
-      "id": "BFMTV_1782146674",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: ANDY BURNHAM INVESTI DÉPUTÉ, ÉTAPE NÉCESSAIRE POUR DEVENIR PREMIER MINISTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:44",
-      "date": "22/06",
-      "timestamp": 1782146674
-    },
-    {
-      "id": "OPEX360_1782145500",
-      "source": "OPEX360",
-      "text": "OTAN : LE PARLEMENT FINLANDAIS A LEVÉ L’INTERDICTION TOTALE DES ARMES NUCLÉAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:25",
-      "date": "22/06",
-      "timestamp": 1782145500
-    },
-    {
-      "id": "BFMTV_1782141365",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES DÉGÂTS SUBIS DANS LE SUD DU LIBAN ESTIMÉS À 1,21 MILLIARD D'EUROS",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:16",
-      "date": "22/06",
-      "timestamp": 1782141365
-    },
-    {
-      "id": "BFMTV_1782140031",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN STAND DE FEUX D'ARTIFICE EXPLOSE EN OKLAHOMA",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:53",
-      "date": "22/06",
-      "timestamp": 1782140031
-    },
-    {
-      "id": "BFMTV_1782139790",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS IRAN/ÉTATS-UNIS: DES INSPECTEURS DU NUCLÉAIRE IRONT EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:49",
-      "date": "22/06",
-      "timestamp": 1782139790
-    },
-    {
-      "id": "BFMTV_1782136972",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:02",
-      "date": "22/06",
-      "timestamp": 1782136972
-    },
-    {
-      "id": "OPEX360_1782136252",
-      "source": "OPEX360",
-      "text": "LE CANADA FAIT L’ACQUISITION D’UN RADAR TRANSHORIZON AUPRÈS DE L’AUSTRALIE POUR RENFORCER LA DÉFENSE DE L’ARCTIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:50",
-      "date": "22/06",
-      "timestamp": 1782136252
-    },
-    {
-      "id": "BFMTV_1782134112",
-      "source": "BFMTV",
-      "text": "COLOMBIE: QUI EST ABELARDO DE LA ESPRIELLA, LE NOUVEAU PRÉSIDENT COLOMBIEN ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:15",
-      "date": "22/06",
-      "timestamp": 1782134112
-    },
-    {
-      "id": "BFMTV_1782133700",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: DES POLICIERS ONT TIRÉ SUR UNE VOITURE, TUANT UN BÉBÉ D’UN AN DANS LES BRAS DE SA MÈRE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:08",
-      "date": "22/06",
-      "timestamp": 1782133700
-    },
-    {
-      "id": "BFMTV_1782133411",
-      "source": "BFMTV",
-      "text": "IRAN: JD VANCE ASSURE QUE SON PAYS S'ASSURERA QU'UN ÉVENTUEL DÉBLOCAGE D'AVOIRS IRANIENS \"NE SERVIRAIT PAS À FINANCER LE TERRORISME\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:03",
-      "date": "22/06",
-      "timestamp": 1782133411
-    },
-    {
-      "id": "BFMTV_1782132393",
-      "source": "BFMTV",
-      "text": "COMPLÉMENTS DE SALAIRE, VACANCES EN FAMILLE ET PROSTITUÉES... L'ANCIEN BRAS DROIT DE PEDRO SÀNCHEZ CONDAMNÉ À 24 ANS DE PRISON POUR CORRUPTION",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:46",
-      "date": "22/06",
-      "timestamp": 1782132393
-    },
-    {
-      "id": "BFMTV_1782132377",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS AVEC L'IRAN: JD VANCE SALUE DES \"BASES TRÈS SOLIDES\" EN VUE D'UN ACCORD ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:46",
-      "date": "22/06",
-      "timestamp": 1782132377
     }
   ],
   "france": {
