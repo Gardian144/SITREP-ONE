@@ -1,7 +1,47 @@
 {
-  "last_update": "25/06 12:07",
+  "last_update": "25/06 15:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782400018",
+      "source": "BFMTV",
+      "text": "TROIS PERSONNE TUÉES DANS UNE FRAPPE DE DRONE ISRAÉLIEN AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:06",
+      "date": "25/06",
+      "timestamp": 1782400018
+    },
+    {
+      "id": "BFMTV_1782398767",
+      "source": "BFMTV",
+      "text": "ALLEMAGNE: UNE PISCINE EN INTERDITE AUX NON-GERMANOPHONES ",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:46",
+      "date": "25/06",
+      "timestamp": 1782398767
+    },
+    {
+      "id": "OPEX360_1782397038",
+      "source": "OPEX360",
+      "text": "LA FRANCE, LE ROYAUME-UNI ET L’ALLEMAGNE DÉNONCENT CONJOINTEMENT LES ACTIONS DE LA CHINE À L’EST DE TAÏWAN",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:17",
+      "date": "25/06",
+      "timestamp": 1782397038
+    },
+    {
+      "id": "BFMTV_1782391783",
+      "source": "BFMTV",
+      "text": "DOUBLE SÉISME: DONALD TRUMP EST PRÊT À VENIR EN AIDE AU VENEZUELA ",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:49",
+      "date": "25/06",
+      "timestamp": 1782391783
+    },
     {
       "id": "BFMTV_1782388654",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "22:03",
       "date": "22/06",
       "timestamp": 1782165800
-    },
-    {
-      "id": "BFMTV_1782164934",
-      "source": "BFMTV",
-      "text": "WASHINGTON SANCTIONNE UN FRANÇAIS SUSPECTÉ D'AVOIR EFFECTUÉ DES TRANSACTIONS FINANCIÈRES AVEC DAESH",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:48",
-      "date": "22/06",
-      "timestamp": 1782164934
-    },
-    {
-      "id": "BFMTV_1782164881",
-      "source": "BFMTV",
-      "text": "\"IL N'A PAS ÉTÉ BIEN AVEC NOUS\": DONALD TRUMP CRITIQUE KEIR STARMER, TOUT EN ESTIMANT QU'IL EST \"D'UNE CERTAINE MANIÈRE UN AMI\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:48",
-      "date": "22/06",
-      "timestamp": 1782164881
-    },
-    {
-      "id": "BFMTV_1782163353",
-      "source": "BFMTV",
-      "text": "\"ON SE DÉBROUILLE TRÈS BIEN AVEC LE DÉTROIT D'ORMUZ\", ESTIME DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:22",
-      "date": "22/06",
-      "timestamp": 1782163353
-    },
-    {
-      "id": "BFMTV_1782162463",
-      "source": "BFMTV",
-      "text": "\"AUJOURD'HUI, L'IRAN A DES MISSILES CAPABLES D'ATTEINDRE LE TERRITOIRE FRANÇAIS\", DÉCLARE FABIEN MANDON, CHEF D'ÉTAT-MAJOR DES ARMÉES",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:07",
-      "date": "22/06",
-      "timestamp": 1782162463
     }
   ],
   "france": {
