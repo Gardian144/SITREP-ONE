@@ -1,7 +1,57 @@
 {
-  "last_update": "26/06 11:22",
+  "last_update": "26/06 13:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782480220",
+      "source": "BFMTV",
+      "text": "NUCLÉAIRE: L'AIEA A \"À PEINE ENTAMÉ\" DES DISCUSSIONS AVEC L'IRAN SUR LE DEVENIR DU STOCK D'URANIUM",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:23",
+      "date": "26/06",
+      "timestamp": 1782480220
+    },
+    {
+      "id": "BFMTV_1782479200",
+      "source": "BFMTV",
+      "text": "L'AIEA PLAIDE POUR UNE VÉRIFICATION NUCLÉAIRE \"TRÈS POUSSÉE\" EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:06",
+      "date": "26/06",
+      "timestamp": 1782479200
+    },
+    {
+      "id": "BFMTV_1782478563",
+      "source": "BFMTV",
+      "text": "LE PAPE LÉON XIV APPELLE À \"RÉSOUDRE LES CONFLITS EN TANT QU’ÊTRES HUMAINS ET NON COMME DES BÊTES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:56",
+      "date": "26/06",
+      "timestamp": 1782478563
+    },
+    {
+      "id": "BFMTV_1782478477",
+      "source": "BFMTV",
+      "text": "UN SÉISME DE MAGNITUDE 6,7 ENREGISTRÉ AU LARGE DES PHILIPPINES MOINS DE TROIS SEMAINES APRÈS UN TREMBLEMENT DE TERRE MEURTRIER",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:54",
+      "date": "26/06",
+      "timestamp": 1782478477
+    },
+    {
+      "id": "BFMTV_1782477412",
+      "source": "BFMTV",
+      "text": "DOUBLE SÉISME AU VENEZUELA: LE BILAN GRIMPE À AU MOINS 589 MORTS, LES RECHERCHES CONTINUENT POUR RETROUVER DES SURVIVANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:36",
+      "date": "26/06",
+      "timestamp": 1782477412
+    },
     {
       "id": "BFMTV_1782471793",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "18:55",
       "date": "23/06",
       "timestamp": 1782240915
-    },
-    {
-      "id": "BFMTV_1782239701",
-      "source": "BFMTV",
-      "text": "LEVI’S, HEINZ: POURQUOI CES MARQUES DOIVENT-ELLES CACHER LEUR LOGO PENDANT LE MONDIAL 2026 ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:35",
-      "date": "23/06",
-      "timestamp": 1782239701
-    },
-    {
-      "id": "BFMTV_1782239208",
-      "source": "BFMTV",
-      "text": "LE SECRÉTAIRE D'ÉTAT AMÉRICAIN MARCO RUBIO RÉAFFIRME QUE WASHINGTON N'ACCEPTERA PAS DE PÉAGE OU FRAIS SUR LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:26",
-      "date": "23/06",
-      "timestamp": 1782239208
-    },
-    {
-      "id": "OPEX360_1782235897",
-      "source": "OPEX360",
-      "text": "ROME VOUDRAIT ACCUEILLIR BERLIN AU SEIN DU GCAP, LE PROJET D’AVION DE COMBAT MENÉ AVEC LONDRES ET TOKYO",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:31",
-      "date": "23/06",
-      "timestamp": 1782235897
-    },
-    {
-      "id": "OPEX360_1782232809",
-      "source": "OPEX360",
-      "text": "LEONARDO ET BAYKAR ASSOCIENT L’AVION D’ATTAQUE LÉGER M346 AU DRONE DE COMBAT COLLABORATIF KIZILELMA",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:40",
-      "date": "23/06",
-      "timestamp": 1782232809
-    },
-    {
-      "id": "BFMTV_1782225795",
-      "source": "BFMTV",
-      "text": "DEUX PORTE-AVIONS AMÉRICAINS SONT TOUJOURS DÉPLOYÉS AU MOYEN-ORIENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:43",
-      "date": "23/06",
-      "timestamp": 1782225795
     }
   ],
   "france": {
