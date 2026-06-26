@@ -1,7 +1,27 @@
 {
-  "last_update": "26/06 15:40",
+  "last_update": "26/06 17:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782490099",
+      "source": "BFMTV",
+      "text": "UNE \"VIOLATION STUPIDE\" DU CESSEZ-LE-FEU: DONALD TRUMP AFFIRME QUE L'IRAN A LANCÉ AU MOINS QUATRE DRONES CONTRE DES NAVIRES DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:08",
+      "date": "26/06",
+      "timestamp": 1782490099
+    },
+    {
+      "id": "OPEX360_1782490082",
+      "source": "OPEX360",
+      "text": "AIRBUS S’ASSOCIE AVEC KAWASAKI POUR ÉTUDIER UNE VERSION DE L’U950 EURODRONE DÉDIÉE À LA LUTTE ANTI-SOUS-MARINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:08",
+      "date": "26/06",
+      "timestamp": 1782490082
+    },
     {
       "id": "BFMTV_1782486600",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "05:14",
       "date": "24/06",
       "timestamp": 1782278052
-    },
-    {
-      "id": "BFMTV_1782277046",
-      "source": "BFMTV",
-      "text": "KIM JONG UN ANNONCE ÉQUIPER DES NAVIRES MILITAIRES NORD-CORÉENS D'ARMES NUCLÉAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:57",
-      "date": "24/06",
-      "timestamp": 1782277046
-    },
-    {
-      "id": "BFMTV_1782274825",
-      "source": "BFMTV",
-      "text": "LE CONGRÈS AMÉRICAIN ADOPTE UNE RÉSOLUTION POUR DEMANDER LE RETRAIT DES FORCES AMÉRICAINES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "04:20",
-      "date": "24/06",
-      "timestamp": 1782274825
     }
   ],
   "france": {
