@@ -1,7 +1,27 @@
 {
-  "last_update": "26/06 19:17",
+  "last_update": "26/06 21:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782505928",
+      "source": "BFMTV",
+      "text": "LE BURKINA FASO ANNONCE \"ROMPRE SES RELATIONS DIPLOMATIQUES\" AVEC LA FRANCE APRÈS DES ANNÉES DE FORTES TENSIONS",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:32",
+      "date": "26/06",
+      "timestamp": 1782505928
+    },
+    {
+      "id": "BFMTV_1782501814",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL, LE LIBAN ET LES ÉTATS-UNIS ONT SIGNÉ UN ACCORD-CADRE POUR OUVRIR LA VOIE À \"UNE PAIX ET UNE SÉCURITÉ DURABLES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:23",
+      "date": "26/06",
+      "timestamp": 1782501814
+    },
     {
       "id": "BFMTV_1782498129",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:53",
       "date": "24/06",
       "timestamp": 1782291185
-    },
-    {
-      "id": "BFMTV_1782290987",
-      "source": "BFMTV",
-      "text": "WASHINGTON N'ACCEPTERA PAS DE PÉAGE OU FRAIS SUR LE DÉTROIT D'ORMUZ, L'IRAN S'EN MOQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:49",
-      "date": "24/06",
-      "timestamp": 1782290987
-    },
-    {
-      "id": "BFMTV_1782290148",
-      "source": "BFMTV",
-      "text": "UN SOLDAT NORD-CORÉEN PLACÉ EN DÉTENTION APRÈS AVOIR FRANCHI LA FRONTIÈRE VERS LA CORÉE DU SUD",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:35",
-      "date": "24/06",
-      "timestamp": 1782290148
     }
   ],
   "france": {
