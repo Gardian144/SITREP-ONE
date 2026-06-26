@@ -1,7 +1,27 @@
 {
-  "last_update": "26/06 17:23",
+  "last_update": "26/06 19:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782498129",
+      "source": "BFMTV",
+      "text": "DOUBLE SÉISME AU VENEZUELA: LE BILAN GRIMPE À AU MOINS 920 MORTS, LES RECHERCHES CONTINUENT POUR RETROUVER DES SURVIVANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:22",
+      "date": "26/06",
+      "timestamp": 1782498129
+    },
+    {
+      "id": "OPEX360_1782495368",
+      "source": "OPEX360",
+      "text": "SAFRAN ENVISAGE DE PRENDRE LE CONTRÔLE DE LA PÉPITE FRANÇAISE EXAIL TECHNOLOGIES POUR PLUS DE 2 MILLIARDS D’EUROS",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:36",
+      "date": "26/06",
+      "timestamp": 1782495368
+    },
     {
       "id": "BFMTV_1782490099",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:35",
       "date": "24/06",
       "timestamp": 1782290148
-    },
-    {
-      "id": "BFMTV_1782289940",
-      "source": "BFMTV",
-      "text": "DANS LE SUD DU BRONX, LE FOOTBALL POUR SORTIR LES JEUNES DE LA PRÉCARITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:32",
-      "date": "24/06",
-      "timestamp": 1782289940
-    },
-    {
-      "id": "BFMTV_1782278052",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP FUSTIGE UNE RÉSOLUTION SYMBOLIQUE DU CONGRÈS ORDONNANT LE RETRAIT DES FORCES AMÉRICAINES DANS LA GUERRE CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:14",
-      "date": "24/06",
-      "timestamp": 1782278052
     }
   ],
   "france": {
