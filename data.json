@@ -1,7 +1,47 @@
 {
-  "last_update": "26/06 04:39",
+  "last_update": "26/06 08:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782459894",
+      "source": "BFMTV",
+      "text": "LE FRANÇAIS QUI RISQUE LA PRISON À SINGAPOUR POUR AVOIR LÉCHÉ UNE PAILLE AVANT DE LA REMETTRE DANS UN DISTRIBUTEUR DE BOISSONS DIRA EN JUILLET S'IL PLAIDE COUPABLE",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:44",
+      "date": "26/06",
+      "timestamp": 1782459894
+    },
+    {
+      "id": "BFMTV_1782458284",
+      "source": "BFMTV",
+      "text": "DOUBLE SÉISME AU VENEZUELA: LE BILAN GRIMPE À AU MOINS 235 MORTS, LES RECHERCHES CONTINUENT POUR RETROUVER DES SURVIVANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:18",
+      "date": "26/06",
+      "timestamp": 1782458284
+    },
+    {
+      "id": "BFMTV_1782451379",
+      "source": "BFMTV",
+      "text": "APRÈS LES DEUX PUISSANTS SÉISMES AU VENEZUELA, LE BILAN PROVISOIRE S'ALOURDIT À AU MOINS 235 MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:22",
+      "date": "26/06",
+      "timestamp": 1782451379
+    },
+    {
+      "id": "BFMTV_1782448924",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PLAN D'ÉVACUATION DU DÉTROIT D'ORMUZ SUSPENDU APRÈS L'ATTAQUE D'UN NAVIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "26/06",
+      "timestamp": 1782448924
+    },
     {
       "id": "BFMTV_1782448046",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "09:46",
       "date": "23/06",
       "timestamp": 1782207974
-    },
-    {
-      "id": "BFMTV_1782207119",
-      "source": "BFMTV",
-      "text": "LE MEXIQUE SAISIT 24.400 LITRES DE MÉTHAMPHÉTAMINE ET DEUX TONNES DE COCAÏNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:31",
-      "date": "23/06",
-      "timestamp": 1782207119
-    },
-    {
-      "id": "BFMTV_1782207036",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:30",
-      "date": "23/06",
-      "timestamp": 1782207036
-    },
-    {
-      "id": "BFMTV_1782205510",
-      "source": "BFMTV",
-      "text": "COÛT CLIMATIQUE DE L'IA: LE CHEF DE L'ONU, ANTÓNIO GUTERRES INCITE LES PATRONS À DIRE \"TOUTE LA VÉRITÉ\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:05",
-      "date": "23/06",
-      "timestamp": 1782205510
-    },
-    {
-      "id": "BFMTV_1782204875",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: LE CESSEZ-LE-FEU EST-IL RESPECTÉ DANS LE SUD DU LIBAN? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:54",
-      "date": "23/06",
-      "timestamp": 1782204875
     }
   ],
   "france": {
