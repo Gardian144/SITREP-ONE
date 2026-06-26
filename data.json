@@ -1,7 +1,97 @@
 {
-  "last_update": "26/06 08:19",
+  "last_update": "26/06 11:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782471793",
+      "source": "BFMTV",
+      "text": "PLUS DE 50°C ET DES BÉBÉS QUI S'ÉVANOUISSENT... CES PASSAGERS D'UN AVION BLOQUÉ PENDANT PLUS D'UNE HEURE SUR UNE PISTE À FRANCFORT EN ALLEMAGNE ONT VÉCU UN VRAI CAUCHEMAR",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:03",
+      "date": "26/06",
+      "timestamp": 1782471793
+    },
+    {
+      "id": "BFMTV_1782471397",
+      "source": "BFMTV",
+      "text": "\"L'ÉTAT PROFOND A FAIT TOMBER RICHARD NIXON\": JD VANCE ESTIME QUE \"SI LE WATERGATE AVAIT LIEU DEMAIN, ON EN PARLERAIT À PEINE UNE DEMI-JOURNÉE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:56",
+      "date": "26/06",
+      "timestamp": 1782471397
+    },
+    {
+      "id": "BFMTV_1782470576",
+      "source": "BFMTV",
+      "text": "ANGLETERRE: LE CONDUCTEUR D'UN VAN EMBARQUE UN POLICIER ARMÉ À BORD POUR POURSUIVRE UN SUSPECT",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:42",
+      "date": "26/06",
+      "timestamp": 1782470576
+    },
+    {
+      "id": "OPEX360_1782469805",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES A ÉMIS UN APPEL D’OFFRES POUR SE PROCURER DEUX MILLIONS DE CARTOUCHES DE CALIBRE 12,7 MM",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:30",
+      "date": "26/06",
+      "timestamp": 1782469805
+    },
+    {
+      "id": "BFMTV_1782468321",
+      "source": "BFMTV",
+      "text": "AVANT/APRÈS. VENEZUELA: DES IMAGES SATELLITES MONTRENT L'AMPLEUR DES DÉGÂTS CAUSÉS PAR LE DOUBLE SÉISME MEURTRIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:05",
+      "date": "26/06",
+      "timestamp": 1782468321
+    },
+    {
+      "id": "BFMTV_1782468029",
+      "source": "BFMTV",
+      "text": "UNE EX-PREMIÈRE DAME DE CORÉE DU SUD CONDAMNÉE À SEPT ANS DE PRISON POUR CORRUPTION",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:00",
+      "date": "26/06",
+      "timestamp": 1782468029
+    },
+    {
+      "id": "BFMTV_1782463181",
+      "source": "BFMTV",
+      "text": "MONDIAL 2026: UNE VOITURE FONCE DANS UNE FOULE DE SUPPORTERS AU MEXIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:39",
+      "date": "26/06",
+      "timestamp": 1782463181
+    },
+    {
+      "id": "BFMTV_1782461988",
+      "source": "BFMTV",
+      "text": "ATTENTAT SUR UN MARCHÉ DE NOËL EN ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:19",
+      "date": "26/06",
+      "timestamp": 1782461988
+    },
+    {
+      "id": "BFMTV_1782461987",
+      "source": "BFMTV",
+      "text": "ATTENTAT DE MAGDEBOURG EN ALLEMAGNE: L'AUTEUR DE L'ATTAQUE À LA VOITURE-BÉLIER QUI AVAIT FAIT SIX MORTS CONDAMNÉ À LA PERPÉTUITÉ",
+      "urgent": true,
+      "france_related": true,
+      "time": "08:19",
+      "date": "26/06",
+      "timestamp": 1782461987
+    },
     {
       "id": "BFMTV_1782459894",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "14:43",
       "date": "23/06",
       "timestamp": 1782225795
-    },
-    {
-      "id": "OPEX360_1782225157",
-      "source": "OPEX360",
-      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT S’INTÉRESSE AU DRONE TACTIQUE D’AÉROCOMBAT S301, DÉVELOPPÉ PAR SCHIEBEL ET THALES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:32",
-      "date": "23/06",
-      "timestamp": 1782225157
-    },
-    {
-      "id": "BFMTV_1782222107",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"VOUS AVEZ CE QU'ON APPELLE LE NOUVEL ORDRE IRANIEN AU MOYEN-ORIENT\", AFFIRME ADEL BAKAWAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:41",
-      "date": "23/06",
-      "timestamp": 1782222107
-    },
-    {
-      "id": "BFMTV_1782218884",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: LA TÉLÉVISION D'ÉTAT IRANIENNE CONFIRME QU'OMAN A ACCEPTÉ DE PRÉLEVER DES REDEVANCES DE SERVICES DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:48",
-      "date": "23/06",
-      "timestamp": 1782218884
-    },
-    {
-      "id": "BFMTV_1782218753",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: 36 NAVIRES ONT FRANCHI LE DÉTROIT D'ORMUZ LUNDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:45",
-      "date": "23/06",
-      "timestamp": 1782218753
-    },
-    {
-      "id": "BFMTV_1782218172",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: UNE ENQUÊTE OUVERTE POUR AGRESSIONS SEXUELLES DANS UNE PISCINE D'EUROPA-PARK",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:36",
-      "date": "23/06",
-      "timestamp": 1782218172
-    },
-    {
-      "id": "BFMTV_1782209960",
-      "source": "BFMTV",
-      "text": "L'IRAN A-T-IL LA CAPACITÉ DE FRAPPER LA FRANCE COMME LE DÉCLARE FABIEN MANDON, CHEF D'ÉTAT-MAJOR DES ARMÉES?",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:19",
-      "date": "23/06",
-      "timestamp": 1782209960
-    },
-    {
-      "id": "OPEX360_1782208883",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES COMMANDE 5 000 DRONES DELCO SUPPLÉMENTAIRES AUPRÈS DU FRANÇAIS HARMATTAN AI",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:01",
-      "date": "23/06",
-      "timestamp": 1782208883
-    },
-    {
-      "id": "BFMTV_1782208312",
-      "source": "BFMTV",
-      "text": "LA RUSSIE DIT VOIR L'EUROPE REDEVENIR LA \"PRINCIPALE MENACE POUR LA SÉCURITÉ MONDIALE\" EN RAISON DE SON SOUTIEN MILITAIRE À L'UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:51",
-      "date": "23/06",
-      "timestamp": 1782208312
-    },
-    {
-      "id": "BFMTV_1782207974",
-      "source": "BFMTV",
-      "text": "AMNESTY INTERNATIONAL DÉNONCE LA COOPÉRATION ENTRE L'UE ET LA LIBYE SUR LA QUESTION MIGRATOIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:46",
-      "date": "23/06",
-      "timestamp": 1782207974
     }
   ],
   "france": {
