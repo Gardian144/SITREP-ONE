@@ -1,7 +1,27 @@
 {
-  "last_update": "27/06 11:10",
+  "last_update": "27/06 12:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782559902",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: REGAIN DE TENSIONS DANS LE DÉTROIT D'ORMUZ, L'ACCORD DE PAIX FRAGILISÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:31",
+      "date": "27/06",
+      "timestamp": 1782559902
+    },
+    {
+      "id": "OPEX360_1782559297",
+      "source": "OPEX360",
+      "text": "RHEINMETALL ENVISAGE DE PRODUIRE LA NOUVELLE MUNITION D’ARTILLERIE VEKTREX, CONÇUE PAR L’AMÉRICAIN GENERAL ATOMICS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:21",
+      "date": "27/06",
+      "timestamp": 1782559297
+    },
     {
       "id": "BFMTV_1782557460",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:33",
       "date": "24/06",
       "timestamp": 1782315200
-    },
-    {
-      "id": "BFMTV_1782313941",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN CAMION TRANSPORTANT DEUX MILLIONS D’ABEILLES SE RENVERSE SUR UNE ROUTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:12",
-      "date": "24/06",
-      "timestamp": 1782313941
-    },
-    {
-      "id": "BFMTV_1782313461",
-      "source": "BFMTV",
-      "text": "UN JUGE FÉDÉRAL AMÉRICAIN INTERDIT AUX AGENTS DE L'ICE DE PROCÉDER À DES ARRESTATIONS AU SEIN DES TRIBUNAUX D'IMMIGRATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:04",
-      "date": "24/06",
-      "timestamp": 1782313461
     }
   ],
   "france": {
