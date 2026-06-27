@@ -1,7 +1,37 @@
 {
-  "last_update": "27/06 06:41",
+  "last_update": "27/06 09:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782548106",
+      "source": "BFMTV",
+      "text": "\"L'EFFONDREMENT EST TOTAL\": APRÈS LE DOUBLE SÉISME MEURTRIER AU VENEZUELA, LA QUÊTE DE SURVIVANTS SE POURSUIT AVEC L'AIDE INTERNATIONALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:15",
+      "date": "27/06",
+      "timestamp": 1782548106
+    },
+    {
+      "id": "BFMTV_1782545270",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉNONCE UNE \"VIOLATION FLAGRANTE\" DE L'ACCORD APRÈS DES FRAPPES AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:27",
+      "date": "27/06",
+      "timestamp": 1782545270
+    },
+    {
+      "id": "BFMTV_1782543892",
+      "source": "BFMTV",
+      "text": "\"IL NIE LES ACCUSATIONS\": UN AUSTRALIEN ARRÊTÉ EN THAÏLANDE APRÈS LA DÉCOUVERTE DU CORPS D'UNE ADOLESCENTE DE 17 ANS DANS UNE VALISE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:04",
+      "date": "27/06",
+      "timestamp": 1782543892
+    },
     {
       "id": "BFMTV_1782538463",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "13:24",
       "date": "24/06",
       "timestamp": 1782307455
-    },
-    {
-      "id": "BFMTV_1782305031",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORUMZ: \"AUCUN FRAIS\" NE SERA PERÇU PAR L'IRAN, ASSURE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:43",
-      "date": "24/06",
-      "timestamp": 1782305031
-    },
-    {
-      "id": "BFMTV_1782304584",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LES 11.000 MARINS SONT EN TRAIN D'ÊTRE ÉVACUÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:36",
-      "date": "24/06",
-      "timestamp": 1782304584
-    },
-    {
-      "id": "BFMTV_1782303689",
-      "source": "BFMTV",
-      "text": "\"JE N'AI JAMAIS TOLÉRÉ AUCUNE DE CES PRATIQUES\": LE PREMIER MINISTRE ESPAGNOL PEDRO SÁNCHEZ DÉMENT TOUTE \"CORRUPTION GÉNÉRALISÉE\" AUTOUR DE LUI",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:21",
-      "date": "24/06",
-      "timestamp": 1782303689
     }
   ],
   "france": {
