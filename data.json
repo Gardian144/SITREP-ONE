@@ -1,7 +1,27 @@
 {
-  "last_update": "27/06 15:39",
+  "last_update": "27/06 16:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782578250",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE A REÇU L'ORDRE DE SE PRÉPARER À UN \"SÉJOUR PROLONGÉ\" AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:37",
+      "date": "27/06",
+      "timestamp": 1782578250
+    },
+    {
+      "id": "BFMTV_1782575156",
+      "source": "BFMTV",
+      "text": "VENEZUELA: UN NOUVEAU-NÉ RETROUVÉ VIVANT DANS LES DÉCOMBRES APRÈS LES SÉISMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:45",
+      "date": "27/06",
+      "timestamp": 1782575156
+    },
     {
       "id": "BFMTV_1782571855",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "04:48",
       "date": "25/06",
       "timestamp": 1782362916
-    },
-    {
-      "id": "BFMTV_1782361352",
-      "source": "BFMTV",
-      "text": "ORMUZ: 11.000 MARINS, BLOQUÉS DEPUIS TROIS MOIS DANS LE DÉTROIT, EN COURS D'ÉVACUATION ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:22",
-      "date": "25/06",
-      "timestamp": 1782361352
-    },
-    {
-      "id": "BFMTV_1782334807",
-      "source": "BFMTV",
-      "text": "\"ON NOUS A LAISSÉS TOMBER\": DEVANT LE CHEF DE L'OTAN, DONALD TRUMP SE DIT \"DÉÇU\" PAR LES PAYS ALLIÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:00",
-      "date": "24/06",
-      "timestamp": 1782334807
     }
   ],
   "france": {
