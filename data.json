@@ -1,7 +1,47 @@
 {
-  "last_update": "27/06 14:12",
+  "last_update": "27/06 15:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782571855",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN INDIQUE AVOIR ATTAQUÉ DES POSITIONS AMÉRICAINES APRÈS DES FRAPPES SUR SON TERRITOIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:50",
+      "date": "27/06",
+      "timestamp": 1782571855
+    },
+    {
+      "id": "BFMTV_1782571233",
+      "source": "BFMTV",
+      "text": "MONDIAL: UNE FEMME RETROUVE SA CHIENNE GRÂCE À UNE VIDÉO DES CÉLÉBRATIONS DE LA VICTOIRE DU MEXIQUE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:40",
+      "date": "27/06",
+      "timestamp": 1782571233
+    },
+    {
+      "id": "BFMTV_1782571158",
+      "source": "BFMTV",
+      "text": "\"JE LUI DIRAI COMMENT TU L'AS SAUVÉE\": UN VÉNÉZUÉLIEN REND HOMMAGE À SA FEMME MORTE EN PROTÉGEANT LEUR BÉBÉ DANS LE DOUBLE SÉISME QUI A TOUCHÉ LE PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:39",
+      "date": "27/06",
+      "timestamp": 1782571158
+    },
+    {
+      "id": "BFMTV_1782571100",
+      "source": "BFMTV",
+      "text": "15.000 RESSORTISSANTS MALAWITES ONT QUITTÉ L’AFRIQUE DU SUD AVANT DES MANIFESTATIONS ANTI-IMMIGRÉS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:38",
+      "date": "27/06",
+      "timestamp": 1782571100
+    },
     {
       "id": "OPEX360_1782568353",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "21:00",
       "date": "24/06",
       "timestamp": 1782334807
-    },
-    {
-      "id": "BFMTV_1782333616",
-      "source": "BFMTV",
-      "text": "\"C'EST UNE QUESTION DE SÉCURITÉ, DE SÛRETÉ\": LE CHEF DE L'OTAN SOUTIENT DONALD TRUMP DANS L'ACTION MILITAIRE MENÉE CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:40",
-      "date": "24/06",
-      "timestamp": 1782333616
-    },
-    {
-      "id": "BFMTV_1782329134",
-      "source": "BFMTV",
-      "text": "\"JE SUIS FIER DU TRAVAIL ACCOMPLI\": KEIR STARMER SATISFAIT DES RELATIONS AVEC LES ALLIÉS EUROPÉENS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:25",
-      "date": "24/06",
-      "timestamp": 1782329134
-    },
-    {
-      "id": "BFMTV_1782326818",
-      "source": "BFMTV",
-      "text": "\"NOUS ALLONS ÊTRE COMPLÈTEMENT ALIGNÉS\": MARCO RUBIO RASSURE LES ETATS DU GOLFE APRÈS L'ACCORD IRAN-USA",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:46",
-      "date": "24/06",
-      "timestamp": 1782326818
-    },
-    {
-      "id": "BFMTV_1782326375",
-      "source": "BFMTV",
-      "text": "ACCORD USA-IRAN: \"NOUS LE SOUTENONS ET C'EST IMPORTANT\", DIT EMMANUEL MACRON",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:39",
-      "date": "24/06",
-      "timestamp": 1782326375
     }
   ],
   "france": {
