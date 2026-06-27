@@ -1,7 +1,77 @@
 {
-  "last_update": "27/06 16:46",
+  "last_update": "27/06 18:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782582460",
+      "source": "BFMTV",
+      "text": "LE BILAN DU DOUBLE SÉISME AU VENEZUELA MONTE À 1.430 MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:47",
+      "date": "27/06",
+      "timestamp": 1782582460
+    },
+    {
+      "id": "BFMTV_1782582123",
+      "source": "BFMTV",
+      "text": "MISSILE FLAMINGO: L'ATOUT UKRAINIEN FACE À LA RUSSIE APRÈS QUATRE ANS DE GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:42",
+      "date": "27/06",
+      "timestamp": 1782582123
+    },
+    {
+      "id": "BFMTV_1782581382",
+      "source": "BFMTV",
+      "text": "L'UKRAINE A DÉCLENCHÉ SA PLUS IMPORTANTE ATTAQUE DE DRONES JAMAIS ENREGISTRÉE CONTRE LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:29",
+      "date": "27/06",
+      "timestamp": 1782581382
+    },
+    {
+      "id": "BFMTV_1782580192",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: L'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN EST-IL MENACÉ ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:09",
+      "date": "27/06",
+      "timestamp": 1782580192
+    },
+    {
+      "id": "BFMTV_1782579874",
+      "source": "BFMTV",
+      "text": "LIBAN/ISRAËL: DES MANIFESTATIONS SONT EN COURS À TEL AVIV EN ISRAËL CONTRE BENJAMIN NETANYAHU",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:04",
+      "date": "27/06",
+      "timestamp": 1782579874
+    },
+    {
+      "id": "BFMTV_1782579632",
+      "source": "BFMTV",
+      "text": "ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN MENACÉ ?: SUR X, LE VICE-PRÉSIDENT AMÉRICAIN ASSURE \"QUE LA VIOLENCE SERA ACCUEILLIE PAR LA VIOLENCE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:00",
+      "date": "27/06",
+      "timestamp": 1782579632
+    },
+    {
+      "id": "BFMTV_1782579183",
+      "source": "BFMTV",
+      "text": "L'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN EST-IL MENACÉ ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:53",
+      "date": "27/06",
+      "timestamp": 1782579183
+    },
     {
       "id": "BFMTV_1782578250",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "07:49",
       "date": "25/06",
       "timestamp": 1782373746
-    },
-    {
-      "id": "BFMTV_1782371992",
-      "source": "BFMTV",
-      "text": "\"IL TIENT BON\": DONALD TRUMP JUGE QUE VOLODYMYR ZELENSKY \"S'EN SORT PLUTÔT BIEN\" DANS LA GUERRE CONTRE LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:19",
-      "date": "25/06",
-      "timestamp": 1782371992
-    },
-    {
-      "id": "BFMTV_1782370437",
-      "source": "BFMTV",
-      "text": "VENEZUELA: LES ÉTATS-UNIS VONT \"IMMÉDIATEMENT\" DÉPLOYER DES SECOURISTES (MARCO RUBIO)",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:53",
-      "date": "25/06",
-      "timestamp": 1782370437
-    },
-    {
-      "id": "BFMTV_1782369591",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL - HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:39",
-      "date": "25/06",
-      "timestamp": 1782369591
-    },
-    {
-      "id": "BFMTV_1782369591",
-      "source": "BFMTV",
-      "text": "L'ARMÉE ISRAÉLIENNE ANNONCE LA MORT D'UN SOLDAT LORS D'UNE \"ACTIVITÉ OPÉRATIONELLE\" DANS LE SUD DU LIBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:39",
-      "date": "25/06",
-      "timestamp": 1782369591
-    },
-    {
-      "id": "BFMTV_1782368585",
-      "source": "BFMTV",
-      "text": "SÉISMES AU VENEZUELA: AU MOINS 32 MORTS ET 700 BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:23",
-      "date": "25/06",
-      "timestamp": 1782368585
-    },
-    {
-      "id": "BFMTV_1782363886",
-      "source": "BFMTV",
-      "text": "SCÈNES DE PANIQUE ET IMPORTANTS DÉGÂTS APRÈS UN DOUBLE SÉISME AU VENEZUELA, AU MOINS 32 MORTS ET 700 BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:04",
-      "date": "25/06",
-      "timestamp": 1782363886
-    },
-    {
-      "id": "BFMTV_1782362916",
-      "source": "BFMTV",
-      "text": "\"UNE GUERRE D'AGRESSION ILLÉGALE\": L'IRAN ACCUSE L'OTAN DE \"COMPLICITÉ ACTIVE\" DANS LES OPÉRATIONS MENÉES CONTRE LUI PAR LES ÉTATS-UNIS ET ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:48",
-      "date": "25/06",
-      "timestamp": 1782362916
     }
   ],
   "france": {
