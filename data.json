@@ -1,7 +1,17 @@
 {
-  "last_update": "27/06 21:45",
+  "last_update": "27/06 23:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782597751",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE A REÇU L'ORDRE DE SE PRÉPARER À UN \"SÉJOUR PROLONGÉ\" AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:02",
+      "date": "27/06",
+      "timestamp": 1782597751
+    },
     {
       "id": "BFMTV_1782596437",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:02",
       "date": "25/06",
       "timestamp": 1782378147
-    },
-    {
-      "id": "BFMTV_1782374289",
-      "source": "BFMTV",
-      "text": "DEUX PUISSANTS SÉISMES DE MAGNITUDE 7,2 ET 7,5 ONT SECOUÉ LE VENEZUELA",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:58",
-      "date": "25/06",
-      "timestamp": 1782374289
     }
   ],
   "france": {
