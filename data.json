@@ -1,7 +1,67 @@
 {
-  "last_update": "27/06 03:23",
+  "last_update": "27/06 06:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782538463",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT:  LES GARDIENS IRANIENS DE LA RÉVOLUTION DISENT AVOIR AVOIR FRAPPÉ DES POSITIONS MILITAIRES AMÉRICAINES DANS LE GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:34",
+      "date": "27/06",
+      "timestamp": 1782538463
+    },
+    {
+      "id": "BFMTV_1782538154",
+      "source": "BFMTV",
+      "text": "\"BIENVENUE, MAIS SOYEZ SAGES\": DONALD TRUMP DÉVOILE UN NOUVEAU PASSEPORT AMÉRICAIN, ÉDITÉ AVEC SA PHOTO, POUR LES 250 ANS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:29",
+      "date": "27/06",
+      "timestamp": 1782538154
+    },
+    {
+      "id": "BFMTV_1782536704",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LOS ANGELES EN ÉTAT D'URGENCE POUR L'INCENDIE D'UN ENTREPÔT DE PRODUITS SURGELÉS DE PLUS DE 46.000 M²",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:05",
+      "date": "27/06",
+      "timestamp": 1782536704
+    },
+    {
+      "id": "BFMTV_1782536234",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS IRANIENS DE LA RÉVOLUTION DISENT AVOIR AVOIR FRAPPÉ DES POSITIONS MILITAIRES AMÉRICAINES DANS LA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:57",
+      "date": "27/06",
+      "timestamp": 1782536234
+    },
+    {
+      "id": "BFMTV_1782535494",
+      "source": "BFMTV",
+      "text": "SÉISMES AU VENEZUELA: L'AIDE S'ORGANISE EN QUÊTE DE SURVIVANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:44",
+      "date": "27/06",
+      "timestamp": 1782535494
+    },
+    {
+      "id": "BFMTV_1782534009",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS ONT FRAPPÉ DES CIBLES EN IRAN EN RÉPONSE À L'ATTAQUE D'UN NAVIRE DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:20",
+      "date": "27/06",
+      "timestamp": 1782534009
+    },
     {
       "id": "BFMTV_1782509675",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "12:21",
       "date": "24/06",
       "timestamp": 1782303689
-    },
-    {
-      "id": "BFMTV_1782300734",
-      "source": "BFMTV",
-      "text": "CANICULE: À LONDRES, LA TEMPÉRATURE POURRAIT ATTEINDRE LES 40°C",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:32",
-      "date": "24/06",
-      "timestamp": 1782300734
-    },
-    {
-      "id": "BFMTV_1782299445",
-      "source": "BFMTV",
-      "text": "ENLEVÉE DEPUIS CINQ MOIS, LA MÈRE DE SAVANNAH GUTHRIE, ANIMATRICE STAR AMÉRICAINE, SERAIT MORTE D'APRÈS SES RAVISSEURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:10",
-      "date": "24/06",
-      "timestamp": 1782299445
-    },
-    {
-      "id": "OPEX360_1782298102",
-      "source": "OPEX360",
-      "text": "LA POLOGNE NÉGOCIE L’ACHAT D’AVIONS RAVITAILLEURS A330 MRTT AVEC L’ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:48",
-      "date": "24/06",
-      "timestamp": 1782298102
-    },
-    {
-      "id": "BFMTV_1782297040",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: 11 000 MARINS DOIVENT ÊTRE ÉVACUÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:30",
-      "date": "24/06",
-      "timestamp": 1782297040
-    },
-    {
-      "id": "BFMTV_1782295433",
-      "source": "BFMTV",
-      "text": "AU MOINS TROIS MORTS DANS DES FRAPPES DE DRONES UKRAINIENS EN RUSSIE, LA VILLE DE SÉBASTOPOL PRIVÉE D'ÉLECTRICITÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:03",
-      "date": "24/06",
-      "timestamp": 1782295433
-    },
-    {
-      "id": "BFMTV_1782292258",
-      "source": "BFMTV",
-      "text": "DANS LE SUD DU BRONX, LE FOOTBALL POUR SORTIR LES JEUNES DE LA PRÉCARITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:10",
-      "date": "24/06",
-      "timestamp": 1782292258
     }
   ],
   "france": {
