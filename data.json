@@ -1,7 +1,37 @@
 {
-  "last_update": "28/06 21:00",
+  "last_update": "28/06 22:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782683285",
+      "source": "BFMTV",
+      "text": "\"ON FAIT LA QUEUE PENDANT 1H30\": SUITE AUX FRAPPES UKRAINIENNES EN RUSSIE, LE PAYS FAIT FACE À UNE PÉNURIE DE CARBURANT",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:48",
+      "date": "28/06",
+      "timestamp": 1782683285
+    },
+    {
+      "id": "BFMTV_1782683139",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN PRÉVIENT QUE TOUTE INGÉRENCE DANS SA GESTION DU DÉTROIT D'ORMUZ RISQUE \"D'ACCROÎTRE LES TENSIONS\" DANS LA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:45",
+      "date": "28/06",
+      "timestamp": 1782683139
+    },
+    {
+      "id": "BFMTV_1782682687",
+      "source": "BFMTV",
+      "text": "LE \"FLAMINGO\": UN MISSILE TRÈS AVANTAGEUX POUR L'UKRAINE FACE À LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:38",
+      "date": "28/06",
+      "timestamp": 1782682687
+    },
     {
       "id": "BFMTV_1782679437",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "05:22",
       "date": "26/06",
       "timestamp": 1782451379
-    },
-    {
-      "id": "BFMTV_1782448924",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PLAN D'ÉVACUATION DU DÉTROIT D'ORMUZ SUSPENDU APRÈS L'ATTAQUE D'UN NAVIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:42",
-      "date": "26/06",
-      "timestamp": 1782448924
-    },
-    {
-      "id": "BFMTV_1782448046",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: MARCO RUBIO, CHEF DE LA DIPLOMATIE DES ÉTATS-UNIS, PEINE À RASSURER LES PAYS DU GOLFE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:27",
-      "date": "26/06",
-      "timestamp": 1782448046
-    },
-    {
-      "id": "BFMTV_1782419913",
-      "source": "BFMTV",
-      "text": "AU MOINS 188 MORTS ET 1.500 BLESSÉS, DÉGÂTS CONSIDÉRABLES... CE QUE L'ON SAIT DU PUISSANT DOUBLE SÉISME AU VENEZUELA",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:38",
-      "date": "25/06",
-      "timestamp": 1782419913
     }
   ],
   "france": {
