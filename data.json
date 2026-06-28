@@ -1,7 +1,37 @@
 {
-  "last_update": "28/06 08:20",
+  "last_update": "28/06 10:39",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1782641934",
+      "source": "OPEX360",
+      "text": "À NOUVEAU, LA ROYAL NAVY NE PEUT ENVOYER AUCUN DE SES SOUS-MARINS NUCLÉAIRES D’ATTAQUE EN MISSION",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:18",
+      "date": "28/06",
+      "timestamp": 1782641934
+    },
+    {
+      "id": "BFMTV_1782641712",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN PRÉVIENT QUE TOUTE INGÉRENCE DANS SA GESTION DU DÉTROIT D'ORMUZ RISQUE \"D'ACCROÎTRE LES TENSIONS\" DANS LA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:15",
+      "date": "28/06",
+      "timestamp": 1782641712
+    },
+    {
+      "id": "BFMTV_1782641194",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV REVENDIQUE DES ATTAQUES \"MASSIVES\" DE MISSILES EN RUSSIE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:06",
+      "date": "28/06",
+      "timestamp": 1782641194
+    },
     {
       "id": "BFMTV_1782632625",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "11:57",
       "date": "25/06",
       "timestamp": 1782388654
-    },
-    {
-      "id": "BFMTV_1782388653",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS NE VEULENT PAS D'UN ACCORD AVEC L'IRAN \"À N'IMPORTE QUEL PRIX\", SELON MARCO RUBIO",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:57",
-      "date": "25/06",
-      "timestamp": 1782388653
-    },
-    {
-      "id": "BFMTV_1782388024",
-      "source": "BFMTV",
-      "text": "SÉISMES AU VENEZUELA: EMMANUEL MACRON PROPOSE L'ASSISTANCE DE LA FRANCE QUI VA DÉPLOYER 85 SECOURISTES SUR PLACE",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:47",
-      "date": "25/06",
-      "timestamp": 1782388024
-    },
-    {
-      "id": "BFMTV_1782386354",
-      "source": "BFMTV",
-      "text": "\"NE PAS AVOIR À CHOISIR ENTRE ÊTRE UNE MÈRE ET UNE MINISTRE\": UNE MINISTRE SUÉDOISE ASSISTE AVEC SON BÉBÉ À UNE RÉUNION EUROPÉENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:19",
-      "date": "25/06",
-      "timestamp": 1782386354
     }
   ],
   "france": {
