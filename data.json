@@ -1,7 +1,57 @@
 {
-  "last_update": "28/06 12:08",
+  "last_update": "28/06 14:15",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782654433",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:47",
+      "date": "28/06",
+      "timestamp": 1782654433
+    },
+    {
+      "id": "BFMTV_1782654433",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:47",
+      "date": "28/06",
+      "timestamp": 1782654433
+    },
+    {
+      "id": "BFMTV_1782654433",
+      "source": "BFMTV",
+      "text": "\"NOUS VOYONS LES PROBLÈMES ET NOUS Y RÉPONDONS\": VLADIMIR POUTINE PROMET DE \"RELEVER LES DÉFIS\" ET D'\"ASSURER\" LA SÉCURITÉ DE LA RUSSIE FACE AUX FRAPPES UKRAINIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:47",
+      "date": "28/06",
+      "timestamp": 1782654433
+    },
+    {
+      "id": "BFMTV_1782654433",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:47",
+      "date": "28/06",
+      "timestamp": 1782654433
+    },
+    {
+      "id": "BFMTV_1782650224",
+      "source": "BFMTV",
+      "text": "CE QUI SE CACHE RÉELLEMENT DERRIÈRE LE PROJET POLITIQUE DU FONDATEUR DE PALANTIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:37",
+      "date": "28/06",
+      "timestamp": 1782650224
+    },
     {
       "id": "OPEX360_1782645614",
       "source": "OPEX360",
@@ -71,6 +121,16 @@
       "time": "05:30",
       "date": "28/06",
       "timestamp": 1782624634
+    },
+    {
+      "id": "BFMTV_1782623431",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:10",
+      "date": "28/06",
+      "timestamp": 1782623431
     },
     {
       "id": "BFMTV_1782622540",
@@ -941,66 +1001,6 @@
       "time": "15:41",
       "date": "25/06",
       "timestamp": 1782402108
-    },
-    {
-      "id": "BFMTV_1782401388",
-      "source": "BFMTV",
-      "text": "CRANS-MONTANA: AGATA, SURVIVANTE DE L'INCENDIE, REÇOIT LE PRIX DU COURAGE DANS SON ÉCOLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:29",
-      "date": "25/06",
-      "timestamp": 1782401388
-    },
-    {
-      "id": "OPEX360_1782400830",
-      "source": "OPEX360",
-      "text": "LA MARINE NATIONALE A REÇU LE SOUS-MARIN NUCLÉAIRE D’ATTAQUE DE GRASSE, LE QUATRIÈME DE LA CLASSE SUFFREN",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:20",
-      "date": "25/06",
-      "timestamp": 1782400830
-    },
-    {
-      "id": "BFMTV_1782400018",
-      "source": "BFMTV",
-      "text": "TROIS PERSONNE TUÉES DANS UNE FRAPPE DE DRONE ISRAÉLIEN AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:06",
-      "date": "25/06",
-      "timestamp": 1782400018
-    },
-    {
-      "id": "BFMTV_1782398767",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: UNE PISCINE EN INTERDITE AUX NON-GERMANOPHONES ",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:46",
-      "date": "25/06",
-      "timestamp": 1782398767
-    },
-    {
-      "id": "OPEX360_1782397038",
-      "source": "OPEX360",
-      "text": "LA FRANCE, LE ROYAUME-UNI ET L’ALLEMAGNE DÉNONCENT CONJOINTEMENT LES ACTIONS DE LA CHINE À L’EST DE TAÏWAN",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:17",
-      "date": "25/06",
-      "timestamp": 1782397038
-    },
-    {
-      "id": "BFMTV_1782391783",
-      "source": "BFMTV",
-      "text": "DOUBLE SÉISME: DONALD TRUMP EST PRÊT À VENIR EN AIDE AU VENEZUELA ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:49",
-      "date": "25/06",
-      "timestamp": 1782391783
     }
   ],
   "france": {
