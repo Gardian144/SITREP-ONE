@@ -1,7 +1,57 @@
 {
-  "last_update": "28/06 04:53",
+  "last_update": "28/06 08:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782632625",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME SA \"DÉTERMINATION À DÉFENDRE SA SOUVERAINETÉ\" FACE À \"L'AGRESSION\" AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:43",
+      "date": "28/06",
+      "timestamp": 1782632625
+    },
+    {
+      "id": "BFMTV_1782632029",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV VISÉE PAR UNE ATTAQUE DE MISSILES BALISTIQUES RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:33",
+      "date": "28/06",
+      "timestamp": 1782632029
+    },
+    {
+      "id": "BFMTV_1782624634",
+      "source": "BFMTV",
+      "text": "LE MARI D'UNE MINISTRE EN ITALIE PORTÉ DISPARU DANS UN LAC, LES POMPIERS MOBILISÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:30",
+      "date": "28/06",
+      "timestamp": 1782624634
+    },
+    {
+      "id": "BFMTV_1782622540",
+      "source": "BFMTV",
+      "text": "LA CRIMÉE CONTRAINTE DE SUSPENDRE LA DISTRIBUTION DE CARBURANT, APRÈS DES ATTAQUES DE DRONES UKRAINIENS SUR DES INFRASTRUCTURES PÉTROLIÈRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:55",
+      "date": "28/06",
+      "timestamp": 1782622540
+    },
+    {
+      "id": "BFMTV_1782622395",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE L'IRAN \"CESSERA D'EXISTER\" SI LES ÉTATS-UNIS REPARTENT EN GUERRE, APRÈS UN NOUVEL ÉCHANGE DE FRAPPES ENTRE TÉHÉRAN ET WASHINGTON",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "28/06",
+      "timestamp": 1782622395
+    },
     {
       "id": "BFMTV_1782621579",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "11:19",
       "date": "25/06",
       "timestamp": 1782386354
-    },
-    {
-      "id": "BFMTV_1782384207",
-      "source": "BFMTV",
-      "text": "UNE VILLE ALLEMANDE INTERDIT L'ACCÈS AU LAC MUNICIPAL AUX NAGEURS NON-GERMANOPHONES ET PROVOQUE UN TOLLÉ NATIONAL",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:43",
-      "date": "25/06",
-      "timestamp": 1782384207
-    },
-    {
-      "id": "BFMTV_1782383733",
-      "source": "BFMTV",
-      "text": "SCÈNES DE PANIQUE ET IMPORTANTS DÉGÂTS APRÈS UN DOUBLE SÉISME AU VENEZUELA, AU MOINS 164 MORTS ET 1.000 BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:35",
-      "date": "25/06",
-      "timestamp": 1782383733
-    },
-    {
-      "id": "OPEX360_1782382705",
-      "source": "OPEX360",
-      "text": "LA SUISSE MÈNE DES NÉGOCIATIONS AVEC LA FRANCE, ISRAËL ET LA CORÉE DU SUD POUR SE PROCURER UN SECOND SYSTÈME DE DÉFENSE AÉRIENNE",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:18",
-      "date": "25/06",
-      "timestamp": 1782382705
-    },
-    {
-      "id": "BFMTV_1782381541",
-      "source": "BFMTV",
-      "text": "LE RISQUE D'UN \"CHAOS TOTAL\": MARCO RUBIO AVERTIT QUE LA MISE EN PLACE DE PÉAGES À ORMUZ POURRAIT \"SE PROPAGER\" À D'AUTRES PASSAGES MARITIMES",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:59",
-      "date": "25/06",
-      "timestamp": 1782381541
-    },
-    {
-      "id": "BFMTV_1782381297",
-      "source": "BFMTV",
-      "text": "IRAN: \"NOUS NE VOULONS PAS D'ACCORD À N'IMPORTE QUEL PRIX\", DÉCLARE MARCO RUBIO, SECRÉTAIRE D'ÉTAT AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:54",
-      "date": "25/06",
-      "timestamp": 1782381297
     }
   ],
   "france": {
