@@ -1,7 +1,57 @@
 {
-  "last_update": "28/06 00:13",
+  "last_update": "28/06 04:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782621579",
+      "source": "BFMTV",
+      "text": "ISRAËL AFFIRME QU'IL N'Y AURA \"NI REDÉPLOIEMENT, NI RETRAIT\" TANT QUE LE HEZBOLLAH \"N'AURA PAS ÉTÉ DÉSARMÉ SUR L'ENSEMBLE DU TERRITOIRE LIBANAIS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:39",
+      "date": "28/06",
+      "timestamp": 1782621579
+    },
+    {
+      "id": "BFMTV_1782621277",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE L'IRAN \"CESSERA D'EXISTER\" SI LES ÉTATS-UNIS REPARTENT EN GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:34",
+      "date": "28/06",
+      "timestamp": 1782621277
+    },
+    {
+      "id": "BFMTV_1782620951",
+      "source": "BFMTV",
+      "text": "DOUBLE SÉISME AU VENEZUELA: UN ENFANT DE 11 ANS RETROUVÉ VIVANT TROIS JOURS APRÈS LES TREMBLEMENTS DE TERRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:29",
+      "date": "28/06",
+      "timestamp": 1782620951
+    },
+    {
+      "id": "BFMTV_1782620099",
+      "source": "BFMTV",
+      "text": "SÉISMES AU VENEZUELA: LE BILAN S'ALOURDIT À AU MOINS 1.430 MORTS, LES HÔPITAUX DÉBORDÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:14",
+      "date": "28/06",
+      "timestamp": 1782620099
+    },
+    {
+      "id": "BFMTV_1782619965",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES SIRÈNES D'ALERTE AÉRIENNE À NOUVEAU DÉCLENCHÉES AU BAHREÏN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:12",
+      "date": "28/06",
+      "timestamp": 1782619965
+    },
     {
       "id": "BFMTV_1782597751",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "09:54",
       "date": "25/06",
       "timestamp": 1782381297
-    },
-    {
-      "id": "BFMTV_1782380585",
-      "source": "BFMTV",
-      "text": "UN PÉTROLIER EN PROVENANCE DE RUSSIE \"ARRAISONNÉ\" PAR LA MARINE NATIONALE EN MÉDITERRANÉE",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:43",
-      "date": "25/06",
-      "timestamp": 1782380585
-    },
-    {
-      "id": "BFMTV_1782380091",
-      "source": "BFMTV",
-      "text": "\"L'AMÉRIQUE EST DE RETOUR\": DONALD TRUMP LANCE LES FESTIVITÉS POUR LES 250 ANS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:34",
-      "date": "25/06",
-      "timestamp": 1782380091
-    },
-    {
-      "id": "BFMTV_1782378648",
-      "source": "BFMTV",
-      "text": "IMMEUBLES EFFONDRÉS, AMBASSADE DE FRANCE TOUCHÉE... LES IMAGES DU DOUBLE SÉISME MEURTRIER AU VENEZUELA",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:10",
-      "date": "25/06",
-      "timestamp": 1782378648
-    },
-    {
-      "id": "BFMTV_1782378147",
-      "source": "BFMTV",
-      "text": "AU MOINS 32 MORTS ET 700 BLESSÉS, DÉGÂTS CONSIDÉRABLES... CE QUE L'ON SAIT DU PUISSANT DOUBLE SÉISME AU VENEZUELA",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:02",
-      "date": "25/06",
-      "timestamp": 1782378147
-    },
-    {
-      "id": "BFMTV_1782378147",
-      "source": "BFMTV",
-      "text": "AU MOINS 164 MORTS ET 1.000 BLESSÉS, DÉGÂTS CONSIDÉRABLES... CE QUE L'ON SAIT DU PUISSANT DOUBLE SÉISME AU VENEZUELA",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:02",
-      "date": "25/06",
-      "timestamp": 1782378147
     }
   ],
   "france": {
