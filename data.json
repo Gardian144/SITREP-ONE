@@ -1,7 +1,17 @@
 {
-  "last_update": "28/06 14:15",
+  "last_update": "28/06 15:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782657662",
+      "source": "BFMTV",
+      "text": "GUERRE IA: QUI EST CET ENTREPRENEUR DE LA TECH TRÈS PROCHE DE TRUMP ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:41",
+      "date": "28/06",
+      "timestamp": 1782657662
+    },
     {
       "id": "BFMTV_1782654433",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "15:48",
       "date": "25/06",
       "timestamp": 1782402528
-    },
-    {
-      "id": "BFMTV_1782402108",
-      "source": "BFMTV",
-      "text": "MARCO RUBIO JUGE \"REGRETTABLE\" QUE L'ITALIE AIT ANNULÉ UNE RÉUNION AUX ETATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:41",
-      "date": "25/06",
-      "timestamp": 1782402108
     }
   ],
   "france": {
