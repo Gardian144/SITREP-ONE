@@ -1,7 +1,57 @@
 {
-  "last_update": "28/06 18:17",
+  "last_update": "28/06 19:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782673582",
+      "source": "BFMTV",
+      "text": "40 JOURS POUR FAIRE CÉDER LA RUSSIE: \"SUR LE FRONT, LES UKRAINIENS AVANCENT\", ANALYSE BERNARD-HENRI LÉVY, ÉCRIVAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:06",
+      "date": "28/06",
+      "timestamp": 1782673582
+    },
+    {
+      "id": "BFMTV_1782672490",
+      "source": "BFMTV",
+      "text": "40 JOURS POUR FAIRE CÉDER LA RUSSIE: \"VLADIMIR POUTINE PERDRA LA GUERRE CONTRE L'UKRAINE ET IL EST EN TRAIN DE LE COMPRENDRE\", ANALYSE BERNARD-HENRI LÉVY, ÉCRIVAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:48",
+      "date": "28/06",
+      "timestamp": 1782672490
+    },
+    {
+      "id": "BFMTV_1782672286",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ESTIME \"QUE L'UKRAINE EST EN ASSEZ BONNE POSITION\" DANS LA GUERRE CONTRE LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:44",
+      "date": "28/06",
+      "timestamp": 1782672286
+    },
+    {
+      "id": "BFMTV_1782671872",
+      "source": "BFMTV",
+      "text": "L'UKRAINE SE FIXE UN DÉLAI DE 40 JOURS POUR PROVOQUER LA CAPITULATION DE LA RUSSIE ET DE VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:37",
+      "date": "28/06",
+      "timestamp": 1782671872
+    },
+    {
+      "id": "BFMTV_1782671769",
+      "source": "BFMTV",
+      "text": "UN FRANÇAIS ARRÊTÉ AU ROYAUME-UNI POUR LE MEURTRE ET LE VIOL D'UNE ENFANT DE DEUX ANS",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:36",
+      "date": "28/06",
+      "timestamp": 1782671769
+    },
     {
       "id": "BFMTV_1782662252",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "18:27",
       "date": "25/06",
       "timestamp": 1782412071
-    },
-    {
-      "id": "BFMTV_1782411903",
-      "source": "BFMTV",
-      "text": "\"RENFORCER LA SOUVERAINETÉ DU LIBAN\": LA FRANCE ET L'ITALIE VEULENT METTRE EN PLACE UNE \"COALITION\" MULTINATIONALE POUR SUCCÉDER À LA FINUL",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:25",
-      "date": "25/06",
-      "timestamp": 1782411903
-    },
-    {
-      "id": "OPEX360_1782407968",
-      "source": "OPEX360",
-      "text": "LA MARINE NATIONALE VA TESTER LA MUNITION TÉLÉOPÉRÉE AKERON RCX 50 CONÇUE PAR MBDA ET NOVADEM",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:19",
-      "date": "25/06",
-      "timestamp": 1782407968
-    },
-    {
-      "id": "BFMTV_1782406909",
-      "source": "BFMTV",
-      "text": "UN CARGO TOUCHÉ PAR UN \"PROJECTILE D'ORIGINE INCONNUE\" DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:01",
-      "date": "25/06",
-      "timestamp": 1782406909
-    },
-    {
-      "id": "BFMTV_1782404903",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: ATTAQUES DE DRONES, PÉNURIE D'ESSENCE, QUE SE PASSE-T-IL EN CRIMÉE? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:28",
-      "date": "25/06",
-      "timestamp": 1782404903
-    },
-    {
-      "id": "BFMTV_1782403893",
-      "source": "BFMTV",
-      "text": "ACCORD IRAN-USA: QU’A RÉELLEMENT GAGNÉ DONALD TRUMP?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:11",
-      "date": "25/06",
-      "timestamp": 1782403893
     }
   ],
   "france": {
