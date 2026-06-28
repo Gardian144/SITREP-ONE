@@ -1,7 +1,17 @@
 {
-  "last_update": "28/06 15:48",
+  "last_update": "28/06 17:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782662252",
+      "source": "BFMTV",
+      "text": "EN PLEIN MONDIAL AUX ÉTATS-UNIS, CES MIGRANTS JOUENT AU FOOTBALL SOUS LA MENACE DE L'ICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:57",
+      "date": "28/06",
+      "timestamp": 1782662252
+    },
     {
       "id": "BFMTV_1782657662",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:11",
       "date": "25/06",
       "timestamp": 1782403893
-    },
-    {
-      "id": "BFMTV_1782402528",
-      "source": "BFMTV",
-      "text": "POURPARLERS LIBAN-ISRAËL: \"NOUS SOMMES TRÈS PRÈS D'OBTENIR UN ENGAGEMENT D'INTENTION DE LA PART DES DEUX PAYS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:48",
-      "date": "25/06",
-      "timestamp": 1782402528
     }
   ],
   "france": {
