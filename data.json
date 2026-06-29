@@ -1,7 +1,77 @@
 {
-  "last_update": "29/06 21:27",
+  "last_update": "29/06 22:37",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782771251",
+      "source": "BFMTV",
+      "text": "APRÈS L'EXPLOSION À MONACO, LE MINISTRE D'ÉTAT ANNONCE \"DEUX VICTIMES EN URGENCE ABSOLUE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:14",
+      "date": "29/06",
+      "timestamp": 1782771251
+    },
+    {
+      "id": "BFMTV_1782770958",
+      "source": "BFMTV",
+      "text": "EXPLOSION À MONACO: UN HABITANT TÉMOIGNE SUR BFMTV",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:09",
+      "date": "29/06",
+      "timestamp": 1782770958
+    },
+    {
+      "id": "BFMTV_1782770150",
+      "source": "BFMTV",
+      "text": "CHRISTOPHE MIRMAND, MINISTRE D'ÉTAT DE MONACO, FAIT LE POINT APRÈS L'EXPLOSION DANS LA PRINCIPAUTÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:55",
+      "date": "29/06",
+      "timestamp": 1782770150
+    },
+    {
+      "id": "BFMTV_1782769678",
+      "source": "BFMTV",
+      "text": "EXPLOSION À MONACO: \"TOUTES LES MESURES DE PROTECTION ONT ÉTÉ MISES EN ŒUVRE POUR REHAUSSER LE NIVEAU DE VIGILANCE DES SERVICES DE LA PRINCIPAUTÉ\", ASSURE CHRISTOPHE MIRMAND, MINISTRE D'ÉTAT DE MONACO",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:47",
+      "date": "29/06",
+      "timestamp": 1782769678
+    },
+    {
+      "id": "BFMTV_1782769456",
+      "source": "BFMTV",
+      "text": "EXPLOSION À MONACO: \"DEUX VICTIMES SONT EN URGENCE ABSOLUE\", ANNONCE CHRISTOPHE MIRMAND, MINISTRE D'ÉTAT",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:44",
+      "date": "29/06",
+      "timestamp": 1782769456
+    },
+    {
+      "id": "BFMTV_1782768920",
+      "source": "BFMTV",
+      "text": "EXPLOSION À MONACO: LA PHOTO DU SUSPECT DÉVOILÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:35",
+      "date": "29/06",
+      "timestamp": 1782768920
+    },
+    {
+      "id": "BFMTV_1782768478",
+      "source": "BFMTV",
+      "text": "MONACO: L'EXPLOSION SERAIT \"VRAISEMBLABLEMENT UN ATTENTAT\", SELON LE MINISTRE D'ÉTAT MONÉGASQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:27",
+      "date": "29/06",
+      "timestamp": 1782768478
+    },
     {
       "id": "BFMTV_1782768100",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "17:42",
       "date": "27/06",
       "timestamp": 1782582123
-    },
-    {
-      "id": "BFMTV_1782581382",
-      "source": "BFMTV",
-      "text": "L'UKRAINE A DÉCLENCHÉ SA PLUS IMPORTANTE ATTAQUE DE DRONES JAMAIS ENREGISTRÉE CONTRE LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:29",
-      "date": "27/06",
-      "timestamp": 1782581382
-    },
-    {
-      "id": "BFMTV_1782580192",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: L'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN EST-IL MENACÉ ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:09",
-      "date": "27/06",
-      "timestamp": 1782580192
-    },
-    {
-      "id": "BFMTV_1782579874",
-      "source": "BFMTV",
-      "text": "LIBAN/ISRAËL: DES MANIFESTATIONS SONT EN COURS À TEL AVIV EN ISRAËL CONTRE BENJAMIN NETANYAHU",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:04",
-      "date": "27/06",
-      "timestamp": 1782579874
-    },
-    {
-      "id": "BFMTV_1782579632",
-      "source": "BFMTV",
-      "text": "ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN MENACÉ ?: SUR X, LE VICE-PRÉSIDENT AMÉRICAIN ASSURE \"QUE LA VIOLENCE SERA ACCUEILLIE PAR LA VIOLENCE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:00",
-      "date": "27/06",
-      "timestamp": 1782579632
-    },
-    {
-      "id": "BFMTV_1782579183",
-      "source": "BFMTV",
-      "text": "L'ACCORD ENTRE LES ÉTATS-UNIS ET L'IRAN EST-IL MENACÉ ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:53",
-      "date": "27/06",
-      "timestamp": 1782579183
-    },
-    {
-      "id": "BFMTV_1782578250",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE A REÇU L'ORDRE DE SE PRÉPARER À UN \"SÉJOUR PROLONGÉ\" AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:37",
-      "date": "27/06",
-      "timestamp": 1782578250
-    },
-    {
-      "id": "BFMTV_1782575156",
-      "source": "BFMTV",
-      "text": "VENEZUELA: UN NOUVEAU-NÉ RETROUVÉ VIVANT DANS LES DÉCOMBRES APRÈS LES SÉISMES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:45",
-      "date": "27/06",
-      "timestamp": 1782575156
     }
   ],
   "france": {
