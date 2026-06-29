@@ -1,7 +1,187 @@
 {
-  "last_update": "29/06 15:04",
+  "last_update": "29/06 17:47",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1782754774",
+      "source": "OPEX360",
+      "text": "LA POLOGNE CONFIRME LA COMMANDE DE TROIS SOUS-MARINS DE TYPE A26 AUPRÈS DE SAAB POUR PLUS DE 4 MILLIARDS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:39",
+      "date": "29/06",
+      "timestamp": 1782754774
+    },
+    {
+      "id": "BFMTV_1782754662",
+      "source": "BFMTV",
+      "text": "LA COUR SUPRÊME REJETTE LE RECOURS DE DONALD TRUMP CONTRE UNE CONDAMNATION POUR AGRESSION SEXUELLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:37",
+      "date": "29/06",
+      "timestamp": 1782754662
+    },
+    {
+      "id": "BFMTV_1782754270",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE AVOUE QUE LA RUSSIE CONNAÎT \"UNE CERTAINE PÉNURIE DE CARBURANT\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:31",
+      "date": "29/06",
+      "timestamp": 1782754270
+    },
+    {
+      "id": "BFMTV_1782753824",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"ON EN PARLE MOINS MAIS IL Y A DES FRAPPES QUASIMENT TOUTES LES NUITS EN UKRAINE\", RAPPELLE MURIEL DOMENACH, ANCIENNE AMBASSADRICE DE FRANCE À L'OTAN ",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:23",
+      "date": "29/06",
+      "timestamp": 1782753824
+    },
+    {
+      "id": "BFMTV_1782753773",
+      "source": "BFMTV",
+      "text": "\"LES SERVICES DE RENSEIGNEMENT UKRAINIENS ONT OBTENU DES DOCUMENTS INTERNES RUSSES\", DÉCLARE VOLODYMYR ZELENSKY, PRÉSIDENT DE L'UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:22",
+      "date": "29/06",
+      "timestamp": 1782753773
+    },
+    {
+      "id": "BFMTV_1782752534",
+      "source": "BFMTV",
+      "text": "GAZA: \"L'ANNEXION EST EN COURS À UN RYTHME BIEN PLUS ÉLEVÉ QU'AVANT\", DÉCLARE L'AMBASSADEUR DE PALESTINE AUPRÈS DE L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:02",
+      "date": "29/06",
+      "timestamp": 1782752534
+    },
+    {
+      "id": "OPEX360_1782751920",
+      "source": "OPEX360",
+      "text": "LA GRÈCE EST SUR LE POINT DE COMMANDER TROIS SYSTÈMES ISRAÉLIENS DE DÉFENSE AÉRIENNE POUR 3 MILLIARDS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:52",
+      "date": "29/06",
+      "timestamp": 1782751920
+    },
+    {
+      "id": "BFMTV_1782750448",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: AU MOINS 117 CHIENS RETROUVÉS MORTS EN CALIFORNIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:27",
+      "date": "29/06",
+      "timestamp": 1782750448
+    },
+    {
+      "id": "BFMTV_1782749713",
+      "source": "BFMTV",
+      "text": "VENEZUELA: UN PÈRE ET SON FILS SAUVÉS DES DÉCOMBRES QUATRE JOURS APRÈS LES SÉISMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:15",
+      "date": "29/06",
+      "timestamp": 1782749713
+    },
+    {
+      "id": "BFMTV_1782749019",
+      "source": "BFMTV",
+      "text": "SIX MORTS ET UN BLESSÉ DANS UNE FUSILLADE DANS LE NORD DE L'ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:03",
+      "date": "29/06",
+      "timestamp": 1782749019
+    },
+    {
+      "id": "BFMTV_1782748597",
+      "source": "BFMTV",
+      "text": "\"IL Y A DES SIGNAUX\" POUR UNE GRÂCE PRÉSIDENTIELLE DE CHRISTOPHE GLEIZES, DÉTENU DEPUIS UN AN EN ALGÉRIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:56",
+      "date": "29/06",
+      "timestamp": 1782748597
+    },
+    {
+      "id": "BFMTV_1782748589",
+      "source": "BFMTV",
+      "text": "CORPS RETROUVÉ DANS UNE VALISE EN THAÏLANDE: UN AUSTRALIEN INCULPÉ POUR MEURTRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:56",
+      "date": "29/06",
+      "timestamp": 1782748589
+    },
+    {
+      "id": "BFMTV_1782748228",
+      "source": "BFMTV",
+      "text": "\"IL A DES ESPOIRS\" MAIS \"C'EST UNE ÉPREUVE\" DEPUIS DEUX ANS, EXPLIQUE LE MÈRE DE CHRISTOPHE GLEIZES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:50",
+      "date": "29/06",
+      "timestamp": 1782748228
+    },
+    {
+      "id": "BFMTV_1782748019",
+      "source": "BFMTV",
+      "text": "\"IL EST ESSENTIEL QUE LE MONDE DU FOOTBALL DISE \"CHRISTOPHE EST L'UN DES NÔTRES\"\": LE PÈRE DE CHRISTOPHE GLEIZES REMERCIE LE MONDE DU FOOTBALL POUR SES MESSAGES DE SOUTIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:46",
+      "date": "29/06",
+      "timestamp": 1782748019
+    },
+    {
+      "id": "BFMTV_1782747681",
+      "source": "BFMTV",
+      "text": "\"DES SIGNAUX EXISTENT\" POUR UNE GRÂCE PRÉSIDENTIELLE DE CHRISTOPHE GLEIZES, AFFIRME SON PÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:41",
+      "date": "29/06",
+      "timestamp": 1782747681
+    },
+    {
+      "id": "BFMTV_1782747559",
+      "source": "BFMTV",
+      "text": "CHRISTOPHE GLEIZES: \"LE TEMPS POUR LUI EST TRÈS LONG\" REGRETTE SA MÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:39",
+      "date": "29/06",
+      "timestamp": 1782747559
+    },
+    {
+      "id": "BFMTV_1782747363",
+      "source": "BFMTV",
+      "text": "CHRISTOPHE GLEIZES: \"LE MORAL COMMENCE À DÉCLINER\", ASSURE SA MÈRE CAR \"IL EST TOTALEMENT COUPÉ DU MONDE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:36",
+      "date": "29/06",
+      "timestamp": 1782747363
+    },
+    {
+      "id": "OPEX360_1782746256",
+      "source": "OPEX360",
+      "text": "L’ALGÉRIE ENVISAGERAIT D’ACQUÉRIR DES CHASSEURS J-10 ET DES AVIONS D’ALERTE AVANCÉE KJ-500 AUPRÈS DE LA CHINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:17",
+      "date": "29/06",
+      "timestamp": 1782746256
+    },
     {
       "id": "BFMTV_1782745085",
       "source": "BFMTV",
@@ -821,186 +1001,6 @@
       "time": "08:15",
       "date": "27/06",
       "timestamp": 1782548106
-    },
-    {
-      "id": "BFMTV_1782545270",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉNONCE UNE \"VIOLATION FLAGRANTE\" DE L'ACCORD APRÈS DES FRAPPES AMÉRICAINES",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:27",
-      "date": "27/06",
-      "timestamp": 1782545270
-    },
-    {
-      "id": "BFMTV_1782543892",
-      "source": "BFMTV",
-      "text": "\"IL NIE LES ACCUSATIONS\": UN AUSTRALIEN ARRÊTÉ EN THAÏLANDE APRÈS LA DÉCOUVERTE DU CORPS D'UNE ADOLESCENTE DE 17 ANS DANS UNE VALISE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:04",
-      "date": "27/06",
-      "timestamp": 1782543892
-    },
-    {
-      "id": "BFMTV_1782538463",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT:  LES GARDIENS IRANIENS DE LA RÉVOLUTION DISENT AVOIR AVOIR FRAPPÉ DES POSITIONS MILITAIRES AMÉRICAINES DANS LE GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:34",
-      "date": "27/06",
-      "timestamp": 1782538463
-    },
-    {
-      "id": "BFMTV_1782538154",
-      "source": "BFMTV",
-      "text": "\"BIENVENUE, MAIS SOYEZ SAGES\": DONALD TRUMP DÉVOILE UN NOUVEAU PASSEPORT AMÉRICAIN, ÉDITÉ AVEC SA PHOTO, POUR LES 250 ANS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:29",
-      "date": "27/06",
-      "timestamp": 1782538154
-    },
-    {
-      "id": "BFMTV_1782536704",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: LOS ANGELES EN ÉTAT D'URGENCE POUR L'INCENDIE D'UN ENTREPÔT DE PRODUITS SURGELÉS DE PLUS DE 46.000 M²",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:05",
-      "date": "27/06",
-      "timestamp": 1782536704
-    },
-    {
-      "id": "BFMTV_1782536234",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS IRANIENS DE LA RÉVOLUTION DISENT AVOIR AVOIR FRAPPÉ DES POSITIONS MILITAIRES AMÉRICAINES DANS LA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:57",
-      "date": "27/06",
-      "timestamp": 1782536234
-    },
-    {
-      "id": "BFMTV_1782535494",
-      "source": "BFMTV",
-      "text": "SÉISMES AU VENEZUELA: L'AIDE S'ORGANISE EN QUÊTE DE SURVIVANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:44",
-      "date": "27/06",
-      "timestamp": 1782535494
-    },
-    {
-      "id": "BFMTV_1782534009",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS ONT FRAPPÉ DES CIBLES EN IRAN EN RÉPONSE À L'ATTAQUE D'UN NAVIRE DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:20",
-      "date": "27/06",
-      "timestamp": 1782534009
-    },
-    {
-      "id": "BFMTV_1782509675",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ONT FRAPPÉ DES CIBLES EN IRAN EN RÉPONSE À L'ATTAQUE D'UN NAVIRE DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:34",
-      "date": "26/06",
-      "timestamp": 1782509675
-    },
-    {
-      "id": "BFMTV_1782508138",
-      "source": "BFMTV",
-      "text": "\"UN CADRE POUR UNE PAIX ET UNE SÉCURITÉ DURABLES\": ISRAËL ET LE LIBAN SIGNENT UN ACCORD-CADRE AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:08",
-      "date": "26/06",
-      "timestamp": 1782508138
-    },
-    {
-      "id": "BFMTV_1782508099",
-      "source": "BFMTV",
-      "text": "\"CELA SE PASSE PENDANT MA PRÉSIDENCE\": DONALD TRUMP SE FÉLICITE DE L'AUGMENTATION DE FIDÈLES DANS LES ÉGLISES",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:08",
-      "date": "26/06",
-      "timestamp": 1782508099
-    },
-    {
-      "id": "BFMTV_1782505928",
-      "source": "BFMTV",
-      "text": "LE BURKINA FASO ANNONCE \"ROMPRE SES RELATIONS DIPLOMATIQUES\" AVEC LA FRANCE APRÈS DES ANNÉES DE FORTES TENSIONS",
-      "urgent": false,
-      "france_related": true,
-      "time": "20:32",
-      "date": "26/06",
-      "timestamp": 1782505928
-    },
-    {
-      "id": "BFMTV_1782501814",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL, LE LIBAN ET LES ÉTATS-UNIS ONT SIGNÉ UN ACCORD-CADRE POUR OUVRIR LA VOIE À \"UNE PAIX ET UNE SÉCURITÉ DURABLES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:23",
-      "date": "26/06",
-      "timestamp": 1782501814
-    },
-    {
-      "id": "BFMTV_1782498129",
-      "source": "BFMTV",
-      "text": "DOUBLE SÉISME AU VENEZUELA: LE BILAN GRIMPE À AU MOINS 920 MORTS, LES RECHERCHES CONTINUENT POUR RETROUVER DES SURVIVANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:22",
-      "date": "26/06",
-      "timestamp": 1782498129
-    },
-    {
-      "id": "OPEX360_1782495368",
-      "source": "OPEX360",
-      "text": "SAFRAN ENVISAGE DE PRENDRE LE CONTRÔLE DE LA PÉPITE FRANÇAISE EXAIL TECHNOLOGIES POUR PLUS DE 2 MILLIARDS D’EUROS",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:36",
-      "date": "26/06",
-      "timestamp": 1782495368
-    },
-    {
-      "id": "BFMTV_1782490099",
-      "source": "BFMTV",
-      "text": "UNE \"VIOLATION STUPIDE\" DU CESSEZ-LE-FEU: DONALD TRUMP AFFIRME QUE L'IRAN A LANCÉ AU MOINS QUATRE DRONES CONTRE DES NAVIRES DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:08",
-      "date": "26/06",
-      "timestamp": 1782490099
-    },
-    {
-      "id": "OPEX360_1782490082",
-      "source": "OPEX360",
-      "text": "AIRBUS S’ASSOCIE AVEC KAWASAKI POUR ÉTUDIER UNE VERSION DE L’U950 EURODRONE DÉDIÉE À LA LUTTE ANTI-SOUS-MARINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:08",
-      "date": "26/06",
-      "timestamp": 1782490082
-    },
-    {
-      "id": "BFMTV_1782486600",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS PU ÉVACUER ENVIRON 115 NAVIRES\": 2.500 MARINS ONT QUITTÉ LE GOLFE PAR LE DÉTROIT D'ORMUZ SELON L'OMI",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:10",
-      "date": "26/06",
-      "timestamp": 1782486600
     }
   ],
   "france": {
