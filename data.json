@@ -1,7 +1,97 @@
 {
-  "last_update": "29/06 17:47",
+  "last_update": "29/06 19:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782761861",
+      "source": "BFMTV",
+      "text": "L'ARMÉE RUSSE PEUT-ELLE SE RETOURNER CONTRE VLADIMIR POUTINE ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:37",
+      "date": "29/06",
+      "timestamp": 1782761861
+    },
+    {
+      "id": "BFMTV_1782761660",
+      "source": "BFMTV",
+      "text": "\"VLADIMIR, INVITEZ-MOI CHEZ VOUS, LES CONSÉQUENCES SERONT TRÈS GRAVES\": QUAND UN SOLDAT RUSSE DÉFIE VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:34",
+      "date": "29/06",
+      "timestamp": 1782761660
+    },
+    {
+      "id": "BFMTV_1782761465",
+      "source": "BFMTV",
+      "text": "FRAPPES UKRAINIENNES: COMMENT VOLODYMYR ZELENSKY VEUT ASPHYXIER LA RUSSIE ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:31",
+      "date": "29/06",
+      "timestamp": 1782761465
+    },
+    {
+      "id": "BFMTV_1782761278",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA COMMUNICATION ULTRA-MILLIMÉTRÉE DE VLADIMIR POUTINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:27",
+      "date": "29/06",
+      "timestamp": 1782761278
+    },
+    {
+      "id": "BFMTV_1782759862",
+      "source": "BFMTV",
+      "text": "LES OBSÈQUES DES MILITAIRES RUSSES TÉMOIGNENT DU PRIX HUMAIN LOURD DE LA GUERRE EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:04",
+      "date": "29/06",
+      "timestamp": 1782759862
+    },
+    {
+      "id": "BFMTV_1782758498",
+      "source": "BFMTV",
+      "text": "DOUBLE SÉISME AU VENEZUELA: UN NOUVEAU BILAN FAIT ÉTAT D'AU MOINS 1.719 MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:41",
+      "date": "29/06",
+      "timestamp": 1782758498
+    },
+    {
+      "id": "BFMTV_1782756384",
+      "source": "BFMTV",
+      "text": "MONDIAL: RAYAN CHERKI LANCE DES MAILLOTS DE L'ÉQUIPE DE FRANCE DEPUIS SA FENÊTRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:06",
+      "date": "29/06",
+      "timestamp": 1782756384
+    },
+    {
+      "id": "BFMTV_1782756269",
+      "source": "BFMTV",
+      "text": "\"TRAGÉDIE FAMILIALE\", ARRESTATIONS... CE QUE L'ON SAIT DE LA FUSILLADE QUI A FAIT SIX MORTS DANS LE NORD DE L'ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:04",
+      "date": "29/06",
+      "timestamp": 1782756269
+    },
+    {
+      "id": "BFMTV_1782755269",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN NOUVEAU-NÉ A ÉTÉ RETROUVÉ MORT DANS DES TOILETTES LORS D’UN FESTIVAL DE MUSIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:47",
+      "date": "29/06",
+      "timestamp": 1782755269
+    },
     {
       "id": "OPEX360_1782754774",
       "source": "OPEX360",
@@ -911,96 +1001,6 @@
       "time": "13:13",
       "date": "27/06",
       "timestamp": 1782565997
-    },
-    {
-      "id": "BFMTV_1782565997",
-      "source": "BFMTV",
-      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:13",
-      "date": "27/06",
-      "timestamp": 1782565997
-    },
-    {
-      "id": "BFMTV_1782565703",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: LE CESSEZ-LE-FEU \"PLUS FRAGILE QUE JAMAIS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:08",
-      "date": "27/06",
-      "timestamp": 1782565703
-    },
-    {
-      "id": "BFMTV_1782559902",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: REGAIN DE TENSIONS DANS LE DÉTROIT D'ORMUZ, L'ACCORD DE PAIX FRAGILISÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:31",
-      "date": "27/06",
-      "timestamp": 1782559902
-    },
-    {
-      "id": "OPEX360_1782559297",
-      "source": "OPEX360",
-      "text": "RHEINMETALL ENVISAGE DE PRODUIRE LA NOUVELLE MUNITION D’ARTILLERIE VEKTREX, CONÇUE PAR L’AMÉRICAIN GENERAL ATOMICS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:21",
-      "date": "27/06",
-      "timestamp": 1782559297
-    },
-    {
-      "id": "BFMTV_1782557460",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN ET LES ÉTATS-UNIS S'ACCUSENT DE \"VIOLATION\" DE L'ACCORD, UN PÉTROLIER TOUCHÉ PAR UN PROJECTILE NON IDENTIFIÉ DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:51",
-      "date": "27/06",
-      "timestamp": 1782557460
-    },
-    {
-      "id": "BFMTV_1782556568",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN PÉTROLIER BATTANT PAVILLON DU PANAMA TOUCHÉ PAR UN PROJECTILE NON IDENTIFIÉ DANS LE DÉTROIT D'ORMUZ ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:36",
-      "date": "27/06",
-      "timestamp": 1782556568
-    },
-    {
-      "id": "OPEX360_1782555709",
-      "source": "OPEX360",
-      "text": "L’US AIR FORCE VEUT SE DOTER D’UN MISSILE AIR-AIR D’UNE PORTÉE DE PLUS DE 1 800 KILOMÈTRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:21",
-      "date": "27/06",
-      "timestamp": 1782555709
-    },
-    {
-      "id": "BFMTV_1782554243",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QUE CONTIENT L’ACCORD-CADRE SIGNÉ PAR ISRAËL, LE LIBAN ET LES ÉTATS-UNIS? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:57",
-      "date": "27/06",
-      "timestamp": 1782554243
-    },
-    {
-      "id": "BFMTV_1782548106",
-      "source": "BFMTV",
-      "text": "\"L'EFFONDREMENT EST TOTAL\": APRÈS LE DOUBLE SÉISME MEURTRIER AU VENEZUELA, LA QUÊTE DE SURVIVANTS SE POURSUIT AVEC L'AIDE INTERNATIONALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:15",
-      "date": "27/06",
-      "timestamp": 1782548106
     }
   ],
   "france": {
