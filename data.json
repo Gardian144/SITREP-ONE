@@ -1,7 +1,47 @@
 {
-  "last_update": "30/06 19:18",
+  "last_update": "30/06 21:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782851973",
+      "source": "BFMTV",
+      "text": "\"LES PREMIERS JOURS DE GUERRE, C'ÉTAIT JUSQU'À 80 DUPLEX PAR JOUR\": DE RETOUR EN FRANCE, SIAVOSH GHAZI, CORRESPONDANT À TÉHÉRAN, RACONTE PLUS DE 100 JOURS DE GUERRE EN IRAN SUR BFMTV",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:39",
+      "date": "30/06",
+      "timestamp": 1782851973
+    },
+    {
+      "id": "BFMTV_1782849112",
+      "source": "BFMTV",
+      "text": "FRAPPES UKRAINIENNES SUR LA RUSSIE: \"L'UKRAINE EST UN PAYS EN GUERRE, ELLE EST ATTAQUÉE PAR LA RUSSIE ET ELLE SE DÉFEND\", EXPLIQUE GAËL VEYSSIÈRE, AMBASSADEUR DE FRANCE EN UKRAINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:51",
+      "date": "30/06",
+      "timestamp": 1782849112
+    },
+    {
+      "id": "BFMTV_1782848368",
+      "source": "BFMTV",
+      "text": "UN YACHT DE 82 MÈTRES DE LONG, LIÉ VRAISEMBLABLEMENT À VLADIMIR POUTINE, AURAIT QUITTÉ LA MER BALTIQUE POUR LA PREMIÈRE FOIS EN 4 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:39",
+      "date": "30/06",
+      "timestamp": 1782848368
+    },
+    {
+      "id": "BFMTV_1782847805",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE AURAIT DÉMOLI SA RÉSIDENCE D'ÉTÉ AU BORD DU LAC VALDAÏ EN RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:30",
+      "date": "30/06",
+      "timestamp": 1782847805
+    },
     {
       "id": "BFMTV_1782846242",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "09:41",
       "date": "29/06",
       "timestamp": 1782726079
-    },
-    {
-      "id": "BFMTV_1782713390",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN NAVIRE FRANÇAIS PASSE LE DÉTROIT D'ORMUZ, LE COMMANDANT TÉMOIGNE",
-      "urgent": true,
-      "france_related": true,
-      "time": "06:09",
-      "date": "29/06",
-      "timestamp": 1782713390
-    },
-    {
-      "id": "BFMTV_1782707796",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS ANNONCENT UNE SUSPENSION MUTUELLE DES HOSTILITÉS AVEC L'IRAN \"POUR LE MOMENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:36",
-      "date": "29/06",
-      "timestamp": 1782707796
-    },
-    {
-      "id": "BFMTV_1782683285",
-      "source": "BFMTV",
-      "text": "\"ON FAIT LA QUEUE PENDANT 1H30\": SUITE AUX FRAPPES UKRAINIENNES EN RUSSIE, LE PAYS FAIT FACE À UNE PÉNURIE DE CARBURANT",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:48",
-      "date": "28/06",
-      "timestamp": 1782683285
-    },
-    {
-      "id": "BFMTV_1782683139",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN PRÉVIENT QUE TOUTE INGÉRENCE DANS SA GESTION DU DÉTROIT D'ORMUZ RISQUE \"D'ACCROÎTRE LES TENSIONS\" DANS LA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:45",
-      "date": "28/06",
-      "timestamp": 1782683139
     }
   ],
   "france": {
