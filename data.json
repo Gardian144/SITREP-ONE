@@ -1,7 +1,17 @@
 {
-  "last_update": "30/06 21:14",
+  "last_update": "30/06 22:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782854708",
+      "source": "BFMTV",
+      "text": "UN PRÉSENTATEUR MÉTÉO RUSSE EXPOSE LES CONDITIONS CLIMATIQUES PROPICES À D'ÉVENTUELS BOMBARDEMENTS NUCLÉAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:25",
+      "date": "30/06",
+      "timestamp": 1782854708
+    },
     {
       "id": "BFMTV_1782851973",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:52",
       "date": "29/06",
       "timestamp": 1782726756
-    },
-    {
-      "id": "BFMTV_1782726079",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE RECONNAÎT \"UNE CERTAINE PÉNURIE\" DE CARBURANT EN RUSSIE À CAUSE DES FRAPPES UKRAINIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:41",
-      "date": "29/06",
-      "timestamp": 1782726079
     }
   ],
   "france": {
