@@ -1,7 +1,57 @@
 {
-  "last_update": "30/06 12:23",
+  "last_update": "30/06 15:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782831474",
+      "source": "BFMTV",
+      "text": "CE “GUIDE POUR LES ENFANTS EXPULSÉS” PUBLIÉ PAR FRONTEX CRÉE LA POLÉMIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:57",
+      "date": "30/06",
+      "timestamp": 1782831474
+    },
+    {
+      "id": "BFMTV_1782827148",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA GUERRE SE RAPPROCHE DES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:45",
+      "date": "30/06",
+      "timestamp": 1782827148
+    },
+    {
+      "id": "BFMTV_1782824653",
+      "source": "BFMTV",
+      "text": "GRÈCE: UN IMMEUBLE S'EFFONDRE À ATHÈNES, DES RECHERCHES DE VICTIMES POSSIBLES EN COURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:04",
+      "date": "30/06",
+      "timestamp": 1782824653
+    },
+    {
+      "id": "BFMTV_1782822460",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT QU'IL RÉPONDRA À TOUTE VIOLATION DU PROTOCOLE D'ACCORD PAR LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:27",
+      "date": "30/06",
+      "timestamp": 1782822460
+    },
+    {
+      "id": "BFMTV_1782822460",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:27",
+      "date": "30/06",
+      "timestamp": 1782822460
+    },
     {
       "id": "BFMTV_1782820637",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "13:47",
       "date": "28/06",
       "timestamp": 1782654433
-    },
-    {
-      "id": "BFMTV_1782650224",
-      "source": "BFMTV",
-      "text": "CE QUI SE CACHE RÉELLEMENT DERRIÈRE LE PROJET POLITIQUE DU FONDATEUR DE PALANTIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:37",
-      "date": "28/06",
-      "timestamp": 1782650224
-    },
-    {
-      "id": "OPEX360_1782645614",
-      "source": "OPEX360",
-      "text": "L’ARMÉE INDIENNE VEUT TRANSFORMER SES NOMBREUX CHARS T-72 EN DRONES TERRESTRES DE COMBAT",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:20",
-      "date": "28/06",
-      "timestamp": 1782645614
-    },
-    {
-      "id": "OPEX360_1782641934",
-      "source": "OPEX360",
-      "text": "À NOUVEAU, LA ROYAL NAVY NE PEUT ENVOYER AUCUN DE SES SOUS-MARINS NUCLÉAIRES D’ATTAQUE EN MISSION",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:18",
-      "date": "28/06",
-      "timestamp": 1782641934
-    },
-    {
-      "id": "BFMTV_1782641712",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN PRÉVIENT QUE TOUTE INGÉRENCE DANS SA GESTION DU DÉTROIT D'ORMUZ RISQUE \"D'ACCROÎTRE LES TENSIONS\" DANS LA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:15",
-      "date": "28/06",
-      "timestamp": 1782641712
-    },
-    {
-      "id": "BFMTV_1782641194",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV REVENDIQUE DES ATTAQUES \"MASSIVES\" DE MISSILES EN RUSSIE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:06",
-      "date": "28/06",
-      "timestamp": 1782641194
     }
   ],
   "france": {
