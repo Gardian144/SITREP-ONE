@@ -1,7 +1,67 @@
 {
-  "last_update": "30/06 06:11",
+  "last_update": "30/06 10:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782811094",
+      "source": "BFMTV",
+      "text": "LES MÉDIAS D'ÉTAT IRANIENS ANNONCENT LA MORT DE DEUX MEMBRES DES GARDIENS DE LA RÉVOLUTION DANS UNE \"ATTAQUE TERRORISTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:18",
+      "date": "30/06",
+      "timestamp": 1782811094
+    },
+    {
+      "id": "BFMTV_1782809477",
+      "source": "BFMTV",
+      "text": "POUR DONALD TRUMP \"LE COMMUNISME\" EST \"LA PLUS GRANDE MENACE\" POUR LES ÉTATS-UNIS DEPUIS LEUR FONDATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:51",
+      "date": "30/06",
+      "timestamp": 1782809477
+    },
+    {
+      "id": "BFMTV_1782807713",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DÉFAITES, CRIMÉE, RÉCESSION... VLADIMIR POUTINE DOS AU MUR",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:21",
+      "date": "30/06",
+      "timestamp": 1782807713
+    },
+    {
+      "id": "BFMTV_1782806563",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS SOMMES EN TRAIN DE GAGNER MILITAIREMENT\", AFFIRME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:02",
+      "date": "30/06",
+      "timestamp": 1782806563
+    },
+    {
+      "id": "BFMTV_1782806364",
+      "source": "BFMTV",
+      "text": "ATTAQUES DU 7 OCTOBRE 2023 DU HAMAS CONTRE ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:59",
+      "date": "30/06",
+      "timestamp": 1782806364
+    },
+    {
+      "id": "BFMTV_1782803421",
+      "source": "BFMTV",
+      "text": "\"UNE CRÉATION ARTISTIQUE MONUMENTALE\": LA FRANCE ILLUMINERA LA STATUE DE LA LIBERTÉ POUR LES 250 ANS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:10",
+      "date": "30/06",
+      "timestamp": 1782803421
+    },
     {
       "id": "BFMTV_1782798224",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "04:29",
       "date": "28/06",
       "timestamp": 1782620951
-    },
-    {
-      "id": "BFMTV_1782620099",
-      "source": "BFMTV",
-      "text": "SÉISMES AU VENEZUELA: LE BILAN S'ALOURDIT À AU MOINS 1.430 MORTS, LES HÔPITAUX DÉBORDÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:14",
-      "date": "28/06",
-      "timestamp": 1782620099
-    },
-    {
-      "id": "BFMTV_1782619965",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES SIRÈNES D'ALERTE AÉRIENNE À NOUVEAU DÉCLENCHÉES AU BAHREÏN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:12",
-      "date": "28/06",
-      "timestamp": 1782619965
-    },
-    {
-      "id": "BFMTV_1782597751",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE A REÇU L'ORDRE DE SE PRÉPARER À UN \"SÉJOUR PROLONGÉ\" AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:02",
-      "date": "27/06",
-      "timestamp": 1782597751
-    },
-    {
-      "id": "BFMTV_1782596437",
-      "source": "BFMTV",
-      "text": "FRAPPES UKRAINIENNES: LE GOUVERNEUR DE CRIMÉE DÉCLARE QUE L'ÉTAT D'URGENCE SERA DÉCRÉTÉ DANS LA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:40",
-      "date": "27/06",
-      "timestamp": 1782596437
-    },
-    {
-      "id": "BFMTV_1782596192",
-      "source": "BFMTV",
-      "text": "LES ATTAQUES DE DRONES UKRAINIENS EN RUSSIE DÉSTABILISENT LES OPÉRATIONS RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:36",
-      "date": "27/06",
-      "timestamp": 1782596192
-    },
-    {
-      "id": "BFMTV_1782585837",
-      "source": "BFMTV",
-      "text": "LA RÉPONSE DE L'ARMÉE UKRAINIENNE S'EST INTENSIFIÉE CES DERNIERS MOIS CONTRE LA RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:43",
-      "date": "27/06",
-      "timestamp": 1782585837
     }
   ],
   "france": {
