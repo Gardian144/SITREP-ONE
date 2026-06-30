@@ -1,7 +1,77 @@
 {
-  "last_update": "30/06 17:15",
+  "last_update": "30/06 19:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782846242",
+      "source": "BFMTV",
+      "text": "DOUBLE SÉISME AU VENEZUELA: LE BILAN GRIMPE À 1.943 MORTS, 6.461 PERSONNES SECOURUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:04",
+      "date": "30/06",
+      "timestamp": 1782846242
+    },
+    {
+      "id": "BFMTV_1782845199",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: QUAND VLADIMIR POUTINE JOUE SUR UNE COMMUNICATION EXTRÊMEMENT MILLIMÉTRÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:46",
+      "date": "30/06",
+      "timestamp": 1782845199
+    },
+    {
+      "id": "BFMTV_1782844980",
+      "source": "BFMTV",
+      "text": "\"SI LA RUSSIE DEVAIT LANCER UNE SÉRIE DE FRAPPES NUCLÉAIRES SUR L'EUROPE, CE SERAIT UN PÉCHÉ TERRIBLE\", EXPLIQUE UN POLITOLOGUE RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:43",
+      "date": "30/06",
+      "timestamp": 1782844980
+    },
+    {
+      "id": "BFMTV_1782842750",
+      "source": "BFMTV",
+      "text": "EXPLOSION À MONACO: LE SUSPECT EST TOUJOURS EN FUITE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:05",
+      "date": "30/06",
+      "timestamp": 1782842750
+    },
+    {
+      "id": "BFMTV_1782842420",
+      "source": "BFMTV",
+      "text": "FUSILLADE EN ALLEMAGNE: LE SUSPECT PRINCIPAL SOUPÇONNÉ D'AVOIR SECOUÉ SON BÉBÉ",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:00",
+      "date": "30/06",
+      "timestamp": 1782842420
+    },
+    {
+      "id": "OPEX360_1782841921",
+      "source": "OPEX360",
+      "text": "LA ROUMANIE A CONFIRMÉ L’ACHAT DE SYSTÈMES ISRAÉLIENS DE DÉFENSE AÉRIENNE SPYDER POUR 2 MILLIARDS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:52",
+      "date": "30/06",
+      "timestamp": 1782841921
+    },
+    {
+      "id": "BFMTV_1782839778",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: APRÈS QUATRE ANS DE GUERRE, LE MORAL DES RUSSES AU PLUS BAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:16",
+      "date": "30/06",
+      "timestamp": 1782839778
+    },
     {
       "id": "BFMTV_1782839106",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "21:45",
       "date": "28/06",
       "timestamp": 1782683139
-    },
-    {
-      "id": "BFMTV_1782682687",
-      "source": "BFMTV",
-      "text": "LE \"FLAMINGO\": UN MISSILE TRÈS AVANTAGEUX POUR L'UKRAINE FACE À LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:38",
-      "date": "28/06",
-      "timestamp": 1782682687
-    },
-    {
-      "id": "BFMTV_1782679437",
-      "source": "BFMTV",
-      "text": "41 DEGRÉS EN ALLEMAGNE, 43 DEGRÉS EN ESPAGNE ... DE NOMBREUX PAYS EUROPÉENS ONT CONNU DES TEMPÉRATURES EXTRÊMEMENT ÉLEVÉES",
-      "urgent": false,
-      "france_related": true,
-      "time": "20:43",
-      "date": "28/06",
-      "timestamp": 1782679437
-    },
-    {
-      "id": "BFMTV_1782678594",
-      "source": "BFMTV",
-      "text": "VENEZUELA: UN HOMME ET SON FILS ADOLESCENT SECOURUS QUATRE JOURS APRÈS LE SÉISME",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:29",
-      "date": "28/06",
-      "timestamp": 1782678594
-    },
-    {
-      "id": "BFMTV_1782673582",
-      "source": "BFMTV",
-      "text": "40 JOURS POUR FAIRE CÉDER LA RUSSIE: \"SUR LE FRONT, LES UKRAINIENS AVANCENT\", ANALYSE BERNARD-HENRI LÉVY, ÉCRIVAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:06",
-      "date": "28/06",
-      "timestamp": 1782673582
-    },
-    {
-      "id": "BFMTV_1782672490",
-      "source": "BFMTV",
-      "text": "40 JOURS POUR FAIRE CÉDER LA RUSSIE: \"VLADIMIR POUTINE PERDRA LA GUERRE CONTRE L'UKRAINE ET IL EST EN TRAIN DE LE COMPRENDRE\", ANALYSE BERNARD-HENRI LÉVY, ÉCRIVAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:48",
-      "date": "28/06",
-      "timestamp": 1782672490
-    },
-    {
-      "id": "BFMTV_1782672286",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ESTIME \"QUE L'UKRAINE EST EN ASSEZ BONNE POSITION\" DANS LA GUERRE CONTRE LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:44",
-      "date": "28/06",
-      "timestamp": 1782672286
-    },
-    {
-      "id": "BFMTV_1782671872",
-      "source": "BFMTV",
-      "text": "L'UKRAINE SE FIXE UN DÉLAI DE 40 JOURS POUR PROVOQUER LA CAPITULATION DE LA RUSSIE ET DE VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:37",
-      "date": "28/06",
-      "timestamp": 1782671872
     }
   ],
   "france": {
