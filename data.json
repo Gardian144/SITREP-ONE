@@ -1,7 +1,77 @@
 {
-  "last_update": "30/06 15:10",
+  "last_update": "30/06 17:15",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782839106",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: POURQUOI LA CRIMÉE EST SI IMPORTANTE POUR VLADIMIR POUTINE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:05",
+      "date": "30/06",
+      "timestamp": 1782839106
+    },
+    {
+      "id": "OPEX360_1782838006",
+      "source": "OPEX360",
+      "text": "KNDS FRANCE DIFFUSE LES IMAGES DES ESSAIS DU DÉMONSTRATEUR DE CHAR CAPINT, LE SUCCESSEUR DU LECLERC",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:46",
+      "date": "30/06",
+      "timestamp": 1782838006
+    },
+    {
+      "id": "BFMTV_1782836936",
+      "source": "BFMTV",
+      "text": "MONDIAL: VIOLEMMENT TOUCHÉ PAR LA CRISE DES OPIOÏDES, CE QUARTIER DE PHILADELPHIE CHANGE SON IMAGE GRÂCE AU FOOTBALL",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:28",
+      "date": "30/06",
+      "timestamp": 1782836936
+    },
+    {
+      "id": "OPEX360_1782834440",
+      "source": "OPEX360",
+      "text": "LE ROYAUME-UNI VA INVESTIR 345 MILLIARDS D’EUROS DANS SA DÉFENSE EN QUATRE ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:47",
+      "date": "30/06",
+      "timestamp": 1782834440
+    },
+    {
+      "id": "BFMTV_1782833413",
+      "source": "BFMTV",
+      "text": "\"NOUS DEVONS NOUS Y PRÉPARER\" : L'ANCIEN DIRECTEUR DE LA POLITIQUE NUCLÉAIRE DE L'OTAN ESTIME QU'UNE GUERRE NUCLÉAIRE EST \"UNE POSSIBILITÉ\" AUJOURD'HUI",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:30",
+      "date": "30/06",
+      "timestamp": 1782833413
+    },
+    {
+      "id": "BFMTV_1782833320",
+      "source": "BFMTV",
+      "text": "DOUBLE SÉISME AU VENEZUELA: MALGRÉ L'AIDE ÉTRANGÈRE, LE PAYS CROULE SOUS LES BESOINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:28",
+      "date": "30/06",
+      "timestamp": 1782833320
+    },
+    {
+      "id": "BFMTV_1782832951",
+      "source": "BFMTV",
+      "text": "\"LES RUSSES NE VEULENT PAS COMMENCER UNE GUERRE AVEC L'OTAN\": L'ANCIEN DIRECTEUR DE LA POLITIQUE NUCLÉAIRE DE L'OTAN DÉCRYPTE LA MENACE RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:22",
+      "date": "30/06",
+      "timestamp": 1782832951
+    },
     {
       "id": "BFMTV_1782831474",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "18:37",
       "date": "28/06",
       "timestamp": 1782671872
-    },
-    {
-      "id": "BFMTV_1782671769",
-      "source": "BFMTV",
-      "text": "UN FRANÇAIS ARRÊTÉ AU ROYAUME-UNI POUR LE MEURTRE ET LE VIOL D'UNE ENFANT DE DEUX ANS",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:36",
-      "date": "28/06",
-      "timestamp": 1782671769
-    },
-    {
-      "id": "BFMTV_1782662252",
-      "source": "BFMTV",
-      "text": "EN PLEIN MONDIAL AUX ÉTATS-UNIS, CES MIGRANTS JOUENT AU FOOTBALL SOUS LA MENACE DE L'ICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:57",
-      "date": "28/06",
-      "timestamp": 1782662252
-    },
-    {
-      "id": "BFMTV_1782657662",
-      "source": "BFMTV",
-      "text": "GUERRE IA: QUI EST CET ENTREPRENEUR DE LA TECH TRÈS PROCHE DE TRUMP ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:41",
-      "date": "28/06",
-      "timestamp": 1782657662
-    },
-    {
-      "id": "BFMTV_1782654433",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:47",
-      "date": "28/06",
-      "timestamp": 1782654433
-    },
-    {
-      "id": "BFMTV_1782654433",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:47",
-      "date": "28/06",
-      "timestamp": 1782654433
-    },
-    {
-      "id": "BFMTV_1782654433",
-      "source": "BFMTV",
-      "text": "\"NOUS VOYONS LES PROBLÈMES ET NOUS Y RÉPONDONS\": VLADIMIR POUTINE PROMET DE \"RELEVER LES DÉFIS\" ET D'\"ASSURER\" LA SÉCURITÉ DE LA RUSSIE FACE AUX FRAPPES UKRAINIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:47",
-      "date": "28/06",
-      "timestamp": 1782654433
-    },
-    {
-      "id": "BFMTV_1782654433",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:47",
-      "date": "28/06",
-      "timestamp": 1782654433
     }
   ],
   "france": {
