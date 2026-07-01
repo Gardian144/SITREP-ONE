@@ -1,7 +1,67 @@
 {
-  "last_update": "01/07 13:54",
+  "last_update": "01/07 16:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782921750",
+      "source": "BFMTV",
+      "text": "\"LES CAPACITÉS DE PRODUCTION AMÉRICAINES SONT LIMITÉES\": BERLIN VEUT FABRIQUER DES ARMES AMÉRICAINES SUR SON TERRITOIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:02",
+      "date": "01/07",
+      "timestamp": 1782921750
+    },
+    {
+      "id": "BFMTV_1782921356",
+      "source": "BFMTV",
+      "text": "IRAN: \"ILS SONT PLUS ÉLOIGNÉS QUE JAMAIS DE DÉVELOPPER UNE BOMBE NUCLÉAIRE\" DÉCLARE JD VANCE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:55",
+      "date": "01/07",
+      "timestamp": 1782921356
+    },
+    {
+      "id": "BFMTV_1782919240",
+      "source": "BFMTV",
+      "text": "\"TOUT LE MONDE FAIT DES BÉNÉFICES\": DONALD TRUMP REVIENT SUR SON GAIN DE 1,2 MILLARD DE DOLLARS GRÂCE À SES ACTIVITÉS DANS LA CRYPTOMONNAIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:20",
+      "date": "01/07",
+      "timestamp": 1782919240
+    },
+    {
+      "id": "OPEX360_1782918000",
+      "source": "OPEX360",
+      "text": "POUR DASSAULT AVIATION, L’ARCHITECTURE DU RAFALE F5 NE POURRA QU’ÊTRE «ARCHIFERMÉE»",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:00",
+      "date": "01/07",
+      "timestamp": 1782918000
+    },
+    {
+      "id": "BFMTV_1782917003",
+      "source": "BFMTV",
+      "text": "DOUBLE SÉISME AU VENEZUELA: PLUS DE 100 VÉNÉZUÉLIENS EXPULSÉS PAR L'ICE PORTÉS DISPARUS APRÈS L'EFFONDREMENT DE L'HÔTEL OÙ ILS ÉTAIENT HÉBERGÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:43",
+      "date": "01/07",
+      "timestamp": 1782917003
+    },
+    {
+      "id": "BFMTV_1782914262",
+      "source": "BFMTV",
+      "text": "CE PÈRE PERMET À SON FILS MALVOYANT DE 9 ANS DE SUIVRE LES MATCHS DU MONDIAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:57",
+      "date": "01/07",
+      "timestamp": 1782914262
+    },
     {
       "id": "BFMTV_1782912290",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "15:56",
       "date": "29/06",
       "timestamp": 1782748597
-    },
-    {
-      "id": "BFMTV_1782748589",
-      "source": "BFMTV",
-      "text": "CORPS RETROUVÉ DANS UNE VALISE EN THAÏLANDE: UN AUSTRALIEN INCULPÉ POUR MEURTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:56",
-      "date": "29/06",
-      "timestamp": 1782748589
-    },
-    {
-      "id": "BFMTV_1782748228",
-      "source": "BFMTV",
-      "text": "\"IL A DES ESPOIRS\" MAIS \"C'EST UNE ÉPREUVE\" DEPUIS DEUX ANS, EXPLIQUE LE MÈRE DE CHRISTOPHE GLEIZES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:50",
-      "date": "29/06",
-      "timestamp": 1782748228
-    },
-    {
-      "id": "BFMTV_1782748019",
-      "source": "BFMTV",
-      "text": "\"IL EST ESSENTIEL QUE LE MONDE DU FOOTBALL DISE \"CHRISTOPHE EST L'UN DES NÔTRES\"\": LE PÈRE DE CHRISTOPHE GLEIZES REMERCIE LE MONDE DU FOOTBALL POUR SES MESSAGES DE SOUTIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:46",
-      "date": "29/06",
-      "timestamp": 1782748019
-    },
-    {
-      "id": "BFMTV_1782747681",
-      "source": "BFMTV",
-      "text": "\"DES SIGNAUX EXISTENT\" POUR UNE GRÂCE PRÉSIDENTIELLE DE CHRISTOPHE GLEIZES, AFFIRME SON PÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:41",
-      "date": "29/06",
-      "timestamp": 1782747681
-    },
-    {
-      "id": "BFMTV_1782747559",
-      "source": "BFMTV",
-      "text": "CHRISTOPHE GLEIZES: \"LE TEMPS POUR LUI EST TRÈS LONG\" REGRETTE SA MÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:39",
-      "date": "29/06",
-      "timestamp": 1782747559
-    },
-    {
-      "id": "BFMTV_1782747363",
-      "source": "BFMTV",
-      "text": "CHRISTOPHE GLEIZES: \"LE MORAL COMMENCE À DÉCLINER\", ASSURE SA MÈRE CAR \"IL EST TOTALEMENT COUPÉ DU MONDE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:36",
-      "date": "29/06",
-      "timestamp": 1782747363
     }
   ],
   "france": {
