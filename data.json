@@ -1,7 +1,27 @@
 {
-  "last_update": "01/07 18:25",
+  "last_update": "01/07 20:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782932214",
+      "source": "BFMTV",
+      "text": "VENEZUELA: CES IMAGES MONTRENT LE MOMENT OÙ DEUX SÉISMES ONT FRAPPÉ LE PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:56",
+      "date": "01/07",
+      "timestamp": 1782932214
+    },
+    {
+      "id": "BFMTV_1782931038",
+      "source": "BFMTV",
+      "text": "LES JEUX PLAYSTATION NE SORTIRONT PLUS EN VERSION PHYSIQUE À PARTIR DE JANVIER 2028",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:37",
+      "date": "01/07",
+      "timestamp": 1782931038
+    },
     {
       "id": "OPEX360_1782927987",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "17:02",
       "date": "29/06",
       "timestamp": 1782752534
-    },
-    {
-      "id": "OPEX360_1782751920",
-      "source": "OPEX360",
-      "text": "LA GRÈCE EST SUR LE POINT DE COMMANDER TROIS SYSTÈMES ISRAÉLIENS DE DÉFENSE AÉRIENNE POUR 3 MILLIARDS D’EUROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:52",
-      "date": "29/06",
-      "timestamp": 1782751920
-    },
-    {
-      "id": "BFMTV_1782750448",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: AU MOINS 117 CHIENS RETROUVÉS MORTS EN CALIFORNIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:27",
-      "date": "29/06",
-      "timestamp": 1782750448
     }
   ],
   "france": {
