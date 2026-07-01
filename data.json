@@ -1,7 +1,57 @@
 {
-  "last_update": "01/07 11:33",
+  "last_update": "01/07 13:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782912290",
+      "source": "BFMTV",
+      "text": "QUI EST ALEXANDER LUNIN, CET ANCIEN COMMANDANT ARRÊTÉ APRÈS AVOIR DÉNONCÉ DES VIOLENCES DANS LES RANGS DE L’ARMÉE RUSSE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:24",
+      "date": "01/07",
+      "timestamp": 1782912290
+    },
+    {
+      "id": "BFMTV_1782911789",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES DISCUSSIONS AVEC L'IRAN ONT ÉTÉ \"TRÈS BONNES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:16",
+      "date": "01/07",
+      "timestamp": 1782911789
+    },
+    {
+      "id": "BFMTV_1782911511",
+      "source": "BFMTV",
+      "text": "NÉGOCIATIONS AVEC L'IRAN : DONALD TRUMP ÉVOQUE DE \"TRÈS BONNES\" RÉUNIONS À DOHA",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:11",
+      "date": "01/07",
+      "timestamp": 1782911511
+    },
+    {
+      "id": "BFMTV_1782909590",
+      "source": "BFMTV",
+      "text": "AU MOINS CINQ MORTS DANS L'INCENDIE D'UN IMMEUBLE À ANVERS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:39",
+      "date": "01/07",
+      "timestamp": 1782909590
+    },
+    {
+      "id": "BFMTV_1782909535",
+      "source": "BFMTV",
+      "text": "UN COUPLE D’AMÉRICAINS RISQUE LA PERPÉTUITÉ APRÈS LA MORT DE LEUR FILS DE 7 ANS QUI PESAIT DÉJÀ 116 KG",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:38",
+      "date": "01/07",
+      "timestamp": 1782909535
+    },
     {
       "id": "BFMTV_1782904979",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "15:36",
       "date": "29/06",
       "timestamp": 1782747363
-    },
-    {
-      "id": "OPEX360_1782746256",
-      "source": "OPEX360",
-      "text": "L’ALGÉRIE ENVISAGERAIT D’ACQUÉRIR DES CHASSEURS J-10 ET DES AVIONS D’ALERTE AVANCÉE KJ-500 AUPRÈS DE LA CHINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:17",
-      "date": "29/06",
-      "timestamp": 1782746256
-    },
-    {
-      "id": "BFMTV_1782745085",
-      "source": "BFMTV",
-      "text": "DÉCENTRALISER LE ROYAUME-UNI: LE PARI D'ANDY BURNHAM, PROBABLE SUCCESSEUR DE STARMER ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:58",
-      "date": "29/06",
-      "timestamp": 1782745085
-    },
-    {
-      "id": "BFMTV_1782742864",
-      "source": "BFMTV",
-      "text": "ÉCONOMIE: \"NOUS VOULONS CLAIREMENT ÉTABLIR AVEC VOUS UN PARTENARIAT TRÈS SPÉCIAL\", ASSURE EMMANUEL MACRON AU SULTAN D'OMAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:21",
-      "date": "29/06",
-      "timestamp": 1782742864
-    },
-    {
-      "id": "BFMTV_1782739221",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: CINQ MORTS ET PLUSIEURS BLESSÉS APRÈS DES COUPS DE FEU À STADE",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:20",
-      "date": "29/06",
-      "timestamp": 1782739221
-    },
-    {
-      "id": "BFMTV_1782739029",
-      "source": "BFMTV",
-      "text": "SÉISMES AU VENEZUELA: FACE AUX MAIGRES ESPOIRS DE RETROUVER DES SURVIVANTS ET À UNE MOBILISATION JUGÉE INSUFFISANTE, LA GROGNE MONTE DANS LA POPULATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:17",
-      "date": "29/06",
-      "timestamp": 1782739029
     }
   ],
   "france": {
