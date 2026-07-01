@@ -1,7 +1,27 @@
 {
-  "last_update": "01/07 20:24",
+  "last_update": "01/07 22:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782938763",
+      "source": "BFMTV",
+      "text": "\"C'ÉTAIT LE VOL INAUGURAL D'UN CERTAIN AVION APPELÉ AIR FORCE ONE, C'EST UN EXCELLENT AVION\", DÉCLARE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:46",
+      "date": "01/07",
+      "timestamp": 1782938763
+    },
+    {
+      "id": "BFMTV_1782937799",
+      "source": "BFMTV",
+      "text": "\"LES ESPAGNOLS, DES MEMBRES DE L'OTAN MAIS PAS DE TRÈS BONS\", AFFIRME DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:29",
+      "date": "01/07",
+      "timestamp": 1782937799
+    },
     {
       "id": "BFMTV_1782932214",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "17:23",
       "date": "29/06",
       "timestamp": 1782753824
-    },
-    {
-      "id": "BFMTV_1782753773",
-      "source": "BFMTV",
-      "text": "\"LES SERVICES DE RENSEIGNEMENT UKRAINIENS ONT OBTENU DES DOCUMENTS INTERNES RUSSES\", DÉCLARE VOLODYMYR ZELENSKY, PRÉSIDENT DE L'UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:22",
-      "date": "29/06",
-      "timestamp": 1782753773
-    },
-    {
-      "id": "BFMTV_1782752534",
-      "source": "BFMTV",
-      "text": "GAZA: \"L'ANNEXION EST EN COURS À UN RYTHME BIEN PLUS ÉLEVÉ QU'AVANT\", DÉCLARE L'AMBASSADEUR DE PALESTINE AUPRÈS DE L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:02",
-      "date": "29/06",
-      "timestamp": 1782752534
     }
   ],
   "france": {
