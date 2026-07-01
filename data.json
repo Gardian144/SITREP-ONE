@@ -1,7 +1,37 @@
 {
-  "last_update": "01/07 03:49",
+  "last_update": "01/07 08:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782893359",
+      "source": "BFMTV",
+      "text": "\"LE DÉVELOPPEMENT LE PLUS SPECTACULAIRE DE CES DERNIERS JOURS EST CETTE CAPACITÉ À ALLER FRAPPER EN PROFONDEUR  LE TERRITOIRE RUSSE\", EXPLIQUE THIERRY ARNAUD, ÉDITORIALISTE POLITIQUE INTERNATIONALE BFMTV",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:09",
+      "date": "01/07",
+      "timestamp": 1782893359
+    },
+    {
+      "id": "BFMTV_1782893024",
+      "source": "BFMTV",
+      "text": "L'UKRAINE DIT AVOIR OUVERT UN \"CORRIDOR\" DANS LA DÉFENSE AÉRIENNE RUSSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:03",
+      "date": "01/07",
+      "timestamp": 1782893024
+    },
+    {
+      "id": "BFMTV_1782882136",
+      "source": "BFMTV",
+      "text": "DOUBLE SÉISME AU VENEZUELA: UN ENFANT DE TROIS ANS SECOURU SIX JOURS APRÈS LE DRAME",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:02",
+      "date": "01/07",
+      "timestamp": 1782882136
+    },
     {
       "id": "BFMTV_1782854708",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "10:09",
       "date": "29/06",
       "timestamp": 1782727774
-    },
-    {
-      "id": "BFMTV_1782727673",
-      "source": "BFMTV",
-      "text": "PLUSIEURS DIZAINES DE FRANÇAIS ENTRENT SANS PAYER DANS UNE PISCINE ALLEMANDE ET ENTRAÎNENT L'ÉVACUATION DE TOUS LES NAGEURS",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:07",
-      "date": "29/06",
-      "timestamp": 1782727673
-    },
-    {
-      "id": "BFMTV_1782727013",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: LE SULTAN D'OMAN REÇU PAR EMMANUEL MACRON À L'ÉLYSÉE CE LUNDI",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:56",
-      "date": "29/06",
-      "timestamp": 1782727013
-    },
-    {
-      "id": "BFMTV_1782726756",
-      "source": "BFMTV",
-      "text": "UN VASTE COMPLEXE DE LOGEMENTS DE L'ÈRE CHAVEZ DÉTRUIT PAR LE DOUBLE SÉISME AU VENEZUELA",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:52",
-      "date": "29/06",
-      "timestamp": 1782726756
     }
   ],
   "france": {
