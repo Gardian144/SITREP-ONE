@@ -1,7 +1,57 @@
 {
-  "last_update": "02/07 16:08",
+  "last_update": "02/07 18:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783014612",
+      "source": "BFMTV",
+      "text": "LE RADAR - DRONES: LE NOUVEAU NERF DE LA GUERRE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:50",
+      "date": "02/07",
+      "timestamp": 1783014612
+    },
+    {
+      "id": "BFMTV_1783014334",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: ALICE RUFO, MINISTRE DÉLÉGUÉE DES ARMÉES, PARLE \"D'ATTAQUES INTOLÉRABLES\" SUR KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:45",
+      "date": "02/07",
+      "timestamp": 1783014334
+    },
+    {
+      "id": "OPEX360_1783013356",
+      "source": "OPEX360",
+      "text": "LE CINQUANTIÈME ET DERNIER MIRAGE 2000D PORTÉ AU STANDARD RMV A ÉTÉ LIVRÉ À L’ARMÉE DE L’AIR & DE L’ESPACE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:29",
+      "date": "02/07",
+      "timestamp": 1783013356
+    },
+    {
+      "id": "BFMTV_1783010729",
+      "source": "BFMTV",
+      "text": "QU’EST-CE QUE CETTE NOUVELLE LOI ETHNIQUE CHINOISE QUI INQUIÈTE LES MINORITÉS? ",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:45",
+      "date": "02/07",
+      "timestamp": 1783010729
+    },
+    {
+      "id": "OPEX360_1783008780",
+      "source": "OPEX360",
+      "text": "L’ALLEMAGNE A DEMANDÉ AUX ÉTATS-UNIS UNE LICENCE POUR PRODUIRE DES MISSILES TOMAHAWK ET PAC-3 MSE",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:13",
+      "date": "02/07",
+      "timestamp": 1783008780
+    },
     {
       "id": "BFMTV_1783007091",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "12:27",
       "date": "30/06",
       "timestamp": 1782822460
-    },
-    {
-      "id": "BFMTV_1782822460",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:27",
-      "date": "30/06",
-      "timestamp": 1782822460
-    },
-    {
-      "id": "BFMTV_1782820637",
-      "source": "BFMTV",
-      "text": "EN AFRIQUE DU SUD, 25.000 PERSONNES ÉTRANGÈRES ONT DÛ QUITTER LE TERRITOIRE SOUS LA MENACE DE GROUPES ANTI-IMMIGRÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:57",
-      "date": "30/06",
-      "timestamp": 1782820637
-    },
-    {
-      "id": "BFMTV_1782820116",
-      "source": "BFMTV",
-      "text": "\"UN FONCTIONNEMENT TRÈS SIMPLE\": CES DRONES FRANÇAIS QUI FRAGILISENT VLADIMIR POUTINE DANS LA GUERRE EN UKRAINE",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:48",
-      "date": "30/06",
-      "timestamp": 1782820116
-    },
-    {
-      "id": "BFMTV_1782819223",
-      "source": "BFMTV",
-      "text": "UN MORT APRÈS UNE NOUVELLE ATTAQUE D'OURS SUSPECTÉE AU JAPON",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:33",
-      "date": "30/06",
-      "timestamp": 1782819223
-    },
-    {
-      "id": "BFMTV_1782816711",
-      "source": "BFMTV",
-      "text": "LES ÉMISSAIRES AMÉRICAINS STEVE WITKOFF ET JARED KUSHNER RENCONTRENT DES MÉDIATEURS AU QATAR POUR ÉVOQUER \"L'ENSEMBLE DES QUESTIONS RÉGIONALES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:51",
-      "date": "30/06",
-      "timestamp": 1782816711
     }
   ],
   "france": {
