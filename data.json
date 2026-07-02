@@ -1,7 +1,57 @@
 {
-  "last_update": "02/07 01:50",
+  "last_update": "02/07 05:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782971506",
+      "source": "BFMTV",
+      "text": "\"C'EST VRAIMENT UN MIRACLE\": HUIT JOURS APRÈS LES SÉISMES AU VENEZUELA, UN SURVIVANT DÉCOUVERT DANS LES DÉCOMBRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:51",
+      "date": "02/07",
+      "timestamp": 1782971506
+    },
+    {
+      "id": "BFMTV_1782970071",
+      "source": "BFMTV",
+      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:27",
+      "date": "02/07",
+      "timestamp": 1782970071
+    },
+    {
+      "id": "BFMTV_1782970070",
+      "source": "BFMTV",
+      "text": "INCENDIE DE CRANS-MONTANA: UNE PÉTITION LANCÉE CONTRE LE COUPLE MORETTI QUI VEUT ROUVRIR DEUX ÉTABLISSEMENTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:27",
+      "date": "02/07",
+      "timestamp": 1782970070
+    },
+    {
+      "id": "BFMTV_1782966299",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES ATTAQUES DE MISSILES SUR KIEV FONT AU MOINS HUIT MORTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:24",
+      "date": "02/07",
+      "timestamp": 1782966299
+    },
+    {
+      "id": "BFMTV_1782966153",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DEUX IMPORTANTS YACHTS DE VLADIMIR POUTINE QUITTENT LA MER BALTIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:22",
+      "date": "02/07",
+      "timestamp": 1782966153
+    },
     {
       "id": "BFMTV_1782938763",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "18:04",
       "date": "29/06",
       "timestamp": 1782756269
-    },
-    {
-      "id": "BFMTV_1782755269",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN NOUVEAU-NÉ A ÉTÉ RETROUVÉ MORT DANS DES TOILETTES LORS D’UN FESTIVAL DE MUSIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:47",
-      "date": "29/06",
-      "timestamp": 1782755269
-    },
-    {
-      "id": "OPEX360_1782754774",
-      "source": "OPEX360",
-      "text": "LA POLOGNE CONFIRME LA COMMANDE DE TROIS SOUS-MARINS DE TYPE A26 AUPRÈS DE SAAB POUR PLUS DE 4 MILLIARDS D’EUROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:39",
-      "date": "29/06",
-      "timestamp": 1782754774
-    },
-    {
-      "id": "BFMTV_1782754662",
-      "source": "BFMTV",
-      "text": "LA COUR SUPRÊME REJETTE LE RECOURS DE DONALD TRUMP CONTRE UNE CONDAMNATION POUR AGRESSION SEXUELLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:37",
-      "date": "29/06",
-      "timestamp": 1782754662
-    },
-    {
-      "id": "BFMTV_1782754270",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE AVOUE QUE LA RUSSIE CONNAÎT \"UNE CERTAINE PÉNURIE DE CARBURANT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:31",
-      "date": "29/06",
-      "timestamp": 1782754270
-    },
-    {
-      "id": "BFMTV_1782753824",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"ON EN PARLE MOINS MAIS IL Y A DES FRAPPES QUASIMENT TOUTES LES NUITS EN UKRAINE\", RAPPELLE MURIEL DOMENACH, ANCIENNE AMBASSADRICE DE FRANCE À L'OTAN ",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:23",
-      "date": "29/06",
-      "timestamp": 1782753824
     }
   ],
   "france": {
