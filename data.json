@@ -1,7 +1,37 @@
 {
-  "last_update": "02/07 19:50",
+  "last_update": "02/07 21:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783023989",
+      "source": "BFMTV",
+      "text": "AU MOINS 21 MORTS, LOURDS DÉGÂTS… CE QUE L'ON SAIT DE L'ATTAQUE \"LA PLUS MASSIVE\" SUR KIEV DEPUIS LE DÉBUT DE LA GUERRE EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:26",
+      "date": "02/07",
+      "timestamp": 1783023989
+    },
+    {
+      "id": "BFMTV_1783023271",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE DÉCRYPTAGE D'ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:14",
+      "date": "02/07",
+      "timestamp": 1783023271
+    },
+    {
+      "id": "BFMTV_1783021922",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DANS LES COULISSES DES PRATIQUES DE L'ARMÉE RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:52",
+      "date": "02/07",
+      "timestamp": 1783021922
+    },
     {
       "id": "BFMTV_1783020684",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:05",
       "date": "30/06",
       "timestamp": 1782839106
-    },
-    {
-      "id": "OPEX360_1782838006",
-      "source": "OPEX360",
-      "text": "KNDS FRANCE DIFFUSE LES IMAGES DES ESSAIS DU DÉMONSTRATEUR DE CHAR CAPINT, LE SUCCESSEUR DU LECLERC",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:46",
-      "date": "30/06",
-      "timestamp": 1782838006
-    },
-    {
-      "id": "BFMTV_1782836936",
-      "source": "BFMTV",
-      "text": "MONDIAL: VIOLEMMENT TOUCHÉ PAR LA CRISE DES OPIOÏDES, CE QUARTIER DE PHILADELPHIE CHANGE SON IMAGE GRÂCE AU FOOTBALL",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:28",
-      "date": "30/06",
-      "timestamp": 1782836936
-    },
-    {
-      "id": "OPEX360_1782834440",
-      "source": "OPEX360",
-      "text": "LE ROYAUME-UNI VA INVESTIR 345 MILLIARDS D’EUROS DANS SA DÉFENSE EN QUATRE ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:47",
-      "date": "30/06",
-      "timestamp": 1782834440
     }
   ],
   "france": {
