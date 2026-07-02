@@ -1,7 +1,97 @@
 {
-  "last_update": "02/07 09:28",
+  "last_update": "02/07 11:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1782990980",
+      "source": "BFMTV",
+      "text": "SCANDALE D'ADOPTIONS FORCÉES AU ROYAUME-UNI: KEIR STARMER ANNONCE DES MESURES",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:16",
+      "date": "02/07",
+      "timestamp": 1782990980
+    },
+    {
+      "id": "BFMTV_1782990848",
+      "source": "BFMTV",
+      "text": "\"LA HONTE EST NÔTRE\": KEIR STARMER PRÉSENTE DES EXCUSES OFFICIELLES POUR UN SCANDALE D'ADOPTIONS FORCÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:14",
+      "date": "02/07",
+      "timestamp": 1782990848
+    },
+    {
+      "id": "BFMTV_1782990454",
+      "source": "BFMTV",
+      "text": "AFFAIRE WEINSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:07",
+      "date": "02/07",
+      "timestamp": 1782990454
+    },
+    {
+      "id": "BFMTV_1782989333",
+      "source": "BFMTV",
+      "text": "LE MAIRE D'UNE VILLE MEXICAINE ÉPOUSE UN CAÏMAN POUR PORTER CHANCE AUX HABITANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:48",
+      "date": "02/07",
+      "timestamp": 1782989333
+    },
+    {
+      "id": "BFMTV_1782989310",
+      "source": "BFMTV",
+      "text": "DÉLUGE DE FEU SUR KIEV: LA CAPITALE UKRAINIENNE A CONNU SA PIRE ATTAQUE RUSSE DEPUIS LE DÉBUT DE LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:48",
+      "date": "02/07",
+      "timestamp": 1782989310
+    },
+    {
+      "id": "BFMTV_1782989085",
+      "source": "BFMTV",
+      "text": "MONDIAL 2026: UN SUPPORTER MEXICAIN VANDALISE UN BALLON GÉANT DU DÉCOR ET SE FAIT ARRÊTER",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:44",
+      "date": "02/07",
+      "timestamp": 1782989085
+    },
+    {
+      "id": "OPEX360_1782988043",
+      "source": "OPEX360",
+      "text": "ARMEMENT : SA VALORISATION REVUE À LA BAISSE, LE GROUPE FRANCO-ALLEMAND KNDS REPORTE SON INTRODUCTION EN BOURSE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:27",
+      "date": "02/07",
+      "timestamp": 1782988043
+    },
+    {
+      "id": "BFMTV_1782984509",
+      "source": "BFMTV",
+      "text": "\"CE QUI EST PERDU EST PERDU\": SERGE ATLAOUI, EX-CONDAMNÉ À MORT EN INDONÉSIE, RACONTE \"L'ENFER\" QU'IL A VÉCU",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:28",
+      "date": "02/07",
+      "timestamp": 1782984509
+    },
+    {
+      "id": "BFMTV_1782984453",
+      "source": "BFMTV",
+      "text": "17 MORTS, LOURDS DÉGÂTS… CE QUE L'ON SAIT DE L'ATTAQUE \"LA PLUS MASSIVE\" SUR KIEV DEPUIS LE DÉBUT DE LA GUERRE EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:27",
+      "date": "02/07",
+      "timestamp": 1782984453
+    },
     {
       "id": "BFMTV_1782980734",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "21:55",
       "date": "29/06",
       "timestamp": 1782770150
-    },
-    {
-      "id": "BFMTV_1782769678",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MONACO: \"TOUTES LES MESURES DE PROTECTION ONT ÉTÉ MISES EN ŒUVRE POUR REHAUSSER LE NIVEAU DE VIGILANCE DES SERVICES DE LA PRINCIPAUTÉ\", ASSURE CHRISTOPHE MIRMAND, MINISTRE D'ÉTAT DE MONACO",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:47",
-      "date": "29/06",
-      "timestamp": 1782769678
-    },
-    {
-      "id": "BFMTV_1782769456",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MONACO: \"DEUX VICTIMES SONT EN URGENCE ABSOLUE\", ANNONCE CHRISTOPHE MIRMAND, MINISTRE D'ÉTAT",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:44",
-      "date": "29/06",
-      "timestamp": 1782769456
-    },
-    {
-      "id": "BFMTV_1782768920",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MONACO: LA PHOTO DU SUSPECT DÉVOILÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:35",
-      "date": "29/06",
-      "timestamp": 1782768920
-    },
-    {
-      "id": "BFMTV_1782768478",
-      "source": "BFMTV",
-      "text": "MONACO: L'EXPLOSION SERAIT \"VRAISEMBLABLEMENT UN ATTENTAT\", SELON LE MINISTRE D'ÉTAT MONÉGASQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:27",
-      "date": "29/06",
-      "timestamp": 1782768478
-    },
-    {
-      "id": "BFMTV_1782768100",
-      "source": "BFMTV",
-      "text": "UN HOMME MEURT APRÈS UNE ATTAQUE DE CROCODILE À MEXICO",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:21",
-      "date": "29/06",
-      "timestamp": 1782768100
-    },
-    {
-      "id": "BFMTV_1782767682",
-      "source": "BFMTV",
-      "text": "MONACO: TOUTES LES VICTIMES SONT DE NATIONALITÉ UKRAINIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:14",
-      "date": "29/06",
-      "timestamp": 1782767682
-    },
-    {
-      "id": "BFMTV_1782766694",
-      "source": "BFMTV",
-      "text": "MONACO: UNE EXPLOSION A FAIT TROIS BLESSÉS DONT DEUX GRAVES",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:58",
-      "date": "29/06",
-      "timestamp": 1782766694
-    },
-    {
-      "id": "BFMTV_1782765600",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MONACO: UN COLIS PIÉGÉ A ÉTÉ DÉPOSÉ EN BAS D'UN IMMEUBLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:40",
-      "date": "29/06",
-      "timestamp": 1782765600
-    },
-    {
-      "id": "BFMTV_1782765450",
-      "source": "BFMTV",
-      "text": "UNE IMPORTANTE EXPLOSION S'EST PRODUITE À MONACO, UN SUSPECT EST TOUJOURS EN FUITE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:37",
-      "date": "29/06",
-      "timestamp": 1782765450
     }
   ],
   "france": {
