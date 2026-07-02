@@ -1,7 +1,77 @@
 {
-  "last_update": "02/07 11:53",
+  "last_update": "02/07 13:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783000522",
+      "source": "BFMTV",
+      "text": "LES PILOTES DE LA PATROUILLE DE FRANCE SURVOLENT NEW YORK DANS LE CADRE DE LA MISSION “LIBERTÉ 250”",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:55",
+      "date": "02/07",
+      "timestamp": 1783000522
+    },
+    {
+      "id": "BFMTV_1782999603",
+      "source": "BFMTV",
+      "text": "\"C'EST VRAIMENT UN MIRACLE\": HUIT JOURS APRÈS LES SÉISMES AU VENEZUELA, UN SURVIVANT EXTRAIT DES DÉCOMBRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:40",
+      "date": "02/07",
+      "timestamp": 1782999603
+    },
+    {
+      "id": "BFMTV_1782999265",
+      "source": "BFMTV",
+      "text": "VENEZUELA: UN SURVIVANT EXTRAIT DES DÉCOMBRES, HUIT JOURS APRÈS LES DEUX SÉISMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:34",
+      "date": "02/07",
+      "timestamp": 1782999265
+    },
+    {
+      "id": "OPEX360_1782998167",
+      "source": "OPEX360",
+      "text": "LA JUSTICE ALLEMANDE ACCUSE LES AUTORITÉS UKRAINIENNES D’ÊTRE À L’ORIGINE DU SABOTAGE DES GAZODUCS NORD STREAM",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:16",
+      "date": "02/07",
+      "timestamp": 1782998167
+    },
+    {
+      "id": "BFMTV_1782997619",
+      "source": "BFMTV",
+      "text": "COLLISION D'UN AVION AVEC LE PLUS HAUT GRATTE-CIEL DE PÉKIN: LE PILOTE AVAIT ÉCRIT VOULOIR \"METTRE FIN À SES JOURS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:06",
+      "date": "02/07",
+      "timestamp": 1782997619
+    },
+    {
+      "id": "BFMTV_1782995918",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"LA RUSSIE CONTINUERA D'ACCROÎTRE LA PRESSION\", AFFIRME DMITRI PESKOV, PORTE-PAROLE DU KREMLIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:38",
+      "date": "02/07",
+      "timestamp": 1782995918
+    },
+    {
+      "id": "BFMTV_1782993779",
+      "source": "BFMTV",
+      "text": "THAÏLANDE: AU MOINS 8 MOINES TUÉS APRÈS AVOIR ÉTÉ RENVERSÉS PAR UNE CAMIONNETTE CONDUITE PAR UN ENFANT DE 11 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:02",
+      "date": "02/07",
+      "timestamp": 1782993779
+    },
     {
       "id": "BFMTV_1782990980",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "08:02",
       "date": "30/06",
       "timestamp": 1782806563
-    },
-    {
-      "id": "BFMTV_1782806364",
-      "source": "BFMTV",
-      "text": "ATTAQUES DU 7 OCTOBRE 2023 DU HAMAS CONTRE ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:59",
-      "date": "30/06",
-      "timestamp": 1782806364
-    },
-    {
-      "id": "BFMTV_1782803421",
-      "source": "BFMTV",
-      "text": "\"UNE CRÉATION ARTISTIQUE MONUMENTALE\": LA FRANCE ILLUMINERA LA STATUE DE LA LIBERTÉ POUR LES 250 ANS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:10",
-      "date": "30/06",
-      "timestamp": 1782803421
-    },
-    {
-      "id": "BFMTV_1782798224",
-      "source": "BFMTV",
-      "text": "LA RUSSIE DIT AVOIR ABATTU 419 DRONES UKRAINIENS DANS LA NUIT DE LUNDI À MARDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:43",
-      "date": "30/06",
-      "timestamp": 1782798224
-    },
-    {
-      "id": "BFMTV_1782797301",
-      "source": "BFMTV",
-      "text": "DES RÉUNIONS ANNONCÉES CETTE SEMAINE ENTRE L'IRAN ET LES ÉTATS-UNIS AU QATAR, LES HOSTILITÉS EN PAUSE",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:28",
-      "date": "30/06",
-      "timestamp": 1782797301
-    },
-    {
-      "id": "BFMTV_1782771251",
-      "source": "BFMTV",
-      "text": "APRÈS L'EXPLOSION À MONACO, LE MINISTRE D'ÉTAT ANNONCE \"DEUX VICTIMES EN URGENCE ABSOLUE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:14",
-      "date": "29/06",
-      "timestamp": 1782771251
-    },
-    {
-      "id": "BFMTV_1782770958",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MONACO: UN HABITANT TÉMOIGNE SUR BFMTV",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:09",
-      "date": "29/06",
-      "timestamp": 1782770958
-    },
-    {
-      "id": "BFMTV_1782770150",
-      "source": "BFMTV",
-      "text": "CHRISTOPHE MIRMAND, MINISTRE D'ÉTAT DE MONACO, FAIT LE POINT APRÈS L'EXPLOSION DANS LA PRINCIPAUTÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:55",
-      "date": "29/06",
-      "timestamp": 1782770150
     }
   ],
   "france": {
