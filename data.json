@@ -1,7 +1,67 @@
 {
-  "last_update": "03/07 01:16",
+  "last_update": "03/07 05:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783055989",
+      "source": "BFMTV",
+      "text": "\"ILS N'ÉTAIENT PAS LÀ POUR NOUS!\": DONALD TRUMP JUGE \"RIDICULE\" QUE LES ÉTATS-UNIS POURSUIVENT LEUR SOUTIEN À L'OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:19",
+      "date": "03/07",
+      "timestamp": 1783055989
+    },
+    {
+      "id": "BFMTV_1783054797",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE BILAN DE L'ATTAQUE RUSSE \"LA PLUS MASSIVE\" SUR KIEV DEPUIS LE DÉBUT DU CONFLIT GRIMPE À 30 MORTS ET PRÈS D'UNE CENTAINE DE BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:59",
+      "date": "03/07",
+      "timestamp": 1783054797
+    },
+    {
+      "id": "BFMTV_1783054200",
+      "source": "BFMTV",
+      "text": "BIBLE, NOURRITURE \"ULTRA TRANSFORMÉE\" ET COHABITATION AVEC UN RAPPEUR: LE QUOTIDIEN DE NICOLAS MADURO, TOUJOURS INCARCÉRÉ AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:50",
+      "date": "03/07",
+      "timestamp": 1783054200
+    },
+    {
+      "id": "BFMTV_1783054164",
+      "source": "BFMTV",
+      "text": "AU MOINS 30 MORTS, LOURDS DÉGÂTS… CE QUE L'ON SAIT DE L'ATTAQUE \"LA PLUS MASSIVE\" SUR KIEV DEPUIS LE DÉBUT DE LA GUERRE EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:49",
+      "date": "03/07",
+      "timestamp": 1783054164
+    },
+    {
+      "id": "BFMTV_1783052574",
+      "source": "BFMTV",
+      "text": "UN HOMME MEURT APRÈS S'ÊTRE IMMOLÉ PAR LE FEU DEVANT LE SIÈGE DES NATIONS UNIES À NEW-YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:22",
+      "date": "03/07",
+      "timestamp": 1783052574
+    },
+    {
+      "id": "BFMTV_1783051320",
+      "source": "BFMTV",
+      "text": "\"TUTELLE AMÉRICAINE\", LIBÉRATION D'OPPOSANTS… OÙ EN EST LE VENEZUELA, SIX MOIS APRÈS LE CAPTURE DE NICOLAS MADURO?",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:02",
+      "date": "03/07",
+      "timestamp": 1783051320
+    },
     {
       "id": "BFMTV_1783023989",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "18:46",
       "date": "30/06",
       "timestamp": 1782845199
-    },
-    {
-      "id": "BFMTV_1782844980",
-      "source": "BFMTV",
-      "text": "\"SI LA RUSSIE DEVAIT LANCER UNE SÉRIE DE FRAPPES NUCLÉAIRES SUR L'EUROPE, CE SERAIT UN PÉCHÉ TERRIBLE\", EXPLIQUE UN POLITOLOGUE RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:43",
-      "date": "30/06",
-      "timestamp": 1782844980
-    },
-    {
-      "id": "BFMTV_1782842750",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MONACO: LE SUSPECT EST TOUJOURS EN FUITE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:05",
-      "date": "30/06",
-      "timestamp": 1782842750
-    },
-    {
-      "id": "BFMTV_1782842420",
-      "source": "BFMTV",
-      "text": "FUSILLADE EN ALLEMAGNE: LE SUSPECT PRINCIPAL SOUPÇONNÉ D'AVOIR SECOUÉ SON BÉBÉ",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:00",
-      "date": "30/06",
-      "timestamp": 1782842420
-    },
-    {
-      "id": "OPEX360_1782841921",
-      "source": "OPEX360",
-      "text": "LA ROUMANIE A CONFIRMÉ L’ACHAT DE SYSTÈMES ISRAÉLIENS DE DÉFENSE AÉRIENNE SPYDER POUR 2 MILLIARDS D’EUROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:52",
-      "date": "30/06",
-      "timestamp": 1782841921
-    },
-    {
-      "id": "BFMTV_1782839778",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: APRÈS QUATRE ANS DE GUERRE, LE MORAL DES RUSSES AU PLUS BAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:16",
-      "date": "30/06",
-      "timestamp": 1782839778
-    },
-    {
-      "id": "BFMTV_1782839106",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: POURQUOI LA CRIMÉE EST SI IMPORTANTE POUR VLADIMIR POUTINE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:05",
-      "date": "30/06",
-      "timestamp": 1782839106
     }
   ],
   "france": {
