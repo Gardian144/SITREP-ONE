@@ -1,7 +1,57 @@
 {
-  "last_update": "03/07 18:38",
+  "last_update": "03/07 20:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783107940",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON ANNONCE LE RETOUR EN FRANCE DU PORTE-AVIONS CHARLES DE GAULLE",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:45",
+      "date": "03/07",
+      "timestamp": 1783107940
+    },
+    {
+      "id": "BFMTV_1783106053",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON ANNONCE LE RETOUR DU PORTE-AVIONS CHARLES DE GAULLE EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:14",
+      "date": "03/07",
+      "timestamp": 1783106053
+    },
+    {
+      "id": "BFMTV_1783105666",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"ILS SONT CAPABLES DE TOUCHER LES FORCES RUSSES OÙ ILS VEULENT\", RAPPORTE ROBERT MÉNARD, MAIRE DVD DE BÉZIERS, PRÉSENT EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:07",
+      "date": "03/07",
+      "timestamp": 1783105666
+    },
+    {
+      "id": "BFMTV_1783105228",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DONALD TRUMP DÉCLARE SOUHAITER UN ACCORD DE PAIX ENTRE KIEV ET MOSCOU ",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:00",
+      "date": "03/07",
+      "timestamp": 1783105228
+    },
+    {
+      "id": "BFMTV_1783105211",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV RIPOSTE AUX ATTAQUES MASSIVES DE LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:00",
+      "date": "03/07",
+      "timestamp": 1783105211
+    },
     {
       "id": "OPEX360_1783099556",
       "source": "OPEX360",
@@ -951,56 +1001,6 @@
       "time": "16:29",
       "date": "01/07",
       "timestamp": 1782923354
-    },
-    {
-      "id": "BFMTV_1782921750",
-      "source": "BFMTV",
-      "text": "\"LES CAPACITÉS DE PRODUCTION AMÉRICAINES SONT LIMITÉES\": BERLIN VEUT FABRIQUER DES ARMES AMÉRICAINES SUR SON TERRITOIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:02",
-      "date": "01/07",
-      "timestamp": 1782921750
-    },
-    {
-      "id": "BFMTV_1782921356",
-      "source": "BFMTV",
-      "text": "IRAN: \"ILS SONT PLUS ÉLOIGNÉS QUE JAMAIS DE DÉVELOPPER UNE BOMBE NUCLÉAIRE\" DÉCLARE JD VANCE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:55",
-      "date": "01/07",
-      "timestamp": 1782921356
-    },
-    {
-      "id": "BFMTV_1782919240",
-      "source": "BFMTV",
-      "text": "\"TOUT LE MONDE FAIT DES BÉNÉFICES\": DONALD TRUMP REVIENT SUR SON GAIN DE 1,2 MILLARD DE DOLLARS GRÂCE À SES ACTIVITÉS DANS LA CRYPTOMONNAIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:20",
-      "date": "01/07",
-      "timestamp": 1782919240
-    },
-    {
-      "id": "OPEX360_1782918000",
-      "source": "OPEX360",
-      "text": "POUR DASSAULT AVIATION, L’ARCHITECTURE DU RAFALE F5 NE POURRA QU’ÊTRE «ARCHIFERMÉE»",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:00",
-      "date": "01/07",
-      "timestamp": 1782918000
-    },
-    {
-      "id": "BFMTV_1782917003",
-      "source": "BFMTV",
-      "text": "DOUBLE SÉISME AU VENEZUELA: PLUS DE 100 VÉNÉZUÉLIENS EXPULSÉS PAR L'ICE PORTÉS DISPARUS APRÈS L'EFFONDREMENT DE L'HÔTEL OÙ ILS ÉTAIENT HÉBERGÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:43",
-      "date": "01/07",
-      "timestamp": 1782917003
     }
   ],
   "france": {
