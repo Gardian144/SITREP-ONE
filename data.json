@@ -1,7 +1,47 @@
 {
-  "last_update": "03/07 20:02",
+  "last_update": "03/07 21:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783112883",
+      "source": "BFMTV",
+      "text": "RUSSIE: LES IMAGES DE VLADIMIR POUTINE EN TREILLIS AUX CÔTÉS DE SES TROUPES",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:08",
+      "date": "03/07",
+      "timestamp": 1783112883
+    },
+    {
+      "id": "BFMTV_1783112434",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS ALERTENT LA POLOGNE D'UNE POSSIBLE ATTAQUE DE L'ARMÉE RUSSE, SELON LE MÉDIA ONET",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:00",
+      "date": "03/07",
+      "timestamp": 1783112434
+    },
+    {
+      "id": "BFMTV_1783111854",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: \"CELA PEUT PRENDRE PLUSIEURS ANNÉES POUR AVOIR UN COULOIR MARITIME SÉCURISÉ\", EXPLIQUE THOMAS COUVIN, ANCIEN PLONGEUR DÉMINEUR DE LA MARINE NATIONALE",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:50",
+      "date": "03/07",
+      "timestamp": 1783111854
+    },
+    {
+      "id": "BFMTV_1783111618",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE REVENDIQUE LA PRISE DE KOSTYANTYNIVKA, POSITION CLÉ SUR LE CHEMIN DU DONBASS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:46",
+      "date": "03/07",
+      "timestamp": 1783111618
+    },
     {
       "id": "BFMTV_1783107940",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "18:56",
       "date": "01/07",
       "timestamp": 1782932214
-    },
-    {
-      "id": "BFMTV_1782931038",
-      "source": "BFMTV",
-      "text": "LES JEUX PLAYSTATION NE SORTIRONT PLUS EN VERSION PHYSIQUE À PARTIR DE JANVIER 2028",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:37",
-      "date": "01/07",
-      "timestamp": 1782931038
-    },
-    {
-      "id": "OPEX360_1782927987",
-      "source": "OPEX360",
-      "text": "AVEC L’AGM-158 LRASM, LE BOMBARDIER AMÉRICAIN B-2 SPIRIT A DÉSORMAIS UNE CAPACITÉ ANTINAVIRE À LONGUE PORTÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:46",
-      "date": "01/07",
-      "timestamp": 1782927987
-    },
-    {
-      "id": "BFMTV_1782927054",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:30",
-      "date": "01/07",
-      "timestamp": 1782927054
-    },
-    {
-      "id": "OPEX360_1782923354",
-      "source": "OPEX360",
-      "text": "DASSAULT AVIATION CONFIRME SON ÉVICTION DU PROGRAMME DE DRONE MALE EUROPÉEN PAR AIRBUS",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:29",
-      "date": "01/07",
-      "timestamp": 1782923354
     }
   ],
   "france": {
