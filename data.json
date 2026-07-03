@@ -1,7 +1,27 @@
 {
-  "last_update": "03/07 17:03",
+  "last_update": "03/07 18:38",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1783099556",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES COMMANDE DES TERMINAUX SATCOM «INTELLIGENTS» À GREENERWAVE POUR 120 MILLIONS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:25",
+      "date": "03/07",
+      "timestamp": 1783099556
+    },
+    {
+      "id": "BFMTV_1783098759",
+      "source": "BFMTV",
+      "text": "UN FEU DE FORÊT AU PORTUGAL FAIT QUATRE BLESSÉS, LE PAYS ACTIVE LE MÉCANISME EUROPÉEN DE PROTECTION CIVILE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:12",
+      "date": "03/07",
+      "timestamp": 1783098759
+    },
     {
       "id": "BFMTV_1783095181",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "14:43",
       "date": "01/07",
       "timestamp": 1782917003
-    },
-    {
-      "id": "BFMTV_1782914262",
-      "source": "BFMTV",
-      "text": "CE PÈRE PERMET À SON FILS MALVOYANT DE 9 ANS DE SUIVRE LES MATCHS DU MONDIAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:57",
-      "date": "01/07",
-      "timestamp": 1782914262
-    },
-    {
-      "id": "BFMTV_1782912290",
-      "source": "BFMTV",
-      "text": "QUI EST ALEXANDER LUNIN, CET ANCIEN COMMANDANT ARRÊTÉ APRÈS AVOIR DÉNONCÉ DES VIOLENCES DANS LES RANGS DE L’ARMÉE RUSSE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:24",
-      "date": "01/07",
-      "timestamp": 1782912290
     }
   ],
   "france": {
