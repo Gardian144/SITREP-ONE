@@ -1,7 +1,47 @@
 {
-  "last_update": "04/07 13:23",
+  "last_update": "04/07 14:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783174757",
+      "source": "BFMTV",
+      "text": "L'UKRAINE A VISÉ DES SITES ÉNERGÉTIQUES EN RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:19",
+      "date": "04/07",
+      "timestamp": 1783174757
+    },
+    {
+      "id": "BFMTV_1783173913",
+      "source": "BFMTV",
+      "text": "DÉCOUVERT INANIMÉ DANS UNE PISCINE, UN AMÉRICAIN DE 18 MOIS DÉCLARÉ MORT AVANT D'ÊTRE FINALEMENT RETROUVÉ VIVANT À LA MORGUE PLUSIEURS HEURES PLUS TARD",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:05",
+      "date": "04/07",
+      "timestamp": 1783173913
+    },
+    {
+      "id": "BFMTV_1783172041",
+      "source": "BFMTV",
+      "text": "IRAN: LE DISCOURS TRIOMPHALISTE DE DONALD TRUMP, POURTANT \"TRÈS CRITIQUÉ DANS LE CAMP RÉPUBLICAIN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:34",
+      "date": "04/07",
+      "timestamp": 1783172041
+    },
+    {
+      "id": "BFMTV_1783171719",
+      "source": "BFMTV",
+      "text": "IRAN : 6 JOURS DE FUNÉRAILLES POUR LE GUIDE SUPRÊME ALI KHAMENEI",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:28",
+      "date": "04/07",
+      "timestamp": 1783171719
+    },
     {
       "id": "BFMTV_1783171213",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "19:06",
       "date": "02/07",
       "timestamp": 1783019208
-    },
-    {
-      "id": "BFMTV_1783018498",
-      "source": "BFMTV",
-      "text": "CE QUE L'ON SAIT DU BUNKER SECRET DE VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:54",
-      "date": "02/07",
-      "timestamp": 1783018498
-    },
-    {
-      "id": "BFMTV_1783017948",
-      "source": "BFMTV",
-      "text": "KIEV A SUBI L'ATTAQUE \"LA PLUS MASSIVE\" DEPUIS LE DÉBUT DE LA GUERRE EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:45",
-      "date": "02/07",
-      "timestamp": 1783017948
-    },
-    {
-      "id": "BFMTV_1783017871",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: ALICE RUFO, MINISTRE DÉLÉGUÉE DES ARMÉES, ANALYSE LES DERNIÈRES ATTAQUES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:44",
-      "date": "02/07",
-      "timestamp": 1783017871
-    },
-    {
-      "id": "BFMTV_1783016485",
-      "source": "BFMTV",
-      "text": "250 ANS DE LA DÉCLARATION D'INDÉPENDANCE: UNE CÉLÉBRATION DE L'AMÉRIQUE OU DE DONALD TRUMP?",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:21",
-      "date": "02/07",
-      "timestamp": 1783016485
     }
   ],
   "france": {
