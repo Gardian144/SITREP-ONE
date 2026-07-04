@@ -1,7 +1,67 @@
 {
-  "last_update": "04/07 11:51",
+  "last_update": "04/07 13:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783171213",
+      "source": "BFMTV",
+      "text": "L'UKRAINE FRAPPE UN TERMINAL PÉTROLIER À SAINT PETERSBOURG",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:20",
+      "date": "04/07",
+      "timestamp": 1783171213
+    },
+    {
+      "id": "OPEX360_1783170888",
+      "source": "OPEX360",
+      "text": "LA BRIGADE «LECLERC» OFFICIALISE LA CRÉATION DE SON GROUPEMENT COMMANDO BLINDÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:14",
+      "date": "04/07",
+      "timestamp": 1783170888
+    },
+    {
+      "id": "BFMTV_1783169220",
+      "source": "BFMTV",
+      "text": "LA FAYETTE, BEAUMARCHAIS, LE COMTE DE GRASSE... CES FRANÇAIS QUI ONT COMPTÉ POUR L'INDÉPENDANCE DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:47",
+      "date": "04/07",
+      "timestamp": 1783169220
+    },
+    {
+      "id": "BFMTV_1783167132",
+      "source": "BFMTV",
+      "text": "EUROMILLIONS: UN BELGE REMPORTE LE JACKPOT DE PLUS DE 80 MILLIONS D'EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:12",
+      "date": "04/07",
+      "timestamp": 1783167132
+    },
+    {
+      "id": "BFMTV_1783166309",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: ENVIRON 1.000 SOLDATS RUSSES PAR JOUR SONT MIS HORS DE COMBAT, C'EST-À-DIRE SOIT TUÉS, BLESSÉS OU FAITS PRISONNIERS",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:58",
+      "date": "04/07",
+      "timestamp": 1783166309
+    },
+    {
+      "id": "BFMTV_1783166029",
+      "source": "BFMTV",
+      "text": "AVEC L'APAISEMENT DU CONFLIT AU MOYEN-ORIENT, \"LA VALEUR DE LA RUSSIE EN MATIÈRE DE PUISSANCE PÉTROLIÈRE BAISSE\", ASSURE HUGUES PERNET, PREMIER AMBASSADEUR DE FRANCE EN UKRAINE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:53",
+      "date": "04/07",
+      "timestamp": 1783166029
+    },
     {
       "id": "BFMTV_1783165372",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "18:21",
       "date": "02/07",
       "timestamp": 1783016485
-    },
-    {
-      "id": "BFMTV_1783014612",
-      "source": "BFMTV",
-      "text": "LE RADAR - DRONES: LE NOUVEAU NERF DE LA GUERRE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:50",
-      "date": "02/07",
-      "timestamp": 1783014612
-    },
-    {
-      "id": "BFMTV_1783014334",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: ALICE RUFO, MINISTRE DÉLÉGUÉE DES ARMÉES, PARLE \"D'ATTAQUES INTOLÉRABLES\" SUR KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:45",
-      "date": "02/07",
-      "timestamp": 1783014334
-    },
-    {
-      "id": "OPEX360_1783013356",
-      "source": "OPEX360",
-      "text": "LE CINQUANTIÈME ET DERNIER MIRAGE 2000D PORTÉ AU STANDARD RMV A ÉTÉ LIVRÉ À L’ARMÉE DE L’AIR & DE L’ESPACE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:29",
-      "date": "02/07",
-      "timestamp": 1783013356
-    },
-    {
-      "id": "BFMTV_1783010729",
-      "source": "BFMTV",
-      "text": "QU’EST-CE QUE CETTE NOUVELLE LOI ETHNIQUE CHINOISE QUI INQUIÈTE LES MINORITÉS? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:45",
-      "date": "02/07",
-      "timestamp": 1783010729
-    },
-    {
-      "id": "OPEX360_1783008780",
-      "source": "OPEX360",
-      "text": "L’ALLEMAGNE A DEMANDÉ AUX ÉTATS-UNIS UNE LICENCE POUR PRODUIRE DES MISSILES TOMAHAWK ET PAC-3 MSE",
-      "urgent": true,
-      "france_related": true,
-      "time": "16:13",
-      "date": "02/07",
-      "timestamp": 1783008780
-    },
-    {
-      "id": "BFMTV_1783007091",
-      "source": "BFMTV",
-      "text": "\"LA PATIENCE DU PRÉSIDENT TRUMP A SES LIMITES, L'IRAN DOIT HONORER SES OBLIGATIONS\", LANCE L'AMBASSADEUR AMÉRICAIN À L'ONU",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:44",
-      "date": "02/07",
-      "timestamp": 1783007091
     }
   ],
   "france": {
