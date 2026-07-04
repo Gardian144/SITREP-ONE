@@ -1,7 +1,77 @@
 {
-  "last_update": "04/07 05:08",
+  "last_update": "04/07 08:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783151441",
+      "source": "BFMTV",
+      "text": "\"ILS RESSEMBLAIENT PRESQUE À DES ANIMAUX SAUVAGES\": SEIZE ENFANTS, QUI VIVAIENT DANS UNE PIÈCE DE 12M², SECOURUS D'UNE \"MAISON DE L'HORREUR\" DANS L'OHIO",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:50",
+      "date": "04/07",
+      "timestamp": 1783151441
+    },
+    {
+      "id": "BFMTV_1783151162",
+      "source": "BFMTV",
+      "text": "LE PAPE LÉON XIV À LAMPEDUSA ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:46",
+      "date": "04/07",
+      "timestamp": 1783151162
+    },
+    {
+      "id": "BFMTV_1783149420",
+      "source": "BFMTV",
+      "text": "\"UNE RÉÉCRITURE RACIALE ET RELIGIEUSE\": COMMENT DONALD TRUMP INSTRUMENTALISE L'HISTOIRE À L'OCCASION DES 250 ANS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:17",
+      "date": "04/07",
+      "timestamp": 1783149420
+    },
+    {
+      "id": "BFMTV_1783146891",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV FRAPPE LE TERMINAL PÉTROLIER DE SAINT-PÉTERSBOURG ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:34",
+      "date": "04/07",
+      "timestamp": 1783146891
+    },
+    {
+      "id": "BFMTV_1783146260",
+      "source": "BFMTV",
+      "text": "NEUF BLESSÉS AU PORTUGAL, LA COSTA BRAVA TOUCHÉE... LA PÉNINSULE IBÉRIQUE EN PROIE À DE VIOLENTS INCENDIES",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:24",
+      "date": "04/07",
+      "timestamp": 1783146260
+    },
+    {
+      "id": "BFMTV_1783142165",
+      "source": "BFMTV",
+      "text": "OBSÈQUES D'ALI KHAMENEI: LE PROGRAMME DES SIX JOURS DE COMMÉMORATIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:16",
+      "date": "04/07",
+      "timestamp": 1783142165
+    },
+    {
+      "id": "BFMTV_1783141950",
+      "source": "BFMTV",
+      "text": "250 ANS DES ÉTATS-UNIS: DONALD TRUMP ENTEND BIEN PROFITER DE L'ÉVÉNEMENT POUR FAIRE SA PROMOTION",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:12",
+      "date": "04/07",
+      "timestamp": 1783141950
+    },
     {
       "id": "BFMTV_1783141606",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "11:14",
       "date": "02/07",
       "timestamp": 1782990848
-    },
-    {
-      "id": "BFMTV_1782990454",
-      "source": "BFMTV",
-      "text": "AFFAIRE WEINSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:07",
-      "date": "02/07",
-      "timestamp": 1782990454
-    },
-    {
-      "id": "BFMTV_1782989333",
-      "source": "BFMTV",
-      "text": "LE MAIRE D'UNE VILLE MEXICAINE ÉPOUSE UN CAÏMAN POUR PORTER CHANCE AUX HABITANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:48",
-      "date": "02/07",
-      "timestamp": 1782989333
-    },
-    {
-      "id": "BFMTV_1782989310",
-      "source": "BFMTV",
-      "text": "DÉLUGE DE FEU SUR KIEV: LA CAPITALE UKRAINIENNE A CONNU SA PIRE ATTAQUE RUSSE DEPUIS LE DÉBUT DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:48",
-      "date": "02/07",
-      "timestamp": 1782989310
-    },
-    {
-      "id": "BFMTV_1782989085",
-      "source": "BFMTV",
-      "text": "MONDIAL 2026: UN SUPPORTER MEXICAIN VANDALISE UN BALLON GÉANT DU DÉCOR ET SE FAIT ARRÊTER",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:44",
-      "date": "02/07",
-      "timestamp": 1782989085
-    },
-    {
-      "id": "OPEX360_1782988043",
-      "source": "OPEX360",
-      "text": "ARMEMENT : SA VALORISATION REVUE À LA BAISSE, LE GROUPE FRANCO-ALLEMAND KNDS REPORTE SON INTRODUCTION EN BOURSE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:27",
-      "date": "02/07",
-      "timestamp": 1782988043
-    },
-    {
-      "id": "BFMTV_1782984509",
-      "source": "BFMTV",
-      "text": "\"CE QUI EST PERDU EST PERDU\": SERGE ATLAOUI, EX-CONDAMNÉ À MORT EN INDONÉSIE, RACONTE \"L'ENFER\" QU'IL A VÉCU",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:28",
-      "date": "02/07",
-      "timestamp": 1782984509
-    },
-    {
-      "id": "BFMTV_1782984453",
-      "source": "BFMTV",
-      "text": "17 MORTS, LOURDS DÉGÂTS… CE QUE L'ON SAIT DE L'ATTAQUE \"LA PLUS MASSIVE\" SUR KIEV DEPUIS LE DÉBUT DE LA GUERRE EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:27",
-      "date": "02/07",
-      "timestamp": 1782984453
     }
   ],
   "france": {
