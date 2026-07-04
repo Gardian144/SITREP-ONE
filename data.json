@@ -1,7 +1,37 @@
 {
-  "last_update": "04/07 14:49",
+  "last_update": "04/07 16:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783178837",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV VISE DES SITES ÉNERGÉTIQUES RUSSES, LE POINT FAIBLE DE MOSCOU? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:27",
+      "date": "04/07",
+      "timestamp": 1783178837
+    },
+    {
+      "id": "BFMTV_1783178532",
+      "source": "BFMTV",
+      "text": "AU MOINS 2.200 HECTARES PARTIS EN FUMÉE EN ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:22",
+      "date": "04/07",
+      "timestamp": 1783178532
+    },
+    {
+      "id": "BFMTV_1783178011",
+      "source": "BFMTV",
+      "text": "IRAN: LA FOULE SE RASSEMBLE POUR LES FUNÉRAILLES D'ALI KHAMENEI",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:13",
+      "date": "04/07",
+      "timestamp": 1783178011
+    },
     {
       "id": "BFMTV_1783174757",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "19:52",
       "date": "02/07",
       "timestamp": 1783021922
-    },
-    {
-      "id": "BFMTV_1783020684",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"C'EST UNE OPÉRATION DÉSESPÉRÉE\" MENÉE PAR VLADIMIR POUTINE, AFFIRME ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:31",
-      "date": "02/07",
-      "timestamp": 1783020684
-    },
-    {
-      "id": "BFMTV_1783019773",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV REDOUTE UNE NOUVELLE ATTAQUE RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:16",
-      "date": "02/07",
-      "timestamp": 1783019773
-    },
-    {
-      "id": "BFMTV_1783019208",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: QUAND LES MILITAIRES RUSSES CRITIQUENT LES CHOIX DE VLADIMIR POUTINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:06",
-      "date": "02/07",
-      "timestamp": 1783019208
     }
   ],
   "france": {
