@@ -1,7 +1,37 @@
 {
-  "last_update": "04/07 20:56",
+  "last_update": "04/07 22:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783201465",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:44",
+      "date": "04/07",
+      "timestamp": 1783201465
+    },
+    {
+      "id": "BFMTV_1783201464",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ET VLADIMIR POUTINE SE SONT ENTRETENUS SAMEDI SUR LA GUERRE EN UKRAINE ET DES SUJETS INTERNATIONAUX",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:44",
+      "date": "04/07",
+      "timestamp": 1783201464
+    },
+    {
+      "id": "BFMTV_1783200207",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ENVISAGE UN DROIT \"SPÉCIAL\" POUR LES PAYS AMIS DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:23",
+      "date": "04/07",
+      "timestamp": 1783200207
+    },
     {
       "id": "BFMTV_1783197239",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "08:06",
       "date": "03/07",
       "timestamp": 1783065999
-    },
-    {
-      "id": "BFMTV_1783063626",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:27",
-      "date": "03/07",
-      "timestamp": 1783063626
-    },
-    {
-      "id": "BFMTV_1783063625",
-      "source": "BFMTV",
-      "text": "LE CHEF DES GARDIENS DE LA RÉVOLUTION FAIT SA PREMIÈRE APPARITION PUBLIQUE DEPUIS LE DÉBUT DE LA GUERRE AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:27",
-      "date": "03/07",
-      "timestamp": 1783063625
-    },
-    {
-      "id": "BFMTV_1783060433",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE CORPS DU GUIDE SUPRÊME ALI KHAMENEI EST ARRIVÉ SUR LE LIEU DE SES FUNÉRAILLES À TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:33",
-      "date": "03/07",
-      "timestamp": 1783060433
     }
   ],
   "france": {
