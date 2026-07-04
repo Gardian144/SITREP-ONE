@@ -1,7 +1,17 @@
 {
-  "last_update": "04/07 17:18",
+  "last_update": "04/07 18:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783185652",
+      "source": "BFMTV",
+      "text": "\"IL FAUT ENCORE PLUS ÊTRE AUX CÔTÉS DES UKRAINIENS\", TÉMOIGNE ROBERT MÉNARD, MAIRE DE BÉZIERS, EN DÉPLACEMENT EN UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:20",
+      "date": "04/07",
+      "timestamp": 1783185652
+    },
     {
       "id": "BFMTV_1783184540",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "04:50",
       "date": "03/07",
       "timestamp": 1783054200
-    },
-    {
-      "id": "BFMTV_1783054164",
-      "source": "BFMTV",
-      "text": "AU MOINS 30 MORTS, LOURDS DÉGÂTS… CE QUE L'ON SAIT DE L'ATTAQUE \"LA PLUS MASSIVE\" SUR KIEV DEPUIS LE DÉBUT DE LA GUERRE EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:49",
-      "date": "03/07",
-      "timestamp": 1783054164
     }
   ],
   "france": {
