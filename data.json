@@ -1,7 +1,77 @@
 {
-  "last_update": "04/07 10:25",
+  "last_update": "04/07 11:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783165372",
+      "source": "BFMTV",
+      "text": "VALDIMIR POUTINE EN CHEF DE GUERRE: \"LE PRÉSIDENT QUI SE MET EN SCÈNE N'EST PAS FLAMBOYANT\", ESTIME HUGUES PERNET, PREMIER AMBASSADEUR DE FRANCE EN UKRAINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "11:42",
+      "date": "04/07",
+      "timestamp": 1783165372
+    },
+    {
+      "id": "OPEX360_1783164296",
+      "source": "OPEX360",
+      "text": "LA SERBIE SE TOURNE À NOUVEAU VERS LA CHINE POUR RENFORCER SES CAPACITÉS DE DÉFENSE AÉRIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:24",
+      "date": "04/07",
+      "timestamp": 1783164296
+    },
+    {
+      "id": "BFMTV_1783164159",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UN MIG-29, UN AVION MILITAIRE RUSSE, DÉTRUIT EN CRIMÉE PAR KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:22",
+      "date": "04/07",
+      "timestamp": 1783164159
+    },
+    {
+      "id": "BFMTV_1783163946",
+      "source": "BFMTV",
+      "text": "EN ALLEMAGNE, 20.000 MANIFESTANTS CONTRE LE CONGRÈS DE L'AFD, LE PARTI D'EXTRÊME DROITE ALLEMAND",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:19",
+      "date": "04/07",
+      "timestamp": 1783163946
+    },
+    {
+      "id": "BFMTV_1783162771",
+      "source": "BFMTV",
+      "text": "\"ON A MIS UNE RACLÉE À L'IRAN\": DONALD TRUMP ASSURE QUE TÉHÉRAN \"MEURT D'ENVIE DE CONCLURE UN ACCORD\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:59",
+      "date": "04/07",
+      "timestamp": 1783162771
+    },
+    {
+      "id": "BFMTV_1783162729",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE REVENDIQUE LA PRISE DE LA VILLE FORTERESSE DE KOSTYANTYNIVKA",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:58",
+      "date": "04/07",
+      "timestamp": 1783162729
+    },
+    {
+      "id": "BFMTV_1783161868",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE POINT SUR LA LIGNE DE FRONT ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:44",
+      "date": "04/07",
+      "timestamp": 1783161868
+    },
     {
       "id": "BFMTV_1783159499",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "15:44",
       "date": "02/07",
       "timestamp": 1783007091
-    },
-    {
-      "id": "BFMTV_1783006099",
-      "source": "BFMTV",
-      "text": "POURQUOI ELON MUSK EST ACCUSÉ D’AVOIR \"CONDAMNÉ À MORT\" DES MILLIONS D’ENFANTS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:28",
-      "date": "02/07",
-      "timestamp": 1783006099
-    },
-    {
-      "id": "BFMTV_1783005426",
-      "source": "BFMTV",
-      "text": "\"C'EST LE SON DE L'INGRATITUDE\": PETE HEGSETH S'EN PREND À DES MANIFESTANTS ANTI-GARDE NATIONALE À WASHINGTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:17",
-      "date": "02/07",
-      "timestamp": 1783005426
-    },
-    {
-      "id": "BFMTV_1783005151",
-      "source": "BFMTV",
-      "text": "HANTAVIRUS SUR UN NAVIRE DE CROISIÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:12",
-      "date": "02/07",
-      "timestamp": 1783005151
-    },
-    {
-      "id": "BFMTV_1783004967",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"NOUS DEMANDONS AU PRÉSIDENT TRUMP ET À SON ÉQUIPE D'AGIR RAPIDEMENT\", DÉCLARE VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:09",
-      "date": "02/07",
-      "timestamp": 1783004967
-    },
-    {
-      "id": "BFMTV_1783004731",
-      "source": "BFMTV",
-      "text": "VENEZUELA: UN SURVIVANT EXTRAIT DES DÉCOMBRES, HUIT JOURS APRÈS LE DOUBLE SÉISME",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:05",
-      "date": "02/07",
-      "timestamp": 1783004731
-    },
-    {
-      "id": "BFMTV_1783004697",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DES NÉGOCIATEURS UKRAINIENS ET AMÉRICAINS ONT TENU DES DISCUSSIONS CES DEUX DERNIERS JOURS, SELON VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:04",
-      "date": "02/07",
-      "timestamp": 1783004697
-    },
-    {
-      "id": "BFMTV_1783002596",
-      "source": "BFMTV",
-      "text": "\"LES UKRAINIENS GAGNERONT CETTE GUERRE\": VOLODYMYR ZELENSKY S'EXPRIME DEPUIS LES LIEUX DE L'ATTAQUE RUSSE À KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:29",
-      "date": "02/07",
-      "timestamp": 1783002596
     }
   ],
   "france": {
