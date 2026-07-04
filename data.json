@@ -1,7 +1,127 @@
 {
-  "last_update": "04/07 01:19",
+  "last_update": "04/07 05:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783141606",
+      "source": "BFMTV",
+      "text": "\"IL S'EST SACRIFIÉ POUR NOUS\": LES FUNÉRAILLES NATIONALES DU GUIDE SUPRÊME IRANIEN ALI KHAMENEI DÉBUTENT, JUSQU'À 20 MILLIONS DE PERSONNES ATTENDUES À TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:06",
+      "date": "04/07",
+      "timestamp": 1783141606
+    },
+    {
+      "id": "BFMTV_1783140856",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: 16 ENFANTS SECOURUS D'UNE MAISON DE L'HORREUR DANS L'OHIO",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:54",
+      "date": "04/07",
+      "timestamp": 1783140856
+    },
+    {
+      "id": "BFMTV_1783140537",
+      "source": "BFMTV",
+      "text": "INCENDIES: L'ESPAGNE ET LE PORTUGAL EN PROIE À DES FEUX SPECTACULAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:48",
+      "date": "04/07",
+      "timestamp": 1783140537
+    },
+    {
+      "id": "BFMTV_1783140363",
+      "source": "BFMTV",
+      "text": "LA TOUR EIFFEL S'EST ILLUMINÉE POUR CÉLÉBRER LES 250 ANS DE L'INDÉPENDANCE DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:46",
+      "date": "04/07",
+      "timestamp": 1783140363
+    },
+    {
+      "id": "BFMTV_1783140157",
+      "source": "BFMTV",
+      "text": "250 ANS DES ÉTATS-UNIS: UN SHOW À LA GLOIRE DE DONALD TRUMP TRÈS CRITIQUÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:42",
+      "date": "04/07",
+      "timestamp": 1783140157
+    },
+    {
+      "id": "BFMTV_1783139951",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV A FRAPPÉ UNE CENTRALE ÉLECTRIQUE RUSSE À BELGOROD",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:39",
+      "date": "04/07",
+      "timestamp": 1783139951
+    },
+    {
+      "id": "BFMTV_1783139692",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: FRAGILISÉ, VLADIMIR POUTINE S'AFFICHE EN CHEF DE GUERRE POUR RASSURER SES TROUPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:34",
+      "date": "04/07",
+      "timestamp": 1783139692
+    },
+    {
+      "id": "BFMTV_1783139030",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: LA FRANCE ANNONCE QUE SON DISPOSITIF DE DÉMINAGE DU DÉTROIT D'ORMUZ EST PRÊT",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:23",
+      "date": "04/07",
+      "timestamp": 1783139030
+    },
+    {
+      "id": "BFMTV_1783138873",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: EMMANUEL MACRON ANNONCE LE RETOUR DU PORTE-AVIONS CHARLES DE GAULLE AU PORT DE TOULON",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:21",
+      "date": "04/07",
+      "timestamp": 1783138873
+    },
+    {
+      "id": "BFMTV_1783138576",
+      "source": "BFMTV",
+      "text": "\"UNE RÉSURGENCE DE LA MENACE COMMUNISTE\": DONALD TRUMP DIT QUE L'IDENTITÉ AMÉRICAINE SUBIT UNE \"NOUVELLE OFFENSIVE\" DE RADICAUX ET D'EXTRÉMISTES SUR SON SOL",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:16",
+      "date": "04/07",
+      "timestamp": 1783138576
+    },
+    {
+      "id": "BFMTV_1783138011",
+      "source": "BFMTV",
+      "text": "250 ANS DES ÉTATS-UNIS: LES FESTIVITÉS DU 4 JUILLET DIVISENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:06",
+      "date": "04/07",
+      "timestamp": 1783138011
+    },
+    {
+      "id": "BFMTV_1783137926",
+      "source": "BFMTV",
+      "text": "250 ANS DES ÉTATS-UNIS: DONALD TRUMP AFFIRME QUE LA NATION AMÉRICAINE EST \"LA PLUS ACCOMPLIE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:05",
+      "date": "04/07",
+      "timestamp": 1783137926
+    },
     {
       "id": "BFMTV_1783115617",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "09:27",
       "date": "02/07",
       "timestamp": 1782984453
-    },
-    {
-      "id": "BFMTV_1782980734",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UNE IMPRESSIONNANTE DEMANDE EN MARIAGE EN HAUT DE L’EMPIRE STATE BUILDING",
-      "urgent": false,
-      "france_related": true,
-      "time": "08:25",
-      "date": "02/07",
-      "timestamp": 1782980734
-    },
-    {
-      "id": "BFMTV_1782980458",
-      "source": "BFMTV",
-      "text": "\"UNE TRAGÉDIE\": HUIT MOINES BOUDDHISTES TUÉS EN THAÏLANDE APRÈS QU'UN ENFANT DE 11 ANS A FONCÉ EN CAMION DANS UN CORTÈGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:20",
-      "date": "02/07",
-      "timestamp": 1782980458
-    },
-    {
-      "id": "BFMTV_1782979444",
-      "source": "BFMTV",
-      "text": "KIEV A CONNU SA PIRE ATTAQUE RUSSE DEPUIS LE DÉBUT DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:04",
-      "date": "02/07",
-      "timestamp": 1782979444
-    },
-    {
-      "id": "BFMTV_1782977921",
-      "source": "BFMTV",
-      "text": "\"ÉCRIRE UNE PAGE GLORIEUSE\": LE NÉGOCIATEUR EN CHEF IRANIEN APPELLE \"À VENGER\" LA MORT D'ALI KHAMENEI AVEC UNE FORTE PARTICIPATION À SES FUNÉRAILLES",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:38",
-      "date": "02/07",
-      "timestamp": 1782977921
-    },
-    {
-      "id": "BFMTV_1782976549",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: L'ANALYSE DE L'ANCIEN OFFICIER DU KGB, SERGUEÏ JIRNOV, SUR L'ÉTAT DE LA RUSSIE APRÈS PLUS DE QUATRE ANS DE CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:15",
-      "date": "02/07",
-      "timestamp": 1782976549
-    },
-    {
-      "id": "BFMTV_1782976377",
-      "source": "BFMTV",
-      "text": "RISQUE D'INGÉRENCES RUSSES POUR LA PRÉSIDENTIELLE: \"JE LE PENSE\", AFFIRME L'ANCIEN OFFICIER DU KGB SERGUIEÏ JIRNOV",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:12",
-      "date": "02/07",
-      "timestamp": 1782976377
-    },
-    {
-      "id": "BFMTV_1782974816",
-      "source": "BFMTV",
-      "text": "\"JE SUIS PERSUADÉ QUE POUTINE NE CHANGERA PAS D'AVIS\", ESTIME L'ANCIEN OFFICIER DU KGB SERGUEÏ JIRNOV À PROPOS DE LA GUERRE EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:46",
-      "date": "02/07",
-      "timestamp": 1782974816
-    },
-    {
-      "id": "BFMTV_1782974260",
-      "source": "BFMTV",
-      "text": "\"LA VENGEANCE DE POUTINE ÉTAIT EN MARCHE ET PARTICULIÈREMENT CETTE NUIT\", ESTIME L'ANCIEN OFFICIER DU KGB SERGUEÏ JIRNOV APRÈS DES FRAPPES MEURTRIÈRES SUR KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:37",
-      "date": "02/07",
-      "timestamp": 1782974260
-    },
-    {
-      "id": "BFMTV_1782974116",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DES ATTAQUES DE MISSILES SUR KIEV FONT AU MOINS 13 MORTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:35",
-      "date": "02/07",
-      "timestamp": 1782974116
-    },
-    {
-      "id": "BFMTV_1782974101",
-      "source": "BFMTV",
-      "text": "LE PORTE-PAROLE DU QATAR FAIT ÉTAT DE \"PROGRÈS POSITIFS\" DANS LES NÉGOCIATIONS INDIRECTES ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:35",
-      "date": "02/07",
-      "timestamp": 1782974101
-    },
-    {
-      "id": "BFMTV_1782971506",
-      "source": "BFMTV",
-      "text": "\"C'EST VRAIMENT UN MIRACLE\": HUIT JOURS APRÈS LES SÉISMES AU VENEZUELA, UN SURVIVANT DÉCOUVERT DANS LES DÉCOMBRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:51",
-      "date": "02/07",
-      "timestamp": 1782971506
-    },
-    {
-      "id": "BFMTV_1782970071",
-      "source": "BFMTV",
-      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:27",
-      "date": "02/07",
-      "timestamp": 1782970071
     }
   ],
   "france": {
