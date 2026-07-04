@@ -1,7 +1,27 @@
 {
-  "last_update": "04/07 19:54",
+  "last_update": "04/07 20:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783197239",
+      "source": "BFMTV",
+      "text": "EN QUOI LA VILLE DE SAINT-PÉTERSBOURG EST-ELLE UNE CIBLE PRIVILÉGIÉE POUR L'UKRAINE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:33",
+      "date": "04/07",
+      "timestamp": 1783197239
+    },
+    {
+      "id": "BFMTV_1783196440",
+      "source": "BFMTV",
+      "text": "FUNÉRAILLES D'ALI KHAMENEI: DES REPRÉSENTANTS DU HAMAS ET DU HEZBOLLAH PRÉSENTS À TÉHÉRAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:20",
+      "date": "04/07",
+      "timestamp": 1783196440
+    },
     {
       "id": "BFMTV_1783193043",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "06:33",
       "date": "03/07",
       "timestamp": 1783060433
-    },
-    {
-      "id": "BFMTV_1783055989",
-      "source": "BFMTV",
-      "text": "\"ILS N'ÉTAIENT PAS LÀ POUR NOUS!\": DONALD TRUMP JUGE \"RIDICULE\" QUE LES ÉTATS-UNIS POURSUIVENT LEUR SOUTIEN À L'OTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:19",
-      "date": "03/07",
-      "timestamp": 1783055989
-    },
-    {
-      "id": "BFMTV_1783054797",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LE BILAN DE L'ATTAQUE RUSSE \"LA PLUS MASSIVE\" SUR KIEV DEPUIS LE DÉBUT DU CONFLIT GRIMPE À 30 MORTS ET PRÈS D'UNE CENTAINE DE BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:59",
-      "date": "03/07",
-      "timestamp": 1783054797
     }
   ],
   "france": {
