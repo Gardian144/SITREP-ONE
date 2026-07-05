@@ -1,7 +1,17 @@
 {
-  "last_update": "05/07 15:01",
+  "last_update": "05/07 16:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783265573",
+      "source": "BFMTV",
+      "text": "\"C'EST LA LIBERTÉ D'EXPRESSION\": L'ADMINISTRATION TRUMP PAS DÉRANGÉE PAR L'ORGANISATION D'UN DÉFILÉ SUPRÉMACISTE POUR LE 250E ANNIVERSAIRE DE L'INDÉPENDANCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:32",
+      "date": "05/07",
+      "timestamp": 1783265573
+    },
     {
       "id": "BFMTV_1783253331",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:00",
       "date": "03/07",
       "timestamp": 1783105211
-    },
-    {
-      "id": "OPEX360_1783099556",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES COMMANDE DES TERMINAUX SATCOM «INTELLIGENTS» À GREENERWAVE POUR 120 MILLIONS D’EUROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:25",
-      "date": "03/07",
-      "timestamp": 1783099556
     }
   ],
   "france": {
