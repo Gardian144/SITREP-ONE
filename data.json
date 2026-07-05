@@ -1,7 +1,17 @@
 {
-  "last_update": "05/07 21:19",
+  "last_update": "05/07 22:29",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783289678",
+      "source": "BFMTV",
+      "text": "VENEZUELA: LE BILAN DU DOUBLE SÉISME MONTE À 3.342 MORTS, PLUS DE 150 CORPS NON IDENTIFIÉS ENTERRÉS DANS UN CIMETIÈRE DE LA GUAIRA",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:14",
+      "date": "05/07",
+      "timestamp": 1783289678
+    },
     {
       "id": "BFMTV_1783285356",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:14",
       "date": "03/07",
       "timestamp": 1783106053
-    },
-    {
-      "id": "BFMTV_1783105666",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"ILS SONT CAPABLES DE TOUCHER LES FORCES RUSSES OÙ ILS VEULENT\", RAPPORTE ROBERT MÉNARD, MAIRE DVD DE BÉZIERS, PRÉSENT EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:07",
-      "date": "03/07",
-      "timestamp": 1783105666
     }
   ],
   "france": {
