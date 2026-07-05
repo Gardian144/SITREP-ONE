@@ -1,7 +1,17 @@
 {
-  "last_update": "05/07 18:45",
+  "last_update": "05/07 20:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783279478",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU AFFIRME QUE DES VILLAGES CHRÉTIENS DU LIBAN ONT DEMANDÉ À ÊTRE \"ANNEXÉS\" À ISRAËL",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:24",
+      "date": "05/07",
+      "timestamp": 1783279478
+    },
     {
       "id": "BFMTV_1783265573",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:00",
       "date": "03/07",
       "timestamp": 1783105228
-    },
-    {
-      "id": "BFMTV_1783105211",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV RIPOSTE AUX ATTAQUES MASSIVES DE LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:00",
-      "date": "03/07",
-      "timestamp": 1783105211
     }
   ],
   "france": {
