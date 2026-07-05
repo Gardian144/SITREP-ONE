@@ -1,7 +1,47 @@
 {
-  "last_update": "05/07 07:48",
+  "last_update": "05/07 10:11",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1783245920",
+      "source": "OPEX360",
+      "text": "L’AVIATION LÉGÈRE DE L’ARMÉE DE TERRE ENVISAGE DE DOTER SES HÉLICOPTÈRES TIGRE DE MUNITIONS TÉLÉOPÉRÉES TOUTATIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:05",
+      "date": "05/07",
+      "timestamp": 1783245920
+    },
+    {
+      "id": "BFMTV_1783242900",
+      "source": "BFMTV",
+      "text": "FEUX D'ARTIFICE, DÉFILÉ MILITAIRE... LES IMAGES FORTES DES CÉLÉBRATIONS DES 250 ANS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:15",
+      "date": "05/07",
+      "timestamp": 1783242900
+    },
+    {
+      "id": "BFMTV_1783241858",
+      "source": "BFMTV",
+      "text": "PLUS DE 2.000 HECTARES BRÛLÉS PRÈS DE LA COSTA BRAVA: UNE NOUVELLE JOURNÉE \"COMPLIQUÉE\" ATTENDUE PAR LES POMPIERS, ALORS QUE L'INCENDIE EST STABILISÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:57",
+      "date": "05/07",
+      "timestamp": 1783241858
+    },
+    {
+      "id": "BFMTV_1783237868",
+      "source": "BFMTV",
+      "text": "4-JUILLET: UN AVION TOUCHÉ PAR UN FEU D'ARTIFICE À CHICAGO LORS DES CÉLÉBRATIONS DES 250 ANS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:51",
+      "date": "05/07",
+      "timestamp": 1783237868
+    },
     {
       "id": "BFMTV_1783234366",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "15:56",
       "date": "03/07",
       "timestamp": 1783094203
-    },
-    {
-      "id": "BFMTV_1783093987",
-      "source": "BFMTV",
-      "text": "LA LITUANIE VEUT FAIRE PARTIE \"DE LA DISSUASION NUCLÉAIRE\" CONTRE LA RUSSIE, DÉCLARE SON PRÉSIDENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:53",
-      "date": "03/07",
-      "timestamp": 1783093987
-    },
-    {
-      "id": "BFMTV_1783091849",
-      "source": "BFMTV",
-      "text": "UN SITE DE PARIS SUR LES INCENDIES EN CALIFORNIE FAIT SON APPARITION AUX ÉTATS-UNIS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:17",
-      "date": "03/07",
-      "timestamp": 1783091849
-    },
-    {
-      "id": "OPEX360_1783091298",
-      "source": "OPEX360",
-      "text": "SCAF : APRÈS L’ÉCHEC DU CHASSEUR-BOMBARDIER DE NOUVELLE GÉNÉRATION, LE «CLOUD DE COMBAT» EST-IL MENACÉ ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:08",
-      "date": "03/07",
-      "timestamp": 1783091298
-    },
-    {
-      "id": "BFMTV_1783091013",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"VLADIMIR POUTINE NE SE RÉSIGNERA PAS\", ESTIME CAROLINE THOMINET, ANALYSTE GÉOPOLITIQUE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:03",
-      "date": "03/07",
-      "timestamp": 1783091013
     }
   ],
   "france": {
