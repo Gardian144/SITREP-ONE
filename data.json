@@ -1,7 +1,17 @@
 {
-  "last_update": "05/07 11:48",
+  "last_update": "05/07 13:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783253331",
+      "source": "BFMTV",
+      "text": "LA PRÉSIDENCE SYRIENNE ANNONCE QU'EMMANUEL MACRON VA SE RENDRE EN SYRIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:08",
+      "date": "05/07",
+      "timestamp": 1783253331
+    },
     {
       "id": "BFMTV_1783251421",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "17:25",
       "date": "03/07",
       "timestamp": 1783099556
-    },
-    {
-      "id": "BFMTV_1783098759",
-      "source": "BFMTV",
-      "text": "UN FEU DE FORÊT AU PORTUGAL FAIT QUATRE BLESSÉS, LE PAYS ACTIVE LE MÉCANISME EUROPÉEN DE PROTECTION CIVILE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:12",
-      "date": "03/07",
-      "timestamp": 1783098759
     }
   ],
   "france": {
