@@ -1,7 +1,47 @@
 {
-  "last_update": "05/07 10:11",
+  "last_update": "05/07 11:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783251421",
+      "source": "BFMTV",
+      "text": "KIM JONG-UN",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:37",
+      "date": "05/07",
+      "timestamp": 1783251421
+    },
+    {
+      "id": "BFMTV_1783251421",
+      "source": "BFMTV",
+      "text": "LE DIRIGEANT NORD-CORÉEN KIM JONG-UN SUPERVISE UN NOUVEL ESSAI MILITAIRE NAVAL AVEC LE NAVIRE QUI S'ÉTAIT ÉCHOUÉ LORS DE SON LANCEMENT L'AN DERNIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:37",
+      "date": "05/07",
+      "timestamp": 1783251421
+    },
+    {
+      "id": "OPEX360_1783250086",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE TERRE VA BIENTÔT RÉCUPÉRER UNE CAPACITÉ ESSENTIELLE AVEC L’ENGIN DE BRÉCHAGE MÉCANIQUE DE ZONE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:14",
+      "date": "05/07",
+      "timestamp": 1783250086
+    },
+    {
+      "id": "BFMTV_1783248347",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"VLADIMIR POUTINE A PERDU LA PAIX\", ESTIME THIERRY BRETON, ANCIEN COMMISSAIRE EUROPÉEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:45",
+      "date": "05/07",
+      "timestamp": 1783248347
+    },
     {
       "id": "OPEX360_1783245920",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "17:12",
       "date": "03/07",
       "timestamp": 1783098759
-    },
-    {
-      "id": "BFMTV_1783095181",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: QUELLES SONT LES DIFFÉRENTES HYPOTHÈSES DE RIPOSTE POUR KIEV?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:13",
-      "date": "03/07",
-      "timestamp": 1783095181
-    },
-    {
-      "id": "OPEX360_1783094743",
-      "source": "OPEX360",
-      "text": "SOIXANTE-CINQ ANS APRÈS SA CRÉATION, LA DIRECTION GÉNÉRALE DE L’ARMEMENT A ENFIN REÇU SON DRAPEAU",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:05",
-      "date": "03/07",
-      "timestamp": 1783094743
-    },
-    {
-      "id": "BFMTV_1783094718",
-      "source": "BFMTV",
-      "text": "RESTER AU LIBAN POUR ISRAËL EST \"UNE DÉCISION STUPIDE\", QUI \"AIDE LE HEZBOLLAH\", DÉPLORE L'ANCIEN PREMIER MINISTRE ISRAÉLIEN EHUD BARAK",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:05",
-      "date": "03/07",
-      "timestamp": 1783094718
-    },
-    {
-      "id": "BFMTV_1783094203",
-      "source": "BFMTV",
-      "text": "LE BILAN DES SIX PREMIERS MOIS DU MAIRE DE NEW YORK ZOHRAN MAMDANI",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:56",
-      "date": "03/07",
-      "timestamp": 1783094203
     }
   ],
   "france": {
