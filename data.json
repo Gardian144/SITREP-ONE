@@ -1,7 +1,27 @@
 {
-  "last_update": "06/07 19:15",
+  "last_update": "06/07 21:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783367338",
+      "source": "BFMTV",
+      "text": "\"NOUS EN AVONS TIRÉ LES CONSÉQUENCES\": LA FRANCE A RETIRÉ TOUS SES DIPLOMATES EN POSTE AU BURKINA FASO",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:48",
+      "date": "06/07",
+      "timestamp": 1783367338
+    },
+    {
+      "id": "BFMTV_1783365952",
+      "source": "BFMTV",
+      "text": "L'ENTRETIEN EXCLUSIF À BFMTV D'AHMED AL-CHARAA, PRÉSIDENT SYRIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:25",
+      "date": "06/07",
+      "timestamp": 1783365952
+    },
     {
       "id": "BFMTV_1783362231",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "07:50",
       "date": "04/07",
       "timestamp": 1783151441
-    },
-    {
-      "id": "BFMTV_1783151162",
-      "source": "BFMTV",
-      "text": "LE PAPE LÉON XIV À LAMPEDUSA ",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:46",
-      "date": "04/07",
-      "timestamp": 1783151162
-    },
-    {
-      "id": "BFMTV_1783149420",
-      "source": "BFMTV",
-      "text": "\"UNE RÉÉCRITURE RACIALE ET RELIGIEUSE\": COMMENT DONALD TRUMP INSTRUMENTALISE L'HISTOIRE À L'OCCASION DES 250 ANS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:17",
-      "date": "04/07",
-      "timestamp": 1783149420
     }
   ],
   "france": {
