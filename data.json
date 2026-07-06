@@ -1,7 +1,47 @@
 {
-  "last_update": "06/07 17:15",
+  "last_update": "06/07 19:15",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783362231",
+      "source": "BFMTV",
+      "text": "L'ENTRETIEN EXCLUSIF SUR BFMTV D'AHMED AL-CHARAA, PRÉSIDENT SYRIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:23",
+      "date": "06/07",
+      "timestamp": 1783362231
+    },
+    {
+      "id": "BFMTV_1783361446",
+      "source": "BFMTV",
+      "text": "DOCUMENT BFMTV. IMMIGRATION, TRAFIC DE DROGUE ET \"RÔLE TRÈS CONSTRUCTIF\" DE LA FRANCE: LE PRÉSIDENT SYRIEN SALUE LES LIENS ENTRE DAMAS ET PARIS DEPUIS LE CHANGEMENT DE RÉGIME",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:10",
+      "date": "06/07",
+      "timestamp": 1783361446
+    },
+    {
+      "id": "BFMTV_1783360318",
+      "source": "BFMTV",
+      "text": "\"LA FRANCE VA PARTICIPER À LA RECONSTRUCTION D'INFRASTRUCTURES DANS DES SECTEURS COMME LE TOURISME, L'AGRICULTURE ET L'INDUSTRIE\", EXPLIQUE AHMED AL-CHARAA, PRÉSIDENT SYRIEN",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:51",
+      "date": "06/07",
+      "timestamp": 1783360318
+    },
+    {
+      "id": "BFMTV_1783360234",
+      "source": "BFMTV",
+      "text": "\"LA FRANCE A SOUTENU LE MOUVEMENT DE LA RÉVOLUTION SYRIENNE\", DÉCLARE AHMED AL-CHARAA, PRÉSIDENT SYRIEN",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:50",
+      "date": "06/07",
+      "timestamp": 1783360234
+    },
     {
       "id": "BFMTV_1783356991",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "07:17",
       "date": "04/07",
       "timestamp": 1783149420
-    },
-    {
-      "id": "BFMTV_1783146891",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV FRAPPE LE TERMINAL PÉTROLIER DE SAINT-PÉTERSBOURG ",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:34",
-      "date": "04/07",
-      "timestamp": 1783146891
-    },
-    {
-      "id": "BFMTV_1783146260",
-      "source": "BFMTV",
-      "text": "NEUF BLESSÉS AU PORTUGAL, LA COSTA BRAVA TOUCHÉE... LA PÉNINSULE IBÉRIQUE EN PROIE À DE VIOLENTS INCENDIES",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:24",
-      "date": "04/07",
-      "timestamp": 1783146260
-    },
-    {
-      "id": "BFMTV_1783142165",
-      "source": "BFMTV",
-      "text": "OBSÈQUES D'ALI KHAMENEI: LE PROGRAMME DES SIX JOURS DE COMMÉMORATIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:16",
-      "date": "04/07",
-      "timestamp": 1783142165
-    },
-    {
-      "id": "BFMTV_1783141950",
-      "source": "BFMTV",
-      "text": "250 ANS DES ÉTATS-UNIS: DONALD TRUMP ENTEND BIEN PROFITER DE L'ÉVÉNEMENT POUR FAIRE SA PROMOTION",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:12",
-      "date": "04/07",
-      "timestamp": 1783141950
     }
   ],
   "france": {
