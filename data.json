@@ -1,7 +1,37 @@
 {
-  "last_update": "06/07 01:23",
+  "last_update": "06/07 05:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783312970",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS DIX MORTS DANS DES BOMBARDEMENTS RUSSES DANS LA RÉGION DE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "06/07",
+      "timestamp": 1783312970
+    },
+    {
+      "id": "BFMTV_1783312476",
+      "source": "BFMTV",
+      "text": "IRAN: UNE MARÉE À HUMAINE À TÉHÉRAN POUR LE CORTÈGE FUNÈBRE DE L'AYATOLLAH ALI KHAMENEI ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:34",
+      "date": "06/07",
+      "timestamp": 1783312476
+    },
+    {
+      "id": "BFMTV_1783311829",
+      "source": "BFMTV",
+      "text": "ROTA \"SERA INHABITABLE PENDANT DES SEMAINES\": LE SUPER-TYPHON BAVI PROVOQUE DES \"DÉGÂTS MAJEURS\" DANS L'ARCHIPEL AMÉRICAIN DES MARIANNES",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:23",
+      "date": "06/07",
+      "timestamp": 1783311829
+    },
     {
       "id": "BFMTV_1783289678",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "20:46",
       "date": "03/07",
       "timestamp": 1783111618
-    },
-    {
-      "id": "BFMTV_1783111618",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:46",
-      "date": "03/07",
-      "timestamp": 1783111618
-    },
-    {
-      "id": "BFMTV_1783107940",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON ANNONCE LE RETOUR EN FRANCE DU PORTE-AVIONS CHARLES DE GAULLE",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:45",
-      "date": "03/07",
-      "timestamp": 1783107940
-    },
-    {
-      "id": "BFMTV_1783106053",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON ANNONCE LE RETOUR DU PORTE-AVIONS CHARLES DE GAULLE EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:14",
-      "date": "03/07",
-      "timestamp": 1783106053
     }
   ],
   "france": {
