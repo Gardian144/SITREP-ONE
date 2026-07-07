@@ -1,7 +1,37 @@
 {
-  "last_update": "07/07 01:26",
+  "last_update": "07/07 05:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783400067",
+      "source": "BFMTV",
+      "text": "UN TANKER TOUCHÉ PAR UN PROJECTILE NON IDENTIFIÉ DANS LA RÉGION DU DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:54",
+      "date": "07/07",
+      "timestamp": 1783400067
+    },
+    {
+      "id": "BFMTV_1783398961",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN TANKER ATTEINT PAR UN PROJECTILE NON-IDENTIFIÉ DANS LA RÉGION DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:36",
+      "date": "07/07",
+      "timestamp": 1783398961
+    },
+    {
+      "id": "BFMTV_1783397750",
+      "source": "BFMTV",
+      "text": "ÉDITO - VISITE D'EMMANUEL MACRON EN SYRIE: \"C'EST UTILE ET C'EST EN MÊME TEMPS RISQUÉ\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:15",
+      "date": "07/07",
+      "timestamp": 1783397750
+    },
     {
       "id": "BFMTV_1783372154",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "08:51",
       "date": "04/07",
       "timestamp": 1783155075
-    },
-    {
-      "id": "BFMTV_1783154452",
-      "source": "BFMTV",
-      "text": "\"L\"UKRAINE A UNE VÉRITABLE EXPERTISE AÉRONAUTIQUE ET SA PERCÉE EN MATIÈRE DE DRONES POUVAIT ÊTRE PRÉVISIBLE\", EXPLIQUE JEAN DE GLINIASTY, ANCIEN AMBASSADEUR DE FRANCE EN RUSSIE",
-      "urgent": true,
-      "france_related": true,
-      "time": "08:40",
-      "date": "04/07",
-      "timestamp": 1783154452
-    },
-    {
-      "id": "BFMTV_1783153144",
-      "source": "BFMTV",
-      "text": "UKRAINE: DE NOUVELLES FRAPPES RUSSES FONT AU MOINS 4 MORTS À SOUMY",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:19",
-      "date": "04/07",
-      "timestamp": 1783153144
-    },
-    {
-      "id": "BFMTV_1783152630",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA RUSSIE AFFIRME QUE DES DRONES UKRAINIENS ONT TOUCHÉ UN TERMINAL PÉTROLIER À SAINT-PÉTERSBOURG",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:10",
-      "date": "04/07",
-      "timestamp": 1783152630
     }
   ],
   "france": {
