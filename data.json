@@ -1,7 +1,97 @@
 {
-  "last_update": "07/07 08:55",
+  "last_update": "07/07 11:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783423555",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ARRIVE À ANKARA POUR PARTICIPER AU 36E SOMMET DE L'OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:25",
+      "date": "07/07",
+      "timestamp": 1783423555
+    },
+    {
+      "id": "BFMTV_1783422672",
+      "source": "BFMTV",
+      "text": "UN POLICIER ISRAÉLIEN LANCE UNE GRENADE ASSOURDISSANTE DANS UNE VOITURE OCCUPÉE PAR DES PALESTINIENS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:11",
+      "date": "07/07",
+      "timestamp": 1783422672
+    },
+    {
+      "id": "OPEX360_1783422033",
+      "source": "OPEX360",
+      "text": "LE DANEMARK CONFIRME L’ACHAT DE DEUX AVIONS DE PATROUILLE MARITIME P-8A POSEIDON AUPRÈS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:00",
+      "date": "07/07",
+      "timestamp": 1783422033
+    },
+    {
+      "id": "BFMTV_1783419198",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON APPELLE À \"MULTIPLIER LES ÉCHANGES\" ENTRE LA SYRIE, L'UNION EUROPÉENNE ET LA FRANCE ",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:13",
+      "date": "07/07",
+      "timestamp": 1783419198
+    },
+    {
+      "id": "BFMTV_1783417774",
+      "source": "BFMTV",
+      "text": "RUSSIE: PLUS DE 430 DRONES UKRAINIENS LANCÉS VERS MOSCOU AVANT LE DÉBUT DU SOMMET DE L'OTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:49",
+      "date": "07/07",
+      "timestamp": 1783417774
+    },
+    {
+      "id": "BFMTV_1783415989",
+      "source": "BFMTV",
+      "text": "DES ORAGES ET PRÉCIPITATIONS EXTRÊMES FONT AU MOINS 15 MORTS ET DES CENTAINES DE BLESSÉS EN CHINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:19",
+      "date": "07/07",
+      "timestamp": 1783415989
+    },
+    {
+      "id": "BFMTV_1783415076",
+      "source": "BFMTV",
+      "text": "ETATS-UNIS: LE TOIT D'UN MAGASIN S'EFFONDRE DANS LE NEW JERSEY",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:04",
+      "date": "07/07",
+      "timestamp": 1783415076
+    },
+    {
+      "id": "BFMTV_1783414909",
+      "source": "BFMTV",
+      "text": "APRÈS LES DEUX EXPLOSIONS À DAMAS, EMMANUEL MACRON POURSUIT SA VISITE D'ÉTAT AUX CÔTÉS DU PRÉSIDENT SYRIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:01",
+      "date": "07/07",
+      "timestamp": 1783414909
+    },
+    {
+      "id": "BFMTV_1783414889",
+      "source": "BFMTV",
+      "text": "EXPLOSIONS À DAMAS: 18 PERSONNES ONT ÉTÉ BLESSÉES SELON LE MINISTÈRE SYRIEN DE L'INTÉRIEUR",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:01",
+      "date": "07/07",
+      "timestamp": 1783414889
+    },
     {
       "id": "BFMTV_1783414219",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "14:05",
       "date": "04/07",
       "timestamp": 1783173913
-    },
-    {
-      "id": "BFMTV_1783172041",
-      "source": "BFMTV",
-      "text": "IRAN: LE DISCOURS TRIOMPHALISTE DE DONALD TRUMP, POURTANT \"TRÈS CRITIQUÉ DANS LE CAMP RÉPUBLICAIN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:34",
-      "date": "04/07",
-      "timestamp": 1783172041
-    },
-    {
-      "id": "BFMTV_1783171719",
-      "source": "BFMTV",
-      "text": "IRAN : 6 JOURS DE FUNÉRAILLES POUR LE GUIDE SUPRÊME ALI KHAMENEI",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:28",
-      "date": "04/07",
-      "timestamp": 1783171719
-    },
-    {
-      "id": "BFMTV_1783171213",
-      "source": "BFMTV",
-      "text": "L'UKRAINE FRAPPE UN TERMINAL PÉTROLIER À SAINT PETERSBOURG",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:20",
-      "date": "04/07",
-      "timestamp": 1783171213
-    },
-    {
-      "id": "OPEX360_1783170888",
-      "source": "OPEX360",
-      "text": "LA BRIGADE «LECLERC» OFFICIALISE LA CRÉATION DE SON GROUPEMENT COMMANDO BLINDÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:14",
-      "date": "04/07",
-      "timestamp": 1783170888
-    },
-    {
-      "id": "BFMTV_1783169220",
-      "source": "BFMTV",
-      "text": "LA FAYETTE, BEAUMARCHAIS, LE COMTE DE GRASSE... CES FRANÇAIS QUI ONT COMPTÉ POUR L'INDÉPENDANCE DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:47",
-      "date": "04/07",
-      "timestamp": 1783169220
-    },
-    {
-      "id": "BFMTV_1783167132",
-      "source": "BFMTV",
-      "text": "EUROMILLIONS: UN BELGE REMPORTE LE JACKPOT DE PLUS DE 80 MILLIONS D'EUROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:12",
-      "date": "04/07",
-      "timestamp": 1783167132
-    },
-    {
-      "id": "BFMTV_1783166309",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: ENVIRON 1.000 SOLDATS RUSSES PAR JOUR SONT MIS HORS DE COMBAT, C'EST-À-DIRE SOIT TUÉS, BLESSÉS OU FAITS PRISONNIERS",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:58",
-      "date": "04/07",
-      "timestamp": 1783166309
-    },
-    {
-      "id": "BFMTV_1783166029",
-      "source": "BFMTV",
-      "text": "AVEC L'APAISEMENT DU CONFLIT AU MOYEN-ORIENT, \"LA VALEUR DE LA RUSSIE EN MATIÈRE DE PUISSANCE PÉTROLIÈRE BAISSE\", ASSURE HUGUES PERNET, PREMIER AMBASSADEUR DE FRANCE EN UKRAINE",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:53",
-      "date": "04/07",
-      "timestamp": 1783166029
-    },
-    {
-      "id": "BFMTV_1783165372",
-      "source": "BFMTV",
-      "text": "VALDIMIR POUTINE EN CHEF DE GUERRE: \"LE PRÉSIDENT QUI SE MET EN SCÈNE N'EST PAS FLAMBOYANT\", ESTIME HUGUES PERNET, PREMIER AMBASSADEUR DE FRANCE EN UKRAINE",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:42",
-      "date": "04/07",
-      "timestamp": 1783165372
     }
   ],
   "france": {
