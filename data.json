@@ -1,7 +1,87 @@
 {
-  "last_update": "07/07 11:49",
+  "last_update": "07/07 14:31",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1783431579",
+      "source": "OPEX360",
+      "text": "L’OTAN ANNONCE LA CRÉATION D’UNE FLOTTE MULTINATIONALE D’AVIONS DE TRANSPORT A400M ATLAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:39",
+      "date": "07/07",
+      "timestamp": 1783431579
+    },
+    {
+      "id": "BFMTV_1783430366",
+      "source": "BFMTV",
+      "text": "ATTENTATS EN SYRIE: EMMANUEL MACRON APPELLE À \"NE PAS NOUS LAISSER DÉSTABILISER\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:19",
+      "date": "07/07",
+      "timestamp": 1783430366
+    },
+    {
+      "id": "BFMTV_1783430230",
+      "source": "BFMTV",
+      "text": "EXPLOSIONS À DAMAS: LE PRÉSIDENT SYRIEN SALUE LE COURAGE D'EMMANUEL MACRON",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:17",
+      "date": "07/07",
+      "timestamp": 1783430230
+    },
+    {
+      "id": "BFMTV_1783429716",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT SYRIEN APPELLE LA FRANCE À JOUER UN RÔLE \"CRUCIAL\" POUR \"ARRÊTER\" L'ESCALADE D'ISRAËL",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:08",
+      "date": "07/07",
+      "timestamp": 1783429716
+    },
+    {
+      "id": "BFMTV_1783429471",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON: \"Y COMPRIS POUR SA PROPRE SÉCURITÉ, ISRAËL N'A JAMAIS INTÉRÊT À VIOLER LA SOUVERAINETÉ DE SES VOISINS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:04",
+      "date": "07/07",
+      "timestamp": 1783429471
+    },
+    {
+      "id": "BFMTV_1783429015",
+      "source": "BFMTV",
+      "text": "\"LA SYRIE SE VERRA AINSI RESTITUER LES PLUS DE 50 MILLIONS D'EUROS ISSUS DE LA SAISIE DES BIENS MAL ACQUIS PAR LA FAMILLE DE L'ANCIEN DICTATEUR\", DÉCLARE EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:56",
+      "date": "07/07",
+      "timestamp": 1783429015
+    },
+    {
+      "id": "BFMTV_1783428859",
+      "source": "BFMTV",
+      "text": "DÉPLACEMENT HISTORIQUE EN SYRIE, POUR EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:54",
+      "date": "07/07",
+      "timestamp": 1783428859
+    },
+    {
+      "id": "BFMTV_1783428828",
+      "source": "BFMTV",
+      "text": "\"LA TURQUIE EST UNE SOURCE D'APPROVISIONNEMENT\": LE VICE-PRÉSIDENT AFFIRME QUE \"PLUS DE LA MOITIÉ\" DES EXPORTATIONS DE DÉFENSE VA AUX PAYS ALLIÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:53",
+      "date": "07/07",
+      "timestamp": 1783428828
+    },
     {
       "id": "BFMTV_1783423555",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "16:58",
       "date": "04/07",
       "timestamp": 1783184285
-    },
-    {
-      "id": "BFMTV_1783183909",
-      "source": "BFMTV",
-      "text": "LE DRONE HORNET, LE NOUVEL ATOUT DE L'ARMÉE UKRAINIENNE FACE À LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:51",
-      "date": "04/07",
-      "timestamp": 1783183909
-    },
-    {
-      "id": "BFMTV_1783183425",
-      "source": "BFMTV",
-      "text": "FRAPPES UKRAINIENNE CONTRE UN TERMINAL PÉTROLIER: \"L'UKRAINE A TROUVÉ LE NERF DE LA GUERRE\", ESTIME SERGUEÏ JIRNOV",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:43",
-      "date": "04/07",
-      "timestamp": 1783183425
-    },
-    {
-      "id": "BFMTV_1783182125",
-      "source": "BFMTV",
-      "text": "LES FUNÉRAILLES D'ALI KHAMENEI UTILISÉES COMME UNE DÉMONSTRATION DE FORCE PAR LE RÉGIME IRANIEN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:22",
-      "date": "04/07",
-      "timestamp": 1783182125
-    },
-    {
-      "id": "BFMTV_1783178837",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV VISE DES SITES ÉNERGÉTIQUES RUSSES, LE POINT FAIBLE DE MOSCOU? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:27",
-      "date": "04/07",
-      "timestamp": 1783178837
-    },
-    {
-      "id": "BFMTV_1783178532",
-      "source": "BFMTV",
-      "text": "AU MOINS 2.200 HECTARES PARTIS EN FUMÉE EN ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:22",
-      "date": "04/07",
-      "timestamp": 1783178532
-    },
-    {
-      "id": "BFMTV_1783178011",
-      "source": "BFMTV",
-      "text": "IRAN: LA FOULE SE RASSEMBLE POUR LES FUNÉRAILLES D'ALI KHAMENEI",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:13",
-      "date": "04/07",
-      "timestamp": 1783178011
-    },
-    {
-      "id": "BFMTV_1783174757",
-      "source": "BFMTV",
-      "text": "L'UKRAINE A VISÉ DES SITES ÉNERGÉTIQUES EN RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:19",
-      "date": "04/07",
-      "timestamp": 1783174757
-    },
-    {
-      "id": "BFMTV_1783173913",
-      "source": "BFMTV",
-      "text": "DÉCOUVERT INANIMÉ DANS UNE PISCINE, UN AMÉRICAIN DE 18 MOIS DÉCLARÉ MORT AVANT D'ÊTRE FINALEMENT RETROUVÉ VIVANT À LA MORGUE PLUSIEURS HEURES PLUS TARD",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:05",
-      "date": "04/07",
-      "timestamp": 1783173913
     }
   ],
   "france": {
