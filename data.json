@@ -1,7 +1,37 @@
 {
-  "last_update": "07/07 16:59",
+  "last_update": "07/07 19:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783447259",
+      "source": "BFMTV",
+      "text": "AUSTRALIE: UNE INFLUENCEUSE ACCUSÉE DE TRAFIQUER DES ACTIONS HUMANITAIRES AVEC L'IA",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:00",
+      "date": "07/07",
+      "timestamp": 1783447259
+    },
+    {
+      "id": "BFMTV_1783445789",
+      "source": "BFMTV",
+      "text": "EMMANUEL ET BRIGITTE MACRON ONT RENCONTRÉ LE PRÉSIDENT TURQUE RECEP TAYYIP ERDOĞAN, ET SA FEMME EMINE ERDOĞAN ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:36",
+      "date": "07/07",
+      "timestamp": 1783445789
+    },
+    {
+      "id": "BFMTV_1783445711",
+      "source": "BFMTV",
+      "text": "SOMMET DE L'OTAN EN TURQUIE: L'ARRIVÉE D'EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:35",
+      "date": "07/07",
+      "timestamp": 1783445711
+    },
     {
       "id": "OPEX360_1783442028",
       "source": "OPEX360",
@@ -66,6 +96,16 @@
       "id": "BFMTV_1783438638",
       "source": "BFMTV",
       "text": "GUERRE AU MOYEN-ORIENT: TROIS ATTAQUES EN 24 HEURES CONTRE DES NAVIRES DANS LE DÉTROIT D'ORMUZ, L'IRAN ACCUSÉ PAR LE QATAR POUR L'UNE D'ELLES",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:37",
+      "date": "07/07",
+      "timestamp": 1783438638
+    },
+    {
+      "id": "BFMTV_1783438638",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
       "urgent": true,
       "france_related": false,
       "time": "15:37",
@@ -961,46 +1001,6 @@
       "time": "04:52",
       "date": "05/07",
       "timestamp": 1783227160
-    },
-    {
-      "id": "BFMTV_1783226890",
-      "source": "BFMTV",
-      "text": "INCENDIES: DES MÉGA-FEUX DÉVORENT L'ESPAGNE ET LE PORTUGAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:48",
-      "date": "05/07",
-      "timestamp": 1783226890
-    },
-    {
-      "id": "BFMTV_1783226476",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DONALD TRUMP S'EST ENTRETENU AVEC VLADIMIR POUTINE ET VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:41",
-      "date": "05/07",
-      "timestamp": 1783226476
-    },
-    {
-      "id": "BFMTV_1783226347",
-      "source": "BFMTV",
-      "text": "250 ANS DES ÉTATS-UNIS: LES IMAGES FORTES DES FESTIVITÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:39",
-      "date": "05/07",
-      "timestamp": 1783226347
-    },
-    {
-      "id": "BFMTV_1783224870",
-      "source": "BFMTV",
-      "text": "\"IL SAIT QUI EST LE PATRON\": DONALD TRUMP ÉVOQUE BENJAMIN NETANYAHU AVANT LEUR POSSIBLE RENCONTRE À LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:14",
-      "date": "05/07",
-      "timestamp": 1783224870
     }
   ],
   "france": {
