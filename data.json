@@ -1,7 +1,137 @@
 {
-  "last_update": "07/07 05:39",
+  "last_update": "07/07 08:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783414219",
+      "source": "BFMTV",
+      "text": "DEUX EXPLOSIONS ENTENDUES À DAMAS EN SYRIE OÙ EMMANUEL MACRON EST EN VISITE, LE PRÉSIDENT SAIN ET SAUF",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:50",
+      "date": "07/07",
+      "timestamp": 1783414219
+    },
+    {
+      "id": "BFMTV_1783413988",
+      "source": "BFMTV",
+      "text": "\"RECONSTRUIRE NOS ARSENAUX, SURPASSER NOS CONCURRENTS\": L'OTAN RENFORCE SES INITIATIVES DE COOPÉRATION DANS L'INDUSTRIE DE LA DÉFENSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:46",
+      "date": "07/07",
+      "timestamp": 1783413988
+    },
+    {
+      "id": "BFMTV_1783413532",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY ET SON ÉPOUSE OLENA ZELENSKA ARRIVENT À ANKARA POUR LE 36E SOMMET DE OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:38",
+      "date": "07/07",
+      "timestamp": 1783413532
+    },
+    {
+      "id": "BFMTV_1783413153",
+      "source": "BFMTV",
+      "text": "MONDIAL 2026: L'ÉQUIPE DE FRANCE SUPERSTAR AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:32",
+      "date": "07/07",
+      "timestamp": 1783413153
+    },
+    {
+      "id": "BFMTV_1783412414",
+      "source": "BFMTV",
+      "text": "SYRIE: LES PREMIÈRES IMAGES DES EXPLOSIONS PRÈS DE L'HÔTEL OÙ EMMANUEL MACRON A SÉJOURNÉ À DAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:20",
+      "date": "07/07",
+      "timestamp": 1783412414
+    },
+    {
+      "id": "BFMTV_1783412297",
+      "source": "BFMTV",
+      "text": "EXPLOSIONS À DAMAS: EMMANUEL MACRON POURSUIT SA VISITE EN SYRIE AUX CÔTÉS DU PRÉSIDENT SYRIEN AHMAD AL-CHARAA",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:18",
+      "date": "07/07",
+      "timestamp": 1783412297
+    },
+    {
+      "id": "BFMTV_1783412116",
+      "source": "BFMTV",
+      "text": "EXPLOSIONS À DAMAS: EMMANUEL MACRON EST SAIN ET SAUF ET POURSUIT SA VISITE EN SYRIE, INDIQUE L'ÉLYSÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:15",
+      "date": "07/07",
+      "timestamp": 1783412116
+    },
+    {
+      "id": "BFMTV_1783411362",
+      "source": "BFMTV",
+      "text": "LES PREMIÈRES IMAGES DES EXPLOSIONS À DAMAS (SYRIE) QUI ONT EU LIEU PRÈS DE L'HÔTEL OÙ EMMANUEL MACRON A PASSÉ LA NUIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:02",
+      "date": "07/07",
+      "timestamp": 1783411362
+    },
+    {
+      "id": "BFMTV_1783410948",
+      "source": "BFMTV",
+      "text": "SYRIE: AU MOINS DEUX EXPLOSIONS ONT RETENTI PRÈS DE L'HÔTEL OÙ EMMANUEL MACRON A PASSÉ LA NUIT À DAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:55",
+      "date": "07/07",
+      "timestamp": 1783410948
+    },
+    {
+      "id": "BFMTV_1783410285",
+      "source": "BFMTV",
+      "text": "UNE EXPLOSION ENTENDUE À DAMAS EN SYRIE OÙ EMMANUEL MACRON EST EN VISITE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:44",
+      "date": "07/07",
+      "timestamp": 1783410285
+    },
+    {
+      "id": "OPEX360_1783410105",
+      "source": "OPEX360",
+      "text": "LE CANADA RETIENT L’ALLEMAND TKMS POUR SE PROCURER JUSQU’À DOUZE NOUVEAUX SOUS-MARINS",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:41",
+      "date": "07/07",
+      "timestamp": 1783410105
+    },
+    {
+      "id": "BFMTV_1783407991",
+      "source": "BFMTV",
+      "text": "WASHINGTON DEVIENT BRIÈVEMENT LA VILLE LA PLUS POLLUÉE AU MONDE APRÈS LE FEU D'ARTIFICE DES 250 ANS DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:06",
+      "date": "07/07",
+      "timestamp": 1783407991
+    },
+    {
+      "id": "BFMTV_1783404390",
+      "source": "BFMTV",
+      "text": "UN DÉPLACEMENT HISTORIQUE EN SYRIE POUR EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:06",
+      "date": "07/07",
+      "timestamp": 1783404390
+    },
     {
       "id": "BFMTV_1783400067",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "11:42",
       "date": "04/07",
       "timestamp": 1783165372
-    },
-    {
-      "id": "OPEX360_1783164296",
-      "source": "OPEX360",
-      "text": "LA SERBIE SE TOURNE À NOUVEAU VERS LA CHINE POUR RENFORCER SES CAPACITÉS DE DÉFENSE AÉRIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:24",
-      "date": "04/07",
-      "timestamp": 1783164296
-    },
-    {
-      "id": "BFMTV_1783164159",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN MIG-29, UN AVION MILITAIRE RUSSE, DÉTRUIT EN CRIMÉE PAR KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:22",
-      "date": "04/07",
-      "timestamp": 1783164159
-    },
-    {
-      "id": "BFMTV_1783163946",
-      "source": "BFMTV",
-      "text": "EN ALLEMAGNE, 20.000 MANIFESTANTS CONTRE LE CONGRÈS DE L'AFD, LE PARTI D'EXTRÊME DROITE ALLEMAND",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:19",
-      "date": "04/07",
-      "timestamp": 1783163946
-    },
-    {
-      "id": "BFMTV_1783162771",
-      "source": "BFMTV",
-      "text": "\"ON A MIS UNE RACLÉE À L'IRAN\": DONALD TRUMP ASSURE QUE TÉHÉRAN \"MEURT D'ENVIE DE CONCLURE UN ACCORD\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:59",
-      "date": "04/07",
-      "timestamp": 1783162771
-    },
-    {
-      "id": "BFMTV_1783162729",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA RUSSIE REVENDIQUE LA PRISE DE LA VILLE FORTERESSE DE KOSTYANTYNIVKA",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:58",
-      "date": "04/07",
-      "timestamp": 1783162729
-    },
-    {
-      "id": "BFMTV_1783161868",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LE POINT SUR LA LIGNE DE FRONT ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:44",
-      "date": "04/07",
-      "timestamp": 1783161868
-    },
-    {
-      "id": "BFMTV_1783159499",
-      "source": "BFMTV",
-      "text": "L'ARMÉE UKRAINIENNE ASSURE TOUJOURS CONTRÔLER LA VILLE-CLÉ DE KOSTYANTYNIVKA, AFFIRMANT QUE L'ANNONCE DE SA PRISE PAR LA RUSSIE EST \"FAUSSE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:04",
-      "date": "04/07",
-      "timestamp": 1783159499
-    },
-    {
-      "id": "OPEX360_1783159362",
-      "source": "OPEX360",
-      "text": "LONDRES, ROME ET TOKYO LANCENT LA PHASE DE CONCEPTION DE LEUR AVION DE COMBAT COMMUN POUR 5,3 MILLIARDS D’EUROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:02",
-      "date": "04/07",
-      "timestamp": 1783159362
-    },
-    {
-      "id": "BFMTV_1783157003",
-      "source": "BFMTV",
-      "text": "\"LES MOIS À VENIR POURRAIENT S'AVÉRER VÉRITABLEMENT CRITIQUES\": LE PREMIER MINISTRE POLONAIS ALERTE SUR UNE POSSIBLE \"PROVOCATION MILITAIRE\" RUSSE CONTRE SON PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:23",
-      "date": "04/07",
-      "timestamp": 1783157003
-    },
-    {
-      "id": "BFMTV_1783156660",
-      "source": "BFMTV",
-      "text": "IRAN: LES FUNÉRAILLES DU GUIDE SUPRÊME ALI KHAMENEI, DÉMONSTRATION DE FORCE DU RÉGIME",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:17",
-      "date": "04/07",
-      "timestamp": 1783156660
-    },
-    {
-      "id": "BFMTV_1783155852",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL AURAIT TENTÉ D'ASSASSINER DES DIRIGEANTS IRANIENS LORS DES NÉGOCIATIONS, SELON LE NEW YORK TIMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:04",
-      "date": "04/07",
-      "timestamp": 1783155852
-    },
-    {
-      "id": "BFMTV_1783155284",
-      "source": "BFMTV",
-      "text": "250 ANS DES ÉTATS-UNIS: LES CÉLÉBRATIONS DU 4 JUILLET TRÈS CRITIQUÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:54",
-      "date": "04/07",
-      "timestamp": 1783155284
-    },
-    {
-      "id": "BFMTV_1783155075",
-      "source": "BFMTV",
-      "text": "\"ON A ACCORDÉ UNE SEMAINE DE RÉPIT À L'IRAN POUR LES FUNÉRAILLES [DE KHAMENEI]\", DÉCLARE DONALD TRUMP AU MONT RUSHMORE",
-      "urgent": true,
-      "france_related": true,
-      "time": "08:51",
-      "date": "04/07",
-      "timestamp": 1783155075
     }
   ],
   "france": {
