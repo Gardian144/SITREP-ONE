@@ -1,7 +1,27 @@
 {
-  "last_update": "08/07 01:03",
+  "last_update": "08/07 04:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783484707",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: APRÈS LES ATTAQUES DES ÉTATS-UNIS, L'IRAN DIT AVOIR FRAPPÉ DES BASES AMÉRICAINES AU KOWEÏT ET À BAHREÏN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:25",
+      "date": "08/07",
+      "timestamp": 1783484707
+    },
+    {
+      "id": "BFMTV_1783484368",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: APRÈS LES ATTAQUES DES ÉTATS-UNIS, L'IRAN DIT AVOIR FRAPPÉ DES BASES AMÉRICAINES AU KOWEÏT ET À BAHREÏN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:19",
+      "date": "08/07",
+      "timestamp": 1783484368
+    },
     {
       "id": "BFMTV_1783461214",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "05:26",
       "date": "05/07",
       "timestamp": 1783229216
-    },
-    {
-      "id": "BFMTV_1783228220",
-      "source": "BFMTV",
-      "text": "DES TOMBES SCELLÉES DEPUIS 2.000 ANS ET LES VESTIGES D'UNE VILLE BYZANTINE DÉCOUVERTS EN ÉGYPTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:10",
-      "date": "05/07",
-      "timestamp": 1783228220
-    },
-    {
-      "id": "BFMTV_1783228013",
-      "source": "BFMTV",
-      "text": "250 ANS DES ÉTATS-UNIS: LE PRINCIPAL LIEU DES FESTIVITÉS À WASHINGTON A DÛ ÊTRE ÉVACUÉ EN RAISON D'UNE MENACE D'ORAGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:06",
-      "date": "05/07",
-      "timestamp": 1783228013
     }
   ],
   "france": {
