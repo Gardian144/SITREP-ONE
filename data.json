@@ -1,7 +1,27 @@
 {
-  "last_update": "08/07 17:08",
+  "last_update": "08/07 18:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783531941",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP COMPARE VOLODYMYR ZELENSKY ET VLADIMIR POUTINE À “DEUX GAMINS DANS UN PARC QUI NE S’AIMENT PAS”",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:32",
+      "date": "08/07",
+      "timestamp": 1783531941
+    },
+    {
+      "id": "BFMTV_1783531030",
+      "source": "BFMTV",
+      "text": "LA BOURDE DE DONALD TRUMP AU SOMMET DE L'OTAN QUI CONFOND LE JAPON ET L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:17",
+      "date": "08/07",
+      "timestamp": 1783531030
+    },
     {
       "id": "OPEX360_1783529916",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "07:55",
       "date": "07/07",
       "timestamp": 1783410948
-    },
-    {
-      "id": "BFMTV_1783410285",
-      "source": "BFMTV",
-      "text": "UNE EXPLOSION ENTENDUE À DAMAS EN SYRIE OÙ EMMANUEL MACRON EST EN VISITE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:44",
-      "date": "07/07",
-      "timestamp": 1783410285
-    },
-    {
-      "id": "OPEX360_1783410105",
-      "source": "OPEX360",
-      "text": "LE CANADA RETIENT L’ALLEMAND TKMS POUR SE PROCURER JUSQU’À DOUZE NOUVEAUX SOUS-MARINS",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:41",
-      "date": "07/07",
-      "timestamp": 1783410105
     }
   ],
   "france": {
