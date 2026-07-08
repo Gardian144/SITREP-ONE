@@ -1,7 +1,97 @@
 {
-  "last_update": "08/07 07:14",
+  "last_update": "08/07 09:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783502926",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE CESSEZ-LE-FEU AVEC L'IRAN EST \"TERMINÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:28",
+      "date": "08/07",
+      "timestamp": 1783502926
+    },
+    {
+      "id": "BFMTV_1783501476",
+      "source": "BFMTV",
+      "text": "\"NOUS NE VOULONS PLUS FAIRE DE COMMERCE AVEC L'ESPAGNE\", AFFIRME DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:04",
+      "date": "08/07",
+      "timestamp": 1783501476
+    },
+    {
+      "id": "BFMTV_1783501141",
+      "source": "BFMTV",
+      "text": "\"IL EST TRÈS IMPORTANT POUR LES ÉTATS-UNIS\": DONALD TRUMP AFFIRME QUE LE GROENLAND EST UN \"GRAND PROBLÈME\", PENDANT LE SOMMET DE L'OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:59",
+      "date": "08/07",
+      "timestamp": 1783501141
+    },
+    {
+      "id": "BFMTV_1783500227",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP \"MÉCONTENT DE L'OTAN\", EN RAISON DU GROENLAND ET DE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:43",
+      "date": "08/07",
+      "timestamp": 1783500227
+    },
+    {
+      "id": "BFMTV_1783499404",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE LE CESSEZ-LE-FEU AVEC L'IRAN EST \"TERMINÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:30",
+      "date": "08/07",
+      "timestamp": 1783499404
+    },
+    {
+      "id": "BFMTV_1783499251",
+      "source": "BFMTV",
+      "text": "\"LE GROENLAND EST TRÈS IMPORTANT POUR NOUS, PAS POUR LE DANEMARK\", ESTIME DONALD TRUMP AU SOMMET DE L'OTAN",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:27",
+      "date": "08/07",
+      "timestamp": 1783499251
+    },
+    {
+      "id": "BFMTV_1783498282",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON ARRIVE AU SOMMET DE L'OTAN À ANKARA (TURQUIE)",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:11",
+      "date": "08/07",
+      "timestamp": 1783498282
+    },
+    {
+      "id": "BFMTV_1783497341",
+      "source": "BFMTV",
+      "text": "LA SÉNATRICE PARAGUAYENNE QUI A INSULTÉ MBAPPÉ EXIGE DES EXCUSES DU CAPITAINE DE L'ÉQUIPE DE FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:55",
+      "date": "08/07",
+      "timestamp": 1783497341
+    },
+    {
+      "id": "BFMTV_1783495130",
+      "source": "BFMTV",
+      "text": "\"LE GROENLAND N'EST BIEN ÉVIDEMMENT PAS À VENDRE\", RÉAFFIRME METTE FREDERIKSEN, PREMIÈRE MINISTRE DANOISE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:18",
+      "date": "08/07",
+      "timestamp": 1783495130
+    },
     {
       "id": "BFMTV_1783493742",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "21:02",
       "date": "05/07",
       "timestamp": 1783285356
-    },
-    {
-      "id": "BFMTV_1783279478",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU AFFIRME QUE DES VILLAGES CHRÉTIENS DU LIBAN ONT DEMANDÉ À ÊTRE \"ANNEXÉS\" À ISRAËL",
-      "urgent": true,
-      "france_related": true,
-      "time": "19:24",
-      "date": "05/07",
-      "timestamp": 1783279478
-    },
-    {
-      "id": "BFMTV_1783265573",
-      "source": "BFMTV",
-      "text": "\"C'EST LA LIBERTÉ D'EXPRESSION\": L'ADMINISTRATION TRUMP PAS DÉRANGÉE PAR L'ORGANISATION D'UN DÉFILÉ SUPRÉMACISTE POUR LE 250E ANNIVERSAIRE DE L'INDÉPENDANCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:32",
-      "date": "05/07",
-      "timestamp": 1783265573
-    },
-    {
-      "id": "BFMTV_1783253331",
-      "source": "BFMTV",
-      "text": "LA PRÉSIDENCE SYRIENNE ANNONCE QU'EMMANUEL MACRON VA SE RENDRE EN SYRIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:08",
-      "date": "05/07",
-      "timestamp": 1783253331
-    },
-    {
-      "id": "BFMTV_1783251421",
-      "source": "BFMTV",
-      "text": "KIM JONG-UN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:37",
-      "date": "05/07",
-      "timestamp": 1783251421
-    },
-    {
-      "id": "BFMTV_1783251421",
-      "source": "BFMTV",
-      "text": "LE DIRIGEANT NORD-CORÉEN KIM JONG-UN SUPERVISE UN NOUVEL ESSAI MILITAIRE NAVAL AVEC LE NAVIRE QUI S'ÉTAIT ÉCHOUÉ LORS DE SON LANCEMENT L'AN DERNIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:37",
-      "date": "05/07",
-      "timestamp": 1783251421
-    },
-    {
-      "id": "OPEX360_1783250086",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE TERRE VA BIENTÔT RÉCUPÉRER UNE CAPACITÉ ESSENTIELLE AVEC L’ENGIN DE BRÉCHAGE MÉCANIQUE DE ZONE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:14",
-      "date": "05/07",
-      "timestamp": 1783250086
-    },
-    {
-      "id": "BFMTV_1783248347",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"VLADIMIR POUTINE A PERDU LA PAIX\", ESTIME THIERRY BRETON, ANCIEN COMMISSAIRE EUROPÉEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:45",
-      "date": "05/07",
-      "timestamp": 1783248347
-    },
-    {
-      "id": "OPEX360_1783245920",
-      "source": "OPEX360",
-      "text": "L’AVIATION LÉGÈRE DE L’ARMÉE DE TERRE ENVISAGE DE DOTER SES HÉLICOPTÈRES TIGRE DE MUNITIONS TÉLÉOPÉRÉES TOUTATIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:05",
-      "date": "05/07",
-      "timestamp": 1783245920
-    },
-    {
-      "id": "BFMTV_1783242900",
-      "source": "BFMTV",
-      "text": "FEUX D'ARTIFICE, DÉFILÉ MILITAIRE... LES IMAGES FORTES DES CÉLÉBRATIONS DES 250 ANS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:15",
-      "date": "05/07",
-      "timestamp": 1783242900
     }
   ],
   "france": {
