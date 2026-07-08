@@ -1,7 +1,27 @@
 {
-  "last_update": "08/07 18:44",
+  "last_update": "08/07 20:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783537257",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"TOUT VA SE TERMINER TRÈS RAPIDEMENT\", ASSURE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:00",
+      "date": "08/07",
+      "timestamp": 1783537257
+    },
+    {
+      "id": "BFMTV_1783536365",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES NOUVEAUX AFFRONTEMENTS AVEC L'IRAN PRENDRONT FIN \"TRÈS RAPIDEMENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:46",
+      "date": "08/07",
+      "timestamp": 1783536365
+    },
     {
       "id": "BFMTV_1783531941",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:15",
       "date": "07/07",
       "timestamp": 1783412116
-    },
-    {
-      "id": "BFMTV_1783411362",
-      "source": "BFMTV",
-      "text": "LES PREMIÈRES IMAGES DES EXPLOSIONS À DAMAS (SYRIE) QUI ONT EU LIEU PRÈS DE L'HÔTEL OÙ EMMANUEL MACRON A PASSÉ LA NUIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:02",
-      "date": "07/07",
-      "timestamp": 1783411362
-    },
-    {
-      "id": "BFMTV_1783410948",
-      "source": "BFMTV",
-      "text": "SYRIE: AU MOINS DEUX EXPLOSIONS ONT RETENTI PRÈS DE L'HÔTEL OÙ EMMANUEL MACRON A PASSÉ LA NUIT À DAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:55",
-      "date": "07/07",
-      "timestamp": 1783410948
     }
   ],
   "france": {
