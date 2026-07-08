@@ -1,7 +1,27 @@
 {
-  "last_update": "08/07 20:10",
+  "last_update": "08/07 21:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783545549",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE AVOIR LANCÉ DE NOUVELLES FRAPPES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:19",
+      "date": "08/07",
+      "timestamp": 1783545549
+    },
+    {
+      "id": "BFMTV_1783543088",
+      "source": "BFMTV",
+      "text": "\"FILS DE P*TE\": CELESTE AMARILLA, SÉNATRICE PARAGUAYENNE, INSULTE ENCORE VIOLEMMENT KYLIAN MBAPPÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:38",
+      "date": "08/07",
+      "timestamp": 1783543088
+    },
     {
       "id": "BFMTV_1783537257",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:20",
       "date": "07/07",
       "timestamp": 1783412414
-    },
-    {
-      "id": "BFMTV_1783412297",
-      "source": "BFMTV",
-      "text": "EXPLOSIONS À DAMAS: EMMANUEL MACRON POURSUIT SA VISITE EN SYRIE AUX CÔTÉS DU PRÉSIDENT SYRIEN AHMAD AL-CHARAA",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:18",
-      "date": "07/07",
-      "timestamp": 1783412297
-    },
-    {
-      "id": "BFMTV_1783412116",
-      "source": "BFMTV",
-      "text": "EXPLOSIONS À DAMAS: EMMANUEL MACRON EST SAIN ET SAUF ET POURSUIT SA VISITE EN SYRIE, INDIQUE L'ÉLYSÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:15",
-      "date": "07/07",
-      "timestamp": 1783412116
     }
   ],
   "france": {
