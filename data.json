@@ -1,7 +1,87 @@
 {
-  "last_update": "08/07 15:34",
+  "last_update": "08/07 17:08",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1783529916",
+      "source": "OPEX360",
+      "text": "LA FRANCE DISCUTE AVEC L’ITALIE D’UN POSSIBLE ACHAT DE SYSTÈMES DE DÉFENSE AÉRIENNE SAMP/T PAR LA TURQUIE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:58",
+      "date": "08/07",
+      "timestamp": 1783529916
+    },
+    {
+      "id": "BFMTV_1783528611",
+      "source": "BFMTV",
+      "text": "POURQUOI DONALD TRUMP TOURNE LE DOS À L’OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:36",
+      "date": "08/07",
+      "timestamp": 1783528611
+    },
+    {
+      "id": "BFMTV_1783528519",
+      "source": "BFMTV",
+      "text": "POURQUOI DONALD TRUMP TOURNE LE DOS À L’OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:35",
+      "date": "08/07",
+      "timestamp": 1783528519
+    },
+    {
+      "id": "BFMTV_1783528221",
+      "source": "BFMTV",
+      "text": "\"LA RÉPUBLIQUE ISLAMIQUE DU JAPON\": LA BOURDE DE DONALD TRUMP AU SOMMET DE L'OTAN QUI CONFOND IRAN ET JAPON",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:30",
+      "date": "08/07",
+      "timestamp": 1783528221
+    },
+    {
+      "id": "BFMTV_1783526827",
+      "source": "BFMTV",
+      "text": "\"LA RÉPUBLIQUE ISLAMIQUE DU JAPON\": LA BOURDE DE DONALD TRUMP AU SOMMET DE L'OTAN QUI CONFOND IRAN ET JAPON",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:07",
+      "date": "08/07",
+      "timestamp": 1783526827
+    },
+    {
+      "id": "BFMTV_1783526528",
+      "source": "BFMTV",
+      "text": "FRAPPES, RIPOSTE ET MENACES: ENTRE L'IRAN ET LES ÉTATS-UNIS, CES 48 HEURES OÙ LE CESSEZ-LE-FEU A VOLÉ EN ÉCLAT",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:02",
+      "date": "08/07",
+      "timestamp": 1783526528
+    },
+    {
+      "id": "BFMTV_1783526414",
+      "source": "BFMTV",
+      "text": "TERRES RARES/MALAISIE: \"UN PARTENARIAT GAGNANT-GAGNANT\", DÉCLARE LE MINISTRE DU COMMERCE EXTÉRIEUR, NICOLAS FORISSIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:00",
+      "date": "08/07",
+      "timestamp": 1783526414
+    },
+    {
+      "id": "BFMTV_1783525619",
+      "source": "BFMTV",
+      "text": "EXPLOSION À MONACO: QUE SAIT-ON SUR LA MORT DE LA PRINCIPALE SUSPECTE, ANASTASIIA BEREZOVSKA ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:46",
+      "date": "08/07",
+      "timestamp": 1783525619
+    },
     {
       "id": "BFMTV_1783523976",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "07:41",
       "date": "07/07",
       "timestamp": 1783410105
-    },
-    {
-      "id": "BFMTV_1783407991",
-      "source": "BFMTV",
-      "text": "WASHINGTON DEVIENT BRIÈVEMENT LA VILLE LA PLUS POLLUÉE AU MONDE APRÈS LE FEU D'ARTIFICE DES 250 ANS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:06",
-      "date": "07/07",
-      "timestamp": 1783407991
-    },
-    {
-      "id": "BFMTV_1783404390",
-      "source": "BFMTV",
-      "text": "UN DÉPLACEMENT HISTORIQUE EN SYRIE POUR EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:06",
-      "date": "07/07",
-      "timestamp": 1783404390
-    },
-    {
-      "id": "BFMTV_1783400067",
-      "source": "BFMTV",
-      "text": "UN TANKER TOUCHÉ PAR UN PROJECTILE NON IDENTIFIÉ DANS LA RÉGION DU DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:54",
-      "date": "07/07",
-      "timestamp": 1783400067
-    },
-    {
-      "id": "BFMTV_1783398961",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN TANKER ATTEINT PAR UN PROJECTILE NON-IDENTIFIÉ DANS LA RÉGION DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:36",
-      "date": "07/07",
-      "timestamp": 1783398961
-    },
-    {
-      "id": "BFMTV_1783397750",
-      "source": "BFMTV",
-      "text": "ÉDITO - VISITE D'EMMANUEL MACRON EN SYRIE: \"C'EST UTILE ET C'EST EN MÊME TEMPS RISQUÉ\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:15",
-      "date": "07/07",
-      "timestamp": 1783397750
-    },
-    {
-      "id": "BFMTV_1783372154",
-      "source": "BFMTV",
-      "text": "DOUBLE SÉISME AU VENEZUELA: UN NOUVEAU BILAN FAIT ÉTAT DE 3.535 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:09",
-      "date": "06/07",
-      "timestamp": 1783372154
-    },
-    {
-      "id": "BFMTV_1783367338",
-      "source": "BFMTV",
-      "text": "\"NOUS EN AVONS TIRÉ LES CONSÉQUENCES\": LA FRANCE A RETIRÉ TOUS SES DIPLOMATES EN POSTE AU BURKINA FASO",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:48",
-      "date": "06/07",
-      "timestamp": 1783367338
-    },
-    {
-      "id": "BFMTV_1783365952",
-      "source": "BFMTV",
-      "text": "L'ENTRETIEN EXCLUSIF À BFMTV D'AHMED AL-CHARAA, PRÉSIDENT SYRIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:25",
-      "date": "06/07",
-      "timestamp": 1783365952
     }
   ],
   "france": {
