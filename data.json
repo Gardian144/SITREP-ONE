@@ -1,7 +1,67 @@
 {
-  "last_update": "09/07 02:55",
+  "last_update": "09/07 06:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783578376",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT APPELLE \"AU CALME\", LE PORTE-AVIONS CHARLES DE GAULLE NE FERA PAS DEMI-TOUR MALGRÉ LA REPRISE DES FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:26",
+      "date": "09/07",
+      "timestamp": 1783578376
+    },
+    {
+      "id": "BFMTV_1783576581",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN RÉPOND AUX FRAPPES ÉTATS-UNIENNES EN FRAPPANT DES BASES AMÉRICAINES DANS LA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:56",
+      "date": "09/07",
+      "timestamp": 1783576581
+    },
+    {
+      "id": "BFMTV_1783574053",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP A DÛ CHANGER D'AVION AU DERNIER MOMENT POUR SON RETOUR DU SOMMET DE L'OTAN ORGANISÉ EN TURQUIE, EN RAISON D'UNE MENACE POTENTIELLE DE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:14",
+      "date": "09/07",
+      "timestamp": 1783574053
+    },
+    {
+      "id": "BFMTV_1783573695",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS DISENT AVOIR FRAPPÉ 90 \"CIBLES MILITAIRES\" EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:08",
+      "date": "09/07",
+      "timestamp": 1783573695
+    },
+    {
+      "id": "BFMTV_1783570724",
+      "source": "BFMTV",
+      "text": "ÉDITO - FRAPPES AMÉRICAINES EN IRAN: UN CESSEZ-LE-FEU QUI VOLE EN ÉCLAT ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:18",
+      "date": "09/07",
+      "timestamp": 1783570724
+    },
+    {
+      "id": "BFMTV_1783570449",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS BOMBARDENT 90 CIBLES IRANIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:14",
+      "date": "09/07",
+      "timestamp": 1783570449
+    },
     {
       "id": "BFMTV_1783549749",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "10:13",
       "date": "07/07",
       "timestamp": 1783419198
-    },
-    {
-      "id": "BFMTV_1783417774",
-      "source": "BFMTV",
-      "text": "RUSSIE: PLUS DE 430 DRONES UKRAINIENS LANCÉS VERS MOSCOU AVANT LE DÉBUT DU SOMMET DE L'OTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:49",
-      "date": "07/07",
-      "timestamp": 1783417774
-    },
-    {
-      "id": "BFMTV_1783415989",
-      "source": "BFMTV",
-      "text": "DES ORAGES ET PRÉCIPITATIONS EXTRÊMES FONT AU MOINS 15 MORTS ET DES CENTAINES DE BLESSÉS EN CHINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:19",
-      "date": "07/07",
-      "timestamp": 1783415989
-    },
-    {
-      "id": "BFMTV_1783415076",
-      "source": "BFMTV",
-      "text": "ETATS-UNIS: LE TOIT D'UN MAGASIN S'EFFONDRE DANS LE NEW JERSEY",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:04",
-      "date": "07/07",
-      "timestamp": 1783415076
-    },
-    {
-      "id": "BFMTV_1783414909",
-      "source": "BFMTV",
-      "text": "APRÈS LES DEUX EXPLOSIONS À DAMAS, EMMANUEL MACRON POURSUIT SA VISITE D'ÉTAT AUX CÔTÉS DU PRÉSIDENT SYRIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:01",
-      "date": "07/07",
-      "timestamp": 1783414909
-    },
-    {
-      "id": "BFMTV_1783414889",
-      "source": "BFMTV",
-      "text": "EXPLOSIONS À DAMAS: 18 PERSONNES ONT ÉTÉ BLESSÉES SELON LE MINISTÈRE SYRIEN DE L'INTÉRIEUR",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:01",
-      "date": "07/07",
-      "timestamp": 1783414889
-    },
-    {
-      "id": "BFMTV_1783414219",
-      "source": "BFMTV",
-      "text": "DEUX EXPLOSIONS ENTENDUES À DAMAS EN SYRIE OÙ EMMANUEL MACRON EST EN VISITE, LE PRÉSIDENT SAIN ET SAUF",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:50",
-      "date": "07/07",
-      "timestamp": 1783414219
     }
   ],
   "france": {
