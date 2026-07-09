@@ -1,7 +1,57 @@
 {
-  "last_update": "09/07 19:44",
+  "last_update": "09/07 21:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783631065",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: INCERTITUDE SUR DE NOUVELLES FRAPPES EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:04",
+      "date": "09/07",
+      "timestamp": 1783631065
+    },
+    {
+      "id": "BFMTV_1783629030",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: UNE INSTALLATION MILITAIRE COMPRENANT UNE CENTRALE NUCLÉAIRE TOUCHÉE PAR UNE FRAPPE EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:30",
+      "date": "09/07",
+      "timestamp": 1783629030
+    },
+    {
+      "id": "BFMTV_1783628393",
+      "source": "BFMTV",
+      "text": "POURQUOI DONALD TRUMP A DÛ ÉVACUER EN URGENCE DE SON AVION",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:19",
+      "date": "09/07",
+      "timestamp": 1783628393
+    },
+    {
+      "id": "BFMTV_1783627548",
+      "source": "BFMTV",
+      "text": "IRAN, UKRAINE, GROENLAND… DONALD TRUMP DONNE LE TON DU SOMMET DE L’OTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:05",
+      "date": "09/07",
+      "timestamp": 1783627548
+    },
+    {
+      "id": "BFMTV_1783627429",
+      "source": "BFMTV",
+      "text": "IRAN: \"L'ARMÉE EST PRÊTE ET EN ÉTAT D'ALERTE POUR UNE REPRISE DES COMBATS\", AFFIRME ISRAËL KATZ, LE MINISTRE DE LA DÉFENSE ISRAÉLIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:03",
+      "date": "09/07",
+      "timestamp": 1783627429
+    },
     {
       "id": "BFMTV_1783624731",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "09:28",
       "date": "08/07",
       "timestamp": 1783502926
-    },
-    {
-      "id": "BFMTV_1783501476",
-      "source": "BFMTV",
-      "text": "\"NOUS NE VOULONS PLUS FAIRE DE COMMERCE AVEC L'ESPAGNE\", AFFIRME DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:04",
-      "date": "08/07",
-      "timestamp": 1783501476
-    },
-    {
-      "id": "BFMTV_1783501141",
-      "source": "BFMTV",
-      "text": "\"IL EST TRÈS IMPORTANT POUR LES ÉTATS-UNIS\": DONALD TRUMP AFFIRME QUE LE GROENLAND EST UN \"GRAND PROBLÈME\", PENDANT LE SOMMET DE L'OTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:59",
-      "date": "08/07",
-      "timestamp": 1783501141
-    },
-    {
-      "id": "BFMTV_1783500227",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP \"MÉCONTENT DE L'OTAN\", EN RAISON DU GROENLAND ET DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:43",
-      "date": "08/07",
-      "timestamp": 1783500227
-    },
-    {
-      "id": "BFMTV_1783499404",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE LE CESSEZ-LE-FEU AVEC L'IRAN EST \"TERMINÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:30",
-      "date": "08/07",
-      "timestamp": 1783499404
-    },
-    {
-      "id": "BFMTV_1783499251",
-      "source": "BFMTV",
-      "text": "\"LE GROENLAND EST TRÈS IMPORTANT POUR NOUS, PAS POUR LE DANEMARK\", ESTIME DONALD TRUMP AU SOMMET DE L'OTAN",
-      "urgent": false,
-      "france_related": true,
-      "time": "08:27",
-      "date": "08/07",
-      "timestamp": 1783499251
     }
   ],
   "france": {
