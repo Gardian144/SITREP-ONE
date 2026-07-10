@@ -1,7 +1,137 @@
 {
-  "last_update": "10/07 06:49",
+  "last_update": "10/07 10:22",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1783677849",
+      "source": "OPEX360",
+      "text": "L’INSTITUT DE SAINT-LOUIS SE FÉLICITE DE LA RÉUSSITE DU PREMIER TIR DE SON CANON ÉLECTROMAGNÉTIQUE EN CHAMP LIBRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:04",
+      "date": "10/07",
+      "timestamp": 1783677849
+    },
+    {
+      "id": "BFMTV_1783677218",
+      "source": "BFMTV",
+      "text": "\"IL A COMMENCÉ À PLEURER\": LE SUSPECT DU MEURTRE DE CHARLIE KIRK A EXPRIMÉ DES REMORDS APRÈS LES FAITS, SELON SON COLOCATAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:53",
+      "date": "10/07",
+      "timestamp": 1783677218
+    },
+    {
+      "id": "BFMTV_1783676941",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: SOUPÇONNÉ DE TENTATIVE DE MEURTRE, IL FUIT LA POLICE EN PASSANT PAR UN GOLF",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:49",
+      "date": "10/07",
+      "timestamp": 1783676941
+    },
+    {
+      "id": "BFMTV_1783676262",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: LE BILAN S'ALOURDIT AVEC AU MOINS 23 DISPARUS ET 11 MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:37",
+      "date": "10/07",
+      "timestamp": 1783676262
+    },
+    {
+      "id": "BFMTV_1783672974",
+      "source": "BFMTV",
+      "text": "\"MON CADEAU DE SIROP D'ÉRABLE ÉTAIT UN PEU EN DÉCALAGE\", IRONISE MARK CARNEY APRÈS LE REVOLVER OFFERT PAR RECEP ERDOGAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:42",
+      "date": "10/07",
+      "timestamp": 1783672974
+    },
+    {
+      "id": "BFMTV_1783672206",
+      "source": "BFMTV",
+      "text": "UN BILAN QUI DÉPASSE L'ENSEMBLE DES INCENDIES DE 2025: UN FEU DE FORÊT FAIT AU MOINS 11 MORTS ET 19 DISPARUS DANS LE SUD DE L'ESPAGNE, \"LA MAJORITÉ DES ÉTRANGERS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:30",
+      "date": "10/07",
+      "timestamp": 1783672206
+    },
+    {
+      "id": "BFMTV_1783672109",
+      "source": "BFMTV",
+      "text": "UN FEU DE FORÊT FAIT AU MOINS 11 MORTS PRÈS D'ALMERIA, DANS LE SUD DE L'ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:28",
+      "date": "10/07",
+      "timestamp": 1783672109
+    },
+    {
+      "id": "BFMTV_1783671312",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT : ISRAËL DIT ÊTRE PRÊT À ATTAQUER L’IRAN «UNE TROISIÈME FOIS SI NÉCESSAIRE»",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:15",
+      "date": "10/07",
+      "timestamp": 1783671312
+    },
+    {
+      "id": "BFMTV_1783670730",
+      "source": "BFMTV",
+      "text": "ESPAGNE: LE BILAN DRAMATIQUE DES FEUX DE FORÊT EN ANDALOUSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:05",
+      "date": "10/07",
+      "timestamp": 1783670730
+    },
+    {
+      "id": "BFMTV_1783670660",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: L’IRAN CHERCHE-T-IL À ASSASSINER DONALD TRUMP? ISRAËL ALERTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:04",
+      "date": "10/07",
+      "timestamp": 1783670660
+    },
+    {
+      "id": "BFMTV_1783667246",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ANALYSE DE GILLES KEPEL, PROFESSEUR ÉMÉRITE DES UNIVERSITÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:07",
+      "date": "10/07",
+      "timestamp": 1783667246
+    },
+    {
+      "id": "BFMTV_1783667162",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL AFFIRME AUPRÈS DE WASHINGTON QUE L'IRAN CHERCHE À TUER DONALD TRUMP, SELON CNN ET LE WALL STREET JOURNAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:06",
+      "date": "10/07",
+      "timestamp": 1783667162
+    },
+    {
+      "id": "BFMTV_1783666229",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION \"SORTENT RENFORCÉS SUR LE PLAN IDÉOLOGIQUE DE CETTE SÉQUENCE\", ASSURE GILLES KEPEL",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:50",
+      "date": "10/07",
+      "timestamp": 1783666229
+    },
     {
       "id": "BFMTV_1783665632",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "14:45",
       "date": "08/07",
       "timestamp": 1783521950
-    },
-    {
-      "id": "BFMTV_1783520667",
-      "source": "BFMTV",
-      "text": "SOMMET DE L'OTAN: LES ÉTATS-UNIS ENVISAGENT DE RÉTABLIR UN BLOCUS DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:24",
-      "date": "08/07",
-      "timestamp": 1783520667
-    },
-    {
-      "id": "BFMTV_1783519812",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP A INDIQUÉ MERCREDI QU'IL ALLAIT AUTORISER KIEV À FABRIQUER DES MISSILES PATRIOT",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:10",
-      "date": "08/07",
-      "timestamp": 1783519812
-    },
-    {
-      "id": "BFMTV_1783518306",
-      "source": "BFMTV",
-      "text": "\"POLITICIEN DE L'ESPACE\": LE BRITANNIQUE NIGEL FARAGE POURRAIT N'AVOIR QU'UN SEUL RIVAL, AVEC UNE TÊTE DE POUBELLE, LORS DES ÉLECTIONS PARTIELLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:45",
-      "date": "08/07",
-      "timestamp": 1783518306
-    },
-    {
-      "id": "BFMTV_1783518209",
-      "source": "BFMTV",
-      "text": "\"JE NE SUIS PAS UN COMMENTATEUR DE LA VIE POLITIQUE FRANÇAISE\", RÉPOND EMMANUEL MACRON, INTERROGÉ SUR LA CANDIDATURE DE MARINE LE PEN",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:43",
-      "date": "08/07",
-      "timestamp": 1783518209
-    },
-    {
-      "id": "BFMTV_1783517772",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DIT QUE LES ÉTATS-UNIS VONT AUTORISER L'UKRAINE À FABRIQUER DES MISSILES PATRIOT",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:36",
-      "date": "08/07",
-      "timestamp": 1783517772
-    },
-    {
-      "id": "OPEX360_1783516634",
-      "source": "OPEX360",
-      "text": "SAFRAN FOURNIT LE SYSTÈME DE GUIDAGE DU MISSILE DE CROISIÈRE À LONGUE PORTÉE UKRAINIEN FP-5 FLAMINGO",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:17",
-      "date": "08/07",
-      "timestamp": 1783516634
-    },
-    {
-      "id": "BFMTV_1783516194",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS VONT ENCORE FRAPPER \"DUREMENT\" L'IRAN CE SOIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:09",
-      "date": "08/07",
-      "timestamp": 1783516194
-    },
-    {
-      "id": "BFMTV_1783516107",
-      "source": "BFMTV",
-      "text": "\"NOUS SOMMES TRÈS RECONNAISSANTS POUR VOTRE SOUTIEN\": VOLODOMYR ZELENSKY RENCONTRE DONALD TRUMP AU SOMMET DE L'OTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:08",
-      "date": "08/07",
-      "timestamp": 1783516107
-    },
-    {
-      "id": "BFMTV_1783516085",
-      "source": "BFMTV",
-      "text": " DONALD TRUMP AFFIRME QUE LES ETATS-UNIS VONT FRAPPER \"FORT\" L'IRAN CETTE NUIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:08",
-      "date": "08/07",
-      "timestamp": 1783516085
-    },
-    {
-      "id": "BFMTV_1783512732",
-      "source": "BFMTV",
-      "text": "UN HOMME SOUPÇONNÉ D'AVOIR ATTAQUÉ UN COLLÈGE-LYCÉE EN ALLEMAGNE INTERPELLÉ, PLUSIEURS BLESSÉS",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:12",
-      "date": "08/07",
-      "timestamp": 1783512732
-    },
-    {
-      "id": "BFMTV_1783512100",
-      "source": "BFMTV",
-      "text": "CHINE: PLUS DE 800 SERPENTS S'ÉCHAPPENT D'UNE FERME D'ÉLEVAGE ET ENVAHISSENT UNE VILLE INONDÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:01",
-      "date": "08/07",
-      "timestamp": 1783512100
-    },
-    {
-      "id": "BFMTV_1783511264",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE LE CESSEZ-LE-FEU AVEC L'IRAN EST \"TERMINÉ\": LE PRÉSIDENT AMÉRICAIN DOIT S'EXPLIQUER LORS D'UNE CONFÉRENCE DE PRESSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:47",
-      "date": "08/07",
-      "timestamp": 1783511264
-    },
-    {
-      "id": "BFMTV_1783508788",
-      "source": "BFMTV",
-      "text": "À NEW YORK, UN GRATTE-CIEL MENACE DE S’ÉCROULER, TOUT UN QUARTIER EST EN ALERTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:06",
-      "date": "08/07",
-      "timestamp": 1783508788
     }
   ],
   "france": {
