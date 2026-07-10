@@ -1,7 +1,37 @@
 {
-  "last_update": "10/07 21:41",
+  "last_update": "10/07 22:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783720525",
+      "source": "BFMTV",
+      "text": "LA POLICE BRITANNIQUE OUVRE UNE ENQUÊTE APRÈS LA DÉCOUVERTE DU CORPS D'ANN WIDDECOMBE, UNE ANCIENNE DÉPUTÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:55",
+      "date": "10/07",
+      "timestamp": 1783720525
+    },
+    {
+      "id": "BFMTV_1783720182",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: LE MÉGAFEU GAGNE DU TERRAIN EN ANDALOUSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:49",
+      "date": "10/07",
+      "timestamp": 1783720182
+    },
+    {
+      "id": "BFMTV_1783719857",
+      "source": "BFMTV",
+      "text": "ASSASSINAT DE CHARLIE KIRK: L'ORGANISATION D'UN PROCÈS SE DÉCIDERA EN SEPTEMBRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:44",
+      "date": "10/07",
+      "timestamp": 1783719857
+    },
     {
       "id": "BFMTV_1783718523",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "05:56",
       "date": "09/07",
       "timestamp": 1783576581
-    },
-    {
-      "id": "BFMTV_1783574053",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP A DÛ CHANGER D'AVION AU DERNIER MOMENT POUR SON RETOUR DU SOMMET DE L'OTAN ORGANISÉ EN TURQUIE, EN RAISON D'UNE MENACE POTENTIELLE DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:14",
-      "date": "09/07",
-      "timestamp": 1783574053
-    },
-    {
-      "id": "BFMTV_1783573695",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS DISENT AVOIR FRAPPÉ 90 \"CIBLES MILITAIRES\" EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:08",
-      "date": "09/07",
-      "timestamp": 1783573695
-    },
-    {
-      "id": "BFMTV_1783570724",
-      "source": "BFMTV",
-      "text": "ÉDITO - FRAPPES AMÉRICAINES EN IRAN: UN CESSEZ-LE-FEU QUI VOLE EN ÉCLAT ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:18",
-      "date": "09/07",
-      "timestamp": 1783570724
     }
   ],
   "france": {
