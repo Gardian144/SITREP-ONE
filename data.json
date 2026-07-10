@@ -1,7 +1,77 @@
 {
-  "last_update": "10/07 12:40",
+  "last_update": "10/07 15:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783695995",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: DES TOURISTES ANGLAIS PARMI LES VICTIMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:06",
+      "date": "10/07",
+      "timestamp": 1783695995
+    },
+    {
+      "id": "BFMTV_1783695188",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT ACCEPTER DE CONTINUER LES DISCUSSIONS AVEC L'IRAN MAIS RÉAFFIRME QUE LE CESSEZ-LE-FEU EST \"TERMINÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:53",
+      "date": "10/07",
+      "timestamp": 1783695188
+    },
+    {
+      "id": "BFMTV_1783692920",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: LE BILAN S'ALOURDIT AVEC AU MOINS 12 MORTS ET 23 DISPARUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:15",
+      "date": "10/07",
+      "timestamp": 1783692920
+    },
+    {
+      "id": "BFMTV_1783690583",
+      "source": "BFMTV",
+      "text": "FEU \"FULGURANT\", AU MOINS 12 MORTS DONT DES \"ÉTRANGERS\"... CE QUE L'ON SAIT DE L'INCENDIE SURVENU DANS LE SUD DE L'ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:36",
+      "date": "10/07",
+      "timestamp": 1783690583
+    },
+    {
+      "id": "BFMTV_1783689255",
+      "source": "BFMTV",
+      "text": "QUINZE MORTS AUX PHILIPPINES, ÉVACUATIONS ET ÉCOLES FERMÉES À TAÏWAN, À L'APPROCHE DU TYPHON BAVI",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:14",
+      "date": "10/07",
+      "timestamp": 1783689255
+    },
+    {
+      "id": "OPEX360_1783689122",
+      "source": "OPEX360",
+      "text": "LA TURQUIE ENVISAGE DE REVENDRE SES SYSTÈMES RUSSES DE DÉFENSE AÉRIENNE S-400 À UN PAYS DU GOLFE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:12",
+      "date": "10/07",
+      "timestamp": 1783689122
+    },
+    {
+      "id": "BFMTV_1783687182",
+      "source": "BFMTV",
+      "text": "REVOLVER OFFERT PAR ERDOGAN: LE CADEAU DU CANADA \"UN PEU EN DÉCALAGE\", IRONISE MARK CARNEY",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:39",
+      "date": "10/07",
+      "timestamp": 1783687182
+    },
     {
       "id": "BFMTV_1783685313",
       "source": "BFMTV",
@@ -583,6 +653,16 @@
       "timestamp": 1783605012
     },
     {
+      "id": "OPEX360_1783605012",
+      "source": "OPEX360",
+      "text": "L’ALLEMAGNE A TROUVÉ UN ACCORD AVEC LES ÉTATS-UNIS POUR ACQUÉRIR DES MISSILES À LONGUE PORTÉE TOMAHAWK",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:50",
+      "date": "09/07",
+      "timestamp": 1783605012
+    },
+    {
       "id": "BFMTV_1783604798",
       "source": "BFMTV",
       "text": "\"DE LOURDES PERTES HUMAINES\": AU MOINS 28 MORTS DANS LE GRAVE INCENDIE D'UNE USINE DE CHAUSSURES EN CHINE",
@@ -921,86 +1001,6 @@
       "time": "17:17",
       "date": "08/07",
       "timestamp": 1783531030
-    },
-    {
-      "id": "OPEX360_1783529916",
-      "source": "OPEX360",
-      "text": "LA FRANCE DISCUTE AVEC L’ITALIE D’UN POSSIBLE ACHAT DE SYSTÈMES DE DÉFENSE AÉRIENNE SAMP/T PAR LA TURQUIE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:58",
-      "date": "08/07",
-      "timestamp": 1783529916
-    },
-    {
-      "id": "BFMTV_1783528611",
-      "source": "BFMTV",
-      "text": "POURQUOI DONALD TRUMP TOURNE LE DOS À L’OTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:36",
-      "date": "08/07",
-      "timestamp": 1783528611
-    },
-    {
-      "id": "BFMTV_1783528519",
-      "source": "BFMTV",
-      "text": "POURQUOI DONALD TRUMP TOURNE LE DOS À L’OTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:35",
-      "date": "08/07",
-      "timestamp": 1783528519
-    },
-    {
-      "id": "BFMTV_1783528221",
-      "source": "BFMTV",
-      "text": "\"LA RÉPUBLIQUE ISLAMIQUE DU JAPON\": LA BOURDE DE DONALD TRUMP AU SOMMET DE L'OTAN QUI CONFOND IRAN ET JAPON",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:30",
-      "date": "08/07",
-      "timestamp": 1783528221
-    },
-    {
-      "id": "BFMTV_1783526827",
-      "source": "BFMTV",
-      "text": "\"LA RÉPUBLIQUE ISLAMIQUE DU JAPON\": LA BOURDE DE DONALD TRUMP AU SOMMET DE L'OTAN QUI CONFOND IRAN ET JAPON",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:07",
-      "date": "08/07",
-      "timestamp": 1783526827
-    },
-    {
-      "id": "BFMTV_1783526528",
-      "source": "BFMTV",
-      "text": "FRAPPES, RIPOSTE ET MENACES: ENTRE L'IRAN ET LES ÉTATS-UNIS, CES 48 HEURES OÙ LE CESSEZ-LE-FEU A VOLÉ EN ÉCLAT",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:02",
-      "date": "08/07",
-      "timestamp": 1783526528
-    },
-    {
-      "id": "BFMTV_1783526414",
-      "source": "BFMTV",
-      "text": "TERRES RARES/MALAISIE: \"UN PARTENARIAT GAGNANT-GAGNANT\", DÉCLARE LE MINISTRE DU COMMERCE EXTÉRIEUR, NICOLAS FORISSIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:00",
-      "date": "08/07",
-      "timestamp": 1783526414
-    },
-    {
-      "id": "BFMTV_1783525619",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MONACO: QUE SAIT-ON SUR LA MORT DE LA PRINCIPALE SUSPECTE, ANASTASIIA BEREZOVSKA ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:46",
-      "date": "08/07",
-      "timestamp": 1783525619
     }
   ],
   "france": {
