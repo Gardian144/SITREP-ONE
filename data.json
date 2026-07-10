@@ -1,7 +1,37 @@
 {
-  "last_update": "10/07 18:59",
+  "last_update": "10/07 20:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783715441",
+      "source": "BFMTV",
+      "text": "SOUTIEN À L'UKRAINE: AU MOINS 25 CHEFS D'ÉTAT SERONT À PARIS LUNDI POUR UNE RÉUNION DE LA \"COALITION DES VOLONTAIRES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:30",
+      "date": "10/07",
+      "timestamp": 1783715441
+    },
+    {
+      "id": "BFMTV_1783711754",
+      "source": "BFMTV",
+      "text": "UN HOMME A FAILLI ÊTRE ASPIRÉ À TRAVERS UN HUBLOT SUR UN VOL RYANAIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:29",
+      "date": "10/07",
+      "timestamp": 1783711754
+    },
+    {
+      "id": "BFMTV_1783711718",
+      "source": "BFMTV",
+      "text": "\"NOUS FERONS FRONT CONTRE EUX\": UN NÉGOCIATEUR IRANIEN PRÉVIENT QUE LE CONFLIT AVEC LES ÉTATS-UNIS \"NE SE TERMINERA JAMAIS AVEC UNE REDDITION DE L'IRAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:28",
+      "date": "10/07",
+      "timestamp": 1783711718
+    },
     {
       "id": "BFMTV_1783705554",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "04:14",
       "date": "09/07",
       "timestamp": 1783570449
-    },
-    {
-      "id": "BFMTV_1783549749",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE AVOIR LANCÉ DE NOUVELLES FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:29",
-      "date": "08/07",
-      "timestamp": 1783549749
-    },
-    {
-      "id": "BFMTV_1783548575",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE AVOIR LANCÉ DE NOUVELLES FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:09",
-      "date": "08/07",
-      "timestamp": 1783548575
-    },
-    {
-      "id": "BFMTV_1783548190",
-      "source": "BFMTV",
-      "text": "APRÈS DE NOUVELLES FRAPPES AMÉRICAINES, DONALD TRUMP PROMET UNE RÉPONSE \"BIEN PIRE\" SI L'IRAN CONTINUE SES ATTAQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:03",
-      "date": "08/07",
-      "timestamp": 1783548190
     }
   ],
   "france": {
