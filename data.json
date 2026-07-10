@@ -1,7 +1,67 @@
 {
-  "last_update": "10/07 02:57",
+  "last_update": "10/07 06:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783665632",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"BENJAMIN NETANYAHU A INTÉRÊT À MONTRER QU'ALLER NÉGOCIER AVEC LES IRANIENS EST TROP DANGEREUX\", AFFIRME GILLES KEPEL, PROFESSEUR ÉMÉRITE DES UNIVERSITÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:40",
+      "date": "10/07",
+      "timestamp": 1783665632
+    },
+    {
+      "id": "BFMTV_1783665261",
+      "source": "BFMTV",
+      "text": "ATTENTATS À DAMAS PENDANT LA VISITE D'EMMANUEL MACRON: LES AUTORITÉS SYRIENNES ARRÊTENT DES MEMBRES D'UNE CELLULE \"AFFILIÉE À L'ÉTAT ISLAMIQUE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:34",
+      "date": "10/07",
+      "timestamp": 1783665261
+    },
+    {
+      "id": "BFMTV_1783661473",
+      "source": "BFMTV",
+      "text": "LA TAPISSERIE DE BAYEUX EST ARRIVÉE AU BRITISH MUSEUM À LONDRES POUR UNE EXPOSITION HISTORIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:31",
+      "date": "10/07",
+      "timestamp": 1783661473
+    },
+    {
+      "id": "BFMTV_1783657948",
+      "source": "BFMTV",
+      "text": "CANICULE: SÉBASTIEN LECORNU CONVOQUE UNE RÉUNION DE CRISE CE MATIN À 10H",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:32",
+      "date": "10/07",
+      "timestamp": 1783657948
+    },
+    {
+      "id": "BFMTV_1783657549",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE NIE ÊTRE À L'ORIGINE DES RÉCENTES FRAPPES EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:25",
+      "date": "10/07",
+      "timestamp": 1783657549
+    },
+    {
+      "id": "BFMTV_1783657437",
+      "source": "BFMTV",
+      "text": "LE GUIDE SUPRÊME IRANIEN, ALI KHAMENEI, A ÉTÉ INHUMÉ APRÈS PLUSIEURS JOURS DE FUNÉRAILLES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:23",
+      "date": "10/07",
+      "timestamp": 1783657437
+    },
     {
       "id": "BFMTV_1783635475",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "11:06",
       "date": "08/07",
       "timestamp": 1783508788
-    },
-    {
-      "id": "OPEX360_1783507032",
-      "source": "OPEX360",
-      "text": "POUR RENFORCER SES MOYENS DE SURVEILLANCE MARITIME, L’OTAN VA ACQUÉRIR CINQ DRONES MQ-4C TRITON AUPRÈS DE NORTHROP GRUMMAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:37",
-      "date": "08/07",
-      "timestamp": 1783507032
-    },
-    {
-      "id": "BFMTV_1783506391",
-      "source": "BFMTV",
-      "text": "ATTENTAT À DAMAS LORS DE LA VISITE D'EMMANUEL MACRON: LE BILAN PASSE À UN MORT ET 36 BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:26",
-      "date": "08/07",
-      "timestamp": 1783506391
-    },
-    {
-      "id": "BFMTV_1783504237",
-      "source": "BFMTV",
-      "text": "\"C'EST UN EXCELLENT AVION, DE LOIN LE MEILLEUR\": DONALD TRUMP VA \"EXAMINER\" LA POSSIBLE VENTE DE CHASSEURS F-35 À LA TURQUIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:50",
-      "date": "08/07",
-      "timestamp": 1783504237
-    },
-    {
-      "id": "BFMTV_1783504205",
-      "source": "BFMTV",
-      "text": "\"DE LA LÉGITIME DÉFENSE\": UN AUTOMOBILISTE MEXICAIN TUÉ PAR UN AGENT DE L'ICE LORS D'UN CONTRÔLE AU TEXAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:50",
-      "date": "08/07",
-      "timestamp": 1783504205
-    },
-    {
-      "id": "BFMTV_1783503752",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:42",
-      "date": "08/07",
-      "timestamp": 1783503752
-    },
-    {
-      "id": "BFMTV_1783503752",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:42",
-      "date": "08/07",
-      "timestamp": 1783503752
     }
   ],
   "france": {
