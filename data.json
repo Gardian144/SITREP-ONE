@@ -1,7 +1,67 @@
 {
-  "last_update": "10/07 15:19",
+  "last_update": "10/07 17:17",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1783703562",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE ALLEMAND DE LA DÉFENSE INVESTIT DES CENTAINES DE MILLIONS D’EUROS POUR DISPOSER D’UN SYSTÈME D’ARME LASER EN 2029",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:12",
+      "date": "10/07",
+      "timestamp": 1783703562
+    },
+    {
+      "id": "BFMTV_1783701617",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: L'ADMINISTRATION TRUMP ANNULE LA SUSPENSION DE MILITAIRES AYANT SURVOLÉ LA PLAGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:40",
+      "date": "10/07",
+      "timestamp": 1783701617
+    },
+    {
+      "id": "BFMTV_1783701326",
+      "source": "BFMTV",
+      "text": "LE TICKET GAGNANT D'UN LOTO AFFICHANT UN JACKPOT DE 12 MILLIONS DE LIVRES JETÉ PAR ERREUR AU ROYAUME-UNI, UNE ENQUÊTE OUVERTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:35",
+      "date": "10/07",
+      "timestamp": 1783701326
+    },
+    {
+      "id": "BFMTV_1783700037",
+      "source": "BFMTV",
+      "text": "L'AUTOMOBILISTE MEXICAIN TUÉ PAR L'ICE AU TEXAS N'ÉTAIT PAS LA CIBLE VISÉE PAR LA POLICE DE L'IMMIGRATION AMÉRICAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:13",
+      "date": "10/07",
+      "timestamp": 1783700037
+    },
+    {
+      "id": "BFMTV_1783698451",
+      "source": "BFMTV",
+      "text": "NUCLÉAIRE: \"IL FAUT LEVER LES SANCTIONS CONTRE L’IRAN LE PLUS VITE POSSIBLE\", ESTIME LA CHINE À L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:47",
+      "date": "10/07",
+      "timestamp": 1783698451
+    },
+    {
+      "id": "OPEX360_1783698037",
+      "source": "OPEX360",
+      "text": "LA FRÉGATE BELGE LÉOPOLD IER EST IMMOBILISÉE DEPUIS PLUSIEURS JOURS AUX ÉTATS-UNIS À CAUSE D’AVARIES SÉRIEUSES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:40",
+      "date": "10/07",
+      "timestamp": 1783698037
+    },
     {
       "id": "BFMTV_1783695995",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "22:00",
       "date": "08/07",
       "timestamp": 1783548006
-    },
-    {
-      "id": "BFMTV_1783545549",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE AVOIR LANCÉ DE NOUVELLES FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:19",
-      "date": "08/07",
-      "timestamp": 1783545549
-    },
-    {
-      "id": "BFMTV_1783543088",
-      "source": "BFMTV",
-      "text": "\"FILS DE P*TE\": CELESTE AMARILLA, SÉNATRICE PARAGUAYENNE, INSULTE ENCORE VIOLEMMENT KYLIAN MBAPPÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:38",
-      "date": "08/07",
-      "timestamp": 1783543088
-    },
-    {
-      "id": "BFMTV_1783537257",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"TOUT VA SE TERMINER TRÈS RAPIDEMENT\", ASSURE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:00",
-      "date": "08/07",
-      "timestamp": 1783537257
-    },
-    {
-      "id": "BFMTV_1783536365",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES NOUVEAUX AFFRONTEMENTS AVEC L'IRAN PRENDRONT FIN \"TRÈS RAPIDEMENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:46",
-      "date": "08/07",
-      "timestamp": 1783536365
-    },
-    {
-      "id": "BFMTV_1783531941",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP COMPARE VOLODYMYR ZELENSKY ET VLADIMIR POUTINE À “DEUX GAMINS DANS UN PARC QUI NE S’AIMENT PAS”",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:32",
-      "date": "08/07",
-      "timestamp": 1783531941
-    },
-    {
-      "id": "BFMTV_1783531030",
-      "source": "BFMTV",
-      "text": "LA BOURDE DE DONALD TRUMP AU SOMMET DE L'OTAN QUI CONFOND LE JAPON ET L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:17",
-      "date": "08/07",
-      "timestamp": 1783531030
     }
   ],
   "france": {
