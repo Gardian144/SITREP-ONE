@@ -1,7 +1,37 @@
 {
-  "last_update": "11/07 06:36",
+  "last_update": "11/07 08:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783758400",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: 6.600 HECTARES BRÛLÉS, \"ÉVOLUTION FAVORABLE\" DU FEU PENDANT LA NUIT",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:26",
+      "date": "11/07",
+      "timestamp": 1783758400
+    },
+    {
+      "id": "BFMTV_1783756216",
+      "source": "BFMTV",
+      "text": "DOUBLE SÉISME AU VENEZUELA: LE BILAN PASSE LE CAP DES 4.000 MORTS, DES MILLIERS DE PERSONNES ENCORE PORTÉES DISPARUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:50",
+      "date": "11/07",
+      "timestamp": 1783756216
+    },
+    {
+      "id": "BFMTV_1783755325",
+      "source": "BFMTV",
+      "text": "\"J'AI TOUT PERDU\": EN ESPAGNE, LES HABITANTS DE LA RÉGION TOUCHÉE PAR L'INCENDIE MEURTRIER RACONTENT LEUR ÉVACUATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:35",
+      "date": "11/07",
+      "timestamp": 1783755325
+    },
     {
       "id": "BFMTV_1783746703",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "09:40",
       "date": "09/07",
       "timestamp": 1783590047
-    },
-    {
-      "id": "BFMTV_1783589595",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL EST PRÊT À FRAPPER L'IRAN À TOUT MOMENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:33",
-      "date": "09/07",
-      "timestamp": 1783589595
-    },
-    {
-      "id": "BFMTV_1783589272",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN DÉNONCE DES ATTAQUES AMÉRICAINES CONTRE DES INFRASTRUCTURES CIVILES, \"UN CRIME DE GUERRE FLAGRANT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:27",
-      "date": "09/07",
-      "timestamp": 1783589272
-    },
-    {
-      "id": "BFMTV_1783588670",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"LE NOMBRE DE MARINS A CONSIDÉRABLEMENT DIMINUÉ\", DÉCLARE EMMANUEL CHALAUD, SECRÉTAIRE GÉNÉRAL DE LA FÉDÉRATION CGT DES OFFICIERS DE LA MARINE MARCHANDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:17",
-      "date": "09/07",
-      "timestamp": 1783588670
     }
   ],
   "france": {
