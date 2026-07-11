@@ -1,7 +1,17 @@
 {
-  "last_update": "11/07 21:06",
+  "last_update": "11/07 22:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783806834",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: HUIT MORTS ET 12 BLESSÉS APRÈS D'IMPORTANTES FRAPPES RUSSES DANS PLUSIEURS VILLES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:53",
+      "date": "11/07",
+      "timestamp": 1783806834
+    },
     {
       "id": "BFMTV_1783793281",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:14",
       "date": "09/07",
       "timestamp": 1783624477
-    },
-    {
-      "id": "BFMTV_1783624357",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE RÉUNION EST EN COURS AUTOUR DE DONALD TRUMP À LA MAISON BLANCHE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:12",
-      "date": "09/07",
-      "timestamp": 1783624357
     }
   ],
   "france": {
