@@ -1,7 +1,27 @@
 {
-  "last_update": "11/07 14:53",
+  "last_update": "11/07 15:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783782391",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AVERTIT QU'IL NE SE CONSIDÉRERA \"PLUS TENU\" PAR L'ACCORD AVEC LES ÉTATS-UNIS EN CAS DE NOUVELLES VIOLATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:06",
+      "date": "11/07",
+      "timestamp": 1783782391
+    },
+    {
+      "id": "BFMTV_1783781707",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS SIX MORTS ET 12 BLESSÉS DANS DES FRAPPES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:55",
+      "date": "11/07",
+      "timestamp": 1783781707
+    },
     {
       "id": "BFMTV_1783781105",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "16:49",
       "date": "09/07",
       "timestamp": 1783615792
-    },
-    {
-      "id": "BFMTV_1783615320",
-      "source": "BFMTV",
-      "text": "NEW YORK: CETTE STAR D’UNE ÉMISSION DE TÉLÉRÉALITÉ DE NETFLIX VIVEMENT CRITIQUÉE APRÈS DES PROPOS SUR LES SANS-ABRIS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:42",
-      "date": "09/07",
-      "timestamp": 1783615320
-    },
-    {
-      "id": "BFMTV_1783613833",
-      "source": "BFMTV",
-      "text": "SCOTT BESSENT PARTICIPE À L'INAUGURATION DU PONT DONALD J. TRUMP DANS LE TENNESSEE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:17",
-      "date": "09/07",
-      "timestamp": 1783613833
     }
   ],
   "france": {
