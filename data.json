@@ -1,7 +1,27 @@
 {
-  "last_update": "11/07 11:18",
+  "last_update": "11/07 12:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783769076",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: DES VACANCIERS FRANÇAIS TÉMOIGNENT",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:24",
+      "date": "11/07",
+      "timestamp": 1783769076
+    },
+    {
+      "id": "BFMTV_1783768705",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE GUIDE SUPRÊME IRANIEN AFFIRME DANS UN MESSAGE QUE \"LA VENGEANCE DOIT S'ACCOMPLIR INÉVITABLEMENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:18",
+      "date": "11/07",
+      "timestamp": 1783768705
+    },
     {
       "id": "OPEX360_1783767478",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "14:34",
       "date": "09/07",
       "timestamp": 1783607665
-    },
-    {
-      "id": "BFMTV_1783606249",
-      "source": "BFMTV",
-      "text": "DÉFENSE: \"NOUS DEVONS POUSSER NOS INDUSTRIELS À ALLER PLUS VITE\" DIT JEAN-NOËL BARROT",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:10",
-      "date": "09/07",
-      "timestamp": 1783606249
-    },
-    {
-      "id": "BFMTV_1783605218",
-      "source": "BFMTV",
-      "text": "\"PLUS VLADIMIR POUTINE EST EN ÉCHEC, PLUS SE MULTIPLIENT LES PROVOCATIONS\", ESTIME JEAN-NOËL BARROT",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:53",
-      "date": "09/07",
-      "timestamp": 1783605218
     }
   ],
   "france": {
