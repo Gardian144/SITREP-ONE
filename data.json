@@ -1,7 +1,57 @@
 {
-  "last_update": "11/07 01:08",
+  "last_update": "11/07 04:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783743514",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP MENACE DE \"DÉCIMER ET DÉTRUIRE COMPLÈTEMENT\" L'IRAN S'IL TENTE DE L'ASSASSINER",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:18",
+      "date": "11/07",
+      "timestamp": 1783743514
+    },
+    {
+      "id": "BFMTV_1783743323",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: SIX BLESSÉS DANS UNE ATTAQUE DE MISSILES RUSSES À KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:15",
+      "date": "11/07",
+      "timestamp": 1783743323
+    },
+    {
+      "id": "BFMTV_1783742772",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: AU MOINS 12 MORTS ET PLUS DE 1.400 PERSONNES ÉVACUÉES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:06",
+      "date": "11/07",
+      "timestamp": 1783742772
+    },
+    {
+      "id": "BFMTV_1783742667",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: ENVIRON 3.200 HECTARES BRÛLÉS, PRÈS DE 500 POMPIERS ET MILITAIRES MOBILISÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:04",
+      "date": "11/07",
+      "timestamp": 1783742667
+    },
+    {
+      "id": "BFMTV_1783741415",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE \"DÉCIMER ET DÉTRUIRE COMPLÈTEMENT\" L'IRAN S'IL TENTE DE L'ASSASSINER",
+      "urgent": true,
+      "france_related": false,
+      "time": "03:43",
+      "date": "11/07",
+      "timestamp": 1783741415
+    },
     {
       "id": "BFMTV_1783720525",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "08:42",
       "date": "09/07",
       "timestamp": 1783586547
-    },
-    {
-      "id": "BFMTV_1783584912",
-      "source": "BFMTV",
-      "text": "IRAN: LE CERCUEIL D'ALI KHAMENEI ARRIVE À MACHHAD, OÙ IL SERA INHUMÉ ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:15",
-      "date": "09/07",
-      "timestamp": 1783584912
-    },
-    {
-      "id": "BFMTV_1783581782",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: AU MOINS 14 MORTS ET 78 BLESSÉS EN IRAN APRÈS LES FRAPPES AMÉRICAINES DES DEUX DERNIERS JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:23",
-      "date": "09/07",
-      "timestamp": 1783581782
-    },
-    {
-      "id": "BFMTV_1783579679",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AVERTIT L'IRAN: \"QUAND ILS FRAPPENT, NOUS RIPOSTONS BEAUCOUP PLUS FORT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:47",
-      "date": "09/07",
-      "timestamp": 1783579679
-    },
-    {
-      "id": "BFMTV_1783578376",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT APPELLE \"AU CALME\", LE PORTE-AVIONS CHARLES DE GAULLE NE FERA PAS DEMI-TOUR MALGRÉ LA REPRISE DES FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:26",
-      "date": "09/07",
-      "timestamp": 1783578376
-    },
-    {
-      "id": "BFMTV_1783576581",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN RÉPOND AUX FRAPPES ÉTATS-UNIENNES EN FRAPPANT DES BASES AMÉRICAINES DANS LA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:56",
-      "date": "09/07",
-      "timestamp": 1783576581
     }
   ],
   "france": {
