@@ -1,7 +1,37 @@
 {
-  "last_update": "11/07 15:55",
+  "last_update": "11/07 16:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783788508",
+      "source": "BFMTV",
+      "text": "UNE DÉLÉGATION AMÉRICAINE PRÉSENTE AU LIBAN POUR DISCUTER DU RETRAIT ISRAÉLIEN DE \"ZONES PILOTES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:48",
+      "date": "11/07",
+      "timestamp": 1783788508
+    },
+    {
+      "id": "BFMTV_1783788085",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: \"UNE FOIS QUE LA TRAGÉDIE PASSERA, ÇA SERA LE TEMPS DE DÉTERMINER LES RESPONSABILITÉS\", ESTIME PEDRO INIESTA RUIZ, REPRÉSENTANT DU PARTI SOCIALISTE OUVRIER ESPAGNOL EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:41",
+      "date": "11/07",
+      "timestamp": 1783788085
+    },
+    {
+      "id": "BFMTV_1783785529",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"SUR LE PLAN MILITAIRE, IL Y A UNE VÉRITABLE ESCALADE\", ESTIME ANTHONY DABILA, CHERCHEUR ASSOCIÉ À L’INSTITUT D’ÉTUDES DE STRATÉGIE ET DE DÉFENSE À LYON-III",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:58",
+      "date": "11/07",
+      "timestamp": 1783785529
+    },
     {
       "id": "BFMTV_1783782391",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "18:00",
       "date": "09/07",
       "timestamp": 1783620024
-    },
-    {
-      "id": "BFMTV_1783619551",
-      "source": "BFMTV",
-      "text": "IRAN: LE PORTE-AVIONS USS ABRAHAM-LINCOLN SUR LE PIED DE GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:52",
-      "date": "09/07",
-      "timestamp": 1783619551
-    },
-    {
-      "id": "BFMTV_1783617021",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:10",
-      "date": "09/07",
-      "timestamp": 1783617021
-    },
-    {
-      "id": "OPEX360_1783615792",
-      "source": "OPEX360",
-      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT A COMMANDÉ 24 NOUVELLES VEDETTES CÔTIÈRES POUR LA GENDARMERIE MARITIME",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:49",
-      "date": "09/07",
-      "timestamp": 1783615792
     }
   ],
   "france": {
