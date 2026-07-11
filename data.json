@@ -1,7 +1,37 @@
 {
-  "last_update": "11/07 04:27",
+  "last_update": "11/07 06:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783746703",
+      "source": "BFMTV",
+      "text": "LE ROI CHARLES III A REÇU LE PRINCE HARRY, MEGHAN ET LEURS ENFANTS, UNE PREMIÈRE DEPUIS 2022",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:11",
+      "date": "11/07",
+      "timestamp": 1783746703
+    },
+    {
+      "id": "BFMTV_1783745879",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ASSURE AVOIR \"TENU PAROLE\" VIS-À-VIS DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:57",
+      "date": "11/07",
+      "timestamp": 1783745879
+    },
+    {
+      "id": "BFMTV_1783745202",
+      "source": "BFMTV",
+      "text": "\"C'ÉTAIT COMME SI LE FEU ÉTAIT TRÈS PROCHE\": L'INCENDIE EN ESPAGNE GAGNE DU TERRAIN, AU PLUS PRÈS DES HABITATIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:46",
+      "date": "11/07",
+      "timestamp": 1783745202
+    },
     {
       "id": "BFMTV_1783743514",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "09:17",
       "date": "09/07",
       "timestamp": 1783588670
-    },
-    {
-      "id": "BFMTV_1783587869",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA MAISON BLANCHE SE PRÉPARE À CE QUE LES FRAPPES AMÉRICAINES DURENT DANS LE TEMPS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:04",
-      "date": "09/07",
-      "timestamp": 1783587869
-    },
-    {
-      "id": "BFMTV_1783587376",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP N'A PAS UTILISÉ L'AIR FORCE ONE OFFERT PAR LE QATAR POUR QUITTER LA TURQUIE POUR DES RAISONS DE SÉCURITÉ, SELON LE NEW YORK TIMES",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:56",
-      "date": "09/07",
-      "timestamp": 1783587376
-    },
-    {
-      "id": "BFMTV_1783586547",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES EXPLOSIONS ENTENDUES DANS LA CAPITALE MANAMA",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:42",
-      "date": "09/07",
-      "timestamp": 1783586547
     }
   ],
   "france": {
