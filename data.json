@@ -1,7 +1,67 @@
 {
-  "last_update": "11/07 08:28",
+  "last_update": "11/07 10:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783761439",
+      "source": "BFMTV",
+      "text": "PLUS DE 900.000 PERSONNES ÉVACUÉES EN CHINE À L'APPROCHE DU TYPHON BAVI",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:17",
+      "date": "11/07",
+      "timestamp": 1783761439
+    },
+    {
+      "id": "BFMTV_1783761142",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: ONZE BLESSÉS DANS UNE ATTAQUE DE MISSILES RUSSES À KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:12",
+      "date": "11/07",
+      "timestamp": 1783761142
+    },
+    {
+      "id": "BFMTV_1783760656",
+      "source": "BFMTV",
+      "text": "ESPAGNE: L'INCENDIE PROGRESSE ET A DÉSORMAIS PARCOURU 6.600 HECTARES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:04",
+      "date": "11/07",
+      "timestamp": 1783760656
+    },
+    {
+      "id": "BFMTV_1783760521",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: ENVIRON 3.200 HECTARES DÉJÀ PARTIS EN FUMÉE DEPUIS JEUDI",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:02",
+      "date": "11/07",
+      "timestamp": 1783760521
+    },
+    {
+      "id": "BFMTV_1783759717",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: L'IRAN SERAIT EN TRAIN DE RECONSTRUIRE SES INSTALLATIONS NUCLÉAIRE, SELON CNN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:48",
+      "date": "11/07",
+      "timestamp": 1783759717
+    },
+    {
+      "id": "BFMTV_1783759394",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: TÉHÉRAN AFFIRME AVOIR \"TENU PAROLE\" VIS-À-VIS DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:43",
+      "date": "11/07",
+      "timestamp": 1783759394
+    },
     {
       "id": "BFMTV_1783758400",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "13:23",
       "date": "09/07",
       "timestamp": 1783603387
-    },
-    {
-      "id": "BFMTV_1783602961",
-      "source": "BFMTV",
-      "text": "\"JE PENSAIS QU’IL ME FAISAIT UNE BLAGUE\": UN INSTRUCTEUR DE VOL ARGENTIN SE TUE EN SAUTANT D'UN AVION ET LAISSE SON ÉLÈVE ATTERRIR SEULE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:16",
-      "date": "09/07",
-      "timestamp": 1783602961
-    },
-    {
-      "id": "BFMTV_1783595838",
-      "source": "BFMTV",
-      "text": "UN AUTOMOBILISTE MEXICAIN TUÉ PAR UN AGENT DE L'ICE LORS D'UN CONTRÔLE AU TEXAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:17",
-      "date": "09/07",
-      "timestamp": 1783595838
-    },
-    {
-      "id": "BFMTV_1783593764",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP N'A PAS UTILISÉ L'AIR FORCE ONE OFFERT PAR LE QATAR POUR QUITTER LA TURQUIE POUR DES RAISONS DE SÉCURITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:42",
-      "date": "09/07",
-      "timestamp": 1783593764
-    },
-    {
-      "id": "OPEX360_1783593599",
-      "source": "OPEX360",
-      "text": "UN AVION ATLANTIQUE 2 ET UN SOUS-MARIN NUCLÉAIRE D’ATTAQUE ONT EFFECTUÉ UN TIR COORDONNÉ DE MISSILES ANTINAVIRES EXOCET",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:39",
-      "date": "09/07",
-      "timestamp": 1783593599
-    },
-    {
-      "id": "BFMTV_1783591705",
-      "source": "BFMTV",
-      "text": "LE VENEZUELA DEMANDE AU ROYAUME-UNI DE SORTIR 30 TONNES D’OR DE LA BANQUE D'ANGLETERRE POUR RECONSTRUIRE LE PAYS APRÈS LE DOUBLE SÉISME",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:08",
-      "date": "09/07",
-      "timestamp": 1783591705
-    },
-    {
-      "id": "BFMTV_1783590047",
-      "source": "BFMTV",
-      "text": "JUSQU'À 900 SERPENTS S'ÉCHAPPENT D'UN ÉLEVAGE DU SUD DE LA CHINE PENDANT D'IMPORTANTES INONDATIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:40",
-      "date": "09/07",
-      "timestamp": 1783590047
     }
   ],
   "france": {
