@@ -1,7 +1,47 @@
 {
-  "last_update": "11/07 12:12",
+  "last_update": "11/07 13:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783776570",
+      "source": "BFMTV",
+      "text": "\"L'HISTOIRE QUI S'ÉCRIT SOUS NOS YEUX\": LE RAPPEUR PITBULL ÉTABLIT UN RECORD DU MONDE DU PLUS GRAND RASSEMBLEMENT DE FAUX CRÂNES CHAUVES",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:29",
+      "date": "11/07",
+      "timestamp": 1783776570
+    },
+    {
+      "id": "BFMTV_1783775311",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: \"J'AI DÛ PRATIQUEMENT TRAVERSER LES FLAMMES\", RACONTE UNE FRANÇAISE INSTALLÉE PRÈS DE LOS GALLARDOS",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:08",
+      "date": "11/07",
+      "timestamp": 1783775311
+    },
+    {
+      "id": "OPEX360_1783775184",
+      "source": "OPEX360",
+      "text": "LA MARINE NATIONALE VALIDE UNE NOUVELLE CONFIGURATION DU RAFALE M F4 À DEUX BOMBES AASM DE 1 000 KG",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:06",
+      "date": "11/07",
+      "timestamp": 1783775184
+    },
+    {
+      "id": "BFMTV_1783774405",
+      "source": "BFMTV",
+      "text": "\"C'EST ARRIVÉ COMMUNE UNE APOCALYPSE\": DES FRANÇAIS TÉMOINS DE L'INCENDIE MEURTRIER EN ESPAGNE RACONTENT L'ARRIVÉE DES FLAMMES",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:53",
+      "date": "11/07",
+      "timestamp": 1783774405
+    },
     {
       "id": "BFMTV_1783769076",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "15:48",
       "date": "09/07",
       "timestamp": 1783612086
-    },
-    {
-      "id": "BFMTV_1783611139",
-      "source": "BFMTV",
-      "text": "\"DES MISSILES HYPERSONIQUES CONTRE DES QUARTIERS CIVILS\": LA FRANCE \"CONDAMNE FERMEMENT\" LES RÉCENTES ATTAQUES RUSSES CONTRE KIEV",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:32",
-      "date": "09/07",
-      "timestamp": 1783611139
-    },
-    {
-      "id": "BFMTV_1783609639",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UNE FRAPPE AMÉRICAINE A VISÉ \"LE PÉRIMÈTRE\" DE LA CENTRALE NUCLÉAIRE DE BOUCHEHR, SELON UN MÉDIA IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:07",
-      "date": "09/07",
-      "timestamp": 1783609639
-    },
-    {
-      "id": "BFMTV_1783608020",
-      "source": "BFMTV",
-      "text": "UNE FEMME ARRÊTÉE POUR AVOIR COUSU LES LÈVRES DE SA COLOCATAIRE AU JAPON",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:40",
-      "date": "09/07",
-      "timestamp": 1783608020
-    },
-    {
-      "id": "BFMTV_1783607665",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI LES HOSTILITÉS REPRENNENT-ELLES?",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:34",
-      "date": "09/07",
-      "timestamp": 1783607665
     }
   ],
   "france": {
