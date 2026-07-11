@@ -1,7 +1,57 @@
 {
-  "last_update": "11/07 10:00",
+  "last_update": "11/07 11:18",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1783767478",
+      "source": "OPEX360",
+      "text": "LA BELGIQUE S’ASSOCIE AUX PAYS-BAS POUR SE DOTER DE CAPACITÉS TERRESTRES DE DÉFENSE AÉRIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:57",
+      "date": "11/07",
+      "timestamp": 1783767478
+    },
+    {
+      "id": "BFMTV_1783767099",
+      "source": "BFMTV",
+      "text": "AU MOINS 15 MORTS DANS LE CHAVIREMENT D'UN BATEAU TOURISTIQUE AU VIETNAM",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:51",
+      "date": "11/07",
+      "timestamp": 1783767099
+    },
+    {
+      "id": "BFMTV_1783766114",
+      "source": "BFMTV",
+      "text": "CHINE: DES BRUMISATEURS GÉANTS SUR LES TOITS D'IMMEUBLES RÉSIDENTIELS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:35",
+      "date": "11/07",
+      "timestamp": 1783766114
+    },
+    {
+      "id": "BFMTV_1783765987",
+      "source": "BFMTV",
+      "text": "MEXICAIN TUÉ PAR BALLES PAR L'ICE: DES TÉMOINS CONTREDISENT LA VERSION DU POLICIER AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:33",
+      "date": "11/07",
+      "timestamp": 1783765987
+    },
+    {
+      "id": "OPEX360_1783764199",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE POURRAIT ENGAGER DES AVIONS A400M DANS LA LUTTE CONTRE LES INCENDIES DÈS CET ÉTÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:03",
+      "date": "11/07",
+      "timestamp": 1783764199
+    },
     {
       "id": "BFMTV_1783761439",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "13:53",
       "date": "09/07",
       "timestamp": 1783605218
-    },
-    {
-      "id": "OPEX360_1783605012",
-      "source": "OPEX360",
-      "text": "L’ALLEMAGNE TROUVÉ UN ACCORD AVEC LES ÉTATS-UNIS POUR ACQUÉRIR DES MISSILES À LONGUE PORTÉE TOMAHAWK",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:50",
-      "date": "09/07",
-      "timestamp": 1783605012
-    },
-    {
-      "id": "OPEX360_1783605012",
-      "source": "OPEX360",
-      "text": "L’ALLEMAGNE A TROUVÉ UN ACCORD AVEC LES ÉTATS-UNIS POUR ACQUÉRIR DES MISSILES À LONGUE PORTÉE TOMAHAWK",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:50",
-      "date": "09/07",
-      "timestamp": 1783605012
-    },
-    {
-      "id": "BFMTV_1783604798",
-      "source": "BFMTV",
-      "text": "\"DE LOURDES PERTES HUMAINES\": AU MOINS 28 MORTS DANS LE GRAVE INCENDIE D'UNE USINE DE CHAUSSURES EN CHINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:46",
-      "date": "09/07",
-      "timestamp": 1783604798
-    },
-    {
-      "id": "BFMTV_1783604008",
-      "source": "BFMTV",
-      "text": "\"LA FRANCE SAIT POUVOIR COMPTER SUR LA POLOGNE\": JEAN-NOËL BARROT LOUE UNE COOPÉRATION \"EXEMPLAIRE\" DANS LA DÉFENSE ENTRE PARIS ET VARSOVIE",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:33",
-      "date": "09/07",
-      "timestamp": 1783604008
-    },
-    {
-      "id": "BFMTV_1783603387",
-      "source": "BFMTV",
-      "text": "OBSÈQUES DE KHAMENEI: UNE FOULE IMMENSE DANS LES RUES DE MACCHAD, LA DÉMONSTRATION DE FORCE DU RÉGIME IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:23",
-      "date": "09/07",
-      "timestamp": 1783603387
     }
   ],
   "france": {
