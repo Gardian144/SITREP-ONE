@@ -1,7 +1,37 @@
 {
-  "last_update": "12/07 19:50",
+  "last_update": "12/07 20:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783888676",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE : LE BILAN S'ALOURDIT À 13 MORTS APRÈS LE DÉCÈS D'UNE BRITANNIQUE À L'HÔPITAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:37",
+      "date": "12/07",
+      "timestamp": 1783888676
+    },
+    {
+      "id": "BFMTV_1783887500",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: DES CENTAINES DE PERSONNES ÉVACUÉES ONT PU REGAGNER LEUR DOMICILE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:18",
+      "date": "12/07",
+      "timestamp": 1783887500
+    },
+    {
+      "id": "BFMTV_1783886959",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: QU'EST-CE QUE LE CONCEPT D'ESCALADE HORIZONTALE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:09",
+      "date": "12/07",
+      "timestamp": 1783886959
+    },
     {
       "id": "BFMTV_1783883317",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "15:40",
       "date": "10/07",
       "timestamp": 1783698037
-    },
-    {
-      "id": "BFMTV_1783695995",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: DES TOURISTES ANGLAIS PARMI LES VICTIMES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:06",
-      "date": "10/07",
-      "timestamp": 1783695995
-    },
-    {
-      "id": "BFMTV_1783695188",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT ACCEPTER DE CONTINUER LES DISCUSSIONS AVEC L'IRAN MAIS RÉAFFIRME QUE LE CESSEZ-LE-FEU EST \"TERMINÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:53",
-      "date": "10/07",
-      "timestamp": 1783695188
-    },
-    {
-      "id": "BFMTV_1783692920",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: LE BILAN S'ALOURDIT AVEC AU MOINS 12 MORTS ET 23 DISPARUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:15",
-      "date": "10/07",
-      "timestamp": 1783692920
     }
   ],
   "france": {
