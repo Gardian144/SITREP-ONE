@@ -1,7 +1,27 @@
 {
-  "last_update": "12/07 12:38",
+  "last_update": "12/07 14:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783863926",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS ONT FRAPPÉ L'IRAN \"TRÈS FORT\" LA NUIT DERNIÈRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:45",
+      "date": "12/07",
+      "timestamp": 1783863926
+    },
+    {
+      "id": "BFMTV_1783863570",
+      "source": "BFMTV",
+      "text": "\"L'IRAN NE CONTRÔLE PAS LE DÉTROIT\": L'ARMÉE AMÉRICAINE AFFIRME QU'ORMUZ EST \"OUVERT\", MALGRÉ L'ANNONCE FAITE PAR TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:39",
+      "date": "12/07",
+      "timestamp": 1783863570
+    },
     {
       "id": "OPEX360_1783854555",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "08:42",
       "date": "10/07",
       "timestamp": 1783672974
-    },
-    {
-      "id": "BFMTV_1783672974",
-      "source": "BFMTV",
-      "text": "FACE AUX ARMES D’ERDOGAN, \"MON SIROP D’ÉRABLE ÉTAIT UN PEU EN DÉCALAGE\": L’IRONIE DU PREMIER MINISTRE CANADIEN MARK CARNEY APRÈS LE CADEAU DU PRÉSIDENT TURC",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:42",
-      "date": "10/07",
-      "timestamp": 1783672974
-    },
-    {
-      "id": "BFMTV_1783672206",
-      "source": "BFMTV",
-      "text": "UN BILAN QUI DÉPASSE L'ENSEMBLE DES INCENDIES DE 2025: UN FEU DE FORÊT FAIT AU MOINS 11 MORTS ET 19 DISPARUS DANS LE SUD DE L'ESPAGNE, \"LA MAJORITÉ DES ÉTRANGERS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:30",
-      "date": "10/07",
-      "timestamp": 1783672206
     }
   ],
   "france": {
