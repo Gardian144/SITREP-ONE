@@ -1,7 +1,97 @@
 {
-  "last_update": "12/07 08:53",
+  "last_update": "12/07 10:26",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1783850934",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE VALIDE LE RAVITAILLEMENT EN VOL DE NUIT DU MIRAGE 2000D PAR LE KC-130J HERCULES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:08",
+      "date": "12/07",
+      "timestamp": 1783850934
+    },
+    {
+      "id": "BFMTV_1783850048",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE DÉTROIT D'ORMUZ \"PLUS IMPORTANT\" QUE DES \"BOMBES ATOMIQUES\", SELON LE CONSEILLER MILITAIRE DE GUIDE SUPRÊME IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:54",
+      "date": "12/07",
+      "timestamp": 1783850048
+    },
+    {
+      "id": "BFMTV_1783849284",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: LES IMAGES DES DÉGÂTS CAUSÉS PAR LES FLAMMES EN ANDALOUSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:41",
+      "date": "12/07",
+      "timestamp": 1783849284
+    },
+    {
+      "id": "BFMTV_1783849106",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: LE FEU QUI A FAIT AU MOINS12 MORTS DÉSORMAIS \"STABILISÉ\", SELON LES AUTORITÉS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:38",
+      "date": "12/07",
+      "timestamp": 1783849106
+    },
+    {
+      "id": "BFMTV_1783848798",
+      "source": "BFMTV",
+      "text": "\"CIRCONSCRIT ET TENU\": L'INCENDIE QUI A FAIT AU MOINS 12 MORTS EN ESPAGNE EST DÉSORMAIS \"STABILISÉ\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:33",
+      "date": "12/07",
+      "timestamp": 1783848798
+    },
+    {
+      "id": "BFMTV_1783848176",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: FACE À LA MONTÉE DES TENSIONS ENTRE L'IRAN ET LES ÉTATS-UNIS, LES ISRAÉLIENS RESTENT POUR LE MOMENT EN RETRAIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:22",
+      "date": "12/07",
+      "timestamp": 1783848176
+    },
+    {
+      "id": "BFMTV_1783847996",
+      "source": "BFMTV",
+      "text": "FERMETURE DU DÉTROIT D'ORMUZ, FRAPPES AMÉRICAINES... NOUVELLE REPRISE DES HOSTILITÉS ENTRE ÉTATS-UNIS ET IRAN APRÈS UN FRAGILE CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:19",
+      "date": "12/07",
+      "timestamp": 1783847996
+    },
+    {
+      "id": "BFMTV_1783847333",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"ON EST DANS UNE HISTOIRE QUI SEMBLE SANS FIN\", EXPLIQUE SÉBASTIEN BOUSSOIS, CHERCHEUR SUR LE MOYEN-ORIENT ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:08",
+      "date": "12/07",
+      "timestamp": 1783847333
+    },
+    {
+      "id": "BFMTV_1783846694",
+      "source": "BFMTV",
+      "text": "DES JOURNALISTES DU NEW YORK TIMES ASSIGNÉS À COMPARAÎTRE APRÈS DES ARTICLES SUR L'AIR FORCE ONE DE DONALD TRUMP OFFERT PAR LE QATAR",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:58",
+      "date": "12/07",
+      "timestamp": 1783846694
+    },
     {
       "id": "BFMTV_1783845296",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "08:28",
       "date": "10/07",
       "timestamp": 1783672109
-    },
-    {
-      "id": "BFMTV_1783671312",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT : ISRAËL DIT ÊTRE PRÊT À ATTAQUER L’IRAN «UNE TROISIÈME FOIS SI NÉCESSAIRE»",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:15",
-      "date": "10/07",
-      "timestamp": 1783671312
-    },
-    {
-      "id": "BFMTV_1783670730",
-      "source": "BFMTV",
-      "text": "ESPAGNE: LE BILAN DRAMATIQUE DES FEUX DE FORÊT EN ANDALOUSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:05",
-      "date": "10/07",
-      "timestamp": 1783670730
-    },
-    {
-      "id": "BFMTV_1783670660",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: L’IRAN CHERCHE-T-IL À ASSASSINER DONALD TRUMP? ISRAËL ALERTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:04",
-      "date": "10/07",
-      "timestamp": 1783670660
-    },
-    {
-      "id": "BFMTV_1783667246",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ANALYSE DE GILLES KEPEL, PROFESSEUR ÉMÉRITE DES UNIVERSITÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:07",
-      "date": "10/07",
-      "timestamp": 1783667246
-    },
-    {
-      "id": "BFMTV_1783667162",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL AFFIRME AUPRÈS DE WASHINGTON QUE L'IRAN CHERCHE À TUER DONALD TRUMP, SELON CNN ET LE WALL STREET JOURNAL",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:06",
-      "date": "10/07",
-      "timestamp": 1783667162
-    },
-    {
-      "id": "BFMTV_1783666229",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION \"SORTENT RENFORCÉS SUR LE PLAN IDÉOLOGIQUE DE CETTE SÉQUENCE\", ASSURE GILLES KEPEL",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:50",
-      "date": "10/07",
-      "timestamp": 1783666229
-    },
-    {
-      "id": "BFMTV_1783665632",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"BENJAMIN NETANYAHU A INTÉRÊT À MONTRER QU'ALLER NÉGOCIER AVEC LES IRANIENS EST TROP DANGEREUX\", AFFIRME GILLES KEPEL, PROFESSEUR ÉMÉRITE DES UNIVERSITÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:40",
-      "date": "10/07",
-      "timestamp": 1783665632
-    },
-    {
-      "id": "BFMTV_1783665261",
-      "source": "BFMTV",
-      "text": "ATTENTATS À DAMAS PENDANT LA VISITE D'EMMANUEL MACRON: LES AUTORITÉS SYRIENNES ARRÊTENT DES MEMBRES D'UNE CELLULE \"AFFILIÉE À L'ÉTAT ISLAMIQUE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:34",
-      "date": "10/07",
-      "timestamp": 1783665261
-    },
-    {
-      "id": "BFMTV_1783661473",
-      "source": "BFMTV",
-      "text": "LA TAPISSERIE DE BAYEUX EST ARRIVÉE AU BRITISH MUSEUM À LONDRES POUR UNE EXPOSITION HISTORIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:31",
-      "date": "10/07",
-      "timestamp": 1783661473
     }
   ],
   "france": {
