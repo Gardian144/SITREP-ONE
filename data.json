@@ -1,7 +1,57 @@
 {
-  "last_update": "12/07 06:36",
+  "last_update": "12/07 08:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783845296",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS VISENT 140 CIBLES EN IRAN, TÉHÉRAN RIPOSTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:34",
+      "date": "12/07",
+      "timestamp": 1783845296
+    },
+    {
+      "id": "BFMTV_1783844932",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN JOURNAL IRANIEN PLACE DONALD TRUMP, EMMANUEL MACRON ET D'AUTRES DIRIGEANTS SUR UNE LISTE POUR VENGER LA MORT DE L'AYATOLLAH ALI KHAMENEI",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:28",
+      "date": "12/07",
+      "timestamp": 1783844932
+    },
+    {
+      "id": "BFMTV_1783843401",
+      "source": "BFMTV",
+      "text": "\"UNE MALADIE BRÈVE ET SOUDAINE\": MORT DU SÉNATEUR AMÉRICAIN LINDSEY GRAHAM, ALLIÉ DE DONALD TRUMP, À 71 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:03",
+      "date": "12/07",
+      "timestamp": 1783843401
+    },
+    {
+      "id": "BFMTV_1783842109",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: LES AUTORITÉS ESPAGNOLES MISES EN CAUSE APRÈS UN BILAN PROVISOIRE DE 12 MORTS  ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:41",
+      "date": "12/07",
+      "timestamp": 1783842109
+    },
+    {
+      "id": "BFMTV_1783838465",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA JORDANIE CIBLÉE PAR TROIS MISSILES IRANIENS, UNE PREMIÈRE DEPUIS LE DÉBUT DE LA GUERREA",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:41",
+      "date": "12/07",
+      "timestamp": 1783838465
+    },
     {
       "id": "BFMTV_1783837995",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "05:31",
       "date": "10/07",
       "timestamp": 1783661473
-    },
-    {
-      "id": "BFMTV_1783657948",
-      "source": "BFMTV",
-      "text": "CANICULE: SÉBASTIEN LECORNU CONVOQUE UNE RÉUNION DE CRISE CE MATIN À 10H",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:32",
-      "date": "10/07",
-      "timestamp": 1783657948
-    },
-    {
-      "id": "BFMTV_1783657549",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE NIE ÊTRE À L'ORIGINE DES RÉCENTES FRAPPES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:25",
-      "date": "10/07",
-      "timestamp": 1783657549
-    },
-    {
-      "id": "BFMTV_1783657437",
-      "source": "BFMTV",
-      "text": "LE GUIDE SUPRÊME IRANIEN, ALI KHAMENEI, A ÉTÉ INHUMÉ APRÈS PLUSIEURS JOURS DE FUNÉRAILLES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:23",
-      "date": "10/07",
-      "timestamp": 1783657437
-    },
-    {
-      "id": "BFMTV_1783635475",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP A INFORMÉ BENJAMIN NETANYAHU DES \"DERNIERS MOUVEMENTS\" AMÉRICAINS DANS LE GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:17",
-      "date": "09/07",
-      "timestamp": 1783635475
-    },
-    {
-      "id": "BFMTV_1783634604",
-      "source": "BFMTV",
-      "text": "\"L'IRAN NE CONTRÔLE PAS LE DÉTROIT D'ORMUZ\", AFFIRME LE COMMANDEMENT CENTRAL DE L’ARMÉE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:03",
-      "date": "09/07",
-      "timestamp": 1783634604
     }
   ],
   "france": {
