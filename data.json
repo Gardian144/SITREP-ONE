@@ -1,7 +1,57 @@
 {
-  "last_update": "12/07 16:27",
+  "last_update": "12/07 17:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783876362",
+      "source": "BFMTV",
+      "text": "APRÈS DE NOUVELLES FRAPPES AMÉRICAINES, L'IRAN RIPOSTE EN FRAPPANT LE KOWEÏT",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:12",
+      "date": "12/07",
+      "timestamp": 1783876362
+    },
+    {
+      "id": "BFMTV_1783876056",
+      "source": "BFMTV",
+      "text": "\"UN CHANGEMENT DE STRATÉGIE POLITIQUE\": VOLODYMYR ZELENSKY ANNONCE UN REMANIEMENT DE SON GOUVERNEMENT ET LE DÉPART DE SA PREMIÈRE MINISTRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:07",
+      "date": "12/07",
+      "timestamp": 1783876056
+    },
+    {
+      "id": "BFMTV_1783875957",
+      "source": "BFMTV",
+      "text": "UN CONDUCTEUR RENVERSE ET TUE SIX PERSONNES SUR UN MARCHÉ À VIÑA DEL MAR AU CHILI",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:05",
+      "date": "12/07",
+      "timestamp": 1783875957
+    },
+    {
+      "id": "BFMTV_1783874752",
+      "source": "BFMTV",
+      "text": "DES FRAPPES AMÉRICAINES SONT EN COURS À PROXIMITÉ DU DÉTROIT D'ORMUZ SELON LA PRESSE AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:45",
+      "date": "12/07",
+      "timestamp": 1783874752
+    },
+    {
+      "id": "BFMTV_1783874158",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS ONT FRAPPÉ L'IRAN \"TRÈS FORT\" LA NUIT DERNIÈRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:35",
+      "date": "12/07",
+      "timestamp": 1783874158
+    },
     {
       "id": "BFMTV_1783872029",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "12:08",
       "date": "10/07",
       "timestamp": 1783685313
-    },
-    {
-      "id": "BFMTV_1783684949",
-      "source": "BFMTV",
-      "text": "\"DONALD TRUMP EST MENACÉ PAR DES PROJETS D'ATTENTATS DEPUIS DES MOIS, VOIRE DES ANNÉES\", ANALYSE IGOR SAHIRI, GRAND REPORTER BFMTV",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:02",
-      "date": "10/07",
-      "timestamp": 1783684949
-    },
-    {
-      "id": "BFMTV_1783682482",
-      "source": "BFMTV",
-      "text": "FEU \"FULGURANT\", AU MOINS 11 MORTS DONT DES \"ÉTRANGERS\"... CE QUE L'ON SAIT DE L'INCENDIE SURVENU DANS LE SUD DE L'ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:21",
-      "date": "10/07",
-      "timestamp": 1783682482
-    },
-    {
-      "id": "BFMTV_1783682271",
-      "source": "BFMTV",
-      "text": "À NEW YORK, UNE FEMME SAUVÉE SUR LE PONT DE BROOKLYN DANS UNE OPÉRATION SPECTACULAIRE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:17",
-      "date": "10/07",
-      "timestamp": 1783682271
-    },
-    {
-      "id": "BFMTV_1783681753",
-      "source": "BFMTV",
-      "text": "ESPAGNE: SIX PERSONNES BLESSÉES APRÈS LE LÂCHER DE TAUREAUX DE LA SAN FERMÍN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:09",
-      "date": "10/07",
-      "timestamp": 1783681753
-    },
-    {
-      "id": "BFMTV_1783679071",
-      "source": "BFMTV",
-      "text": "L'ENTRETIEN EXCLUSIF SUR BFMTV D'AHMED AL-CHARAA, PRÉSIDENT SYRIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:24",
-      "date": "10/07",
-      "timestamp": 1783679071
     }
   ],
   "france": {
