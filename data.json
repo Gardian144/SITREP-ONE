@@ -1,7 +1,17 @@
 {
-  "last_update": "12/07 10:26",
+  "last_update": "12/07 11:38",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1783854555",
+      "source": "OPEX360",
+      "text": "LE 35E RÉGIMENT D’ARTILLERIE PARACHUTISTE VA INSTALLER LE SYSTÈME ANTIDRONE PROTEUS SUR UN VÉHICULE LÉGER DE TYPE FARDIER",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:09",
+      "date": "12/07",
+      "timestamp": 1783854555
+    },
     {
       "id": "OPEX360_1783850934",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "08:30",
       "date": "10/07",
       "timestamp": 1783672206
-    },
-    {
-      "id": "BFMTV_1783672109",
-      "source": "BFMTV",
-      "text": "UN FEU DE FORÊT FAIT AU MOINS 11 MORTS PRÈS D'ALMERIA, DANS LE SUD DE L'ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:28",
-      "date": "10/07",
-      "timestamp": 1783672109
     }
   ],
   "france": {
