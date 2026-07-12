@@ -1,7 +1,47 @@
 {
-  "last_update": "12/07 14:14",
+  "last_update": "12/07 15:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783869196",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL PRÊT À FRAPPER L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:13",
+      "date": "12/07",
+      "timestamp": 1783869196
+    },
+    {
+      "id": "BFMTV_1783869128",
+      "source": "BFMTV",
+      "text": "UN JOURNAL IRANIEN PUBLIE UNE LISTE DE DIRIGEANTS QU'IL ESTIME RESPONSABLES DE LA MORT DE KHAMENEI, DONT EMMANUEL MACRON ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:12",
+      "date": "12/07",
+      "timestamp": 1783869128
+    },
+    {
+      "id": "BFMTV_1783867653",
+      "source": "BFMTV",
+      "text": "INCENDIES: \"EN FRANCE, C'EST LE PRÉFET QUI PEUT DÉCLENCHER CE DISPOSITIF\" FR-ALERT",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:47",
+      "date": "12/07",
+      "timestamp": 1783867653
+    },
+    {
+      "id": "BFMTV_1783867237",
+      "source": "BFMTV",
+      "text": "\"PERSONNE N'A REÇU D'ALERTE OFFICIELLE\", TÉMOIGNE LE FILS D'UNE VICTIME BELGE DE L'INCENDIE EN ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:40",
+      "date": "12/07",
+      "timestamp": 1783867237
+    },
     {
       "id": "BFMTV_1783863926",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "10:04",
       "date": "10/07",
       "timestamp": 1783677849
-    },
-    {
-      "id": "BFMTV_1783677218",
-      "source": "BFMTV",
-      "text": "\"IL A COMMENCÉ À PLEURER\": LE SUSPECT DU MEURTRE DE CHARLIE KIRK A EXPRIMÉ DES REMORDS APRÈS LES FAITS, SELON SON COLOCATAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:53",
-      "date": "10/07",
-      "timestamp": 1783677218
-    },
-    {
-      "id": "BFMTV_1783676941",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: SOUPÇONNÉ DE TENTATIVE DE MEURTRE, IL FUIT LA POLICE EN PASSANT PAR UN GOLF",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:49",
-      "date": "10/07",
-      "timestamp": 1783676941
-    },
-    {
-      "id": "BFMTV_1783676262",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: LE BILAN S'ALOURDIT AVEC AU MOINS 23 DISPARUS ET 11 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:37",
-      "date": "10/07",
-      "timestamp": 1783676262
-    },
-    {
-      "id": "BFMTV_1783672974",
-      "source": "BFMTV",
-      "text": "\"MON CADEAU DE SIROP D'ÉRABLE ÉTAIT UN PEU EN DÉCALAGE\", IRONISE MARK CARNEY APRÈS LE REVOLVER OFFERT PAR RECEP ERDOGAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:42",
-      "date": "10/07",
-      "timestamp": 1783672974
     }
   ],
   "france": {
