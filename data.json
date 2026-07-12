@@ -1,7 +1,37 @@
 {
-  "last_update": "12/07 15:18",
+  "last_update": "12/07 16:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783872029",
+      "source": "BFMTV",
+      "text": "\"PERSONNE N'A EU D'ALERTE OFFICIELLE\": LES AUTORITÉS ESPAGNOLES POINTÉES DU DOIGT PAR LES PROCHES DES VICTIMES DE L'INCENDIE QUI A FAIT AU MOINS 12 MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:00",
+      "date": "12/07",
+      "timestamp": 1783872029
+    },
+    {
+      "id": "BFMTV_1783870067",
+      "source": "BFMTV",
+      "text": "APRÈS DE NOUVELLES FRAPPES AMÉRICAINES EN IRAN, TÉHÉRAN RIPOSTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:27",
+      "date": "12/07",
+      "timestamp": 1783870067
+    },
+    {
+      "id": "BFMTV_1783869688",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: \"DES CORPS ONT ÉTÉ TROUVÉS, ILS SONT EN TRAIN D'ÊTRE IDENTIFIÉS\", EXPLIQUE ÉLÉONORE CAROIT, MINISTRE DÉLÉGUÉE CHARGÉE DE LA FRANCOPHONIE ET DES FRANÇAIS DE L'ÉTRANGER",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:21",
+      "date": "12/07",
+      "timestamp": 1783869688
+    },
     {
       "id": "BFMTV_1783869196",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "10:24",
       "date": "10/07",
       "timestamp": 1783679071
-    },
-    {
-      "id": "BFMTV_1783679061",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:24",
-      "date": "10/07",
-      "timestamp": 1783679061
-    },
-    {
-      "id": "BFMTV_1783679061",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:24",
-      "date": "10/07",
-      "timestamp": 1783679061
-    },
-    {
-      "id": "OPEX360_1783677849",
-      "source": "OPEX360",
-      "text": "L’INSTITUT DE SAINT-LOUIS SE FÉLICITE DE LA RÉUSSITE DU PREMIER TIR DE SON CANON ÉLECTROMAGNÉTIQUE EN CHAMP LIBRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:04",
-      "date": "10/07",
-      "timestamp": 1783677849
     }
   ],
   "france": {
