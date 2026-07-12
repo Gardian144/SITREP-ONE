@@ -1,7 +1,37 @@
 {
-  "last_update": "12/07 17:33",
+  "last_update": "12/07 18:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783880759",
+      "source": "BFMTV",
+      "text": "LES PROPOS RACISTES DE L’ANCIEN PREMIER MINISTRE ESPAGNOL MARIANO RAJOY SUR LES BLEUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:25",
+      "date": "12/07",
+      "timestamp": 1783880759
+    },
+    {
+      "id": "BFMTV_1783880481",
+      "source": "BFMTV",
+      "text": "\"LA GUERRE N'A JAMAIS VÉRITABLEMENT CESSÉ\", ESTIME BRUNO TERTRAIS, DIRECTEUR ADJOINT DE LA FONDATION POUR LA RECHERCHE STRATÉGIQUE, À PROPOS DE LA GUERRE ENTRE L'IRAN ET LES ÉTATS-UNIS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:21",
+      "date": "12/07",
+      "timestamp": 1783880481
+    },
+    {
+      "id": "BFMTV_1783878140",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS FRAPPENT À NOUVEAU L'IRAN QUI RÉPLIQUE SUR LES PAYS VOISINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:42",
+      "date": "12/07",
+      "timestamp": 1783878140
+    },
     {
       "id": "BFMTV_1783876362",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "13:14",
       "date": "10/07",
       "timestamp": 1783689255
-    },
-    {
-      "id": "OPEX360_1783689122",
-      "source": "OPEX360",
-      "text": "LA TURQUIE ENVISAGE DE REVENDRE SES SYSTÈMES RUSSES DE DÉFENSE AÉRIENNE S-400 À UN PAYS DU GOLFE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:12",
-      "date": "10/07",
-      "timestamp": 1783689122
-    },
-    {
-      "id": "BFMTV_1783687182",
-      "source": "BFMTV",
-      "text": "REVOLVER OFFERT PAR ERDOGAN: LE CADEAU DU CANADA \"UN PEU EN DÉCALAGE\", IRONISE MARK CARNEY",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:39",
-      "date": "10/07",
-      "timestamp": 1783687182
-    },
-    {
-      "id": "BFMTV_1783685313",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MENACE DE FRAPPER ISRAËL EN CAS D'ATTAQUES CONTRE SES INFRASTRUCTURES",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:08",
-      "date": "10/07",
-      "timestamp": 1783685313
     }
   ],
   "france": {
