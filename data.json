@@ -1,7 +1,77 @@
 {
-  "last_update": "12/07 03:56",
+  "last_update": "12/07 06:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783837995",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN ATTAQUE DEUX NAVIRES DANS LE DÉTROIT D'ORMUZ, LES ÉTATS-UNIS LANCENT DE NOUVELLES FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:33",
+      "date": "12/07",
+      "timestamp": 1783837995
+    },
+    {
+      "id": "BFMTV_1783835356",
+      "source": "BFMTV",
+      "text": "MÈRE DE FAMILLE, HABITUÉE DE LA RÉGION... CE QUE L'ON SAIT SUR LA FRANÇAISE PORTÉE DISPARUE DANS L'INCENDIE EN ESPAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:49",
+      "date": "12/07",
+      "timestamp": 1783835356
+    },
+    {
+      "id": "BFMTV_1783832696",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION IRANIENS ANNONCENT AVOIR FRAPPÉ UN DEUXIÈME NAVIRE DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:04",
+      "date": "12/07",
+      "timestamp": 1783832696
+    },
+    {
+      "id": "BFMTV_1783832542",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE DÉTROIT D'ORMUZ FERMÉ PAR L'IRAN APRÈS UN TIR SUR UN PORTE-CONTENEURS AMÉRICAIN, LES ÉTATS-UNIS LANCENT UNE SÉRIE DE FRAPPES EN REPRÉSAILLES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:02",
+      "date": "12/07",
+      "timestamp": 1783832542
+    },
+    {
+      "id": "BFMTV_1783832110",
+      "source": "BFMTV",
+      "text": "\"PERSONNE N'EST VENU FRAPPER À MA PORTE\": LES AUTORITÉS ESPAGNOLES POINTÉES DU DOIGT APRÈS LA DISPARITION DE 23 PERSONNES DONT UNE FRANÇAISE DANS LES INCENDIES EN ANDALOUSIE",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:55",
+      "date": "12/07",
+      "timestamp": 1783832110
+    },
+    {
+      "id": "BFMTV_1783830107",
+      "source": "BFMTV",
+      "text": "\"LE FEU S'EST ARRÊTÉ À LA GRILLE\": À ALMERÍA, EN ESPAGNE, LES HABITANTS RETOURNENT À LEURS HABITATIONS APRÈS LE PASSAGE DE L'INCENDIE MEURTRIER POUR CONSTATER LES DÉGÂTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:21",
+      "date": "12/07",
+      "timestamp": 1783830107
+    },
+    {
+      "id": "BFMTV_1783829554",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT : LES ÉTATS-UNIS ONT LANCÉ 140 CIBLES CONTRE L'IRAN, EN RIPOSTE À L'ATTAQUE D'UN NAVIRE MARCHAND DANS LE DÉTROIT D'ORMUZ ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:12",
+      "date": "12/07",
+      "timestamp": 1783829554
+    },
     {
       "id": "BFMTV_1783828403",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "22:03",
       "date": "09/07",
       "timestamp": 1783634604
-    },
-    {
-      "id": "BFMTV_1783633370",
-      "source": "BFMTV",
-      "text": "L'IRAN A ANNONCÉ DES ATTAQUES CONTRE DES BASES AMÉRICAINES DANS PLUSIEURS PAYS DU GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:42",
-      "date": "09/07",
-      "timestamp": 1783633370
-    },
-    {
-      "id": "BFMTV_1783631065",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: INCERTITUDE SUR DE NOUVELLES FRAPPES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:04",
-      "date": "09/07",
-      "timestamp": 1783631065
-    },
-    {
-      "id": "BFMTV_1783629030",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: UNE INSTALLATION MILITAIRE COMPRENANT UNE CENTRALE NUCLÉAIRE TOUCHÉE PAR UNE FRAPPE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:30",
-      "date": "09/07",
-      "timestamp": 1783629030
-    },
-    {
-      "id": "BFMTV_1783628393",
-      "source": "BFMTV",
-      "text": "POURQUOI DONALD TRUMP A DÛ ÉVACUER EN URGENCE DE SON AVION",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:19",
-      "date": "09/07",
-      "timestamp": 1783628393
-    },
-    {
-      "id": "BFMTV_1783627548",
-      "source": "BFMTV",
-      "text": "IRAN, UKRAINE, GROENLAND… DONALD TRUMP DONNE LE TON DU SOMMET DE L’OTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:05",
-      "date": "09/07",
-      "timestamp": 1783627548
-    },
-    {
-      "id": "BFMTV_1783627429",
-      "source": "BFMTV",
-      "text": "IRAN: \"L'ARMÉE EST PRÊTE ET EN ÉTAT D'ALERTE POUR UNE REPRISE DES COMBATS\", AFFIRME ISRAËL KATZ, LE MINISTRE DE LA DÉFENSE ISRAÉLIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:03",
-      "date": "09/07",
-      "timestamp": 1783627429
-    },
-    {
-      "id": "BFMTV_1783624731",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE AGENCE DE PRESSE IRANIENNE AFFIRME QU'IL N'Y A PAS DE NOUVELLES FRAPPES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:18",
-      "date": "09/07",
-      "timestamp": 1783624731
     }
   ],
   "france": {
