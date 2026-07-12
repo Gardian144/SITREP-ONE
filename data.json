@@ -1,7 +1,27 @@
 {
-  "last_update": "12/07 18:38",
+  "last_update": "12/07 19:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783883317",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"IL NE FAUT PAS CROIRE QUE CETTE GUERRE VA REDÉMARRER\", ESTIME THIERRY BRETON, ANCIEN COMMISSAIRE EUROPÉEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:08",
+      "date": "12/07",
+      "timestamp": 1783883317
+    },
+    {
+      "id": "BFMTV_1783882645",
+      "source": "BFMTV",
+      "text": "L'ANCIEN COMMISSAIRE EUROPÉEN, THIERRY BRETON ESTIME QUE LA SITUATION DANS LE DÉTROIT D'ORMUZ N'EST \"CERTAINEMENT PAS UNE REPRISE DE LA GUERRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:57",
+      "date": "12/07",
+      "timestamp": 1783882645
+    },
     {
       "id": "BFMTV_1783880759",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "14:15",
       "date": "10/07",
       "timestamp": 1783692920
-    },
-    {
-      "id": "BFMTV_1783690583",
-      "source": "BFMTV",
-      "text": "FEU \"FULGURANT\", AU MOINS 12 MORTS DONT DES \"ÉTRANGERS\"... CE QUE L'ON SAIT DE L'INCENDIE SURVENU DANS LE SUD DE L'ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:36",
-      "date": "10/07",
-      "timestamp": 1783690583
-    },
-    {
-      "id": "BFMTV_1783689255",
-      "source": "BFMTV",
-      "text": "QUINZE MORTS AUX PHILIPPINES, ÉVACUATIONS ET ÉCOLES FERMÉES À TAÏWAN, À L'APPROCHE DU TYPHON BAVI",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:14",
-      "date": "10/07",
-      "timestamp": 1783689255
     }
   ],
   "france": {
