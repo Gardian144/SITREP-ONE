@@ -1,7 +1,127 @@
 {
-  "last_update": "13/07 02:42",
+  "last_update": "13/07 05:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783921884",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: LES ÉTATS-UNIS MÈNENT UNE NOUVELLE SALVE DE FRAPPES CONTRE \"DES DIZAINES DE CIBLES\", TÉHÉRAN VISE PLUSIEURS BASES AMÉRICAINES AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:51",
+      "date": "13/07",
+      "timestamp": 1783921884
+    },
+    {
+      "id": "BFMTV_1783921413",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS JUSTIFIENT LES FRAPPES CONTRE L'IRAN POUR ASSURER \"LA SÉCURITÉ ET LA LIBERTÉ\" DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:43",
+      "date": "13/07",
+      "timestamp": 1783921413
+    },
+    {
+      "id": "BFMTV_1783920004",
+      "source": "BFMTV",
+      "text": "JUSQU'À 43°C: EN PLEINE CANICULE, DES RECORDS VIEUX DE 150 ANS BATTUS DANS LE NORD ET L'OUEST DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:20",
+      "date": "13/07",
+      "timestamp": 1783920004
+    },
+    {
+      "id": "BFMTV_1783918012",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: APRÈS DES FRAPPES MASSIVES DE WASHINGTON SUR L'IRAN, TÉHÉRAN RÉPLIQUE EN VISANT DES BASES MILITAIRES AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:46",
+      "date": "13/07",
+      "timestamp": 1783918012
+    },
+    {
+      "id": "BFMTV_1783917839",
+      "source": "BFMTV",
+      "text": "UNE FOIS L'INCENDIE \"STABILISÉ\" EN ESPAGNE, LES QUELQUES 1.000 ÉVACUÉS ONT PU REGAGNER LEUR DOMICILE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:43",
+      "date": "13/07",
+      "timestamp": 1783917839
+    },
+    {
+      "id": "BFMTV_1783917740",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:42",
+      "date": "13/07",
+      "timestamp": 1783917740
+    },
+    {
+      "id": "BFMTV_1783917740",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:42",
+      "date": "13/07",
+      "timestamp": 1783917740
+    },
+    {
+      "id": "BFMTV_1783917740",
+      "source": "BFMTV",
+      "text": "DOCUMENT BFMTV. \"LES FRANÇAIS COMPRENNENT L'UKRAINE\": VOLODYMYR ZELENSKY SALUE L'ENGAGEMENT DE LA FRANCE POUR PARVENIR À \"UNE PAIX SÛRE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:42",
+      "date": "13/07",
+      "timestamp": 1783917740
+    },
+    {
+      "id": "BFMTV_1783917489",
+      "source": "BFMTV",
+      "text": "VOLODYMIR ZELENSKY: INTERVIEW EXCLUSIVE DU PRÉSIDENT UKRAINIEN CE LUNDI À 19H SUR BFMTV. ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:38",
+      "date": "13/07",
+      "timestamp": 1783917489
+    },
+    {
+      "id": "BFMTV_1783916723",
+      "source": "BFMTV",
+      "text": "EN THAÏLANDE, AU MOINS 27 MORTS DANS L'INCENDIE D'UN BAR DE LA BANLIEUE DE BANGKOK",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:25",
+      "date": "13/07",
+      "timestamp": 1783916723
+    },
+    {
+      "id": "BFMTV_1783916410",
+      "source": "BFMTV",
+      "text": "MONDIAL: L’ANCIEN PREMIER MINISTRE ESPAGNOL MARIANO RAJOY DÉCLARE QU'IL N'Y \"A PAS DE FRANÇAIS\" DANS L'ÉQUIPE DES BLEUS",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:20",
+      "date": "13/07",
+      "timestamp": 1783916410
+    },
+    {
+      "id": "BFMTV_1783916193",
+      "source": "BFMTV",
+      "text": "L'INCENDIE QUI A FAIT AU MOINS 12 MORTS EN ESPAGNE EST DÉSORMAIS \"STABILISÉ\" PAR LES POMPIERS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:16",
+      "date": "13/07",
+      "timestamp": 1783916193
+    },
     {
       "id": "BFMTV_1783888676",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "21:49",
       "date": "10/07",
       "timestamp": 1783720182
-    },
-    {
-      "id": "BFMTV_1783719857",
-      "source": "BFMTV",
-      "text": "ASSASSINAT DE CHARLIE KIRK: L'ORGANISATION D'UN PROCÈS SE DÉCIDERA EN SEPTEMBRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:44",
-      "date": "10/07",
-      "timestamp": 1783719857
-    },
-    {
-      "id": "BFMTV_1783718523",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: L'INQUIÉTUDE DES HABITANTS DE LOS GALLARDOS QUI ONT DÛ ABANDONNER LEUR HABITATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:22",
-      "date": "10/07",
-      "timestamp": 1783718523
-    },
-    {
-      "id": "BFMTV_1783715441",
-      "source": "BFMTV",
-      "text": "SOUTIEN À L'UKRAINE: AU MOINS 25 CHEFS D'ÉTAT SERONT À PARIS LUNDI POUR UNE RÉUNION DE LA \"COALITION DES VOLONTAIRES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:30",
-      "date": "10/07",
-      "timestamp": 1783715441
-    },
-    {
-      "id": "BFMTV_1783711754",
-      "source": "BFMTV",
-      "text": "UN HOMME A FAILLI ÊTRE ASPIRÉ À TRAVERS UN HUBLOT SUR UN VOL RYANAIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:29",
-      "date": "10/07",
-      "timestamp": 1783711754
-    },
-    {
-      "id": "BFMTV_1783711718",
-      "source": "BFMTV",
-      "text": "\"NOUS FERONS FRONT CONTRE EUX\": UN NÉGOCIATEUR IRANIEN PRÉVIENT QUE LE CONFLIT AVEC LES ÉTATS-UNIS \"NE SE TERMINERA JAMAIS AVEC UNE REDDITION DE L'IRAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:28",
-      "date": "10/07",
-      "timestamp": 1783711718
-    },
-    {
-      "id": "BFMTV_1783705554",
-      "source": "BFMTV",
-      "text": "CHINE: 28 MORTS LORS D'UN INCENDIE DANS UNE USINE DE CHAUSSURES",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:45",
-      "date": "10/07",
-      "timestamp": 1783705554
-    },
-    {
-      "id": "OPEX360_1783703562",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE ALLEMAND DE LA DÉFENSE INVESTIT DES CENTAINES DE MILLIONS D’EUROS POUR DISPOSER D’UN SYSTÈME D’ARME LASER EN 2029",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:12",
-      "date": "10/07",
-      "timestamp": 1783703562
-    },
-    {
-      "id": "BFMTV_1783701617",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: L'ADMINISTRATION TRUMP ANNULE LA SUSPENSION DE MILITAIRES AYANT SURVOLÉ LA PLAGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:40",
-      "date": "10/07",
-      "timestamp": 1783701617
-    },
-    {
-      "id": "BFMTV_1783701326",
-      "source": "BFMTV",
-      "text": "LE TICKET GAGNANT D'UN LOTO AFFICHANT UN JACKPOT DE 12 MILLIONS DE LIVRES JETÉ PAR ERREUR AU ROYAUME-UNI, UNE ENQUÊTE OUVERTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:35",
-      "date": "10/07",
-      "timestamp": 1783701326
-    },
-    {
-      "id": "BFMTV_1783700037",
-      "source": "BFMTV",
-      "text": "L'AUTOMOBILISTE MEXICAIN TUÉ PAR L'ICE AU TEXAS N'ÉTAIT PAS LA CIBLE VISÉE PAR LA POLICE DE L'IMMIGRATION AMÉRICAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:13",
-      "date": "10/07",
-      "timestamp": 1783700037
-    },
-    {
-      "id": "BFMTV_1783698451",
-      "source": "BFMTV",
-      "text": "NUCLÉAIRE: \"IL FAUT LEVER LES SANCTIONS CONTRE L’IRAN LE PLUS VITE POSSIBLE\", ESTIME LA CHINE À L'ONU",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:47",
-      "date": "10/07",
-      "timestamp": 1783698451
-    },
-    {
-      "id": "OPEX360_1783698037",
-      "source": "OPEX360",
-      "text": "LA FRÉGATE BELGE LÉOPOLD IER EST IMMOBILISÉE DEPUIS PLUSIEURS JOURS AUX ÉTATS-UNIS À CAUSE D’AVARIES SÉRIEUSES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:40",
-      "date": "10/07",
-      "timestamp": 1783698037
     }
   ],
   "france": {
