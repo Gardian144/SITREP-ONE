@@ -1,7 +1,87 @@
 {
-  "last_update": "13/07 12:19",
+  "last_update": "13/07 15:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783954447",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE COMMANDEMENT AMÉRICAIN DIT AVOIR FRAPPÉ UNE BASE DE MAINTENANCE DE SOUS-MARINS EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:54",
+      "date": "13/07",
+      "timestamp": 1783954447
+    },
+    {
+      "id": "BFMTV_1783953814",
+      "source": "BFMTV",
+      "text": "TYPHON BAVI: LE NORD DE LA CHINE RAVAGÉ PAR DES INONDATIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:43",
+      "date": "13/07",
+      "timestamp": 1783953814
+    },
+    {
+      "id": "OPEX360_1783953495",
+      "source": "OPEX360",
+      "text": "AVANT LA FIN DE SON MANDAT, M. MACRON VA DÉVOILER UNE «VISION DE LA DÉFENSE À DIX ANS»",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:38",
+      "date": "13/07",
+      "timestamp": 1783953495
+    },
+    {
+      "id": "BFMTV_1783953006",
+      "source": "BFMTV",
+      "text": "ESPAGNE: UNE VOITURE S’ENCASTRE DANS UNE BOUCHE DE MÉTRO À MADRID ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:30",
+      "date": "13/07",
+      "timestamp": 1783953006
+    },
+    {
+      "id": "BFMTV_1783952511",
+      "source": "BFMTV",
+      "text": "INCENDIE MORTEL EN ESPAGNE: UNE FRANÇAISE FIGURE PARMI LES PREMIÈRES VICTIMES IDENTIFIÉES",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:21",
+      "date": "13/07",
+      "timestamp": 1783952511
+    },
+    {
+      "id": "BFMTV_1783950483",
+      "source": "BFMTV",
+      "text": "LE ROYAUME-UNI VA INTERDIRE LES GARDIENS DE LA RÉVOLUTION IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:48",
+      "date": "13/07",
+      "timestamp": 1783950483
+    },
+    {
+      "id": "BFMTV_1783949778",
+      "source": "BFMTV",
+      "text": "UKRAINE: EMMANUEL MACRON REÇOIT VOLODYMYR ZELENSKY AVANT LA RÉUNION DE LA COALITION DES VOLONTAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:36",
+      "date": "13/07",
+      "timestamp": 1783949778
+    },
+    {
+      "id": "BFMTV_1783946602",
+      "source": "BFMTV",
+      "text": "AU MOINS 27 MORTS DANS L'INCENDIE D'UN BAR À BANGKOK EN THAÏLANDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:43",
+      "date": "13/07",
+      "timestamp": 1783946602
+    },
     {
       "id": "BFMTV_1783944661",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "10:33",
       "date": "11/07",
       "timestamp": 1783765987
-    },
-    {
-      "id": "OPEX360_1783764199",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE POURRAIT ENGAGER DES AVIONS A400M DANS LA LUTTE CONTRE LES INCENDIES DÈS CET ÉTÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:03",
-      "date": "11/07",
-      "timestamp": 1783764199
-    },
-    {
-      "id": "BFMTV_1783761439",
-      "source": "BFMTV",
-      "text": "PLUS DE 900.000 PERSONNES ÉVACUÉES EN CHINE À L'APPROCHE DU TYPHON BAVI",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:17",
-      "date": "11/07",
-      "timestamp": 1783761439
-    },
-    {
-      "id": "BFMTV_1783761142",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: ONZE BLESSÉS DANS UNE ATTAQUE DE MISSILES RUSSES À KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:12",
-      "date": "11/07",
-      "timestamp": 1783761142
-    },
-    {
-      "id": "BFMTV_1783760656",
-      "source": "BFMTV",
-      "text": "ESPAGNE: L'INCENDIE PROGRESSE ET A DÉSORMAIS PARCOURU 6.600 HECTARES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:04",
-      "date": "11/07",
-      "timestamp": 1783760656
-    },
-    {
-      "id": "BFMTV_1783760521",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: ENVIRON 3.200 HECTARES DÉJÀ PARTIS EN FUMÉE DEPUIS JEUDI",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:02",
-      "date": "11/07",
-      "timestamp": 1783760521
-    },
-    {
-      "id": "BFMTV_1783759717",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: L'IRAN SERAIT EN TRAIN DE RECONSTRUIRE SES INSTALLATIONS NUCLÉAIRE, SELON CNN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:48",
-      "date": "11/07",
-      "timestamp": 1783759717
-    },
-    {
-      "id": "BFMTV_1783759394",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TÉHÉRAN AFFIRME AVOIR \"TENU PAROLE\" VIS-À-VIS DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:43",
-      "date": "11/07",
-      "timestamp": 1783759394
-    },
-    {
-      "id": "BFMTV_1783758400",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: 6.600 HECTARES BRÛLÉS, \"ÉVOLUTION FAVORABLE\" DU FEU PENDANT LA NUIT",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:26",
-      "date": "11/07",
-      "timestamp": 1783758400
     }
   ],
   "france": {
