@@ -1,7 +1,57 @@
 {
-  "last_update": "13/07 05:55",
+  "last_update": "13/07 09:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783933003",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: TÉHÉRAN DIT POURSUIVRE LES CONSULTATIONS AVEC LES MÉDIATEURS AFIN DE \"PRÉVENIR UNE ESCALADE\" AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:56",
+      "date": "13/07",
+      "timestamp": 1783933003
+    },
+    {
+      "id": "BFMTV_1783928856",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: JEAN-NOËL BARROT AFFIRME QU'UNE \"NOUVELLE ESCALADE\" ENTRE L'IRAN ET LES ÉTATS-UNIS \"NE FERAIT QUE DES PERDANTS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:47",
+      "date": "13/07",
+      "timestamp": 1783928856
+    },
+    {
+      "id": "BFMTV_1783925319",
+      "source": "BFMTV",
+      "text": "JEAN-NOËL BARROT ANNONCE CONVOQUER L'AMBASSADEUR DE RUSSIE EN FRANCE \"DANS LES PROCHAINS JOURS\" APRÈS \"UNE VASTE CAMPAGNE CYBER\" RUSSE",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:48",
+      "date": "13/07",
+      "timestamp": 1783925319
+    },
+    {
+      "id": "BFMTV_1783924504",
+      "source": "BFMTV",
+      "text": "THAÏLANDE: AU MOINS 27 MORTS DANS L’INCENDIE D’UN BAR DE LA BANLIEUE DE BANGKOK",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:35",
+      "date": "13/07",
+      "timestamp": 1783924504
+    },
+    {
+      "id": "BFMTV_1783923881",
+      "source": "BFMTV",
+      "text": "DE RETOUR D'UKRAINE, DIDIER FRANÇOIS, ÉDITORIALISTE DÉFENSE BFMTV, RACONTE COMMENT L'INTERVIEW AVEC VOLODYMYR ZELENSKY S'EST DÉROULÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:24",
+      "date": "13/07",
+      "timestamp": 1783923881
+    },
     {
       "id": "BFMTV_1783921884",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "04:15",
       "date": "11/07",
       "timestamp": 1783743323
-    },
-    {
-      "id": "BFMTV_1783742772",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: AU MOINS 12 MORTS ET PLUS DE 1.400 PERSONNES ÉVACUÉES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:06",
-      "date": "11/07",
-      "timestamp": 1783742772
-    },
-    {
-      "id": "BFMTV_1783742667",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: ENVIRON 3.200 HECTARES BRÛLÉS, PRÈS DE 500 POMPIERS ET MILITAIRES MOBILISÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:04",
-      "date": "11/07",
-      "timestamp": 1783742667
-    },
-    {
-      "id": "BFMTV_1783741415",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE \"DÉCIMER ET DÉTRUIRE COMPLÈTEMENT\" L'IRAN S'IL TENTE DE L'ASSASSINER",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:43",
-      "date": "11/07",
-      "timestamp": 1783741415
-    },
-    {
-      "id": "BFMTV_1783720525",
-      "source": "BFMTV",
-      "text": "LA POLICE BRITANNIQUE OUVRE UNE ENQUÊTE APRÈS LA DÉCOUVERTE DU CORPS D'ANN WIDDECOMBE, UNE ANCIENNE DÉPUTÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:55",
-      "date": "10/07",
-      "timestamp": 1783720525
-    },
-    {
-      "id": "BFMTV_1783720182",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: LE MÉGAFEU GAGNE DU TERRAIN EN ANDALOUSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:49",
-      "date": "10/07",
-      "timestamp": 1783720182
     }
   ],
   "france": {
