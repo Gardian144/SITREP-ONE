@@ -1,7 +1,67 @@
 {
-  "last_update": "13/07 15:20",
+  "last_update": "13/07 17:29",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783960481",
+      "source": "BFMTV",
+      "text": "21E PAQUET DE SANCTIONS CONTRE LA RUSSIE: \"NOUS SOMMES PROCHES D'UN ACCORD\", DÉCLARE KAJA KALLAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:34",
+      "date": "13/07",
+      "timestamp": 1783960481
+    },
+    {
+      "id": "BFMTV_1783959806",
+      "source": "BFMTV",
+      "text": "MONDIAL 2026: À LA RENCONTRE DU COIFFEUR DES BLEUS AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:23",
+      "date": "13/07",
+      "timestamp": 1783959806
+    },
+    {
+      "id": "OPEX360_1783959768",
+      "source": "OPEX360",
+      "text": "UN RAFALE F4 A RÉUSSI UN ESSAI DE COMBAT COLLABORATIF AVEC UN DRONE AUTONOME DOTÉ D’UNE CHARGE DE GUERRE ÉLECTRONIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:22",
+      "date": "13/07",
+      "timestamp": 1783959768
+    },
+    {
+      "id": "BFMTV_1783959734",
+      "source": "BFMTV",
+      "text": "APRÈS LA MORT DU SÉNATEUR LINDSEY GRAHAM, DONALD TRUMP VEUT QUE SA SOEUR ASSURE SON INTÉRIM",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:22",
+      "date": "13/07",
+      "timestamp": 1783959734
+    },
+    {
+      "id": "BFMTV_1783958841",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: QUI EST LE \"COMTE TÊTE-DE-POUBELLE\", SEUL CANDIDAT FACE AU LEADER D'EXTRÊME DROITE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:07",
+      "date": "13/07",
+      "timestamp": 1783958841
+    },
+    {
+      "id": "BFMTV_1783956299",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LES CHEFS D'ÉTAT DE LA COALITION DES VOLONTAIRES RÉUNIS À L'HÔTEL DES INVALIDES",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:24",
+      "date": "13/07",
+      "timestamp": 1783956299
+    },
     {
       "id": "BFMTV_1783954447",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "12:53",
       "date": "11/07",
       "timestamp": 1783774405
-    },
-    {
-      "id": "BFMTV_1783769076",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: DES VACANCIERS FRANÇAIS TÉMOIGNENT",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:24",
-      "date": "11/07",
-      "timestamp": 1783769076
-    },
-    {
-      "id": "BFMTV_1783768705",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE GUIDE SUPRÊME IRANIEN AFFIRME DANS UN MESSAGE QUE \"LA VENGEANCE DOIT S'ACCOMPLIR INÉVITABLEMENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:18",
-      "date": "11/07",
-      "timestamp": 1783768705
-    },
-    {
-      "id": "OPEX360_1783767478",
-      "source": "OPEX360",
-      "text": "LA BELGIQUE S’ASSOCIE AUX PAYS-BAS POUR SE DOTER DE CAPACITÉS TERRESTRES DE DÉFENSE AÉRIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:57",
-      "date": "11/07",
-      "timestamp": 1783767478
-    },
-    {
-      "id": "BFMTV_1783767099",
-      "source": "BFMTV",
-      "text": "AU MOINS 15 MORTS DANS LE CHAVIREMENT D'UN BATEAU TOURISTIQUE AU VIETNAM",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:51",
-      "date": "11/07",
-      "timestamp": 1783767099
-    },
-    {
-      "id": "BFMTV_1783766114",
-      "source": "BFMTV",
-      "text": "CHINE: DES BRUMISATEURS GÉANTS SUR LES TOITS D'IMMEUBLES RÉSIDENTIELS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:35",
-      "date": "11/07",
-      "timestamp": 1783766114
-    },
-    {
-      "id": "BFMTV_1783765987",
-      "source": "BFMTV",
-      "text": "MEXICAIN TUÉ PAR BALLES PAR L'ICE: DES TÉMOINS CONTREDISENT LA VERSION DU POLICIER AMÉRICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:33",
-      "date": "11/07",
-      "timestamp": 1783765987
     }
   ],
   "france": {
