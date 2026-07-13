@@ -1,7 +1,137 @@
 {
-  "last_update": "13/07 17:29",
+  "last_update": "13/07 18:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1783968872",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINIEN \"JE DEVAIS RESTER CAR JE SUIS PRÉSIDENT, C'EST MON BOULOT, MA RESPONSABILITÉ\", AFFIRME VOLODYMYR ZELENSKY, PRÉSIDENT UKRAINIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:54",
+      "date": "13/07",
+      "timestamp": 1783968872
+    },
+    {
+      "id": "BFMTV_1783967646",
+      "source": "BFMTV",
+      "text": " LA COALITION DES VOLONTAIRES A UNE \"FORCE MULTILATÉRALE POUR L'UKRAINE MAINTENANT PRÊTE À AGIR\", AFFIRME EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:34",
+      "date": "13/07",
+      "timestamp": 1783967646
+    },
+    {
+      "id": "BFMTV_1783967532",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON ANNONCE UN \"PROJET D'ACQUISITION DE 16 RAFALE\" PAR L'UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:32",
+      "date": "13/07",
+      "timestamp": 1783967532
+    },
+    {
+      "id": "BFMTV_1783965525",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"NOUS AVONS RÉUNI UNE COALITION NOUVELLE: LA COALITION ANTIBALISTIQUE\", DÉCLARE EMMANUEL MACRON",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:58",
+      "date": "13/07",
+      "timestamp": 1783965525
+    },
+    {
+      "id": "BFMTV_1783965114",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"NOUS AVONS DES RELATIONS PARFAITES\", ASSURE VOLODYMYR ZELENSKY À PROPOS DE SA RELATION AVEC EMMANUEL MACRON",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:51",
+      "date": "13/07",
+      "timestamp": 1783965114
+    },
+    {
+      "id": "BFMTV_1783965082",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"NOUS AVONS UN PROJET ANTIBALISTIQUE EN COURS\", ASSURE VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:51",
+      "date": "13/07",
+      "timestamp": 1783965082
+    },
+    {
+      "id": "BFMTV_1783964913",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"LA PRIORITÉ EST DE SE DÉFENDRE\", DÉTAILLE VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:48",
+      "date": "13/07",
+      "timestamp": 1783964913
+    },
+    {
+      "id": "BFMTV_1783964736",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"NOUS AVONS DÉSORMAIS L'ARMÉE LA PLUS FORTE\", DÉCLARE VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:45",
+      "date": "13/07",
+      "timestamp": 1783964736
+    },
+    {
+      "id": "BFMTV_1783964432",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"ILS ONT PERDU 150.000 HOMMES POUR 50 KILOMÈTRES\", DÉCLARE VOLODYMYR ZELENSKY À PROPOS DE LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:40",
+      "date": "13/07",
+      "timestamp": 1783964432
+    },
+    {
+      "id": "BFMTV_1783964220",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"C'EST UNE GUERRE BIEN TROP LONGUE\", DÉCLARE VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:37",
+      "date": "13/07",
+      "timestamp": 1783964220
+    },
+    {
+      "id": "BFMTV_1783964076",
+      "source": "BFMTV",
+      "text": "\"JE L'AI TROUVÉ TRÈS DÉTERMINÉ\": DIDIER FRANÇOIS RACONTE LES COULISSES DE L'INTERVIEW AVEC VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:34",
+      "date": "13/07",
+      "timestamp": 1783964076
+    },
+    {
+      "id": "BFMTV_1783964008",
+      "source": "BFMTV",
+      "text": "DOCUMENT BFMTV. VOLODYMYR ZELENSKY AFFIRME QUE L'UKRAINE A L'UNE DES ARMÉES LES \"PLUS PUISSANTES AU MONDE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:33",
+      "date": "13/07",
+      "timestamp": 1783964008
+    },
+    {
+      "id": "OPEX360_1783963956",
+      "source": "OPEX360",
+      "text": "POUR SES FUTURS F-35, LE CANADA COMMANDE DES MISSILES AIR-SOL JSM À KONGSBERG POUR PLUS DE 400 MILLIONS D’EUROS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:32",
+      "date": "13/07",
+      "timestamp": 1783963956
+    },
     {
       "id": "BFMTV_1783960481",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "17:16",
       "date": "11/07",
       "timestamp": 1783790193
-    },
-    {
-      "id": "BFMTV_1783789934",
-      "source": "BFMTV",
-      "text": "LE TÉMOIGNAGE DES HABITANTS DE LOS GALLARDOS, EN ESPAGNE, ÉVACUÉS FACE À L'AVANCÉE DU FEU",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:12",
-      "date": "11/07",
-      "timestamp": 1783789934
-    },
-    {
-      "id": "BFMTV_1783788508",
-      "source": "BFMTV",
-      "text": "UNE DÉLÉGATION AMÉRICAINE PRÉSENTE AU LIBAN POUR DISCUTER DU RETRAIT ISRAÉLIEN DE \"ZONES PILOTES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:48",
-      "date": "11/07",
-      "timestamp": 1783788508
-    },
-    {
-      "id": "BFMTV_1783788085",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: \"UNE FOIS QUE LA TRAGÉDIE PASSERA, ÇA SERA LE TEMPS DE DÉTERMINER LES RESPONSABILITÉS\", ESTIME PEDRO INIESTA RUIZ, REPRÉSENTANT DU PARTI SOCIALISTE OUVRIER ESPAGNOL EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:41",
-      "date": "11/07",
-      "timestamp": 1783788085
-    },
-    {
-      "id": "BFMTV_1783785529",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"SUR LE PLAN MILITAIRE, IL Y A UNE VÉRITABLE ESCALADE\", ESTIME ANTHONY DABILA, CHERCHEUR ASSOCIÉ À L’INSTITUT D’ÉTUDES DE STRATÉGIE ET DE DÉFENSE À LYON-III",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:58",
-      "date": "11/07",
-      "timestamp": 1783785529
-    },
-    {
-      "id": "BFMTV_1783782392",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:06",
-      "date": "11/07",
-      "timestamp": 1783782392
-    },
-    {
-      "id": "BFMTV_1783782391",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AVERTIT QU'IL NE SE CONSIDÉRERA \"PLUS TENU\" PAR L'ACCORD AVEC LES ÉTATS-UNIS EN CAS DE NOUVELLES VIOLATIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:06",
-      "date": "11/07",
-      "timestamp": 1783782391
-    },
-    {
-      "id": "BFMTV_1783781707",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS SIX MORTS ET 12 BLESSÉS DANS DES FRAPPES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:55",
-      "date": "11/07",
-      "timestamp": 1783781707
-    },
-    {
-      "id": "BFMTV_1783781105",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP SE FAIT À NOUVEAU MENAÇANT À L'ÉGARD DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:45",
-      "date": "11/07",
-      "timestamp": 1783781105
-    },
-    {
-      "id": "BFMTV_1783780298",
-      "source": "BFMTV",
-      "text": "\"C'EST ARRIVÉ COMME UNE APOCALYPSE\": DES FRANÇAIS TÉMOINS DE L'INCENDIE MEURTRIER EN ESPAGNE RACONTENT L'ARRIVÉE DES FLAMMES",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:31",
-      "date": "11/07",
-      "timestamp": 1783780298
-    },
-    {
-      "id": "BFMTV_1783776570",
-      "source": "BFMTV",
-      "text": "\"L'HISTOIRE QUI S'ÉCRIT SOUS NOS YEUX\": LE RAPPEUR PITBULL ÉTABLIT UN RECORD DU MONDE DU PLUS GRAND RASSEMBLEMENT DE FAUX CRÂNES CHAUVES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:29",
-      "date": "11/07",
-      "timestamp": 1783776570
-    },
-    {
-      "id": "BFMTV_1783775311",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: \"J'AI DÛ PRATIQUEMENT TRAVERSER LES FLAMMES\", RACONTE UNE FRANÇAISE INSTALLÉE PRÈS DE LOS GALLARDOS",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:08",
-      "date": "11/07",
-      "timestamp": 1783775311
-    },
-    {
-      "id": "OPEX360_1783775184",
-      "source": "OPEX360",
-      "text": "LA MARINE NATIONALE VALIDE UNE NOUVELLE CONFIGURATION DU RAFALE M F4 À DEUX BOMBES AASM DE 1 000 KG",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:06",
-      "date": "11/07",
-      "timestamp": 1783775184
-    },
-    {
-      "id": "BFMTV_1783774405",
-      "source": "BFMTV",
-      "text": "\"C'EST ARRIVÉ COMMUNE UNE APOCALYPSE\": DES FRANÇAIS TÉMOINS DE L'INCENDIE MEURTRIER EN ESPAGNE RACONTENT L'ARRIVÉE DES FLAMMES",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:53",
-      "date": "11/07",
-      "timestamp": 1783774405
     }
   ],
   "france": {
