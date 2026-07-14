@@ -1,7 +1,57 @@
 {
-  "last_update": "14/07 18:17",
+  "last_update": "14/07 19:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784058228",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE AVOIR LANCÉ UNE NOUVELLE SALVE DE FRAPPES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:43",
+      "date": "14/07",
+      "timestamp": 1784058228
+    },
+    {
+      "id": "BFMTV_1784057115",
+      "source": "BFMTV",
+      "text": "LE MEURTRE D'ANN WIDDECOMBE, DÉPUTÉE CONSERVATRICE BRITANNIQUE, ÉTAIT UNE \"ATTAQUE CIBLÉE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:25",
+      "date": "14/07",
+      "timestamp": 1784057115
+    },
+    {
+      "id": "BFMTV_1784055415",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI:  LA POLICE ANTITERRORISTE ENQUÊTE SUR LE MEURTRE D’UNE ANCIENNE DÉPUTÉE CONSERVATRICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:56",
+      "date": "14/07",
+      "timestamp": 1784055415
+    },
+    {
+      "id": "BFMTV_1784054752",
+      "source": "BFMTV",
+      "text": "BFMTV A SUIVI LE 1ER RÉGIMENT DE CHASSEURS PARACHUTISTES, UNE UNITÉ D'ÉLITE HISTORIQUE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:45",
+      "date": "14/07",
+      "timestamp": 1784054752
+    },
+    {
+      "id": "BFMTV_1784053581",
+      "source": "BFMTV",
+      "text": "ALORS QUE LES TENSIONS S'ACCROISSENT EN MER, LA MARINE NATIONALE DÉVELOPPE DES FRÉGATES SPÉCIALISÉES DANS LA LUTTE ANTI-SOUS-MARINE",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:26",
+      "date": "14/07",
+      "timestamp": 1784053581
+    },
     {
       "id": "BFMTV_1784050912",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "17:42",
       "date": "12/07",
       "timestamp": 1783878140
-    },
-    {
-      "id": "BFMTV_1783876362",
-      "source": "BFMTV",
-      "text": "APRÈS DE NOUVELLES FRAPPES AMÉRICAINES, L'IRAN RIPOSTE EN FRAPPANT LE KOWEÏT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:12",
-      "date": "12/07",
-      "timestamp": 1783876362
-    },
-    {
-      "id": "BFMTV_1783876056",
-      "source": "BFMTV",
-      "text": "\"UN CHANGEMENT DE STRATÉGIE POLITIQUE\": VOLODYMYR ZELENSKY ANNONCE UN REMANIEMENT DE SON GOUVERNEMENT ET LE DÉPART DE SA PREMIÈRE MINISTRE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:07",
-      "date": "12/07",
-      "timestamp": 1783876056
-    },
-    {
-      "id": "BFMTV_1783875957",
-      "source": "BFMTV",
-      "text": "UN CONDUCTEUR RENVERSE ET TUE SIX PERSONNES SUR UN MARCHÉ À VIÑA DEL MAR AU CHILI",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:05",
-      "date": "12/07",
-      "timestamp": 1783875957
-    },
-    {
-      "id": "BFMTV_1783874752",
-      "source": "BFMTV",
-      "text": "DES FRAPPES AMÉRICAINES SONT EN COURS À PROXIMITÉ DU DÉTROIT D'ORMUZ SELON LA PRESSE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:45",
-      "date": "12/07",
-      "timestamp": 1783874752
-    },
-    {
-      "id": "BFMTV_1783874158",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ASSURE QUE LES ÉTATS-UNIS ONT FRAPPÉ L'IRAN \"TRÈS FORT\" LA NUIT DERNIÈRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:35",
-      "date": "12/07",
-      "timestamp": 1783874158
     }
   ],
   "france": {
