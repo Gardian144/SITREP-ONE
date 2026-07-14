@@ -1,7 +1,17 @@
 {
-  "last_update": "14/07 14:12",
+  "last_update": "14/07 15:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784038561",
+      "source": "BFMTV",
+      "text": "LA PREMIÈRE MINISTRE UKRAINIENNE DÉMISSIONNE DANS LE CADRE D'UN REMANIEMENT ORDONNÉ PAR VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:16",
+      "date": "14/07",
+      "timestamp": 1784038561
+    },
     {
       "id": "BFMTV_1784038238",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:00",
       "date": "12/07",
       "timestamp": 1783872029
-    },
-    {
-      "id": "BFMTV_1783870067",
-      "source": "BFMTV",
-      "text": "APRÈS DE NOUVELLES FRAPPES AMÉRICAINES EN IRAN, TÉHÉRAN RIPOSTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:27",
-      "date": "12/07",
-      "timestamp": 1783870067
     }
   ],
   "france": {
