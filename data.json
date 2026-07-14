@@ -1,7 +1,47 @@
 {
-  "last_update": "14/07 06:33",
+  "last_update": "14/07 08:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784018082",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UN NAVIRE TOUCHÉ PAR UN MISSILE AU LARGE D'OMAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:34",
+      "date": "14/07",
+      "timestamp": 1784018082
+    },
+    {
+      "id": "BFMTV_1784017228",
+      "source": "BFMTV",
+      "text": "14-JUILLET: LE PRÉSIDENT UKRAINIEN VOLODYMYR ZELENSKY EST ARRIVÉ EN TRIBUNE PRÉSIDENTIELLE, APPLAUDI PAR L'ENSEMBLE DES INVITÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:20",
+      "date": "14/07",
+      "timestamp": 1784017228
+    },
+    {
+      "id": "BFMTV_1784014160",
+      "source": "BFMTV",
+      "text": "LA MINISTRE DES ARMÉES CATHERINE VAUTRIN AFFIRME QUE LA RUSSIE EST \"UNE MENACE POUR L'EUROPE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:29",
+      "date": "14/07",
+      "timestamp": 1784014160
+    },
+    {
+      "id": "BFMTV_1784012018",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"NOTRE VOLONTÉ, C'EST DE TOUT FAIRE POUR LE CESSEZ-LE FEU ET LA LIBERTÉ DE NAVIGATION\", ASSURE CATHERINE VAUTRIN, MINISTRE DES ARMÉES",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:53",
+      "date": "14/07",
+      "timestamp": 1784012018
+    },
     {
       "id": "BFMTV_1784010323",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "09:38",
       "date": "12/07",
       "timestamp": 1783849106
-    },
-    {
-      "id": "BFMTV_1783848798",
-      "source": "BFMTV",
-      "text": "\"CIRCONSCRIT ET TENU\": L'INCENDIE QUI A FAIT AU MOINS 12 MORTS EN ESPAGNE EST DÉSORMAIS \"STABILISÉ\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:33",
-      "date": "12/07",
-      "timestamp": 1783848798
-    },
-    {
-      "id": "BFMTV_1783848176",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: FACE À LA MONTÉE DES TENSIONS ENTRE L'IRAN ET LES ÉTATS-UNIS, LES ISRAÉLIENS RESTENT POUR LE MOMENT EN RETRAIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:22",
-      "date": "12/07",
-      "timestamp": 1783848176
-    },
-    {
-      "id": "BFMTV_1783847996",
-      "source": "BFMTV",
-      "text": "FERMETURE DU DÉTROIT D'ORMUZ, FRAPPES AMÉRICAINES... NOUVELLE REPRISE DES HOSTILITÉS ENTRE ÉTATS-UNIS ET IRAN APRÈS UN FRAGILE CESSEZ-LE-FEU",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:19",
-      "date": "12/07",
-      "timestamp": 1783847996
-    },
-    {
-      "id": "BFMTV_1783847333",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ON EST DANS UNE HISTOIRE QUI SEMBLE SANS FIN\", EXPLIQUE SÉBASTIEN BOUSSOIS, CHERCHEUR SUR LE MOYEN-ORIENT ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:08",
-      "date": "12/07",
-      "timestamp": 1783847333
     }
   ],
   "france": {
