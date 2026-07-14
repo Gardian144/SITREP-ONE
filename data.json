@@ -1,7 +1,57 @@
 {
-  "last_update": "14/07 12:02",
+  "last_update": "14/07 14:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784038238",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS LANCENT UNE OFFENSIVE CONTRE LA COUR PÉNALE INTERNATIONALE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:10",
+      "date": "14/07",
+      "timestamp": 1784038238
+    },
+    {
+      "id": "BFMTV_1784036113",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU ASSURE QU'ISRAËL RIPOSTERA EN CAS D'ATTAQUE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:35",
+      "date": "14/07",
+      "timestamp": 1784036113
+    },
+    {
+      "id": "BFMTV_1784035128",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN HOMME DE 26 ANS TUÉ PAR UN AGENT DE L'ICE CE 13 JUILLET",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:18",
+      "date": "14/07",
+      "timestamp": 1784035128
+    },
+    {
+      "id": "BFMTV_1784033707",
+      "source": "BFMTV",
+      "text": "\"UNE MARIONNETTE\": LES DÉPUTÉS HONGROIS VOTENT UNE MODIFICATION DE LA CONSTITUTION POUR METTRE FIN AU MANDAT DU PRÉSIDENT PRO-ORBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:55",
+      "date": "14/07",
+      "timestamp": 1784033707
+    },
+    {
+      "id": "BFMTV_1784032562",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: JUIN 2026 A ÉTÉ LE MOIS LE PLUS MEURTRIER POUR LES CIVILS DEPUIS PLUS DE 4 ANS, SELON L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:36",
+      "date": "14/07",
+      "timestamp": 1784032562
+    },
     {
       "id": "BFMTV_1784028262",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "15:27",
       "date": "12/07",
       "timestamp": 1783870067
-    },
-    {
-      "id": "BFMTV_1783869688",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: \"DES CORPS ONT ÉTÉ TROUVÉS, ILS SONT EN TRAIN D'ÊTRE IDENTIFIÉS\", EXPLIQUE ÉLÉONORE CAROIT, MINISTRE DÉLÉGUÉE CHARGÉE DE LA FRANCOPHONIE ET DES FRANÇAIS DE L'ÉTRANGER",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:21",
-      "date": "12/07",
-      "timestamp": 1783869688
-    },
-    {
-      "id": "BFMTV_1783869196",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL PRÊT À FRAPPER L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:13",
-      "date": "12/07",
-      "timestamp": 1783869196
-    },
-    {
-      "id": "BFMTV_1783869128",
-      "source": "BFMTV",
-      "text": "UN JOURNAL IRANIEN PUBLIE UNE LISTE DE DIRIGEANTS QU'IL ESTIME RESPONSABLES DE LA MORT DE KHAMENEI, DONT EMMANUEL MACRON ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:12",
-      "date": "12/07",
-      "timestamp": 1783869128
-    },
-    {
-      "id": "BFMTV_1783867653",
-      "source": "BFMTV",
-      "text": "INCENDIES: \"EN FRANCE, C'EST LE PRÉFET QUI PEUT DÉCLENCHER CE DISPOSITIF\" FR-ALERT",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:47",
-      "date": "12/07",
-      "timestamp": 1783867653
-    },
-    {
-      "id": "BFMTV_1783867237",
-      "source": "BFMTV",
-      "text": "\"PERSONNE N'A REÇU D'ALERTE OFFICIELLE\", TÉMOIGNE LE FILS D'UNE VICTIME BELGE DE L'INCENDIE EN ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:40",
-      "date": "12/07",
-      "timestamp": 1783867237
     }
   ],
   "france": {
