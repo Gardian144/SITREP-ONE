@@ -1,7 +1,67 @@
 {
-  "last_update": "14/07 08:54",
+  "last_update": "14/07 10:44",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1784025451",
+      "source": "OPEX360",
+      "text": "L’US NAVY A UTILISÉ DES DRONES DE SURFACE POUR ATTAQUER UNE BASE NAVALE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:37",
+      "date": "14/07",
+      "timestamp": 1784025451
+    },
+    {
+      "id": "BFMTV_1784024432",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA VILLE PORTUAIRE DE BOUCHEHR EN IRAN VISÉE PAR DES FRAPPES \"ENNEMIES\", SELON LES AUTORITÉS LOCALES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:20",
+      "date": "14/07",
+      "timestamp": 1784024432
+    },
+    {
+      "id": "BFMTV_1784023516",
+      "source": "BFMTV",
+      "text": "\"SOMNIFÈRES ASSOCIÉS À L'ALCOOL\": UN ALLEMAND DE 68 ANS ACCUSÉ DE 22 VIOLS, FILMÉS ET PAR SOUMISSION CHIMIQUE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:05",
+      "date": "14/07",
+      "timestamp": 1784023516
+    },
+    {
+      "id": "BFMTV_1784023360",
+      "source": "BFMTV",
+      "text": "ANDY BURNHAM DÉSORMAIS ASSURÉ DE DEVENIR PREMIER MINISTRE DU ROYAUME-UNI POUR SUCCÉDER À KEIR STARMER",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:02",
+      "date": "14/07",
+      "timestamp": 1784023360
+    },
+    {
+      "id": "BFMTV_1784022916",
+      "source": "BFMTV",
+      "text": "DES JOURNALISTES ATTAQUÉS PAR DES COLONS ISRAÉLIENS EN CISJORDANIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:55",
+      "date": "14/07",
+      "timestamp": 1784022916
+    },
+    {
+      "id": "OPEX360_1784020822",
+      "source": "OPEX360",
+      "text": "PARIS ET KIEV S’ENTENDENT SUR UNE «FEUILLE DE ROUTE» POUR LIVRER 16 RAFALE À LA FORCE AÉRIENNE UKRAINIENNE EN 2028/29",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:20",
+      "date": "14/07",
+      "timestamp": 1784020822
+    },
     {
       "id": "BFMTV_1784018082",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "13:45",
       "date": "12/07",
       "timestamp": 1783863926
-    },
-    {
-      "id": "BFMTV_1783863570",
-      "source": "BFMTV",
-      "text": "\"L'IRAN NE CONTRÔLE PAS LE DÉTROIT\": L'ARMÉE AMÉRICAINE AFFIRME QU'ORMUZ EST \"OUVERT\", MALGRÉ L'ANNONCE FAITE PAR TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:39",
-      "date": "12/07",
-      "timestamp": 1783863570
-    },
-    {
-      "id": "OPEX360_1783854555",
-      "source": "OPEX360",
-      "text": "LE 35E RÉGIMENT D’ARTILLERIE PARACHUTISTE VA INSTALLER LE SYSTÈME ANTIDRONE PROTEUS SUR UN VÉHICULE LÉGER DE TYPE FARDIER",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:09",
-      "date": "12/07",
-      "timestamp": 1783854555
-    },
-    {
-      "id": "OPEX360_1783850934",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE VALIDE LE RAVITAILLEMENT EN VOL DE NUIT DU MIRAGE 2000D PAR LE KC-130J HERCULES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:08",
-      "date": "12/07",
-      "timestamp": 1783850934
-    },
-    {
-      "id": "BFMTV_1783850048",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE DÉTROIT D'ORMUZ \"PLUS IMPORTANT\" QUE DES \"BOMBES ATOMIQUES\", SELON LE CONSEILLER MILITAIRE DE GUIDE SUPRÊME IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:54",
-      "date": "12/07",
-      "timestamp": 1783850048
-    },
-    {
-      "id": "BFMTV_1783849284",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: LES IMAGES DES DÉGÂTS CAUSÉS PAR LES FLAMMES EN ANDALOUSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:41",
-      "date": "12/07",
-      "timestamp": 1783849284
-    },
-    {
-      "id": "BFMTV_1783849106",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: LE FEU QUI A FAIT AU MOINS12 MORTS DÉSORMAIS \"STABILISÉ\", SELON LES AUTORITÉS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:38",
-      "date": "12/07",
-      "timestamp": 1783849106
     }
   ],
   "france": {
