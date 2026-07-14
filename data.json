@@ -1,7 +1,27 @@
 {
-  "last_update": "14/07 20:58",
+  "last_update": "14/07 22:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784065883",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE AVOIR LANCÉ UNE NOUVELLE SALVE DE FRAPPES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:51",
+      "date": "14/07",
+      "timestamp": 1784065883
+    },
+    {
+      "id": "BFMTV_1784062876",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DES DRONES AQUATIQUES INAUGURÉS PAR LES ÉTATS-UNIS CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:01",
+      "date": "14/07",
+      "timestamp": 1784062876
+    },
     {
       "id": "BFMTV_1784062217",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "19:08",
       "date": "12/07",
       "timestamp": 1783883317
-    },
-    {
-      "id": "BFMTV_1783882645",
-      "source": "BFMTV",
-      "text": "L'ANCIEN COMMISSAIRE EUROPÉEN, THIERRY BRETON ESTIME QUE LA SITUATION DANS LE DÉTROIT D'ORMUZ N'EST \"CERTAINEMENT PAS UNE REPRISE DE LA GUERRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:57",
-      "date": "12/07",
-      "timestamp": 1783882645
-    },
-    {
-      "id": "BFMTV_1783880759",
-      "source": "BFMTV",
-      "text": "LES PROPOS RACISTES DE L’ANCIEN PREMIER MINISTRE ESPAGNOL MARIANO RAJOY SUR LES BLEUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:25",
-      "date": "12/07",
-      "timestamp": 1783880759
     }
   ],
   "france": {
