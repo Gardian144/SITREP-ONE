@@ -1,7 +1,27 @@
 {
-  "last_update": "14/07 19:50",
+  "last_update": "14/07 20:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784062217",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: D'IMPORTANTES TRACTATIONS EN COURS À LA MAISON-BLANCHE TANDIS QUE L'ARMÉE AMÉRICAINE FRAPPE L'IRAN POUR LA TROISIÈME NUIT CONSÉCUTIVE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:50",
+      "date": "14/07",
+      "timestamp": 1784062217
+    },
+    {
+      "id": "BFMTV_1784061875",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP RÉTABLIT UN BLOCUS SUR LES PORTS IRANIENS, L'IRAN ACCUSE LES ÉTATS-UNIS D'AVOIR \"DÉMANTELÉ\" LE PROTOCOLE D'ACCORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:44",
+      "date": "14/07",
+      "timestamp": 1784061875
+    },
     {
       "id": "BFMTV_1784058228",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "18:25",
       "date": "12/07",
       "timestamp": 1783880759
-    },
-    {
-      "id": "BFMTV_1783880481",
-      "source": "BFMTV",
-      "text": "\"LA GUERRE N'A JAMAIS VÉRITABLEMENT CESSÉ\", ESTIME BRUNO TERTRAIS, DIRECTEUR ADJOINT DE LA FONDATION POUR LA RECHERCHE STRATÉGIQUE, À PROPOS DE LA GUERRE ENTRE L'IRAN ET LES ÉTATS-UNIS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:21",
-      "date": "12/07",
-      "timestamp": 1783880481
-    },
-    {
-      "id": "BFMTV_1783878140",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS FRAPPENT À NOUVEAU L'IRAN QUI RÉPLIQUE SUR LES PAYS VOISINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:42",
-      "date": "12/07",
-      "timestamp": 1783878140
     }
   ],
   "france": {
