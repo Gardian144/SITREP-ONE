@@ -1,7 +1,17 @@
 {
-  "last_update": "14/07 04:16",
+  "last_update": "14/07 06:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784010323",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: FRAPPES AMÉRICAINES POUR LA TROISIÈME NUIT DE SUITE, DONALD TRUMP SUGGÈRE QU'UN ACCORD EST ENCORE \"POSSIBLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:25",
+      "date": "14/07",
+      "timestamp": 1784010323
+    },
     {
       "id": "BFMTV_1783981119",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:08",
       "date": "12/07",
       "timestamp": 1783847333
-    },
-    {
-      "id": "BFMTV_1783846694",
-      "source": "BFMTV",
-      "text": "DES JOURNALISTES DU NEW YORK TIMES ASSIGNÉS À COMPARAÎTRE APRÈS DES ARTICLES SUR L'AIR FORCE ONE DE DONALD TRUMP OFFERT PAR LE QATAR",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:58",
-      "date": "12/07",
-      "timestamp": 1783846694
     }
   ],
   "france": {
