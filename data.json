@@ -1,7 +1,17 @@
 {
-  "last_update": "15/07 16:50",
+  "last_update": "15/07 18:06",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1784136020",
+      "source": "OPEX360",
+      "text": "DESTINÉ À L’ALLEMAGNE, LE PREMIER EUROFIGHTER EF2000 PORTÉ AU STANDARD «QUADRIGA» A EFFECTUÉ SON VOL INAUGURAL",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:20",
+      "date": "15/07",
+      "timestamp": 1784136020
+    },
     {
       "id": "BFMTV_1784133520",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:07",
       "date": "13/07",
       "timestamp": 1783958841
-    },
-    {
-      "id": "BFMTV_1783956299",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES CHEFS D'ÉTAT DE LA COALITION DES VOLONTAIRES RÉUNIS À L'HÔTEL DES INVALIDES",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:24",
-      "date": "13/07",
-      "timestamp": 1783956299
     }
   ],
   "france": {
