@@ -1,7 +1,37 @@
 {
-  "last_update": "15/07 15:25",
+  "last_update": "15/07 16:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784133520",
+      "source": "BFMTV",
+      "text": "URSULA VON DER LEYEN ANNONCE UN PARTENARIAT ENTRE L'UE ET L'UKRAINE SUR LES DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:38",
+      "date": "15/07",
+      "timestamp": 1784133520
+    },
+    {
+      "id": "BFMTV_1784132118",
+      "source": "BFMTV",
+      "text": "UN AVION INFESTÉ DE MOUSTIQUES EN ITALIE, LES PASSAGERS CHANGENT D'APPAREIL",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:15",
+      "date": "15/07",
+      "timestamp": 1784132118
+    },
+    {
+      "id": "OPEX360_1784131502",
+      "source": "OPEX360",
+      "text": "DIX PAYS EUROPÉENS, DONT LA FRANCE, CRÉENT UNE «COALITION INTÉGRÉE» CONTRE LA MENACE DES MISSILES BALISTIQUES",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:05",
+      "date": "15/07",
+      "timestamp": 1784131502
+    },
     {
       "id": "BFMTV_1784127938",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "15:24",
       "date": "13/07",
       "timestamp": 1783956299
-    },
-    {
-      "id": "BFMTV_1783954447",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE COMMANDEMENT AMÉRICAIN DIT AVOIR FRAPPÉ UNE BASE DE MAINTENANCE DE SOUS-MARINS EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:54",
-      "date": "13/07",
-      "timestamp": 1783954447
-    },
-    {
-      "id": "BFMTV_1783953814",
-      "source": "BFMTV",
-      "text": "TYPHON BAVI: LE NORD DE LA CHINE RAVAGÉ PAR DES INONDATIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:43",
-      "date": "13/07",
-      "timestamp": 1783953814
-    },
-    {
-      "id": "OPEX360_1783953495",
-      "source": "OPEX360",
-      "text": "AVANT LA FIN DE SON MANDAT, M. MACRON VA DÉVOILER UNE «VISION DE LA DÉFENSE À DIX ANS»",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:38",
-      "date": "13/07",
-      "timestamp": 1783953495
     }
   ],
   "france": {
