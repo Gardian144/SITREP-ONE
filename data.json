@@ -1,7 +1,47 @@
 {
-  "last_update": "15/07 08:28",
+  "last_update": "15/07 10:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784110070",
+      "source": "BFMTV",
+      "text": "\"IL A OUVERT LE RÉFRIGÉRATEUR\": UNE FAMILLE SE RETROUVE NEZ À NEZ AVEC UN OURS DANS SA CUISINE AU JAPON",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:07",
+      "date": "15/07",
+      "timestamp": 1784110070
+    },
+    {
+      "id": "BFMTV_1784107909",
+      "source": "BFMTV",
+      "text": "UNE AMÉRICAINE POURSUIVIE POUR AVOIR ÉTOUFFÉ SES JUMEAUX ÂGÉS DE 18 MOIS, APRÈS AVOIR ATTRIBUÉ LEUR MORT AUX VACCINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:31",
+      "date": "15/07",
+      "timestamp": 1784107909
+    },
+    {
+      "id": "BFMTV_1784107288",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS: LE DISPOSITIF AMÉRICAIN POUR CONTRÔLER LE PASSAGE DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:21",
+      "date": "15/07",
+      "timestamp": 1784107288
+    },
+    {
+      "id": "BFMTV_1784106281",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: NOUVELLES FRAPPES AMÉRICAINES SUR BOUCHEHR, BAHREÏN DIT AVOIR CONTRÉ DES TIRS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:04",
+      "date": "15/07",
+      "timestamp": 1784106281
+    },
     {
       "id": "BFMTV_1784103895",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "06:48",
       "date": "13/07",
       "timestamp": 1783925319
-    },
-    {
-      "id": "BFMTV_1783924504",
-      "source": "BFMTV",
-      "text": "THAÏLANDE: AU MOINS 27 MORTS DANS L’INCENDIE D’UN BAR DE LA BANLIEUE DE BANGKOK",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:35",
-      "date": "13/07",
-      "timestamp": 1783924504
-    },
-    {
-      "id": "BFMTV_1783923881",
-      "source": "BFMTV",
-      "text": "DE RETOUR D'UKRAINE, DIDIER FRANÇOIS, ÉDITORIALISTE DÉFENSE BFMTV, RACONTE COMMENT L'INTERVIEW AVEC VOLODYMYR ZELENSKY S'EST DÉROULÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:24",
-      "date": "13/07",
-      "timestamp": 1783923881
-    },
-    {
-      "id": "BFMTV_1783921884",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: LES ÉTATS-UNIS MÈNENT UNE NOUVELLE SALVE DE FRAPPES CONTRE \"DES DIZAINES DE CIBLES\", TÉHÉRAN VISE PLUSIEURS BASES AMÉRICAINES AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:51",
-      "date": "13/07",
-      "timestamp": 1783921884
-    },
-    {
-      "id": "BFMTV_1783921413",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS JUSTIFIENT LES FRAPPES CONTRE L'IRAN POUR ASSURER \"LA SÉCURITÉ ET LA LIBERTÉ\" DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:43",
-      "date": "13/07",
-      "timestamp": 1783921413
     }
   ],
   "france": {
