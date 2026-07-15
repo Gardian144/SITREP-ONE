@@ -1,7 +1,87 @@
 {
-  "last_update": "15/07 03:33",
+  "last_update": "15/07 05:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784093323",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE FRAPPER DES CENTRALES ÉLECTRIQUES EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:28",
+      "date": "15/07",
+      "timestamp": 1784093323
+    },
+    {
+      "id": "BFMTV_1784092634",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE LE DÉTROIT D'ORMUZ RESTERAIT FERMÉ JUSQU'À LA FIN DES \"ACTES D'AGRESSION\" AMÉRICAINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:17",
+      "date": "15/07",
+      "timestamp": 1784092634
+    },
+    {
+      "id": "BFMTV_1784090476",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ANNONCE QUE LE DÉTROIT D'ORMUZ RESTERA FERMÉ JUSQU'À LA FIN DES \"ACTES D'AGRESSION\" AMÉRICAINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:41",
+      "date": "15/07",
+      "timestamp": 1784090476
+    },
+    {
+      "id": "BFMTV_1784090142",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE FRAPPER DES CENTRALES ÉLECTRIQUES EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:35",
+      "date": "15/07",
+      "timestamp": 1784090142
+    },
+    {
+      "id": "BFMTV_1784089348",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE FRAPPER DES CENTRALES ÉLECTRIQUES EN IRAN, TÉHÉRAN NE RELÂCHE PAS LA PRESSION SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:22",
+      "date": "15/07",
+      "timestamp": 1784089348
+    },
+    {
+      "id": "BFMTV_1784089175",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DÉTROIT D'ORMUZ BLOQUÉ, RAIDS AMÉRICAINS ET RIPOSTE IRANIENNE... LA TENSION MONTE ENTRE TÉHÉRAN ET WASHINGTON",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:19",
+      "date": "15/07",
+      "timestamp": 1784089175
+    },
+    {
+      "id": "BFMTV_1784089031",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ONT LANCÉ \"UNE NOUVELLE SÉRIE DE FRAPPES CONTRE L’IRAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:17",
+      "date": "15/07",
+      "timestamp": 1784089031
+    },
+    {
+      "id": "BFMTV_1784088360",
+      "source": "BFMTV",
+      "text": "\"TOUTES LES PROMESSES SE SONT TRÈS VITE DÉGONFLÉES\": QUE DEVIENT LE CONSEIL DE LA PAIX CRÉÉ PAR DONALD TRUMP IL Y A SIX MOIS?",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:06",
+      "date": "15/07",
+      "timestamp": 1784088360
+    },
     {
       "id": "BFMTV_1784067186",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "04:42",
       "date": "13/07",
       "timestamp": 1783917740
-    },
-    {
-      "id": "BFMTV_1783917740",
-      "source": "BFMTV",
-      "text": "DOCUMENT BFMTV. \"LES FRANÇAIS COMPRENNENT L'UKRAINE\": VOLODYMYR ZELENSKY SALUE L'ENGAGEMENT DE LA FRANCE POUR PARVENIR À \"UNE PAIX SÛRE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:42",
-      "date": "13/07",
-      "timestamp": 1783917740
-    },
-    {
-      "id": "BFMTV_1783917489",
-      "source": "BFMTV",
-      "text": "VOLODYMIR ZELENSKY: INTERVIEW EXCLUSIVE DU PRÉSIDENT UKRAINIEN CE LUNDI À 19H SUR BFMTV. ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:38",
-      "date": "13/07",
-      "timestamp": 1783917489
-    },
-    {
-      "id": "BFMTV_1783916723",
-      "source": "BFMTV",
-      "text": "EN THAÏLANDE, AU MOINS 27 MORTS DANS L'INCENDIE D'UN BAR DE LA BANLIEUE DE BANGKOK",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:25",
-      "date": "13/07",
-      "timestamp": 1783916723
-    },
-    {
-      "id": "BFMTV_1783916410",
-      "source": "BFMTV",
-      "text": "MONDIAL: L’ANCIEN PREMIER MINISTRE ESPAGNOL MARIANO RAJOY DÉCLARE QU'IL N'Y \"A PAS DE FRANÇAIS\" DANS L'ÉQUIPE DES BLEUS",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:20",
-      "date": "13/07",
-      "timestamp": 1783916410
-    },
-    {
-      "id": "BFMTV_1783916193",
-      "source": "BFMTV",
-      "text": "L'INCENDIE QUI A FAIT AU MOINS 12 MORTS EN ESPAGNE EST DÉSORMAIS \"STABILISÉ\" PAR LES POMPIERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:16",
-      "date": "13/07",
-      "timestamp": 1783916193
-    },
-    {
-      "id": "BFMTV_1783888676",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE : LE BILAN S'ALOURDIT À 13 MORTS APRÈS LE DÉCÈS D'UNE BRITANNIQUE À L'HÔPITAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:37",
-      "date": "12/07",
-      "timestamp": 1783888676
-    },
-    {
-      "id": "BFMTV_1783887500",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: DES CENTAINES DE PERSONNES ÉVACUÉES ONT PU REGAGNER LEUR DOMICILE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:18",
-      "date": "12/07",
-      "timestamp": 1783887500
-    },
-    {
-      "id": "BFMTV_1783886959",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: QU'EST-CE QUE LE CONCEPT D'ESCALADE HORIZONTALE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:09",
-      "date": "12/07",
-      "timestamp": 1783886959
     }
   ],
   "france": {
