@@ -1,7 +1,67 @@
 {
-  "last_update": "15/07 13:54",
+  "last_update": "15/07 15:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784127938",
+      "source": "BFMTV",
+      "text": "MONDIAL: DES SUPPORTERS ARGENTINS SE BATTENT ENTRE EUX AVANT ANGLETERRE - ARGENTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:05",
+      "date": "15/07",
+      "timestamp": 1784127938
+    },
+    {
+      "id": "BFMTV_1784127568",
+      "source": "BFMTV",
+      "text": "\"REPRENEZ VOTRE TRAVAIL\": DONALD TRUMP DEMANDE À L'ICE DE MAINTENIR SES CONTRÔLES ROUTIERS, SUSPENDUS APRÈS LA MORT DE DEUX PERSONNES",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:59",
+      "date": "15/07",
+      "timestamp": 1784127568
+    },
+    {
+      "id": "BFMTV_1784127051",
+      "source": "BFMTV",
+      "text": "JUDE BELLINGHAM, \"SOUTIEN\" À SON PRÉDECESSEUR... LES ADIEUX DE KEIR STARMER AU PARLEMENT BRITANNIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:50",
+      "date": "15/07",
+      "timestamp": 1784127051
+    },
+    {
+      "id": "BFMTV_1784126010",
+      "source": "BFMTV",
+      "text": "JOE BIDEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:33",
+      "date": "15/07",
+      "timestamp": 1784126010
+    },
+    {
+      "id": "BFMTV_1784126009",
+      "source": "BFMTV",
+      "text": "JOE BIDEN, ATTEINT D'UN CANCER \"AGRESSIF\" DE LA PROSTATE, ASSURE QUE SON TRAITEMENT SE DÉROULE \"VRAIMENT BIEN\" ET ANNONCE LA SORTIE D'UN LIVRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:33",
+      "date": "15/07",
+      "timestamp": 1784126009
+    },
+    {
+      "id": "OPEX360_1784124416",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT SALUE LE SUCCÈS DE LA PREMIÈRE CAMPAGNE DE TIRS EFFECTUÉE PAR L’HÉLICOPTÈRE GUÉPARD",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:06",
+      "date": "15/07",
+      "timestamp": 1784124416
+    },
     {
       "id": "BFMTV_1784122636",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "14:38",
       "date": "13/07",
       "timestamp": 1783953495
-    },
-    {
-      "id": "BFMTV_1783953006",
-      "source": "BFMTV",
-      "text": "ESPAGNE: UNE VOITURE S’ENCASTRE DANS UNE BOUCHE DE MÉTRO À MADRID ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:30",
-      "date": "13/07",
-      "timestamp": 1783953006
-    },
-    {
-      "id": "BFMTV_1783952511",
-      "source": "BFMTV",
-      "text": "INCENDIE MORTEL EN ESPAGNE: UNE FRANÇAISE FIGURE PARMI LES PREMIÈRES VICTIMES IDENTIFIÉES",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:21",
-      "date": "13/07",
-      "timestamp": 1783952511
-    },
-    {
-      "id": "BFMTV_1783950483",
-      "source": "BFMTV",
-      "text": "LE ROYAUME-UNI VA INTERDIRE LES GARDIENS DE LA RÉVOLUTION IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:48",
-      "date": "13/07",
-      "timestamp": 1783950483
-    },
-    {
-      "id": "BFMTV_1783949778",
-      "source": "BFMTV",
-      "text": "UKRAINE: EMMANUEL MACRON REÇOIT VOLODYMYR ZELENSKY AVANT LA RÉUNION DE LA COALITION DES VOLONTAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:36",
-      "date": "13/07",
-      "timestamp": 1783949778
-    },
-    {
-      "id": "BFMTV_1783946602",
-      "source": "BFMTV",
-      "text": "AU MOINS 27 MORTS DANS L'INCENDIE D'UN BAR À BANGKOK EN THAÏLANDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:43",
-      "date": "13/07",
-      "timestamp": 1783946602
-    },
-    {
-      "id": "BFMTV_1783944661",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: UNE AGENCE DE PRESSE IRANIENNE FAIT ÉTAT D'EXPLOSIONS PRÈS DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:11",
-      "date": "13/07",
-      "timestamp": 1783944661
     }
   ],
   "france": {
