@@ -1,7 +1,37 @@
 {
-  "last_update": "15/07 18:06",
+  "last_update": "15/07 19:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784142851",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"DONALD TRUMP EST COMME UN LAPIN DANS LES PHARES\", IRONISE DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:14",
+      "date": "15/07",
+      "timestamp": 1784142851
+    },
+    {
+      "id": "BFMTV_1784141972",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UNE BANDEROLE REPRÉSENTANT DONALD TRUMP DANS UN CERCUEIL INSTALLÉ AU CENTRE DE TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:59",
+      "date": "15/07",
+      "timestamp": 1784141972
+    },
+    {
+      "id": "BFMTV_1784138696",
+      "source": "BFMTV",
+      "text": "MONDIAL 2026: LA FAMILLE ROYALE ESPAGNOLE FÊTE LA QUALIFICATION DE LA ROJA EN FINALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:04",
+      "date": "15/07",
+      "timestamp": 1784138696
+    },
     {
       "id": "OPEX360_1784136020",
       "source": "OPEX360",
@@ -971,36 +1001,6 @@
       "time": "16:23",
       "date": "13/07",
       "timestamp": 1783959806
-    },
-    {
-      "id": "OPEX360_1783959768",
-      "source": "OPEX360",
-      "text": "UN RAFALE F4 A RÉUSSI UN ESSAI DE COMBAT COLLABORATIF AVEC UN DRONE AUTONOME DOTÉ D’UNE CHARGE DE GUERRE ÉLECTRONIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:22",
-      "date": "13/07",
-      "timestamp": 1783959768
-    },
-    {
-      "id": "BFMTV_1783959734",
-      "source": "BFMTV",
-      "text": "APRÈS LA MORT DU SÉNATEUR LINDSEY GRAHAM, DONALD TRUMP VEUT QUE SA SOEUR ASSURE SON INTÉRIM",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:22",
-      "date": "13/07",
-      "timestamp": 1783959734
-    },
-    {
-      "id": "BFMTV_1783958841",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: QUI EST LE \"COMTE TÊTE-DE-POUBELLE\", SEUL CANDIDAT FACE AU LEADER D'EXTRÊME DROITE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:07",
-      "date": "13/07",
-      "timestamp": 1783958841
     }
   ],
   "france": {
