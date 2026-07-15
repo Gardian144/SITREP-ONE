@@ -1,7 +1,57 @@
 {
-  "last_update": "15/07 05:58",
+  "last_update": "15/07 08:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784103895",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: NOUVELLES FRAPPES AMÉRICAINES SUR BOUCHEHR, DANS LE SUD-OUEST DE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:24",
+      "date": "15/07",
+      "timestamp": 1784103895
+    },
+    {
+      "id": "BFMTV_1784100825",
+      "source": "BFMTV",
+      "text": "CANADA: UN TRAIN TRAVERSE UN IMPRESSIONNANT BRASIER EN ONTARIO",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:33",
+      "date": "15/07",
+      "timestamp": 1784100825
+    },
+    {
+      "id": "BFMTV_1784100406",
+      "source": "BFMTV",
+      "text": "UN MORT ET DEUX DISPARUS APRÈS LE NAUFRAGE D’UN BATEAU DANS LA BAIE DE SAN FRANCISCO ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:26",
+      "date": "15/07",
+      "timestamp": 1784100406
+    },
+    {
+      "id": "BFMTV_1784098740",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ANNONCENT AVOIR LANCÉ UNE NOUVELLE SÉRIE DE FRAPPES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:59",
+      "date": "15/07",
+      "timestamp": 1784098740
+    },
+    {
+      "id": "BFMTV_1784096515",
+      "source": "BFMTV",
+      "text": "INCENDIES AU CANADA: PLUS DE 50.000 HECTARES RAVAGÉS PAR LES FLAMMES PRÈS DE LA VILLE D'ARMSTRONG",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:21",
+      "date": "15/07",
+      "timestamp": 1784096515
+    },
     {
       "id": "BFMTV_1784093323",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "05:43",
       "date": "13/07",
       "timestamp": 1783921413
-    },
-    {
-      "id": "BFMTV_1783920004",
-      "source": "BFMTV",
-      "text": "JUSQU'À 43°C: EN PLEINE CANICULE, DES RECORDS VIEUX DE 150 ANS BATTUS DANS LE NORD ET L'OUEST DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:20",
-      "date": "13/07",
-      "timestamp": 1783920004
-    },
-    {
-      "id": "BFMTV_1783918012",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: APRÈS DES FRAPPES MASSIVES DE WASHINGTON SUR L'IRAN, TÉHÉRAN RÉPLIQUE EN VISANT DES BASES MILITAIRES AMÉRICAINES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:46",
-      "date": "13/07",
-      "timestamp": 1783918012
-    },
-    {
-      "id": "BFMTV_1783917839",
-      "source": "BFMTV",
-      "text": "UNE FOIS L'INCENDIE \"STABILISÉ\" EN ESPAGNE, LES QUELQUES 1.000 ÉVACUÉS ONT PU REGAGNER LEUR DOMICILE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:43",
-      "date": "13/07",
-      "timestamp": 1783917839
-    },
-    {
-      "id": "BFMTV_1783917740",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:42",
-      "date": "13/07",
-      "timestamp": 1783917740
-    },
-    {
-      "id": "BFMTV_1783917740",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:42",
-      "date": "13/07",
-      "timestamp": 1783917740
     }
   ],
   "france": {
