@@ -1,7 +1,67 @@
 {
-  "last_update": "15/07 11:57",
+  "last_update": "15/07 13:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784122636",
+      "source": "BFMTV",
+      "text": "\"UN HÉROS\": MORT D'UN VOLONTAIRE EN ALGÉRIE ALORS QU'IL LUTTAIT CONTRE LES INCENDIES DANS LE NORD DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:37",
+      "date": "15/07",
+      "timestamp": 1784122636
+    },
+    {
+      "id": "BFMTV_1784121285",
+      "source": "BFMTV",
+      "text": "EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, PRÈS D'UN POLICIER SUR DEUX N'EXISTE PAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:14",
+      "date": "15/07",
+      "timestamp": 1784121285
+    },
+    {
+      "id": "BFMTV_1784121113",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE DIT AVOIR FRAPPÉ \"DES SITES DE STOCKAGE ET DE LANCEMENT DE MISSILES DE CROISIÈRE\" EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:11",
+      "date": "15/07",
+      "timestamp": 1784121113
+    },
+    {
+      "id": "BFMTV_1784120064",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:54",
+      "date": "15/07",
+      "timestamp": 1784120064
+    },
+    {
+      "id": "BFMTV_1784118237",
+      "source": "BFMTV",
+      "text": "UNE CENTAINE DE PERSONNES SECOURUES ET LE TRAFIC PERTURBÉ AU PORT D'ANVERS APRÈS UNE FUITE TOXIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:23",
+      "date": "15/07",
+      "timestamp": 1784118237
+    },
+    {
+      "id": "BFMTV_1784117819",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE UNE NOUVELLE \"VAGUE DE FRAPPES\" EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:16",
+      "date": "15/07",
+      "timestamp": 1784117819
+    },
     {
       "id": "BFMTV_1784113008",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "12:11",
       "date": "13/07",
       "timestamp": 1783944661
-    },
-    {
-      "id": "BFMTV_1783942840",
-      "source": "BFMTV",
-      "text": "DES ATTAQUES DE DRONES UKRAINIENNES FONT QUATRE MORTS ET SEPT BLESSÉS EN RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:40",
-      "date": "13/07",
-      "timestamp": 1783942840
-    },
-    {
-      "id": "BFMTV_1783940759",
-      "source": "BFMTV",
-      "text": "MONDIAL 2026: CE QUE L'ON SAIT DE LA MORT DE JAYDEN ADAMS, JOUEUR DE L'AFRIQUE DU SUD",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:05",
-      "date": "13/07",
-      "timestamp": 1783940759
-    },
-    {
-      "id": "BFMTV_1783940063",
-      "source": "BFMTV",
-      "text": "MONDIAL: LA FIFA VEND DES MORCEAUX DE PELOUSE DU STADE QUI ACCUEILLE LA FINALE POUR PRÈS DE 400 EUROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:54",
-      "date": "13/07",
-      "timestamp": 1783940063
-    },
-    {
-      "id": "OPEX360_1783938513",
-      "source": "OPEX360",
-      "text": "GRÂCE AUX ROQUETTES DE 68 MM, LE RAFALE A DÉSORMAIS UNE CAPACITÉ DE «LUTTE ANTIDRONE SUR AVION DE COMBAT»",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:28",
-      "date": "13/07",
-      "timestamp": 1783938513
-    },
-    {
-      "id": "BFMTV_1783936927",
-      "source": "BFMTV",
-      "text": "ESPAGNE: PEDRO SÁNCHEZ EST ARRIVÉ SUR LES LIEUX DE L'INCENDIE MEURTRIER EN ANDALOUSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:02",
-      "date": "13/07",
-      "timestamp": 1783936927
-    },
-    {
-      "id": "BFMTV_1783936781",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA DIPLOMATIE IRANIENNE PRÉVIENT QUE L'IRAN RENONCERA À RESPECTER LE PROTOCOLE D'ACCORD SI LES ÉTATS-UNIS NE TIENNENT PAS LEURS ENGAGEMENTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:59",
-      "date": "13/07",
-      "timestamp": 1783936781
     }
   ],
   "france": {
