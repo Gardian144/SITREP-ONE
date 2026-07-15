@@ -1,7 +1,57 @@
 {
-  "last_update": "15/07 20:41",
+  "last_update": "15/07 21:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784150682",
+      "source": "BFMTV",
+      "text": "SÉBASTIEN LECORNU EN VISITE À RABAT POUR UNE \"RENCONTRE DE HAUT NIVEAU\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:24",
+      "date": "15/07",
+      "timestamp": 1784150682
+    },
+    {
+      "id": "BFMTV_1784149135",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE KOWEÏT AFFIRME AVOIR INTERCEPTÉ QUATRE MISSILES ET UNE VINGTAINE DE DRONES EN PROVENANCE D'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:58",
+      "date": "15/07",
+      "timestamp": 1784149135
+    },
+    {
+      "id": "BFMTV_1784149095",
+      "source": "BFMTV",
+      "text": "ARRESTATION DU RAPPEUR MEHDI EL YOUBI: LA QUESTION DES DROITS DE L'HOMME ÉVOQUÉE LORS DE LA VISITE DE SÉBASTIEN LECORNU À RABAT ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:58",
+      "date": "15/07",
+      "timestamp": 1784149095
+    },
+    {
+      "id": "BFMTV_1784148739",
+      "source": "BFMTV",
+      "text": "IRAN: \"NOUS VERRONS BIEN SI OUI OU NON NOUS NOUS ACCORDONS AVEC EUX, OU BIEN SI NOUS FINISSONS LE TRAVAIL\", DÉCLARE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:52",
+      "date": "15/07",
+      "timestamp": 1784148739
+    },
+    {
+      "id": "BFMTV_1784148278",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE AFFIRME AVOIR LANCÉ UNE NOUVELLE VAGUE DE FRAPPES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:44",
+      "date": "15/07",
+      "timestamp": 1784148278
+    },
     {
       "id": "BFMTV_1784147732",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "17:48",
       "date": "13/07",
       "timestamp": 1783964913
-    },
-    {
-      "id": "BFMTV_1783964736",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"NOUS AVONS DÉSORMAIS L'ARMÉE LA PLUS FORTE\", DÉCLARE VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:45",
-      "date": "13/07",
-      "timestamp": 1783964736
-    },
-    {
-      "id": "BFMTV_1783964432",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"ILS ONT PERDU 150.000 HOMMES POUR 50 KILOMÈTRES\", DÉCLARE VOLODYMYR ZELENSKY À PROPOS DE LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:40",
-      "date": "13/07",
-      "timestamp": 1783964432
-    },
-    {
-      "id": "BFMTV_1783964220",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"C'EST UNE GUERRE BIEN TROP LONGUE\", DÉCLARE VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:37",
-      "date": "13/07",
-      "timestamp": 1783964220
-    },
-    {
-      "id": "BFMTV_1783964076",
-      "source": "BFMTV",
-      "text": "\"JE L'AI TROUVÉ TRÈS DÉTERMINÉ\": DIDIER FRANÇOIS RACONTE LES COULISSES DE L'INTERVIEW AVEC VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:34",
-      "date": "13/07",
-      "timestamp": 1783964076
-    },
-    {
-      "id": "BFMTV_1783964008",
-      "source": "BFMTV",
-      "text": "DOCUMENT BFMTV. VOLODYMYR ZELENSKY AFFIRME QUE L'UKRAINE A L'UNE DES ARMÉES LES \"PLUS PUISSANTES AU MONDE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:33",
-      "date": "13/07",
-      "timestamp": 1783964008
     }
   ],
   "france": {
