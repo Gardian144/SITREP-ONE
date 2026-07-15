@@ -1,7 +1,37 @@
 {
-  "last_update": "15/07 19:36",
+  "last_update": "15/07 20:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784147732",
+      "source": "BFMTV",
+      "text": "UNE \"CONCURRENCE PROBABLE\" AVEC LES ÉTATS-UNIS? : SÉBASTIEN LECORNU AU MAROC POUR RENFORCER LES LIENS FRANCO-MAROCAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:35",
+      "date": "15/07",
+      "timestamp": 1784147732
+    },
+    {
+      "id": "BFMTV_1784147416",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE AFFIRME AVOIR LANCÉ UNE NOUVELLE VAGUE DE FRAPPES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:30",
+      "date": "15/07",
+      "timestamp": 1784147416
+    },
+    {
+      "id": "BFMTV_1784145537",
+      "source": "BFMTV",
+      "text": "L'UE DEMANDE À WASHINGTON DE LEVER SES TAXES SUR LES VINS, LES FROMAGES OU LES SPIRITUEUX EUROPÉENS",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:58",
+      "date": "15/07",
+      "timestamp": 1784145537
+    },
     {
       "id": "BFMTV_1784142851",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:33",
       "date": "13/07",
       "timestamp": 1783964008
-    },
-    {
-      "id": "OPEX360_1783963956",
-      "source": "OPEX360",
-      "text": "POUR SES FUTURS F-35, LE CANADA COMMANDE DES MISSILES AIR-SOL JSM À KONGSBERG POUR PLUS DE 400 MILLIONS D’EUROS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:32",
-      "date": "13/07",
-      "timestamp": 1783963956
-    },
-    {
-      "id": "BFMTV_1783960481",
-      "source": "BFMTV",
-      "text": "21E PAQUET DE SANCTIONS CONTRE LA RUSSIE: \"NOUS SOMMES PROCHES D'UN ACCORD\", DÉCLARE KAJA KALLAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:34",
-      "date": "13/07",
-      "timestamp": 1783960481
-    },
-    {
-      "id": "BFMTV_1783959806",
-      "source": "BFMTV",
-      "text": "MONDIAL 2026: À LA RENCONTRE DU COIFFEUR DES BLEUS AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:23",
-      "date": "13/07",
-      "timestamp": 1783959806
     }
   ],
   "france": {
