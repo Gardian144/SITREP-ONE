@@ -1,7 +1,47 @@
 {
-  "last_update": "16/07 15:00",
+  "last_update": "16/07 16:40",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1784219145",
+      "source": "OPEX360",
+      "text": "LA BELGIQUE VA INVESTIR 200 MILLIONS D’EUROS POUR DISPOSER DE SES PROPRES SATELLITES MILITAIRES D’OBSERVATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:25",
+      "date": "16/07",
+      "timestamp": 1784219145
+    },
+    {
+      "id": "BFMTV_1784218535",
+      "source": "BFMTV",
+      "text": "MONDIAL 2026: CETTE BANDEROLE PEUT-ELLE VALOIR UNE SANCTION AUX ARGENTINS ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:15",
+      "date": "16/07",
+      "timestamp": 1784218535
+    },
+    {
+      "id": "BFMTV_1784216266",
+      "source": "BFMTV",
+      "text": "32 PERSONNES CONDAMNÉES À DE LA PRISON FERME 8 ANS APRÈS L’EFFONDREMENT DU PONT DE GÊNES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:37",
+      "date": "16/07",
+      "timestamp": 1784216266
+    },
+    {
+      "id": "BFMTV_1784214170",
+      "source": "BFMTV",
+      "text": "SAHARA OCCIDENTAL: LA POSITION DE LA FRANCE EST \"INTANGIBLE\", AFFIRME SÉBASTIEN LECORNU DEPUIS RABAT",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:02",
+      "date": "16/07",
+      "timestamp": 1784214170
+    },
     {
       "id": "BFMTV_1784213436",
       "source": "BFMTV",
@@ -43,6 +83,16 @@
       "timestamp": 1784206155
     },
     {
+      "id": "BFMTV_1784206155",
+      "source": "BFMTV",
+      "text": "CHRISTOPHE GLEIZES \"COMMENCE À AVOIR LE MORAL QUI FLANCHE\", SELON RSF",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:49",
+      "date": "16/07",
+      "timestamp": 1784206155
+    },
+    {
       "id": "BFMTV_1784205416",
       "source": "BFMTV",
       "text": "ABDELMADJID TEBBOUNE EN ALLEMAGNE: L'APPEL DES PARENTS DE CHRISTOPHE GLEIZES AU PRÉSIDENT ET AU CHANCELIER ALLEMANDS",
@@ -58,6 +108,16 @@
       "text": "GRÂCE PRÉSIDENTIELLE POUR CHRISTOPHE GLEIZES: SA FAMILLE ET RSF GARDENT ESPOIR",
       "urgent": false,
       "france_related": false,
+      "time": "12:26",
+      "date": "16/07",
+      "timestamp": 1784204808
+    },
+    {
+      "id": "BFMTV_1784204808",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT ALGÉRIEN EN ALLEMAGNE: LA FAMILLE DE CHRISTOPHE GLEIZES ET RSF ESPÈRENT L'AIDE DE BERLIN",
+      "urgent": false,
+      "france_related": true,
       "time": "12:26",
       "date": "16/07",
       "timestamp": 1784204808
@@ -941,66 +1001,6 @@
       "time": "10:37",
       "date": "14/07",
       "timestamp": 1784025451
-    },
-    {
-      "id": "BFMTV_1784024432",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LA VILLE PORTUAIRE DE BOUCHEHR EN IRAN VISÉE PAR DES FRAPPES \"ENNEMIES\", SELON LES AUTORITÉS LOCALES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:20",
-      "date": "14/07",
-      "timestamp": 1784024432
-    },
-    {
-      "id": "BFMTV_1784023516",
-      "source": "BFMTV",
-      "text": "\"SOMNIFÈRES ASSOCIÉS À L'ALCOOL\": UN ALLEMAND DE 68 ANS ACCUSÉ DE 22 VIOLS, FILMÉS ET PAR SOUMISSION CHIMIQUE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:05",
-      "date": "14/07",
-      "timestamp": 1784023516
-    },
-    {
-      "id": "BFMTV_1784023360",
-      "source": "BFMTV",
-      "text": "ANDY BURNHAM DÉSORMAIS ASSURÉ DE DEVENIR PREMIER MINISTRE DU ROYAUME-UNI POUR SUCCÉDER À KEIR STARMER",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:02",
-      "date": "14/07",
-      "timestamp": 1784023360
-    },
-    {
-      "id": "BFMTV_1784022916",
-      "source": "BFMTV",
-      "text": "DES JOURNALISTES ATTAQUÉS PAR DES COLONS ISRAÉLIENS EN CISJORDANIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:55",
-      "date": "14/07",
-      "timestamp": 1784022916
-    },
-    {
-      "id": "OPEX360_1784020822",
-      "source": "OPEX360",
-      "text": "PARIS ET KIEV S’ENTENDENT SUR UNE «FEUILLE DE ROUTE» POUR LIVRER 16 RAFALE À LA FORCE AÉRIENNE UKRAINIENNE EN 2028/29",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:20",
-      "date": "14/07",
-      "timestamp": 1784020822
-    },
-    {
-      "id": "BFMTV_1784018082",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UN NAVIRE TOUCHÉ PAR UN MISSILE AU LARGE D'OMAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:34",
-      "date": "14/07",
-      "timestamp": 1784018082
     }
   ],
   "france": {
