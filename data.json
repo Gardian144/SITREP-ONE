@@ -1,7 +1,47 @@
 {
-  "last_update": "16/07 09:03",
+  "last_update": "16/07 11:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784198785",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: L'ARMÉE AMÉRICAINE VA MESURER LE TAUX DE TESTOSTÉRONE DE SES SOLDATS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:46",
+      "date": "16/07",
+      "timestamp": 1784198785
+    },
+    {
+      "id": "BFMTV_1784195890",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN QUALIFIE D'\"ATTAQUE BARBARE\" LES FRAPPES AMÉRICAINES AYANT TOUCHÉ UN HÔPITAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:58",
+      "date": "16/07",
+      "timestamp": 1784195890
+    },
+    {
+      "id": "OPEX360_1784194883",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES RETIENT UN GROUPEMENT EMMENÉ PAR FN HERSTAL POUR PRODUIRE DES MUNITIONS DE PETIT CALIBRE EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:41",
+      "date": "16/07",
+      "timestamp": 1784194883
+    },
+    {
+      "id": "BFMTV_1784193169",
+      "source": "BFMTV",
+      "text": "\"RETROUVER ET OPTIMISER VOS CAPACITÉS NATURELLES\": LE MINISTRE DE LA DÉFENSE AMÉRICAIN ANNONCE QUE L'ARMÉE VA MESURER LE TAUX DE TESTOSTÉRONE DE SES SOLDATS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:12",
+      "date": "16/07",
+      "timestamp": 1784193169
+    },
     {
       "id": "BFMTV_1784192431",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "21:31",
       "date": "13/07",
       "timestamp": 1783978272
-    },
-    {
-      "id": "BFMTV_1783977440",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE LANCE POUR LA TROISIÈME NUIT CONSÉCUTIVE DES FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:17",
-      "date": "13/07",
-      "timestamp": 1783977440
-    },
-    {
-      "id": "BFMTV_1783975961",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:52",
-      "date": "13/07",
-      "timestamp": 1783975961
-    },
-    {
-      "id": "BFMTV_1783975960",
-      "source": "BFMTV",
-      "text": "LE CHEF DE L'ONU, \"PROFONDÉMENT INQUIET\", AVERTIT CONTRE LES FRAPPES AMÉRICAINES EN IRAN ET LES ATTAQUES DE TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:52",
-      "date": "13/07",
-      "timestamp": 1783975960
-    },
-    {
-      "id": "BFMTV_1783975237",
-      "source": "BFMTV",
-      "text": "RECONSTRUCTION DE GAZA: LES PAYS DONATEURS D'AIDE AUX PALESTINIENS SONT PRÊTS À CONTRIBUER POUR PRÈS DE 900 MILLIONS D'EUROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:40",
-      "date": "13/07",
-      "timestamp": 1783975237
     }
   ],
   "france": {
