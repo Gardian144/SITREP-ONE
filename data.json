@@ -1,7 +1,37 @@
 {
-  "last_update": "16/07 17:51",
+  "last_update": "16/07 19:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784227905",
+      "source": "BFMTV",
+      "text": "\"L'IRAN CONTINUE DE PARLER TRÈS ACTIVEMENT AVEC LES USA ET SOUHAITE CONCLURE UN ACCORD\", ASSURE LA MAISON BLANCHE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:51",
+      "date": "16/07",
+      "timestamp": 1784227905
+    },
+    {
+      "id": "BFMTV_1784227816",
+      "source": "BFMTV",
+      "text": "UNE FRONTIÈRE DE LA FRANCE VA ÊTRE MODIFIÉE, UNE PREMIÈRE DEPUIS 400 ANS",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:50",
+      "date": "16/07",
+      "timestamp": 1784227816
+    },
+    {
+      "id": "BFMTV_1784227074",
+      "source": "BFMTV",
+      "text": "UN AGENT OPÉRANT LE PROMPTEUR DE DONALD TRUMP, SUSPECTÉ D'AVOIR PARIÉ SUR SES DISCOURS, A ÉTÉ SUSPENDU",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:37",
+      "date": "16/07",
+      "timestamp": 1784227074
+    },
     {
       "id": "BFMTV_1784223895",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "14:10",
       "date": "14/07",
       "timestamp": 1784038238
-    },
-    {
-      "id": "BFMTV_1784036113",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU ASSURE QU'ISRAËL RIPOSTERA EN CAS D'ATTAQUE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:35",
-      "date": "14/07",
-      "timestamp": 1784036113
-    },
-    {
-      "id": "BFMTV_1784035128",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN HOMME DE 26 ANS TUÉ PAR UN AGENT DE L'ICE CE 13 JUILLET",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:18",
-      "date": "14/07",
-      "timestamp": 1784035128
-    },
-    {
-      "id": "BFMTV_1784033707",
-      "source": "BFMTV",
-      "text": "\"UNE MARIONNETTE\": LES DÉPUTÉS HONGROIS VOTENT UNE MODIFICATION DE LA CONSTITUTION POUR METTRE FIN AU MANDAT DU PRÉSIDENT PRO-ORBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:55",
-      "date": "14/07",
-      "timestamp": 1784033707
     }
   ],
   "france": {
