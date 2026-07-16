@@ -1,7 +1,37 @@
 {
-  "last_update": "16/07 01:08",
+  "last_update": "16/07 04:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784175534",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE LA LIBÉRATION D'UNE AMÉRICAINE BLOQUÉE EN IRAN DEPUIS 2024",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:18",
+      "date": "16/07",
+      "timestamp": 1784175534
+    },
+    {
+      "id": "BFMTV_1784175379",
+      "source": "BFMTV",
+      "text": "ASPHYXIÉE PAR LES FEUX DE FORÊT AU CANADA, TORONTO A ÉTÉ L'UNE DES VILLES LES PLUS POLLUÉES AU MONDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:16",
+      "date": "16/07",
+      "timestamp": 1784175379
+    },
+    {
+      "id": "BFMTV_1784174707",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS METTENT FIN À UNE NOUVELLE SÉRIE DE FRAPPES CONTRE L'IRAN, LE DÉTROIT D'ORMUZ QUASI PARALYSÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:05",
+      "date": "16/07",
+      "timestamp": 1784174707
+    },
     {
       "id": "BFMTV_1784154118",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "18:54",
       "date": "13/07",
       "timestamp": 1783968872
-    },
-    {
-      "id": "BFMTV_1783967646",
-      "source": "BFMTV",
-      "text": " LA COALITION DES VOLONTAIRES A UNE \"FORCE MULTILATÉRALE POUR L'UKRAINE MAINTENANT PRÊTE À AGIR\", AFFIRME EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:34",
-      "date": "13/07",
-      "timestamp": 1783967646
-    },
-    {
-      "id": "BFMTV_1783967532",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON ANNONCE UN \"PROJET D'ACQUISITION DE 16 RAFALE\" PAR L'UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:32",
-      "date": "13/07",
-      "timestamp": 1783967532
-    },
-    {
-      "id": "BFMTV_1783965525",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"NOUS AVONS RÉUNI UNE COALITION NOUVELLE: LA COALITION ANTIBALISTIQUE\", DÉCLARE EMMANUEL MACRON",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:58",
-      "date": "13/07",
-      "timestamp": 1783965525
     }
   ],
   "france": {
