@@ -1,7 +1,27 @@
 {
-  "last_update": "16/07 04:25",
+  "last_update": "16/07 06:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784183408",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN MENACE DE RÉDUIRE À NÉANT DES INFRASTRUCTURES DU MOYEN-ORIENT SI LES SIENNES SONT ATTAQUÉES",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:30",
+      "date": "16/07",
+      "timestamp": 1784183408
+    },
+    {
+      "id": "BFMTV_1784175953",
+      "source": "BFMTV",
+      "text": "APRÈS UNE SÉRIE DE RAIDS AMÉRICAINS SUR L'IRAN, DONALD TRUMP ESPÈRE QUE TÉHÉRAN REVIENNE \"TRÈS VITE\" À LA TABLE DES NÉGOCIATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:25",
+      "date": "16/07",
+      "timestamp": 1784175953
+    },
     {
       "id": "BFMTV_1784175534",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "19:00",
       "date": "13/07",
       "timestamp": 1783969254
-    },
-    {
-      "id": "BFMTV_1783968872",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINIEN \"JE DEVAIS RESTER CAR JE SUIS PRÉSIDENT, C'EST MON BOULOT, MA RESPONSABILITÉ\", AFFIRME VOLODYMYR ZELENSKY, PRÉSIDENT UKRAINIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:54",
-      "date": "13/07",
-      "timestamp": 1783968872
-    },
-    {
-      "id": "BFMTV_1783968872",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"JE DEVAIS RESTER CAR JE SUIS PRÉSIDENT, C'EST MON BOULOT, MA RESPONSABILITÉ\", AFFIRME VOLODYMYR ZELENSKY, PRÉSIDENT UKRAINIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:54",
-      "date": "13/07",
-      "timestamp": 1783968872
     }
   ],
   "france": {
