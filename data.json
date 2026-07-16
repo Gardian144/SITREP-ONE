@@ -1,7 +1,97 @@
 {
-  "last_update": "16/07 06:42",
+  "last_update": "16/07 09:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784192431",
+      "source": "BFMTV",
+      "text": "UNE FIGURE NÉONAZIE TRANSGENRE, SOUPÇONNÉE D'AVOIR ABUSÉ DES LOIS ALLEMANDES, FINALEMENT PLACÉE DANS UNE PRISON POUR HOMMES",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:00",
+      "date": "16/07",
+      "timestamp": 1784192431
+    },
+    {
+      "id": "BFMTV_1784191143",
+      "source": "BFMTV",
+      "text": "UN INCENDIE DANS UN ORPHELINAT PRÈS D'ALGER FAIT AU MOINS 11 MORTS ET 19 BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:39",
+      "date": "16/07",
+      "timestamp": 1784191143
+    },
+    {
+      "id": "BFMTV_1784189906",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PAKISTAN APPELLE LES ÉTATS-UNIS ET L'IRAN À REPRENDRE LES POURPARLERS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:18",
+      "date": "16/07",
+      "timestamp": 1784189906
+    },
+    {
+      "id": "BFMTV_1784188271",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE SÉBASTIEN LECORNU S'EST RENDU AU MAUSOLÉE ROYAL MOHAMMED V À RABAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:51",
+      "date": "16/07",
+      "timestamp": 1784188271
+    },
+    {
+      "id": "BFMTV_1784187471",
+      "source": "BFMTV",
+      "text": "LE MINISTRE DE LA DÉFENSE UKRAINIEN ANNONCE SA DÉMISSION, DES MANIFESTATIONS ORGANISÉES CONTRE SON DÉPART",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:37",
+      "date": "16/07",
+      "timestamp": 1784187471
+    },
+    {
+      "id": "BFMTV_1784186905",
+      "source": "BFMTV",
+      "text": "FLORIDE: UN AVION DE LA PATROUILLE DE LA MARINE AMÉRICAINE SURVOLE UNE PLAGE À TRÈS BASSE ALTITUDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:28",
+      "date": "16/07",
+      "timestamp": 1784186905
+    },
+    {
+      "id": "BFMTV_1784185369",
+      "source": "BFMTV",
+      "text": "\"C’ÉTAIT SI PROCHE\": AUX ÉTATS-UNIS, PLUSIEURS AVIONS DES BLUE ANGELS SURVOLENT À TRÈS BASSE ALTITUDE UNE PLAGE REMPLIE DE TOURISTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:02",
+      "date": "16/07",
+      "timestamp": 1784185369
+    },
+    {
+      "id": "BFMTV_1784184695",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE ATTAQUE RUSSE TUE DEUX PERSONNES À KIEV PENDANT LA NUIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:51",
+      "date": "16/07",
+      "timestamp": 1784184695
+    },
+    {
+      "id": "BFMTV_1784184182",
+      "source": "BFMTV",
+      "text": "\"UN REGAIN D'ACTIVITÉ\": LES ÉTATS-UNIS ORGANISENT UNE CONFÉRENCE POUR INTERNATIONALISER LA LUTTE CONTRE LE \"TERRORISME D'EXTRÊME GAUCHE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:43",
+      "date": "16/07",
+      "timestamp": 1784184182
+    },
     {
       "id": "BFMTV_1784183408",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "20:40",
       "date": "13/07",
       "timestamp": 1783975237
-    },
-    {
-      "id": "BFMTV_1783975163",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP PRONONCERA UN \"DISCOURS À LA NATION\" JEUDI SOIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:39",
-      "date": "13/07",
-      "timestamp": 1783975163
-    },
-    {
-      "id": "BFMTV_1783973588",
-      "source": "BFMTV",
-      "text": "COALITION DES VOLONTAIRES: \"C'EST UNE JOURNÉE HISTORIQUE POUR NOUS TOUS\", AFFIRME VOLODYMYR ZELENSKY ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:13",
-      "date": "13/07",
-      "timestamp": 1783973588
-    },
-    {
-      "id": "BFMTV_1783971712",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: UN MÉDIA IRANIEN FAIT ÉTAT D'EXPLOSIONS PRÈS DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:41",
-      "date": "13/07",
-      "timestamp": 1783971712
-    },
-    {
-      "id": "BFMTV_1783970072",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"NOUS AVONS DÉSORMAIS L'UNE DES ARMÉES LES PLUS FORTES\", DÉCLARE VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:14",
-      "date": "13/07",
-      "timestamp": 1783970072
-    },
-    {
-      "id": "BFMTV_1783969886",
-      "source": "BFMTV",
-      "text": "DOCUMENT BFMTV. VOLODYMYR ZELENSKY AFFIRME QUE L'UKRAINE A L'UNE DES ARMÉES LES \"PLUS FORTES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:11",
-      "date": "13/07",
-      "timestamp": 1783969886
-    },
-    {
-      "id": "BFMTV_1783969829",
-      "source": "BFMTV",
-      "text": "UKRAINE: \"NOUS VOULONS ENTRER DANS L'UNION EUROPÉENNE\", ANNONCE VOLODYMYR ZELENSKY ",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:10",
-      "date": "13/07",
-      "timestamp": 1783969829
-    },
-    {
-      "id": "BFMTV_1783969486",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"VLADIMIR POUTINE EST UN MENTEUR PARCE QU'IL A BESOIN D'UNE VICTOIRE\", ESTIME VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:04",
-      "date": "13/07",
-      "timestamp": 1783969486
-    },
-    {
-      "id": "BFMTV_1783969255",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"ON A BESOIN D'UN CESSEZ-LE-FEU\", ASSURE VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:00",
-      "date": "13/07",
-      "timestamp": 1783969255
-    },
-    {
-      "id": "BFMTV_1783969254",
-      "source": "BFMTV",
-      "text": "DÉFENSE EUROPÉENNE, VLADIMIR POUTINE, 14-JUILLET... CE QU'IL FAUT RETENIR DE L'INTERVIEW EXCLUSIVE DE VOLODYMYR ZELENSKY À BFMTV",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:00",
-      "date": "13/07",
-      "timestamp": 1783969254
     }
   ],
   "france": {
