@@ -1,7 +1,77 @@
 {
-  "last_update": "17/07 06:37",
+  "last_update": "17/07 08:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784278423",
+      "source": "BFMTV",
+      "text": "INCENDIES: PLUS DE 12.000 HECTARES BRÛLÉS PRÈS DE SARAGOSSE EN ESPAGNE, LE RISQUE DE PROPAGATION JUGÉ \"TRÈS ÉLEVÉ\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:53",
+      "date": "17/07",
+      "timestamp": 1784278423
+    },
+    {
+      "id": "BFMTV_1784276353",
+      "source": "BFMTV",
+      "text": "DÉFENSE: EMMANUEL MACRON VEUT UNE \"MEILLEURE COOPÉRATION\" ENTRE LA FRANCE ET L'ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:19",
+      "date": "17/07",
+      "timestamp": 1784276353
+    },
+    {
+      "id": "BFMTV_1784274414",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP APPELLE AU RETRAIT DES LICENCES DES CHAÎNES AMÉRICAINES QUI ONT REFUSÉ DE DIFFUSER SON ALLOCUTION",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:46",
+      "date": "17/07",
+      "timestamp": 1784274414
+    },
+    {
+      "id": "BFMTV_1784273870",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: HUIT MORTS ET 20 BLESSÉS EN IRAN APRÈS DES FRAPPES ATTRIBUÉES AUX ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:37",
+      "date": "17/07",
+      "timestamp": 1784273870
+    },
+    {
+      "id": "BFMTV_1784272323",
+      "source": "BFMTV",
+      "text": "LA FUMÉE DES INCENDIES CANADIENS ÉTOUFFE NEW YORK, ZOHRAN MAMDANI ALERTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:12",
+      "date": "17/07",
+      "timestamp": 1784272323
+    },
+    {
+      "id": "BFMTV_1784272177",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DEMANDE LE RETRAIT DES LICENCES DES CHAÎNES QUI N'ONT PAS DIFFUSÉ SON DISCOURS SUR LA SÉCURITÉ DES ÉLECTIONS",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:09",
+      "date": "17/07",
+      "timestamp": 1784272177
+    },
+    {
+      "id": "BFMTV_1784272163",
+      "source": "BFMTV",
+      "text": "L'AIR JUGÉ \"DANGEREUX POUR LA SANTÉ\": LES IMAGES DE LA FUMÉE DES FEUX MASSIFS CANADIENS QUI TOUCHENT NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:09",
+      "date": "17/07",
+      "timestamp": 1784272163
+    },
     {
       "id": "BFMTV_1784269665",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "04:19",
       "date": "15/07",
       "timestamp": 1784089175
-    },
-    {
-      "id": "BFMTV_1784089031",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ONT LANCÉ \"UNE NOUVELLE SÉRIE DE FRAPPES CONTRE L’IRAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:17",
-      "date": "15/07",
-      "timestamp": 1784089031
-    },
-    {
-      "id": "BFMTV_1784088360",
-      "source": "BFMTV",
-      "text": "\"TOUTES LES PROMESSES SE SONT TRÈS VITE DÉGONFLÉES\": QUE DEVIENT LE CONSEIL DE LA PAIX CRÉÉ PAR DONALD TRUMP IL Y A SIX MOIS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:06",
-      "date": "15/07",
-      "timestamp": 1784088360
-    },
-    {
-      "id": "BFMTV_1784067186",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: L'IDENTIFICATION DES VICTIMES EST TERMINÉE, 12 ÉTRANGERS PARMI LES 13 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:13",
-      "date": "14/07",
-      "timestamp": 1784067186
-    },
-    {
-      "id": "BFMTV_1784065883",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE AVOIR LANCÉ UNE NOUVELLE SALVE DE FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:51",
-      "date": "14/07",
-      "timestamp": 1784065883
-    },
-    {
-      "id": "BFMTV_1784062876",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DES DRONES AQUATIQUES INAUGURÉS PAR LES ÉTATS-UNIS CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:01",
-      "date": "14/07",
-      "timestamp": 1784062876
-    },
-    {
-      "id": "BFMTV_1784062217",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: D'IMPORTANTES TRACTATIONS EN COURS À LA MAISON-BLANCHE TANDIS QUE L'ARMÉE AMÉRICAINE FRAPPE L'IRAN POUR LA TROISIÈME NUIT CONSÉCUTIVE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:50",
-      "date": "14/07",
-      "timestamp": 1784062217
-    },
-    {
-      "id": "BFMTV_1784061875",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP RÉTABLIT UN BLOCUS SUR LES PORTS IRANIENS, L'IRAN ACCUSE LES ÉTATS-UNIS D'AVOIR \"DÉMANTELÉ\" LE PROTOCOLE D'ACCORD",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:44",
-      "date": "14/07",
-      "timestamp": 1784061875
     }
   ],
   "france": {
