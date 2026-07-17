@@ -1,11 +1,81 @@
 {
-  "last_update": "17/07 15:39",
+  "last_update": "17/07 16:46",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1784306064",
+      "source": "OPEX360",
+      "text": "LA ROYAL AIR FORCE LANCE UN PROJET DE DRONE DE COMBAT COLLABORATIF APPELÉ «STORM FIGHTER»",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:34",
+      "date": "17/07",
+      "timestamp": 1784306064
+    },
+    {
+      "id": "BFMTV_1784305635",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION ASSURENT QUE L'IRAN CONTINUERA SES FRAPPES JUSQU'À UN \"RETOUR AU CALME\" DANS LE SUD ET À ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:27",
+      "date": "17/07",
+      "timestamp": 1784305635
+    },
+    {
+      "id": "BFMTV_1784303856",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:57",
+      "date": "17/07",
+      "timestamp": 1784303856
+    },
+    {
+      "id": "BFMTV_1784303856",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:57",
+      "date": "17/07",
+      "timestamp": 1784303856
+    },
+    {
+      "id": "BFMTV_1784303855",
+      "source": "BFMTV",
+      "text": "\"VOLODYMYR ZELENSKY S'EST TIRÉ UNE BALLE DANS LE PIED\": EN PLEINE GUERRE AVEC LA RUSSIE, UN REMANIEMENT GOUVERNEMENTAL DIVISE L'UKRAINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:57",
+      "date": "17/07",
+      "timestamp": 1784303855
+    },
+    {
+      "id": "BFMTV_1784303267",
+      "source": "BFMTV",
+      "text": "DISCOURS À LA NATION DE DONALD TRUMP: \"IL EST IMPÉRATIF POUR LUI DE DYNAMISER À NOUVEAU SA BASE ÉLECTORALE\", AFFIRME ROMUALD SCIORA, SPÉCIALISTE DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:47",
+      "date": "17/07",
+      "timestamp": 1784303267
+    },
     {
       "id": "BFMTV_1784302613",
       "source": "BFMTV",
       "text": "UN SÉISME DE MAGNITUDE 7,3 ENREGISTRÉ AU LARGE DU MEXIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:36",
+      "date": "17/07",
+      "timestamp": 1784302613
+    },
+    {
+      "id": "BFMTV_1784302613",
+      "source": "BFMTV",
+      "text": "UN SÉISME DE MAGNITUDE 7,3 ENREGISTRÉ AU LARGE DU MEXIQUE, UNE ALERTE TSUNAMI A ÉTÉ ÉMISE",
       "urgent": false,
       "france_related": false,
       "time": "15:36",
@@ -931,76 +1001,6 @@
       "time": "16:15",
       "date": "15/07",
       "timestamp": 1784132118
-    },
-    {
-      "id": "OPEX360_1784131502",
-      "source": "OPEX360",
-      "text": "DIX PAYS EUROPÉENS, DONT LA FRANCE, CRÉENT UNE «COALITION INTÉGRÉE» CONTRE LA MENACE DES MISSILES BALISTIQUES",
-      "urgent": true,
-      "france_related": true,
-      "time": "16:05",
-      "date": "15/07",
-      "timestamp": 1784131502
-    },
-    {
-      "id": "BFMTV_1784127938",
-      "source": "BFMTV",
-      "text": "MONDIAL: DES SUPPORTERS ARGENTINS SE BATTENT ENTRE EUX AVANT ANGLETERRE - ARGENTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:05",
-      "date": "15/07",
-      "timestamp": 1784127938
-    },
-    {
-      "id": "BFMTV_1784127568",
-      "source": "BFMTV",
-      "text": "\"REPRENEZ VOTRE TRAVAIL\": DONALD TRUMP DEMANDE À L'ICE DE MAINTENIR SES CONTRÔLES ROUTIERS, SUSPENDUS APRÈS LA MORT DE DEUX PERSONNES",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:59",
-      "date": "15/07",
-      "timestamp": 1784127568
-    },
-    {
-      "id": "BFMTV_1784127051",
-      "source": "BFMTV",
-      "text": "JUDE BELLINGHAM, \"SOUTIEN\" À SON PRÉDECESSEUR... LES ADIEUX DE KEIR STARMER AU PARLEMENT BRITANNIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:50",
-      "date": "15/07",
-      "timestamp": 1784127051
-    },
-    {
-      "id": "BFMTV_1784126010",
-      "source": "BFMTV",
-      "text": "JOE BIDEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:33",
-      "date": "15/07",
-      "timestamp": 1784126010
-    },
-    {
-      "id": "BFMTV_1784126009",
-      "source": "BFMTV",
-      "text": "JOE BIDEN, ATTEINT D'UN CANCER \"AGRESSIF\" DE LA PROSTATE, ASSURE QUE SON TRAITEMENT SE DÉROULE \"VRAIMENT BIEN\" ET ANNONCE LA SORTIE D'UN LIVRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:33",
-      "date": "15/07",
-      "timestamp": 1784126009
-    },
-    {
-      "id": "OPEX360_1784124416",
-      "source": "OPEX360",
-      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT SALUE LE SUCCÈS DE LA PREMIÈRE CAMPAGNE DE TIRS EFFECTUÉE PAR L’HÉLICOPTÈRE GUÉPARD",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:06",
-      "date": "15/07",
-      "timestamp": 1784124416
     }
   ],
   "france": {
