@@ -1,7 +1,37 @@
 {
-  "last_update": "17/07 16:46",
+  "last_update": "17/07 18:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784309961",
+      "source": "BFMTV",
+      "text": "LE FUTUR PREMIER MINISTRE BRITANNIQUE ANDY BURNHAM S'ENGAGE À \"REDONNER DE L'ESPOIR\" AUX BRITANNIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:39",
+      "date": "17/07",
+      "timestamp": 1784309961
+    },
+    {
+      "id": "OPEX360_1784309899",
+      "source": "OPEX360",
+      "text": "L’ALLEMAGNE VA PARTICIPER À UN EXERCICE NUCLÉAIRE «POKER» DES FORCES AÉRIENNES STRATÉGIQUES FRANÇAISES D’ICI LA FIN 2026",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:38",
+      "date": "17/07",
+      "timestamp": 1784309899
+    },
+    {
+      "id": "BFMTV_1784308572",
+      "source": "BFMTV",
+      "text": "CHINE: UN GLISSEMENT DE TERRAIN FAIT AU MOINS 8 MORTS ET 34 DISPARUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:16",
+      "date": "17/07",
+      "timestamp": 1784308572
+    },
     {
       "id": "OPEX360_1784306064",
       "source": "OPEX360",
@@ -971,36 +1001,6 @@
       "time": "18:04",
       "date": "15/07",
       "timestamp": 1784138696
-    },
-    {
-      "id": "OPEX360_1784136020",
-      "source": "OPEX360",
-      "text": "DESTINÉ À L’ALLEMAGNE, LE PREMIER EUROFIGHTER EF2000 PORTÉ AU STANDARD «QUADRIGA» A EFFECTUÉ SON VOL INAUGURAL",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:20",
-      "date": "15/07",
-      "timestamp": 1784136020
-    },
-    {
-      "id": "BFMTV_1784133520",
-      "source": "BFMTV",
-      "text": "URSULA VON DER LEYEN ANNONCE UN PARTENARIAT ENTRE L'UE ET L'UKRAINE SUR LES DRONES",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:38",
-      "date": "15/07",
-      "timestamp": 1784133520
-    },
-    {
-      "id": "BFMTV_1784132118",
-      "source": "BFMTV",
-      "text": "UN AVION INFESTÉ DE MOUSTIQUES EN ITALIE, LES PASSAGERS CHANGENT D'APPAREIL",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:15",
-      "date": "15/07",
-      "timestamp": 1784132118
     }
   ],
   "france": {
