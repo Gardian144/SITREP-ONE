@@ -1,7 +1,57 @@
 {
-  "last_update": "17/07 20:32",
+  "last_update": "17/07 21:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784322110",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE QATAR CONDAMNE FERMEMENT LES ATTAQUES IRANIENNES CONTRE LA RÉGION SEMI-AUTONOME KURDE D'IRAK",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:01",
+      "date": "17/07",
+      "timestamp": 1784322110
+    },
+    {
+      "id": "BFMTV_1784321283",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP BLÂME LE CANADA POUR LA POLLUTION DE L'AIR AUX ÉTATS-UNIS À CAUSE DES FEUX DE FORÊT",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:48",
+      "date": "17/07",
+      "timestamp": 1784321283
+    },
+    {
+      "id": "BFMTV_1784321052",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE MENER UNE NOUVELLE SÉRIE DE FRAPPES CONTRE L'IRAN POUR LA SEPTIÈME NUIT CONSÉCUTIVE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:44",
+      "date": "17/07",
+      "timestamp": 1784321052
+    },
+    {
+      "id": "BFMTV_1784320652",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE UNE NOUVELLE SÉRIE DE FRAPPES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:37",
+      "date": "17/07",
+      "timestamp": 1784320652
+    },
+    {
+      "id": "BFMTV_1784320504",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA REPRISE DES HOSTILITÉS A DE LOURDES CONSÉQUENCES SUR LE TRAFIC MARITIME DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:35",
+      "date": "17/07",
+      "timestamp": 1784320504
+    },
     {
       "id": "BFMTV_1784317528",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "21:39",
       "date": "15/07",
       "timestamp": 1784151599
-    },
-    {
-      "id": "BFMTV_1784150682",
-      "source": "BFMTV",
-      "text": "SÉBASTIEN LECORNU EN VISITE À RABAT POUR UNE \"RENCONTRE DE HAUT NIVEAU\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:24",
-      "date": "15/07",
-      "timestamp": 1784150682
-    },
-    {
-      "id": "BFMTV_1784149135",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE KOWEÏT AFFIRME AVOIR INTERCEPTÉ QUATRE MISSILES ET UNE VINGTAINE DE DRONES EN PROVENANCE D'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:58",
-      "date": "15/07",
-      "timestamp": 1784149135
-    },
-    {
-      "id": "BFMTV_1784149095",
-      "source": "BFMTV",
-      "text": "ARRESTATION DU RAPPEUR MEHDI EL YOUBI: LA QUESTION DES DROITS DE L'HOMME ÉVOQUÉE LORS DE LA VISITE DE SÉBASTIEN LECORNU À RABAT ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:58",
-      "date": "15/07",
-      "timestamp": 1784149095
-    },
-    {
-      "id": "BFMTV_1784148739",
-      "source": "BFMTV",
-      "text": "IRAN: \"NOUS VERRONS BIEN SI OUI OU NON NOUS NOUS ACCORDONS AVEC EUX, OU BIEN SI NOUS FINISSONS LE TRAVAIL\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:52",
-      "date": "15/07",
-      "timestamp": 1784148739
-    },
-    {
-      "id": "BFMTV_1784148278",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE AFFIRME AVOIR LANCÉ UNE NOUVELLE VAGUE DE FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:44",
-      "date": "15/07",
-      "timestamp": 1784148278
     }
   ],
   "france": {
