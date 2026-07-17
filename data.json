@@ -1,7 +1,67 @@
 {
-  "last_update": "17/07 12:08",
+  "last_update": "17/07 14:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784295290",
+      "source": "BFMTV",
+      "text": "\"NOUS N'AVONS PAS FERMÉ LES YEUX DEVANT CETTE DURE RÉALITÉ\": LE CHANCELIER ALLEMAND REVIENT SUR L'ÉCHEC DU SCAF",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:34",
+      "date": "17/07",
+      "timestamp": 1784295290
+    },
+    {
+      "id": "BFMTV_1784295149",
+      "source": "BFMTV",
+      "text": "L'ALLEMAGNE VA PARTICIPER À UN EXERCICE FRANÇAIS DE DISSUASION NUCLÉAIRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:32",
+      "date": "17/07",
+      "timestamp": 1784295149
+    },
+    {
+      "id": "BFMTV_1784294639",
+      "source": "BFMTV",
+      "text": "\"REDONNER ESPOIR\" AUX BRITANNIQUES: CONFIRMÉ À LA TÊTE DES TRAVAILLISTES, ANDY BURNHAM PROMIS POUR SUCCÉDER À KEIR STARMER COMME PREMIER MINISTRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:23",
+      "date": "17/07",
+      "timestamp": 1784294639
+    },
+    {
+      "id": "BFMTV_1784293757",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ALGÉRIE: LE FEU QUI A FAIT 11 MORTS DANS UN ORPHELINAT DE LA BANLIEUE D'ALGER ÉTAIT DÛ À UN CLIMATISEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:09",
+      "date": "17/07",
+      "timestamp": 1784293757
+    },
+    {
+      "id": "BFMTV_1784293397",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION ASSURENT QUE L'IRAN CONTINUERA SES FRAPPES JUSQU'À UN \"RETOUR AU CALME\" DANS LE SUD ET À ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:03",
+      "date": "17/07",
+      "timestamp": 1784293397
+    },
+    {
+      "id": "BFMTV_1784290229",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN HOMME RESTE COINCÉ DANS LA CUVETTE DE TOILETTES DE CHANTIER PENDANT DES HEURES",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:10",
+      "date": "17/07",
+      "timestamp": 1784290229
+    },
     {
       "id": "BFMTV_1784289801",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "10:43",
       "date": "15/07",
       "timestamp": 1784112220
-    },
-    {
-      "id": "BFMTV_1784110070",
-      "source": "BFMTV",
-      "text": "\"IL A OUVERT LE RÉFRIGÉRATEUR\": UNE FAMILLE SE RETROUVE NEZ À NEZ AVEC UN OURS DANS SA CUISINE AU JAPON",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:07",
-      "date": "15/07",
-      "timestamp": 1784110070
-    },
-    {
-      "id": "BFMTV_1784107909",
-      "source": "BFMTV",
-      "text": "UNE AMÉRICAINE POURSUIVIE POUR AVOIR ÉTOUFFÉ SES JUMEAUX ÂGÉS DE 18 MOIS, APRÈS AVOIR ATTRIBUÉ LEUR MORT AUX VACCINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:31",
-      "date": "15/07",
-      "timestamp": 1784107909
-    },
-    {
-      "id": "BFMTV_1784107288",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS: LE DISPOSITIF AMÉRICAIN POUR CONTRÔLER LE PASSAGE DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:21",
-      "date": "15/07",
-      "timestamp": 1784107288
-    },
-    {
-      "id": "BFMTV_1784106281",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: NOUVELLES FRAPPES AMÉRICAINES SUR BOUCHEHR, BAHREÏN DIT AVOIR CONTRÉ DES TIRS IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:04",
-      "date": "15/07",
-      "timestamp": 1784106281
-    },
-    {
-      "id": "BFMTV_1784103895",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: NOUVELLES FRAPPES AMÉRICAINES SUR BOUCHEHR, DANS LE SUD-OUEST DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:24",
-      "date": "15/07",
-      "timestamp": 1784103895
-    },
-    {
-      "id": "BFMTV_1784100825",
-      "source": "BFMTV",
-      "text": "CANADA: UN TRAIN TRAVERSE UN IMPRESSIONNANT BRASIER EN ONTARIO",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:33",
-      "date": "15/07",
-      "timestamp": 1784100825
     }
   ],
   "france": {
