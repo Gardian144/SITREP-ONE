@@ -1,7 +1,67 @@
 {
-  "last_update": "17/07 08:57",
+  "last_update": "17/07 10:51",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1784284661",
+      "source": "OPEX360",
+      "text": "LE SUÉDOIS SAAB VA FOURNIR LE SYSTÈME DE GESTION DE COMBAT ET LES CAPTEURS DES FUTURES FRÉGATES ALLEMANDES F128",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:37",
+      "date": "17/07",
+      "timestamp": 1784284661
+    },
+    {
+      "id": "BFMTV_1784283680",
+      "source": "BFMTV",
+      "text": "LE CHANCELIER ALLEMAND FRIEDRICH MERZ REÇOIT EMMANUEL MACRON POUR UN CONSEIL DES MINISTRES FRANCO-ALLEMAND",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:21",
+      "date": "17/07",
+      "timestamp": 1784283680
+    },
+    {
+      "id": "BFMTV_1784282613",
+      "source": "BFMTV",
+      "text": "TAPENTADOL: L'OPIOÏDE VENU D'INDE QUI INONDE L'AFRIQUE DE L'OUEST",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:03",
+      "date": "17/07",
+      "timestamp": 1784282613
+    },
+    {
+      "id": "BFMTV_1784281700",
+      "source": "BFMTV",
+      "text": "\"DE PURES INVENTIONS\": LA CHINE DÉNONCE LES ACCUSATIONS D'INGÉRENCE ÉLECTORALE DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:48",
+      "date": "17/07",
+      "timestamp": 1784281700
+    },
+    {
+      "id": "BFMTV_1784280013",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ACCUSE LA CHINE DU \"PLUS GROS PIRATAGE DE DONNÉES ÉLECTORALES DE L'HISTOIRE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:20",
+      "date": "17/07",
+      "timestamp": 1784280013
+    },
+    {
+      "id": "BFMTV_1784278743",
+      "source": "BFMTV",
+      "text": "MONDIAL: \"PEUT-ÊTRE QUE C’EST UN BON JOUR POUR NOYER QUELQUES PEINES\", LES MOTS DU ROI CHARLES III AU LENDEMAIN DE LA DÉFAITE ANGLAISE",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:59",
+      "date": "17/07",
+      "timestamp": 1784278743
+    },
     {
       "id": "BFMTV_1784278423",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "06:21",
       "date": "15/07",
       "timestamp": 1784096515
-    },
-    {
-      "id": "BFMTV_1784093323",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE FRAPPER DES CENTRALES ÉLECTRIQUES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:28",
-      "date": "15/07",
-      "timestamp": 1784093323
-    },
-    {
-      "id": "BFMTV_1784092634",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE LE DÉTROIT D'ORMUZ RESTERAIT FERMÉ JUSQU'À LA FIN DES \"ACTES D'AGRESSION\" AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:17",
-      "date": "15/07",
-      "timestamp": 1784092634
-    },
-    {
-      "id": "BFMTV_1784090476",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ANNONCE QUE LE DÉTROIT D'ORMUZ RESTERA FERMÉ JUSQU'À LA FIN DES \"ACTES D'AGRESSION\" AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:41",
-      "date": "15/07",
-      "timestamp": 1784090476
-    },
-    {
-      "id": "BFMTV_1784090142",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE FRAPPER DES CENTRALES ÉLECTRIQUES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:35",
-      "date": "15/07",
-      "timestamp": 1784090142
-    },
-    {
-      "id": "BFMTV_1784089348",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE FRAPPER DES CENTRALES ÉLECTRIQUES EN IRAN, TÉHÉRAN NE RELÂCHE PAS LA PRESSION SUR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:22",
-      "date": "15/07",
-      "timestamp": 1784089348
-    },
-    {
-      "id": "BFMTV_1784089175",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DÉTROIT D'ORMUZ BLOQUÉ, RAIDS AMÉRICAINS ET RIPOSTE IRANIENNE... LA TENSION MONTE ENTRE TÉHÉRAN ET WASHINGTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:19",
-      "date": "15/07",
-      "timestamp": 1784089175
     }
   ],
   "france": {
