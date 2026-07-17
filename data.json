@@ -1,7 +1,37 @@
 {
-  "last_update": "17/07 10:51",
+  "last_update": "17/07 12:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784289801",
+      "source": "BFMTV",
+      "text": "UNE RUPTURE DE CANALISATION PROVOQUE D'IMPORTANTES INONDATIONS DANS LES RUES DE LOS ANGELES",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:03",
+      "date": "17/07",
+      "timestamp": 1784289801
+    },
+    {
+      "id": "BFMTV_1784288586",
+      "source": "BFMTV",
+      "text": "\"ON SE RAPPROCHE D'UN RETOUR À LA CASE DÉPART\": PRIS DANS LEUR BRAS DE FER, L’IRAN ET LES ÉTATS-UNIS S’ENFONCENT DE NOUVEAU DANS LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:43",
+      "date": "17/07",
+      "timestamp": 1784288586
+    },
+    {
+      "id": "BFMTV_1784288420",
+      "source": "BFMTV",
+      "text": "DES GUIDES DE MONTAGNE ITALIENS SUSPENDENT L’ASCENSION DU MONT BLANC À CAUSE DE LA CANICULE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:40",
+      "date": "17/07",
+      "timestamp": 1784288420
+    },
     {
       "id": "OPEX360_1784284661",
       "source": "OPEX360",
@@ -971,36 +1001,6 @@
       "time": "07:33",
       "date": "15/07",
       "timestamp": 1784100825
-    },
-    {
-      "id": "BFMTV_1784100406",
-      "source": "BFMTV",
-      "text": "UN MORT ET DEUX DISPARUS APRÈS LE NAUFRAGE D’UN BATEAU DANS LA BAIE DE SAN FRANCISCO ",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:26",
-      "date": "15/07",
-      "timestamp": 1784100406
-    },
-    {
-      "id": "BFMTV_1784098740",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ANNONCENT AVOIR LANCÉ UNE NOUVELLE SÉRIE DE FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:59",
-      "date": "15/07",
-      "timestamp": 1784098740
-    },
-    {
-      "id": "BFMTV_1784096515",
-      "source": "BFMTV",
-      "text": "INCENDIES AU CANADA: PLUS DE 50.000 HECTARES RAVAGÉS PAR LES FLAMMES PRÈS DE LA VILLE D'ARMSTRONG",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:21",
-      "date": "15/07",
-      "timestamp": 1784096515
     }
   ],
   "france": {
