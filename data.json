@@ -1,7 +1,47 @@
 {
-  "last_update": "17/07 18:04",
+  "last_update": "17/07 19:32",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784314151",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DE LA RIPOSTE IRANIENNE PUBLIÉES PAR LES GARDIENS DE LA RÉVOLUTION ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:49",
+      "date": "17/07",
+      "timestamp": 1784314151
+    },
+    {
+      "id": "BFMTV_1784313734",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP VOUDRAIT ENVOYER DES AVIONS RAVITAILLEURS EN IRAN POUR INTENSIFIER LES BOMBARDEMENTS, SELON AXIOS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:42",
+      "date": "17/07",
+      "timestamp": 1784313734
+    },
+    {
+      "id": "BFMTV_1784313708",
+      "source": "BFMTV",
+      "text": "PRÉSIDENTIELLE 2027: ELON MUSK PEUT-IL AVOIR UNE CONSÉQUENCE SUR LES VOTES?",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:41",
+      "date": "17/07",
+      "timestamp": 1784313708
+    },
+    {
+      "id": "BFMTV_1784312543",
+      "source": "BFMTV",
+      "text": "MONACO: LES IMAGES DE L'EXPLOSION DÉVOILÉES PAR LE PARQUET UKRAINIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:22",
+      "date": "17/07",
+      "timestamp": 1784312543
+    },
     {
       "id": "BFMTV_1784309961",
       "source": "BFMTV",
@@ -106,6 +146,16 @@
       "id": "BFMTV_1784302613",
       "source": "BFMTV",
       "text": "UN SÉISME DE MAGNITUDE 7,3 ENREGISTRÉ AU LARGE DU MEXIQUE, UNE ALERTE TSUNAMI A ÉTÉ ÉMISE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:36",
+      "date": "17/07",
+      "timestamp": 1784302613
+    },
+    {
+      "id": "BFMTV_1784302613",
+      "source": "BFMTV",
+      "text": "L'ALERTE AU TSUNAMI EST LEVÉE APRÈS LE SÉISME DE MAGNITUDE 7,3 DANS LE SUD DU MEXIQUE",
       "urgent": false,
       "france_related": false,
       "time": "15:36",
@@ -951,56 +1001,6 @@
       "time": "20:35",
       "date": "15/07",
       "timestamp": 1784147732
-    },
-    {
-      "id": "BFMTV_1784147416",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE AFFIRME AVOIR LANCÉ UNE NOUVELLE VAGUE DE FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:30",
-      "date": "15/07",
-      "timestamp": 1784147416
-    },
-    {
-      "id": "BFMTV_1784145537",
-      "source": "BFMTV",
-      "text": "L'UE DEMANDE À WASHINGTON DE LEVER SES TAXES SUR LES VINS, LES FROMAGES OU LES SPIRITUEUX EUROPÉENS",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:58",
-      "date": "15/07",
-      "timestamp": 1784145537
-    },
-    {
-      "id": "BFMTV_1784142851",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"DONALD TRUMP EST COMME UN LAPIN DANS LES PHARES\", IRONISE DOMINIQUE DE VILLEPIN, ANCIEN PREMIER MINISTRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:14",
-      "date": "15/07",
-      "timestamp": 1784142851
-    },
-    {
-      "id": "BFMTV_1784141972",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UNE BANDEROLE REPRÉSENTANT DONALD TRUMP DANS UN CERCUEIL INSTALLÉ AU CENTRE DE TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:59",
-      "date": "15/07",
-      "timestamp": 1784141972
-    },
-    {
-      "id": "BFMTV_1784138696",
-      "source": "BFMTV",
-      "text": "MONDIAL 2026: LA FAMILLE ROYALE ESPAGNOLE FÊTE LA QUALIFICATION DE LA ROJA EN FINALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:04",
-      "date": "15/07",
-      "timestamp": 1784138696
     }
   ],
   "france": {
