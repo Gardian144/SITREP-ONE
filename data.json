@@ -1,11 +1,41 @@
 {
-  "last_update": "18/07 11:04",
+  "last_update": "18/07 12:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784375832",
+      "source": "BFMTV",
+      "text": "\"QUE CES MORTS NE RESTENT PAS IMPUNIES\": IL EST TUÉ LORS DES SÉISMES AU VENEZUELA UN JOUR APRÈS AVOIR ÉTÉ EXPULSÉ DES ÉTATS-UNIS PAR L'ICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:57",
+      "date": "18/07",
+      "timestamp": 1784375832
+    },
+    {
+      "id": "OPEX360_1784374133",
+      "source": "OPEX360",
+      "text": "M. MACRON PROPOSE UNE COPRODUCTION DU SYSTÈME DE DÉFENSE AÉRIENNE SAMP/T NG À L’ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:28",
+      "date": "18/07",
+      "timestamp": 1784374133
+    },
     {
       "id": "BFMTV_1784371991",
       "source": "BFMTV",
       "text": "DIRECT. GUERRE EN IRAN: INCENDIES AU COURS AU KOWEÏT APRÈS DES FRAPPES IRANIENNES, DES POMPIERS BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:53",
+      "date": "18/07",
+      "timestamp": 1784371991
+    },
+    {
+      "id": "BFMTV_1784371991",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: LE KOWEÏT CONDAMNE \"L'AGRESSION IRANIENNE CRIMINELLE\" QUI A TOUCHÉ PLUSIEURS INFRASTRUCTURES ESSENTIELLES ET MENACE DE RÉPLIQUER",
       "urgent": true,
       "france_related": false,
       "time": "10:53",
@@ -971,36 +1001,6 @@
       "time": "15:37",
       "date": "16/07",
       "timestamp": 1784216266
-    },
-    {
-      "id": "BFMTV_1784214170",
-      "source": "BFMTV",
-      "text": "SAHARA OCCIDENTAL: LA POSITION DE LA FRANCE EST \"INTANGIBLE\", AFFIRME SÉBASTIEN LECORNU DEPUIS RABAT",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:02",
-      "date": "16/07",
-      "timestamp": 1784214170
-    },
-    {
-      "id": "BFMTV_1784213436",
-      "source": "BFMTV",
-      "text": "L'ÉPOUSE DU PREMIER MINISTRE ESPAGNOL PEDRO SÁNCHEZ SERA BIEN JUGÉE POUR TRAFIC D'INFLUENCE ET DÉTOURNEMENT DE FONDS PUBLICS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:50",
-      "date": "16/07",
-      "timestamp": 1784213436
-    },
-    {
-      "id": "OPEX360_1784211743",
-      "source": "OPEX360",
-      "text": "LES 16 RAFALE DESTINÉS À L’UKRAINE VONT-ILS ÊTRE PRÉLEVÉS DANS LA COMMANDE PASSÉE PAR LE MINISTÈRE DES ARMÉES EN 2024 ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:22",
-      "date": "16/07",
-      "timestamp": 1784211743
     }
   ],
   "france": {
