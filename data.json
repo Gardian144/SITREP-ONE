@@ -1,7 +1,67 @@
 {
-  "last_update": "18/07 04:14",
+  "last_update": "18/07 06:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784355514",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN:  LES GARDIENS DE LA RÉVOLUTION IRANIENS ANNONCENT QUE DEUX PÉTROLIERS ONT SAUTÉ SUR DES MINES DANS LE DÉTROIT D'ORMUZ, LES ÉTATS-UNIS DÉMENTENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:18",
+      "date": "18/07",
+      "timestamp": 1784355514
+    },
+    {
+      "id": "BFMTV_1784351176",
+      "source": "BFMTV",
+      "text": "LES GARDIENS DE LA RÉVOLUTION DISENT AVOIR \"STOPPÉ\" QUATRE NAVIRES QUI TENTAIENT DE FRANCHIR LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:06",
+      "date": "18/07",
+      "timestamp": 1784351176
+    },
+    {
+      "id": "BFMTV_1784350469",
+      "source": "BFMTV",
+      "text": "NOUVELLE NUIT DE TENSION AU MOYEN-ORIENT: L'IRAN ET LES ÉTATS-UNIS LIVRENT DEUX VERSIONS OPPOSÉES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:54",
+      "date": "18/07",
+      "timestamp": 1784350469
+    },
+    {
+      "id": "BFMTV_1784350135",
+      "source": "BFMTV",
+      "text": "INCENDIES AU CANADA: DONALD TRUMP BLÂME LE CANADA POUR LA POLLUTION DE L'AIR AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:48",
+      "date": "18/07",
+      "timestamp": 1784350135
+    },
+    {
+      "id": "BFMTV_1784349569",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS AFFIRMENT AVOIR CIBLÉ PLUSIEURS SITES MILITAIRES EN IRAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:39",
+      "date": "18/07",
+      "timestamp": 1784349569
+    },
+    {
+      "id": "BFMTV_1784349008",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: PLUS DE 370 DRONES LANCÉS VERS MOSCOU PENDANT LA NUIT, SEPT PERSONNES TUÉES DANS L'OUEST DE LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:30",
+      "date": "18/07",
+      "timestamp": 1784349008
+    },
     {
       "id": "BFMTV_1784347947",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "08:18",
       "date": "16/07",
       "timestamp": 1784189906
-    },
-    {
-      "id": "BFMTV_1784189023",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:03",
-      "date": "16/07",
-      "timestamp": 1784189023
-    },
-    {
-      "id": "BFMTV_1784188271",
-      "source": "BFMTV",
-      "text": "LE PREMIER MINISTRE SÉBASTIEN LECORNU S'EST RENDU AU MAUSOLÉE ROYAL MOHAMMED V À RABAT",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:51",
-      "date": "16/07",
-      "timestamp": 1784188271
-    },
-    {
-      "id": "BFMTV_1784187471",
-      "source": "BFMTV",
-      "text": "LE MINISTRE DE LA DÉFENSE UKRAINIEN ANNONCE SA DÉMISSION, DES MANIFESTATIONS ORGANISÉES CONTRE SON DÉPART",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:37",
-      "date": "16/07",
-      "timestamp": 1784187471
-    },
-    {
-      "id": "BFMTV_1784186905",
-      "source": "BFMTV",
-      "text": "FLORIDE: UN AVION DE LA PATROUILLE DE LA MARINE AMÉRICAINE SURVOLE UNE PLAGE À TRÈS BASSE ALTITUDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:28",
-      "date": "16/07",
-      "timestamp": 1784186905
-    },
-    {
-      "id": "BFMTV_1784185369",
-      "source": "BFMTV",
-      "text": "\"C’ÉTAIT SI PROCHE\": AUX ÉTATS-UNIS, PLUSIEURS AVIONS DES BLUE ANGELS SURVOLENT À TRÈS BASSE ALTITUDE UNE PLAGE REMPLIE DE TOURISTES",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:02",
-      "date": "16/07",
-      "timestamp": 1784185369
-    },
-    {
-      "id": "BFMTV_1784184695",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UNE ATTAQUE RUSSE TUE DEUX PERSONNES À KIEV PENDANT LA NUIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:51",
-      "date": "16/07",
-      "timestamp": 1784184695
     }
   ],
   "france": {
