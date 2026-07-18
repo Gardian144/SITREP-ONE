@@ -1,7 +1,67 @@
 {
-  "last_update": "18/07 18:00",
+  "last_update": "18/07 19:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784402934",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS AFFIRMENT AVOIR \"DÉTOURNÉ 5 NAVIRES COMMERCIAUX ET MIS HORS SERVICE 1 NAVIRE\" DEPUIS LA REPRISE DU BLOCUS DES PORTS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:28",
+      "date": "18/07",
+      "timestamp": 1784402934
+    },
+    {
+      "id": "BFMTV_1784401621",
+      "source": "BFMTV",
+      "text": "SOLDATS AMÉRICAINS TUÉS EN JORDANIE: \"LEUR SACRIFICE NE FAIT QUE RENFORCER NOTRE DÉTERMINATION\", RÉAGIT PETE HEGSETH",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:07",
+      "date": "18/07",
+      "timestamp": 1784401621
+    },
+    {
+      "id": "BFMTV_1784400396",
+      "source": "BFMTV",
+      "text": "DANS UN MESSAGE ÉCRIT, MOJTABA KHAMENEI AFFIRME QUE L'IRAN \"RÉSERVE DES LEÇONS INOUBLIABLES\" AUX ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:46",
+      "date": "18/07",
+      "timestamp": 1784400396
+    },
+    {
+      "id": "BFMTV_1784399845",
+      "source": "BFMTV",
+      "text": "LES NOUVELLES IMAGES DES FRAPPES IRANIENNES SUR LA BASE AMÉRICAINE EN JORDANIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:37",
+      "date": "18/07",
+      "timestamp": 1784399845
+    },
+    {
+      "id": "BFMTV_1784398359",
+      "source": "BFMTV",
+      "text": "LES IMAGES DES FRAPPES IRANIENNES CONTRE LA BASE AMÉRICAINE MUWAFFAQ SALTI EN JORDANIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:12",
+      "date": "18/07",
+      "timestamp": 1784398359
+    },
+    {
+      "id": "BFMTV_1784397714",
+      "source": "BFMTV",
+      "text": "DEUX MILITAIRES AMÉRICAINS TUÉS DANS DES FRAPPES IRANIENNES EN JORDANIE, UN AUTRE PORTÉ DISPARU",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:01",
+      "date": "18/07",
+      "timestamp": 1784397714
+    },
     {
       "id": "BFMTV_1784397520",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "12:10",
       "date": "17/07",
       "timestamp": 1784290229
-    },
-    {
-      "id": "BFMTV_1784289801",
-      "source": "BFMTV",
-      "text": "UNE RUPTURE DE CANALISATION PROVOQUE D'IMPORTANTES INONDATIONS DANS LES RUES DE LOS ANGELES",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:03",
-      "date": "17/07",
-      "timestamp": 1784289801
-    },
-    {
-      "id": "BFMTV_1784288586",
-      "source": "BFMTV",
-      "text": "\"ON SE RAPPROCHE D'UN RETOUR À LA CASE DÉPART\": PRIS DANS LEUR BRAS DE FER, L’IRAN ET LES ÉTATS-UNIS S’ENFONCENT DE NOUVEAU DANS LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:43",
-      "date": "17/07",
-      "timestamp": 1784288586
-    },
-    {
-      "id": "BFMTV_1784288420",
-      "source": "BFMTV",
-      "text": "DES GUIDES DE MONTAGNE ITALIENS SUSPENDENT L’ASCENSION DU MONT BLANC À CAUSE DE LA CANICULE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:40",
-      "date": "17/07",
-      "timestamp": 1784288420
-    },
-    {
-      "id": "OPEX360_1784284661",
-      "source": "OPEX360",
-      "text": "LE SUÉDOIS SAAB VA FOURNIR LE SYSTÈME DE GESTION DE COMBAT ET LES CAPTEURS DES FUTURES FRÉGATES ALLEMANDES F128",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:37",
-      "date": "17/07",
-      "timestamp": 1784284661
-    },
-    {
-      "id": "BFMTV_1784283680",
-      "source": "BFMTV",
-      "text": "LE CHANCELIER ALLEMAND FRIEDRICH MERZ REÇOIT EMMANUEL MACRON POUR UN CONSEIL DES MINISTRES FRANCO-ALLEMAND",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:21",
-      "date": "17/07",
-      "timestamp": 1784283680
-    },
-    {
-      "id": "BFMTV_1784282613",
-      "source": "BFMTV",
-      "text": "TAPENTADOL: L'OPIOÏDE VENU D'INDE QUI INONDE L'AFRIQUE DE L'OUEST",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:03",
-      "date": "17/07",
-      "timestamp": 1784282613
     }
   ],
   "france": {
