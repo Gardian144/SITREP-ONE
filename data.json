@@ -1,7 +1,37 @@
 {
-  "last_update": "18/07 21:25",
+  "last_update": "18/07 22:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784412324",
+      "source": "BFMTV",
+      "text": "LE MAIRE DE NEW YORK ZOHRAN MAMDANI ENVISAGE L'ARRESTATION DE BENJAMIN NETANYAHU LORS DE L'ASSEMBLÉE GÉNÉRALE DE L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:05",
+      "date": "18/07",
+      "timestamp": 1784412324
+    },
+    {
+      "id": "BFMTV_1784412115",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEUX MILITAIRES AMÉRICAINS TUÉS DANS DES FRAPPES IRANIENNES EN JORDANIE, UN AUTRE PORTÉ DISPARU",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:01",
+      "date": "18/07",
+      "timestamp": 1784412115
+    },
+    {
+      "id": "BFMTV_1784410730",
+      "source": "BFMTV",
+      "text": "LES SOLDATS AMÉRICAINS ONT ÉTÉ TUÉS \"AU SERVICE DE NOTRE PAYS\", RÉAGIT DONALD TRUMP QUI RÉAFFIRME QU'IL NE PERMETTRA PAS À \"L'IRAN DE POSSÉDER L'ARME NUCLÉAIRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:38",
+      "date": "18/07",
+      "timestamp": 1784410730
+    },
     {
       "id": "BFMTV_1784406979",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "13:34",
       "date": "17/07",
       "timestamp": 1784295290
-    },
-    {
-      "id": "BFMTV_1784295149",
-      "source": "BFMTV",
-      "text": "L'ALLEMAGNE VA PARTICIPER À UN EXERCICE FRANÇAIS DE DISSUASION NUCLÉAIRE",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:32",
-      "date": "17/07",
-      "timestamp": 1784295149
-    },
-    {
-      "id": "BFMTV_1784294639",
-      "source": "BFMTV",
-      "text": "\"REDONNER ESPOIR\" AUX BRITANNIQUES: CONFIRMÉ À LA TÊTE DES TRAVAILLISTES, ANDY BURNHAM PROMIS POUR SUCCÉDER À KEIR STARMER COMME PREMIER MINISTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:23",
-      "date": "17/07",
-      "timestamp": 1784294639
-    },
-    {
-      "id": "BFMTV_1784293757",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ALGÉRIE: LE FEU QUI A FAIT 11 MORTS DANS UN ORPHELINAT DE LA BANLIEUE D'ALGER ÉTAIT DÛ À UN CLIMATISEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:09",
-      "date": "17/07",
-      "timestamp": 1784293757
     }
   ],
   "france": {
