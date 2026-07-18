@@ -1,7 +1,47 @@
 {
-  "last_update": "18/07 08:18",
+  "last_update": "18/07 09:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784367533",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: PLUS DE 370 DRONES LANCÉS VERS MOSCOU PENDANT LA NUIT, HUIT PERSONNES TUÉES DANS L'OUEST DE LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:38",
+      "date": "18/07",
+      "timestamp": 1784367533
+    },
+    {
+      "id": "BFMTV_1784366741",
+      "source": "BFMTV",
+      "text": "KOWEÏT: DEUX INCENDIES EN COURS APRÈS DES FRAPPES IRANIENNES, DES POMPIERS BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:25",
+      "date": "18/07",
+      "timestamp": 1784366741
+    },
+    {
+      "id": "BFMTV_1784366561",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DES AVIONS RAVITAILLEURS AMÉRICAINS DÉPLOYÉS EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:22",
+      "date": "18/07",
+      "timestamp": 1784366561
+    },
+    {
+      "id": "BFMTV_1784362932",
+      "source": "BFMTV",
+      "text": "\"JE SUIS INQUIET POUR MES POUMONS\": DES MILLIONS D'AMÉRICAINS DU NORD-EST DU PAYS PLONGÉS DANS LA FUMÉE DES INCENDIES CANADIENS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:22",
+      "date": "18/07",
+      "timestamp": 1784362932
+    },
     {
       "id": "BFMTV_1784362082",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "12:49",
       "date": "16/07",
       "timestamp": 1784206155
-    },
-    {
-      "id": "BFMTV_1784205416",
-      "source": "BFMTV",
-      "text": "ABDELMADJID TEBBOUNE EN ALLEMAGNE: L'APPEL DES PARENTS DE CHRISTOPHE GLEIZES AU PRÉSIDENT ET AU CHANCELIER ALLEMANDS",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:36",
-      "date": "16/07",
-      "timestamp": 1784205416
-    },
-    {
-      "id": "BFMTV_1784204808",
-      "source": "BFMTV",
-      "text": "GRÂCE PRÉSIDENTIELLE POUR CHRISTOPHE GLEIZES: SA FAMILLE ET RSF GARDENT ESPOIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:26",
-      "date": "16/07",
-      "timestamp": 1784204808
-    },
-    {
-      "id": "BFMTV_1784204808",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT ALGÉRIEN EN ALLEMAGNE: LA FAMILLE DE CHRISTOPHE GLEIZES ET RSF ESPÈRENT L'AIDE DE BERLIN",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:26",
-      "date": "16/07",
-      "timestamp": 1784204808
-    },
-    {
-      "id": "BFMTV_1784198785",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: L'ARMÉE AMÉRICAINE VA MESURER LE TAUX DE TESTOSTÉRONE DE SES SOLDATS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:46",
-      "date": "16/07",
-      "timestamp": 1784198785
     }
   ],
   "france": {
