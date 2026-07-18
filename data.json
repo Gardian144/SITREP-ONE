@@ -1,7 +1,67 @@
 {
-  "last_update": "18/07 06:20",
+  "last_update": "18/07 08:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784362082",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:08",
+      "date": "18/07",
+      "timestamp": 1784362082
+    },
+    {
+      "id": "BFMTV_1784362081",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN, BOMBARDÉ PAR LES ÉTATS-UNIS POUR LA SEPTIÈME NUIT D'AFFILÉE, MENACE DE DÉCLENCHER UNE \"OFFENSIVE GLOBALE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:08",
+      "date": "18/07",
+      "timestamp": 1784362081
+    },
+    {
+      "id": "BFMTV_1784362038",
+      "source": "BFMTV",
+      "text": " GUERRE AU MOYEN-ORIENT: UNE 7ÈME NUIT CONSÉCUTIVE DE FRAPPES ENTRE L'IRAN ET LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:07",
+      "date": "18/07",
+      "timestamp": 1784362038
+    },
+    {
+      "id": "BFMTV_1784361733",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: LE PRÉSIDENT LIBANAIS EN ROUTE POUR LES ÉTATS-UNIS, OÙ IL DOIT RENCONTRER DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:02",
+      "date": "18/07",
+      "timestamp": 1784361733
+    },
+    {
+      "id": "BFMTV_1784360721",
+      "source": "BFMTV",
+      "text": "IRAN: LES GARDIENS DE LA RÉVOLUTION ANNONCENT QUE DEUX PÉTROLIERS ONT SAUTÉ SUR DES MINES DANS LE DÉTROIT D'ORMUZ, LES ÉTATS-UNIS DÉMENTENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:45",
+      "date": "18/07",
+      "timestamp": 1784360721
+    },
+    {
+      "id": "BFMTV_1784357048",
+      "source": "BFMTV",
+      "text": "INCENDIES AU CANADA: PLUS DE 200 FEUX TOUJOURS HORS DE CONTRÔLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:44",
+      "date": "18/07",
+      "timestamp": 1784357048
+    },
     {
       "id": "BFMTV_1784355514",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "10:46",
       "date": "16/07",
       "timestamp": 1784198785
-    },
-    {
-      "id": "BFMTV_1784195890",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN QUALIFIE D'\"ATTAQUE BARBARE\" LES FRAPPES AMÉRICAINES AYANT TOUCHÉ UN HÔPITAL",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:58",
-      "date": "16/07",
-      "timestamp": 1784195890
-    },
-    {
-      "id": "OPEX360_1784194883",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES RETIENT UN GROUPEMENT EMMENÉ PAR FN HERSTAL POUR PRODUIRE DES MUNITIONS DE PETIT CALIBRE EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:41",
-      "date": "16/07",
-      "timestamp": 1784194883
-    },
-    {
-      "id": "BFMTV_1784193169",
-      "source": "BFMTV",
-      "text": "\"RETROUVER ET OPTIMISER VOS CAPACITÉS NATURELLES\": LE MINISTRE DE LA DÉFENSE AMÉRICAIN ANNONCE QUE L'ARMÉE VA MESURER LE TAUX DE TESTOSTÉRONE DE SES SOLDATS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:12",
-      "date": "16/07",
-      "timestamp": 1784193169
-    },
-    {
-      "id": "BFMTV_1784192431",
-      "source": "BFMTV",
-      "text": "UNE FIGURE NÉONAZIE TRANSGENRE, SOUPÇONNÉE D'AVOIR ABUSÉ DES LOIS ALLEMANDES, FINALEMENT PLACÉE DANS UNE PRISON POUR HOMMES",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:00",
-      "date": "16/07",
-      "timestamp": 1784192431
-    },
-    {
-      "id": "BFMTV_1784191143",
-      "source": "BFMTV",
-      "text": "UN INCENDIE DANS UN ORPHELINAT PRÈS D'ALGER FAIT AU MOINS 11 MORTS ET 19 BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:39",
-      "date": "16/07",
-      "timestamp": 1784191143
-    },
-    {
-      "id": "BFMTV_1784189906",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PAKISTAN APPELLE LES ÉTATS-UNIS ET L'IRAN À REPRENDRE LES POURPARLERS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:18",
-      "date": "16/07",
-      "timestamp": 1784189906
     }
   ],
   "france": {
