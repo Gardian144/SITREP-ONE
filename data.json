@@ -1,7 +1,27 @@
 {
-  "last_update": "18/07 13:48",
+  "last_update": "18/07 14:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784385847",
+      "source": "BFMTV",
+      "text": "L'IRAN SUSPEND SES ENGAGEMENTS PRIS DANS LE CADRE DU PROTOCOLE D'ACCORD AVEC LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:44",
+      "date": "18/07",
+      "timestamp": 1784385847
+    },
+    {
+      "id": "BFMTV_1784383329",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE ATTAQUE DE DRONES UKRAINIENS FAIT AU MOINS HUIT MORTS EN RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:02",
+      "date": "18/07",
+      "timestamp": 1784383329
+    },
     {
       "id": "BFMTV_1784381847",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "20:04",
       "date": "16/07",
       "timestamp": 1784232277
-    },
-    {
-      "id": "BFMTV_1784227905",
-      "source": "BFMTV",
-      "text": "\"L'IRAN CONTINUE DE PARLER TRÈS ACTIVEMENT AVEC LES USA ET SOUHAITE CONCLURE UN ACCORD\", ASSURE LA MAISON BLANCHE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:51",
-      "date": "16/07",
-      "timestamp": 1784227905
-    },
-    {
-      "id": "BFMTV_1784227816",
-      "source": "BFMTV",
-      "text": "UNE FRONTIÈRE DE LA FRANCE VA ÊTRE MODIFIÉE, UNE PREMIÈRE DEPUIS 400 ANS",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:50",
-      "date": "16/07",
-      "timestamp": 1784227816
     }
   ],
   "france": {
