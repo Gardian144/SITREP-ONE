@@ -1,7 +1,37 @@
 {
-  "last_update": "18/07 09:55",
+  "last_update": "18/07 11:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784371991",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE EN IRAN: INCENDIES AU COURS AU KOWEÏT APRÈS DES FRAPPES IRANIENNES, DES POMPIERS BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:53",
+      "date": "18/07",
+      "timestamp": 1784371991
+    },
+    {
+      "id": "OPEX360_1784370422",
+      "source": "OPEX360",
+      "text": "CLAP DE FIN POUR LE CHAR FRANCO-ALLEMAND : PARIS ET BERLIN RÉDUISENT LE PROJET MGCS AU SEUL COMBAT COLLABORATIF",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:27",
+      "date": "18/07",
+      "timestamp": 1784370422
+    },
+    {
+      "id": "BFMTV_1784369245",
+      "source": "BFMTV",
+      "text": "PLUS DE 1.600 PERSONNES VICTIMES D'UNE ÉPIDÉMIE DE DIARRHÉE AUX ÉTATS-UNIS, UN PARASITE CONTENU DANS DE LA LAITUE VENDUE PAR TACO BELL CONSIDÉRÉ COMME RESPONSABLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:07",
+      "date": "18/07",
+      "timestamp": 1784369245
+    },
     {
       "id": "BFMTV_1784367533",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "14:22",
       "date": "16/07",
       "timestamp": 1784211743
-    },
-    {
-      "id": "BFMTV_1784209670",
-      "source": "BFMTV",
-      "text": "EFFONDREMENT MEURTRIER DU PONT DE GÊNES: 32 PERSONNES CONDAMNÉES À DES PEINES ALLANT JUSQU'À 12 ANS DE PRISON FERME",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:47",
-      "date": "16/07",
-      "timestamp": 1784209670
-    },
-    {
-      "id": "BFMTV_1784206155",
-      "source": "BFMTV",
-      "text": "CHRISTOPHE GLEIZES DÉTENU EN ALGÉRIE: IL \"COMMENCE À AVOIR LE MORAL QUI FLANCHE\", TÉMOIGNE ANTOINE BERNARD DE RSF",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:49",
-      "date": "16/07",
-      "timestamp": 1784206155
-    },
-    {
-      "id": "BFMTV_1784206155",
-      "source": "BFMTV",
-      "text": "CHRISTOPHE GLEIZES \"COMMENCE À AVOIR LE MORAL QUI FLANCHE\", SELON RSF",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:49",
-      "date": "16/07",
-      "timestamp": 1784206155
     }
   ],
   "france": {
