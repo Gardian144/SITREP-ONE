@@ -1,7 +1,17 @@
 {
-  "last_update": "19/07 21:51",
+  "last_update": "19/07 22:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784498074",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE LA MORT D'UN DE SES SOLDATS DANS LE NORD DE L'IRAK APRÈS UNE ATTAQUE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:54",
+      "date": "19/07",
+      "timestamp": 1784498074
+    },
     {
       "id": "BFMTV_1784494936",
       "source": "BFMTV",
@@ -16,6 +26,16 @@
       "id": "BFMTV_1784493030",
       "source": "BFMTV",
       "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE LA MORT D'UN DE SES MILITAIRES DANS LE NORD DE L'IRAK",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:30",
+      "date": "19/07",
+      "timestamp": 1784493030
+    },
+    {
+      "id": "BFMTV_1784493030",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
       "urgent": true,
       "france_related": false,
       "time": "20:30",
@@ -981,26 +1001,6 @@
       "time": "09:25",
       "date": "18/07",
       "timestamp": 1784366741
-    },
-    {
-      "id": "BFMTV_1784366561",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DES AVIONS RAVITAILLEURS AMÉRICAINS DÉPLOYÉS EN ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:22",
-      "date": "18/07",
-      "timestamp": 1784366561
-    },
-    {
-      "id": "BFMTV_1784362932",
-      "source": "BFMTV",
-      "text": "\"JE SUIS INQUIET POUR MES POUMONS\": DES MILLIONS D'AMÉRICAINS DU NORD-EST DU PAYS PLONGÉS DANS LA FUMÉE DES INCENDIES CANADIENS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:22",
-      "date": "18/07",
-      "timestamp": 1784362932
     }
   ],
   "france": {
