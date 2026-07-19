@@ -1,7 +1,27 @@
 {
-  "last_update": "19/07 18:38",
+  "last_update": "19/07 19:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784489841",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE LA MORT D'UN DE SES SOLDATS DANS LE NORD DE L'IRAK APRÈS UNE ATTAQUE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:37",
+      "date": "19/07",
+      "timestamp": 1784489841
+    },
+    {
+      "id": "BFMTV_1784487314",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: \"JE CRAINS QU'ON NE SOIT PLUS DANS UNE SITUATION MAÎTRISÉE\", ESTIME BERNARD GUETTA, DÉPUTÉ EUROPÉEN RENEW",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:55",
+      "date": "19/07",
+      "timestamp": 1784487314
+    },
     {
       "id": "BFMTV_1784483689",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:07",
       "date": "18/07",
       "timestamp": 1784362038
-    },
-    {
-      "id": "BFMTV_1784361733",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: LE PRÉSIDENT LIBANAIS EN ROUTE POUR LES ÉTATS-UNIS, OÙ IL DOIT RENCONTRER DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:02",
-      "date": "18/07",
-      "timestamp": 1784361733
-    },
-    {
-      "id": "BFMTV_1784360721",
-      "source": "BFMTV",
-      "text": "IRAN: LES GARDIENS DE LA RÉVOLUTION ANNONCENT QUE DEUX PÉTROLIERS ONT SAUTÉ SUR DES MINES DANS LE DÉTROIT D'ORMUZ, LES ÉTATS-UNIS DÉMENTENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:45",
-      "date": "18/07",
-      "timestamp": 1784360721
     }
   ],
   "france": {
