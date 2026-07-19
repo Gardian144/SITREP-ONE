@@ -1,7 +1,67 @@
 {
-  "last_update": "19/07 11:56",
+  "last_update": "19/07 13:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784466823",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT : L’ARMÉE ISRAÉLIENNE DIT QU’UN MISSILE IRANIEN VISANT AQABA A ÉTÉ INTERCEPTÉ PAR SES FORCES ARMÉES",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:13",
+      "date": "19/07",
+      "timestamp": 1784466823
+    },
+    {
+      "id": "BFMTV_1784466553",
+      "source": "BFMTV",
+      "text": "LES IMAGES IMPRESSIONNANTES DE L'INCENDIE EN ESPAGNE QUI A BRÛLÉ ENVIRON 16.000 HECTARES À SARAGOSSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:09",
+      "date": "19/07",
+      "timestamp": 1784466553
+    },
+    {
+      "id": "BFMTV_1784465405",
+      "source": "BFMTV",
+      "text": "\"UN RAYON DE LUMIÈRE\": UN CHAT SORTI DES DÉCOMBRES AU VENEZUELA PLUS DE TROIS SEMAINES APRÈS LE DOUBLE SÉISME QUI A FAIT PLUS DE 5.000 MORTS",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:50",
+      "date": "19/07",
+      "timestamp": 1784465405
+    },
+    {
+      "id": "BFMTV_1784465106",
+      "source": "BFMTV",
+      "text": "L'INFLUENCEUR MASCULINISTE ANDREW TATE ET SON FRÈRE ARRÊTÉS AUX ÉTATS-UNIS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:45",
+      "date": "19/07",
+      "timestamp": 1784465106
+    },
+    {
+      "id": "BFMTV_1784464187",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: ISRAËL DIT QU'UN MISSILE IRANIEN VISANT LA JORDANIE A ÉTÉ INTERCEPTÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:29",
+      "date": "19/07",
+      "timestamp": 1784464187
+    },
+    {
+      "id": "BFMTV_1784462238",
+      "source": "BFMTV",
+      "text": "\"MOYEN DE FLOTTAISON DE FORTUNE\": SEPT SURVIVANTS RETROUVÉS PLUSIEURS JOURS APRÈS UN NAUFRAGE EN INDONÉSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:57",
+      "date": "19/07",
+      "timestamp": 1784462238
+    },
     {
       "id": "BFMTV_1784462026",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "04:07",
       "date": "18/07",
       "timestamp": 1784347640
-    },
-    {
-      "id": "BFMTV_1784347475",
-      "source": "BFMTV",
-      "text": "IRAN: LES GARDIENS DE LA RÉVOLUTION ANNONCENT QUE DEUX PÉTROLIERS ONT SAUTÉ SUR DES MINES DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:04",
-      "date": "18/07",
-      "timestamp": 1784347475
-    },
-    {
-      "id": "BFMTV_1784326288",
-      "source": "BFMTV",
-      "text": "MONDIAL: \"C'EST DE LOIN LE PLUS GRAND MONDIAL DE L'HISTOIRE\" ASSURE DONALD TRUMP AVANT LA FINALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:11",
-      "date": "17/07",
-      "timestamp": 1784326288
-    },
-    {
-      "id": "BFMTV_1784325758",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: CINQ EXPLOSIONS ENTENDUES À YAZD DANS LE CENTRE DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:02",
-      "date": "17/07",
-      "timestamp": 1784325758
-    },
-    {
-      "id": "BFMTV_1784324981",
-      "source": "BFMTV",
-      "text": "\"LE RÊVE AMÉRICAIN EST DEVENU RÉALITÉ\": GIANNI INFANTINO ACCUEILLE DONALD TRUMP À UNE RÉCEPTION DE LA FIFA",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:49",
-      "date": "17/07",
-      "timestamp": 1784324981
-    },
-    {
-      "id": "BFMTV_1784324897",
-      "source": "BFMTV",
-      "text": "DOUBLE SÉISME AU VENEZUELA: LE BILAN DÉPASSE LE CAP DES 5.000 MORTS, 16.740 BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:48",
-      "date": "17/07",
-      "timestamp": 1784324897
-    },
-    {
-      "id": "BFMTV_1784324781",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"ON EST EN TRAIN DE GAGNER GROS EN IRAN ET CE TRAVAIL PORTERA SES FRUITS TRÈS BIENTÔT\", AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:46",
-      "date": "17/07",
-      "timestamp": 1784324781
     }
   ],
   "france": {
