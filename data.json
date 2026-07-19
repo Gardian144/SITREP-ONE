@@ -1,7 +1,77 @@
 {
-  "last_update": "19/07 07:14",
+  "last_update": "19/07 09:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784451090",
+      "source": "BFMTV",
+      "text": "INCENDIES: AU MOINS 12.000 HECTARES BRÛLÉS DANS UN FEU À 100 KILOMÈTRES AU NORD DE MADRID, DES CENTAINES DE PERSONNES ÉVACUÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:51",
+      "date": "19/07",
+      "timestamp": 1784451090
+    },
+    {
+      "id": "BFMTV_1784450670",
+      "source": "BFMTV",
+      "text": "UN VÉHICULE ROULAIT À CONTRESENS: DEUX MORTS ET TROIS ENFANTS DANS UN \"ÉTAT CRITIQUE\" APRÈS UN ACCIDENT DE LA ROUTE EN ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:44",
+      "date": "19/07",
+      "timestamp": 1784450670
+    },
+    {
+      "id": "BFMTV_1784450293",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE DIT AVOIR CIBLÉ LES AUTEURS DE L'ATTAQUE QUI A COÛTÉ LA VIE À DEUX DE SES SOLDATS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:38",
+      "date": "19/07",
+      "timestamp": 1784450293
+    },
+    {
+      "id": "BFMTV_1784449923",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DES SIRÈNES D'ALERTE AÉRIENNE DÉCLENCHÉES À BAHREÏN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:32",
+      "date": "19/07",
+      "timestamp": 1784449923
+    },
+    {
+      "id": "BFMTV_1784449882",
+      "source": "BFMTV",
+      "text": "NAUFRAGE D'UN FERRY AVEC 116 PERSONNES À BORD AU LARGE DES CÔTES DU GUYANA",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:31",
+      "date": "19/07",
+      "timestamp": 1784449882
+    },
+    {
+      "id": "BFMTV_1784449398",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: ISRAËL SE PRÉPARE À DE NOUVELLES FRAPPES DE LA PART DES GARDIENS DE LA RÉVOLUTION",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:23",
+      "date": "19/07",
+      "timestamp": 1784449398
+    },
+    {
+      "id": "BFMTV_1784448598",
+      "source": "BFMTV",
+      "text": "VENEZUELA: UN CHAT SAUVÉ DES DÉCOMBRES 26 JOURS APRÈS LE DOUBLE SÉISME",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:09",
+      "date": "19/07",
+      "timestamp": 1784448598
+    },
     {
       "id": "BFMTV_1784443592",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "18:41",
       "date": "17/07",
       "timestamp": 1784313708
-    },
-    {
-      "id": "BFMTV_1784312543",
-      "source": "BFMTV",
-      "text": "MONACO: LES IMAGES DE L'EXPLOSION DÉVOILÉES PAR LE PARQUET UKRAINIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:22",
-      "date": "17/07",
-      "timestamp": 1784312543
-    },
-    {
-      "id": "BFMTV_1784309961",
-      "source": "BFMTV",
-      "text": "LE FUTUR PREMIER MINISTRE BRITANNIQUE ANDY BURNHAM S'ENGAGE À \"REDONNER DE L'ESPOIR\" AUX BRITANNIQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:39",
-      "date": "17/07",
-      "timestamp": 1784309961
-    },
-    {
-      "id": "OPEX360_1784309899",
-      "source": "OPEX360",
-      "text": "L’ALLEMAGNE VA PARTICIPER À UN EXERCICE NUCLÉAIRE «POKER» DES FORCES AÉRIENNES STRATÉGIQUES FRANÇAISES D’ICI LA FIN 2026",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:38",
-      "date": "17/07",
-      "timestamp": 1784309899
-    },
-    {
-      "id": "BFMTV_1784308572",
-      "source": "BFMTV",
-      "text": "CHINE: UN GLISSEMENT DE TERRAIN FAIT AU MOINS 8 MORTS ET 34 DISPARUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:16",
-      "date": "17/07",
-      "timestamp": 1784308572
-    },
-    {
-      "id": "OPEX360_1784306064",
-      "source": "OPEX360",
-      "text": "LA ROYAL AIR FORCE LANCE UN PROJET DE DRONE DE COMBAT COLLABORATIF APPELÉ «STORM FIGHTER»",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:34",
-      "date": "17/07",
-      "timestamp": 1784306064
-    },
-    {
-      "id": "BFMTV_1784305635",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION ASSURENT QUE L'IRAN CONTINUERA SES FRAPPES JUSQU'À UN \"RETOUR AU CALME\" DANS LE SUD ET À ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:27",
-      "date": "17/07",
-      "timestamp": 1784305635
-    },
-    {
-      "id": "BFMTV_1784303856",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:57",
-      "date": "17/07",
-      "timestamp": 1784303856
     }
   ],
   "france": {
