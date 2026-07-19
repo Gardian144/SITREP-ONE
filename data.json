@@ -1,7 +1,27 @@
 {
-  "last_update": "19/07 19:53",
+  "last_update": "19/07 20:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784493030",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE LA MORT D'UN DE SES MILITAIRES DANS LE NORD DE L'IRAK",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:30",
+      "date": "19/07",
+      "timestamp": 1784493030
+    },
+    {
+      "id": "BFMTV_1784490797",
+      "source": "BFMTV",
+      "text": "L'ARMÉE AMÉRICAINE ANNONCE LA MORT D'UN SOLDAT DANS LE NORD DE L'IRAK APRÈS UNE ATTAQUE IRANIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:53",
+      "date": "19/07",
+      "timestamp": 1784490797
+    },
     {
       "id": "BFMTV_1784489841",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:08",
       "date": "18/07",
       "timestamp": 1784362082
-    },
-    {
-      "id": "BFMTV_1784362081",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN, BOMBARDÉ PAR LES ÉTATS-UNIS POUR LA SEPTIÈME NUIT D'AFFILÉE, MENACE DE DÉCLENCHER UNE \"OFFENSIVE GLOBALE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:08",
-      "date": "18/07",
-      "timestamp": 1784362081
-    },
-    {
-      "id": "BFMTV_1784362038",
-      "source": "BFMTV",
-      "text": " GUERRE AU MOYEN-ORIENT: UNE 7ÈME NUIT CONSÉCUTIVE DE FRAPPES ENTRE L'IRAN ET LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:07",
-      "date": "18/07",
-      "timestamp": 1784362038
     }
   ],
   "france": {
