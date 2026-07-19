@@ -1,7 +1,57 @@
 {
-  "last_update": "19/07 09:19",
+  "last_update": "19/07 10:52",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1784457412",
+      "source": "OPEX360",
+      "text": "LE FRANÇAIS TR EQUIPEMENT A DÉVOILÉ UNE MOTO ARMÉE D’UNE MITRAILLEUSE LÉGÈRE EVOLYS",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:36",
+      "date": "19/07",
+      "timestamp": 1784457412
+    },
+    {
+      "id": "BFMTV_1784456425",
+      "source": "BFMTV",
+      "text": "INCENDIES: AU MOINS 13.000 HECTARES BRÛLÉS DANS UN FEU À 100 KILOMÈTRES AU NORD DE MADRID, DES CENTAINES DE PERSONNES ÉVACUÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:20",
+      "date": "19/07",
+      "timestamp": 1784456425
+    },
+    {
+      "id": "BFMTV_1784456403",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION DÉCLARENT QUE DEUX NAVIRES ONT ÉTÉ \"IMPLIQUÉS DANS UN ACCIDENT\" DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:20",
+      "date": "19/07",
+      "timestamp": 1784456403
+    },
+    {
+      "id": "BFMTV_1784455925",
+      "source": "BFMTV",
+      "text": "NAUFRAGE D'UN FERRY AVEC 116 PERSONNES À BORD AU LARGE DES CÔTES DU GUYANA, AU MOINS 53 SAUVÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:12",
+      "date": "19/07",
+      "timestamp": 1784455925
+    },
+    {
+      "id": "BFMTV_1784453768",
+      "source": "BFMTV",
+      "text": "\"UNE INTENSIFICATION DES CONFLITS\": APRÈS LA MORT DE DEUX SOLDATS AMÉRICAINS DANS DES FRAPPES IRANIENNES, LA CRAINTE D'UNE NOUVELLE ESCALADE DE LA VIOLENCE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:36",
+      "date": "19/07",
+      "timestamp": 1784453768
+    },
     {
       "id": "BFMTV_1784451090",
       "source": "BFMTV",
@@ -131,6 +181,16 @@
       "time": "05:46",
       "date": "19/07",
       "timestamp": 1784439991
+    },
+    {
+      "id": "BFMTV_1784438413",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:20",
+      "date": "19/07",
+      "timestamp": 1784438413
     },
     {
       "id": "BFMTV_1784438412",
@@ -941,66 +1001,6 @@
       "time": "20:44",
       "date": "17/07",
       "timestamp": 1784321052
-    },
-    {
-      "id": "BFMTV_1784320652",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE UNE NOUVELLE SÉRIE DE FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:37",
-      "date": "17/07",
-      "timestamp": 1784320652
-    },
-    {
-      "id": "BFMTV_1784320504",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA REPRISE DES HOSTILITÉS A DE LOURDES CONSÉQUENCES SUR LE TRAFIC MARITIME DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:35",
-      "date": "17/07",
-      "timestamp": 1784320504
-    },
-    {
-      "id": "BFMTV_1784317528",
-      "source": "BFMTV",
-      "text": "DES MILLIERS DE MANIFESTANTS PROTESTENT CONTRE LE LIMOGEAGE DU MINISTRE DE LA DÉFENSE UKRAINIEN À KIEV",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:45",
-      "date": "17/07",
-      "timestamp": 1784317528
-    },
-    {
-      "id": "BFMTV_1784314151",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES IMAGES DE LA RIPOSTE IRANIENNE PUBLIÉES PAR LES GARDIENS DE LA RÉVOLUTION ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:49",
-      "date": "17/07",
-      "timestamp": 1784314151
-    },
-    {
-      "id": "BFMTV_1784313734",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP VOUDRAIT ENVOYER DES AVIONS RAVITAILLEURS EN IRAN POUR INTENSIFIER LES BOMBARDEMENTS, SELON AXIOS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:42",
-      "date": "17/07",
-      "timestamp": 1784313734
-    },
-    {
-      "id": "BFMTV_1784313708",
-      "source": "BFMTV",
-      "text": "PRÉSIDENTIELLE 2027: ELON MUSK PEUT-IL AVOIR UNE CONSÉQUENCE SUR LES VOTES?",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:41",
-      "date": "17/07",
-      "timestamp": 1784313708
     }
   ],
   "france": {
