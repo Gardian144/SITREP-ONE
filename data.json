@@ -1,7 +1,57 @@
 {
-  "last_update": "19/07 01:01",
+  "last_update": "19/07 04:34",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784435204",
+      "source": "BFMTV",
+      "text": "PONT DE BANDAR ABBAS BOMBARDÉ: COMMENT LES ÉTATS-UNIS TENTENT D'ISOLER L'IRAN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:26",
+      "date": "19/07",
+      "timestamp": 1784435204
+    },
+    {
+      "id": "BFMTV_1784434343",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS UN MORT ET SEPT BLESSÉS DANS DE NOUVELLES ATTAQUES DE MISSILES BALISTIQUES RUSSES SUR KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:12",
+      "date": "19/07",
+      "timestamp": 1784434343
+    },
+    {
+      "id": "BFMTV_1784433983",
+      "source": "BFMTV",
+      "text": "IRAN: L'ARMÉE AMÉRICAINE DIT AVOIR CIBLÉ LES AUTEURS DE L'ATTAQUE QUI A COÛTÉ LA VIE À DEUX DE SES SOLDATS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:06",
+      "date": "19/07",
+      "timestamp": 1784433983
+    },
+    {
+      "id": "BFMTV_1784433810",
+      "source": "BFMTV",
+      "text": "KOWEÏT, BAHREÏN... L'IRAN CONTINUE D'EMBRASER LE GOLFE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:03",
+      "date": "19/07",
+      "timestamp": 1784433810
+    },
+    {
+      "id": "BFMTV_1784432957",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS BOMBARDENT À NOUVEAU L'IRAN APRÈS LA MORT DE DEUX DE LEURS SOLDATS",
+      "urgent": true,
+      "france_related": false,
+      "time": "03:49",
+      "date": "19/07",
+      "timestamp": 1784432957
+    },
     {
       "id": "BFMTV_1784412324",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "14:44",
       "date": "17/07",
       "timestamp": 1784299471
-    },
-    {
-      "id": "BFMTV_1784299443",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY \"AVAIT SANS DOUTE SOUS-ESTIMÉ LE MÉCONTENTEMENT POPULAIRE QUE ÇA GÉNÉRERAIT\": LE LIMOGEAGE DU MINISTRE DE LA DÉFENSE EN UKRAINE DIVISE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:44",
-      "date": "17/07",
-      "timestamp": 1784299443
-    },
-    {
-      "id": "BFMTV_1784298421",
-      "source": "BFMTV",
-      "text": "FRANCE/ALLEMAGNE: L'OBJECTIF DE LA DISSUASION AVANCÉE \"EN AUCUN CAS NE VISE UN CO-FINANCEMENT DU NUCLÉAIRE FRANÇAIS\", DÉCLARE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:27",
-      "date": "17/07",
-      "timestamp": 1784298421
-    },
-    {
-      "id": "BFMTV_1784296936",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: EMMANUEL MACRON \"APPELLE LES IRANIENS\" À \"RESPECTER\" L'ACCORD DE PAIX SIGNÉ EN JUIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:02",
-      "date": "17/07",
-      "timestamp": 1784296936
-    },
-    {
-      "id": "BFMTV_1784296868",
-      "source": "BFMTV",
-      "text": "LE CHANCELIER ALLEMAND FRIEDRICH MERZ PROMET DE \"TENDRE LA MAIN\" À TOUT DIRIGEANT FRANÇAIS ÉLU EN 2027",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:01",
-      "date": "17/07",
-      "timestamp": 1784296868
-    },
-    {
-      "id": "BFMTV_1784295290",
-      "source": "BFMTV",
-      "text": "\"NOUS N'AVONS PAS FERMÉ LES YEUX DEVANT CETTE DURE RÉALITÉ\": LE CHANCELIER ALLEMAND REVIENT SUR L'ÉCHEC DU SCAF",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:34",
-      "date": "17/07",
-      "timestamp": 1784295290
     }
   ],
   "france": {
