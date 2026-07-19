@@ -1,7 +1,47 @@
 {
-  "last_update": "19/07 10:52",
+  "last_update": "19/07 11:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784462026",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN AFFIRME QUE LES ÉTATS-UNIS ONT ATTAQUÉ UNE CENTRALE NUCLÉAIRE EN CONSTRUCTION",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:53",
+      "date": "19/07",
+      "timestamp": 1784462026
+    },
+    {
+      "id": "BFMTV_1784461011",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT AVOIR STOPPÉ PLUSIEURS NAVIRES QUI TENTAIENT DE FRANCHIR LE DÉTROIT D'ORMUZ \"EN IGNORANT LES AVERTISSEMENTS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:36",
+      "date": "19/07",
+      "timestamp": 1784461011
+    },
+    {
+      "id": "OPEX360_1784459986",
+      "source": "OPEX360",
+      "text": "LORS DE PEGASE 26, L’ARMÉE DE L’AIR VA SE PROJETER SUR UN «ARC STRATÉGIQUE ÉTENDU», ALLANT DU GROENLAND AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:19",
+      "date": "19/07",
+      "timestamp": 1784459986
+    },
+    {
+      "id": "BFMTV_1784458998",
+      "source": "BFMTV",
+      "text": "REPRISES DE TENSIONS AU MOYEN-ORIENT: L'ANALYSE DU GÉNÉRAL PATRICK DUTARTRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:03",
+      "date": "19/07",
+      "timestamp": 1784458998
+    },
     {
       "id": "OPEX360_1784457412",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "21:46",
       "date": "17/07",
       "timestamp": 1784324781
-    },
-    {
-      "id": "BFMTV_1784324394",
-      "source": "BFMTV",
-      "text": "\"SI L'AMÉRIQUE POURSUIT LA GUERRE DANS LES DEUX OU TROIS PROCHAINS JOURS, NOUS PASSERONS À UNE OFFENSIVE D'ENVERGURE\", ANNONCE MOHSEN REZAÏ, OFFICIER SUPÉRIEUR DE L'ARMÉE DES GARDIENS DE LA RÉVOLUTION",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:39",
-      "date": "17/07",
-      "timestamp": 1784324394
-    },
-    {
-      "id": "BFMTV_1784322110",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE QATAR CONDAMNE FERMEMENT LES ATTAQUES IRANIENNES CONTRE LA RÉGION SEMI-AUTONOME KURDE D'IRAK",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:01",
-      "date": "17/07",
-      "timestamp": 1784322110
-    },
-    {
-      "id": "BFMTV_1784321283",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP BLÂME LE CANADA POUR LA POLLUTION DE L'AIR AUX ÉTATS-UNIS À CAUSE DES FEUX DE FORÊT",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:48",
-      "date": "17/07",
-      "timestamp": 1784321283
-    },
-    {
-      "id": "BFMTV_1784321052",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE MENER UNE NOUVELLE SÉRIE DE FRAPPES CONTRE L'IRAN POUR LA SEPTIÈME NUIT CONSÉCUTIVE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:44",
-      "date": "17/07",
-      "timestamp": 1784321052
     }
   ],
   "france": {
