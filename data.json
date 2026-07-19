@@ -1,7 +1,37 @@
 {
-  "last_update": "19/07 14:38",
+  "last_update": "19/07 15:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784474258",
+      "source": "BFMTV",
+      "text": "MASCULINISTE, EX-COMBATTANT DE KICKBOXING, INFLUENCEUR AUX 10 MILLIONS D'ABONNÉS: QUI EST ANDREW TATE ARRÊTÉ POUR VIOLS ET TRAITE D'ÊTRE HUMAIN AUX ÉTATS-UNIS?",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:17",
+      "date": "19/07",
+      "timestamp": 1784474258
+    },
+    {
+      "id": "BFMTV_1784473715",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN FRAPPE À NOUVEAU SES VOISINS APRÈS LES ATTAQUES AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:08",
+      "date": "19/07",
+      "timestamp": 1784473715
+    },
+    {
+      "id": "BFMTV_1784472467",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT : L'IRAN AFFIRME QUE LES ETATS-UNIS ONT ATTAQUÉ UNE CENTRALE NUCLÉAIRE EN CONSTRUCTION",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:47",
+      "date": "19/07",
+      "timestamp": 1784472467
+    },
     {
       "id": "BFMTV_1784470497",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "06:44",
       "date": "18/07",
       "timestamp": 1784357048
-    },
-    {
-      "id": "BFMTV_1784355514",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN:  LES GARDIENS DE LA RÉVOLUTION IRANIENS ANNONCENT QUE DEUX PÉTROLIERS ONT SAUTÉ SUR DES MINES DANS LE DÉTROIT D'ORMUZ, LES ÉTATS-UNIS DÉMENTENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:18",
-      "date": "18/07",
-      "timestamp": 1784355514
-    },
-    {
-      "id": "BFMTV_1784351176",
-      "source": "BFMTV",
-      "text": "LES GARDIENS DE LA RÉVOLUTION DISENT AVOIR \"STOPPÉ\" QUATRE NAVIRES QUI TENTAIENT DE FRANCHIR LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:06",
-      "date": "18/07",
-      "timestamp": 1784351176
-    },
-    {
-      "id": "BFMTV_1784350469",
-      "source": "BFMTV",
-      "text": "NOUVELLE NUIT DE TENSION AU MOYEN-ORIENT: L'IRAN ET LES ÉTATS-UNIS LIVRENT DEUX VERSIONS OPPOSÉES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:54",
-      "date": "18/07",
-      "timestamp": 1784350469
     }
   ],
   "france": {
