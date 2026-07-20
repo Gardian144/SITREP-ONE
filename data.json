@@ -1,7 +1,67 @@
 {
-  "last_update": "20/07 03:14",
+  "last_update": "20/07 06:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784528769",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: AU MOINS UN MORT ET PLUSIEURS BLESSÉES APRÈS DES FRAPPES AMÉRICAINES EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:26",
+      "date": "20/07",
+      "timestamp": 1784528769
+    },
+    {
+      "id": "BFMTV_1784526719",
+      "source": "BFMTV",
+      "text": "FRAPPES, ENGIN EXPLOSIF... CE QUE L'ON SAIT DE LA MORT DES SOLDATS AMÉRICAINS TUÉS CE WEEK-END AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:51",
+      "date": "20/07",
+      "timestamp": 1784526719
+    },
+    {
+      "id": "BFMTV_1784522301",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: APRÈS L'ANNONCE DE LA MORT D'UN TROISIÈME SOLDAT AMÉRICAIN, LES FRAPPES ENTRE L'IRAN ET LES ÉTATS-UNIS S'INTENSIFIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:38",
+      "date": "20/07",
+      "timestamp": 1784522301
+    },
+    {
+      "id": "BFMTV_1784521962",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: PLUS DE 400 DRONES LANCÉS VERS MOSCOU PENDANT LA NUIT INTERCEPTÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:32",
+      "date": "20/07",
+      "timestamp": 1784521962
+    },
+    {
+      "id": "BFMTV_1784521053",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: PONTS, AÉROPORTS, GARES... LES INFRASTRUCTURES CIVILES DE PLUS EN PLUS CIBLÉES PAR TÉHÉRAN ET WASHINGTON",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:17",
+      "date": "20/07",
+      "timestamp": 1784521053
+    },
+    {
+      "id": "BFMTV_1784520872",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE LA MORT D'UN SOLDAT EN IRAK, LE TROISIÈME EN 72H",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:14",
+      "date": "20/07",
+      "timestamp": 1784520872
+    },
     {
       "id": "BFMTV_1784498074",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "11:28",
       "date": "18/07",
       "timestamp": 1784374133
-    },
-    {
-      "id": "BFMTV_1784371991",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: INCENDIES AU COURS AU KOWEÏT APRÈS DES FRAPPES IRANIENNES, DES POMPIERS BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:53",
-      "date": "18/07",
-      "timestamp": 1784371991
-    },
-    {
-      "id": "BFMTV_1784371991",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE EN IRAN: LE KOWEÏT CONDAMNE \"L'AGRESSION IRANIENNE CRIMINELLE\" QUI A TOUCHÉ PLUSIEURS INFRASTRUCTURES ESSENTIELLES ET MENACE DE RÉPLIQUER",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:53",
-      "date": "18/07",
-      "timestamp": 1784371991
-    },
-    {
-      "id": "OPEX360_1784370422",
-      "source": "OPEX360",
-      "text": "CLAP DE FIN POUR LE CHAR FRANCO-ALLEMAND : PARIS ET BERLIN RÉDUISENT LE PROJET MGCS AU SEUL COMBAT COLLABORATIF",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:27",
-      "date": "18/07",
-      "timestamp": 1784370422
-    },
-    {
-      "id": "BFMTV_1784369245",
-      "source": "BFMTV",
-      "text": "PLUS DE 1.600 PERSONNES VICTIMES D'UNE ÉPIDÉMIE DE DIARRHÉE AUX ÉTATS-UNIS, UN PARASITE CONTENU DANS DE LA LAITUE VENDUE PAR TACO BELL CONSIDÉRÉ COMME RESPONSABLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:07",
-      "date": "18/07",
-      "timestamp": 1784369245
-    },
-    {
-      "id": "BFMTV_1784367533",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: PLUS DE 370 DRONES LANCÉS VERS MOSCOU PENDANT LA NUIT, HUIT PERSONNES TUÉES DANS L'OUEST DE LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:38",
-      "date": "18/07",
-      "timestamp": 1784367533
-    },
-    {
-      "id": "BFMTV_1784366741",
-      "source": "BFMTV",
-      "text": "KOWEÏT: DEUX INCENDIES EN COURS APRÈS DES FRAPPES IRANIENNES, DES POMPIERS BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:25",
-      "date": "18/07",
-      "timestamp": 1784366741
     }
   ],
   "france": {
