@@ -1,7 +1,97 @@
 {
-  "last_update": "20/07 16:14",
+  "last_update": "20/07 18:21",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784571456",
+      "source": "BFMTV",
+      "text": "AIR FRANCE SUSPEND SES VOLS VERS RIYAD JUSQU'AU 24 JUILLET INCLUS, ET VERS DUBAÏ JUSQU'AU 27 JUILLET INCLUS",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:17",
+      "date": "20/07",
+      "timestamp": 1784571456
+    },
+    {
+      "id": "BFMTV_1784570108",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QUE BENJAMIN NETANYAHU NE SERA PAS ARRÊTÉ AUX ÉTATS-UNIS, CONTRAIREMENT À LA POSSIBILITÉ AVANCÉE PAR LE MAIRE DE NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:55",
+      "date": "20/07",
+      "timestamp": 1784570108
+    },
+    {
+      "id": "BFMTV_1784569186",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: QUI EST ANDY BURNHAM, LE TOUT NOUVEAU PREMIER MINISTRE BRITANNIQUE ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:39",
+      "date": "20/07",
+      "timestamp": 1784569186
+    },
+    {
+      "id": "BFMTV_1784568927",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DIT QUE SON NOUVEL AVION AIR FORCE ONE A BESOIN D'AMÉLIORATIONS, APRÈS DES CRAINTES DE SÉCURITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:35",
+      "date": "20/07",
+      "timestamp": 1784568927
+    },
+    {
+      "id": "BFMTV_1784568139",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: L'ARMÉE DU KOWEÏT DIT AFFRONTER DES TIRS DE MISSILES ET DE DRONES IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:22",
+      "date": "20/07",
+      "timestamp": 1784568139
+    },
+    {
+      "id": "OPEX360_1784567685",
+      "source": "OPEX360",
+      "text": "THALES NOUE UN PARTENARIAT STRATÉGIQUE AVEC DESTINUS POUR DÉVELOPPER DE NOUVELLES CAPACITÉS DE PROTECTION ET DE FRAPPE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:14",
+      "date": "20/07",
+      "timestamp": 1784567685
+    },
+    {
+      "id": "OPEX360_1784564654",
+      "source": "OPEX360",
+      "text": "LE DRONE MALE AMÉRICAIN MQ-9B SKYGUARDIAN POURRA BIENTÔT EMPORTER LE MISSILE DE CROISIÈRE À LONGUE PORTÉE JSM",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:24",
+      "date": "20/07",
+      "timestamp": 1784564654
+    },
+    {
+      "id": "BFMTV_1784564553",
+      "source": "BFMTV",
+      "text": "ALLEMAGNE: UNE PROFESSEURE D'UNIVERSITÉ CRITIQUE \"À L'ÉGARD DES IDENTITÉS TRANS\", LES ÉTUDIANTS EXIGENT SON RENVOI",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:22",
+      "date": "20/07",
+      "timestamp": 1784564553
+    },
+    {
+      "id": "BFMTV_1784564503",
+      "source": "BFMTV",
+      "text": "DEUX DIPLOMATES FRANÇAIS DÉTENUS PLUSIEURS HEURES EN IRAN, LA FRANCE DÉNONCE UNE \"ACTION D'INTIMIDATION\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:21",
+      "date": "20/07",
+      "timestamp": 1784564503
+    },
     {
       "id": "BFMTV_1784563064",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "06:29",
       "date": "19/07",
       "timestamp": 1784442568
-    },
-    {
-      "id": "BFMTV_1784440500",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - GUERRE AU MOYEN-ORIENT: DANS LE GOLFE, L'IRAN VISE DES USINES STRATÉGIQUES DE DESSALEMENT D'EAU",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:55",
-      "date": "19/07",
-      "timestamp": 1784440500
-    },
-    {
-      "id": "BFMTV_1784440034",
-      "source": "BFMTV",
-      "text": "L'INFLUENCEUR MASCULINISTE ANDREW TATE ET SON FRÈRE TRISTAN ARRÊTÉS À MIAMI À LA DEMANDE DU ROYAUME-UNI",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:47",
-      "date": "19/07",
-      "timestamp": 1784440034
-    },
-    {
-      "id": "BFMTV_1784439991",
-      "source": "BFMTV",
-      "text": "VENEZUELA: UN CHAT SAUVÉ DES DÉCOMBRES, 26 JOURS APRÈS LE DOUBLE SÉISME",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:46",
-      "date": "19/07",
-      "timestamp": 1784439991
-    },
-    {
-      "id": "BFMTV_1784438413",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:20",
-      "date": "19/07",
-      "timestamp": 1784438413
-    },
-    {
-      "id": "BFMTV_1784438412",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS UN MORT DANS DES BOMBARDEMENTS À KIEV, AU LENDEMAIN D'ATTAQUES UKRAINIENNES MEURTRIÈRES EN RUSSIE",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:20",
-      "date": "19/07",
-      "timestamp": 1784438412
-    },
-    {
-      "id": "BFMTV_1784438275",
-      "source": "BFMTV",
-      "text": "INCENDIES AU CANADA: LE DIRIGEANT DE L'ONTARIO JUGE LES CRITIQUES DES ÉTATS-UNIS \"INACCEPTABLES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:17",
-      "date": "19/07",
-      "timestamp": 1784438275
-    },
-    {
-      "id": "BFMTV_1784435942",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TÉHÉRAN PROMET UNE \"OFFENSIVE D'ENVERGURE SI L'AMÉRIQUE POURSUIT LA GUERRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:39",
-      "date": "19/07",
-      "timestamp": 1784435942
-    },
-    {
-      "id": "BFMTV_1784435634",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES PAYS DU GOLFE REDOUTENT UNE NOUVELLE ESCALADE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:33",
-      "date": "19/07",
-      "timestamp": 1784435634
-    },
-    {
-      "id": "BFMTV_1784435204",
-      "source": "BFMTV",
-      "text": "PONT DE BANDAR ABBAS BOMBARDÉ: COMMENT LES ÉTATS-UNIS TENTENT D'ISOLER L'IRAN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:26",
-      "date": "19/07",
-      "timestamp": 1784435204
     }
   ],
   "france": {
