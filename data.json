@@ -1,7 +1,97 @@
 {
-  "last_update": "20/07 14:32",
+  "last_update": "20/07 16:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784563064",
+      "source": "BFMTV",
+      "text": "DEUX DIPLOMATES FRANÇAIS ONT ÉTÉ DÉTENUS PLUSIEURS HEURES EN IRAN ANNONCE JEAN-NOËL BARROT",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:57",
+      "date": "20/07",
+      "timestamp": 1784563064
+    },
+    {
+      "id": "BFMTV_1784562697",
+      "source": "BFMTV",
+      "text": "DEUX DIPLOMATES FRANÇAIS DÉTENUS PLUSIEURS HEURES EN IRAN, JEAN-NOËL BARROT DÉNONCE UNE \"ACTION D'INTIMIDATION\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:51",
+      "date": "20/07",
+      "timestamp": 1784562697
+    },
+    {
+      "id": "BFMTV_1784562328",
+      "source": "BFMTV",
+      "text": "DIRECT. DEUX DIPLOMATES FRANÇAIS DÉTENUS PLUSIEURS HEURES EN IRAN, JEAN-NOËL BARROT DÉNONCE UNE \"ACTION D'INTIMIDATION\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:45",
+      "date": "20/07",
+      "timestamp": 1784562328
+    },
+    {
+      "id": "BFMTV_1784562199",
+      "source": "BFMTV",
+      "text": "\"UNE ACTION D'INTIMIDATION EXTRÊMEMENT GRAVE\": JEAN-NOËL BARROT DÉNONCE LA DÉTENTION DE DEUX DIPLOMATES FRANÇAIS EN IRAN, DONT L'UN D'EUX A ÉTÉ MOLESTÉ",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:43",
+      "date": "20/07",
+      "timestamp": 1784562199
+    },
+    {
+      "id": "BFMTV_1784561968",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEUX DIPLOMATES DE L'AMBASSADE DE FRANCE EN IRAN \"ONT ÉTÉ LA CIBLE D'UNE ACTION D'INTIMIDATION EXTRÊMEMENT GRAVE DE LA PART DES SERVICES DE SÉCURITÉ IRANIENS\", ANNONCE LE MINISTRE DES AFFAIRES ÉTRANGÈRES",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:39",
+      "date": "20/07",
+      "timestamp": 1784561968
+    },
+    {
+      "id": "BFMTV_1784561732",
+      "source": "BFMTV",
+      "text": "UN HOMME ARRÊTÉ ET DEUX PERSONNES BLESSÉES APRÈS UN INCENDIE DEVANT UN BÂTIMENT FÉDÉRAL À NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:35",
+      "date": "20/07",
+      "timestamp": 1784561732
+    },
+    {
+      "id": "BFMTV_1784559424",
+      "source": "BFMTV",
+      "text": "CE LIVREUR DE REPAS VIENT DE REMPORTER L’UN DES PLUS GRANDS PRIX LITTÉRAIRES DE CHINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:57",
+      "date": "20/07",
+      "timestamp": 1784559424
+    },
+    {
+      "id": "BFMTV_1784558254",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: ANDY BURNHAM, LE NOUVEAU PREMIER MINISTRE, DOIT ÊTRE \"PLUS PRÉSENT\" AUPRÈS DES BRITANNIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:37",
+      "date": "20/07",
+      "timestamp": 1784558254
+    },
+    {
+      "id": "BFMTV_1784558231",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: LE PREMIER MINISTRE SORTANT KEIR STARMER A SOUFFERT D'UN MANQUE \"DE CHARISME\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:37",
+      "date": "20/07",
+      "timestamp": 1784558231
+    },
     {
       "id": "OPEX360_1784555410",
       "source": "OPEX360",
@@ -911,96 +1001,6 @@
       "time": "04:26",
       "date": "19/07",
       "timestamp": 1784435204
-    },
-    {
-      "id": "BFMTV_1784434343",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS UN MORT ET SEPT BLESSÉS DANS DE NOUVELLES ATTAQUES DE MISSILES BALISTIQUES RUSSES SUR KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:12",
-      "date": "19/07",
-      "timestamp": 1784434343
-    },
-    {
-      "id": "BFMTV_1784433983",
-      "source": "BFMTV",
-      "text": "IRAN: L'ARMÉE AMÉRICAINE DIT AVOIR CIBLÉ LES AUTEURS DE L'ATTAQUE QUI A COÛTÉ LA VIE À DEUX DE SES SOLDATS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:06",
-      "date": "19/07",
-      "timestamp": 1784433983
-    },
-    {
-      "id": "BFMTV_1784433810",
-      "source": "BFMTV",
-      "text": "KOWEÏT, BAHREÏN... L'IRAN CONTINUE D'EMBRASER LE GOLFE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:03",
-      "date": "19/07",
-      "timestamp": 1784433810
-    },
-    {
-      "id": "BFMTV_1784432957",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS BOMBARDENT À NOUVEAU L'IRAN APRÈS LA MORT DE DEUX DE LEURS SOLDATS",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:49",
-      "date": "19/07",
-      "timestamp": 1784432957
-    },
-    {
-      "id": "BFMTV_1784412324",
-      "source": "BFMTV",
-      "text": "LE MAIRE DE NEW YORK ZOHRAN MAMDANI ENVISAGE L'ARRESTATION DE BENJAMIN NETANYAHU LORS DE L'ASSEMBLÉE GÉNÉRALE DE L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:05",
-      "date": "18/07",
-      "timestamp": 1784412324
-    },
-    {
-      "id": "BFMTV_1784412115",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DEUX MILITAIRES AMÉRICAINS TUÉS DANS DES FRAPPES IRANIENNES EN JORDANIE, UN AUTRE PORTÉ DISPARU",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:01",
-      "date": "18/07",
-      "timestamp": 1784412115
-    },
-    {
-      "id": "BFMTV_1784410730",
-      "source": "BFMTV",
-      "text": "LES SOLDATS AMÉRICAINS ONT ÉTÉ TUÉS \"AU SERVICE DE NOTRE PAYS\", RÉAGIT DONALD TRUMP QUI RÉAFFIRME QU'IL NE PERMETTRA PAS À \"L'IRAN DE POSSÉDER L'ARME NUCLÉAIRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:38",
-      "date": "18/07",
-      "timestamp": 1784410730
-    },
-    {
-      "id": "BFMTV_1784406979",
-      "source": "BFMTV",
-      "text": "MONDIAL 2026: \"ILS PARAISSAIENT IMBATTABLES\", DONALD TRUMP RÉAGIT AU PARCOURS DES BLEUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:36",
-      "date": "18/07",
-      "timestamp": 1784406979
-    },
-    {
-      "id": "BFMTV_1784403614",
-      "source": "BFMTV",
-      "text": "SELON DES MÉDIAS AMÉRICAINS LES OPÉRATIONS AMÉRICAINES CONTRE L'IRAN SERONT \"PLUS ÉTENDUES\" CE SAMEDI SOIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:40",
-      "date": "18/07",
-      "timestamp": 1784403614
     }
   ],
   "france": {
