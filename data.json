@@ -1,7 +1,87 @@
 {
-  "last_update": "20/07 20:05",
+  "last_update": "20/07 21:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784582064",
+      "source": "BFMTV",
+      "text": "IRAN: DES EXPLOSIONS ENTENDUES SUR L'ÎLE DE QESHM, SELON AL JAZEERA",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:14",
+      "date": "20/07",
+      "timestamp": 1784582064
+    },
+    {
+      "id": "BFMTV_1784581752",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: LA JUSTICE ANNONCE L'INCULPATION DU SUSPECT DU MEURTRE DE L'ANCIENNE DÉPUTÉE ANN WIDDECOMBE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:09",
+      "date": "20/07",
+      "timestamp": 1784581752
+    },
+    {
+      "id": "BFMTV_1784581423",
+      "source": "BFMTV",
+      "text": "DIRECT. LES ÉTATS-UNIS ANNONCENT UNE NOUVELLE SÉRIE DE FRAPPES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:03",
+      "date": "20/07",
+      "timestamp": 1784581423
+    },
+    {
+      "id": "BFMTV_1784580499",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE POUR CHAQUE SOLDAT AMÉRICAIN TUÉ, L'IRAN PAYERA \"PLUSIEURS FOIS\" LE PRIX",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:48",
+      "date": "20/07",
+      "timestamp": 1784580499
+    },
+    {
+      "id": "BFMTV_1784580026",
+      "source": "BFMTV",
+      "text": "IRAN: LES ÉTATS-UNIS ANNONCENT UNE NOUVELLE SÉRIE DE FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:40",
+      "date": "20/07",
+      "timestamp": 1784580026
+    },
+    {
+      "id": "BFMTV_1784579110",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: LE FEU SITUÉ À 100 KILOMÈTRES AU NORD DE MADRID EST FIXÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:25",
+      "date": "20/07",
+      "timestamp": 1784579110
+    },
+    {
+      "id": "BFMTV_1784578867",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:21",
+      "date": "20/07",
+      "timestamp": 1784578867
+    },
+    {
+      "id": "BFMTV_1784578866",
+      "source": "BFMTV",
+      "text": "AU MOINS 13 MORTS ET UNE VINGTAINE DE BLESSÉS DANS DES FRAPPES EN RUSSIE ET EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:21",
+      "date": "20/07",
+      "timestamp": 1784578866
+    },
     {
       "id": "BFMTV_1784577194",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "11:03",
       "date": "19/07",
       "timestamp": 1784458998
-    },
-    {
-      "id": "OPEX360_1784457412",
-      "source": "OPEX360",
-      "text": "LE FRANÇAIS TR EQUIPEMENT A DÉVOILÉ UNE MOTO ARMÉE D’UNE MITRAILLEUSE LÉGÈRE EVOLYS",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:36",
-      "date": "19/07",
-      "timestamp": 1784457412
-    },
-    {
-      "id": "BFMTV_1784456425",
-      "source": "BFMTV",
-      "text": "INCENDIES: AU MOINS 13.000 HECTARES BRÛLÉS DANS UN FEU À 100 KILOMÈTRES AU NORD DE MADRID, DES CENTAINES DE PERSONNES ÉVACUÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:20",
-      "date": "19/07",
-      "timestamp": 1784456425
-    },
-    {
-      "id": "BFMTV_1784456403",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION DÉCLARENT QUE DEUX NAVIRES ONT ÉTÉ \"IMPLIQUÉS DANS UN ACCIDENT\" DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:20",
-      "date": "19/07",
-      "timestamp": 1784456403
-    },
-    {
-      "id": "BFMTV_1784455925",
-      "source": "BFMTV",
-      "text": "NAUFRAGE D'UN FERRY AVEC 116 PERSONNES À BORD AU LARGE DES CÔTES DU GUYANA, AU MOINS 53 SAUVÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:12",
-      "date": "19/07",
-      "timestamp": 1784455925
-    },
-    {
-      "id": "BFMTV_1784453768",
-      "source": "BFMTV",
-      "text": "\"UNE INTENSIFICATION DES CONFLITS\": APRÈS LA MORT DE DEUX SOLDATS AMÉRICAINS DANS DES FRAPPES IRANIENNES, LA CRAINTE D'UNE NOUVELLE ESCALADE DE LA VIOLENCE AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:36",
-      "date": "19/07",
-      "timestamp": 1784453768
-    },
-    {
-      "id": "BFMTV_1784451090",
-      "source": "BFMTV",
-      "text": "INCENDIES: AU MOINS 12.000 HECTARES BRÛLÉS DANS UN FEU À 100 KILOMÈTRES AU NORD DE MADRID, DES CENTAINES DE PERSONNES ÉVACUÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:51",
-      "date": "19/07",
-      "timestamp": 1784451090
-    },
-    {
-      "id": "BFMTV_1784450670",
-      "source": "BFMTV",
-      "text": "UN VÉHICULE ROULAIT À CONTRESENS: DEUX MORTS ET TROIS ENFANTS DANS UN \"ÉTAT CRITIQUE\" APRÈS UN ACCIDENT DE LA ROUTE EN ALLEMAGNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "08:44",
-      "date": "19/07",
-      "timestamp": 1784450670
-    },
-    {
-      "id": "BFMTV_1784450293",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE DIT AVOIR CIBLÉ LES AUTEURS DE L'ATTAQUE QUI A COÛTÉ LA VIE À DEUX DE SES SOLDATS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:38",
-      "date": "19/07",
-      "timestamp": 1784450293
     }
   ],
   "france": {
