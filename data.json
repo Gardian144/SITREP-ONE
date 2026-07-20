@@ -1,11 +1,81 @@
 {
-  "last_update": "20/07 18:21",
+  "last_update": "20/07 20:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784577194",
+      "source": "BFMTV",
+      "text": "DIRECT. L'ARMÉE JORDANIENNE INDIQUE AVOIR ABATTU TROIS MISSILES IRANIENS VISANT SON TERRITOIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:53",
+      "date": "20/07",
+      "timestamp": 1784577194
+    },
+    {
+      "id": "BFMTV_1784576981",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PENTAGONE AURAIT CACHÉ DES DIZAINES DE BLESSURES DE MILITAIRES AMÉRICAINS, SELON UNE ENQUÊTE DU NEW YORK TIMES",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:49",
+      "date": "20/07",
+      "timestamp": 1784576981
+    },
+    {
+      "id": "BFMTV_1784575650",
+      "source": "BFMTV",
+      "text": "IRAN: \"CE QUE DONALD TRUMP A FAIT DANS LE GOLFE EST UN DÉSORDRE ÉPOUVANTABLE\", ESTIME GÉRARD LONGUET, ANCIEN MINISTRE DE LA DÉFENSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:27",
+      "date": "20/07",
+      "timestamp": 1784575650
+    },
+    {
+      "id": "BFMTV_1784574947",
+      "source": "BFMTV",
+      "text": "LE NOUVEL AIR FORCE ONE DE DONALD TRUMP VA ÊTRE RETIRÉ POUR ÊTRE DOTÉ D'AMÉLIORATIONS EN TERMES DE SÉCURITÉ ",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:15",
+      "date": "20/07",
+      "timestamp": 1784574947
+    },
+    {
+      "id": "BFMTV_1784573888",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS ENVOIENT DES AVIONS SUPPLÉMENTAIRES ALORS QUE DONALD TRUMP ENVISAGE D’ÉTENDRE LA GUERRE CONTRE L’IRAN, SELON CNN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:58",
+      "date": "20/07",
+      "timestamp": 1784573888
+    },
+    {
+      "id": "BFMTV_1784572305",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN PETIT CHIEN RETROUVÉ VIVANT DANS LA BAIE DE SAN FRANCISCO",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:31",
+      "date": "20/07",
+      "timestamp": 1784572305
+    },
     {
       "id": "BFMTV_1784571456",
       "source": "BFMTV",
       "text": "AIR FRANCE SUSPEND SES VOLS VERS RIYAD JUSQU'AU 24 JUILLET INCLUS, ET VERS DUBAÏ JUSQU'AU 27 JUILLET INCLUS",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:17",
+      "date": "20/07",
+      "timestamp": 1784571456
+    },
+    {
+      "id": "BFMTV_1784571456",
+      "source": "BFMTV",
+      "text": "AIR FRANCE PROLONGE LA SUSPENSION DE SES VOLS VERS RIYAD JUSQU'AU 24 JUILLET INCLUS, ET VERS DUBAÏ JUSQU'AU 27 JUILLET INCLUS",
       "urgent": false,
       "france_related": true,
       "time": "18:17",
@@ -931,76 +1001,6 @@
       "time": "08:38",
       "date": "19/07",
       "timestamp": 1784450293
-    },
-    {
-      "id": "BFMTV_1784449923",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES SIRÈNES D'ALERTE AÉRIENNE DÉCLENCHÉES À BAHREÏN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:32",
-      "date": "19/07",
-      "timestamp": 1784449923
-    },
-    {
-      "id": "BFMTV_1784449882",
-      "source": "BFMTV",
-      "text": "NAUFRAGE D'UN FERRY AVEC 116 PERSONNES À BORD AU LARGE DES CÔTES DU GUYANA",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:31",
-      "date": "19/07",
-      "timestamp": 1784449882
-    },
-    {
-      "id": "BFMTV_1784449398",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: ISRAËL SE PRÉPARE À DE NOUVELLES FRAPPES DE LA PART DES GARDIENS DE LA RÉVOLUTION",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:23",
-      "date": "19/07",
-      "timestamp": 1784449398
-    },
-    {
-      "id": "BFMTV_1784448598",
-      "source": "BFMTV",
-      "text": "VENEZUELA: UN CHAT SAUVÉ DES DÉCOMBRES 26 JOURS APRÈS LE DOUBLE SÉISME",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:09",
-      "date": "19/07",
-      "timestamp": 1784448598
-    },
-    {
-      "id": "BFMTV_1784443592",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE INDIQUE AVOIR CIBLÉ LES AUTEURS DE L'ATTAQUE QUI A COÛTÉ LA VIE À DEUX DE SES SOLDATS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:46",
-      "date": "19/07",
-      "timestamp": 1784443592
-    },
-    {
-      "id": "BFMTV_1784442720",
-      "source": "BFMTV",
-      "text": "\"ON PEUT ÊTRE DÉMOCRATE ET CROYANT\": DANS L'AMÉRIQUE DE DONALD TRUMP, DES PASTEURS SE LANCENT EN POLITIQUE POUR REPRENDRE JÉSUS AUX RÉPUBLICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:32",
-      "date": "19/07",
-      "timestamp": 1784442720
-    },
-    {
-      "id": "BFMTV_1784442568",
-      "source": "BFMTV",
-      "text": "\"MOYEN DE FLOTTAISON DE FORTUNE\": CINQ SURVIVANTS RETROUVÉS PLUSIEURS JOURS APRÈS UN NAUFRAGE EN INDONÉSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:29",
-      "date": "19/07",
-      "timestamp": 1784442568
     }
   ],
   "france": {
