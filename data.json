@@ -1,7 +1,137 @@
 {
-  "last_update": "20/07 12:03",
+  "last_update": "20/07 14:32",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1784555410",
+      "source": "OPEX360",
+      "text": "LA BELGIQUE VA SE RENSEIGNER AUPRÈS DE PLUSIEURS PAYS, DONT LA FRANCE, POUR SAUVER SON PROGRAMME DE NOUVELLES FRÉGATES",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:50",
+      "date": "20/07",
+      "timestamp": 1784555410
+    },
+    {
+      "id": "BFMTV_1784555209",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: PLUS DE 1.600 PERSONNES VICTIMES D'UNE ÉPIDÉMIE DE DIARRHÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:46",
+      "date": "20/07",
+      "timestamp": 1784555209
+    },
+    {
+      "id": "BFMTV_1784553793",
+      "source": "BFMTV",
+      "text": "TEXAS: UN POLICIER SAUVE LA VIE D'UN CONDUCTEUR PIÉGÉ DANS SA VOITURE EN FLAMMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:23",
+      "date": "20/07",
+      "timestamp": 1784553793
+    },
+    {
+      "id": "BFMTV_1784553259",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON ADRESSE SES FÉLICITATIONS À ANDY BURNHAM ET APPELLE À DONNER \"UN NOUVEL ÉLAN AU PARTENARIAT ENTRE LE ROYAUME-UNI ET L’UE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:14",
+      "date": "20/07",
+      "timestamp": 1784553259
+    },
+    {
+      "id": "BFMTV_1784552666",
+      "source": "BFMTV",
+      "text": "L'UE INFLIGE UNE AMENDE DE 550 MILLIONS D'EUROS À ALIEXPRESS POUR LA VENTE DE PRODUITS INTERDITS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:04",
+      "date": "20/07",
+      "timestamp": 1784552666
+    },
+    {
+      "id": "BFMTV_1784552281",
+      "source": "BFMTV",
+      "text": "MONDIAL-2026: L'ÉQUIPE D'ESPAGNE, CHAMPIONNE DU MONDE, EST DE RETOUR À MADRID",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:58",
+      "date": "20/07",
+      "timestamp": 1784552281
+    },
+    {
+      "id": "BFMTV_1784552268",
+      "source": "BFMTV",
+      "text": "QUI EST ANDY BURNHAM, QUI SUCCÈDE À KEIR STARMER COMME PREMIER MINISTRE DU ROYAUME-UNI?",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:57",
+      "date": "20/07",
+      "timestamp": 1784552268
+    },
+    {
+      "id": "BFMTV_1784552120",
+      "source": "BFMTV",
+      "text": "MONDIAL: L'ÉQUIPE ESPAGNOLE, CHAMPIONNE DU MONDE 2026, A FAIT SON RETOUR À MADRID",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:55",
+      "date": "20/07",
+      "timestamp": 1784552120
+    },
+    {
+      "id": "BFMTV_1784551315",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: LE NOUVEAU PREMIER MINISTRE ANDY BURNHAM PROMET \"UN PLAN SUR DIX ANS\" POUR REDRESSER LE PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:41",
+      "date": "20/07",
+      "timestamp": 1784551315
+    },
+    {
+      "id": "BFMTV_1784551205",
+      "source": "BFMTV",
+      "text": "NÉGOCIATEUR EN CHEF DU HAMAS ET ANCIEN PRISONNIER DES GEÔLES ISRAÉLIENNES, KHALIL AL-HAYYA EST NOMMÉ NOUVEAU CHEF DU MOUVEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:40",
+      "date": "20/07",
+      "timestamp": 1784551205
+    },
+    {
+      "id": "BFMTV_1784550829",
+      "source": "BFMTV",
+      "text": "LE NOUVEAU PREMIER MINISTRE BRITANNIQUE ANDY BURNHAM ENTEND \"METTRE FIN AU SANS-ABRISME\" DANS LE PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:33",
+      "date": "20/07",
+      "timestamp": 1784550829
+    },
+    {
+      "id": "BFMTV_1784550826",
+      "source": "BFMTV",
+      "text": "L'IRAN SE DIT EN \"GUERRE TOTALE\" AVEC LES ÉTATS-UNIS APRÈS UNE NEUVIÈME NUIT DE BOMBARDEMENTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:33",
+      "date": "20/07",
+      "timestamp": 1784550826
+    },
+    {
+      "id": "BFMTV_1784550261",
+      "source": "BFMTV",
+      "text": "LE NOUVEAU PREMIER MINISTRE BRITANNIQUE ANDY BURNHAM VEUT \"RETROUVER\" UNE \"STABILITÉ\" DANS LE PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:24",
+      "date": "20/07",
+      "timestamp": 1784550261
+    },
     {
       "id": "BFMTV_1784548336",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "19:40",
       "date": "18/07",
       "timestamp": 1784403614
-    },
-    {
-      "id": "BFMTV_1784402934",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS AFFIRMENT AVOIR \"DÉTOURNÉ 5 NAVIRES COMMERCIAUX ET MIS HORS SERVICE 1 NAVIRE\" DEPUIS LA REPRISE DU BLOCUS DES PORTS IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:28",
-      "date": "18/07",
-      "timestamp": 1784402934
-    },
-    {
-      "id": "BFMTV_1784401621",
-      "source": "BFMTV",
-      "text": "SOLDATS AMÉRICAINS TUÉS EN JORDANIE: \"LEUR SACRIFICE NE FAIT QUE RENFORCER NOTRE DÉTERMINATION\", RÉAGIT PETE HEGSETH",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:07",
-      "date": "18/07",
-      "timestamp": 1784401621
-    },
-    {
-      "id": "BFMTV_1784400396",
-      "source": "BFMTV",
-      "text": "DANS UN MESSAGE ÉCRIT, MOJTABA KHAMENEI AFFIRME QUE L'IRAN \"RÉSERVE DES LEÇONS INOUBLIABLES\" AUX ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:46",
-      "date": "18/07",
-      "timestamp": 1784400396
-    },
-    {
-      "id": "BFMTV_1784399845",
-      "source": "BFMTV",
-      "text": "LES NOUVELLES IMAGES DES FRAPPES IRANIENNES SUR LA BASE AMÉRICAINE EN JORDANIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:37",
-      "date": "18/07",
-      "timestamp": 1784399845
-    },
-    {
-      "id": "BFMTV_1784398359",
-      "source": "BFMTV",
-      "text": "LES IMAGES DES FRAPPES IRANIENNES CONTRE LA BASE AMÉRICAINE MUWAFFAQ SALTI EN JORDANIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:12",
-      "date": "18/07",
-      "timestamp": 1784398359
-    },
-    {
-      "id": "BFMTV_1784397714",
-      "source": "BFMTV",
-      "text": "DEUX MILITAIRES AMÉRICAINS TUÉS DANS DES FRAPPES IRANIENNES EN JORDANIE, UN AUTRE PORTÉ DISPARU",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:01",
-      "date": "18/07",
-      "timestamp": 1784397714
-    },
-    {
-      "id": "BFMTV_1784397520",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DEUX MILITAIRES AMÉRICAINS TUÉS, UN PORTÉ DISPARU ET QUATRE BLESSÉS APRÈS DES FRAPPES IRANIENNES EN JORDANIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:58",
-      "date": "18/07",
-      "timestamp": 1784397520
-    },
-    {
-      "id": "BFMTV_1784396871",
-      "source": "BFMTV",
-      "text": "LE GUIDE SUPRÊME IRANIEN MENACE D'INFLIGER AUX ÉTATS-UNIS DES \"LEÇONS INOUBLIABLES\" APRÈS LA REPRISE DES FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:47",
-      "date": "18/07",
-      "timestamp": 1784396871
-    },
-    {
-      "id": "BFMTV_1784396505",
-      "source": "BFMTV",
-      "text": "BRÉSIL: LA JUSTICE INTERDIT LA VISITE DU PRÉSIDENT ARGENTIN JAVIER MILEI À JAIR BOLSONARO, ASSIGNÉ À RÉSIDENCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:41",
-      "date": "18/07",
-      "timestamp": 1784396505
-    },
-    {
-      "id": "BFMTV_1784396505",
-      "source": "BFMTV",
-      "text": "JAIR BOLSONARO",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:41",
-      "date": "18/07",
-      "timestamp": 1784396505
-    },
-    {
-      "id": "BFMTV_1784395362",
-      "source": "BFMTV",
-      "text": "DEUX SOLDATS AMÉRICAINS TUÉS ET UN AUTRE PORTÉ DISPARU APRÈS DES FRAPPES IRANIENNES EN JORDANIE ANNONCE LE COMMANDEMENT MILITAIRE AMÉRICAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:22",
-      "date": "18/07",
-      "timestamp": 1784395362
-    },
-    {
-      "id": "BFMTV_1784395289",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DEUX MILITAIRES AMÉRICAINS TUÉS DANS DES FRAPPES IRANIENNES EN JORDANIE, UN AUTRE PORTÉ DISPARU",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:21",
-      "date": "18/07",
-      "timestamp": 1784395289
-    },
-    {
-      "id": "BFMTV_1784394837",
-      "source": "BFMTV",
-      "text": "PÈRE D'UN ENFANT NÉ SOUS GPA AUX ÉTATS-UNIS, LE CHEF DES DÉPUTÉS CONSERVATEURS ALLEMANDS DÉMISSIONNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:13",
-      "date": "18/07",
-      "timestamp": 1784394837
     }
   ],
   "france": {
