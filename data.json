@@ -1,7 +1,37 @@
 {
-  "last_update": "20/07 21:31",
+  "last_update": "20/07 22:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784586228",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS ANNONCENT UNE NOUVELLE SÉRIE DE FRAPPES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:23",
+      "date": "20/07",
+      "timestamp": 1784586228
+    },
+    {
+      "id": "BFMTV_1784585174",
+      "source": "BFMTV",
+      "text": "ATTENTATS ET PRISES D'OTAGES: LORSQUE L'IRAN S'EN PRENAIT DIRECTEMENT À LA FRANCE ",
+      "urgent": true,
+      "france_related": true,
+      "time": "22:06",
+      "date": "20/07",
+      "timestamp": 1784585174
+    },
+    {
+      "id": "BFMTV_1784583202",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: LES IMAGES DU PÉTROLIER TOUCHÉ PAR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:33",
+      "date": "20/07",
+      "timestamp": 1784583202
+    },
     {
       "id": "BFMTV_1784582064",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "11:53",
       "date": "19/07",
       "timestamp": 1784462026
-    },
-    {
-      "id": "BFMTV_1784461011",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT AVOIR STOPPÉ PLUSIEURS NAVIRES QUI TENTAIENT DE FRANCHIR LE DÉTROIT D'ORMUZ \"EN IGNORANT LES AVERTISSEMENTS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:36",
-      "date": "19/07",
-      "timestamp": 1784461011
-    },
-    {
-      "id": "OPEX360_1784459986",
-      "source": "OPEX360",
-      "text": "LORS DE PEGASE 26, L’ARMÉE DE L’AIR VA SE PROJETER SUR UN «ARC STRATÉGIQUE ÉTENDU», ALLANT DU GROENLAND AU MOYEN-ORIENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:19",
-      "date": "19/07",
-      "timestamp": 1784459986
-    },
-    {
-      "id": "BFMTV_1784458998",
-      "source": "BFMTV",
-      "text": "REPRISES DE TENSIONS AU MOYEN-ORIENT: L'ANALYSE DU GÉNÉRAL PATRICK DUTARTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:03",
-      "date": "19/07",
-      "timestamp": 1784458998
     }
   ],
   "france": {
