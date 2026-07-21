@@ -1,11 +1,61 @@
 {
-  "last_update": "21/07 14:13",
+  "last_update": "21/07 15:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784648656",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE MÉDIATEUR PAKISTANAIS APPELLE LES PARTIES À LA RETENUE LORS D'UNE RÉUNION AVEC UN MINISTRE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:44",
+      "date": "21/07",
+      "timestamp": 1784648656
+    },
+    {
+      "id": "BFMTV_1784648368",
+      "source": "BFMTV",
+      "text": "\"ON S'EN OCCUPERA\", DÉCLARE DONALD TRUMP, SI LES HOUTHIS VENAIENT À TENTER DE BLOQUER LA MER ROUGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:39",
+      "date": "21/07",
+      "timestamp": 1784648368
+    },
+    {
+      "id": "OPEX360_1784646455",
+      "source": "OPEX360",
+      "text": "LOCKHEED MARTIN A DÉVOILÉ UN MISSILE INTERCEPTEUR DEUX FOIS MOINS CHER QUE LE PAC-3 MSE UTILISÉ PAR LE SYSTÈME PATRIOT",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:07",
+      "date": "21/07",
+      "timestamp": 1784646455
+    },
+    {
+      "id": "BFMTV_1784643041",
+      "source": "BFMTV",
+      "text": "LA CHINE DEVIENT LA PREMIÈRE GRANDE ÉCONOMIE À RÉGULER LES RELATIONS AMOUREUSES AVEC LES IA",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:10",
+      "date": "21/07",
+      "timestamp": 1784643041
+    },
     {
       "id": "BFMTV_1784641835",
       "source": "BFMTV",
       "text": "LE PARQUET NATIONAL ANTITERRORISTE OUVRE UNE ENQUÊTE POUR TORTURES CONCERNANT UNE \"FLOTILLE POUR GAZA\" EN 2025",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:50",
+      "date": "21/07",
+      "timestamp": 1784641835
+    },
+    {
+      "id": "BFMTV_1784641835",
+      "source": "BFMTV",
+      "text": "LE PARQUET NATIONAL ANTITERRORISTE OUVRE UNE ENQUÊTE POUR TORTURES CONCERNANT UNE \"FLOTTILLE POUR GAZA\" EN 2025",
       "urgent": false,
       "france_related": false,
       "time": "13:50",
@@ -951,56 +1001,6 @@
       "time": "07:25",
       "date": "20/07",
       "timestamp": 1784532334
-    },
-    {
-      "id": "BFMTV_1784530702",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: MARCO RUBIO EXHORTE LES AUTRES PAYS À FAIRE PRESSION SUR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:58",
-      "date": "20/07",
-      "timestamp": 1784530702
-    },
-    {
-      "id": "BFMTV_1784530490",
-      "source": "BFMTV",
-      "text": "FRAPPES AMÉRICAINES SUR L'IRAN: \"JE PENSE QUE DONALD TRUMP A FAIT UNE FAUTE CONSIDÉRABLE\", DÉCLARE BERNARD CAZENEUVE, ANCIEN PREMIER MINISTRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:54",
-      "date": "20/07",
-      "timestamp": 1784530490
-    },
-    {
-      "id": "BFMTV_1784529444",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME FRAPPER L'IRAN \"TRÈS DUREMENT\" POUR VENGER LES AMÉRICAINS TUÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:37",
-      "date": "20/07",
-      "timestamp": 1784529444
-    },
-    {
-      "id": "BFMTV_1784528769",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: AU MOINS UN MORT ET PLUSIEURS BLESSÉES APRÈS DES FRAPPES AMÉRICAINES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:26",
-      "date": "20/07",
-      "timestamp": 1784528769
-    },
-    {
-      "id": "BFMTV_1784526719",
-      "source": "BFMTV",
-      "text": "FRAPPES, ENGIN EXPLOSIF... CE QUE L'ON SAIT DE LA MORT DES SOLDATS AMÉRICAINS TUÉS CE WEEK-END AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:51",
-      "date": "20/07",
-      "timestamp": 1784526719
     }
   ],
   "france": {
