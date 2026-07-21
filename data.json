@@ -1,7 +1,87 @@
 {
-  "last_update": "21/07 04:31",
+  "last_update": "21/07 07:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784615774",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN ASSURE QUE \"PAS UNE SEULE GOUTTE DE PÉTROLE\" NE PASSERA PAR LE DÉTROIT D’ORMUZ, QUI RESTE \"FERMÉ\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:36",
+      "date": "21/07",
+      "timestamp": 1784615774
+    },
+    {
+      "id": "BFMTV_1784615633",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEUX DIPLOMATES FRANÇAIS ONT ÉTÉ DÉTENUS EN IRAN  ",
+      "urgent": true,
+      "france_related": true,
+      "time": "06:33",
+      "date": "21/07",
+      "timestamp": 1784615633
+    },
+    {
+      "id": "BFMTV_1784614613",
+      "source": "BFMTV",
+      "text": "MÉGAFEU EN ESPAGNE: 26.000 HECTARES ONT DÉJÀ BRÛLÉ À 100 KILOMÈTRES AU NORD DE MADRID",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:16",
+      "date": "21/07",
+      "timestamp": 1784614613
+    },
+    {
+      "id": "BFMTV_1784611527",
+      "source": "BFMTV",
+      "text": "\"LES GENS ONT TOUT PERDU\": UNE VIOLENTE TEMPÊTE AU CHILI FAIT AU MOINS 10 MORTS ET LAISSE 100.000 PERSONNES ISOLÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:25",
+      "date": "21/07",
+      "timestamp": 1784611527
+    },
+    {
+      "id": "BFMTV_1784610309",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS RAPPELLENT LEURS CITOYENS À TRAVERS LE MONDE À LA \"PRUDENCE\" FACE À \"UNE ESCALADE IMPRÉVISIBLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:05",
+      "date": "21/07",
+      "timestamp": 1784610309
+    },
+    {
+      "id": "BFMTV_1784609743",
+      "source": "BFMTV",
+      "text": "MONDIAL 2026: DE RETOUR DES ÉTATS-UNIS, L'ÉQUIPE ESPAGNOLE ACCLAMÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:55",
+      "date": "21/07",
+      "timestamp": 1784609743
+    },
+    {
+      "id": "BFMTV_1784609105",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN PÉTROLIER A ÉTÉ TOUCHÉ CETTE NUIT DANS LE DÉTROIT D'ORMUZ PAR UN PROJECTILE D'ORIGINE INCONNUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:45",
+      "date": "21/07",
+      "timestamp": 1784609105
+    },
+    {
+      "id": "BFMTV_1784608958",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEUX DIPLOMATES FRANÇAIS, DONT L'UN D'EUX A ÉTÉ MOLESTÉ, ONT ÉTÉ DÉTENUS EN IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:42",
+      "date": "21/07",
+      "timestamp": 1784608958
+    },
     {
       "id": "BFMTV_1784607696",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "14:47",
       "date": "19/07",
       "timestamp": 1784472467
-    },
-    {
-      "id": "BFMTV_1784470497",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE MINISTRE ISRAÉLIEN DE LA DÉFENSE DIT QUE SON PAYS RIPOSTERA \"DE TOUTES SES FORCES\" À UNE ATTAQUE DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:14",
-      "date": "19/07",
-      "timestamp": 1784470497
-    },
-    {
-      "id": "BFMTV_1784469934",
-      "source": "BFMTV",
-      "text": "\"AU CŒUR DES FORCES SPÉCIALES AMÉRICAINES\": COMMENT CETTE UNITÉ D'ÉLITE À NEUTRALISER OUSSAMA BEN LADEN?",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:05",
-      "date": "19/07",
-      "timestamp": 1784469934
-    },
-    {
-      "id": "BFMTV_1784468958",
-      "source": "BFMTV",
-      "text": "LES ECLAIREURS - LES BASES AMÉRICAINES AU MOYEN-ORIENT À NOUVEAU CIBLÉES PAR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:49",
-      "date": "19/07",
-      "timestamp": 1784468958
-    },
-    {
-      "id": "BFMTV_1784468702",
-      "source": "BFMTV",
-      "text": "FORCES SPÉCIALES AMÉRICAINES: COMMENT UNE UNITÉ D’ÉLITE À NEUTRALISER OUSSAMA BEN LADEN?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:45",
-      "date": "19/07",
-      "timestamp": 1784468702
-    },
-    {
-      "id": "BFMTV_1784467331",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: POURQUOI LE KOWEÏT EST PARTICULIÈREMENT VISÉ PAR L'IRAN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:22",
-      "date": "19/07",
-      "timestamp": 1784467331
-    },
-    {
-      "id": "BFMTV_1784466823",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT : L’ARMÉE ISRAÉLIENNE DIT QU’UN MISSILE IRANIEN VISANT AQABA A ÉTÉ INTERCEPTÉ PAR SES FORCES ARMÉES",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:13",
-      "date": "19/07",
-      "timestamp": 1784466823
-    },
-    {
-      "id": "BFMTV_1784466553",
-      "source": "BFMTV",
-      "text": "LES IMAGES IMPRESSIONNANTES DE L'INCENDIE EN ESPAGNE QUI A BRÛLÉ ENVIRON 16.000 HECTARES À SARAGOSSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:09",
-      "date": "19/07",
-      "timestamp": 1784466553
-    },
-    {
-      "id": "BFMTV_1784465405",
-      "source": "BFMTV",
-      "text": "\"UN RAYON DE LUMIÈRE\": UN CHAT SORTI DES DÉCOMBRES AU VENEZUELA PLUS DE TROIS SEMAINES APRÈS LE DOUBLE SÉISME QUI A FAIT PLUS DE 5.000 MORTS",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:50",
-      "date": "19/07",
-      "timestamp": 1784465405
     }
   ],
   "france": {
