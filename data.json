@@ -1,7 +1,17 @@
 {
-  "last_update": "21/07 17:18",
+  "last_update": "21/07 18:48",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1784655157",
+      "source": "OPEX360",
+      "text": "OTTAWA REJOINT LE PROJET D’AVION DE COMBAT MENÉ PAR LONDRES, ROME ET TOKYO AVEC LE STATUT D’OBSERVATEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:32",
+      "date": "21/07",
+      "timestamp": 1784655157
+    },
     {
       "id": "BFMTV_1784652586",
       "source": "BFMTV",
@@ -36,6 +46,16 @@
       "id": "BFMTV_1784650267",
       "source": "BFMTV",
       "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS N'EN ONT \"PAS FINI DU TOUT\" AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:11",
+      "date": "21/07",
+      "timestamp": 1784650267
+    },
+    {
+      "id": "BFMTV_1784650267",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS N'EN ONT \"PAS FINI DU TOUT\" AVEC L'IRAN ET ANNONCE VOULOIR CIBLER UN COMPLEXE NUCLÉAIRE SOUTERRAIN SECRET",
       "urgent": true,
       "france_related": false,
       "time": "16:11",
@@ -981,26 +1001,6 @@
       "time": "10:27",
       "date": "20/07",
       "timestamp": 1784543269
-    },
-    {
-      "id": "BFMTV_1784543201",
-      "source": "BFMTV",
-      "text": "LE ROYAUME-UNI EST \"PLUS FORT ET PLUS JUSTE\", ASSURE KEIR STARMER EN QUITTANT SON POSTE DE PREMIER MINISTRE DU ROYAUME-UNI",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:26",
-      "date": "20/07",
-      "timestamp": 1784543201
-    },
-    {
-      "id": "OPEX360_1784542951",
-      "source": "OPEX360",
-      "text": "LA ROUMANIE A COMMANDÉ 12 HÉLICOPTÈRES H225M CARACAL ET DES RADARS GM200 AUPRÈS DE LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:22",
-      "date": "20/07",
-      "timestamp": 1784542951
     }
   ],
   "france": {
