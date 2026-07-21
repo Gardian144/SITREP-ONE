@@ -1,7 +1,27 @@
 {
-  "last_update": "21/07 11:59",
+  "last_update": "21/07 14:13",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784641835",
+      "source": "BFMTV",
+      "text": "LE PARQUET NATIONAL ANTITERRORISTE OUVRE UNE ENQUÊTE POUR TORTURES CONCERNANT UNE \"FLOTILLE POUR GAZA\" EN 2025",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:50",
+      "date": "21/07",
+      "timestamp": 1784641835
+    },
+    {
+      "id": "BFMTV_1784639069",
+      "source": "BFMTV",
+      "text": "AGRESSION DE DEUX DIPLOMATES FRANÇAIS EN IRAN: LE CHARGÉ D'AFFAIRES IRANIEN CONVOQUÉ AU QUAI D'ORSAY",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:04",
+      "date": "21/07",
+      "timestamp": 1784639069
+    },
     {
       "id": "BFMTV_1784635099",
       "source": "BFMTV",
@@ -116,6 +136,16 @@
       "id": "BFMTV_1784621585",
       "source": "BFMTV",
       "text": "UN HOMME BIENTÔT MARIÉ, UNE SOLDATE DE 19 ANS... QUI ÉTAIENT LES DEUX SOLDATS AMÉRICAINS TUÉS DANS LES FRAPPES IRANIENNES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:13",
+      "date": "21/07",
+      "timestamp": 1784621585
+    },
+    {
+      "id": "BFMTV_1784621585",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
       "urgent": true,
       "france_related": false,
       "time": "08:13",
@@ -971,36 +1001,6 @@
       "time": "05:51",
       "date": "20/07",
       "timestamp": 1784526719
-    },
-    {
-      "id": "BFMTV_1784522301",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: APRÈS L'ANNONCE DE LA MORT D'UN TROISIÈME SOLDAT AMÉRICAIN, LES FRAPPES ENTRE L'IRAN ET LES ÉTATS-UNIS S'INTENSIFIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:38",
-      "date": "20/07",
-      "timestamp": 1784522301
-    },
-    {
-      "id": "BFMTV_1784521962",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: PLUS DE 400 DRONES LANCÉS VERS MOSCOU PENDANT LA NUIT INTERCEPTÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:32",
-      "date": "20/07",
-      "timestamp": 1784521962
-    },
-    {
-      "id": "BFMTV_1784521053",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PONTS, AÉROPORTS, GARES... LES INFRASTRUCTURES CIVILES DE PLUS EN PLUS CIBLÉES PAR TÉHÉRAN ET WASHINGTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:17",
-      "date": "20/07",
-      "timestamp": 1784521053
     }
   ],
   "france": {
