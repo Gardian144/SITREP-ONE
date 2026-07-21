@@ -1,11 +1,71 @@
 {
-  "last_update": "21/07 15:53",
+  "last_update": "21/07 17:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784652586",
+      "source": "BFMTV",
+      "text": "\"NOS SOLDATS NE SERAIENT PAS TUÉS SI VOUS NE MENIEZ PAS UNE GUERRE INUTILE\": L'AMÉRIQUE COMPTE À NOUVEAU SES MORTS AU MOYEN-ORIENT, DONALD TRUMP TIENT SA LIGNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:49",
+      "date": "21/07",
+      "timestamp": 1784652586
+    },
+    {
+      "id": "BFMTV_1784652566",
+      "source": "BFMTV",
+      "text": "AUSTRALIE: UNE FEMME DONNE NAISSANCE À DES QUADRUPLÉES IDENTIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:49",
+      "date": "21/07",
+      "timestamp": 1784652566
+    },
+    {
+      "id": "OPEX360_1784650465",
+      "source": "OPEX360",
+      "text": "L’AVION DE TRANSPORT TACTIQUE BRÉSILIEN C-390 VA POUVOIR LANCER DES MISSILES DE CROISIÈRE AMÉRICAINS BARRACUDA",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:14",
+      "date": "21/07",
+      "timestamp": 1784650465
+    },
+    {
+      "id": "BFMTV_1784650267",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS N'EN ONT \"PAS FINI DU TOUT\" AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:11",
+      "date": "21/07",
+      "timestamp": 1784650267
+    },
+    {
+      "id": "BFMTV_1784649801",
+      "source": "BFMTV",
+      "text": "IRAN: \"NOUS NE PARTONS PAS DEMAIN\", ANNONCE DONALD TRUMP EN SOULIGNANT UN \"GRAND SUCCÈS\" JUSQU'À PRÉSENT",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:03",
+      "date": "21/07",
+      "timestamp": 1784649801
+    },
     {
       "id": "BFMTV_1784648656",
       "source": "BFMTV",
       "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE MÉDIATEUR PAKISTANAIS APPELLE LES PARTIES À LA RETENUE LORS D'UNE RÉUNION AVEC UN MINISTRE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:44",
+      "date": "21/07",
+      "timestamp": 1784648656
+    },
+    {
+      "id": "BFMTV_1784648656",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS N'EN ONT \"PAS FINI DU TOUT\" AVEC L'IRAN",
       "urgent": true,
       "france_related": false,
       "time": "15:44",
@@ -941,66 +1001,6 @@
       "time": "10:22",
       "date": "20/07",
       "timestamp": 1784542951
-    },
-    {
-      "id": "BFMTV_1784541529",
-      "source": "BFMTV",
-      "text": "MONDIAL 2026: DONALD TRUMP SE FÉLICITE DE \"L'UN DES PLUS GRANDS ÉVÈNEMENTS JAMAIS ORGANISÉS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:58",
-      "date": "20/07",
-      "timestamp": 1784541529
-    },
-    {
-      "id": "BFMTV_1784539762",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL DANS L'ATTENTE APRÈS LES NOUVELLES FRAPPES IRANIENNES SUR SES VOISINS DU GOLFE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:29",
-      "date": "20/07",
-      "timestamp": 1784539762
-    },
-    {
-      "id": "BFMTV_1784537711",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: AU MOINS UN MORT ET PLUSIEURS BLESSÉS APRÈS DES FRAPPES AMÉRICAINES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:55",
-      "date": "20/07",
-      "timestamp": 1784537711
-    },
-    {
-      "id": "BFMTV_1784534255",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE KOWEÏT CIBLÉ PAR DE NOUVELLES ATTAQUES ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:57",
-      "date": "20/07",
-      "timestamp": 1784534255
-    },
-    {
-      "id": "BFMTV_1784533389",
-      "source": "BFMTV",
-      "text": "LE PREMIER MINISTRE HONGROIS PROPOSE L'EX-CHAMPIONNE D'ÉCHECS JUDIT POLGAR COMME PRÉSIDENTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:43",
-      "date": "20/07",
-      "timestamp": 1784533389
-    },
-    {
-      "id": "BFMTV_1784532334",
-      "source": "BFMTV",
-      "text": "MONDIAL 2026: DES HEURTS ONT ÉCLATÉ À BUENOS AIRES APRÈS LA DÉFAITE DE L'ARGENTINE EN FINALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:25",
-      "date": "20/07",
-      "timestamp": 1784532334
     }
   ],
   "france": {
