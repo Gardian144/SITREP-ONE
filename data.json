@@ -1,7 +1,77 @@
 {
-  "last_update": "21/07 07:19",
+  "last_update": "21/07 10:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784627325",
+      "source": "BFMTV",
+      "text": "BLOCAGE DU DÉTROIT DE BAB-EL-MANDEB: QUELLE STRATÉGIE DERRIÈRE L'ACTION DES REBELLES HOUTHIS DU YÉMEN?",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:48",
+      "date": "21/07",
+      "timestamp": 1784627325
+    },
+    {
+      "id": "BFMTV_1784626722",
+      "source": "BFMTV",
+      "text": "INDONÉSIE: UNE FEMME DE 70 ANS CONDAMNÉE À SEPT ANS DE PRISON POUR TRAFIC DE BÉBÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:38",
+      "date": "21/07",
+      "timestamp": 1784626722
+    },
+    {
+      "id": "BFMTV_1784623121",
+      "source": "BFMTV",
+      "text": "NEW YORK: UN HOMME ACCUSÉ D'AVOIR LANCÉ UN ENGIN INCENDIAIRE CONTRE UN BÂTIMENT FÉDÉRAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:38",
+      "date": "21/07",
+      "timestamp": 1784623121
+    },
+    {
+      "id": "BFMTV_1784622957",
+      "source": "BFMTV",
+      "text": "DES GARDE-CÔTES CHINOIS ET PHILIPPINS S’AFFRONTENT AVEC DES RAMES EN MER DE CHINE MÉRIDIONALE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:35",
+      "date": "21/07",
+      "timestamp": 1784622957
+    },
+    {
+      "id": "BFMTV_1784622739",
+      "source": "BFMTV",
+      "text": "ISLANDE: VAGUE D'INDIGNATION DANS LE PAYS APRÈS LE SACCAGE D'UN SITE NATUREL PAR UN TOURISTE FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:32",
+      "date": "21/07",
+      "timestamp": 1784622739
+    },
+    {
+      "id": "BFMTV_1784622347",
+      "source": "BFMTV",
+      "text": "\"EN CAS DE NON-RESPECT, NOUS CIBLERONS VOS NAVIRES\": LES HOUTHIS METTENT EN PLACE UN BLOCUS DU DÉTROIT DE BAB-EL-MANDEB",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:25",
+      "date": "21/07",
+      "timestamp": 1784622347
+    },
+    {
+      "id": "BFMTV_1784621585",
+      "source": "BFMTV",
+      "text": "UN HOMME BIENTÔT MARIÉ, UNE SOLDATE DE 19 ANS... QUI ÉTAIENT LES DEUX SOLDATS AMÉRICAINS TUÉS DANS LES FRAPPES IRANIENNES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:13",
+      "date": "21/07",
+      "timestamp": 1784621585
+    },
     {
       "id": "BFMTV_1784615774",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "20:30",
       "date": "19/07",
       "timestamp": 1784493030
-    },
-    {
-      "id": "BFMTV_1784490797",
-      "source": "BFMTV",
-      "text": "L'ARMÉE AMÉRICAINE ANNONCE LA MORT D'UN SOLDAT DANS LE NORD DE L'IRAK APRÈS UNE ATTAQUE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:53",
-      "date": "19/07",
-      "timestamp": 1784490797
-    },
-    {
-      "id": "BFMTV_1784489841",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE LA MORT D'UN DE SES SOLDATS DANS LE NORD DE L'IRAK APRÈS UNE ATTAQUE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:37",
-      "date": "19/07",
-      "timestamp": 1784489841
-    },
-    {
-      "id": "BFMTV_1784487314",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"JE CRAINS QU'ON NE SOIT PLUS DANS UNE SITUATION MAÎTRISÉE\", ESTIME BERNARD GUETTA, DÉPUTÉ EUROPÉEN RENEW",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:55",
-      "date": "19/07",
-      "timestamp": 1784487314
-    },
-    {
-      "id": "BFMTV_1784483689",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE MINISTRE ISRAÉLIEN DE LA DÉFENSE PRÉVIENT QUE SON PAYS RIPOSTERA \"DE TOUTES SES FORCES\" EN CAS D'ATTAQUE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:54",
-      "date": "19/07",
-      "timestamp": 1784483689
-    },
-    {
-      "id": "BFMTV_1784474258",
-      "source": "BFMTV",
-      "text": "MASCULINISTE, EX-COMBATTANT DE KICKBOXING, INFLUENCEUR AUX 10 MILLIONS D'ABONNÉS: QUI EST ANDREW TATE ARRÊTÉ POUR VIOLS ET TRAITE D'ÊTRE HUMAIN AUX ÉTATS-UNIS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:17",
-      "date": "19/07",
-      "timestamp": 1784474258
-    },
-    {
-      "id": "BFMTV_1784473715",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN FRAPPE À NOUVEAU SES VOISINS APRÈS LES ATTAQUES AMÉRICAINES",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:08",
-      "date": "19/07",
-      "timestamp": 1784473715
-    },
-    {
-      "id": "BFMTV_1784472467",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT : L'IRAN AFFIRME QUE LES ETATS-UNIS ONT ATTAQUÉ UNE CENTRALE NUCLÉAIRE EN CONSTRUCTION",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:47",
-      "date": "19/07",
-      "timestamp": 1784472467
     }
   ],
   "france": {
