@@ -1,7 +1,47 @@
 {
-  "last_update": "21/07 18:48",
+  "last_update": "21/07 20:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784664869",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: LES TERRIBLES IMAGES DES FEUX QUI MENACENT MADRID",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:14",
+      "date": "21/07",
+      "timestamp": 1784664869
+    },
+    {
+      "id": "BFMTV_1784664809",
+      "source": "BFMTV",
+      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT LIBANAIS A INSISTÉ AUPRÈS DE DONALD TRUMP SUR LE \"RETRAIT TOTAL D'ISRAËL\" DU LIBAN LORS DE LEUR RENCONTRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:13",
+      "date": "21/07",
+      "timestamp": 1784664809
+    },
+    {
+      "id": "BFMTV_1784661083",
+      "source": "BFMTV",
+      "text": "ATTEINTE D’UN CANCER ET SANS DOMICILE, CETTE FILLETTE DE 9 ANS REÇOIT PLUS D’UN MILLION DE DOLLARS DE DONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:11",
+      "date": "21/07",
+      "timestamp": 1784661083
+    },
+    {
+      "id": "BFMTV_1784660532",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UNE VOITURE MONTE SUR UN VÉHICULE DE POLICE EN PLEINE COURSE-POURSUITE DANS L'ÉTAT DE GÉORGIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:02",
+      "date": "21/07",
+      "timestamp": 1784660532
+    },
     {
       "id": "OPEX360_1784655157",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "10:53",
       "date": "20/07",
       "timestamp": 1784544807
-    },
-    {
-      "id": "BFMTV_1784544670",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: LE FEU SITUÉ AU NORD DE MADRID A RAVAGÉ 26.000 HECTARES, 1.200 PERSONNES ÉVACUÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:51",
-      "date": "20/07",
-      "timestamp": 1784544670
-    },
-    {
-      "id": "BFMTV_1784543533",
-      "source": "BFMTV",
-      "text": "SURNOMMÉ LE \"ROI DU NORD\", TRÈS POPULAIRE... QUI EST ANDY BURNHAM, QUI SUCCÈDE À KEIR STARMER COMME PREMIER MINISTRE DU ROYAUME-UNI?",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:32",
-      "date": "20/07",
-      "timestamp": 1784543533
-    },
-    {
-      "id": "BFMTV_1784543397",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: LE PREMIER MINISTRE SORTANT KEIR STARMER, ÉMU, APPLAUDI À SON DÉPART DE DOWNING STREET",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:29",
-      "date": "20/07",
-      "timestamp": 1784543397
-    },
-    {
-      "id": "BFMTV_1784543269",
-      "source": "BFMTV",
-      "text": "KEIR STARMER SOUHAITE \"TOUT LE SUCCÈS POSSIBLE\" À ANDY BURNHAM, NOUVEAU PREMIER MINISTRE BRITANNIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:27",
-      "date": "20/07",
-      "timestamp": 1784543269
     }
   ],
   "france": {
