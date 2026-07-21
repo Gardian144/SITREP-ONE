@@ -1,7 +1,27 @@
 {
-  "last_update": "21/07 21:38",
+  "last_update": "21/07 22:35",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784671316",
+      "source": "BFMTV",
+      "text": "LE COÛT DE LA GUERRE EN IRAN EST ESTIMÉ À \"37.5 MILLIARDS DE DOLLARS\", SELON PETE HEGSETH",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:01",
+      "date": "21/07",
+      "timestamp": 1784671316
+    },
+    {
+      "id": "BFMTV_1784670669",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT LIBANAIS A INSISTÉ AUPRÈS DE DONALD TRUMP SUR LE \"RETRAIT TOTAL D'ISRAËL\" DU LIBAN LORS DE LEUR RENCONTRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:51",
+      "date": "21/07",
+      "timestamp": 1784670669
+    },
     {
       "id": "BFMTV_1784668794",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "12:40",
       "date": "20/07",
       "timestamp": 1784551205
-    },
-    {
-      "id": "BFMTV_1784550829",
-      "source": "BFMTV",
-      "text": "LE NOUVEAU PREMIER MINISTRE BRITANNIQUE ANDY BURNHAM ENTEND \"METTRE FIN AU SANS-ABRISME\" DANS LE PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:33",
-      "date": "20/07",
-      "timestamp": 1784550829
-    },
-    {
-      "id": "BFMTV_1784550826",
-      "source": "BFMTV",
-      "text": "L'IRAN SE DIT EN \"GUERRE TOTALE\" AVEC LES ÉTATS-UNIS APRÈS UNE NEUVIÈME NUIT DE BOMBARDEMENTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:33",
-      "date": "20/07",
-      "timestamp": 1784550826
     }
   ],
   "france": {
