@@ -1,7 +1,47 @@
 {
-  "last_update": "22/07 01:07",
+  "last_update": "22/07 04:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784694537",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES DRONES ONT FRAPPÉ UN CENTRE DE DISTRIBUTION À KRASNODAR, EN RUSSIE, QUI APPARTIENT À UN GÉANT RUSSE DE L'ÉLECTRONIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:28",
+      "date": "22/07",
+      "timestamp": 1784694537
+    },
+    {
+      "id": "BFMTV_1784694435",
+      "source": "BFMTV",
+      "text": "LES AGRICULTEURS EN PREMIÈRE LIGNE FACE AU MÉGAFEU EN ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:27",
+      "date": "22/07",
+      "timestamp": 1784694435
+    },
+    {
+      "id": "BFMTV_1784694070",
+      "source": "BFMTV",
+      "text": "BLOCAGE DU DÉTROIT DE BAB EL-MANDEB: LES ARMATEURS ANTICIPENT D'ORES ET DÉJÀ LE RISQUE, PLUSIEURS NAVIRES FONT DEMI-TOUR ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:21",
+      "date": "22/07",
+      "timestamp": 1784694070
+    },
+    {
+      "id": "BFMTV_1784693493",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP PRÉVIENT QU'IL N'EN A \"PAS FINI DU TOUT\" AVEC LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:11",
+      "date": "22/07",
+      "timestamp": 1784693493
+    },
     {
       "id": "BFMTV_1784671316",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "12:58",
       "date": "20/07",
       "timestamp": 1784552281
-    },
-    {
-      "id": "BFMTV_1784552268",
-      "source": "BFMTV",
-      "text": "QUI EST ANDY BURNHAM, QUI SUCCÈDE À KEIR STARMER COMME PREMIER MINISTRE DU ROYAUME-UNI?",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:57",
-      "date": "20/07",
-      "timestamp": 1784552268
-    },
-    {
-      "id": "BFMTV_1784552120",
-      "source": "BFMTV",
-      "text": "MONDIAL: L'ÉQUIPE ESPAGNOLE, CHAMPIONNE DU MONDE 2026, A FAIT SON RETOUR À MADRID",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:55",
-      "date": "20/07",
-      "timestamp": 1784552120
-    },
-    {
-      "id": "BFMTV_1784551315",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: LE NOUVEAU PREMIER MINISTRE ANDY BURNHAM PROMET \"UN PLAN SUR DIX ANS\" POUR REDRESSER LE PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:41",
-      "date": "20/07",
-      "timestamp": 1784551315
-    },
-    {
-      "id": "BFMTV_1784551205",
-      "source": "BFMTV",
-      "text": "NÉGOCIATEUR EN CHEF DU HAMAS ET ANCIEN PRISONNIER DES GEÔLES ISRAÉLIENNES, KHALIL AL-HAYYA EST NOMMÉ NOUVEAU CHEF DU MOUVEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:40",
-      "date": "20/07",
-      "timestamp": 1784551205
     }
   ],
   "france": {
