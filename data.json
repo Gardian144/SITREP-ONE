@@ -1,7 +1,57 @@
 {
-  "last_update": "22/07 09:58",
+  "last_update": "22/07 11:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784719102",
+      "source": "BFMTV",
+      "text": "ALGÉRIE: EMMANUEL MACRON ASSURE QUE LA FRANCE N'A AUCUN \"OBJECTIF CHIFFRÉ\" ET \"AUCUN LAXISME\" SUR LES VISAS",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:18",
+      "date": "22/07",
+      "timestamp": 1784719102
+    },
+    {
+      "id": "OPEX360_1784716702",
+      "source": "OPEX360",
+      "text": "LE PORTUGAL CONFIRME LA COMMANDE DE TROIS FRÉGATES MULTIMISSIONS EVO AUPRÈS DE L’ITALIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:38",
+      "date": "22/07",
+      "timestamp": 1784716702
+    },
+    {
+      "id": "BFMTV_1784716014",
+      "source": "BFMTV",
+      "text": "INDE: UN LÉOPARD FAIT IRRUPTION DANS UN MAGASIN D'ALCOOL ET ATTAQUE LE VENDEUR",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:26",
+      "date": "22/07",
+      "timestamp": 1784716014
+    },
+    {
+      "id": "BFMTV_1784714989",
+      "source": "BFMTV",
+      "text": "\"NE PAS PARLER SERAIT IMPRUDENT ET IRRESPONSABLE\": MARCO RUBIO DIT VOULOIR MAINTENIR LE LIEN AVEC LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:09",
+      "date": "22/07",
+      "timestamp": 1784714989
+    },
+    {
+      "id": "BFMTV_1784714371",
+      "source": "BFMTV",
+      "text": "MARCO RUBIO: L'IRAN EST LE PRINCIPAL \"FAUTEUR DE TROUBLES\" AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:59",
+      "date": "22/07",
+      "timestamp": 1784714371
+    },
     {
       "id": "BFMTV_1784712800",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "15:57",
       "date": "20/07",
       "timestamp": 1784563064
-    },
-    {
-      "id": "BFMTV_1784562697",
-      "source": "BFMTV",
-      "text": "DEUX DIPLOMATES FRANÇAIS DÉTENUS PLUSIEURS HEURES EN IRAN, JEAN-NOËL BARROT DÉNONCE UNE \"ACTION D'INTIMIDATION\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:51",
-      "date": "20/07",
-      "timestamp": 1784562697
-    },
-    {
-      "id": "BFMTV_1784562328",
-      "source": "BFMTV",
-      "text": "DIRECT. DEUX DIPLOMATES FRANÇAIS DÉTENUS PLUSIEURS HEURES EN IRAN, JEAN-NOËL BARROT DÉNONCE UNE \"ACTION D'INTIMIDATION\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:45",
-      "date": "20/07",
-      "timestamp": 1784562328
-    },
-    {
-      "id": "BFMTV_1784562199",
-      "source": "BFMTV",
-      "text": "\"UNE ACTION D'INTIMIDATION EXTRÊMEMENT GRAVE\": JEAN-NOËL BARROT DÉNONCE LA DÉTENTION DE DEUX DIPLOMATES FRANÇAIS EN IRAN, DONT L'UN D'EUX A ÉTÉ MOLESTÉ",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:43",
-      "date": "20/07",
-      "timestamp": 1784562199
-    },
-    {
-      "id": "BFMTV_1784561968",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DEUX DIPLOMATES DE L'AMBASSADE DE FRANCE EN IRAN \"ONT ÉTÉ LA CIBLE D'UNE ACTION D'INTIMIDATION EXTRÊMEMENT GRAVE DE LA PART DES SERVICES DE SÉCURITÉ IRANIENS\", ANNONCE LE MINISTRE DES AFFAIRES ÉTRANGÈRES",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:39",
-      "date": "20/07",
-      "timestamp": 1784561968
-    },
-    {
-      "id": "BFMTV_1784561732",
-      "source": "BFMTV",
-      "text": "UN HOMME ARRÊTÉ ET DEUX PERSONNES BLESSÉES APRÈS UN INCENDIE DEVANT UN BÂTIMENT FÉDÉRAL À NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:35",
-      "date": "20/07",
-      "timestamp": 1784561732
     }
   ],
   "france": {
