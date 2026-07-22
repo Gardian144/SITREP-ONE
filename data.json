@@ -1,7 +1,37 @@
 {
-  "last_update": "22/07 11:52",
+  "last_update": "22/07 13:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784726771",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE DE BOMBARDER DES INFRASTRUCTURES CIVILES IRANIENNES CHAQUE FOIS QUE TÉHÉRAN TIRERA SUR UN NAVIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:26",
+      "date": "22/07",
+      "timestamp": 1784726771
+    },
+    {
+      "id": "BFMTV_1784724267",
+      "source": "BFMTV",
+      "text": "INCENDIE AU NORD DE MADRID: PLUS DE 32.000 HECTARES DE VÉGÉTATION RAVAGÉS PAR LES FLAMMES, LE FEU \"EN VOIE DE STABILISATION\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:44",
+      "date": "22/07",
+      "timestamp": 1784724267
+    },
+    {
+      "id": "BFMTV_1784724055",
+      "source": "BFMTV",
+      "text": "PÉROU: UN ENFANT DE 8 ANS TUÉ D'UNE BALLE DANS LA TÊTE PAR UN POLICIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:40",
+      "date": "22/07",
+      "timestamp": 1784724055
+    },
     {
       "id": "BFMTV_1784719102",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "16:24",
       "date": "20/07",
       "timestamp": 1784564654
-    },
-    {
-      "id": "BFMTV_1784564553",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: UNE PROFESSEURE D'UNIVERSITÉ CRITIQUE \"À L'ÉGARD DES IDENTITÉS TRANS\", LES ÉTUDIANTS EXIGENT SON RENVOI",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:22",
-      "date": "20/07",
-      "timestamp": 1784564553
-    },
-    {
-      "id": "BFMTV_1784564503",
-      "source": "BFMTV",
-      "text": "DEUX DIPLOMATES FRANÇAIS DÉTENUS PLUSIEURS HEURES EN IRAN, LA FRANCE DÉNONCE UNE \"ACTION D'INTIMIDATION\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "16:21",
-      "date": "20/07",
-      "timestamp": 1784564503
-    },
-    {
-      "id": "BFMTV_1784563064",
-      "source": "BFMTV",
-      "text": "DEUX DIPLOMATES FRANÇAIS ONT ÉTÉ DÉTENUS PLUSIEURS HEURES EN IRAN ANNONCE JEAN-NOËL BARROT",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:57",
-      "date": "20/07",
-      "timestamp": 1784563064
     }
   ],
   "france": {
