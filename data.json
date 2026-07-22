@@ -1,7 +1,27 @@
 {
-  "last_update": "22/07 15:41",
+  "last_update": "22/07 17:01",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1784738398",
+      "source": "OPEX360",
+      "text": "DÉFENSE AÉRIENNE : L’ALLEMAGNE EST «OUVERTE» À L’IDÉE DE REJOINDRE LE PROGRAMME FRANCO-ITALIEN SAMP/T NG",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:39",
+      "date": "22/07",
+      "timestamp": 1784738398
+    },
+    {
+      "id": "BFMTV_1784736675",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN AVION ATTERRIT SUR UNE MAISON, LE PILOTE EST TRANSPORTÉ À L'HÔPITAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:11",
+      "date": "22/07",
+      "timestamp": 1784736675
+    },
     {
       "id": "BFMTV_1784734065",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "18:17",
       "date": "20/07",
       "timestamp": 1784571456
-    },
-    {
-      "id": "BFMTV_1784571456",
-      "source": "BFMTV",
-      "text": "AIR FRANCE PROLONGE LA SUSPENSION DE SES VOLS VERS RIYAD JUSQU'AU 24 JUILLET INCLUS, ET VERS DUBAÏ JUSQU'AU 27 JUILLET INCLUS",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:17",
-      "date": "20/07",
-      "timestamp": 1784571456
-    },
-    {
-      "id": "BFMTV_1784570108",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QUE BENJAMIN NETANYAHU NE SERA PAS ARRÊTÉ AUX ÉTATS-UNIS, CONTRAIREMENT À LA POSSIBILITÉ AVANCÉE PAR LE MAIRE DE NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:55",
-      "date": "20/07",
-      "timestamp": 1784570108
     }
   ],
   "france": {
