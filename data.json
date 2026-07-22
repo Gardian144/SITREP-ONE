@@ -1,7 +1,57 @@
 {
-  "last_update": "22/07 13:50",
+  "last_update": "22/07 15:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784734065",
+      "source": "BFMTV",
+      "text": "VIOLENCE, INTIMIDATIONS… QUI SONT LES \"GOONS\", CES HOMMES DE MAIN QUI INQUIÈTENT LES ONG AU KENYA?",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:27",
+      "date": "22/07",
+      "timestamp": 1784734065
+    },
+    {
+      "id": "BFMTV_1784732445",
+      "source": "BFMTV",
+      "text": "POURQUOI LES HOUTHIS BLOQUENT-ILS LE DÉTROIT DE BAB EL-MANDEB À L’ARABIE SAOUDITE, FAISANT CRAINDRE DES CONSÉQUENCES SUR LE PÉTROLE MONDIAL?",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:00",
+      "date": "22/07",
+      "timestamp": 1784732445
+    },
+    {
+      "id": "OPEX360_1784731523",
+      "source": "OPEX360",
+      "text": "GRÂCE À L’ONERA, LA FRANCE SE DOTE D’UNE CAPACITÉ DE SURVEILLANCE SPATIALE UNIQUE EN EUROPE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:45",
+      "date": "22/07",
+      "timestamp": 1784731523
+    },
+    {
+      "id": "BFMTV_1784730764",
+      "source": "BFMTV",
+      "text": "MILITAIRES AMÉRICAINS TUÉS: L'IRAN \"VA EN PAYER LE PRIX FORT\", ASSURE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:32",
+      "date": "22/07",
+      "timestamp": 1784730764
+    },
+    {
+      "id": "BFMTV_1784728471",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: DONALD TRUMP MENACE DE BOMBARDER DES INFRASTRUCTURES CIVILES IRANIENNES CHAQUE FOIS QUE TÉHÉRAN TIRERA SUR UN NAVIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:54",
+      "date": "22/07",
+      "timestamp": 1784728471
+    },
     {
       "id": "BFMTV_1784726771",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "17:55",
       "date": "20/07",
       "timestamp": 1784570108
-    },
-    {
-      "id": "BFMTV_1784569186",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: QUI EST ANDY BURNHAM, LE TOUT NOUVEAU PREMIER MINISTRE BRITANNIQUE ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:39",
-      "date": "20/07",
-      "timestamp": 1784569186
-    },
-    {
-      "id": "BFMTV_1784568927",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DIT QUE SON NOUVEL AVION AIR FORCE ONE A BESOIN D'AMÉLIORATIONS, APRÈS DES CRAINTES DE SÉCURITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:35",
-      "date": "20/07",
-      "timestamp": 1784568927
-    },
-    {
-      "id": "BFMTV_1784568139",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: L'ARMÉE DU KOWEÏT DIT AFFRONTER DES TIRS DE MISSILES ET DE DRONES IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:22",
-      "date": "20/07",
-      "timestamp": 1784568139
-    },
-    {
-      "id": "OPEX360_1784567685",
-      "source": "OPEX360",
-      "text": "THALES NOUE UN PARTENARIAT STRATÉGIQUE AVEC DESTINUS POUR DÉVELOPPER DE NOUVELLES CAPACITÉS DE PROTECTION ET DE FRAPPE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:14",
-      "date": "20/07",
-      "timestamp": 1784567685
-    },
-    {
-      "id": "OPEX360_1784564654",
-      "source": "OPEX360",
-      "text": "LE DRONE MALE AMÉRICAIN MQ-9B SKYGUARDIAN POURRA BIENTÔT EMPORTER LE MISSILE DE CROISIÈRE À LONGUE PORTÉE JSM",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:24",
-      "date": "20/07",
-      "timestamp": 1784564654
     }
   ],
   "france": {
