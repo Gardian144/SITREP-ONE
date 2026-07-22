@@ -1,7 +1,57 @@
 {
-  "last_update": "22/07 07:21",
+  "last_update": "22/07 09:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784712800",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:33",
+      "date": "22/07",
+      "timestamp": 1784712800
+    },
+    {
+      "id": "BFMTV_1784712799",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY LIMOGE LE COMMANDANT EN CHEF DE SON ARMÉE, SURNOMMÉ \"LE BOUCHER\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:33",
+      "date": "22/07",
+      "timestamp": 1784712799
+    },
+    {
+      "id": "BFMTV_1784710289",
+      "source": "BFMTV",
+      "text": "INCENDIE EN ESPAGNE: 32.000 HECTARES ONT DÉSORMAIS ÉTÉ RAVAGÉS PAR LES FLAMMES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:51",
+      "date": "22/07",
+      "timestamp": 1784710289
+    },
+    {
+      "id": "BFMTV_1784710016",
+      "source": "BFMTV",
+      "text": "INCENDIE AU NORD DE MADRID: PLUS DE 30.000 HECTARES DE VÉGÉTATION RAVAGÉS PAR LES FLAMMES, LE FEU \"EN VOIE DE STABILISATION\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:46",
+      "date": "22/07",
+      "timestamp": 1784710016
+    },
+    {
+      "id": "BFMTV_1784706589",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:49",
+      "date": "22/07",
+      "timestamp": 1784706589
+    },
     {
       "id": "BFMTV_1784704368",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "15:35",
       "date": "20/07",
       "timestamp": 1784561732
-    },
-    {
-      "id": "BFMTV_1784559424",
-      "source": "BFMTV",
-      "text": "CE LIVREUR DE REPAS VIENT DE REMPORTER L’UN DES PLUS GRANDS PRIX LITTÉRAIRES DE CHINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:57",
-      "date": "20/07",
-      "timestamp": 1784559424
-    },
-    {
-      "id": "BFMTV_1784558254",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: ANDY BURNHAM, LE NOUVEAU PREMIER MINISTRE, DOIT ÊTRE \"PLUS PRÉSENT\" AUPRÈS DES BRITANNIQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:37",
-      "date": "20/07",
-      "timestamp": 1784558254
-    },
-    {
-      "id": "BFMTV_1784558231",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: LE PREMIER MINISTRE SORTANT KEIR STARMER A SOUFFERT D'UN MANQUE \"DE CHARISME\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:37",
-      "date": "20/07",
-      "timestamp": 1784558231
-    },
-    {
-      "id": "OPEX360_1784555410",
-      "source": "OPEX360",
-      "text": "LA BELGIQUE VA SE RENSEIGNER AUPRÈS DE PLUSIEURS PAYS, DONT LA FRANCE, POUR SAUVER SON PROGRAMME DE NOUVELLES FRÉGATES",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:50",
-      "date": "20/07",
-      "timestamp": 1784555410
-    },
-    {
-      "id": "BFMTV_1784555209",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: PLUS DE 1.600 PERSONNES VICTIMES D'UNE ÉPIDÉMIE DE DIARRHÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:46",
-      "date": "20/07",
-      "timestamp": 1784555209
     }
   ],
   "france": {
