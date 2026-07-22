@@ -1,7 +1,27 @@
 {
-  "last_update": "22/07 17:01",
+  "last_update": "22/07 18:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784743825",
+      "source": "BFMTV",
+      "text": "LE MAIRE DE NEW YORK APPELLE LE GOUVERNEMENT AMÉRICAIN À ARRÊTER BENJAMIN NETANYAHU",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:10",
+      "date": "22/07",
+      "timestamp": 1784743825
+    },
+    {
+      "id": "OPEX360_1784742065",
+      "source": "OPEX360",
+      "text": "L’INDONÉSIE COMMANDE 12 AVIONS DE COMBAT LÉGERS M346F À L’ITALIEN LEONARDO ET ENVISAGE L’ACHAT D’HÉLICOPTÈRES AW149",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:41",
+      "date": "22/07",
+      "timestamp": 1784742065
+    },
     {
       "id": "OPEX360_1784738398",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "18:58",
       "date": "20/07",
       "timestamp": 1784573888
-    },
-    {
-      "id": "BFMTV_1784572305",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN PETIT CHIEN RETROUVÉ VIVANT DANS LA BAIE DE SAN FRANCISCO",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:31",
-      "date": "20/07",
-      "timestamp": 1784572305
-    },
-    {
-      "id": "BFMTV_1784571456",
-      "source": "BFMTV",
-      "text": "AIR FRANCE SUSPEND SES VOLS VERS RIYAD JUSQU'AU 24 JUILLET INCLUS, ET VERS DUBAÏ JUSQU'AU 27 JUILLET INCLUS",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:17",
-      "date": "20/07",
-      "timestamp": 1784571456
     }
   ],
   "france": {
