@@ -1,7 +1,27 @@
 {
-  "last_update": "23/07 18:45",
+  "last_update": "23/07 20:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784835737",
+      "source": "BFMTV",
+      "text": "L'ODYSSÉE: ZENDAYA PORTE DES BOUCLES D’OREILLES VIEILLES DE 3.000 ANS ET CRÉE LA POLÉMIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:42",
+      "date": "23/07",
+      "timestamp": 1784835737
+    },
+    {
+      "id": "BFMTV_1784833655",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE UNE VISITE DE XI JINPING AUX ÉTATS-UNIS, LE 24 SEPTEMBRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:07",
+      "date": "23/07",
+      "timestamp": 1784833655
+    },
     {
       "id": "OPEX360_1784827733",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "14:10",
       "date": "21/07",
       "timestamp": 1784643041
-    },
-    {
-      "id": "BFMTV_1784641835",
-      "source": "BFMTV",
-      "text": "LE PARQUET NATIONAL ANTITERRORISTE OUVRE UNE ENQUÊTE POUR TORTURES CONCERNANT UNE \"FLOTILLE POUR GAZA\" EN 2025",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:50",
-      "date": "21/07",
-      "timestamp": 1784641835
-    },
-    {
-      "id": "BFMTV_1784641835",
-      "source": "BFMTV",
-      "text": "LE PARQUET NATIONAL ANTITERRORISTE OUVRE UNE ENQUÊTE POUR TORTURES CONCERNANT UNE \"FLOTTILLE POUR GAZA\" EN 2025",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:50",
-      "date": "21/07",
-      "timestamp": 1784641835
     }
   ],
   "france": {
