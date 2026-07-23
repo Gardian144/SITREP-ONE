@@ -1,7 +1,87 @@
 {
-  "last_update": "23/07 13:55",
+  "last_update": "23/07 15:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784820784",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LES ÉTATS-UNIS RESTENT \"LE SEUL PARTENAIRE EN MESURE DE PARLER\" AUX DEUX PARTIES",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:33",
+      "date": "23/07",
+      "timestamp": 1784820784
+    },
+    {
+      "id": "BFMTV_1784820121",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE SOUTIEN EUROPÉEN \"DE PLUS EN PLUS PUISSANT\" CRITIQUÉ PAR LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:22",
+      "date": "23/07",
+      "timestamp": 1784820121
+    },
+    {
+      "id": "BFMTV_1784818838",
+      "source": "BFMTV",
+      "text": "GAZA: L'ONU ESTIME QUE LA SÉCURITÉ ALIMENTAIRE S'AMÉLIORE DANS L'ENCLAVE PALESTINIENNE MAIS \"LES PROGRÈS RESTENT FRAGILES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:00",
+      "date": "23/07",
+      "timestamp": 1784818838
+    },
+    {
+      "id": "BFMTV_1784818433",
+      "source": "BFMTV",
+      "text": "UNE VAGUE DE CHALEUR ENTRAÎNE DES COUPURES DE COURANT EN SÉRIE EN TUNISIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:53",
+      "date": "23/07",
+      "timestamp": 1784818433
+    },
+    {
+      "id": "OPEX360_1784818152",
+      "source": "OPEX360",
+      "text": "BAE SYSTEMS A PRÉSENTÉ LE BRONTANAX, LE PROTOTYPE DU PREMIER DRONE DE COMBAT COLLABORATIF BRITANNIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:49",
+      "date": "23/07",
+      "timestamp": 1784818152
+    },
+    {
+      "id": "BFMTV_1784816323",
+      "source": "BFMTV",
+      "text": "CONFLIT ISRAËL-IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:18",
+      "date": "23/07",
+      "timestamp": 1784816323
+    },
+    {
+      "id": "BFMTV_1784816323",
+      "source": "BFMTV",
+      "text": "\"UNE CRISE ALIMENTE LA SUIVANTE\": L'ONU MET EN GARDE SUR UNE SITUATION AU MOYEN-ORIENT \"AU BORD DE L'INIMAGINABLE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:18",
+      "date": "23/07",
+      "timestamp": 1784816323
+    },
+    {
+      "id": "BFMTV_1784815937",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QUE L'ACCORD SUR LE NUCLÉAIRE CIVIL AVEC L'ARABIE SAOUDITE EST CONDITIONNÉ À SA RECONNAISSANCE D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:12",
+      "date": "23/07",
+      "timestamp": 1784815937
+    },
     {
       "id": "BFMTV_1784813369",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "10:04",
       "date": "21/07",
       "timestamp": 1784628253
-    },
-    {
-      "id": "BFMTV_1784627325",
-      "source": "BFMTV",
-      "text": "BLOCAGE DU DÉTROIT DE BAB-EL-MANDEB: QUELLE STRATÉGIE DERRIÈRE L'ACTION DES REBELLES HOUTHIS DU YÉMEN?",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:48",
-      "date": "21/07",
-      "timestamp": 1784627325
-    },
-    {
-      "id": "BFMTV_1784626722",
-      "source": "BFMTV",
-      "text": "INDONÉSIE: UNE FEMME DE 70 ANS CONDAMNÉE À SEPT ANS DE PRISON POUR TRAFIC DE BÉBÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:38",
-      "date": "21/07",
-      "timestamp": 1784626722
-    },
-    {
-      "id": "BFMTV_1784623121",
-      "source": "BFMTV",
-      "text": "NEW YORK: UN HOMME ACCUSÉ D'AVOIR LANCÉ UN ENGIN INCENDIAIRE CONTRE UN BÂTIMENT FÉDÉRAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:38",
-      "date": "21/07",
-      "timestamp": 1784623121
-    },
-    {
-      "id": "BFMTV_1784622957",
-      "source": "BFMTV",
-      "text": "DES GARDE-CÔTES CHINOIS ET PHILIPPINS S’AFFRONTENT AVEC DES RAMES EN MER DE CHINE MÉRIDIONALE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:35",
-      "date": "21/07",
-      "timestamp": 1784622957
-    },
-    {
-      "id": "BFMTV_1784622739",
-      "source": "BFMTV",
-      "text": "ISLANDE: VAGUE D'INDIGNATION DANS LE PAYS APRÈS LE SACCAGE D'UN SITE NATUREL PAR UN TOURISTE FRANÇAIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "08:32",
-      "date": "21/07",
-      "timestamp": 1784622739
-    },
-    {
-      "id": "BFMTV_1784622347",
-      "source": "BFMTV",
-      "text": "\"EN CAS DE NON-RESPECT, NOUS CIBLERONS VOS NAVIRES\": LES HOUTHIS METTENT EN PLACE UN BLOCUS DU DÉTROIT DE BAB-EL-MANDEB",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:25",
-      "date": "21/07",
-      "timestamp": 1784622347
-    },
-    {
-      "id": "BFMTV_1784621585",
-      "source": "BFMTV",
-      "text": "UN HOMME BIENTÔT MARIÉ, UNE SOLDATE DE 19 ANS... QUI ÉTAIENT LES DEUX SOLDATS AMÉRICAINS TUÉS DANS LES FRAPPES IRANIENNES?",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:13",
-      "date": "21/07",
-      "timestamp": 1784621585
-    },
-    {
-      "id": "BFMTV_1784621585",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:13",
-      "date": "21/07",
-      "timestamp": 1784621585
     }
   ],
   "france": {
