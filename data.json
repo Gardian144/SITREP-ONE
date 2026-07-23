@@ -1,7 +1,27 @@
 {
-  "last_update": "23/07 21:28",
+  "last_update": "23/07 22:32",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784843395",
+      "source": "BFMTV",
+      "text": "MICHELLE BACHELET SE DÉFEND POUR OBTENIR LE POSTE DE SECRÉTAIRE GÉNÉRAL DES NATIONS UNIES",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:49",
+      "date": "23/07",
+      "timestamp": 1784843395
+    },
+    {
+      "id": "BFMTV_1784842754",
+      "source": "BFMTV",
+      "text": "MARIA FERNANDA ESPINOSA SE DÉFEND POUR OBTENIR LE POSTE DE SECRÉTAIRE GÉNÉRAL DES NATIONS UNIES",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:39",
+      "date": "23/07",
+      "timestamp": 1784842754
+    },
     {
       "id": "BFMTV_1784841979",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:44",
       "date": "21/07",
       "timestamp": 1784648656
-    },
-    {
-      "id": "BFMTV_1784648656",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS N'EN ONT \"PAS FINI DU TOUT\" AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:44",
-      "date": "21/07",
-      "timestamp": 1784648656
-    },
-    {
-      "id": "BFMTV_1784648368",
-      "source": "BFMTV",
-      "text": "\"ON S'EN OCCUPERA\", DÉCLARE DONALD TRUMP, SI LES HOUTHIS VENAIENT À TENTER DE BLOQUER LA MER ROUGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:39",
-      "date": "21/07",
-      "timestamp": 1784648368
     }
   ],
   "france": {
