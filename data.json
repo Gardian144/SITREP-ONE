@@ -1,7 +1,27 @@
 {
-  "last_update": "23/07 20:11",
+  "last_update": "23/07 21:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784841979",
+      "source": "BFMTV",
+      "text": "CANADA/ÉTATS-UNIS: MARK CARNEY \"INTENSIFIE LES NÉGOCIATIONS\" APRÈS LES NOUVELLES TAXES DES USA",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:26",
+      "date": "23/07",
+      "timestamp": 1784841979
+    },
+    {
+      "id": "BFMTV_1784838337",
+      "source": "BFMTV",
+      "text": "INCENDIES EN ESPAGNE: 3.500 PERSONNES ÉVACUÉES À TITRE PRÉVENTIF D'UNE LOCALITÉ SITUÉE À 60 KILOMÈTRES DE MADRID",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:25",
+      "date": "23/07",
+      "timestamp": 1784838337
+    },
     {
       "id": "BFMTV_1784835737",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:39",
       "date": "21/07",
       "timestamp": 1784648368
-    },
-    {
-      "id": "OPEX360_1784646455",
-      "source": "OPEX360",
-      "text": "LOCKHEED MARTIN A DÉVOILÉ UN MISSILE INTERCEPTEUR DEUX FOIS MOINS CHER QUE LE PAC-3 MSE UTILISÉ PAR LE SYSTÈME PATRIOT",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:07",
-      "date": "21/07",
-      "timestamp": 1784646455
-    },
-    {
-      "id": "BFMTV_1784643041",
-      "source": "BFMTV",
-      "text": "LA CHINE DEVIENT LA PREMIÈRE GRANDE ÉCONOMIE À RÉGULER LES RELATIONS AMOUREUSES AVEC LES IA",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:10",
-      "date": "21/07",
-      "timestamp": 1784643041
     }
   ],
   "france": {
