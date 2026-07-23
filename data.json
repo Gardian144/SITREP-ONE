@@ -1,7 +1,37 @@
 {
-  "last_update": "23/07 11:52",
+  "last_update": "23/07 13:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784813369",
+      "source": "BFMTV",
+      "text": "LE RISQUE D'UNE \"INFLATION PLUS ÉLEVÉE QUE PRÉVUE\": LA CHEFFE DE LA BCE ALERTE SUR LES CONSÉQUENCES D'UN PROLONGEMENT DE LA GUERRE AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:29",
+      "date": "23/07",
+      "timestamp": 1784813369
+    },
+    {
+      "id": "BFMTV_1784810676",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE LES HOUTHIS D'UNE \"PUNITION MILITAIRE MAJEURE\" EN CAS DE NOUVELLES FRAPPES À ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:44",
+      "date": "23/07",
+      "timestamp": 1784810676
+    },
+    {
+      "id": "BFMTV_1784808735",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉNONCE L'ATTITUDE \"IRRATIONNELLE\" ET \"DOMINATRICE\" DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:12",
+      "date": "23/07",
+      "timestamp": 1784808735
+    },
     {
       "id": "BFMTV_1784806983",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "08:13",
       "date": "21/07",
       "timestamp": 1784621585
-    },
-    {
-      "id": "BFMTV_1784615774",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: L'IRAN ASSURE QUE \"PAS UNE SEULE GOUTTE DE PÉTROLE\" NE PASSERA PAR LE DÉTROIT D’ORMUZ, QUI RESTE \"FERMÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:36",
-      "date": "21/07",
-      "timestamp": 1784615774
-    },
-    {
-      "id": "BFMTV_1784615633",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DEUX DIPLOMATES FRANÇAIS ONT ÉTÉ DÉTENUS EN IRAN  ",
-      "urgent": true,
-      "france_related": true,
-      "time": "06:33",
-      "date": "21/07",
-      "timestamp": 1784615633
-    },
-    {
-      "id": "BFMTV_1784614613",
-      "source": "BFMTV",
-      "text": "MÉGAFEU EN ESPAGNE: 26.000 HECTARES ONT DÉJÀ BRÛLÉ À 100 KILOMÈTRES AU NORD DE MADRID",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:16",
-      "date": "21/07",
-      "timestamp": 1784614613
     }
   ],
   "france": {
