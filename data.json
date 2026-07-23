@@ -1,7 +1,57 @@
 {
-  "last_update": "23/07 04:33",
+  "last_update": "23/07 07:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784788138",
+      "source": "BFMTV",
+      "text": "LES DEUX DIPLOMATES FRANÇAIS AGRESSÉS À TÉHÉRAN SONT \"RENTRÉS À PARIS\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:28",
+      "date": "23/07",
+      "timestamp": 1784788138
+    },
+    {
+      "id": "BFMTV_1784786280",
+      "source": "BFMTV",
+      "text": "JEAN-NOËL BARROT ANNONCE QUE LES DIPLOMATES AGRESSÉS EN IRAN SONT  \"RENTRÉS À PARIS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:58",
+      "date": "23/07",
+      "timestamp": 1784786280
+    },
+    {
+      "id": "BFMTV_1784784348",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES HOUTHIS DU YÉMEN ATTAQUENT DES PÉTROLIERS SAOUDIENS DANS LA MER ROUGE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:25",
+      "date": "23/07",
+      "timestamp": 1784784348
+    },
+    {
+      "id": "BFMTV_1784782898",
+      "source": "BFMTV",
+      "text": "LE RETOUR DU PLAFOND À 1,99 EURO LE LITRE: TOTALENERGIES RÉTABLIT SON BOUCLIER CARBURANT À LA VEILLE DE L'ANNONCE DE RÉSULTATS QUI S'ANNONCENT EN TRÈS FORTE HAUSSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:01",
+      "date": "23/07",
+      "timestamp": 1784782898
+    },
+    {
+      "id": "BFMTV_1784782385",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: 500 MÉDECINS AMÉRICAINS ONT ÉTÉ ENVOYÉS EN ALLEMAGNE, DANS LA BASE AMÉRICAINE DE RAMSTEIN",
+      "urgent": true,
+      "france_related": true,
+      "time": "04:53",
+      "date": "23/07",
+      "timestamp": 1784782385
+    },
     {
       "id": "BFMTV_1784780737",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "21:09",
       "date": "20/07",
       "timestamp": 1784581752
-    },
-    {
-      "id": "BFMTV_1784581423",
-      "source": "BFMTV",
-      "text": "DIRECT. LES ÉTATS-UNIS ANNONCENT UNE NOUVELLE SÉRIE DE FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:03",
-      "date": "20/07",
-      "timestamp": 1784581423
-    },
-    {
-      "id": "BFMTV_1784580499",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE POUR CHAQUE SOLDAT AMÉRICAIN TUÉ, L'IRAN PAYERA \"PLUSIEURS FOIS\" LE PRIX",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:48",
-      "date": "20/07",
-      "timestamp": 1784580499
-    },
-    {
-      "id": "BFMTV_1784580026",
-      "source": "BFMTV",
-      "text": "IRAN: LES ÉTATS-UNIS ANNONCENT UNE NOUVELLE SÉRIE DE FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:40",
-      "date": "20/07",
-      "timestamp": 1784580026
-    },
-    {
-      "id": "BFMTV_1784579110",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: LE FEU SITUÉ À 100 KILOMÈTRES AU NORD DE MADRID EST FIXÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:25",
-      "date": "20/07",
-      "timestamp": 1784579110
-    },
-    {
-      "id": "BFMTV_1784578867",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:21",
-      "date": "20/07",
-      "timestamp": 1784578867
     }
   ],
   "france": {
