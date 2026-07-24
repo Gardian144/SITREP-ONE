@@ -1,7 +1,37 @@
 {
-  "last_update": "24/07 07:17",
+  "last_update": "24/07 09:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784885261",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA ROUMANIE ABAT POUR LA PREMIÈRE FOIS UN DRONE SUR SON TERRITOIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:27",
+      "date": "24/07",
+      "timestamp": 1784885261
+    },
+    {
+      "id": "BFMTV_1784882303",
+      "source": "BFMTV",
+      "text": "\"NOUS VIVONS UNE SITUATION DRAMATIQUE\": EN ESPAGNE, DES FEUX DIFFICILES À CONTRÔLER À MOINS DE 100 KILOMÈTRES DE LA CAPITALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:38",
+      "date": "24/07",
+      "timestamp": 1784882303
+    },
+    {
+      "id": "BFMTV_1784880377",
+      "source": "BFMTV",
+      "text": "UN PARTICIPANT SEMBLE IMITER DONALD TRUMP LORS D'UN DISCOURS EN GÉORGIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:06",
+      "date": "24/07",
+      "timestamp": 1784880377
+    },
     {
       "id": "BFMTV_1784876251",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:32",
       "date": "21/07",
       "timestamp": 1784655157
-    },
-    {
-      "id": "BFMTV_1784652586",
-      "source": "BFMTV",
-      "text": "\"NOS SOLDATS NE SERAIENT PAS TUÉS SI VOUS NE MENIEZ PAS UNE GUERRE INUTILE\": L'AMÉRIQUE COMPTE À NOUVEAU SES MORTS AU MOYEN-ORIENT, DONALD TRUMP TIENT SA LIGNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:49",
-      "date": "21/07",
-      "timestamp": 1784652586
-    },
-    {
-      "id": "BFMTV_1784652566",
-      "source": "BFMTV",
-      "text": "AUSTRALIE: UNE FEMME DONNE NAISSANCE À DES QUADRUPLÉES IDENTIQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:49",
-      "date": "21/07",
-      "timestamp": 1784652566
-    },
-    {
-      "id": "OPEX360_1784650465",
-      "source": "OPEX360",
-      "text": "L’AVION DE TRANSPORT TACTIQUE BRÉSILIEN C-390 VA POUVOIR LANCER DES MISSILES DE CROISIÈRE AMÉRICAINS BARRACUDA",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:14",
-      "date": "21/07",
-      "timestamp": 1784650465
     }
   ],
   "france": {
