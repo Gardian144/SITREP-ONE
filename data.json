@@ -1,7 +1,47 @@
 {
-  "last_update": "24/07 13:05",
+  "last_update": "24/07 15:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784905060",
+      "source": "BFMTV",
+      "text": "\"PIRE INCENDIE DE L'HISTOIRE DE LA RÉGION\", 19.000 ÉVACUATIONS... CE QUE L'ON SAIT DES FEUX QUI FONT RAGE PRÈS DE MADRID",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:57",
+      "date": "24/07",
+      "timestamp": 1784905060
+    },
+    {
+      "id": "BFMTV_1784904768",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU RENCONTRERA DONALD TRUMP À LA MAISON BLANCHE MARDI, ET ASSISTERA AUX FUNÉRAILLES DU SÉNATEUR LINDSEY GRAHAM",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:52",
+      "date": "24/07",
+      "timestamp": 1784904768
+    },
+    {
+      "id": "OPEX360_1784901014",
+      "source": "OPEX360",
+      "text": "POUR LA PREMIÈRE FOIS, LA ROUMANIE A ABATTU UN DRONE AYANT VIOLÉ SON ESPACE AÉRIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:50",
+      "date": "24/07",
+      "timestamp": 1784901014
+    },
+    {
+      "id": "BFMTV_1784898912",
+      "source": "BFMTV",
+      "text": "INCENDIES EN GIRONDE: L'UE RÉPOND À L'APPEL DE LA FRANCE ET DÉPLOYE 3 AVIONS ET DEUX HÉLICOPÈRES",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:15",
+      "date": "24/07",
+      "timestamp": 1784898912
+    },
     {
       "id": "BFMTV_1784897700",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "21:09",
       "date": "21/07",
       "timestamp": 1784668151
-    },
-    {
-      "id": "BFMTV_1784667661",
-      "source": "BFMTV",
-      "text": "ONU: \"LA FRANCE EST AUX CÔTÉS DE LA SYRIE POUR CRÉER UN CHOC DE CONFIANCE QUI ATTIRERA LES INVESTISSEURS\", DÉCLARE JAY DHARMADHIKARI",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:01",
-      "date": "21/07",
-      "timestamp": 1784667661
-    },
-    {
-      "id": "BFMTV_1784666696",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES DEUX SCÉNARIOS ENVISAGÉS PAR DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:44",
-      "date": "21/07",
-      "timestamp": 1784666696
-    },
-    {
-      "id": "BFMTV_1784666538",
-      "source": "BFMTV",
-      "text": "IRAN: LE MINISTRE AMÉRICAIN DE LA DÉFENSE ESTIME À 37,5 MILLIARDS DE DOLLARS LE COÛT DE LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:42",
-      "date": "21/07",
-      "timestamp": 1784666538
-    },
-    {
-      "id": "BFMTV_1784666307",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: \"NOUS N'EN AVONS PAS FINI DU TOUT AVEC L'IRAN\", ANNONCE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:38",
-      "date": "21/07",
-      "timestamp": 1784666307
     }
   ],
   "france": {
