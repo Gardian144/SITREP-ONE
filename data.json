@@ -1,7 +1,57 @@
 {
-  "last_update": "24/07 19:54",
+  "last_update": "24/07 21:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784926770",
+      "source": "BFMTV",
+      "text": "INCENDIES DANS LA RÉGION DE MADRID: 63.000 PERSONNES ÉVACUÉES OU CONFINÉES, DONT UN CAMPING DE 5.000 VACANCIERS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:59",
+      "date": "24/07",
+      "timestamp": 1784926770
+    },
+    {
+      "id": "BFMTV_1784924844",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY AFFIRME DISPOSER DE RENSEIGNEMENTS \"CLAIRS\" INDIQUANT QUE MOSCOU PRÉPARE UNE MOBILISATION MILITAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:27",
+      "date": "24/07",
+      "timestamp": 1784924844
+    },
+    {
+      "id": "BFMTV_1784924668",
+      "source": "BFMTV",
+      "text": "L'INDE PARALYSÉE PAR DES MANIFESTATIONS ÉTUDIANTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:24",
+      "date": "24/07",
+      "timestamp": 1784924668
+    },
+    {
+      "id": "BFMTV_1784923038",
+      "source": "BFMTV",
+      "text": "SELON DONALD TRUMP, LES DIRIGEANTS IRANIENS SERAIENT \"DE PLUS EN PLUS SÉRIEUX\" DANS LES NÉGOCIATIONS POUR METTRE UN TERME AU CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:57",
+      "date": "24/07",
+      "timestamp": 1784923038
+    },
+    {
+      "id": "BFMTV_1784922997",
+      "source": "BFMTV",
+      "text": "\"IL EST IMPOSSIBLE À ÉTEINDRE\": LES AUTORITÉS ESTIMENT QUE L'INCENDIE DE MADRID EST \"AU PLUS FORT\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:56",
+      "date": "24/07",
+      "timestamp": 1784922997
+    },
     {
       "id": "BFMTV_1784918999",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "08:51",
       "date": "22/07",
       "timestamp": 1784710289
-    },
-    {
-      "id": "BFMTV_1784710016",
-      "source": "BFMTV",
-      "text": "INCENDIE AU NORD DE MADRID: PLUS DE 30.000 HECTARES DE VÉGÉTATION RAVAGÉS PAR LES FLAMMES, LE FEU \"EN VOIE DE STABILISATION\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:46",
-      "date": "22/07",
-      "timestamp": 1784710016
-    },
-    {
-      "id": "BFMTV_1784706589",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:49",
-      "date": "22/07",
-      "timestamp": 1784706589
-    },
-    {
-      "id": "BFMTV_1784704368",
-      "source": "BFMTV",
-      "text": "\"UN TRÈS DANGEREUX PRÉCÉDENT\": LA MISE EN GARDE DE MARCO RUBIO EN CAS DE CONTRÔLE DU DÉTROIT D'ORMUZ PAR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:12",
-      "date": "22/07",
-      "timestamp": 1784704368
-    },
-    {
-      "id": "BFMTV_1784700920",
-      "source": "BFMTV",
-      "text": "MÉGAFEU EN ESPAGNE: LES POMPIERS PARLENT D'UN FEU EN \"VOIE DE STABILISATION\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:15",
-      "date": "22/07",
-      "timestamp": 1784700920
-    },
-    {
-      "id": "BFMTV_1784695977",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE D'ATTAQUER \"TRÈS BIENTÔT\" UN COMPLEXE NUCLÉAIRE SOUTERRAIN SECRET DANS LE CENTRE DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:52",
-      "date": "22/07",
-      "timestamp": 1784695977
     }
   ],
   "france": {
