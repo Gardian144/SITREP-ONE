@@ -1,7 +1,67 @@
 {
-  "last_update": "24/07 15:05",
+  "last_update": "24/07 16:56",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1784912177",
+      "source": "OPEX360",
+      "text": "TRÈS HAUTE ALTITUDE : LE MINISTÈRE DES ARMÉES SALUE LE SUCCÈS DES PREMIERS VOLS DU DRONE STRATOSPHÉRIQUE HELIBLADE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:56",
+      "date": "24/07",
+      "timestamp": 1784912177
+    },
+    {
+      "id": "BFMTV_1784912075",
+      "source": "BFMTV",
+      "text": "\"PIRE INCENDIE DE L'HISTOIRE DE LA RÉGION\", 26.000 ÉVACUATIONS... CE QUE L'ON SAIT DES FEUX QUI FONT RAGE PRÈS DE MADRID",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:54",
+      "date": "24/07",
+      "timestamp": 1784912075
+    },
+    {
+      "id": "BFMTV_1784911905",
+      "source": "BFMTV",
+      "text": "\"CETTE CATASTROPHE EST LOIN D'ÊTRE TERMINÉE\": AU VENEZUELA, LA RECONSTRUCTION PRENDRA DES ANNÉES APRÈS LES SÉISMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:51",
+      "date": "24/07",
+      "timestamp": 1784911905
+    },
+    {
+      "id": "BFMTV_1784909105",
+      "source": "BFMTV",
+      "text": "INCENDIES EN ESPAGNE: UN HOMME ARRÊTÉ, SOUPÇONNÉ D'ÊTRE À L'ORIGINE DU FEU D'ÁVILA APRÈS AVOIR UTILISÉ UN ENGIN AGRICOLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:05",
+      "date": "24/07",
+      "timestamp": 1784909105
+    },
+    {
+      "id": "OPEX360_1784907495",
+      "source": "OPEX360",
+      "text": "OCÉAN INDIEN : L’OPÉRATION NAVALE EUROPÉENNE ATALANTA VA POUVOIR ARRAISONNER LES NAVIRES LIÉS À LA FLOTTE FANTÔME RUSSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:38",
+      "date": "24/07",
+      "timestamp": 1784907495
+    },
+    {
+      "id": "BFMTV_1784906002",
+      "source": "BFMTV",
+      "text": "\"DANS UN MONDE EN MUTATION, L'EUROPE ET L'AMÉRIQUE ONT BESOIN L'UNE DE L'AUTRE\", ASSURE LE COMMISSAIRE EUROPÉEN À LA DÉFENSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:13",
+      "date": "24/07",
+      "timestamp": 1784906002
+    },
     {
       "id": "BFMTV_1784905060",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "04:11",
       "date": "22/07",
       "timestamp": 1784693493
-    },
-    {
-      "id": "BFMTV_1784671316",
-      "source": "BFMTV",
-      "text": "LE COÛT DE LA GUERRE EN IRAN EST ESTIMÉ À \"37.5 MILLIARDS DE DOLLARS\", SELON PETE HEGSETH",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:01",
-      "date": "21/07",
-      "timestamp": 1784671316
-    },
-    {
-      "id": "BFMTV_1784670669",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT LIBANAIS A INSISTÉ AUPRÈS DE DONALD TRUMP SUR LE \"RETRAIT TOTAL D'ISRAËL\" DU LIBAN LORS DE LEUR RENCONTRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:51",
-      "date": "21/07",
-      "timestamp": 1784670669
-    },
-    {
-      "id": "BFMTV_1784668794",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EN MARGE D'UNE RENCONTRE AVEC LE PRÉSIDENT AOUN, DONALD TRUMP DIT VOULOIR \"BEAUCOUP AIDER\" LE LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:19",
-      "date": "21/07",
-      "timestamp": 1784668794
-    },
-    {
-      "id": "BFMTV_1784668794",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL - HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:19",
-      "date": "21/07",
-      "timestamp": 1784668794
-    },
-    {
-      "id": "BFMTV_1784668706",
-      "source": "BFMTV",
-      "text": "LA VISITE D'EMMANUEL MACRON À DAMAS \"EST DEVENUE UN PONT ENTRE LE PASSÉ ET L'AVENIR\", SELON LE REPRÉSENTANT DE LA SYRIE À L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:18",
-      "date": "21/07",
-      "timestamp": 1784668706
-    },
-    {
-      "id": "BFMTV_1784668151",
-      "source": "BFMTV",
-      "text": "\"LA SYRIE AVANCE SUR LE FRONT DE LA JUSTICE TRANSITIONNELLE\", DÉCLARE IBRAHIM OLABI, REPRÉSENTANT DE LA SYRIE À L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:09",
-      "date": "21/07",
-      "timestamp": 1784668151
     }
   ],
   "france": {
