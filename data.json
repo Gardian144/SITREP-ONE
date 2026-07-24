@@ -1,7 +1,47 @@
 {
-  "last_update": "24/07 11:41",
+  "last_update": "24/07 13:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784897700",
+      "source": "BFMTV",
+      "text": "\"LE PRÉSIDENT A HÂTE DE TERMINER CE QU’IL AVAIT COMMENCÉ\": DONALD TRUMP DE RETOUR AU GALA DE LA PRESSE, INTERROMPU PAR UNE FUSILLADE EN AVRIL DERNIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:55",
+      "date": "24/07",
+      "timestamp": 1784897700
+    },
+    {
+      "id": "BFMTV_1784897275",
+      "source": "BFMTV",
+      "text": "LUTTE CONTRE LES INCENDIES: L'UNION EUROPÉENNE A DÉPLOYÉ QUATRE AVIONS EN ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:47",
+      "date": "24/07",
+      "timestamp": 1784897275
+    },
+    {
+      "id": "BFMTV_1784895577",
+      "source": "BFMTV",
+      "text": "COMMENT L'ALLEMAGNE SE RÉARME FACE À LA MENACE RUSSE",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:19",
+      "date": "24/07",
+      "timestamp": 1784895577
+    },
+    {
+      "id": "BFMTV_1784895538",
+      "source": "BFMTV",
+      "text": "COMMENT L'ALLEMAGNE SOUHAITE DEVENIR LA PREMIÈRE ARMÉE D'EUROPE",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:18",
+      "date": "24/07",
+      "timestamp": 1784895538
+    },
     {
       "id": "OPEX360_1784890363",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "20:38",
       "date": "21/07",
       "timestamp": 1784666307
-    },
-    {
-      "id": "BFMTV_1784664869",
-      "source": "BFMTV",
-      "text": "INCENDIE EN ESPAGNE: LES TERRIBLES IMAGES DES FEUX QUI MENACENT MADRID",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:14",
-      "date": "21/07",
-      "timestamp": 1784664869
-    },
-    {
-      "id": "BFMTV_1784664809",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: LE PRÉSIDENT LIBANAIS A INSISTÉ AUPRÈS DE DONALD TRUMP SUR LE \"RETRAIT TOTAL D'ISRAËL\" DU LIBAN LORS DE LEUR RENCONTRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:13",
-      "date": "21/07",
-      "timestamp": 1784664809
-    },
-    {
-      "id": "BFMTV_1784661083",
-      "source": "BFMTV",
-      "text": "ATTEINTE D’UN CANCER ET SANS DOMICILE, CETTE FILLETTE DE 9 ANS REÇOIT PLUS D’UN MILLION DE DOLLARS DE DONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:11",
-      "date": "21/07",
-      "timestamp": 1784661083
-    },
-    {
-      "id": "BFMTV_1784660532",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UNE VOITURE MONTE SUR UN VÉHICULE DE POLICE EN PLEINE COURSE-POURSUITE DANS L'ÉTAT DE GÉORGIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:02",
-      "date": "21/07",
-      "timestamp": 1784660532
     }
   ],
   "france": {
