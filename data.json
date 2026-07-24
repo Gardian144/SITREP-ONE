@@ -1,7 +1,47 @@
 {
-  "last_update": "24/07 18:21",
+  "last_update": "24/07 19:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784918999",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: APRÈS DE NOUVEAUX BOMBARDEMENTS AMÉRICAINS, L'IRAN REVENDIQUE DES ATTAQUES DE DRONES SUR BAHREÏN, LA JORDANIE ET LE KOWEÏT",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:49",
+      "date": "24/07",
+      "timestamp": 1784918999
+    },
+    {
+      "id": "BFMTV_1784918792",
+      "source": "BFMTV",
+      "text": "THAÏLANDE: ELLE MET SES ÉCONOMIES DANS UN COFFRE-FORT, SON PACTOLE DÉVORÉ PAR LES TERMITES",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:46",
+      "date": "24/07",
+      "timestamp": 1784918792
+    },
+    {
+      "id": "BFMTV_1784917445",
+      "source": "BFMTV",
+      "text": "INCENDIE DANS LA RÉGION DE MADRID: \"IMPOSIBLE À ÉTEINDRE\", SELON CARLOS NOVILLO DU GOUVERNEMENT RÉGIONAL DE MADRID",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:24",
+      "date": "24/07",
+      "timestamp": 1784917445
+    },
+    {
+      "id": "BFMTV_1784917266",
+      "source": "BFMTV",
+      "text": "CISJORDANIE: ISRAËL ANNONCE UNE \"VASTE OPÉRATION\" ET DE NOUVELLES IMPLANTATIONS DE COLONIES APRÈS DES VIOLENCES MEURTRIÈRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:21",
+      "date": "24/07",
+      "timestamp": 1784917266
+    },
     {
       "id": "BFMTV_1784916414",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "04:52",
       "date": "22/07",
       "timestamp": 1784695977
-    },
-    {
-      "id": "BFMTV_1784695033",
-      "source": "BFMTV",
-      "text": "ZOHRAN MAMDANI \"A EXAMINÉ TOUTES LES VOIES POSSIBLES\" POUR ARRÊTER BENJAMIN NETANYAHU, MAIS N'EN A PAS LA CAPACITÉ JURIDIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:37",
-      "date": "22/07",
-      "timestamp": 1784695033
-    },
-    {
-      "id": "BFMTV_1784694537",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DES DRONES ONT FRAPPÉ UN CENTRE DE DISTRIBUTION À KRASNODAR, EN RUSSIE, QUI APPARTIENT À UN GÉANT RUSSE DE L'ÉLECTRONIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:28",
-      "date": "22/07",
-      "timestamp": 1784694537
-    },
-    {
-      "id": "BFMTV_1784694435",
-      "source": "BFMTV",
-      "text": "LES AGRICULTEURS EN PREMIÈRE LIGNE FACE AU MÉGAFEU EN ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:27",
-      "date": "22/07",
-      "timestamp": 1784694435
-    },
-    {
-      "id": "BFMTV_1784694070",
-      "source": "BFMTV",
-      "text": "BLOCAGE DU DÉTROIT DE BAB EL-MANDEB: LES ARMATEURS ANTICIPENT D'ORES ET DÉJÀ LE RISQUE, PLUSIEURS NAVIRES FONT DEMI-TOUR ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:21",
-      "date": "22/07",
-      "timestamp": 1784694070
     }
   ],
   "france": {
