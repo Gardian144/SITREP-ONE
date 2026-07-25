@@ -1,11 +1,31 @@
 {
-  "last_update": "25/07 16:55",
+  "last_update": "25/07 17:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785000982",
+      "source": "BFMTV",
+      "text": "\"MA MUSIQUE EST FAITE POUR RASSEMBLER LES GENS\": KATY PERRY DÉNONCE L'UTILISATION DE SON TITRE \"FIREWORKS\" DANS UNE VIDÉO DE LA MAISON BLANCHE SUR LA GUERRE EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:36",
+      "date": "25/07",
+      "timestamp": 1785000982
+    },
     {
       "id": "BFMTV_1784997217",
       "source": "BFMTV",
       "text": "UN MORT DANS UN INCENDIE EN COURS DANS L'EST DE L'ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:33",
+      "date": "25/07",
+      "timestamp": 1784997217
+    },
+    {
+      "id": "BFMTV_1784997217",
+      "source": "BFMTV",
+      "text": "UN MORT DANS UN INCENDIE DANS L'EST DE L'ESPAGNE",
       "urgent": false,
       "france_related": false,
       "time": "16:33",
@@ -981,26 +1001,6 @@
       "time": "06:28",
       "date": "23/07",
       "timestamp": 1784788138
-    },
-    {
-      "id": "BFMTV_1784786280",
-      "source": "BFMTV",
-      "text": "JEAN-NOËL BARROT ANNONCE QUE LES DIPLOMATES AGRESSÉS EN IRAN SONT  \"RENTRÉS À PARIS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:58",
-      "date": "23/07",
-      "timestamp": 1784786280
-    },
-    {
-      "id": "BFMTV_1784784348",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES HOUTHIS DU YÉMEN ATTAQUENT DES PÉTROLIERS SAOUDIENS DANS LA MER ROUGE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:25",
-      "date": "23/07",
-      "timestamp": 1784784348
     }
   ],
   "france": {
