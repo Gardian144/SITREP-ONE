@@ -1,7 +1,17 @@
 {
-  "last_update": "25/07 11:44",
+  "last_update": "25/07 12:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784982011",
+      "source": "BFMTV",
+      "text": "LE JAPON ENREGISTRE SA CINQUIÈME JOURNÉE DE \"CHALEUR CRUELLE\" AVEC DES TEMPÉRATURES SUPÉRIEURES À 40°C",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:20",
+      "date": "25/07",
+      "timestamp": 1784982011
+    },
     {
       "id": "BFMTV_1784979182",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:12",
       "date": "22/07",
       "timestamp": 1784747554
-    },
-    {
-      "id": "BFMTV_1784745985",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: WASHINGTON VEUT MAINTENIR SA STRATÉGIE COMMERCIALE FONDÉE SUR LES DROITS DE DOUANE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:46",
-      "date": "22/07",
-      "timestamp": 1784745985
     }
   ],
   "france": {
