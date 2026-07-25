@@ -1,7 +1,17 @@
 {
-  "last_update": "25/07 15:46",
+  "last_update": "25/07 16:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784997217",
+      "source": "BFMTV",
+      "text": "UN MORT DANS UN INCENDIE EN COURS DANS L'EST DE L'ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:33",
+      "date": "25/07",
+      "timestamp": 1784997217
+    },
     {
       "id": "BFMTV_1784990593",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "05:25",
       "date": "23/07",
       "timestamp": 1784784348
-    },
-    {
-      "id": "BFMTV_1784782898",
-      "source": "BFMTV",
-      "text": "LE RETOUR DU PLAFOND À 1,99 EURO LE LITRE: TOTALENERGIES RÉTABLIT SON BOUCLIER CARBURANT À LA VEILLE DE L'ANNONCE DE RÉSULTATS QUI S'ANNONCENT EN TRÈS FORTE HAUSSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:01",
-      "date": "23/07",
-      "timestamp": 1784782898
     }
   ],
   "france": {
