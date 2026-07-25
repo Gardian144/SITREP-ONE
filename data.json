@@ -1,7 +1,27 @@
 {
-  "last_update": "25/07 08:50",
+  "last_update": "25/07 10:26",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1784974721",
+      "source": "OPEX360",
+      "text": "L’ALLEMAND TKMS ET L’ESPAGNOL NAVANTIA VEULENT FINALISER LEUR PARTENARIAT INDUSTRIEL D’ICI LA FIN DE L’ANNÉE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:18",
+      "date": "25/07",
+      "timestamp": 1784974721
+    },
+    {
+      "id": "BFMTV_1784971163",
+      "source": "BFMTV",
+      "text": "UNE FRAPPE UKRAINIENNE FAIT AU MOINS HUIT MORTS DANS UNE VILLE DU SUD DU PAYS OCCUPÉE PAR LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:19",
+      "date": "25/07",
+      "timestamp": 1784971163
+    },
     {
       "id": "BFMTV_1784969162",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "16:11",
       "date": "22/07",
       "timestamp": 1784736675
-    },
-    {
-      "id": "BFMTV_1784734065",
-      "source": "BFMTV",
-      "text": "VIOLENCE, INTIMIDATIONS… QUI SONT LES \"GOONS\", CES HOMMES DE MAIN QUI INQUIÈTENT LES ONG AU KENYA?",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:27",
-      "date": "22/07",
-      "timestamp": 1784734065
-    },
-    {
-      "id": "BFMTV_1784732445",
-      "source": "BFMTV",
-      "text": "POURQUOI LES HOUTHIS BLOQUENT-ILS LE DÉTROIT DE BAB EL-MANDEB À L’ARABIE SAOUDITE, FAISANT CRAINDRE DES CONSÉQUENCES SUR LE PÉTROLE MONDIAL?",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:00",
-      "date": "22/07",
-      "timestamp": 1784732445
     }
   ],
   "france": {
