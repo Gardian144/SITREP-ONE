@@ -1,7 +1,27 @@
 {
-  "last_update": "25/07 12:46",
+  "last_update": "25/07 14:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784988474",
+      "source": "BFMTV",
+      "text": "\"TOUT CELA DOIT ÊTRE ARRÊTÉ\": LE DIRIGEANT KAZAKH AFFIRME À VLADIMIR POUTINE QUE LA GUERRE EN UKRAINE DOIT PRENDRE FIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:07",
+      "date": "25/07",
+      "timestamp": 1784988474
+    },
+    {
+      "id": "OPEX360_1784984848",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DANOISE RENFORCE SES MOYENS DE DÉMINAGE AVEC LE ROBOT FRANÇAIS DE «DÉPOLLUTION DE ZONE» SDZ",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:07",
+      "date": "25/07",
+      "timestamp": 1784984848
+    },
     {
       "id": "BFMTV_1784982011",
       "source": "BFMTV",
@@ -96,6 +116,16 @@
       "id": "BFMTV_1784969161",
       "source": "BFMTV",
       "text": "INTERVIEW DE VOLODYMYR ZELENSKY, CRITIQUES CONTRE LA \"PROPAGANDE\" RUSSE... L'ÉTONNANTE VISITE À KIEV DE L'INFLUENCEUSE AMÉRICAINE D'EXTRÊME DROITE LAURA LOOMER, PROCHE DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:46",
+      "date": "25/07",
+      "timestamp": 1784969161
+    },
+    {
+      "id": "BFMTV_1784969161",
+      "source": "BFMTV",
+      "text": "INTERVIEW DE VOLODYMYR ZELENSKY, CRITIQUES CONTRE LA \"PROPAGANDE\" RUSSE... L'ÉTONNANTE VISITE À KIEV DE L'INFLUENCEUSE D'EXTRÊME DROITE LAURA LOOMER, PROCHE DE DONALD TRUMP",
       "urgent": false,
       "france_related": false,
       "time": "08:46",
@@ -971,36 +1001,6 @@
       "time": "04:19",
       "date": "23/07",
       "timestamp": 1784780346
-    },
-    {
-      "id": "BFMTV_1784755761",
-      "source": "BFMTV",
-      "text": "\"OEIL POUR OEIL\": L'IRAN MENACE D'UNE RIPOSTE \"PUISSANTE\" EN CAS D'ATTAQUES AMÉRICAINES SUR SES INFRASTRUCTURES CIVILES",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:29",
-      "date": "22/07",
-      "timestamp": 1784755761
-    },
-    {
-      "id": "BFMTV_1784753015",
-      "source": "BFMTV",
-      "text": "\"ŒIL POUR ŒIL\" : L'IRAN MENACE LES ÉTATS-UNIS D'UNE RIPOSTE \"PUISSANTE ET DÉCISIVE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:43",
-      "date": "22/07",
-      "timestamp": 1784753015
-    },
-    {
-      "id": "BFMTV_1784747554",
-      "source": "BFMTV",
-      "text": "ACEUM: WASHINGTON ESPÈRE DES \"ACCORDS INTÉRIMAIRES\" AVEC LE CANADA ET LE MEXIQUE \"D'ICI À LA FIN DE L'ANNÉE\", DÉCLARE JAMIESON GREER",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:12",
-      "date": "22/07",
-      "timestamp": 1784747554
     }
   ],
   "france": {
