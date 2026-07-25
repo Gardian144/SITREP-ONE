@@ -1,7 +1,47 @@
 {
-  "last_update": "25/07 10:26",
+  "last_update": "25/07 11:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784979182",
+      "source": "BFMTV",
+      "text": "ORMUZ: UN NOUVEL INCIDENT IMPLIQUANT UN PÉTROLIER ET DES \"FORCES MILITAIRES\" SIGNALÉ PAR L'AGENCE DE SÉCURITÉ MARITIME BRITANNIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:33",
+      "date": "25/07",
+      "timestamp": 1784979182
+    },
+    {
+      "id": "BFMTV_1784978998",
+      "source": "BFMTV",
+      "text": "600 HECTARES PARTIS EN FUMÉE ET LA POPULATION ÉVACUÉE: L'ÉCOSSE FACE À UN INCENDIE \"MAJEUR\" DANS UN PARC AU NORD DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:29",
+      "date": "25/07",
+      "timestamp": 1784978998
+    },
+    {
+      "id": "OPEX360_1784977981",
+      "source": "OPEX360",
+      "text": "LE GOUVERNEMENT DEMANDE AUX ARMÉES D’ENGAGER UN A400M «BOMBARDIER D’EAU» EN GIRONDE SANS DÉLAI",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:13",
+      "date": "25/07",
+      "timestamp": 1784977981
+    },
+    {
+      "id": "BFMTV_1784976981",
+      "source": "BFMTV",
+      "text": "MADRID: LES PIRES FEUX JAMAIS ENREGISTRÉS DANS LA RÉGION ONT RAVAGÉ JUSQU’À 25.000 HECTARES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:56",
+      "date": "25/07",
+      "timestamp": 1784976981
+    },
     {
       "id": "OPEX360_1784974721",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "18:46",
       "date": "22/07",
       "timestamp": 1784745985
-    },
-    {
-      "id": "BFMTV_1784743825",
-      "source": "BFMTV",
-      "text": "LE MAIRE DE NEW YORK APPELLE LE GOUVERNEMENT AMÉRICAIN À ARRÊTER BENJAMIN NETANYAHU",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:10",
-      "date": "22/07",
-      "timestamp": 1784743825
-    },
-    {
-      "id": "OPEX360_1784742065",
-      "source": "OPEX360",
-      "text": "L’INDONÉSIE COMMANDE 12 AVIONS DE COMBAT LÉGERS M346F À L’ITALIEN LEONARDO ET ENVISAGE L’ACHAT D’HÉLICOPTÈRES AW149",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:41",
-      "date": "22/07",
-      "timestamp": 1784742065
-    },
-    {
-      "id": "OPEX360_1784738398",
-      "source": "OPEX360",
-      "text": "DÉFENSE AÉRIENNE : L’ALLEMAGNE EST «OUVERTE» À L’IDÉE DE REJOINDRE LE PROGRAMME FRANCO-ITALIEN SAMP/T NG",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:39",
-      "date": "22/07",
-      "timestamp": 1784738398
-    },
-    {
-      "id": "BFMTV_1784736675",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN AVION ATTERRIT SUR UNE MAISON, LE PILOTE EST TRANSPORTÉ À L'HÔPITAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:11",
-      "date": "22/07",
-      "timestamp": 1784736675
     }
   ],
   "france": {
