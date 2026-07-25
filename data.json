@@ -1,11 +1,21 @@
 {
-  "last_update": "25/07 21:25",
+  "last_update": "25/07 22:26",
   "impacts": [],
   "news": [
     {
       "id": "BFMTV_1785013678",
       "source": "BFMTV",
       "text": "PLUSIEURS BLESSÉS EN MARGE DE LA GAY PRIDE À BERLIN APRÈS UN PROBABLE INCIDENT IMPLIQUANT UNE VOITURE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:07",
+      "date": "25/07",
+      "timestamp": 1785013678
+    },
+    {
+      "id": "BFMTV_1785013678",
+      "source": "BFMTV",
+      "text": "GAY PRIDE DE BERLIN: UN MORT ET UNE QUINZAINE DE BLESSÉS APRÈS UN INCIDENT IMPLIQUANT UN VÉHICULE, LE OU LES AUTEURS EN FUITE",
       "urgent": false,
       "france_related": false,
       "time": "21:07",
@@ -991,16 +1001,6 @@
       "time": "09:12",
       "date": "23/07",
       "timestamp": 1784797938
-    },
-    {
-      "id": "BFMTV_1784792028",
-      "source": "BFMTV",
-      "text": "L'AUTRICHE INAUGURE UN NOUVEAU COMMISSARIAT DANS LA MAISON NATALE D'ADOLF HITLER",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:33",
-      "date": "23/07",
-      "timestamp": 1784792028
     }
   ],
   "france": {
