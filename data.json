@@ -1,7 +1,67 @@
 {
-  "last_update": "25/07 04:27",
+  "last_update": "25/07 06:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1784961321",
+      "source": "BFMTV",
+      "text": "LA TUNISIE CONVOQUE L'AMBASSADRICE DE FRANCE APRÈS LA DIFFUSION SUR UNE CHAÎNE FRANÇAISE D'UN ENTRETIEN JUGÉ HOSTILE AU RÉGIME",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:35",
+      "date": "25/07",
+      "timestamp": 1784961321
+    },
+    {
+      "id": "BFMTV_1784960580",
+      "source": "BFMTV",
+      "text": "HÉROS DU DONBASS, RÉFORMATEUR, \"SOURCE D'ESPOIR\"... QUE CHANGE LA NOMINATION DU NOUVEAU CHEF DE L'ARMÉE UKRAINIENNE, MYKHAÏLO DRAPATY?",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:23",
+      "date": "25/07",
+      "timestamp": 1784960580
+    },
+    {
+      "id": "BFMTV_1784957620",
+      "source": "BFMTV",
+      "text": "\"ENNEMIS DU PEUPLE\": DONALD TRUMP CHARGE LES JOURNALISTES POUR SON RETOUR AU GALA DE LA PRESSE TROIS MOIS APRÈS UNE TENTATIVE D'ASSASSINAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:33",
+      "date": "25/07",
+      "timestamp": 1784957620
+    },
+    {
+      "id": "BFMTV_1784956708",
+      "source": "BFMTV",
+      "text": "L'ESPAGNE DÉCRÈTE L'ÉTAT D'URGENCE FACE  \"AU PIRE INCENDIE DE L'HISTOIRE\" PRÈS DE MADRID",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:18",
+      "date": "25/07",
+      "timestamp": 1784956708
+    },
+    {
+      "id": "BFMTV_1784956518",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ORDONNE L'INSTALLATION DE PANNEAUX DEVANT UN MUSÉE DE WASHINGTON ACCUSÉ D'ÊTRE TROP PROGRESSISTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:15",
+      "date": "25/07",
+      "timestamp": 1784956518
+    },
+    {
+      "id": "BFMTV_1784955428",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES PRÊTS À Y ALLER\": DONALD TRUMP MENACE D'INTENSIFIER LES FRAPPES CONTRE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:57",
+      "date": "25/07",
+      "timestamp": 1784955428
+    },
     {
       "id": "BFMTV_1784928837",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "12:44",
       "date": "22/07",
       "timestamp": 1784724267
-    },
-    {
-      "id": "BFMTV_1784724055",
-      "source": "BFMTV",
-      "text": "PÉROU: UN ENFANT DE 8 ANS TUÉ D'UNE BALLE DANS LA TÊTE PAR UN POLICIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:40",
-      "date": "22/07",
-      "timestamp": 1784724055
-    },
-    {
-      "id": "BFMTV_1784719102",
-      "source": "BFMTV",
-      "text": "ALGÉRIE: EMMANUEL MACRON ASSURE QUE LA FRANCE N'A AUCUN \"OBJECTIF CHIFFRÉ\" ET \"AUCUN LAXISME\" SUR LES VISAS",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:18",
-      "date": "22/07",
-      "timestamp": 1784719102
-    },
-    {
-      "id": "OPEX360_1784716702",
-      "source": "OPEX360",
-      "text": "LE PORTUGAL CONFIRME LA COMMANDE DE TROIS FRÉGATES MULTIMISSIONS EVO AUPRÈS DE L’ITALIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:38",
-      "date": "22/07",
-      "timestamp": 1784716702
-    },
-    {
-      "id": "BFMTV_1784716014",
-      "source": "BFMTV",
-      "text": "INDE: UN LÉOPARD FAIT IRRUPTION DANS UN MAGASIN D'ALCOOL ET ATTAQUE LE VENDEUR",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:26",
-      "date": "22/07",
-      "timestamp": 1784716014
-    },
-    {
-      "id": "BFMTV_1784714989",
-      "source": "BFMTV",
-      "text": "\"NE PAS PARLER SERAIT IMPRUDENT ET IRRESPONSABLE\": MARCO RUBIO DIT VOULOIR MAINTENIR LE LIEN AVEC LA RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:09",
-      "date": "22/07",
-      "timestamp": 1784714989
-    },
-    {
-      "id": "BFMTV_1784714371",
-      "source": "BFMTV",
-      "text": "MARCO RUBIO: L'IRAN EST LE PRINCIPAL \"FAUTEUR DE TROUBLES\" AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:59",
-      "date": "22/07",
-      "timestamp": 1784714371
     }
   ],
   "france": {
