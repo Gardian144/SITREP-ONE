@@ -1,7 +1,27 @@
 {
-  "last_update": "26/07 04:45",
+  "last_update": "26/07 07:26",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785042052",
+      "source": "BFMTV",
+      "text": "UN MORT, UN SUSPECT LIÉ AU \"MILIEU ISLAMISTE\" IDENTIFIÉ... CE QUE L'ON SAIT SUR LE VÉHICULE QUI A FONCÉ DANS LA FOULE À LA MARCHE DES FIERTÉS DE BERLIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:00",
+      "date": "26/07",
+      "timestamp": 1785042052
+    },
+    {
+      "id": "BFMTV_1785041553",
+      "source": "BFMTV",
+      "text": "INCENDIES EN ESPAGNE: LES AUTORITÉS ONT ORDONNÉ L'ÉVACUATION DE HUIT NOUVELLES MUNICIPALITÉS PRÈS DE TOLÈDE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:52",
+      "date": "26/07",
+      "timestamp": 1785041553
+    },
     {
       "id": "BFMTV_1785013678",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "09:47",
       "date": "23/07",
       "timestamp": 1784800026
-    },
-    {
-      "id": "BFMTV_1784798218",
-      "source": "BFMTV",
-      "text": "TOUT COMPRENDRE. LES HOUTHIS MENACENT L'ARABIE SAOUDITE D'UN BLOCUS MARITIME, VERS UNE EXTENSION DE LA CRISE AU MOYEN-ORIENT?",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:16",
-      "date": "23/07",
-      "timestamp": 1784798218
-    },
-    {
-      "id": "BFMTV_1784797938",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: CRITIQUÉS PAR LA RUSSIE, LES ÉTATS-UNIS SE DÉFENDENT SUR LA LIVRAISON D'ARMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:12",
-      "date": "23/07",
-      "timestamp": 1784797938
     }
   ],
   "france": {
