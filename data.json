@@ -1,7 +1,27 @@
 {
-  "last_update": "26/07 11:08",
+  "last_update": "26/07 12:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785067841",
+      "source": "BFMTV",
+      "text": "\"DÉFENDRE L'INTÉRÊT NATIONAL AVANT TOUT AUTRE CHOSE\": LE PREMIER MINISTRE BRITANNIQUE ANDY BURNHAM PROMET DE TENIR TÊTE À DONALD TRUMP EN CAS DE DÉSACCORD",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:10",
+      "date": "26/07",
+      "timestamp": 1785067841
+    },
+    {
+      "id": "BFMTV_1785065499",
+      "source": "BFMTV",
+      "text": "GAY PRIDE DE BERLIN: UN VÉHICULE FONCE DANS LA FOULE, AU MOINS UN MORT ET 16 BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:31",
+      "date": "26/07",
+      "timestamp": 1785065499
+    },
     {
       "id": "OPEX360_1785062834",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "10:59",
       "date": "23/07",
       "timestamp": 1784804397
-    },
-    {
-      "id": "BFMTV_1784803219",
-      "source": "BFMTV",
-      "text": "PRÈS D’UNE CENTAINE DE DÉPOUILLES DE NOURRISSONS ENTERRÉES DANS UN FOYER RELIGIEUX POUR MÈRES CÉLIBATAIRES EN IRLANDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:40",
-      "date": "23/07",
-      "timestamp": 1784803219
-    },
-    {
-      "id": "BFMTV_1784802817",
-      "source": "BFMTV",
-      "text": "INTERDICTION DES RÉSEAUX SOCIAUX AUX MOINS DE 15 ANS EN FRANCE: LA COMMISSION EUROPÉENNE \"SE FÉLICITE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:33",
-      "date": "23/07",
-      "timestamp": 1784802817
     }
   ],
   "france": {
