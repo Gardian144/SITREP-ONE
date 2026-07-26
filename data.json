@@ -1,7 +1,17 @@
 {
-  "last_update": "26/07 17:36",
+  "last_update": "26/07 18:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785087660",
+      "source": "BFMTV",
+      "text": "ATTAQUE CONTRE LA GAY PRIDE DE BERLIN: L'AUTEUR PRÉSUMÉ TUÉ PAR LA POLICE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:41",
+      "date": "26/07",
+      "timestamp": 1785087660
+    },
     {
       "id": "BFMTV_1785082352",
       "source": "BFMTV",
@@ -87,6 +97,16 @@
       "source": "BFMTV",
       "text": "CONNU DE LA POLICE, LIÉ AU \"MILIEU ISLAMISTE\"... CE QUE L'ON SAIT DE L'HOMME SUSPECTÉ D'AVOIR FONCÉ EN VOITURE DANS LA MARCHE DES FIERTÉS À BERLIN",
       "urgent": false,
+      "france_related": false,
+      "time": "08:01",
+      "date": "26/07",
+      "timestamp": 1785052918
+    },
+    {
+      "id": "BFMTV_1785052918",
+      "source": "BFMTV",
+      "text": "CONNU DE LA POLICE, LIÉ AU \"MILIEU ISLAMISTE\"... CE QUE L'ON SAIT DU SUSPECT ISLAMISTE TUÉ PAR LA POLICE APRÈS UNE ATTAQUE À LA VOITURE-BÉLIER EN MARGE DE LA MARCHE DES FIERTÉS À BERLIN",
+      "urgent": true,
       "france_related": false,
       "time": "08:01",
       "date": "26/07",
@@ -981,26 +1001,6 @@
       "time": "13:29",
       "date": "23/07",
       "timestamp": 1784813369
-    },
-    {
-      "id": "BFMTV_1784810676",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE LES HOUTHIS D'UNE \"PUNITION MILITAIRE MAJEURE\" EN CAS DE NOUVELLES FRAPPES À ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:44",
-      "date": "23/07",
-      "timestamp": 1784810676
-    },
-    {
-      "id": "BFMTV_1784808735",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉNONCE L'ATTITUDE \"IRRATIONNELLE\" ET \"DOMINATRICE\" DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:12",
-      "date": "23/07",
-      "timestamp": 1784808735
     }
   ],
   "france": {
