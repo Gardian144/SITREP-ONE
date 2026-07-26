@@ -1,7 +1,37 @@
 {
-  "last_update": "26/07 07:26",
+  "last_update": "26/07 09:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785053679",
+      "source": "BFMTV",
+      "text": "INCENDIES: UN FEU HORS DE CONTRÔLE PRÈS DE VALENCE, EN ESPAGNE, 15.000 PERSONNES ÉVACUÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:14",
+      "date": "26/07",
+      "timestamp": 1785053679
+    },
+    {
+      "id": "BFMTV_1785052918",
+      "source": "BFMTV",
+      "text": "CONNU DE LA POLICE, LIÉ AU \"MILIEU ISLAMISTE\"... CE QUE L'ON SAIT DE L'HOMME SUSPECTÉ D'AVOIR FONCÉ EN VOITURE DANS LA MARCHE DES FIERTÉS À BERLIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:01",
+      "date": "26/07",
+      "timestamp": 1785052918
+    },
+    {
+      "id": "BFMTV_1785050892",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN PRÉVIENT QUE LE CONFLIT VA \"S'ÉTENDRE ENCORE\" SI LES ATTAQUES AMÉRICAINES REPRENNENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:28",
+      "date": "26/07",
+      "timestamp": 1785050892
+    },
     {
       "id": "BFMTV_1785042052",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "10:07",
       "date": "23/07",
       "timestamp": 1784801252
-    },
-    {
-      "id": "BFMTV_1784800850",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:00",
-      "date": "23/07",
-      "timestamp": 1784800850
-    },
-    {
-      "id": "BFMTV_1784800849",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN F-16 UKRAINIEN ABAT UN AVION RUSSE ET REMPORTE UN COMBAT AÉRIEN POUR LA PREMIÈRE FOIS CONTRE MOSCOU, SELON L'ARMÉE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:00",
-      "date": "23/07",
-      "timestamp": 1784800849
-    },
-    {
-      "id": "BFMTV_1784800026",
-      "source": "BFMTV",
-      "text": "UN AGENT DU SECRET SERVICE SUSPENDU: IL EST ACCUSÉ D'AVOIR FAIT FUITER DES INFORMATIONS SUR LES DÉPLACEMENTS DE JD VANCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:47",
-      "date": "23/07",
-      "timestamp": 1784800026
     }
   ],
   "france": {
