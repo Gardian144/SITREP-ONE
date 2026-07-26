@@ -1,7 +1,17 @@
 {
-  "last_update": "26/07 12:16",
+  "last_update": "26/07 14:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785072228",
+      "source": "BFMTV",
+      "text": "LIBAN: L'ARMÉE CONDAMNE LES ATTAQUES ISRAÉLIENNES EMPÊCHANT SON DÉPLOIEMENT DANS LE SUD",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:23",
+      "date": "26/07",
+      "timestamp": 1785072228
+    },
     {
       "id": "BFMTV_1785067841",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "11:43",
       "date": "23/07",
       "timestamp": 1784806983
-    },
-    {
-      "id": "BFMTV_1784804397",
-      "source": "BFMTV",
-      "text": "AUTRICHE: LA MAISON NATALE D'ADOLF HITLER TRANSFORMÉE EN POSTE DE POLICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:59",
-      "date": "23/07",
-      "timestamp": 1784804397
     }
   ],
   "france": {
