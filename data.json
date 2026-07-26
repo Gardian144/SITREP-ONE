@@ -1,7 +1,37 @@
 {
-  "last_update": "26/07 09:33",
+  "last_update": "26/07 11:08",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1785062834",
+      "source": "OPEX360",
+      "text": "LA BRITISH ARMY VA COMMANDER DES DRONES TACTIQUES TEKEVER AR5 POUR REMPLACER SES WATCHKEEPER",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:47",
+      "date": "26/07",
+      "timestamp": 1785062834
+    },
+    {
+      "id": "OPEX360_1785059794",
+      "source": "OPEX360",
+      "text": "AVEC SES RAFALE M VIEILLISSANTS, L’AÉRONAVALE FRANÇAISE S’ATTEND À UNE SITUATION «SENSIBLE ET DIFFICILE À GÉRER»",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:56",
+      "date": "26/07",
+      "timestamp": 1785059794
+    },
+    {
+      "id": "BFMTV_1785058762",
+      "source": "BFMTV",
+      "text": "SES PARENTS AVAIENT DÉBOURSÉ PLUS DE 800.000 DOLLARS POUR FINANCER L'EXPÉRIENCE: ENQUÊTE EN CHINE APRÈS LA MORT DISSIMULÉE D'UNE FILLETTE LORS D'UNE THÉRAPIE GÉNIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:39",
+      "date": "26/07",
+      "timestamp": 1785058762
+    },
     {
       "id": "BFMTV_1785053679",
       "source": "BFMTV",
@@ -136,6 +166,16 @@
       "id": "BFMTV_1784988474",
       "source": "BFMTV",
       "text": "\"TOUT CELA DOIT ÊTRE ARRÊTÉ\": LE DIRIGEANT KAZAKH AFFIRME À VLADIMIR POUTINE QUE LA GUERRE EN UKRAINE DOIT PRENDRE FIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:07",
+      "date": "25/07",
+      "timestamp": 1784988474
+    },
+    {
+      "id": "BFMTV_1784988474",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
       "urgent": true,
       "france_related": false,
       "time": "14:07",
@@ -961,46 +1001,6 @@
       "time": "10:33",
       "date": "23/07",
       "timestamp": 1784802817
-    },
-    {
-      "id": "OPEX360_1784802304",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE VA RENFORCER LA SÉCURITÉ CIVILE AVEC UN AVION A400M TRANSFORMÉ EN BOMBARDIER D’EAU",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:25",
-      "date": "23/07",
-      "timestamp": 1784802304
-    },
-    {
-      "id": "BFMTV_1784802068",
-      "source": "BFMTV",
-      "text": "LES HOUTHIS SE SONT \"FAIT PIÉGER\" PAR LES IRANIENS EN MENANT DES FRAPPES EN MER ROUGE, ESTIME LE SECRÉTAIRE D'ÉTAT AMÉRICAIN MARCO RUBIO",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:21",
-      "date": "23/07",
-      "timestamp": 1784802068
-    },
-    {
-      "id": "BFMTV_1784802001",
-      "source": "BFMTV",
-      "text": "L'UNION EUROPÉENNE INFLIGE 890 MILLIONS D'EUROS D'AMENDES À GOOGLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:20",
-      "date": "23/07",
-      "timestamp": 1784802001
-    },
-    {
-      "id": "BFMTV_1784801252",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN JURE QUE \"LES REPRÉSAILLES SE POURSUIVRONT TANT QUE LES ATTAQUES AMÉRICAINES PERDURERONT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:07",
-      "date": "23/07",
-      "timestamp": 1784801252
     }
   ],
   "france": {
