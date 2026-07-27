@@ -1,7 +1,107 @@
 {
-  "last_update": "27/07 16:17",
+  "last_update": "27/07 18:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785174093",
+      "source": "BFMTV",
+      "text": "CONFLIT ISRAËL-IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:41",
+      "date": "27/07",
+      "timestamp": 1785174093
+    },
+    {
+      "id": "BFMTV_1785174092",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN, POUVOIR D'ACHAT, PRIX À LA POMPE... QUE DISENT LES SONDAGES DE DONALD TRUMP À QUELQUES MOIS D'ÉLECTIONS DÉCISIVES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:41",
+      "date": "27/07",
+      "timestamp": 1785174092
+    },
+    {
+      "id": "BFMTV_1785173346",
+      "source": "BFMTV",
+      "text": "\"CES DÉCLARATIONS HYPOCRITES NE SONT PLUS TOLÉRABLES\": À L’ONU, LES USA S’EN PRENNENT À LA FRANCE EN PLEIN CONSEIL DE SÉCURITÉ SUR L’UKRAINE",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:29",
+      "date": "27/07",
+      "timestamp": 1785173346
+    },
+    {
+      "id": "BFMTV_1785173048",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ESTIME QU'IL EXISTE \"DE BONNES CHANCES\" QUE LES DISCUSSIONS AVEC L'IRAN ABOUTISSENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:24",
+      "date": "27/07",
+      "timestamp": 1785173048
+    },
+    {
+      "id": "OPEX360_1785172801",
+      "source": "OPEX360",
+      "text": "SAAB SIGNE UN CONTRAT DE 915 MILLIONS D’EUROS POUR LIVRER DEUX AVIONS D’ALERTE AVANCÉE GLOBALEYE À UN CLIENT «MYSTÈRE»",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:20",
+      "date": "27/07",
+      "timestamp": 1785172801
+    },
+    {
+      "id": "BFMTV_1785172000",
+      "source": "BFMTV",
+      "text": "JÉRÔME BONNAFONT DÉNONCE UNE \"OFFENSIVE TRÈS CALCULÉE QUE LA RUSSIE LANCE DE MANIÈRE RENOUVELÉE, CONTRE LES EXPORTATIONS AGRICOLES DE L'UKRAINE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:06",
+      "date": "27/07",
+      "timestamp": 1785172000
+    },
+    {
+      "id": "BFMTV_1785171868",
+      "source": "BFMTV",
+      "text": "\"IL RESTE DES HEURES COMPLEXES\": LE PREMIER MINISTRE PEDRO SÁNCHEZ CRAINT QUE LES INCENDIES PRÈS DE MADRID NE GAGNENT EN INTENSITÉ AVANT LA NOUVELLE VAGUE DE CHALEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:04",
+      "date": "27/07",
+      "timestamp": 1785171868
+    },
+    {
+      "id": "BFMTV_1785171452",
+      "source": "BFMTV",
+      "text": "À L’ONU, LA FRANCE ACCUSE MOSCOU D’ACCROÎTRE \"SA POLITIQUE D'ATTAQUES AÉRIENNES MASSIVES SUR LES GRANDES VILLES UKRAINIENNES\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:57",
+      "date": "27/07",
+      "timestamp": 1785171452
+    },
+    {
+      "id": "BFMTV_1785170249",
+      "source": "BFMTV",
+      "text": "\"NOTRE RELATION AVEC LE ROYAUME-UNI EST PLUS FORTE QUE JAMAIS\", AFFIRME VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:37",
+      "date": "27/07",
+      "timestamp": 1785170249
+    },
+    {
+      "id": "BFMTV_1785169740",
+      "source": "BFMTV",
+      "text": "\"UN MESSAGE TRÈS CLAIR. NOUS SOMMES À 100% AUX CÔTÉS DE L’UKRAINE\": ANDY BURNHAM REÇOIT VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:29",
+      "date": "27/07",
+      "timestamp": 1785169740
+    },
     {
       "id": "BFMTV_1785168912",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "13:50",
       "date": "24/07",
       "timestamp": 1784901014
-    },
-    {
-      "id": "BFMTV_1784898912",
-      "source": "BFMTV",
-      "text": "INCENDIES EN GIRONDE: L'UE RÉPOND À L'APPEL DE LA FRANCE ET DÉPLOYE 3 AVIONS ET DEUX HÉLICOPÈRES",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:15",
-      "date": "24/07",
-      "timestamp": 1784898912
-    },
-    {
-      "id": "BFMTV_1784897700",
-      "source": "BFMTV",
-      "text": "\"LE PRÉSIDENT A HÂTE DE TERMINER CE QU’IL AVAIT COMMENCÉ\": DONALD TRUMP DE RETOUR AU GALA DE LA PRESSE, INTERROMPU PAR UNE FUSILLADE EN AVRIL DERNIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:55",
-      "date": "24/07",
-      "timestamp": 1784897700
-    },
-    {
-      "id": "BFMTV_1784897275",
-      "source": "BFMTV",
-      "text": "LUTTE CONTRE LES INCENDIES: L'UNION EUROPÉENNE A DÉPLOYÉ QUATRE AVIONS EN ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:47",
-      "date": "24/07",
-      "timestamp": 1784897275
-    },
-    {
-      "id": "BFMTV_1784895577",
-      "source": "BFMTV",
-      "text": "COMMENT L'ALLEMAGNE SE RÉARME FACE À LA MENACE RUSSE",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:19",
-      "date": "24/07",
-      "timestamp": 1784895577
-    },
-    {
-      "id": "BFMTV_1784895538",
-      "source": "BFMTV",
-      "text": "COMMENT L'ALLEMAGNE SOUHAITE DEVENIR LA PREMIÈRE ARMÉE D'EUROPE",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:18",
-      "date": "24/07",
-      "timestamp": 1784895538
-    },
-    {
-      "id": "OPEX360_1784890363",
-      "source": "OPEX360",
-      "text": "L’AUSTRALIE INVESTIT ENVIRON 3 MILLIARDS D’EUROS DE PLUS POUR LA CONSTRUCTION DE SES FUTURS SOUS-MARINS NUCLÉAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:52",
-      "date": "24/07",
-      "timestamp": 1784890363
-    },
-    {
-      "id": "BFMTV_1784885261",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA ROUMANIE ABAT POUR LA PREMIÈRE FOIS UN DRONE SUR SON TERRITOIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:27",
-      "date": "24/07",
-      "timestamp": 1784885261
-    },
-    {
-      "id": "BFMTV_1784882303",
-      "source": "BFMTV",
-      "text": "\"NOUS VIVONS UNE SITUATION DRAMATIQUE\": EN ESPAGNE, DES FEUX DIFFICILES À CONTRÔLER À MOINS DE 100 KILOMÈTRES DE LA CAPITALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:38",
-      "date": "24/07",
-      "timestamp": 1784882303
-    },
-    {
-      "id": "BFMTV_1784880377",
-      "source": "BFMTV",
-      "text": "UN PARTICIPANT SEMBLE IMITER DONALD TRUMP LORS D'UN DISCOURS EN GÉORGIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:06",
-      "date": "24/07",
-      "timestamp": 1784880377
-    },
-    {
-      "id": "BFMTV_1784876251",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UNE ATTAQUE DE DRONES PROVOQUE UN INCENDIE À SAINT-PÉTERSBOURG, LA RUSSIE DIT AVOIR ABATTU 571 DRONES UKRAINIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:57",
-      "date": "24/07",
-      "timestamp": 1784876251
     }
   ],
   "france": {
