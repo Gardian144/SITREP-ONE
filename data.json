@@ -1,7 +1,27 @@
 {
-  "last_update": "27/07 22:17",
+  "last_update": "27/07 23:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785191330",
+      "source": "BFMTV",
+      "text": "LE CHANTEUR AMÉRICAIN D4VD SERA JUGÉ POUR AVOIR TUÉ ET DÉMEMBRÉ UNE ADOLESCENTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:28",
+      "date": "27/07",
+      "timestamp": 1785191330
+    },
+    {
+      "id": "BFMTV_1785190932",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY ATTENDU CE MARDI À LA MAISON BLANCHE POUR S'ENTRETENIR AVEC DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:22",
+      "date": "27/07",
+      "timestamp": 1785190932
+    },
     {
       "id": "BFMTV_1785182299",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "16:54",
       "date": "24/07",
       "timestamp": 1784912075
-    },
-    {
-      "id": "BFMTV_1784911905",
-      "source": "BFMTV",
-      "text": "\"CETTE CATASTROPHE EST LOIN D'ÊTRE TERMINÉE\": AU VENEZUELA, LA RECONSTRUCTION PRENDRA DES ANNÉES APRÈS LES SÉISMES",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:51",
-      "date": "24/07",
-      "timestamp": 1784911905
-    },
-    {
-      "id": "BFMTV_1784909105",
-      "source": "BFMTV",
-      "text": "INCENDIES EN ESPAGNE: UN HOMME ARRÊTÉ, SOUPÇONNÉ D'ÊTRE À L'ORIGINE DU FEU D'ÁVILA APRÈS AVOIR UTILISÉ UN ENGIN AGRICOLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:05",
-      "date": "24/07",
-      "timestamp": 1784909105
     }
   ],
   "france": {
