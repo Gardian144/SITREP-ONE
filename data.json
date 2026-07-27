@@ -1,7 +1,57 @@
 {
-  "last_update": "27/07 13:53",
+  "last_update": "27/07 16:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785168912",
+      "source": "BFMTV",
+      "text": "\"MOSCOU NE CONNAÎT AUCUNE LIMITE, IL N'Y A PAS DE FRONTIÈRE QU'ELLE NE FRANCHISSE PAS\", DÉNONCE LE REPRÉSENTANT DE L'UKRAINE À L'ONU ",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:15",
+      "date": "27/07",
+      "timestamp": 1785168912
+    },
+    {
+      "id": "OPEX360_1785167677",
+      "source": "OPEX360",
+      "text": "ARTILLERIE : LA GRÈCE ENVISAGERAIT D’ACQUÉRIR DES SYSTÈMES AMÉRICAINS M142 HIMARS FLEX AVEC LEURS MISSILES PRSM",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:54",
+      "date": "27/07",
+      "timestamp": 1785167677
+    },
+    {
+      "id": "BFMTV_1785167394",
+      "source": "BFMTV",
+      "text": "ATTAQUE CONTRE LA PRIDE DE BERLIN: LA PORTE DE BRANDEBOURG S'ILLUMINE AUX COULEURS DU DRAPEAU LGBT+",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:49",
+      "date": "27/07",
+      "timestamp": 1785167394
+    },
+    {
+      "id": "BFMTV_1785166095",
+      "source": "BFMTV",
+      "text": "UN CLUB DE COURSE À BALI ACCUSÉ D'EXCLURE LES INDONÉSIENS FAIT POLÉMIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:28",
+      "date": "27/07",
+      "timestamp": 1785166095
+    },
+    {
+      "id": "OPEX360_1785162523",
+      "source": "OPEX360",
+      "text": "LE GÉNÉRAL PATRICK JUSTEL VA PRENDRE LES RÊNES DE LA DIRECTION DU RENSEIGNEMENT MILITAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:28",
+      "date": "27/07",
+      "timestamp": 1785162523
+    },
     {
       "id": "BFMTV_1785159727",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "06:57",
       "date": "24/07",
       "timestamp": 1784876251
-    },
-    {
-      "id": "BFMTV_1784875616",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES FRAPPES AMÉRICAINES FONT AU MOINS QUATRE MORTS EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:46",
-      "date": "24/07",
-      "timestamp": 1784875616
-    },
-    {
-      "id": "BFMTV_1784872301",
-      "source": "BFMTV",
-      "text": "LA CIRCULATION SE DENSIFIE POUR ÉVACUER LA CAP-FERRET",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:51",
-      "date": "24/07",
-      "timestamp": 1784872301
-    },
-    {
-      "id": "BFMTV_1784869177",
-      "source": "BFMTV",
-      "text": "FRAPPES AMÉRICAINES, LE KOWEÏT CIBLÉ PAR L'IRAN, MENACES DE DONALD TRUMP... NOUVELLE NUIT DE TENSIONS AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:59",
-      "date": "24/07",
-      "timestamp": 1784869177
-    },
-    {
-      "id": "BFMTV_1784843395",
-      "source": "BFMTV",
-      "text": "MICHELLE BACHELET SE DÉFEND POUR OBTENIR LE POSTE DE SECRÉTAIRE GÉNÉRAL DES NATIONS UNIES",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:49",
-      "date": "23/07",
-      "timestamp": 1784843395
-    },
-    {
-      "id": "BFMTV_1784842754",
-      "source": "BFMTV",
-      "text": "MARIA FERNANDA ESPINOSA SE DÉFEND POUR OBTENIR LE POSTE DE SECRÉTAIRE GÉNÉRAL DES NATIONS UNIES",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:39",
-      "date": "23/07",
-      "timestamp": 1784842754
     }
   ],
   "france": {
