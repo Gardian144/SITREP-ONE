@@ -1,7 +1,37 @@
 {
-  "last_update": "27/07 11:19",
+  "last_update": "27/07 13:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785159727",
+      "source": "BFMTV",
+      "text": "PRÉSIDENTIELLE AU BRÉSIL: FLAVIO BOLSONARO LANCE SA CAMPAGNE CONTRE LE PRÉSIDENT LULA",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:42",
+      "date": "27/07",
+      "timestamp": 1785159727
+    },
+    {
+      "id": "BFMTV_1785158041",
+      "source": "BFMTV",
+      "text": "RUSSIE: UNE ATTAQUE DE DRONES UKRAINIENNE FAIT CINQ MORTS DONT UN ENFANT",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:14",
+      "date": "27/07",
+      "timestamp": 1785158041
+    },
+    {
+      "id": "BFMTV_1785155074",
+      "source": "BFMTV",
+      "text": "ATTAQUE CONTRE LA PRIDE DE BERLIN: LA FEMME DÉCÉDÉE ÉTAIT DE NATIONALITÉ POLONAISE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:24",
+      "date": "27/07",
+      "timestamp": 1785155074
+    },
     {
       "id": "BFMTV_1785149540",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "21:39",
       "date": "23/07",
       "timestamp": 1784842754
-    },
-    {
-      "id": "BFMTV_1784841979",
-      "source": "BFMTV",
-      "text": "CANADA/ÉTATS-UNIS: MARK CARNEY \"INTENSIFIE LES NÉGOCIATIONS\" APRÈS LES NOUVELLES TAXES DES USA",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:26",
-      "date": "23/07",
-      "timestamp": 1784841979
-    },
-    {
-      "id": "BFMTV_1784838337",
-      "source": "BFMTV",
-      "text": "INCENDIES EN ESPAGNE: 3.500 PERSONNES ÉVACUÉES À TITRE PRÉVENTIF D'UNE LOCALITÉ SITUÉE À 60 KILOMÈTRES DE MADRID",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:25",
-      "date": "23/07",
-      "timestamp": 1784838337
-    },
-    {
-      "id": "BFMTV_1784835737",
-      "source": "BFMTV",
-      "text": "L'ODYSSÉE: ZENDAYA PORTE DES BOUCLES D’OREILLES VIEILLES DE 3.000 ANS ET CRÉE LA POLÉMIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:42",
-      "date": "23/07",
-      "timestamp": 1784835737
     }
   ],
   "france": {
