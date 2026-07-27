@@ -1,7 +1,17 @@
 {
-  "last_update": "27/07 19:53",
+  "last_update": "27/07 21:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785182299",
+      "source": "BFMTV",
+      "text": "UN SUSPECT ARRÊTÉ, UN ENFANT TOUCHÉ... CE QUE L'ON SAIT DE LA FUSILLADE À SEATTLE QUI A FAIT TROIS MORTS ET QUATRE BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:58",
+      "date": "27/07",
+      "timestamp": 1785182299
+    },
     {
       "id": "BFMTV_1785177694",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:05",
       "date": "24/07",
       "timestamp": 1784909105
-    },
-    {
-      "id": "OPEX360_1784907495",
-      "source": "OPEX360",
-      "text": "OCÉAN INDIEN : L’OPÉRATION NAVALE EUROPÉENNE ATALANTA VA POUVOIR ARRAISONNER LES NAVIRES LIÉS À LA FLOTTE FANTÔME RUSSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:38",
-      "date": "24/07",
-      "timestamp": 1784907495
     }
   ],
   "france": {
