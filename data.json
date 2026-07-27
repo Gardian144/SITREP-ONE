@@ -1,7 +1,47 @@
 {
-  "last_update": "27/07 18:03",
+  "last_update": "27/07 19:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785177694",
+      "source": "BFMTV",
+      "text": "PONT GORDIE-HOWE: QUEL EST CE NOUVEAU PONT ENTRE LES ÉTATS-UNIS ET LE CANADA ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:41",
+      "date": "27/07",
+      "timestamp": 1785177694
+    },
+    {
+      "id": "BFMTV_1785176303",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"JE PENSE QU'IL Y A UNE BONNE CHANCE QUE QUELQUE CHOSE PUISSE SE PRODUIRE\", ESTIME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:18",
+      "date": "27/07",
+      "timestamp": 1785176303
+    },
+    {
+      "id": "BFMTV_1785175721",
+      "source": "BFMTV",
+      "text": "EN INDE, UN POLICIER TIRE SUR DES ÉTUDIANTS MANIFESTANTS AVEC UN AK-47",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:08",
+      "date": "27/07",
+      "timestamp": 1785175721
+    },
+    {
+      "id": "BFMTV_1785175537",
+      "source": "BFMTV",
+      "text": "CORPS CONSERVÉS PENDANT DES MOIS, CENDRES D'INCONNUS REMISES AUX FAMILLES... UN RESPONSABLE DE POMPES FUNÈBRES DEVANT LA JUSTICE BRITANNIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:05",
+      "date": "27/07",
+      "timestamp": 1785175537
+    },
     {
       "id": "BFMTV_1785174093",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "15:38",
       "date": "24/07",
       "timestamp": 1784907495
-    },
-    {
-      "id": "BFMTV_1784906002",
-      "source": "BFMTV",
-      "text": "\"DANS UN MONDE EN MUTATION, L'EUROPE ET L'AMÉRIQUE ONT BESOIN L'UNE DE L'AUTRE\", ASSURE LE COMMISSAIRE EUROPÉEN À LA DÉFENSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:13",
-      "date": "24/07",
-      "timestamp": 1784906002
-    },
-    {
-      "id": "BFMTV_1784905060",
-      "source": "BFMTV",
-      "text": "\"PIRE INCENDIE DE L'HISTOIRE DE LA RÉGION\", 19.000 ÉVACUATIONS... CE QUE L'ON SAIT DES FEUX QUI FONT RAGE PRÈS DE MADRID",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:57",
-      "date": "24/07",
-      "timestamp": 1784905060
-    },
-    {
-      "id": "BFMTV_1784904768",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU RENCONTRERA DONALD TRUMP À LA MAISON BLANCHE MARDI, ET ASSISTERA AUX FUNÉRAILLES DU SÉNATEUR LINDSEY GRAHAM",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:52",
-      "date": "24/07",
-      "timestamp": 1784904768
-    },
-    {
-      "id": "OPEX360_1784901014",
-      "source": "OPEX360",
-      "text": "POUR LA PREMIÈRE FOIS, LA ROUMANIE A ABATTU UN DRONE AYANT VIOLÉ SON ESPACE AÉRIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:50",
-      "date": "24/07",
-      "timestamp": 1784901014
     }
   ],
   "france": {
