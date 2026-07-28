@@ -1,7 +1,67 @@
 {
-  "last_update": "28/07 10:04",
+  "last_update": "28/07 12:13",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785236987",
+      "source": "BFMTV",
+      "text": "DIRECT. SÉISME AU JAPON: \"DE NOMBREUSES PERSONNES\" PIÉGÉES APRÈS UNE EXPLOSION DANS UN CENTRE COMMERCIAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:09",
+      "date": "28/07",
+      "timestamp": 1785236987
+    },
+    {
+      "id": "BFMTV_1785236894",
+      "source": "BFMTV",
+      "text": "PORTUGAL, SLOVAQUIE, SUÈDE... DES SOUTIENS DE TOUTE L'EUROPE MOBILISÉS FACE AUX INCENDIES EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:08",
+      "date": "28/07",
+      "timestamp": 1785236894
+    },
+    {
+      "id": "BFMTV_1785235549",
+      "source": "BFMTV",
+      "text": "EN DÉPLACEMENT À CHYPRE, ANTÓNIO GUTERRES VEUT \"TROUVER UNE SOLUTION\" POUR L'ÎLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:45",
+      "date": "28/07",
+      "timestamp": 1785235549
+    },
+    {
+      "id": "BFMTV_1785235458",
+      "source": "BFMTV",
+      "text": "LA FRANCE COMPARE LES ÉTATS-UNIS À LA CORÉE DU NORD ET À LA RUSSIE LORS D'UNE RÉUNION DU CONSEIL DE SÉCURITÉ DE L'ONU",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:44",
+      "date": "28/07",
+      "timestamp": 1785235458
+    },
+    {
+      "id": "OPEX360_1785235041",
+      "source": "OPEX360",
+      "text": "GUERRE ÉLECTRONIQUE : THALES ET EVIDEN RENFORCENT LA RÉSILIENCE DES SYSTÈMES DE NAVIGATION DE L’ARMÉE DE TERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:37",
+      "date": "28/07",
+      "timestamp": 1785235041
+    },
+    {
+      "id": "BFMTV_1785233415",
+      "source": "BFMTV",
+      "text": "UN PUISSANT SÉISME DE MAGNITUDE 7,1 SECOUE LE JAPON",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:10",
+      "date": "28/07",
+      "timestamp": 1785233415
+    },
     {
       "id": "BFMTV_1785232778",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "05:18",
       "date": "25/07",
       "timestamp": 1784956708
-    },
-    {
-      "id": "BFMTV_1784956518",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ORDONNE L'INSTALLATION DE PANNEAUX DEVANT UN MUSÉE DE WASHINGTON ACCUSÉ D'ÊTRE TROP PROGRESSISTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:15",
-      "date": "25/07",
-      "timestamp": 1784956518
-    },
-    {
-      "id": "BFMTV_1784955428",
-      "source": "BFMTV",
-      "text": "\"NOUS SOMMES PRÊTS À Y ALLER\": DONALD TRUMP MENACE D'INTENSIFIER LES FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:57",
-      "date": "25/07",
-      "timestamp": 1784955428
-    },
-    {
-      "id": "BFMTV_1784928837",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QUE LE VENEZUELA N'EST \"PAS VRAIMENT PRÊT POUR DES ÉLECTIONS\", SEPT MOIS APRÈS LA CAPTURE DE NICOLAS MADURO",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:33",
-      "date": "24/07",
-      "timestamp": 1784928837
-    },
-    {
-      "id": "BFMTV_1784928099",
-      "source": "BFMTV",
-      "text": "RELEVÉ DE SES FONCTIONS APRÈS DES ACCUSATIONS D’AGRESSION SEXUELLE, LE PROCUREUR GÉNÉRAL DE LA COUR PÉNALE INTERNATIONALE KARIM KHAN VA CONTESTER SON ÉVICTION",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:21",
-      "date": "24/07",
-      "timestamp": 1784928099
-    },
-    {
-      "id": "BFMTV_1784927542",
-      "source": "BFMTV",
-      "text": "LE PROCUREUR DE LA CPI KARIM KHAN RELEVÉ DE SES FONCTIONS APRÈS DES ACCUSATIONS D'AGRESSION SEXUELLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:12",
-      "date": "24/07",
-      "timestamp": 1784927542
-    },
-    {
-      "id": "BFMTV_1784926770",
-      "source": "BFMTV",
-      "text": "INCENDIES DANS LA RÉGION DE MADRID: 63.000 PERSONNES ÉVACUÉES OU CONFINÉES, DONT UN CAMPING DE 5.000 VACANCIERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:59",
-      "date": "24/07",
-      "timestamp": 1784926770
     }
   ],
   "france": {
