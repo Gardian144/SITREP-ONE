@@ -1,7 +1,77 @@
 {
-  "last_update": "28/07 04:27",
+  "last_update": "28/07 07:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785221782",
+      "source": "BFMTV",
+      "text": "MANIFESTATIONS EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:56",
+      "date": "28/07",
+      "timestamp": 1785221782
+    },
+    {
+      "id": "BFMTV_1785221781",
+      "source": "BFMTV",
+      "text": "IRAN: DEUX HOMMES, CONDAMNÉS POUR LEUR PARTICIPATION AUX MANIFESTATIONS, ONT ÉTÉ EXÉCUTÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:56",
+      "date": "28/07",
+      "timestamp": 1785221781
+    },
+    {
+      "id": "BFMTV_1785221753",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT UKRAINIEN VOLODYMYR ZELENSKY EST ARRIVÉ AUX ÉTATS-UNIS POUR RENCONTRER DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:55",
+      "date": "28/07",
+      "timestamp": 1785221753
+    },
+    {
+      "id": "BFMTV_1785221689",
+      "source": "BFMTV",
+      "text": "MEXIQUE: UN MORT ET DEUX BLESSÉS DANS UNE FUSILLADE DANS LA CAPITALE MEXICO",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:54",
+      "date": "28/07",
+      "timestamp": 1785221689
+    },
+    {
+      "id": "BFMTV_1785221229",
+      "source": "BFMTV",
+      "text": "LA RÉGION DE MOSCOU VISÉE PAR PLUS DE 390 DRONES DANS LA NUIT, ANNONCE LE MAIRE DE LA CAPITALE RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:47",
+      "date": "28/07",
+      "timestamp": 1785221229
+    },
+    {
+      "id": "BFMTV_1785216686",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL - HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:31",
+      "date": "28/07",
+      "timestamp": 1785216686
+    },
+    {
+      "id": "BFMTV_1785216685",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS CONFIRMENT DE NOUVEAUX POURPARLERS ENTRE ISRAËL ET LE LIBAN À ROME",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:31",
+      "date": "28/07",
+      "timestamp": 1785216685
+    },
     {
       "id": "BFMTV_1785191330",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "19:56",
       "date": "24/07",
       "timestamp": 1784922997
-    },
-    {
-      "id": "BFMTV_1784918999",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: APRÈS DE NOUVEAUX BOMBARDEMENTS AMÉRICAINS, L'IRAN REVENDIQUE DES ATTAQUES DE DRONES SUR BAHREÏN, LA JORDANIE ET LE KOWEÏT",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:49",
-      "date": "24/07",
-      "timestamp": 1784918999
-    },
-    {
-      "id": "BFMTV_1784918792",
-      "source": "BFMTV",
-      "text": "THAÏLANDE: ELLE MET SES ÉCONOMIES DANS UN COFFRE-FORT, SON PACTOLE DÉVORÉ PAR LES TERMITES",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:46",
-      "date": "24/07",
-      "timestamp": 1784918792
-    },
-    {
-      "id": "BFMTV_1784917445",
-      "source": "BFMTV",
-      "text": "INCENDIE DANS LA RÉGION DE MADRID: \"IMPOSIBLE À ÉTEINDRE\", SELON CARLOS NOVILLO DU GOUVERNEMENT RÉGIONAL DE MADRID",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:24",
-      "date": "24/07",
-      "timestamp": 1784917445
-    },
-    {
-      "id": "BFMTV_1784917266",
-      "source": "BFMTV",
-      "text": "CISJORDANIE: ISRAËL ANNONCE UNE \"VASTE OPÉRATION\" ET DE NOUVELLES IMPLANTATIONS DE COLONIES APRÈS DES VIOLENCES MEURTRIÈRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:21",
-      "date": "24/07",
-      "timestamp": 1784917266
-    },
-    {
-      "id": "BFMTV_1784916414",
-      "source": "BFMTV",
-      "text": "HUIT ANS APRÈS SA SORTIE, LE TITRE “COPINES” D’AYA NAKAMURA CARTONNE EN CHINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:06",
-      "date": "24/07",
-      "timestamp": 1784916414
-    },
-    {
-      "id": "OPEX360_1784912177",
-      "source": "OPEX360",
-      "text": "TRÈS HAUTE ALTITUDE : LE MINISTÈRE DES ARMÉES SALUE LE SUCCÈS DES PREMIERS VOLS DU DRONE STRATOSPHÉRIQUE HELIBLADE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:56",
-      "date": "24/07",
-      "timestamp": 1784912177
-    },
-    {
-      "id": "BFMTV_1784912075",
-      "source": "BFMTV",
-      "text": "\"PIRE INCENDIE DE L'HISTOIRE DE LA RÉGION\", 26.000 ÉVACUATIONS... CE QUE L'ON SAIT DES FEUX QUI FONT RAGE PRÈS DE MADRID",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:54",
-      "date": "24/07",
-      "timestamp": 1784912075
     }
   ],
   "france": {
