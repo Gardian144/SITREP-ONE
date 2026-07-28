@@ -1,7 +1,37 @@
 {
-  "last_update": "28/07 20:43",
+  "last_update": "28/07 21:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785275199",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: BENJAMIN NETANYAHU AFFIRME AVOIR EU \"LA MEILLEURE DES CONVERSATIONS\" AVEC DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:46",
+      "date": "28/07",
+      "timestamp": 1785275199
+    },
+    {
+      "id": "BFMTV_1785273612",
+      "source": "BFMTV",
+      "text": "AU MOINS TROIS MORTS, DES DIZAINES D'HOSPITALISATIONS, DÉFLAGRATION D'UN CENTRE COMMERCIAL... CE QUE L'ON SAIT DU SÉISME QUI A SECOUÉ LE JAPON MARDI",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:20",
+      "date": "28/07",
+      "timestamp": 1785273612
+    },
+    {
+      "id": "BFMTV_1785272806",
+      "source": "BFMTV",
+      "text": "L'ARABIE SAOUDITE ANNONCE AVOIR INTERCEPTÉ DES DRONES LANCÉS DEPUIS L'IRAK PAR DES GROUPES \"LIÉS À L'IRAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:06",
+      "date": "28/07",
+      "timestamp": 1785272806
+    },
     {
       "id": "BFMTV_1785266177",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:36",
       "date": "25/07",
       "timestamp": 1785000982
-    },
-    {
-      "id": "BFMTV_1784997217",
-      "source": "BFMTV",
-      "text": "UN MORT DANS UN INCENDIE EN COURS DANS L'EST DE L'ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:33",
-      "date": "25/07",
-      "timestamp": 1784997217
-    },
-    {
-      "id": "BFMTV_1784997217",
-      "source": "BFMTV",
-      "text": "UN MORT DANS UN INCENDIE DANS L'EST DE L'ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:33",
-      "date": "25/07",
-      "timestamp": 1784997217
-    },
-    {
-      "id": "BFMTV_1784990593",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DIT VOULOIR BRIGUER UN MANDAT SUPPLÉMENTAIRE, INTERDIT PAR LA CONSTITUTION AMÉRICAINE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:43",
-      "date": "25/07",
-      "timestamp": 1784990593
     }
   ],
   "france": {
