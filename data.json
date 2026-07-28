@@ -1,7 +1,57 @@
 {
-  "last_update": "28/07 16:23",
+  "last_update": "28/07 17:53",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1785260051",
+      "source": "OPEX360",
+      "text": "À SON TOUR, SAFRAN ANNONCE METTRE FIN AU PROJET FRANCO-ALLEMAND DE MOTEUR D’AVION DE COMBAT DE NOUVELLE GÉNÉRATION",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:34",
+      "date": "28/07",
+      "timestamp": 1785260051
+    },
+    {
+      "id": "BFMTV_1785258498",
+      "source": "BFMTV",
+      "text": "L'ONU S'ALARME DE LA \"DÉTÉRIORATION RAPIDE\" DE LA SITUATION EN CISJORDANIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:08",
+      "date": "28/07",
+      "timestamp": 1785258498
+    },
+    {
+      "id": "BFMTV_1785257435",
+      "source": "BFMTV",
+      "text": "BLESSÉ AU TORSE PAR SON BATÔN DE RANDONNÉE, CET AMÉRICAIN A MARCHÉ 16 KM AVANT D'ÊTRE SECOURU",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:50",
+      "date": "28/07",
+      "timestamp": 1785257435
+    },
+    {
+      "id": "BFMTV_1785256379",
+      "source": "BFMTV",
+      "text": "UNE BATTERIE EXTERNE A PRIS FEU À BORD D'UN VOL DE LA COMPAGNIE CHINA EASTERN AIRLINES APRÈS SON ATTERRISSAGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:32",
+      "date": "28/07",
+      "timestamp": 1785256379
+    },
+    {
+      "id": "OPEX360_1785255875",
+      "source": "OPEX360",
+      "text": "LE GOUVERNEMENT AUTRICHIEN A L’INTENTION D’AUGMENTER LA DURÉE DU SERVICE MILITAIRE OBLIGATOIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:24",
+      "date": "28/07",
+      "timestamp": 1785255875
+    },
     {
       "id": "BFMTV_1785255449",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "11:29",
       "date": "25/07",
       "timestamp": 1784978998
-    },
-    {
-      "id": "OPEX360_1784977981",
-      "source": "OPEX360",
-      "text": "LE GOUVERNEMENT DEMANDE AUX ARMÉES D’ENGAGER UN A400M «BOMBARDIER D’EAU» EN GIRONDE SANS DÉLAI",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:13",
-      "date": "25/07",
-      "timestamp": 1784977981
-    },
-    {
-      "id": "BFMTV_1784976981",
-      "source": "BFMTV",
-      "text": "MADRID: LES PIRES FEUX JAMAIS ENREGISTRÉS DANS LA RÉGION ONT RAVAGÉ JUSQU’À 25.000 HECTARES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:56",
-      "date": "25/07",
-      "timestamp": 1784976981
-    },
-    {
-      "id": "OPEX360_1784974721",
-      "source": "OPEX360",
-      "text": "L’ALLEMAND TKMS ET L’ESPAGNOL NAVANTIA VEULENT FINALISER LEUR PARTENARIAT INDUSTRIEL D’ICI LA FIN DE L’ANNÉE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:18",
-      "date": "25/07",
-      "timestamp": 1784974721
-    },
-    {
-      "id": "BFMTV_1784971163",
-      "source": "BFMTV",
-      "text": "UNE FRAPPE UKRAINIENNE FAIT AU MOINS HUIT MORTS DANS UNE VILLE DU SUD DU PAYS OCCUPÉE PAR LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:19",
-      "date": "25/07",
-      "timestamp": 1784971163
-    },
-    {
-      "id": "BFMTV_1784969162",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:46",
-      "date": "25/07",
-      "timestamp": 1784969162
     }
   ],
   "france": {
