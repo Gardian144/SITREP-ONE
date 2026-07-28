@@ -1,7 +1,67 @@
 {
-  "last_update": "28/07 14:39",
+  "last_update": "28/07 16:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785255449",
+      "source": "BFMTV",
+      "text": "SÉISME AU JAPON: UN MORT, DES DIZAINES DE BLESSÉS ET DES PERSONNES PIÉGÉES DANS UN CENTRE COMMERCIAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:17",
+      "date": "28/07",
+      "timestamp": 1785255449
+    },
+    {
+      "id": "BFMTV_1785254060",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY SALUE \"UNE BONNE RENCONTRE\" AVEC DONALD TRUMP À LA MAISON BLANCHE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:54",
+      "date": "28/07",
+      "timestamp": 1785254060
+    },
+    {
+      "id": "BFMTV_1785252098",
+      "source": "BFMTV",
+      "text": "CISJORDANIE: L’ÉTAT DE PALESTINE APPELLE À TENIR ISRAËL RESPONSABLE DES VIOLENCES PERPÉTRÉES PAR LES COLONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:21",
+      "date": "28/07",
+      "timestamp": 1785252098
+    },
+    {
+      "id": "BFMTV_1785251136",
+      "source": "BFMTV",
+      "text": "\"TANT QUE LE HAMAS SERA PRÉSENT À GAZA, IL Y AURA DES RESTRICTIONS\", AVERTIT L'AMBASSADEUR D'ISRAËL À L'ONU ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:05",
+      "date": "28/07",
+      "timestamp": 1785251136
+    },
+    {
+      "id": "BFMTV_1785251042",
+      "source": "BFMTV",
+      "text": "LE CERCUEIL DU SÉNATEUR AMÉRICAIN LINDSAY GRAHAM ENTRE AU CAPITOLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:04",
+      "date": "28/07",
+      "timestamp": 1785251042
+    },
+    {
+      "id": "OPEX360_1785250168",
+      "source": "OPEX360",
+      "text": "L’AVIATION NAVALE ALLEMANDE VEUT RÉCUPÉRER UNE CAPACITÉ ANTINAVIRE EN DOTANT SES P-8A POSEIDON DE MISSILES JSM",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:49",
+      "date": "28/07",
+      "timestamp": 1785250168
+    },
     {
       "id": "BFMTV_1785248922",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "08:46",
       "date": "25/07",
       "timestamp": 1784969162
-    },
-    {
-      "id": "BFMTV_1784969162",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:46",
-      "date": "25/07",
-      "timestamp": 1784969162
-    },
-    {
-      "id": "BFMTV_1784969161",
-      "source": "BFMTV",
-      "text": "INTERVIEW DE VOLODYMYR ZELENSKY, CRITIQUES CONTRE LA \"PROPAGANDE\" RUSSE... L'ÉTONNANTE VISITE À KIEV DE L'INFLUENCEUSE AMÉRICAINE D'EXTRÊME DROITE LAURA LOOMER, PROCHE DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:46",
-      "date": "25/07",
-      "timestamp": 1784969161
-    },
-    {
-      "id": "BFMTV_1784969161",
-      "source": "BFMTV",
-      "text": "INTERVIEW DE VOLODYMYR ZELENSKY, CRITIQUES CONTRE LA \"PROPAGANDE\" RUSSE... L'ÉTONNANTE VISITE À KIEV DE L'INFLUENCEUSE D'EXTRÊME DROITE LAURA LOOMER, PROCHE DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:46",
-      "date": "25/07",
-      "timestamp": 1784969161
-    },
-    {
-      "id": "BFMTV_1784967914",
-      "source": "BFMTV",
-      "text": "INCENDIES EN ESPAGNE: DES VENTS \"ERRATIQUES\" MENACENT D'AGGRAVER LA SITUATION ALORS QUE LES FEUX SE POURSUIVENT PRÈS DE MADRID",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:25",
-      "date": "25/07",
-      "timestamp": 1784967914
-    },
-    {
-      "id": "BFMTV_1784964071",
-      "source": "BFMTV",
-      "text": "\"LA SUSPECTE AVAIT ATTIRÉ L'ATTENTION DES SERVICES DE SÉCURITÉ\": UNE STAGIAIRE À L'OTAN ARRÊTÉE POUR DES SOUPÇONS D'\"ESPIONNAGE AU PROFIT D'UN PAYS TIERS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:21",
-      "date": "25/07",
-      "timestamp": 1784964071
-    },
-    {
-      "id": "BFMTV_1784961321",
-      "source": "BFMTV",
-      "text": "LA TUNISIE CONVOQUE L'AMBASSADRICE DE FRANCE APRÈS LA DIFFUSION SUR UNE CHAÎNE FRANÇAISE D'UN ENTRETIEN JUGÉ HOSTILE AU RÉGIME",
-      "urgent": false,
-      "france_related": true,
-      "time": "06:35",
-      "date": "25/07",
-      "timestamp": 1784961321
     }
   ],
   "france": {
