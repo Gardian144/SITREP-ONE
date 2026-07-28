@@ -1,7 +1,57 @@
 {
-  "last_update": "28/07 17:53",
+  "last_update": "28/07 19:21",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785266177",
+      "source": "BFMTV",
+      "text": "DISPARUS, MORTS, DÉGÂTS...RETOUR SUR LE SÉISME QUI A TOUCHÉ LE JAPON CE MARDI 28 JUILLET",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:16",
+      "date": "28/07",
+      "timestamp": 1785266177
+    },
+    {
+      "id": "BFMTV_1785266130",
+      "source": "BFMTV",
+      "text": "\"IL VA BEAUCOUP ME MANQUER\": DONALD TRUMP REND HOMMAGE AU SÉNATEUR LINDSEY GRAHAM, L'UN DE SES PROCHES ALLIÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:15",
+      "date": "28/07",
+      "timestamp": 1785266130
+    },
+    {
+      "id": "BFMTV_1785266096",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSISTE AUX OBSÈQUES DU SÉNATEUR RÉPUBLICAIN LINDSEY GRAHAM",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:14",
+      "date": "28/07",
+      "timestamp": 1785266096
+    },
+    {
+      "id": "BFMTV_1785265173",
+      "source": "BFMTV",
+      "text": "INCENDIES EN ESPAGNE: MALGRÉ LA LEVÉE D'ORDRES D'ÉVACUATION DANS LA RÉGION DE MADRID, LA NOUVELLE VAGUE DE CHALEUR INQUIÈTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:59",
+      "date": "28/07",
+      "timestamp": 1785265173
+    },
+    {
+      "id": "BFMTV_1785261924",
+      "source": "BFMTV",
+      "text": "\"L'IRAN CHOISIT LE TERRORISME AU LIEU DE LA NÉGOCIATION\", DÉCLARE L'AMBASSADEUR ISRAÉLIEN À L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:05",
+      "date": "28/07",
+      "timestamp": 1785261924
+    },
     {
       "id": "OPEX360_1785260051",
       "source": "OPEX360",
@@ -26,6 +76,16 @@
       "id": "BFMTV_1785257435",
       "source": "BFMTV",
       "text": "BLESSÉ AU TORSE PAR SON BATÔN DE RANDONNÉE, CET AMÉRICAIN A MARCHÉ 16 KM AVANT D'ÊTRE SECOURU",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:50",
+      "date": "28/07",
+      "timestamp": 1785257435
+    },
+    {
+      "id": "BFMTV_1785257435",
+      "source": "BFMTV",
+      "text": "BLESSÉ AU TORSE PAR SON BÂTON DE RANDONNÉE, CET AMÉRICAIN A MARCHÉ 16 KM AVANT D'ÊTRE SECOURU",
       "urgent": false,
       "france_related": false,
       "time": "16:50",
@@ -67,6 +127,16 @@
       "source": "BFMTV",
       "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY SALUE \"UNE BONNE RENCONTRE\" AVEC DONALD TRUMP À LA MAISON BLANCHE",
       "urgent": true,
+      "france_related": false,
+      "time": "15:54",
+      "date": "28/07",
+      "timestamp": 1785254060
+    },
+    {
+      "id": "BFMTV_1785254060",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
       "france_related": false,
       "time": "15:54",
       "date": "28/07",
@@ -931,76 +1001,6 @@
       "time": "14:39",
       "date": "25/07",
       "timestamp": 1784990341
-    },
-    {
-      "id": "BFMTV_1784990340",
-      "source": "BFMTV",
-      "text": "EN SYRIE, LE CHEF DE L'ONU RÉCLAME UNE AIDE INTERNATIONALE À UN \"MOMENT CHARNIÈRE\" ET LE RESPECT DE LA SOUVERAINETÉ DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:39",
-      "date": "25/07",
-      "timestamp": 1784990340
-    },
-    {
-      "id": "BFMTV_1784988474",
-      "source": "BFMTV",
-      "text": "\"TOUT CELA DOIT ÊTRE ARRÊTÉ\": LE DIRIGEANT KAZAKH AFFIRME À VLADIMIR POUTINE QUE LA GUERRE EN UKRAINE DOIT PRENDRE FIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:07",
-      "date": "25/07",
-      "timestamp": 1784988474
-    },
-    {
-      "id": "BFMTV_1784988474",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:07",
-      "date": "25/07",
-      "timestamp": 1784988474
-    },
-    {
-      "id": "OPEX360_1784984848",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DANOISE RENFORCE SES MOYENS DE DÉMINAGE AVEC LE ROBOT FRANÇAIS DE «DÉPOLLUTION DE ZONE» SDZ",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:07",
-      "date": "25/07",
-      "timestamp": 1784984848
-    },
-    {
-      "id": "BFMTV_1784982011",
-      "source": "BFMTV",
-      "text": "LE JAPON ENREGISTRE SA CINQUIÈME JOURNÉE DE \"CHALEUR CRUELLE\" AVEC DES TEMPÉRATURES SUPÉRIEURES À 40°C",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:20",
-      "date": "25/07",
-      "timestamp": 1784982011
-    },
-    {
-      "id": "BFMTV_1784979182",
-      "source": "BFMTV",
-      "text": "ORMUZ: UN NOUVEL INCIDENT IMPLIQUANT UN PÉTROLIER ET DES \"FORCES MILITAIRES\" SIGNALÉ PAR L'AGENCE DE SÉCURITÉ MARITIME BRITANNIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:33",
-      "date": "25/07",
-      "timestamp": 1784979182
-    },
-    {
-      "id": "BFMTV_1784978998",
-      "source": "BFMTV",
-      "text": "600 HECTARES PARTIS EN FUMÉE ET LA POPULATION ÉVACUÉE: L'ÉCOSSE FACE À UN INCENDIE \"MAJEUR\" DANS UN PARC AU NORD DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:29",
-      "date": "25/07",
-      "timestamp": 1784978998
     }
   ],
   "france": {
