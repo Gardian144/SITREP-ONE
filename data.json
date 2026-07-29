@@ -1,7 +1,37 @@
 {
-  "last_update": "29/07 11:34",
+  "last_update": "29/07 13:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785330542",
+      "source": "BFMTV",
+      "text": "COVID-19: AUDITIONNÉ PAR DES SÉNATEURS AMÉRICAINS, L'ANCIEN CONSEILLER MÉDICAL DE LA MAISON BLANCHE REFUSE DE RÉPONDRE AUX QUESTIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:09",
+      "date": "29/07",
+      "timestamp": 1785330542
+    },
+    {
+      "id": "BFMTV_1785330446",
+      "source": "BFMTV",
+      "text": "IRAN: LA TÉLÉVISION D'ETAT FAIT ÉTAT DE FRAPPES AMÉRICAINES SUR LE NORD-OUEST DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:07",
+      "date": "29/07",
+      "timestamp": 1785330446
+    },
+    {
+      "id": "BFMTV_1785325173",
+      "source": "BFMTV",
+      "text": "LA MINISTRE PALESTINIENNE DES AFFAIRES ÉTRANGÈRES DEMANDE \"L'APPLICATION DU DROIT INTERNATIONAL\" ENVERS ISRAËL",
+      "urgent": true,
+      "france_related": true,
+      "time": "11:39",
+      "date": "29/07",
+      "timestamp": 1785325173
+    },
     {
       "id": "BFMTV_1785324254",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "06:12",
       "date": "27/07",
       "timestamp": 1785132735
-    },
-    {
-      "id": "BFMTV_1785131683",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TROISIÈME NUIT SANS FRAPPES DANS LA RÉGION POUR LAISSER \"DE LA PLACE\" À LA DIPLOMATIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:54",
-      "date": "27/07",
-      "timestamp": 1785131683
-    },
-    {
-      "id": "BFMTV_1785097147",
-      "source": "BFMTV",
-      "text": "ATTAQUE CONTRE LA GAY PRIDE DE BERLIN: PLUS AUCUN BLESSÉ N'EST EN DANGER DE MORT, ANNONCE FRIEDRICH MERZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:19",
-      "date": "26/07",
-      "timestamp": 1785097147
-    },
-    {
-      "id": "BFMTV_1785097147",
-      "source": "BFMTV",
-      "text": "ATTAQUE CONTRE LA PRIDE DE BERLIN: PLUS AUCUN BLESSÉ N'EST EN DANGER DE MORT, ANNONCE FRIEDRICH MERZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:19",
-      "date": "26/07",
-      "timestamp": 1785097147
     }
   ],
   "france": {
