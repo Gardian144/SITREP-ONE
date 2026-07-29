@@ -1,7 +1,27 @@
 {
-  "last_update": "29/07 18:06",
+  "last_update": "29/07 19:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785353971",
+      "source": "BFMTV",
+      "text": "\"UNE VRAIE DISPUTE DE FAMILLE\": LE PRÉSIDENT DE LA FED AMÉRICAINE RÉVÈLE LES COULISSES DU VOTE SUR LE MAINTIEN DES TAUX",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:39",
+      "date": "29/07",
+      "timestamp": 1785353971
+    },
+    {
+      "id": "BFMTV_1785353917",
+      "source": "BFMTV",
+      "text": "\"L'ÉCONOMIE FAIT PREUVE D'UNE SOLIDITÉ IMPRESSIONNANTE\": LA RÉSERVE FÉDÉRALE (FED) AMÉRICAINE MAINTIENT SES TAUX INCHANGÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:38",
+      "date": "29/07",
+      "timestamp": 1785353917
+    },
     {
       "id": "OPEX360_1785346914",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "10:39",
       "date": "27/07",
       "timestamp": 1785148741
-    },
-    {
-      "id": "BFMTV_1785146339",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:58",
-      "date": "27/07",
-      "timestamp": 1785146339
-    },
-    {
-      "id": "BFMTV_1785146338",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉMENT TOUTE NÉGOCIATION AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:58",
-      "date": "27/07",
-      "timestamp": 1785146338
     }
   ],
   "france": {
