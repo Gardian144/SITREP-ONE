@@ -1,7 +1,97 @@
 {
-  "last_update": "29/07 09:12",
+  "last_update": "29/07 11:34",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785324254",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE BRITANNIQUE VEUT RÉFORMER LES AIDES AUX PERSONNES ÂGÉES ET VULNÉRABLES",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:24",
+      "date": "29/07",
+      "timestamp": 1785324254
+    },
+    {
+      "id": "BFMTV_1785322966",
+      "source": "BFMTV",
+      "text": "L'AUSTRALIE CONFIRME UNE TRANSMISSION LOCALE DE LA GRIPPE AVIAIRE H5",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:02",
+      "date": "29/07",
+      "timestamp": 1785322966
+    },
+    {
+      "id": "BFMTV_1785322805",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: UN DÉPUTÉ ANGLAIS ACCUSE LA FRANCE D'INTIMIDATION APRÈS DES TIRS DANS LA MANCHE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:00",
+      "date": "29/07",
+      "timestamp": 1785322805
+    },
+    {
+      "id": "OPEX360_1785322000",
+      "source": "OPEX360",
+      "text": "POUR LA PREMIÈRE FOIS, DES HÉLICOPTÈRES NH90 ESPAGNOLS VONT ÊTRE ENGAGÉS DANS UNE MISSION DE POLICE DU CIEL DE L’OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:46",
+      "date": "29/07",
+      "timestamp": 1785322000
+    },
+    {
+      "id": "BFMTV_1785320720",
+      "source": "BFMTV",
+      "text": "INCENDIES EN EUROPE: L'ÎLE DE PAROS, EN GRÈCE, PARTIELLEMENT ÉVACUÉE EN RAISON D'UN FEU DE FORÊT",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:25",
+      "date": "29/07",
+      "timestamp": 1785320720
+    },
+    {
+      "id": "BFMTV_1785320036",
+      "source": "BFMTV",
+      "text": "\"SOUS-INVESTISSEMENT\", CLIMATOSCEPTICISME: LA DROITE POINTÉE DU DOIGT POUR SA GESTION LOCALE DES INCENDIES EN ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:13",
+      "date": "29/07",
+      "timestamp": 1785320036
+    },
+    {
+      "id": "BFMTV_1785317436",
+      "source": "BFMTV",
+      "text": "ROBOTS HUMANOÏDES: PÉKIN ACCUSE WASHINGTON DE \"RÉPRIMER\" SES ENTREPRISES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:30",
+      "date": "29/07",
+      "timestamp": 1785317436
+    },
+    {
+      "id": "BFMTV_1785316708",
+      "source": "BFMTV",
+      "text": "CHYPRE: ANTÓNIO GUTERRES PROPOSE UNE RÉUNION AVEC LES DEUX PARTIES ET LES \"GARANTS\" DE L'ÎLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:18",
+      "date": "29/07",
+      "timestamp": 1785316708
+    },
+    {
+      "id": "BFMTV_1785316381",
+      "source": "BFMTV",
+      "text": "CHYPRE: LE SECRÉTAIRE GÉNÉRAL DE L'ONU APPELLE GRECS ET TURCS À \"LA COOPÉRATION\" ET À \"LA PAIX\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:13",
+      "date": "29/07",
+      "timestamp": 1785316381
+    },
     {
       "id": "BFMTV_1785311588",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "20:19",
       "date": "26/07",
       "timestamp": 1785097147
-    },
-    {
-      "id": "BFMTV_1785087660",
-      "source": "BFMTV",
-      "text": "ATTAQUE CONTRE LA GAY PRIDE DE BERLIN: L'AUTEUR PRÉSUMÉ TUÉ PAR LA POLICE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:41",
-      "date": "26/07",
-      "timestamp": 1785087660
-    },
-    {
-      "id": "BFMTV_1785087660",
-      "source": "BFMTV",
-      "text": "ATTAQUE CONTRE LA PRIDE DE BERLIN: L'AUTEUR PRÉSUMÉ TUÉ PAR LA POLICE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:41",
-      "date": "26/07",
-      "timestamp": 1785087660
-    },
-    {
-      "id": "BFMTV_1785082352",
-      "source": "BFMTV",
-      "text": "ÉCOSSE: INCENDIE DANS LE PARC NATIONAL DES CAIRNGORMS, 600 HECTARES PARTIS EN FUMÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:12",
-      "date": "26/07",
-      "timestamp": 1785082352
-    },
-    {
-      "id": "BFMTV_1785072228",
-      "source": "BFMTV",
-      "text": "LIBAN: L'ARMÉE CONDAMNE LES ATTAQUES ISRAÉLIENNES EMPÊCHANT SON DÉPLOIEMENT DANS LE SUD",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:23",
-      "date": "26/07",
-      "timestamp": 1785072228
-    },
-    {
-      "id": "BFMTV_1785067841",
-      "source": "BFMTV",
-      "text": "\"DÉFENDRE L'INTÉRÊT NATIONAL AVANT TOUT AUTRE CHOSE\": LE PREMIER MINISTRE BRITANNIQUE ANDY BURNHAM PROMET DE TENIR TÊTE À DONALD TRUMP EN CAS DE DÉSACCORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:10",
-      "date": "26/07",
-      "timestamp": 1785067841
-    },
-    {
-      "id": "BFMTV_1785065499",
-      "source": "BFMTV",
-      "text": "GAY PRIDE DE BERLIN: UN VÉHICULE FONCE DANS LA FOULE, AU MOINS UN MORT ET 16 BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:31",
-      "date": "26/07",
-      "timestamp": 1785065499
-    },
-    {
-      "id": "OPEX360_1785062834",
-      "source": "OPEX360",
-      "text": "LA BRITISH ARMY VA COMMANDER DES DRONES TACTIQUES TEKEVER AR5 POUR REMPLACER SES WATCHKEEPER",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:47",
-      "date": "26/07",
-      "timestamp": 1785062834
-    },
-    {
-      "id": "OPEX360_1785059794",
-      "source": "OPEX360",
-      "text": "AVEC SES RAFALE M VIEILLISSANTS, L’AÉRONAVALE FRANÇAISE S’ATTEND À UNE SITUATION «SENSIBLE ET DIFFICILE À GÉRER»",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:56",
-      "date": "26/07",
-      "timestamp": 1785059794
-    },
-    {
-      "id": "BFMTV_1785058762",
-      "source": "BFMTV",
-      "text": "SES PARENTS AVAIENT DÉBOURSÉ PLUS DE 800.000 DOLLARS POUR FINANCER L'EXPÉRIENCE: ENQUÊTE EN CHINE APRÈS LA MORT DISSIMULÉE D'UNE FILLETTE LORS D'UNE THÉRAPIE GÉNIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:39",
-      "date": "26/07",
-      "timestamp": 1785058762
     }
   ],
   "france": {
