@@ -1,7 +1,17 @@
 {
-  "last_update": "29/07 16:51",
+  "last_update": "29/07 18:06",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1785346914",
+      "source": "OPEX360",
+      "text": "SINGAPOUR S’INTÉRESSE DE PRÈS AU PROJET D’AVION DE COMBAT DE 6E GÉNÉRATION MENÉ PAR LONDRES, ROME ET TOKYO",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:41",
+      "date": "29/07",
+      "timestamp": 1785346914
+    },
     {
       "id": "BFMTV_1785343664",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:58",
       "date": "27/07",
       "timestamp": 1785146338
-    },
-    {
-      "id": "BFMTV_1785143183",
-      "source": "BFMTV",
-      "text": "\"LANCÉS DANS LES CHAMPS\": EN ITALIE, DES CHATS UTILISÉS COMME TORCHES VIVANTES POUR PROPAGER DES INCENDIES",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:06",
-      "date": "27/07",
-      "timestamp": 1785143183
     }
   ],
   "france": {
