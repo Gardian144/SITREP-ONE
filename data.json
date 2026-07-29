@@ -1,7 +1,47 @@
 {
-  "last_update": "29/07 15:28",
+  "last_update": "29/07 16:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785343664",
+      "source": "BFMTV",
+      "text": "COVID-19: L'EX-CONSEILLER MÉDICAL DE LA MAISON BLANCHE ANTHONY FAUCI REFUSE DE RÉPONDRE AU SÉNAT AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:47",
+      "date": "29/07",
+      "timestamp": 1785343664
+    },
+    {
+      "id": "OPEX360_1785341730",
+      "source": "OPEX360",
+      "text": "LA BELGIQUE VA-T-ELLE AUSSI SE PROCURER DES AVIONS DE TRANSPORT C-390 MILLENIUM AUPRÈS DU BRÉSILIEN EMBRAER ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:15",
+      "date": "29/07",
+      "timestamp": 1785341730
+    },
+    {
+      "id": "BFMTV_1785341075",
+      "source": "BFMTV",
+      "text": "CALIFORNIE: UN AVION ATTERRIT EN URGENCE SUR LA PLAGE APRÈS UNE PANNE DU MOTEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:04",
+      "date": "29/07",
+      "timestamp": 1785341075
+    },
+    {
+      "id": "BFMTV_1785340480",
+      "source": "BFMTV",
+      "text": "\"ILS VONT PRENDRE UNE RACLÉE\": DONALD TRUMP AVERTIT QU'IL VA FRAPPER \"FORT\" L'IRAN, APRÈS DES ATTAQUES CONTRE DES BASES AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:54",
+      "date": "29/07",
+      "timestamp": 1785340480
+    },
     {
       "id": "BFMTV_1785336949",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "09:06",
       "date": "27/07",
       "timestamp": 1785143183
-    },
-    {
-      "id": "BFMTV_1785141611",
-      "source": "BFMTV",
-      "text": "CE QUE L'ON SAIT DE L'ATTAQUE TERRORISTE LORS DE LA MARCHE DES FIERTÉS À BERLIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:40",
-      "date": "27/07",
-      "timestamp": 1785141611
-    },
-    {
-      "id": "BFMTV_1785140840",
-      "source": "BFMTV",
-      "text": "L'IRAN A CONVOQUÉ L'AMBASSADEUR FRANÇAIS POUR \"INGÉRENCE\", LA FRANCE SOMMÉE DE \"CESSER DE TELLES ACTIONS\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "08:27",
-      "date": "27/07",
-      "timestamp": 1785140840
-    },
-    {
-      "id": "BFMTV_1785138820",
-      "source": "BFMTV",
-      "text": "\"C'EST UNE TRAGÉDIE\": DES TIRS À SEATTLE FONT AU MOINS TROIS MORTS ET PLUSIEURS BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:53",
-      "date": "27/07",
-      "timestamp": 1785138820
-    },
-    {
-      "id": "BFMTV_1785135558",
-      "source": "BFMTV",
-      "text": "LE BRÉSIL RAPPELLE SON AMBASSADEUR EN ARGENTINE APRÈS DES \"PROPOS OFFENSANTS\" DE JAVIER MILEI",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:59",
-      "date": "27/07",
-      "timestamp": 1785135558
     }
   ],
   "france": {
