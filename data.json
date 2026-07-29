@@ -1,7 +1,37 @@
 {
-  "last_update": "29/07 03:28",
+  "last_update": "29/07 06:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785304916",
+      "source": "BFMTV",
+      "text": "IL EST ACCUSÉ DE COMPLICITÉ DE \"TERRORISME\": LE PATRON DE TÉLÉGRAM VISÉ PAR UN AVIS DE RECHERCHE INTERNATIONAL LANCÉ PAR LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:01",
+      "date": "29/07",
+      "timestamp": 1785304916
+    },
+    {
+      "id": "BFMTV_1785299585",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: APRÈS PLUSIEURS NUITS D'ACCALMIE, LES ÉTATS-UNIS ET L'IRAN ONT REPRIS LES HOSTILITÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:33",
+      "date": "29/07",
+      "timestamp": 1785299585
+    },
+    {
+      "id": "BFMTV_1785297174",
+      "source": "BFMTV",
+      "text": "AU MOINS 13 MORTS, DES DIZAINES DE DISPARUS RECHERCHÉS... LE JAPON TOUJOURS SOUS LE CHOC APRÈS LE VIOLENT SÉISME",
+      "urgent": false,
+      "france_related": false,
+      "time": "03:52",
+      "date": "29/07",
+      "timestamp": 1785297174
+    },
     {
       "id": "BFMTV_1785275199",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "04:52",
       "date": "26/07",
       "timestamp": 1785041553
-    },
-    {
-      "id": "BFMTV_1785013678",
-      "source": "BFMTV",
-      "text": "PLUSIEURS BLESSÉS EN MARGE DE LA GAY PRIDE À BERLIN APRÈS UN PROBABLE INCIDENT IMPLIQUANT UNE VOITURE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:07",
-      "date": "25/07",
-      "timestamp": 1785013678
-    },
-    {
-      "id": "BFMTV_1785013678",
-      "source": "BFMTV",
-      "text": "GAY PRIDE DE BERLIN: UN MORT ET UNE QUINZAINE DE BLESSÉS APRÈS UN INCIDENT IMPLIQUANT UN VÉHICULE, LE OU LES AUTEURS EN FUITE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:07",
-      "date": "25/07",
-      "timestamp": 1785013678
-    },
-    {
-      "id": "BFMTV_1785000982",
-      "source": "BFMTV",
-      "text": "\"MA MUSIQUE EST FAITE POUR RASSEMBLER LES GENS\": KATY PERRY DÉNONCE L'UTILISATION DE SON TITRE \"FIREWORKS\" DANS UNE VIDÉO DE LA MAISON BLANCHE SUR LA GUERRE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:36",
-      "date": "25/07",
-      "timestamp": 1785000982
     }
   ],
   "france": {
