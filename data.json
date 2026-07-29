@@ -1,11 +1,71 @@
 {
-  "last_update": "29/07 06:14",
+  "last_update": "29/07 09:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785311588",
+      "source": "BFMTV",
+      "text": "DISPARITION DE TIPHAINE VÉRON EN 2018: \"LE COMBAT CONTINUE\", DIT SON FRÈRE DEPUIS LE JAPON",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:53",
+      "date": "29/07",
+      "timestamp": 1785311588
+    },
+    {
+      "id": "BFMTV_1785311509",
+      "source": "BFMTV",
+      "text": "DISPARITION DE TIPHAINE VÉRON EN 2018: UNE STATUE DÉVOILÉE AU JAPON EN MÉMOIRE DE LA FRANÇAISE",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:51",
+      "date": "29/07",
+      "timestamp": 1785311509
+    },
+    {
+      "id": "BFMTV_1785309499",
+      "source": "BFMTV",
+      "text": "\"L'INITIATIVE N'EST PLUS ENTRE LES MAINS DE POUTINE\": À WASHINGTON, ZELENSKY JUGE QUE LA RUSSIE N'A PLUS L'AVANTAGE DANS LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:18",
+      "date": "29/07",
+      "timestamp": 1785309499
+    },
+    {
+      "id": "BFMTV_1785307662",
+      "source": "BFMTV",
+      "text": "DISPARITION DE TIPHAINE VÉRON EN 2018: LES AUTORITÉS FRANÇAISES SOUTIENNENT \"AU PLUS HAUT NIVEAU\" SA FAMILLE",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:47",
+      "date": "29/07",
+      "timestamp": 1785307662
+    },
+    {
+      "id": "BFMTV_1785306433",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DIT AVOIR \"PARTAGÉ CE DONT NOUS AVONS BESOIN\" AVEC DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:27",
+      "date": "29/07",
+      "timestamp": 1785306433
+    },
     {
       "id": "BFMTV_1785304916",
       "source": "BFMTV",
       "text": "IL EST ACCUSÉ DE COMPLICITÉ DE \"TERRORISME\": LE PATRON DE TÉLÉGRAM VISÉ PAR UN AVIS DE RECHERCHE INTERNATIONAL LANCÉ PAR LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:01",
+      "date": "29/07",
+      "timestamp": 1785304916
+    },
+    {
+      "id": "BFMTV_1785304916",
+      "source": "BFMTV",
+      "text": "IL EST ACCUSÉ DE COMPLICITÉ DE \"TERRORISME\": LE PATRON DE TELEGRAM VISÉ PAR UN AVIS DE RECHERCHE INTERNATIONAL LANCÉ PAR LA RUSSIE",
       "urgent": false,
       "france_related": false,
       "time": "06:01",
@@ -941,66 +1001,6 @@
       "time": "09:39",
       "date": "26/07",
       "timestamp": 1785058762
-    },
-    {
-      "id": "BFMTV_1785053679",
-      "source": "BFMTV",
-      "text": "INCENDIES: UN FEU HORS DE CONTRÔLE PRÈS DE VALENCE, EN ESPAGNE, 15.000 PERSONNES ÉVACUÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:14",
-      "date": "26/07",
-      "timestamp": 1785053679
-    },
-    {
-      "id": "BFMTV_1785052918",
-      "source": "BFMTV",
-      "text": "CONNU DE LA POLICE, LIÉ AU \"MILIEU ISLAMISTE\"... CE QUE L'ON SAIT DE L'HOMME SUSPECTÉ D'AVOIR FONCÉ EN VOITURE DANS LA MARCHE DES FIERTÉS À BERLIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:01",
-      "date": "26/07",
-      "timestamp": 1785052918
-    },
-    {
-      "id": "BFMTV_1785052918",
-      "source": "BFMTV",
-      "text": "CONNU DE LA POLICE, LIÉ AU \"MILIEU ISLAMISTE\"... CE QUE L'ON SAIT DU SUSPECT ISLAMISTE TUÉ PAR LA POLICE APRÈS UNE ATTAQUE À LA VOITURE-BÉLIER EN MARGE DE LA MARCHE DES FIERTÉS À BERLIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:01",
-      "date": "26/07",
-      "timestamp": 1785052918
-    },
-    {
-      "id": "BFMTV_1785050892",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN PRÉVIENT QUE LE CONFLIT VA \"S'ÉTENDRE ENCORE\" SI LES ATTAQUES AMÉRICAINES REPRENNENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:28",
-      "date": "26/07",
-      "timestamp": 1785050892
-    },
-    {
-      "id": "BFMTV_1785042052",
-      "source": "BFMTV",
-      "text": "UN MORT, UN SUSPECT LIÉ AU \"MILIEU ISLAMISTE\" IDENTIFIÉ... CE QUE L'ON SAIT SUR LE VÉHICULE QUI A FONCÉ DANS LA FOULE À LA MARCHE DES FIERTÉS DE BERLIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:00",
-      "date": "26/07",
-      "timestamp": 1785042052
-    },
-    {
-      "id": "BFMTV_1785041553",
-      "source": "BFMTV",
-      "text": "INCENDIES EN ESPAGNE: LES AUTORITÉS ONT ORDONNÉ L'ÉVACUATION DE HUIT NOUVELLES MUNICIPALITÉS PRÈS DE TOLÈDE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:52",
-      "date": "26/07",
-      "timestamp": 1785041553
     }
   ],
   "france": {
