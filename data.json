@@ -1,7 +1,47 @@
 {
-  "last_update": "30/07 04:20",
+  "last_update": "30/07 07:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785392641",
+      "source": "BFMTV",
+      "text": "ACCUSÉ D'AVOIR LÉCHÉ UNE PAILLE AVANT DE LA REMETTRE DANS UN DISTRIBUTEUR, UN ÉTUDIANT FRANÇAIS CONDAMNÉ À UNE AMENDE DE 400 EUROS À SINGAPOUR",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:24",
+      "date": "30/07",
+      "timestamp": 1785392641
+    },
+    {
+      "id": "BFMTV_1785392211",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: TROIS MORTS SUITE À DES FRAPPES AMÉRICAINES, DONT UN ENFANT DE 2 ANS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:16",
+      "date": "30/07",
+      "timestamp": 1785392211
+    },
+    {
+      "id": "BFMTV_1785390552",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS HUIT MORTS DANS DES BOMBARDEMENTS RUSSES, DONT SIX MEMBRES D'UNE MÊME FAMILLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:49",
+      "date": "30/07",
+      "timestamp": 1785390552
+    },
+    {
+      "id": "BFMTV_1785388321",
+      "source": "BFMTV",
+      "text": "SÉISME AU JAPON: LE BILAN S'ALOURDIT ET ATTEINT 30 MORTS, DES MILLIERS DE FOYERS TOUJOURS PRIVÉS D'EAU ET D'ÉLECTRICITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:12",
+      "date": "30/07",
+      "timestamp": 1785388321
+    },
     {
       "id": "BFMTV_1785383499",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "15:49",
       "date": "27/07",
       "timestamp": 1785167394
-    },
-    {
-      "id": "BFMTV_1785166095",
-      "source": "BFMTV",
-      "text": "UN CLUB DE COURSE À BALI ACCUSÉ D'EXCLURE LES INDONÉSIENS FAIT POLÉMIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:28",
-      "date": "27/07",
-      "timestamp": 1785166095
-    },
-    {
-      "id": "OPEX360_1785162523",
-      "source": "OPEX360",
-      "text": "LE GÉNÉRAL PATRICK JUSTEL VA PRENDRE LES RÊNES DE LA DIRECTION DU RENSEIGNEMENT MILITAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:28",
-      "date": "27/07",
-      "timestamp": 1785162523
-    },
-    {
-      "id": "BFMTV_1785159727",
-      "source": "BFMTV",
-      "text": "PRÉSIDENTIELLE AU BRÉSIL: FLAVIO BOLSONARO LANCE SA CAMPAGNE CONTRE LE PRÉSIDENT LULA",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:42",
-      "date": "27/07",
-      "timestamp": 1785159727
-    },
-    {
-      "id": "BFMTV_1785158041",
-      "source": "BFMTV",
-      "text": "RUSSIE: UNE ATTAQUE DE DRONES UKRAINIENNE FAIT CINQ MORTS DONT UN ENFANT",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:14",
-      "date": "27/07",
-      "timestamp": 1785158041
     }
   ],
   "france": {
