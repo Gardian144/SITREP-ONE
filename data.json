@@ -1,7 +1,37 @@
 {
-  "last_update": "30/07 11:33",
+  "last_update": "30/07 13:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785416377",
+      "source": "BFMTV",
+      "text": "DRONES, SATELLITES, RÉPRESSION... COMMENT LA GRÈCE A CHANGÉ DE STRATÉGIE POUR LUTTER CONTRE LES INCENDIES",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:59",
+      "date": "30/07",
+      "timestamp": 1785416377
+    },
+    {
+      "id": "BFMTV_1785412280",
+      "source": "BFMTV",
+      "text": "INCENDIES: L'UNION EUROPÉENNE DOIT SE \"DONNER LES MOYENS DE FAIRE FACE À CES CATASTROPHES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:51",
+      "date": "30/07",
+      "timestamp": 1785412280
+    },
+    {
+      "id": "OPEX360_1785412005",
+      "source": "OPEX360",
+      "text": "LOCKHEED MARTIN OBTIENT UN CONTRAT DE 53,9 MILLIARDS DE DOLLARS POUR LIVRER DES MISSILES PAC-3 MSE AU PENTAGONE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:46",
+      "date": "30/07",
+      "timestamp": 1785412005
+    },
     {
       "id": "BFMTV_1785409092",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:29",
       "date": "27/07",
       "timestamp": 1785173346
-    },
-    {
-      "id": "BFMTV_1785173048",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ESTIME QU'IL EXISTE \"DE BONNES CHANCES\" QUE LES DISCUSSIONS AVEC L'IRAN ABOUTISSENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:24",
-      "date": "27/07",
-      "timestamp": 1785173048
-    },
-    {
-      "id": "OPEX360_1785172801",
-      "source": "OPEX360",
-      "text": "SAAB SIGNE UN CONTRAT DE 915 MILLIONS D’EUROS POUR LIVRER DEUX AVIONS D’ALERTE AVANCÉE GLOBALEYE À UN CLIENT «MYSTÈRE»",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:20",
-      "date": "27/07",
-      "timestamp": 1785172801
-    },
-    {
-      "id": "BFMTV_1785172000",
-      "source": "BFMTV",
-      "text": "JÉRÔME BONNAFONT DÉNONCE UNE \"OFFENSIVE TRÈS CALCULÉE QUE LA RUSSIE LANCE DE MANIÈRE RENOUVELÉE, CONTRE LES EXPORTATIONS AGRICOLES DE L'UKRAINE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:06",
-      "date": "27/07",
-      "timestamp": 1785172000
     }
   ],
   "france": {
