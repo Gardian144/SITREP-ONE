@@ -1,7 +1,27 @@
 {
-  "last_update": "30/07 09:42",
+  "last_update": "30/07 11:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785409092",
+      "source": "BFMTV",
+      "text": "APRÈS LA FRANCE, DES INCENDIES FRAPPENT LA GRÈCE ET L'ANGLETERRE",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:58",
+      "date": "30/07",
+      "timestamp": 1785409092
+    },
+    {
+      "id": "OPEX360_1785406526",
+      "source": "OPEX360",
+      "text": "LONDRES DÉBLOQUE PRÈS DE 10 MILLIARDS D’EUROS DE PLUS POUR SES FUTURS SOUS-MARINS NUCLÉAIRES LANCEURS D’ENGINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:15",
+      "date": "30/07",
+      "timestamp": 1785406526
+    },
     {
       "id": "BFMTV_1785401772",
       "source": "BFMTV",
@@ -66,6 +86,16 @@
       "id": "BFMTV_1785390552",
       "source": "BFMTV",
       "text": "GUERRE EN UKRAINE: AU MOINS HUIT MORTS DANS DES BOMBARDEMENTS RUSSES, DONT SIX MEMBRES D'UNE MÊME FAMILLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:49",
+      "date": "30/07",
+      "timestamp": 1785390552
+    },
+    {
+      "id": "BFMTV_1785390552",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS HUIT MORTS DANS DES BOMBARDEMENTS, EMMANUEL MACRON CONDAMNE \"AVEC LA PLUS GRANDE FERMETÉ LES FRAPPES RUSSES\"",
       "urgent": true,
       "france_related": false,
       "time": "05:49",
@@ -971,36 +1001,6 @@
       "time": "17:06",
       "date": "27/07",
       "timestamp": 1785172000
-    },
-    {
-      "id": "BFMTV_1785171868",
-      "source": "BFMTV",
-      "text": "\"IL RESTE DES HEURES COMPLEXES\": LE PREMIER MINISTRE PEDRO SÁNCHEZ CRAINT QUE LES INCENDIES PRÈS DE MADRID NE GAGNENT EN INTENSITÉ AVANT LA NOUVELLE VAGUE DE CHALEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:04",
-      "date": "27/07",
-      "timestamp": 1785171868
-    },
-    {
-      "id": "BFMTV_1785171452",
-      "source": "BFMTV",
-      "text": "À L’ONU, LA FRANCE ACCUSE MOSCOU D’ACCROÎTRE \"SA POLITIQUE D'ATTAQUES AÉRIENNES MASSIVES SUR LES GRANDES VILLES UKRAINIENNES\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "16:57",
-      "date": "27/07",
-      "timestamp": 1785171452
-    },
-    {
-      "id": "BFMTV_1785170249",
-      "source": "BFMTV",
-      "text": "\"NOTRE RELATION AVEC LE ROYAUME-UNI EST PLUS FORTE QUE JAMAIS\", AFFIRME VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:37",
-      "date": "27/07",
-      "timestamp": 1785170249
     }
   ],
   "france": {
