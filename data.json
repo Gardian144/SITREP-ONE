@@ -1,7 +1,67 @@
 {
-  "last_update": "30/07 13:14",
+  "last_update": "30/07 15:25",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1785424289",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT A REÇU LE PREMIER NH90 «FORCES SPÉCIALES» DE SÉRIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:11",
+      "date": "30/07",
+      "timestamp": 1785424289
+    },
+    {
+      "id": "BFMTV_1785423700",
+      "source": "BFMTV",
+      "text": "OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:01",
+      "date": "30/07",
+      "timestamp": 1785423700
+    },
+    {
+      "id": "BFMTV_1785423699",
+      "source": "BFMTV",
+      "text": "\"VIOLATION DE L'ESPACE AÉRIEN POLONAIS\": L'OTAN EN \"CONTACT ÉTROIT\" AVEC VARSOVIE APRÈS LA CHUTE D'UN MISSILE PRÉSUMÉ RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:01",
+      "date": "30/07",
+      "timestamp": 1785423699
+    },
+    {
+      "id": "BFMTV_1785423397",
+      "source": "BFMTV",
+      "text": "\"LA CHALEUR ESTIVALE A UN IMPACT DE PLUS EN PLUS GRAVE\": 2.877 DÉCÈS LIÉS AUX CANICULES DE MAI ET JUIN RELEVÉS AU ROYAUME-UNI",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:56",
+      "date": "30/07",
+      "timestamp": 1785423397
+    },
+    {
+      "id": "BFMTV_1785423157",
+      "source": "BFMTV",
+      "text": "ESPAGNE: L'INCENDIE À LA FRONTIÈRE DU PORTUGAL A RAVAGÉ PLUS DE 11.000 HECTARES EN 24H",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:52",
+      "date": "30/07",
+      "timestamp": 1785423157
+    },
+    {
+      "id": "BFMTV_1785418376",
+      "source": "BFMTV",
+      "text": "COVID-19: LE DOCTEUR ANTHONY FAUCI REFUSE DE RÉPONDRE DEVANT LE SÉNAT AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:32",
+      "date": "30/07",
+      "timestamp": 1785418376
+    },
     {
       "id": "BFMTV_1785416377",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "18:41",
       "date": "27/07",
       "timestamp": 1785177694
-    },
-    {
-      "id": "BFMTV_1785176303",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: \"JE PENSE QU'IL Y A UNE BONNE CHANCE QUE QUELQUE CHOSE PUISSE SE PRODUIRE\", ESTIME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:18",
-      "date": "27/07",
-      "timestamp": 1785176303
-    },
-    {
-      "id": "BFMTV_1785175721",
-      "source": "BFMTV",
-      "text": "EN INDE, UN POLICIER TIRE SUR DES ÉTUDIANTS MANIFESTANTS AVEC UN AK-47",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:08",
-      "date": "27/07",
-      "timestamp": 1785175721
-    },
-    {
-      "id": "BFMTV_1785175537",
-      "source": "BFMTV",
-      "text": "CORPS CONSERVÉS PENDANT DES MOIS, CENDRES D'INCONNUS REMISES AUX FAMILLES... UN RESPONSABLE DE POMPES FUNÈBRES DEVANT LA JUSTICE BRITANNIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:05",
-      "date": "27/07",
-      "timestamp": 1785175537
-    },
-    {
-      "id": "BFMTV_1785174093",
-      "source": "BFMTV",
-      "text": "CONFLIT ISRAËL-IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:41",
-      "date": "27/07",
-      "timestamp": 1785174093
-    },
-    {
-      "id": "BFMTV_1785174092",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN, POUVOIR D'ACHAT, PRIX À LA POMPE... QUE DISENT LES SONDAGES DE DONALD TRUMP À QUELQUES MOIS D'ÉLECTIONS DÉCISIVES?",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:41",
-      "date": "27/07",
-      "timestamp": 1785174092
-    },
-    {
-      "id": "BFMTV_1785173346",
-      "source": "BFMTV",
-      "text": "\"CES DÉCLARATIONS HYPOCRITES NE SONT PLUS TOLÉRABLES\": À L’ONU, LES USA S’EN PRENNENT À LA FRANCE EN PLEIN CONSEIL DE SÉCURITÉ SUR L’UKRAINE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:29",
-      "date": "27/07",
-      "timestamp": 1785173346
     }
   ],
   "france": {
