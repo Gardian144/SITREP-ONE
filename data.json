@@ -1,7 +1,47 @@
 {
-  "last_update": "30/07 07:11",
+  "last_update": "30/07 09:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785401772",
+      "source": "BFMTV",
+      "text": "SINGAPOUR: ACCUSÉ D'AVOIR LÉCHÉ UNE PAILLE DANS UN DISTRIBUTEUR, UN FRANÇAIS CONDAMNÉ À UNE AMENDE",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:56",
+      "date": "30/07",
+      "timestamp": 1785401772
+    },
+    {
+      "id": "BFMTV_1785401477",
+      "source": "BFMTV",
+      "text": "GRÈCE: CRÈTE, PAROS, LESBOS... DES ÎLES RAVAGÉES PAR LES FLAMMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:51",
+      "date": "30/07",
+      "timestamp": 1785401477
+    },
+    {
+      "id": "BFMTV_1785399641",
+      "source": "BFMTV",
+      "text": "INCENDIES EN GRÈCE: QUELQUE 8.000 PERSONNES ÉVACUÉES EN CRÈTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:20",
+      "date": "30/07",
+      "timestamp": 1785399641
+    },
+    {
+      "id": "BFMTV_1785397095",
+      "source": "BFMTV",
+      "text": "SÉISME AU JAPON: LE BILAN S'ALOURDIT ET ATTEINT AU MOINS 34 MORTS, DES MILLIERS DE FOYERS TOUJOURS PRIVÉS D'EAU ET D'ÉLECTRICITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:38",
+      "date": "30/07",
+      "timestamp": 1785397095
+    },
     {
       "id": "BFMTV_1785392641",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "16:37",
       "date": "27/07",
       "timestamp": 1785170249
-    },
-    {
-      "id": "BFMTV_1785169740",
-      "source": "BFMTV",
-      "text": "\"UN MESSAGE TRÈS CLAIR. NOUS SOMMES À 100% AUX CÔTÉS DE L’UKRAINE\": ANDY BURNHAM REÇOIT VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:29",
-      "date": "27/07",
-      "timestamp": 1785169740
-    },
-    {
-      "id": "BFMTV_1785168912",
-      "source": "BFMTV",
-      "text": "\"MOSCOU NE CONNAÎT AUCUNE LIMITE, IL N'Y A PAS DE FRONTIÈRE QU'ELLE NE FRANCHISSE PAS\", DÉNONCE LE REPRÉSENTANT DE L'UKRAINE À L'ONU ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:15",
-      "date": "27/07",
-      "timestamp": 1785168912
-    },
-    {
-      "id": "OPEX360_1785167677",
-      "source": "OPEX360",
-      "text": "ARTILLERIE : LA GRÈCE ENVISAGERAIT D’ACQUÉRIR DES SYSTÈMES AMÉRICAINS M142 HIMARS FLEX AVEC LEURS MISSILES PRSM",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:54",
-      "date": "27/07",
-      "timestamp": 1785167677
-    },
-    {
-      "id": "BFMTV_1785167394",
-      "source": "BFMTV",
-      "text": "ATTAQUE CONTRE LA PRIDE DE BERLIN: LA PORTE DE BRANDEBOURG S'ILLUMINE AUX COULEURS DU DRAPEAU LGBT+",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:49",
-      "date": "27/07",
-      "timestamp": 1785167394
     }
   ],
   "france": {
