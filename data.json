@@ -1,7 +1,37 @@
 {
-  "last_update": "30/07 20:01",
+  "last_update": "30/07 21:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785445812",
+      "source": "BFMTV",
+      "text": "SÉISMES AU VENEZUELA: LE DYNAMITAGE DES IMMEUBLES TOUCHÉS A COMMENCÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:10",
+      "date": "30/07",
+      "timestamp": 1785445812
+    },
+    {
+      "id": "BFMTV_1785444890",
+      "source": "BFMTV",
+      "text": "LA MORT DE 15 ÉLÉPHANTS AU KENYA ATTRIBUÉ À L'ABSORPTION DU CYANURE CONTENU DANS DES PESTICIDES",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:54",
+      "date": "30/07",
+      "timestamp": 1785444890
+    },
+    {
+      "id": "BFMTV_1785441981",
+      "source": "BFMTV",
+      "text": "SEPT PERSONNES PORTÉES DISPARUES APRÈS L'EFFONDREMENT D'UN IMMEUBLE EN SICILE, TROIS BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:06",
+      "date": "30/07",
+      "timestamp": 1785441981
+    },
     {
       "id": "BFMTV_1785441147",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "08:28",
       "date": "28/07",
       "timestamp": 1785227300
-    },
-    {
-      "id": "BFMTV_1785224360",
-      "source": "BFMTV",
-      "text": "ALERTE TSUNAMI AU JAPON: UN PUISSANT SÉISME DE MAGNITUDE 7,1 SIGNALÉ, LES CENTRALES NUCLÉAIRES INSPECTÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:39",
-      "date": "28/07",
-      "timestamp": 1785224360
-    },
-    {
-      "id": "BFMTV_1785221782",
-      "source": "BFMTV",
-      "text": "MANIFESTATIONS EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:56",
-      "date": "28/07",
-      "timestamp": 1785221782
-    },
-    {
-      "id": "BFMTV_1785221781",
-      "source": "BFMTV",
-      "text": "IRAN: DEUX HOMMES, CONDAMNÉS POUR LEUR PARTICIPATION AUX MANIFESTATIONS, ONT ÉTÉ EXÉCUTÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:56",
-      "date": "28/07",
-      "timestamp": 1785221781
     }
   ],
   "france": {
