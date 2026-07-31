@@ -1,7 +1,57 @@
 {
-  "last_update": "31/07 03:43",
+  "last_update": "31/07 06:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785479248",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: DONALD TRUMP VEUT ENCOURAGER LES VÉTÉRANS À DEVENIR CHAUFFEUR ROUTIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:27",
+      "date": "31/07",
+      "timestamp": 1785479248
+    },
+    {
+      "id": "BFMTV_1785478002",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE CAMÉRA DE SÉCURITÉ FILME UNE FRAPPE RUSSE À PAVLOHRAD",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:06",
+      "date": "31/07",
+      "timestamp": 1785478002
+    },
+    {
+      "id": "BFMTV_1785476808",
+      "source": "BFMTV",
+      "text": "UN APPEL À TÉMOINS LANCÉ APRÈS L'INCENDIE EN CÔTE-D'OR, LA PISTE CRIMINELLE PRIVILÉGIÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:46",
+      "date": "31/07",
+      "timestamp": 1785476808
+    },
+    {
+      "id": "BFMTV_1785472777",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:39",
+      "date": "31/07",
+      "timestamp": 1785472777
+    },
+    {
+      "id": "BFMTV_1785472777",
+      "source": "BFMTV",
+      "text": "TRÊVE À GAZA: LE HAMAS ET DONALD TRUMP ANNONCENT UN ACCORD SUR LE DÉSARMEMENT EN VUE DU \"RETRAIT PROGRESSIF\" DES TROUPES ISRAÉLIENNES",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:39",
+      "date": "31/07",
+      "timestamp": 1785472777
+    },
     {
       "id": "BFMTV_1785445812",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "10:44",
       "date": "28/07",
       "timestamp": 1785235458
-    },
-    {
-      "id": "OPEX360_1785235041",
-      "source": "OPEX360",
-      "text": "GUERRE ÉLECTRONIQUE : THALES ET EVIDEN RENFORCENT LA RÉSILIENCE DES SYSTÈMES DE NAVIGATION DE L’ARMÉE DE TERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:37",
-      "date": "28/07",
-      "timestamp": 1785235041
-    },
-    {
-      "id": "BFMTV_1785233415",
-      "source": "BFMTV",
-      "text": "UN PUISSANT SÉISME DE MAGNITUDE 7,1 SECOUE LE JAPON",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:10",
-      "date": "28/07",
-      "timestamp": 1785233415
-    },
-    {
-      "id": "BFMTV_1785232778",
-      "source": "BFMTV",
-      "text": "DIRECT. SÉISME AU JAPON: AU MOINS 50 PERSONNES HOSPITALISÉES, UNE DÉFLAGRATION RAPPORTÉE DANS UN CENTRE COMMERCIAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:59",
-      "date": "28/07",
-      "timestamp": 1785232778
-    },
-    {
-      "id": "BFMTV_1785232362",
-      "source": "BFMTV",
-      "text": "ZINÉDINE ZIDANE \"ESPÈRE QUE CHRISTOPHE GLEIZES PUISSE RENTRER CHEZ LUI\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:52",
-      "date": "28/07",
-      "timestamp": 1785232362
-    },
-    {
-      "id": "BFMTV_1785227300",
-      "source": "BFMTV",
-      "text": "LES IMAGES DES DÉGÂTS APRÈS LE PASSAGE D'UNE TORNADE \"EXTRÊMEMENT DANGEREUSE\" QUI A BALAYÉ LE WISCONSIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:28",
-      "date": "28/07",
-      "timestamp": 1785227300
     }
   ],
   "france": {
