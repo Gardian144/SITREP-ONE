@@ -1,7 +1,27 @@
 {
-  "last_update": "31/07 17:52",
+  "last_update": "31/07 19:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785523699",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP COMPARE LA CRISE MIGRATOIRE À CEUTA À UNE \"INVASION\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:48",
+      "date": "31/07",
+      "timestamp": 1785523699
+    },
+    {
+      "id": "BFMTV_1785520858",
+      "source": "BFMTV",
+      "text": "RESPONSABILITÉ DU GOUVERNEMENT SÁNCHEZ, ESPACE SCHENGEN, \"INSTRUMENTALISATION\"...  LA CLASSE POLITIQUE FRANÇAISE RÉAGIT À L'AFFLUX MIGRATOIRE À CEUTA",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:00",
+      "date": "31/07",
+      "timestamp": 1785520858
+    },
     {
       "id": "BFMTV_1785519560",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "21:20",
       "date": "28/07",
       "timestamp": 1785273612
-    },
-    {
-      "id": "BFMTV_1785272806",
-      "source": "BFMTV",
-      "text": "L'ARABIE SAOUDITE ANNONCE AVOIR INTERCEPTÉ DES DRONES LANCÉS DEPUIS L'IRAK PAR DES GROUPES \"LIÉS À L'IRAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:06",
-      "date": "28/07",
-      "timestamp": 1785272806
-    },
-    {
-      "id": "BFMTV_1785266177",
-      "source": "BFMTV",
-      "text": "DISPARUS, MORTS, DÉGÂTS...RETOUR SUR LE SÉISME QUI A TOUCHÉ LE JAPON CE MARDI 28 JUILLET",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:16",
-      "date": "28/07",
-      "timestamp": 1785266177
     }
   ],
   "france": {
