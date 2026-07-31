@@ -1,7 +1,37 @@
 {
-  "last_update": "31/07 16:11",
+  "last_update": "31/07 17:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785519560",
+      "source": "BFMTV",
+      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: L'ITALIE FERME TEMPORAIREMENT SA FRONTIÈRE AVEC L'ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:39",
+      "date": "31/07",
+      "timestamp": 1785519560
+    },
+    {
+      "id": "OPEX360_1785517902",
+      "source": "OPEX360",
+      "text": "LA LIVRAISON DE SES FUTURS F-16 AYANT PRIS DU RETARD, LA BULGARIE DISPUTE LES ANCIENS MIG-29 POLONAIS À L’UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:11",
+      "date": "31/07",
+      "timestamp": 1785517902
+    },
+    {
+      "id": "BFMTV_1785517293",
+      "source": "BFMTV",
+      "text": "AFFLUX DE MIGRANTS À CEUTA: QUELS SONT LES PAYS QUI VEULENT QUE L'ESPAGNE SOIT EXCLUE DE L'ESPACE SCHENGEN?",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:01",
+      "date": "31/07",
+      "timestamp": 1785517293
+    },
     {
       "id": "BFMTV_1785514164",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "19:16",
       "date": "28/07",
       "timestamp": 1785266177
-    },
-    {
-      "id": "BFMTV_1785266130",
-      "source": "BFMTV",
-      "text": "\"IL VA BEAUCOUP ME MANQUER\": DONALD TRUMP REND HOMMAGE AU SÉNATEUR LINDSEY GRAHAM, L'UN DE SES PROCHES ALLIÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:15",
-      "date": "28/07",
-      "timestamp": 1785266130
-    },
-    {
-      "id": "BFMTV_1785266096",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSISTE AUX OBSÈQUES DU SÉNATEUR RÉPUBLICAIN LINDSEY GRAHAM",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:14",
-      "date": "28/07",
-      "timestamp": 1785266096
-    },
-    {
-      "id": "BFMTV_1785265173",
-      "source": "BFMTV",
-      "text": "INCENDIES EN ESPAGNE: MALGRÉ LA LEVÉE D'ORDRES D'ÉVACUATION DANS LA RÉGION DE MADRID, LA NOUVELLE VAGUE DE CHALEUR INQUIÈTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:59",
-      "date": "28/07",
-      "timestamp": 1785265173
     }
   ],
   "france": {
