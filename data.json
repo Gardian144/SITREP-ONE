@@ -1,7 +1,57 @@
 {
-  "last_update": "31/07 09:32",
+  "last_update": "31/07 11:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785498204",
+      "source": "BFMTV",
+      "text": "DIRECT. VAGUE MIGRATOIRE À CEUTA: PEDRO SÁNCHEZ ÉVOQUE \"UNE VIOLATION DE L'INTÉGRITÉ TERRITORIALE DE L'ESPAGNE\", LA FRANCE VA RENFORCER LES CONTRÔLES AUX FRONTIÈRES",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:43",
+      "date": "31/07",
+      "timestamp": 1785498204
+    },
+    {
+      "id": "BFMTV_1785496228",
+      "source": "BFMTV",
+      "text": "ESPAGNE: ENVIRON 40.000 MIGRANTS ONT TRAVERSÉ LA FRONTIÈRE À CEUTA, AU MOINS 18 SONT MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:10",
+      "date": "31/07",
+      "timestamp": 1785496228
+    },
+    {
+      "id": "BFMTV_1785494305",
+      "source": "BFMTV",
+      "text": "LE FAIBLE NIVEAU DU DANUBE RÉVÈLE DES OSSEMENTS DE MAMMOUTH EN BULGARIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:38",
+      "date": "31/07",
+      "timestamp": 1785494305
+    },
+    {
+      "id": "OPEX360_1785493995",
+      "source": "OPEX360",
+      "text": "L’AVION DE TRANSPORT A400M «ATLAS» PEUT AUSSI SE POSER SUR UNE ROUTE NATIONALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:33",
+      "date": "31/07",
+      "timestamp": 1785493995
+    },
+    {
+      "id": "BFMTV_1785493382",
+      "source": "BFMTV",
+      "text": "TOUT COMPRENDRE. AU MOINS 27 MORTS, MILITAIRES DÉPLOYÉS, CRISE AVEC L'ITALIE: L'ENCLAVE ESPAGNOLE DE CEUTA FACE À UNE ARRIVÉE DE MILLIERS DE MIGRANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:23",
+      "date": "31/07",
+      "timestamp": 1785493382
+    },
     {
       "id": "BFMTV_1785489906",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "14:28",
       "date": "28/07",
       "timestamp": 1785248922
-    },
-    {
-      "id": "BFMTV_1785245261",
-      "source": "BFMTV",
-      "text": "MAGNITUDE 7,1, AU MOINS 50 HOSPITALISATIONS, DÉFLAGRATION D'UN CENTRE COMMERCIAL... CE QUE L'ON SAIT DU SÉISME QUI A SECOUÉ LE JAPON MARDI",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:27",
-      "date": "28/07",
-      "timestamp": 1785245261
-    },
-    {
-      "id": "BFMTV_1785240764",
-      "source": "BFMTV",
-      "text": "JAPON: UN PUISSANT SÉISME ENTRAÎNE D'IMPORTANTS DÉGÂTS, PLUSIEURS DIZAINES DE BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:12",
-      "date": "28/07",
-      "timestamp": 1785240764
-    },
-    {
-      "id": "BFMTV_1785236987",
-      "source": "BFMTV",
-      "text": "DIRECT. SÉISME AU JAPON: \"DE NOMBREUSES PERSONNES\" PIÉGÉES APRÈS UNE EXPLOSION DANS UN CENTRE COMMERCIAL",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:09",
-      "date": "28/07",
-      "timestamp": 1785236987
-    },
-    {
-      "id": "BFMTV_1785236894",
-      "source": "BFMTV",
-      "text": "PORTUGAL, SLOVAQUIE, SUÈDE... DES SOUTIENS DE TOUTE L'EUROPE MOBILISÉS FACE AUX INCENDIES EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:08",
-      "date": "28/07",
-      "timestamp": 1785236894
-    },
-    {
-      "id": "BFMTV_1785235549",
-      "source": "BFMTV",
-      "text": "EN DÉPLACEMENT À CHYPRE, ANTÓNIO GUTERRES VEUT \"TROUVER UNE SOLUTION\" POUR L'ÎLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:45",
-      "date": "28/07",
-      "timestamp": 1785235549
     }
   ],
   "france": {
