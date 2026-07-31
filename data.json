@@ -1,7 +1,67 @@
 {
-  "last_update": "31/07 11:47",
+  "last_update": "31/07 14:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785506402",
+      "source": "BFMTV",
+      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: L'ITALIE RÉCLAME LA SUSPENSION DE L'ESPAGNE DE L'ESPACE SCHENGEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:00",
+      "date": "31/07",
+      "timestamp": 1785506402
+    },
+    {
+      "id": "OPEX360_1785505034",
+      "source": "OPEX360",
+      "text": "L’US NAVY ENGAGE 76,6 MILLIARDS DE DOLLARS POUR MODERNISER SES FLOTTES DE SOUS-MARINS NUCLÉAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:37",
+      "date": "31/07",
+      "timestamp": 1785505034
+    },
+    {
+      "id": "BFMTV_1785502072",
+      "source": "BFMTV",
+      "text": "CEUTA: PEDRO SÁNCHEZ ÉVOQUE \"UNE ATTAQUE, UNE VIOLATION DE L'INTÉGRITÉ TERRITORIALE DE L'ESPAGNE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:47",
+      "date": "31/07",
+      "timestamp": 1785502072
+    },
+    {
+      "id": "BFMTV_1785501920",
+      "source": "BFMTV",
+      "text": "TOUT COMPRENDRE. AU MOINS 34 MORTS, CRISE DIPLOMATIQUE AVEC L'ITALIE: L'ENCLAVE ESPAGNOLE DE CEUTA FACE À UNE ARRIVÉE DE MILLIERS DE MIGRANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:45",
+      "date": "31/07",
+      "timestamp": 1785501920
+    },
+    {
+      "id": "BFMTV_1785501686",
+      "source": "BFMTV",
+      "text": "AFFLUX DE MIGRANTS À CEUTA: EST-IL POSSIBLE D'EXCLURE L'ESPAGNE DE L'ESPACE SCHENGEN, COMME LE DEMANDE L'ITALIE?",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:41",
+      "date": "31/07",
+      "timestamp": 1785501686
+    },
+    {
+      "id": "BFMTV_1785498894",
+      "source": "BFMTV",
+      "text": "AU MOINS 25 MORTS ET 44 BLESSÉS APRÈS LA CHUTE D'UN AUTOCAR DANS UN RAVIN DANS LE NORD DE L'ALGÉRIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:54",
+      "date": "31/07",
+      "timestamp": 1785498894
+    },
     {
       "id": "BFMTV_1785498204",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "15:54",
       "date": "28/07",
       "timestamp": 1785254060
-    },
-    {
-      "id": "BFMTV_1785254060",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:54",
-      "date": "28/07",
-      "timestamp": 1785254060
-    },
-    {
-      "id": "BFMTV_1785252098",
-      "source": "BFMTV",
-      "text": "CISJORDANIE: L’ÉTAT DE PALESTINE APPELLE À TENIR ISRAËL RESPONSABLE DES VIOLENCES PERPÉTRÉES PAR LES COLONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:21",
-      "date": "28/07",
-      "timestamp": 1785252098
-    },
-    {
-      "id": "BFMTV_1785251136",
-      "source": "BFMTV",
-      "text": "\"TANT QUE LE HAMAS SERA PRÉSENT À GAZA, IL Y AURA DES RESTRICTIONS\", AVERTIT L'AMBASSADEUR D'ISRAËL À L'ONU ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:05",
-      "date": "28/07",
-      "timestamp": 1785251136
-    },
-    {
-      "id": "BFMTV_1785251042",
-      "source": "BFMTV",
-      "text": "LE CERCUEIL DU SÉNATEUR AMÉRICAIN LINDSAY GRAHAM ENTRE AU CAPITOLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:04",
-      "date": "28/07",
-      "timestamp": 1785251042
-    },
-    {
-      "id": "OPEX360_1785250168",
-      "source": "OPEX360",
-      "text": "L’AVIATION NAVALE ALLEMANDE VEUT RÉCUPÉRER UNE CAPACITÉ ANTINAVIRE EN DOTANT SES P-8A POSEIDON DE MISSILES JSM",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:49",
-      "date": "28/07",
-      "timestamp": 1785250168
-    },
-    {
-      "id": "BFMTV_1785248922",
-      "source": "BFMTV",
-      "text": "DIRECT. SÉISME AU JAPON: UN MORT DANS L'EFFONDREMENT D'UNE HABITATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:28",
-      "date": "28/07",
-      "timestamp": 1785248922
     }
   ],
   "france": {
