@@ -1,7 +1,17 @@
 {
-  "last_update": "01/08 10:21",
+  "last_update": "01/08 11:42",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1785582979",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES A LANCÉ UN APPEL D’OFFRES POUR SE PROCURER AU MOINS 57 500 SYSTÈMES DE CAMOUFLAGE LOKI",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:16",
+      "date": "01/08",
+      "timestamp": 1785582979
+    },
     {
       "id": "BFMTV_1785579608",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "11:00",
       "date": "29/07",
       "timestamp": 1785322805
-    },
-    {
-      "id": "OPEX360_1785322000",
-      "source": "OPEX360",
-      "text": "POUR LA PREMIÈRE FOIS, DES HÉLICOPTÈRES NH90 ESPAGNOLS VONT ÊTRE ENGAGÉS DANS UNE MISSION DE POLICE DU CIEL DE L’OTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:46",
-      "date": "29/07",
-      "timestamp": 1785322000
     }
   ],
   "france": {
