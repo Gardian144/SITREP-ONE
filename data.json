@@ -1,7 +1,47 @@
 {
-  "last_update": "01/08 08:41",
+  "last_update": "01/08 10:21",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785579608",
+      "source": "BFMTV",
+      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: AU MOINS 67 MIGRANTS SONT MORTS EN ESSAYANT D'ENTRER DANS L'ENCLAVE ESPAGNOLE, LA SITUATION \"QUASIMENT\" REVENUE À LA NORMALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:20",
+      "date": "01/08",
+      "timestamp": 1785579608
+    },
+    {
+      "id": "BFMTV_1785578829",
+      "source": "BFMTV",
+      "text": "CEUTA: L’ESPAGNE ASSURE QUE LA “QUASI-TOTALITÉ” DES MIGRANTS “SONT DÉJÀ RETOURNÉS AU MAROC\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:07",
+      "date": "01/08",
+      "timestamp": 1785578829
+    },
+    {
+      "id": "OPEX360_1785576898",
+      "source": "OPEX360",
+      "text": "UN CHASSEUR-BOMBARDIER F-35B DE L’US MARINE CORPS S’EST ÉCRASÉ SUR LA BASE DE MIRAMAR",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:34",
+      "date": "01/08",
+      "timestamp": 1785576898
+    },
+    {
+      "id": "BFMTV_1785574057",
+      "source": "BFMTV",
+      "text": "ENLÈVEMENT DE LA MÈRE D'UNE JOURNALISTE AUX ÉTATS-UNIS: LES ENQUÊTEURS PUBLIENT DEUX LETTRES ATTRIBUÉES AUX RAVISSEURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:47",
+      "date": "01/08",
+      "timestamp": 1785574057
+    },
     {
       "id": "BFMTV_1785573569",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "10:46",
       "date": "29/07",
       "timestamp": 1785322000
-    },
-    {
-      "id": "BFMTV_1785320720",
-      "source": "BFMTV",
-      "text": "INCENDIES EN EUROPE: L'ÎLE DE PAROS, EN GRÈCE, PARTIELLEMENT ÉVACUÉE EN RAISON D'UN FEU DE FORÊT",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:25",
-      "date": "29/07",
-      "timestamp": 1785320720
-    },
-    {
-      "id": "BFMTV_1785320036",
-      "source": "BFMTV",
-      "text": "\"SOUS-INVESTISSEMENT\", CLIMATOSCEPTICISME: LA DROITE POINTÉE DU DOIGT POUR SA GESTION LOCALE DES INCENDIES EN ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:13",
-      "date": "29/07",
-      "timestamp": 1785320036
-    },
-    {
-      "id": "BFMTV_1785317436",
-      "source": "BFMTV",
-      "text": "ROBOTS HUMANOÏDES: PÉKIN ACCUSE WASHINGTON DE \"RÉPRIMER\" SES ENTREPRISES",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:30",
-      "date": "29/07",
-      "timestamp": 1785317436
-    },
-    {
-      "id": "BFMTV_1785316708",
-      "source": "BFMTV",
-      "text": "CHYPRE: ANTÓNIO GUTERRES PROPOSE UNE RÉUNION AVEC LES DEUX PARTIES ET LES \"GARANTS\" DE L'ÎLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:18",
-      "date": "29/07",
-      "timestamp": 1785316708
     }
   ],
   "france": {
