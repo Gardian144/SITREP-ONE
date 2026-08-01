@@ -1,7 +1,47 @@
 {
-  "last_update": "01/08 19:55",
+  "last_update": "01/08 20:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785616974",
+      "source": "BFMTV",
+      "text": "MOSCOU EN RUSSIE: UNE EXPLOSION DANS UN CAFÉ FAIT TROIS MORTS ET PLUSIEURS BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:42",
+      "date": "01/08",
+      "timestamp": 1785616974
+    },
+    {
+      "id": "BFMTV_1785616750",
+      "source": "BFMTV",
+      "text": "RUSSIE: UNE EXPLOSION À MOSCOU FAIT TROIS MORTS ET PLUSIEURS BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:39",
+      "date": "01/08",
+      "timestamp": 1785616750
+    },
+    {
+      "id": "BFMTV_1785616164",
+      "source": "BFMTV",
+      "text": "SÉISME AU JAPON: LES AUTORITÉS ANNONCENT LA FIN DES OPÉRATIONS DE SECOURS DANS UN CENTRE COMMERCIAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:29",
+      "date": "01/08",
+      "timestamp": 1785616164
+    },
+    {
+      "id": "BFMTV_1785614722",
+      "source": "BFMTV",
+      "text": "UNE EXPLOSION DANS UN CAFÉ À MOSCOU FAIT TROIS MORTS ET 15 BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:05",
+      "date": "01/08",
+      "timestamp": 1785614722
+    },
     {
       "id": "BFMTV_1785607851",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "05:12",
       "date": "30/07",
       "timestamp": 1785388321
-    },
-    {
-      "id": "BFMTV_1785383499",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AVAIT PROMIS DE \"FRAPPER FORT\": \"DES DIZAINES\" DE CIBLES IRANIENNES ATTAQUÉES PAR LES ÉTATS-UNIS CETTE NUIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:51",
-      "date": "30/07",
-      "timestamp": 1785383499
-    },
-    {
-      "id": "BFMTV_1785357345",
-      "source": "BFMTV",
-      "text": "SEPT PERSONNES TUÉES EN ARGENTINE DANS L'ACCIDENT D'UN HÉLICOPTÈRE DE LUTTE CONTRE LES FEUX DE FORÊT",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:35",
-      "date": "29/07",
-      "timestamp": 1785357345
-    },
-    {
-      "id": "BFMTV_1785353971",
-      "source": "BFMTV",
-      "text": "\"UNE VRAIE DISPUTE DE FAMILLE\": LE PRÉSIDENT DE LA FED AMÉRICAINE RÉVÈLE LES COULISSES DU VOTE SUR LE MAINTIEN DES TAUX",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:39",
-      "date": "29/07",
-      "timestamp": 1785353971
-    },
-    {
-      "id": "BFMTV_1785353917",
-      "source": "BFMTV",
-      "text": "\"L'ÉCONOMIE FAIT PREUVE D'UNE SOLIDITÉ IMPRESSIONNANTE\": LA RÉSERVE FÉDÉRALE (FED) AMÉRICAINE MAINTIENT SES TAUX INCHANGÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:38",
-      "date": "29/07",
-      "timestamp": 1785353917
     }
   ],
   "france": {
