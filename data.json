@@ -1,7 +1,57 @@
 {
-  "last_update": "01/08 03:49",
+  "last_update": "01/08 06:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785559951",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:52",
+      "date": "01/08",
+      "timestamp": 1785559951
+    },
+    {
+      "id": "BFMTV_1785559951",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: NEUF MORTS À KIEV DANS UNE NOUVELLE ATTAQUE DE MISSILES RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:52",
+      "date": "01/08",
+      "timestamp": 1785559951
+    },
+    {
+      "id": "BFMTV_1785558694",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: L'ITALIE SUSPEND L'ESPAGNE DE SON ESPACE SCHENGEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:31",
+      "date": "01/08",
+      "timestamp": 1785558694
+    },
+    {
+      "id": "BFMTV_1785558566",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: D'APRÈS LES AUTORITÉS, PLUS DE 48.000 PERSONNES SONT RENTRÉES AU MAROC",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:29",
+      "date": "01/08",
+      "timestamp": 1785558566
+    },
+    {
+      "id": "BFMTV_1785556417",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: UN PÉTROLIER FRAPPÉ PAR UN \"PROJECTILE NON IDENTIFIÉ\" À L'ENTRÉE DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "03:53",
+      "date": "01/08",
+      "timestamp": 1785556417
+    },
     {
       "id": "BFMTV_1785534755",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "07:53",
       "date": "29/07",
       "timestamp": 1785311588
-    },
-    {
-      "id": "BFMTV_1785311509",
-      "source": "BFMTV",
-      "text": "DISPARITION DE TIPHAINE VÉRON EN 2018: UNE STATUE DÉVOILÉE AU JAPON EN MÉMOIRE DE LA FRANÇAISE",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:51",
-      "date": "29/07",
-      "timestamp": 1785311509
-    },
-    {
-      "id": "BFMTV_1785309499",
-      "source": "BFMTV",
-      "text": "\"L'INITIATIVE N'EST PLUS ENTRE LES MAINS DE POUTINE\": À WASHINGTON, ZELENSKY JUGE QUE LA RUSSIE N'A PLUS L'AVANTAGE DANS LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:18",
-      "date": "29/07",
-      "timestamp": 1785309499
-    },
-    {
-      "id": "BFMTV_1785307662",
-      "source": "BFMTV",
-      "text": "DISPARITION DE TIPHAINE VÉRON EN 2018: LES AUTORITÉS FRANÇAISES SOUTIENNENT \"AU PLUS HAUT NIVEAU\" SA FAMILLE",
-      "urgent": false,
-      "france_related": true,
-      "time": "06:47",
-      "date": "29/07",
-      "timestamp": 1785307662
-    },
-    {
-      "id": "BFMTV_1785306433",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DIT AVOIR \"PARTAGÉ CE DONT NOUS AVONS BESOIN\" AVEC DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:27",
-      "date": "29/07",
-      "timestamp": 1785306433
-    },
-    {
-      "id": "BFMTV_1785304916",
-      "source": "BFMTV",
-      "text": "IL EST ACCUSÉ DE COMPLICITÉ DE \"TERRORISME\": LE PATRON DE TÉLÉGRAM VISÉ PAR UN AVIS DE RECHERCHE INTERNATIONAL LANCÉ PAR LA RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:01",
-      "date": "29/07",
-      "timestamp": 1785304916
     }
   ],
   "france": {
