@@ -1,7 +1,67 @@
 {
-  "last_update": "01/08 12:39",
+  "last_update": "01/08 14:13",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785593066",
+      "source": "BFMTV",
+      "text": "ROME, MILAN, NAPLES... 25 DES 27 PLUS GRANDES VILLES ITALIENNES SERONT EN ALERTE ROUGE LUNDI À CAUSE DE LA VAGUE DE CHALEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:04",
+      "date": "01/08",
+      "timestamp": 1785593066
+    },
+    {
+      "id": "BFMTV_1785592188",
+      "source": "BFMTV",
+      "text": "\"PRENDRE POSITION POUR UN AVENIR SANS CRAINTES\": PLUS DE 100.000 PERSONNES À LA MARCHE DES FIERTÉS DE HAMBOURG, UNE SEMAINE APRÈS L'ATTENTAT À BERLIN",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:49",
+      "date": "01/08",
+      "timestamp": 1785592188
+    },
+    {
+      "id": "BFMTV_1785591910",
+      "source": "BFMTV",
+      "text": "POURQUOI L’UKRAINE VISE-T-ELLE LE GÉANT DE L’E-COMMERCE RUSSE WILDBERRIES?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:45",
+      "date": "01/08",
+      "timestamp": 1785591910
+    },
+    {
+      "id": "OPEX360_1785590404",
+      "source": "OPEX360",
+      "text": "SELON LEONARDO, L’AVION DE COMBAT DE 6E GÉNÉRATION GCAP POURRAIT ÊTRE OPÉRATIONNEL AVEC «QUELQUES ANNÉES» D’AVANCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:20",
+      "date": "01/08",
+      "timestamp": 1785590404
+    },
+    {
+      "id": "BFMTV_1785588808",
+      "source": "BFMTV",
+      "text": "CRISE À CEUTA: LES RETOURS VERS LE MAROC SE POURSUIVENT ",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:53",
+      "date": "01/08",
+      "timestamp": 1785588808
+    },
+    {
+      "id": "BFMTV_1785588302",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: 22 PAYS DE L'UE DEMANDENT DES DISCUSSIONS \"D'URGENCE\" DES MINISTRES DE L'INTÉRIEUR",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:45",
+      "date": "01/08",
+      "timestamp": 1785588302
+    },
     {
       "id": "BFMTV_1785586198",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "14:34",
       "date": "29/07",
       "timestamp": 1785335642
-    },
-    {
-      "id": "BFMTV_1785335311",
-      "source": "BFMTV",
-      "text": "GRÈCE: DEUX POMPIERS SONT MORTS EN COMBATTANT UN INCENDIE EN CRÈTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:28",
-      "date": "29/07",
-      "timestamp": 1785335311
-    },
-    {
-      "id": "BFMTV_1785330542",
-      "source": "BFMTV",
-      "text": "COVID-19: AUDITIONNÉ PAR DES SÉNATEURS AMÉRICAINS, L'ANCIEN CONSEILLER MÉDICAL DE LA MAISON BLANCHE REFUSE DE RÉPONDRE AUX QUESTIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:09",
-      "date": "29/07",
-      "timestamp": 1785330542
-    },
-    {
-      "id": "BFMTV_1785330446",
-      "source": "BFMTV",
-      "text": "IRAN: LA TÉLÉVISION D'ETAT FAIT ÉTAT DE FRAPPES AMÉRICAINES SUR LE NORD-OUEST DU PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:07",
-      "date": "29/07",
-      "timestamp": 1785330446
-    },
-    {
-      "id": "BFMTV_1785325173",
-      "source": "BFMTV",
-      "text": "LA MINISTRE PALESTINIENNE DES AFFAIRES ÉTRANGÈRES DEMANDE \"L'APPLICATION DU DROIT INTERNATIONAL\" ENVERS ISRAËL",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:39",
-      "date": "29/07",
-      "timestamp": 1785325173
-    },
-    {
-      "id": "BFMTV_1785324254",
-      "source": "BFMTV",
-      "text": "LE PREMIER MINISTRE BRITANNIQUE VEUT RÉFORMER LES AIDES AUX PERSONNES ÂGÉES ET VULNÉRABLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:24",
-      "date": "29/07",
-      "timestamp": 1785324254
-    },
-    {
-      "id": "BFMTV_1785322966",
-      "source": "BFMTV",
-      "text": "L'AUSTRALIE CONFIRME UNE TRANSMISSION LOCALE DE LA GRIPPE AVIAIRE H5",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:02",
-      "date": "29/07",
-      "timestamp": 1785322966
     }
   ],
   "france": {
