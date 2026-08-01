@@ -1,7 +1,57 @@
 {
-  "last_update": "01/08 20:51",
+  "last_update": "01/08 21:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785621081",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: LE ROI FELIPE VI EXPRIME SA \"PRÉOCCUPATION ET SON INDIGNATION\" FACE AUX \"GRAVES\" ÉVÉNEMENTS SURVENUS HIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:51",
+      "date": "01/08",
+      "timestamp": 1785621081
+    },
+    {
+      "id": "BFMTV_1785620938",
+      "source": "BFMTV",
+      "text": "PÉROU : AU MOINS 13 MORTS DANS LE CRASH D'UN AVION TRANSPORTANT DES TOURISTES AUX LIGNES DE NAZCA",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:48",
+      "date": "01/08",
+      "timestamp": 1785620938
+    },
+    {
+      "id": "BFMTV_1785619768",
+      "source": "BFMTV",
+      "text": "EXPLOSION À MOSCOU: LES IMAGES DE L'INTÉRIEUR DU CAFÉ VISÉ PAR UN \"ENGIN EXPLOSIF ARTISANAL\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:29",
+      "date": "01/08",
+      "timestamp": 1785619768
+    },
+    {
+      "id": "BFMTV_1785619605",
+      "source": "BFMTV",
+      "text": "EXPLOSION À MOSCOU: C'EST \"UNE INCONNUE\" QUI TRANSPORTAIT \"L'ENGIN EXPLOSIF ARTISANAL\", A INDIQUÉ LE COMITÉ ANTITERRORISTE RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:26",
+      "date": "01/08",
+      "timestamp": 1785619605
+    },
+    {
+      "id": "BFMTV_1785617545",
+      "source": "BFMTV",
+      "text": "MOSCOU: L'EXPLOSION MEURTRIÈRE DANS UN CAFÉ EST DUE À UN \"ENGIN EXPLOSIF ARTISANAL\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:52",
+      "date": "01/08",
+      "timestamp": 1785617545
+    },
     {
       "id": "BFMTV_1785616974",
       "source": "BFMTV",
@@ -46,6 +96,16 @@
       "id": "BFMTV_1785607851",
       "source": "BFMTV",
       "text": "TROIS MORTS ET 15 BLESSÉS DANS UNE EXPLOSION DANS UN CAFÉ À MOSCOU",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:10",
+      "date": "01/08",
+      "timestamp": 1785607851
+    },
+    {
+      "id": "BFMTV_1785607851",
+      "source": "BFMTV",
+      "text": "TROIS MORTS ET 21 BLESSÉS DANS UNE EXPLOSION DANS UN CAFÉ À MOSCOU, UN \"ENGIN EXPLOSIF ARTISANAL\" EN CAUSE",
       "urgent": true,
       "france_related": false,
       "time": "18:10",
@@ -941,66 +1001,6 @@
       "time": "08:20",
       "date": "30/07",
       "timestamp": 1785399641
-    },
-    {
-      "id": "BFMTV_1785397095",
-      "source": "BFMTV",
-      "text": "SÉISME AU JAPON: LE BILAN S'ALOURDIT ET ATTEINT AU MOINS 34 MORTS, DES MILLIERS DE FOYERS TOUJOURS PRIVÉS D'EAU ET D'ÉLECTRICITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:38",
-      "date": "30/07",
-      "timestamp": 1785397095
-    },
-    {
-      "id": "BFMTV_1785392641",
-      "source": "BFMTV",
-      "text": "ACCUSÉ D'AVOIR LÉCHÉ UNE PAILLE AVANT DE LA REMETTRE DANS UN DISTRIBUTEUR, UN ÉTUDIANT FRANÇAIS CONDAMNÉ À UNE AMENDE DE 400 EUROS À SINGAPOUR",
-      "urgent": false,
-      "france_related": true,
-      "time": "06:24",
-      "date": "30/07",
-      "timestamp": 1785392641
-    },
-    {
-      "id": "BFMTV_1785392211",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: TROIS MORTS SUITE À DES FRAPPES AMÉRICAINES, DONT UN ENFANT DE 2 ANS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:16",
-      "date": "30/07",
-      "timestamp": 1785392211
-    },
-    {
-      "id": "BFMTV_1785390552",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS HUIT MORTS DANS DES BOMBARDEMENTS RUSSES, DONT SIX MEMBRES D'UNE MÊME FAMILLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:49",
-      "date": "30/07",
-      "timestamp": 1785390552
-    },
-    {
-      "id": "BFMTV_1785390552",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS HUIT MORTS DANS DES BOMBARDEMENTS, EMMANUEL MACRON CONDAMNE \"AVEC LA PLUS GRANDE FERMETÉ LES FRAPPES RUSSES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:49",
-      "date": "30/07",
-      "timestamp": 1785390552
-    },
-    {
-      "id": "BFMTV_1785388321",
-      "source": "BFMTV",
-      "text": "SÉISME AU JAPON: LE BILAN S'ALOURDIT ET ATTEINT 30 MORTS, DES MILLIERS DE FOYERS TOUJOURS PRIVÉS D'EAU ET D'ÉLECTRICITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:12",
-      "date": "30/07",
-      "timestamp": 1785388321
     }
   ],
   "france": {
