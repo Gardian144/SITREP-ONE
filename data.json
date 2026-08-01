@@ -1,7 +1,47 @@
 {
-  "last_update": "01/08 15:28",
+  "last_update": "01/08 16:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785600967",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL - HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:16",
+      "date": "01/08",
+      "timestamp": 1785600967
+    },
+    {
+      "id": "BFMTV_1785600966",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: MALGRÉ LE CESSEZ-LE-FEU, L'ARMÉE ISRAÉLIENNE ANNONCE AVOIR TUÉ PLUSIEURS MEMBRES DU HEZBOLLAH DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:16",
+      "date": "01/08",
+      "timestamp": 1785600966
+    },
+    {
+      "id": "BFMTV_1785598587",
+      "source": "BFMTV",
+      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: \"PRESQUE\" TOUS LES MIGRANTS SONT RENTRÉS AU MAROC, RÉUNION MARDI DES MINISTRES DE L'INTÉRIEUR DE L'UE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:36",
+      "date": "01/08",
+      "timestamp": 1785598587
+    },
+    {
+      "id": "BFMTV_1785598407",
+      "source": "BFMTV",
+      "text": "UNE FACTRICE AMÉRICAINE ARRÊTÉE APRÈS AVOIR VOLÉ UN BILLET DE LOTERIE GAGNANT QUE SON PROPRIÉTAIRE AVAIT ENVOYÉ À UN PROCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:33",
+      "date": "01/08",
+      "timestamp": 1785598407
+    },
     {
       "id": "BFMTV_1785596357",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "16:47",
       "date": "29/07",
       "timestamp": 1785343664
-    },
-    {
-      "id": "OPEX360_1785341730",
-      "source": "OPEX360",
-      "text": "LA BELGIQUE VA-T-ELLE AUSSI SE PROCURER DES AVIONS DE TRANSPORT C-390 MILLENIUM AUPRÈS DU BRÉSILIEN EMBRAER ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:15",
-      "date": "29/07",
-      "timestamp": 1785341730
-    },
-    {
-      "id": "BFMTV_1785341075",
-      "source": "BFMTV",
-      "text": "CALIFORNIE: UN AVION ATTERRIT EN URGENCE SUR LA PLAGE APRÈS UNE PANNE DU MOTEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:04",
-      "date": "29/07",
-      "timestamp": 1785341075
-    },
-    {
-      "id": "BFMTV_1785340480",
-      "source": "BFMTV",
-      "text": "\"ILS VONT PRENDRE UNE RACLÉE\": DONALD TRUMP AVERTIT QU'IL VA FRAPPER \"FORT\" L'IRAN, APRÈS DES ATTAQUES CONTRE DES BASES AMÉRICAINES",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:54",
-      "date": "29/07",
-      "timestamp": 1785340480
-    },
-    {
-      "id": "BFMTV_1785336949",
-      "source": "BFMTV",
-      "text": "INCENDIES EN FRANCE: LA BELGIQUE ENVOIE DES MILITAIRES ET DU MATÉRIEL SPÉCIALISÉ POUR CONTRIBUER À LA LUTTE CONTRE LES FEUX EN GIRONDE",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:55",
-      "date": "29/07",
-      "timestamp": 1785336949
     }
   ],
   "france": {
