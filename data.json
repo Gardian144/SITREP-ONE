@@ -1,7 +1,37 @@
 {
-  "last_update": "01/08 17:34",
+  "last_update": "01/08 18:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785607851",
+      "source": "BFMTV",
+      "text": "TROIS MORTS ET 15 BLESSÉS DANS UNE EXPLOSION DANS UN CAFÉ À MOSCOU",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:10",
+      "date": "01/08",
+      "timestamp": 1785607851
+    },
+    {
+      "id": "BFMTV_1785606812",
+      "source": "BFMTV",
+      "text": "A SIX JOURS DE L'INVESTITURE DU NOUVEAU PRÉSIDENT COLOMBIEN, QUI A PROMIS D'INTENSIFIER LA LUTTE CONTRE LES GUÉRILLAS, L'EXPLOSION D'UN CAMION PIÉGÉ FAIT 11 BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:53",
+      "date": "01/08",
+      "timestamp": 1785606812
+    },
+    {
+      "id": "BFMTV_1785604795",
+      "source": "BFMTV",
+      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: LE ROI FELIPE VI EXPRIME SA \"PRÉOCCUPATION ET SON INDIGNATION\" FACE AUX \"GRAVES\" ÉVÉNEMENTS SURVENUS HIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:19",
+      "date": "01/08",
+      "timestamp": 1785604795
+    },
     {
       "id": "BFMTV_1785600967",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "19:38",
       "date": "29/07",
       "timestamp": 1785353917
-    },
-    {
-      "id": "OPEX360_1785346914",
-      "source": "OPEX360",
-      "text": "SINGAPOUR S’INTÉRESSE DE PRÈS AU PROJET D’AVION DE COMBAT DE 6E GÉNÉRATION MENÉ PAR LONDRES, ROME ET TOKYO",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:41",
-      "date": "29/07",
-      "timestamp": 1785346914
-    },
-    {
-      "id": "BFMTV_1785345759",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:22",
-      "date": "29/07",
-      "timestamp": 1785345759
-    },
-    {
-      "id": "BFMTV_1785343664",
-      "source": "BFMTV",
-      "text": "COVID-19: L'EX-CONSEILLER MÉDICAL DE LA MAISON BLANCHE ANTHONY FAUCI REFUSE DE RÉPONDRE AU SÉNAT AMÉRICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:47",
-      "date": "29/07",
-      "timestamp": 1785343664
     }
   ],
   "france": {
