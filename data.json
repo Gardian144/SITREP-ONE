@@ -1,7 +1,17 @@
 {
-  "last_update": "01/08 14:13",
+  "last_update": "01/08 15:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785596357",
+      "source": "BFMTV",
+      "text": "CEUTA: \"AU MOMENT OÙ [LES MIGRANTS] PARTENT, ILS SAVENT QUE LA RÉALITÉ C'EST UN RETOUR ASSEZ RAPIDE\" AU MAROC, EXPLIQUE NOUFISSA CHARAÏ, CORRESPONDANTE AU MAROC",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:59",
+      "date": "01/08",
+      "timestamp": 1785596357
+    },
     {
       "id": "BFMTV_1785593066",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "14:55",
       "date": "29/07",
       "timestamp": 1785336949
-    },
-    {
-      "id": "OPEX360_1785335642",
-      "source": "OPEX360",
-      "text": "L’US AIR FORCE ENVISAGE DE SE DOTER D’UN BOMBARDIER À DÉCOLLAGE ET À ATTERRISSAGE VERTICAUX",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:34",
-      "date": "29/07",
-      "timestamp": 1785335642
     }
   ],
   "france": {
