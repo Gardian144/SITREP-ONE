@@ -1,7 +1,27 @@
 {
-  "last_update": "01/08 06:27",
+  "last_update": "01/08 08:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785573569",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ACCUSE LES ÉTATS-UNIS DE FAVORISER L'\"ESCALADE DES TENSIONS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:39",
+      "date": "01/08",
+      "timestamp": 1785573569
+    },
+    {
+      "id": "BFMTV_1785567000",
+      "source": "BFMTV",
+      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: L'ESPAGNE ASSURE QUE LA \"QUASI-TOTALITÉ\" DES MIGRANTS SONT RETOURNÉS AU MAROC, L'ITALIE ET LA FRANCE DURCISSENT LEURS CONTRÔLES FRONTALIERS",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:50",
+      "date": "01/08",
+      "timestamp": 1785567000
+    },
     {
       "id": "BFMTV_1785559951",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "09:18",
       "date": "29/07",
       "timestamp": 1785316708
-    },
-    {
-      "id": "BFMTV_1785316381",
-      "source": "BFMTV",
-      "text": "CHYPRE: LE SECRÉTAIRE GÉNÉRAL DE L'ONU APPELLE GRECS ET TURCS À \"LA COOPÉRATION\" ET À \"LA PAIX\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:13",
-      "date": "29/07",
-      "timestamp": 1785316381
-    },
-    {
-      "id": "BFMTV_1785311588",
-      "source": "BFMTV",
-      "text": "DISPARITION DE TIPHAINE VÉRON EN 2018: \"LE COMBAT CONTINUE\", DIT SON FRÈRE DEPUIS LE JAPON",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:53",
-      "date": "29/07",
-      "timestamp": 1785311588
     }
   ],
   "france": {
