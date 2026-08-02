@@ -1,7 +1,37 @@
 {
-  "last_update": "02/08 16:30",
+  "last_update": "02/08 17:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785689854",
+      "source": "BFMTV",
+      "text": "\"JE VEUX ME BATTRE CONTRE LA VIEILLESSE\": À 80 ANS, LULA ANNONCE SA CANDIDATURE POUR UN 4E ET DERNIER MANDAT DE PRÉSIDENT DU BRÉSIL",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:57",
+      "date": "02/08",
+      "timestamp": 1785689854
+    },
+    {
+      "id": "BFMTV_1785689116",
+      "source": "BFMTV",
+      "text": "GRÈCE: COLLISION ENTRE DEUX HÉLICOPTÈRES QUI INTERVENAIENT CONTRE UN INCENDIE, LES PILOTES TUÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:45",
+      "date": "02/08",
+      "timestamp": 1785689116
+    },
+    {
+      "id": "BFMTV_1785689020",
+      "source": "BFMTV",
+      "text": "\"UN HOMME A TENTÉ DE PÉNÉTRER DANS LE COMMISSARIAT\": UN ATTENTAT SUICIDE FAIT 13 MORTS ET UNE VINGTAINE DE BLESSÉS AU PAKISTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:43",
+      "date": "02/08",
+      "timestamp": 1785689020
+    },
     {
       "id": "BFMTV_1785686368",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "05:46",
       "date": "31/07",
       "timestamp": 1785476808
-    },
-    {
-      "id": "BFMTV_1785472777",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:39",
-      "date": "31/07",
-      "timestamp": 1785472777
-    },
-    {
-      "id": "BFMTV_1785472777",
-      "source": "BFMTV",
-      "text": "TRÊVE À GAZA: LE HAMAS ET DONALD TRUMP ANNONCENT UN ACCORD SUR LE DÉSARMEMENT EN VUE DU \"RETRAIT PROGRESSIF\" DES TROUPES ISRAÉLIENNES",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:39",
-      "date": "31/07",
-      "timestamp": 1785472777
-    },
-    {
-      "id": "BFMTV_1785445812",
-      "source": "BFMTV",
-      "text": "SÉISMES AU VENEZUELA: LE DYNAMITAGE DES IMMEUBLES TOUCHÉS A COMMENCÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:10",
-      "date": "30/07",
-      "timestamp": 1785445812
     }
   ],
   "france": {
