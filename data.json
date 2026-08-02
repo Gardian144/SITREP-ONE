@@ -1,7 +1,27 @@
 {
-  "last_update": "02/08 10:19",
+  "last_update": "02/08 11:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785669978",
+      "source": "BFMTV",
+      "text": "INCENDIES EN GRÈCE: SITUATION \"EXTRÊMEMENT DIFFICILE\" EN RAISON DE VENTS VIOLENTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:26",
+      "date": "02/08",
+      "timestamp": 1785669978
+    },
+    {
+      "id": "OPEX360_1785668317",
+      "source": "OPEX360",
+      "text": "MOINS DE THÉORIE MAIS PLUS DE PRATIQUE : L’ARMÉE DE L’AIR & DE L’ESPACE VEUT ACCÉLÉRER LA FORMATION DE SES FUTURS PILOTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:58",
+      "date": "02/08",
+      "timestamp": 1785668317
+    },
     {
       "id": "OPEX360_1785665023",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "16:43",
       "date": "30/07",
       "timestamp": 1785429789
-    },
-    {
-      "id": "BFMTV_1785429776",
-      "source": "BFMTV",
-      "text": "LE YOUTUBEUR ATÉ CHUET MIS EN EXAMEN POUR INTELLIGENCE AVEC UNE PUISSANCE ÉTRANGÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:42",
-      "date": "30/07",
-      "timestamp": 1785429776
-    },
-    {
-      "id": "BFMTV_1785428217",
-      "source": "BFMTV",
-      "text": "CHINE: AU MOINS 51 MORTS ET DIX DISPARUS APRÈS UN GLISSEMENT DE TERRAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:16",
-      "date": "30/07",
-      "timestamp": 1785428217
     }
   ],
   "france": {
