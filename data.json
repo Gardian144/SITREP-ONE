@@ -1,7 +1,27 @@
 {
-  "last_update": "02/08 17:36",
+  "last_update": "02/08 18:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785694996",
+      "source": "BFMTV",
+      "text": "EXPLOSION À MOSCOU: \"[LA GUERRE EN UKRAINE] TOUCHE MAINTENANT L'ÉLITE RUSSE\", ANALYSE VINCENT JAUVERT, GRAND REPORTER ET AUTEUR",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:23",
+      "date": "02/08",
+      "timestamp": 1785694996
+    },
+    {
+      "id": "BFMTV_1785694754",
+      "source": "BFMTV",
+      "text": "RESTAURANT HUPPÉ, VICTIMES … CE QUE L'ON SAIT DE L'EXPLOSION À MOSCOU CE SAMEDI 1ER AOÛT",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:19",
+      "date": "02/08",
+      "timestamp": 1785694754
+    },
     {
       "id": "BFMTV_1785689854",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "06:27",
       "date": "31/07",
       "timestamp": 1785479248
-    },
-    {
-      "id": "BFMTV_1785478002",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UNE CAMÉRA DE SÉCURITÉ FILME UNE FRAPPE RUSSE À PAVLOHRAD",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:06",
-      "date": "31/07",
-      "timestamp": 1785478002
-    },
-    {
-      "id": "BFMTV_1785476808",
-      "source": "BFMTV",
-      "text": "UN APPEL À TÉMOINS LANCÉ APRÈS L'INCENDIE EN CÔTE-D'OR, LA PISTE CRIMINELLE PRIVILÉGIÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:46",
-      "date": "31/07",
-      "timestamp": 1785476808
     }
   ],
   "france": {
