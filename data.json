@@ -1,7 +1,17 @@
 {
-  "last_update": "02/08 15:30",
+  "last_update": "02/08 16:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785686368",
+      "source": "BFMTV",
+      "text": "UNE COLLISION ENTRE DEUX HÉLICOPTÈRES QUI LUTTAIENT CONTRE LES INCENDIES EN GRÈCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:59",
+      "date": "02/08",
+      "timestamp": 1785686368
+    },
     {
       "id": "BFMTV_1785684422",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "21:10",
       "date": "30/07",
       "timestamp": 1785445812
-    },
-    {
-      "id": "BFMTV_1785444890",
-      "source": "BFMTV",
-      "text": "LA MORT DE 15 ÉLÉPHANTS AU KENYA ATTRIBUÉ À L'ABSORPTION DU CYANURE CONTENU DANS DES PESTICIDES",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:54",
-      "date": "30/07",
-      "timestamp": 1785444890
     }
   ],
   "france": {
