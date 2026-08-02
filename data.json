@@ -1,7 +1,27 @@
 {
-  "last_update": "02/08 14:15",
+  "last_update": "02/08 15:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785684422",
+      "source": "BFMTV",
+      "text": "GRÈCE: UNE COLLISION ENTRE DEUX HÉLICOPTÈRES INTERVENANT CONTRE UN INCENDIE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:27",
+      "date": "02/08",
+      "timestamp": 1785684422
+    },
+    {
+      "id": "BFMTV_1785681208",
+      "source": "BFMTV",
+      "text": "GRÈCE: COLLISION ENTRE DEUX HÉLICOPTÈRES QUI INTERVENAIENT CONTRE UN INCENDIE, LES ÉQUIPAGES RECHERCHÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:33",
+      "date": "02/08",
+      "timestamp": 1785681208
+    },
     {
       "id": "BFMTV_1785675250",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "20:54",
       "date": "30/07",
       "timestamp": 1785444890
-    },
-    {
-      "id": "BFMTV_1785441981",
-      "source": "BFMTV",
-      "text": "SEPT PERSONNES PORTÉES DISPARUES APRÈS L'EFFONDREMENT D'UN IMMEUBLE EN SICILE, TROIS BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:06",
-      "date": "30/07",
-      "timestamp": 1785441981
-    },
-    {
-      "id": "BFMTV_1785441147",
-      "source": "BFMTV",
-      "text": "ARRIVÉE MASSIVE DE MIGRANTS À CEUTA: L'ITALIE VEUT SUSPENDRE L'ESPAGNE DE L'ESPACE SCHENGEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:52",
-      "date": "30/07",
-      "timestamp": 1785441147
     }
   ],
   "france": {
