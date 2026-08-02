@@ -1,7 +1,17 @@
 {
-  "last_update": "02/08 12:42",
+  "last_update": "02/08 14:15",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785675250",
+      "source": "BFMTV",
+      "text": "UN NAVIRE DE LA FONDATION WATSON ARRAISONNÉ EN ISLANDE LORS D'UNE ACTION CONTRE LA CHASSE À LA BALEINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:54",
+      "date": "02/08",
+      "timestamp": 1785675250
+    },
     {
       "id": "BFMTV_1785673921",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:52",
       "date": "30/07",
       "timestamp": 1785441147
-    },
-    {
-      "id": "OPEX360_1785429964",
-      "source": "OPEX360",
-      "text": "L’IRLANDE FAIT UN PAS DE PLUS VERS L’ACQUISITION DE RADARS DE SURVEILLANCE AÉRIENNE AUPRÈS DE LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:46",
-      "date": "30/07",
-      "timestamp": 1785429964
     }
   ],
   "france": {
