@@ -1,7 +1,37 @@
 {
-  "last_update": "02/08 20:54",
+  "last_update": "02/08 21:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785707412",
+      "source": "BFMTV",
+      "text": "GUERRE: MALGRÉ LE SOUTIEN DE SES ALLIÉS, LA RUSSIE FAIT FACE À DES DÉFIS SUR LE TERRAIN EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:50",
+      "date": "02/08",
+      "timestamp": 1785707412
+    },
+    {
+      "id": "BFMTV_1785706680",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DEMANDE AUX ÉTATS-UNIS ET À L'EUROPE DE LUI FOURNIR PLUS DE MISSILES",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:38",
+      "date": "02/08",
+      "timestamp": 1785706680
+    },
+    {
+      "id": "BFMTV_1785704986",
+      "source": "BFMTV",
+      "text": "FANIL SARVAROV, IGOR KIRILOV, DARIA DOUGUINA ... LES PERSONNALITÉS RUSSES CIBLÉES PAR L'UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:09",
+      "date": "02/08",
+      "timestamp": 1785704986
+    },
     {
       "id": "BFMTV_1785696696",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "11:43",
       "date": "31/07",
       "timestamp": 1785498204
-    },
-    {
-      "id": "BFMTV_1785496228",
-      "source": "BFMTV",
-      "text": "ESPAGNE: ENVIRON 40.000 MIGRANTS ONT TRAVERSÉ LA FRONTIÈRE À CEUTA, AU MOINS 18 SONT MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:10",
-      "date": "31/07",
-      "timestamp": 1785496228
-    },
-    {
-      "id": "BFMTV_1785494305",
-      "source": "BFMTV",
-      "text": "LE FAIBLE NIVEAU DU DANUBE RÉVÈLE DES OSSEMENTS DE MAMMOUTH EN BULGARIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:38",
-      "date": "31/07",
-      "timestamp": 1785494305
-    },
-    {
-      "id": "OPEX360_1785493995",
-      "source": "OPEX360",
-      "text": "L’AVION DE TRANSPORT A400M «ATLAS» PEUT AUSSI SE POSER SUR UNE ROUTE NATIONALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:33",
-      "date": "31/07",
-      "timestamp": 1785493995
     }
   ],
   "france": {
