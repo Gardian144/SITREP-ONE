@@ -1,7 +1,127 @@
 {
-  "last_update": "03/08 03:43",
+  "last_update": "03/08 06:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785738945",
+      "source": "BFMTV",
+      "text": "INCENDIES AUX ÉTATS-UNIS: L'ÉTAT D'URGENCE DÉCLARÉ DANS L'ÉTAT DE WASHINGTON",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:35",
+      "date": "03/08",
+      "timestamp": 1785738945
+    },
+    {
+      "id": "BFMTV_1785738831",
+      "source": "BFMTV",
+      "text": "INDONÉSIE: CINQ MORTS ET 41 DISPARUS APRÈS L'INCENDIE D'UN FERRY",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:33",
+      "date": "03/08",
+      "timestamp": 1785738831
+    },
+    {
+      "id": "BFMTV_1785738545",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DIT QUE L'INTERVENTION AMÉRICAINE POUR SOUTENIR LE YEN EST UN \"GESTE D'AMITIÉ\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:29",
+      "date": "03/08",
+      "timestamp": 1785738545
+    },
+    {
+      "id": "BFMTV_1785735340",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: LE MAROC ANNONCE LA MORT DE 11 MIGRANTS, L'ESPAGNE EN COMPTABILISE 72",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:35",
+      "date": "03/08",
+      "timestamp": 1785735340
+    },
+    {
+      "id": "BFMTV_1785734665",
+      "source": "BFMTV",
+      "text": "INCENDIES EN GRÈCE: 12.000 HECTARES RAVAGÉS PAR LES FLAMMES EN UNE SEMAINE",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:24",
+      "date": "03/08",
+      "timestamp": 1785734665
+    },
+    {
+      "id": "BFMTV_1785732253",
+      "source": "BFMTV",
+      "text": "CE QUE L'ON SAIT DE LA COLLISION ENTRE DEUX HÉLICOPTÈRES INTERVENANT CONTRE UN INCENDOE EN GRÈCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:44",
+      "date": "03/08",
+      "timestamp": 1785732253
+    },
+    {
+      "id": "BFMTV_1785731534",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES BOMBES LARGUÉES SUR ZAPORIJIA, AU MOINS UN MORT ET PLUSIEURS DIZAINES DE BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:32",
+      "date": "03/08",
+      "timestamp": 1785731534
+    },
+    {
+      "id": "BFMTV_1785731237",
+      "source": "BFMTV",
+      "text": "ACCIDENT D'AUTOCAR MORTEL EN ALGÉRIE: LE CHAUFFEUR ÉTAIT SOUS L'EMPRISE DE STUPÉFIANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:27",
+      "date": "03/08",
+      "timestamp": 1785731237
+    },
+    {
+      "id": "BFMTV_1785731181",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE LE DÉBUT DE \"NÉGOCIATIONS CET APRÈS-MIDI\" AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:26",
+      "date": "03/08",
+      "timestamp": 1785731181
+    },
+    {
+      "id": "BFMTV_1785731109",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: L'ÉTAT D'URGENCE DÉCLARÉ DANS L'ÉTAT DE WASHINGTON, FACE À DES FEUX DE FORÊT DÉVASTATEURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:25",
+      "date": "03/08",
+      "timestamp": 1785731109
+    },
+    {
+      "id": "BFMTV_1785730451",
+      "source": "BFMTV",
+      "text": "GRÈCE: COLLISION ENTRE DEUX HÉLICOPTÈRES QUI INTERVENAIENT CONTRE UN INCENDIE, LES DEUX PILOTES TUÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:14",
+      "date": "03/08",
+      "timestamp": 1785730451
+    },
+    {
+      "id": "BFMTV_1785729340",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE UNE REPRISE DES NÉGOCIATIONS AVEC L'IRAN, TÉHÉRAN NE CONFIRME PAS À CE STADE",
+      "urgent": true,
+      "france_related": false,
+      "time": "03:55",
+      "date": "03/08",
+      "timestamp": 1785729340
+    },
     {
       "id": "BFMTV_1785707412",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "15:32",
       "date": "31/07",
       "timestamp": 1785511925
-    },
-    {
-      "id": "BFMTV_1785511292",
-      "source": "BFMTV",
-      "text": "DES PASSAGERS SONT RESTÉS BLOQUÉS 10 HEURES DANS UN AVION SANS CLIMATISATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:21",
-      "date": "31/07",
-      "timestamp": 1785511292
-    },
-    {
-      "id": "BFMTV_1785509933",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: 37.500 MIGRANTS SONT RENTRÉS AU MAROC, SELON LE GOUVERNEMENT ESPAGNOL",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:58",
-      "date": "31/07",
-      "timestamp": 1785509933
-    },
-    {
-      "id": "BFMTV_1785509735",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: L'ITALIE VEUT FERMER L'ESPACE SCHENGEN À L'ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:55",
-      "date": "31/07",
-      "timestamp": 1785509735
-    },
-    {
-      "id": "BFMTV_1785507988",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: POURQUOI CET AFFLUX DANS L'ENCLAVE ESPAGNOLE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:26",
-      "date": "31/07",
-      "timestamp": 1785507988
-    },
-    {
-      "id": "BFMTV_1785507866",
-      "source": "BFMTV",
-      "text": "LES GARDIENS DE LA RÉVOLUTION IRANIENS ANNONCENT AVOIR FRAPPÉ DEUX PÉTROLIERS DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:24",
-      "date": "31/07",
-      "timestamp": 1785507866
-    },
-    {
-      "id": "BFMTV_1785506402",
-      "source": "BFMTV",
-      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: L'ITALIE RÉCLAME LA SUSPENSION DE L'ESPAGNE DE L'ESPACE SCHENGEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:00",
-      "date": "31/07",
-      "timestamp": 1785506402
-    },
-    {
-      "id": "OPEX360_1785505034",
-      "source": "OPEX360",
-      "text": "L’US NAVY ENGAGE 76,6 MILLIARDS DE DOLLARS POUR MODERNISER SES FLOTTES DE SOUS-MARINS NUCLÉAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:37",
-      "date": "31/07",
-      "timestamp": 1785505034
-    },
-    {
-      "id": "BFMTV_1785502072",
-      "source": "BFMTV",
-      "text": "CEUTA: PEDRO SÁNCHEZ ÉVOQUE \"UNE ATTAQUE, UNE VIOLATION DE L'INTÉGRITÉ TERRITORIALE DE L'ESPAGNE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:47",
-      "date": "31/07",
-      "timestamp": 1785502072
-    },
-    {
-      "id": "BFMTV_1785501920",
-      "source": "BFMTV",
-      "text": "TOUT COMPRENDRE. AU MOINS 34 MORTS, CRISE DIPLOMATIQUE AVEC L'ITALIE: L'ENCLAVE ESPAGNOLE DE CEUTA FACE À UNE ARRIVÉE DE MILLIERS DE MIGRANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:45",
-      "date": "31/07",
-      "timestamp": 1785501920
-    },
-    {
-      "id": "BFMTV_1785501686",
-      "source": "BFMTV",
-      "text": "AFFLUX DE MIGRANTS À CEUTA: EST-IL POSSIBLE D'EXCLURE L'ESPAGNE DE L'ESPACE SCHENGEN, COMME LE DEMANDE L'ITALIE?",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:41",
-      "date": "31/07",
-      "timestamp": 1785501686
-    },
-    {
-      "id": "BFMTV_1785498894",
-      "source": "BFMTV",
-      "text": "AU MOINS 25 MORTS ET 44 BLESSÉS APRÈS LA CHUTE D'UN AUTOCAR DANS UN RAVIN DANS LE NORD DE L'ALGÉRIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:54",
-      "date": "31/07",
-      "timestamp": 1785498894
-    },
-    {
-      "id": "BFMTV_1785498204",
-      "source": "BFMTV",
-      "text": "DIRECT. VAGUE MIGRATOIRE À CEUTA: PEDRO SÁNCHEZ ÉVOQUE \"UNE VIOLATION DE L'INTÉGRITÉ TERRITORIALE DE L'ESPAGNE\", LA FRANCE VA RENFORCER LES CONTRÔLES AUX FRONTIÈRES",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:43",
-      "date": "31/07",
-      "timestamp": 1785498204
     }
   ],
   "france": {
