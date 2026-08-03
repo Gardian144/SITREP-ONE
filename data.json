@@ -1,7 +1,27 @@
 {
-  "last_update": "03/08 10:41",
+  "last_update": "03/08 13:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785756491",
+      "source": "BFMTV",
+      "text": "LA CORÉE DU NORD DÉVOILE DES RARES IMAGES DE SES PLAGES BONDÉES DE TOURISTES LORS D'UNE VAGUE DE CHALEUR RECORD",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:28",
+      "date": "03/08",
+      "timestamp": 1785756491
+    },
+    {
+      "id": "BFMTV_1785754339",
+      "source": "BFMTV",
+      "text": "AFFAIRE MOHAMMED AL-FAYED: 4 FEMMES RECONNUES VICTIMES DE TRAITE D'ÊTRE HUMAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:52",
+      "date": "03/08",
+      "timestamp": 1785754339
+    },
     {
       "id": "BFMTV_1785752696",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "04:31",
       "date": "01/08",
       "timestamp": 1785558694
-    },
-    {
-      "id": "BFMTV_1785558566",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: D'APRÈS LES AUTORITÉS, PLUS DE 48.000 PERSONNES SONT RENTRÉES AU MAROC",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:29",
-      "date": "01/08",
-      "timestamp": 1785558566
-    },
-    {
-      "id": "BFMTV_1785556417",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: UN PÉTROLIER FRAPPÉ PAR UN \"PROJECTILE NON IDENTIFIÉ\" À L'ENTRÉE DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:53",
-      "date": "01/08",
-      "timestamp": 1785556417
     }
   ],
   "france": {
