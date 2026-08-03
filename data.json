@@ -1,7 +1,157 @@
 {
-  "last_update": "03/08 06:47",
+  "last_update": "03/08 10:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785752696",
+      "source": "BFMTV",
+      "text": "LE MAROC DONNE LE NOM DE DONALD TRUMP À UNE AUTOROUTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:24",
+      "date": "03/08",
+      "timestamp": 1785752696
+    },
+    {
+      "id": "BFMTV_1785752584",
+      "source": "BFMTV",
+      "text": "CUBA: L'ÎLE FRAPPÉE PAR UNE NOUVELLE COUPURE D'ÉLECTRICITÉ À L'ÉCHELLE NATIONALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:23",
+      "date": "03/08",
+      "timestamp": 1785752584
+    },
+    {
+      "id": "OPEX360_1785752234",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE INSISTE POUR OBTENIR DES MISSILES AIR-SOL AÉROBALISTIQUES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:17",
+      "date": "03/08",
+      "timestamp": 1785752234
+    },
+    {
+      "id": "BFMTV_1785749364",
+      "source": "BFMTV",
+      "text": "GAZA: DES FRAPPES ISRAÉLIENNES FONT AU MOINS 13 MORTS CE WEEK-END",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:29",
+      "date": "03/08",
+      "timestamp": 1785749364
+    },
+    {
+      "id": "BFMTV_1785749271",
+      "source": "BFMTV",
+      "text": "L'ARMÉE AMÉRICAINE CHERCHE DES IDÉES \"CRÉATIVES\" POUR FAIRE PRESSION SUR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:27",
+      "date": "03/08",
+      "timestamp": 1785749271
+    },
+    {
+      "id": "BFMTV_1785748421",
+      "source": "BFMTV",
+      "text": "QUATRE NOUVEAUX CAS HUMAINS DE GRIPPE AVIAIRE DÉTECTÉS EN CHINE, DONT DEUX ENFANTS DE 3 ET 12 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:13",
+      "date": "03/08",
+      "timestamp": 1785748421
+    },
+    {
+      "id": "BFMTV_1785747137",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:52",
+      "date": "03/08",
+      "timestamp": 1785747137
+    },
+    {
+      "id": "BFMTV_1785747137",
+      "source": "BFMTV",
+      "text": "GAZA: ISRAËL \"INQUIET\" APRÈS L'ANNONCE PAR DONALD TRUMP D'UN PLAN POUR DÉSARMER LE HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:52",
+      "date": "03/08",
+      "timestamp": 1785747137
+    },
+    {
+      "id": "BFMTV_1785746966",
+      "source": "BFMTV",
+      "text": "INCENDIES AUX ÉTATS-UNIS: L'ÉTAT D'URGENCE DÉCRÉTÉ DANS L'ÉTAT DE WASHINGTON, 60.000 PERSONNES APPELÉES À ÉVACUER",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:49",
+      "date": "03/08",
+      "timestamp": 1785746966
+    },
+    {
+      "id": "BFMTV_1785746718",
+      "source": "BFMTV",
+      "text": "PAKISTAN: 13 MORTS ET 22 BLESSÉS DANS UN ATTENTAT SUICIDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:45",
+      "date": "03/08",
+      "timestamp": 1785746718
+    },
+    {
+      "id": "BFMTV_1785745250",
+      "source": "BFMTV",
+      "text": "UNE \"VICTOIRE HISTORIQUE\" POUR LES ONG: LE PROJET DU PREMIER ÉLEVAGE DE PIEUVRES AU MONDE, PRÉVU AUX ÎLES CANARIES, FINALEMENT ABANDONNÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:20",
+      "date": "03/08",
+      "timestamp": 1785745250
+    },
+    {
+      "id": "BFMTV_1785745018",
+      "source": "BFMTV",
+      "text": "INCENDIE DANS LE VAR: \"J'AI PEUR QUE LE FEU REVIENNE\", CONFIE CETTE HABITANTE DE CORRENS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:16",
+      "date": "03/08",
+      "timestamp": 1785745018
+    },
+    {
+      "id": "BFMTV_1785744725",
+      "source": "BFMTV",
+      "text": "\"AUCUNE DISCUSSION EN COURS AVEC LES ÉTATS-UNIS\": TÉHÉRAN DÉMENT LES PROPOS DE DONALD TRUMP SUR LA REPRISE DES NÉGOCIATIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:12",
+      "date": "03/08",
+      "timestamp": 1785744725
+    },
+    {
+      "id": "BFMTV_1785743941",
+      "source": "BFMTV",
+      "text": "GIANNI INFANTINO N'EST \"PAS LA BONNE PERSONNE\" POUR DIRIGER LA FIFA, SELON ANDY BURNHAM",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:59",
+      "date": "03/08",
+      "timestamp": 1785743941
+    },
+    {
+      "id": "BFMTV_1785743916",
+      "source": "BFMTV",
+      "text": "QUI EST ALEXANDRE TCHAÏKO, PROCHE DE VLADIMIR POUTINE, QUI AURAIT ÉTÉ VISÉ PAR L'ATTENTAT À LA BOMBE EN RUSSIE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:58",
+      "date": "03/08",
+      "timestamp": 1785743916
+    },
     {
       "id": "BFMTV_1785738945",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "03:53",
       "date": "01/08",
       "timestamp": 1785556417
-    },
-    {
-      "id": "BFMTV_1785534755",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: L'ESPAGNE AFFIRME QUE L'INTÉGRITÉ DE L'ESPACE SCHENGEN \"EST ABSOLUMENT GARANTIE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:52",
-      "date": "31/07",
-      "timestamp": 1785534755
-    },
-    {
-      "id": "BFMTV_1785528839",
-      "source": "BFMTV",
-      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: L'ESPAGNE AFFIRME QUE L'INTÉGRITÉ DE L'ESPACE SCHENGEN \"EST ABSOLUMENT GARANTIE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:13",
-      "date": "31/07",
-      "timestamp": 1785528839
-    },
-    {
-      "id": "BFMTV_1785527062",
-      "source": "BFMTV",
-      "text": "AU ROYAUME-UNI, UN ENTREPRENEUR DE POMPES FUNÈBRES A ÉTÉ CONDAMNÉ POUR AVOIR CONSERVÉ DES CORPS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:44",
-      "date": "31/07",
-      "timestamp": 1785527062
-    },
-    {
-      "id": "BFMTV_1785526977",
-      "source": "BFMTV",
-      "text": "L'ITALIE ANNONCE FERMER TEMPORAIREMENT L'ESPACE SCHENGEN À L'ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:42",
-      "date": "31/07",
-      "timestamp": 1785526977
-    },
-    {
-      "id": "BFMTV_1785526907",
-      "source": "BFMTV",
-      "text": "DES CORPS RETROUVÉS DANS DES \"CONDITIONS ÉPOUVANTBLES\": UN RESPONSABLE DE POMPES FUNÈBRES CONDAMNÉ À 20 ANS DE PRISON AU ROYAUME-UNI",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:41",
-      "date": "31/07",
-      "timestamp": 1785526907
-    },
-    {
-      "id": "BFMTV_1785523699",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP COMPARE LA CRISE MIGRATOIRE À CEUTA À UNE \"INVASION\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:48",
-      "date": "31/07",
-      "timestamp": 1785523699
-    },
-    {
-      "id": "BFMTV_1785520858",
-      "source": "BFMTV",
-      "text": "RESPONSABILITÉ DU GOUVERNEMENT SÁNCHEZ, ESPACE SCHENGEN, \"INSTRUMENTALISATION\"...  LA CLASSE POLITIQUE FRANÇAISE RÉAGIT À L'AFFLUX MIGRATOIRE À CEUTA",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:00",
-      "date": "31/07",
-      "timestamp": 1785520858
-    },
-    {
-      "id": "BFMTV_1785519560",
-      "source": "BFMTV",
-      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: L'ITALIE FERME TEMPORAIREMENT SA FRONTIÈRE AVEC L'ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:39",
-      "date": "31/07",
-      "timestamp": 1785519560
-    },
-    {
-      "id": "OPEX360_1785517902",
-      "source": "OPEX360",
-      "text": "LA LIVRAISON DE SES FUTURS F-16 AYANT PRIS DU RETARD, LA BULGARIE DISPUTE LES ANCIENS MIG-29 POLONAIS À L’UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:11",
-      "date": "31/07",
-      "timestamp": 1785517902
-    },
-    {
-      "id": "BFMTV_1785517293",
-      "source": "BFMTV",
-      "text": "AFFLUX DE MIGRANTS À CEUTA: QUELS SONT LES PAYS QUI VEULENT QUE L'ESPAGNE SOIT EXCLUE DE L'ESPACE SCHENGEN?",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:01",
-      "date": "31/07",
-      "timestamp": 1785517293
-    },
-    {
-      "id": "BFMTV_1785514164",
-      "source": "BFMTV",
-      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: DONALD TRUMP QUALIFIE DE \"TERRIBLES\" LES IMAGES DE MIGRANTS DANS L'ENCLAVE ESPAGNOLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:09",
-      "date": "31/07",
-      "timestamp": 1785514164
-    },
-    {
-      "id": "BFMTV_1785513860",
-      "source": "BFMTV",
-      "text": "GAZA: CE QUE L'ON SAIT SUR L'ACCORD QUI PRÉVOIT LE DÉSARMEMENT DU HAMAS ET LE RETRAIT DES FORCES ISRAÉLIENNES",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:04",
-      "date": "31/07",
-      "timestamp": 1785513860
-    },
-    {
-      "id": "BFMTV_1785513437",
-      "source": "BFMTV",
-      "text": "DES EMPLOYÉS DU SITE EN LIGNE RUSSE OZON ÉVACUENT EN URGENCE L’ENTREPÔT QUELQUES SECONDES AVANT UNE FRAPPE DE DRONE UKRAINIEN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:57",
-      "date": "31/07",
-      "timestamp": 1785513437
-    },
-    {
-      "id": "OPEX360_1785511983",
-      "source": "OPEX360",
-      "text": "LA DÉFENSE BELGE VA ASSOUPLIR SES CRITÈRES MÉDICAUX DE RECRUTEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:33",
-      "date": "31/07",
-      "timestamp": 1785511983
-    },
-    {
-      "id": "BFMTV_1785511925",
-      "source": "BFMTV",
-      "text": "AU LIBÉRIA, LES AUTORITÉS ONT BRÛLÉ PRÈS DE 4 TONNES DE COCAÏNE, SOIT L'ÉQUIVALENT DE 317 MILLIONS DE DOLLARS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:32",
-      "date": "31/07",
-      "timestamp": 1785511925
     }
   ],
   "france": {
