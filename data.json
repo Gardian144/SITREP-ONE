@@ -1,7 +1,97 @@
 {
-  "last_update": "03/08 13:30",
+  "last_update": "03/08 16:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785772941",
+      "source": "BFMTV",
+      "text": "DES ÉCHANGES DE FRAPPES ENTRE L'UKRAINE ET LA RUSSIE FONT 14 MORTS ET DES DIZAINES DE BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:02",
+      "date": "03/08",
+      "timestamp": 1785772941
+    },
+    {
+      "id": "BFMTV_1785772306",
+      "source": "BFMTV",
+      "text": "EXPLOSION À MOSCOU: \"ÇA NE M'ÉTONNE PAS QU'IL N'Y AIT PAS DE RÉACTION DU CÔTÉ DE L'UKRAINE\", EXPLIQUE MARIANNE BABICH, CONSEILLÈRE EN COMMUNICATION FRANCO-UKRAINIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:51",
+      "date": "03/08",
+      "timestamp": 1785772306
+    },
+    {
+      "id": "BFMTV_1785769526",
+      "source": "BFMTV",
+      "text": "UN AFGHAN DE 26 ANS AVOUE LE MEURTRE D'UNE ÉCOSSAISE DONT LE CORPS AVAIT ÉTÉ RETROUVÉ DANS UNE VALISE EN GRÈCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:05",
+      "date": "03/08",
+      "timestamp": 1785769526
+    },
+    {
+      "id": "BFMTV_1785769491",
+      "source": "BFMTV",
+      "text": "QUI EST ALEXANDRE TCHAÏKO, LE HAUT GRADÉ RUSSE QUI AURAIT ÉTÉ VISÉ DANS UN ATTENTAT CE SAMEDI À MOSCOU?",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:04",
+      "date": "03/08",
+      "timestamp": 1785769491
+    },
+    {
+      "id": "BFMTV_1785769114",
+      "source": "BFMTV",
+      "text": "TURQUIE: UNE FEMME ENCEINTE ET VICTIME DE VIOLENCES CONJUGALES MEURT EN CHUTANT D'UN BALCON, SON MARI ARRÊTÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:58",
+      "date": "03/08",
+      "timestamp": 1785769114
+    },
+    {
+      "id": "BFMTV_1785768554",
+      "source": "BFMTV",
+      "text": "EXPLOSION À MOSCOU: CET ÉVÉNEMENT SOULÈVE DES QUESTIONS SUR LES TENSIONS ENTRE LA RUSSIE ET L'UKRAINE ALORS QUE LA GUERRE CONTINUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:49",
+      "date": "03/08",
+      "timestamp": 1785768554
+    },
+    {
+      "id": "BFMTV_1785768178",
+      "source": "BFMTV",
+      "text": "EXPLOSION À MOSCOU: MALGRÉ LA MENACE, LA VIE SE POURSUIT DANS LA CAPITALE RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:42",
+      "date": "03/08",
+      "timestamp": 1785768178
+    },
+    {
+      "id": "BFMTV_1785767850",
+      "source": "BFMTV",
+      "text": "\"UNE PERSONNE EST MALHEUREUSEMENT DÉCÉDÉE\": LES AUTORITÉS SUISSES ALERTENT SUR UNE FLAMBÉE DE CAS DE LÉGIONELLOSE À BÂLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:37",
+      "date": "03/08",
+      "timestamp": 1785767850
+    },
+    {
+      "id": "OPEX360_1785765439",
+      "source": "OPEX360",
+      "text": "LE FUTUR DRONE DE SURFACE NÉERLANDAIS DÉDIÉ À LA LUTTE ANTI-SOUS-MARINE SERA DOTÉ D’UN SONAR FOURNI PAR THALES",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:57",
+      "date": "03/08",
+      "timestamp": 1785765439
+    },
     {
       "id": "BFMTV_1785756491",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "11:16",
       "date": "01/08",
       "timestamp": 1785582979
-    },
-    {
-      "id": "BFMTV_1785579608",
-      "source": "BFMTV",
-      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: AU MOINS 67 MIGRANTS SONT MORTS EN ESSAYANT D'ENTRER DANS L'ENCLAVE ESPAGNOLE, LA SITUATION \"QUASIMENT\" REVENUE À LA NORMALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:20",
-      "date": "01/08",
-      "timestamp": 1785579608
-    },
-    {
-      "id": "BFMTV_1785578829",
-      "source": "BFMTV",
-      "text": "CEUTA: L’ESPAGNE ASSURE QUE LA “QUASI-TOTALITÉ” DES MIGRANTS “SONT DÉJÀ RETOURNÉS AU MAROC\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:07",
-      "date": "01/08",
-      "timestamp": 1785578829
-    },
-    {
-      "id": "OPEX360_1785576898",
-      "source": "OPEX360",
-      "text": "UN CHASSEUR-BOMBARDIER F-35B DE L’US MARINE CORPS S’EST ÉCRASÉ SUR LA BASE DE MIRAMAR",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:34",
-      "date": "01/08",
-      "timestamp": 1785576898
-    },
-    {
-      "id": "BFMTV_1785574057",
-      "source": "BFMTV",
-      "text": "ENLÈVEMENT DE LA MÈRE D'UNE JOURNALISTE AUX ÉTATS-UNIS: LES ENQUÊTEURS PUBLIENT DEUX LETTRES ATTRIBUÉES AUX RAVISSEURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:47",
-      "date": "01/08",
-      "timestamp": 1785574057
-    },
-    {
-      "id": "BFMTV_1785573569",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ACCUSE LES ÉTATS-UNIS DE FAVORISER L'\"ESCALADE DES TENSIONS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:39",
-      "date": "01/08",
-      "timestamp": 1785573569
-    },
-    {
-      "id": "BFMTV_1785567000",
-      "source": "BFMTV",
-      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: L'ESPAGNE ASSURE QUE LA \"QUASI-TOTALITÉ\" DES MIGRANTS SONT RETOURNÉS AU MAROC, L'ITALIE ET LA FRANCE DURCISSENT LEURS CONTRÔLES FRONTALIERS",
-      "urgent": false,
-      "france_related": true,
-      "time": "06:50",
-      "date": "01/08",
-      "timestamp": 1785567000
-    },
-    {
-      "id": "BFMTV_1785559951",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:52",
-      "date": "01/08",
-      "timestamp": 1785559951
-    },
-    {
-      "id": "BFMTV_1785559951",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: NEUF MORTS À KIEV DANS UNE NOUVELLE ATTAQUE DE MISSILES RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:52",
-      "date": "01/08",
-      "timestamp": 1785559951
-    },
-    {
-      "id": "BFMTV_1785558694",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: L'ITALIE SUSPEND L'ESPAGNE DE SON ESPACE SCHENGEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:31",
-      "date": "01/08",
-      "timestamp": 1785558694
     }
   ],
   "france": {
