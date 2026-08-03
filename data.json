@@ -1,7 +1,27 @@
 {
-  "last_update": "03/08 19:57",
+  "last_update": "03/08 21:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785790518",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME CE LUNDI QUE LES ÉTATS-UNIS DISCUTENT \"EN CE MOMENT MÊME\" AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:55",
+      "date": "03/08",
+      "timestamp": 1785790518
+    },
+    {
+      "id": "BFMTV_1785787169",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE DES DISCUSSIONS ONT LIEU \"EN CE MOMENT MÊME\" AVEC L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:59",
+      "date": "03/08",
+      "timestamp": 1785787169
+    },
     {
       "id": "BFMTV_1785785783",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "14:59",
       "date": "01/08",
       "timestamp": 1785596357
-    },
-    {
-      "id": "BFMTV_1785593066",
-      "source": "BFMTV",
-      "text": "ROME, MILAN, NAPLES... 25 DES 27 PLUS GRANDES VILLES ITALIENNES SERONT EN ALERTE ROUGE LUNDI À CAUSE DE LA VAGUE DE CHALEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:04",
-      "date": "01/08",
-      "timestamp": 1785593066
-    },
-    {
-      "id": "BFMTV_1785592188",
-      "source": "BFMTV",
-      "text": "\"PRENDRE POSITION POUR UN AVENIR SANS CRAINTES\": PLUS DE 100.000 PERSONNES À LA MARCHE DES FIERTÉS DE HAMBOURG, UNE SEMAINE APRÈS L'ATTENTAT À BERLIN",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:49",
-      "date": "01/08",
-      "timestamp": 1785592188
     }
   ],
   "france": {
