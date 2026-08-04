@@ -1,7 +1,57 @@
 {
-  "last_update": "04/08 20:12",
+  "last_update": "04/08 21:37",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785879230",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: MARCO RUBIO AFFIRME QUE DES DISCUSSIONS ENTRE OMAN, L'IRAN ET LES ÉTATS-UNIS SONT EN COURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:33",
+      "date": "04/08",
+      "timestamp": 1785879230
+    },
+    {
+      "id": "BFMTV_1785878821",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LES SIRÈNES D'ALERTE RETENTISSENT À KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:27",
+      "date": "04/08",
+      "timestamp": 1785878821
+    },
+    {
+      "id": "BFMTV_1785878616",
+      "source": "BFMTV",
+      "text": "GUERRE DES DRONES ENTRE L'UKRAINE ET LA RUSSIE: \"ON EST DANS UN MOMENT UKRAINIEN, ILS ONT L'AVANTAGE, MAIS LES RUSSES SONT ENCORE LÀ\", EXPLIQUE MICHAEL BENHAMOU (OPEWI)",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:23",
+      "date": "04/08",
+      "timestamp": 1785878616
+    },
+    {
+      "id": "BFMTV_1785877719",
+      "source": "BFMTV",
+      "text": "L'UKRAINE VIENT DE LANCER DES CENTAINES DE DRONES VERS LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:08",
+      "date": "04/08",
+      "timestamp": 1785877719
+    },
+    {
+      "id": "BFMTV_1785874825",
+      "source": "BFMTV",
+      "text": "\"IL Y A DE NOMBREUSES COMMUNAUTÉS EN AFGHANISTAN OÙ LES GARÇONS N'ONT ÉGALEMENT PAS ACCÈS À L'ÉCOLE\", AFFIRME UNE PORTE-PAROLE DES NATIONS UNIES",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:20",
+      "date": "04/08",
+      "timestamp": 1785874825
+    },
     {
       "id": "BFMTV_1785873733",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "08:49",
       "date": "03/08",
       "timestamp": 1785746966
-    },
-    {
-      "id": "BFMTV_1785746718",
-      "source": "BFMTV",
-      "text": "PAKISTAN: 13 MORTS ET 22 BLESSÉS DANS UN ATTENTAT SUICIDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:45",
-      "date": "03/08",
-      "timestamp": 1785746718
-    },
-    {
-      "id": "BFMTV_1785745250",
-      "source": "BFMTV",
-      "text": "UNE \"VICTOIRE HISTORIQUE\" POUR LES ONG: LE PROJET DU PREMIER ÉLEVAGE DE PIEUVRES AU MONDE, PRÉVU AUX ÎLES CANARIES, FINALEMENT ABANDONNÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:20",
-      "date": "03/08",
-      "timestamp": 1785745250
-    },
-    {
-      "id": "BFMTV_1785745018",
-      "source": "BFMTV",
-      "text": "INCENDIE DANS LE VAR: \"J'AI PEUR QUE LE FEU REVIENNE\", CONFIE CETTE HABITANTE DE CORRENS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:16",
-      "date": "03/08",
-      "timestamp": 1785745018
-    },
-    {
-      "id": "BFMTV_1785744725",
-      "source": "BFMTV",
-      "text": "\"AUCUNE DISCUSSION EN COURS AVEC LES ÉTATS-UNIS\": TÉHÉRAN DÉMENT LES PROPOS DE DONALD TRUMP SUR LA REPRISE DES NÉGOCIATIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:12",
-      "date": "03/08",
-      "timestamp": 1785744725
-    },
-    {
-      "id": "BFMTV_1785743941",
-      "source": "BFMTV",
-      "text": "GIANNI INFANTINO N'EST \"PAS LA BONNE PERSONNE\" POUR DIRIGER LA FIFA, SELON ANDY BURNHAM",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:59",
-      "date": "03/08",
-      "timestamp": 1785743941
     }
   ],
   "france": {
