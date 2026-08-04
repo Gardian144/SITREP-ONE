@@ -1,7 +1,127 @@
 {
-  "last_update": "04/08 04:30",
+  "last_update": "04/08 07:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785826124",
+      "source": "BFMTV",
+      "text": "\"UN MILITAIRE A OUVERT LE FEU CONTRE SES CAMARADES\": EN CRIMÉE ANNEXÉE, QUATRE PERSONNES TUÉES DONT TROIS CIVILS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:48",
+      "date": "04/08",
+      "timestamp": 1785826124
+    },
+    {
+      "id": "BFMTV_1785825988",
+      "source": "BFMTV",
+      "text": "UNE FRAPPE DE DRONE UKRAINIEN FAIT SIX MORTS SUR UNE PLAGE RUSSE, SELON MOSCOU",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:46",
+      "date": "04/08",
+      "timestamp": 1785825988
+    },
+    {
+      "id": "BFMTV_1785825175",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DONALD TRUMP ACCUSE LES ENTREPRISES PÉTROLIÈRES DE \"FAIRE TROP D'ARGENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:32",
+      "date": "04/08",
+      "timestamp": 1785825175
+    },
+    {
+      "id": "BFMTV_1785824394",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE \"L'IMMIGRATION EST UN PROBLÈME INCROYABLE POUR L'EUROPE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:19",
+      "date": "04/08",
+      "timestamp": 1785824394
+    },
+    {
+      "id": "BFMTV_1785823439",
+      "source": "BFMTV",
+      "text": "VAGUE MIGRATOIRE À CEUTA: LES DIRIGEANTS DE L'UNION EUROPÉENNE SE RÉUNISSENT CE MARDI",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:03",
+      "date": "04/08",
+      "timestamp": 1785823439
+    },
+    {
+      "id": "BFMTV_1785822830",
+      "source": "BFMTV",
+      "text": "INCENDIES AUX ÉTATS-UNIS: PLUS DE 65.000 PERSONNES CONTRAINTES D’ÉVACUER",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:53",
+      "date": "04/08",
+      "timestamp": 1785822830
+    },
+    {
+      "id": "BFMTV_1785820972",
+      "source": "BFMTV",
+      "text": "GRÈCE: UN INCENDIE RAVAGE L'OUEST DE LA GRÈCE, DE NOMBREUSES PERSONNES ÉVACUÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:22",
+      "date": "04/08",
+      "timestamp": 1785820972
+    },
+    {
+      "id": "BFMTV_1785820799",
+      "source": "BFMTV",
+      "text": "UNE ATTAQUE DE DRONES UKRAINIENS EN RUSSIE FAIT CINQ MORTS ET PLUSIEURS BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:19",
+      "date": "04/08",
+      "timestamp": 1785820799
+    },
+    {
+      "id": "BFMTV_1785820753",
+      "source": "BFMTV",
+      "text": "TROIS LIONS MEURENT D'UN COUP DE CHAUD AU ZOO DE TOKYO",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:19",
+      "date": "04/08",
+      "timestamp": 1785820753
+    },
+    {
+      "id": "BFMTV_1785819400",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY LIMOGE L'AMBASSADRICE UKRAINIENNE AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:56",
+      "date": "04/08",
+      "timestamp": 1785819400
+    },
+    {
+      "id": "BFMTV_1785819359",
+      "source": "BFMTV",
+      "text": "INCENDIES AUX ÉTATS-UNIS: 17 FEUX ACTIFS DANS L'ÉTAT DE WASHINGTON, 65.000 PERSONNES ÉVACUÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:55",
+      "date": "04/08",
+      "timestamp": 1785819359
+    },
+    {
+      "id": "BFMTV_1785819155",
+      "source": "BFMTV",
+      "text": "LE VOLCAN DE FUEGO EST ENTRÉ EN ÉRUPTION, LE GUATEMALA ÉMET UNE ALERTE \"DANGER\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:52",
+      "date": "04/08",
+      "timestamp": 1785819155
+    },
     {
       "id": "BFMTV_1785816992",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "21:51",
       "date": "01/08",
       "timestamp": 1785621081
-    },
-    {
-      "id": "BFMTV_1785620938",
-      "source": "BFMTV",
-      "text": "PÉROU : AU MOINS 13 MORTS DANS LE CRASH D'UN AVION TRANSPORTANT DES TOURISTES AUX LIGNES DE NAZCA",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:48",
-      "date": "01/08",
-      "timestamp": 1785620938
-    },
-    {
-      "id": "BFMTV_1785619768",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MOSCOU: LES IMAGES DE L'INTÉRIEUR DU CAFÉ VISÉ PAR UN \"ENGIN EXPLOSIF ARTISANAL\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:29",
-      "date": "01/08",
-      "timestamp": 1785619768
-    },
-    {
-      "id": "BFMTV_1785619605",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MOSCOU: C'EST \"UNE INCONNUE\" QUI TRANSPORTAIT \"L'ENGIN EXPLOSIF ARTISANAL\", A INDIQUÉ LE COMITÉ ANTITERRORISTE RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:26",
-      "date": "01/08",
-      "timestamp": 1785619605
-    },
-    {
-      "id": "BFMTV_1785617545",
-      "source": "BFMTV",
-      "text": "MOSCOU: L'EXPLOSION MEURTRIÈRE DANS UN CAFÉ EST DUE À UN \"ENGIN EXPLOSIF ARTISANAL\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:52",
-      "date": "01/08",
-      "timestamp": 1785617545
-    },
-    {
-      "id": "BFMTV_1785616974",
-      "source": "BFMTV",
-      "text": "MOSCOU EN RUSSIE: UNE EXPLOSION DANS UN CAFÉ FAIT TROIS MORTS ET PLUSIEURS BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:42",
-      "date": "01/08",
-      "timestamp": 1785616974
-    },
-    {
-      "id": "BFMTV_1785616750",
-      "source": "BFMTV",
-      "text": "RUSSIE: UNE EXPLOSION À MOSCOU FAIT TROIS MORTS ET PLUSIEURS BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:39",
-      "date": "01/08",
-      "timestamp": 1785616750
-    },
-    {
-      "id": "BFMTV_1785616164",
-      "source": "BFMTV",
-      "text": "SÉISME AU JAPON: LES AUTORITÉS ANNONCENT LA FIN DES OPÉRATIONS DE SECOURS DANS UN CENTRE COMMERCIAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:29",
-      "date": "01/08",
-      "timestamp": 1785616164
-    },
-    {
-      "id": "BFMTV_1785614722",
-      "source": "BFMTV",
-      "text": "UNE EXPLOSION DANS UN CAFÉ À MOSCOU FAIT TROIS MORTS ET 15 BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:05",
-      "date": "01/08",
-      "timestamp": 1785614722
-    },
-    {
-      "id": "BFMTV_1785607851",
-      "source": "BFMTV",
-      "text": "TROIS MORTS ET 15 BLESSÉS DANS UNE EXPLOSION DANS UN CAFÉ À MOSCOU",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:10",
-      "date": "01/08",
-      "timestamp": 1785607851
-    },
-    {
-      "id": "BFMTV_1785607851",
-      "source": "BFMTV",
-      "text": "TROIS MORTS ET 21 BLESSÉS DANS UNE EXPLOSION DANS UN CAFÉ À MOSCOU, UN \"ENGIN EXPLOSIF ARTISANAL\" EN CAUSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:10",
-      "date": "01/08",
-      "timestamp": 1785607851
-    },
-    {
-      "id": "BFMTV_1785606812",
-      "source": "BFMTV",
-      "text": "A SIX JOURS DE L'INVESTITURE DU NOUVEAU PRÉSIDENT COLOMBIEN, QUI A PROMIS D'INTENSIFIER LA LUTTE CONTRE LES GUÉRILLAS, L'EXPLOSION D'UN CAMION PIÉGÉ FAIT 11 BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:53",
-      "date": "01/08",
-      "timestamp": 1785606812
-    },
-    {
-      "id": "BFMTV_1785604795",
-      "source": "BFMTV",
-      "text": "DIRECT. CRISE MIGRATOIRE À CEUTA: LE ROI FELIPE VI EXPRIME SA \"PRÉOCCUPATION ET SON INDIGNATION\" FACE AUX \"GRAVES\" ÉVÉNEMENTS SURVENUS HIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:19",
-      "date": "01/08",
-      "timestamp": 1785604795
     }
   ],
   "france": {
