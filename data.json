@@ -1,7 +1,137 @@
 {
-  "last_update": "04/08 14:59",
+  "last_update": "04/08 16:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785862078",
+      "source": "BFMTV",
+      "text": "CRISE À CEUTA: 75 MIGRANTS SONT MORTS EN TENTANT DE REJOINDRE L'ENCLAVE ESPAGNOLE, SELON UN NOUVEAU BILAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:47",
+      "date": "04/08",
+      "timestamp": 1785862078
+    },
+    {
+      "id": "BFMTV_1785861316",
+      "source": "BFMTV",
+      "text": "UKRAINIEN POURCHASSÉ PAR UN DRONE RUSSE: VOLODYMYR ZELENSKY DÉNONCE UN \"SAFARI\" HUMAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:35",
+      "date": "04/08",
+      "timestamp": 1785861316
+    },
+    {
+      "id": "OPEX360_1785860950",
+      "source": "OPEX360",
+      "text": "LA DÉFENSE BRITANNIQUE INVESTIT PRÈS DE 160 MILLIONS D’EUROS POUR L’ENTRETIEN DES TORPILLES SPEARFISH ET STING RAY",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:29",
+      "date": "04/08",
+      "timestamp": 1785860950
+    },
+    {
+      "id": "BFMTV_1785860013",
+      "source": "BFMTV",
+      "text": "GUATEMALA: LE PAYS ÉMET UNE ALERTE \"DANGER\" APRÈS L'ÉRUPTION DU VOLCAN FUEGO",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:13",
+      "date": "04/08",
+      "timestamp": 1785860013
+    },
+    {
+      "id": "BFMTV_1785859667",
+      "source": "BFMTV",
+      "text": "\"JE ME SUIS MIS À COURIR\": LA VICTIME DE LA POURSUITE PAR UN DRONE RUSSE EN UKRAINE A TÉMOIGNÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:07",
+      "date": "04/08",
+      "timestamp": 1785859667
+    },
+    {
+      "id": "BFMTV_1785859334",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: \"IL N'Y A PAS QUE LE GOUVERNEMENT ESPAGNOL QUI RÉGULARISE DES MIGRANTS, IL Y A AUSSI LE GOUVERNEMENT ITALIEN\", EXPLIQUE SYLVAIN KAHN, PROFESSEUR ",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:02",
+      "date": "04/08",
+      "timestamp": 1785859334
+    },
+    {
+      "id": "BFMTV_1785858491",
+      "source": "BFMTV",
+      "text": "VAGUE MIGRATOIRE À CEUTA: LA TENSION MONTE EN EUROPE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:48",
+      "date": "04/08",
+      "timestamp": 1785858491
+    },
+    {
+      "id": "BFMTV_1785857995",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: \"IL Y A UN VRAI PROBLÈME DE CONFIANCE ENTRE TÉHÉRAN ET L'ADMINISTRATION TRUMP\", EXPLIQUE L'ANCIEN AMBASSADEUR DE FRANCE EN ARABIE SAOUDITE ET AU QATAR",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:39",
+      "date": "04/08",
+      "timestamp": 1785857995
+    },
+    {
+      "id": "BFMTV_1785857728",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP RESTE SILENCIEUX SUR LES CRISES EN UKRAINE ET EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:35",
+      "date": "04/08",
+      "timestamp": 1785857728
+    },
+    {
+      "id": "BFMTV_1785857514",
+      "source": "BFMTV",
+      "text": "GUERRE DES DRONES ENTRE LA RUSSIE ET L'UKRAINE: \"ON ARRIVE DANS UNE NOUVELLE ÈRE DE TECHNOLOGIE\", DÉCLARE MASHA KONDAKOVA, RÉALISATRICE UKRAINIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:31",
+      "date": "04/08",
+      "timestamp": 1785857514
+    },
+    {
+      "id": "BFMTV_1785856145",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: AU MOINS 72.000 MIGRANTS SONT ENTRÉS ILLÉGALEMENT, DONT 70.000 DÉJÀ REPARTIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:09",
+      "date": "04/08",
+      "timestamp": 1785856145
+    },
+    {
+      "id": "BFMTV_1785855940",
+      "source": "BFMTV",
+      "text": "INCENDIES AUX ÉTATS-UNIS: UN HOMME SOUPÇONNÉ D'ÊTRE À L'ORIGINE D'UN DES FEUX INTERPELLÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:05",
+      "date": "04/08",
+      "timestamp": 1785855940
+    },
+    {
+      "id": "BFMTV_1785855923",
+      "source": "BFMTV",
+      "text": "TODD BLANCHE \"N'EST PAS L'AVOCAT DE L'AMÉRIQUE\", DÉNONCE LE SÉNATEUR AMÉRICAIN CORY BOOKER QUI S'OPPOSE À SA NOMINATION COMME MINISTRE LA JUSTICE DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:05",
+      "date": "04/08",
+      "timestamp": 1785855923
+    },
     {
       "id": "BFMTV_1785855059",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "04:27",
       "date": "03/08",
       "timestamp": 1785731237
-    },
-    {
-      "id": "BFMTV_1785731181",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP ANNONCE LE DÉBUT DE \"NÉGOCIATIONS CET APRÈS-MIDI\" AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:26",
-      "date": "03/08",
-      "timestamp": 1785731181
-    },
-    {
-      "id": "BFMTV_1785731109",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: L'ÉTAT D'URGENCE DÉCLARÉ DANS L'ÉTAT DE WASHINGTON, FACE À DES FEUX DE FORÊT DÉVASTATEURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:25",
-      "date": "03/08",
-      "timestamp": 1785731109
-    },
-    {
-      "id": "BFMTV_1785730451",
-      "source": "BFMTV",
-      "text": "GRÈCE: COLLISION ENTRE DEUX HÉLICOPTÈRES QUI INTERVENAIENT CONTRE UN INCENDIE, LES DEUX PILOTES TUÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:14",
-      "date": "03/08",
-      "timestamp": 1785730451
-    },
-    {
-      "id": "BFMTV_1785729340",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE UNE REPRISE DES NÉGOCIATIONS AVEC L'IRAN, TÉHÉRAN NE CONFIRME PAS À CE STADE",
-      "urgent": true,
-      "france_related": false,
-      "time": "03:55",
-      "date": "03/08",
-      "timestamp": 1785729340
-    },
-    {
-      "id": "BFMTV_1785707412",
-      "source": "BFMTV",
-      "text": "GUERRE: MALGRÉ LE SOUTIEN DE SES ALLIÉS, LA RUSSIE FAIT FACE À DES DÉFIS SUR LE TERRAIN EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:50",
-      "date": "02/08",
-      "timestamp": 1785707412
-    },
-    {
-      "id": "BFMTV_1785706680",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DEMANDE AUX ÉTATS-UNIS ET À L'EUROPE DE LUI FOURNIR PLUS DE MISSILES",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:38",
-      "date": "02/08",
-      "timestamp": 1785706680
-    },
-    {
-      "id": "BFMTV_1785704986",
-      "source": "BFMTV",
-      "text": "FANIL SARVAROV, IGOR KIRILOV, DARIA DOUGUINA ... LES PERSONNALITÉS RUSSES CIBLÉES PAR L'UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:09",
-      "date": "02/08",
-      "timestamp": 1785704986
-    },
-    {
-      "id": "BFMTV_1785696696",
-      "source": "BFMTV",
-      "text": "LA STRATÉGIE MILITAIRE UKRAINIENNE ÉVOLUE AVEC DES FRAPPES EN PROFONDEUR EN RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:51",
-      "date": "02/08",
-      "timestamp": 1785696696
-    },
-    {
-      "id": "BFMTV_1785696618",
-      "source": "BFMTV",
-      "text": "\"NOUS SALUONS TOUT CHEMIN DE DIALOGUE\": LE PRÉSIDENT DÉCHU DU VENEZUELA NICOLAS MADURO S'EXPRIME DEPUIS SA PRISON",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:50",
-      "date": "02/08",
-      "timestamp": 1785696618
-    },
-    {
-      "id": "BFMTV_1785696600",
-      "source": "BFMTV",
-      "text": "DRONE UAV-290, DRONE FR-1: L'UKRAINE EMPLOIE DES DRONES POUR AFFAIBLIR LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:50",
-      "date": "02/08",
-      "timestamp": 1785696600
-    },
-    {
-      "id": "BFMTV_1785694996",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MOSCOU: \"[LA GUERRE EN UKRAINE] TOUCHE MAINTENANT L'ÉLITE RUSSE\", ANALYSE VINCENT JAUVERT, GRAND REPORTER ET AUTEUR",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:23",
-      "date": "02/08",
-      "timestamp": 1785694996
-    },
-    {
-      "id": "BFMTV_1785694754",
-      "source": "BFMTV",
-      "text": "RESTAURANT HUPPÉ, VICTIMES … CE QUE L'ON SAIT DE L'EXPLOSION À MOSCOU CE SAMEDI 1ER AOÛT",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:19",
-      "date": "02/08",
-      "timestamp": 1785694754
-    },
-    {
-      "id": "BFMTV_1785689854",
-      "source": "BFMTV",
-      "text": "\"JE VEUX ME BATTRE CONTRE LA VIEILLESSE\": À 80 ANS, LULA ANNONCE SA CANDIDATURE POUR UN 4E ET DERNIER MANDAT DE PRÉSIDENT DU BRÉSIL",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:57",
-      "date": "02/08",
-      "timestamp": 1785689854
     }
   ],
   "france": {
