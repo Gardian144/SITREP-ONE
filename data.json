@@ -1,7 +1,107 @@
 {
-  "last_update": "04/08 10:09",
+  "last_update": "04/08 12:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785844305",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:51",
+      "date": "04/08",
+      "timestamp": 1785844305
+    },
+    {
+      "id": "BFMTV_1785844304",
+      "source": "BFMTV",
+      "text": "UNE PERSONNE PORTÉE DISPARUE DANS L'INCENDIE D'UN CARGO DANS LE DÉTROIT D'ORMUZ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:51",
+      "date": "04/08",
+      "timestamp": 1785844304
+    },
+    {
+      "id": "BFMTV_1785843969",
+      "source": "BFMTV",
+      "text": "DEUX MIGRANTS SECOURUS EN MER APRÈS DEUX SEMAINES À LA DÉRIVE AU LARGE DES BALÉARES",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:46",
+      "date": "04/08",
+      "timestamp": 1785843969
+    },
+    {
+      "id": "BFMTV_1785842873",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: LE POINT SUR L'ENTRÉE DE DIZAINES DE MILLIERS DE MIGRANTS DANS L'ENCLAVE ESPAGNOLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:27",
+      "date": "04/08",
+      "timestamp": 1785842873
+    },
+    {
+      "id": "BFMTV_1785842068",
+      "source": "BFMTV",
+      "text": "UNE ATTAQUE DE DRONES UKRAINIENS FAIT CINQ MORTS ET PLUSIEURS BLESSÉS EN RUSSIE DANS LA RÉGION DE MOSCOU",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:14",
+      "date": "04/08",
+      "timestamp": 1785842068
+    },
+    {
+      "id": "BFMTV_1785842056",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA VIDÉO D'UN DRONE RUSSE SEMBLE TRAQUER UN CIVIL AVANT D'EXPLOSER",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:14",
+      "date": "04/08",
+      "timestamp": 1785842056
+    },
+    {
+      "id": "BFMTV_1785841887",
+      "source": "BFMTV",
+      "text": "AFFLUX DE MIGRANTS À CEUTA: CELA \"N'AURAIT PAS DÛ SE PRODUIRE\", ESTIME LA COMMISSAIRE EUROPÉENNE À LA MÉDITERRANÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:11",
+      "date": "04/08",
+      "timestamp": 1785841887
+    },
+    {
+      "id": "OPEX360_1785841055",
+      "source": "OPEX360",
+      "text": "GUERRE DES MINES : LE MINISTÈRE DES ARMÉES COMMANDE DAVANTAGE DE DRONES NAVALS ET AFFRÈTE DES NAVIRES CIVILS POUR LES DÉPLOYER",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:57",
+      "date": "04/08",
+      "timestamp": 1785841055
+    },
+    {
+      "id": "BFMTV_1785840725",
+      "source": "BFMTV",
+      "text": "LE DANEMARK TRIPLE LA DURÉE DE SON SERVICE MILITAIRE FACE À LA MENACE RUSSE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:52",
+      "date": "04/08",
+      "timestamp": 1785840725
+    },
+    {
+      "id": "BFMTV_1785838302",
+      "source": "BFMTV",
+      "text": "VAGUE MIGRATOIRE À CEUTA: MANQUE D’EAU, D’HYGIÈNE… L’ENFER DES MIGRANTS DANS L’ENCLAVE ESPAGNOLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:11",
+      "date": "04/08",
+      "timestamp": 1785838302
+    },
     {
       "id": "BFMTV_1785837835",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "09:36",
       "date": "02/08",
       "timestamp": 1785663417
-    },
-    {
-      "id": "BFMTV_1785662739",
-      "source": "BFMTV",
-      "text": "MASSIVE ATTACK BANNI DE SINGAPOUR POUR AVOIR MONTRÉ UN DRAPEAU PALESTINIEN EN CONCERT",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:25",
-      "date": "02/08",
-      "timestamp": 1785662739
-    },
-    {
-      "id": "BFMTV_1785658635",
-      "source": "BFMTV",
-      "text": "CEUTA: L'ESPAGNE INSTALLE UNE BARRIÈRE FLOTTANTE À LA FRONTIÈRE AVEC LE MAROC",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:17",
-      "date": "02/08",
-      "timestamp": 1785658635
-    },
-    {
-      "id": "BFMTV_1785658529",
-      "source": "BFMTV",
-      "text": "\"PRIVILÉGIER LE DIALOGUE\": DONALD TRUMP ET LE PRINCE HÉRITIER SAOUDIEN ONT DISCUTÉ DES TENSIONS AU MOYEN-ORIENT LORS D'UN APPEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:15",
-      "date": "02/08",
-      "timestamp": 1785658529
-    },
-    {
-      "id": "BFMTV_1785657246",
-      "source": "BFMTV",
-      "text": "\"UNE SCÈNE CHAOTIQUE\": UNE FUSILLADE MORTELLE FAIT TROIS MORTS ET SEPT BLESSÉS DANS UN RESTAURANT AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:54",
-      "date": "02/08",
-      "timestamp": 1785657246
-    },
-    {
-      "id": "BFMTV_1785650128",
-      "source": "BFMTV",
-      "text": "TROIS MORTS, \"ENGIN EXPLOSIF\"... CE QUE L'ON SAIT DE L'EXPLOSION DANS UN RESTAURANT DE MOSCOU",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:55",
-      "date": "02/08",
-      "timestamp": 1785650128
-    },
-    {
-      "id": "BFMTV_1785649466",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA RUSSIE DIT AVOIR DÉTRUIT 635 DRONES UKRAINIENS PENDANT LA NUIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:44",
-      "date": "02/08",
-      "timestamp": 1785649466
-    },
-    {
-      "id": "BFMTV_1785648724",
-      "source": "BFMTV",
-      "text": "\"UNE SCÈNE CHAOTIQUE\": UNE FUSILLADE MORTELLE ÉCLATE DANS UN RESTAURANT AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:32",
-      "date": "02/08",
-      "timestamp": 1785648724
-    },
-    {
-      "id": "BFMTV_1785645604",
-      "source": "BFMTV",
-      "text": "UKRAINE: DONALD TRUMP DIT \"NE PAS ÊTRE CERTAIN\" QU'IL AUTORISERA L'UKRAINE À FABRIQUER LES MISSILES PATRIOT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:40",
-      "date": "02/08",
-      "timestamp": 1785645604
-    },
-    {
-      "id": "BFMTV_1785645419",
-      "source": "BFMTV",
-      "text": "RUSSIE: CE QUE L'ON SAIT DE L'EXPLOSION DANS UN CAFÉ À MOSCOU QUI A FAIT TROIS MORTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:36",
-      "date": "02/08",
-      "timestamp": 1785645419
-    },
-    {
-      "id": "BFMTV_1785645190",
-      "source": "BFMTV",
-      "text": "GAZA: HUIT MORTS DANS DES FRAPPES ISRAÉLIENNES NOCTURNES, MALGRÉ L'ANNONCE DE L'ACCORD AVEC LE HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:33",
-      "date": "02/08",
-      "timestamp": 1785645190
     }
   ],
   "france": {
