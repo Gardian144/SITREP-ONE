@@ -1,7 +1,37 @@
 {
-  "last_update": "04/08 21:37",
+  "last_update": "04/08 22:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785880880",
+      "source": "BFMTV",
+      "text": "KIEV FRAPPÉE CE SOIR: LES PREMIÈRES PHOTOS DE NOTRE CORRESPONDANT BFMTV EN UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:01",
+      "date": "04/08",
+      "timestamp": 1785880880
+    },
+    {
+      "id": "BFMTV_1785880297",
+      "source": "BFMTV",
+      "text": "DES MISSILES BALISTIQUES ONT FRAPPÉ KIEV EN UKRAINE, DES EXPLOSIONS ONT ÉTÉ ENTENDUES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:51",
+      "date": "04/08",
+      "timestamp": 1785880297
+    },
+    {
+      "id": "BFMTV_1785880199",
+      "source": "BFMTV",
+      "text": "UKRAINE: DES EXPLOSIONS ENTENDUES À KIEV APRÈS UNE ALERTE SIGNALANT L'APPROCHE DE MISSILES BALISTIQUES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:49",
+      "date": "04/08",
+      "timestamp": 1785880199
+    },
     {
       "id": "BFMTV_1785879230",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "09:13",
       "date": "03/08",
       "timestamp": 1785748421
-    },
-    {
-      "id": "BFMTV_1785747137",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:52",
-      "date": "03/08",
-      "timestamp": 1785747137
-    },
-    {
-      "id": "BFMTV_1785747137",
-      "source": "BFMTV",
-      "text": "GAZA: ISRAËL \"INQUIET\" APRÈS L'ANNONCE PAR DONALD TRUMP D'UN PLAN POUR DÉSARMER LE HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:52",
-      "date": "03/08",
-      "timestamp": 1785747137
-    },
-    {
-      "id": "BFMTV_1785746966",
-      "source": "BFMTV",
-      "text": "INCENDIES AUX ÉTATS-UNIS: L'ÉTAT D'URGENCE DÉCRÉTÉ DANS L'ÉTAT DE WASHINGTON, 60.000 PERSONNES APPELÉES À ÉVACUER",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:49",
-      "date": "03/08",
-      "timestamp": 1785746966
     }
   ],
   "france": {
