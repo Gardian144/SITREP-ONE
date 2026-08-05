@@ -1,7 +1,37 @@
 {
-  "last_update": "05/08 19:54",
+  "last_update": "05/08 21:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785963406",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"LA SITUATION SUR LE FRONT EST COMPLÈTEMENT BLOQUÉE\", ANALYSE LE LIEUTENANT-COLONEL GUILLAUME ANCEL",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:56",
+      "date": "05/08",
+      "timestamp": 1785963406
+    },
+    {
+      "id": "BFMTV_1785962737",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LES SITES DE TIR DE MISSILES BALISTIQUES RUSSES, FUTURES CIBLES DE L'ARMÉE UKRAINIENNE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:45",
+      "date": "05/08",
+      "timestamp": 1785962737
+    },
+    {
+      "id": "BFMTV_1785959638",
+      "source": "BFMTV",
+      "text": "ABDUL EL-SAYED, VAINQUEUR DE LA PRIMAIRE DÉMOCRATE DU MICHIGAN, APPELLE LES DÉMOCRATES À SE RASSEMBLER EN NOVEMBRE POUR BATTRE TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:53",
+      "date": "05/08",
+      "timestamp": 1785959638
+    },
     {
       "id": "BFMTV_1785959165",
       "source": "BFMTV",
@@ -31,6 +61,16 @@
       "time": "19:28",
       "date": "05/08",
       "timestamp": 1785958095
+    },
+    {
+      "id": "BFMTV_1785957486",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:18",
+      "date": "05/08",
+      "timestamp": 1785957486
     },
     {
       "id": "BFMTV_1785957485",
@@ -961,46 +1001,6 @@
       "time": "14:49",
       "date": "04/08",
       "timestamp": 1785854987
-    },
-    {
-      "id": "OPEX360_1785854945",
-      "source": "OPEX360",
-      "text": "AU TOTAL, HECKLER & KOCH POURRAIT FOURNIR JUSQU’À 500 000 NOUVEAUX FUSILS D’ASSAUT G95A1/KA1 AUX FORCES ALLEMANDES",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:49",
-      "date": "04/08",
-      "timestamp": 1785854945
-    },
-    {
-      "id": "BFMTV_1785854621",
-      "source": "BFMTV",
-      "text": "\"IL A PARTICIPÉ À LA DISSIMULATION DES DOSSIERS EPSTEIN\": UN SÉNATEUR AMÉRICAIN S’OPPOSE À LA NOMINATION DE TODD BLANCHE COMME MINISTRE DE LA JUSTICE DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:43",
-      "date": "04/08",
-      "timestamp": 1785854621
-    },
-    {
-      "id": "BFMTV_1785853921",
-      "source": "BFMTV",
-      "text": "LES IMAGES IMPRESSIONNANTES DE L'ÉRUPTION DU VOLCAN FUEGO AU GUATEMALA",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:32",
-      "date": "04/08",
-      "timestamp": 1785853921
-    },
-    {
-      "id": "BFMTV_1785853358",
-      "source": "BFMTV",
-      "text": "ORMUZ: \"DU PÉTROLE Y CIRCULE, LE DÉTROIT EST OUVERT\", AFFIRME LE SECRÉTAIRE D'ÉTAT AMÉRICAIN MARCO RUBIO",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:22",
-      "date": "04/08",
-      "timestamp": 1785853358
     }
   ],
   "france": {
