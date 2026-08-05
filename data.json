@@ -1,7 +1,87 @@
 {
-  "last_update": "05/08 18:10",
+  "last_update": "05/08 19:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785959165",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU ASSURE QU'ISRAËL N'A PAS ACCEPTÉ LE DERNIER PLAN POUR GAZA SOUTENU PAR WASHINGTON",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:46",
+      "date": "05/08",
+      "timestamp": 1785959165
+    },
+    {
+      "id": "BFMTV_1785959165",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:46",
+      "date": "05/08",
+      "timestamp": 1785959165
+    },
+    {
+      "id": "BFMTV_1785958095",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA : 72 000 TRAVERSÉES, 77 MORTS ET DE LOURDES QUESTIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:28",
+      "date": "05/08",
+      "timestamp": 1785958095
+    },
+    {
+      "id": "BFMTV_1785957485",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT IRANIEN ADMET QUE LA COMMUNICATION AVEC LE GUIDE SUPRÊME MOJTABA KHAMENEI EST \"TRÈS DIFFICILE EN CE MOMENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:18",
+      "date": "05/08",
+      "timestamp": 1785957485
+    },
+    {
+      "id": "BFMTV_1785956027",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"L'UKRAINE NE SAIT PAS INTERCEPTER LES MISSILES BALISTIQUES\", ANALYSE PATRICK DUTARTRE, GÉNÉRAL DE L'ARMÉE DE L'AIR",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:53",
+      "date": "05/08",
+      "timestamp": 1785956027
+    },
+    {
+      "id": "BFMTV_1785955750",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"LA RUSSIE NE VEUT PAS S'ARRÊTER\", ASSURE VOLODYMY ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:49",
+      "date": "05/08",
+      "timestamp": 1785955750
+    },
+    {
+      "id": "BFMTV_1785954153",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: BOMBES GUIDÉES, MISSILES NORD-CORÉENS... L'ARSENAL AÉRIEN REDOUTABLE DE LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:22",
+      "date": "05/08",
+      "timestamp": 1785954153
+    },
+    {
+      "id": "BFMTV_1785953540",
+      "source": "BFMTV",
+      "text": "UN EMPLOYÉ FRANÇAIS DU CLUB MED POURSUIVI POUR VIOL SUR UN CLIENT EN AFRIQUE DU SUD",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:12",
+      "date": "05/08",
+      "timestamp": 1785953540
+    },
     {
       "id": "BFMTV_1785953297",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "14:22",
       "date": "04/08",
       "timestamp": 1785853358
-    },
-    {
-      "id": "BFMTV_1785852958",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:15",
-      "date": "04/08",
-      "timestamp": 1785852958
-    },
-    {
-      "id": "BFMTV_1785852957",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY DÉNONCE UN \"SAFARI\" HUMAIN: LES IMAGES D'UN VENDEUR DE LÉGUMES TRAQUÉ PAR UN DRONE RUSSE À KHERSON SUSCITENT L'INDIGNATION",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:15",
-      "date": "04/08",
-      "timestamp": 1785852957
-    },
-    {
-      "id": "BFMTV_1785848924",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE DE CEUTA: L'ESPACE SCHENGEN N'A PAS ÉTÉ \"COMPROMIS\", ASSURE MADRID",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:08",
-      "date": "04/08",
-      "timestamp": 1785848924
-    },
-    {
-      "id": "BFMTV_1785846768",
-      "source": "BFMTV",
-      "text": "CEUTA: LE COMMISSAIRE EUROPÉEN À LA MIGRATION Y VOIT UN \"TEST DE LA SÉCURITÉ DE NOS FRONTIÈRES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:32",
-      "date": "04/08",
-      "timestamp": 1785846768
-    },
-    {
-      "id": "BFMTV_1785846194",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: LE COMMISSAIRE EUROPÉEN AFFIRME QUE \"L'ESPACE SCHENGEN N'A PAS ÉTÉ AFFECTÉ\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:23",
-      "date": "04/08",
-      "timestamp": 1785846194
-    },
-    {
-      "id": "BFMTV_1785844305",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:51",
-      "date": "04/08",
-      "timestamp": 1785844305
-    },
-    {
-      "id": "BFMTV_1785844304",
-      "source": "BFMTV",
-      "text": "UNE PERSONNE PORTÉE DISPARUE DANS L'INCENDIE D'UN CARGO DANS LE DÉTROIT D'ORMUZ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:51",
-      "date": "04/08",
-      "timestamp": 1785844304
-    },
-    {
-      "id": "BFMTV_1785843969",
-      "source": "BFMTV",
-      "text": "DEUX MIGRANTS SECOURUS EN MER APRÈS DEUX SEMAINES À LA DÉRIVE AU LARGE DES BALÉARES",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:46",
-      "date": "04/08",
-      "timestamp": 1785843969
     }
   ],
   "france": {
