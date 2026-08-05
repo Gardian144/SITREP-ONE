@@ -1,7 +1,37 @@
 {
-  "last_update": "05/08 21:06",
+  "last_update": "05/08 22:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785966275",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: SOLDATS, MISSILES… QUEL EST LE RÔLE DE LA CORÉE DU NORD, QUI SOUTIENT LA RUSSIE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:44",
+      "date": "05/08",
+      "timestamp": 1785966275
+    },
+    {
+      "id": "BFMTV_1785965041",
+      "source": "BFMTV",
+      "text": "AU GUATEMALA, L'ÉRUPTION DU VOLCAN DE FUEGO A PRIS FIN",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:24",
+      "date": "05/08",
+      "timestamp": 1785965041
+    },
+    {
+      "id": "BFMTV_1785964193",
+      "source": "BFMTV",
+      "text": "L'UKRAINE ORDONNE L'ÉVACUATION DES FAMILLES DE KRAMATORSK, DANS L'EST DU PAYS, FACE AUX ATTAQUES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:09",
+      "date": "05/08",
+      "timestamp": 1785964193
+    },
     {
       "id": "BFMTV_1785963406",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "15:05",
       "date": "04/08",
       "timestamp": 1785855940
-    },
-    {
-      "id": "BFMTV_1785855923",
-      "source": "BFMTV",
-      "text": "TODD BLANCHE \"N'EST PAS L'AVOCAT DE L'AMÉRIQUE\", DÉNONCE LE SÉNATEUR AMÉRICAIN CORY BOOKER QUI S'OPPOSE À SA NOMINATION COMME MINISTRE LA JUSTICE DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:05",
-      "date": "04/08",
-      "timestamp": 1785855923
-    },
-    {
-      "id": "BFMTV_1785855059",
-      "source": "BFMTV",
-      "text": "\"UNE PÉRIODE D'ATTENTE DÉCHIRANTE PREND FIN AUJOURD'HUI\": LE CORPS DU MARI D'UNE MINISTRE ITALIENNE DISPARU FIN JUIN RETROUVÉ DANS UN LAC",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:50",
-      "date": "04/08",
-      "timestamp": 1785855059
-    },
-    {
-      "id": "BFMTV_1785854987",
-      "source": "BFMTV",
-      "text": "DE NOMBREUX ULTRANATIONALISTES ESPAGNOLS SE MOBILISENT CONTRE LES MIGRANTS MAROCAINS À CEUTA",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:49",
-      "date": "04/08",
-      "timestamp": 1785854987
     }
   ],
   "france": {
