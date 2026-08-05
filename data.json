@@ -1,7 +1,47 @@
 {
-  "last_update": "05/08 01:08",
+  "last_update": "05/08 04:29",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785903891",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS 15 MORTS DANS DES BOMBARDEMENTS RUSSES DANS LA RÉGION DE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:24",
+      "date": "05/08",
+      "timestamp": 1785903891
+    },
+    {
+      "id": "BFMTV_1785903510",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES FRAPPES RUSSES FONT AU MOINS 15 MORTS À KIEV, DES ENTREPÔTS TOUCHÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:18",
+      "date": "05/08",
+      "timestamp": 1785903510
+    },
+    {
+      "id": "BFMTV_1785903252",
+      "source": "BFMTV",
+      "text": "UN HOMME ARMÉ ARRÊTÉ DIMANCHE SUR UN GOLF DE DONALD TRUMP EN CALIFORNIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:14",
+      "date": "05/08",
+      "timestamp": 1785903252
+    },
+    {
+      "id": "BFMTV_1785903061",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DÉCLARE QUE SOIT LE DÉTROIT D'ORMUZ \"OUVRIRA TRÈS BIENTÔT\", SOIT L'IRAN SERA FRAPPÉ \"TRÈS FORT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:11",
+      "date": "05/08",
+      "timestamp": 1785903061
+    },
     {
       "id": "BFMTV_1785880880",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "10:23",
       "date": "03/08",
       "timestamp": 1785752584
-    },
-    {
-      "id": "OPEX360_1785752234",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE INSISTE POUR OBTENIR DES MISSILES AIR-SOL AÉROBALISTIQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:17",
-      "date": "03/08",
-      "timestamp": 1785752234
-    },
-    {
-      "id": "BFMTV_1785749364",
-      "source": "BFMTV",
-      "text": "GAZA: DES FRAPPES ISRAÉLIENNES FONT AU MOINS 13 MORTS CE WEEK-END",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:29",
-      "date": "03/08",
-      "timestamp": 1785749364
-    },
-    {
-      "id": "BFMTV_1785749271",
-      "source": "BFMTV",
-      "text": "L'ARMÉE AMÉRICAINE CHERCHE DES IDÉES \"CRÉATIVES\" POUR FAIRE PRESSION SUR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:27",
-      "date": "03/08",
-      "timestamp": 1785749271
-    },
-    {
-      "id": "BFMTV_1785748421",
-      "source": "BFMTV",
-      "text": "QUATRE NOUVEAUX CAS HUMAINS DE GRIPPE AVIAIRE DÉTECTÉS EN CHINE, DONT DEUX ENFANTS DE 3 ET 12 ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:13",
-      "date": "03/08",
-      "timestamp": 1785748421
     }
   ],
   "france": {
