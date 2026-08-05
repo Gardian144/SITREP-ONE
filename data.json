@@ -1,7 +1,137 @@
 {
-  "last_update": "05/08 12:15",
+  "last_update": "05/08 14:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785940985",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: POURQUOI L'ARMÉE UKRAINIENNE CIBLE WILDBERRIES, LE \"AMAZON RUSSE\"?",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:43",
+      "date": "05/08",
+      "timestamp": 1785940985
+    },
+    {
+      "id": "BFMTV_1785940972",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE A CIBLÉ DES ENTREPÔTS DE MATÉRIEL MILITAIRE LORS DE SES FRAPPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:42",
+      "date": "05/08",
+      "timestamp": 1785940972
+    },
+    {
+      "id": "BFMTV_1785940945",
+      "source": "BFMTV",
+      "text": "\"RECOLLER LES MORCEAUX\" DU CAMP DÉMOCRATE: DANS LE MICHIGAN, LES PRIMAIRES CONSACRENT LE PROGRESSISTE ABDUL EL-SAYED, CONTRE L'ESTABLISHMENT DE SON PARTI",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:42",
+      "date": "05/08",
+      "timestamp": 1785940945
+    },
+    {
+      "id": "BFMTV_1785940840",
+      "source": "BFMTV",
+      "text": "EN RUSSIE, DES \"VEUVES NOIRES\" FONT SCANDALE EN MARIANT DES SOLDATS PROMIS À LA MORT SUR LE FRONT UKRAINIEN POUR EMPOCHER LES INDEMNITÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:40",
+      "date": "05/08",
+      "timestamp": 1785940840
+    },
+    {
+      "id": "BFMTV_1785940333",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: QUATRE HOMMES POIGNARDÉS AU CŒUR DE LONDRES, UNE FEMME ARRÊTÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:32",
+      "date": "05/08",
+      "timestamp": 1785940333
+    },
+    {
+      "id": "OPEX360_1785939057",
+      "source": "OPEX360",
+      "text": "KNDS RÉFUTE TOUT PROJET DE NATIONALISATION TOTALE PAR L’ALLEMAGNE ET LA FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:10",
+      "date": "05/08",
+      "timestamp": 1785939057
+    },
+    {
+      "id": "BFMTV_1785938189",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL - HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:56",
+      "date": "05/08",
+      "timestamp": 1785938189
+    },
+    {
+      "id": "BFMTV_1785938188",
+      "source": "BFMTV",
+      "text": "LIBAN: MALGRÉ LE CESSEZ-LE-FEU, L'ARMÉE ISRAÉLIENNE ANNONCE AVOIR TUÉ PLUSIEURS MEMBRES DU HEZBOLLAH DANS LE SUD DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:56",
+      "date": "05/08",
+      "timestamp": 1785938188
+    },
+    {
+      "id": "BFMTV_1785937743",
+      "source": "BFMTV",
+      "text": "QUATRE HOMMES POIGNARDÉS DANS LE CENTRE DE LONDRES, UNE FEMME INTERPELLÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:49",
+      "date": "05/08",
+      "timestamp": 1785937743
+    },
+    {
+      "id": "BFMTV_1785934108",
+      "source": "BFMTV",
+      "text": "FRAGILISÉ À LA TÊTE DE LA FIFA, GIANNI INFANTINO CHERCHE DU SOUTIEN AUPRÈS DE CERTAINES FÉDÉRATIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:48",
+      "date": "05/08",
+      "timestamp": 1785934108
+    },
+    {
+      "id": "BFMTV_1785933227",
+      "source": "BFMTV",
+      "text": "FIFA: SON PRÉSIDENT GIANNI INFANTINO FRAGILISÉ APRÈS UN PROJET DÉCIDÉ SANS CONCERTATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:33",
+      "date": "05/08",
+      "timestamp": 1785933227
+    },
+    {
+      "id": "BFMTV_1785933007",
+      "source": "BFMTV",
+      "text": "KIEV AFFIRME QU'UNE UNITÉ NORD-CORÉENNE ÉQUIPÉE DE MISSILES BALISTIQUES SE DÉPLOIE EN RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:30",
+      "date": "05/08",
+      "timestamp": 1785933007
+    },
+    {
+      "id": "BFMTV_1785932605",
+      "source": "BFMTV",
+      "text": "AÉROPORT DE LEIPZIG: LE DRONE DÉCOUVERT ÉTAIT ÉQUIPÉ D'UN ENGIN EXPLOSIF",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:23",
+      "date": "05/08",
+      "timestamp": 1785932605
+    },
     {
       "id": "BFMTV_1785931333",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "06:03",
       "date": "04/08",
       "timestamp": 1785823439
-    },
-    {
-      "id": "BFMTV_1785823439",
-      "source": "BFMTV",
-      "text": "VAGUE MIGRATOIRE À CEUTA: DES DIRIGEANTS DE L'UNION EUROPÉENNE SE RÉUNISSENT CE MARDI",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:03",
-      "date": "04/08",
-      "timestamp": 1785823439
-    },
-    {
-      "id": "BFMTV_1785822830",
-      "source": "BFMTV",
-      "text": "INCENDIES AUX ÉTATS-UNIS: PLUS DE 65.000 PERSONNES CONTRAINTES D’ÉVACUER",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:53",
-      "date": "04/08",
-      "timestamp": 1785822830
-    },
-    {
-      "id": "BFMTV_1785820972",
-      "source": "BFMTV",
-      "text": "GRÈCE: UN INCENDIE RAVAGE L'OUEST DE LA GRÈCE, DE NOMBREUSES PERSONNES ÉVACUÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:22",
-      "date": "04/08",
-      "timestamp": 1785820972
-    },
-    {
-      "id": "BFMTV_1785820799",
-      "source": "BFMTV",
-      "text": "UNE ATTAQUE DE DRONES UKRAINIENS EN RUSSIE FAIT CINQ MORTS ET PLUSIEURS BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:19",
-      "date": "04/08",
-      "timestamp": 1785820799
-    },
-    {
-      "id": "BFMTV_1785820753",
-      "source": "BFMTV",
-      "text": "TROIS LIONS MEURENT D'UN COUP DE CHAUD AU ZOO DE TOKYO",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:19",
-      "date": "04/08",
-      "timestamp": 1785820753
-    },
-    {
-      "id": "BFMTV_1785819400",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY LIMOGE L'AMBASSADRICE UKRAINIENNE AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:56",
-      "date": "04/08",
-      "timestamp": 1785819400
-    },
-    {
-      "id": "BFMTV_1785819359",
-      "source": "BFMTV",
-      "text": "INCENDIES AUX ÉTATS-UNIS: 17 FEUX ACTIFS DANS L'ÉTAT DE WASHINGTON, 65.000 PERSONNES ÉVACUÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:55",
-      "date": "04/08",
-      "timestamp": 1785819359
-    },
-    {
-      "id": "BFMTV_1785819155",
-      "source": "BFMTV",
-      "text": "LE VOLCAN DE FUEGO EST ENTRÉ EN ÉRUPTION, LE GUATEMALA ÉMET UNE ALERTE \"DANGER\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:52",
-      "date": "04/08",
-      "timestamp": 1785819155
-    },
-    {
-      "id": "BFMTV_1785816992",
-      "source": "BFMTV",
-      "text": "IRAN/ÉTATS-UNIS: \"C'EST LA DERNIÈRE CHANCE POUR EUX DE SIGNER UN BON DOCUMENT\", ALERTE DONALD TRUMP ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:16",
-      "date": "04/08",
-      "timestamp": 1785816992
-    },
-    {
-      "id": "BFMTV_1785793919",
-      "source": "BFMTV",
-      "text": "LE \"CONSEIL DE PAIX\" DE DONALD TRUMP ASSURE QU'ISRAËL NE SE RETIRERA PAS DE GAZA AVANT LE DÉSARMEMENT COMPLET DU HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:51",
-      "date": "03/08",
-      "timestamp": 1785793919
-    },
-    {
-      "id": "BFMTV_1785793822",
-      "source": "BFMTV",
-      "text": "LE CONFLIT EN UKRAINE PERDURE, MARQUÉ PAR DES BOMBARDEMENTS CONSTANTS ET UN LOURD BILAN HUMAIN PARMI LA POPULATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:50",
-      "date": "03/08",
-      "timestamp": 1785793822
-    },
-    {
-      "id": "BFMTV_1785792290",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MOSCOU: \"POUR LES GENS QUI SOUTIENNENT VLADIMIR POUTINE, C'EST UN GRAND SCANDALE\", EXPLIQUE VERA GRANTSEVA, POLITOLOGUE RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:24",
-      "date": "03/08",
-      "timestamp": 1785792290
-    },
-    {
-      "id": "BFMTV_1785791197",
-      "source": "BFMTV",
-      "text": "UN DRONE S'ÉCRASE SUR UNE PLAGE EN RUSSIE ET FAIT SEPT MORTS DONT TROIS ENFANTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:06",
-      "date": "03/08",
-      "timestamp": 1785791197
     }
   ],
   "france": {
