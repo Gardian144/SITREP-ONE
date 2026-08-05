@@ -1,7 +1,67 @@
 {
-  "last_update": "05/08 10:06",
+  "last_update": "05/08 12:15",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785931333",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:02",
+      "date": "05/08",
+      "timestamp": 1785931333
+    },
+    {
+      "id": "BFMTV_1785930873",
+      "source": "BFMTV",
+      "text": "WILDBERRIES, LE \"AMAZON RUSSE\", FRAPPÉ PAR L'UKRAINE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:54",
+      "date": "05/08",
+      "timestamp": 1785930873
+    },
+    {
+      "id": "BFMTV_1785930106",
+      "source": "BFMTV",
+      "text": "IRAN: L'ONU \"ALARMÉE\" PAR LA HAUSSE DES EXÉCUTIONS, AVEC AU MOINS 56 MISES À MORT DEPUIS MARS",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:41",
+      "date": "05/08",
+      "timestamp": 1785930106
+    },
+    {
+      "id": "BFMTV_1785928350",
+      "source": "BFMTV",
+      "text": "MEXIQUE: UN INFLUENCEUR TUÉ D'UN TIR EN PLEIN DIRECT",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:12",
+      "date": "05/08",
+      "timestamp": 1785928350
+    },
+    {
+      "id": "BFMTV_1785926224",
+      "source": "BFMTV",
+      "text": "DE MAO ZEDONG À XI JINPING: QU'EST-CE QUE BEIDAIHE, LA CITÉ BALNÉAIRE ACCUEILLANT L'ÉLITE CHINOISE EN VACANCES?",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:37",
+      "date": "05/08",
+      "timestamp": 1785926224
+    },
+    {
+      "id": "OPEX360_1785925542",
+      "source": "OPEX360",
+      "text": "LA FORCE AÉRIENNE COLOMBIENNE COMMANDE DEUX AVIONS DE TRANSPORT KC-390 MILLENIUM AUPRÈS DU BRÉSILIEN EMBRAER",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:25",
+      "date": "05/08",
+      "timestamp": 1785925542
+    },
     {
       "id": "BFMTV_1785922901",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "21:06",
       "date": "03/08",
       "timestamp": 1785791197
-    },
-    {
-      "id": "BFMTV_1785790518",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME CE LUNDI QUE LES ÉTATS-UNIS DISCUTENT \"EN CE MOMENT MÊME\" AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:55",
-      "date": "03/08",
-      "timestamp": 1785790518
-    },
-    {
-      "id": "BFMTV_1785787169",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE DES DISCUSSIONS ONT LIEU \"EN CE MOMENT MÊME\" AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:59",
-      "date": "03/08",
-      "timestamp": 1785787169
-    },
-    {
-      "id": "BFMTV_1785785783",
-      "source": "BFMTV",
-      "text": "ANALYSE DÉTAILLÉE DES INTRUSIONS DE DRONES RUSSES AU-DESSUS DE L'EUROPE D'AOÛT 2024 À FÉVRIER 2026",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:36",
-      "date": "03/08",
-      "timestamp": 1785785783
-    },
-    {
-      "id": "OPEX360_1785778500",
-      "source": "OPEX360",
-      "text": "L’ALLEMAND RHEINMETALL DÉVOILE LE CONCEPT D’UNE FRÉGATE AYANT LA PUISSANCE DE FEU D’UN DESTROYER",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:35",
-      "date": "03/08",
-      "timestamp": 1785778500
-    },
-    {
-      "id": "BFMTV_1785777242",
-      "source": "BFMTV",
-      "text": "CORÉE DU NORD: LES MÉDIAS D'ÉTAT DIFFUSENT DE RARES IMAGES DE PLAGES BONDÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:14",
-      "date": "03/08",
-      "timestamp": 1785777242
-    },
-    {
-      "id": "OPEX360_1785773492",
-      "source": "OPEX360",
-      "text": "LES ÉMIRATS ARABES UNIS ONT RENFORCÉ LES CAPACITÉS AIR-SOL DE LEURS MIRAGE 2000-9",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:11",
-      "date": "03/08",
-      "timestamp": 1785773492
     }
   ],
   "france": {
