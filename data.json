@@ -1,7 +1,97 @@
 {
-  "last_update": "05/08 07:17",
+  "last_update": "05/08 10:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785922901",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA CRIMÉE SOUS PRESSION UKRAINIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:41",
+      "date": "05/08",
+      "timestamp": 1785922901
+    },
+    {
+      "id": "BFMTV_1785921590",
+      "source": "BFMTV",
+      "text": "POURQUOI TAÏWAN VA COUPER INTERNET SUR UNE PARTIE DE SON TERRITOIRE? ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:19",
+      "date": "05/08",
+      "timestamp": 1785921590
+    },
+    {
+      "id": "BFMTV_1785920881",
+      "source": "BFMTV",
+      "text": "NE L'APPELEZ PLUS NAURU: LA PETITE ÎLE DU PACIFIQUE OFFICIELLEMENT RENOMMÉE RÉPUBLIQUE DE NAOERO",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:08",
+      "date": "05/08",
+      "timestamp": 1785920881
+    },
+    {
+      "id": "BFMTV_1785920557",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: FAB 500, KN-23...LES MISSILES À LA DISPOSITION DE L'ARMÉE RUSSE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:02",
+      "date": "05/08",
+      "timestamp": 1785920557
+    },
+    {
+      "id": "BFMTV_1785920186",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV N'A PAS PU ABATTRE UN SEUL MISSILE LORS DE L'ATTAQUE RUSSE QUI A FAIT 17 MORTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:56",
+      "date": "05/08",
+      "timestamp": 1785920186
+    },
+    {
+      "id": "BFMTV_1785918630",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES FRAPPES RUSSES FONT AU MOINS 17 MORTS À KIEV, DES ENTREPÔTS TOUCHÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:30",
+      "date": "05/08",
+      "timestamp": 1785918630
+    },
+    {
+      "id": "BFMTV_1785917333",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS 17 MORTS ET 44 BLESSÉS LORS DE FRAPPES RUSSES PRÈS DE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:08",
+      "date": "05/08",
+      "timestamp": 1785917333
+    },
+    {
+      "id": "BFMTV_1785916246",
+      "source": "BFMTV",
+      "text": "UN HOMME DÉGUISÉ EN GRANDE FAUCHEUSE CONDAMNÉ APRÈS AVOIR FIXÉ LES PATIENTS D'UN HÔPITAL BRITANNIQUE DEPUIS UN TOIT",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:50",
+      "date": "05/08",
+      "timestamp": 1785916246
+    },
+    {
+      "id": "BFMTV_1785915343",
+      "source": "BFMTV",
+      "text": "APRÈS UNE NOUVELLE ATTAQUE DE DRONE MEUTRIÈRE DE LA RUSSIE SUR KIEV, VOLODYMYR ZELENSKY RÉCLAME DES MUNITIONS ANTIBALISTIQUES À SES ALLIÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:35",
+      "date": "05/08",
+      "timestamp": 1785915343
+    },
     {
       "id": "BFMTV_1785914107",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "16:11",
       "date": "03/08",
       "timestamp": 1785773492
-    },
-    {
-      "id": "BFMTV_1785773411",
-      "source": "BFMTV",
-      "text": "UN \"ACCORD\" OU UNE \"CAPITULATION TOTALE\": APRÈS AVOIR ANNONCÉ LA REPRISE DES NÉGOCIATIONS, DONALD TRUMP LAISSE DEUX CHOIX À L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:10",
-      "date": "03/08",
-      "timestamp": 1785773411
-    },
-    {
-      "id": "BFMTV_1785772942",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:02",
-      "date": "03/08",
-      "timestamp": 1785772942
-    },
-    {
-      "id": "BFMTV_1785772941",
-      "source": "BFMTV",
-      "text": "DES ÉCHANGES DE FRAPPES ENTRE L'UKRAINE ET LA RUSSIE FONT 14 MORTS ET DES DIZAINES DE BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:02",
-      "date": "03/08",
-      "timestamp": 1785772941
-    },
-    {
-      "id": "BFMTV_1785772306",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MOSCOU: \"ÇA NE M'ÉTONNE PAS QU'IL N'Y AIT PAS DE RÉACTION DU CÔTÉ DE L'UKRAINE\", EXPLIQUE MARIANNE BABICH, CONSEILLÈRE EN COMMUNICATION FRANCO-UKRAINIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:51",
-      "date": "03/08",
-      "timestamp": 1785772306
-    },
-    {
-      "id": "BFMTV_1785769526",
-      "source": "BFMTV",
-      "text": "UN AFGHAN DE 26 ANS AVOUE LE MEURTRE D'UNE ÉCOSSAISE DONT LE CORPS AVAIT ÉTÉ RETROUVÉ DANS UNE VALISE EN GRÈCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:05",
-      "date": "03/08",
-      "timestamp": 1785769526
-    },
-    {
-      "id": "BFMTV_1785769491",
-      "source": "BFMTV",
-      "text": "QUI EST ALEXANDRE TCHAÏKO, LE HAUT GRADÉ RUSSE QUI AURAIT ÉTÉ VISÉ DANS UN ATTENTAT CE SAMEDI À MOSCOU?",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:04",
-      "date": "03/08",
-      "timestamp": 1785769491
-    },
-    {
-      "id": "BFMTV_1785769114",
-      "source": "BFMTV",
-      "text": "TURQUIE: UNE FEMME ENCEINTE ET VICTIME DE VIOLENCES CONJUGALES MEURT EN CHUTANT D'UN BALCON, SON MARI ARRÊTÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:58",
-      "date": "03/08",
-      "timestamp": 1785769114
-    },
-    {
-      "id": "BFMTV_1785768554",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MOSCOU: CET ÉVÉNEMENT SOULÈVE DES QUESTIONS SUR LES TENSIONS ENTRE LA RUSSIE ET L'UKRAINE ALORS QUE LA GUERRE CONTINUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:49",
-      "date": "03/08",
-      "timestamp": 1785768554
-    },
-    {
-      "id": "BFMTV_1785768178",
-      "source": "BFMTV",
-      "text": "EXPLOSION À MOSCOU: MALGRÉ LA MENACE, LA VIE SE POURSUIT DANS LA CAPITALE RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:42",
-      "date": "03/08",
-      "timestamp": 1785768178
     }
   ],
   "france": {
