@@ -1,7 +1,37 @@
 {
-  "last_update": "06/08 04:11",
+  "last_update": "06/08 06:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1785996086",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE DIT AVOIR ABATTU 605 DRONES UKRAINIENS DANS LA NUIT DE MERCREDI À JEUDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:01",
+      "date": "06/08",
+      "timestamp": 1785996086
+    },
+    {
+      "id": "BFMTV_1785994942",
+      "source": "BFMTV",
+      "text": "\"NOUS AVIONS LES PRIX LES PLUS ÉLEVÉS AU MONDE, ET MAINTENANT NOUS AVONS LES PRIX LES PLUS BAS\", DÉCLARE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:42",
+      "date": "06/08",
+      "timestamp": 1785994942
+    },
+    {
+      "id": "BFMTV_1785992361",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: TROIS MORTS DANS DES BOMBARDEMENTS RUSSES AU NORD-EST DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:59",
+      "date": "06/08",
+      "timestamp": 1785992361
+    },
     {
       "id": "BFMTV_1785966275",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "15:35",
       "date": "04/08",
       "timestamp": 1785857728
-    },
-    {
-      "id": "BFMTV_1785857514",
-      "source": "BFMTV",
-      "text": "GUERRE DES DRONES ENTRE LA RUSSIE ET L'UKRAINE: \"ON ARRIVE DANS UNE NOUVELLE ÈRE DE TECHNOLOGIE\", DÉCLARE MASHA KONDAKOVA, RÉALISATRICE UKRAINIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:31",
-      "date": "04/08",
-      "timestamp": 1785857514
-    },
-    {
-      "id": "BFMTV_1785856145",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: AU MOINS 72.000 MIGRANTS SONT ENTRÉS ILLÉGALEMENT, DONT 70.000 DÉJÀ REPARTIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:09",
-      "date": "04/08",
-      "timestamp": 1785856145
-    },
-    {
-      "id": "BFMTV_1785855940",
-      "source": "BFMTV",
-      "text": "INCENDIES AUX ÉTATS-UNIS: UN HOMME SOUPÇONNÉ D'ÊTRE À L'ORIGINE D'UN DES FEUX INTERPELLÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:05",
-      "date": "04/08",
-      "timestamp": 1785855940
     }
   ],
   "france": {
