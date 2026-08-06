@@ -1,7 +1,87 @@
 {
-  "last_update": "06/08 09:38",
+  "last_update": "06/08 11:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786013757",
+      "source": "BFMTV",
+      "text": "\"PAS DE COMPLOT\": LE PREMIER MINISTRE CANADIEN MARK CARNEY SE MOQUE DE DONALD TRUMP APRÈS UN PROBLÈME DE TÉLÉPROMPTEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:55",
+      "date": "06/08",
+      "timestamp": 1786013757
+    },
+    {
+      "id": "OPEX360_1786013411",
+      "source": "OPEX360",
+      "text": "LE COÛT DES QUINZE FUTURS CUIRASSÉS DE L’US NAVY POURRAIT ATTEINDRE LES 275 MILLIARDS DE DOLLARS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:50",
+      "date": "06/08",
+      "timestamp": 1786013411
+    },
+    {
+      "id": "BFMTV_1786013277",
+      "source": "BFMTV",
+      "text": "EN ALLEMAGNE, L'AUTEUR D'UN ATTENTAT MEURTRIER CONTRE UN CORTÈGE SYNDICAL À MUNICH CONDAMNÉ À LA PRISON À PERPÉTUITÉ",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:47",
+      "date": "06/08",
+      "timestamp": 1786013277
+    },
+    {
+      "id": "BFMTV_1786012371",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ANNONCE LA MORT DE DEUX SOLDATS RÉSERVISTES DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:32",
+      "date": "06/08",
+      "timestamp": 1786012371
+    },
+    {
+      "id": "BFMTV_1786012230",
+      "source": "BFMTV",
+      "text": "DRONE EXPLOSIF À LEIPZIG: L'ALLEMAGNE ALERTE SUR UNE \"NOUVELLE DIMENSION DE MENACE\" ",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:30",
+      "date": "06/08",
+      "timestamp": 1786012230
+    },
+    {
+      "id": "BFMTV_1786011769",
+      "source": "BFMTV",
+      "text": "MAROC: UNE SITUATION ÉCONOMIQUE CONTRASTÉE ENTRE LES GRANDES VILLES ET LE RESTE DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:22",
+      "date": "06/08",
+      "timestamp": 1786011769
+    },
+    {
+      "id": "BFMTV_1786011522",
+      "source": "BFMTV",
+      "text": "THAÏLANDE: UN JOUEUR DE FOOTBALL FOUDROYÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:18",
+      "date": "06/08",
+      "timestamp": 1786011522
+    },
+    {
+      "id": "BFMTV_1786010838",
+      "source": "BFMTV",
+      "text": "CEUTA: UNE \"CRISE DE L'ESPOIR\" POUR DES JEUNES MAROCAINS PLUS QU'UNE \"CRISE DE LA PAUVRETÉ\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:07",
+      "date": "06/08",
+      "timestamp": 1786010838
+    },
     {
       "id": "BFMTV_1786007869",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "17:44",
       "date": "04/08",
       "timestamp": 1785865440
-    },
-    {
-      "id": "BFMTV_1785864940",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: LA TENSION MONTE ENTRE L'ITALIE ET L'ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:35",
-      "date": "04/08",
-      "timestamp": 1785864940
-    },
-    {
-      "id": "OPEX360_1785864122",
-      "source": "OPEX360",
-      "text": "LES FORCES ARMÉES DANOISES DONNENT LE COUP D’ENVOI À UN NOUVEAU SERVICE MILITAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:22",
-      "date": "04/08",
-      "timestamp": 1785864122
-    },
-    {
-      "id": "BFMTV_1785862883",
-      "source": "BFMTV",
-      "text": "GUERRE DES DRONES ENTRE LA RUSSIE ET L'UKRAINE: UN CONFLIT DEVENU 100% AÉRIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:01",
-      "date": "04/08",
-      "timestamp": 1785862883
-    },
-    {
-      "id": "BFMTV_1785862078",
-      "source": "BFMTV",
-      "text": "CRISE À CEUTA: 75 MIGRANTS SONT MORTS EN TENTANT DE REJOINDRE L'ENCLAVE ESPAGNOLE, SELON UN NOUVEAU BILAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:47",
-      "date": "04/08",
-      "timestamp": 1785862078
-    },
-    {
-      "id": "BFMTV_1785861316",
-      "source": "BFMTV",
-      "text": "UKRAINIEN POURCHASSÉ PAR UN DRONE RUSSE: VOLODYMYR ZELENSKY DÉNONCE UN \"SAFARI\" HUMAIN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:35",
-      "date": "04/08",
-      "timestamp": 1785861316
-    },
-    {
-      "id": "OPEX360_1785860950",
-      "source": "OPEX360",
-      "text": "LA DÉFENSE BRITANNIQUE INVESTIT PRÈS DE 160 MILLIONS D’EUROS POUR L’ENTRETIEN DES TORPILLES SPEARFISH ET STING RAY",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:29",
-      "date": "04/08",
-      "timestamp": 1785860950
-    },
-    {
-      "id": "BFMTV_1785860013",
-      "source": "BFMTV",
-      "text": "GUATEMALA: LE PAYS ÉMET UNE ALERTE \"DANGER\" APRÈS L'ÉRUPTION DU VOLCAN FUEGO",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:13",
-      "date": "04/08",
-      "timestamp": 1785860013
-    },
-    {
-      "id": "BFMTV_1785859667",
-      "source": "BFMTV",
-      "text": "\"JE ME SUIS MIS À COURIR\": LA VICTIME DE LA POURSUITE PAR UN DRONE RUSSE EN UKRAINE A TÉMOIGNÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:07",
-      "date": "04/08",
-      "timestamp": 1785859667
     }
   ],
   "france": {
