@@ -1,7 +1,27 @@
 {
-  "last_update": "07/08 03:18",
+  "last_update": "07/08 05:13",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786077887",
+      "source": "BFMTV",
+      "text": "EXPLOITATION, TRAFICS ET MALTRAITANCE: À CEUTA, DES ONG S'INQUIÈTENT DES RISQUES POUR LES ENFANTS MIGRANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:44",
+      "date": "07/08",
+      "timestamp": 1786077887
+    },
+    {
+      "id": "BFMTV_1786076717",
+      "source": "BFMTV",
+      "text": "AU MOINS DEUX MORTS ET 15 PERSONNES BLESSÉES LORS D'UNE FUSILLADE DANS UN LYCÉE RÉPUTÉ PRÈS DE BANGKOK",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:25",
+      "date": "07/08",
+      "timestamp": 1786076717
+    },
     {
       "id": "BFMTV_1786053162",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:30",
       "date": "05/08",
       "timestamp": 1785918630
-    },
-    {
-      "id": "BFMTV_1785917333",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS 17 MORTS ET 44 BLESSÉS LORS DE FRAPPES RUSSES PRÈS DE KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:08",
-      "date": "05/08",
-      "timestamp": 1785917333
-    },
-    {
-      "id": "BFMTV_1785916246",
-      "source": "BFMTV",
-      "text": "UN HOMME DÉGUISÉ EN GRANDE FAUCHEUSE CONDAMNÉ APRÈS AVOIR FIXÉ LES PATIENTS D'UN HÔPITAL BRITANNIQUE DEPUIS UN TOIT",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:50",
-      "date": "05/08",
-      "timestamp": 1785916246
     }
   ],
   "france": {
