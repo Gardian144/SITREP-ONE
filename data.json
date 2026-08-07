@@ -1,7 +1,37 @@
 {
-  "last_update": "07/08 14:18",
+  "last_update": "07/08 15:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786115235",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE CANADIEN ENVOIE UNE PIQUE IRONIQUE À DONALD TRUMP APRÈS UNE PANNE DE PROMPTEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:07",
+      "date": "07/08",
+      "timestamp": 1786115235
+    },
+    {
+      "id": "OPEX360_1786113984",
+      "source": "OPEX360",
+      "text": "LES NÉGOCIATIONS SUR L’ACHAT DE 114 RAFALE PAR L’INDE VONT POUVOIR COMMENCER",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:46",
+      "date": "07/08",
+      "timestamp": 1786113984
+    },
+    {
+      "id": "BFMTV_1786112909",
+      "source": "BFMTV",
+      "text": "L'ARABIE SAOUDITE, LE PAKISTAN ET LA TURQUIE SCELLENT UN PACTE DE DÉFENSE EN PLEINE GUERRE AU MOYEN-ORIENT ",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:28",
+      "date": "07/08",
+      "timestamp": 1786112909
+    },
     {
       "id": "BFMTV_1786104614",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "14:32",
       "date": "05/08",
       "timestamp": 1785940333
-    },
-    {
-      "id": "OPEX360_1785939057",
-      "source": "OPEX360",
-      "text": "KNDS RÉFUTE TOUT PROJET DE NATIONALISATION TOTALE PAR L’ALLEMAGNE ET LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:10",
-      "date": "05/08",
-      "timestamp": 1785939057
-    },
-    {
-      "id": "BFMTV_1785938189",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL - HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:56",
-      "date": "05/08",
-      "timestamp": 1785938189
-    },
-    {
-      "id": "BFMTV_1785938188",
-      "source": "BFMTV",
-      "text": "LIBAN: MALGRÉ LE CESSEZ-LE-FEU, L'ARMÉE ISRAÉLIENNE ANNONCE AVOIR TUÉ PLUSIEURS MEMBRES DU HEZBOLLAH DANS LE SUD DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:56",
-      "date": "05/08",
-      "timestamp": 1785938188
     }
   ],
   "france": {
