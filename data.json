@@ -1,7 +1,37 @@
 {
-  "last_update": "07/08 17:22",
+  "last_update": "07/08 18:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786125383",
+      "source": "BFMTV",
+      "text": "\"CELA REFLÈTE SA PERSONNALITÉ NARCISSIQUE\": HILLARY CLINTON FUSTIGE LA DÉCORATION DE LA MAISON BLANCHE PAR DONALD TRUMP, QUI \"RAPPELLE LES PALAIS DE SADDAM HUSSEIN\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:56",
+      "date": "07/08",
+      "timestamp": 1786125383
+    },
+    {
+      "id": "BFMTV_1786125383",
+      "source": "BFMTV",
+      "text": "HILLARY CLINTON",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:56",
+      "date": "07/08",
+      "timestamp": 1786125383
+    },
+    {
+      "id": "OPEX360_1786124505",
+      "source": "OPEX360",
+      "text": "L’AUSTRALIE CONFIRME L’ACHAT DE 450 MISSILES AIR-AIR À LONGUE PORTÉE AIM-260 AUPRÈS DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:41",
+      "date": "07/08",
+      "timestamp": 1786124505
+    },
     {
       "id": "OPEX360_1786121857",
       "source": "OPEX360",
@@ -26,6 +56,16 @@
       "id": "BFMTV_1786121438",
       "source": "BFMTV",
       "text": "LE CHANTIER DE LA SALLE DE BAL DE DONALD TRUMP À LA MAISON BLANCHE À NOUVEAU BLOQUÉ EN APPEL",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:50",
+      "date": "07/08",
+      "timestamp": 1786121438
+    },
+    {
+      "id": "BFMTV_1786121438",
+      "source": "BFMTV",
+      "text": "LE CHANTIER DE LA SALLE DE BAL DE DONALD TRUMP À LA MAISON BLANCHE À NOUVEAU BLOQUÉ EN APPEL, LE PRÉSIDENT AMÉRICAIN ANNONCE VOULOIR SAISIR LA COUR SUPRÊME",
       "urgent": false,
       "france_related": false,
       "time": "16:50",
@@ -961,46 +1001,6 @@
       "time": "15:52",
       "date": "05/08",
       "timestamp": 1785945177
-    },
-    {
-      "id": "BFMTV_1785944990",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ET OMAN SUR LA VOIE D'UN ACCORD AUTOUR DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:49",
-      "date": "05/08",
-      "timestamp": 1785944990
-    },
-    {
-      "id": "BFMTV_1785943445",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"IL FAUT DES SYSTÈMES DE LUTTE ANTIAÉRIENNE\", EXPLIQUE MARIANNE BABICH, CONSEILLÈRE EN COMMUNICATION FRANCO-UKRAINIENNE, APRÈS LES FRAPPES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:24",
-      "date": "05/08",
-      "timestamp": 1785943445
-    },
-    {
-      "id": "BFMTV_1785941701",
-      "source": "BFMTV",
-      "text": "L'UKRAINE ÉVACUE DES FAMILLES DE KRAMATORSK, DANS L'EST, FACE AUX ATTAQUES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:55",
-      "date": "05/08",
-      "timestamp": 1785941701
-    },
-    {
-      "id": "BFMTV_1785940985",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: POURQUOI L'ARMÉE UKRAINIENNE CIBLE WILDBERRIES, LE \"AMAZON RUSSE\"?",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:43",
-      "date": "05/08",
-      "timestamp": 1785940985
     }
   ],
   "france": {
