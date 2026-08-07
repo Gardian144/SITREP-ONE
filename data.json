@@ -1,7 +1,47 @@
 {
-  "last_update": "07/08 20:58",
+  "last_update": "07/08 21:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786137655",
+      "source": "BFMTV",
+      "text": "D'APRÈS DES SOURCES ANONYMES DU RENSEIGNEMENT AMÉRICAIN CITÉES PAR LE WALL STREET JOURNAL, LA RUSSIE POURRAIT MENER DES ACTIONS MILITAIRES INHABITUELLES ET DES CYBERATTAQUES CONTRE L'OTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:20",
+      "date": "07/08",
+      "timestamp": 1786137655
+    },
+    {
+      "id": "BFMTV_1786137072",
+      "source": "BFMTV",
+      "text": "GIANNI INFANTINO PRÉSENT À LA CÉRÉMONIE D'INVESTITURE D'ABELARDO DE LA ESPRIELLA ",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:11",
+      "date": "07/08",
+      "timestamp": 1786137072
+    },
+    {
+      "id": "BFMTV_1786136838",
+      "source": "BFMTV",
+      "text": "LE SÉNAT AMÉRICAIN VOTE DE NOUVELLES SANCTIONS CONTRE LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:07",
+      "date": "07/08",
+      "timestamp": 1786136838
+    },
+    {
+      "id": "BFMTV_1786136574",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV LANCE 310 DRONES SUR LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:02",
+      "date": "07/08",
+      "timestamp": 1786136574
+    },
     {
       "id": "BFMTV_1786135272",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "16:26",
       "date": "05/08",
       "timestamp": 1785947191
-    },
-    {
-      "id": "BFMTV_1785947101",
-      "source": "BFMTV",
-      "text": "TERRORISME: \"DAECH CONTINUE DE REPRÉSENTER UNE GRAVE MENACE POUR LA SÉCURITÉ ET LA PAIX INTERNATIONALE\", ALERTE L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:25",
-      "date": "05/08",
-      "timestamp": 1785947101
-    },
-    {
-      "id": "BFMTV_1785946848",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP S'AFFICHE EN HÉROS DE GUERRE GRÂCE À L'INTELLIGENCE ARTIFICIELLE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:20",
-      "date": "05/08",
-      "timestamp": 1785946848
-    },
-    {
-      "id": "BFMTV_1785946736",
-      "source": "BFMTV",
-      "text": "NARCOTRAFIC: UNE RÉCOMPENSE DE \"PLUS DE 100 MILLIONS DE DOLLARS\" PROMIS PAR LES ÉTATS-UNIS EN ÉCHANGE D'INFORMATIONS SUR DES MEMBRES D'UN CARTEL MEXICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:18",
-      "date": "05/08",
-      "timestamp": 1785946736
-    },
-    {
-      "id": "BFMTV_1785946227",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: À QUOI POURRAIT RESSEMBLER LA NOUVELLE VOIE MARITIME DU DÉTROIT D'ORMUZ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:10",
-      "date": "05/08",
-      "timestamp": 1785946227
     }
   ],
   "france": {
