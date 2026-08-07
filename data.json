@@ -1,7 +1,37 @@
 {
-  "last_update": "07/08 21:46",
+  "last_update": "07/08 22:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786140680",
+      "source": "BFMTV",
+      "text": "LA DÉFORESTATION DANS L'AMAZONIE BRÉSILIENNE ATTEINT SON PLUS BAS NIVEAU SUR UN AN",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:11",
+      "date": "07/08",
+      "timestamp": 1786140680
+    },
+    {
+      "id": "BFMTV_1786139488",
+      "source": "BFMTV",
+      "text": "UNE \"PROVOCATION MONTÉE DE TOUTES PIÈCES\": MOSCOU SE DÉFEND D'AVOIR ENVOYÉ LE DRONE EXPLOSIF À L'AÉOPORT DE LEIPZIG",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:51",
+      "date": "07/08",
+      "timestamp": 1786139488
+    },
+    {
+      "id": "BFMTV_1786139234",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES SIRÈNES D'ALERTE RETENTISSENT À KIEV CE VENDREDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:47",
+      "date": "07/08",
+      "timestamp": 1786139234
+    },
     {
       "id": "BFMTV_1786137655",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:12",
       "date": "05/08",
       "timestamp": 1785949932
-    },
-    {
-      "id": "OPEX360_1785949589",
-      "source": "OPEX360",
-      "text": "UTILISÉES PAR LES RAFALE ET LES MIRAGE 2000D, LES NACELLES TALIOS ONT FRANCHI LE SEUIL DES 50 000 HEURES DE VOL",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:06",
-      "date": "05/08",
-      "timestamp": 1785949589
-    },
-    {
-      "id": "BFMTV_1785949113",
-      "source": "BFMTV",
-      "text": "UKRAINE: \"NOTRE SERVICE DIPLOMATIQUE TRAVAILLE DUR POUR CONVAINCRE NOS ALLIÉS DE NOUS VENDRE DES INTERCEPTEURS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:58",
-      "date": "05/08",
-      "timestamp": 1785949113
-    },
-    {
-      "id": "BFMTV_1785947191",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PRÈS DE 80% DU STOCK DE MISSILES AMÉRICAIN ÉPUISÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:26",
-      "date": "05/08",
-      "timestamp": 1785947191
     }
   ],
   "france": {
