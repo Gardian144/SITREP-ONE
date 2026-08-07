@@ -1,7 +1,17 @@
 {
-  "last_update": "07/08 15:25",
+  "last_update": "07/08 16:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786119107",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE NOUVELLE ATTAQUE DE DRONES SUR UN CENTRE LOGISTIQUE DE WILDBERRIES",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:11",
+      "date": "07/08",
+      "timestamp": 1786119107
+    },
     {
       "id": "BFMTV_1786115235",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "14:40",
       "date": "05/08",
       "timestamp": 1785940840
-    },
-    {
-      "id": "BFMTV_1785940333",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: QUATRE HOMMES POIGNARDÉS AU CŒUR DE LONDRES, UNE FEMME ARRÊTÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:32",
-      "date": "05/08",
-      "timestamp": 1785940333
     }
   ],
   "france": {
