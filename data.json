@@ -1,7 +1,37 @@
 {
-  "last_update": "07/08 20:01",
+  "last_update": "07/08 20:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786135272",
+      "source": "BFMTV",
+      "text": "\"NOUS PRODUISONS PLUS DE PRÉTROLE QUE LA RUSSIE ET L'ARABIE SAOUDITE RÉUNIES\", AFFIRME DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:41",
+      "date": "07/08",
+      "timestamp": 1786135272
+    },
+    {
+      "id": "BFMTV_1786134213",
+      "source": "BFMTV",
+      "text": "APRÈS LA CRISE MIGRATOIRE DE CEUTA, L'ESPAGNE IMPOSE À SON TOUR DES CONTRÔLES AUX FRONTIÈRES AUX VOYAGEURS VENANT D'ITALIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:23",
+      "date": "07/08",
+      "timestamp": 1786134213
+    },
+    {
+      "id": "BFMTV_1786132767",
+      "source": "BFMTV",
+      "text": "LA RUSSIE INTENSIFIE SES FRAPPES CONTRE L'UKRAINE AVEC L'AIDE DE LA CORÉE DU NORD",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:59",
+      "date": "07/08",
+      "timestamp": 1786132767
+    },
     {
       "id": "BFMTV_1786128606",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "16:10",
       "date": "05/08",
       "timestamp": 1785946227
-    },
-    {
-      "id": "BFMTV_1785945976",
-      "source": "BFMTV",
-      "text": "USA: LA NOMINATION DE TODD BLANCHE QUESTIONNE L'INDÉPENDANCE DE LA JUSTICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:06",
-      "date": "05/08",
-      "timestamp": 1785945976
-    },
-    {
-      "id": "OPEX360_1785945592",
-      "source": "OPEX360",
-      "text": "LA RENAULT 4L FAIT SON RETOUR AU SEIN DE LA GENDARMERIE NATIONALE… MAIS EN VERSION ÉLECTRIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:59",
-      "date": "05/08",
-      "timestamp": 1785945592
-    },
-    {
-      "id": "BFMTV_1785945472",
-      "source": "BFMTV",
-      "text": "UN HOMME ARMÉ ARRÊTÉ SUR UN GOLF DE DONALD TRUMP, DEUX JOURS AVANT LA VENUE DU PRÉSIDENT ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:57",
-      "date": "05/08",
-      "timestamp": 1785945472
     }
   ],
   "france": {
