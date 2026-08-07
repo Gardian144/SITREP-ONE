@@ -1,7 +1,37 @@
 {
-  "last_update": "07/08 16:23",
+  "last_update": "07/08 17:22",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786121857",
+      "source": "OPEX360",
+      "text": "OTAN : DÉPLOYÉS EN LITUANIE, LES RAFALE FRANÇAIS ONT EFFECTUÉ 40 INTERCEPTIONS D’AVIONS SUSPECTS ENTRE AVRIL ET AOÛT",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:57",
+      "date": "07/08",
+      "timestamp": 1786121857
+    },
+    {
+      "id": "BFMTV_1786121605",
+      "source": "BFMTV",
+      "text": "DES MUTINERIES DANS LES PRISONS DU SRI LANKA FONT TROIS MORTS ET AU MOINS 23 BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:53",
+      "date": "07/08",
+      "timestamp": 1786121605
+    },
+    {
+      "id": "BFMTV_1786121438",
+      "source": "BFMTV",
+      "text": "LE CHANTIER DE LA SALLE DE BAL DE DONALD TRUMP À LA MAISON BLANCHE À NOUVEAU BLOQUÉ EN APPEL",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:50",
+      "date": "07/08",
+      "timestamp": 1786121438
+    },
     {
       "id": "BFMTV_1786119107",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "14:43",
       "date": "05/08",
       "timestamp": 1785940985
-    },
-    {
-      "id": "BFMTV_1785940972",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA RUSSIE A CIBLÉ DES ENTREPÔTS DE MATÉRIEL MILITAIRE LORS DE SES FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:42",
-      "date": "05/08",
-      "timestamp": 1785940972
-    },
-    {
-      "id": "BFMTV_1785940945",
-      "source": "BFMTV",
-      "text": "\"RECOLLER LES MORCEAUX\" DU CAMP DÉMOCRATE: DANS LE MICHIGAN, LES PRIMAIRES CONSACRENT LE PROGRESSISTE ABDUL EL-SAYED, CONTRE L'ESTABLISHMENT DE SON PARTI",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:42",
-      "date": "05/08",
-      "timestamp": 1785940945
-    },
-    {
-      "id": "BFMTV_1785940840",
-      "source": "BFMTV",
-      "text": "EN RUSSIE, DES \"VEUVES NOIRES\" FONT SCANDALE EN MARIANT DES SOLDATS PROMIS À LA MORT SUR LE FRONT UKRAINIEN POUR EMPOCHER LES INDEMNITÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:40",
-      "date": "05/08",
-      "timestamp": 1785940840
     }
   ],
   "france": {
