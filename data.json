@@ -1,7 +1,67 @@
 {
-  "last_update": "07/08 06:33",
+  "last_update": "07/08 07:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786088534",
+      "source": "BFMTV",
+      "text": "VOLS ANNULÉS, 260.000 ÉVACUATIONS... LE JAPON FRAPPÉ PAR UN TYPHON, LES AUTORITÉS APPELLENT À UNE \"EXTRÊME PRUDENCE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:42",
+      "date": "07/08",
+      "timestamp": 1786088534
+    },
+    {
+      "id": "BFMTV_1786087945",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: SELON KIEV, 16.000 VOLONTAIRES ÉTRANGERS SONT ENGAGÉS DANS SON ARMÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:32",
+      "date": "07/08",
+      "timestamp": 1786087945
+    },
+    {
+      "id": "BFMTV_1786087369",
+      "source": "BFMTV",
+      "text": "ÉVACUATIONS, VOLS ANNULÉS, MAGASINS FERMÉS... LE JAPON FACE AU PASSAGE DU TYPHON DOLPHIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:22",
+      "date": "07/08",
+      "timestamp": 1786087369
+    },
+    {
+      "id": "BFMTV_1786086995",
+      "source": "BFMTV",
+      "text": "THAÏLANDE: L'AUTEUR DES TIRS DANS UN LYCÉE A TUÉ HUIT PERSONNES AU TOTAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:16",
+      "date": "07/08",
+      "timestamp": 1786086995
+    },
+    {
+      "id": "BFMTV_1786085542",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DONALD TRUMP ASSURE QUE \"DES PROGRÈS SONT RÉALISÉS\" SUR LES NÉGOCIATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:52",
+      "date": "07/08",
+      "timestamp": 1786085542
+    },
+    {
+      "id": "BFMTV_1786084823",
+      "source": "BFMTV",
+      "text": "UN ADOLESCENT THAÏLANDAIS TUE SES GRANDS-PARENTS PUIS OUVRE LE FEU DANS UN LYCÉE PRÈS DE BANGKOK, AU MOINS HUIT MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:40",
+      "date": "07/08",
+      "timestamp": 1786084823
+    },
     {
       "id": "BFMTV_1786083976",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "11:41",
       "date": "05/08",
       "timestamp": 1785930106
-    },
-    {
-      "id": "BFMTV_1785928350",
-      "source": "BFMTV",
-      "text": "MEXIQUE: UN INFLUENCEUR TUÉ D'UN TIR EN PLEIN DIRECT",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:12",
-      "date": "05/08",
-      "timestamp": 1785928350
-    },
-    {
-      "id": "BFMTV_1785926224",
-      "source": "BFMTV",
-      "text": "DE MAO ZEDONG À XI JINPING: QU'EST-CE QUE BEIDAIHE, LA CITÉ BALNÉAIRE ACCUEILLANT L'ÉLITE CHINOISE EN VACANCES?",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:37",
-      "date": "05/08",
-      "timestamp": 1785926224
-    },
-    {
-      "id": "OPEX360_1785925542",
-      "source": "OPEX360",
-      "text": "LA FORCE AÉRIENNE COLOMBIENNE COMMANDE DEUX AVIONS DE TRANSPORT KC-390 MILLENIUM AUPRÈS DU BRÉSILIEN EMBRAER",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:25",
-      "date": "05/08",
-      "timestamp": 1785925542
-    },
-    {
-      "id": "BFMTV_1785922901",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA CRIMÉE SOUS PRESSION UKRAINIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:41",
-      "date": "05/08",
-      "timestamp": 1785922901
-    },
-    {
-      "id": "BFMTV_1785921590",
-      "source": "BFMTV",
-      "text": "POURQUOI TAÏWAN VA COUPER INTERNET SUR UNE PARTIE DE SON TERRITOIRE? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:19",
-      "date": "05/08",
-      "timestamp": 1785921590
-    },
-    {
-      "id": "BFMTV_1785920881",
-      "source": "BFMTV",
-      "text": "NE L'APPELEZ PLUS NAURU: LA PETITE ÎLE DU PACIFIQUE OFFICIELLEMENT RENOMMÉE RÉPUBLIQUE DE NAOERO",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:08",
-      "date": "05/08",
-      "timestamp": 1785920881
     }
   ],
   "france": {
