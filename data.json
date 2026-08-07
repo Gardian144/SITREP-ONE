@@ -1,7 +1,37 @@
 {
-  "last_update": "07/08 05:13",
+  "last_update": "07/08 06:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786083976",
+      "source": "BFMTV",
+      "text": "UN ADOLESCENT OUVRE LE FEU DANS UN LYCÉE RÉPUTÉ PRÈS DE BANGKOK, AU MOINS QUATRE MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:26",
+      "date": "07/08",
+      "timestamp": 1786083976
+    },
+    {
+      "id": "BFMTV_1786083900",
+      "source": "BFMTV",
+      "text": "DROIT DU SOL: DONALD TRUMP PREND UN DÉCRET CENSÉ EMPÊCHER LE \"TOURISME DES NAISSANCES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:25",
+      "date": "07/08",
+      "timestamp": 1786083900
+    },
+    {
+      "id": "BFMTV_1786080417",
+      "source": "BFMTV",
+      "text": "FUSILLADE DANS UN LYCÉE EN THAÏLANDE: AU MOINS DEUX MORTS, LE TIREUR EST DÉCÉDÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:26",
+      "date": "07/08",
+      "timestamp": 1786080417
+    },
     {
       "id": "BFMTV_1786077887",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "09:08",
       "date": "05/08",
       "timestamp": 1785920881
-    },
-    {
-      "id": "BFMTV_1785920557",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: FAB 500, KN-23...LES MISSILES À LA DISPOSITION DE L'ARMÉE RUSSE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:02",
-      "date": "05/08",
-      "timestamp": 1785920557
-    },
-    {
-      "id": "BFMTV_1785920186",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV N'A PAS PU ABATTRE UN SEUL MISSILE LORS DE L'ATTAQUE RUSSE QUI A FAIT 17 MORTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:56",
-      "date": "05/08",
-      "timestamp": 1785920186
-    },
-    {
-      "id": "BFMTV_1785918630",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DES FRAPPES RUSSES FONT AU MOINS 17 MORTS À KIEV, DES ENTREPÔTS TOUCHÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:30",
-      "date": "05/08",
-      "timestamp": 1785918630
     }
   ],
   "france": {
