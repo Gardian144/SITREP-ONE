@@ -1,7 +1,27 @@
 {
-  "last_update": "08/08 11:05",
+  "last_update": "08/08 11:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786188016",
+      "source": "BFMTV",
+      "text": "UN DRONE ENTRÉ EN BULGARIE DEPUIS L'ÉTRANGER A EXPLOSÉ PRÈS D'UN GAZODUC À LA FRONTIÈRE ROUMAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:20",
+      "date": "08/08",
+      "timestamp": 1786188016
+    },
+    {
+      "id": "BFMTV_1786187000",
+      "source": "BFMTV",
+      "text": "UN DRONE ENTRÉ EN BULGARIE A EXPLOSÉ PRÈS D'UN GAZODUC À LA FRONTIÈRE ROUMAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:03",
+      "date": "08/08",
+      "timestamp": 1786187000
+    },
     {
       "id": "BFMTV_1786186361",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "07:32",
       "date": "06/08",
       "timestamp": 1786001533
-    },
-    {
-      "id": "BFMTV_1785996086",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA RUSSIE DIT AVOIR ABATTU 605 DRONES UKRAINIENS DANS LA NUIT DE MERCREDI À JEUDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:01",
-      "date": "06/08",
-      "timestamp": 1785996086
-    },
-    {
-      "id": "BFMTV_1785994942",
-      "source": "BFMTV",
-      "text": "\"NOUS AVIONS LES PRIX LES PLUS ÉLEVÉS AU MONDE, ET MAINTENANT NOUS AVONS LES PRIX LES PLUS BAS\", DÉCLARE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:42",
-      "date": "06/08",
-      "timestamp": 1785994942
     }
   ],
   "france": {
