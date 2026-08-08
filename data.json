@@ -1,7 +1,37 @@
 {
-  "last_update": "08/08 06:05",
+  "last_update": "08/08 07:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786171804",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:50",
+      "date": "08/08",
+      "timestamp": 1786171804
+    },
+    {
+      "id": "BFMTV_1786171803",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV ANNONCE LA MORT DE TROIS PERSONNES DONT UN ENFANT DANS DES FRAPPES RUSSES PRÈS DE LA CAPITALE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:50",
+      "date": "08/08",
+      "timestamp": 1786171803
+    },
+    {
+      "id": "BFMTV_1786169840",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS TROIS MORTS DANS DES FRAPPES RUSSES SUR KIEV ET SA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:17",
+      "date": "08/08",
+      "timestamp": 1786169840
+    },
     {
       "id": "BFMTV_1786164697",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "19:18",
       "date": "05/08",
       "timestamp": 1785957485
-    },
-    {
-      "id": "BFMTV_1785956027",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"L'UKRAINE NE SAIT PAS INTERCEPTER LES MISSILES BALISTIQUES\", ANALYSE PATRICK DUTARTRE, GÉNÉRAL DE L'ARMÉE DE L'AIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:53",
-      "date": "05/08",
-      "timestamp": 1785956027
-    },
-    {
-      "id": "BFMTV_1785955750",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"LA RUSSIE NE VEUT PAS S'ARRÊTER\", ASSURE VOLODYMY ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:49",
-      "date": "05/08",
-      "timestamp": 1785955750
-    },
-    {
-      "id": "BFMTV_1785954153",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: BOMBES GUIDÉES, MISSILES NORD-CORÉENS... L'ARSENAL AÉRIEN REDOUTABLE DE LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:22",
-      "date": "05/08",
-      "timestamp": 1785954153
     }
   ],
   "france": {
