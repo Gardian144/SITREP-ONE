@@ -1,7 +1,27 @@
 {
-  "last_update": "08/08 04:40",
+  "last_update": "08/08 05:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786164697",
+      "source": "BFMTV",
+      "text": "BLOCAGE DU CHANTIER DE LA SALLE DE BAL DE LA MAISON BLANCHE: DONALD TRUMP QUALIFIE LA DÉCISION DE LA JUSTICE DE \"HONTE NATIONALE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:51",
+      "date": "08/08",
+      "timestamp": 1786164697
+    },
+    {
+      "id": "BFMTV_1786164519",
+      "source": "BFMTV",
+      "text": "LE SÉNAT AMÉRICAIN ADOPTE DE NOUVELLES SANCTIONS CONTRE LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:48",
+      "date": "08/08",
+      "timestamp": 1786164519
+    },
     {
       "id": "BFMTV_1786163159",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "18:22",
       "date": "05/08",
       "timestamp": 1785954153
-    },
-    {
-      "id": "BFMTV_1785953540",
-      "source": "BFMTV",
-      "text": "UN EMPLOYÉ FRANÇAIS DU CLUB MED POURSUIVI POUR VIOL SUR UN CLIENT EN AFRIQUE DU SUD",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:12",
-      "date": "05/08",
-      "timestamp": 1785953540
-    },
-    {
-      "id": "BFMTV_1785953297",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: QU'EST-CE QUE LES MISSILES PATRIOT DEMANDÉS PAR VOLODYMYR ZELENSKY?",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:08",
-      "date": "05/08",
-      "timestamp": 1785953297
     }
   ],
   "france": {
