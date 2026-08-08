@@ -1,7 +1,37 @@
 {
-  "last_update": "08/08 03:42",
+  "last_update": "08/08 04:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786163159",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES \"VEUVES NOIRES\" RUSSES ÉPOUSENT DES SOLDATS ENVOYÉS AU FRONT POUR TOUCHER LEURS INDEMNITÉS DE DÉCÈS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:25",
+      "date": "08/08",
+      "timestamp": 1786163159
+    },
+    {
+      "id": "BFMTV_1786163004",
+      "source": "BFMTV",
+      "text": "SOUTENU PAR DONALD TRUMP, LE PRÉSIDENT DE LA COLOMBIE ABELARDO DE LA ESPRIELLA ENTRE EN FONCTIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:23",
+      "date": "08/08",
+      "timestamp": 1786163004
+    },
+    {
+      "id": "BFMTV_1786162541",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: L'ESPAGNE IMPOSE À SON TOUR DES CONTRÔLES AUX FRONTIÈRES AUX VOYAGEURS VENANT D'ITALIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:15",
+      "date": "08/08",
+      "timestamp": 1786162541
+    },
     {
       "id": "BFMTV_1786140680",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "18:08",
       "date": "05/08",
       "timestamp": 1785953297
-    },
-    {
-      "id": "BFMTV_1785950325",
-      "source": "BFMTV",
-      "text": "LE PORTE-PAROLE DU MINISTÈRE DES AFFAIRES ÉTRANGÈRES UKRAINIEN HEORHII TYKHYI EST L'INVITÉ DE BFMTV",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:18",
-      "date": "05/08",
-      "timestamp": 1785950325
-    },
-    {
-      "id": "BFMTV_1785950131",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: JUSQU'À 5 ANS DE PRISON POUR DES ADOLESCENTS MEMBRES D'UNE CELLULE TERRORISTE D'EXTRÊME DROITE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:15",
-      "date": "05/08",
-      "timestamp": 1785950131
-    },
-    {
-      "id": "BFMTV_1785949932",
-      "source": "BFMTV",
-      "text": "L'IRAN AFFIRME AVOIR TROUVÉ UN ACCORD AVEC OMAN SUR UNE NOUVELLE VOIE DE NAVIGATION DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:12",
-      "date": "05/08",
-      "timestamp": 1785949932
     }
   ],
   "france": {
