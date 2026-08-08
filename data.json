@@ -1,7 +1,17 @@
 {
-  "last_update": "08/08 12:02",
+  "last_update": "08/08 13:11",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786193552",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES A ÉMIS UN APPEL D’OFFRES POUR L’ENTRETIEN DES BATEAUX DE… L’ARMÉE DE L’AIR & DE L’ESPACE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:52",
+      "date": "08/08",
+      "timestamp": 1786193552
+    },
     {
       "id": "BFMTV_1786190362",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:03",
       "date": "06/08",
       "timestamp": 1786007004
-    },
-    {
-      "id": "BFMTV_1786003934",
-      "source": "BFMTV",
-      "text": "\"PLUS D'USINES AUTOMOBILES SONT EN TRAIN D'ÊTRE CONSTRUITES AUX ÉTATS-UNIS EN CE MOMENT QU'À TOUT AUTRE TEMPS DE NOTRE HISTOIRE\", AFFIRME DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:12",
-      "date": "06/08",
-      "timestamp": 1786003934
     }
   ],
   "france": {
