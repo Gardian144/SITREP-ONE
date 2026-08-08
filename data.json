@@ -1,7 +1,27 @@
 {
-  "last_update": "08/08 09:47",
+  "last_update": "08/08 10:31",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786184619",
+      "source": "OPEX360",
+      "text": "L’ARABIE SAOUDITE, LE PAKISTAN ET LA TURQUIE ONT SCELLÉ UN ACCORD DE DÉFENSE MUTUELLE INÉDIT",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:23",
+      "date": "08/08",
+      "timestamp": 1786184619
+    },
+    {
+      "id": "BFMTV_1786183501",
+      "source": "BFMTV",
+      "text": "UNE DÉCOUVERTE \"PROFONDÉMENT TROUBLANTE\": LES CORPS DE 56 PERSONNES RETROUVÉS EN DÉCOMPOSITION ET MAL CONSERVÉS DANS DES POMPES FUNÈBRES À CHICAGO",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:05",
+      "date": "08/08",
+      "timestamp": 1786183501
+    },
     {
       "id": "BFMTV_1786181841",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "21:44",
       "date": "05/08",
       "timestamp": 1785966275
-    },
-    {
-      "id": "BFMTV_1785965041",
-      "source": "BFMTV",
-      "text": "AU GUATEMALA, L'ÉRUPTION DU VOLCAN DE FUEGO A PRIS FIN",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:24",
-      "date": "05/08",
-      "timestamp": 1785965041
-    },
-    {
-      "id": "BFMTV_1785964193",
-      "source": "BFMTV",
-      "text": "L'UKRAINE ORDONNE L'ÉVACUATION DES FAMILLES DE KRAMATORSK, DANS L'EST DU PAYS, FACE AUX ATTAQUES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:09",
-      "date": "05/08",
-      "timestamp": 1785964193
     }
   ],
   "france": {
