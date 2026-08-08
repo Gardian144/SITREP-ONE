@@ -1,7 +1,27 @@
 {
-  "last_update": "08/08 21:00",
+  "last_update": "08/08 21:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786224630",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE SÉNAT AMÉRICAIN ADOPTE UNE NOUVELLE SÉRIE DE SANCTIONS CONTRE LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:30",
+      "date": "08/08",
+      "timestamp": 1786224630
+    },
+    {
+      "id": "BFMTV_1786224038",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES LIVRAISONS D'ARMES À KIEV DE LA PART DE LA TURQUIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:20",
+      "date": "08/08",
+      "timestamp": 1786224038
+    },
     {
       "id": "BFMTV_1786215568",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "17:18",
       "date": "06/08",
       "timestamp": 1786036733
-    },
-    {
-      "id": "OPEX360_1786034554",
-      "source": "OPEX360",
-      "text": "GUYANE : LE 9E RÉGIMENT D’INFANTERIE DE MARINE A RÉAFFIRMÉ LA PRÉSENCE FRANÇAISE DANS UNE ZONE CONTESTÉE PAR LE SURINAME",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:42",
-      "date": "06/08",
-      "timestamp": 1786034554
-    },
-    {
-      "id": "OPEX360_1786028737",
-      "source": "OPEX360",
-      "text": "L’ARMÉE GRECQUE ENVISAGE D’ACQUÉRIR DES BLINDÉS STRYKER D’OCCASION AUPRÈS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:05",
-      "date": "06/08",
-      "timestamp": 1786028737
     }
   ],
   "france": {
