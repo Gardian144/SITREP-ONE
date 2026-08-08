@@ -1,7 +1,17 @@
 {
-  "last_update": "08/08 15:44",
+  "last_update": "08/08 16:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786204326",
+      "source": "BFMTV",
+      "text": "PAYS-BAS: UN HOMME DE 26 ANS ARRÊTÉ APRÈS TROIS ATTAQUES AU COUTEAU À ROTTERDAM",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:52",
+      "date": "08/08",
+      "timestamp": 1786204326
+    },
     {
       "id": "BFMTV_1786199929",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "10:47",
       "date": "06/08",
       "timestamp": 1786013277
-    },
-    {
-      "id": "BFMTV_1786012371",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE ISRAÉLIENNE ANNONCE LA MORT DE DEUX SOLDATS RÉSERVISTES DANS LE SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:32",
-      "date": "06/08",
-      "timestamp": 1786012371
     }
   ],
   "france": {
