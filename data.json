@@ -1,7 +1,27 @@
 {
-  "last_update": "08/08 16:52",
+  "last_update": "08/08 17:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786209337",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV ANNONCE AVOIR TROUVÉ UN ACCORD AVEC LES ÉTATS-UNIS POUR LA LIVRAISON MENSUELLE DE MISSILES PATRIOT",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:15",
+      "date": "08/08",
+      "timestamp": 1786209337
+    },
+    {
+      "id": "BFMTV_1786207802",
+      "source": "BFMTV",
+      "text": "DRONE EN BULGARIE: KIEV DIT N'AVOIR PAS LANCÉ D'ENGIN \"DÉLIBÉRÉMENT\" ET PROMET DE \"CLARIFIER LES CIRCONSTANCES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:50",
+      "date": "08/08",
+      "timestamp": 1786207802
+    },
     {
       "id": "BFMTV_1786207102",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "12:03",
       "date": "06/08",
       "timestamp": 1786017829
-    },
-    {
-      "id": "BFMTV_1786017603",
-      "source": "BFMTV",
-      "text": "LES IMAGES DE SÉOUL VUE PAR UNE CAMÉRA THERMIQUE EN PLEINE VAGUE DE CHALEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:00",
-      "date": "06/08",
-      "timestamp": 1786017603
-    },
-    {
-      "id": "BFMTV_1786013757",
-      "source": "BFMTV",
-      "text": "\"PAS DE COMPLOT\": LE PREMIER MINISTRE CANADIEN MARK CARNEY SE MOQUE DE DONALD TRUMP APRÈS UN PROBLÈME DE TÉLÉPROMPTEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:55",
-      "date": "06/08",
-      "timestamp": 1786013757
     }
   ],
   "france": {
