@@ -1,7 +1,17 @@
 {
-  "last_update": "08/08 14:35",
+  "last_update": "08/08 15:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786199929",
+      "source": "BFMTV",
+      "text": "\"LE VENT EST EN TRAIN DE TOURNER\": L'AILE GAUCHE DU PARTI DÉMOCRATE GAGNE DU TERRAIN AUX ÉTATS-UNIS AVANT LES ÉLECTIONS DE MI-MANDAT CRUCIALES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:38",
+      "date": "08/08",
+      "timestamp": 1786199929
+    },
     {
       "id": "BFMTV_1786199019",
       "source": "BFMTV",
@@ -66,6 +76,16 @@
       "id": "BFMTV_1786188016",
       "source": "BFMTV",
       "text": "UN DRONE ENTRÉ EN BULGARIE DEPUIS L'ÉTRANGER A EXPLOSÉ PRÈS D'UN GAZODUC À LA FRONTIÈRE ROUMAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:20",
+      "date": "08/08",
+      "timestamp": 1786188016
+    },
+    {
+      "id": "BFMTV_1786188016",
+      "source": "BFMTV",
+      "text": "UN DRONE ENTRÉ EN BULGARIE DEPUIS L'ÉTRANGER ET \"LARGEMENT UTILISÉ\" PAR L'ARMÉE UKRAINIENNE A EXPLOSÉ PRÈS D'UN GAZODUC À LA FRONTIÈRE ROUMAINE",
       "urgent": true,
       "france_related": false,
       "time": "11:20",
@@ -981,26 +1001,6 @@
       "time": "10:32",
       "date": "06/08",
       "timestamp": 1786012371
-    },
-    {
-      "id": "BFMTV_1786012230",
-      "source": "BFMTV",
-      "text": "DRONE EXPLOSIF À LEIPZIG: L'ALLEMAGNE ALERTE SUR UNE \"NOUVELLE DIMENSION DE MENACE\" ",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:30",
-      "date": "06/08",
-      "timestamp": 1786012230
-    },
-    {
-      "id": "BFMTV_1786011769",
-      "source": "BFMTV",
-      "text": "MAROC: UNE SITUATION ÉCONOMIQUE CONTRASTÉE ENTRE LES GRANDES VILLES ET LE RESTE DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:22",
-      "date": "06/08",
-      "timestamp": 1786011769
     }
   ],
   "france": {
