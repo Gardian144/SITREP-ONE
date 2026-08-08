@@ -1,7 +1,27 @@
 {
-  "last_update": "08/08 16:12",
+  "last_update": "08/08 16:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786207102",
+      "source": "BFMTV",
+      "text": "LES IMAGES DE L’ETNA À NOUVEAU EN ÉRUPTION",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:38",
+      "date": "08/08",
+      "timestamp": 1786207102
+    },
+    {
+      "id": "BFMTV_1786206891",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: \"GIORGIA MELONI A PRIS UNE POSTURE COMPLÈTEMENT POLITIQUE\", DÉCRYPTE ULRICH BOUNAT, ANALYSTE GÉOPOLITIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:34",
+      "date": "08/08",
+      "timestamp": 1786206891
+    },
     {
       "id": "BFMTV_1786204326",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:55",
       "date": "06/08",
       "timestamp": 1786013757
-    },
-    {
-      "id": "OPEX360_1786013411",
-      "source": "OPEX360",
-      "text": "LE COÛT DES QUINZE FUTURS CUIRASSÉS DE L’US NAVY POURRAIT ATTEINDRE LES 275 MILLIARDS DE DOLLARS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:50",
-      "date": "06/08",
-      "timestamp": 1786013411
-    },
-    {
-      "id": "BFMTV_1786013277",
-      "source": "BFMTV",
-      "text": "EN ALLEMAGNE, L'AUTEUR D'UN ATTENTAT MEURTRIER CONTRE UN CORTÈGE SYNDICAL À MUNICH CONDAMNÉ À LA PRISON À PERPÉTUITÉ",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:47",
-      "date": "06/08",
-      "timestamp": 1786013277
     }
   ],
   "france": {
