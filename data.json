@@ -1,7 +1,27 @@
 {
-  "last_update": "08/08 08:01",
+  "last_update": "08/08 08:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786179407",
+      "source": "BFMTV",
+      "text": "C'ÉTAIT L'ANCIEN AVOCAT PERSONNEL DE DONALD TRUMP: LA NOMINATION DE TODD BLANCHE COMME MINISTRE DE LA JUSTICE APPROUVÉE PAR LE SÉNAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:56",
+      "date": "08/08",
+      "timestamp": 1786179407
+    },
+    {
+      "id": "BFMTV_1786177331",
+      "source": "BFMTV",
+      "text": "UN MILLIARD DE DOLLARS D'AIDES POUR LUTTER CONTRE LE NARCOTRAFIC: DONALD TRUMP DÉJÀ AU SOUTIEN D'ABELARDO DE LA ESPRIELLA, NOUVEAU PRÉSIDENT COLOMBIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:22",
+      "date": "08/08",
+      "timestamp": 1786177331
+    },
     {
       "id": "BFMTV_1786175382",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "19:46",
       "date": "05/08",
       "timestamp": 1785959165
-    },
-    {
-      "id": "BFMTV_1785959165",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:46",
-      "date": "05/08",
-      "timestamp": 1785959165
-    },
-    {
-      "id": "BFMTV_1785958095",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA : 72 000 TRAVERSÉES, 77 MORTS ET DE LOURDES QUESTIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:28",
-      "date": "05/08",
-      "timestamp": 1785958095
     }
   ],
   "france": {
