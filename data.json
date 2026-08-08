@@ -1,7 +1,47 @@
 {
-  "last_update": "08/08 17:59",
+  "last_update": "08/08 18:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786214259",
+      "source": "BFMTV",
+      "text": "ILS N'ONT PAS ÉTÉ AUTORISÉS À LUI RENDRE VISITE: L’ÉTAT DE SANTÉ ALARMANT D’UN AMÉRICAIN DÉTENU EN RUSSIE INQUIÈTE SES PROCHES",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:37",
+      "date": "08/08",
+      "timestamp": 1786214259
+    },
+    {
+      "id": "BFMTV_1786213633",
+      "source": "BFMTV",
+      "text": "UN DRONE ENTRÉ EN BULGARIE DEPUIS L'ÉTRANGER A EXPLOSÉ PRÈS D'UN GAZODUC À LA FRONTIÈRE ROUMAINE, SOFIA INCRIMINE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:27",
+      "date": "08/08",
+      "timestamp": 1786213633
+    },
+    {
+      "id": "BFMTV_1786212604",
+      "source": "BFMTV",
+      "text": "BULGARIE: CE QUE L’ON SAIT SUR LE DRONE QUI A EXPLOSÉ PRÈS D’UN GAZODUC ET DE LA FRONTIÈRE AVEC LA ROUMANIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:10",
+      "date": "08/08",
+      "timestamp": 1786212604
+    },
+    {
+      "id": "BFMTV_1786212359",
+      "source": "BFMTV",
+      "text": "DRONE EN BULGARIE: SOFIA CONVOQUE L'AMBASSADRICE UKRAINIENNE À UNE RÉUNION LUNDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:05",
+      "date": "08/08",
+      "timestamp": 1786212359
+    },
     {
       "id": "BFMTV_1786211560",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "13:49",
       "date": "06/08",
       "timestamp": 1786024174
-    },
-    {
-      "id": "BFMTV_1786023181",
-      "source": "BFMTV",
-      "text": "LE SÉNAT AMÉRICAIN DÉCLARE L'EX-CONSEILLER MÉDICAL DE LA MAISON BLANCHE ANTHONY FAUCI COUPABLE D'OUTRAGE DEVANT LE CONGRÈS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:33",
-      "date": "06/08",
-      "timestamp": 1786023181
-    },
-    {
-      "id": "BFMTV_1786019358",
-      "source": "BFMTV",
-      "text": "DRONE EXPLOSIF DÉCOUVERT À L'AÉROPORT DE LEIPZIG: L'ALLEMAGNE ALERTE SUR UNE \"NOUVELLE DIMENSION DE MENACE\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "12:29",
-      "date": "06/08",
-      "timestamp": 1786019358
-    },
-    {
-      "id": "BFMTV_1786019189",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN MORT ET SEPT BLESSÉS DANS UN ACCIDENT IMPLIQUANT UN ENFANT DE 13 ANS QUI CONDUISAIT UNE VOITURE VOLÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:26",
-      "date": "06/08",
-      "timestamp": 1786019189
-    },
-    {
-      "id": "BFMTV_1786018774",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE: \"NOUS SOMMES EXTRÊMEMENT VULNÉRABLES\", AFFIRME LE MAIRE-PRÉSIDENT DE CEUTA",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:19",
-      "date": "06/08",
-      "timestamp": 1786018774
     }
   ],
   "france": {
