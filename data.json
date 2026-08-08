@@ -1,7 +1,27 @@
 {
-  "last_update": "08/08 18:50",
+  "last_update": "08/08 19:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786215568",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN: MAÎTRE FRANÇOIS-XAVIER KOZAN, AVOCAT DE L’ASSOCIATION INNOCENCE EN DANGER,  DEMANDE “L’OUVERTURE D’UNE INFORMATION JUDICIAIRE” ",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:59",
+      "date": "08/08",
+      "timestamp": 1786215568
+    },
+    {
+      "id": "BFMTV_1786215305",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN: CE QUE L’ON SAIT DE L’ENQUÊTE OUVERTE EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:55",
+      "date": "08/08",
+      "timestamp": 1786215305
+    },
     {
       "id": "BFMTV_1786214259",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:05",
       "date": "06/08",
       "timestamp": 1786028737
-    },
-    {
-      "id": "BFMTV_1786024244",
-      "source": "BFMTV",
-      "text": "HOMMES POIGNARDÉS À LONDRES: UNE FEMME SOUFFRANT DE \"PROBLÈMES DE SANTÉ MENTALE\" INCULPÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:50",
-      "date": "06/08",
-      "timestamp": 1786024244
-    },
-    {
-      "id": "BFMTV_1786024174",
-      "source": "BFMTV",
-      "text": "ATTAQUES DE DRONES UKRAINIENS EN RUSSIE: \"UN PARI RISQUÉ\", ESTIME HUGUES PERNET, PREMIER AMBASSADEUR DE FRANCE EN UKRAINE",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:49",
-      "date": "06/08",
-      "timestamp": 1786024174
     }
   ],
   "france": {
