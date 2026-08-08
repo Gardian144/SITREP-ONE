@@ -1,7 +1,47 @@
 {
-  "last_update": "08/08 08:59",
+  "last_update": "08/08 09:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786181841",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - GUERRE AU MOYEN-ORIENT: CE QUE L'ON SAIT DE L'ACCORD NÉGOCIÉ AUTOUR DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:37",
+      "date": "08/08",
+      "timestamp": 1786181841
+    },
+    {
+      "id": "BFMTV_1786180704",
+      "source": "BFMTV",
+      "text": "THAÏLANDE: UNE VOITURE PERCUTE UNE GARDERIE, BLESSANT AU MOINS 15 ENFANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:18",
+      "date": "08/08",
+      "timestamp": 1786180704
+    },
+    {
+      "id": "BFMTV_1786180415",
+      "source": "BFMTV",
+      "text": "VIDÉO DE L'AMBASSADE FRANÇAISE DU CONGO: \"ÇA RENVOIE À QUELQUE CHOSE DE TRÈS COLONIAL\", JUGE DOMINIQUE SOPO, PRÉSIDENT DE SOS RACISME",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:13",
+      "date": "08/08",
+      "timestamp": 1786180415
+    },
+    {
+      "id": "BFMTV_1786179438",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES \"VEUVES NOIRES\" RUSSES ÉPOUSENT DES SOLDATS POUR TOUCHER LEURS INDEMNITÉS DE DÉCÈS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:57",
+      "date": "08/08",
+      "timestamp": 1786179438
+    },
     {
       "id": "BFMTV_1786179407",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "21:09",
       "date": "05/08",
       "timestamp": 1785964193
-    },
-    {
-      "id": "BFMTV_1785963406",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"LA SITUATION SUR LE FRONT EST COMPLÈTEMENT BLOQUÉE\", ANALYSE LE LIEUTENANT-COLONEL GUILLAUME ANCEL",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:56",
-      "date": "05/08",
-      "timestamp": 1785963406
-    },
-    {
-      "id": "BFMTV_1785962737",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES SITES DE TIR DE MISSILES BALISTIQUES RUSSES, FUTURES CIBLES DE L'ARMÉE UKRAINIENNE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:45",
-      "date": "05/08",
-      "timestamp": 1785962737
-    },
-    {
-      "id": "BFMTV_1785959638",
-      "source": "BFMTV",
-      "text": "ABDUL EL-SAYED, VAINQUEUR DE LA PRIMAIRE DÉMOCRATE DU MICHIGAN, APPELLE LES DÉMOCRATES À SE RASSEMBLER EN NOVEMBRE POUR BATTRE TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:53",
-      "date": "05/08",
-      "timestamp": 1785959638
-    },
-    {
-      "id": "BFMTV_1785959165",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU ASSURE QU'ISRAËL N'A PAS ACCEPTÉ LE DERNIER PLAN POUR GAZA SOUTENU PAR WASHINGTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:46",
-      "date": "05/08",
-      "timestamp": 1785959165
     }
   ],
   "france": {
