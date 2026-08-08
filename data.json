@@ -1,7 +1,27 @@
 {
-  "last_update": "08/08 10:31",
+  "last_update": "08/08 11:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786186361",
+      "source": "BFMTV",
+      "text": "ALLEMAGNE: SIX DRONES SURVOLENT UNE BASE MILITAIRE DANS LA NUIT DE JEUDI À VENDREDI",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:52",
+      "date": "08/08",
+      "timestamp": 1786186361
+    },
+    {
+      "id": "BFMTV_1786186287",
+      "source": "BFMTV",
+      "text": "MEXIQUE: LES PLAGES DES CARAÏBES SUBMERGÉES PAR UNE ARRIVÉE RECORD DE SARGASSES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:51",
+      "date": "08/08",
+      "timestamp": 1786186287
+    },
     {
       "id": "OPEX360_1786184619",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "05:42",
       "date": "06/08",
       "timestamp": 1785994942
-    },
-    {
-      "id": "BFMTV_1785992361",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: TROIS MORTS DANS DES BOMBARDEMENTS RUSSES AU NORD-EST DU PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:59",
-      "date": "06/08",
-      "timestamp": 1785992361
-    },
-    {
-      "id": "BFMTV_1785966275",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: SOLDATS, MISSILES… QUEL EST LE RÔLE DE LA CORÉE DU NORD, QUI SOUTIENT LA RUSSIE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:44",
-      "date": "05/08",
-      "timestamp": 1785966275
     }
   ],
   "france": {
