@@ -1,7 +1,17 @@
 {
-  "last_update": "08/08 21:45",
+  "last_update": "08/08 22:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786225667",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:47",
+      "date": "08/08",
+      "timestamp": 1786225667
+    },
     {
       "id": "BFMTV_1786224630",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "20:30",
       "date": "06/08",
       "timestamp": 1786048247
-    },
-    {
-      "id": "OPEX360_1786036733",
-      "source": "OPEX360",
-      "text": "HELIDAX ET DCI VONT ASSURER LA MAINTENANCE DES HÉLICOPTÈRES FENNEC DE L’ARMÉE DE L’AIR & DE L’ESPACE PENDANT DIX ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:18",
-      "date": "06/08",
-      "timestamp": 1786036733
     }
   ],
   "france": {
