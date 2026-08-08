@@ -1,7 +1,47 @@
 {
-  "last_update": "08/08 13:57",
+  "last_update": "08/08 14:35",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786199019",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: UN NAVIRE ÉMIRATI FRAPPÉ PAR UN \"PROJECTILE\", LES ÉMIRATS ARABES UNIS ACCUSENT L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:23",
+      "date": "08/08",
+      "timestamp": 1786199019
+    },
+    {
+      "id": "OPEX360_1786198254",
+      "source": "OPEX360",
+      "text": "LA SUISSE ENVISAGE DE NOUER DES COOPÉRATIONS INDUSTRIELLES AVEC LE JAPON DANS LE DOMAINE MILITAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:10",
+      "date": "08/08",
+      "timestamp": 1786198254
+    },
+    {
+      "id": "BFMTV_1786196173",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:36",
+      "date": "08/08",
+      "timestamp": 1786196173
+    },
+    {
+      "id": "BFMTV_1786196172",
+      "source": "BFMTV",
+      "text": "LE HAMAS REDIT ÊTRE PRÊT À METTRE EN OEUVRE LE PLAN AMÉRICAIN POUR GAZA",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:36",
+      "date": "08/08",
+      "timestamp": 1786196172
+    },
     {
       "id": "OPEX360_1786193552",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "10:22",
       "date": "06/08",
       "timestamp": 1786011769
-    },
-    {
-      "id": "BFMTV_1786011522",
-      "source": "BFMTV",
-      "text": "THAÏLANDE: UN JOUEUR DE FOOTBALL FOUDROYÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:18",
-      "date": "06/08",
-      "timestamp": 1786011522
-    },
-    {
-      "id": "BFMTV_1786010838",
-      "source": "BFMTV",
-      "text": "CEUTA: UNE \"CRISE DE L'ESPOIR\" POUR DES JEUNES MAROCAINS PLUS QU'UNE \"CRISE DE LA PAUVRETÉ\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:07",
-      "date": "06/08",
-      "timestamp": 1786010838
-    },
-    {
-      "id": "BFMTV_1786007869",
-      "source": "BFMTV",
-      "text": "UN UKRAINIEN ARRÊTÉ POUR DES SOUPÇONS D'ESPIONNAGE D'UN SITE D'ARMEMENT EN ALLEMAGNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:17",
-      "date": "06/08",
-      "timestamp": 1786007869
-    },
-    {
-      "id": "BFMTV_1786007004",
-      "source": "BFMTV",
-      "text": "DRONE EXPLOSIF À LEIPZIG: LE MINISTRE ALLEMAND DE L'INTÉRIEUR ALERTE SUR UNE \"NOUVELLE DIMENSION DE MENACE\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "09:03",
-      "date": "06/08",
-      "timestamp": 1786007004
     }
   ],
   "france": {
