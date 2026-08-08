@@ -1,7 +1,27 @@
 {
-  "last_update": "08/08 17:28",
+  "last_update": "08/08 17:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786211560",
+      "source": "BFMTV",
+      "text": "IL TENTAIT DE RETARDER UN VOTE CRUCIAL: AU KOSOVO, UNE DÉPUTÉE LANCE DES OEUFS SUR LE PREMIER MINISTRE EN PLEINE SESSION PARLEMENTAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:52",
+      "date": "08/08",
+      "timestamp": 1786211560
+    },
+    {
+      "id": "BFMTV_1786211099",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN: SAINT-TROPEZ, L’AUTRE LIEU DE PRÉDATION DU FINANCIER AMÉRICAIN EN FRANCE SELON UNE ENQUÊTE DU JOURNAL LE MONDE",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:44",
+      "date": "08/08",
+      "timestamp": 1786211099
+    },
     {
       "id": "BFMTV_1786209337",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "12:19",
       "date": "06/08",
       "timestamp": 1786018774
-    },
-    {
-      "id": "BFMTV_1786018348",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE DE CEUTA: CES RAISONS QUI POUSSENT DE JEUNES MAROCAINS À VOULOIR REJOINDRE L'EUROPE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:12",
-      "date": "06/08",
-      "timestamp": 1786018348
-    },
-    {
-      "id": "BFMTV_1786017829",
-      "source": "BFMTV",
-      "text": "UNE \"PERSÉCUTION POLITIQUE\": LA RUSSIE CONDAMNE L'ARRÊTÉ D'EXPULSION PRIS PAR LA FRANCE CONTRE XENIA FEDOROVA",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:03",
-      "date": "06/08",
-      "timestamp": 1786017829
     }
   ],
   "france": {
