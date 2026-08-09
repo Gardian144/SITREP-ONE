@@ -1,7 +1,37 @@
 {
-  "last_update": "09/08 10:51",
+  "last_update": "09/08 11:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786274146",
+      "source": "BFMTV",
+      "text": "PAIX À GAZA: BENJAMIN NETANYAHU \"REJETTE\" LE PLAN AMÉRICAIN ACCEPTÉ PAR LE HAMAS ET DÉCLARE QU'ISRAËL NE RETIRERA PAS SES TROUPES",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:15",
+      "date": "09/08",
+      "timestamp": 1786274146
+    },
+    {
+      "id": "OPEX360_1786273735",
+      "source": "OPEX360",
+      "text": "LE 48E RÉGIMENT DE TRANSMISSIONS DÉVELOPPE UNE SOLUTION POUR DÉPLOYER UN POSTE DE COMMANDEMENT AU PLUS PRÈS DES COMBATS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:08",
+      "date": "09/08",
+      "timestamp": 1786273735
+    },
+    {
+      "id": "BFMTV_1786272742",
+      "source": "BFMTV",
+      "text": "\"UNE DES PLUS IMPORTANTES DÉCOUVERTES RÉCENTES\": UNE ÉPAVE ROMAINE REMPLIE DE VASES ANTIQUES VIEILLE DE PLUS DE 2.000 ANS MISE AU JOUR AU LARGE DE LA SICILE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:52",
+      "date": "09/08",
+      "timestamp": 1786272742
+    },
     {
       "id": "BFMTV_1786272499",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "07:22",
       "date": "07/08",
       "timestamp": 1786087369
-    },
-    {
-      "id": "BFMTV_1786086995",
-      "source": "BFMTV",
-      "text": "THAÏLANDE: L'AUTEUR DES TIRS DANS UN LYCÉE A TUÉ HUIT PERSONNES AU TOTAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:16",
-      "date": "07/08",
-      "timestamp": 1786086995
-    },
-    {
-      "id": "BFMTV_1786085542",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DONALD TRUMP ASSURE QUE \"DES PROGRÈS SONT RÉALISÉS\" SUR LES NÉGOCIATIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:52",
-      "date": "07/08",
-      "timestamp": 1786085542
-    },
-    {
-      "id": "BFMTV_1786084823",
-      "source": "BFMTV",
-      "text": "UN ADOLESCENT THAÏLANDAIS TUE SES GRANDS-PARENTS PUIS OUVRE LE FEU DANS UN LYCÉE PRÈS DE BANGKOK, AU MOINS HUIT MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:40",
-      "date": "07/08",
-      "timestamp": 1786084823
     }
   ],
   "france": {
