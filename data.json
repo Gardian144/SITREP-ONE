@@ -1,7 +1,47 @@
 {
-  "last_update": "09/08 10:04",
+  "last_update": "09/08 10:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786272499",
+      "source": "BFMTV",
+      "text": "IRAN: DES IMAGES DE MOJTABA KHAMENEI, NON DATÉES, DIFFUSÉES PAR UNE AGENCE DE PRESSE DU RÉGIME",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:48",
+      "date": "09/08",
+      "timestamp": 1786272499
+    },
+    {
+      "id": "BFMTV_1786272155",
+      "source": "BFMTV",
+      "text": "ESPAGNE: DES HABITANTS MANIFESTENT CONTRE LE SURTOURISME À MAJORQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:42",
+      "date": "09/08",
+      "timestamp": 1786272155
+    },
+    {
+      "id": "OPEX360_1786271283",
+      "source": "OPEX360",
+      "text": "L’INDE A L’INTENTION DE PARTICIPER À UN PROJET D’AVION DE COMBAT DE NOUVELLE GÉNÉRATION MENÉ PAR LA FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:28",
+      "date": "09/08",
+      "timestamp": 1786271283
+    },
+    {
+      "id": "BFMTV_1786269814",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: ODESSA CIBLÉE PAR DES FRAPPES RUSSES, AU MOINS 8 BLESSÉS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:03",
+      "date": "09/08",
+      "timestamp": 1786269814
+    },
     {
       "id": "BFMTV_1786266686",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "06:40",
       "date": "07/08",
       "timestamp": 1786084823
-    },
-    {
-      "id": "BFMTV_1786083976",
-      "source": "BFMTV",
-      "text": "UN ADOLESCENT OUVRE LE FEU DANS UN LYCÉE RÉPUTÉ PRÈS DE BANGKOK, AU MOINS QUATRE MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:26",
-      "date": "07/08",
-      "timestamp": 1786083976
-    },
-    {
-      "id": "BFMTV_1786083900",
-      "source": "BFMTV",
-      "text": "DROIT DU SOL: DONALD TRUMP PREND UN DÉCRET CENSÉ EMPÊCHER LE \"TOURISME DES NAISSANCES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:25",
-      "date": "07/08",
-      "timestamp": 1786083900
-    },
-    {
-      "id": "BFMTV_1786080417",
-      "source": "BFMTV",
-      "text": "FUSILLADE DANS UN LYCÉE EN THAÏLANDE: AU MOINS DEUX MORTS, LE TIREUR EST DÉCÉDÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:26",
-      "date": "07/08",
-      "timestamp": 1786080417
-    },
-    {
-      "id": "BFMTV_1786077887",
-      "source": "BFMTV",
-      "text": "EXPLOITATION, TRAFICS ET MALTRAITANCE: À CEUTA, DES ONG S'INQUIÈTENT DES RISQUES POUR LES ENFANTS MIGRANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:44",
-      "date": "07/08",
-      "timestamp": 1786077887
     }
   ],
   "france": {
