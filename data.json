@@ -1,7 +1,27 @@
 {
-  "last_update": "09/08 21:12",
+  "last_update": "09/08 21:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786311820",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: CE QUE L’ON SAIT DU PROJET D’ACCORD POUR SÉCURISER LE DÉTROIT D’ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:43",
+      "date": "09/08",
+      "timestamp": 1786311820
+    },
+    {
+      "id": "BFMTV_1786310123",
+      "source": "BFMTV",
+      "text": "PLUSIEURS BLESSÉS AU DANEMARK DANS UNE FUSILLADE POSSIBLEMENT LIÉE À UN RÈGLEMENT DE COMPTES",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:15",
+      "date": "09/08",
+      "timestamp": 1786310123
+    },
     {
       "id": "BFMTV_1786301786",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "18:50",
       "date": "07/08",
       "timestamp": 1786128606
-    },
-    {
-      "id": "BFMTV_1786125383",
-      "source": "BFMTV",
-      "text": "\"CELA REFLÈTE SA PERSONNALITÉ NARCISSIQUE\": HILLARY CLINTON FUSTIGE LA DÉCORATION DE LA MAISON BLANCHE PAR DONALD TRUMP, QUI \"RAPPELLE LES PALAIS DE SADDAM HUSSEIN\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:56",
-      "date": "07/08",
-      "timestamp": 1786125383
-    },
-    {
-      "id": "BFMTV_1786125383",
-      "source": "BFMTV",
-      "text": "HILLARY CLINTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:56",
-      "date": "07/08",
-      "timestamp": 1786125383
     }
   ],
   "france": {
