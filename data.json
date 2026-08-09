@@ -1,7 +1,17 @@
 {
-  "last_update": "09/08 07:53",
+  "last_update": "09/08 08:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786264599",
+      "source": "BFMTV",
+      "text": "LE CANCER DE JOE BIDEN \"S'EST PROPAGÉ\", ANNONCE SON FILS HUNTER BIDEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:36",
+      "date": "09/08",
+      "timestamp": 1786264599
+    },
     {
       "id": "BFMTV_1786260311",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "21:40",
       "date": "06/08",
       "timestamp": 1786052409
-    },
-    {
-      "id": "BFMTV_1786052184",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES DRONES FPV, SYMBOLE D'UN CONFLIT DE NOUVELLE GÉNÉRATION",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:36",
-      "date": "06/08",
-      "timestamp": 1786052184
     }
   ],
   "france": {
