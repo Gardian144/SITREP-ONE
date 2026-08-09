@@ -1,7 +1,27 @@
 {
-  "last_update": "09/08 16:32",
+  "last_update": "09/08 17:13",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786295422",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: POURQUOI VLADIMIR POUTINE EST-IL OBSÉDÉ PAR SA SÉCURITÉ? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:10",
+      "date": "09/08",
+      "timestamp": 1786295422
+    },
+    {
+      "id": "BFMTV_1786294926",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DEPUIS L’ATTENTAT VISANT LE GÉNÉRAL ALEXANDRE TCHAÏKO, VLADIMIR POUTINE CRAINT POUR SA SÉCURITÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:02",
+      "date": "09/08",
+      "timestamp": 1786294926
+    },
     {
       "id": "BFMTV_1786287291",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "14:46",
       "date": "07/08",
       "timestamp": 1786113984
-    },
-    {
-      "id": "BFMTV_1786112909",
-      "source": "BFMTV",
-      "text": "L'ARABIE SAOUDITE, LE PAKISTAN ET LA TURQUIE SCELLENT UN PACTE DE DÉFENSE EN PLEINE GUERRE AU MOYEN-ORIENT ",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:28",
-      "date": "07/08",
-      "timestamp": 1786112909
-    },
-    {
-      "id": "BFMTV_1786104614",
-      "source": "BFMTV",
-      "text": "ARGENTINE: DES MANIFESTATIONS CONTRE UN PROJET DE LOI FACILITANT L'ACHAT DE TERRES PAR DES ÉTRANGERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:10",
-      "date": "07/08",
-      "timestamp": 1786104614
     }
   ],
   "france": {
