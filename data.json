@@ -1,7 +1,27 @@
 {
-  "last_update": "09/08 14:33",
+  "last_update": "09/08 15:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786287291",
+      "source": "BFMTV",
+      "text": "CANADA: UN MÉGAFEU DE FÔRET ENTRAÎNE L'ÉVACUATION DE 20.000 PERSONNES, L'ÉTAT D'URGENCE DÉCLARÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:54",
+      "date": "09/08",
+      "timestamp": 1786287291
+    },
+    {
+      "id": "BFMTV_1786286707",
+      "source": "BFMTV",
+      "text": "IL N'A PAS ÉTÉ VU EN PUBLIC DEPUIS SA NOMINATION: LES MÉDIAS D'ÉTAT IRANIENS ASSURENT QUE LE GUIDE SUPRÊME MOJTABA KHAMENEI A RENCONTRÉ LE PRÉSIDENT MASSOUD PEZESHKIAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:45",
+      "date": "09/08",
+      "timestamp": 1786286707
+    },
     {
       "id": "BFMTV_1786283750",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "12:10",
       "date": "07/08",
       "timestamp": 1786104614
-    },
-    {
-      "id": "BFMTV_1786099325",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP SIGNE UN DÉCRET POUR EMPÊCHER LE \"TOURISME DES NAISSANCES\" AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:42",
-      "date": "07/08",
-      "timestamp": 1786099325
-    },
-    {
-      "id": "OPEX360_1786099013",
-      "source": "OPEX360",
-      "text": "SPÉCIALISTE DE LA PHYSIQUE QUANTIQUE, ADRIEN FACON A ÉTÉ NOMMÉ À LA TÊTE DE L’AGENCE DE L’INNOVATION DE DÉFENSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:36",
-      "date": "07/08",
-      "timestamp": 1786099013
     }
   ],
   "france": {
