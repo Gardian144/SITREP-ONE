@@ -1,7 +1,17 @@
 {
-  "last_update": "09/08 17:13",
+  "last_update": "09/08 17:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786297187",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: CE QUE L’ON SAIT DE L’ÉTAT DE SANTÉ DU GUIDE SUPRÊME IRANIEN MOJTABA KHAMENEI",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:39",
+      "date": "09/08",
+      "timestamp": 1786297187
+    },
     {
       "id": "BFMTV_1786295422",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "15:07",
       "date": "07/08",
       "timestamp": 1786115235
-    },
-    {
-      "id": "OPEX360_1786113984",
-      "source": "OPEX360",
-      "text": "LES NÉGOCIATIONS SUR L’ACHAT DE 114 RAFALE PAR L’INDE VONT POUVOIR COMMENCER",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:46",
-      "date": "07/08",
-      "timestamp": 1786113984
     }
   ],
   "france": {
