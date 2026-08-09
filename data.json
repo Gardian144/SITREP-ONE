@@ -1,7 +1,27 @@
 {
-  "last_update": "09/08 11:56",
+  "last_update": "09/08 12:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786278352",
+      "source": "BFMTV",
+      "text": "OS DE MAMMOUTH, SOLDATS DE LA WEHRMACHT, BATEAUX NAZIS… L'ASSÈCHEMENT HISTORIQUE DU DANUBE RÉVÈLE DES VESTIGES HISTORIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:25",
+      "date": "09/08",
+      "timestamp": 1786278352
+    },
+    {
+      "id": "BFMTV_1786276767",
+      "source": "BFMTV",
+      "text": "IRAN: LE GUIDE SUPRÊME MOJTABA KHAMENEI A RENCONTRÉ LE PRÉSIDENT IRANIEN, SELON DES MÉDIAS D'ÉTAT",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:59",
+      "date": "09/08",
+      "timestamp": 1786276767
+    },
     {
       "id": "BFMTV_1786274146",
       "source": "BFMTV",
@@ -96,6 +116,16 @@
       "id": "BFMTV_1786265847",
       "source": "BFMTV",
       "text": "UNE FEMME ET UN ENFANT MEURENT DANS LE PORT DE NEW YORK APRÈS QUE LEUR BATEU S'EST RENVERSÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:57",
+      "date": "09/08",
+      "timestamp": 1786265847
+    },
+    {
+      "id": "BFMTV_1786265847",
+      "source": "BFMTV",
+      "text": "UNE FEMME ET UN ENFANT MEURENT DANS LE PORT DE NEW YORK APRÈS QUE LEUR BATEAU S'EST RENVERSÉ",
       "urgent": false,
       "france_related": false,
       "time": "08:57",
@@ -971,36 +1001,6 @@
       "time": "08:33",
       "date": "07/08",
       "timestamp": 1786091593
-    },
-    {
-      "id": "BFMTV_1786088534",
-      "source": "BFMTV",
-      "text": "VOLS ANNULÉS, 260.000 ÉVACUATIONS... LE JAPON FRAPPÉ PAR UN TYPHON, LES AUTORITÉS APPELLENT À UNE \"EXTRÊME PRUDENCE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:42",
-      "date": "07/08",
-      "timestamp": 1786088534
-    },
-    {
-      "id": "BFMTV_1786087945",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: SELON KIEV, 16.000 VOLONTAIRES ÉTRANGERS SONT ENGAGÉS DANS SON ARMÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:32",
-      "date": "07/08",
-      "timestamp": 1786087945
-    },
-    {
-      "id": "BFMTV_1786087369",
-      "source": "BFMTV",
-      "text": "ÉVACUATIONS, VOLS ANNULÉS, MAGASINS FERMÉS... LE JAPON FACE AU PASSAGE DU TYPHON DOLPHIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:22",
-      "date": "07/08",
-      "timestamp": 1786087369
     }
   ],
   "france": {
