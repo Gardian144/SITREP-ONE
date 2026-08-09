@@ -1,7 +1,37 @@
 {
-  "last_update": "09/08 05:45",
+  "last_update": "09/08 06:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786257708",
+      "source": "BFMTV",
+      "text": "LE CANCER DE JOE BIDEN \"S'EST PROPAGÉ\", SELON SON FILS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:41",
+      "date": "09/08",
+      "timestamp": 1786257708
+    },
+    {
+      "id": "BFMTV_1786255931",
+      "source": "BFMTV",
+      "text": "DRONE EN BULGARIE: L'AMBASSADRICE UKRAINIENNE CONVOQUÉE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:12",
+      "date": "09/08",
+      "timestamp": 1786255931
+    },
+    {
+      "id": "BFMTV_1786254482",
+      "source": "BFMTV",
+      "text": "UNE COLLISION ENTRE DEUX BUS FAIT 22 MORTS, DONT 17 MILITAIRES, ET 37 BLESSÉS AU NIGER",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:48",
+      "date": "09/08",
+      "timestamp": 1786254482
+    },
     {
       "id": "BFMTV_1786252339",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "21:29",
       "date": "06/08",
       "timestamp": 1786051783
-    },
-    {
-      "id": "BFMTV_1786051765",
-      "source": "BFMTV",
-      "text": "LIGNE ROUGE – ANDREW, LE PRINCE NOIR DE WINDSOR",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:29",
-      "date": "06/08",
-      "timestamp": 1786051765
-    },
-    {
-      "id": "BFMTV_1786051617",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN: L'ENQUÊTE AUTOUR DU PRINCE ANDREW SECOUE LA STABILITÉ DE LA MONARCHIE BRITANNIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:26",
-      "date": "06/08",
-      "timestamp": 1786051617
-    },
-    {
-      "id": "BFMTV_1786051603",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"NOUS AUSSI, NOUS VOULONS DES MISSILES\", RÉPOND DONALD TRUMP APRÈS LA DEMANDE DE VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:26",
-      "date": "06/08",
-      "timestamp": 1786051603
     }
   ],
   "france": {
