@@ -1,7 +1,27 @@
 {
-  "last_update": "09/08 17:48",
+  "last_update": "09/08 18:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786300320",
+      "source": "BFMTV",
+      "text": "MOLDAVIE: CE QUE L’ON SAIT DU DRONE DE COMBAT QUI A EXPLOSÉ PRÈS DE LA FRONTIÈRE AVEC L’UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:32",
+      "date": "09/08",
+      "timestamp": 1786300320
+    },
+    {
+      "id": "BFMTV_1786299506",
+      "source": "BFMTV",
+      "text": "\"ILS NE NOUS PRENDRONT PAS UNE MINUTE DE PLUS\": CÉCILE KOHLER ET JACQUES PARIS ÉCRIVENT UN LIVRE SUR LEURS ANNÉES DE DÉTENTION EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:18",
+      "date": "09/08",
+      "timestamp": 1786299506
+    },
     {
       "id": "BFMTV_1786297187",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "16:50",
       "date": "07/08",
       "timestamp": 1786121438
-    },
-    {
-      "id": "BFMTV_1786119107",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UNE NOUVELLE ATTAQUE DE DRONES SUR UN CENTRE LOGISTIQUE DE WILDBERRIES",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:11",
-      "date": "07/08",
-      "timestamp": 1786119107
-    },
-    {
-      "id": "BFMTV_1786115235",
-      "source": "BFMTV",
-      "text": "LE PREMIER MINISTRE CANADIEN ENVOIE UNE PIQUE IRONIQUE À DONALD TRUMP APRÈS UNE PANNE DE PROMPTEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:07",
-      "date": "07/08",
-      "timestamp": 1786115235
     }
   ],
   "france": {
