@@ -1,7 +1,37 @@
 {
-  "last_update": "10/08 21:11",
+  "last_update": "10/08 21:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786397885",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP À PROPOS DES CANDIDATS DÉMOCRATES: \"DES DJIHADISTES SONT ÉLUS UN PEU PARTOUT",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:38",
+      "date": "10/08",
+      "timestamp": 1786397885
+    },
+    {
+      "id": "BFMTV_1786397270",
+      "source": "BFMTV",
+      "text": "\"LE DROIT D'ASILE EST DÉVOYÉ PARCE QU'IL EST UTILISÉ COMME UNE SORTE DE TOTEM PROTECTEUR\", AFFIRME PIERRE-HENRI DUMONT, SECRÉTAIRE GÉNÉRAL ADJOINT DES RÉPUBLICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:27",
+      "date": "10/08",
+      "timestamp": 1786397270
+    },
+    {
+      "id": "BFMTV_1786396342",
+      "source": "BFMTV",
+      "text": "CEUTA: \"CETTE CRISE EST FABRIQUÉE DE TOUTES PIÈCES, C'EST UN SCANDALE COMPLET\", ASSURE ANNE SOUYRIS, PORTE-PAROLE DU GROUPE \"ÉCOLOGISTES\" AU SÉNAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:12",
+      "date": "10/08",
+      "timestamp": 1786396342
+    },
     {
       "id": "BFMTV_1786395617",
       "source": "BFMTV",
@@ -17,6 +47,16 @@
       "source": "BFMTV",
       "text": "LES RELATIONS ENTRE DONALD TRUMP ET BENJAMIN NETANYAHU SONT \"TRÈS BONNES\" MALGRÉ DES DÉSACCORDS SUR GAZA",
       "urgent": false,
+      "france_related": false,
+      "time": "20:58",
+      "date": "10/08",
+      "timestamp": 1786395537
+    },
+    {
+      "id": "BFMTV_1786395537",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
       "france_related": false,
       "time": "20:58",
       "date": "10/08",
@@ -961,46 +1001,6 @@
       "time": "17:52",
       "date": "08/08",
       "timestamp": 1786211560
-    },
-    {
-      "id": "BFMTV_1786211099",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN: SAINT-TROPEZ, L’AUTRE LIEU DE PRÉDATION DU FINANCIER AMÉRICAIN EN FRANCE SELON UNE ENQUÊTE DU JOURNAL LE MONDE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:44",
-      "date": "08/08",
-      "timestamp": 1786211099
-    },
-    {
-      "id": "BFMTV_1786209337",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV ANNONCE AVOIR TROUVÉ UN ACCORD AVEC LES ÉTATS-UNIS POUR LA LIVRAISON MENSUELLE DE MISSILES PATRIOT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:15",
-      "date": "08/08",
-      "timestamp": 1786209337
-    },
-    {
-      "id": "BFMTV_1786207802",
-      "source": "BFMTV",
-      "text": "DRONE EN BULGARIE: KIEV DIT N'AVOIR PAS LANCÉ D'ENGIN \"DÉLIBÉRÉMENT\" ET PROMET DE \"CLARIFIER LES CIRCONSTANCES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:50",
-      "date": "08/08",
-      "timestamp": 1786207802
-    },
-    {
-      "id": "BFMTV_1786207102",
-      "source": "BFMTV",
-      "text": "LES IMAGES DE L’ETNA À NOUVEAU EN ÉRUPTION",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:38",
-      "date": "08/08",
-      "timestamp": 1786207102
     }
   ],
   "france": {
