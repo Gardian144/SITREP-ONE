@@ -1,7 +1,17 @@
 {
-  "last_update": "10/08 19:41",
+  "last_update": "10/08 20:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786391648",
+      "source": "BFMTV",
+      "text": "SÉISME EN COLOMBIE: UNE VINGTAINE DE BÂTIMENTS EFFONDRÉS À CALI",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:54",
+      "date": "10/08",
+      "timestamp": 1786391648
+    },
     {
       "id": "BFMTV_1786387013",
       "source": "BFMTV",
@@ -18,6 +28,16 @@
       "text": "DONALD TRUMP DEMANDE DES \"COMPENSATIONS\" À L'IRAN",
       "urgent": true,
       "france_related": true,
+      "time": "18:17",
+      "date": "10/08",
+      "timestamp": 1786385845
+    },
+    {
+      "id": "BFMTV_1786385845",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
       "time": "18:17",
       "date": "10/08",
       "timestamp": 1786385845
@@ -981,26 +1001,6 @@
       "time": "13:36",
       "date": "08/08",
       "timestamp": 1786196173
-    },
-    {
-      "id": "BFMTV_1786196172",
-      "source": "BFMTV",
-      "text": "LE HAMAS REDIT ÊTRE PRÊT À METTRE EN OEUVRE LE PLAN AMÉRICAIN POUR GAZA",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:36",
-      "date": "08/08",
-      "timestamp": 1786196172
-    },
-    {
-      "id": "OPEX360_1786193552",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES A ÉMIS UN APPEL D’OFFRES POUR L’ENTRETIEN DES BATEAUX DE… L’ARMÉE DE L’AIR & DE L’ESPACE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:52",
-      "date": "08/08",
-      "timestamp": 1786193552
     }
   ],
   "france": {
