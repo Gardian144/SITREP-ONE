@@ -1,7 +1,17 @@
 {
-  "last_update": "10/08 13:26",
+  "last_update": "10/08 14:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786368504",
+      "source": "BFMTV",
+      "text": "LE CHANCELIER AUTRICHIEN CHRISTIAN STOCKER EN VISITE OFFICIELLE EN TURQUIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:28",
+      "date": "10/08",
+      "timestamp": 1786368504
+    },
     {
       "id": "BFMTV_1786366932",
       "source": "BFMTV",
@@ -131,6 +141,16 @@
       "time": "07:32",
       "date": "10/08",
       "timestamp": 1786347160
+    },
+    {
+      "id": "BFMTV_1786343023",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:23",
+      "date": "10/08",
+      "timestamp": 1786343023
     },
     {
       "id": "BFMTV_1786343022",
@@ -981,26 +1001,6 @@
       "time": "08:22",
       "date": "08/08",
       "timestamp": 1786177331
-    },
-    {
-      "id": "BFMTV_1786175382",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: LES CONTRÔLES RENFORCÉS À LA FRONTIÈRE FRANCO-ITALIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:49",
-      "date": "08/08",
-      "timestamp": 1786175382
-    },
-    {
-      "id": "BFMTV_1786175306",
-      "source": "BFMTV",
-      "text": "\"QUELQUE CHOSE DE TRÈS COLONIAL\": PUBLIÉE PUIS SUPPRIMÉE, UNE VIDÉO DE L'AMBASSADE DE FRANCE AU CONGO JUGÉE RACISTE FAIT POLÉMIQUE",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:48",
-      "date": "08/08",
-      "timestamp": 1786175306
     }
   ],
   "france": {
