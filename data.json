@@ -1,7 +1,47 @@
 {
-  "last_update": "10/08 06:41",
+  "last_update": "10/08 08:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786348577",
+      "source": "BFMTV",
+      "text": "\"LE SENTIMENT DE MIEUX CONTRÔLER MA VIE\": L'ÉLUE DÉMOCRATE AMÉRICAINE ALEXANDRIA OCASIO-CORTEZ SE CONFIE SUR SON CHOIX DE CONGELER SES OVOCYTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:56",
+      "date": "10/08",
+      "timestamp": 1786348577
+    },
+    {
+      "id": "BFMTV_1786347689",
+      "source": "BFMTV",
+      "text": "HUIT CORPS DÉMEMBRÉS DÉCOUVERTS DANS UNE MINE ILLÉGALE EN ÉQUATEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:41",
+      "date": "10/08",
+      "timestamp": 1786347689
+    },
+    {
+      "id": "BFMTV_1786347484",
+      "source": "BFMTV",
+      "text": "RUSSIE: AU MOINS 12 MORTS ET 39 BLESSÉS DANS UNE ATTAQUE UKRAINIENNE DE DRONES AU TATARSTAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:38",
+      "date": "10/08",
+      "timestamp": 1786347484
+    },
+    {
+      "id": "BFMTV_1786347160",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE : AU MOINS CINQ MORTS DANS UNE FRAPPE RUSSE DANS LA RÉGION DE KHARKIV",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:32",
+      "date": "10/08",
+      "timestamp": 1786347160
+    },
     {
       "id": "BFMTV_1786343022",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "22:11",
       "date": "07/08",
       "timestamp": 1786140680
-    },
-    {
-      "id": "BFMTV_1786139488",
-      "source": "BFMTV",
-      "text": "UNE \"PROVOCATION MONTÉE DE TOUTES PIÈCES\": MOSCOU SE DÉFEND D'AVOIR ENVOYÉ LE DRONE EXPLOSIF À L'AÉOPORT DE LEIPZIG",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:51",
-      "date": "07/08",
-      "timestamp": 1786139488
-    },
-    {
-      "id": "BFMTV_1786139234",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DES SIRÈNES D'ALERTE RETENTISSENT À KIEV CE VENDREDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:47",
-      "date": "07/08",
-      "timestamp": 1786139234
-    },
-    {
-      "id": "BFMTV_1786137655",
-      "source": "BFMTV",
-      "text": "D'APRÈS DES SOURCES ANONYMES DU RENSEIGNEMENT AMÉRICAIN CITÉES PAR LE WALL STREET JOURNAL, LA RUSSIE POURRAIT MENER DES ACTIONS MILITAIRES INHABITUELLES ET DES CYBERATTAQUES CONTRE L'OTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:20",
-      "date": "07/08",
-      "timestamp": 1786137655
-    },
-    {
-      "id": "BFMTV_1786137072",
-      "source": "BFMTV",
-      "text": "GIANNI INFANTINO PRÉSENT À LA CÉRÉMONIE D'INVESTITURE D'ABELARDO DE LA ESPRIELLA ",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:11",
-      "date": "07/08",
-      "timestamp": 1786137072
     }
   ],
   "france": {
