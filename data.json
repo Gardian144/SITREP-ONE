@@ -1,7 +1,17 @@
 {
-  "last_update": "10/08 11:10",
+  "last_update": "10/08 11:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786362680",
+      "source": "BFMTV",
+      "text": "CEUTA: DES APPELS MASSIFS À PASSER LA FRONTIÈRE ESPAGNOLE LE 15 AOÛT RELAYÉS SUR LES RÉSEAUX SOCIAUX ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:51",
+      "date": "10/08",
+      "timestamp": 1786362680
+    },
     {
       "id": "BFMTV_1786359409",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "06:50",
       "date": "08/08",
       "timestamp": 1786171803
-    },
-    {
-      "id": "BFMTV_1786169840",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS TROIS MORTS DANS DES FRAPPES RUSSES SUR KIEV ET SA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:17",
-      "date": "08/08",
-      "timestamp": 1786169840
     }
   ],
   "france": {
