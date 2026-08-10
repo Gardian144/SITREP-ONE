@@ -1,7 +1,77 @@
 {
-  "last_update": "10/08 16:32",
+  "last_update": "10/08 17:36",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786383352",
+      "source": "OPEX360",
+      "text": "LA ROYAL AIR FORCE A ÉMIS UNE DEMANDE D’INFORMATIONS POUR REMPLACER SES AVIONS D’ENTRAÎNEMENT HAWK",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:35",
+      "date": "10/08",
+      "timestamp": 1786383352
+    },
+    {
+      "id": "BFMTV_1786382358",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: \"C'EST L'ACCUEIL QUI VA PERMETTRE DE SORTIR DE ÇA\", ESTIME CHARLOTTE KWANTES, PORTE-PAROLE D'UTOPIA 56",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:19",
+      "date": "10/08",
+      "timestamp": 1786382358
+    },
+    {
+      "id": "BFMTV_1786381702",
+      "source": "BFMTV",
+      "text": "COLOMBIE: UN PUISSANT SÉISME FAIT AU MOINS 18 MORTS DANS L'OUEST DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:08",
+      "date": "10/08",
+      "timestamp": 1786381702
+    },
+    {
+      "id": "BFMTV_1786381578",
+      "source": "BFMTV",
+      "text": "LA BASE MILITAIRE DE CHARLESTON AUX ÉTATS-UNIS CHANGE DE NOM",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:06",
+      "date": "10/08",
+      "timestamp": 1786381578
+    },
+    {
+      "id": "BFMTV_1786380559",
+      "source": "BFMTV",
+      "text": "STOCKHOLM AFFIRME AVOIR DÉJOUÉ UNE OPÉRATION DU RENSEIGNEMENT RUSSE IMPLIQUANT UN AGENT EN POSTE EN SUÈDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:49",
+      "date": "10/08",
+      "timestamp": 1786380559
+    },
+    {
+      "id": "BFMTV_1786380453",
+      "source": "BFMTV",
+      "text": "POURQUOI LES AUTORITÉS ESPAGNOLES CRAIGNENT-ELLES UNE NOUVELLE VAGUE MIGRATOIRE À CEUTA LE 15 AOÛT? ",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:47",
+      "date": "10/08",
+      "timestamp": 1786380453
+    },
+    {
+      "id": "OPEX360_1786379690",
+      "source": "OPEX360",
+      "text": "LA RUSSIE A TROUVÉ UN ACCORD SUR SES BASES MILITAIRES EN SYRIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:34",
+      "date": "10/08",
+      "timestamp": 1786379690
+    },
     {
       "id": "OPEX360_1786374684",
       "source": "OPEX360",
@@ -26,6 +96,16 @@
       "id": "BFMTV_1786373198",
       "source": "BFMTV",
       "text": "AU MOINS 18 MORTS EN COLOMBIE APRÈS UN PUISSANT SÉISME DE MAGNITUDE 7,4",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:46",
+      "date": "10/08",
+      "timestamp": 1786373198
+    },
+    {
+      "id": "BFMTV_1786373198",
+      "source": "BFMTV",
+      "text": "AU MOINS 69 MORTS EN COLOMBIE APRÈS UN PUISSANT SÉISME DE MAGNITUDE 7,4",
       "urgent": false,
       "france_related": false,
       "time": "14:46",
@@ -921,86 +1001,6 @@
       "time": "11:20",
       "date": "08/08",
       "timestamp": 1786188016
-    },
-    {
-      "id": "BFMTV_1786188016",
-      "source": "BFMTV",
-      "text": "UN DRONE ENTRÉ EN BULGARIE DEPUIS L'ÉTRANGER ET \"LARGEMENT UTILISÉ\" PAR L'ARMÉE UKRAINIENNE A EXPLOSÉ PRÈS D'UN GAZODUC À LA FRONTIÈRE ROUMAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:20",
-      "date": "08/08",
-      "timestamp": 1786188016
-    },
-    {
-      "id": "BFMTV_1786187000",
-      "source": "BFMTV",
-      "text": "UN DRONE ENTRÉ EN BULGARIE A EXPLOSÉ PRÈS D'UN GAZODUC À LA FRONTIÈRE ROUMAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:03",
-      "date": "08/08",
-      "timestamp": 1786187000
-    },
-    {
-      "id": "BFMTV_1786186361",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: SIX DRONES SURVOLENT UNE BASE MILITAIRE DANS LA NUIT DE JEUDI À VENDREDI",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:52",
-      "date": "08/08",
-      "timestamp": 1786186361
-    },
-    {
-      "id": "BFMTV_1786186287",
-      "source": "BFMTV",
-      "text": "MEXIQUE: LES PLAGES DES CARAÏBES SUBMERGÉES PAR UNE ARRIVÉE RECORD DE SARGASSES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:51",
-      "date": "08/08",
-      "timestamp": 1786186287
-    },
-    {
-      "id": "OPEX360_1786184619",
-      "source": "OPEX360",
-      "text": "L’ARABIE SAOUDITE, LE PAKISTAN ET LA TURQUIE ONT SCELLÉ UN ACCORD DE DÉFENSE MUTUELLE INÉDIT",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:23",
-      "date": "08/08",
-      "timestamp": 1786184619
-    },
-    {
-      "id": "BFMTV_1786183501",
-      "source": "BFMTV",
-      "text": "UNE DÉCOUVERTE \"PROFONDÉMENT TROUBLANTE\": LES CORPS DE 56 PERSONNES RETROUVÉS EN DÉCOMPOSITION ET MAL CONSERVÉS DANS DES POMPES FUNÈBRES À CHICAGO",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:05",
-      "date": "08/08",
-      "timestamp": 1786183501
-    },
-    {
-      "id": "BFMTV_1786181841",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - GUERRE AU MOYEN-ORIENT: CE QUE L'ON SAIT DE L'ACCORD NÉGOCIÉ AUTOUR DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:37",
-      "date": "08/08",
-      "timestamp": 1786181841
-    },
-    {
-      "id": "BFMTV_1786180704",
-      "source": "BFMTV",
-      "text": "THAÏLANDE: UNE VOITURE PERCUTE UNE GARDERIE, BLESSANT AU MOINS 15 ENFANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:18",
-      "date": "08/08",
-      "timestamp": 1786180704
     }
   ],
   "france": {
