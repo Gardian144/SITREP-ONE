@@ -1,7 +1,27 @@
 {
-  "last_update": "10/08 05:07",
+  "last_update": "10/08 06:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786343022",
+      "source": "BFMTV",
+      "text": "LA RUSSIE ANNONCE L'INTERCEPTION DE 456 DRONES UKRAINIENS DANS LA NUIT, PLUSIEURS MORTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:23",
+      "date": "10/08",
+      "timestamp": 1786343022
+    },
+    {
+      "id": "BFMTV_1786340187",
+      "source": "BFMTV",
+      "text": "UNE OCTOGÉNAIRE MEURT EN TENTANT D'ÉCHAPPER À UN FEU DE FORÊT HORS DE CONTRÔLE AU CANADA",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:36",
+      "date": "10/08",
+      "timestamp": 1786340187
+    },
     {
       "id": "BFMTV_1786312678",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "21:11",
       "date": "07/08",
       "timestamp": 1786137072
-    },
-    {
-      "id": "BFMTV_1786136838",
-      "source": "BFMTV",
-      "text": "LE SÉNAT AMÉRICAIN VOTE DE NOUVELLES SANCTIONS CONTRE LA RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:07",
-      "date": "07/08",
-      "timestamp": 1786136838
-    },
-    {
-      "id": "BFMTV_1786136574",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV LANCE 310 DRONES SUR LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:02",
-      "date": "07/08",
-      "timestamp": 1786136574
     }
   ],
   "france": {
