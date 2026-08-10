@@ -1,7 +1,17 @@
 {
-  "last_update": "10/08 21:58",
+  "last_update": "10/08 22:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786400696",
+      "source": "BFMTV",
+      "text": "UKRAINE: L'ALERTE AUX MISSILES DÉCLENCHÉE À KIEV, UNE SÉRIE D'EXPLOSIONS ENTENDUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:24",
+      "date": "10/08",
+      "timestamp": 1786400696
+    },
     {
       "id": "BFMTV_1786397885",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "18:05",
       "date": "08/08",
       "timestamp": 1786212359
-    },
-    {
-      "id": "BFMTV_1786211560",
-      "source": "BFMTV",
-      "text": "IL TENTAIT DE RETARDER UN VOTE CRUCIAL: AU KOSOVO, UNE DÉPUTÉE LANCE DES OEUFS SUR LE PREMIER MINISTRE EN PLEINE SESSION PARLEMENTAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:52",
-      "date": "08/08",
-      "timestamp": 1786211560
     }
   ],
   "france": {
