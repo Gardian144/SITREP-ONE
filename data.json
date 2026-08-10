@@ -1,7 +1,17 @@
 {
-  "last_update": "10/08 17:36",
+  "last_update": "10/08 18:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786385845",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DEMANDE DES \"COMPENSATIONS\" À L'IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:17",
+      "date": "10/08",
+      "timestamp": 1786385845
+    },
     {
       "id": "OPEX360_1786383352",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "11:59",
       "date": "08/08",
       "timestamp": 1786190362
-    },
-    {
-      "id": "BFMTV_1786188016",
-      "source": "BFMTV",
-      "text": "UN DRONE ENTRÉ EN BULGARIE DEPUIS L'ÉTRANGER A EXPLOSÉ PRÈS D'UN GAZODUC À LA FRONTIÈRE ROUMAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:20",
-      "date": "08/08",
-      "timestamp": 1786188016
     }
   ],
   "france": {
