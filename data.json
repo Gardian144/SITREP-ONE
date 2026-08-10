@@ -1,7 +1,47 @@
 {
-  "last_update": "10/08 14:36",
+  "last_update": "10/08 15:37",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786374684",
+      "source": "OPEX360",
+      "text": "LE CHEF DU RENSEIGNEMENT MILITAIRE NÉERLANDAIS A PU ÊTRE SUIVI À LA TRACE VIA L’APPLICATION SPORTIVE STRAVA",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:11",
+      "date": "10/08",
+      "timestamp": 1786374684
+    },
+    {
+      "id": "BFMTV_1786374060",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: COMMENT UNE RUMEUR EN LIGNE A ENTRAÎNÉ L’AFFLUX DE MILLIERS DE MIGRANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:01",
+      "date": "10/08",
+      "timestamp": 1786374060
+    },
+    {
+      "id": "BFMTV_1786373198",
+      "source": "BFMTV",
+      "text": "AU MOINS 18 MORTS EN COLOMBIE APRÈS UN PUISSANT SÉISME DE MAGNITUDE 7,4",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:46",
+      "date": "10/08",
+      "timestamp": 1786373198
+    },
+    {
+      "id": "BFMTV_1786372519",
+      "source": "BFMTV",
+      "text": "COLOMBIE: UN SÉISME DE MAGNITUDE 7,4 FAIT DES BLESSÉS ET DES DESTRUCTIONS DANS L'OUEST DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:35",
+      "date": "10/08",
+      "timestamp": 1786372519
+    },
     {
       "id": "BFMTV_1786368504",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "09:18",
       "date": "08/08",
       "timestamp": 1786180704
-    },
-    {
-      "id": "BFMTV_1786180415",
-      "source": "BFMTV",
-      "text": "VIDÉO DE L'AMBASSADE FRANÇAISE DU CONGO: \"ÇA RENVOIE À QUELQUE CHOSE DE TRÈS COLONIAL\", JUGE DOMINIQUE SOPO, PRÉSIDENT DE SOS RACISME",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:13",
-      "date": "08/08",
-      "timestamp": 1786180415
-    },
-    {
-      "id": "BFMTV_1786179438",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DES \"VEUVES NOIRES\" RUSSES ÉPOUSENT DES SOLDATS POUR TOUCHER LEURS INDEMNITÉS DE DÉCÈS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:57",
-      "date": "08/08",
-      "timestamp": 1786179438
-    },
-    {
-      "id": "BFMTV_1786179407",
-      "source": "BFMTV",
-      "text": "C'ÉTAIT L'ANCIEN AVOCAT PERSONNEL DE DONALD TRUMP: LA NOMINATION DE TODD BLANCHE COMME MINISTRE DE LA JUSTICE APPROUVÉE PAR LE SÉNAT",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:56",
-      "date": "08/08",
-      "timestamp": 1786179407
-    },
-    {
-      "id": "BFMTV_1786177331",
-      "source": "BFMTV",
-      "text": "UN MILLIARD DE DOLLARS D'AIDES POUR LUTTER CONTRE LE NARCOTRAFIC: DONALD TRUMP DÉJÀ AU SOUTIEN D'ABELARDO DE LA ESPRIELLA, NOUVEAU PRÉSIDENT COLOMBIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:22",
-      "date": "08/08",
-      "timestamp": 1786177331
     }
   ],
   "france": {
