@@ -1,11 +1,51 @@
 {
-  "last_update": "10/08 09:56",
+  "last_update": "10/08 11:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786359409",
+      "source": "BFMTV",
+      "text": "UN ANCIEN CHEF DE GANG ACCUSÉ D'AVOIR ORCHESTRÉ LE MEURTRE DE TUPAC EN PROCÈS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:56",
+      "date": "10/08",
+      "timestamp": 1786359409
+    },
+    {
+      "id": "OPEX360_1786358990",
+      "source": "OPEX360",
+      "text": "UTILISÉ PAR LES ROYAL MARINES, UN DRONE DE SURFACE AURAIT DISCRÈTEMENT ENVOYÉ DES DONNÉES EN CHINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:49",
+      "date": "10/08",
+      "timestamp": 1786358990
+    },
+    {
+      "id": "BFMTV_1786358479",
+      "source": "BFMTV",
+      "text": "RUSSIE: 13 MORTS DANS UNE ATTAQUE UKRAINIENNE DE DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:41",
+      "date": "10/08",
+      "timestamp": 1786358479
+    },
     {
       "id": "BFMTV_1786354517",
       "source": "BFMTV",
       "text": "UN ANCIEN DÉPUTÉ THAÏLANDAIS ARRÊTÉ POUR DES TIRS CONTRE UN RESPONSABLE LOCAL ET SON CHAUFFEUR, LES DEUX VICTIMES HOSPITALISÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:35",
+      "date": "10/08",
+      "timestamp": 1786354517
+    },
+    {
+      "id": "BFMTV_1786354517",
+      "source": "BFMTV",
+      "text": "UN ANCIEN DÉPUTÉ THAÏLANDAIS RECONNAÎT AVOIR TUÉ PAR BALLES UN RESPONSABLE LOCAL POUR UN DIFFÉREND FINANCIER",
       "urgent": false,
       "france_related": false,
       "time": "09:35",
@@ -961,46 +1001,6 @@
       "time": "06:17",
       "date": "08/08",
       "timestamp": 1786169840
-    },
-    {
-      "id": "BFMTV_1786164697",
-      "source": "BFMTV",
-      "text": "BLOCAGE DU CHANTIER DE LA SALLE DE BAL DE LA MAISON BLANCHE: DONALD TRUMP QUALIFIE LA DÉCISION DE LA JUSTICE DE \"HONTE NATIONALE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:51",
-      "date": "08/08",
-      "timestamp": 1786164697
-    },
-    {
-      "id": "BFMTV_1786164519",
-      "source": "BFMTV",
-      "text": "LE SÉNAT AMÉRICAIN ADOPTE DE NOUVELLES SANCTIONS CONTRE LA RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:48",
-      "date": "08/08",
-      "timestamp": 1786164519
-    },
-    {
-      "id": "BFMTV_1786163159",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DES \"VEUVES NOIRES\" RUSSES ÉPOUSENT DES SOLDATS ENVOYÉS AU FRONT POUR TOUCHER LEURS INDEMNITÉS DE DÉCÈS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:25",
-      "date": "08/08",
-      "timestamp": 1786163159
-    },
-    {
-      "id": "BFMTV_1786163004",
-      "source": "BFMTV",
-      "text": "SOUTENU PAR DONALD TRUMP, LE PRÉSIDENT DE LA COLOMBIE ABELARDO DE LA ESPRIELLA ENTRE EN FONCTIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:23",
-      "date": "08/08",
-      "timestamp": 1786163004
     }
   ],
   "france": {
