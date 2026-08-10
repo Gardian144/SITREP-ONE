@@ -1,7 +1,67 @@
 {
-  "last_update": "10/08 20:23",
+  "last_update": "10/08 21:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786395617",
+      "source": "BFMTV",
+      "text": "CEUTA: \"DANS L'ESPACE SCHENGEN, LES DIFFÉRENTS PAYS NE DOIVENT PAS POUVOIR AVOIR UNE POLITIQUE MIGRATOIRE ISOLÉE\", ESTIME SYLVAIN BERRIOS, DÉPUTÉ HORIZONS ET INDÉPENDANTS DU VAL-DE-MARNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:00",
+      "date": "10/08",
+      "timestamp": 1786395617
+    },
+    {
+      "id": "BFMTV_1786395537",
+      "source": "BFMTV",
+      "text": "LES RELATIONS ENTRE DONALD TRUMP ET BENJAMIN NETANYAHU SONT \"TRÈS BONNES\" MALGRÉ DES DÉSACCORDS SUR GAZA",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:58",
+      "date": "10/08",
+      "timestamp": 1786395537
+    },
+    {
+      "id": "BFMTV_1786394875",
+      "source": "BFMTV",
+      "text": "LA COUR SUPRÊME RUSSE INTERDIT AU SEUL PARTI ANTIGUERRE DE PARTICIPER AUX ÉLECTIONS LÉGISLATIVES",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:47",
+      "date": "10/08",
+      "timestamp": 1786394875
+    },
+    {
+      "id": "BFMTV_1786394587",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LES INDUSTRIELS AMÉRICAINS REFUSENT DE FOURNIR DES MISSILES PATRIOT À L'ARMÉE UKRAINIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:43",
+      "date": "10/08",
+      "timestamp": 1786394587
+    },
+    {
+      "id": "BFMTV_1786393882",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LES RUSSES \"SE PRÉPARENT DÉSORMAIS À DÉPLOYER UN CONTINGENT SUPPLÉMENTAIRE DE NORD-CORÉENS SUR LEUR TERRITOIRE\", AFFIRME VOLODYMYR ZELENSKY ",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:31",
+      "date": "10/08",
+      "timestamp": 1786393882
+    },
+    {
+      "id": "BFMTV_1786393272",
+      "source": "BFMTV",
+      "text": "ATTAQUE UKRAINIENNE EN RUSSIE: LE PLUS LOURD BILAN HUMAIN DEPUIS 2022",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:21",
+      "date": "10/08",
+      "timestamp": 1786393272
+    },
     {
       "id": "BFMTV_1786391648",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "16:38",
       "date": "08/08",
       "timestamp": 1786207102
-    },
-    {
-      "id": "BFMTV_1786206891",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: \"GIORGIA MELONI A PRIS UNE POSTURE COMPLÈTEMENT POLITIQUE\", DÉCRYPTE ULRICH BOUNAT, ANALYSTE GÉOPOLITIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:34",
-      "date": "08/08",
-      "timestamp": 1786206891
-    },
-    {
-      "id": "BFMTV_1786204326",
-      "source": "BFMTV",
-      "text": "PAYS-BAS: UN HOMME DE 26 ANS ARRÊTÉ APRÈS TROIS ATTAQUES AU COUTEAU À ROTTERDAM",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:52",
-      "date": "08/08",
-      "timestamp": 1786204326
-    },
-    {
-      "id": "BFMTV_1786199929",
-      "source": "BFMTV",
-      "text": "\"LE VENT EST EN TRAIN DE TOURNER\": L'AILE GAUCHE DU PARTI DÉMOCRATE GAGNE DU TERRAIN AUX ÉTATS-UNIS AVANT LES ÉLECTIONS DE MI-MANDAT CRUCIALES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:38",
-      "date": "08/08",
-      "timestamp": 1786199929
-    },
-    {
-      "id": "BFMTV_1786199019",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: UN NAVIRE ÉMIRATI FRAPPÉ PAR UN \"PROJECTILE\", LES ÉMIRATS ARABES UNIS ACCUSENT L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:23",
-      "date": "08/08",
-      "timestamp": 1786199019
-    },
-    {
-      "id": "OPEX360_1786198254",
-      "source": "OPEX360",
-      "text": "LA SUISSE ENVISAGE DE NOUER DES COOPÉRATIONS INDUSTRIELLES AVEC LE JAPON DANS LE DOMAINE MILITAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:10",
-      "date": "08/08",
-      "timestamp": 1786198254
-    },
-    {
-      "id": "BFMTV_1786196173",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:36",
-      "date": "08/08",
-      "timestamp": 1786196173
     }
   ],
   "france": {
