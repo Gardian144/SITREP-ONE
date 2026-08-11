@@ -1,7 +1,47 @@
 {
-  "last_update": "11/08 17:40",
+  "last_update": "11/08 18:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786471102",
+      "source": "BFMTV",
+      "text": "EXFILTRATION DE DONALD TRUMP EN TURQUIE: UN JOURNALISTE PRÉSENT RACONTE CETTE JOURNÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:58",
+      "date": "11/08",
+      "timestamp": 1786471102
+    },
+    {
+      "id": "BFMTV_1786470496",
+      "source": "BFMTV",
+      "text": "LA SUÈDE AFFIRME AVOIR DÉJOUÉ UNE OPÉRATION DU RENSEIGNEMENT RUSSE IMPLIQUANT UN AGENT EN POSTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:48",
+      "date": "11/08",
+      "timestamp": 1786470496
+    },
+    {
+      "id": "BFMTV_1786470360",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL - HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:46",
+      "date": "11/08",
+      "timestamp": 1786470360
+    },
+    {
+      "id": "BFMTV_1786470359",
+      "source": "BFMTV",
+      "text": "DE NOUVEAUX POURPARLERS ISRAÉLO-LIBANAIS AURONT LIEU À ROME EN SEPTEMBRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:45",
+      "date": "11/08",
+      "timestamp": 1786470359
+    },
     {
       "id": "BFMTV_1786469495",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "18:32",
       "date": "09/08",
       "timestamp": 1786300320
-    },
-    {
-      "id": "BFMTV_1786299506",
-      "source": "BFMTV",
-      "text": "\"ILS NE NOUS PRENDRONT PAS UNE MINUTE DE PLUS\": CÉCILE KOHLER ET JACQUES PARIS ÉCRIVENT UN LIVRE SUR LEURS ANNÉES DE DÉTENTION EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:18",
-      "date": "09/08",
-      "timestamp": 1786299506
-    },
-    {
-      "id": "BFMTV_1786297187",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: CE QUE L’ON SAIT DE L’ÉTAT DE SANTÉ DU GUIDE SUPRÊME IRANIEN MOJTABA KHAMENEI",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:39",
-      "date": "09/08",
-      "timestamp": 1786297187
-    },
-    {
-      "id": "BFMTV_1786295422",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: POURQUOI VLADIMIR POUTINE EST-IL OBSÉDÉ PAR SA SÉCURITÉ? ",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:10",
-      "date": "09/08",
-      "timestamp": 1786295422
-    },
-    {
-      "id": "BFMTV_1786294926",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DEPUIS L’ATTENTAT VISANT LE GÉNÉRAL ALEXANDRE TCHAÏKO, VLADIMIR POUTINE CRAINT POUR SA SÉCURITÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:02",
-      "date": "09/08",
-      "timestamp": 1786294926
     }
   ],
   "france": {
