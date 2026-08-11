@@ -1,7 +1,37 @@
 {
-  "last_update": "11/08 19:45",
+  "last_update": "11/08 20:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786480033",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS SEPT MORTS APRÈS DES FRAPPES RUSSES SUR ZAPORIJIA",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:27",
+      "date": "11/08",
+      "timestamp": 1786480033
+    },
+    {
+      "id": "BFMTV_1786478963",
+      "source": "BFMTV",
+      "text": "SÉISME EN COLOMBIE: AU MOINS 240 MORTS ET 1.300 BLESSÉS SELON UN DERNIER BILAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:09",
+      "date": "11/08",
+      "timestamp": 1786478963
+    },
+    {
+      "id": "BFMTV_1786477578",
+      "source": "BFMTV",
+      "text": "COLOMBIE: LE TREMBLEMENT DE TERRE VU DEPUIS LES CAMÉRAS DE SURVEILLANCE D'UN HÔTEL",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:46",
+      "date": "11/08",
+      "timestamp": 1786477578
+    },
     {
       "id": "BFMTV_1786477275",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "21:15",
       "date": "09/08",
       "timestamp": 1786310123
-    },
-    {
-      "id": "BFMTV_1786301786",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: “L’IDÉE QUE C’EST UN “EL DORADO” QUI PERMET DE RENTRER EN EUROPE EST FAUSSE”, ESTIME JÉRÔME GUEDJ, DÉPUTÉ “SOCIALISTES ET APPARENTÉS” DE L’ESSONNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:56",
-      "date": "09/08",
-      "timestamp": 1786301786
-    },
-    {
-      "id": "BFMTV_1786301374",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: LAURENCE SAILLIET, ANCIENNE DÉPUTÉE EUROPÉENNE LR, ESTIME QUE “TOUTE ANNONCE DE RÉGULARISATION NE VA PAS DANS LE BON SENS” ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:49",
-      "date": "09/08",
-      "timestamp": 1786301374
-    },
-    {
-      "id": "BFMTV_1786301053",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: POURQUOI LES AUTORITÉS ESPAGNOLES CRAIGNENT UNE NOUVELLE VAGUE MIGRATOIRE VENUE DU MAROC LE 15 AOÛT?",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:44",
-      "date": "09/08",
-      "timestamp": 1786301053
     }
   ],
   "france": {
