@@ -1,7 +1,47 @@
 {
-  "last_update": "11/08 16:35",
+  "last_update": "11/08 17:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786469495",
+      "source": "BFMTV",
+      "text": "EXFILTRATION DE DONALD TRUMP: \"AVEC LE RECUL, JE PENSE QUE CERTAINS DÉTAILS LAISSAIENT PENSER QU'IL SE PASSAIT QUELQUE CHOSE\", RACONTE UN JOURNALISTE À CNN",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:31",
+      "date": "11/08",
+      "timestamp": 1786469495
+    },
+    {
+      "id": "BFMTV_1786468449",
+      "source": "BFMTV",
+      "text": "UNE DÉCISION \"HISTORIQUE\": LE LIBAN DEVIENT LE PREMIER PAYS DU MOYEN-ORIENT À ABOLIR LA PEINE DE MORT",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:14",
+      "date": "11/08",
+      "timestamp": 1786468449
+    },
+    {
+      "id": "OPEX360_1786467778",
+      "source": "OPEX360",
+      "text": "THALES VA ÉQUIPER LES VÉHICULES D’ASSAUT AMPHIBIE DE L’US MARINE CORPS AVEC DES CAMÉRAS MINERVA",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:02",
+      "date": "11/08",
+      "timestamp": 1786467778
+    },
+    {
+      "id": "BFMTV_1786466158",
+      "source": "BFMTV",
+      "text": "SOMMET DE L'OTAN EN TURQUIE: LE RÉCIT DE L'INCROYABLE EXFILTRATION DE DONAD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:35",
+      "date": "11/08",
+      "timestamp": 1786466158
+    },
     {
       "id": "OPEX360_1786463368",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "17:02",
       "date": "09/08",
       "timestamp": 1786294926
-    },
-    {
-      "id": "BFMTV_1786287291",
-      "source": "BFMTV",
-      "text": "CANADA: UN MÉGAFEU DE FÔRET ENTRAÎNE L'ÉVACUATION DE 20.000 PERSONNES, L'ÉTAT D'URGENCE DÉCLARÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:54",
-      "date": "09/08",
-      "timestamp": 1786287291
-    },
-    {
-      "id": "BFMTV_1786286707",
-      "source": "BFMTV",
-      "text": "IL N'A PAS ÉTÉ VU EN PUBLIC DEPUIS SA NOMINATION: LES MÉDIAS D'ÉTAT IRANIENS ASSURENT QUE LE GUIDE SUPRÊME MOJTABA KHAMENEI A RENCONTRÉ LE PRÉSIDENT MASSOUD PEZESHKIAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:45",
-      "date": "09/08",
-      "timestamp": 1786286707
-    },
-    {
-      "id": "BFMTV_1786283750",
-      "source": "BFMTV",
-      "text": "\"65 SACS CACHÉS À L'INTÉRIEUR DU NAVIRE\": L'INDONÉSIE SAISIT 1,3 TONNE DE KÉTAMINE, UNE DES PLUS GROSSES PRISES JAMAIS RÉALISÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:55",
-      "date": "09/08",
-      "timestamp": 1786283750
-    },
-    {
-      "id": "BFMTV_1786282514",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: 61 MISSILES RUSSES ONT ÉTÉ TIRÉS EN UNE SEMAINE PAR LA RUSSIE",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:35",
-      "date": "09/08",
-      "timestamp": 1786282514
     }
   ],
   "france": {
