@@ -1,7 +1,37 @@
 {
-  "last_update": "11/08 18:36",
+  "last_update": "11/08 19:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786477275",
+      "source": "BFMTV",
+      "text": "LE BILAN DU SÉISME EN COLOMBIE S'ALOURDIT À 240 MORTS, LA RECHERCHE DE SURVIVANTS SE POURSUIT",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:41",
+      "date": "11/08",
+      "timestamp": 1786477275
+    },
+    {
+      "id": "BFMTV_1786477063",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE AVOIR TIRÉ SUR UN NAVIRE QUI VIOLAIT SON BLOCUS DES PORTS IRANIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:37",
+      "date": "11/08",
+      "timestamp": 1786477063
+    },
+    {
+      "id": "BFMTV_1786473989",
+      "source": "BFMTV",
+      "text": "RUSSIE: LA COUR SUPRÊME INTERDIT AU SEUL PARTI ANTIGUERRE DE SE PRÉSENTER AUX ÉLECTIONS LÉGISLATIVES",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:46",
+      "date": "11/08",
+      "timestamp": 1786473989
+    },
     {
       "id": "BFMTV_1786471102",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "18:44",
       "date": "09/08",
       "timestamp": 1786301053
-    },
-    {
-      "id": "BFMTV_1786300874",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: LE PRÉSIDENT DE L'ENCLAVE ESPAGNOLE CONTESTE LE CHIFFRE DE 2.000 MIGRANTS PRÉSENTS SUR PLACE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:41",
-      "date": "09/08",
-      "timestamp": 1786300874
-    },
-    {
-      "id": "BFMTV_1786300742",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: LES HABITANTS MANIFESTENT CONTRE L’ARRIVÉE ÉVENTUELLE DE NOUVEAUX MIGRANTS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:39",
-      "date": "09/08",
-      "timestamp": 1786300742
-    },
-    {
-      "id": "BFMTV_1786300320",
-      "source": "BFMTV",
-      "text": "MOLDAVIE: CE QUE L’ON SAIT DU DRONE DE COMBAT QUI A EXPLOSÉ PRÈS DE LA FRONTIÈRE AVEC L’UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:32",
-      "date": "09/08",
-      "timestamp": 1786300320
     }
   ],
   "france": {
