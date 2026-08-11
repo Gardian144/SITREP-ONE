@@ -1,7 +1,27 @@
 {
-  "last_update": "11/08 15:38",
+  "last_update": "11/08 16:35",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786463368",
+      "source": "OPEX360",
+      "text": "LA LETTONIE ENVISAGE DE COMMANDER DES AVIONS D’ATTAQUE LÉGERS A-29 SUPER TUCANO POUR LA LUTTE ANTIDRONE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:49",
+      "date": "11/08",
+      "timestamp": 1786463368
+    },
+    {
+      "id": "BFMTV_1786462726",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: DAVANTAGE DE POUVOIRS POUR LES COLLECTIVITÉS LOCALES, AFIN DE LUTTER CONTRE LES BOUTIQUES DE VAPOTAGE ET LES PARIS, ANNONCE ANDY BURNHAM",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:38",
+      "date": "11/08",
+      "timestamp": 1786462726
+    },
     {
       "id": "BFMTV_1786462274",
       "source": "BFMTV",
@@ -46,6 +66,16 @@
       "id": "BFMTV_1786459292",
       "source": "BFMTV",
       "text": "\"LA CISJORDANIE EST PROCHE DU POINT DE RUPTURE\", ALERTE L’ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:41",
+      "date": "11/08",
+      "timestamp": 1786459292
+    },
+    {
+      "id": "BFMTV_1786459292",
+      "source": "BFMTV",
+      "text": "\"LA CISJORDANIE EST PROCHE DU POINT DE RUPTURE\", ALERTE RAMIZ ALAKBAROV, COORDONNATEUR SPÉCIAL ADJOINT POUR LE PROCESSUS DE PAIX AU MOYEN-ORIENT",
       "urgent": false,
       "france_related": false,
       "time": "14:41",
@@ -971,36 +1001,6 @@
       "time": "13:35",
       "date": "09/08",
       "timestamp": 1786282514
-    },
-    {
-      "id": "BFMTV_1786281917",
-      "source": "BFMTV",
-      "text": "DES MÉDIAS IRANIENS DIFFUSENT DES IMAGES, NON DATÉES, DU GUIDE SUPRÊME MOJTABA KHAMENEI",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:25",
-      "date": "09/08",
-      "timestamp": 1786281917
-    },
-    {
-      "id": "BFMTV_1786281434",
-      "source": "BFMTV",
-      "text": "\"DÉTRUIRE LE SYSTÈME DE SANTÉ ET PUNIR COLLECTIVEMENT LA POPULATION\": UN ENTREPÔT DE L'OMS DÉTRUIT PAR UNE FRAPPE EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:17",
-      "date": "09/08",
-      "timestamp": 1786281434
-    },
-    {
-      "id": "BFMTV_1786281219",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN: LES FAMILLES DES VICTIMES S'IMPATIENTENT, FACE AUX BLOCAGES DANS L'ENQUÊTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:13",
-      "date": "09/08",
-      "timestamp": 1786281219
     }
   ],
   "france": {
