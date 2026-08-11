@@ -1,7 +1,17 @@
 {
-  "last_update": "11/08 10:58",
+  "last_update": "11/08 11:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786446902",
+      "source": "BFMTV",
+      "text": "UNE NOUVELLE CRISE À CEUTA LE 15 AOÛT ? L'UE RÉAGIT",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:15",
+      "date": "11/08",
+      "timestamp": 1786446902
+    },
     {
       "id": "BFMTV_1786445452",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:11",
       "date": "09/08",
       "timestamp": 1786266672
-    },
-    {
-      "id": "BFMTV_1786265847",
-      "source": "BFMTV",
-      "text": "UNE FEMME ET UN ENFANT MEURENT DANS LE PORT DE NEW YORK APRÈS QUE LEUR BATEU S'EST RENVERSÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:57",
-      "date": "09/08",
-      "timestamp": 1786265847
     }
   ],
   "france": {
