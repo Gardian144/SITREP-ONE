@@ -1,7 +1,37 @@
 {
-  "last_update": "11/08 06:35",
+  "last_update": "11/08 07:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786434657",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"CE N'EST PAS LA PREMIÈRE FOIS QUE LA RUSSIE UTILISERAIT DES MISSILES NORD-CORÉENS\", RAPPELLE GAËTAN POWIS, JOURNALISTE DÉFENSE POUR AIR&COSMOS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:50",
+      "date": "11/08",
+      "timestamp": 1786434657
+    },
+    {
+      "id": "BFMTV_1786434092",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS SIX MORTS APRÈS DES FRAPPES RUSSES SUR ZAPORIJIA",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:41",
+      "date": "11/08",
+      "timestamp": 1786434092
+    },
+    {
+      "id": "BFMTV_1786431918",
+      "source": "BFMTV",
+      "text": "BÂTIMENTS DÉTRUITS, OPÉRATIONS DE SECOURS... LES IMAGES DU SÉISME EN COLOMBIE QUI A FAIT AU MOINS 132 MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:05",
+      "date": "11/08",
+      "timestamp": 1786431918
+    },
     {
       "id": "BFMTV_1786427144",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "04:27",
       "date": "09/08",
       "timestamp": 1786249644
-    },
-    {
-      "id": "BFMTV_1786225667",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:47",
-      "date": "08/08",
-      "timestamp": 1786225667
-    },
-    {
-      "id": "BFMTV_1786224630",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LE SÉNAT AMÉRICAIN ADOPTE UNE NOUVELLE SÉRIE DE SANCTIONS CONTRE LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:30",
-      "date": "08/08",
-      "timestamp": 1786224630
-    },
-    {
-      "id": "BFMTV_1786224038",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DES LIVRAISONS D'ARMES À KIEV DE LA PART DE LA TURQUIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:20",
-      "date": "08/08",
-      "timestamp": 1786224038
     }
   ],
   "france": {
