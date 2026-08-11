@@ -1,7 +1,17 @@
 {
-  "last_update": "11/08 22:20",
+  "last_update": "11/08 23:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786487880",
+      "source": "BFMTV",
+      "text": "L'ARMÉE SUD-CORÉENNE AFFIRME QUE LA CORÉE DU NORD A TIRÉ UN MISSILE BALISTIQUE VERS LA MER DU JAPON",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:38",
+      "date": "11/08",
+      "timestamp": 1786487880
+    },
     {
       "id": "BFMTV_1786482576",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "21:54",
       "date": "09/08",
       "timestamp": 1786312442
-    },
-    {
-      "id": "BFMTV_1786312266",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA MENACE RUSSE S’INTENSIFIE À KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:51",
-      "date": "09/08",
-      "timestamp": 1786312266
     }
   ],
   "france": {
