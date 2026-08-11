@@ -1,7 +1,37 @@
 {
-  "last_update": "11/08 20:40",
+  "last_update": "11/08 21:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786482576",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ARRIVE DANS L'OHIO, OÙ IL ASSISTERA À LA FINALE DES \"PATRIOT GAMES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:09",
+      "date": "11/08",
+      "timestamp": 1786482576
+    },
+    {
+      "id": "BFMTV_1786482575",
+      "source": "BFMTV",
+      "text": "L'AMBASSADEUR DE FRANCE EN CENTRAFIQUE ACCUSÉ D'AVOIR FAIT VENIR DES JEUNES FEMMES DANS SA RÉSIDENCE, UNE PROCÉDURE DISCIPLINAIRE OUVERTE",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:09",
+      "date": "11/08",
+      "timestamp": 1786482575
+    },
+    {
+      "id": "BFMTV_1786482306",
+      "source": "BFMTV",
+      "text": "EXFILTRATION DE DONALD TRUMP: LA SÉCURITÉ DU PRÉSIDENT AMÉRICAIN EST RENFORCÉE, MÊME LORSQU'IL JOUE AU GOLF",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:05",
+      "date": "11/08",
+      "timestamp": 1786482306
+    },
     {
       "id": "BFMTV_1786480033",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "21:51",
       "date": "09/08",
       "timestamp": 1786312266
-    },
-    {
-      "id": "BFMTV_1786312158",
-      "source": "BFMTV",
-      "text": "\"ÇA FINIT TOUJOURS PAR S'ARRANGER\": DONALD TRUMP AFFIRME QUE LES ÉTATS-UNIS NE FONT QUE \"SEMI-NÉGOCIER\" AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:49",
-      "date": "09/08",
-      "timestamp": 1786312158
-    },
-    {
-      "id": "BFMTV_1786311820",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: CE QUE L’ON SAIT DU PROJET D’ACCORD POUR SÉCURISER LE DÉTROIT D’ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:43",
-      "date": "09/08",
-      "timestamp": 1786311820
-    },
-    {
-      "id": "BFMTV_1786310123",
-      "source": "BFMTV",
-      "text": "PLUSIEURS BLESSÉS AU DANEMARK DANS UNE FUSILLADE POSSIBLEMENT LIÉE À UN RÈGLEMENT DE COMPTES",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:15",
-      "date": "09/08",
-      "timestamp": 1786310123
     }
   ],
   "france": {
