@@ -1,7 +1,27 @@
 {
-  "last_update": "11/08 13:01",
+  "last_update": "11/08 14:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786458447",
+      "source": "BFMTV",
+      "text": "POURQUOI BENJAMIN NETANYAHU S’OPPOSE AU PLAN AMÉRICAIN POUR LA PAIX À GAZA",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:27",
+      "date": "11/08",
+      "timestamp": 1786458447
+    },
+    {
+      "id": "BFMTV_1786454063",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP A SECRÈTEMENT CHANGÉ D'AVION APRÈS LE SOMMET DE L'OTAN EN RAISON DE MENACES IRANIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:14",
+      "date": "11/08",
+      "timestamp": 1786454063
+    },
     {
       "id": "BFMTV_1786452409",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:42",
       "date": "09/08",
       "timestamp": 1786272155
-    },
-    {
-      "id": "OPEX360_1786271283",
-      "source": "OPEX360",
-      "text": "L’INDE A L’INTENTION DE PARTICIPER À UN PROJET D’AVION DE COMBAT DE NOUVELLE GÉNÉRATION MENÉ PAR LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:28",
-      "date": "09/08",
-      "timestamp": 1786271283
-    },
-    {
-      "id": "BFMTV_1786269814",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: ODESSA CIBLÉE PAR DES FRAPPES RUSSES, AU MOINS 8 BLESSÉS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:03",
-      "date": "09/08",
-      "timestamp": 1786269814
     }
   ],
   "france": {
