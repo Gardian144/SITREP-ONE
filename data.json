@@ -1,7 +1,47 @@
 {
-  "last_update": "12/08 08:50",
+  "last_update": "12/08 10:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786528048",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:47",
+      "date": "12/08",
+      "timestamp": 1786528048
+    },
+    {
+      "id": "BFMTV_1786526230",
+      "source": "BFMTV",
+      "text": "CHINE: UN MILLION DE PERSONNES ÉVACUÉES LORS DU PASSAGE DU TYPHON DOLPHIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:17",
+      "date": "12/08",
+      "timestamp": 1786526230
+    },
+    {
+      "id": "BFMTV_1786525576",
+      "source": "BFMTV",
+      "text": "L'UKRAINE A FRAPPÉ LE PORT PRINCIPAL DE MARCHANDISES RUSSE, LE TERMINAL CÉRÉALIER TOUCHÉ SELON KIEV",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:06",
+      "date": "12/08",
+      "timestamp": 1786525576
+    },
+    {
+      "id": "BFMTV_1786525082",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: LA GALLOISE QUI AVAIT JETÉ SON TICKET À LA POUBELLE POURRAIT FINALEMENT RÉCUPÉRER SES 12 MILLIONS DE LIVRES STERLING",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:58",
+      "date": "12/08",
+      "timestamp": 1786525082
+    },
     {
       "id": "BFMTV_1786524320",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "10:41",
       "date": "10/08",
       "timestamp": 1786358479
-    },
-    {
-      "id": "BFMTV_1786354517",
-      "source": "BFMTV",
-      "text": "UN ANCIEN DÉPUTÉ THAÏLANDAIS ARRÊTÉ POUR DES TIRS CONTRE UN RESPONSABLE LOCAL ET SON CHAUFFEUR, LES DEUX VICTIMES HOSPITALISÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:35",
-      "date": "10/08",
-      "timestamp": 1786354517
-    },
-    {
-      "id": "BFMTV_1786354517",
-      "source": "BFMTV",
-      "text": "UN ANCIEN DÉPUTÉ THAÏLANDAIS RECONNAÎT AVOIR TUÉ PAR BALLES UN RESPONSABLE LOCAL POUR UN DIFFÉREND FINANCIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:35",
-      "date": "10/08",
-      "timestamp": 1786354517
-    },
-    {
-      "id": "BFMTV_1786353253",
-      "source": "BFMTV",
-      "text": "DES \"RESTES HUMAINS\" RETROUVÉS DANS UNE VALISE EN AUSTRALIE ÉTAIENT EN RÉALITÉ UNE POUPÉE \"TRÈS RÉALISTE\" AVEC DES \"ECCHYMOSES ET DES ÉRAFLURES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:14",
-      "date": "10/08",
-      "timestamp": 1786353253
-    },
-    {
-      "id": "BFMTV_1786348577",
-      "source": "BFMTV",
-      "text": "\"LE SENTIMENT DE MIEUX CONTRÔLER MA VIE\": L'ÉLUE DÉMOCRATE AMÉRICAINE ALEXANDRIA OCASIO-CORTEZ SE CONFIE SUR SON CHOIX DE CONGELER SES OVOCYTES",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:56",
-      "date": "10/08",
-      "timestamp": 1786348577
     }
   ],
   "france": {
