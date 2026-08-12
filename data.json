@@ -1,7 +1,27 @@
 {
-  "last_update": "12/08 15:38",
+  "last_update": "12/08 16:36",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786551540",
+      "source": "OPEX360",
+      "text": "LE ROYAUME-UNI ET L’AUSTRALIE VONT RENFORCER LEUR COOPÉRATION DANS LE DOMAINE DES RADARS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:19",
+      "date": "12/08",
+      "timestamp": 1786551540
+    },
+    {
+      "id": "BFMTV_1786551491",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES POMPIERS PRIS POUR CIBLE PAR UN DRONE ALORS QU'ILS ÉTEIGNENT UN INCENDIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:18",
+      "date": "12/08",
+      "timestamp": 1786551491
+    },
     {
       "id": "BFMTV_1786548136",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "17:19",
       "date": "10/08",
       "timestamp": 1786382358
-    },
-    {
-      "id": "BFMTV_1786381702",
-      "source": "BFMTV",
-      "text": "COLOMBIE: UN PUISSANT SÉISME FAIT AU MOINS 18 MORTS DANS L'OUEST DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:08",
-      "date": "10/08",
-      "timestamp": 1786381702
-    },
-    {
-      "id": "BFMTV_1786381578",
-      "source": "BFMTV",
-      "text": "LA BASE MILITAIRE DE CHARLESTON AUX ÉTATS-UNIS CHANGE DE NOM",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:06",
-      "date": "10/08",
-      "timestamp": 1786381578
     }
   ],
   "france": {
