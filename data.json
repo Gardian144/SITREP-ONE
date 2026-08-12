@@ -1,7 +1,27 @@
 {
-  "last_update": "12/08 16:36",
+  "last_update": "12/08 17:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786555732",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:28",
+      "date": "12/08",
+      "timestamp": 1786555732
+    },
+    {
+      "id": "BFMTV_1786552910",
+      "source": "BFMTV",
+      "text": "MAHMOUD ABBAS RENCONTRE SON HOMOLOGUE TURC, RECEP TAYYIP ERDOGAN À ANKARA",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:41",
+      "date": "12/08",
+      "timestamp": 1786552910
+    },
     {
       "id": "OPEX360_1786551540",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "18:17",
       "date": "10/08",
       "timestamp": 1786385845
-    },
-    {
-      "id": "OPEX360_1786383352",
-      "source": "OPEX360",
-      "text": "LA ROYAL AIR FORCE A ÉMIS UNE DEMANDE D’INFORMATIONS POUR REMPLACER SES AVIONS D’ENTRAÎNEMENT HAWK",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:35",
-      "date": "10/08",
-      "timestamp": 1786383352
-    },
-    {
-      "id": "BFMTV_1786382358",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: \"C'EST L'ACCUEIL QUI VA PERMETTRE DE SORTIR DE ÇA\", ESTIME CHARLOTTE KWANTES, PORTE-PAROLE D'UTOPIA 56",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:19",
-      "date": "10/08",
-      "timestamp": 1786382358
     }
   ],
   "france": {
