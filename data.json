@@ -1,7 +1,47 @@
 {
-  "last_update": "12/08 07:39",
+  "last_update": "12/08 08:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786524320",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE MENACE DE SAISIR DES NAVIRES OCCIDENTAUX EN REPRÉSAILLES À L'ARRAISONNEMENT DE BATEAUX SOUPÇONNÉS D'APPARTENIR À LA \"FLOTTE FANTÔME\" RUSSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:45",
+      "date": "12/08",
+      "timestamp": 1786524320
+    },
+    {
+      "id": "BFMTV_1786523482",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE MENACE DE SAISIR DES NAVIRES OCCIDENTAUX EN REPRÉSAILLES À L'ARRAISONNEMENT DE BATEAUX SOUPÇONNÉS D'APPARTENIR À LA \"FLOTTE FANTÔME\" RUSSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:31",
+      "date": "12/08",
+      "timestamp": 1786523482
+    },
+    {
+      "id": "BFMTV_1786523152",
+      "source": "BFMTV",
+      "text": "SÉISME EN COLOMBIE: UNE FAMILLE VOIT UNE PARTIE DE SA MAISON S’EFFONDRER",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:25",
+      "date": "12/08",
+      "timestamp": 1786523152
+    },
+    {
+      "id": "BFMTV_1786520340",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP EXFILTRÉ D'AIR FORCE ONE EN JUILLET: LE PRÉSIDENT AMÉRICAIN CONFIRME LES INFORMATIONS DE LA PRESSE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:39",
+      "date": "12/08",
+      "timestamp": 1786520340
+    },
     {
       "id": "BFMTV_1786518373",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "07:56",
       "date": "10/08",
       "timestamp": 1786348577
-    },
-    {
-      "id": "BFMTV_1786347689",
-      "source": "BFMTV",
-      "text": "HUIT CORPS DÉMEMBRÉS DÉCOUVERTS DANS UNE MINE ILLÉGALE EN ÉQUATEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:41",
-      "date": "10/08",
-      "timestamp": 1786347689
-    },
-    {
-      "id": "BFMTV_1786347484",
-      "source": "BFMTV",
-      "text": "RUSSIE: AU MOINS 12 MORTS ET 39 BLESSÉS DANS UNE ATTAQUE UKRAINIENNE DE DRONES AU TATARSTAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:38",
-      "date": "10/08",
-      "timestamp": 1786347484
-    },
-    {
-      "id": "BFMTV_1786347160",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE : AU MOINS CINQ MORTS DANS UNE FRAPPE RUSSE DANS LA RÉGION DE KHARKIV",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:32",
-      "date": "10/08",
-      "timestamp": 1786347160
-    },
-    {
-      "id": "BFMTV_1786343023",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:23",
-      "date": "10/08",
-      "timestamp": 1786343023
     }
   ],
   "france": {
