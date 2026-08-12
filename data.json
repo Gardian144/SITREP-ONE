@@ -1,7 +1,27 @@
 {
-  "last_update": "12/08 05:58",
+  "last_update": "12/08 07:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786518373",
+      "source": "BFMTV",
+      "text": "\"JE SUIS L'OBJET DE BEAUCOUP DE MENACES\": DONALD TRUMP RACONTE SON EXFILTRATION APRÈS LE SOMMET DE L'OTAN EN TURQUIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:06",
+      "date": "12/08",
+      "timestamp": 1786518373
+    },
+    {
+      "id": "BFMTV_1786516262",
+      "source": "BFMTV",
+      "text": "AU MOINS 15 MORTS ET 27 DISPARUS APRÈS LE CHAVIRAGE D'UN BATEAU SUR LE LAC KARIBA AU ZIMBABWE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:31",
+      "date": "12/08",
+      "timestamp": 1786516262
+    },
     {
       "id": "BFMTV_1786512551",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "06:23",
       "date": "10/08",
       "timestamp": 1786343023
-    },
-    {
-      "id": "BFMTV_1786343022",
-      "source": "BFMTV",
-      "text": "LA RUSSIE ANNONCE L'INTERCEPTION DE 456 DRONES UKRAINIENS DANS LA NUIT, PLUSIEURS MORTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:23",
-      "date": "10/08",
-      "timestamp": 1786343022
-    },
-    {
-      "id": "BFMTV_1786340187",
-      "source": "BFMTV",
-      "text": "UNE OCTOGÉNAIRE MEURT EN TENTANT D'ÉCHAPPER À UN FEU DE FORÊT HORS DE CONTRÔLE AU CANADA",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:36",
-      "date": "10/08",
-      "timestamp": 1786340187
     }
   ],
   "france": {
