@@ -1,7 +1,57 @@
 {
-  "last_update": "12/08 14:35",
+  "last_update": "12/08 15:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786548136",
+      "source": "BFMTV",
+      "text": "MANIFESTATIONS EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:22",
+      "date": "12/08",
+      "timestamp": 1786548136
+    },
+    {
+      "id": "BFMTV_1786548135",
+      "source": "BFMTV",
+      "text": "\"LE RECOURS À LA PEINE CAPITALE EN AUCUN CAS JUSTIFIÉ\": 26 PAYS DONT LA FRANCE CONDAMNENT LES EXÉCUTIONS DE MANIFESTANTS EN IRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:22",
+      "date": "12/08",
+      "timestamp": 1786548135
+    },
+    {
+      "id": "OPEX360_1786547683",
+      "source": "OPEX360",
+      "text": "LES A330 MRTT FRANÇAIS SONT QUALIFIÉS POUR RAVITAILLER EN VOL LES AVIONS ESPIONS RC-135 AMÉRICAINS ET BRITANNIQUES",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:14",
+      "date": "12/08",
+      "timestamp": 1786547683
+    },
+    {
+      "id": "BFMTV_1786546506",
+      "source": "BFMTV",
+      "text": "MENACE DE MISSILE, AVION LEURRE, CONTENEUR... CE QUE L'ON SAIT DU CHANGEMENT D'AVION ROCAMBOLESQUE DE DONALD TRUMP À L'ISSUE DU SOMMET DE L'OTAN EN TURQUIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:55",
+      "date": "12/08",
+      "timestamp": 1786546506
+    },
+    {
+      "id": "BFMTV_1786545477",
+      "source": "BFMTV",
+      "text": "\"LES VACCINS, Y COMPRIS LE VACCIN ROR, SONT SÛRS ET NE PROVOQUENT PAS D’AUTISME\", DÉCLARE LE DR GHEBREYESUS, CHEF DE L'OMS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:37",
+      "date": "12/08",
+      "timestamp": 1786545477
+    },
     {
       "id": "BFMTV_1786544611",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "17:06",
       "date": "10/08",
       "timestamp": 1786381578
-    },
-    {
-      "id": "BFMTV_1786380559",
-      "source": "BFMTV",
-      "text": "STOCKHOLM AFFIRME AVOIR DÉJOUÉ UNE OPÉRATION DU RENSEIGNEMENT RUSSE IMPLIQUANT UN AGENT EN POSTE EN SUÈDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:49",
-      "date": "10/08",
-      "timestamp": 1786380559
-    },
-    {
-      "id": "BFMTV_1786380453",
-      "source": "BFMTV",
-      "text": "POURQUOI LES AUTORITÉS ESPAGNOLES CRAIGNENT-ELLES UNE NOUVELLE VAGUE MIGRATOIRE À CEUTA LE 15 AOÛT? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:47",
-      "date": "10/08",
-      "timestamp": 1786380453
-    },
-    {
-      "id": "OPEX360_1786379690",
-      "source": "OPEX360",
-      "text": "LA RUSSIE A TROUVÉ UN ACCORD SUR SES BASES MILITAIRES EN SYRIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:34",
-      "date": "10/08",
-      "timestamp": 1786379690
-    },
-    {
-      "id": "OPEX360_1786374684",
-      "source": "OPEX360",
-      "text": "LE CHEF DU RENSEIGNEMENT MILITAIRE NÉERLANDAIS A PU ÊTRE SUIVI À LA TRACE VIA L’APPLICATION SPORTIVE STRAVA",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:11",
-      "date": "10/08",
-      "timestamp": 1786374684
-    },
-    {
-      "id": "BFMTV_1786374060",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: COMMENT UNE RUMEUR EN LIGNE A ENTRAÎNÉ L’AFFLUX DE MILLIERS DE MIGRANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:01",
-      "date": "10/08",
-      "timestamp": 1786374060
     }
   ],
   "france": {
