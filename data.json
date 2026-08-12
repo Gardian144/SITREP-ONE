@@ -1,7 +1,57 @@
 {
-  "last_update": "12/08 10:02",
+  "last_update": "12/08 11:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786531368",
+      "source": "BFMTV",
+      "text": "MENACÉ, DONALD TRUMP CONFIRME AVOIR ÉTÉ EXFILTRÉ SECRÈTEMENT D'AIR FORCE ONE EN JUILLET",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:42",
+      "date": "12/08",
+      "timestamp": 1786531368
+    },
+    {
+      "id": "OPEX360_1786531052",
+      "source": "OPEX360",
+      "text": "DISPARUE IL Y A 118 ANS, L’ÉPAVE DU TORPILLEUR BRITANNIQUE HMS TIGER A ÉTÉ RETROUVÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:37",
+      "date": "12/08",
+      "timestamp": 1786531052
+    },
+    {
+      "id": "BFMTV_1786530013",
+      "source": "BFMTV",
+      "text": "\"PLANS THAÏLANDE\": L'ARNAQUE DU SÉJOUR TOUS FRAIS PAYÉS QUI A DÉJÀ PIÉGÉ PLUSIEURS JEUNES FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:20",
+      "date": "12/08",
+      "timestamp": 1786530013
+    },
+    {
+      "id": "BFMTV_1786529876",
+      "source": "BFMTV",
+      "text": "COLOMBIE: UN CHATON SAUVÉ DES DÉCOMBRES CAUSÉS PAR LE SÉISME",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:17",
+      "date": "12/08",
+      "timestamp": 1786529876
+    },
+    {
+      "id": "BFMTV_1786529487",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE MENACE DE SAISIR DES NAVIRES OCCIDENTAUX EN MESURE DE REPRÉSAILLES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:11",
+      "date": "12/08",
+      "timestamp": 1786529487
+    },
     {
       "id": "BFMTV_1786528048",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "13:02",
       "date": "10/08",
       "timestamp": 1786366932
-    },
-    {
-      "id": "BFMTV_1786364439",
-      "source": "BFMTV",
-      "text": "INDONÉSIE: LA PLUS HAUTE AUTORITÉ RELIGIEUSE DÉFEND AUX HOMMES DE PORTER DES \"VÊTEMENTS FÉMININS\" POUR LES CÉLÉBRATIONS DE L'INDÉPENDANCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:20",
-      "date": "10/08",
-      "timestamp": 1786364439
-    },
-    {
-      "id": "BFMTV_1786362680",
-      "source": "BFMTV",
-      "text": "CEUTA: DES APPELS MASSIFS À PASSER LA FRONTIÈRE ESPAGNOLE LE 15 AOÛT RELAYÉS SUR LES RÉSEAUX SOCIAUX ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:51",
-      "date": "10/08",
-      "timestamp": 1786362680
-    },
-    {
-      "id": "BFMTV_1786359409",
-      "source": "BFMTV",
-      "text": "UN ANCIEN CHEF DE GANG ACCUSÉ D'AVOIR ORCHESTRÉ LE MEURTRE DE TUPAC EN PROCÈS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:56",
-      "date": "10/08",
-      "timestamp": 1786359409
-    },
-    {
-      "id": "OPEX360_1786358990",
-      "source": "OPEX360",
-      "text": "UTILISÉ PAR LES ROYAL MARINES, UN DRONE DE SURFACE AURAIT DISCRÈTEMENT ENVOYÉ DES DONNÉES EN CHINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:49",
-      "date": "10/08",
-      "timestamp": 1786358990
-    },
-    {
-      "id": "BFMTV_1786358479",
-      "source": "BFMTV",
-      "text": "RUSSIE: 13 MORTS DANS UNE ATTAQUE UKRAINIENNE DE DRONES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:41",
-      "date": "10/08",
-      "timestamp": 1786358479
     }
   ],
   "france": {
