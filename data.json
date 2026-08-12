@@ -1,7 +1,27 @@
 {
-  "last_update": "12/08 13:20",
+  "last_update": "12/08 14:35",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786544611",
+      "source": "BFMTV",
+      "text": "ONZE FRANÇAIS DÉTENUS POUR TRAFIC DE DROGUES DEPUIS LE DÉBUT DE L'ÉTÉ EN THAÏLANDE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:23",
+      "date": "12/08",
+      "timestamp": 1786544611
+    },
+    {
+      "id": "OPEX360_1786542078",
+      "source": "OPEX360",
+      "text": "LA RUSSIE MENACE D’ARRAISONNER DES NAVIRES EUROPÉENS EN RÉPONSE AUX SANCTIONS VISANT SA FLOTTE «FANTÔME»",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:41",
+      "date": "12/08",
+      "timestamp": 1786542078
+    },
     {
       "id": "BFMTV_1786540554",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:01",
       "date": "10/08",
       "timestamp": 1786374060
-    },
-    {
-      "id": "BFMTV_1786373198",
-      "source": "BFMTV",
-      "text": "AU MOINS 18 MORTS EN COLOMBIE APRÈS UN PUISSANT SÉISME DE MAGNITUDE 7,4",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:46",
-      "date": "10/08",
-      "timestamp": 1786373198
-    },
-    {
-      "id": "BFMTV_1786373198",
-      "source": "BFMTV",
-      "text": "AU MOINS 69 MORTS EN COLOMBIE APRÈS UN PUISSANT SÉISME DE MAGNITUDE 7,4",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:46",
-      "date": "10/08",
-      "timestamp": 1786373198
     }
   ],
   "france": {
