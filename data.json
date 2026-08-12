@@ -1,7 +1,47 @@
 {
-  "last_update": "12/08 20:41",
+  "last_update": "12/08 21:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786569284",
+      "source": "BFMTV",
+      "text": "LA PORTE-PAROLE DE LA MAISON BLANCHE, KAROLINE LEAVITT, QUITTERA SES FONCTIONS \"À LA FIN DU MOIS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:14",
+      "date": "12/08",
+      "timestamp": 1786569284
+    },
+    {
+      "id": "BFMTV_1786569182",
+      "source": "BFMTV",
+      "text": "L'UKRAINE AFFIRME AVOIR LANCÉ 440 DRONES CONTRE LA RUSSIE CE MERCREDI",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:13",
+      "date": "12/08",
+      "timestamp": 1786569182
+    },
+    {
+      "id": "BFMTV_1786568827",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: ATTAQUE MASSIVE DE KIEV SUR UN PORT RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:07",
+      "date": "12/08",
+      "timestamp": 1786568827
+    },
+    {
+      "id": "BFMTV_1786568341",
+      "source": "BFMTV",
+      "text": "DANS LES COULISSES DE L'EXFILTRATION ROCAMBOLESQUE DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:59",
+      "date": "12/08",
+      "timestamp": 1786568341
+    },
     {
       "id": "BFMTV_1786566394",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "20:31",
       "date": "10/08",
       "timestamp": 1786393882
-    },
-    {
-      "id": "BFMTV_1786393272",
-      "source": "BFMTV",
-      "text": "ATTAQUE UKRAINIENNE EN RUSSIE: LE PLUS LOURD BILAN HUMAIN DEPUIS 2022",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:21",
-      "date": "10/08",
-      "timestamp": 1786393272
-    },
-    {
-      "id": "BFMTV_1786391648",
-      "source": "BFMTV",
-      "text": "SÉISME EN COLOMBIE: UNE VINGTAINE DE BÂTIMENTS EFFONDRÉS À CALI",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:54",
-      "date": "10/08",
-      "timestamp": 1786391648
-    },
-    {
-      "id": "BFMTV_1786387013",
-      "source": "BFMTV",
-      "text": "AU MOINS 111 MORTS EN COLOMBIE APRÈS UN PUISSANT SÉISME DE MAGNITUDE 7,4",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:36",
-      "date": "10/08",
-      "timestamp": 1786387013
-    },
-    {
-      "id": "BFMTV_1786385845",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DEMANDE DES \"COMPENSATIONS\" À L'IRAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:17",
-      "date": "10/08",
-      "timestamp": 1786385845
     }
   ],
   "france": {
