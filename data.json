@@ -1,7 +1,47 @@
 {
-  "last_update": "13/08 20:22",
+  "last_update": "13/08 21:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786655537",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UN TRAIN FRAPPÉ PAR UN DRONE DANS LA RÉGION D'ODESSA",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:12",
+      "date": "13/08",
+      "timestamp": 1786655537
+    },
+    {
+      "id": "BFMTV_1786655034",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DEMANDE AUX ÉTATS-UNIS DE VENDRE À KIEV AU MOINS 5% DE LEURS MISSILES INTERCEPTEURS PATRIOT",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:03",
+      "date": "13/08",
+      "timestamp": 1786655034
+    },
+    {
+      "id": "BFMTV_1786654674",
+      "source": "BFMTV",
+      "text": "EXERCICE MILITAIRE DE L'OTAN: QUAND LES DRONES UKRAINIENS DONNENT UNE LEÇON À L'ARMÉE AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:57",
+      "date": "13/08",
+      "timestamp": 1786654674
+    },
+    {
+      "id": "BFMTV_1786653752",
+      "source": "BFMTV",
+      "text": "USS LINCOLN: PLUSIEURS SOLDATS AMÉRICAINS AURAIENT TENTÉ DE SAUTER DU PORTE-AVIONS, EXTÉNUÉS PAR LES CONDITIONS DE VIE À BORD",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:42",
+      "date": "13/08",
+      "timestamp": 1786653752
+    },
     {
       "id": "BFMTV_1786650477",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "14:50",
       "date": "11/08",
       "timestamp": 1786459848
-    },
-    {
-      "id": "BFMTV_1786459292",
-      "source": "BFMTV",
-      "text": "\"LA CISJORDANIE EST PROCHE DU POINT DE RUPTURE\", ALERTE L’ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:41",
-      "date": "11/08",
-      "timestamp": 1786459292
-    },
-    {
-      "id": "BFMTV_1786459292",
-      "source": "BFMTV",
-      "text": "\"LA CISJORDANIE EST PROCHE DU POINT DE RUPTURE\", ALERTE RAMIZ ALAKBAROV, COORDONNATEUR SPÉCIAL ADJOINT POUR LE PROCESSUS DE PAIX AU MOYEN-ORIENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:41",
-      "date": "11/08",
-      "timestamp": 1786459292
-    },
-    {
-      "id": "BFMTV_1786459014",
-      "source": "BFMTV",
-      "text": "SÉISME EN COLOMBIE: AU MOINS 181 MORTS ET PLUS DE 1.300 BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:36",
-      "date": "11/08",
-      "timestamp": 1786459014
-    },
-    {
-      "id": "OPEX360_1786458877",
-      "source": "OPEX360",
-      "text": "SAHEL : L’ALGÉRIE RENFORCE SES LIENS MILITAIRES AVEC LE NIGER AVEC UN DON DE QUATRE HÉLICOPTÈRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:34",
-      "date": "11/08",
-      "timestamp": 1786458877
     }
   ],
   "france": {
