@@ -1,7 +1,57 @@
 {
-  "last_update": "13/08 16:35",
+  "last_update": "13/08 17:42",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786641665",
+      "source": "OPEX360",
+      "text": "LA TURQUIE USE LE POTENTIEL DE L’AVIATION DE CHASSE GRECQUE EN ENVOYANT DES DRONES AU-DESSUS DE LA MER ÉGÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:21",
+      "date": "13/08",
+      "timestamp": 1786641665
+    },
+    {
+      "id": "BFMTV_1786640412",
+      "source": "BFMTV",
+      "text": "LA GRÈCE À NOUVEAU EN PROIE AUX FLAMMES PRÈS DE THESSALONIQUE, DES TOURISTES ÉVACUÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:00",
+      "date": "13/08",
+      "timestamp": 1786640412
+    },
+    {
+      "id": "BFMTV_1786640337",
+      "source": "BFMTV",
+      "text": "MOISISSURES, RATIONNEMENT, MENACES DE SUICIDE...QUE SE PASSE-T-IL À BORD DU PORTE-AVIONS LINCOLN ? ",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:58",
+      "date": "13/08",
+      "timestamp": 1786640337
+    },
+    {
+      "id": "BFMTV_1786639678",
+      "source": "BFMTV",
+      "text": "SITUATION AU YÉMEN: LA FRANCE POINTE LE \"COMPORTEMENT DÉSTABILISATEUR\" DE L'IRAN DANS LA RÉGION",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:47",
+      "date": "13/08",
+      "timestamp": 1786639678
+    },
+    {
+      "id": "BFMTV_1786639015",
+      "source": "BFMTV",
+      "text": "MOISISSURES, EAU CHAUDE SPORADIQUE, NOURRITURE RATIONNÉE, MENACES DE SUICIDE: DES ÉLUS AMÉRICAINS INQUIETS DE LA VIE SUR LE PORTE-AVIONS LINCOLN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:36",
+      "date": "13/08",
+      "timestamp": 1786639015
+    },
     {
       "id": "OPEX360_1786638062",
       "source": "OPEX360",
@@ -951,56 +1001,6 @@
       "time": "11:15",
       "date": "11/08",
       "timestamp": 1786446902
-    },
-    {
-      "id": "BFMTV_1786445452",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QUE SA RELATION AVEC BENJAMIN NETANYAHU EST \"TRÈS BONNE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:50",
-      "date": "11/08",
-      "timestamp": 1786445452
-    },
-    {
-      "id": "BFMTV_1786445314",
-      "source": "BFMTV",
-      "text": "AUSTRALIE: LES \"RESTES HUMAINS\" RETROUVÉS DANS UNE VALISE ÉTAIENT EN RÉALITÉ CEUX D'UNE POUPÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:48",
-      "date": "11/08",
-      "timestamp": 1786445314
-    },
-    {
-      "id": "OPEX360_1786445119",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE TERRE SE DOTE D’UNE FORCE D’EXPERTISE ET D’EXPÉRIMENTATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:45",
-      "date": "11/08",
-      "timestamp": 1786445119
-    },
-    {
-      "id": "BFMTV_1786444883",
-      "source": "BFMTV",
-      "text": "COLOMBIE: LES RECHERCHES SE POURSUIVENT APRÈS LE SÉISME QUI A FAIT AU MOINS 132 MORTS ET 570 BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:41",
-      "date": "11/08",
-      "timestamp": 1786444883
-    },
-    {
-      "id": "BFMTV_1786444811",
-      "source": "BFMTV",
-      "text": "SÉISME EN COLOMBIE: L'UE CONFIRME L'ENVOI D'UNE \"ASSISTANCE RAPIDE\" ET UNE AIDE DE 100 000 EUROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:40",
-      "date": "11/08",
-      "timestamp": 1786444811
     }
   ],
   "france": {
