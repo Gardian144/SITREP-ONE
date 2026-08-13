@@ -1,7 +1,27 @@
 {
-  "last_update": "13/08 15:41",
+  "last_update": "13/08 16:35",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786638062",
+      "source": "OPEX360",
+      "text": "LA CÔTE D’IVOIRE A FAIT L’ACQUISITION DE DEUX DRONES MALE WING LOONG 2 AUPRÈS DE LA CHINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:21",
+      "date": "13/08",
+      "timestamp": 1786638062
+    },
+    {
+      "id": "BFMTV_1786636701",
+      "source": "BFMTV",
+      "text": "DES OPÉRATEURS DE DRONES UKRAINIENS DOMINENT DES TROUPES AMÉRICAINES LORS D'UN GRAND EXERCICE MILITAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:58",
+      "date": "13/08",
+      "timestamp": 1786636701
+    },
     {
       "id": "BFMTV_1786633085",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:40",
       "date": "11/08",
       "timestamp": 1786444811
-    },
-    {
-      "id": "BFMTV_1786444521",
-      "source": "BFMTV",
-      "text": "MENACÉ PAR L'IRAN, DONALD TRUMP EXFILTRÉ SECRÈTEMENT D'AIR FORCE ONE À SON DÉPART DU SOMMET DE L'OTAN EN JUILLET, SELON LA PRESSE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:35",
-      "date": "11/08",
-      "timestamp": 1786444521
-    },
-    {
-      "id": "BFMTV_1786442813",
-      "source": "BFMTV",
-      "text": "\"UNE IMMENSE ÉTENDUE D'AMPHORES EN DESSOUS DE MOI\": UNE ÉPAVE ROMAINE DÉCOUVERTE À L'OUEST DE LA SICILE PAR DEUX PLONGEURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:06",
-      "date": "11/08",
-      "timestamp": 1786442813
     }
   ],
   "france": {
