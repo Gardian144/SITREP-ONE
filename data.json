@@ -1,7 +1,47 @@
 {
-  "last_update": "13/08 08:54",
+  "last_update": "13/08 10:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786614521",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DEUX CHEMINOTS TUÉS DANS UNE FRAPPE RUSSE CONTRE UN TRAIN À ODESSA, 340 PASSAGERS ÉVACUÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:48",
+      "date": "13/08",
+      "timestamp": 1786614521
+    },
+    {
+      "id": "BFMTV_1786613864",
+      "source": "BFMTV",
+      "text": "\"NE TRANSPORTEZ JAMAIS DE BAGAGE POUR LE COMPTE D'UN TIERS\": LA FRANCE ALERTE SUR LE RENFORCEMENT DES CONTRÔLES DE TRAFIC DE DROGUE EN THAÏLANDE",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:37",
+      "date": "13/08",
+      "timestamp": 1786613864
+    },
+    {
+      "id": "BFMTV_1786613673",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:34",
+      "date": "13/08",
+      "timestamp": 1786613673
+    },
+    {
+      "id": "BFMTV_1786611724",
+      "source": "BFMTV",
+      "text": "\"IL S'EST JETÉ SUR MOI ET A ATTRAPÉ MA JAMBE\": UN PÊCHEUR SECOURU APRÈS AVOIR ÉTÉ MORDU PAR UN REQUIN AU LARGE DE L'IRLANDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:02",
+      "date": "13/08",
+      "timestamp": 1786611724
+    },
     {
       "id": "BFMTV_1786607663",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "04:28",
       "date": "11/08",
       "timestamp": 1786422486
-    },
-    {
-      "id": "BFMTV_1786422485",
-      "source": "BFMTV",
-      "text": "COLOMBIE: AU MOINS 111 MORTS ET 87 BLESSÉS APRÈS UN PUISSANT SÉISME DE MAGNITUDE 7,4",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:28",
-      "date": "11/08",
-      "timestamp": 1786422485
-    },
-    {
-      "id": "BFMTV_1786400696",
-      "source": "BFMTV",
-      "text": "UKRAINE: L'ALERTE AUX MISSILES DÉCLENCHÉE À KIEV, UNE SÉRIE D'EXPLOSIONS ENTENDUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:24",
-      "date": "10/08",
-      "timestamp": 1786400696
-    },
-    {
-      "id": "BFMTV_1786397885",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP À PROPOS DES CANDIDATS DÉMOCRATES: \"DES DJIHADISTES SONT ÉLUS UN PEU PARTOUT",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:38",
-      "date": "10/08",
-      "timestamp": 1786397885
-    },
-    {
-      "id": "BFMTV_1786397270",
-      "source": "BFMTV",
-      "text": "\"LE DROIT D'ASILE EST DÉVOYÉ PARCE QU'IL EST UTILISÉ COMME UNE SORTE DE TOTEM PROTECTEUR\", AFFIRME PIERRE-HENRI DUMONT, SECRÉTAIRE GÉNÉRAL ADJOINT DES RÉPUBLICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:27",
-      "date": "10/08",
-      "timestamp": 1786397270
     }
   ],
   "france": {
