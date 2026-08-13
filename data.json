@@ -1,7 +1,57 @@
 {
-  "last_update": "13/08 10:03",
+  "last_update": "13/08 11:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786618863",
+      "source": "BFMTV",
+      "text": "UN TOURISTE PORTUGAIS RETROUVÉ MORT EN MER APRÈS UN ACCIDENT DE BATEAU EN CROATIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:01",
+      "date": "13/08",
+      "timestamp": 1786618863
+    },
+    {
+      "id": "OPEX360_1786618819",
+      "source": "OPEX360",
+      "text": "LE MONTANT DES EXPORTATIONS FRANÇAISES D’ARMEMENT A DE NOUVEAU DÉPASSÉ LES 21 MILLIARDS D’EUROS EN 2025",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:00",
+      "date": "13/08",
+      "timestamp": 1786618819
+    },
+    {
+      "id": "BFMTV_1786618154",
+      "source": "BFMTV",
+      "text": "ESPAGNE: UN SKATER RÉALISE UN SAUT DEVANT L'ÉCLIPSE SOLAIRE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:49",
+      "date": "13/08",
+      "timestamp": 1786618154
+    },
+    {
+      "id": "BFMTV_1786617412",
+      "source": "BFMTV",
+      "text": "CARBURANTS: COMMENT LES CONFLITS MONDIAUX PERTURBENT LES PRIX À LA POMPE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:36",
+      "date": "13/08",
+      "timestamp": 1786617412
+    },
+    {
+      "id": "BFMTV_1786617287",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE EN VISITE POUR LA PREMIÈRE FOIS AUX ÎLES KOURILES, L'AMBASSADEUR RUSSE CONVOQUÉ PAR TOKYO",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:34",
+      "date": "13/08",
+      "timestamp": 1786617287
+    },
     {
       "id": "BFMTV_1786614521",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "07:05",
       "date": "11/08",
       "timestamp": 1786431918
-    },
-    {
-      "id": "BFMTV_1786427144",
-      "source": "BFMTV",
-      "text": "LA PRESSE AMÉRICAINE RÉVÈLE QUE DONALD TRUMP A SECRÈTEMENT CHANGÉ D'AVION APRÈS LE SOMMET DE L'OTAN EN RAISON DE MENACES IRANIENNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:45",
-      "date": "11/08",
-      "timestamp": 1786427144
-    },
-    {
-      "id": "BFMTV_1786425634",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS NEUF MORTS APRÈS DES ATTAQUES À ZAPORIJIA ET DANS LA RÉGION DE DNIPROPETROVSK, DES EXPLOSIONS ENTENDUES À KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:20",
-      "date": "11/08",
-      "timestamp": 1786425634
-    },
-    {
-      "id": "BFMTV_1786423795",
-      "source": "BFMTV",
-      "text": "EN RAISON DE LA SÉCHERESSE ET DE SON NIVEAU TRÈS BAS, LE DANUBE RÉVÈLE DES ÉPAVES ET DES OSSEMENTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:49",
-      "date": "11/08",
-      "timestamp": 1786423795
-    },
-    {
-      "id": "BFMTV_1786423469",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP POURSUIT SON OFFENSIVE CONTRE LES VACCINS AUX ENFANTS ET FAIT DE NOUVEAU LE LIEN ENTRE AUTISME ET VACCINATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:44",
-      "date": "11/08",
-      "timestamp": 1786423469
-    },
-    {
-      "id": "BFMTV_1786422486",
-      "source": "BFMTV",
-      "text": "\"JE TROUVE CE CONCEPT VRAIMENT MIGNON\": À NEW YORK, VOUS POUVEZ TROUVER L'AMOUR GRÂCE À UN PHOTOMATON ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:28",
-      "date": "11/08",
-      "timestamp": 1786422486
     }
   ],
   "france": {
