@@ -1,7 +1,37 @@
 {
-  "last_update": "13/08 05:56",
+  "last_update": "13/08 07:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786604253",
+      "source": "BFMTV",
+      "text": "PÉTROLIER ÉCHOUÉ AU LARGE D'OMAN: LA MARÉE NOIRE A ATTEINT LES CÔTES DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:57",
+      "date": "13/08",
+      "timestamp": 1786604253
+    },
+    {
+      "id": "BFMTV_1786602087",
+      "source": "BFMTV",
+      "text": "DOUCHES MOISIES, EAU CHAUDE SPORADIQUE, NOURRITURE RATIONNÉE, MENACES DE SUICIDE: DES ÉLUS AMÉRICAINS INQUIETS DE LA VIE SUR LE PORTE-AVIONS LINCOLN",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:21",
+      "date": "13/08",
+      "timestamp": 1786602087
+    },
+    {
+      "id": "BFMTV_1786601801",
+      "source": "BFMTV",
+      "text": "CEUTA: LE MAROC ANNONCE PRENDRE DES MESURES APRÈS DE NOUVEAUX APPELS EN LIGNE À TRAVERSER LA FRONTIÈRE ESPAGNOLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:16",
+      "date": "13/08",
+      "timestamp": 1786601801
+    },
     {
       "id": "BFMTV_1786599250",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "21:12",
       "date": "10/08",
       "timestamp": 1786396342
-    },
-    {
-      "id": "BFMTV_1786395617",
-      "source": "BFMTV",
-      "text": "CEUTA: \"DANS L'ESPACE SCHENGEN, LES DIFFÉRENTS PAYS NE DOIVENT PAS POUVOIR AVOIR UNE POLITIQUE MIGRATOIRE ISOLÉE\", ESTIME SYLVAIN BERRIOS, DÉPUTÉ HORIZONS ET INDÉPENDANTS DU VAL-DE-MARNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:00",
-      "date": "10/08",
-      "timestamp": 1786395617
-    },
-    {
-      "id": "BFMTV_1786395537",
-      "source": "BFMTV",
-      "text": "LES RELATIONS ENTRE DONALD TRUMP ET BENJAMIN NETANYAHU SONT \"TRÈS BONNES\" MALGRÉ DES DÉSACCORDS SUR GAZA",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:58",
-      "date": "10/08",
-      "timestamp": 1786395537
-    },
-    {
-      "id": "BFMTV_1786395537",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:58",
-      "date": "10/08",
-      "timestamp": 1786395537
     }
   ],
   "france": {
