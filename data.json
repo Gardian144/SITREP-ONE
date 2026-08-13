@@ -1,7 +1,57 @@
 {
-  "last_update": "13/08 13:35",
+  "last_update": "13/08 14:43",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786631440",
+      "source": "OPEX360",
+      "text": "L’INDE A ÉMIS UN APPEL D’OFFRES POUR SE PROCURER 60 AVIONS MILITAIRES DE TRANSPORT POUR 9 MILLIARDS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:30",
+      "date": "13/08",
+      "timestamp": 1786631440
+    },
+    {
+      "id": "BFMTV_1786629912",
+      "source": "BFMTV",
+      "text": "LES AUTORITÉS ALERTENT SUR UNE MULTIPLICATION DES OPÉRATIONS D'INFLUENCES ÉTRANGÈRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:05",
+      "date": "13/08",
+      "timestamp": 1786629912
+    },
+    {
+      "id": "BFMTV_1786628726",
+      "source": "BFMTV",
+      "text": "COMMENT FONCTIONNENT LES RÉSEAUX AU CŒUR DE LA PROPAGANDE RUSSE EN FRANCE?",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:45",
+      "date": "13/08",
+      "timestamp": 1786628726
+    },
+    {
+      "id": "BFMTV_1786628541",
+      "source": "BFMTV",
+      "text": "CISJORDANIE OCCUPÉE: L'AMBASSADEUR AMÉRICAIN DÉNONCE LE SIÈGE DE MAISONS PALESTINIENNES PAR DES COLONS ISRAÉLIENS, UN \"ACTE DE TERREUR\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:42",
+      "date": "13/08",
+      "timestamp": 1786628541
+    },
+    {
+      "id": "BFMTV_1786628068",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DEUX CHEMINOTS TUÉS DANS UNE FRAPPE RUSSE CONTRE UN TRAIN À ODESSA",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:34",
+      "date": "13/08",
+      "timestamp": 1786628068
+    },
     {
       "id": "BFMTV_1786623790",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "09:10",
       "date": "11/08",
       "timestamp": 1786439456
-    },
-    {
-      "id": "BFMTV_1786439455",
-      "source": "BFMTV",
-      "text": "UN PHÉNOMÈNE DE \"FLASH OVER\": UNE NOUVELLE VIDÉO DE L'INCENDIE DE CRANS-MONTANA MONTRE LA VÉRITABLE \"BOULE DE FEU\" QUI A EMBRASÉ LE BAR",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:10",
-      "date": "11/08",
-      "timestamp": 1786439455
-    },
-    {
-      "id": "BFMTV_1786438137",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DEMANDE DES \"INDEMNITÉS\" À L'IRAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "08:48",
-      "date": "11/08",
-      "timestamp": 1786438137
-    },
-    {
-      "id": "BFMTV_1786437946",
-      "source": "BFMTV",
-      "text": "SYRIE: BACHAR AL-ASSAD CONDAMNÉ À LA PEINE DE MORT PAR CONTUMACE POUR \"CRIMES DE GUERRE\" ET \"CRIMES CONTRE L'HUMANITÉ\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:45",
-      "date": "11/08",
-      "timestamp": 1786437946
-    },
-    {
-      "id": "BFMTV_1786434657",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"CE N'EST PAS LA PREMIÈRE FOIS QUE LA RUSSIE UTILISERAIT DES MISSILES NORD-CORÉENS\", RAPPELLE GAËTAN POWIS, JOURNALISTE DÉFENSE POUR AIR&COSMOS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:50",
-      "date": "11/08",
-      "timestamp": 1786434657
-    },
-    {
-      "id": "BFMTV_1786434092",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS SIX MORTS APRÈS DES FRAPPES RUSSES SUR ZAPORIJIA",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:41",
-      "date": "11/08",
-      "timestamp": 1786434092
     }
   ],
   "france": {
