@@ -1,7 +1,27 @@
 {
-  "last_update": "13/08 14:43",
+  "last_update": "13/08 15:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786633085",
+      "source": "BFMTV",
+      "text": "UNE USINE DE MUNITIONS EXPLOSE PRÈS DE ROME EN ITALIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:58",
+      "date": "13/08",
+      "timestamp": 1786633085
+    },
+    {
+      "id": "BFMTV_1786632794",
+      "source": "BFMTV",
+      "text": "SITUATION AU YÉMEN: \"LE SYSTÈME DE SANTÉ EST PROCHE DU POINT DE RUPTURE\", ALERTE L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:53",
+      "date": "13/08",
+      "timestamp": 1786632794
+    },
     {
       "id": "OPEX360_1786631440",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "10:06",
       "date": "11/08",
       "timestamp": 1786442813
-    },
-    {
-      "id": "BFMTV_1786440133",
-      "source": "BFMTV",
-      "text": "CEUTA: LES AUTORITÉS ESPAGNOLES SE PRÉPARENT À UNE NOUVELLE ARRIVÉE DE MIGRANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:22",
-      "date": "11/08",
-      "timestamp": 1786440133
-    },
-    {
-      "id": "BFMTV_1786439456",
-      "source": "BFMTV",
-      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:10",
-      "date": "11/08",
-      "timestamp": 1786439456
     }
   ],
   "france": {
