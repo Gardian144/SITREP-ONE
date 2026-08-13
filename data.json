@@ -1,7 +1,27 @@
 {
-  "last_update": "13/08 21:20",
+  "last_update": "13/08 22:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786658854",
+      "source": "BFMTV",
+      "text": "\"DES ACTES DE PIRATERIE\": LES ÉMIRATS ARABES UNIS ACCUSENT L'IRAN D'AVOIR ATTAQUÉ DEUX NAVIRES DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:07",
+      "date": "13/08",
+      "timestamp": 1786658854
+    },
+    {
+      "id": "BFMTV_1786658069",
+      "source": "BFMTV",
+      "text": "ITALIE: EXPLOSION DANS UNE USINE DE MUNITIONS NON LOIN DE ROME",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:54",
+      "date": "13/08",
+      "timestamp": 1786658069
+    },
     {
       "id": "BFMTV_1786655537",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:24",
       "date": "11/08",
       "timestamp": 1786461842
-    },
-    {
-      "id": "BFMTV_1786461781",
-      "source": "BFMTV",
-      "text": "ONZE FRANÇAIS DÉTENUS EN THAÏLANDE DEPUIS LE DÉBUT DE L'ÉTÉ POUR TRAFIC DE DROGUES",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:23",
-      "date": "11/08",
-      "timestamp": 1786461781
-    },
-    {
-      "id": "BFMTV_1786459848",
-      "source": "BFMTV",
-      "text": "ÉGYPTE: 18 PERSONNES, DONT PLUSIEURS ENFANTS TRAVAILLEURS, SONT MORTES DANS UN ACCIDENT DE PICK-UP",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:50",
-      "date": "11/08",
-      "timestamp": 1786459848
     }
   ],
   "france": {
