@@ -1,7 +1,37 @@
 {
-  "last_update": "13/08 04:24",
+  "last_update": "13/08 05:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786599250",
+      "source": "BFMTV",
+      "text": "SÉISME EN COLOMBIE: 265 MORTS ET DES CENTAINES DE DISPARUS, LA RECHERCHE DE SURVIVANTS ENTRE DANS UNE PHASE DÉCISIVE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:34",
+      "date": "13/08",
+      "timestamp": 1786599250
+    },
+    {
+      "id": "BFMTV_1786597041",
+      "source": "BFMTV",
+      "text": "ITALIE: L'ETNA EST ENTRÉ EN ÉRUPTION, DES TOURISTES BLOQUÉS EN SICILE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:57",
+      "date": "13/08",
+      "timestamp": 1786597041
+    },
+    {
+      "id": "BFMTV_1786595785",
+      "source": "BFMTV",
+      "text": "UN HÉLICOPTÈRE MILITAIRE S'ÉCRASE DANS UN CHAMP AU TEXAS, DEUX SOLDATS AMÉRICAINS TUÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:36",
+      "date": "13/08",
+      "timestamp": 1786595785
+    },
     {
       "id": "BFMTV_1786569284",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "20:58",
       "date": "10/08",
       "timestamp": 1786395537
-    },
-    {
-      "id": "BFMTV_1786394875",
-      "source": "BFMTV",
-      "text": "LA COUR SUPRÊME RUSSE INTERDIT AU SEUL PARTI ANTIGUERRE DE PARTICIPER AUX ÉLECTIONS LÉGISLATIVES",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:47",
-      "date": "10/08",
-      "timestamp": 1786394875
-    },
-    {
-      "id": "BFMTV_1786394587",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES INDUSTRIELS AMÉRICAINS REFUSENT DE FOURNIR DES MISSILES PATRIOT À L'ARMÉE UKRAINIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:43",
-      "date": "10/08",
-      "timestamp": 1786394587
-    },
-    {
-      "id": "BFMTV_1786393882",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES RUSSES \"SE PRÉPARENT DÉSORMAIS À DÉPLOYER UN CONTINGENT SUPPLÉMENTAIRE DE NORD-CORÉENS SUR LEUR TERRITOIRE\", AFFIRME VOLODYMYR ZELENSKY ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:31",
-      "date": "10/08",
-      "timestamp": 1786393882
     }
   ],
   "france": {
