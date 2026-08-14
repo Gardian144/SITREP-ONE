@@ -1,7 +1,47 @@
 {
-  "last_update": "14/08 15:50",
+  "last_update": "14/08 16:50",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786724981",
+      "source": "OPEX360",
+      "text": "L’INDIAN AIR FORCE A ÉMIS UNE DEMANDE D’INFORMATIONS POUR ACQUÉRIR 150 NOUVEAUX AVIONS D’ENTRAÎNEMENT",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:29",
+      "date": "14/08",
+      "timestamp": 1786724981
+    },
+    {
+      "id": "BFMTV_1786724654",
+      "source": "BFMTV",
+      "text": "L'ESPAGNE REDOUTE UN AFFLUX DE MIGRANTS DANS L'ENCLAVE ESPAGNOLE DE CEUTA ",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:24",
+      "date": "14/08",
+      "timestamp": 1786724654
+    },
+    {
+      "id": "BFMTV_1786723843",
+      "source": "BFMTV",
+      "text": "LUIGI MANGIONE RECONNAÎT AVOIR TIRÉ SUR BRIAN THOMPSON, PATRON D'ASSURANCE AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:10",
+      "date": "14/08",
+      "timestamp": 1786723843
+    },
+    {
+      "id": "BFMTV_1786723519",
+      "source": "BFMTV",
+      "text": "QUELLES SONT LES CAPACITÉS DU DRONE KAMIKAZE RUSSE IDENTIFIÉ PAR LES FORCES UKRAINIENNES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:05",
+      "date": "14/08",
+      "timestamp": 1786723519
+    },
     {
       "id": "BFMTV_1786722376",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "10:11",
       "date": "12/08",
       "timestamp": 1786529487
-    },
-    {
-      "id": "BFMTV_1786528048",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:47",
-      "date": "12/08",
-      "timestamp": 1786528048
-    },
-    {
-      "id": "BFMTV_1786526230",
-      "source": "BFMTV",
-      "text": "CHINE: UN MILLION DE PERSONNES ÉVACUÉES LORS DU PASSAGE DU TYPHON DOLPHIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:17",
-      "date": "12/08",
-      "timestamp": 1786526230
-    },
-    {
-      "id": "BFMTV_1786525576",
-      "source": "BFMTV",
-      "text": "L'UKRAINE A FRAPPÉ LE PORT PRINCIPAL DE MARCHANDISES RUSSE, LE TERMINAL CÉRÉALIER TOUCHÉ SELON KIEV",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:06",
-      "date": "12/08",
-      "timestamp": 1786525576
-    },
-    {
-      "id": "BFMTV_1786525082",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: LA GALLOISE QUI AVAIT JETÉ SON TICKET À LA POUBELLE POURRAIT FINALEMENT RÉCUPÉRER SES 12 MILLIONS DE LIVRES STERLING",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:58",
-      "date": "12/08",
-      "timestamp": 1786525082
     }
   ],
   "france": {
