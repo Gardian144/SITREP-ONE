@@ -1,7 +1,27 @@
 {
-  "last_update": "14/08 10:41",
+  "last_update": "14/08 11:29",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786706480",
+      "source": "BFMTV",
+      "text": "LA GRÈCE À NOUVEAU EN PROIE AUX FLAMMES PRÈS DE THESSALONIQUE, DES TOURISTES ÉVACUÉS PAR BATEAU",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:21",
+      "date": "14/08",
+      "timestamp": 1786706480
+    },
+    {
+      "id": "BFMTV_1786705487",
+      "source": "BFMTV",
+      "text": "ISRAËL RÉINSTALLE UNE COLONIE DÉMANTELÉE EN 2005 EN CISJORDANIE DANS UN CONTEXTE DE FORTES TENSIONS AVEC LES POPULATIONS LOCALES",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:04",
+      "date": "14/08",
+      "timestamp": 1786705487
+    },
     {
       "id": "BFMTV_1786703550",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "19:46",
       "date": "11/08",
       "timestamp": 1786477578
-    },
-    {
-      "id": "BFMTV_1786477275",
-      "source": "BFMTV",
-      "text": "LE BILAN DU SÉISME EN COLOMBIE S'ALOURDIT À 240 MORTS, LA RECHERCHE DE SURVIVANTS SE POURSUIT",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:41",
-      "date": "11/08",
-      "timestamp": 1786477275
-    },
-    {
-      "id": "BFMTV_1786477063",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE AVOIR TIRÉ SUR UN NAVIRE QUI VIOLAIT SON BLOCUS DES PORTS IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:37",
-      "date": "11/08",
-      "timestamp": 1786477063
     }
   ],
   "france": {
