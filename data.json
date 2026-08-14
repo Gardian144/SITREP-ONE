@@ -1,7 +1,17 @@
 {
-  "last_update": "14/08 05:55",
+  "last_update": "14/08 07:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786687580",
+      "source": "BFMTV",
+      "text": "NIGEL FARAGE RÉÉLU DÉPUTÉ AU ROYAUME-UNI FACE AU CANDIDAT SATIRIQUE \"TÊTE-DE-POUBELLE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:06",
+      "date": "14/08",
+      "timestamp": 1786687580
+    },
     {
       "id": "BFMTV_1786685449",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:35",
       "date": "11/08",
       "timestamp": 1786466158
-    },
-    {
-      "id": "OPEX360_1786463368",
-      "source": "OPEX360",
-      "text": "LA LETTONIE ENVISAGE DE COMMANDER DES AVIONS D’ATTAQUE LÉGERS A-29 SUPER TUCANO POUR LA LUTTE ANTIDRONE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:49",
-      "date": "11/08",
-      "timestamp": 1786463368
     }
   ],
   "france": {
