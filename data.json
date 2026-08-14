@@ -1,7 +1,37 @@
 {
-  "last_update": "14/08 11:29",
+  "last_update": "14/08 12:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786707503",
+      "source": "BFMTV",
+      "text": "DES AVIONS DE L'OTAN ABATTENT UN DRONE DANS L'ESPACE AÉRIEN LETTON",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:38",
+      "date": "14/08",
+      "timestamp": 1786707503
+    },
+    {
+      "id": "BFMTV_1786707348",
+      "source": "BFMTV",
+      "text": "LA RUSSIE ANNONCE INTENSIFIER SA CAMPAGNE MILITAIRE ET MENACE L'OCCIDENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:35",
+      "date": "14/08",
+      "timestamp": 1786707348
+    },
+    {
+      "id": "BFMTV_1786707341",
+      "source": "BFMTV",
+      "text": "\"LE RETOUR DE NOTRE COMPATRIOTE EST UN SOULAGEMENT\": LE QUAI D'ORSAY FAIT PART DE SA \"TRÈS GRANDE SATISFACTION\" APRÈS LA LIBÉRATION D'UN AGENT DU RENSEIGNEMENT AU MALI",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:35",
+      "date": "14/08",
+      "timestamp": 1786707341
+    },
     {
       "id": "BFMTV_1786706480",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "21:05",
       "date": "11/08",
       "timestamp": 1786482306
-    },
-    {
-      "id": "BFMTV_1786480033",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS SEPT MORTS APRÈS DES FRAPPES RUSSES SUR ZAPORIJIA",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:27",
-      "date": "11/08",
-      "timestamp": 1786480033
-    },
-    {
-      "id": "BFMTV_1786478963",
-      "source": "BFMTV",
-      "text": "SÉISME EN COLOMBIE: AU MOINS 240 MORTS ET 1.300 BLESSÉS SELON UN DERNIER BILAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:09",
-      "date": "11/08",
-      "timestamp": 1786478963
-    },
-    {
-      "id": "BFMTV_1786477578",
-      "source": "BFMTV",
-      "text": "COLOMBIE: LE TREMBLEMENT DE TERRE VU DEPUIS LES CAMÉRAS DE SURVEILLANCE D'UN HÔTEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:46",
-      "date": "11/08",
-      "timestamp": 1786477578
     }
   ],
   "france": {
