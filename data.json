@@ -1,7 +1,27 @@
 {
-  "last_update": "14/08 07:22",
+  "last_update": "14/08 08:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786693738",
+      "source": "BFMTV",
+      "text": "DES OPÉRATEURS DE DRONES UKRAINIENS DOMINENT DES TROUPES AMÉRICAINES LORS D'UN EXERCICE MILITAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:48",
+      "date": "14/08",
+      "timestamp": 1786693738
+    },
+    {
+      "id": "BFMTV_1786693424",
+      "source": "BFMTV",
+      "text": "UN DRONE ABATTU PAR UN AVION DE L'OTAN DANS LE CIEL DE LA LETTONIE, LA FINLANDE RESTREINT SES ESPACES AÉRIENS ET MARITIMES",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:43",
+      "date": "14/08",
+      "timestamp": 1786693424
+    },
     {
       "id": "BFMTV_1786687580",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "17:14",
       "date": "11/08",
       "timestamp": 1786468449
-    },
-    {
-      "id": "OPEX360_1786467778",
-      "source": "OPEX360",
-      "text": "THALES VA ÉQUIPER LES VÉHICULES D’ASSAUT AMPHIBIE DE L’US MARINE CORPS AVEC DES CAMÉRAS MINERVA",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:02",
-      "date": "11/08",
-      "timestamp": 1786467778
-    },
-    {
-      "id": "BFMTV_1786466158",
-      "source": "BFMTV",
-      "text": "SOMMET DE L'OTAN EN TURQUIE: LE RÉCIT DE L'INCROYABLE EXFILTRATION DE DONAD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:35",
-      "date": "11/08",
-      "timestamp": 1786466158
     }
   ],
   "france": {
