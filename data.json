@@ -1,7 +1,17 @@
 {
-  "last_update": "14/08 22:30",
+  "last_update": "14/08 22:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786747913",
+      "source": "BFMTV",
+      "text": "UN SÉISME DE MAGNITUDE 7,7 FRAPPE L'EST DE L'INDONÉSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:51",
+      "date": "14/08",
+      "timestamp": 1786747913
+    },
     {
       "id": "BFMTV_1786741501",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:19",
       "date": "12/08",
       "timestamp": 1786551540
-    },
-    {
-      "id": "BFMTV_1786551491",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DES POMPIERS PRIS POUR CIBLE PAR UN DRONE ALORS QU'ILS ÉTEIGNENT UN INCENDIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:18",
-      "date": "12/08",
-      "timestamp": 1786551491
     }
   ],
   "france": {
