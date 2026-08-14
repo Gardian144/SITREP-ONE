@@ -1,7 +1,67 @@
 {
-  "last_update": "14/08 13:52",
+  "last_update": "14/08 14:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786718553",
+      "source": "BFMTV",
+      "text": "UN MORT ET DES DIZAINES DE BLESSÉS DANS UN INCENDIE SUR LE LITTORAL CROATE, PLUS DE 2.000 ÉVACUATIONS DONT DES FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:42",
+      "date": "14/08",
+      "timestamp": 1786718553
+    },
+    {
+      "id": "BFMTV_1786718067",
+      "source": "BFMTV",
+      "text": "UNE ORQUE RETROUVÉE AVEC PLUSIEURS TIRS DE PLOMBS DE FUSIL DANS SA NAGEOIRE DORSALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:34",
+      "date": "14/08",
+      "timestamp": 1786718067
+    },
+    {
+      "id": "BFMTV_1786717910",
+      "source": "BFMTV",
+      "text": "FEUX ET SÉCHERESSE AU ROYAUME-UNI: \"NOUS DEVONS FAIRE FACE AU CHANGEMENT CLIMATIQUE\", DÉCLARE ANDY BURNHAM",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:31",
+      "date": "14/08",
+      "timestamp": 1786717910
+    },
+    {
+      "id": "BFMTV_1786717819",
+      "source": "BFMTV",
+      "text": "L'ONU APPELLE LES TALIBANS À RÉTABLIR LES \"DROITS DES FILLES\" À L'ÉDUCATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:30",
+      "date": "14/08",
+      "timestamp": 1786717819
+    },
+    {
+      "id": "BFMTV_1786717314",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE QUE LES FUTURS PORTE-AVIONS DE L'ARMÉE AMÉRICAINE UTILISERONT DE NOUVEAU LES ANCIENS MODÈLES DE CATAPULTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:21",
+      "date": "14/08",
+      "timestamp": 1786717314
+    },
+    {
+      "id": "BFMTV_1786715972",
+      "source": "BFMTV",
+      "text": "REPAS RATIONNÉS, INSALUBRITÉ, TENTATIVES DE SUICIDE...DES SÉNATEURS AMÉRICAINS ALERTENT SUR LES CONDITIONS DE VIE À BORD DU PORTE-AVIONS USS LINCOLN",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:59",
+      "date": "14/08",
+      "timestamp": 1786715972
+    },
     {
       "id": "BFMTV_1786714314",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "07:06",
       "date": "12/08",
       "timestamp": 1786518373
-    },
-    {
-      "id": "BFMTV_1786516262",
-      "source": "BFMTV",
-      "text": "AU MOINS 15 MORTS ET 27 DISPARUS APRÈS LE CHAVIRAGE D'UN BATEAU SUR LE LAC KARIBA AU ZIMBABWE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:31",
-      "date": "12/08",
-      "timestamp": 1786516262
-    },
-    {
-      "id": "BFMTV_1786512551",
-      "source": "BFMTV",
-      "text": "LE BILAN DU SÉISME EN COLOMBIE RÉVISÉ À LA BAISSE À 216 MORTS, LA RECHERCHE DE SURVIVANTS SE POURSUIT",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:29",
-      "date": "12/08",
-      "timestamp": 1786512551
-    },
-    {
-      "id": "BFMTV_1786511834",
-      "source": "BFMTV",
-      "text": "UN CHEF AUTOCHTONE ENLEVÉ PAR DES GUERILLEROS COLOMBIENS RETROUVÉ MORT",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:17",
-      "date": "12/08",
-      "timestamp": 1786511834
-    },
-    {
-      "id": "BFMTV_1786487880",
-      "source": "BFMTV",
-      "text": "L'ARMÉE SUD-CORÉENNE AFFIRME QUE LA CORÉE DU NORD A TIRÉ UN MISSILE BALISTIQUE VERS LA MER DU JAPON",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:38",
-      "date": "11/08",
-      "timestamp": 1786487880
-    },
-    {
-      "id": "BFMTV_1786482576",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ARRIVE DANS L'OHIO, OÙ IL ASSISTERA À LA FINALE DES \"PATRIOT GAMES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:09",
-      "date": "11/08",
-      "timestamp": 1786482576
-    },
-    {
-      "id": "BFMTV_1786482575",
-      "source": "BFMTV",
-      "text": "L'AMBASSADEUR DE FRANCE EN CENTRAFIQUE ACCUSÉ D'AVOIR FAIT VENIR DES JEUNES FEMMES DANS SA RÉSIDENCE, UNE PROCÉDURE DISCIPLINAIRE OUVERTE",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:09",
-      "date": "11/08",
-      "timestamp": 1786482575
     }
   ],
   "france": {
