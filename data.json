@@ -1,7 +1,37 @@
 {
-  "last_update": "14/08 04:23",
+  "last_update": "14/08 05:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786685449",
+      "source": "BFMTV",
+      "text": "LA POLICE BRÉSILIENNE RÉCUPÈRE HUIT ŒUVRES DE MATISSE DÉROBÉES EN DÉCEMBRE 2025 À SÃO PAULO",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:30",
+      "date": "14/08",
+      "timestamp": 1786685449
+    },
+    {
+      "id": "BFMTV_1786685116",
+      "source": "BFMTV",
+      "text": "UN DRONE ABATTU DANS L'ESPACE AÉRIEN DE LA LETTONIE, LA FINLANDE RESTREINT SES ESPACES AÉRIENS ET MARITIMES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:25",
+      "date": "14/08",
+      "timestamp": 1786685116
+    },
+    {
+      "id": "BFMTV_1786683688",
+      "source": "BFMTV",
+      "text": "UN TRAIN DE BANLIEUE DÉRAILLE ET SE RENVERSE EN ANGLETERRE, 20 BLESSÉS DONT DEUX GRAVES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:01",
+      "date": "14/08",
+      "timestamp": 1786683688
+    },
     {
       "id": "BFMTV_1786658854",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "15:49",
       "date": "11/08",
       "timestamp": 1786463368
-    },
-    {
-      "id": "BFMTV_1786462726",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: DAVANTAGE DE POUVOIRS POUR LES COLLECTIVITÉS LOCALES, AFIN DE LUTTER CONTRE LES BOUTIQUES DE VAPOTAGE ET LES PARIS, ANNONCE ANDY BURNHAM",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:38",
-      "date": "11/08",
-      "timestamp": 1786462726
-    },
-    {
-      "id": "BFMTV_1786462274",
-      "source": "BFMTV",
-      "text": "CISJORDANIE: \"LES VIOLENCES DE COLONS CONTRE LES POPULATIONS PALESTINIENNES S’INTENSIFIENT\", DÉNONCE LE REPRÉSENTANT DE LA FRANCE À L'ONU",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:31",
-      "date": "11/08",
-      "timestamp": 1786462274
-    },
-    {
-      "id": "BFMTV_1786461842",
-      "source": "BFMTV",
-      "text": "SÉISME EN COLOMBIE: UN BÉBÉ RETROUVÉ SAIN ET SAUF DANS LES DÉCOMBRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:24",
-      "date": "11/08",
-      "timestamp": 1786461842
     }
   ],
   "france": {
