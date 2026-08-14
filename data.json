@@ -1,7 +1,17 @@
 {
-  "last_update": "14/08 20:58",
+  "last_update": "14/08 21:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786741501",
+      "source": "BFMTV",
+      "text": "UN ANCIEN PROFESSEUR DE CAMBRIDGE MÊLÉ À UN SCANDALE DE PLAGIAT RETROUVÉ MORT À LONDRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:05",
+      "date": "14/08",
+      "timestamp": 1786741501
+    },
     {
       "id": "BFMTV_1786740393",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:18",
       "date": "12/08",
       "timestamp": 1786551491
-    },
-    {
-      "id": "BFMTV_1786548136",
-      "source": "BFMTV",
-      "text": "MANIFESTATIONS EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:22",
-      "date": "12/08",
-      "timestamp": 1786548136
     }
   ],
   "france": {
