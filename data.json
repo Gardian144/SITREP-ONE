@@ -1,7 +1,47 @@
 {
-  "last_update": "14/08 16:50",
+  "last_update": "14/08 17:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786729476",
+      "source": "BFMTV",
+      "text": "\"IL A ÉTÉ TRAITÉ DE MANIÈRE INJUSTE\": LES AVOCATS DE LUIGI MANGIONE DEMANDENT L'ABANDON DE L'INCULPATION POUR MEURTRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:44",
+      "date": "14/08",
+      "timestamp": 1786729476
+    },
+    {
+      "id": "OPEX360_1786728218",
+      "source": "OPEX360",
+      "text": "DEUX CÂBLES SOUS-MARINS DE TÉLÉCOMMUNICATIONS AUSTRALIENS ONT SUBI DES DÉFAILLANCES SUSPECTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:23",
+      "date": "14/08",
+      "timestamp": 1786728218
+    },
+    {
+      "id": "BFMTV_1786727033",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP SAISIT LA COUR SUPRÊME POUR DÉBLOQUER LA CONSTRUCTION DE SA SALLE DE BAL À LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:03",
+      "date": "14/08",
+      "timestamp": 1786727033
+    },
+    {
+      "id": "BFMTV_1786726547",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: DES ÉCOLES VONT TESTER DES DRONES POUR SE PROTÉGER DES FUSILLADES",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:55",
+      "date": "14/08",
+      "timestamp": 1786726547
+    },
     {
       "id": "OPEX360_1786724981",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "10:42",
       "date": "12/08",
       "timestamp": 1786531368
-    },
-    {
-      "id": "OPEX360_1786531052",
-      "source": "OPEX360",
-      "text": "DISPARUE IL Y A 118 ANS, L’ÉPAVE DU TORPILLEUR BRITANNIQUE HMS TIGER A ÉTÉ RETROUVÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:37",
-      "date": "12/08",
-      "timestamp": 1786531052
-    },
-    {
-      "id": "BFMTV_1786530013",
-      "source": "BFMTV",
-      "text": "\"PLANS THAÏLANDE\": L'ARNAQUE DU SÉJOUR TOUS FRAIS PAYÉS QUI A DÉJÀ PIÉGÉ PLUSIEURS JEUNES FRANÇAIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:20",
-      "date": "12/08",
-      "timestamp": 1786530013
-    },
-    {
-      "id": "BFMTV_1786529876",
-      "source": "BFMTV",
-      "text": "COLOMBIE: UN CHATON SAUVÉ DES DÉCOMBRES CAUSÉS PAR LE SÉISME",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:17",
-      "date": "12/08",
-      "timestamp": 1786529876
-    },
-    {
-      "id": "BFMTV_1786529487",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE MENACE DE SAISIR DES NAVIRES OCCIDENTAUX EN MESURE DE REPRÉSAILLES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:11",
-      "date": "12/08",
-      "timestamp": 1786529487
     }
   ],
   "france": {
