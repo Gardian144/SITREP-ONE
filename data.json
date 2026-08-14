@@ -1,7 +1,17 @@
 {
-  "last_update": "14/08 20:29",
+  "last_update": "14/08 20:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786740393",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP CONFIRME LE REMPLACEMENT DE L'USS ABRAHAM-LINCOLN, ACTUELLEMENT DÉPLOYÉ AU MOYEN-ORIENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:46",
+      "date": "14/08",
+      "timestamp": 1786740393
+    },
     {
       "id": "BFMTV_1786738530",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "15:22",
       "date": "12/08",
       "timestamp": 1786548136
-    },
-    {
-      "id": "BFMTV_1786548135",
-      "source": "BFMTV",
-      "text": "\"LE RECOURS À LA PEINE CAPITALE EN AUCUN CAS JUSTIFIÉ\": 26 PAYS DONT LA FRANCE CONDAMNENT LES EXÉCUTIONS DE MANIFESTANTS EN IRAN",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:22",
-      "date": "12/08",
-      "timestamp": 1786548135
     }
   ],
   "france": {
