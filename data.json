@@ -1,7 +1,27 @@
 {
-  "last_update": "15/08 16:34",
+  "last_update": "15/08 17:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786812960",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - L'UKRAINE PEUT-ELLE DÉSORMAIS FRAPPER PARTOUT EN RUSSIE ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:56",
+      "date": "15/08",
+      "timestamp": 1786812960
+    },
+    {
+      "id": "BFMTV_1786812830",
+      "source": "BFMTV",
+      "text": "L'UKRAINE FRAPPE L'INDUSTRIE SPATIALE RUSSE DANS LA VILLE DE SAMARA",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:53",
+      "date": "15/08",
+      "timestamp": 1786812830
+    },
     {
       "id": "BFMTV_1786811343",
       "source": "BFMTV",
@@ -146,6 +166,16 @@
       "id": "BFMTV_1786784212",
       "source": "BFMTV",
       "text": "DES FRAPPES ISRAÉLIENNES FONT NEUF MORTS, DONT DES ENFANTS ET DES FEMMES, DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:56",
+      "date": "15/08",
+      "timestamp": 1786784212
+    },
+    {
+      "id": "BFMTV_1786784212",
+      "source": "BFMTV",
+      "text": "DES FRAPPES ISRAÉLIENNES FONT ONZE MORTS, DONT DES ENFANTS ET DES FEMMES, DANS LE SUD DU LIBAN",
       "urgent": true,
       "france_related": false,
       "time": "08:56",
@@ -971,36 +1001,6 @@
       "time": "16:36",
       "date": "13/08",
       "timestamp": 1786639015
-    },
-    {
-      "id": "OPEX360_1786638062",
-      "source": "OPEX360",
-      "text": "LA CÔTE D’IVOIRE A FAIT L’ACQUISITION DE DEUX DRONES MALE WING LOONG 2 AUPRÈS DE LA CHINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:21",
-      "date": "13/08",
-      "timestamp": 1786638062
-    },
-    {
-      "id": "BFMTV_1786636701",
-      "source": "BFMTV",
-      "text": "DES OPÉRATEURS DE DRONES UKRAINIENS DOMINENT DES TROUPES AMÉRICAINES LORS D'UN GRAND EXERCICE MILITAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:58",
-      "date": "13/08",
-      "timestamp": 1786636701
-    },
-    {
-      "id": "BFMTV_1786633085",
-      "source": "BFMTV",
-      "text": "UNE USINE DE MUNITIONS EXPLOSE PRÈS DE ROME EN ITALIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:58",
-      "date": "13/08",
-      "timestamp": 1786633085
     }
   ],
   "france": {
