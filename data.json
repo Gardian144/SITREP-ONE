@@ -1,7 +1,17 @@
 {
-  "last_update": "15/08 10:47",
+  "last_update": "15/08 11:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786790791",
+      "source": "BFMTV",
+      "text": "INDONÉSIE: UN SÉISME DE MAGNITUDE 7,7 FAIT AU MOINS 38 MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:46",
+      "date": "15/08",
+      "timestamp": 1786790791
+    },
     {
       "id": "BFMTV_1786789937",
       "source": "BFMTV",
@@ -36,6 +46,16 @@
       "id": "BFMTV_1786784212",
       "source": "BFMTV",
       "text": "UNE FRAPPE ISRAÉLIENNE FAIT SEPT MORTS DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:56",
+      "date": "15/08",
+      "timestamp": 1786784212
+    },
+    {
+      "id": "BFMTV_1786784212",
+      "source": "BFMTV",
+      "text": "DES FRAPPES ISRAÉLIENNES FONT NEUF MORTS, DONT DES ENFANTS ET DES FEMMES, DANS LE SUD DU LIBAN",
       "urgent": true,
       "france_related": false,
       "time": "08:56",
@@ -981,26 +1001,6 @@
       "time": "11:00",
       "date": "13/08",
       "timestamp": 1786618819
-    },
-    {
-      "id": "BFMTV_1786618154",
-      "source": "BFMTV",
-      "text": "ESPAGNE: UN SKATER RÉALISE UN SAUT DEVANT L'ÉCLIPSE SOLAIRE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:49",
-      "date": "13/08",
-      "timestamp": 1786618154
-    },
-    {
-      "id": "BFMTV_1786617412",
-      "source": "BFMTV",
-      "text": "CARBURANTS: COMMENT LES CONFLITS MONDIAUX PERTURBENT LES PRIX À LA POMPE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:36",
-      "date": "13/08",
-      "timestamp": 1786617412
     }
   ],
   "france": {
