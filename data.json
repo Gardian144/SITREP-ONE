@@ -1,11 +1,41 @@
 {
-  "last_update": "15/08 04:28",
+  "last_update": "15/08 04:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786769441",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE LE DÉTROIT D'ORMUZ SERA \"BIENTÔT\" DÉCLARÉ COMME \"UN TERRITOIRE DES ÉTATS-UNIS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:50",
+      "date": "15/08",
+      "timestamp": 1786769441
+    },
+    {
+      "id": "BFMTV_1786768466",
+      "source": "BFMTV",
+      "text": "ISRAËL : L'EXEMPTION MILITAIRE DES ULTRA-ORTHODOXES FRACTURE LE PAYS, QUI FAIT FACE À UNE PÉNURIE DE SOLDATS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:34",
+      "date": "15/08",
+      "timestamp": 1786768466
+    },
     {
       "id": "BFMTV_1786767641",
       "source": "BFMTV",
       "text": "\"LES GENS COURAIENT DANS TOUS LES SENS\": UN SÉISME DE MAGNITUDE 7,7 FAIT UN MORT ET QUATRE BLESSÉS EN INDONÉSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:20",
+      "date": "15/08",
+      "timestamp": 1786767641
+    },
+    {
+      "id": "BFMTV_1786767641",
+      "source": "BFMTV",
+      "text": "\"LES GENS COURAIENT DANS TOUS LES SENS\": LE BILAN DU SÉISME EN INDONÉSIE GRIMPE À 20 MORTS ET 6 BLESSÉS",
       "urgent": false,
       "france_related": false,
       "time": "04:20",
@@ -971,36 +1001,6 @@
       "time": "21:14",
       "date": "12/08",
       "timestamp": 1786569284
-    },
-    {
-      "id": "BFMTV_1786569182",
-      "source": "BFMTV",
-      "text": "L'UKRAINE AFFIRME AVOIR LANCÉ 440 DRONES CONTRE LA RUSSIE CE MERCREDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:13",
-      "date": "12/08",
-      "timestamp": 1786569182
-    },
-    {
-      "id": "BFMTV_1786568827",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: ATTAQUE MASSIVE DE KIEV SUR UN PORT RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:07",
-      "date": "12/08",
-      "timestamp": 1786568827
-    },
-    {
-      "id": "BFMTV_1786568341",
-      "source": "BFMTV",
-      "text": "DANS LES COULISSES DE L'EXFILTRATION ROCAMBOLESQUE DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:59",
-      "date": "12/08",
-      "timestamp": 1786568341
     }
   ],
   "france": {
