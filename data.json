@@ -1,7 +1,17 @@
 {
-  "last_update": "15/08 06:51",
+  "last_update": "15/08 07:29",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786778538",
+      "source": "BFMTV",
+      "text": "CEUTA: DES APPELS SUR LES RÉSEAUX SOCIAUX AFFIRMENT QUE LE POSTE-FRONTIÈRE ENTRE LE MAROC ET L’ESPAGNE SERA OUVERT CE JOUR FÉRIÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:22",
+      "date": "15/08",
+      "timestamp": 1786778538
+    },
     {
       "id": "BFMTV_1786774803",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "06:21",
       "date": "13/08",
       "timestamp": 1786602087
-    },
-    {
-      "id": "BFMTV_1786601801",
-      "source": "BFMTV",
-      "text": "CEUTA: LE MAROC ANNONCE PRENDRE DES MESURES APRÈS DE NOUVEAUX APPELS EN LIGNE À TRAVERSER LA FRONTIÈRE ESPAGNOLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:16",
-      "date": "13/08",
-      "timestamp": 1786601801
     }
   ],
   "france": {
