@@ -1,7 +1,17 @@
 {
-  "last_update": "15/08 11:18",
+  "last_update": "15/08 11:44",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786792761",
+      "source": "OPEX360",
+      "text": "POUR FORMER SES PILOTES D’HÉLICOPTÈRE, L’US ARMY VA REMPLACER SES AIRBUS UH-72 LAKOTA PAR DES ROBINSON R66",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:19",
+      "date": "15/08",
+      "timestamp": 1786792761
+    },
     {
       "id": "BFMTV_1786790791",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "11:01",
       "date": "13/08",
       "timestamp": 1786618863
-    },
-    {
-      "id": "OPEX360_1786618819",
-      "source": "OPEX360",
-      "text": "LE MONTANT DES EXPORTATIONS FRANÇAISES D’ARMEMENT A DE NOUVEAU DÉPASSÉ LES 21 MILLIARDS D’EUROS EN 2025",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:00",
-      "date": "13/08",
-      "timestamp": 1786618819
     }
   ],
   "france": {
