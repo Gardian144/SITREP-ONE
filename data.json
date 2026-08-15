@@ -1,7 +1,17 @@
 {
-  "last_update": "15/08 05:31",
+  "last_update": "15/08 05:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786772742",
+      "source": "BFMTV",
+      "text": "LE MOIS DE JUILLET A ÉTÉ LE PLUS MEURTRIER POUR L'UKRAINE DEPUIS LE DÉBUT DU CONFLIT, AVEC PLUS DE 3.000 VICTIMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:45",
+      "date": "15/08",
+      "timestamp": 1786772742
+    },
     {
       "id": "BFMTV_1786769441",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "04:36",
       "date": "13/08",
       "timestamp": 1786595785
-    },
-    {
-      "id": "BFMTV_1786569284",
-      "source": "BFMTV",
-      "text": "LA PORTE-PAROLE DE LA MAISON BLANCHE, KAROLINE LEAVITT, QUITTERA SES FONCTIONS \"À LA FIN DU MOIS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:14",
-      "date": "12/08",
-      "timestamp": 1786569284
     }
   ],
   "france": {
