@@ -1,7 +1,27 @@
 {
-  "last_update": "15/08 19:59",
+  "last_update": "15/08 20:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786825560",
+      "source": "BFMTV",
+      "text": "LA PLUS HAUTE STATUE DE LA VIERGE MARIE EN EUROPE INAUGURÉE DANS UN PETIT VILLAGE POLONAIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:26",
+      "date": "15/08",
+      "timestamp": 1786825560
+    },
+    {
+      "id": "BFMTV_1786825337",
+      "source": "BFMTV",
+      "text": "2.700 HECTARES BRÛLÉS DANS UN INCENDIE EN BELGIQUE, DES ÉVACUATIONS MENÉES DANS PLUSIEURS VILLAGES",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:22",
+      "date": "15/08",
+      "timestamp": 1786825337
+    },
     {
       "id": "BFMTV_1786819633",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "18:29",
       "date": "13/08",
       "timestamp": 1786645793
-    },
-    {
-      "id": "OPEX360_1786641665",
-      "source": "OPEX360",
-      "text": "LA TURQUIE USE LE POTENTIEL DE L’AVIATION DE CHASSE GRECQUE EN ENVOYANT DES DRONES AU-DESSUS DE LA MER ÉGÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:21",
-      "date": "13/08",
-      "timestamp": 1786641665
-    },
-    {
-      "id": "BFMTV_1786640412",
-      "source": "BFMTV",
-      "text": "LA GRÈCE À NOUVEAU EN PROIE AUX FLAMMES PRÈS DE THESSALONIQUE, DES TOURISTES ÉVACUÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:00",
-      "date": "13/08",
-      "timestamp": 1786640412
     }
   ],
   "france": {
