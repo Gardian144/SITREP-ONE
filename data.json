@@ -1,7 +1,17 @@
 {
-  "last_update": "15/08 08:26",
+  "last_update": "15/08 08:55",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786783622",
+      "source": "BFMTV",
+      "text": "THAÏLANDE: UNE FAMILLE FRANÇAISE SECOURUE APRÈS PLUS DE 16 HEURES À LA DÉRIVE ",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:47",
+      "date": "15/08",
+      "timestamp": 1786783622
+    },
     {
       "id": "BFMTV_1786780594",
       "source": "BFMTV",
@@ -106,6 +116,16 @@
       "id": "BFMTV_1786767641",
       "source": "BFMTV",
       "text": "\"LES GENS COURAIENT DANS TOUS LES SENS\": LE BILAN DU SÉISME EN INDONÉSIE GRIMPE À 20 MORTS ET 6 BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:20",
+      "date": "15/08",
+      "timestamp": 1786767641
+    },
+    {
+      "id": "BFMTV_1786767641",
+      "source": "BFMTV",
+      "text": "\"LES GENS COURAIENT DANS TOUS LES SENS\": LE BILAN DU SÉISME EN INDONÉSIE GRIMPE À 38 MORTS",
       "urgent": false,
       "france_related": false,
       "time": "04:20",
@@ -981,26 +1001,6 @@
       "time": "09:34",
       "date": "13/08",
       "timestamp": 1786613673
-    },
-    {
-      "id": "BFMTV_1786611724",
-      "source": "BFMTV",
-      "text": "\"IL S'EST JETÉ SUR MOI ET A ATTRAPÉ MA JAMBE\": UN PÊCHEUR SECOURU APRÈS AVOIR ÉTÉ MORDU PAR UN REQUIN AU LARGE DE L'IRLANDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:02",
-      "date": "13/08",
-      "timestamp": 1786611724
-    },
-    {
-      "id": "BFMTV_1786607663",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - CE QUE L'ON SAIT DU CHANGEMENT D'AVION ROCAMBOLESQUE DE DONALD TRUMP À L'ISSUE DU SOMMET DE L'OTAN EN TURQUIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:54",
-      "date": "13/08",
-      "timestamp": 1786607663
     }
   ],
   "france": {
