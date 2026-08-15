@@ -1,7 +1,27 @@
 {
-  "last_update": "15/08 07:54",
+  "last_update": "15/08 08:26",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786780594",
+      "source": "BFMTV",
+      "text": "CEUTA: DE NOUVEAUX APPELS À FRANCHIR LA FRONTIÈRE ENTRE L'ESPAGNE ET LE MAROC",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:56",
+      "date": "15/08",
+      "timestamp": 1786780594
+    },
+    {
+      "id": "BFMTV_1786780589",
+      "source": "BFMTV",
+      "text": "LEUR JET-SKI S'EST RETOURNÉ: UN FRANÇAIS ET SES DEUX FILS DE 5 ET 7 ANS SECOURUS EN MER APRÈS PLUS DE 16 HEURES À LA DÉRIVE AU LARGE DE LA THAÏLANDE",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:56",
+      "date": "15/08",
+      "timestamp": 1786780589
+    },
     {
       "id": "BFMTV_1786778538",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "07:54",
       "date": "13/08",
       "timestamp": 1786607663
-    },
-    {
-      "id": "BFMTV_1786604253",
-      "source": "BFMTV",
-      "text": "PÉTROLIER ÉCHOUÉ AU LARGE D'OMAN: LA MARÉE NOIRE A ATTEINT LES CÔTES DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:57",
-      "date": "13/08",
-      "timestamp": 1786604253
-    },
-    {
-      "id": "BFMTV_1786602087",
-      "source": "BFMTV",
-      "text": "DOUCHES MOISIES, EAU CHAUDE SPORADIQUE, NOURRITURE RATIONNÉE, MENACES DE SUICIDE: DES ÉLUS AMÉRICAINS INQUIETS DE LA VIE SUR LE PORTE-AVIONS LINCOLN",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:21",
-      "date": "13/08",
-      "timestamp": 1786602087
     }
   ],
   "france": {
