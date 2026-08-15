@@ -1,7 +1,27 @@
 {
-  "last_update": "15/08 20:31",
+  "last_update": "15/08 20:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786826636",
+      "source": "BFMTV",
+      "text": "DEUX MORTS APRÈS DES INONDATIONS DANS LE NORD-OUEST DE L'ESPAGNE, DEUX BÉBÉS ÉGALEMENT BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:43",
+      "date": "15/08",
+      "timestamp": 1786826636
+    },
+    {
+      "id": "BFMTV_1786826194",
+      "source": "BFMTV",
+      "text": "SÉISME EN COLOMBIE: LA FEMME, SORTIE DES DÉCOMBRES APRÈS 37 HEURES MARDI, EST MORTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:36",
+      "date": "15/08",
+      "timestamp": 1786826194
+    },
     {
       "id": "BFMTV_1786825560",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "19:29",
       "date": "13/08",
       "timestamp": 1786649375
-    },
-    {
-      "id": "BFMTV_1786645972",
-      "source": "BFMTV",
-      "text": "L'ONU ALLOUE 5 MILLIONS DE DOLLARS POUR AIDER LA COLOMBIE APRÈS LE SÉISME",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:32",
-      "date": "13/08",
-      "timestamp": 1786645972
-    },
-    {
-      "id": "BFMTV_1786645793",
-      "source": "BFMTV",
-      "text": "TURQUIE: 11 PERSONNES HOSPITALISÉES APRÈS UN INCENDIE SUR UN BATEAU POUR ENFANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:29",
-      "date": "13/08",
-      "timestamp": 1786645793
     }
   ],
   "france": {
