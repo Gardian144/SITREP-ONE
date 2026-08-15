@@ -1,7 +1,27 @@
 {
-  "last_update": "15/08 10:20",
+  "last_update": "15/08 10:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786789937",
+      "source": "BFMTV",
+      "text": "THAÏLANDE: UN FRANÇAIS ET SES DEUX FILS DE 5 ET 7 ANS SECOURUS EN MER APRÈS PLUS DE 16 HEURES À LA DÉRIVE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:32",
+      "date": "15/08",
+      "timestamp": 1786789937
+    },
+    {
+      "id": "OPEX360_1786789332",
+      "source": "OPEX360",
+      "text": "UNE ENTREPRISE ALLEMANDE VA TRANSFORMER DEUX ANCIENS AVIONS DE TRANSPORT TRANSALL EN BOMBARDIERS D’EAU",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:22",
+      "date": "15/08",
+      "timestamp": 1786789332
+    },
     {
       "id": "BFMTV_1786786479",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:36",
       "date": "13/08",
       "timestamp": 1786617412
-    },
-    {
-      "id": "BFMTV_1786617287",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE EN VISITE POUR LA PREMIÈRE FOIS AUX ÎLES KOURILES, L'AMBASSADEUR RUSSE CONVOQUÉ PAR TOKYO",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:34",
-      "date": "13/08",
-      "timestamp": 1786617287
-    },
-    {
-      "id": "BFMTV_1786614521",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DEUX CHEMINOTS TUÉS DANS UNE FRAPPE RUSSE CONTRE UN TRAIN À ODESSA, 340 PASSAGERS ÉVACUÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:48",
-      "date": "13/08",
-      "timestamp": 1786614521
     }
   ],
   "france": {
