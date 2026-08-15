@@ -1,7 +1,27 @@
 {
-  "last_update": "15/08 20:58",
+  "last_update": "15/08 21:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786828732",
+      "source": "BFMTV",
+      "text": "CAMI CLARK, ÉPOUSE DE DARIO AMODEI, PDG DE L'ENTREPRISE ATHROPIC, EST AU CŒUR DES DISCUSSIONS POUR SES LIENS AVEC JEFFREY EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:18",
+      "date": "15/08",
+      "timestamp": 1786828732
+    },
+    {
+      "id": "BFMTV_1786828477",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE REPROCHE AUX ÉTATS-UNIS D'ÊTRE AUSSI INVESTI DANS LE CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:14",
+      "date": "15/08",
+      "timestamp": 1786828477
+    },
     {
       "id": "BFMTV_1786826636",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "19:47",
       "date": "13/08",
       "timestamp": 1786650477
-    },
-    {
-      "id": "BFMTV_1786649751",
-      "source": "BFMTV",
-      "text": "MALI: UN AGENT FRANÇAIS, CONDAMNÉ À 20 ANS DE PRISON, A ÉTÉ GRACIÉ",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:35",
-      "date": "13/08",
-      "timestamp": 1786649751
-    },
-    {
-      "id": "BFMTV_1786649375",
-      "source": "BFMTV",
-      "text": "GRÈCE: DES TOURISTES ÉVACUÉS APRÈS UN NOUVEL INCENDIE PRÈS DE THESSALONIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:29",
-      "date": "13/08",
-      "timestamp": 1786649375
     }
   ],
   "france": {
