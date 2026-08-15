@@ -1,7 +1,17 @@
 {
-  "last_update": "15/08 14:47",
+  "last_update": "15/08 15:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786806021",
+      "source": "BFMTV",
+      "text": "1.650 HECTARES BRÛLÉS DANS UN INCENDIE EN BELGIQUE, DES ÉVACUATIONS MENÉES DANS PLUSIEURS VILLAGES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:00",
+      "date": "15/08",
+      "timestamp": 1786806021
+    },
     {
       "id": "BFMTV_1786803049",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "13:45",
       "date": "13/08",
       "timestamp": 1786628726
-    },
-    {
-      "id": "BFMTV_1786628541",
-      "source": "BFMTV",
-      "text": "CISJORDANIE OCCUPÉE: L'AMBASSADEUR AMÉRICAIN DÉNONCE LE SIÈGE DE MAISONS PALESTINIENNES PAR DES COLONS ISRAÉLIENS, UN \"ACTE DE TERREUR\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:42",
-      "date": "13/08",
-      "timestamp": 1786628541
     }
   ],
   "france": {
