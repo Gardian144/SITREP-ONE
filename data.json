@@ -1,7 +1,27 @@
 {
-  "last_update": "15/08 13:53",
+  "last_update": "15/08 14:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786803049",
+      "source": "BFMTV",
+      "text": "SÉISMES EN INDONÉSIE: \"EN QUELQUES SECONDES, LES SECOUSSES SE SONT INTENSIFIÉES\", TÉMOIGNE PHILIPPINE, TOURISTE FRANÇAISE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:10",
+      "date": "15/08",
+      "timestamp": 1786803049
+    },
+    {
+      "id": "BFMTV_1786802777",
+      "source": "BFMTV",
+      "text": "UN NOUVEAU SÉISME DE MAGNITUDE 6,9 TOUCHE L'INDONÉSIE, LE DEUXIÈME EN UNE JOURNÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:06",
+      "date": "15/08",
+      "timestamp": 1786802777
+    },
     {
       "id": "OPEX360_1786792761",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "13:42",
       "date": "13/08",
       "timestamp": 1786628541
-    },
-    {
-      "id": "BFMTV_1786628068",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DEUX CHEMINOTS TUÉS DANS UNE FRAPPE RUSSE CONTRE UN TRAIN À ODESSA",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:34",
-      "date": "13/08",
-      "timestamp": 1786628068
-    },
-    {
-      "id": "BFMTV_1786623790",
-      "source": "BFMTV",
-      "text": "ESPAGNE: LA FIGURE D'UN KITE-SURFEUR DEVANT L'ÉCLIPSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:23",
-      "date": "13/08",
-      "timestamp": 1786623790
     }
   ],
   "france": {
