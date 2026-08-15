@@ -1,11 +1,21 @@
 {
-  "last_update": "15/08 11:58",
+  "last_update": "15/08 12:52",
   "impacts": [],
   "news": [
     {
       "id": "OPEX360_1786792761",
       "source": "OPEX360",
       "text": "POUR FORMER SES PILOTES D’HÉLICOPTÈRE, L’US ARMY VA REMPLACER SES AIRBUS UH-72 LAKOTA PAR DES ROBINSON R66",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:19",
+      "date": "15/08",
+      "timestamp": 1786792761
+    },
+    {
+      "id": "OPEX360_1786792761",
+      "source": "OPEX360",
+      "text": "POUR FORMER SES PILOTES D’HÉLICOPTÈRES, L’US ARMY VA REMPLACER SES AIRBUS UH-72 LAKOTA PAR DES ROBINSON R66",
       "urgent": false,
       "france_related": false,
       "time": "11:19",
@@ -991,16 +1001,6 @@
       "time": "12:23",
       "date": "13/08",
       "timestamp": 1786623790
-    },
-    {
-      "id": "BFMTV_1786618863",
-      "source": "BFMTV",
-      "text": "UN TOURISTE PORTUGAIS RETROUVÉ MORT EN MER APRÈS UN ACCIDENT DE BATEAU EN CROATIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:01",
-      "date": "13/08",
-      "timestamp": 1786618863
     }
   ],
   "france": {
