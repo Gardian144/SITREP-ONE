@@ -1,7 +1,17 @@
 {
-  "last_update": "15/08 08:55",
+  "last_update": "15/08 09:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786784212",
+      "source": "BFMTV",
+      "text": "UNE FRAPPE ISRAÉLIENNE FAIT SEPT MORTS DANS LE SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:56",
+      "date": "15/08",
+      "timestamp": 1786784212
+    },
     {
       "id": "BFMTV_1786783622",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:37",
       "date": "13/08",
       "timestamp": 1786613864
-    },
-    {
-      "id": "BFMTV_1786613673",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:34",
-      "date": "13/08",
-      "timestamp": 1786613673
     }
   ],
   "france": {
