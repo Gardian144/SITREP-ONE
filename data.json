@@ -1,7 +1,57 @@
 {
-  "last_update": "16/08 10:31",
+  "last_update": "16/08 10:58",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786877793",
+      "source": "OPEX360",
+      "text": "L’ABANDON DES CATAPULTES ÉLECTROMAGNÉTIQUES PAR L’US NAVY NE REMET PAS EN CAUSE LES PLANS DU FUTUR PORTE-AVIONS FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:56",
+      "date": "16/08",
+      "timestamp": 1786877793
+    },
+    {
+      "id": "OPEX360_1786877693",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES CHERCHE DES SOLUTIONS INNOVANTES POUR LES CAPACITÉS DE CONTRE-MINAGE DE L’ARMÉE DE TERRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:54",
+      "date": "16/08",
+      "timestamp": 1786877693
+    },
+    {
+      "id": "BFMTV_1786877309",
+      "source": "BFMTV",
+      "text": "\"L'UN DES CHEVAUX EST TOMBÉ\": UN ACCIDENT DE CALÈCHE FAIT UN MORT ET DOUZE BLESSÉS EN SUISSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:48",
+      "date": "16/08",
+      "timestamp": 1786877309
+    },
+    {
+      "id": "BFMTV_1786877090",
+      "source": "BFMTV",
+      "text": "INGÉRENCES ÉTRANGÈRES: LA RUSSIE CHERCHE EN \"PERMANENCE\" À INFLUENCER LA PRÉSIDENTIELLE, SELON THIERRY BRETON",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:44",
+      "date": "16/08",
+      "timestamp": 1786877090
+    },
+    {
+      "id": "BFMTV_1786877027",
+      "source": "BFMTV",
+      "text": "\"IL Y AVAIT UN PETIT LINGOT D'OR ACCROCHÉ À NOTRE OUTIL\": DEUX OUVRIERS DÉCOUVRENT UN TRÉSOR DE 9 MILLIONS D'EUROS SUR UN CHANTIER EN BELGIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:43",
+      "date": "16/08",
+      "timestamp": 1786877027
+    },
     {
       "id": "BFMTV_1786873968",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "11:04",
       "date": "14/08",
       "timestamp": 1786705487
-    },
-    {
-      "id": "BFMTV_1786703550",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: INCENDIE DE 300 HECTARES PRÈS DE LA FRONTIÈRE BELGE, 1.800 PERSONNES ÉVACUÉES",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:32",
-      "date": "14/08",
-      "timestamp": 1786703550
-    },
-    {
-      "id": "OPEX360_1786703303",
-      "source": "OPEX360",
-      "text": "PORTE-AVIONS : M. TRUMP ORDONNE D’ABANDONNER LES CATAPULTES ÉLECTROMAGNÉTIQUES ET DE REVENIR À LA VAPEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:28",
-      "date": "14/08",
-      "timestamp": 1786703303
-    },
-    {
-      "id": "BFMTV_1786700728",
-      "source": "BFMTV",
-      "text": "IL PORTE UNE POUBELLE SUR LA TÊTE ET A DÉFIÉ NIGEL FARAGE AU ROYAUME-UNI: QUI SE CACHE DERRIÈRE LE COMTE TÊTE-DE-POUBELLE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:45",
-      "date": "14/08",
-      "timestamp": 1786700728
-    },
-    {
-      "id": "BFMTV_1786699548",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN MORT ET UNE QUINZAINE DE BLESSÉS DANS DES FRAPPES RUSSES À KRAMATORSK",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:25",
-      "date": "14/08",
-      "timestamp": 1786699548
-    },
-    {
-      "id": "BFMTV_1786699434",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: UN TRAIN DÉRAILLE DANS LE SUD-EST DE L'ANGLETERRE, 20 BLESSÉS DONT DEUX GRAVES",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:23",
-      "date": "14/08",
-      "timestamp": 1786699434
     }
   ],
   "france": {
