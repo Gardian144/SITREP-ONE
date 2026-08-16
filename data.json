@@ -1,7 +1,17 @@
 {
-  "last_update": "16/08 08:39",
+  "last_update": "16/08 09:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786869598",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV PILONNE DES INFRASTRUCTURES STRATÉGIQUES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:39",
+      "date": "16/08",
+      "timestamp": 1786869598
+    },
     {
       "id": "BFMTV_1786868534",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "07:48",
       "date": "14/08",
       "timestamp": 1786693738
-    },
-    {
-      "id": "BFMTV_1786693424",
-      "source": "BFMTV",
-      "text": "UN DRONE ABATTU PAR UN AVION DE L'OTAN DANS LE CIEL DE LA LETTONIE, LA FINLANDE RESTREINT SES ESPACES AÉRIENS ET MARITIMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:43",
-      "date": "14/08",
-      "timestamp": 1786693424
     }
   ],
   "france": {
