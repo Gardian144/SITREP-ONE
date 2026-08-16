@@ -1,7 +1,17 @@
 {
-  "last_update": "16/08 21:18",
+  "last_update": "16/08 21:43",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786916138",
+      "source": "BFMTV",
+      "text": "INCENDIE EN BELGIQUE: LE FEU CONTINUE DE PROGRESSER, UNE VILLE ALLEMANDE FRONTALIÈRE PARTIELLEMENT ÉVACUÉE",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:35",
+      "date": "16/08",
+      "timestamp": 1786916138
+    },
     {
       "id": "BFMTV_1786913415",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "17:23",
       "date": "14/08",
       "timestamp": 1786728218
-    },
-    {
-      "id": "BFMTV_1786727033",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP SAISIT LA COUR SUPRÊME POUR DÉBLOQUER LA CONSTRUCTION DE SA SALLE DE BAL À LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:03",
-      "date": "14/08",
-      "timestamp": 1786727033
     }
   ],
   "france": {
