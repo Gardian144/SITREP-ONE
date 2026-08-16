@@ -1,7 +1,27 @@
 {
-  "last_update": "16/08 11:46",
+  "last_update": "16/08 12:35",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786883221",
+      "source": "BFMTV",
+      "text": "AU MOINS DOUZE MORTS DANS DES FRAPPES EN RUSSIE ET EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:27",
+      "date": "16/08",
+      "timestamp": 1786883221
+    },
+    {
+      "id": "BFMTV_1786882672",
+      "source": "BFMTV",
+      "text": "DES DRONES UKRAINIENS FRAPPENT DES ENTREPÔTS WILDBERRIES PRÈS DE MOSCOU ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:17",
+      "date": "16/08",
+      "timestamp": 1786882672
+    },
     {
       "id": "BFMTV_1786878136",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "11:35",
       "date": "14/08",
       "timestamp": 1786707348
-    },
-    {
-      "id": "BFMTV_1786707341",
-      "source": "BFMTV",
-      "text": "\"LE RETOUR DE NOTRE COMPATRIOTE EST UN SOULAGEMENT\": LE QUAI D'ORSAY FAIT PART DE SA \"TRÈS GRANDE SATISFACTION\" APRÈS LA LIBÉRATION D'UN AGENT DU RENSEIGNEMENT AU MALI",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:35",
-      "date": "14/08",
-      "timestamp": 1786707341
-    },
-    {
-      "id": "BFMTV_1786706480",
-      "source": "BFMTV",
-      "text": "LA GRÈCE À NOUVEAU EN PROIE AUX FLAMMES PRÈS DE THESSALONIQUE, DES TOURISTES ÉVACUÉS PAR BATEAU",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:21",
-      "date": "14/08",
-      "timestamp": 1786706480
     }
   ],
   "france": {
