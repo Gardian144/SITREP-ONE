@@ -1,7 +1,17 @@
 {
-  "last_update": "16/08 07:59",
+  "last_update": "16/08 08:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786868534",
+      "source": "BFMTV",
+      "text": "BELGIQUE: 3.000 HECTARES RAVAGÉS, L'UN DES PIRES INCENDIES DE SON HISTOIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:22",
+      "date": "16/08",
+      "timestamp": 1786868534
+    },
     {
       "id": "BFMTV_1786862563",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "07:43",
       "date": "14/08",
       "timestamp": 1786693424
-    },
-    {
-      "id": "BFMTV_1786687580",
-      "source": "BFMTV",
-      "text": "NIGEL FARAGE RÉÉLU DÉPUTÉ AU ROYAUME-UNI FACE AU CANDIDAT SATIRIQUE \"TÊTE-DE-POUBELLE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:06",
-      "date": "14/08",
-      "timestamp": 1786687580
     }
   ],
   "france": {
