@@ -1,7 +1,17 @@
 {
-  "last_update": "16/08 10:58",
+  "last_update": "16/08 11:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786878136",
+      "source": "BFMTV",
+      "text": "AU MOINS 12 MORTS ET 10 BLESSÉS EN HONGRIE DANS L'ACCIDENT D'UN BUS IMMATRICULÉ EN POLOGNE, LE PLUS GRAVE DANS LE PAYS DEPUIS 2003",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:02",
+      "date": "16/08",
+      "timestamp": 1786878136
+    },
     {
       "id": "OPEX360_1786877793",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "11:21",
       "date": "14/08",
       "timestamp": 1786706480
-    },
-    {
-      "id": "BFMTV_1786705487",
-      "source": "BFMTV",
-      "text": "ISRAËL RÉINSTALLE UNE COLONIE DÉMANTELÉE EN 2005 EN CISJORDANIE DANS UN CONTEXTE DE FORTES TENSIONS AVEC LES POPULATIONS LOCALES",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:04",
-      "date": "14/08",
-      "timestamp": 1786705487
     }
   ],
   "france": {
