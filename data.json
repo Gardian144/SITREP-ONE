@@ -1,7 +1,27 @@
 {
-  "last_update": "16/08 14:48",
+  "last_update": "16/08 15:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786892497",
+      "source": "BFMTV",
+      "text": "INCENDIES EN GRÈCE: DEUX MORTS DANS DES FEUX SUR UNE ÎLE PRÈS D'ATHÈNES, DES CENTAINES DE PERSONNES ÉVACUÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:01",
+      "date": "16/08",
+      "timestamp": 1786892497
+    },
+    {
+      "id": "BFMTV_1786891422",
+      "source": "BFMTV",
+      "text": "GRÈCE: DEUX MORTS DANS LES INCENDIES SUR L'ÎLE DE SALAMINE, PRÈS D'ATHÈNES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:43",
+      "date": "16/08",
+      "timestamp": 1786891422
+    },
     {
       "id": "BFMTV_1786888406",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "13:59",
       "date": "14/08",
       "timestamp": 1786715972
-    },
-    {
-      "id": "BFMTV_1786714314",
-      "source": "BFMTV",
-      "text": "ELLE L'AVAIT BRÛLÉE AVEC UN SÈCHE-CHEVEUX: UNE BRITANNIQUE CONDAMNÉE À 6 ANS DE PRISON POUR AVOIR TUÉ SA FILLE DE 3 MOIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:31",
-      "date": "14/08",
-      "timestamp": 1786714314
-    },
-    {
-      "id": "BFMTV_1786707503",
-      "source": "BFMTV",
-      "text": "DES AVIONS DE L'OTAN ABATTENT UN DRONE DANS L'ESPACE AÉRIEN LETTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:38",
-      "date": "14/08",
-      "timestamp": 1786707503
     }
   ],
   "france": {
