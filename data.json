@@ -1,7 +1,17 @@
 {
-  "last_update": "16/08 13:52",
+  "last_update": "16/08 14:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786888406",
+      "source": "BFMTV",
+      "text": "3.000 HECTARES RAVAGÉS, LA BELGIQUE CONNAÎT L'UN DES PIRES INCENDIES DE SON HISTOIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:53",
+      "date": "16/08",
+      "timestamp": 1786888406
+    },
     {
       "id": "BFMTV_1786883221",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "11:38",
       "date": "14/08",
       "timestamp": 1786707503
-    },
-    {
-      "id": "BFMTV_1786707348",
-      "source": "BFMTV",
-      "text": "LA RUSSIE ANNONCE INTENSIFIER SA CAMPAGNE MILITAIRE ET MENACE L'OCCIDENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:35",
-      "date": "14/08",
-      "timestamp": 1786707348
     }
   ],
   "france": {
