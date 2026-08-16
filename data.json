@@ -1,7 +1,17 @@
 {
-  "last_update": "16/08 20:19",
+  "last_update": "16/08 20:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786912614",
+      "source": "BFMTV",
+      "text": "LE BM-35: LE NOUVEAU DRONE KAMIKAZE DE LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:36",
+      "date": "16/08",
+      "timestamp": 1786912614
+    },
     {
       "id": "BFMTV_1786911001",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:29",
       "date": "14/08",
       "timestamp": 1786724981
-    },
-    {
-      "id": "BFMTV_1786724654",
-      "source": "BFMTV",
-      "text": "L'ESPAGNE REDOUTE UN AFFLUX DE MIGRANTS DANS L'ENCLAVE ESPAGNOLE DE CEUTA ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:24",
-      "date": "14/08",
-      "timestamp": 1786724654
     }
   ],
   "france": {
