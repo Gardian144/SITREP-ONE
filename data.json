@@ -1,7 +1,27 @@
 {
-  "last_update": "16/08 17:43",
+  "last_update": "16/08 17:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786902517",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE A ÉTÉ VISÉE PAR 600 DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:48",
+      "date": "16/08",
+      "timestamp": 1786902517
+    },
+    {
+      "id": "BFMTV_1786902343",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE ROYAUME-UNI FOURNIT DES DRONES POUR APPUYER L'UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:45",
+      "date": "16/08",
+      "timestamp": 1786902343
+    },
     {
       "id": "BFMTV_1786900484",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:09",
       "date": "14/08",
       "timestamp": 1786720189
-    },
-    {
-      "id": "BFMTV_1786719968",
-      "source": "BFMTV",
-      "text": "AFGHANISTAN: CINQ ANS APRÈS LEUR RETOUR À LA TÊTE DU PAYS, LES TALIBANS ONT \"CONSOLIDÉ\" LEUR POUVOIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:06",
-      "date": "14/08",
-      "timestamp": 1786719968
-    },
-    {
-      "id": "BFMTV_1786719924",
-      "source": "BFMTV",
-      "text": "DES TABLEAUX DE RENOIR, CÉZANNE ET MATISSE RETROUVÉS PAR LA POLICE ITALIENNE PRÈS DE CINQ MOIS APRÈS LEUR VOL",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:05",
-      "date": "14/08",
-      "timestamp": 1786719924
     }
   ],
   "france": {
