@@ -1,7 +1,17 @@
 {
-  "last_update": "16/08 09:02",
+  "last_update": "16/08 09:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786871534",
+      "source": "BFMTV",
+      "text": "3.000 HECTARES RAVAGÉS, INTERVENTION \"COMPLEXE\", RENFORTS EUROPÉENS... LA BELGIQUE CONNAÎT L'UN DES PIRES INCENDIES DE SON HISTOIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:12",
+      "date": "16/08",
+      "timestamp": 1786871534
+    },
     {
       "id": "BFMTV_1786869598",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "08:52",
       "date": "14/08",
       "timestamp": 1786697533
-    },
-    {
-      "id": "BFMTV_1786693738",
-      "source": "BFMTV",
-      "text": "DES OPÉRATEURS DE DRONES UKRAINIENS DOMINENT DES TROUPES AMÉRICAINES LORS D'UN EXERCICE MILITAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:48",
-      "date": "14/08",
-      "timestamp": 1786693738
     }
   ],
   "france": {
