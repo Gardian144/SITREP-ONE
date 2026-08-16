@@ -1,7 +1,17 @@
 {
-  "last_update": "16/08 16:50",
+  "last_update": "16/08 17:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786900484",
+      "source": "BFMTV",
+      "text": "HUIT PAYS MUSULMANS CONDAMNENT LE \"REFUS ISRAÉLIEN\" DE POURSUIVRE LE PLAN DE PAIX AMÉRICAIN POUR GAZA",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:14",
+      "date": "16/08",
+      "timestamp": 1786900484
+    },
     {
       "id": "BFMTV_1786898900",
       "source": "BFMTV",
@@ -21,6 +31,16 @@
       "time": "16:48",
       "date": "16/08",
       "timestamp": 1786898899
+    },
+    {
+      "id": "BFMTV_1786898846",
+      "source": "BFMTV",
+      "text": "GRÈCE, BELGIQUE, ESPAGNE, FRANCE: L'EUROPE FAIT FACE À DES FEUX VIOLENTS",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:47",
+      "date": "16/08",
+      "timestamp": 1786898846
     },
     {
       "id": "BFMTV_1786897312",
@@ -981,26 +1001,6 @@
       "time": "15:05",
       "date": "14/08",
       "timestamp": 1786719924
-    },
-    {
-      "id": "BFMTV_1786718553",
-      "source": "BFMTV",
-      "text": "UN MORT ET DES DIZAINES DE BLESSÉS DANS UN INCENDIE SUR LE LITTORAL CROATE, PLUS DE 2.000 ÉVACUATIONS DONT DES FRANÇAIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:42",
-      "date": "14/08",
-      "timestamp": 1786718553
-    },
-    {
-      "id": "BFMTV_1786718067",
-      "source": "BFMTV",
-      "text": "UNE ORQUE RETROUVÉE AVEC PLUSIEURS TIRS DE PLOMBS DE FUSIL DANS SA NAGEOIRE DORSALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:34",
-      "date": "14/08",
-      "timestamp": 1786718067
     }
   ],
   "france": {
