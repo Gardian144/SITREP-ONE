@@ -1,7 +1,17 @@
 {
-  "last_update": "16/08 19:02",
+  "last_update": "16/08 19:32",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786906778",
+      "source": "BFMTV",
+      "text": "EN MER DEPUIS PLUS DE 200 JOURS, LES SOLDATS À BORD DU PORTE-AVIONS USS LINCOLN N'EN PEUVENT PLUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:59",
+      "date": "16/08",
+      "timestamp": 1786906778
+    },
     {
       "id": "BFMTV_1786906020",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:10",
       "date": "14/08",
       "timestamp": 1786723843
-    },
-    {
-      "id": "BFMTV_1786723519",
-      "source": "BFMTV",
-      "text": "QUELLES SONT LES CAPACITÉS DU DRONE KAMIKAZE RUSSE IDENTIFIÉ PAR LES FORCES UKRAINIENNES?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:05",
-      "date": "14/08",
-      "timestamp": 1786723519
     }
   ],
   "france": {
