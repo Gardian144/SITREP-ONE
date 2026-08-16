@@ -1,7 +1,37 @@
 {
-  "last_update": "16/08 05:42",
+  "last_update": "16/08 06:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786859910",
+      "source": "BFMTV",
+      "text": "PAS MOINS DE 600 DRONES EN UNE NUIT: MOSCOU VISÉE PAR UNE ATTAQUE AÉRIENNE, AU MOINS TROIS BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:58",
+      "date": "16/08",
+      "timestamp": 1786859910
+    },
+    {
+      "id": "BFMTV_1786859910",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:58",
+      "date": "16/08",
+      "timestamp": 1786859910
+    },
+    {
+      "id": "BFMTV_1786858989",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: MOSCOU VISÉE PAR 600 DRONES PENDANT LA NUIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:43",
+      "date": "16/08",
+      "timestamp": 1786858989
+    },
     {
       "id": "BFMTV_1786856113",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "05:30",
       "date": "14/08",
       "timestamp": 1786685449
-    },
-    {
-      "id": "BFMTV_1786685116",
-      "source": "BFMTV",
-      "text": "UN DRONE ABATTU DANS L'ESPACE AÉRIEN DE LA LETTONIE, LA FINLANDE RESTREINT SES ESPACES AÉRIENS ET MARITIMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:25",
-      "date": "14/08",
-      "timestamp": 1786685116
-    },
-    {
-      "id": "BFMTV_1786683688",
-      "source": "BFMTV",
-      "text": "UN TRAIN DE BANLIEUE DÉRAILLE ET SE RENVERSE EN ANGLETERRE, 20 BLESSÉS DONT DEUX GRAVES",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:01",
-      "date": "14/08",
-      "timestamp": 1786683688
-    },
-    {
-      "id": "BFMTV_1786658854",
-      "source": "BFMTV",
-      "text": "\"DES ACTES DE PIRATERIE\": LES ÉMIRATS ARABES UNIS ACCUSENT L'IRAN D'AVOIR ATTAQUÉ DEUX NAVIRES DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:07",
-      "date": "13/08",
-      "timestamp": 1786658854
     }
   ],
   "france": {
