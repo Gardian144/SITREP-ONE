@@ -1,7 +1,27 @@
 {
-  "last_update": "16/08 09:41",
+  "last_update": "16/08 09:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786873968",
+      "source": "BFMTV",
+      "text": "HAWAÏ: L'ARCHIPEL FRAPPÉ PAR L'OURAGAN LALA",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:52",
+      "date": "16/08",
+      "timestamp": 1786873968
+    },
+    {
+      "id": "BFMTV_1786873431",
+      "source": "BFMTV",
+      "text": "ALERTÉS PAR DES RUMEURS, DES DIZAINES DE MIGRANTS AFFLUENT VERS LA FRONTIÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:43",
+      "date": "16/08",
+      "timestamp": 1786873431
+    },
     {
       "id": "BFMTV_1786871534",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "09:23",
       "date": "14/08",
       "timestamp": 1786699434
-    },
-    {
-      "id": "BFMTV_1786698442",
-      "source": "BFMTV",
-      "text": "UNE USINE DE MUNITIONS EXPLOSE À COLLEFERRO, PRÈS DE ROME",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:07",
-      "date": "14/08",
-      "timestamp": 1786698442
-    },
-    {
-      "id": "BFMTV_1786697533",
-      "source": "BFMTV",
-      "text": "HYGIÈNE, NOURRITURES, TENTATIVES DE SUICIDE: QUE SE PASSE-T-IL À BORD DU PORTE-AVIONS AMÉRICAIN USS LINCOLN?",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:52",
-      "date": "14/08",
-      "timestamp": 1786697533
     }
   ],
   "france": {
