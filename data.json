@@ -1,7 +1,17 @@
 {
-  "last_update": "16/08 06:02",
+  "last_update": "16/08 06:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786862563",
+      "source": "BFMTV",
+      "text": "HAWAÏ: L'OURAGAN LALA PROVOQUE DE FORTES PLUIES ET DES COUPURES DE COURANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:42",
+      "date": "16/08",
+      "timestamp": 1786862563
+    },
     {
       "id": "BFMTV_1786859910",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "06:06",
       "date": "14/08",
       "timestamp": 1786687580
-    },
-    {
-      "id": "BFMTV_1786685449",
-      "source": "BFMTV",
-      "text": "LA POLICE BRÉSILIENNE RÉCUPÈRE HUIT ŒUVRES DE MATISSE DÉROBÉES EN DÉCEMBRE 2025 À SÃO PAULO",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:30",
-      "date": "14/08",
-      "timestamp": 1786685449
     }
   ],
   "france": {
