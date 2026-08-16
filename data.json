@@ -1,7 +1,27 @@
 {
-  "last_update": "16/08 20:46",
+  "last_update": "16/08 21:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786913415",
+      "source": "BFMTV",
+      "text": "ESPAGNE: MORT D'UN SOLDAT DANS UN FEU DE FORÊT DANS LE NORD-EST DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:50",
+      "date": "16/08",
+      "timestamp": 1786913415
+    },
+    {
+      "id": "BFMTV_1786913063",
+      "source": "BFMTV",
+      "text": "LES INCENDIES RAVAGENT L'EUROPE, TOUCHANT LA BELGIQUE, LA GRÈCE, L'ESPAGNE ET LA GRANDE-BRETAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:44",
+      "date": "16/08",
+      "timestamp": 1786913063
+    },
     {
       "id": "BFMTV_1786912614",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "17:03",
       "date": "14/08",
       "timestamp": 1786727033
-    },
-    {
-      "id": "BFMTV_1786726547",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: DES ÉCOLES VONT TESTER DES DRONES POUR SE PROTÉGER DES FUSILLADES",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:55",
-      "date": "14/08",
-      "timestamp": 1786726547
-    },
-    {
-      "id": "OPEX360_1786724981",
-      "source": "OPEX360",
-      "text": "L’INDIAN AIR FORCE A ÉMIS UNE DEMANDE D’INFORMATIONS POUR ACQUÉRIR 150 NOUVEAUX AVIONS D’ENTRAÎNEMENT",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:29",
-      "date": "14/08",
-      "timestamp": 1786724981
     }
   ],
   "france": {
