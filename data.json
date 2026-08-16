@@ -1,7 +1,47 @@
 {
-  "last_update": "16/08 04:33",
+  "last_update": "16/08 05:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786856113",
+      "source": "BFMTV",
+      "text": "BELGIQUE: DEUX OUVRIERS DÉCOUVRENT UN TRÉSOR À NEUF MILLIONS D'EUROS SUR UN CHANTIER",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:55",
+      "date": "16/08",
+      "timestamp": 1786856113
+    },
+    {
+      "id": "BFMTV_1786855996",
+      "source": "BFMTV",
+      "text": "LES SÉRIES ISRAÉLIENNES DE PLUS EN PLUS BOYCOTTÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:53",
+      "date": "16/08",
+      "timestamp": 1786855996
+    },
+    {
+      "id": "BFMTV_1786855870",
+      "source": "BFMTV",
+      "text": "FRAPPES AU LIBAN: ISRAËL AFFIRME AVOIR CIBLÉ UNE INFRASTRUCTURE DU HEZBOLLAH EN RÉPONSE À UNE \"ATTAQUE\" CONTRE SES SOLDATS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:51",
+      "date": "16/08",
+      "timestamp": 1786855870
+    },
+    {
+      "id": "BFMTV_1786855683",
+      "source": "BFMTV",
+      "text": "FRAPPES EN RUSSIE: MOSCOU DÉNONCE L'IMPLICATION DES ÉTATS-UNIS DANS LE CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:48",
+      "date": "16/08",
+      "timestamp": 1786855683
+    },
     {
       "id": "BFMTV_1786853715",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "22:07",
       "date": "13/08",
       "timestamp": 1786658854
-    },
-    {
-      "id": "BFMTV_1786658069",
-      "source": "BFMTV",
-      "text": "ITALIE: EXPLOSION DANS UNE USINE DE MUNITIONS NON LOIN DE ROME",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:54",
-      "date": "13/08",
-      "timestamp": 1786658069
-    },
-    {
-      "id": "BFMTV_1786655537",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN TRAIN FRAPPÉ PAR UN DRONE DANS LA RÉGION D'ODESSA",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:12",
-      "date": "13/08",
-      "timestamp": 1786655537
-    },
-    {
-      "id": "BFMTV_1786655034",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DEMANDE AUX ÉTATS-UNIS DE VENDRE À KIEV AU MOINS 5% DE LEURS MISSILES INTERCEPTEURS PATRIOT",
-      "urgent": true,
-      "france_related": true,
-      "time": "21:03",
-      "date": "13/08",
-      "timestamp": 1786655034
-    },
-    {
-      "id": "BFMTV_1786654674",
-      "source": "BFMTV",
-      "text": "EXERCICE MILITAIRE DE L'OTAN: QUAND LES DRONES UKRAINIENS DONNENT UNE LEÇON À L'ARMÉE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:57",
-      "date": "13/08",
-      "timestamp": 1786654674
     }
   ],
   "france": {
