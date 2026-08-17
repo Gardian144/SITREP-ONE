@@ -1,7 +1,27 @@
 {
-  "last_update": "17/08 07:59",
+  "last_update": "17/08 08:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786955565",
+      "source": "BFMTV",
+      "text": "AU PROCÈS DE L'EX-MEMBRE DE GANG ACCUSÉ D'AVOIR ORCHESTRÉ L'ASSASSINAT DE TUPAC, LES DÉBATS VONT COMMENCER",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:32",
+      "date": "17/08",
+      "timestamp": 1786955565
+    },
+    {
+      "id": "BFMTV_1786955469",
+      "source": "BFMTV",
+      "text": "L'IRAN OFFRE 30.000 DOLLARS POUR TUER OU CAPTURER UN SOLDAT AMÉRICAIN ET DOUBLE LA PRIME SI L'ACTION EST RÉALISÉE PAR UNE FEMME",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:31",
+      "date": "17/08",
+      "timestamp": 1786955469
+    },
     {
       "id": "BFMTV_1786951804",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "20:06",
       "date": "14/08",
       "timestamp": 1786737965
-    },
-    {
-      "id": "BFMTV_1786735610",
-      "source": "BFMTV",
-      "text": "CONDITION DES FEMMES EN AFGHANISTAN: \"PRÈS DE TROIS QUARTS DISENT SE SENTIR EN DANGER EN QUITTANT LEUR DOMICILE\", DÉPLORE L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:26",
-      "date": "14/08",
-      "timestamp": 1786735610
-    },
-    {
-      "id": "BFMTV_1786735053",
-      "source": "BFMTV",
-      "text": "CEUTA: \"NOS FRONTIÈRES DE L'UNION EUROPÉENNE SONT DES FRONTIÈRES PASSOIRES\", ESTIME EDWIGE DIAZ, VICE-PRÉSIDENTE DU RASSEMBLEMENT NATIONAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:17",
-      "date": "14/08",
-      "timestamp": 1786735053
     }
   ],
   "france": {
