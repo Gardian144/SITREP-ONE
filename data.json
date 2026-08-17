@@ -1,7 +1,37 @@
 {
-  "last_update": "17/08 10:15",
+  "last_update": "17/08 10:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786963444",
+      "source": "BFMTV",
+      "text": "LA RÉPUBLIQUE DÉMOCRATIQUE DU CONGO CONNAÎT L'ÉPIDÉMIE D'EBOLA LA PLUS MEURTRIÈRE DE L'HISTOIRE DE SON PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:44",
+      "date": "17/08",
+      "timestamp": 1786963444
+    },
+    {
+      "id": "OPEX360_1786963299",
+      "source": "OPEX360",
+      "text": "CHYPRE ENVISAGE DE SE PROCURER DES ENGINS BLINDÉS DE RECONNAISSANCE ET DE COMBAT JAGUAR AUPRÈS DE LA FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:41",
+      "date": "17/08",
+      "timestamp": 1786963299
+    },
+    {
+      "id": "BFMTV_1786962860",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UN ENFANT UKRAINIEN KIDNAPPÉ DEVENU SOLDAT RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:34",
+      "date": "17/08",
+      "timestamp": 1786962860
+    },
     {
       "id": "BFMTV_1786955565",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "20:15",
       "date": "14/08",
       "timestamp": 1786738530
-    },
-    {
-      "id": "BFMTV_1786738445",
-      "source": "BFMTV",
-      "text": "\"BIENTÔT, JE VAIS DÉCLARER LE DÉTROIT D'ORMUZ COMME UN TERRITOIRE DES ÉTATS-UNIS\", LANCE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:14",
-      "date": "14/08",
-      "timestamp": 1786738445
-    },
-    {
-      "id": "BFMTV_1786738104",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP NIE LES INQUIÉTUDES AUTOUR DE L'ÉQUIPAGE DU PORTE-AVIONS ABRAHAM LINCOLN",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:08",
-      "date": "14/08",
-      "timestamp": 1786738104
-    },
-    {
-      "id": "BFMTV_1786737965",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP AFFIRME QUE LE DÉTROIT D'ORMUZ SERA \"BIENTÔT\" DÉCLARÉ COMME \"UN TERRITOIRE DES ÉTATS-UNIS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:06",
-      "date": "14/08",
-      "timestamp": 1786737965
     }
   ],
   "france": {
