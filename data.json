@@ -1,7 +1,17 @@
 {
-  "last_update": "17/08 10:50",
+  "last_update": "17/08 11:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786965349",
+      "source": "BFMTV",
+      "text": "BELGIQUE, ESPAGNE, GRÈCE... LES IMAGES DES INCENDIES QUI RAVAGENT L'EUROPE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:15",
+      "date": "17/08",
+      "timestamp": 1786965349
+    },
     {
       "id": "BFMTV_1786963444",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "20:46",
       "date": "14/08",
       "timestamp": 1786740393
-    },
-    {
-      "id": "BFMTV_1786738530",
-      "source": "BFMTV",
-      "text": "\"LES RAFALES DE VENT L'ONT POUSSÉ VERS L'EST\": DE BERLIN À LA FORÊT PRIMAIRE DE BIALOWIEZA, UN PETIT BALLON DE MARIAGE PARCOURT 900 KILOMÈTRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:15",
-      "date": "14/08",
-      "timestamp": 1786738530
     }
   ],
   "france": {
