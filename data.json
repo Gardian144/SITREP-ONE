@@ -1,7 +1,17 @@
 {
-  "last_update": "17/08 15:06",
+  "last_update": "17/08 15:39",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786979170",
+      "source": "OPEX360",
+      "text": "LE PENTAGONE NOTIFIE UN CONTRAT DE 22,9 MILLIARDS DE DOLLARS À RAYTHEON POUR PRODUIRE 1 000 MISSILES TOMAHAWK PAR AN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:06",
+      "date": "17/08",
+      "timestamp": 1786979170
+    },
     {
       "id": "BFMTV_1786977288",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "04:20",
       "date": "15/08",
       "timestamp": 1786767641
-    },
-    {
-      "id": "BFMTV_1786767621",
-      "source": "BFMTV",
-      "text": "INDONÉSIE: UN SÉISME DE MAGNITUDE 7,7 A FRAPPÉ L'EST DE L'ARCHIPEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:20",
-      "date": "15/08",
-      "timestamp": 1786767621
     }
   ],
   "france": {
