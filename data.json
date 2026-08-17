@@ -1,11 +1,21 @@
 {
-  "last_update": "17/08 12:40",
+  "last_update": "17/08 13:26",
   "impacts": [],
   "news": [
     {
       "id": "OPEX360_1786969725",
       "source": "OPEX360",
       "text": "UN AVION D’ENTRAÎNEMENT SR-20 DE L’ARMÉE DE L’AIR & DE L’ESPACE S’EST POSÉ EN URGENCE SUR UNE ROUTE NATIONALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:28",
+      "date": "17/08",
+      "timestamp": 1786969725
+    },
+    {
+      "id": "OPEX360_1786969725",
+      "source": "OPEX360",
+      "text": "UN AVION D’ENTRAÎNEMENT SR-20 DE L’ARMÉE DE L’AIR & DE L’ESPACE S’EST POSÉ EN URGENCE SUR UNE ROUTE DÉPARTEMENTALE",
       "urgent": false,
       "france_related": false,
       "time": "12:28",
@@ -991,16 +1001,6 @@
       "time": "04:18",
       "date": "15/08",
       "timestamp": 1786767487
-    },
-    {
-      "id": "BFMTV_1786767041",
-      "source": "BFMTV",
-      "text": "CROATIE, ANGLETERRE... L'EUROPE FAIT FACE À DE MÉGA-FEUX",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:10",
-      "date": "15/08",
-      "timestamp": 1786767041
     }
   ],
   "france": {
