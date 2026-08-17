@@ -1,7 +1,37 @@
 {
-  "last_update": "17/08 11:49",
+  "last_update": "17/08 12:40",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786969725",
+      "source": "OPEX360",
+      "text": "UN AVION D’ENTRAÎNEMENT SR-20 DE L’ARMÉE DE L’AIR & DE L’ESPACE S’EST POSÉ EN URGENCE SUR UNE ROUTE NATIONALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:28",
+      "date": "17/08",
+      "timestamp": 1786969725
+    },
+    {
+      "id": "BFMTV_1786968794",
+      "source": "BFMTV",
+      "text": "LA RDC FRAPPÉE PAR L'ÉPIDÉMIE D'EBOLA LA PLUS MEURTRIÈRE DE SON HISTOIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:13",
+      "date": "17/08",
+      "timestamp": 1786968794
+    },
+    {
+      "id": "BFMTV_1786968135",
+      "source": "BFMTV",
+      "text": "\"S'ILS FONT ÇA, NOUS ALLONS LES BOMBARDER\": DONALD TRUMP MENACE DE S'ATTAQUER À OMAN S'ILS SE MÊLENT DES NÉGOCIATIONS SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:02",
+      "date": "17/08",
+      "timestamp": 1786968135
+    },
     {
       "id": "BFMTV_1786965349",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "04:10",
       "date": "15/08",
       "timestamp": 1786767041
-    },
-    {
-      "id": "BFMTV_1786747913",
-      "source": "BFMTV",
-      "text": "UN SÉISME DE MAGNITUDE 7,7 FRAPPE L'EST DE L'INDONÉSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:51",
-      "date": "14/08",
-      "timestamp": 1786747913
-    },
-    {
-      "id": "BFMTV_1786741501",
-      "source": "BFMTV",
-      "text": "UN ANCIEN PROFESSEUR DE CAMBRIDGE MÊLÉ À UN SCANDALE DE PLAGIAT RETROUVÉ MORT À LONDRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:05",
-      "date": "14/08",
-      "timestamp": 1786741501
-    },
-    {
-      "id": "BFMTV_1786740393",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP CONFIRME LE REMPLACEMENT DE L'USS ABRAHAM-LINCOLN, ACTUELLEMENT DÉPLOYÉ AU MOYEN-ORIENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:46",
-      "date": "14/08",
-      "timestamp": 1786740393
     }
   ],
   "france": {
