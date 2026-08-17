@@ -1,7 +1,57 @@
 {
-  "last_update": "17/08 15:59",
+  "last_update": "17/08 16:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786983994",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP MENACE DE S'ATTAQUER À OMAN S'ILS SE MÊLENT DES NÉGOCIATIONS SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:26",
+      "date": "17/08",
+      "timestamp": 1786983994
+    },
+    {
+      "id": "BFMTV_1786983941",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:25",
+      "date": "17/08",
+      "timestamp": 1786983941
+    },
+    {
+      "id": "BFMTV_1786983940",
+      "source": "BFMTV",
+      "text": "PAIX À GAZA: BENJAMIN NETANYAHU ASSURE QU'IL N'Y AURA PAS DE RETRAIT ISRAÉLIEN SANS LE DÉSARMEMENT DU HAMAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:25",
+      "date": "17/08",
+      "timestamp": 1786983940
+    },
+    {
+      "id": "BFMTV_1786983404",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE BRITANNIQUE ANDY BURNHAM PIÉGÉ PAR UN IMPOSTEUR SE FAISANT PASSER POUR UNE PROCHE DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:16",
+      "date": "17/08",
+      "timestamp": 1786983404
+    },
+    {
+      "id": "BFMTV_1786982954",
+      "source": "BFMTV",
+      "text": "UN ENFANT UKRAINIEN KIDNAPPÉ IL Y A PLUSIEURS ANNÉES EST DEVENU UN SOLDAT RUSSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:09",
+      "date": "17/08",
+      "timestamp": 1786982954
+    },
     {
       "id": "OPEX360_1786979170",
       "source": "OPEX360",
@@ -951,56 +1001,6 @@
       "time": "05:45",
       "date": "15/08",
       "timestamp": 1786772742
-    },
-    {
-      "id": "BFMTV_1786769441",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE LE DÉTROIT D'ORMUZ SERA \"BIENTÔT\" DÉCLARÉ COMME \"UN TERRITOIRE DES ÉTATS-UNIS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:50",
-      "date": "15/08",
-      "timestamp": 1786769441
-    },
-    {
-      "id": "BFMTV_1786768466",
-      "source": "BFMTV",
-      "text": "ISRAËL : L'EXEMPTION MILITAIRE DES ULTRA-ORTHODOXES FRACTURE LE PAYS, QUI FAIT FACE À UNE PÉNURIE DE SOLDATS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:34",
-      "date": "15/08",
-      "timestamp": 1786768466
-    },
-    {
-      "id": "BFMTV_1786767641",
-      "source": "BFMTV",
-      "text": "\"LES GENS COURAIENT DANS TOUS LES SENS\": UN SÉISME DE MAGNITUDE 7,7 FAIT UN MORT ET QUATRE BLESSÉS EN INDONÉSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:20",
-      "date": "15/08",
-      "timestamp": 1786767641
-    },
-    {
-      "id": "BFMTV_1786767641",
-      "source": "BFMTV",
-      "text": "\"LES GENS COURAIENT DANS TOUS LES SENS\": LE BILAN DU SÉISME EN INDONÉSIE GRIMPE À 20 MORTS ET 6 BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:20",
-      "date": "15/08",
-      "timestamp": 1786767641
-    },
-    {
-      "id": "BFMTV_1786767641",
-      "source": "BFMTV",
-      "text": "\"LES GENS COURAIENT DANS TOUS LES SENS\": LE BILAN DU SÉISME EN INDONÉSIE GRIMPE À 38 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:20",
-      "date": "15/08",
-      "timestamp": 1786767641
     }
   ],
   "france": {
