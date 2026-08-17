@@ -1,7 +1,27 @@
 {
-  "last_update": "17/08 05:21",
+  "last_update": "17/08 05:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786946184",
+      "source": "BFMTV",
+      "text": "RUSSIE: SIX MORTS DANS UNE FRAPPE DE MISSILES UKRAINIENS DANS LA RÉGION DE BELGOROD",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:56",
+      "date": "17/08",
+      "timestamp": 1786946184
+    },
+    {
+      "id": "BFMTV_1786946145",
+      "source": "BFMTV",
+      "text": "UNE FRAPPE DE MISSILES UKRAINIENS FAIT SIX MORTS EN RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:55",
+      "date": "17/08",
+      "timestamp": 1786946145
+    },
     {
       "id": "BFMTV_1786941804",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "18:38",
       "date": "14/08",
       "timestamp": 1786732690
-    },
-    {
-      "id": "BFMTV_1786731822",
-      "source": "BFMTV",
-      "text": "ITALIE: LES CARABINIERS RETROUVENT TROIS TOILES VOLÉES VALANT 9 MILLIONS D'EUROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:23",
-      "date": "14/08",
-      "timestamp": 1786731822
-    },
-    {
-      "id": "BFMTV_1786729476",
-      "source": "BFMTV",
-      "text": "\"IL A ÉTÉ TRAITÉ DE MANIÈRE INJUSTE\": LES AVOCATS DE LUIGI MANGIONE DEMANDENT L'ABANDON DE L'INCULPATION POUR MEURTRE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:44",
-      "date": "14/08",
-      "timestamp": 1786729476
     }
   ],
   "france": {
