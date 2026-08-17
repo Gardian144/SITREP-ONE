@@ -1,7 +1,27 @@
 {
-  "last_update": "17/08 21:59",
+  "last_update": "17/08 22:32",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787005745",
+      "source": "BFMTV",
+      "text": "\"VOTRE QUESTION DÉGOÛTANTE ET INHUMAINE\": LA MAISON BLANCHE ET TRUMP S'EMPORTENT CONTRE UNE JOURNALISTE DE CNN",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:29",
+      "date": "17/08",
+      "timestamp": 1787005745
+    },
+    {
+      "id": "BFMTV_1787004659",
+      "source": "BFMTV",
+      "text": "SÉISME EN COLOMBIE: UN MINISTRE DANS LA TOURMENTE POUR SES VACANCES QUELQUES JOURS APRÈS LE SINISTRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:10",
+      "date": "17/08",
+      "timestamp": 1787004659
+    },
     {
       "id": "BFMTV_1787001609",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:46",
       "date": "15/08",
       "timestamp": 1786790791
-    },
-    {
-      "id": "BFMTV_1786789937",
-      "source": "BFMTV",
-      "text": "THAÏLANDE: UN FRANÇAIS ET SES DEUX FILS DE 5 ET 7 ANS SECOURUS EN MER APRÈS PLUS DE 16 HEURES À LA DÉRIVE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:32",
-      "date": "15/08",
-      "timestamp": 1786789937
-    },
-    {
-      "id": "OPEX360_1786789332",
-      "source": "OPEX360",
-      "text": "UNE ENTREPRISE ALLEMANDE VA TRANSFORMER DEUX ANCIENS AVIONS DE TRANSPORT TRANSALL EN BOMBARDIERS D’EAU",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:22",
-      "date": "15/08",
-      "timestamp": 1786789332
     }
   ],
   "france": {
