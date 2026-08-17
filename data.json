@@ -1,7 +1,17 @@
 {
-  "last_update": "17/08 04:40",
+  "last_update": "17/08 05:21",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786941804",
+      "source": "BFMTV",
+      "text": "BELGIQUE, ESPAGNE, GRÈCE, PAYS DE GALLES... L'EUROPE EN PROIE AUX FLAMMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:43",
+      "date": "17/08",
+      "timestamp": 1786941804
+    },
     {
       "id": "BFMTV_1786916138",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "17:44",
       "date": "14/08",
       "timestamp": 1786729476
-    },
-    {
-      "id": "OPEX360_1786728218",
-      "source": "OPEX360",
-      "text": "DEUX CÂBLES SOUS-MARINS DE TÉLÉCOMMUNICATIONS AUSTRALIENS ONT SUBI DES DÉFAILLANCES SUSPECTES",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:23",
-      "date": "14/08",
-      "timestamp": 1786728218
     }
   ],
   "france": {
