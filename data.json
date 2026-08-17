@@ -1,7 +1,17 @@
 {
-  "last_update": "17/08 07:10",
+  "last_update": "17/08 07:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786951804",
+      "source": "BFMTV",
+      "text": "\"CELA MONTRE QUE LE MOYEN-ORIENT SE RASSEMBLE\": DONALD TRUMP SE RÉJOUIT DU PACTE DE DÉFENSE SIGNÉ ENTRE L'ARABIE SAOUDITE, LA TURQUIE ET LE PAKISTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:30",
+      "date": "17/08",
+      "timestamp": 1786951804
+    },
     {
       "id": "BFMTV_1786947282",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:17",
       "date": "14/08",
       "timestamp": 1786735053
-    },
-    {
-      "id": "BFMTV_1786733929",
-      "source": "BFMTV",
-      "text": "UN THÉÂTRE ALLEMAND ANNULE UN ÉVÉNEMENT EN NON-MIXITÉ, DÉNONÇANT UNE \"CAMPAGNE DE HAINE RACISTE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:58",
-      "date": "14/08",
-      "timestamp": 1786733929
     }
   ],
   "france": {
