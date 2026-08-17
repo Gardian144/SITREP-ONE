@@ -1,7 +1,17 @@
 {
-  "last_update": "17/08 14:01",
+  "last_update": "17/08 14:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1786977288",
+      "source": "BFMTV",
+      "text": "SEPT MORTS ET 50 MIGRANTS SECOURUS EN MÉDITERRANÉE AU LARGE DE LA LIBYE, ANNONCE UNE ONG",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:34",
+      "date": "17/08",
+      "timestamp": 1786977288
+    },
     {
       "id": "OPEX360_1786969725",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "04:20",
       "date": "15/08",
       "timestamp": 1786767621
-    },
-    {
-      "id": "BFMTV_1786767487",
-      "source": "BFMTV",
-      "text": "CEUTA: L'ESPAGNE ET LE MAROC SE PRÉPARENT À DE NOUVELLES TRAVERSÉES MASSIVES, APRÈS DES APPELS EN LIGNE À FRANCHIR LA FRONTIÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:18",
-      "date": "15/08",
-      "timestamp": 1786767487
     }
   ],
   "france": {
