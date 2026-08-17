@@ -1,7 +1,27 @@
 {
-  "last_update": "17/08 16:36",
+  "last_update": "17/08 17:03",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1786985238",
+      "source": "OPEX360",
+      "text": "MER DE CHINE : SES GÉNÉRATEURS EN PANNE, UN DESTROYER AMÉRICAIN A ÉTÉ PRIVÉ DE PROPULSION PENDANT QUATRE JOURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:47",
+      "date": "17/08",
+      "timestamp": 1786985238
+    },
+    {
+      "id": "BFMTV_1786984931",
+      "source": "BFMTV",
+      "text": "LA COUR SUPRÊME AMÉRICAINE REJETTE UN ULTIME RECOURS DE DONALD TRUMP CONTRE UNE INDEMNISATION POUR AGRESSION SEXUELLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:42",
+      "date": "17/08",
+      "timestamp": 1786984931
+    },
     {
       "id": "BFMTV_1786983994",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "06:19",
       "date": "15/08",
       "timestamp": 1786774740
-    },
-    {
-      "id": "BFMTV_1786774504",
-      "source": "BFMTV",
-      "text": "OÙ EN EST L’AFGHANISTAN 5 ANS APRÈS LE RETOUR AU POUVOIR DES TALIBANS? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:15",
-      "date": "15/08",
-      "timestamp": 1786774504
-    },
-    {
-      "id": "BFMTV_1786772742",
-      "source": "BFMTV",
-      "text": "LE MOIS DE JUILLET A ÉTÉ LE PLUS MEURTRIER POUR L'UKRAINE DEPUIS LE DÉBUT DU CONFLIT, AVEC PLUS DE 3.000 VICTIMES",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:45",
-      "date": "15/08",
-      "timestamp": 1786772742
     }
   ],
   "france": {
