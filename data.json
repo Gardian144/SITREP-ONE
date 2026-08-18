@@ -1,7 +1,17 @@
 {
-  "last_update": "18/08 05:55",
+  "last_update": "18/08 06:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787033259",
+      "source": "BFMTV",
+      "text": "MEURTRE D'UN PATRON D'ASSURANCE: LE PROCÈS DE LUIGI MANGIONE DEVANT L'ÉTAT DE NEW YORK REPORTÉ APRÈS SES AVEUX",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:07",
+      "date": "18/08",
+      "timestamp": 1787033259
+    },
     {
       "id": "BFMTV_1787028301",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "15:00",
       "date": "15/08",
       "timestamp": 1786806021
-    },
-    {
-      "id": "BFMTV_1786803049",
-      "source": "BFMTV",
-      "text": "SÉISMES EN INDONÉSIE: \"EN QUELQUES SECONDES, LES SECOUSSES SE SONT INTENSIFIÉES\", TÉMOIGNE PHILIPPINE, TOURISTE FRANÇAISE",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:10",
-      "date": "15/08",
-      "timestamp": 1786803049
     }
   ],
   "france": {
