@@ -1,7 +1,27 @@
 {
-  "last_update": "18/08 15:29",
+  "last_update": "18/08 15:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787068323",
+      "source": "BFMTV",
+      "text": "\"J'ENTRETIENS D'EXCELLENTE RELATION AVEC KIM JONG-UN\": QUAND DONALD TRUMP ENCENSE SA RELATION AVEC LE DICTATEUR NORD-CORÉEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:52",
+      "date": "18/08",
+      "timestamp": 1787068323
+    },
+    {
+      "id": "BFMTV_1787067694",
+      "source": "BFMTV",
+      "text": "SOPHIE ADENOT DANS L'ESPACE: \"C'EST MAGNIFIQUE\", DÉCLARE GILLES DAWIDOWICZ, VICE-PRÉSIDENT DE LA SOCIÉTÉ ASTRONOMIQUE DE FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:41",
+      "date": "18/08",
+      "timestamp": 1787067694
+    },
     {
       "id": "BFMTV_1787066318",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "04:51",
       "date": "16/08",
       "timestamp": 1786855870
-    },
-    {
-      "id": "BFMTV_1786855683",
-      "source": "BFMTV",
-      "text": "FRAPPES EN RUSSIE: MOSCOU DÉNONCE L'IMPLICATION DES ÉTATS-UNIS DANS LE CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:48",
-      "date": "16/08",
-      "timestamp": 1786855683
-    },
-    {
-      "id": "BFMTV_1786853715",
-      "source": "BFMTV",
-      "text": "CEUTA: DES DIZAINES D'INTERPELLATIONS À LA FRONTIÈRE ENTRE LE MAROC ET L'ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:15",
-      "date": "16/08",
-      "timestamp": 1786853715
     }
   ],
   "france": {
