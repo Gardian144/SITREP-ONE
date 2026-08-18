@@ -1,7 +1,47 @@
 {
-  "last_update": "18/08 14:08",
+  "last_update": "18/08 14:52",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787064393",
+      "source": "OPEX360",
+      "text": "LA NOUVELLE FORCE AÉRIENNE SYRIENNE A REMIS EN ÉTAT AU MOINS DEUX AVIONS D’ATTAQUE SU-22 «FITTER»",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:46",
+      "date": "18/08",
+      "timestamp": 1787064393
+    },
+    {
+      "id": "BFMTV_1787063386",
+      "source": "BFMTV",
+      "text": "SYRIE: DÉCOUVERTE DE \"QUELQUES TONNES DE MATIÈRES NUCLÉAIRES SUSCEPTIBLES D'ÊTRE UTILISÉES À MAUVAIS ESCIENT\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:29",
+      "date": "18/08",
+      "timestamp": 1787063386
+    },
+    {
+      "id": "BFMTV_1787063270",
+      "source": "BFMTV",
+      "text": "ESPAGNE: À GRENADE, UN NOUVEAU SÉISME FAIT TROIS BLESSÉS LÉGERS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:27",
+      "date": "18/08",
+      "timestamp": 1787063270
+    },
+    {
+      "id": "BFMTV_1787062752",
+      "source": "BFMTV",
+      "text": "UN JEUNE COUPLE EN LUNE DE MIEL ET LEUR PILOTE D'HÉLICOPTÈRE MEURENT DANS UN CRASH EN GRÈCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:19",
+      "date": "18/08",
+      "timestamp": 1787062752
+    },
     {
       "id": "BFMTV_1787060236",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "04:12",
       "date": "16/08",
       "timestamp": 1786853575
-    },
-    {
-      "id": "BFMTV_1786828732",
-      "source": "BFMTV",
-      "text": "CAMI CLARK, ÉPOUSE DE DARIO AMODEI, PDG DE L'ENTREPRISE ATHROPIC, EST AU CŒUR DES DISCUSSIONS POUR SES LIENS AVEC JEFFREY EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:18",
-      "date": "15/08",
-      "timestamp": 1786828732
-    },
-    {
-      "id": "BFMTV_1786828477",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA RUSSIE REPROCHE AUX ÉTATS-UNIS D'ÊTRE AUSSI INVESTI DANS LE CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:14",
-      "date": "15/08",
-      "timestamp": 1786828477
-    },
-    {
-      "id": "BFMTV_1786826636",
-      "source": "BFMTV",
-      "text": "DEUX MORTS APRÈS DES INONDATIONS DANS LE NORD-OUEST DE L'ESPAGNE, DEUX BÉBÉS ÉGALEMENT BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:43",
-      "date": "15/08",
-      "timestamp": 1786826636
-    },
-    {
-      "id": "BFMTV_1786826194",
-      "source": "BFMTV",
-      "text": "SÉISME EN COLOMBIE: LA FEMME, SORTIE DES DÉCOMBRES APRÈS 37 HEURES MARDI, EST MORTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:36",
-      "date": "15/08",
-      "timestamp": 1786826194
     }
   ],
   "france": {
