@@ -1,7 +1,47 @@
 {
-  "last_update": "18/08 18:55",
+  "last_update": "18/08 19:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787080543",
+      "source": "BFMTV",
+      "text": "LE BILAN D'UN NAUFRAGE AU ZIMBABWE S'ALOURDIT À 94 MORTS, LE GOUVERNEMENT POINTE UNE \"ERREUR HUMAINE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:15",
+      "date": "18/08",
+      "timestamp": 1787080543
+    },
+    {
+      "id": "BFMTV_1787080486",
+      "source": "BFMTV",
+      "text": "SYRIE: L'AIEA ANNONCE LA DÉCOUVERTE DE \"QUELQUES TONNES DE MATIÈRES NUCLÉAIRES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:14",
+      "date": "18/08",
+      "timestamp": 1787080486
+    },
+    {
+      "id": "BFMTV_1787079338",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:55",
+      "date": "18/08",
+      "timestamp": 1787079338
+    },
+    {
+      "id": "BFMTV_1787079337",
+      "source": "BFMTV",
+      "text": "UN UKRAINIEN CONDAMNÉ EN ALLEMAGNE À DE LA PRISON POUR AVOIR AIDÉ MOSCOU À PLANIFIER DES SABOTAGES",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:55",
+      "date": "18/08",
+      "timestamp": 1787079337
+    },
     {
       "id": "OPEX360_1787074539",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "09:52",
       "date": "16/08",
       "timestamp": 1786873968
-    },
-    {
-      "id": "BFMTV_1786873431",
-      "source": "BFMTV",
-      "text": "ALERTÉS PAR DES RUMEURS, DES DIZAINES DE MIGRANTS AFFLUENT VERS LA FRONTIÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:43",
-      "date": "16/08",
-      "timestamp": 1786873431
-    },
-    {
-      "id": "BFMTV_1786871534",
-      "source": "BFMTV",
-      "text": "3.000 HECTARES RAVAGÉS, INTERVENTION \"COMPLEXE\", RENFORTS EUROPÉENS... LA BELGIQUE CONNAÎT L'UN DES PIRES INCENDIES DE SON HISTOIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:12",
-      "date": "16/08",
-      "timestamp": 1786871534
-    },
-    {
-      "id": "BFMTV_1786869598",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV PILONNE DES INFRASTRUCTURES STRATÉGIQUES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:39",
-      "date": "16/08",
-      "timestamp": 1786869598
-    },
-    {
-      "id": "BFMTV_1786868534",
-      "source": "BFMTV",
-      "text": "BELGIQUE: 3.000 HECTARES RAVAGÉS, L'UN DES PIRES INCENDIES DE SON HISTOIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:22",
-      "date": "16/08",
-      "timestamp": 1786868534
     }
   ],
   "france": {
