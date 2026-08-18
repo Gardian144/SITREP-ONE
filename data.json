@@ -1,7 +1,27 @@
 {
-  "last_update": "18/08 11:50",
+  "last_update": "18/08 12:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787055719",
+      "source": "BFMTV",
+      "text": "SÉISME EN COLOMBIE: SHAKIRA LANCE UN APPEL À LA SOLIDARITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:21",
+      "date": "18/08",
+      "timestamp": 1787055719
+    },
+    {
+      "id": "BFMTV_1787055267",
+      "source": "BFMTV",
+      "text": "LEVÉE DU BLOCUS NAVAL, AVOIRS GELÉS, FIN DE L'EMBARGO PÉTROLIER... LE DÉTROIT D'ORMUZ RESTERA FERMÉ TANT QUE WASHINGTON N'AURA PAS SATISFAIT LES EXIGENCES DE TÉHÉRAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:14",
+      "date": "18/08",
+      "timestamp": 1787055267
+    },
     {
       "id": "BFMTV_1787050313",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "17:57",
       "date": "15/08",
       "timestamp": 1786816671
-    },
-    {
-      "id": "BFMTV_1786816057",
-      "source": "BFMTV",
-      "text": "UN PÈRE ET SES DEUX FILS ONT ÉTÉ SECOURUS APRÈS AVOIR PASSÉ 16 HEURES À DÉRIVER SUR UN JET SKI EN THAÏLANDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:47",
-      "date": "15/08",
-      "timestamp": 1786816057
-    },
-    {
-      "id": "BFMTV_1786812960",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - L'UKRAINE PEUT-ELLE DÉSORMAIS FRAPPER PARTOUT EN RUSSIE ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:56",
-      "date": "15/08",
-      "timestamp": 1786812960
     }
   ],
   "france": {
