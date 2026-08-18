@@ -1,7 +1,37 @@
 {
-  "last_update": "18/08 10:03",
+  "last_update": "18/08 10:45",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787049602",
+      "source": "OPEX360",
+      "text": "LA LOI ACTUALISANT LA PROGRAMMATION MILITAIRE 2024-30 A ÉTÉ PROMULGUÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:40",
+      "date": "18/08",
+      "timestamp": 1787049602
+    },
+    {
+      "id": "BFMTV_1787048941",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: PLUS DE 600 DRONES LANCÉS PAR KIEV CONTRE MOSCOU CETTE NUIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:29",
+      "date": "18/08",
+      "timestamp": 1787048941
+    },
+    {
+      "id": "BFMTV_1787048771",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME \"BIEN S'ENTENDRE\" AVEC KIM JONG-UN ET ANNONCE \"RÉDUIRE CONSIDÉRABLEMENT\" LA PARTICIPATION DES ÉTATS-UNIS AUX EXERCICES MILITAIRES ANNUELS AVEC LA CORÉE DU SUD ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:26",
+      "date": "18/08",
+      "timestamp": 1787048771
+    },
     {
       "id": "BFMTV_1787042013",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "16:53",
       "date": "15/08",
       "timestamp": 1786812830
-    },
-    {
-      "id": "BFMTV_1786811343",
-      "source": "BFMTV",
-      "text": "7.000 IMAGES GÉNÉRÉES: UNE AMÉRICAINE DÉCOUVRE QUE SON BEAU-PÈRE A UTILISÉ GROK POUR TRANSFORMER DES PHOTOS D'ELLE MINEURE EN PÉDOPORNOGRAPHIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:29",
-      "date": "15/08",
-      "timestamp": 1786811343
-    },
-    {
-      "id": "BFMTV_1786810639",
-      "source": "BFMTV",
-      "text": "CEUTA: \"AUJOURD'HUI IL Y A DES DIFFICULTÉS ENTRE LE MAROC ET L'ESPAGNE, IL FAUDRAIT CALMER LE JEU DES DEUX CÔTÉS\", EXPLIQUE PATRICK MARTIN-GENIER, ENSEIGNANT À SCIENCES PO",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:17",
-      "date": "15/08",
-      "timestamp": 1786810639
-    },
-    {
-      "id": "BFMTV_1786810248",
-      "source": "BFMTV",
-      "text": "LA MORT MYSTÉRIEUSE DE PLUSIEURS ÉLÉPHANTS INQUIÈTE DANS LE SUD DU KENYA",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:10",
-      "date": "15/08",
-      "timestamp": 1786810248
     }
   ],
   "france": {
