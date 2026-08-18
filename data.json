@@ -1,7 +1,37 @@
 {
-  "last_update": "18/08 17:03",
+  "last_update": "18/08 17:42",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787074539",
+      "source": "OPEX360",
+      "text": "L’AUSTRALIE ET LE JAPON DÉVELOPPENT CONJOINTEMENT UNE ARME LASER DE HAUTE ÉNERGIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:35",
+      "date": "18/08",
+      "timestamp": 1787074539
+    },
+    {
+      "id": "BFMTV_1787074126",
+      "source": "BFMTV",
+      "text": "GRÈCE: TROIS PERSONNES SONT MORTES APRÈS LE CRASH D'UN HÉLICOPTÈRE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:28",
+      "date": "18/08",
+      "timestamp": 1787074126
+    },
+    {
+      "id": "BFMTV_1787072853",
+      "source": "BFMTV",
+      "text": "GAZA: AU MOINS SIX PERSONNES, DONT UN ENFANT, TUÉES DANS UNE FRAPPE ISRAÉLIENNE SUR UN PORT",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:07",
+      "date": "18/08",
+      "timestamp": 1787072853
+    },
     {
       "id": "BFMTV_1787070702",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "08:22",
       "date": "16/08",
       "timestamp": 1786868534
-    },
-    {
-      "id": "BFMTV_1786862563",
-      "source": "BFMTV",
-      "text": "HAWAÏ: L'OURAGAN LALA PROVOQUE DE FORTES PLUIES ET DES COUPURES DE COURANT",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:42",
-      "date": "16/08",
-      "timestamp": 1786862563
-    },
-    {
-      "id": "BFMTV_1786859910",
-      "source": "BFMTV",
-      "text": "PAS MOINS DE 600 DRONES EN UNE NUIT: MOSCOU VISÉE PAR UNE ATTAQUE AÉRIENNE, AU MOINS TROIS BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:58",
-      "date": "16/08",
-      "timestamp": 1786859910
-    },
-    {
-      "id": "BFMTV_1786859910",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:58",
-      "date": "16/08",
-      "timestamp": 1786859910
     }
   ],
   "france": {
