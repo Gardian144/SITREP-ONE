@@ -1,7 +1,47 @@
 {
-  "last_update": "18/08 15:59",
+  "last_update": "18/08 16:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787070702",
+      "source": "BFMTV",
+      "text": "SEULEMENT 3% DES TERRES AGRICOLES DE LA BANDE DE GAZA SONT ENCORE INTACTES ET ACCESSIBLES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:31",
+      "date": "18/08",
+      "timestamp": 1787070702
+    },
+    {
+      "id": "OPEX360_1787070455",
+      "source": "OPEX360",
+      "text": "UNE AGENCE DE L’OTAN A LANCÉ UNE NOUVELLE PHASE D’UN PROJET D’HÉLICOPTÈRE DE NOUVELLE GÉNÉRATION, AUQUEL LA FRANCE PARTICIPE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:27",
+      "date": "18/08",
+      "timestamp": 1787070455
+    },
+    {
+      "id": "BFMTV_1787070141",
+      "source": "BFMTV",
+      "text": "\"UN ÉCHANGE MINIMAL\": LE PREMIER MINISTRE ANDY BURNHAM RECONNAÎT AVOIR ÉTÉ PIÉGÉ PAR UNE FAUSSE COLLABORATRICE DE TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:22",
+      "date": "18/08",
+      "timestamp": 1787070141
+    },
+    {
+      "id": "BFMTV_1787069983",
+      "source": "BFMTV",
+      "text": "GAZA: CINQ PERSONNES, DONT UN ENFANT, TUÉES DANS UNE FRAPPE ISRAÉLIENNE SUR UN PORT",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:19",
+      "date": "18/08",
+      "timestamp": 1787069983
+    },
     {
       "id": "BFMTV_1787068323",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "05:58",
       "date": "16/08",
       "timestamp": 1786859910
-    },
-    {
-      "id": "BFMTV_1786858989",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: MOSCOU VISÉE PAR 600 DRONES PENDANT LA NUIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:43",
-      "date": "16/08",
-      "timestamp": 1786858989
-    },
-    {
-      "id": "BFMTV_1786856113",
-      "source": "BFMTV",
-      "text": "BELGIQUE: DEUX OUVRIERS DÉCOUVRENT UN TRÉSOR À NEUF MILLIONS D'EUROS SUR UN CHANTIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:55",
-      "date": "16/08",
-      "timestamp": 1786856113
-    },
-    {
-      "id": "BFMTV_1786855996",
-      "source": "BFMTV",
-      "text": "LES SÉRIES ISRAÉLIENNES DE PLUS EN PLUS BOYCOTTÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:53",
-      "date": "16/08",
-      "timestamp": 1786855996
-    },
-    {
-      "id": "BFMTV_1786855870",
-      "source": "BFMTV",
-      "text": "FRAPPES AU LIBAN: ISRAËL AFFIRME AVOIR CIBLÉ UNE INFRASTRUCTURE DU HEZBOLLAH EN RÉPONSE À UNE \"ATTAQUE\" CONTRE SES SOLDATS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:51",
-      "date": "16/08",
-      "timestamp": 1786855870
     }
   ],
   "france": {
