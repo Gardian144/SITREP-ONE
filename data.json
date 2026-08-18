@@ -1,7 +1,47 @@
 {
-  "last_update": "18/08 04:08",
+  "last_update": "18/08 04:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787028301",
+      "source": "BFMTV",
+      "text": "\"DES CONSÉQUENCES DESQUELLES IL DEVRA RÉPONDRE\": L'AVERTISSEMENT DE LA RUSSIE AU ROYAUME-UNI APRÈS DES INFORMATIONS SUR L'USAGE DE DRONES BRITANNIQUES PAR L'UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:45",
+      "date": "18/08",
+      "timestamp": 1787028301
+    },
+    {
+      "id": "BFMTV_1787027504",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME \"BIEN S'ENTENDRE\" AVEC KIM JONG-UN ET VEUT RÉDUIRE LES EXERCICES MILITAIRES CONJOINTS AVEC LA CORÉE DU SUD",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:31",
+      "date": "18/08",
+      "timestamp": 1787027504
+    },
+    {
+      "id": "BFMTV_1787026800",
+      "source": "BFMTV",
+      "text": "11 FRANÇAIS DÉTENUS EN THAÏLANDE POUR TRAFIC DE DROGUE APRÈS AVOIR ÉTÉ RECRUTÉS SUR LES RÉSEAUX SOCIAUX",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:20",
+      "date": "18/08",
+      "timestamp": 1787026800
+    },
+    {
+      "id": "BFMTV_1787026380",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE MAIRE DE MOSCOU AFFIRME QU'AU MOINS 620 DRONES ONT ÉTÉ LANCÉS VERS LA CAPITALE RUSSE DANS LA NUIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:13",
+      "date": "18/08",
+      "timestamp": 1787026380
+    },
     {
       "id": "BFMTV_1787005745",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "14:10",
       "date": "15/08",
       "timestamp": 1786803049
-    },
-    {
-      "id": "BFMTV_1786802777",
-      "source": "BFMTV",
-      "text": "UN NOUVEAU SÉISME DE MAGNITUDE 6,9 TOUCHE L'INDONÉSIE, LE DEUXIÈME EN UNE JOURNÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:06",
-      "date": "15/08",
-      "timestamp": 1786802777
-    },
-    {
-      "id": "OPEX360_1786792761",
-      "source": "OPEX360",
-      "text": "POUR FORMER SES PILOTES D’HÉLICOPTÈRE, L’US ARMY VA REMPLACER SES AIRBUS UH-72 LAKOTA PAR DES ROBINSON R66",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:19",
-      "date": "15/08",
-      "timestamp": 1786792761
-    },
-    {
-      "id": "OPEX360_1786792761",
-      "source": "OPEX360",
-      "text": "POUR FORMER SES PILOTES D’HÉLICOPTÈRES, L’US ARMY VA REMPLACER SES AIRBUS UH-72 LAKOTA PAR DES ROBINSON R66",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:19",
-      "date": "15/08",
-      "timestamp": 1786792761
-    },
-    {
-      "id": "BFMTV_1786790791",
-      "source": "BFMTV",
-      "text": "INDONÉSIE: UN SÉISME DE MAGNITUDE 7,7 FAIT AU MOINS 38 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:46",
-      "date": "15/08",
-      "timestamp": 1786790791
     }
   ],
   "france": {
