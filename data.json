@@ -1,7 +1,17 @@
 {
-  "last_update": "18/08 14:52",
+  "last_update": "18/08 15:29",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787066318",
+      "source": "BFMTV",
+      "text": "LES ÉMIRATS ARABES UNIS APPELLENT LA POPULATION À SE CONFINER FACE À DES \"MENACES DE MISSILES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:18",
+      "date": "18/08",
+      "timestamp": 1787066318
+    },
     {
       "id": "OPEX360_1787064393",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "04:15",
       "date": "16/08",
       "timestamp": 1786853715
-    },
-    {
-      "id": "BFMTV_1786853575",
-      "source": "BFMTV",
-      "text": "BELGIQUE: PLUS DE 2.700 HECTARES DÉJÀ RAVAGÉS PAR LES FLAMMES",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:12",
-      "date": "16/08",
-      "timestamp": 1786853575
     }
   ],
   "france": {
