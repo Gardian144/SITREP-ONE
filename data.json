@@ -1,7 +1,27 @@
 {
-  "last_update": "18/08 21:22",
+  "last_update": "18/08 21:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787089045",
+      "source": "BFMTV",
+      "text": "COUPURES D’ÉLECTRICITÉ, ÉCONOMIE SOUS TENSION: L’ONU S’INQUIÈTE DES DÉFAILLANCES DE GOUVERNANCE EN LIBYE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:37",
+      "date": "18/08",
+      "timestamp": 1787089045
+    },
+    {
+      "id": "BFMTV_1787088575",
+      "source": "BFMTV",
+      "text": "LA FRANCE VA EXPULSER DEUX DIPLOMATES IRANIENS \"DANS LES TOUT PROCHAINS JOURS\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "21:29",
+      "date": "18/08",
+      "timestamp": 1787088575
+    },
     {
       "id": "BFMTV_1787086242",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:56",
       "date": "16/08",
       "timestamp": 1786877793
-    },
-    {
-      "id": "OPEX360_1786877693",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES CHERCHE DES SOLUTIONS INNOVANTES POUR LES CAPACITÉS DE CONTRE-MINAGE DE L’ARMÉE DE TERRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:54",
-      "date": "16/08",
-      "timestamp": 1786877693
-    },
-    {
-      "id": "BFMTV_1786877309",
-      "source": "BFMTV",
-      "text": "\"L'UN DES CHEVAUX EST TOMBÉ\": UN ACCIDENT DE CALÈCHE FAIT UN MORT ET DOUZE BLESSÉS EN SUISSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:48",
-      "date": "16/08",
-      "timestamp": 1786877309
     }
   ],
   "france": {
