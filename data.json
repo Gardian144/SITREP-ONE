@@ -1,7 +1,27 @@
 {
-  "last_update": "18/08 20:49",
+  "last_update": "18/08 21:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787086242",
+      "source": "BFMTV",
+      "text": "DEUX RESSORTISSANTS FRANÇAIS, DES \"RÉALISATEURS\" TRAVAILLANT \"POUR UNE SOCIÉTÉ DE PRODUCTION\", DÉTENUS AU TOGO",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:50",
+      "date": "18/08",
+      "timestamp": 1787086242
+    },
+    {
+      "id": "BFMTV_1787086132",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE FRAPPE RUSSE A FAIT 10 MORTS DANS LA RÉGION DE KHARKIV",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:48",
+      "date": "18/08",
+      "timestamp": 1787086132
+    },
     {
       "id": "BFMTV_1787085409",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:48",
       "date": "16/08",
       "timestamp": 1786877309
-    },
-    {
-      "id": "BFMTV_1786877090",
-      "source": "BFMTV",
-      "text": "INGÉRENCES ÉTRANGÈRES: LA RUSSIE CHERCHE EN \"PERMANENCE\" À INFLUENCER LA PRÉSIDENTIELLE, SELON THIERRY BRETON",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:44",
-      "date": "16/08",
-      "timestamp": 1786877090
-    },
-    {
-      "id": "BFMTV_1786877027",
-      "source": "BFMTV",
-      "text": "\"IL Y AVAIT UN PETIT LINGOT D'OR ACCROCHÉ À NOTRE OUTIL\": DEUX OUVRIERS DÉCOUVRENT UN TRÉSOR DE 9 MILLIONS D'EUROS SUR UN CHANTIER EN BELGIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:43",
-      "date": "16/08",
-      "timestamp": 1786877027
     }
   ],
   "france": {
