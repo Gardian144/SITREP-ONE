@@ -1,7 +1,17 @@
 {
-  "last_update": "18/08 07:24",
+  "last_update": "18/08 08:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787039569",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS 10 MORTS DANS UNE FRAPPE DE ROQUETTE RUSSE AU NORD-EST DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:52",
+      "date": "18/08",
+      "timestamp": 1787039569
+    },
     {
       "id": "BFMTV_1787033259",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:06",
       "date": "15/08",
       "timestamp": 1786810004
-    },
-    {
-      "id": "BFMTV_1786806021",
-      "source": "BFMTV",
-      "text": "1.650 HECTARES BRÛLÉS DANS UN INCENDIE EN BELGIQUE, DES ÉVACUATIONS MENÉES DANS PLUSIEURS VILLAGES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:00",
-      "date": "15/08",
-      "timestamp": 1786806021
     }
   ],
   "france": {
