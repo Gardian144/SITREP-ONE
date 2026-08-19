@@ -1,7 +1,37 @@
 {
-  "last_update": "19/08 17:50",
+  "last_update": "19/08 18:32",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787163786",
+      "source": "BFMTV",
+      "text": "HARVARD ACCEPTE DE VERSER 53 MILLIONS DE DOLLARS POUR SOLDER LES POURSUITES LIÉES AU SCANDALE DE LA MORGUE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:23",
+      "date": "19/08",
+      "timestamp": 1787163786
+    },
+    {
+      "id": "BFMTV_1787162506",
+      "source": "BFMTV",
+      "text": "\"ÉLIMINEZ-EN 30 OU 40\": L'ONU CONDAMNE LES PROPOS \"DANGEREUX\" DU MINISTRE ISRAÉLIEN D'EXTRÊME DROITE BEN GVIR SUR GAZA",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:01",
+      "date": "19/08",
+      "timestamp": 1787162506
+    },
+    {
+      "id": "BFMTV_1787162017",
+      "source": "BFMTV",
+      "text": "GAZA: LA FRANCE JUGE \"INSUPPORTABLES ET INHUMAINS\" LES PROPOS DU MINISTRE ISRAÉLIEN BEN GVIR",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:53",
+      "date": "19/08",
+      "timestamp": 1787162017
+    },
     {
       "id": "OPEX360_1787161159",
       "source": "OPEX360",
@@ -971,36 +1001,6 @@
       "time": "12:28",
       "date": "17/08",
       "timestamp": 1786969725
-    },
-    {
-      "id": "OPEX360_1786969725",
-      "source": "OPEX360",
-      "text": "UN AVION D’ENTRAÎNEMENT SR-20 DE L’ARMÉE DE L’AIR & DE L’ESPACE S’EST POSÉ EN URGENCE SUR UNE ROUTE DÉPARTEMENTALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:28",
-      "date": "17/08",
-      "timestamp": 1786969725
-    },
-    {
-      "id": "BFMTV_1786968794",
-      "source": "BFMTV",
-      "text": "LA RDC FRAPPÉE PAR L'ÉPIDÉMIE D'EBOLA LA PLUS MEURTRIÈRE DE SON HISTOIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:13",
-      "date": "17/08",
-      "timestamp": 1786968794
-    },
-    {
-      "id": "BFMTV_1786968135",
-      "source": "BFMTV",
-      "text": "\"S'ILS FONT ÇA, NOUS ALLONS LES BOMBARDER\": DONALD TRUMP MENACE DE S'ATTAQUER À OMAN S'ILS SE MÊLENT DES NÉGOCIATIONS SUR LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:02",
-      "date": "17/08",
-      "timestamp": 1786968135
     }
   ],
   "france": {
