@@ -1,5 +1,5 @@
 {
-  "last_update": "19/08 07:36",
+  "last_update": "19/08 08:15",
   "impacts": [],
   "news": [
     {
@@ -156,6 +156,16 @@
       "id": "OPEX360_1787074539",
       "source": "OPEX360",
       "text": "L’AUSTRALIE ET LE JAPON DÉVELOPPENT CONJOINTEMENT UNE ARME LASER DE HAUTE ÉNERGIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:35",
+      "date": "18/08",
+      "timestamp": 1787074539
+    },
+    {
+      "id": "OPEX360_1787074539",
+      "source": "OPEX360",
+      "text": "L’AUSTRALIE ET LE JAPON DÉVELOPPENT CONJOINTEMENT UN SYSTÈME LASER DE HAUTE ÉNERGIE",
       "urgent": false,
       "france_related": false,
       "time": "17:35",
@@ -991,16 +1001,6 @@
       "time": "15:42",
       "date": "16/08",
       "timestamp": 1786894942
-    },
-    {
-      "id": "BFMTV_1786892497",
-      "source": "BFMTV",
-      "text": "INCENDIES EN GRÈCE: DEUX MORTS DANS DES FEUX SUR UNE ÎLE PRÈS D'ATHÈNES, DES CENTAINES DE PERSONNES ÉVACUÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:01",
-      "date": "16/08",
-      "timestamp": 1786892497
     }
   ],
   "france": {
