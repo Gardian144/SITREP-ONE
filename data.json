@@ -1,7 +1,17 @@
 {
-  "last_update": "19/08 17:24",
+  "last_update": "19/08 17:50",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787161159",
+      "source": "OPEX360",
+      "text": "LA FORCE AÉRIENNE BULGARE NE DEVRAIT FINALEMENT PAS RECEVOIR SES HUIT DERNIERS F-16 VIPER AVANT 2030",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:39",
+      "date": "19/08",
+      "timestamp": 1787161159
+    },
     {
       "id": "BFMTV_1787159226",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "12:02",
       "date": "17/08",
       "timestamp": 1786968135
-    },
-    {
-      "id": "BFMTV_1786965349",
-      "source": "BFMTV",
-      "text": "BELGIQUE, ESPAGNE, GRÈCE... LES IMAGES DES INCENDIES QUI RAVAGENT L'EUROPE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:15",
-      "date": "17/08",
-      "timestamp": 1786965349
     }
   ],
   "france": {
