@@ -1,11 +1,71 @@
 {
-  "last_update": "19/08 14:17",
+  "last_update": "19/08 15:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787151429",
+      "source": "BFMTV",
+      "text": "23 ANS APRÈS L'ATTENTAT CONTRE L'ONU À BADGAD, UNE SURVIVANTE TÉMOIGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:57",
+      "date": "19/08",
+      "timestamp": 1787151429
+    },
+    {
+      "id": "BFMTV_1787150976",
+      "source": "BFMTV",
+      "text": "23 ANS APRÈS L'ATTENTAT CONTRE L'ONU À BADGAD: \"LES TRAVAILLEURS HUMANITAIRES DOIVENT ÊTRE PROTÉGES\", PLAIDE UN ANCIEN PRÉSIDENT DE L'IRAK",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:49",
+      "date": "19/08",
+      "timestamp": 1787150976
+    },
+    {
+      "id": "BFMTV_1787150589",
+      "source": "BFMTV",
+      "text": "23 ANS APRÈS L'ATTENTAT CONTRE L'ONU À BADGAD: \"LES TRAVAILLEURS HUMANITAIRES DOIVENT ÊTRE PROTÉGES\", PLAIDE UN ANCIEN PRÉSIDENT DE L'IRAK",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:43",
+      "date": "19/08",
+      "timestamp": 1787150589
+    },
+    {
+      "id": "BFMTV_1787149936",
+      "source": "BFMTV",
+      "text": "\"L'ACCÈS HUMANITAIRE DOIT ÊTRE SÛR\": L'ONU DÉPLORE LES DANGERS AUXQUELS SONT CONFRONTÉS LES TRAVAILLEURS HUMANITAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:32",
+      "date": "19/08",
+      "timestamp": 1787149936
+    },
+    {
+      "id": "BFMTV_1787149572",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LA POLICE RETROUVE UNE BABYSITTER AVEC LES ENFANTS QU’ELLE EST ACCUSÉE D’AVOIR KIDNAPPÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:26",
+      "date": "19/08",
+      "timestamp": 1787149572
+    },
     {
       "id": "BFMTV_1787147441",
       "source": "BFMTV",
       "text": "QUI EST NATHALIE HARP, ASSISTANTE DE DONALD TRUMP?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:50",
+      "date": "19/08",
+      "timestamp": 1787147441
+    },
+    {
+      "id": "BFMTV_1787147441",
+      "source": "BFMTV",
+      "text": "QUI EST NATALIE HARP, ASSISTANTE DE DONALD TRUMP?",
       "urgent": false,
       "france_related": false,
       "time": "13:50",
@@ -941,66 +1001,6 @@
       "time": "05:55",
       "date": "17/08",
       "timestamp": 1786946145
-    },
-    {
-      "id": "BFMTV_1786941804",
-      "source": "BFMTV",
-      "text": "BELGIQUE, ESPAGNE, GRÈCE, PAYS DE GALLES... L'EUROPE EN PROIE AUX FLAMMES",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:43",
-      "date": "17/08",
-      "timestamp": 1786941804
-    },
-    {
-      "id": "BFMTV_1786916138",
-      "source": "BFMTV",
-      "text": "INCENDIE EN BELGIQUE: LE FEU CONTINUE DE PROGRESSER, UNE VILLE ALLEMANDE FRONTALIÈRE PARTIELLEMENT ÉVACUÉE",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:35",
-      "date": "16/08",
-      "timestamp": 1786916138
-    },
-    {
-      "id": "BFMTV_1786913415",
-      "source": "BFMTV",
-      "text": "ESPAGNE: MORT D'UN SOLDAT DANS UN FEU DE FORÊT DANS LE NORD-EST DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:50",
-      "date": "16/08",
-      "timestamp": 1786913415
-    },
-    {
-      "id": "BFMTV_1786913063",
-      "source": "BFMTV",
-      "text": "LES INCENDIES RAVAGENT L'EUROPE, TOUCHANT LA BELGIQUE, LA GRÈCE, L'ESPAGNE ET LA GRANDE-BRETAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:44",
-      "date": "16/08",
-      "timestamp": 1786913063
-    },
-    {
-      "id": "BFMTV_1786912614",
-      "source": "BFMTV",
-      "text": "LE BM-35: LE NOUVEAU DRONE KAMIKAZE DE LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:36",
-      "date": "16/08",
-      "timestamp": 1786912614
-    },
-    {
-      "id": "BFMTV_1786911001",
-      "source": "BFMTV",
-      "text": "L'UKRAINE INTENSIFIE SES FRAPPES MILITAIRES CONTRE LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:10",
-      "date": "16/08",
-      "timestamp": 1786911001
     }
   ],
   "france": {
