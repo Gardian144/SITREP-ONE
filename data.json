@@ -1,7 +1,17 @@
 {
-  "last_update": "19/08 21:02",
+  "last_update": "19/08 21:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787175059",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: PLUSIEURS \"EXPLOSIONS\" EN COURS À KIEV, ANNONCE LE MAIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:30",
+      "date": "19/08",
+      "timestamp": 1787175059
+    },
     {
       "id": "BFMTV_1787172517",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:59",
       "date": "17/08",
       "timestamp": 1786996745
-    },
-    {
-      "id": "BFMTV_1786996744",
-      "source": "BFMTV",
-      "text": "\"TAISEZ-VOUS !\": L'ÉCHANGE TENDU ENTRE DONALD TRUMP ET UNE JOURNALISTE DE CNN ",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:59",
-      "date": "17/08",
-      "timestamp": 1786996744
     }
   ],
   "france": {
