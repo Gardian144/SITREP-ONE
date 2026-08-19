@@ -1,7 +1,67 @@
 {
-  "last_update": "19/08 15:01",
+  "last_update": "19/08 15:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787153359",
+      "source": "BFMTV",
+      "text": "KIM JONG-UN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:29",
+      "date": "19/08",
+      "timestamp": 1787153359
+    },
+    {
+      "id": "BFMTV_1787153359",
+      "source": "BFMTV",
+      "text": "LA CORÉE DU NORD ESTIME QUE LA DÉCISION DE DONALD TRUMP D'ÉCOURTER LES EXERCICES MILITAIRES LANCÉS AVEC SÉOUL \"NE MÉRITE PAS DE COMMENTAIRE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:29",
+      "date": "19/08",
+      "timestamp": 1787153359
+    },
+    {
+      "id": "BFMTV_1787153148",
+      "source": "BFMTV",
+      "text": "EN BELGIQUE, TOUS LES HABITANTS ÉVACUÉS AUTORISÉS À RENTRER CHEZ EUX MALGRÉ UN INCENDIE \"PAS ENCORE FIXÉ OU MAÎTRISÉ TOTALEMENT\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:25",
+      "date": "19/08",
+      "timestamp": 1787153148
+    },
+    {
+      "id": "BFMTV_1787151949",
+      "source": "BFMTV",
+      "text": "BRÉSIL: AU MOINS 23 MORTS DANS UNE COLLISION FRONTALE ENTRE UN BUS ET UN CAMION",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:05",
+      "date": "19/08",
+      "timestamp": 1787151949
+    },
+    {
+      "id": "OPEX360_1787151768",
+      "source": "OPEX360",
+      "text": "LES FRÉGATES MULTIMISSIONS EVO DESTINÉES AU PORTUGAL COÛTERONT 25 % PLUS CHER QUE CELLES COMMANDÉES PAR L’ITALIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:02",
+      "date": "19/08",
+      "timestamp": 1787151768
+    },
+    {
+      "id": "BFMTV_1787151515",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS : UN SÉNATEUR DÉMOCRATE SOUS-ENTEND UNE POSSIBLE LIAISON ENTRE DONALD TRUMP ET SON ASSISTANTE NATALIE HARP",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:58",
+      "date": "19/08",
+      "timestamp": 1787151515
+    },
     {
       "id": "BFMTV_1787151429",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "10:34",
       "date": "17/08",
       "timestamp": 1786962860
-    },
-    {
-      "id": "BFMTV_1786955565",
-      "source": "BFMTV",
-      "text": "AU PROCÈS DE L'EX-MEMBRE DE GANG ACCUSÉ D'AVOIR ORCHESTRÉ L'ASSASSINAT DE TUPAC, LES DÉBATS VONT COMMENCER",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:32",
-      "date": "17/08",
-      "timestamp": 1786955565
-    },
-    {
-      "id": "BFMTV_1786955469",
-      "source": "BFMTV",
-      "text": "L'IRAN OFFRE 30.000 DOLLARS POUR TUER OU CAPTURER UN SOLDAT AMÉRICAIN ET DOUBLE LA PRIME SI L'ACTION EST RÉALISÉE PAR UNE FEMME",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:31",
-      "date": "17/08",
-      "timestamp": 1786955469
-    },
-    {
-      "id": "BFMTV_1786951804",
-      "source": "BFMTV",
-      "text": "\"CELA MONTRE QUE LE MOYEN-ORIENT SE RASSEMBLE\": DONALD TRUMP SE RÉJOUIT DU PACTE DE DÉFENSE SIGNÉ ENTRE L'ARABIE SAOUDITE, LA TURQUIE ET LE PAKISTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:30",
-      "date": "17/08",
-      "timestamp": 1786951804
-    },
-    {
-      "id": "BFMTV_1786947282",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE \"RÉDUIRE CONSIDÉRABLEMENT\" DES EXERCICES MILITAIRES AVEC LA CORÉE DU SUD",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:14",
-      "date": "17/08",
-      "timestamp": 1786947282
-    },
-    {
-      "id": "BFMTV_1786946184",
-      "source": "BFMTV",
-      "text": "RUSSIE: SIX MORTS DANS UNE FRAPPE DE MISSILES UKRAINIENS DANS LA RÉGION DE BELGOROD",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:56",
-      "date": "17/08",
-      "timestamp": 1786946184
-    },
-    {
-      "id": "BFMTV_1786946145",
-      "source": "BFMTV",
-      "text": "UNE FRAPPE DE MISSILES UKRAINIENS FAIT SIX MORTS EN RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:55",
-      "date": "17/08",
-      "timestamp": 1786946145
     }
   ],
   "france": {
