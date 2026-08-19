@@ -1,7 +1,17 @@
 {
-  "last_update": "19/08 19:39",
+  "last_update": "19/08 19:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787169143",
+      "source": "BFMTV",
+      "text": "\"C'EST CATASTROPHIQUE\": AU MOINS 100 MORTS DANS L'EFFONDREMENT D'UNE MINE D'OR ARTISANALE DANS L'OUEST DE LA CENTRAFRIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:52",
+      "date": "19/08",
+      "timestamp": 1787169143
+    },
     {
       "id": "BFMTV_1787167322",
       "source": "BFMTV",
@@ -47,6 +57,16 @@
       "source": "BFMTV",
       "text": "DEUX ANS APRÈS LA MORT DE HIND RAJAB À GAZA, L'ARMÉE ISRAÉLIENNE RECONNAÎT DES TIRS SUR LA VOITURE OÙ SE TROUVAIT L'ENFANT DE CINQ ANS",
       "urgent": false,
+      "france_related": false,
+      "time": "18:59",
+      "date": "19/08",
+      "timestamp": 1787165994
+    },
+    {
+      "id": "BFMTV_1787165994",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
       "france_related": false,
       "time": "18:59",
       "date": "19/08",
@@ -981,26 +1001,6 @@
       "time": "18:51",
       "date": "17/08",
       "timestamp": 1786992662
-    },
-    {
-      "id": "OPEX360_1786985238",
-      "source": "OPEX360",
-      "text": "MER DE CHINE : SES GÉNÉRATEURS EN PANNE, UN DESTROYER AMÉRICAIN A ÉTÉ PRIVÉ DE PROPULSION PENDANT QUATRE JOURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:47",
-      "date": "17/08",
-      "timestamp": 1786985238
-    },
-    {
-      "id": "BFMTV_1786984931",
-      "source": "BFMTV",
-      "text": "LA COUR SUPRÊME AMÉRICAINE REJETTE UN ULTIME RECOURS DE DONALD TRUMP CONTRE UNE INDEMNISATION POUR AGRESSION SEXUELLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:42",
-      "date": "17/08",
-      "timestamp": 1786984931
     }
   ],
   "france": {
