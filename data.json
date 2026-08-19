@@ -1,7 +1,47 @@
 {
-  "last_update": "19/08 09:48",
+  "last_update": "19/08 10:26",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787134942",
+      "source": "OPEX360",
+      "text": "POUR MODERNISER SON ARTILLERIE, L’US ARMY PRÉFÈRE LE K9 THUNDER SUD-CORÉEN AU CAESAR FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:22",
+      "date": "19/08",
+      "timestamp": 1787134942
+    },
+    {
+      "id": "BFMTV_1787134940",
+      "source": "BFMTV",
+      "text": "\"ILS SAVAIENT QUE LEUR PRODUIT ÉTAIT DANGEREUX\": LA CHARGE DU PROCUREUR DE CALIFORNIE CONTRE LE GROUPE META",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:22",
+      "date": "19/08",
+      "timestamp": 1787134940
+    },
+    {
+      "id": "BFMTV_1787133623",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN HOMME TERRORISANT LES HABITANTS AVEC UN MASQUE DE CHUCKY EST RECHERCHÉ PAR LA POLICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:00",
+      "date": "19/08",
+      "timestamp": 1787133623
+    },
+    {
+      "id": "BFMTV_1787133552",
+      "source": "BFMTV",
+      "text": "REFOULÉ EN EUROPE, KANYE WEST VA SE PRODUIRE EN CONCERT EN RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:59",
+      "date": "19/08",
+      "timestamp": 1787133552
+    },
     {
       "id": "BFMTV_1787132071",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "17:45",
       "date": "16/08",
       "timestamp": 1786902343
-    },
-    {
-      "id": "BFMTV_1786900484",
-      "source": "BFMTV",
-      "text": "HUIT PAYS MUSULMANS CONDAMNENT LE \"REFUS ISRAÉLIEN\" DE POURSUIVRE LE PLAN DE PAIX AMÉRICAIN POUR GAZA",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:14",
-      "date": "16/08",
-      "timestamp": 1786900484
-    },
-    {
-      "id": "BFMTV_1786898900",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:48",
-      "date": "16/08",
-      "timestamp": 1786898900
-    },
-    {
-      "id": "BFMTV_1786898899",
-      "source": "BFMTV",
-      "text": "L'IRAN OFFRE 30.000 DOLLARS POUR TUER OU CAPTURER DES SOLDATS AMÉRICAINS, UNE RÉCOMPENSE DOUBLÉE SI L'ACTION EST MENÉE PAR UNE FEMME",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:48",
-      "date": "16/08",
-      "timestamp": 1786898899
-    },
-    {
-      "id": "BFMTV_1786898846",
-      "source": "BFMTV",
-      "text": "GRÈCE, BELGIQUE, ESPAGNE, FRANCE: L'EUROPE FAIT FACE À DES FEUX VIOLENTS",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:47",
-      "date": "16/08",
-      "timestamp": 1786898846
     }
   ],
   "france": {
