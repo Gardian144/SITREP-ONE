@@ -1,7 +1,17 @@
 {
-  "last_update": "19/08 04:10",
+  "last_update": "19/08 04:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787113555",
+      "source": "BFMTV",
+      "text": "AU MOINS NEUF MORTS DANS L'INCENDIE D'UN HÔTEL À CALCUTTA, EN INDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:25",
+      "date": "19/08",
+      "timestamp": 1787113555
+    },
     {
       "id": "BFMTV_1787089045",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "11:02",
       "date": "16/08",
       "timestamp": 1786878136
-    },
-    {
-      "id": "OPEX360_1786877793",
-      "source": "OPEX360",
-      "text": "L’ABANDON DES CATAPULTES ÉLECTROMAGNÉTIQUES PAR L’US NAVY NE REMET PAS EN CAUSE LES PLANS DU FUTUR PORTE-AVIONS FRANÇAIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:56",
-      "date": "16/08",
-      "timestamp": 1786877793
     }
   ],
   "france": {
