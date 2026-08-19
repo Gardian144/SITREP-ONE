@@ -1,7 +1,17 @@
 {
-  "last_update": "19/08 13:31",
+  "last_update": "19/08 14:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787147441",
+      "source": "BFMTV",
+      "text": "QUI EST NATHALIE HARP, ASSISTANTE DE DONALD TRUMP?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:50",
+      "date": "19/08",
+      "timestamp": 1787147441
+    },
     {
       "id": "BFMTV_1787145096",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "20:10",
       "date": "16/08",
       "timestamp": 1786911001
-    },
-    {
-      "id": "BFMTV_1786906778",
-      "source": "BFMTV",
-      "text": "EN MER DEPUIS PLUS DE 200 JOURS, LES SOLDATS À BORD DU PORTE-AVIONS USS LINCOLN N'EN PEUVENT PLUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:59",
-      "date": "16/08",
-      "timestamp": 1786906778
     }
   ],
   "france": {
