@@ -1,7 +1,27 @@
 {
-  "last_update": "19/08 05:28",
+  "last_update": "19/08 05:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787117433",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:30",
+      "date": "19/08",
+      "timestamp": 1787117433
+    },
+    {
+      "id": "BFMTV_1787117432",
+      "source": "BFMTV",
+      "text": "RÉCEMMENT LIMOGÉ PAR VOLODYMYR ZELENSKY, L'EX-MINISTRE UKRAINIEN DE LA DÉFENSE DEMANDE D'OUVRIR LA VOIE À DES ÉLECTIONS MALGRÉ L'INVASION RUSSE",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:30",
+      "date": "19/08",
+      "timestamp": 1787117432
+    },
     {
       "id": "BFMTV_1787116200",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "14:43",
       "date": "16/08",
       "timestamp": 1786891422
-    },
-    {
-      "id": "BFMTV_1786888406",
-      "source": "BFMTV",
-      "text": "3.000 HECTARES RAVAGÉS, LA BELGIQUE CONNAÎT L'UN DES PIRES INCENDIES DE SON HISTOIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:53",
-      "date": "16/08",
-      "timestamp": 1786888406
-    },
-    {
-      "id": "BFMTV_1786883221",
-      "source": "BFMTV",
-      "text": "AU MOINS DOUZE MORTS DANS DES FRAPPES EN RUSSIE ET EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:27",
-      "date": "16/08",
-      "timestamp": 1786883221
     }
   ],
   "france": {
