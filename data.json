@@ -1,7 +1,27 @@
 {
-  "last_update": "19/08 16:12",
+  "last_update": "19/08 16:47",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787157901",
+      "source": "OPEX360",
+      "text": "THALES ET SYSTEMATIC S’ALLIENT POUR PROPOSER UNE SOLUTION DE COMMANDEMENT ET DE CONTRÔLE À LA DÉFENSE AÉRIENNE DANOISE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:45",
+      "date": "19/08",
+      "timestamp": 1787157901
+    },
+    {
+      "id": "BFMTV_1787156019",
+      "source": "BFMTV",
+      "text": "FRANÇAIS DÉTENUS AU TOGO: LEUR SOCIÉTÉ DE PRODUCTION ASSURE QU'ILS SONT \"EN RÈGLE\" ET QUE L'UN DES RÉALISATEUR EST \"MALADE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:13",
+      "date": "19/08",
+      "timestamp": 1787156019
+    },
     {
       "id": "BFMTV_1787153359",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:44",
       "date": "17/08",
       "timestamp": 1786963444
-    },
-    {
-      "id": "OPEX360_1786963299",
-      "source": "OPEX360",
-      "text": "CHYPRE ENVISAGE DE SE PROCURER DES ENGINS BLINDÉS DE RECONNAISSANCE ET DE COMBAT JAGUAR AUPRÈS DE LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:41",
-      "date": "17/08",
-      "timestamp": 1786963299
-    },
-    {
-      "id": "BFMTV_1786962860",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN ENFANT UKRAINIEN KIDNAPPÉ DEVENU SOLDAT RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:34",
-      "date": "17/08",
-      "timestamp": 1786962860
     }
   ],
   "france": {
