@@ -1,7 +1,17 @@
 {
-  "last_update": "19/08 12:42",
+  "last_update": "19/08 13:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787145096",
+      "source": "BFMTV",
+      "text": "LA COUR D'APPEL DE PARIS ORDONNE LA REMISE À L'ALLEMAGNE DU MILITANT ANTIFASCISTE ALBANAIS \"GINO\" ABAZAJ",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:11",
+      "date": "19/08",
+      "timestamp": 1787145096
+    },
     {
       "id": "BFMTV_1787138751",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "18:59",
       "date": "16/08",
       "timestamp": 1786906778
-    },
-    {
-      "id": "BFMTV_1786906020",
-      "source": "BFMTV",
-      "text": "\"UNE HISTOIRE D'AMOUR\": UNE FEMME MEURT POUR SAUVER SON CHIEN DU TREMBLEMENT DE TERRE EN COLOMBIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:47",
-      "date": "16/08",
-      "timestamp": 1786906020
     }
   ],
   "france": {
