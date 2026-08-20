@@ -1,7 +1,37 @@
 {
-  "last_update": "20/08 14:21",
+  "last_update": "20/08 15:04",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787237424",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE PRÉVOIT D’AFFECTER UN AVION DE TRANSPORT A400M DANS LA ZONE DU PACIFIQUE EN 2030",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:50",
+      "date": "20/08",
+      "timestamp": 1787237424
+    },
+    {
+      "id": "BFMTV_1787236717",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: QUI EST NATALIE HARP, L'ASSISTANTE OMNIPRÉSENTE DE DONALD TRUMP?",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:38",
+      "date": "20/08",
+      "timestamp": 1787236717
+    },
+    {
+      "id": "BFMTV_1787235970",
+      "source": "BFMTV",
+      "text": "HARRY ET MEGHAN DEVRAIENT REVENIR AU ROYAUME-UNI DÈS LA FIN DU MOIS, SELON LES MÉDIAS BRITANNIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:26",
+      "date": "20/08",
+      "timestamp": 1787235970
+    },
     {
       "id": "BFMTV_1787233472",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "15:18",
       "date": "18/08",
       "timestamp": 1787066318
-    },
-    {
-      "id": "OPEX360_1787064393",
-      "source": "OPEX360",
-      "text": "LA NOUVELLE FORCE AÉRIENNE SYRIENNE A REMIS EN ÉTAT AU MOINS DEUX AVIONS D’ATTAQUE SU-22 «FITTER»",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:46",
-      "date": "18/08",
-      "timestamp": 1787064393
-    },
-    {
-      "id": "BFMTV_1787063386",
-      "source": "BFMTV",
-      "text": "SYRIE: DÉCOUVERTE DE \"QUELQUES TONNES DE MATIÈRES NUCLÉAIRES SUSCEPTIBLES D'ÊTRE UTILISÉES À MAUVAIS ESCIENT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:29",
-      "date": "18/08",
-      "timestamp": 1787063386
-    },
-    {
-      "id": "BFMTV_1787063270",
-      "source": "BFMTV",
-      "text": "ESPAGNE: À GRENADE, UN NOUVEAU SÉISME FAIT TROIS BLESSÉS LÉGERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:27",
-      "date": "18/08",
-      "timestamp": 1787063270
     }
   ],
   "france": {
