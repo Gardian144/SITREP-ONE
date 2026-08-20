@@ -1,7 +1,37 @@
 {
-  "last_update": "20/08 18:14",
+  "last_update": "20/08 19:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787251793",
+      "source": "BFMTV",
+      "text": "LE SUD DU PÉROU FRAPPÉ PAR UN SÉISME DE MAGNITUDE 6,7",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:49",
+      "date": "20/08",
+      "timestamp": 1787251793
+    },
+    {
+      "id": "BFMTV_1787251050",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN NOUVEAU PORTE-AVIONS AMÉRICAIN EST ARRIVÉ AU MOYEN-ORIENT POUR REMPLACER L’USS LINCOLN",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:37",
+      "date": "20/08",
+      "timestamp": 1787251050
+    },
+    {
+      "id": "BFMTV_1787250586",
+      "source": "BFMTV",
+      "text": "CEUTA: L'ESPAGNE VEUT ACCUEILLIR 500 JEUNES MIGRANTES MINEURES MALGRÉ L'OPPOSITION DE L'UNION EUROPÉENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:29",
+      "date": "20/08",
+      "timestamp": 1787250586
+    },
     {
       "id": "BFMTV_1787247011",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "18:55",
       "date": "18/08",
       "timestamp": 1787079338
-    },
-    {
-      "id": "BFMTV_1787079337",
-      "source": "BFMTV",
-      "text": "UN UKRAINIEN CONDAMNÉ EN ALLEMAGNE À DE LA PRISON POUR AVOIR AIDÉ MOSCOU À PLANIFIER DES SABOTAGES",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:55",
-      "date": "18/08",
-      "timestamp": 1787079337
-    },
-    {
-      "id": "OPEX360_1787074539",
-      "source": "OPEX360",
-      "text": "L’AUSTRALIE ET LE JAPON DÉVELOPPENT CONJOINTEMENT UNE ARME LASER DE HAUTE ÉNERGIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:35",
-      "date": "18/08",
-      "timestamp": 1787074539
-    },
-    {
-      "id": "OPEX360_1787074539",
-      "source": "OPEX360",
-      "text": "L’AUSTRALIE ET LE JAPON DÉVELOPPENT CONJOINTEMENT UN SYSTÈME LASER DE HAUTE ÉNERGIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:35",
-      "date": "18/08",
-      "timestamp": 1787074539
     }
   ],
   "france": {
