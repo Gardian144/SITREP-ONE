@@ -1,7 +1,17 @@
 {
-  "last_update": "20/08 15:48",
+  "last_update": "20/08 16:33",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787242383",
+      "source": "OPEX360",
+      "text": "LA FORCE AÉRIENNE INDIENNE ENVISAGE DE DÉVELOPPER UN AVION D’ALERTE AVANCÉE À PARTIR D’UN AIRBUS A330",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:13",
+      "date": "20/08",
+      "timestamp": 1787242383
+    },
     {
       "id": "BFMTV_1787239981",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:22",
       "date": "18/08",
       "timestamp": 1787070141
-    },
-    {
-      "id": "BFMTV_1787069983",
-      "source": "BFMTV",
-      "text": "GAZA: CINQ PERSONNES, DONT UN ENFANT, TUÉES DANS UNE FRAPPE ISRAÉLIENNE SUR UN PORT",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:19",
-      "date": "18/08",
-      "timestamp": 1787069983
     }
   ],
   "france": {
