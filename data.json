@@ -1,7 +1,27 @@
 {
-  "last_update": "20/08 05:03",
+  "last_update": "20/08 05:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787203601",
+      "source": "BFMTV",
+      "text": "COLLISION ENTRE UN PETIT AVION ET UN HÉLICOPTÈRE DE LA POLICE AUX ÉTATS-UNIS, UN MORT ET DEUX BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:26",
+      "date": "20/08",
+      "timestamp": 1787203601
+    },
+    {
+      "id": "BFMTV_1787202297",
+      "source": "BFMTV",
+      "text": "QUI EST NATALIE HARP, L'ASSISTANTE INSÉPARABLE DE DONALD TRUMP?",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:04",
+      "date": "20/08",
+      "timestamp": 1787202297
+    },
     {
       "id": "BFMTV_1787201360",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "22:10",
       "date": "17/08",
       "timestamp": 1787004659
-    },
-    {
-      "id": "BFMTV_1787001609",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV PRODUIT UN NOUVEAU DRONE D'UNE PORTÉE DE 2.000 KILOMÈTRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:20",
-      "date": "17/08",
-      "timestamp": 1787001609
-    },
-    {
-      "id": "BFMTV_1786997600",
-      "source": "BFMTV",
-      "text": "UN UKRAINIEN DÉPORTÉ ENFANT RÉAPPARAÎT PLUSIEURS ANNÉES APRÈS SUR LE FRONT AUX CÔTÉS DES RUSSES",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:13",
-      "date": "17/08",
-      "timestamp": 1786997600
     }
   ],
   "france": {
