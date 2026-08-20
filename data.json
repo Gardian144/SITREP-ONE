@@ -1,7 +1,67 @@
 {
-  "last_update": "20/08 20:10",
+  "last_update": "20/08 20:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787258491",
+      "source": "BFMTV",
+      "text": "ACCORD COMMERCIAL CANADA-USA: \"NOUS SOMMES TRÈS PROCHES\", AFFIRME LE MINISTRE CANADIEN DOMINIC LEBLANC",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:41",
+      "date": "20/08",
+      "timestamp": 1787258491
+    },
+    {
+      "id": "BFMTV_1787258340",
+      "source": "BFMTV",
+      "text": "HARRY ET MEGHAN DE RETOUR AU ROYAUME-UNI: LES RAISONS QUI ONT POUSSÉ LE COUPLE À QUITTER LOS ANGELES",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:39",
+      "date": "20/08",
+      "timestamp": 1787258340
+    },
+    {
+      "id": "BFMTV_1787258157",
+      "source": "BFMTV",
+      "text": "HARRY ET MEGHAN DE RETOUR AU ROYAUME-UNI: UN ACCUEIL MITIGÉ CHEZ LES BRITANNIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:35",
+      "date": "20/08",
+      "timestamp": 1787258157
+    },
+    {
+      "id": "BFMTV_1787257594",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE MOIS DE JUILLET A ÉTÉ LE PLUS MEURTRIER POUR LES CIVILS UKRAINIENS DEPUIS MAI 2022",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:26",
+      "date": "20/08",
+      "timestamp": 1787257594
+    },
+    {
+      "id": "BFMTV_1787257037",
+      "source": "BFMTV",
+      "text": "LA FINLANDE SOUPÇONNE UN AVION RUSSE D'AVOIR VIOLÉ UNE NOUVELLE FOIS SON ESPACE AÉRIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:17",
+      "date": "20/08",
+      "timestamp": 1787257037
+    },
+    {
+      "id": "BFMTV_1787256516",
+      "source": "BFMTV",
+      "text": "SÉISME EN COLOMBIE: \"282 000 PERSONNES ONT ÉTÉ TOUCHÉES\", AFFIRME JEAN-PHILIPPE ANTOLIN, SPÉCIALISTE DE LA RÉPONSE HUMANITAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:08",
+      "date": "20/08",
+      "timestamp": 1787256516
+    },
     {
       "id": "BFMTV_1787251793",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "21:29",
       "date": "18/08",
       "timestamp": 1787088575
-    },
-    {
-      "id": "BFMTV_1787086242",
-      "source": "BFMTV",
-      "text": "DEUX RESSORTISSANTS FRANÇAIS, DES \"RÉALISATEURS\" TRAVAILLANT \"POUR UNE SOCIÉTÉ DE PRODUCTION\", DÉTENUS AU TOGO",
-      "urgent": false,
-      "france_related": true,
-      "time": "20:50",
-      "date": "18/08",
-      "timestamp": 1787086242
-    },
-    {
-      "id": "BFMTV_1787086132",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UNE FRAPPE RUSSE A FAIT 10 MORTS DANS LA RÉGION DE KHARKIV",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:48",
-      "date": "18/08",
-      "timestamp": 1787086132
-    },
-    {
-      "id": "BFMTV_1787085409",
-      "source": "BFMTV",
-      "text": "\"JE SUIS RETRAITÉE ET JE SUIS DEVENUE MAMAN\": À 62 ANS, UNE ARGENTINE DONNE NAISSANCE À UN ENFANT POUR LA PREMIÈRE FOIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:36",
-      "date": "18/08",
-      "timestamp": 1787085409
-    },
-    {
-      "id": "BFMTV_1787080543",
-      "source": "BFMTV",
-      "text": "LE BILAN D'UN NAUFRAGE AU ZIMBABWE S'ALOURDIT À 94 MORTS, LE GOUVERNEMENT POINTE UNE \"ERREUR HUMAINE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:15",
-      "date": "18/08",
-      "timestamp": 1787080543
-    },
-    {
-      "id": "BFMTV_1787080486",
-      "source": "BFMTV",
-      "text": "SYRIE: L'AIEA ANNONCE LA DÉCOUVERTE DE \"QUELQUES TONNES DE MATIÈRES NUCLÉAIRES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:14",
-      "date": "18/08",
-      "timestamp": 1787080486
-    },
-    {
-      "id": "BFMTV_1787079338",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:55",
-      "date": "18/08",
-      "timestamp": 1787079338
     }
   ],
   "france": {
