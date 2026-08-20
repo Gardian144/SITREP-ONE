@@ -1,7 +1,27 @@
 {
-  "last_update": "20/08 08:05",
+  "last_update": "20/08 08:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787215643",
+      "source": "BFMTV",
+      "text": "UN POSSIBLE MISSILE BALISTIQUE TIRÉ DEPUIS LA CORÉE DU NORD ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:47",
+      "date": "20/08",
+      "timestamp": 1787215643
+    },
+    {
+      "id": "BFMTV_1787213312",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QU'IL \"COMPTE BIEN\" RENCONTRER LE DIRIGEANT NORD-CORÉEN KIM JONG-UN CETTE ANNÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:08",
+      "date": "20/08",
+      "timestamp": 1787213312
+    },
     {
       "id": "BFMTV_1787212113",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "06:07",
       "date": "18/08",
       "timestamp": 1787033259
-    },
-    {
-      "id": "BFMTV_1787028301",
-      "source": "BFMTV",
-      "text": "\"DES CONSÉQUENCES DESQUELLES IL DEVRA RÉPONDRE\": L'AVERTISSEMENT DE LA RUSSIE AU ROYAUME-UNI APRÈS DES INFORMATIONS SUR L'USAGE DE DRONES BRITANNIQUES PAR L'UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:45",
-      "date": "18/08",
-      "timestamp": 1787028301
-    },
-    {
-      "id": "BFMTV_1787027504",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME \"BIEN S'ENTENDRE\" AVEC KIM JONG-UN ET VEUT RÉDUIRE LES EXERCICES MILITAIRES CONJOINTS AVEC LA CORÉE DU SUD",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:31",
-      "date": "18/08",
-      "timestamp": 1787027504
     }
   ],
   "france": {
