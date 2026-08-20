@@ -1,7 +1,17 @@
 {
-  "last_update": "20/08 13:44",
+  "last_update": "20/08 14:21",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787233472",
+      "source": "BFMTV",
+      "text": "CE QUE L'ON SAIT DES FRAPPES RUSSES QUI ONT FAIT AU MOINS 16 MORTS EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:44",
+      "date": "20/08",
+      "timestamp": 1787233472
+    },
     {
       "id": "BFMTV_1787233058",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "14:27",
       "date": "18/08",
       "timestamp": 1787063270
-    },
-    {
-      "id": "BFMTV_1787062752",
-      "source": "BFMTV",
-      "text": "UN JEUNE COUPLE EN LUNE DE MIEL ET LEUR PILOTE D'HÉLICOPTÈRE MEURENT DANS UN CRASH EN GRÈCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:19",
-      "date": "18/08",
-      "timestamp": 1787062752
     }
   ],
   "france": {
