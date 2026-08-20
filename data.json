@@ -1,7 +1,27 @@
 {
-  "last_update": "20/08 16:33",
+  "last_update": "20/08 17:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787244846",
+      "source": "BFMTV",
+      "text": "SABOTAGE DU GAZODUC NORD STREAM: LE SUSPECT A ÉTÉ ARRÊTÉ SUR LE TOURNAGE D'UN FILM... INSPIRÉ DE L'ÉVÉNEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:54",
+      "date": "20/08",
+      "timestamp": 1787244846
+    },
+    {
+      "id": "BFMTV_1787243917",
+      "source": "BFMTV",
+      "text": "HARRY ET MEGHAN DE RETOUR AU ROYAUME-UNI: 10 ANS QUI ONT SECOUÉ LES WINDSOR",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:38",
+      "date": "20/08",
+      "timestamp": 1787243917
+    },
     {
       "id": "OPEX360_1787242383",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "16:31",
       "date": "18/08",
       "timestamp": 1787070702
-    },
-    {
-      "id": "OPEX360_1787070455",
-      "source": "OPEX360",
-      "text": "UNE AGENCE DE L’OTAN A LANCÉ UNE NOUVELLE PHASE D’UN PROJET D’HÉLICOPTÈRE DE NOUVELLE GÉNÉRATION, AUQUEL LA FRANCE PARTICIPE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:27",
-      "date": "18/08",
-      "timestamp": 1787070455
-    },
-    {
-      "id": "BFMTV_1787070141",
-      "source": "BFMTV",
-      "text": "\"UN ÉCHANGE MINIMAL\": LE PREMIER MINISTRE ANDY BURNHAM RECONNAÎT AVOIR ÉTÉ PIÉGÉ PAR UNE FAUSSE COLLABORATRICE DE TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:22",
-      "date": "18/08",
-      "timestamp": 1787070141
     }
   ],
   "france": {
