@@ -1,7 +1,37 @@
 {
-  "last_update": "20/08 17:06",
+  "last_update": "20/08 17:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787247011",
+      "source": "BFMTV",
+      "text": "LA ROUMANIE ANNONCE QU'UN F-16 A ABATTU UN DRONE MARITIME PRÈS DU PLUS IMPORTANT PROJET D'EXTRACTION GAZIÈRE EN MER DE L'UE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:30",
+      "date": "20/08",
+      "timestamp": 1787247011
+    },
+    {
+      "id": "OPEX360_1787246462",
+      "source": "OPEX360",
+      "text": "LE GOUVERNEMENT SUISSE DEMANDE UN MILLIARD D’EUROS DE PLUS POUR FINANCER SES FUTURES CAPACITÉS DE DÉFENSE AÉRIENNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:21",
+      "date": "20/08",
+      "timestamp": 1787246462
+    },
+    {
+      "id": "BFMTV_1787246395",
+      "source": "BFMTV",
+      "text": "L’EFFONDREMENT D’UNE MINE D’OR ARTISANALE EN CENTRAFRIQUE FAIT AU MOINS 100 MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:19",
+      "date": "20/08",
+      "timestamp": 1787246395
+    },
     {
       "id": "BFMTV_1787244846",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:35",
       "date": "18/08",
       "timestamp": 1787074539
-    },
-    {
-      "id": "BFMTV_1787074126",
-      "source": "BFMTV",
-      "text": "GRÈCE: TROIS PERSONNES SONT MORTES APRÈS LE CRASH D'UN HÉLICOPTÈRE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:28",
-      "date": "18/08",
-      "timestamp": 1787074126
-    },
-    {
-      "id": "BFMTV_1787072853",
-      "source": "BFMTV",
-      "text": "GAZA: AU MOINS SIX PERSONNES, DONT UN ENFANT, TUÉES DANS UNE FRAPPE ISRAÉLIENNE SUR UN PORT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:07",
-      "date": "18/08",
-      "timestamp": 1787072853
-    },
-    {
-      "id": "BFMTV_1787070702",
-      "source": "BFMTV",
-      "text": "SEULEMENT 3% DES TERRES AGRICOLES DE LA BANDE DE GAZA SONT ENCORE INTACTES ET ACCESSIBLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:31",
-      "date": "18/08",
-      "timestamp": 1787070702
     }
   ],
   "france": {
