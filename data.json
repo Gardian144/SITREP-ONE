@@ -1,7 +1,37 @@
 {
-  "last_update": "20/08 04:20",
+  "last_update": "20/08 05:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787201360",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE QU'IL RENCONTRERA KIM JONG-UN CETTE ANNÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:49",
+      "date": "20/08",
+      "timestamp": 1787201360
+    },
+    {
+      "id": "BFMTV_1787201167",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES BOMBARDEMENTS RUSSES FONT AU MOINS SEPT MORTS À KIEV ET SA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:46",
+      "date": "20/08",
+      "timestamp": 1787201167
+    },
+    {
+      "id": "BFMTV_1787199695",
+      "source": "BFMTV",
+      "text": "CORÉE DU NORD: LA SŒUR DE KIM JONG-UN DIT NE PAS ÊTRE AU COURANT DE COMMUNICATIONS ENTRE SON FRÈRE ET DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:21",
+      "date": "20/08",
+      "timestamp": 1787199695
+    },
     {
       "id": "BFMTV_1787176229",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "20:13",
       "date": "17/08",
       "timestamp": 1786997600
-    },
-    {
-      "id": "BFMTV_1786997360",
-      "source": "BFMTV",
-      "text": "\"ÇA VA RENDRE LE ROYAUME-UNI SACRÉMENT RICHE\": DONALD TRUMP PENSE QU'ANDY BURNHAM VA \"OUVRIR LA MER DU NORD\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:09",
-      "date": "17/08",
-      "timestamp": 1786997360
-    },
-    {
-      "id": "BFMTV_1786996828",
-      "source": "BFMTV",
-      "text": "IL SE TROUVAIT DANS UNE ZONE INTERDITE DU VOLCAN: UN TOURISTE AMÉRICAIN MEURT FRAPPÉ PAR LA FOUDRE SUR L'ETNA",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:00",
-      "date": "17/08",
-      "timestamp": 1786996828
-    },
-    {
-      "id": "BFMTV_1786996746",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: LE PREMIER MINISTRE PIÉGÉ PAR UNE FAUSSE CONSEILLÈRE DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:59",
-      "date": "17/08",
-      "timestamp": 1786996746
     }
   ],
   "france": {
