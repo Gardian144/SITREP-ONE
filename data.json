@@ -1,7 +1,17 @@
 {
-  "last_update": "20/08 10:46",
+  "last_update": "20/08 11:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787222716",
+      "source": "BFMTV",
+      "text": "PÉROU: LES FORTES PLUIES PERTURBENT L'ACCÈS AU MACHU PICCHU",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:45",
+      "date": "20/08",
+      "timestamp": 1787222716
+    },
     {
       "id": "OPEX360_1787222668",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "12:54",
       "date": "18/08",
       "timestamp": 1787057669
-    },
-    {
-      "id": "BFMTV_1787055719",
-      "source": "BFMTV",
-      "text": "SÉISME EN COLOMBIE: SHAKIRA LANCE UN APPEL À LA SOLIDARITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:21",
-      "date": "18/08",
-      "timestamp": 1787055719
     }
   ],
   "france": {
