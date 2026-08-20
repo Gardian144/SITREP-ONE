@@ -1,7 +1,37 @@
 {
-  "last_update": "20/08 10:05",
+  "last_update": "20/08 10:46",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787222668",
+      "source": "OPEX360",
+      "text": "SELON SÉOUL, LA CORÉE DU NORD POSSÈDERAIT ENTRE 80 ET 120 OGIVES NUCLÉAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:44",
+      "date": "20/08",
+      "timestamp": 1787222668
+    },
+    {
+      "id": "BFMTV_1787221867",
+      "source": "BFMTV",
+      "text": "QUATRE JOURS DE CONGÉS POUR JOUER À \"GTA VI\": L'AMUSANTE OFFRE D'UN BATAILLON DE L'ARMÉE AMÉRICAINE À SES SOLDATS POUR SE RÉENGAGER",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:31",
+      "date": "20/08",
+      "timestamp": 1787221867
+    },
+    {
+      "id": "BFMTV_1787221272",
+      "source": "BFMTV",
+      "text": "LA CORÉE DU NORD A TIRÉ \"ENVIRON 10 MISSILES BALISTIQUES DE COURTE PORTÉE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:21",
+      "date": "20/08",
+      "timestamp": 1787221272
+    },
     {
       "id": "BFMTV_1787217782",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "12:21",
       "date": "18/08",
       "timestamp": 1787055719
-    },
-    {
-      "id": "BFMTV_1787055267",
-      "source": "BFMTV",
-      "text": "LEVÉE DU BLOCUS NAVAL, AVOIRS GELÉS, FIN DE L'EMBARGO PÉTROLIER... LE DÉTROIT D'ORMUZ RESTERA FERMÉ TANT QUE WASHINGTON N'AURA PAS SATISFAIT LES EXIGENCES DE TÉHÉRAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:14",
-      "date": "18/08",
-      "timestamp": 1787055267
-    },
-    {
-      "id": "BFMTV_1787050313",
-      "source": "BFMTV",
-      "text": "CARTE. OÙ SE SITUENT LES INCENDIES ENCORE ACTIFS EN EUROPE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:51",
-      "date": "18/08",
-      "timestamp": 1787050313
-    },
-    {
-      "id": "OPEX360_1787049602",
-      "source": "OPEX360",
-      "text": "LA LOI ACTUALISANT LA PROGRAMMATION MILITAIRE 2024-30 A ÉTÉ PROMULGUÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:40",
-      "date": "18/08",
-      "timestamp": 1787049602
     }
   ],
   "france": {
