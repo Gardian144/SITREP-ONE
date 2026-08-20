@@ -1,7 +1,27 @@
 {
-  "last_update": "20/08 21:25",
+  "last_update": "20/08 21:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787262459",
+      "source": "BFMTV",
+      "text": "\"J'AI ENTENDU DIRE QUE JE VOUS AVAIS MANQUÉ\": MELANIA TRUMP APPARAÎT DE NOUVEAU APRÈS UN MOIS D'ABSENCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:47",
+      "date": "20/08",
+      "timestamp": 1787262459
+    },
+    {
+      "id": "BFMTV_1787261292",
+      "source": "BFMTV",
+      "text": "CISJORDANIE: LA FRANCE, L'ALLEMAGNE, LE ROYAUME-UNI ET L'ITALIE APPELLENT À \"METTRE FIN À L'EXPANSION DES COLONIES\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:28",
+      "date": "20/08",
+      "timestamp": 1787261292
+    },
     {
       "id": "BFMTV_1787260792",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "05:30",
       "date": "19/08",
       "timestamp": 1787117433
-    },
-    {
-      "id": "BFMTV_1787117432",
-      "source": "BFMTV",
-      "text": "RÉCEMMENT LIMOGÉ PAR VOLODYMYR ZELENSKY, L'EX-MINISTRE UKRAINIEN DE LA DÉFENSE DEMANDE D'OUVRIR LA VOIE À DES ÉLECTIONS MALGRÉ L'INVASION RUSSE",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:30",
-      "date": "19/08",
-      "timestamp": 1787117432
-    },
-    {
-      "id": "BFMTV_1787116200",
-      "source": "BFMTV",
-      "text": "DÉFIER SES ALLIÉS, BOUSCULER MOSCOU ET PÉKIN... POURQUOI DONALD TRUMP AFFICHE-T-IL DE NOUVEAU SA PROXIMITÉ AVEC KIM JONG-UN?",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:10",
-      "date": "19/08",
-      "timestamp": 1787116200
     }
   ],
   "france": {
