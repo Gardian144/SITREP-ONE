@@ -1,7 +1,27 @@
 {
-  "last_update": "21/08 12:43",
+  "last_update": "21/08 13:32",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787318167",
+      "source": "BFMTV",
+      "text": "PLUSIEURS PERSONNES BLESSÉES À COUPS D'ÉPÉE DANS UN LYCÉE EN SUÈDE, UN SUSPECT INTERPELLÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:16",
+      "date": "21/08",
+      "timestamp": 1787318167
+    },
+    {
+      "id": "BFMTV_1787317783",
+      "source": "BFMTV",
+      "text": "\"FLOTTILLE POUR GAZA\": LA TURQUIE ÉMET UN MANDAT D'ARRÊT INTERNATIONAL CONTRE BENJAMIN NETANYAHU",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:09",
+      "date": "21/08",
+      "timestamp": 1787317783
+    },
     {
       "id": "BFMTV_1787316039",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:05",
       "date": "19/08",
       "timestamp": 1787151949
-    },
-    {
-      "id": "OPEX360_1787151768",
-      "source": "OPEX360",
-      "text": "LES FRÉGATES MULTIMISSIONS EVO DESTINÉES AU PORTUGAL COÛTERONT 25 % PLUS CHER QUE CELLES COMMANDÉES PAR L’ITALIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:02",
-      "date": "19/08",
-      "timestamp": 1787151768
-    },
-    {
-      "id": "BFMTV_1787151515",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS : UN SÉNATEUR DÉMOCRATE SOUS-ENTEND UNE POSSIBLE LIAISON ENTRE DONALD TRUMP ET SON ASSISTANTE NATALIE HARP",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:58",
-      "date": "19/08",
-      "timestamp": 1787151515
     }
   ],
   "france": {
