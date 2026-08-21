@@ -1,7 +1,17 @@
 {
-  "last_update": "21/08 11:24",
+  "last_update": "21/08 11:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787312886",
+      "source": "BFMTV",
+      "text": "UNE FEMME  SOUPÇONNÉE DE PRÉPARER UN ATTENTAT À LA BOMBE POUR LE COMPTE DE DAESH DANS L'ÉTAT DE NEW YORK A ÉTÉ ARRÊTÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:48",
+      "date": "21/08",
+      "timestamp": 1787312886
+    },
     {
       "id": "BFMTV_1787310837",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "14:57",
       "date": "19/08",
       "timestamp": 1787151429
-    },
-    {
-      "id": "BFMTV_1787150976",
-      "source": "BFMTV",
-      "text": "23 ANS APRÈS L'ATTENTAT CONTRE L'ONU À BADGAD: \"LES TRAVAILLEURS HUMANITAIRES DOIVENT ÊTRE PROTÉGES\", PLAIDE UN ANCIEN PRÉSIDENT DE L'IRAK",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:49",
-      "date": "19/08",
-      "timestamp": 1787150976
     }
   ],
   "france": {
