@@ -1,7 +1,37 @@
 {
-  "last_update": "21/08 10:48",
+  "last_update": "21/08 11:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787310837",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LE PILOTE D'UN AVION MEURT APRÈS UNE COLLISION AVEC UN HÉLICOPTÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:13",
+      "date": "21/08",
+      "timestamp": 1787310837
+    },
+    {
+      "id": "BFMTV_1787309582",
+      "source": "BFMTV",
+      "text": "UN SUISSE CONDAMNÉ À UN AN DE PRISON EN INDONÉSIE POUR AVOIR DÉNIGRÉ UNE FÊTE RELIGIEUSE HINDOUISTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:53",
+      "date": "21/08",
+      "timestamp": 1787309582
+    },
+    {
+      "id": "BFMTV_1787309133",
+      "source": "BFMTV",
+      "text": "UN TOURISTE SUISSE CONDAMNÉ À UN AN DE PRISON POUR AVOIR INSULTÉ LE JOUR SACRÉ DU SILENCE À BALI",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:45",
+      "date": "21/08",
+      "timestamp": 1787309133
+    },
     {
       "id": "OPEX360_1787308828",
       "source": "OPEX360",
@@ -971,36 +1001,6 @@
       "time": "14:49",
       "date": "19/08",
       "timestamp": 1787150976
-    },
-    {
-      "id": "BFMTV_1787150589",
-      "source": "BFMTV",
-      "text": "23 ANS APRÈS L'ATTENTAT CONTRE L'ONU À BADGAD: \"LES TRAVAILLEURS HUMANITAIRES DOIVENT ÊTRE PROTÉGES\", PLAIDE UN ANCIEN PRÉSIDENT DE L'IRAK",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:43",
-      "date": "19/08",
-      "timestamp": 1787150589
-    },
-    {
-      "id": "BFMTV_1787149936",
-      "source": "BFMTV",
-      "text": "\"L'ACCÈS HUMANITAIRE DOIT ÊTRE SÛR\": L'ONU DÉPLORE LES DANGERS AUXQUELS SONT CONFRONTÉS LES TRAVAILLEURS HUMANITAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:32",
-      "date": "19/08",
-      "timestamp": 1787149936
-    },
-    {
-      "id": "BFMTV_1787149572",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: LA POLICE RETROUVE UNE BABYSITTER AVEC LES ENFANTS QU’ELLE EST ACCUSÉE D’AVOIR KIDNAPPÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:26",
-      "date": "19/08",
-      "timestamp": 1787149572
     }
   ],
   "france": {
