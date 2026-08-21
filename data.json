@@ -1,7 +1,27 @@
 {
-  "last_update": "21/08 10:11",
+  "last_update": "21/08 10:48",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787308828",
+      "source": "OPEX360",
+      "text": "L’ADMINISTRATION AMÉRICAINE AUTORISE LE QATAR À ACQUÉRIR QUATRE AVIONS RAVITAILLEURS KC-46A PEGASUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:40",
+      "date": "21/08",
+      "timestamp": 1787308828
+    },
+    {
+      "id": "BFMTV_1787308234",
+      "source": "BFMTV",
+      "text": "ROUMANIE: UN F-16 ABAT UN DRONE MARITIME ATTRIBUÉ À LA RUSSIE PRÈS DU PLUS IMPORTANT PROJET D'EXTRACTION GAZIÈRE EN MER DE L'UE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:30",
+      "date": "21/08",
+      "timestamp": 1787308234
+    },
     {
       "id": "BFMTV_1787305933",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "14:26",
       "date": "19/08",
       "timestamp": 1787149572
-    },
-    {
-      "id": "BFMTV_1787147441",
-      "source": "BFMTV",
-      "text": "QUI EST NATHALIE HARP, ASSISTANTE DE DONALD TRUMP?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:50",
-      "date": "19/08",
-      "timestamp": 1787147441
-    },
-    {
-      "id": "BFMTV_1787147441",
-      "source": "BFMTV",
-      "text": "QUI EST NATALIE HARP, ASSISTANTE DE DONALD TRUMP?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:50",
-      "date": "19/08",
-      "timestamp": 1787147441
     }
   ],
   "france": {
