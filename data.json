@@ -1,7 +1,47 @@
 {
-  "last_update": "21/08 21:22",
+  "last_update": "21/08 21:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787348387",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV SOUHAITE UTILISER LE RÉSEAU STARLINK POUR GUIDER SES DRONES EN RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:39",
+      "date": "21/08",
+      "timestamp": 1787348387
+    },
+    {
+      "id": "BFMTV_1787347884",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA CRAINTE D'UNE GUERRE BIOLOGIQUE MENÉE PAR L'ARMÉE RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:31",
+      "date": "21/08",
+      "timestamp": 1787347884
+    },
+    {
+      "id": "BFMTV_1787347432",
+      "source": "BFMTV",
+      "text": "LES IMAGES D'UN AVION DE CHASSE UKRAINIEN QUI ABAT UN DRONE RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:23",
+      "date": "21/08",
+      "timestamp": 1787347432
+    },
+    {
+      "id": "BFMTV_1787347249",
+      "source": "BFMTV",
+      "text": "\"TOUT EST PAYÉ PAR DES PATRIOTES\": DONALD TRUMP AFFIRME QUE LA SALLE DE BAL SERA FINANCÉE PAR DES DONS PRIVÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:20",
+      "date": "21/08",
+      "timestamp": 1787347249
+    },
     {
       "id": "BFMTV_1787345921",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "08:08",
       "date": "20/08",
       "timestamp": 1787213312
-    },
-    {
-      "id": "BFMTV_1787212113",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - HARRY ET MEGHAN: 10 ANS D'AFFAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:48",
-      "date": "20/08",
-      "timestamp": 1787212113
-    },
-    {
-      "id": "BFMTV_1787208636",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DES BOMBARDEMENTS RUSSES FONT AU MOINS 13 MORTS À KIEV ET SA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:50",
-      "date": "20/08",
-      "timestamp": 1787208636
-    },
-    {
-      "id": "BFMTV_1787208465",
-      "source": "BFMTV",
-      "text": "\"UN FREINAGE BRUTAL\": QUATRE OUVRIERS MEURENT PERCUTÉS PAR UN TRAIN AU JAPON ALORS QU'ILS DÉSHERBAIENT UNE VOIE FERRÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:47",
-      "date": "20/08",
-      "timestamp": 1787208465
-    },
-    {
-      "id": "BFMTV_1787205628",
-      "source": "BFMTV",
-      "text": "LE CHEF DU RENSEIGNEMENT DE L'ÉQUATEUR ET CINQ AMÉRICAINS TUÉS DANS UN ACCIDENT D'HÉLICOPTÈRE AU KENYA",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:00",
-      "date": "20/08",
-      "timestamp": 1787205628
     }
   ],
   "france": {
