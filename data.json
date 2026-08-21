@@ -1,7 +1,17 @@
 {
-  "last_update": "21/08 19:30",
+  "last_update": "21/08 19:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787341542",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: NEUF PERSONNES BLESSÉES LORS DE L'ACCIDENT D'UN MANÈGE DANS LE TENNESSEE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:45",
+      "date": "21/08",
+      "timestamp": 1787341542
+    },
     {
       "id": "BFMTV_1787338015",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "04:21",
       "date": "20/08",
       "timestamp": 1787199695
-    },
-    {
-      "id": "BFMTV_1787176229",
-      "source": "BFMTV",
-      "text": "LE CANDIDAT OUGANDAIS À L'ONU, OLARA OTUNNU, APPELLE À POURSUIVRE LA RÉFORME DE L'ORGANISATION MONDIALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:50",
-      "date": "19/08",
-      "timestamp": 1787176229
     }
   ],
   "france": {
