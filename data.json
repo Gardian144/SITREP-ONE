@@ -1,7 +1,17 @@
 {
-  "last_update": "21/08 16:31",
+  "last_update": "21/08 17:06",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787330641",
+      "source": "OPEX360",
+      "text": "RENSEIGNEMENT ÉLECTRONIQUE : L’OTAN A DÉPLOYÉ UN DISPOSITIF AÉRIEN INÉDIT PRÈS DU TERRITOIRE RUSSE DE KALININGRAD",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:44",
+      "date": "21/08",
+      "timestamp": 1787330641
+    },
     {
       "id": "BFMTV_1787329245",
       "source": "BFMTV",
@@ -177,6 +187,16 @@
       "source": "BFMTV",
       "text": "\"FLOTTILLE POUR GAZA\": LA TURQUIE ÉMET UN MANDAT D'ARRÊT INTERNATIONAL CONTRE BENJAMIN NETANYAHU",
       "urgent": false,
+      "france_related": false,
+      "time": "13:09",
+      "date": "21/08",
+      "timestamp": 1787317783
+    },
+    {
+      "id": "BFMTV_1787317783",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
       "france_related": false,
       "time": "13:09",
       "date": "21/08",
@@ -981,26 +1001,6 @@
       "time": "19:18",
       "date": "19/08",
       "timestamp": 1787167093
-    },
-    {
-      "id": "BFMTV_1787166736",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UNE CAMÉRA FILME L'EFFONDREMENT D'UNE TERRASSE QUI BLESSE PLUSIEURS POLICIERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:12",
-      "date": "19/08",
-      "timestamp": 1787166736
-    },
-    {
-      "id": "BFMTV_1787166567",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE LA CORÉE DU NORD POSSÈDE \"57 ARMES NUCLÉAIRES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:09",
-      "date": "19/08",
-      "timestamp": 1787166567
     }
   ],
   "france": {
