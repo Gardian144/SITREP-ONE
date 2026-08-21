@@ -1,7 +1,27 @@
 {
-  "last_update": "21/08 17:44",
+  "last_update": "21/08 18:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787335662",
+      "source": "BFMTV",
+      "text": "FRAPPE DE MOSCOU SUR UN CENTRE COMMERCIAL EN UKRAINE: \"CE SONT DES MONSTRES\", ASSURE VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:07",
+      "date": "21/08",
+      "timestamp": 1787335662
+    },
+    {
+      "id": "BFMTV_1787335563",
+      "source": "BFMTV",
+      "text": "UKRAINE: UNE FRAPPE RUSSE FAIT AU MOINS 14 MORTS DANS LA VILLE NATALE DU PRÉSIDENT VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:06",
+      "date": "21/08",
+      "timestamp": 1787335563
+    },
     {
       "id": "BFMTV_1787334063",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "20:16",
       "date": "19/08",
       "timestamp": 1787170605
-    },
-    {
-      "id": "BFMTV_1787169939",
-      "source": "BFMTV",
-      "text": "MEXIQUE: DES PÊCHEURS SAUVENT UN CHIEN PERDU AU MILIEU DE L'OCÉAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:05",
-      "date": "19/08",
-      "timestamp": 1787169939
-    },
-    {
-      "id": "BFMTV_1787169143",
-      "source": "BFMTV",
-      "text": "\"C'EST CATASTROPHIQUE\": AU MOINS 100 MORTS DANS L'EFFONDREMENT D'UNE MINE D'OR ARTISANALE DANS L'OUEST DE LA CENTRAFRIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:52",
-      "date": "19/08",
-      "timestamp": 1787169143
     }
   ],
   "france": {
