@@ -1,7 +1,47 @@
 {
-  "last_update": "21/08 15:03",
+  "last_update": "21/08 15:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787326142",
+      "source": "BFMTV",
+      "text": "\"CYNIQUE ET IGNOBLE\": EN UKRAINE, UNE FRAPPE RUSSE FAIT AU MOINS CINQ MORTS DANS LA VILLE NATALE DU PRÉSIDENT VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:29",
+      "date": "21/08",
+      "timestamp": 1787326142
+    },
+    {
+      "id": "BFMTV_1787325882",
+      "source": "BFMTV",
+      "text": "DES CENTAINES DE PERSONNES FONT LA QUEUE DANS CE REFUGE DE MONTAGNE ITALIEN POUR… DES BEIGNETS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:24",
+      "date": "21/08",
+      "timestamp": 1787325882
+    },
+    {
+      "id": "BFMTV_1787325753",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS AURAIENT UTILISÉ LA MOITIÉ DE LEUR STOCK DE MISSILES PATRIOT",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:22",
+      "date": "21/08",
+      "timestamp": 1787325753
+    },
+    {
+      "id": "BFMTV_1787325299",
+      "source": "BFMTV",
+      "text": "CROATIE: L'HOMME ARRÊTÉ POUR LE SABOTAGE DE NORD STREAM EN 2022 ÉTAIT CONSULTANT SUR UN FILM LIÉ À L'ÉVÈNEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:14",
+      "date": "21/08",
+      "timestamp": 1787325299
+    },
     {
       "id": "OPEX360_1787323711",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "18:55",
       "date": "19/08",
       "timestamp": 1787165741
-    },
-    {
-      "id": "BFMTV_1787165130",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP A ANNONCÉ QU'IL RENCONTRERAIT PENDANT L'ANNÉE LE DIRIGEANT NORD-CORÉEN KIM JONG UN",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:45",
-      "date": "19/08",
-      "timestamp": 1787165130
-    },
-    {
-      "id": "BFMTV_1787163786",
-      "source": "BFMTV",
-      "text": "HARVARD ACCEPTE DE VERSER 53 MILLIONS DE DOLLARS POUR SOLDER LES POURSUITES LIÉES AU SCANDALE DE LA MORGUE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:23",
-      "date": "19/08",
-      "timestamp": 1787163786
-    },
-    {
-      "id": "BFMTV_1787162506",
-      "source": "BFMTV",
-      "text": "\"ÉLIMINEZ-EN 30 OU 40\": L'ONU CONDAMNE LES PROPOS \"DANGEREUX\" DU MINISTRE ISRAÉLIEN D'EXTRÊME DROITE BEN GVIR SUR GAZA",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:01",
-      "date": "19/08",
-      "timestamp": 1787162506
-    },
-    {
-      "id": "BFMTV_1787162017",
-      "source": "BFMTV",
-      "text": "GAZA: LA FRANCE JUGE \"INSUPPORTABLES ET INHUMAINS\" LES PROPOS DU MINISTRE ISRAÉLIEN BEN GVIR",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:53",
-      "date": "19/08",
-      "timestamp": 1787162017
     }
   ],
   "france": {
