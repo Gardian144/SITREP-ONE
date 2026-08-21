@@ -1,7 +1,27 @@
 {
-  "last_update": "21/08 04:23",
+  "last_update": "21/08 05:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787288511",
+      "source": "BFMTV",
+      "text": "\"IL PARAÎT QUE JE VOUS AI MANQUÉ\": MÉLANIA TRUMP DE RETOUR APRÈS UN MOIS À L'ÉCART DU PUBLIC",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:01",
+      "date": "21/08",
+      "timestamp": 1787288511
+    },
+    {
+      "id": "BFMTV_1787287566",
+      "source": "BFMTV",
+      "text": "ROUMANIE: UN DRONE MARITIME DÉTRUIT PRÈS D'UN PROJET GAZIER EN MER NOIRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:46",
+      "date": "21/08",
+      "timestamp": 1787287566
+    },
     {
       "id": "BFMTV_1787262459",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "06:42",
       "date": "19/08",
       "timestamp": 1787121736
-    },
-    {
-      "id": "BFMTV_1787119036",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:57",
-      "date": "19/08",
-      "timestamp": 1787119036
-    },
-    {
-      "id": "BFMTV_1787117433",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:30",
-      "date": "19/08",
-      "timestamp": 1787117433
     }
   ],
   "france": {
