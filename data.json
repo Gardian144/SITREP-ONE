@@ -1,7 +1,37 @@
 {
-  "last_update": "21/08 07:29",
+  "last_update": "21/08 08:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787299067",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LE PORTE-AVIONS USS LINCOLN REMPLACÉ PAR L'USS GEORGE WASHINGTON ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:57",
+      "date": "21/08",
+      "timestamp": 1787299067
+    },
+    {
+      "id": "BFMTV_1787298943",
+      "source": "BFMTV",
+      "text": "IRAN: PÉKIN DIT QUE \"SANCTIONS ET PRESSIONS\" AMÉRICAINES NE SONT PAS LA SOLUTION",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:55",
+      "date": "21/08",
+      "timestamp": 1787298943
+    },
+    {
+      "id": "BFMTV_1787297952",
+      "source": "BFMTV",
+      "text": "DEUX PÊCHEURS SECOURUS APRÈS AVOIR DÉRIVÉ DANS UNE GLACIÈRE PENDANT 5 JOURS AU LARGE DU MEXIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:39",
+      "date": "21/08",
+      "timestamp": 1787297952
+    },
     {
       "id": "BFMTV_1787294503",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "10:22",
       "date": "19/08",
       "timestamp": 1787134940
-    },
-    {
-      "id": "BFMTV_1787133623",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN HOMME TERRORISANT LES HABITANTS AVEC UN MASQUE DE CHUCKY EST RECHERCHÉ PAR LA POLICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:00",
-      "date": "19/08",
-      "timestamp": 1787133623
-    },
-    {
-      "id": "BFMTV_1787133552",
-      "source": "BFMTV",
-      "text": "REFOULÉ EN EUROPE, KANYE WEST VA SE PRODUIRE EN CONCERT EN RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:59",
-      "date": "19/08",
-      "timestamp": 1787133552
-    },
-    {
-      "id": "BFMTV_1787132071",
-      "source": "BFMTV",
-      "text": "\"ES-TU PRÊTE À MOURIR?\": AUX ÉTATS-UNIS, UN HOMME PORTANT UN MASQUE DE LA POUPÉE CHUCKY RECHERCHÉ APRÈS AVOIR TERRORISÉ PLUSIEURS PERSONNES DANS LA RUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:34",
-      "date": "19/08",
-      "timestamp": 1787132071
     }
   ],
   "france": {
