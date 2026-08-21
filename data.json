@@ -1,7 +1,37 @@
 {
-  "last_update": "21/08 18:14",
+  "last_update": "21/08 18:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787338015",
+      "source": "BFMTV",
+      "text": "LA DOYENNE DE L'HUMANITÉ FÊTE SES 117 ANS ET A HÂTE DE VOIR CE QUE LES PROCHAINES ANNÉES LUI RÉSERVENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:46",
+      "date": "21/08",
+      "timestamp": 1787338015
+    },
+    {
+      "id": "BFMTV_1787336853",
+      "source": "BFMTV",
+      "text": "UKRAINE: UNE FRAPPE RUSSE FAIT AU MOINS 14 MORTS DANS LA VILLE NATALE DE VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:27",
+      "date": "21/08",
+      "timestamp": 1787336853
+    },
+    {
+      "id": "BFMTV_1787335935",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: L'HOMME QUI TERRORISAIT DES PASSANTS AVEC UN MASQUE DE CHUCKY EST IDENTIFIÉ ET RECHERCHÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:12",
+      "date": "21/08",
+      "timestamp": 1787335935
+    },
     {
       "id": "BFMTV_1787335662",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "21:50",
       "date": "19/08",
       "timestamp": 1787176229
-    },
-    {
-      "id": "BFMTV_1787175059",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: PLUSIEURS \"EXPLOSIONS\" EN COURS À KIEV, ANNONCE LE MAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:30",
-      "date": "19/08",
-      "timestamp": 1787175059
-    },
-    {
-      "id": "BFMTV_1787172517",
-      "source": "BFMTV",
-      "text": "ÉPARGNÉ DE L'EXÉCUTION HUIT FOIS, LE PLUS VIEUX DÉTENU DES ÉTATS-UNIS MEURT À L'ÂGE DE 101 ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:48",
-      "date": "19/08",
-      "timestamp": 1787172517
-    },
-    {
-      "id": "BFMTV_1787170605",
-      "source": "BFMTV",
-      "text": "SURTAXES DOUANIÈRES: \"NOUS SOMMES PARVENUS À UN ACCORD AVEC LE CANADA\", ANNONCE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:16",
-      "date": "19/08",
-      "timestamp": 1787170605
     }
   ],
   "france": {
