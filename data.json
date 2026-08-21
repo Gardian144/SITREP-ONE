@@ -1,7 +1,17 @@
 {
-  "last_update": "21/08 05:47",
+  "last_update": "21/08 06:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787294503",
+      "source": "BFMTV",
+      "text": "CINQ PERSONNES PORTÉES DISPARUES ET HUIT BLESSÉES DANS L'INCENDIE D'UN IMMEUBLE EN SUISSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:41",
+      "date": "21/08",
+      "timestamp": 1787294503
+    },
     {
       "id": "BFMTV_1787290330",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:34",
       "date": "19/08",
       "timestamp": 1787132071
-    },
-    {
-      "id": "BFMTV_1787129232",
-      "source": "BFMTV",
-      "text": "LES AVOCATS DE L'AUSTRALIENNE ACCUSÉE D'UN TRIPLE MEURTRE AUX CHAMPIGNONS VÉNÉNEUX ARGUENT EN APPEL D'UN VICE DE PROCÉDURE EN PREMIÈRE INSTANCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:47",
-      "date": "19/08",
-      "timestamp": 1787129232
     }
   ],
   "france": {
