@@ -1,7 +1,47 @@
 {
-  "last_update": "21/08 15:47",
+  "last_update": "21/08 16:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787329245",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: ELLES RESTENT BLOQUÉES 25 MINUTES LA TÊTE EN BAS DANS UN MANÈGE ET OBTIENNENT 275.000 DOLLARS DE DÉDOMMAGEMENT ",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:20",
+      "date": "21/08",
+      "timestamp": 1787329245
+    },
+    {
+      "id": "BFMTV_1787328267",
+      "source": "BFMTV",
+      "text": "ROUMANIE: UN F-16 ABAT UN DRONE MARITIME ATTRIBUÉ À LA RUSSIE PRÈS D'UN PROJET D'EXTRACTION GAZIÈRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:04",
+      "date": "21/08",
+      "timestamp": 1787328267
+    },
+    {
+      "id": "BFMTV_1787328223",
+      "source": "BFMTV",
+      "text": "AU MOINS TROIS PERSONNES BLESSÉES À COUPS D'ÉPÉE DANS UN LYCÉE EN SUÈDE, UN SUSPECT DE 18 ANS INTERPELLÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:03",
+      "date": "21/08",
+      "timestamp": 1787328223
+    },
+    {
+      "id": "BFMTV_1787327231",
+      "source": "BFMTV",
+      "text": "\"CYNIQUE ET IGNOBLE\": EN UKRAINE, UNE FRAPPE RUSSE FAIT AU MOINS SIX MORTS DANS LA VILLE NATALE DU PRÉSIDENT VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:47",
+      "date": "21/08",
+      "timestamp": 1787327231
+    },
     {
       "id": "BFMTV_1787326142",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "19:09",
       "date": "19/08",
       "timestamp": 1787166567
-    },
-    {
-      "id": "BFMTV_1787165994",
-      "source": "BFMTV",
-      "text": "DEUX ANS APRÈS LA MORT DE HIND RAJAB À GAZA, L'ARMÉE ISRAÉLIENNE RECONNAÎT DES TIRS SUR LA VOITURE OÙ SE TROUVAIT L'ENFANT DE CINQ ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:59",
-      "date": "19/08",
-      "timestamp": 1787165994
-    },
-    {
-      "id": "BFMTV_1787165994",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:59",
-      "date": "19/08",
-      "timestamp": 1787165994
-    },
-    {
-      "id": "BFMTV_1787165743",
-      "source": "BFMTV",
-      "text": "SABOTAGE DU GAZODUC NORD STREAM: UN PLONGEUR UKRAINIEN ARRÊTÉ EN CROATIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:55",
-      "date": "19/08",
-      "timestamp": 1787165743
-    },
-    {
-      "id": "BFMTV_1787165741",
-      "source": "BFMTV",
-      "text": "\"LA MAISON BLANCHE ÉTAIT DANS UN ÉTAT LAMENTABLE\": DONALD TRUMP SE VANTE DES RÉNOVATIONS MASSIVES DE LA PROPRIÉTÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:55",
-      "date": "19/08",
-      "timestamp": 1787165741
     }
   ],
   "france": {
