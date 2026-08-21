@@ -1,7 +1,57 @@
 {
-  "last_update": "21/08 13:32",
+  "last_update": "21/08 14:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787320283",
+      "source": "BFMTV",
+      "text": "GUERRE EN RDC: \"LA CRISE ACTUELLE EST UNE PHASE PARTICULIÈREMENT GRAVE\", EXPLIQUE PATRICK FATA (FONAREV)",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:51",
+      "date": "21/08",
+      "timestamp": 1787320283
+    },
+    {
+      "id": "BFMTV_1787320241",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:50",
+      "date": "21/08",
+      "timestamp": 1787320241
+    },
+    {
+      "id": "BFMTV_1787320149",
+      "source": "BFMTV",
+      "text": "SUÈDE: PLUSIEURS PERSONNES BLESSÉES À COUPS D'ÉPÉE DANS UN LYCÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:49",
+      "date": "21/08",
+      "timestamp": 1787320149
+    },
+    {
+      "id": "BFMTV_1787319812",
+      "source": "BFMTV",
+      "text": "GUERRE EN RDC: \"PLUS DE 1,2 MILLION DE VICTIMES\", SOULIGNE LE FONDS NATIONAL DES RÉPARATIONS DES VICTIMES",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:43",
+      "date": "21/08",
+      "timestamp": 1787319812
+    },
+    {
+      "id": "BFMTV_1787319173",
+      "source": "BFMTV",
+      "text": "SUÈDE: PLUSIEURS PERSONNES BLESSÉES À COUPS D'ÉPÉE DANS UN LYCÉE, UN SUSPECT INTERPELLÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:32",
+      "date": "21/08",
+      "timestamp": 1787319173
+    },
     {
       "id": "BFMTV_1787318167",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "16:45",
       "date": "19/08",
       "timestamp": 1787157901
-    },
-    {
-      "id": "BFMTV_1787156019",
-      "source": "BFMTV",
-      "text": "FRANÇAIS DÉTENUS AU TOGO: LEUR SOCIÉTÉ DE PRODUCTION ASSURE QU'ILS SONT \"EN RÈGLE\" ET QUE L'UN DES RÉALISATEUR EST \"MALADE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:13",
-      "date": "19/08",
-      "timestamp": 1787156019
-    },
-    {
-      "id": "BFMTV_1787153359",
-      "source": "BFMTV",
-      "text": "KIM JONG-UN",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:29",
-      "date": "19/08",
-      "timestamp": 1787153359
-    },
-    {
-      "id": "BFMTV_1787153359",
-      "source": "BFMTV",
-      "text": "LA CORÉE DU NORD ESTIME QUE LA DÉCISION DE DONALD TRUMP D'ÉCOURTER LES EXERCICES MILITAIRES LANCÉS AVEC SÉOUL \"NE MÉRITE PAS DE COMMENTAIRE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:29",
-      "date": "19/08",
-      "timestamp": 1787153359
-    },
-    {
-      "id": "BFMTV_1787153148",
-      "source": "BFMTV",
-      "text": "EN BELGIQUE, TOUS LES HABITANTS ÉVACUÉS AUTORISÉS À RENTRER CHEZ EUX MALGRÉ UN INCENDIE \"PAS ENCORE FIXÉ OU MAÎTRISÉ TOTALEMENT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:25",
-      "date": "19/08",
-      "timestamp": 1787153148
-    },
-    {
-      "id": "BFMTV_1787151949",
-      "source": "BFMTV",
-      "text": "BRÉSIL: AU MOINS 23 MORTS DANS UNE COLLISION FRONTALE ENTRE UN BUS ET UN CAMION",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:05",
-      "date": "19/08",
-      "timestamp": 1787151949
     }
   ],
   "france": {
