@@ -1,7 +1,47 @@
 {
-  "last_update": "21/08 08:08",
+  "last_update": "21/08 08:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787302214",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:50",
+      "date": "21/08",
+      "timestamp": 1787302214
+    },
+    {
+      "id": "BFMTV_1787301001",
+      "source": "BFMTV",
+      "text": "PÉKIN DÉMENT DÉTENIR DE MANIÈRE ARBITRAIRE UN CITOYEN AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:30",
+      "date": "21/08",
+      "timestamp": 1787301001
+    },
+    {
+      "id": "BFMTV_1787300674",
+      "source": "BFMTV",
+      "text": "HUIT MORTS DANS UN ACCIDENT D'AVION SUR UN SITE MILITAIRE EN ALASKA",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:24",
+      "date": "21/08",
+      "timestamp": 1787300674
+    },
+    {
+      "id": "BFMTV_1787300564",
+      "source": "BFMTV",
+      "text": "UNE FEMME ARRÊTÉE SOUPÇONNÉE D'AVOIR PRÉPARÉ UN ATTENTAT À LA BOMBE POUR LE COMPTE DE DAESH DANS L'ÉTAT DE NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:22",
+      "date": "21/08",
+      "timestamp": 1787300564
+    },
     {
       "id": "BFMTV_1787299067",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "11:25",
       "date": "19/08",
       "timestamp": 1787138751
-    },
-    {
-      "id": "BFMTV_1787138451",
-      "source": "BFMTV",
-      "text": "LA FRANCE JUGE \"INSUPPORTABLES ET INHUMAINS\" LES PROPOS DU MINISTRE BEN GVIR SUR GAZA",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:20",
-      "date": "19/08",
-      "timestamp": 1787138451
-    },
-    {
-      "id": "BFMTV_1787136217",
-      "source": "BFMTV",
-      "text": "LES CORPS DE DEUX ALPINISTES BELGES DISPARUS IL Y A 34 ANS EN SUISSE RETROUVÉS APRÈS LA FONTE D'UN GLACIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:43",
-      "date": "19/08",
-      "timestamp": 1787136217
-    },
-    {
-      "id": "OPEX360_1787134942",
-      "source": "OPEX360",
-      "text": "POUR MODERNISER SON ARTILLERIE, L’US ARMY PRÉFÈRE LE K9 THUNDER SUD-CORÉEN AU CAESAR FRANÇAIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:22",
-      "date": "19/08",
-      "timestamp": 1787134942
-    },
-    {
-      "id": "BFMTV_1787134940",
-      "source": "BFMTV",
-      "text": "\"ILS SAVAIENT QUE LEUR PRODUIT ÉTAIT DANGEREUX\": LA CHARGE DU PROCUREUR DE CALIFORNIE CONTRE LE GROUPE META",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:22",
-      "date": "19/08",
-      "timestamp": 1787134940
     }
   ],
   "france": {
