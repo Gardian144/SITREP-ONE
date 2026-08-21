@@ -1,7 +1,37 @@
 {
-  "last_update": "21/08 14:18",
+  "last_update": "21/08 15:03",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787323711",
+      "source": "OPEX360",
+      "text": "LE NOUVEAU GOUVERNEMENT COLOMBIEN VEUT RÉEXAMINER LE CONTRAT D’ACHAT DE DIX-SEPT AVIONS DE COMBAT GRIPEN E/F",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:48",
+      "date": "21/08",
+      "timestamp": 1787323711
+    },
+    {
+      "id": "BFMTV_1787322859",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: RÉUNION LUNDI DE LA COALITION DES VOLONTAIRES COPRÉSIDÉE PAR EMMANUEL MACRON, FRIEDRICH MERZ ET ANDY BURNHAM",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:34",
+      "date": "21/08",
+      "timestamp": 1787322859
+    },
+    {
+      "id": "BFMTV_1787322859",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:34",
+      "date": "21/08",
+      "timestamp": 1787322859
+    },
     {
       "id": "BFMTV_1787320283",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:53",
       "date": "19/08",
       "timestamp": 1787162017
-    },
-    {
-      "id": "OPEX360_1787161159",
-      "source": "OPEX360",
-      "text": "LA FORCE AÉRIENNE BULGARE NE DEVRAIT FINALEMENT PAS RECEVOIR SES HUIT DERNIERS F-16 VIPER AVANT 2030",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:39",
-      "date": "19/08",
-      "timestamp": 1787161159
-    },
-    {
-      "id": "BFMTV_1787159226",
-      "source": "BFMTV",
-      "text": "LES IMAGES DU CRATÈRE FORMÉ PAR L'ÉTAGE SUPÉRIEUR DE LA FUSÉE SPACEX QUI S'EST ÉCRASÉ SUR LA LUNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:07",
-      "date": "19/08",
-      "timestamp": 1787159226
-    },
-    {
-      "id": "OPEX360_1787157901",
-      "source": "OPEX360",
-      "text": "THALES ET SYSTEMATIC S’ALLIENT POUR PROPOSER UNE SOLUTION DE COMMANDEMENT ET DE CONTRÔLE À LA DÉFENSE AÉRIENNE DANOISE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:45",
-      "date": "19/08",
-      "timestamp": 1787157901
     }
   ],
   "france": {
