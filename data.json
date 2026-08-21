@@ -1,7 +1,27 @@
 {
-  "last_update": "21/08 17:06",
+  "last_update": "21/08 17:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787334063",
+      "source": "BFMTV",
+      "text": "\"CYNIQUE ET IGNOBLE\": EN UKRAINE, UNE FRAPPE RUSSE FAIT AU MOINS 14 MORTS DANS LA VILLE NATALE DU PRÉSIDENT VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:41",
+      "date": "21/08",
+      "timestamp": 1787334063
+    },
+    {
+      "id": "OPEX360_1787333886",
+      "source": "OPEX360",
+      "text": "LA MARINE ARGENTINE SE RÉSOUT À RETIRER SES AVIONS SUPER ÉTENDARD DU SERVICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:38",
+      "date": "21/08",
+      "timestamp": 1787333886
+    },
     {
       "id": "OPEX360_1787330641",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "19:52",
       "date": "19/08",
       "timestamp": 1787169143
-    },
-    {
-      "id": "BFMTV_1787167322",
-      "source": "BFMTV",
-      "text": "UKRAINE: \"LA GUERRE AÉRIENNE S'INTENSIFIE\", ANALYSE BRUNO TERTRAIS, DIRECTEUR ADJOINT DE LA FONDATION POUR LA RECHERCHE STRATÉGIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:22",
-      "date": "19/08",
-      "timestamp": 1787167322
-    },
-    {
-      "id": "BFMTV_1787167093",
-      "source": "BFMTV",
-      "text": "CEUTA: UN MANIFESTANT CONFOND UN JOURNALISTE AVEC UN MIGRANT ET L'AGRESSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:18",
-      "date": "19/08",
-      "timestamp": 1787167093
     }
   ],
   "france": {
