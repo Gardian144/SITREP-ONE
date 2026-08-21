@@ -1,7 +1,17 @@
 {
-  "last_update": "21/08 20:27",
+  "last_update": "21/08 20:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787344269",
+      "source": "BFMTV",
+      "text": "SUÈDE: UN MORT DANS L'ATTAQUE À L'ÉPÉE DANS UN LYCÉE, ANNONCE LA POLICE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:31",
+      "date": "21/08",
+      "timestamp": 1787344269
+    },
     {
       "id": "BFMTV_1787342379",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "05:04",
       "date": "20/08",
       "timestamp": 1787202297
-    },
-    {
-      "id": "BFMTV_1787201360",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE QU'IL RENCONTRERA KIM JONG-UN CETTE ANNÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:49",
-      "date": "20/08",
-      "timestamp": 1787201360
     }
   ],
   "france": {
