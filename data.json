@@ -1,7 +1,17 @@
 {
-  "last_update": "22/08 19:28",
+  "last_update": "22/08 19:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787427034",
+      "source": "BFMTV",
+      "text": "TREIZE NOUVEAUX MORTS ENTRE L'UKRAINE ET LA RUSSIE APRÈS DE NOUVELLES FRAPPES ENTRE LES DEUX PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:30",
+      "date": "22/08",
+      "timestamp": 1787427034
+    },
     {
       "id": "BFMTV_1787422854",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "17:30",
       "date": "20/08",
       "timestamp": 1787247011
-    },
-    {
-      "id": "OPEX360_1787246462",
-      "source": "OPEX360",
-      "text": "LE GOUVERNEMENT SUISSE DEMANDE UN MILLIARD D’EUROS DE PLUS POUR FINANCER SES FUTURES CAPACITÉS DE DÉFENSE AÉRIENNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:21",
-      "date": "20/08",
-      "timestamp": 1787246462
     }
   ],
   "france": {
