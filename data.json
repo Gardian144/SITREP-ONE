@@ -1,7 +1,17 @@
 {
-  "last_update": "22/08 05:25",
+  "last_update": "22/08 05:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787377489",
+      "source": "BFMTV",
+      "text": "AU MOINS 16 MORTS, VILLE NATALE DE VOLODYMYR ZELENSKY VISÉE... CE QUE L'ON SAIT DES FRAPPES RUSSES EN UKRAINE SUR UN CENTRE COMMERCIAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:44",
+      "date": "22/08",
+      "timestamp": 1787377489
+    },
     {
       "id": "BFMTV_1787375869",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:23",
       "date": "20/08",
       "timestamp": 1787217782
-    },
-    {
-      "id": "BFMTV_1787217252",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN DRONE RUSSE FRAPPE LE QG DE LA POLICE DE JYTOMYR, À L'OUEST DE KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:14",
-      "date": "20/08",
-      "timestamp": 1787217252
     }
   ],
   "france": {
