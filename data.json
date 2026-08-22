@@ -1,7 +1,17 @@
 {
-  "last_update": "22/08 15:18",
+  "last_update": "22/08 15:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787413477",
+      "source": "BFMTV",
+      "text": "INCENDIE D'UN IMMEUBLE EN SUISSE: DEUX PERSONNES DÉCOUVERTES MORTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:44",
+      "date": "22/08",
+      "timestamp": 1787413477
+    },
     {
       "id": "BFMTV_1787408256",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:13",
       "date": "20/08",
       "timestamp": 1787242383
-    },
-    {
-      "id": "BFMTV_1787239981",
-      "source": "BFMTV",
-      "text": "\"ON A BESOIN DU MULTILATÉRALISME\": L’ÉQUATORIENNE IVONNE A-BAKI, NOUVELLE CANDIDATE AU POSTE DE CHEF DE L’ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:33",
-      "date": "20/08",
-      "timestamp": 1787239981
     }
   ],
   "france": {
