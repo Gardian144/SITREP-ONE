@@ -1,7 +1,17 @@
 {
-  "last_update": "22/08 10:31",
+  "last_update": "22/08 10:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787395827",
+      "source": "BFMTV",
+      "text": "LA CORÉE DU NORD ACCUSE LE JAPON DE PRÉPARER UNE \"GUERRE D'AGRESSION\" ET DIT REDOUTER \"DE NOUVELLES CRISES DANS LA RÉGION ET DANS LE MONDE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:50",
+      "date": "22/08",
+      "timestamp": 1787395827
+    },
     {
       "id": "OPEX360_1787393723",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "13:04",
       "date": "20/08",
       "timestamp": 1787231063
-    },
-    {
-      "id": "BFMTV_1787229117",
-      "source": "BFMTV",
-      "text": "HARRY ET MEGHAN REVIENNENT AU ROYAUME-UNI: POURQUOI LOS ANGELES NE PLEURE PAS LEUR DÉPART?",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:31",
-      "date": "20/08",
-      "timestamp": 1787229117
     }
   ],
   "france": {
