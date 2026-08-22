@@ -1,7 +1,17 @@
 {
-  "last_update": "22/08 16:21",
+  "last_update": "22/08 16:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787416011",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE RECONNAÎT LES DIFFICULTÉS DE LA GUERRE AVEC L'UKRAINE LORS D'UNE ALLOCUTION À MOSCOU",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:26",
+      "date": "22/08",
+      "timestamp": 1787416011
+    },
     {
       "id": "BFMTV_1787414277",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "17:21",
       "date": "20/08",
       "timestamp": 1787246462
-    },
-    {
-      "id": "BFMTV_1787246395",
-      "source": "BFMTV",
-      "text": "L’EFFONDREMENT D’UNE MINE D’OR ARTISANALE EN CENTRAFRIQUE FAIT AU MOINS 100 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:19",
-      "date": "20/08",
-      "timestamp": 1787246395
     }
   ],
   "france": {
