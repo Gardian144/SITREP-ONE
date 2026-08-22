@@ -1,7 +1,37 @@
 {
-  "last_update": "22/08 15:45",
+  "last_update": "22/08 16:21",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787414277",
+      "source": "BFMTV",
+      "text": "APRÈS DES FRAPPES RUSSES SUR UN CENTRE COMMERCIAL, EMMANUEL MACRON ANNONCE L’ENVOI DE NOUVEAUX MISSILES “INTERCEPTEURS” À KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:57",
+      "date": "22/08",
+      "timestamp": 1787414277
+    },
+    {
+      "id": "BFMTV_1787414085",
+      "source": "BFMTV",
+      "text": "UNE COLLISION ENTRE UN VÉHICULE À CONTRESENS ET UNE VOITURE DE POLICE FAIT SEPT MORTS EN ANGLETERRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:54",
+      "date": "22/08",
+      "timestamp": 1787414085
+    },
+    {
+      "id": "BFMTV_1787413746",
+      "source": "BFMTV",
+      "text": "\"C'EST TRISTE, C'EST UNE OBSESSION MALSAINE\": LE FRÈRE DE NATALIE HARP RÉAGIT AUX COURRIERS ADRESSÉS PAR SA SŒUR À DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:49",
+      "date": "22/08",
+      "timestamp": 1787413746
+    },
     {
       "id": "BFMTV_1787413477",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:19",
       "date": "20/08",
       "timestamp": 1787246395
-    },
-    {
-      "id": "BFMTV_1787244846",
-      "source": "BFMTV",
-      "text": "SABOTAGE DU GAZODUC NORD STREAM: LE SUSPECT A ÉTÉ ARRÊTÉ SUR LE TOURNAGE D'UN FILM... INSPIRÉ DE L'ÉVÉNEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:54",
-      "date": "20/08",
-      "timestamp": 1787244846
-    },
-    {
-      "id": "BFMTV_1787243917",
-      "source": "BFMTV",
-      "text": "HARRY ET MEGHAN DE RETOUR AU ROYAUME-UNI: 10 ANS QUI ONT SECOUÉ LES WINDSOR",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:38",
-      "date": "20/08",
-      "timestamp": 1787243917
-    },
-    {
-      "id": "OPEX360_1787242383",
-      "source": "OPEX360",
-      "text": "LA FORCE AÉRIENNE INDIENNE ENVISAGE DE DÉVELOPPER UN AVION D’ALERTE AVANCÉE À PARTIR D’UN AIRBUS A330",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:13",
-      "date": "20/08",
-      "timestamp": 1787242383
     }
   ],
   "france": {
