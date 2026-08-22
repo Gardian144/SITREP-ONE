@@ -1,7 +1,47 @@
 {
-  "last_update": "22/08 04:04",
+  "last_update": "22/08 04:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787373867",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE FRAPPE RUSSE FAIT AU MOINS 14 MORTS DANS LA VILLE NATALE DU PRÉSIDENT VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:44",
+      "date": "22/08",
+      "timestamp": 1787373867
+    },
+    {
+      "id": "BFMTV_1787373401",
+      "source": "BFMTV",
+      "text": "UN ADOLESCENT PROCHE DE LA MOUVANCE NÉO-NAZIE ARRÊTÉ AU CANADA ALORS QU'IL PLANIFIAIT UNE ATTAQUE CONTRE UNE ÉCOLE AVEC UNE IA",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:36",
+      "date": "22/08",
+      "timestamp": 1787373401
+    },
+    {
+      "id": "BFMTV_1787372774",
+      "source": "BFMTV",
+      "text": "\"UNE TERREUR PLANIFIÉE\": EN UKRAINE, LE BILAN DES FRAPPES RUSSES SUR UN CENTRE COMMERCIAL MONTE À AU MOINS 16 MORTS ET PLUS DE 130 BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:26",
+      "date": "22/08",
+      "timestamp": 1787372774
+    },
+    {
+      "id": "BFMTV_1787372151",
+      "source": "BFMTV",
+      "text": "RETROUVÉ SEUL SUR UN CHEMIN DE RANDONNÉE: UN JAPONAIS ABANDONNE SON FILS DE 7 ANS SUR LE MONT FUJI PENDANT DES HEURES POUR CONTINUER SON ASCENSION",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:15",
+      "date": "22/08",
+      "timestamp": 1787372151
+    },
     {
       "id": "BFMTV_1787348387",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "09:11",
       "date": "20/08",
       "timestamp": 1787217062
-    },
-    {
-      "id": "BFMTV_1787216250",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:57",
-      "date": "20/08",
-      "timestamp": 1787216250
-    },
-    {
-      "id": "BFMTV_1787216250",
-      "source": "BFMTV",
-      "text": "\"ATTAQUE MASSIVE\", INFRASTRUCTURES CIVILES TOUCHÉES... CE QUE L'ON SAIT DES FRAPPES RUSSES QUI ONT FAIT AU MOINS 13 MORTS EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:57",
-      "date": "20/08",
-      "timestamp": 1787216250
-    },
-    {
-      "id": "BFMTV_1787215643",
-      "source": "BFMTV",
-      "text": "UN POSSIBLE MISSILE BALISTIQUE TIRÉ DEPUIS LA CORÉE DU NORD ",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:47",
-      "date": "20/08",
-      "timestamp": 1787215643
-    },
-    {
-      "id": "BFMTV_1787213312",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QU'IL \"COMPTE BIEN\" RENCONTRER LE DIRIGEANT NORD-CORÉEN KIM JONG-UN CETTE ANNÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:08",
-      "date": "20/08",
-      "timestamp": 1787213312
     }
   ],
   "france": {
