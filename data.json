@@ -1,5 +1,5 @@
 {
-  "last_update": "22/08 19:47",
+  "last_update": "22/08 20:20",
   "impacts": [],
   "news": [
     {
@@ -71,6 +71,16 @@
       "time": "15:44",
       "date": "22/08",
       "timestamp": 1787413477
+    },
+    {
+      "id": "BFMTV_1787411490",
+      "source": "BFMTV",
+      "text": "FRANÇAIS DÉTENUS AU TOGO: LE GOUVERNEMENT ASSURE QUE LA JUSTICE LOCALE DÉTIENT DES \"INDICES GRAVES\" CONTRE LES DEUX HOMMES",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:11",
+      "date": "22/08",
+      "timestamp": 1787411490
     },
     {
       "id": "BFMTV_1787408256",
@@ -991,16 +1001,6 @@
       "time": "18:29",
       "date": "20/08",
       "timestamp": 1787250586
-    },
-    {
-      "id": "BFMTV_1787247011",
-      "source": "BFMTV",
-      "text": "LA ROUMANIE ANNONCE QU'UN F-16 A ABATTU UN DRONE MARITIME PRÈS DU PLUS IMPORTANT PROJET D'EXTRACTION GAZIÈRE EN MER DE L'UE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:30",
-      "date": "20/08",
-      "timestamp": 1787247011
     }
   ],
   "france": {
