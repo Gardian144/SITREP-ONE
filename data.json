@@ -1,7 +1,37 @@
 {
-  "last_update": "22/08 08:28",
+  "last_update": "22/08 08:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787388718",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RÉGION DE KIEV SOUS LA MENACE DE NOUVEAUX MISSILES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:51",
+      "date": "22/08",
+      "timestamp": 1787388718
+    },
+    {
+      "id": "BFMTV_1787388092",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV CIBLE UN AUTRE GÉANT DE L'E-COMMERCE RUSSE, OZON, EN DÉTRUISANT LE CINQUIÈME PLUS GRAND ENTREPÔT DE L'ENTREPRISE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:41",
+      "date": "22/08",
+      "timestamp": 1787388092
+    },
+    {
+      "id": "BFMTV_1787387739",
+      "source": "BFMTV",
+      "text": "\"MON GARDIEN ET MON PROTECTEUR\": DES LETTRES DE NATALIE HARP, ASSISTANTE DE DONALD TRUMP, AU PRÉSIDENT RÉVÉLÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:35",
+      "date": "22/08",
+      "timestamp": 1787387739
+    },
     {
       "id": "BFMTV_1787377489",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "10:45",
       "date": "20/08",
       "timestamp": 1787222716
-    },
-    {
-      "id": "OPEX360_1787222668",
-      "source": "OPEX360",
-      "text": "SELON SÉOUL, LA CORÉE DU NORD POSSÈDERAIT ENTRE 80 ET 120 OGIVES NUCLÉAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:44",
-      "date": "20/08",
-      "timestamp": 1787222668
-    },
-    {
-      "id": "BFMTV_1787221867",
-      "source": "BFMTV",
-      "text": "QUATRE JOURS DE CONGÉS POUR JOUER À \"GTA VI\": L'AMUSANTE OFFRE D'UN BATAILLON DE L'ARMÉE AMÉRICAINE À SES SOLDATS POUR SE RÉENGAGER",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:31",
-      "date": "20/08",
-      "timestamp": 1787221867
-    },
-    {
-      "id": "BFMTV_1787221272",
-      "source": "BFMTV",
-      "text": "LA CORÉE DU NORD A TIRÉ \"ENVIRON 10 MISSILES BALISTIQUES DE COURTE PORTÉE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:21",
-      "date": "20/08",
-      "timestamp": 1787221272
     }
   ],
   "france": {
