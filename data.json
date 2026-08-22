@@ -1,7 +1,37 @@
 {
-  "last_update": "22/08 11:47",
+  "last_update": "22/08 12:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787402075",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: EMMANUEL MACRON ANNONCE DE NOUVEAUX MISSILES \"INTERCEPTEURS\" POUR KIEV AU LENDEMAIN DE NOUVELLES FRAPPES RUSSES MEURTRIÈRES",
+      "urgent": true,
+      "france_related": true,
+      "time": "12:34",
+      "date": "22/08",
+      "timestamp": 1787402075
+    },
+    {
+      "id": "OPEX360_1787401303",
+      "source": "OPEX360",
+      "text": "LE SUÉDOIS SAAB DÉVOILE LE CONCEPT DE DRONE DE COMBAT COLLABORATIF SUPERSONIQUE «A3-001»",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:21",
+      "date": "22/08",
+      "timestamp": 1787401303
+    },
+    {
+      "id": "BFMTV_1787400784",
+      "source": "BFMTV",
+      "text": "ATTAQUE À L'ÉPÉE DANS UN LYCÉE EN SUÈDE: LA VICTIME ÉTAIT UNE ÉLÈVE DE 17 ANS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:13",
+      "date": "22/08",
+      "timestamp": 1787400784
+    },
     {
       "id": "BFMTV_1787396553",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "14:26",
       "date": "20/08",
       "timestamp": 1787235970
-    },
-    {
-      "id": "BFMTV_1787233472",
-      "source": "BFMTV",
-      "text": "CE QUE L'ON SAIT DES FRAPPES RUSSES QUI ONT FAIT AU MOINS 16 MORTS EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:44",
-      "date": "20/08",
-      "timestamp": 1787233472
-    },
-    {
-      "id": "BFMTV_1787233058",
-      "source": "BFMTV",
-      "text": "RÉDUCTION DE LA PARTICIPATION AMÉRICAINE AUX MANŒUVRES MILITAIRES SUD-CORÉENNES: SÉOUL A \"CE QU'IL MÉRITE\", SELON PYONGYANG",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:37",
-      "date": "20/08",
-      "timestamp": 1787233058
-    },
-    {
-      "id": "BFMTV_1787232695",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS ASSURENT QU'UN DE LEURS RESSORTISSANTS EST DÉTENU \"ARBITRAIREMENT\" EN CHINE ET DEMANDENT SA LIBÉRATION",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:31",
-      "date": "20/08",
-      "timestamp": 1787232695
     }
   ],
   "france": {
