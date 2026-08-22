@@ -1,7 +1,17 @@
 {
-  "last_update": "22/08 20:48",
+  "last_update": "22/08 21:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787433017",
+      "source": "BFMTV",
+      "text": "AVEC 8.500 SOLDATS, DONT 400 OPÉRATEURS DE DRONES, LA CORÉE DU NORD POURRAIT ENVOYER 50.000 HOMMES SUPPLÉMENTAIRES À LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:10",
+      "date": "22/08",
+      "timestamp": 1787433017
+    },
     {
       "id": "BFMTV_1787430203",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "18:49",
       "date": "20/08",
       "timestamp": 1787251793
-    },
-    {
-      "id": "BFMTV_1787251050",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN NOUVEAU PORTE-AVIONS AMÉRICAIN EST ARRIVÉ AU MOYEN-ORIENT POUR REMPLACER L’USS LINCOLN",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:37",
-      "date": "20/08",
-      "timestamp": 1787251050
     }
   ],
   "france": {
