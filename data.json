@@ -1,7 +1,27 @@
 {
-  "last_update": "22/08 13:18",
+  "last_update": "22/08 13:51",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787406582",
+      "source": "OPEX360",
+      "text": "LA SÉCURITÉ CIVILE SOULIGNE L’EFFICACITÉ DE L’HÉLICOPTÈRE CH-47D CHINOOK AUSTRALIEN POUR LUTTER CONTRE LES FEUX DE FORÊT",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:49",
+      "date": "22/08",
+      "timestamp": 1787406582
+    },
+    {
+      "id": "BFMTV_1787406176",
+      "source": "BFMTV",
+      "text": "UN COMMISSARIAT VISÉ PAR DES TIRS EN BELGIQUE, LE MINISTRE DE L'INTÉRIEUR \"PROFONDÉMENT CHOQUÉ\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:42",
+      "date": "22/08",
+      "timestamp": 1787406176
+    },
     {
       "id": "BFMTV_1787402075",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "15:22",
       "date": "20/08",
       "timestamp": 1787239349
-    },
-    {
-      "id": "BFMTV_1787239007",
-      "source": "BFMTV",
-      "text": "GAZA: L'ARMÉE ISRAÉLIENNE RECONNAÎT AVOIR TIRÉ SUR LA VOITURE DE HIND RAJAB",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:16",
-      "date": "20/08",
-      "timestamp": 1787239007
-    },
-    {
-      "id": "OPEX360_1787237424",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE PRÉVOIT D’AFFECTER UN AVION DE TRANSPORT A400M DANS LA ZONE DU PACIFIQUE EN 2030",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:50",
-      "date": "20/08",
-      "timestamp": 1787237424
     }
   ],
   "france": {
