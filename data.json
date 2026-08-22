@@ -1,5 +1,5 @@
 {
-  "last_update": "22/08 12:36",
+  "last_update": "22/08 13:18",
   "impacts": [],
   "news": [
     {
@@ -11,6 +11,26 @@
       "time": "12:34",
       "date": "22/08",
       "timestamp": 1787402075
+    },
+    {
+      "id": "BFMTV_1787402036",
+      "source": "BFMTV",
+      "text": "\"UN AVEU DE FAIBLESSE\": EMMANUEL MACRON RÉAGIT APRÈS LES FRAPPES RUSSES CONTRE KIEV ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:33",
+      "date": "22/08",
+      "timestamp": 1787402036
+    },
+    {
+      "id": "BFMTV_1787401976",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: À UN MOIS DES LÉGISLATIVES, VLADIMIR POUTINE TENTE DE GALVANISER SES TROUPES AU CONGRÈS DE RUSSIE UNIE MALGRÉ UN CONTEXTE TENDU",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:32",
+      "date": "22/08",
+      "timestamp": 1787401976
     },
     {
       "id": "OPEX360_1787401303",
@@ -981,26 +1001,6 @@
       "time": "14:50",
       "date": "20/08",
       "timestamp": 1787237424
-    },
-    {
-      "id": "BFMTV_1787236717",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: QUI EST NATALIE HARP, L'ASSISTANTE OMNIPRÉSENTE DE DONALD TRUMP?",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:38",
-      "date": "20/08",
-      "timestamp": 1787236717
-    },
-    {
-      "id": "BFMTV_1787235970",
-      "source": "BFMTV",
-      "text": "HARRY ET MEGHAN DEVRAIENT REVENIR AU ROYAUME-UNI DÈS LA FIN DU MOIS, SELON LES MÉDIAS BRITANNIQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:26",
-      "date": "20/08",
-      "timestamp": 1787235970
     }
   ],
   "france": {
