@@ -1,7 +1,17 @@
 {
-  "last_update": "22/08 04:48",
+  "last_update": "22/08 05:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787375869",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: À KRYVY RIH, UNE FRAPPE RUSSE FAIT AU MOINS 15 MORTS ET 130 BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:17",
+      "date": "22/08",
+      "timestamp": 1787375869
+    },
     {
       "id": "BFMTV_1787373867",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:14",
       "date": "20/08",
       "timestamp": 1787217252
-    },
-    {
-      "id": "BFMTV_1787217062",
-      "source": "BFMTV",
-      "text": "INCENDIES EN BELGIQUE: DE NOMBREUSES REPRISES DE FEU MAÎTRISÉES, LES POMPIERS LUTTENT TOUJOURS CONTRE LES FLAMMES",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:11",
-      "date": "20/08",
-      "timestamp": 1787217062
     }
   ],
   "france": {
