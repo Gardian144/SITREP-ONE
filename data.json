@@ -1,7 +1,17 @@
 {
-  "last_update": "23/08 12:36",
+  "last_update": "23/08 13:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787490942",
+      "source": "BFMTV",
+      "text": "INCENDIE D'UN IMMEUBLE EN SUISSE: LE BILAN GRIMPE À QUATRE MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:15",
+      "date": "23/08",
+      "timestamp": 1787490942
+    },
     {
       "id": "BFMTV_1787484535",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "21:19",
       "date": "20/08",
       "timestamp": 1787260792
-    },
-    {
-      "id": "BFMTV_1787260705",
-      "source": "BFMTV",
-      "text": "APRÈS AVOIR PASSÉ 25 MINUTES BLOQUÉES LA TÊTE EN BAS DANS UN MANÈGE, DEUX ADOLESCENTES AMÉRICAINES OBTIENNENT 275.000 EUROS DE DÉDOMMAGEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:18",
-      "date": "20/08",
-      "timestamp": 1787260705
     }
   ],
   "france": {
