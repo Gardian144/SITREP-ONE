@@ -1,7 +1,17 @@
 {
-  "last_update": "23/08 21:19",
+  "last_update": "23/08 21:45",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787521392",
+      "source": "BFMTV",
+      "text": "\"L'ARMÉE PRENDRA DES MESURES\": ISRAËL MENACE LE HAMAS DE RÉPRESSIONS APRÈS LE LANCEMENT DE CERFS-VOLANTS DEPUIS GAZA",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:43",
+      "date": "23/08",
+      "timestamp": 1787521392
+    },
     {
       "id": "BFMTV_1787518014",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "10:45",
       "date": "21/08",
       "timestamp": 1787309133
-    },
-    {
-      "id": "OPEX360_1787308828",
-      "source": "OPEX360",
-      "text": "L’ADMINISTRATION AMÉRICAINE AUTORISE LE QATAR À ACQUÉRIR QUATRE AVIONS RAVITAILLEURS KC-46A PEGASUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:40",
-      "date": "21/08",
-      "timestamp": 1787308828
     }
   ],
   "france": {
