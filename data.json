@@ -1,7 +1,17 @@
 {
-  "last_update": "23/08 08:30",
+  "last_update": "23/08 08:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787474682",
+      "source": "BFMTV",
+      "text": "UNE TOUCHE \"COMIQUE\" AJOUTÉE: UN CÉLÈBRE ACTEUR CHINOIS VISÉ PAR UNE ENQUÊTE POUR AVOIR DÉTOURNÉ UNE CHANSON PATRIOTIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:44",
+      "date": "23/08",
+      "timestamp": 1787474682
+    },
     {
       "id": "BFMTV_1787473061",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "20:41",
       "date": "20/08",
       "timestamp": 1787258491
-    },
-    {
-      "id": "BFMTV_1787258340",
-      "source": "BFMTV",
-      "text": "HARRY ET MEGHAN DE RETOUR AU ROYAUME-UNI: LES RAISONS QUI ONT POUSSÉ LE COUPLE À QUITTER LOS ANGELES",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:39",
-      "date": "20/08",
-      "timestamp": 1787258340
     }
   ],
   "france": {
