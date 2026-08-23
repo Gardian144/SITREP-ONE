@@ -1,7 +1,17 @@
 {
-  "last_update": "23/08 11:27",
+  "last_update": "23/08 11:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787484535",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DE QUELLE MANIÈRE LES NOUVEAUX MISSILES INTERCEPTEURS ENVOYÉS PAR LA FRANCE PEUVENT-ILS AIDER KIEV?",
+      "urgent": true,
+      "france_related": true,
+      "time": "11:28",
+      "date": "23/08",
+      "timestamp": 1787484535
+    },
     {
       "id": "OPEX360_1787482775",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "21:18",
       "date": "20/08",
       "timestamp": 1787260705
-    },
-    {
-      "id": "BFMTV_1787259075",
-      "source": "BFMTV",
-      "text": "CE QUE L'ON SAIT DE L'ARSENAL NUCLÉAIRE DE LA CORÉE DU NORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:51",
-      "date": "20/08",
-      "timestamp": 1787259075
     }
   ],
   "france": {
