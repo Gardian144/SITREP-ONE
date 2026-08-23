@@ -1,7 +1,27 @@
 {
-  "last_update": "23/08 17:45",
+  "last_update": "23/08 18:26",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787509327",
+      "source": "BFMTV",
+      "text": "MISSILES EN APPROCHE: UNE ALERTE EST EN COURS À KIEV EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:22",
+      "date": "23/08",
+      "timestamp": 1787509327
+    },
+    {
+      "id": "BFMTV_1787507666",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VLADIMIR POUTINE PROMET DE HAUSSER LE TON",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:54",
+      "date": "23/08",
+      "timestamp": 1787507666
+    },
     {
       "id": "BFMTV_1787504661",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:30",
       "date": "21/08",
       "timestamp": 1787301001
-    },
-    {
-      "id": "BFMTV_1787300674",
-      "source": "BFMTV",
-      "text": "HUIT MORTS DANS UN ACCIDENT D'AVION SUR UN SITE MILITAIRE EN ALASKA",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:24",
-      "date": "21/08",
-      "timestamp": 1787300674
-    },
-    {
-      "id": "BFMTV_1787300564",
-      "source": "BFMTV",
-      "text": "UNE FEMME ARRÊTÉE SOUPÇONNÉE D'AVOIR PRÉPARÉ UN ATTENTAT À LA BOMBE POUR LE COMPTE DE DAESH DANS L'ÉTAT DE NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:22",
-      "date": "21/08",
-      "timestamp": 1787300564
     }
   ],
   "france": {
