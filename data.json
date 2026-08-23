@@ -1,7 +1,17 @@
 {
-  "last_update": "23/08 20:48",
+  "last_update": "23/08 21:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787518014",
+      "source": "BFMTV",
+      "text": "GUERRE TECHNOLOGIQUE: QUAND UN ROBOT UKRAINIEN NEUTRALISE 20 SOLDATS RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:46",
+      "date": "23/08",
+      "timestamp": 1787518014
+    },
     {
       "id": "BFMTV_1787516920",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "10:40",
       "date": "21/08",
       "timestamp": 1787308828
-    },
-    {
-      "id": "BFMTV_1787308234",
-      "source": "BFMTV",
-      "text": "ROUMANIE: UN F-16 ABAT UN DRONE MARITIME ATTRIBUÉ À LA RUSSIE PRÈS DU PLUS IMPORTANT PROJET D'EXTRACTION GAZIÈRE EN MER DE L'UE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:30",
-      "date": "21/08",
-      "timestamp": 1787308234
     }
   ],
   "france": {
