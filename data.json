@@ -1,7 +1,17 @@
 {
-  "last_update": "23/08 09:35",
+  "last_update": "23/08 09:59",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787478841",
+      "source": "OPEX360",
+      "text": "L’US NAVY DÉVOILE L’AIM-424 LRAAM «MALICE», UN NOUVEAU MISSILE AIR-AIR D’UNE PORTÉE D’AU MOINS 460 KM",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:54",
+      "date": "23/08",
+      "timestamp": 1787478841
+    },
     {
       "id": "BFMTV_1787474682",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "20:48",
       "date": "20/08",
       "timestamp": 1787258891
-    },
-    {
-      "id": "BFMTV_1787258491",
-      "source": "BFMTV",
-      "text": "ACCORD COMMERCIAL CANADA-USA: \"NOUS SOMMES TRÈS PROCHES\", AFFIRME LE MINISTRE CANADIEN DOMINIC LEBLANC",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:41",
-      "date": "20/08",
-      "timestamp": 1787258491
     }
   ],
   "france": {
