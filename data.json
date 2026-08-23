@@ -1,7 +1,17 @@
 {
-  "last_update": "23/08 13:53",
+  "last_update": "23/08 14:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787493289",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV S'ATTAQUE AU GÉANT DU E-COMMERCE RUSSE OZON EN VISANT DEUX ENTREPÔTS EN DEUX JOURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:54",
+      "date": "23/08",
+      "timestamp": 1787493289
+    },
     {
       "id": "BFMTV_1787492703",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "04:46",
       "date": "21/08",
       "timestamp": 1787287566
-    },
-    {
-      "id": "BFMTV_1787262459",
-      "source": "BFMTV",
-      "text": "\"J'AI ENTENDU DIRE QUE JE VOUS AVAIS MANQUÉ\": MELANIA TRUMP APPARAÎT DE NOUVEAU APRÈS UN MOIS D'ABSENCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:47",
-      "date": "20/08",
-      "timestamp": 1787262459
     }
   ],
   "france": {
