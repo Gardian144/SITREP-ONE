@@ -1,7 +1,27 @@
 {
-  "last_update": "23/08 14:49",
+  "last_update": "23/08 15:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787497476",
+      "source": "BFMTV",
+      "text": "CALIFORNIE: UN TOURISTE FRANÇAIS DE 68 ANS MEURT DANS LE PARC DE LA VALLÉE DE LA MORT, SOUS 47°C",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:04",
+      "date": "23/08",
+      "timestamp": 1787497476
+    },
+    {
+      "id": "BFMTV_1787496415",
+      "source": "BFMTV",
+      "text": "LES DÉTAILS DE L'ATTAQUE INFORMATIQUE SURVENUE DANS UNE CENTRALE ÉLECTRIQUE AU ROYAUME-UNI",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:46",
+      "date": "23/08",
+      "timestamp": 1787496415
+    },
     {
       "id": "BFMTV_1787496131",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "07:39",
       "date": "21/08",
       "timestamp": 1787297952
-    },
-    {
-      "id": "BFMTV_1787294503",
-      "source": "BFMTV",
-      "text": "CINQ PERSONNES PORTÉES DISPARUES ET HUIT BLESSÉES DANS L'INCENDIE D'UN IMMEUBLE EN SUISSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:41",
-      "date": "21/08",
-      "timestamp": 1787294503
-    },
-    {
-      "id": "BFMTV_1787290330",
-      "source": "BFMTV",
-      "text": "SONIA BELLINA: UNE PERSONNE TOUJOURS EN GARDE À VUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:32",
-      "date": "21/08",
-      "timestamp": 1787290330
     }
   ],
   "france": {
