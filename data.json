@@ -1,7 +1,27 @@
 {
-  "last_update": "23/08 19:45",
+  "last_update": "23/08 20:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787514716",
+      "source": "BFMTV",
+      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:51",
+      "date": "23/08",
+      "timestamp": 1787514716
+    },
+    {
+      "id": "BFMTV_1787514439",
+      "source": "BFMTV",
+      "text": "CRANS-MONTANA: JAQUES MORETTI, PATRON DU CONSTELLATION, EN DÉTENTION PROVISOIRE POUR DES VIOLENCES SUR SON ÉPOUSE JESSICA",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:47",
+      "date": "23/08",
+      "timestamp": 1787514439
+    },
     {
       "id": "BFMTV_1787509327",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "09:52",
       "date": "21/08",
       "timestamp": 1787305933
-    },
-    {
-      "id": "BFMTV_1787302214",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:50",
-      "date": "21/08",
-      "timestamp": 1787302214
-    },
-    {
-      "id": "BFMTV_1787301001",
-      "source": "BFMTV",
-      "text": "PÉKIN DÉMENT DÉTENIR DE MANIÈRE ARBITRAIRE UN CITOYEN AMÉRICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:30",
-      "date": "21/08",
-      "timestamp": 1787301001
     }
   ],
   "france": {
