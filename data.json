@@ -1,7 +1,27 @@
 {
-  "last_update": "23/08 13:19",
+  "last_update": "23/08 13:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787492703",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"LA LENTEUR DE LA RÉPONSE APPARAÎT POUR LES RUSSES COMME UN SIGNE DE FAIBLESSE DE L'UNION EUROPÉENNE\", ESTIME HUGUES PERNET, PREMIER AMBASSADEUR DE FRANCE EN UKRAINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:45",
+      "date": "23/08",
+      "timestamp": 1787492703
+    },
+    {
+      "id": "BFMTV_1787492214",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV VISE À NOUVEAU UN AUTRE ENTREPÔT D'UN DES LEADERS DU E-COMMERCE RUSSE, OZON",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:36",
+      "date": "23/08",
+      "timestamp": 1787492214
+    },
     {
       "id": "BFMTV_1787490942",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "21:47",
       "date": "20/08",
       "timestamp": 1787262459
-    },
-    {
-      "id": "BFMTV_1787261292",
-      "source": "BFMTV",
-      "text": "CISJORDANIE: LA FRANCE, L'ALLEMAGNE, LE ROYAUME-UNI ET L'ITALIE APPELLENT À \"METTRE FIN À L'EXPANSION DES COLONIES\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:28",
-      "date": "20/08",
-      "timestamp": 1787261292
-    },
-    {
-      "id": "BFMTV_1787260792",
-      "source": "BFMTV",
-      "text": "USS LINCOLN: LE PORTE-AVIONS AMÉRICAIN EST ENFIN REMPLACÉ ",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:19",
-      "date": "20/08",
-      "timestamp": 1787260792
     }
   ],
   "france": {
