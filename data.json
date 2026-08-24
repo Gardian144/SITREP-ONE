@@ -1,7 +1,17 @@
 {
-  "last_update": "24/08 17:29",
+  "last_update": "24/08 18:00",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787592644",
+      "source": "OPEX360",
+      "text": "UN AVION DE COMBAT GRIPEN DE LA FORCE AÉRIENNE HONGROISE S’EST ÉCRASÉ EN TENTANT UN ATTERRISSAGE D’URGENCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:30",
+      "date": "24/08",
+      "timestamp": 1787592644
+    },
     {
       "id": "BFMTV_1787591423",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "21:31",
       "date": "21/08",
       "timestamp": 1787347884
-    },
-    {
-      "id": "BFMTV_1787347432",
-      "source": "BFMTV",
-      "text": "LES IMAGES D'UN AVION DE CHASSE UKRAINIEN QUI ABAT UN DRONE RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:23",
-      "date": "21/08",
-      "timestamp": 1787347432
     }
   ],
   "france": {
