@@ -1,7 +1,47 @@
 {
-  "last_update": "24/08 13:50",
+  "last_update": "24/08 14:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787582117",
+      "source": "BFMTV",
+      "text": "DANS UNE VIDÉO, L'IRAN OFFRE 10 MILLIONS DE DOLLARS POUR ASSASSINER BARRON TRUMP, LE FILS DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:35",
+      "date": "24/08",
+      "timestamp": 1787582117
+    },
+    {
+      "id": "BFMTV_1787582073",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES REBELLES HOUTHIS DU YÉMEN REVENDIQUENT UNE FRAPPE CONTRE UN PÉTROLIER SAOUDIEN EN MER ROUGE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:34",
+      "date": "24/08",
+      "timestamp": 1787582073
+    },
+    {
+      "id": "OPEX360_1787581277",
+      "source": "OPEX360",
+      "text": "UN GRIPEN C SUÉDOIS A TIRÉ UN MISSILE DE CROISIÈRE À LONGUE PORTÉE KEPD-350 TAURUS POUR LA PREMIÈRE FOIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:21",
+      "date": "24/08",
+      "timestamp": 1787581277
+    },
+    {
+      "id": "BFMTV_1787580188",
+      "source": "BFMTV",
+      "text": "L'ACTEUR MARK RUFFALO S'EXPLIQUE APRÈS AVOIR ÉTÉ ACCUSÉ D'ANTISÉMITISME",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:03",
+      "date": "24/08",
+      "timestamp": 1787580188
+    },
     {
       "id": "BFMTV_1787574552",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "18:07",
       "date": "21/08",
       "timestamp": 1787335662
-    },
-    {
-      "id": "BFMTV_1787335563",
-      "source": "BFMTV",
-      "text": "UKRAINE: UNE FRAPPE RUSSE FAIT AU MOINS 14 MORTS DANS LA VILLE NATALE DU PRÉSIDENT VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:06",
-      "date": "21/08",
-      "timestamp": 1787335563
-    },
-    {
-      "id": "BFMTV_1787334063",
-      "source": "BFMTV",
-      "text": "\"CYNIQUE ET IGNOBLE\": EN UKRAINE, UNE FRAPPE RUSSE FAIT AU MOINS 14 MORTS DANS LA VILLE NATALE DU PRÉSIDENT VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:41",
-      "date": "21/08",
-      "timestamp": 1787334063
-    },
-    {
-      "id": "OPEX360_1787333886",
-      "source": "OPEX360",
-      "text": "LA MARINE ARGENTINE SE RÉSOUT À RETIRER SES AVIONS SUPER ÉTENDARD DU SERVICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:38",
-      "date": "21/08",
-      "timestamp": 1787333886
-    },
-    {
-      "id": "OPEX360_1787330641",
-      "source": "OPEX360",
-      "text": "RENSEIGNEMENT ÉLECTRONIQUE : L’OTAN A DÉPLOYÉ UN DISPOSITIF AÉRIEN INÉDIT PRÈS DU TERRITOIRE RUSSE DE KALININGRAD",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:44",
-      "date": "21/08",
-      "timestamp": 1787330641
     }
   ],
   "france": {
