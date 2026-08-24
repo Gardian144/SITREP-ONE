@@ -1,7 +1,37 @@
 {
-  "last_update": "24/08 10:52",
+  "last_update": "24/08 11:26",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787570548",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: COMMENT LA RUSSIE RECRUTE-T-ELLE DE NOUVEAUX SOLDATS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:22",
+      "date": "24/08",
+      "timestamp": 1787570548
+    },
+    {
+      "id": "BFMTV_1787569677",
+      "source": "BFMTV",
+      "text": "COALITION DES VOLONTAIRES: LA FRANCE ET LE ROYAUME-UNI TOUJOURS UNIS POUR SOUTENIR L'UKRAINE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:07",
+      "date": "24/08",
+      "timestamp": 1787569677
+    },
+    {
+      "id": "BFMTV_1787569533",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE NOUVELLE \"COALITION DES VOLONTAIRES\" RÉUNIE POUR PALIER LE DÉFICIT DE SYSTÈMES DE DÉFENSE ANTIAÉRIENNE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:05",
+      "date": "24/08",
+      "timestamp": 1787569533
+    },
     {
       "id": "BFMTV_1787568065",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "16:20",
       "date": "21/08",
       "timestamp": 1787329245
-    },
-    {
-      "id": "BFMTV_1787328267",
-      "source": "BFMTV",
-      "text": "ROUMANIE: UN F-16 ABAT UN DRONE MARITIME ATTRIBUÉ À LA RUSSIE PRÈS D'UN PROJET D'EXTRACTION GAZIÈRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:04",
-      "date": "21/08",
-      "timestamp": 1787328267
-    },
-    {
-      "id": "BFMTV_1787328223",
-      "source": "BFMTV",
-      "text": "AU MOINS TROIS PERSONNES BLESSÉES À COUPS D'ÉPÉE DANS UN LYCÉE EN SUÈDE, UN SUSPECT DE 18 ANS INTERPELLÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:03",
-      "date": "21/08",
-      "timestamp": 1787328223
-    },
-    {
-      "id": "BFMTV_1787327231",
-      "source": "BFMTV",
-      "text": "\"CYNIQUE ET IGNOBLE\": EN UKRAINE, UNE FRAPPE RUSSE FAIT AU MOINS SIX MORTS DANS LA VILLE NATALE DU PRÉSIDENT VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:47",
-      "date": "21/08",
-      "timestamp": 1787327231
     }
   ],
   "france": {
