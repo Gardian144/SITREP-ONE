@@ -1,7 +1,17 @@
 {
-  "last_update": "24/08 16:03",
+  "last_update": "24/08 16:54",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787587949",
+      "source": "OPEX360",
+      "text": "DÉVELOPPÉ PAR L’ENTREPRISE ALLEMANDE POLARIS, LE DRONE DE DÉFENSE AÉRIENNE COBRA 600 A EFFECTUÉ SON PREMIER VOL",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:12",
+      "date": "24/08",
+      "timestamp": 1787587949
+    },
     {
       "id": "BFMTV_1787586806",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "20:58",
       "date": "21/08",
       "timestamp": 1787345921
-    },
-    {
-      "id": "BFMTV_1787345489",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: LA COUR SUPRÊME AMÉRICAINE AUTORISE TEMPORAIREMENT LA CONSTRUCTION DE LA SALLE DE BAL VOULUE PAR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:51",
-      "date": "21/08",
-      "timestamp": 1787345489
     }
   ],
   "france": {
