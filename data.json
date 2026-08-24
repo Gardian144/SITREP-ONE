@@ -1,7 +1,17 @@
 {
-  "last_update": "24/08 19:56",
+  "last_update": "24/08 20:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787602167",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA FRANCE INVITE LA RUSSIE À UN \"RÈGLEMENT PACIFIQUE DU CONFLIT\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:09",
+      "date": "24/08",
+      "timestamp": 1787602167
+    },
     {
       "id": "BFMTV_1787600450",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "10:15",
       "date": "22/08",
       "timestamp": 1787393723
-    },
-    {
-      "id": "BFMTV_1787388718",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA RÉGION DE KIEV SOUS LA MENACE DE NOUVEAUX MISSILES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:51",
-      "date": "22/08",
-      "timestamp": 1787388718
     }
   ],
   "france": {
