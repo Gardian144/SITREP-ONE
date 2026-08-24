@@ -1,7 +1,17 @@
 {
-  "last_update": "24/08 11:55",
+  "last_update": "24/08 12:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787574552",
+      "source": "BFMTV",
+      "text": "THAÏLANDE: DES DIZAINES D'ATTAQUES “COORDONNÉES” FONT TROIS BLESSÉS DANS LE SUD ",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:29",
+      "date": "24/08",
+      "timestamp": 1787574552
+    },
     {
       "id": "BFMTV_1787570548",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "16:44",
       "date": "21/08",
       "timestamp": 1787330641
-    },
-    {
-      "id": "BFMTV_1787329245",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: ELLES RESTENT BLOQUÉES 25 MINUTES LA TÊTE EN BAS DANS UN MANÈGE ET OBTIENNENT 275.000 DOLLARS DE DÉDOMMAGEMENT ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:20",
-      "date": "21/08",
-      "timestamp": 1787329245
     }
   ],
   "france": {
