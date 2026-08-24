@@ -1,7 +1,37 @@
 {
-  "last_update": "24/08 15:21",
+  "last_update": "24/08 16:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787586806",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE BRITANNIQUE ACCEPTE LE PARTAGE D'INFORMATIONS AVEC L'UKRAINE SUR UN MISSILE À LONGUE PORTÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:53",
+      "date": "24/08",
+      "timestamp": 1787586806
+    },
+    {
+      "id": "BFMTV_1787585096",
+      "source": "BFMTV",
+      "text": "DÉTROIT D'ORMUZ: L'ONU PROPOSE UN MÉCANISME POUR SÉCURISER LE PASSAGE DES NAVIRES TRANSPORTANT DES ENGRAIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:24",
+      "date": "24/08",
+      "timestamp": 1787585096
+    },
+    {
+      "id": "BFMTV_1787585031",
+      "source": "BFMTV",
+      "text": "DES SOLDATS FRANÇAIS VISÉS PAR UNE PROCÉDURE POUR AVOIR POSÉ AVEC UN DRAPEAU ASSOCIÉ AU SUPRÉMACISME BLANC",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:23",
+      "date": "24/08",
+      "timestamp": 1787585031
+    },
     {
       "id": "BFMTV_1787584360",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "20:51",
       "date": "21/08",
       "timestamp": 1787345489
-    },
-    {
-      "id": "BFMTV_1787345489",
-      "source": "BFMTV",
-      "text": "LA COUR SUPRÊME AMÉRICAINE AUTORISE TEMPORAIREMENT LA CONSTRUCTION DE LA SALLE DE BAL VOULUE PAR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:51",
-      "date": "21/08",
-      "timestamp": 1787345489
-    },
-    {
-      "id": "BFMTV_1787344269",
-      "source": "BFMTV",
-      "text": "SUÈDE: UN MORT DANS L'ATTAQUE À L'ÉPÉE DANS UN LYCÉE, ANNONCE LA POLICE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:31",
-      "date": "21/08",
-      "timestamp": 1787344269
-    },
-    {
-      "id": "BFMTV_1787342379",
-      "source": "BFMTV",
-      "text": "SUÈDE: UN MORT ET TROIS BLESSÉS DANS UNE ATTAQUE À L'ÉPÉE DANS UN LYCÉE, UN SUSPECT DE 18 ANS INTERPELLÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:59",
-      "date": "21/08",
-      "timestamp": 1787342379
     }
   ],
   "france": {
