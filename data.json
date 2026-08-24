@@ -1,7 +1,17 @@
 {
-  "last_update": "24/08 07:19",
+  "last_update": "24/08 08:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787556040",
+      "source": "BFMTV",
+      "text": "UNE \"INTENSIFICATION DES MENACES\" CONTRE LES MIGRANTS: SOS MÉDITERRANÉE DÉNONCE UN HARCÈLEMENT EN MER ET DES INTERCEPTIONS \"DE PLUS EN PLUS VIOLENTES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:20",
+      "date": "24/08",
+      "timestamp": 1787556040
+    },
     {
       "id": "BFMTV_1787552993",
       "source": "BFMTV",
@@ -51,6 +61,16 @@
       "time": "04:17",
       "date": "24/08",
       "timestamp": 1787545060
+    },
+    {
+      "id": "BFMTV_1787521393",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:43",
+      "date": "23/08",
+      "timestamp": 1787521393
     },
     {
       "id": "BFMTV_1787521392",
@@ -981,26 +1001,6 @@
       "time": "13:32",
       "date": "21/08",
       "timestamp": 1787319173
-    },
-    {
-      "id": "BFMTV_1787318167",
-      "source": "BFMTV",
-      "text": "PLUSIEURS PERSONNES BLESSÉES À COUPS D'ÉPÉE DANS UN LYCÉE EN SUÈDE, UN SUSPECT INTERPELLÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:16",
-      "date": "21/08",
-      "timestamp": 1787318167
-    },
-    {
-      "id": "BFMTV_1787317783",
-      "source": "BFMTV",
-      "text": "\"FLOTTILLE POUR GAZA\": LA TURQUIE ÉMET UN MANDAT D'ARRÊT INTERNATIONAL CONTRE BENJAMIN NETANYAHU",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:09",
-      "date": "21/08",
-      "timestamp": 1787317783
     }
   ],
   "france": {
