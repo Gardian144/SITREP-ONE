@@ -1,7 +1,17 @@
 {
-  "last_update": "24/08 21:05",
+  "last_update": "24/08 21:43",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787606087",
+      "source": "BFMTV",
+      "text": "\"PAS DE MESURES CONCRÈTES\": LE REPRÉSENTANT DE L'UKRAINE À L'ONU DÉPLORE LE MANQUE D'ACTIONS DU CONSEIL DE SÉCURITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:14",
+      "date": "24/08",
+      "timestamp": 1787606087
+    },
     {
       "id": "BFMTV_1787602167",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "10:50",
       "date": "22/08",
       "timestamp": 1787395827
-    },
-    {
-      "id": "OPEX360_1787393723",
-      "source": "OPEX360",
-      "text": "L’ALLEMAGNE ENVISAGE D’INVESTIR 12 MILLIARDS D’EUROS POUR SE DOTER DE CAPACITÉS DE FRAPPE À TRÈS LONGUE PORTÉE",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:15",
-      "date": "22/08",
-      "timestamp": 1787393723
     }
   ],
   "france": {
