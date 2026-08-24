@@ -1,7 +1,37 @@
 {
-  "last_update": "24/08 18:52",
+  "last_update": "24/08 19:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787599454",
+      "source": "BFMTV",
+      "text": "\"LA RUSSIE TENTERA D'ESCALADER\": EMMANUEL MACRON ALERTE SUR DES ACTIONS \"CONTRE LES EUROPÉENS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:24",
+      "date": "24/08",
+      "timestamp": 1787599454
+    },
+    {
+      "id": "BFMTV_1787599243",
+      "source": "BFMTV",
+      "text": "LES ÉTATS QUI N'EMPÊCHERONT PAS LE BLANCHIMENT DE L'ARGENT IRANIEN \"SERONT EXPULSÉS DU SYSTÈME DOLLAR\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:20",
+      "date": "24/08",
+      "timestamp": 1787599243
+    },
+    {
+      "id": "BFMTV_1787598815",
+      "source": "BFMTV",
+      "text": "ARABIE SAOUDITE, TURQUIE, PAKISTAN...LES ENJEUX D'UN ACCORD MILITAIRE HISTORIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:13",
+      "date": "24/08",
+      "timestamp": 1787598815
+    },
     {
       "id": "BFMTV_1787595651",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "05:44",
       "date": "22/08",
       "timestamp": 1787377489
-    },
-    {
-      "id": "BFMTV_1787375869",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: À KRYVY RIH, UNE FRAPPE RUSSE FAIT AU MOINS 15 MORTS ET 130 BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:17",
-      "date": "22/08",
-      "timestamp": 1787375869
-    },
-    {
-      "id": "BFMTV_1787373867",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UNE FRAPPE RUSSE FAIT AU MOINS 14 MORTS DANS LA VILLE NATALE DU PRÉSIDENT VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:44",
-      "date": "22/08",
-      "timestamp": 1787373867
-    },
-    {
-      "id": "BFMTV_1787373401",
-      "source": "BFMTV",
-      "text": "UN ADOLESCENT PROCHE DE LA MOUVANCE NÉO-NAZIE ARRÊTÉ AU CANADA ALORS QU'IL PLANIFIAIT UNE ATTAQUE CONTRE UNE ÉCOLE AVEC UNE IA",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:36",
-      "date": "22/08",
-      "timestamp": 1787373401
     }
   ],
   "france": {
