@@ -1,7 +1,47 @@
 {
-  "last_update": "24/08 18:00",
+  "last_update": "24/08 18:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787595651",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS VEULENT \"COUPER TOUTES LES RESSOURCES ÉCONOMIQUES\" DU RÉGIME IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:20",
+      "date": "24/08",
+      "timestamp": 1787595651
+    },
+    {
+      "id": "BFMTV_1787595136",
+      "source": "BFMTV",
+      "text": "ACCORD ENTRE LA FRANCE ET L'ARABIE SAOUDITE SUR LA CRÉATION DE PARCS D'ATTRACTIONS PRÈS DE PARIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:12",
+      "date": "24/08",
+      "timestamp": 1787595136
+    },
+    {
+      "id": "BFMTV_1787594654",
+      "source": "BFMTV",
+      "text": "L'UKRAINE A \"BESOIN D'AU MOINS 300 MISSILES PATRIOT\" POUR AFFRONTER LA PÉRIODE HIVERNALE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:04",
+      "date": "24/08",
+      "timestamp": 1787594654
+    },
+    {
+      "id": "BFMTV_1787594514",
+      "source": "BFMTV",
+      "text": "CASQUES BLEUS TUÉS AU SOUDAN DU SUD: LE CHEF DE L'ONU \"CONDAMNE FERMEMENT\" L'ATTAQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:01",
+      "date": "24/08",
+      "timestamp": 1787594514
+    },
     {
       "id": "OPEX360_1787592644",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "04:36",
       "date": "22/08",
       "timestamp": 1787373401
-    },
-    {
-      "id": "BFMTV_1787372774",
-      "source": "BFMTV",
-      "text": "\"UNE TERREUR PLANIFIÉE\": EN UKRAINE, LE BILAN DES FRAPPES RUSSES SUR UN CENTRE COMMERCIAL MONTE À AU MOINS 16 MORTS ET PLUS DE 130 BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:26",
-      "date": "22/08",
-      "timestamp": 1787372774
-    },
-    {
-      "id": "BFMTV_1787372151",
-      "source": "BFMTV",
-      "text": "RETROUVÉ SEUL SUR UN CHEMIN DE RANDONNÉE: UN JAPONAIS ABANDONNE SON FILS DE 7 ANS SUR LE MONT FUJI PENDANT DES HEURES POUR CONTINUER SON ASCENSION",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:15",
-      "date": "22/08",
-      "timestamp": 1787372151
-    },
-    {
-      "id": "BFMTV_1787348387",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV SOUHAITE UTILISER LE RÉSEAU STARLINK POUR GUIDER SES DRONES EN RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:39",
-      "date": "21/08",
-      "timestamp": 1787348387
-    },
-    {
-      "id": "BFMTV_1787347884",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA CRAINTE D'UNE GUERRE BIOLOGIQUE MENÉE PAR L'ARMÉE RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:31",
-      "date": "21/08",
-      "timestamp": 1787347884
     }
   ],
   "france": {
