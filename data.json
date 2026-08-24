@@ -1,7 +1,47 @@
 {
-  "last_update": "24/08 09:03",
+  "last_update": "24/08 10:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787565075",
+      "source": "BFMTV",
+      "text": "À L'OCCASION DE LA JOURNÉE DE L'INDÉPENDANCE DE L'UKRAINE, LA COALITION DES VOLONTAIRES SE RÉUNIT À KIEV CE LUNDI 24 AOÛT",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:51",
+      "date": "24/08",
+      "timestamp": 1787565075
+    },
+    {
+      "id": "BFMTV_1787564977",
+      "source": "BFMTV",
+      "text": "FRAPPES UKRAINIENNES EN RUSSIE: \"QUAND ON IMPACTE LES RAFFINERIES RUSSES ET L'E-COMMERCE, C'EST TOUT UN PAN DE L'ÉCONOMIE RUSSE QUI VA S'EFFONDRER\", ESTIME L'AUTEURE MARIE-LAURE BUISSON ",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:49",
+      "date": "24/08",
+      "timestamp": 1787564977
+    },
+    {
+      "id": "BFMTV_1787564849",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"NOUS DEVONS RENFORCER NOS FORCES ARMÉES ET NOUS ASSURER QUE NOUS DISPOSONS DE TOUT CE DONT NOUS AVONS BESOIN POUR TENIR NOS DÉFENSES\", ASSURE VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:47",
+      "date": "24/08",
+      "timestamp": 1787564849
+    },
+    {
+      "id": "BFMTV_1787564227",
+      "source": "BFMTV",
+      "text": "AUX ÉTATS-UNIS, L'ÉTAT DU NEVADA EN PROIE AUX FLAMMES, PLUS DE 40.000 PERSONNES ÉVACUÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:37",
+      "date": "24/08",
+      "timestamp": 1787564227
+    },
     {
       "id": "BFMTV_1787559174",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "14:34",
       "date": "21/08",
       "timestamp": 1787322859
-    },
-    {
-      "id": "BFMTV_1787320283",
-      "source": "BFMTV",
-      "text": "GUERRE EN RDC: \"LA CRISE ACTUELLE EST UNE PHASE PARTICULIÈREMENT GRAVE\", EXPLIQUE PATRICK FATA (FONAREV)",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:51",
-      "date": "21/08",
-      "timestamp": 1787320283
-    },
-    {
-      "id": "BFMTV_1787320241",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:50",
-      "date": "21/08",
-      "timestamp": 1787320241
-    },
-    {
-      "id": "BFMTV_1787320149",
-      "source": "BFMTV",
-      "text": "SUÈDE: PLUSIEURS PERSONNES BLESSÉES À COUPS D'ÉPÉE DANS UN LYCÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:49",
-      "date": "21/08",
-      "timestamp": 1787320149
-    },
-    {
-      "id": "BFMTV_1787319812",
-      "source": "BFMTV",
-      "text": "GUERRE EN RDC: \"PLUS DE 1,2 MILLION DE VICTIMES\", SOULIGNE LE FONDS NATIONAL DES RÉPARATIONS DES VICTIMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:43",
-      "date": "21/08",
-      "timestamp": 1787319812
     }
   ],
   "france": {
