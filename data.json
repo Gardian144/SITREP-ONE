@@ -1,7 +1,17 @@
 {
-  "last_update": "24/08 22:02",
+  "last_update": "24/08 22:43",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787610271",
+      "source": "BFMTV",
+      "text": "LE CORPS D'UN ENFANT RETROUVÉ APRÈS LA DISPARITION D'UN GARÇON ET DE SON PÈRE EN BELGIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:24",
+      "date": "24/08",
+      "timestamp": 1787610271
+    },
     {
       "id": "BFMTV_1787606087",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "11:02",
       "date": "22/08",
       "timestamp": 1787396553
-    },
-    {
-      "id": "BFMTV_1787395827",
-      "source": "BFMTV",
-      "text": "LA CORÉE DU NORD ACCUSE LE JAPON DE PRÉPARER UNE \"GUERRE D'AGRESSION\" ET DIT REDOUTER \"DE NOUVELLES CRISES DANS LA RÉGION ET DANS LE MONDE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:50",
-      "date": "22/08",
-      "timestamp": 1787395827
     }
   ],
   "france": {
