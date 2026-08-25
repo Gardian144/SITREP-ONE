@@ -1,7 +1,17 @@
 {
-  "last_update": "25/08 22:01",
+  "last_update": "25/08 22:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787696386",
+      "source": "BFMTV",
+      "text": "L'UNICEF ALERTE SUR LA MALNUTRITION INFANTILE EN AFGHANISTAN, UN MILLION D'ENFANTS SONT EN DANGER DE MORT",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:19",
+      "date": "25/08",
+      "timestamp": 1787696386
+    },
     {
       "id": "BFMTV_1787691136",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:47",
       "date": "23/08",
       "timestamp": 1787514439
-    },
-    {
-      "id": "BFMTV_1787509327",
-      "source": "BFMTV",
-      "text": "MISSILES EN APPROCHE: UNE ALERTE EST EN COURS À KIEV EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:22",
-      "date": "23/08",
-      "timestamp": 1787509327
     }
   ],
   "france": {
