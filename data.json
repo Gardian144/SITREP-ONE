@@ -1,7 +1,47 @@
 {
-  "last_update": "25/08 10:30",
+  "last_update": "25/08 11:04",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787655494",
+      "source": "OPEX360",
+      "text": "LA POLOGNE CONFIRME SON INTENTION DE COMMANDER PLUS DE F-35 ET POURRAIT AUSSI ACQUÉRIR DES F-15 EAGLE II",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:58",
+      "date": "25/08",
+      "timestamp": 1787655494
+    },
+    {
+      "id": "BFMTV_1787655315",
+      "source": "BFMTV",
+      "text": "L'IRAN MENACE LE FILS DE DONALD TRUMP DANS UNE VIDÉO",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:55",
+      "date": "25/08",
+      "timestamp": 1787655315
+    },
+    {
+      "id": "BFMTV_1787654903",
+      "source": "BFMTV",
+      "text": "LA TÉLÉVISION D'ÉTAT IRANIENNE DIFFUSE UNE VIDÉO MENAÇANT BARRON TRUMP, FILS DU PRÉSIDENT AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:48",
+      "date": "25/08",
+      "timestamp": 1787654903
+    },
+    {
+      "id": "BFMTV_1787653994",
+      "source": "BFMTV",
+      "text": "\"DODO LA SAUMURE\", PROXÉNÈTE RENDU CÉLÈBRE PAR L'AFFAIRE \"DSK\", EST MORT EN BELGIQUE À L'ÂGE DE 77 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:33",
+      "date": "25/08",
+      "timestamp": 1787653994
+    },
     {
       "id": "BFMTV_1787653681",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "15:54",
       "date": "22/08",
       "timestamp": 1787414085
-    },
-    {
-      "id": "BFMTV_1787413746",
-      "source": "BFMTV",
-      "text": "\"C'EST TRISTE, C'EST UNE OBSESSION MALSAINE\": LE FRÈRE DE NATALIE HARP RÉAGIT AUX COURRIERS ADRESSÉS PAR SA SŒUR À DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:49",
-      "date": "22/08",
-      "timestamp": 1787413746
-    },
-    {
-      "id": "BFMTV_1787413477",
-      "source": "BFMTV",
-      "text": "INCENDIE D'UN IMMEUBLE EN SUISSE: DEUX PERSONNES DÉCOUVERTES MORTES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:44",
-      "date": "22/08",
-      "timestamp": 1787413477
-    },
-    {
-      "id": "BFMTV_1787411490",
-      "source": "BFMTV",
-      "text": "FRANÇAIS DÉTENUS AU TOGO: LE GOUVERNEMENT ASSURE QUE LA JUSTICE LOCALE DÉTIENT DES \"INDICES GRAVES\" CONTRE LES DEUX HOMMES",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:11",
-      "date": "22/08",
-      "timestamp": 1787411490
-    },
-    {
-      "id": "BFMTV_1787408256",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON A ANNONCÉ L'ENVOI DE NOUVEAUX MISSILES \"INTERCEPTEURS\" À L'UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:17",
-      "date": "22/08",
-      "timestamp": 1787408256
     }
   ],
   "france": {
