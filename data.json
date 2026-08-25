@@ -1,7 +1,57 @@
 {
-  "last_update": "25/08 16:47",
+  "last_update": "25/08 17:29",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787678316",
+      "source": "OPEX360",
+      "text": "VIA SA FILIALE AMÉRICAINE, LE FRANÇAIS EXOSENS VA FOURNIR 1 600 DISPOSITIFS DE VISION NOCTURNE À L’US ARMY",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:18",
+      "date": "25/08",
+      "timestamp": 1787678316
+    },
+    {
+      "id": "BFMTV_1787678189",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:16",
+      "date": "25/08",
+      "timestamp": 1787678189
+    },
+    {
+      "id": "BFMTV_1787678189",
+      "source": "BFMTV",
+      "text": "AFFAIRE EPSTEIN: UN JUGE REJETTE UNE DEMANDE D'ANNULATION DE LA CONDAMNATION DE GHISLAINE MAXWELL, COMPLICE DU CRIMINEL AMÉRICAIN",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:16",
+      "date": "25/08",
+      "timestamp": 1787678189
+    },
+    {
+      "id": "BFMTV_1787677283",
+      "source": "BFMTV",
+      "text": "DES POLICIERS AMÉRICAINS UTILISENT DES CAMÉRAS DE SURVEILLANCE DU TRAFIC ROUTIER POUR TRAQUER LEUR EX",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:01",
+      "date": "25/08",
+      "timestamp": 1787677283
+    },
+    {
+      "id": "BFMTV_1787676570",
+      "source": "BFMTV",
+      "text": "CENTRE DE L'ONU POUUR LES PALESTINIENS ÉVACUÉS PAR ISRAËL: LE CHEF DES NATIONS UNIES S'ALARME",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:49",
+      "date": "25/08",
+      "timestamp": 1787676570
+    },
     {
       "id": "BFMTV_1787675466",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "13:54",
       "date": "23/08",
       "timestamp": 1787493289
-    },
-    {
-      "id": "BFMTV_1787492703",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"LA LENTEUR DE LA RÉPONSE APPARAÎT POUR LES RUSSES COMME UN SIGNE DE FAIBLESSE DE L'UNION EUROPÉENNE\", ESTIME HUGUES PERNET, PREMIER AMBASSADEUR DE FRANCE EN UKRAINE",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:45",
-      "date": "23/08",
-      "timestamp": 1787492703
-    },
-    {
-      "id": "BFMTV_1787492214",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV VISE À NOUVEAU UN AUTRE ENTREPÔT D'UN DES LEADERS DU E-COMMERCE RUSSE, OZON",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:36",
-      "date": "23/08",
-      "timestamp": 1787492214
-    },
-    {
-      "id": "BFMTV_1787490942",
-      "source": "BFMTV",
-      "text": "INCENDIE D'UN IMMEUBLE EN SUISSE: LE BILAN GRIMPE À QUATRE MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:15",
-      "date": "23/08",
-      "timestamp": 1787490942
-    },
-    {
-      "id": "BFMTV_1787484535",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DE QUELLE MANIÈRE LES NOUVEAUX MISSILES INTERCEPTEURS ENVOYÉS PAR LA FRANCE PEUVENT-ILS AIDER KIEV?",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:28",
-      "date": "23/08",
-      "timestamp": 1787484535
-    },
-    {
-      "id": "OPEX360_1787482775",
-      "source": "OPEX360",
-      "text": "POUR SES OPÉRATIONS SPÉCIALES, LA NORVÈGE ENVISAGE L’ACHAT DE 21 HÉLICOPTÈRES UH-60M BLACK HAWK AUPRÈS DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:59",
-      "date": "23/08",
-      "timestamp": 1787482775
     }
   ],
   "france": {
