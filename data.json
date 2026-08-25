@@ -1,7 +1,17 @@
 {
-  "last_update": "25/08 17:29",
+  "last_update": "25/08 17:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787679147",
+      "source": "BFMTV",
+      "text": "CE PROCÈS QUI DIVISE L'AMÉRIQUE: LINDSAY CLANCY A TUÉ SES TROIS ENFANTS, LA FAUTE À UNE PSYCHOSE POST-PARTUM?",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:32",
+      "date": "25/08",
+      "timestamp": 1787679147
+    },
     {
       "id": "OPEX360_1787678316",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "14:41",
       "date": "23/08",
       "timestamp": 1787496119
-    },
-    {
-      "id": "BFMTV_1787493289",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV S'ATTAQUE AU GÉANT DU E-COMMERCE RUSSE OZON EN VISANT DEUX ENTREPÔTS EN DEUX JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:54",
-      "date": "23/08",
-      "timestamp": 1787493289
     }
   ],
   "france": {
