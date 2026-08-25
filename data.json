@@ -1,7 +1,17 @@
 {
-  "last_update": "25/08 14:06",
+  "last_update": "25/08 15:04",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1787666965",
+      "source": "OPEX360",
+      "text": "UN AVION DE TRANSPORT AMÉRICAIN C-17A GLOBEMASTER III S’EST POSÉ À MOSCOU POUR UNE RAISON INCONNUE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:09",
+      "date": "25/08",
+      "timestamp": 1787666965
+    },
     {
       "id": "BFMTV_1787663162",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "20:23",
       "date": "22/08",
       "timestamp": 1787430203
-    },
-    {
-      "id": "BFMTV_1787427034",
-      "source": "BFMTV",
-      "text": "TREIZE NOUVEAUX MORTS ENTRE L'UKRAINE ET LA RUSSIE APRÈS DE NOUVELLES FRAPPES ENTRE LES DEUX PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:30",
-      "date": "22/08",
-      "timestamp": 1787427034
     }
   ],
   "france": {
