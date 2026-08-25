@@ -1,7 +1,17 @@
 {
-  "last_update": "25/08 12:15",
+  "last_update": "25/08 13:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787663162",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: UN FAUX TUEUR EN SÉRIE GÉNÉRÉ PAR IA TERRORISE LES BRITANNIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:06",
+      "date": "25/08",
+      "timestamp": 1787663162
+    },
     {
       "id": "BFMTV_1787659532",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:30",
       "date": "22/08",
       "timestamp": 1787427034
-    },
-    {
-      "id": "BFMTV_1787422854",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"L'UKRAINE A OUVERT LA BOÎTE DE PANDORE\", LANCE VLADIMIR POUTINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:20",
-      "date": "22/08",
-      "timestamp": 1787422854
     }
   ],
   "france": {
