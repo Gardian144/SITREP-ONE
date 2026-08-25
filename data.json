@@ -1,7 +1,17 @@
 {
-  "last_update": "25/08 05:47",
+  "last_update": "25/08 06:43",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787638937",
+      "source": "BFMTV",
+      "text": "DEUX MOIS APRÈS LE DOUBLE SÉISME AU VENEZUELA, LE BILAN OFFICIEL GRIMPE À 6.509 MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:22",
+      "date": "25/08",
+      "timestamp": 1787638937
+    },
     {
       "id": "BFMTV_1787635748",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "12:33",
       "date": "22/08",
       "timestamp": 1787402036
-    },
-    {
-      "id": "BFMTV_1787401976",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: À UN MOIS DES LÉGISLATIVES, VLADIMIR POUTINE TENTE DE GALVANISER SES TROUPES AU CONGRÈS DE RUSSIE UNIE MALGRÉ UN CONTEXTE TENDU",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:32",
-      "date": "22/08",
-      "timestamp": 1787401976
     }
   ],
   "france": {
