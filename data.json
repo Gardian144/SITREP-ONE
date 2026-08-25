@@ -1,7 +1,17 @@
 {
-  "last_update": "25/08 20:33",
+  "last_update": "25/08 21:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787691136",
+      "source": "BFMTV",
+      "text": "LE PATRON DE LA CIA EN VISITE SECRÈTE À MOSCOU: LE DÉTAIL DES MÉDIAS AMÉRICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:52",
+      "date": "25/08",
+      "timestamp": 1787691136
+    },
     {
       "id": "BFMTV_1787689574",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "18:22",
       "date": "23/08",
       "timestamp": 1787509327
-    },
-    {
-      "id": "BFMTV_1787507666",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VLADIMIR POUTINE PROMET DE HAUSSER LE TON",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:54",
-      "date": "23/08",
-      "timestamp": 1787507666
     }
   ],
   "france": {
