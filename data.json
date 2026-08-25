@@ -1,7 +1,17 @@
 {
-  "last_update": "25/08 07:30",
+  "last_update": "25/08 08:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787645227",
+      "source": "BFMTV",
+      "text": "\"UNE VOIE VERS LA PROSPÉRITÉ\": LES ÉTATS-UNIS RETIRENT LA SYRIE DE LEUR LISTE DES PAYS ACCUSÉS DE SOUTENIR LE TERRORISME",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:07",
+      "date": "25/08",
+      "timestamp": 1787645227
+    },
     {
       "id": "BFMTV_1787638937",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "12:34",
       "date": "22/08",
       "timestamp": 1787402075
-    },
-    {
-      "id": "BFMTV_1787402036",
-      "source": "BFMTV",
-      "text": "\"UN AVEU DE FAIBLESSE\": EMMANUEL MACRON RÉAGIT APRÈS LES FRAPPES RUSSES CONTRE KIEV ",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:33",
-      "date": "22/08",
-      "timestamp": 1787402036
     }
   ],
   "france": {
