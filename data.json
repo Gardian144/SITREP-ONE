@@ -1,7 +1,47 @@
 {
-  "last_update": "25/08 15:04",
+  "last_update": "25/08 15:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787671842",
+      "source": "BFMTV",
+      "text": "BELGIQUE: UN DEUXIÈME CORPS RETROUVÉ APRÈS LA DISPARITION D'UN GARÇON ET DE SON PÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:30",
+      "date": "25/08",
+      "timestamp": 1787671842
+    },
+    {
+      "id": "BFMTV_1787671825",
+      "source": "BFMTV",
+      "text": "\"LEURS CONDITIONS DE DÉTENTION NE SONT PAS MAUVAISES\": L'AVOCAT DE RÉALISATEURS FRANÇAIS DÉTENUS AU TOGO DONNE DES NOUVELLES",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:30",
+      "date": "25/08",
+      "timestamp": 1787671825
+    },
+    {
+      "id": "BFMTV_1787670932",
+      "source": "BFMTV",
+      "text": "LE CANADA IMPOSERA LE 8 SEPTEMBRE DES SURTAXES DE 15 À 50% SUR UNE SÉRIE DE PRODUITS AMÉRICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:15",
+      "date": "25/08",
+      "timestamp": 1787670932
+    },
+    {
+      "id": "BFMTV_1787670868",
+      "source": "BFMTV",
+      "text": "\"CETTE AFFAIRE EST UN FÂCHEUX MALENTENDU\": LES RÉALISATEURS FRANÇAIS DÉTENUS AU TOGO ÉTAIENT \"EN RÈGLE\", SELON LEUR AVOCAT",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:14",
+      "date": "25/08",
+      "timestamp": 1787670868
+    },
     {
       "id": "OPEX360_1787666965",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "04:42",
       "date": "23/08",
       "timestamp": 1787460128
-    },
-    {
-      "id": "BFMTV_1787458809",
-      "source": "BFMTV",
-      "text": "LA JUSTICE ARGENTINE ANNULE L'ACQUITTEMENT D'UNE EX-NONNE JAPONAISE POUR VIOLS D'ENFANTS SOURDS ET MUETS DANS UN PENSIONNAT CATHOLIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:20",
-      "date": "23/08",
-      "timestamp": 1787458809
-    },
-    {
-      "id": "BFMTV_1787458500",
-      "source": "BFMTV",
-      "text": "DE FORTES SECOUSSES: AU MOINS 37 BLESSÉS APRÈS UN SÉISME DE MAGNITUDE 5,9 PRÈS DE TOKYO",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:15",
-      "date": "23/08",
-      "timestamp": 1787458500
-    },
-    {
-      "id": "BFMTV_1787433017",
-      "source": "BFMTV",
-      "text": "AVEC 8.500 SOLDATS, DONT 400 OPÉRATEURS DE DRONES, LA CORÉE DU NORD POURRAIT ENVOYER 50.000 HOMMES SUPPLÉMENTAIRES À LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:10",
-      "date": "22/08",
-      "timestamp": 1787433017
-    },
-    {
-      "id": "BFMTV_1787430203",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TOUT PAYS PARTICIPANT À LA \"GUERRE ÉCONOMIQUE\" SERA CONSIDÉRÉ COMME \"UN ENNEMI\", ANNONCE TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:23",
-      "date": "22/08",
-      "timestamp": 1787430203
     }
   ],
   "france": {
