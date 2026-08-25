@@ -1,7 +1,57 @@
 {
-  "last_update": "25/08 15:59",
+  "last_update": "25/08 16:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787675466",
+      "source": "BFMTV",
+      "text": "À MOSCOU, L'ÉMISSAIRE DU VATICAN APPELLE AUX NÉGOCIATIONS POUR \"CESSER\" LA GUERRE EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:31",
+      "date": "25/08",
+      "timestamp": 1787675466
+    },
+    {
+      "id": "BFMTV_1787674738",
+      "source": "BFMTV",
+      "text": "LE CANADA PROMET DE RIPOSTER À TOUTE NOUVELLE SURTAXE AMÉRICAINE VISANT LE SECTEUR AUTOMOBILE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:18",
+      "date": "25/08",
+      "timestamp": 1787674738
+    },
+    {
+      "id": "OPEX360_1787674626",
+      "source": "OPEX360",
+      "text": "POUR LA PREMIÈRE FOIS, DES J-16 CHINOIS SE MESURENT À DES RAFALE ÉGYPTIENS LORS DE L’EXERCICE «AIGLES DE LA CIVILISATION»",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:17",
+      "date": "25/08",
+      "timestamp": 1787674626
+    },
+    {
+      "id": "BFMTV_1787674389",
+      "source": "BFMTV",
+      "text": "LE PATRON DE LA CIA EN VISITE SECRÈTE À MOSCOU, SELON LES MÉDIAS AMÉRICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:13",
+      "date": "25/08",
+      "timestamp": 1787674389
+    },
+    {
+      "id": "BFMTV_1787674270",
+      "source": "BFMTV",
+      "text": "\"LA DÉTENTION EST INJUSTIFIÉE\": L'AVOCAT DES RÉALISATEURS FRANÇAIS EN PRISON AU TOGO RÉAGIT SUR BFM2",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:11",
+      "date": "25/08",
+      "timestamp": 1787674270
+    },
     {
       "id": "BFMTV_1787671842",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "10:59",
       "date": "23/08",
       "timestamp": 1787482775
-    },
-    {
-      "id": "OPEX360_1787478841",
-      "source": "OPEX360",
-      "text": "L’US NAVY DÉVOILE L’AIM-424 LRAAM «MALICE», UN NOUVEAU MISSILE AIR-AIR D’UNE PORTÉE D’AU MOINS 460 KM",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:54",
-      "date": "23/08",
-      "timestamp": 1787478841
-    },
-    {
-      "id": "BFMTV_1787474682",
-      "source": "BFMTV",
-      "text": "UNE TOUCHE \"COMIQUE\" AJOUTÉE: UN CÉLÈBRE ACTEUR CHINOIS VISÉ PAR UNE ENQUÊTE POUR AVOIR DÉTOURNÉ UNE CHANSON PATRIOTIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:44",
-      "date": "23/08",
-      "timestamp": 1787474682
-    },
-    {
-      "id": "BFMTV_1787473061",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY AFFIRME QUE DES ÉLECTIONS SERAIENT UN \"TSUNAMI\" QUI \"FRACTURERAIT\" LE PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:17",
-      "date": "23/08",
-      "timestamp": 1787473061
-    },
-    {
-      "id": "BFMTV_1787461980",
-      "source": "BFMTV",
-      "text": "PLUS DE 6 ATTAQUES PAR JOUR EN MOYENNE: EN CISJORDANIE, LES VIOLENCES DES COLONS ISRAÉLIENS ONT \"DÉPASSÉ LE POINT DE RUPTURE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:13",
-      "date": "23/08",
-      "timestamp": 1787461980
-    },
-    {
-      "id": "BFMTV_1787460128",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: QUI EST NATALIE HARP, ASSISTANTE DE DONALD TRUMP, ACTUELLEMENT SOUS LE FEU DES PROJECTEURS ? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:42",
-      "date": "23/08",
-      "timestamp": 1787460128
     }
   ],
   "france": {
