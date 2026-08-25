@@ -1,7 +1,37 @@
 {
-  "last_update": "25/08 05:04",
+  "last_update": "25/08 05:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787635748",
+      "source": "BFMTV",
+      "text": "UNE RAFFINERIE RUSSE TOUCHÉE PAR DES DRONES UKRAINIENS, DEUX PERSONNES TUÉES",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:29",
+      "date": "25/08",
+      "timestamp": 1787635748
+    },
+    {
+      "id": "BFMTV_1787635354",
+      "source": "BFMTV",
+      "text": "\"UNE NUIT DE TERREUR\": ENVIRON 40 PERSONNES TUÉES À HAÏTI APRÈS UNE ATTAQUE DE GANGS PRÈS DE LA CAPITALE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:22",
+      "date": "25/08",
+      "timestamp": 1787635354
+    },
+    {
+      "id": "BFMTV_1787635350",
+      "source": "BFMTV",
+      "text": "\"ON NE VA PAS EN RESTER LÀ\": DES FAMILLES DE MIGRANTS EXPULSÉS PAR LES ÉTATS-UNIS ET MORTS DANS LE SÉISME AU VENEZUELA DEMANDENT DES EXCUSES",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:22",
+      "date": "25/08",
+      "timestamp": 1787635350
+    },
     {
       "id": "BFMTV_1787610271",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "12:32",
       "date": "22/08",
       "timestamp": 1787401976
-    },
-    {
-      "id": "OPEX360_1787401303",
-      "source": "OPEX360",
-      "text": "LE SUÉDOIS SAAB DÉVOILE LE CONCEPT DE DRONE DE COMBAT COLLABORATIF SUPERSONIQUE «A3-001»",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:21",
-      "date": "22/08",
-      "timestamp": 1787401303
-    },
-    {
-      "id": "BFMTV_1787400784",
-      "source": "BFMTV",
-      "text": "ATTAQUE À L'ÉPÉE DANS UN LYCÉE EN SUÈDE: LA VICTIME ÉTAIT UNE ÉLÈVE DE 17 ANS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:13",
-      "date": "22/08",
-      "timestamp": 1787400784
-    },
-    {
-      "id": "BFMTV_1787396553",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"IL EST DIFFICILE DE RÉUSSIR TOUT DÈS LE PREMIER ESSAI\", DÉCLARE VLADIMIR POUTINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:02",
-      "date": "22/08",
-      "timestamp": 1787396553
     }
   ],
   "france": {
