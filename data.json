@@ -1,7 +1,27 @@
 {
-  "last_update": "25/08 17:59",
+  "last_update": "25/08 18:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787683464",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LA POLICE DE L’IMMIGRATION ARRÊTE UNE FEMME ÉQUATORIENNE ET SA FILLE DANS LEUR CHAMBRE D'HÔPITAL ",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:44",
+      "date": "25/08",
+      "timestamp": 1787683464
+    },
+    {
+      "id": "BFMTV_1787683070",
+      "source": "BFMTV",
+      "text": "OPÉRATIONS D'INGÉRENCE: LA RUSSIE ACCUSE LES CANDIDATS À LA PRÉSIDENTIELLE FRANÇAISE D'AGITER LA \"MENACE RUSSE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:37",
+      "date": "25/08",
+      "timestamp": 1787683070
+    },
     {
       "id": "BFMTV_1787679147",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "14:46",
       "date": "23/08",
       "timestamp": 1787496415
-    },
-    {
-      "id": "BFMTV_1787496131",
-      "source": "BFMTV",
-      "text": "UN ADOLESCENT PALESTINIEN DE 14 ANS TUÉ PAR L'ARMÉE ISRAÉLIENNE EN CISJORDANIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:42",
-      "date": "23/08",
-      "timestamp": 1787496131
-    },
-    {
-      "id": "BFMTV_1787496119",
-      "source": "BFMTV",
-      "text": "DES HACKERS AFFILIÉS AU RÉGIME IRANIEN ONT MIS HORS SERVICE UNE CENTRALE ÉLECTRIQUE AU ROYAUME-UNI",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:41",
-      "date": "23/08",
-      "timestamp": 1787496119
     }
   ],
   "france": {
