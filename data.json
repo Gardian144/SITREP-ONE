@@ -1,7 +1,77 @@
 {
-  "last_update": "26/08 15:59",
+  "last_update": "26/08 16:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787763022",
+      "source": "BFMTV",
+      "text": "DIRECT. INONDATIONS AU NÉPAL: 80 RESSORTISSANTS FRANÇAIS SIGNALÉS SUR PLACE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:50",
+      "date": "26/08",
+      "timestamp": 1787763022
+    },
+    {
+      "id": "BFMTV_1787762741",
+      "source": "BFMTV",
+      "text": "EN ITALIE, UNE AMENDE ENVISAGÉE POUR LES PIÉTONS QUI TRAVERSENT AVEC LEUR TÉLÉPHONE À LA MAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:45",
+      "date": "26/08",
+      "timestamp": 1787762741
+    },
+    {
+      "id": "BFMTV_1787762066",
+      "source": "BFMTV",
+      "text": "UN ANCIEN JOUEUR DE NBA, OPPOSÉ AUX JOUEUSES TRANSGENRES, EXCLU D'UN MATCH DE LA WNBA",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:34",
+      "date": "26/08",
+      "timestamp": 1787762066
+    },
+    {
+      "id": "BFMTV_1787761703",
+      "source": "BFMTV",
+      "text": "CENTAINES DE DISPARUS, SÉISME... CE QUE L'ON SAIT DES INONDATIONS MEURTRIÈRES AU NÉPAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:28",
+      "date": "26/08",
+      "timestamp": 1787761703
+    },
+    {
+      "id": "OPEX360_1787760916",
+      "source": "OPEX360",
+      "text": "TROIS MISSILES ANTICHARS AKERON MP DE FABRICATION FRANÇAISE ONT ÉTÉ SAISIS LORS D’UN CONTRÔLE DE LA DOUANE ITALIENNE",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:15",
+      "date": "26/08",
+      "timestamp": 1787760916
+    },
+    {
+      "id": "BFMTV_1787760770",
+      "source": "BFMTV",
+      "text": "INONDATIONS MEURTRIÈRES AU NÉPAL: 33 TOURISTES BRITANNIQUES DISPARUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:12",
+      "date": "26/08",
+      "timestamp": 1787760770
+    },
+    {
+      "id": "BFMTV_1787759908",
+      "source": "BFMTV",
+      "text": "APRÈS LA VAGUE MIGRATOIRE À CEUTA, DES RUMEURS CONCERNANT DES CHATS TUÉS PAR DES MIGRANTS CIRCULENT ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:58",
+      "date": "26/08",
+      "timestamp": 1787759908
+    },
     {
       "id": "BFMTV_1787757762",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "18:01",
       "date": "24/08",
       "timestamp": 1787594514
-    },
-    {
-      "id": "OPEX360_1787592644",
-      "source": "OPEX360",
-      "text": "UN AVION DE COMBAT GRIPEN DE LA FORCE AÉRIENNE HONGROISE S’EST ÉCRASÉ EN TENTANT UN ATTERRISSAGE D’URGENCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:30",
-      "date": "24/08",
-      "timestamp": 1787592644
-    },
-    {
-      "id": "BFMTV_1787591423",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU ACCUSE L'IRAN D'AVOIR \"ESSAYÉ DE TUER\" L'UN DE SES FILS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:10",
-      "date": "24/08",
-      "timestamp": 1787591423
-    },
-    {
-      "id": "BFMTV_1787590671",
-      "source": "BFMTV",
-      "text": "VOITURE À CONTRE-SENS EN ANGLETERRE: 12 PERSONNES ARRÊTÉES APRÈS LE VIOLENT ACCIDENT QUI A FAIT SEPT MORTS DONT DEUX POLICIERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:57",
-      "date": "24/08",
-      "timestamp": 1787590671
-    },
-    {
-      "id": "OPEX360_1787587949",
-      "source": "OPEX360",
-      "text": "DÉVELOPPÉ PAR L’ENTREPRISE ALLEMANDE POLARIS, LE DRONE DE DÉFENSE AÉRIENNE COBRA 600 A EFFECTUÉ SON PREMIER VOL",
-      "urgent": true,
-      "france_related": true,
-      "time": "16:12",
-      "date": "24/08",
-      "timestamp": 1787587949
-    },
-    {
-      "id": "BFMTV_1787586806",
-      "source": "BFMTV",
-      "text": "LE PREMIER MINISTRE BRITANNIQUE ACCEPTE LE PARTAGE D'INFORMATIONS AVEC L'UKRAINE SUR UN MISSILE À LONGUE PORTÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:53",
-      "date": "24/08",
-      "timestamp": 1787586806
-    },
-    {
-      "id": "BFMTV_1787585096",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: L'ONU PROPOSE UN MÉCANISME POUR SÉCURISER LE PASSAGE DES NAVIRES TRANSPORTANT DES ENGRAIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:24",
-      "date": "24/08",
-      "timestamp": 1787585096
-    },
-    {
-      "id": "BFMTV_1787585031",
-      "source": "BFMTV",
-      "text": "DES SOLDATS FRANÇAIS VISÉS PAR UNE PROCÉDURE POUR AVOIR POSÉ AVEC UN DRAPEAU ASSOCIÉ AU SUPRÉMACISME BLANC",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:23",
-      "date": "24/08",
-      "timestamp": 1787585031
     }
   ],
   "france": {
