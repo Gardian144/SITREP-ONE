@@ -1,7 +1,17 @@
 {
-  "last_update": "26/08 06:05",
+  "last_update": "26/08 07:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787725592",
+      "source": "BFMTV",
+      "text": "SURVEILLANCE DES RESSOURCES EN EAU, PERTES AGRICOLES... LE PANAMA ET LE SALVADOR SE DÉCLARENT EN ÉTAT D'ALERTE FACE À EL NIÑO",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:26",
+      "date": "26/08",
+      "timestamp": 1787725592
+    },
     {
       "id": "BFMTV_1787722695",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:51",
       "date": "23/08",
       "timestamp": 1787514716
-    },
-    {
-      "id": "BFMTV_1787514439",
-      "source": "BFMTV",
-      "text": "CRANS-MONTANA: JAQUES MORETTI, PATRON DU CONSTELLATION, EN DÉTENTION PROVISOIRE POUR DES VIOLENCES SUR SON ÉPOUSE JESSICA",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:47",
-      "date": "23/08",
-      "timestamp": 1787514439
     }
   ],
   "france": {
