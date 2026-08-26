@@ -1,7 +1,67 @@
 {
-  "last_update": "26/08 10:17",
+  "last_update": "26/08 11:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787741599",
+      "source": "BFMTV",
+      "text": "UN AMÉRICAIN TUE HUIT MEMBRES DE SA FAMILLE, DONT QUATRE ENFANTS, LORS D'UN DÎNER DOMINICAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:53",
+      "date": "26/08",
+      "timestamp": 1787741599
+    },
+    {
+      "id": "BFMTV_1787741188",
+      "source": "BFMTV",
+      "text": "L’HOMME QUI TERRORISAIT PHILADELPHIE AVEC UN MASQUE DE CHUCKY A ÉTÉ ARRÊTÉ À LAS VEGAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:46",
+      "date": "26/08",
+      "timestamp": 1787741188
+    },
+    {
+      "id": "BFMTV_1787740895",
+      "source": "BFMTV",
+      "text": "UN \"MAÎTRE DE L'ÉVASION\" ARRÊTÉ EN ESPAGNE APRÈS S'ÊTRE ÉCHAPPÉ D'UNE PRISON ITALIENNE, SA QUATRIÈME FUITE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:41",
+      "date": "26/08",
+      "timestamp": 1787740895
+    },
+    {
+      "id": "BFMTV_1787740821",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU SUR L'IRAN: \"JE DOUTE QU'UN ACCORD PUISSE ÊTRE CONCLU AVEC CES SAUVAGES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:40",
+      "date": "26/08",
+      "timestamp": 1787740821
+    },
+    {
+      "id": "OPEX360_1787740097",
+      "source": "OPEX360",
+      "text": "L’ESPAGNE APPROUVE L’ACHAT CONJOINT D’AVIONS RAVITAILLEURS A330 MRTT AVEC LA POLOGNE POUR 5,4 MILLIARDS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:28",
+      "date": "26/08",
+      "timestamp": 1787740097
+    },
+    {
+      "id": "BFMTV_1787739916",
+      "source": "BFMTV",
+      "text": "LA VILLE ESPAGNOLE DE BUÑOL CÉLÈBRE LA TOMATINA AVEC PLUS DE 150.000 KG DE TOMATES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:25",
+      "date": "26/08",
+      "timestamp": 1787739916
+    },
     {
       "id": "BFMTV_1787737388",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "10:12",
       "date": "24/08",
       "timestamp": 1787566362
-    },
-    {
-      "id": "BFMTV_1787566227",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:10",
-      "date": "24/08",
-      "timestamp": 1787566227
-    },
-    {
-      "id": "BFMTV_1787565075",
-      "source": "BFMTV",
-      "text": "À L'OCCASION DE LA JOURNÉE DE L'INDÉPENDANCE DE L'UKRAINE, LA COALITION DES VOLONTAIRES SE RÉUNIT À KIEV CE LUNDI 24 AOÛT",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:51",
-      "date": "24/08",
-      "timestamp": 1787565075
-    },
-    {
-      "id": "BFMTV_1787564977",
-      "source": "BFMTV",
-      "text": "FRAPPES UKRAINIENNES EN RUSSIE: \"QUAND ON IMPACTE LES RAFFINERIES RUSSES ET L'E-COMMERCE, C'EST TOUT UN PAN DE L'ÉCONOMIE RUSSE QUI VA S'EFFONDRER\", ESTIME L'AUTEURE MARIE-LAURE BUISSON ",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:49",
-      "date": "24/08",
-      "timestamp": 1787564977
-    },
-    {
-      "id": "BFMTV_1787564849",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"NOUS DEVONS RENFORCER NOS FORCES ARMÉES ET NOUS ASSURER QUE NOUS DISPOSONS DE TOUT CE DONT NOUS AVONS BESOIN POUR TENIR NOS DÉFENSES\", ASSURE VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:47",
-      "date": "24/08",
-      "timestamp": 1787564849
-    },
-    {
-      "id": "BFMTV_1787564227",
-      "source": "BFMTV",
-      "text": "AUX ÉTATS-UNIS, L'ÉTAT DU NEVADA EN PROIE AUX FLAMMES, PLUS DE 40.000 PERSONNES ÉVACUÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:37",
-      "date": "24/08",
-      "timestamp": 1787564227
-    },
-    {
-      "id": "BFMTV_1787559174",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DEUX ENFANTS TUÉS DANS LE SUD DE LA RUSSIE PAR UNE FRAPPE DE DRONES UKRAINIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:12",
-      "date": "24/08",
-      "timestamp": 1787559174
     }
   ],
   "france": {
