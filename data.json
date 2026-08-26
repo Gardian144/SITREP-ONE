@@ -1,7 +1,117 @@
 {
-  "last_update": "26/08 16:52",
+  "last_update": "26/08 19:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787769640",
+      "source": "BFMTV",
+      "text": "DIRECT. INONDATIONS AU NÉPAL ET AU TIBET: LE BILAN REVU À LA HAUSSE AVEC 160 MORTS RECENSÉS ET 157 CORPS RETROUVÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:40",
+      "date": "26/08",
+      "timestamp": 1787769640
+    },
+    {
+      "id": "BFMTV_1787767646",
+      "source": "BFMTV",
+      "text": "UN MOUSTIQUE ARRIVÉ PAR UN AVION? DEUX EMPLOYÉS DE L'AÉROPORT DE FRANCFORT SONT MORTS DU PALUDISME",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:07",
+      "date": "26/08",
+      "timestamp": 1787767646
+    },
+    {
+      "id": "BFMTV_1787767291",
+      "source": "BFMTV",
+      "text": "AU MOINS 160 MORTS DANS UNE COULÉE DE BOUE AU NÉPAL, LES AUTORITÉS SANS NOUVELLES DE CENTAINES DE TOURISTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:01",
+      "date": "26/08",
+      "timestamp": 1787767291
+    },
+    {
+      "id": "BFMTV_1787767182",
+      "source": "BFMTV",
+      "text": "INONDATIONS AU NÉPAL: L'ARMÉE LANCE UNE OPÉRATION DE SAUVETAGE PAR HÉLICOPTÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:59",
+      "date": "26/08",
+      "timestamp": 1787767182
+    },
+    {
+      "id": "BFMTV_1787766093",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LE PÈRE D'UN MARIN DE L'USS LINCOLN QUI AVAIT ÉTÉ EMPRISONNÉ PAR L'ICE A ÉTÉ REMIS EN LIBERTÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:41",
+      "date": "26/08",
+      "timestamp": 1787766093
+    },
+    {
+      "id": "BFMTV_1787765867",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:37",
+      "date": "26/08",
+      "timestamp": 1787765867
+    },
+    {
+      "id": "BFMTV_1787765866",
+      "source": "BFMTV",
+      "text": "UNE FRAPPE UKRAINIENNE SUR UN BUS EN TERRITOIRE OCCUPÉ PAR LA RUSSIE FAIT NEUF MORTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:37",
+      "date": "26/08",
+      "timestamp": 1787765866
+    },
+    {
+      "id": "OPEX360_1787764903",
+      "source": "OPEX360",
+      "text": "LA GRÈCE EST PRÊTE À SIGNER UN ACCORD POUR SE PROCURER DEUX FRÉGATES MULTIMISSIONS D’OCCASION AUPRÈS DE L’ITALIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:21",
+      "date": "26/08",
+      "timestamp": 1787764903
+    },
+    {
+      "id": "BFMTV_1787764774",
+      "source": "BFMTV",
+      "text": "UN HOMME ARRÊTÉ À WASHINGTON AVEC UNE VÉRITABLE GUILLOTINE À L'ARRIÈRE DE SON VÉHICULE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:19",
+      "date": "26/08",
+      "timestamp": 1787764774
+    },
+    {
+      "id": "BFMTV_1787763359",
+      "source": "BFMTV",
+      "text": "INONDATIONS AU NÉPAL: 80 RESSORTISSANTS FRANÇAIS SIGNALÉS SUR PLACE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:55",
+      "date": "26/08",
+      "timestamp": 1787763359
+    },
+    {
+      "id": "BFMTV_1787763065",
+      "source": "BFMTV",
+      "text": "CE QUE L'ON SAIT DE LA ZONE TOUCHÉE PAR LES INONDATIONS MEURTRIÈRES AU NÉPAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:51",
+      "date": "26/08",
+      "timestamp": 1787763065
+    },
     {
       "id": "BFMTV_1787763022",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "21:14",
       "date": "24/08",
       "timestamp": 1787606087
-    },
-    {
-      "id": "BFMTV_1787602167",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA FRANCE INVITE LA RUSSIE À UN \"RÈGLEMENT PACIFIQUE DU CONFLIT\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "20:09",
-      "date": "24/08",
-      "timestamp": 1787602167
-    },
-    {
-      "id": "BFMTV_1787600450",
-      "source": "BFMTV",
-      "text": "L'IRAN PROMET 10 MILLIONS DE DOLLARS À QUICONQUE ÉLIMINERA BARRON TRUMP, LE FILS DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:40",
-      "date": "24/08",
-      "timestamp": 1787600450
-    },
-    {
-      "id": "BFMTV_1787600402",
-      "source": "BFMTV",
-      "text": "\"JUSTICE POUR LINDSAY CLANCY\": POURQUOI LES FEMMES SE PRÉCIPITENT POUR SA DÉFENSE ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:40",
-      "date": "24/08",
-      "timestamp": 1787600402
-    },
-    {
-      "id": "BFMTV_1787600107",
-      "source": "BFMTV",
-      "text": "LE CANADA N'ACCEPTERA PAS UN ACCORD COMMERCIAL \"À N'IMPORTE QUEL PRIX\" AVEC LES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:35",
-      "date": "24/08",
-      "timestamp": 1787600107
-    },
-    {
-      "id": "BFMTV_1787599454",
-      "source": "BFMTV",
-      "text": "\"LA RUSSIE TENTERA D'ESCALADER\": EMMANUEL MACRON ALERTE SUR DES ACTIONS \"CONTRE LES EUROPÉENS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:24",
-      "date": "24/08",
-      "timestamp": 1787599454
-    },
-    {
-      "id": "BFMTV_1787599243",
-      "source": "BFMTV",
-      "text": "LES ÉTATS QUI N'EMPÊCHERONT PAS LE BLANCHIMENT DE L'ARGENT IRANIEN \"SERONT EXPULSÉS DU SYSTÈME DOLLAR\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:20",
-      "date": "24/08",
-      "timestamp": 1787599243
-    },
-    {
-      "id": "BFMTV_1787598815",
-      "source": "BFMTV",
-      "text": "ARABIE SAOUDITE, TURQUIE, PAKISTAN...LES ENJEUX D'UN ACCORD MILITAIRE HISTORIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:13",
-      "date": "24/08",
-      "timestamp": 1787598815
-    },
-    {
-      "id": "BFMTV_1787595651",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS VEULENT \"COUPER TOUTES LES RESSOURCES ÉCONOMIQUES\" DU RÉGIME IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:20",
-      "date": "24/08",
-      "timestamp": 1787595651
-    },
-    {
-      "id": "BFMTV_1787595136",
-      "source": "BFMTV",
-      "text": "ACCORD ENTRE LA FRANCE ET L'ARABIE SAOUDITE SUR LA CRÉATION DE PARCS D'ATTRACTIONS PRÈS DE PARIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:12",
-      "date": "24/08",
-      "timestamp": 1787595136
-    },
-    {
-      "id": "BFMTV_1787594654",
-      "source": "BFMTV",
-      "text": "L'UKRAINE A \"BESOIN D'AU MOINS 300 MISSILES PATRIOT\" POUR AFFRONTER LA PÉRIODE HIVERNALE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:04",
-      "date": "24/08",
-      "timestamp": 1787594654
-    },
-    {
-      "id": "BFMTV_1787594514",
-      "source": "BFMTV",
-      "text": "CASQUES BLEUS TUÉS AU SOUDAN DU SUD: LE CHEF DE L'ONU \"CONDAMNE FERMEMENT\" L'ATTAQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:01",
-      "date": "24/08",
-      "timestamp": 1787594514
     }
   ],
   "france": {
