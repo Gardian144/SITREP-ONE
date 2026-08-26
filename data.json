@@ -1,7 +1,37 @@
 {
-  "last_update": "26/08 07:08",
+  "last_update": "26/08 07:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787730248",
+      "source": "BFMTV",
+      "text": "14 NOURRISSONS MEURENT DANS L'INCENDIE DU SERVICE INFANTILE D'UN HÔPITAL D'ISLAMABAD, AU PAKISTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:44",
+      "date": "26/08",
+      "timestamp": 1787730248
+    },
+    {
+      "id": "BFMTV_1787730155",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP CONFORTÉ DANS LES PRIMAIRES DE CAROLINE DU SUD ET D'OKLAHOMA APRÈS PLUSIEURS REVERS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:42",
+      "date": "26/08",
+      "timestamp": 1787730155
+    },
+    {
+      "id": "BFMTV_1787728638",
+      "source": "BFMTV",
+      "text": "IL S'ÉTAIT TROMPÉ DE MAISON: CROYANT À UN CAMBRIOLAGE, DES POLICIERS AMÉRICAINS TUENT UN ÉTUDIANT PAR ERREUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:17",
+      "date": "26/08",
+      "timestamp": 1787728638
+    },
     {
       "id": "BFMTV_1787725592",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "21:43",
       "date": "23/08",
       "timestamp": 1787521392
-    },
-    {
-      "id": "BFMTV_1787518014",
-      "source": "BFMTV",
-      "text": "GUERRE TECHNOLOGIQUE: QUAND UN ROBOT UKRAINIEN NEUTRALISE 20 SOLDATS RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:46",
-      "date": "23/08",
-      "timestamp": 1787518014
-    },
-    {
-      "id": "BFMTV_1787516920",
-      "source": "BFMTV",
-      "text": "LA GUERRE EN UKRAINE S'INTENSIFIE AVEC DES FRAPPES RÉGULIÈRES DE MISSILES BALISTIQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:28",
-      "date": "23/08",
-      "timestamp": 1787516920
-    },
-    {
-      "id": "BFMTV_1787514716",
-      "source": "BFMTV",
-      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:51",
-      "date": "23/08",
-      "timestamp": 1787514716
     }
   ],
   "france": {
