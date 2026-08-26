@@ -1,7 +1,37 @@
 {
-  "last_update": "26/08 09:39",
+  "last_update": "26/08 10:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787737388",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:43",
+      "date": "26/08",
+      "timestamp": 1787737388
+    },
+    {
+      "id": "BFMTV_1787737387",
+      "source": "BFMTV",
+      "text": "LE DIRECTEUR DE LA CIA A EU DES CONTACTS \"ENTRE SERVICES SECRETS\" À MOSCOU, MAIS N'A PAS RENCONTRÉ VLADIMIR POUTINE, SELON LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:43",
+      "date": "26/08",
+      "timestamp": 1787737387
+    },
+    {
+      "id": "BFMTV_1787737327",
+      "source": "BFMTV",
+      "text": "VISITE DU PATRON DE LA CIA À MOSCOU: LE KREMLIN CONFIRME DES ÉCHANGES \"ENTRE SERVICES SECRETS\", MAIS \"AUCUNE RENCONTRE AVEC LE PRÉSIDENT RUSSE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:42",
+      "date": "26/08",
+      "timestamp": 1787737327
+    },
     {
       "id": "BFMTV_1787736707",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "08:12",
       "date": "24/08",
       "timestamp": 1787559174
-    },
-    {
-      "id": "BFMTV_1787556040",
-      "source": "BFMTV",
-      "text": "UNE \"INTENSIFICATION DES MENACES\" CONTRE LES MIGRANTS: SOS MÉDITERRANÉE DÉNONCE UN HARCÈLEMENT EN MER ET DES INTERCEPTIONS \"DE PLUS EN PLUS VIOLENTES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:20",
-      "date": "24/08",
-      "timestamp": 1787556040
-    },
-    {
-      "id": "BFMTV_1787552993",
-      "source": "BFMTV",
-      "text": "UN GOUVERNEUR MEXICAIN RECHERCHÉ AUX ÉTATS-UNIS POUR TRAFIC DE DROGUE SE MET À NOUVEAU EN RETRAIT",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:29",
-      "date": "24/08",
-      "timestamp": 1787552993
-    },
-    {
-      "id": "BFMTV_1787548992",
-      "source": "BFMTV",
-      "text": "L'UKRAINE ACCUEILLE UNE RÉUNION DE LA \"COALITION DES VOLONTAIRES\", SUR FOND D'INTENSIFICATION DES FRAPPES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:23",
-      "date": "24/08",
-      "timestamp": 1787548992
     }
   ],
   "france": {
