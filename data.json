@@ -1,7 +1,17 @@
 {
-  "last_update": "26/08 07:58",
+  "last_update": "26/08 08:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787731185",
+      "source": "BFMTV",
+      "text": "FOOTBALL, KARATÉ: DERNIÈRE JOURNÉE DES JEUX MONDIAUX DE ROBOTS HUMANOÏDES À PÉKIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:59",
+      "date": "26/08",
+      "timestamp": 1787731185
+    },
     {
       "id": "BFMTV_1787730248",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "21:43",
       "date": "23/08",
       "timestamp": 1787521393
-    },
-    {
-      "id": "BFMTV_1787521392",
-      "source": "BFMTV",
-      "text": "\"L'ARMÉE PRENDRA DES MESURES\": ISRAËL MENACE LE HAMAS DE RÉPRESSIONS APRÈS LE LANCEMENT DE CERFS-VOLANTS DEPUIS GAZA",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:43",
-      "date": "23/08",
-      "timestamp": 1787521392
     }
   ],
   "france": {
