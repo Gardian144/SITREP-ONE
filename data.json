@@ -1,7 +1,37 @@
 {
-  "last_update": "26/08 14:25",
+  "last_update": "26/08 15:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787757762",
+      "source": "BFMTV",
+      "text": "\"ON N’Y EST PAS\": L'INQUIÉTUDE DU CHEF D'ÉTAT-MAJOR DES ARMÉES FACE À LA DRONISATION DES PAYS ENNEMIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:22",
+      "date": "26/08",
+      "timestamp": 1787757762
+    },
+    {
+      "id": "OPEX360_1787755147",
+      "source": "OPEX360",
+      "text": "LE FRANÇAIS NAVAL GROUP VA-T-IL SE FAIRE SOUFFLER LE CONTRAT DES SOUS-MARINS ARGENTINS ?",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:39",
+      "date": "26/08",
+      "timestamp": 1787755147
+    },
+    {
+      "id": "BFMTV_1787754871",
+      "source": "BFMTV",
+      "text": "\"ENTRE SERVICES SECRETS\": DONALD TRUMP QUALIFIE LA VISITE DU CHEF DE LA CIA À MOSCOU DE \"SEMI-ROUTINE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:34",
+      "date": "26/08",
+      "timestamp": 1787754871
+    },
     {
       "id": "BFMTV_1787753601",
       "source": "BFMTV",
@@ -61,6 +91,16 @@
       "time": "13:37",
       "date": "26/08",
       "timestamp": 1787751449
+    },
+    {
+      "id": "BFMTV_1787751393",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:36",
+      "date": "26/08",
+      "timestamp": 1787751393
     },
     {
       "id": "BFMTV_1787750835",
@@ -961,46 +1001,6 @@
       "time": "15:23",
       "date": "24/08",
       "timestamp": 1787585031
-    },
-    {
-      "id": "BFMTV_1787584360",
-      "source": "BFMTV",
-      "text": "\"JE RENTRE À LA MAISON, PAPA\": LE PÈRE D'UN MARIN AMÉRICAIN EN MISSION À BORD DE L'USS LINCOLN ARRÊTÉ PAR LES SERVICE DE L'IMMIGRATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:12",
-      "date": "24/08",
-      "timestamp": 1787584360
-    },
-    {
-      "id": "BFMTV_1787584102",
-      "source": "BFMTV",
-      "text": "\"C'EST TRÈS DIFFICILE DE RÉSISTER\": LE REGARD D'UNE UKRAINIENNE SUR LA GUERRE AVEC LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:08",
-      "date": "24/08",
-      "timestamp": 1787584102
-    },
-    {
-      "id": "BFMTV_1787583158",
-      "source": "BFMTV",
-      "text": "\"NOUS CONTINUONS À AIDER À TOUS LES NIVEAUX DE TOUTES LES MANIÈRES POSSIBLES\", DÉCLARE LE PREMIER MINISTRE BRITANNIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:52",
-      "date": "24/08",
-      "timestamp": 1787583158
-    },
-    {
-      "id": "BFMTV_1787582560",
-      "source": "BFMTV",
-      "text": "MOHAMMED BEN SALMANE ACCUEILLI PAR LE PREMIER MINISTRE SÉBASTIEN LECORNU AUX INVALIDES À PARIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:42",
-      "date": "24/08",
-      "timestamp": 1787582560
     }
   ],
   "france": {
