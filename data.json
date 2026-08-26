@@ -1,7 +1,47 @@
 {
-  "last_update": "26/08 11:44",
+  "last_update": "26/08 12:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787746217",
+      "source": "BFMTV",
+      "text": "DES INONDATIONS MASSIVES FONT AU MOINS HUIT MORTS AU NÉPAL, PRÈS DE LA FRONTIÈRE AVEC LE TIBET",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:10",
+      "date": "26/08",
+      "timestamp": 1787746217
+    },
+    {
+      "id": "BFMTV_1787745595",
+      "source": "BFMTV",
+      "text": "NÉPAL: DES PLUIES DILUVIENNES ONT TUÉ AU MOINS 19 PERSONNES",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:59",
+      "date": "26/08",
+      "timestamp": 1787745595
+    },
+    {
+      "id": "BFMTV_1787745452",
+      "source": "BFMTV",
+      "text": "NÉPAL: 384 TOURISTES PORTÉS DISPARUS APRÈS DES INONDATIONS MASSIVES",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:57",
+      "date": "26/08",
+      "timestamp": 1787745452
+    },
+    {
+      "id": "BFMTV_1787745258",
+      "source": "BFMTV",
+      "text": "AU MOINS 19 MORTS DANS UNE COULÉE DE BOUE AU NÉPAL, LES AUTORITÉS SANS NOUVELLES DE 384 TOURISTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:54",
+      "date": "26/08",
+      "timestamp": 1787745258
+    },
     {
       "id": "BFMTV_1787744362",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "11:05",
       "date": "24/08",
       "timestamp": 1787569533
-    },
-    {
-      "id": "BFMTV_1787568065",
-      "source": "BFMTV",
-      "text": "LE COSTA RICA FRAPPÉ PAR DEUX SÉISMES DE FORTE MAGNITUDE, DES DÉGÂTS MATÉRIELS MAIS AUCUNE VICTIME",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:41",
-      "date": "24/08",
-      "timestamp": 1787568065
-    },
-    {
-      "id": "BFMTV_1787568060",
-      "source": "BFMTV",
-      "text": "\"DE NOUVELLES MESURES POUR PRÉVENIR DE FUTURES ATTAQUES\": LA SUÈDE VEUT RENFORCER LA SÉCURITÉ DANS LES ÉCOLES APRÈS UNE ATTAQUE MEURTRIÈRE À L'ÉPÉE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:41",
-      "date": "24/08",
-      "timestamp": 1787568060
-    },
-    {
-      "id": "OPEX360_1787567382",
-      "source": "OPEX360",
-      "text": "LA GRÈCE DÉPLOIE UNE BATTERIE PATRIOT POUR PROTÉGER L’IMPORTANTE BASE NAVALE DE SOUDA CONTRE LA MENACE IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:29",
-      "date": "24/08",
-      "timestamp": 1787567382
-    },
-    {
-      "id": "BFMTV_1787566722",
-      "source": "BFMTV",
-      "text": "\"L'HISTOIRE D'UNE PROFONDE BLESSURE NATIONALE\": UN BATEAU CLANDESTIN D'ARMES COULÉ PAR L'ARMÉE ISRAÉLIENNE EN 1948 RETROUVÉ INTACT EN MER",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:18",
-      "date": "24/08",
-      "timestamp": 1787566722
     }
   ],
   "france": {
