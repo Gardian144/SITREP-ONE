@@ -1,7 +1,107 @@
 {
-  "last_update": "27/08 23:52",
+  "last_update": "28/08 09:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787909845",
+      "source": "BFMTV",
+      "text": "DIRECT. CRUE AU NÉPAL: AU MOINS 480 MORTS SELON UN NOUVEAU BILAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:37",
+      "date": "28/08",
+      "timestamp": 1787909845
+    },
+    {
+      "id": "BFMTV_1787906016",
+      "source": "BFMTV",
+      "text": "CRUES AU NÉPAL: LE GOUVERNEMENT NÉPALAIS CONFIRME LA DISPARITION DE QUATRE FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:33",
+      "date": "28/08",
+      "timestamp": 1787906016
+    },
+    {
+      "id": "BFMTV_1787905594",
+      "source": "BFMTV",
+      "text": "CRUES AU NÉPAL: \"IL N'Y A PAS DE MOTS\", CONFIE UN GUIDE NÉPALAIS FRANCOPHONE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:26",
+      "date": "28/08",
+      "timestamp": 1787905594
+    },
+    {
+      "id": "BFMTV_1787900992",
+      "source": "BFMTV",
+      "text": "CRUES AU NÉPAL: UNE ALERTE AUX INONDATIONS LANCÉE APRÈS LA RUPTURE D'UN LAC AU TIBET",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:09",
+      "date": "28/08",
+      "timestamp": 1787900992
+    },
+    {
+      "id": "BFMTV_1787898318",
+      "source": "BFMTV",
+      "text": "DE NOUVELLES CRUES AU NÉPAL:  LA POLICE LANCE UNE ALERTE AUX INONDATIONS APRÈS AVOIR INFORMÉE DE LA RUPTURE D'UN LAC AU TIBET",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:25",
+      "date": "28/08",
+      "timestamp": 1787898318
+    },
+    {
+      "id": "BFMTV_1787897393",
+      "source": "BFMTV",
+      "text": "CRUES AU NÉPAL ET EN CHINE: LA CRAINTE DE NOUVELLES COULÉES DE BOUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:09",
+      "date": "28/08",
+      "timestamp": 1787897393
+    },
+    {
+      "id": "BFMTV_1787894669",
+      "source": "BFMTV",
+      "text": "COLOMBIE: UN SOLDAT FRANCO-COLOMBIEN DE LA LÉGION ÉTRANGÈRE FRANÇAISE ENLEVÉ DANS UNE RÉGION CONTRÔLÉE PAR LA GUÉRILLA",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:24",
+      "date": "28/08",
+      "timestamp": 1787894669
+    },
+    {
+      "id": "BFMTV_1787891648",
+      "source": "BFMTV",
+      "text": "LE MONDE DE CLEMENCEAU - DONALD TRUMP ASSURE QUE VLADIMIR POUTINE \"NE VA PAS ATTAQUER UN TERRITOIRE DE L'OTAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:34",
+      "date": "28/08",
+      "timestamp": 1787891648
+    },
+    {
+      "id": "BFMTV_1787891550",
+      "source": "BFMTV",
+      "text": "CRUES AU NÉPAL: UN NOUVEAU BILAN FAIT ÉTAT D'AU MOINS 472 MORTS AU TOTAL, 469 CÔTÉ NÉPALAIS ET TROIS CÔTÉ TIBÉTAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:32",
+      "date": "28/08",
+      "timestamp": 1787891550
+    },
+    {
+      "id": "BFMTV_1787888780",
+      "source": "BFMTV",
+      "text": "UN SOLDAT DE LA LÉGION ÉTRANGÈRE FRANÇAISE ENLEVÉ EN COLOMBIE DANS UNE RÉGION CONTRÔLÉE PAR LA GUÉRILLA",
+      "urgent": false,
+      "france_related": true,
+      "time": "03:46",
+      "date": "28/08",
+      "timestamp": 1787888780
+    },
     {
       "id": "BFMTV_1787863174",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "09:31",
       "date": "26/08",
       "timestamp": 1787736707
-    },
-    {
-      "id": "BFMTV_1787735635",
-      "source": "BFMTV",
-      "text": "AU MOINS HUIT MORTS DANS UNE COULÉE DE BOUE AU NÉPAL PRÈS DE LA FRONTIÈRE AVEC LE TIBET",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:13",
-      "date": "26/08",
-      "timestamp": 1787735635
-    },
-    {
-      "id": "BFMTV_1787734848",
-      "source": "BFMTV",
-      "text": "CONFLIT ISRAËL-IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:00",
-      "date": "26/08",
-      "timestamp": 1787734848
-    },
-    {
-      "id": "BFMTV_1787734847",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU DÉCLARE QU'AUCUN ACCORD DIPLOMATIQUE N'EST POSSIBLE AVEC \"CES SAUVAGES\" EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:00",
-      "date": "26/08",
-      "timestamp": 1787734847
-    },
-    {
-      "id": "BFMTV_1787731185",
-      "source": "BFMTV",
-      "text": "FOOTBALL, KARATÉ: DERNIÈRE JOURNÉE DES JEUX MONDIAUX DE ROBOTS HUMANOÏDES À PÉKIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:59",
-      "date": "26/08",
-      "timestamp": 1787731185
-    },
-    {
-      "id": "BFMTV_1787730248",
-      "source": "BFMTV",
-      "text": "14 NOURRISSONS MEURENT DANS L'INCENDIE DU SERVICE INFANTILE D'UN HÔPITAL D'ISLAMABAD, AU PAKISTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:44",
-      "date": "26/08",
-      "timestamp": 1787730248
-    },
-    {
-      "id": "BFMTV_1787730155",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP CONFORTÉ DANS LES PRIMAIRES DE CAROLINE DU SUD ET D'OKLAHOMA APRÈS PLUSIEURS REVERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:42",
-      "date": "26/08",
-      "timestamp": 1787730155
-    },
-    {
-      "id": "BFMTV_1787728638",
-      "source": "BFMTV",
-      "text": "IL S'ÉTAIT TROMPÉ DE MAISON: CROYANT À UN CAMBRIOLAGE, DES POLICIERS AMÉRICAINS TUENT UN ÉTUDIANT PAR ERREUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:17",
-      "date": "26/08",
-      "timestamp": 1787728638
-    },
-    {
-      "id": "BFMTV_1787725592",
-      "source": "BFMTV",
-      "text": "SURVEILLANCE DES RESSOURCES EN EAU, PERTES AGRICOLES... LE PANAMA ET LE SALVADOR SE DÉCLARENT EN ÉTAT D'ALERTE FACE À EL NIÑO",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:26",
-      "date": "26/08",
-      "timestamp": 1787725592
-    },
-    {
-      "id": "BFMTV_1787722695",
-      "source": "BFMTV",
-      "text": "14 ENFANTS MEURENT DANS L'INCENDIE DU SERVICE INFANTILE D'UN HÔPITAL D'ISLAMABAD, AU PAKISTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:38",
-      "date": "26/08",
-      "timestamp": 1787722695
-    },
-    {
-      "id": "BFMTV_1787696386",
-      "source": "BFMTV",
-      "text": "L'UNICEF ALERTE SUR LA MALNUTRITION INFANTILE EN AFGHANISTAN, UN MILLION D'ENFANTS SONT EN DANGER DE MORT",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:19",
-      "date": "25/08",
-      "timestamp": 1787696386
     }
   ],
   "france": {
