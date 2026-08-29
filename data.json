@@ -1,7 +1,37 @@
 {
-  "last_update": "28/08 20:59",
+  "last_update": "29/08 03:08",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1787956141",
+      "source": "BFMTV",
+      "text": "CRUE AU NÉPAL: LA MINISTRE DÉLÉGUÉE AUPRÈS DU MINISTRE DE L'EUROPE ET DES AFFAIRES ÉTRANGÈRES ASSURE ÊTRE TOUJOURS \"SANS NOUVELLE\" DES QUATRE FRANÇAIS DISPARUS",
+      "urgent": false,
+      "france_related": true,
+      "time": "22:29",
+      "date": "28/08",
+      "timestamp": 1787956141
+    },
+    {
+      "id": "BFMTV_1787953818",
+      "source": "BFMTV",
+      "text": "CRUE AU NÉPAL ET AU TIBET: \"ELLE ÉTAIT AVEC 47 PERSONNES, AUCUNE D'ENTRE ELLES NE RÉPOND AU TÉLÉPHONE\", TÉMOIGNE PATRICK DEBOIS, PROCHE D'UNE DISPARUE FRANCO-UKRAINIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:50",
+      "date": "28/08",
+      "timestamp": 1787953818
+    },
+    {
+      "id": "BFMTV_1787952256",
+      "source": "BFMTV",
+      "text": "CRUE AU NÉPAL ET AU TIBET: CE QUE L'ON SAIT DU LAC QUI MENACE DE SE DÉVERSER",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:24",
+      "date": "28/08",
+      "timestamp": 1787952256
+    },
     {
       "id": "BFMTV_1787950103",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "13:41",
       "date": "26/08",
       "timestamp": 1787751701
-    },
-    {
-      "id": "BFMTV_1787751449",
-      "source": "BFMTV",
-      "text": "LES IMAGES DES INONDATIONS MASSIVES AU NÉPAL QUI ONT FAIT AU MOINS 95 MORTS ET DES CENTAINES DE DISPARUS APRÈS DES COULÉES DE BOUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:37",
-      "date": "26/08",
-      "timestamp": 1787751449
-    },
-    {
-      "id": "BFMTV_1787751393",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:36",
-      "date": "26/08",
-      "timestamp": 1787751393
-    },
-    {
-      "id": "BFMTV_1787750835",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DONALD TRUMP DIT NE PAS PENSER QUE LE GUIDE SUPRÊME MOJTABA KHAMENEI SOIT MORT",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:27",
-      "date": "26/08",
-      "timestamp": 1787750835
     }
   ],
   "france": {
