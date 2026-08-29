@@ -1,7 +1,47 @@
 {
-  "last_update": "29/08 15:03",
+  "last_update": "29/08 18:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788026084",
+      "source": "BFMTV",
+      "text": "LE NÉPAL SE DIT \"PARMI LES PRINCIPALES VICTIMES DU CHANGEMENT CLIMATIQUE\" APRÈS LA COULÉE DE BOUE MEURTRIÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:54",
+      "date": "29/08",
+      "timestamp": 1788026084
+    },
+    {
+      "id": "BFMTV_1788019179",
+      "source": "BFMTV",
+      "text": "NÉPAL: \"L'ARMÉE A DÉGAGÉ QUELQUES ROUTES, ON A ENVOYÉ PLUSIEURS VÉHICULES\", DÉCLARE MATTHIEU RICARD, MOINE BOUDDHISTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:59",
+      "date": "29/08",
+      "timestamp": 1788019179
+    },
+    {
+      "id": "BFMTV_1788018647",
+      "source": "BFMTV",
+      "text": "\"UNE NOUVELLE CRUE EST POSSIBLE\": DANS LA RÉGION DE BIDUR AU NÉPAL, LE LIT DE LA RIVIÈRE S'ÉLARGIT, SUSCITANT L'INQUIÉTUDE DES HABITANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:50",
+      "date": "29/08",
+      "timestamp": 1788018647
+    },
+    {
+      "id": "BFMTV_1788017000",
+      "source": "BFMTV",
+      "text": "AU MOINS 37 MORTS DANS UNE FRAPPE RUSSE PRÈS DE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:23",
+      "date": "29/08",
+      "timestamp": 1788017000
+    },
     {
       "id": "OPEX360_1788009663",
       "source": "OPEX360",
@@ -101,6 +141,16 @@
       "time": "10:02",
       "date": "29/08",
       "timestamp": 1787997735
+    },
+    {
+      "id": "BFMTV_1787993230",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:47",
+      "date": "29/08",
+      "timestamp": 1787993230
     },
     {
       "id": "BFMTV_1787993229",
@@ -951,56 +1001,6 @@
       "time": "20:31",
       "date": "26/08",
       "timestamp": 1787776288
-    },
-    {
-      "id": "BFMTV_1787774531",
-      "source": "BFMTV",
-      "text": "\"OUI À L'EXCISION\": UNE CAMPAGNE FAIT POLÉMIQUE ET RELANCE LE DÉBAT AUTOUR DE L’EXCISION AU MALI",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:02",
-      "date": "26/08",
-      "timestamp": 1787774531
-    },
-    {
-      "id": "BFMTV_1787773191",
-      "source": "BFMTV",
-      "text": "INONDATIONS AU NÉPAL: \"C'EST UNE CATASTROPHE, ON A BESOIN D'AIDE\", CONFIE ANU, FRANCO-NÉPALAISE DANS LA ZONE TOUCHÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:39",
-      "date": "26/08",
-      "timestamp": 1787773191
-    },
-    {
-      "id": "BFMTV_1787769640",
-      "source": "BFMTV",
-      "text": "DIRECT. INONDATIONS AU NÉPAL ET AU TIBET: LE BILAN REVU À LA HAUSSE AVEC 160 MORTS RECENSÉS ET 157 CORPS RETROUVÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:40",
-      "date": "26/08",
-      "timestamp": 1787769640
-    },
-    {
-      "id": "BFMTV_1787767646",
-      "source": "BFMTV",
-      "text": "UN MOUSTIQUE ARRIVÉ PAR UN AVION? DEUX EMPLOYÉS DE L'AÉROPORT DE FRANCFORT SONT MORTS DU PALUDISME",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:07",
-      "date": "26/08",
-      "timestamp": 1787767646
-    },
-    {
-      "id": "BFMTV_1787767291",
-      "source": "BFMTV",
-      "text": "AU MOINS 160 MORTS DANS UNE COULÉE DE BOUE AU NÉPAL, LES AUTORITÉS SANS NOUVELLES DE CENTAINES DE TOURISTES",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:01",
-      "date": "26/08",
-      "timestamp": 1787767291
     }
   ],
   "france": {
