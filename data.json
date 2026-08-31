@@ -1,7 +1,127 @@
 {
-  "last_update": "31/08 14:16",
+  "last_update": "31/08 20:15",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788204797",
+      "source": "BFMTV",
+      "text": "TAYLOR SWIFT FAIT UN DON DE 50.000 DOLLARS À UNE FEMME BLESSÉE APRÈS UN ACCIDENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:33",
+      "date": "31/08",
+      "timestamp": 1788204797
+    },
+    {
+      "id": "BFMTV_1788201465",
+      "source": "BFMTV",
+      "text": "163 ENFANTS DISPARUS SECOURUS À TRAVERS LE MONDE DANS LE CADRE D’UNE OPÉRATION INÉDITE MENÉE EN FLORIDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:37",
+      "date": "31/08",
+      "timestamp": 1788201465
+    },
+    {
+      "id": "OPEX360_1788196203",
+      "source": "OPEX360",
+      "text": "LA GRÈCE COMMANDE DES SYSTÈMES DE DÉFENSE AÉRIENNE ET DES RADARS DE SURVEILLANCE ISRAÉLIENS POUR 3 MILLIARDS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:10",
+      "date": "31/08",
+      "timestamp": 1788196203
+    },
+    {
+      "id": "BFMTV_1788195866",
+      "source": "BFMTV",
+      "text": "\"UNE MENACE TROP IMPORTANTE\": L'UN DES FILS DE BENJAMIN NETANYAHU A ÉTÉ EXFILTRÉ DES ÉTATS-UNIS POUR ÊTRE RAMENÉ EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:04",
+      "date": "31/08",
+      "timestamp": 1788195866
+    },
+    {
+      "id": "OPEX360_1788192538",
+      "source": "OPEX360",
+      "text": "LA SUÈDE CONFIRME L’ACHAT DE QUATRE FRÉGATES DE DÉFENSE ET D’INTERVENTION POUR ENVIRON 4,3 MILLIARDS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:08",
+      "date": "31/08",
+      "timestamp": 1788192538
+    },
+    {
+      "id": "BFMTV_1788189223",
+      "source": "BFMTV",
+      "text": "LA SUÈDE ACHÈTE 4 FRÉGATES FRANÇAISES POUR 4,3 MILLIARDS D'EUROS: \"UN CHOIX DE SOUVERAINETÉ EUROPÉENNE EN MATIÈRE DE CAPACITÉ DE DÉFENSE\", SOULIGNE EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:13",
+      "date": "31/08",
+      "timestamp": 1788189223
+    },
+    {
+      "id": "BFMTV_1788188388",
+      "source": "BFMTV",
+      "text": "OBSÈQUES NATIONALES POUR RATKO MLADIC: LA COMMISSION EUROPÉENNE AVERTIT LA SERBIE QUE LA \"GLORIFICATION DES CRIMINELS DE GUERRE N'A PAS SA PLACE DANS L'UE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:59",
+      "date": "31/08",
+      "timestamp": 1788188388
+    },
+    {
+      "id": "BFMTV_1788188313",
+      "source": "BFMTV",
+      "text": "EN PROIE À UNE VAGUE DE CHALEUR, LA TUNISIE FRAPPÉE PAR UNE IMPORTANTE PÉNURIE D'EAU EN BOUTEILLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:58",
+      "date": "31/08",
+      "timestamp": 1788188313
+    },
+    {
+      "id": "BFMTV_1788187940",
+      "source": "BFMTV",
+      "text": "\"UN ACTE DE CONFIANCE POLITIQUE\": EMMANUEL MACRON SALUE UNE ÉTAPE \"HISTORIQUE\" AVEC LA SUÈDE APRÈS L'ACHAT DE FRÉGATES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:52",
+      "date": "31/08",
+      "timestamp": 1788187940
+    },
+    {
+      "id": "BFMTV_1788187822",
+      "source": "BFMTV",
+      "text": "UN COUPLE DE TOURISTES RETROUVÉS MORTS DANS UN JACUZZI EN ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:50",
+      "date": "31/08",
+      "timestamp": 1788187822
+    },
+    {
+      "id": "BFMTV_1788187401",
+      "source": "BFMTV",
+      "text": "NAUFRAGE D'UN FERRY AU LARGE DE CHYPRE: LE CAPITAINE DU NAVIRE PLACÉ EN GARDE À VUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:43",
+      "date": "31/08",
+      "timestamp": 1788187401
+    },
+    {
+      "id": "BFMTV_1788186812",
+      "source": "BFMTV",
+      "text": "LE CERCUEIL DU ROI HARALD V DE NORVÈGE QUITTE LE PALAIS ROYAL D'OSLO",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:33",
+      "date": "31/08",
+      "timestamp": 1788186812
+    },
     {
       "id": "OPEX360_1788185738",
       "source": "OPEX360",
@@ -881,126 +1001,6 @@
       "time": "10:14",
       "date": "29/08",
       "timestamp": 1787998456
-    },
-    {
-      "id": "OPEX360_1787997793",
-      "source": "OPEX360",
-      "text": "LA FRANCE SE DIT «OUVERTE» À L’IDÉE DE COOPÉRER AVEC LA SUÈDE POUR DÉVELOPPER UN AVION DE COMBAT DE NOUVELLE GÉNÉRATION",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:03",
-      "date": "29/08",
-      "timestamp": 1787997793
-    },
-    {
-      "id": "BFMTV_1787997735",
-      "source": "BFMTV",
-      "text": "DIRECT. CRUE AU NÉPAL ET AU TIBET: LE BILAN GRIMPE À AU MOINS 633 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:02",
-      "date": "29/08",
-      "timestamp": 1787997735
-    },
-    {
-      "id": "BFMTV_1787993230",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:47",
-      "date": "29/08",
-      "timestamp": 1787993230
-    },
-    {
-      "id": "BFMTV_1787993229",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS 27 MORTS APRÈS UNE FRAPPE RUSSE SUR UN ENTREPÔT PRÈS DE KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:47",
-      "date": "29/08",
-      "timestamp": 1787993229
-    },
-    {
-      "id": "BFMTV_1787993229",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS 37 MORTS APRÈS UNE FRAPPE RUSSE SUR UN ENTREPÔT PRÈS DE KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:47",
-      "date": "29/08",
-      "timestamp": 1787993229
-    },
-    {
-      "id": "BFMTV_1787992331",
-      "source": "BFMTV",
-      "text": "CRUE AU NÉPAL: LE DERNIER BILAN DES AUTORITÉS FAIT ÉTAT D'AU MOINS 633 MORTS ET DE QUELQUES 3.000 DISPARUS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:32",
-      "date": "29/08",
-      "timestamp": 1787992331
-    },
-    {
-      "id": "BFMTV_1787992101",
-      "source": "BFMTV",
-      "text": "CRUES AU NÉPAL: KATERYNA DUZENKO, FRANCO-UKRAINIENNE, \"A FUI LES BOMBES RUSSES POUR ALLER MOURIR AU NÉPAL\", LANCE PATRICK DEBOIS, PROCHE DE LA DISPARUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:28",
-      "date": "29/08",
-      "timestamp": 1787992101
-    },
-    {
-      "id": "BFMTV_1787991648",
-      "source": "BFMTV",
-      "text": "CRUE AU NÉPAL ET AU TIBET: PLUS DE 630 MORTS ET PRÈS DE 3.000 DISPARUS SELON UN DERNIER BILAN ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:20",
-      "date": "29/08",
-      "timestamp": 1787991648
-    },
-    {
-      "id": "BFMTV_1787991041",
-      "source": "BFMTV",
-      "text": "SA DURÉE DE SÉJOUR DÉPASSÉE: UN POLÉMISTE BRITANNIQUE D’EXTRÊME DROITE INTERPELLÉ PAR L’ICE AUX ÉTATS-UNIS ET BIENTÔT EXPULSÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:10",
-      "date": "29/08",
-      "timestamp": 1787991041
-    },
-    {
-      "id": "BFMTV_1787990986",
-      "source": "BFMTV",
-      "text": "CRUE AU NÉPAL: \"IL N'Y A PLUS D'ESPACES DE SURVIE, PLUS DE ZONES OÙ ON PEUT ESPÉRER TROUVER SOUS LA BOUE DES PERSONNES VIVANTES\", DÉCLARE RÉMY DESBOIS, MEMBRE DES POMPIERS DE L'URGENCE INTERNATIONALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:09",
-      "date": "29/08",
-      "timestamp": 1787990986
-    },
-    {
-      "id": "BFMTV_1787990957",
-      "source": "BFMTV",
-      "text": "CRUE AU NÉPAL: À BIDUR, UNE BASE ARRIÈRE MILITAIRE TRANSFORMÉE EN PISTE D'ATTERRISSAGE ET DE DÉCOLLAGE POUR LES HÉLICOPTÈRES DES SECOURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:09",
-      "date": "29/08",
-      "timestamp": 1787990957
-    },
-    {
-      "id": "BFMTV_1787984776",
-      "source": "BFMTV",
-      "text": "SOLDAT DE LA LÉGION ÉTRANGÈRE FRANÇAISE ENLEVÉ EN COLOMBIE: LA FAMILLE N'A PAS REÇU DE DEMANDE DE RANÇON",
-      "urgent": false,
-      "france_related": true,
-      "time": "06:26",
-      "date": "29/08",
-      "timestamp": 1787984776
     }
   ],
   "france": {
