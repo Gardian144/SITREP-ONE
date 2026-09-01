@@ -1,7 +1,47 @@
 {
-  "last_update": "31/08 23:59",
+  "last_update": "01/09 04:53",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788238143",
+      "source": "BFMTV",
+      "text": "LA COUR SUPRÊME DES ÉTATS-UNIS AUTORISE LA CONSTRUCTION DE LA SALLE DE BAL DE DONALD TRUMP À LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:49",
+      "date": "01/09",
+      "timestamp": 1788238143
+    },
+    {
+      "id": "BFMTV_1788238068",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE CRAINDRAI D'ÊTRE \"PENDU\" D'APRÈS UN ARTICLE DE THE ECONOMIST",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:47",
+      "date": "01/09",
+      "timestamp": 1788238068
+    },
+    {
+      "id": "BFMTV_1788237701",
+      "source": "BFMTV",
+      "text": "30 ANS APRÈS LA MORT DE TUPAC SHAKUR, UN ANCIEN MEMBRE DE GANG RECONNU COUPABLE DU MEURTRE DU RAPPEUR À LAS VEGAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:41",
+      "date": "01/09",
+      "timestamp": 1788237701
+    },
+    {
+      "id": "BFMTV_1788236405",
+      "source": "BFMTV",
+      "text": "UNE FEMME POIGNARDE DEUX PERSONNES À NEW YORK DANS LE QUARTIER TOURISTIQUE DE TIMES SQUARE FAISANT UN MORT, L'ASSAILLANTE ABATTUE PAR LA POLICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:20",
+      "date": "01/09",
+      "timestamp": 1788236405
+    },
     {
       "id": "BFMTV_1788214611",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "17:54",
       "date": "29/08",
       "timestamp": 1788026084
-    },
-    {
-      "id": "BFMTV_1788019179",
-      "source": "BFMTV",
-      "text": "NÉPAL: \"L'ARMÉE A DÉGAGÉ QUELQUES ROUTES, ON A ENVOYÉ PLUSIEURS VÉHICULES\", DÉCLARE MATTHIEU RICARD, MOINE BOUDDHISTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:59",
-      "date": "29/08",
-      "timestamp": 1788019179
-    },
-    {
-      "id": "BFMTV_1788018647",
-      "source": "BFMTV",
-      "text": "\"UNE NOUVELLE CRUE EST POSSIBLE\": DANS LA RÉGION DE BIDUR AU NÉPAL, LE LIT DE LA RIVIÈRE S'ÉLARGIT, SUSCITANT L'INQUIÉTUDE DES HABITANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:50",
-      "date": "29/08",
-      "timestamp": 1788018647
-    },
-    {
-      "id": "BFMTV_1788017000",
-      "source": "BFMTV",
-      "text": "AU MOINS 37 MORTS DANS UNE FRAPPE RUSSE PRÈS DE KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:23",
-      "date": "29/08",
-      "timestamp": 1788017000
-    },
-    {
-      "id": "OPEX360_1788009663",
-      "source": "OPEX360",
-      "text": "LA FRANCE A PROPOSÉ DES MISSILES DE CROISIÈRE NAVALS À LA SUÈDE",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:21",
-      "date": "29/08",
-      "timestamp": 1788009663
     }
   ],
   "france": {
