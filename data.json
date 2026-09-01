@@ -1,7 +1,167 @@
 {
-  "last_update": "01/09 09:45",
+  "last_update": "01/09 14:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788271512",
+      "source": "BFMTV",
+      "text": "CRUE DANS L'HIMALAYA: LE BILAN DÉPASSE DÉSORMAIS LES 1.000 MORTS AU NÉPAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:05",
+      "date": "01/09",
+      "timestamp": 1788271512
+    },
+    {
+      "id": "BFMTV_1788271282",
+      "source": "BFMTV",
+      "text": "DÉTONATION D'UN ENGIN EXPLOSIF ARTISANAL PRÈS D'UNE CENTRALE THERMIQUE EN ALLEMAGNE, L'EXPLOITANT ÉVOQUE \"UNE ATTAQUE\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:01",
+      "date": "01/09",
+      "timestamp": 1788271282
+    },
+    {
+      "id": "BFMTV_1788268471",
+      "source": "BFMTV",
+      "text": "L'EX-PREMIER MINISTRE BRITANNIQUE, KEIR STARMER DÉMISSIONNE DU PARLEMENT POUR SE CONSACRER À \"D'AUTRES ENJEUX\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:14",
+      "date": "01/09",
+      "timestamp": 1788268471
+    },
+    {
+      "id": "BFMTV_1788267108",
+      "source": "BFMTV",
+      "text": "UN MINISTRE RUSSE AU G20 FINANCE: \"PAS LE MOMENT DE NORMALISER\" LES RELATIONS AVEC MOSCOU, ESTIME L'UE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:51",
+      "date": "01/09",
+      "timestamp": 1788267108
+    },
+    {
+      "id": "BFMTV_1788266680",
+      "source": "BFMTV",
+      "text": "LA TURQUIE DÉPLOIE UN NAVIRE DE RECHERCHE APRÈS LE NAUFRAGE MEURTRIER D'UN BATEAU AU LARGE DE LA CHYPRE DU NORD",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:44",
+      "date": "01/09",
+      "timestamp": 1788266680
+    },
+    {
+      "id": "BFMTV_1788266110",
+      "source": "BFMTV",
+      "text": "CRUE MEURTRIÈRE AU NÉPAL: \"C'EST TRÈS TRÈS TRISTE\", CONFIE UN PÈRE APRÈS LA DISPARITION DE SA FILLE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:35",
+      "date": "01/09",
+      "timestamp": 1788266110
+    },
+    {
+      "id": "BFMTV_1788263159",
+      "source": "BFMTV",
+      "text": "LE NOUVEAU ROI DE NORVÈGE, HAAKON VIII, QUITTE LE PALAIS ROYAL POUR PRÊTER SERMENT AU PARLEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:45",
+      "date": "01/09",
+      "timestamp": 1788263159
+    },
+    {
+      "id": "BFMTV_1788261858",
+      "source": "BFMTV",
+      "text": "MORT DE TUPAC SHAKUR: UN ANCIEN MEMBRE DE GANG RECONNU COUPABLE DU MEURTRE DU RAPPEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:24",
+      "date": "01/09",
+      "timestamp": 1788261858
+    },
+    {
+      "id": "BFMTV_1788260969",
+      "source": "BFMTV",
+      "text": "L’UN DES FILS DE BENJAMIN NETANYAHU EXFILTRÉ DES ÉTATS-UNIS VERS ISRAËL APRÈS DES CRAINTES SUR SA SÉCURITÉ ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:09",
+      "date": "01/09",
+      "timestamp": 1788260969
+    },
+    {
+      "id": "OPEX360_1788260274",
+      "source": "OPEX360",
+      "text": "LA SUÈDE PRÉCISE LA CONFIGURATION DE SES QUATRE FUTURES FRÉGATES DE DÉFENSE ET D’INTERVENTION",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:57",
+      "date": "01/09",
+      "timestamp": 1788260274
+    },
+    {
+      "id": "BFMTV_1788260136",
+      "source": "BFMTV",
+      "text": "UN SCANDALE À CAUSE D'UN POLICIER FATIGUÉ DE TRAVAILLER:  UN AGENT AVOUE AVOIR CLASSÉ DES ENQUÊTES POUR DISPARITIONS SANS RAISON EN CORÉE DU SUD",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:55",
+      "date": "01/09",
+      "timestamp": 1788260136
+    },
+    {
+      "id": "BFMTV_1788259120",
+      "source": "BFMTV",
+      "text": "UN BRITANNIQUE ACCUSÉ D'AVOIR DROGUÉ ET AGRESSÉ SEXUELLEMENT SA FEMME COMPARAÎT DEVANT LE TRIBUNAL AVEC DOUZE AUTRES HOMMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:38",
+      "date": "01/09",
+      "timestamp": 1788259120
+    },
+    {
+      "id": "BFMTV_1788258959",
+      "source": "BFMTV",
+      "text": "NAUFRAGE D'UN CHALUTIER FRANÇAIS DANS LA MANCHE: UN NAVIRE DE LA MARINE NATIONALE VA TENTER DE LOCALISER L'ÉPAVE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:35",
+      "date": "01/09",
+      "timestamp": 1788258959
+    },
+    {
+      "id": "BFMTV_1788258578",
+      "source": "BFMTV",
+      "text": "AU NOUVEAU-MEXIQUE, UN HOMME SUSPECTÉ D'AVOIR TUÉ SON COUSIN APRÈS UNE DISPUTE ALCOOLISÉE À PROPOS D'ENCHILADAS ÉPICÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:29",
+      "date": "01/09",
+      "timestamp": 1788258578
+    },
+    {
+      "id": "BFMTV_1788255244",
+      "source": "BFMTV",
+      "text": "SHANKER GAIRHE, HUMANITAIRE AU NÉPAL: \"AVANT, IL Y AVAIT UN VILLAGE DE PLUS DE 1.200 HABITANTS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:34",
+      "date": "01/09",
+      "timestamp": 1788255244
+    },
+    {
+      "id": "BFMTV_1788254411",
+      "source": "BFMTV",
+      "text": "UN HOMME ARRÊTÉ AU JAPON APRÈS LE MASSACRE DE 30 HAMSTERS DANS UN HÔTEL",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:20",
+      "date": "01/09",
+      "timestamp": 1788254411
+    },
     {
       "id": "BFMTV_1788238143",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "06:20",
       "date": "30/08",
       "timestamp": 1788070851
-    },
-    {
-      "id": "BFMTV_1788070474",
-      "source": "BFMTV",
-      "text": "DIRECT. CRUE AU NÉPAL: LE BILAN PASSE À 734 MORTS, APPEL À LA \"PRUDENCE\" FACE À UNE NOUVELLE MONTÉE DES EAUX",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:14",
-      "date": "30/08",
-      "timestamp": 1788070474
-    },
-    {
-      "id": "BFMTV_1788069791",
-      "source": "BFMTV",
-      "text": "SUISSE: UNE OPÉRATION MASSIVE DE LA POLICE EN COURS APRÈS DES TIRS EN MARGE D'UNE RAVE PARTY À AARAU AU NORD DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:03",
-      "date": "30/08",
-      "timestamp": 1788069791
-    },
-    {
-      "id": "BFMTV_1788069489",
-      "source": "BFMTV",
-      "text": "\"ON NE VOIT QUE LA BOUE\": APRÈS LA CRUE AU NÉPAL ET AU TIBET, LES OPÉRATIONS DE SECOURS COMPLIQUÉES PAR LES PLUIES ET UNE NOUVELLE MONTÉE DES EAUX",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:58",
-      "date": "30/08",
-      "timestamp": 1788069489
-    },
-    {
-      "id": "BFMTV_1788069158",
-      "source": "BFMTV",
-      "text": "DES COUPS DE FEU EN MARGE D'UNE RAVE PARTY DANS NORD DE LA SUISSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:52",
-      "date": "30/08",
-      "timestamp": 1788069158
-    },
-    {
-      "id": "BFMTV_1788068435",
-      "source": "BFMTV",
-      "text": "CRUE AU NÉPAL: LES IMAGES D'UNE INCROYABLE OPÉRATION DE SAUVETAGE DE 100 OUVRIERS BLOQUÉS DANS UN TUNNEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:40",
-      "date": "30/08",
-      "timestamp": 1788068435
-    },
-    {
-      "id": "BFMTV_1788067673",
-      "source": "BFMTV",
-      "text": "SUISSE: COUPS DE FEU EN MARGE D'UNE RAVE PARTY À AARAU (NORD), PLUSIEURS VICTIMES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:27",
-      "date": "30/08",
-      "timestamp": 1788067673
-    },
-    {
-      "id": "BFMTV_1788066697",
-      "source": "BFMTV",
-      "text": "CRUES AU NÉPAL: À DEVIGHAT, UNE ALERTE DES AUTORITÉS RÉGIONALES PRÉVIENT LES HABITANTS D'UNE NOUVELLE CRUE DE LA RIVIÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:11",
-      "date": "30/08",
-      "timestamp": 1788066697
-    },
-    {
-      "id": "BFMTV_1788066176",
-      "source": "BFMTV",
-      "text": "EL NIÑO: L'ÉQUATEUR EN ALERTE ROUGE FACE AU PHÉNOMÈNE CLIMATIQUE EN COURS QUI POURRAIT ÊTRE LE PLUS INTENSE JAMAIS ENREGISTRÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:02",
-      "date": "30/08",
-      "timestamp": 1788066176
-    },
-    {
-      "id": "BFMTV_1788065018",
-      "source": "BFMTV",
-      "text": "CRUES AU NÉPAL: LA DÉTRESSE ET L'ANGOISSE DES NÉPALAIS À LA RECHERCHE DES DISPARUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:43",
-      "date": "30/08",
-      "timestamp": 1788065018
-    },
-    {
-      "id": "BFMTV_1788064848",
-      "source": "BFMTV",
-      "text": "CRUE AU NÉPAL: LES ÉTATS-UNIS DÉBLOQUENT UNE AIDE HUMANITAIRE SUPPLÉMENTAIRE DE 3,6 MILLIONS DE DOLLARS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:40",
-      "date": "30/08",
-      "timestamp": 1788064848
-    },
-    {
-      "id": "BFMTV_1788038411",
-      "source": "BFMTV",
-      "text": "CRUE AU NÉPAL: LE BILAN HUMAIN DE LA CATASTROPHE PASSE À 682 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:20",
-      "date": "29/08",
-      "timestamp": 1788038411
-    },
-    {
-      "id": "BFMTV_1788036199",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:43",
-      "date": "29/08",
-      "timestamp": 1788036199
-    },
-    {
-      "id": "BFMTV_1788036199",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU ÉMET UNE RARE CRITIQUE CONTRE DES COLONS ISRAÉLIENS APRÈS DES VIOLENCES EN CISJORDANIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:43",
-      "date": "29/08",
-      "timestamp": 1788036199
-    },
-    {
-      "id": "BFMTV_1788034473",
-      "source": "BFMTV",
-      "text": "\"JE N'ARRIVE PLUS À MANGER NI À DORMIR\": LES ÉQUIPES DE BFMTV ONT PU ÉCHANGER AVEC UN RESCAPÉ APRÈS LA CRUE DÉVASTATRICE AU NÉPAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:14",
-      "date": "29/08",
-      "timestamp": 1788034473
-    },
-    {
-      "id": "BFMTV_1788033284",
-      "source": "BFMTV",
-      "text": "DIRECT. CRUE AU NÉPAL: LE BILAN HUMAIN DE LA CATASTROPHE PASSE À 682 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:54",
-      "date": "29/08",
-      "timestamp": 1788033284
-    },
-    {
-      "id": "BFMTV_1788026084",
-      "source": "BFMTV",
-      "text": "LE NÉPAL SE DIT \"PARMI LES PRINCIPALES VICTIMES DU CHANGEMENT CLIMATIQUE\" APRÈS LA COULÉE DE BOUE MEURTRIÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:54",
-      "date": "29/08",
-      "timestamp": 1788026084
     }
   ],
   "france": {
