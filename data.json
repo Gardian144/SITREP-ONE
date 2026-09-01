@@ -1,7 +1,27 @@
 {
-  "last_update": "01/09 20:36",
+  "last_update": "01/09 22:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788296299",
+      "source": "BFMTV",
+      "text": "ATTAQUE AU DRONE À LEIPZIG: BERLIN ACCUSE LA RUSSIE D'ÊTRE DERRIÈRE LE DRONE EXPLOSIF",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:58",
+      "date": "01/09",
+      "timestamp": 1788296299
+    },
+    {
+      "id": "BFMTV_1788295429",
+      "source": "BFMTV",
+      "text": "L'IRAN DIT AVOIR LANCÉ DES MISSILES BALISTIQUES VERS DES BASES AMÉRICAINES EN JORDANIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:43",
+      "date": "01/09",
+      "timestamp": 1788295429
+    },
     {
       "id": "BFMTV_1788294216",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "12:39",
       "date": "30/08",
       "timestamp": 1788093597
-    },
-    {
-      "id": "BFMTV_1788091768",
-      "source": "BFMTV",
-      "text": "UN FERRY AVEC 267 PERSONNES À BORD FAIT NAUFRAGE AU LARGE DES CÔTES DE CHYPRE DU NORD, \"DES MORTS\" RECENSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:09",
-      "date": "30/08",
-      "timestamp": 1788091768
-    },
-    {
-      "id": "BFMTV_1788091768",
-      "source": "BFMTV",
-      "text": "AU MOINS 7 MORTS ET 23 DISPARUS DANS LE NAUFRAGE D'UN FERRY AU LARGE DES CÔTES DE CHYPRE DU NORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:09",
-      "date": "30/08",
-      "timestamp": 1788091768
     }
   ],
   "france": {
