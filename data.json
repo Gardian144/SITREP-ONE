@@ -1,7 +1,17 @@
 {
-  "last_update": "03/09 10:05",
+  "last_update": "03/09 14:34",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1788432287",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE TERRE COMPTE DÉSORMAIS PLUS DE 5 000 DRONES AÉRIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:44",
+      "date": "03/09",
+      "timestamp": 1788432287
+    },
     {
       "id": "BFMTV_1788429635",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "10:29",
       "date": "01/09",
       "timestamp": 1788258578
-    },
-    {
-      "id": "BFMTV_1788255244",
-      "source": "BFMTV",
-      "text": "SHANKER GAIRHE, HUMANITAIRE AU NÉPAL: \"AVANT, IL Y AVAIT UN VILLAGE DE PLUS DE 1.200 HABITANTS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:34",
-      "date": "01/09",
-      "timestamp": 1788255244
     }
   ],
   "france": {
