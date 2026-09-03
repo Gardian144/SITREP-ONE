@@ -1,7 +1,167 @@
 {
-  "last_update": "03/09 14:34",
+  "last_update": "03/09 18:04",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788456217",
+      "source": "BFMTV",
+      "text": "COOPÉRATION ENTRE LA FRANCE ET LE ROYAUME-UNI SUR L'IMMIGRATION: 45 POLICIERS FRANÇAIS SUPPLÉMENTAIRES SERONT DÉPLOYÉS SUR LES BORDS DE MANCHE",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:23",
+      "date": "03/09",
+      "timestamp": 1788456217
+    },
+    {
+      "id": "OPEX360_1788455328",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE TERRE FAIT SON MEA CULPA APRÈS L’ABANDON DU DRONE TACTIQUE PATROLLER",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:08",
+      "date": "03/09",
+      "timestamp": 1788455328
+    },
+    {
+      "id": "OPEX360_1788452479",
+      "source": "OPEX360",
+      "text": "LE MINISTRE ESTONIEN DE LA DÉFENSE A DÉMISSIONNÉ SUITE À UN «SCANDALE» LIÉ À UN MARCHÉ PUBLIC",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:21",
+      "date": "03/09",
+      "timestamp": 1788452479
+    },
+    {
+      "id": "BFMTV_1788450199",
+      "source": "BFMTV",
+      "text": "LE FILS DE DONALD TRUMP MONTRE LE NOUVEAU PASSEPORT AMÉRICAIN À L’EFFIGIE DE SON PÈRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:43",
+      "date": "03/09",
+      "timestamp": 1788450199
+    },
+    {
+      "id": "BFMTV_1788449194",
+      "source": "BFMTV",
+      "text": "INONDATIONS AU NÉPAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:26",
+      "date": "03/09",
+      "timestamp": 1788449194
+    },
+    {
+      "id": "BFMTV_1788449194",
+      "source": "BFMTV",
+      "text": "LE BILAN CONTINUE DE S'ALOURDIR AU NÉPAL, AVEC 1.259 MORTS ET 5.083 DISPARUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:26",
+      "date": "03/09",
+      "timestamp": 1788449194
+    },
+    {
+      "id": "BFMTV_1788448399",
+      "source": "BFMTV",
+      "text": "GUERRE COMMERCIALE AVEC LES ÉTATS-UNIS: MARK CARNEY ÉVOQUE LE \"DROIT À LA SOUVERAINETÉ DU CANADA\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:13",
+      "date": "03/09",
+      "timestamp": 1788448399
+    },
+    {
+      "id": "OPEX360_1788447698",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE SUD-CORÉEN DE LA DÉFENSE LANCE UNE ÉTUDE POUR DÉVELOPPER UN AVION DE COMBAT DE 6E GÉNÉRATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:01",
+      "date": "03/09",
+      "timestamp": 1788447698
+    },
+    {
+      "id": "BFMTV_1788445589",
+      "source": "BFMTV",
+      "text": "GUERRE COMMERCIALE USA-CANADA: \"NOTRE PAYS EST MIS À L'ÉPREUVE\", DÉCLARE LE PREMIER MINISTRE CANADIEN, MARK CARNEY",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:26",
+      "date": "03/09",
+      "timestamp": 1788445589
+    },
+    {
+      "id": "BFMTV_1788443850",
+      "source": "BFMTV",
+      "text": "DES ENGINS INCENDIAIRES LANCÉS À PROXIMITÉ D’ENTREPRISES DE LA DÉFENSE À MUNICH, DEUX SUSPECTS BULGARES INTERPELLÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:57",
+      "date": "03/09",
+      "timestamp": 1788443850
+    },
+    {
+      "id": "BFMTV_1788443712",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON À LONDRES: L'IMMIGRATION AU CŒUR DES DISCUSSIONS AVEC ANDY BURNHAM, LE PREMIER MINISTRE DU ROYAUME-UNI",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:55",
+      "date": "03/09",
+      "timestamp": 1788443712
+    },
+    {
+      "id": "BFMTV_1788440130",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LES GARDIENS DE LA RÉVOLUTION JURENT DE VENGER LA FRAPPE AMÉRICAINE LORS D'UN MARIAGE EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:55",
+      "date": "03/09",
+      "timestamp": 1788440130
+    },
+    {
+      "id": "BFMTV_1788438755",
+      "source": "BFMTV",
+      "text": "TENTATIVES D'ATTAQUES RUSSES: DES PRÉCÉDENTS EN FRANCE ",
+      "urgent": true,
+      "france_related": true,
+      "time": "12:32",
+      "date": "03/09",
+      "timestamp": 1788438755
+    },
+    {
+      "id": "BFMTV_1788438029",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VLADIMIR POUTINE DÉMENT TOUT \"SCÉNARIO QUI NÉCESSITERAIT UNE MOBILISATION\" FACE À L'UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:20",
+      "date": "03/09",
+      "timestamp": 1788438029
+    },
+    {
+      "id": "BFMTV_1788436477",
+      "source": "BFMTV",
+      "text": "NEUF PERSONNES ATTEINTES DU VIRUS DU NIL OCCIDENTAL AUX PAYS-BAS APRÈS UNE PIQÛRE DE MOUSTIQUE INFECTÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:54",
+      "date": "03/09",
+      "timestamp": 1788436477
+    },
+    {
+      "id": "BFMTV_1788435192",
+      "source": "BFMTV",
+      "text": "L'INSTITUT GOETHE EN RUSSIE VA FERMER EN REPRÉSAILLES À DES MESURES SIMILAIRES PRISES PAR L'ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:33",
+      "date": "03/09",
+      "timestamp": 1788435192
+    },
     {
       "id": "OPEX360_1788432287",
       "source": "OPEX360",
@@ -841,166 +1001,6 @@
       "time": "14:44",
       "date": "01/09",
       "timestamp": 1788273845
-    },
-    {
-      "id": "BFMTV_1788273808",
-      "source": "BFMTV",
-      "text": "\"ON VOUS VOIT\": JEAN-NOËL BARROT ASSURE QUE LES \"TENTATIVES D'INGÉRENCE ET DE MANIPULATION\" NE SERONT \"PAS SANS CONSÉQUENCES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:43",
-      "date": "01/09",
-      "timestamp": 1788273808
-    },
-    {
-      "id": "BFMTV_1788272640",
-      "source": "BFMTV",
-      "text": "BUDGET 2027: \"UN PAYS QUI NE PARVIENT PAS À SE DOTER D'UN BUDGET EST UN PAYS QUI S'AFFAIBLIT\", DÉCLARE JEAN-NOËL BARROT",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:24",
-      "date": "01/09",
-      "timestamp": 1788272640
-    },
-    {
-      "id": "BFMTV_1788271512",
-      "source": "BFMTV",
-      "text": "CRUE DANS L'HIMALAYA: LE BILAN DÉPASSE DÉSORMAIS LES 1.000 MORTS AU NÉPAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:05",
-      "date": "01/09",
-      "timestamp": 1788271512
-    },
-    {
-      "id": "BFMTV_1788271282",
-      "source": "BFMTV",
-      "text": "DÉTONATION D'UN ENGIN EXPLOSIF ARTISANAL PRÈS D'UNE CENTRALE THERMIQUE EN ALLEMAGNE, L'EXPLOITANT ÉVOQUE \"UNE ATTAQUE\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:01",
-      "date": "01/09",
-      "timestamp": 1788271282
-    },
-    {
-      "id": "BFMTV_1788268471",
-      "source": "BFMTV",
-      "text": "L'EX-PREMIER MINISTRE BRITANNIQUE, KEIR STARMER DÉMISSIONNE DU PARLEMENT POUR SE CONSACRER À \"D'AUTRES ENJEUX\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:14",
-      "date": "01/09",
-      "timestamp": 1788268471
-    },
-    {
-      "id": "BFMTV_1788267108",
-      "source": "BFMTV",
-      "text": "UN MINISTRE RUSSE AU G20 FINANCE: \"PAS LE MOMENT DE NORMALISER\" LES RELATIONS AVEC MOSCOU, ESTIME L'UE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:51",
-      "date": "01/09",
-      "timestamp": 1788267108
-    },
-    {
-      "id": "BFMTV_1788266680",
-      "source": "BFMTV",
-      "text": "LA TURQUIE DÉPLOIE UN NAVIRE DE RECHERCHE APRÈS LE NAUFRAGE MEURTRIER D'UN BATEAU AU LARGE DE LA CHYPRE DU NORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:44",
-      "date": "01/09",
-      "timestamp": 1788266680
-    },
-    {
-      "id": "BFMTV_1788266110",
-      "source": "BFMTV",
-      "text": "CRUE MEURTRIÈRE AU NÉPAL: \"C'EST TRÈS TRÈS TRISTE\", CONFIE UN PÈRE APRÈS LA DISPARITION DE SA FILLE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:35",
-      "date": "01/09",
-      "timestamp": 1788266110
-    },
-    {
-      "id": "BFMTV_1788263159",
-      "source": "BFMTV",
-      "text": "LE NOUVEAU ROI DE NORVÈGE, HAAKON VIII, QUITTE LE PALAIS ROYAL POUR PRÊTER SERMENT AU PARLEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:45",
-      "date": "01/09",
-      "timestamp": 1788263159
-    },
-    {
-      "id": "BFMTV_1788261858",
-      "source": "BFMTV",
-      "text": "MORT DE TUPAC SHAKUR: UN ANCIEN MEMBRE DE GANG RECONNU COUPABLE DU MEURTRE DU RAPPEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:24",
-      "date": "01/09",
-      "timestamp": 1788261858
-    },
-    {
-      "id": "BFMTV_1788260969",
-      "source": "BFMTV",
-      "text": "L’UN DES FILS DE BENJAMIN NETANYAHU EXFILTRÉ DES ÉTATS-UNIS VERS ISRAËL APRÈS DES CRAINTES SUR SA SÉCURITÉ ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:09",
-      "date": "01/09",
-      "timestamp": 1788260969
-    },
-    {
-      "id": "OPEX360_1788260274",
-      "source": "OPEX360",
-      "text": "LA SUÈDE PRÉCISE LA CONFIGURATION DE SES QUATRE FUTURES FRÉGATES DE DÉFENSE ET D’INTERVENTION",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:57",
-      "date": "01/09",
-      "timestamp": 1788260274
-    },
-    {
-      "id": "BFMTV_1788260136",
-      "source": "BFMTV",
-      "text": "UN SCANDALE À CAUSE D'UN POLICIER FATIGUÉ DE TRAVAILLER:  UN AGENT AVOUE AVOIR CLASSÉ DES ENQUÊTES POUR DISPARITIONS SANS RAISON EN CORÉE DU SUD",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:55",
-      "date": "01/09",
-      "timestamp": 1788260136
-    },
-    {
-      "id": "BFMTV_1788259120",
-      "source": "BFMTV",
-      "text": "UN BRITANNIQUE ACCUSÉ D'AVOIR DROGUÉ ET AGRESSÉ SEXUELLEMENT SA FEMME COMPARAÎT DEVANT LE TRIBUNAL AVEC DOUZE AUTRES HOMMES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:38",
-      "date": "01/09",
-      "timestamp": 1788259120
-    },
-    {
-      "id": "BFMTV_1788258959",
-      "source": "BFMTV",
-      "text": "NAUFRAGE D'UN CHALUTIER FRANÇAIS DANS LA MANCHE: UN NAVIRE DE LA MARINE NATIONALE VA TENTER DE LOCALISER L'ÉPAVE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:35",
-      "date": "01/09",
-      "timestamp": 1788258959
-    },
-    {
-      "id": "BFMTV_1788258578",
-      "source": "BFMTV",
-      "text": "AU NOUVEAU-MEXIQUE, UN HOMME SUSPECTÉ D'AVOIR TUÉ SON COUSIN APRÈS UNE DISPUTE ALCOOLISÉE À PROPOS D'ENCHILADAS ÉPICÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:29",
-      "date": "01/09",
-      "timestamp": 1788258578
     }
   ],
   "france": {
