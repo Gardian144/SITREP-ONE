@@ -1,7 +1,117 @@
 {
-  "last_update": "03/09 05:34",
+  "last_update": "03/09 10:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788429635",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: PEDRO SÁNCHEZ ASSURE QU'IL N'Y A \"AUCUNE PREUVE SOLIDE QUE LE MAROC AIT PLANIFIÉ\" L'AFFLUX DE MIGRANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:00",
+      "date": "03/09",
+      "timestamp": 1788429635
+    },
+    {
+      "id": "BFMTV_1788428401",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LONDRES AU CŒUR DE NOUVELLES MENACES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:40",
+      "date": "03/09",
+      "timestamp": 1788428401
+    },
+    {
+      "id": "BFMTV_1788428259",
+      "source": "BFMTV",
+      "text": "CEUTA: ENTRE SOUTIEN ET EXASPÉRATION, DES MILLIERS DE PERSONNES MANIFESTENT EN ESPAGNE UN MOIS APRÈS L’AFFLUX DE MIGRANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:37",
+      "date": "03/09",
+      "timestamp": 1788428259
+    },
+    {
+      "id": "BFMTV_1788428248",
+      "source": "BFMTV",
+      "text": "UN DÉTENU EN CAROLINE DU SUD S’ÉVADE DE PRISON GRÂCE À UN CRAYON ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:37",
+      "date": "03/09",
+      "timestamp": 1788428248
+    },
+    {
+      "id": "BFMTV_1788425800",
+      "source": "BFMTV",
+      "text": "\"RESTONS UNIS\", DEMANDE ANDY BURNHAM, LE PREMIER MINISTRE DU ROYAUME-UNI FACE À LA RUSSIE",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:56",
+      "date": "03/09",
+      "timestamp": 1788425800
+    },
+    {
+      "id": "BFMTV_1788425795",
+      "source": "BFMTV",
+      "text": "L'APPAREIL \"APPAREMMENT INTACT MAIS RETOURNÉ\": LES QUATRE OCCUPANTS D’UN AVION SECOURUS APRÈS UN CRASH EN ALASKA",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:56",
+      "date": "03/09",
+      "timestamp": 1788425795
+    },
+    {
+      "id": "BFMTV_1788424157",
+      "source": "BFMTV",
+      "text": "TAPISSERIE DE BAYEUX À LONDRES: EMMANUEL MACRON SALUE \"UN RÉCIT EXTRAORDINAIRE\" ENTRE LES DEUX PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:29",
+      "date": "03/09",
+      "timestamp": 1788424157
+    },
+    {
+      "id": "BFMTV_1788421537",
+      "source": "BFMTV",
+      "text": "CRISE À CEUTA: DES MILLIERS DE MANIFESTANTS DANS TOUTE L'ESPAGNE CONTRE LE GOUVERNEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:45",
+      "date": "03/09",
+      "timestamp": 1788421537
+    },
+    {
+      "id": "BFMTV_1788419004",
+      "source": "BFMTV",
+      "text": "DROIT DU SOL: UNE JUGE FAIT BARRAGE À UN DÉCRET DE DONALD TRUMP CENSÉ EMPÊCHER LE \"TOURISME DE NAISSANCE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:03",
+      "date": "03/09",
+      "timestamp": 1788419004
+    },
+    {
+      "id": "BFMTV_1788418916",
+      "source": "BFMTV",
+      "text": "UN HOMME SURVIT APRÈS AVOIR ÉTÉ FRAPPÉ PAR LA FOUDRE À NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:01",
+      "date": "03/09",
+      "timestamp": 1788418916
+    },
+    {
+      "id": "BFMTV_1788416394",
+      "source": "BFMTV",
+      "text": "ALLEMAGNE: QU'EST-CE QUE LA \"MAISON RUSSE\", SOUPÇONNÉE D'ACCUEILLIR DE NOMBREUX ESPIONS AU CŒUR DE BERLIN ?",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:19",
+      "date": "03/09",
+      "timestamp": 1788416394
+    },
     {
       "id": "BFMTV_1788413204",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "09:34",
       "date": "01/09",
       "timestamp": 1788255244
-    },
-    {
-      "id": "BFMTV_1788254411",
-      "source": "BFMTV",
-      "text": "UN HOMME ARRÊTÉ AU JAPON APRÈS LE MASSACRE DE 30 HAMSTERS DANS UN HÔTEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:20",
-      "date": "01/09",
-      "timestamp": 1788254411
-    },
-    {
-      "id": "BFMTV_1788238143",
-      "source": "BFMTV",
-      "text": "LA COUR SUPRÊME DES ÉTATS-UNIS AUTORISE LA CONSTRUCTION DE LA SALLE DE BAL DE DONALD TRUMP À LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:49",
-      "date": "01/09",
-      "timestamp": 1788238143
-    },
-    {
-      "id": "BFMTV_1788238068",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE CRAINDRAI D'ÊTRE \"PENDU\" D'APRÈS UN ARTICLE DE THE ECONOMIST",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:47",
-      "date": "01/09",
-      "timestamp": 1788238068
-    },
-    {
-      "id": "BFMTV_1788237701",
-      "source": "BFMTV",
-      "text": "30 ANS APRÈS LA MORT DE TUPAC SHAKUR, UN ANCIEN MEMBRE DE GANG RECONNU COUPABLE DU MEURTRE DU RAPPEUR À LAS VEGAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:41",
-      "date": "01/09",
-      "timestamp": 1788237701
-    },
-    {
-      "id": "BFMTV_1788236405",
-      "source": "BFMTV",
-      "text": "UNE FEMME POIGNARDE DEUX PERSONNES À NEW YORK DANS LE QUARTIER TOURISTIQUE DE TIMES SQUARE FAISANT UN MORT, L'ASSAILLANTE ABATTUE PAR LA POLICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:20",
-      "date": "01/09",
-      "timestamp": 1788236405
-    },
-    {
-      "id": "BFMTV_1788214611",
-      "source": "BFMTV",
-      "text": "CRUE AU NÉPAL: LE BILAN S'AGGRAVE À 939 MORTS, PLUS DE 3.900 PERSONNES TOUJOURS PORTÉES DISPARUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:16",
-      "date": "31/08",
-      "timestamp": 1788214611
-    },
-    {
-      "id": "BFMTV_1788214521",
-      "source": "BFMTV",
-      "text": "CRUE AU NÉPAL ET AU TIBET: PLUS DE 950 MORTS, LES SECOURS À LA RECHERCHE DE MILLIERS DE DISPARUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:15",
-      "date": "31/08",
-      "timestamp": 1788214521
-    },
-    {
-      "id": "BFMTV_1788212784",
-      "source": "BFMTV",
-      "text": "SANCTIONS DE L'UE CONTRE L'IRAN: \"ON VERRA S'IL FAUT ALLER PLUS LOIN\", DÉCLARE ROLAND LESCURE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:46",
-      "date": "31/08",
-      "timestamp": 1788212784
-    },
-    {
-      "id": "BFMTV_1788212385",
-      "source": "BFMTV",
-      "text": "\"QUELLE QUESTION STUPIDE !\": DONALD TRUMP S'EMPORTE SUR UNE POSSIBLE UTILISATION DE L'ARME NUCLÉAIRE CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:39",
-      "date": "31/08",
-      "timestamp": 1788212385
-    },
-    {
-      "id": "BFMTV_1788211485",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE DE NOUVEAUX ACCORDS AVEC LES ENTREPRISES PHARMACEUTIQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:24",
-      "date": "31/08",
-      "timestamp": 1788211485
-    },
-    {
-      "id": "BFMTV_1788210288",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: DONALD TRUMP ASSURE QUE L'IRAN EST UNE \"NATION EN FAILLITE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:04",
-      "date": "31/08",
-      "timestamp": 1788210288
     }
   ],
   "france": {
