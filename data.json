@@ -1,7 +1,47 @@
 {
-  "last_update": "03/09 18:04",
+  "last_update": "03/09 21:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788468662",
+      "source": "BFMTV",
+      "text": "\"JE N'APPELLERAIS PAS ÇA UNE GUERRE\": LE VICE-PRÉSIDENT AMÉRICAIN JD VANCE MINIMISE LE CONFLIT ENTRE TÉHÉRAN ET WASHINGTON",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:51",
+      "date": "03/09",
+      "timestamp": 1788468662
+    },
+    {
+      "id": "BFMTV_1788462039",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU ESTIME QUE FAIRE TOMBER LE POUVOIR IRANIEN EST \"À PORTÉE DE MAIN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:00",
+      "date": "03/09",
+      "timestamp": 1788462039
+    },
+    {
+      "id": "BFMTV_1788460747",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: \"NOUS NE PARLERONS PAS À L'IRAN TANT QU'ILS CONTINUERONT À TIRER SUR LES NAVIRES MARCHANDS\", ASSURE JD VANCE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:39",
+      "date": "03/09",
+      "timestamp": 1788460747
+    },
+    {
+      "id": "BFMTV_1788460376",
+      "source": "BFMTV",
+      "text": "RUSSIE: \"IL Y A UNE VRAIE SYNERGIE DES PAYS EUROPÉENS POUR SE DÉFENDRE\", ASSURE PATRICK DUTARTRE, GÉNÉRAL DE L'ARMÉE DE L'AIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:32",
+      "date": "03/09",
+      "timestamp": 1788460376
+    },
     {
       "id": "BFMTV_1788456217",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "16:02",
       "date": "01/09",
       "timestamp": 1788278550
-    },
-    {
-      "id": "BFMTV_1788275596",
-      "source": "BFMTV",
-      "text": "CISJORDANIE: POUR LA VICE-PRÉSIDENTE DE LA COMMISSION EUROPÉENNE, \"UNE ACTION FORTE\" DE LA PART DE L'UE \"ENVERRAIT UN MESSAGE CLAIR\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:13",
-      "date": "01/09",
-      "timestamp": 1788275596
-    },
-    {
-      "id": "OPEX360_1788274601",
-      "source": "OPEX360",
-      "text": "LE DANEMARK A FINALISÉ LA COMMANDE DE SEIZE CHASSEURS-BOMBARDIERS F-35A SUPPLÉMENTAIRES",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:56",
-      "date": "01/09",
-      "timestamp": 1788274601
-    },
-    {
-      "id": "BFMTV_1788274115",
-      "source": "BFMTV",
-      "text": "DÉTROIT D'ORMUZ: \"IL N'Y A PAS DE RÉSULTATS POUR LE MOMENT\", DÉCLARE KAJA KALLAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:48",
-      "date": "01/09",
-      "timestamp": 1788274115
-    },
-    {
-      "id": "BFMTV_1788273845",
-      "source": "BFMTV",
-      "text": "\"JE CROIS QU'ELLE VA REVENIR\": LE TÉMOIGNAGE POIGNANT D'UN PÈRE PARTI AU NÉPAL POUR TENTER DE RETROUVER SA FILLE DISPARUE LORS DES INONDATIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:44",
-      "date": "01/09",
-      "timestamp": 1788273845
     }
   ],
   "france": {
