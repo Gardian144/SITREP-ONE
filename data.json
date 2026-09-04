@@ -1,7 +1,77 @@
 {
-  "last_update": "04/09 05:54",
+  "last_update": "04/09 10:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788517686",
+      "source": "BFMTV",
+      "text": "CRUES AU NÉPAL: NEUF JOURS APRÈS LA CATASTROPHE, LE BILAN S'AGGRAVE À 1.287 MORTS ET 5.083 DISPARUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:28",
+      "date": "04/09",
+      "timestamp": 1788517686
+    },
+    {
+      "id": "BFMTV_1788517359",
+      "source": "BFMTV",
+      "text": "\"DE TOUS LES PAYS DU MONDE, JE N'EN CONNAIS PAS D'AUTRES QUI AIENT FAIT AUTANT POUR LA CAUSE PALESTINIENNE QUE LA FRANCE DEPUIS LE 7-OCTOBRE\", REVENDIQUE JEAN-NOËL BARROT, INTERPELLÉ PAR DES ÉTUDIANTS",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:22",
+      "date": "04/09",
+      "timestamp": 1788517359
+    },
+    {
+      "id": "BFMTV_1788515711",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - LA MAISON BLANCHE CRÉE DES JEUX VIDÉO SUR LES EXPULSIONS D'IMMIGRÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:55",
+      "date": "04/09",
+      "timestamp": 1788515711
+    },
+    {
+      "id": "BFMTV_1788513607",
+      "source": "BFMTV",
+      "text": "\"LA TEMPÊTE DU SIÈCLE\": LES IMAGES SPECTACULAIRES DES VIOLENTS ORAGES QUI ONT FRAPPÉ TORONTO AU CANADA",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:20",
+      "date": "04/09",
+      "timestamp": 1788513607
+    },
+    {
+      "id": "BFMTV_1788510299",
+      "source": "BFMTV",
+      "text": "COMMÉMORATION DU 11-SEPTEMBRE: \"J'AI VRAIMENT HÂTE DE PASSER DU TEMPS AVEC JOE BIDEN\", S'AMUSE JD VANCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:24",
+      "date": "04/09",
+      "timestamp": 1788510299
+    },
+    {
+      "id": "BFMTV_1788508343",
+      "source": "BFMTV",
+      "text": "JOE BIDEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:52",
+      "date": "04/09",
+      "timestamp": 1788508343
+    },
+    {
+      "id": "BFMTV_1788508342",
+      "source": "BFMTV",
+      "text": "\"J'AI VRAIMENT HÂTE\": JD VANCE SE MOQUE DE JOE BIDEN AVEC LEQUEL IL VA COMMÉMORER LE 11-SEPTEMBRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:52",
+      "date": "04/09",
+      "timestamp": 1788508342
+    },
     {
       "id": "BFMTV_1788501210",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "04:47",
       "date": "02/09",
       "timestamp": 1788324443
-    },
-    {
-      "id": "BFMTV_1788324442",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY PRÉVIENT QUE LES DRONES UKRAINIENS VONT RENDRE \"DANGEREUX\" LE CIEL RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:47",
-      "date": "02/09",
-      "timestamp": 1788324442
-    },
-    {
-      "id": "BFMTV_1788323954",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN RIPOSTE CONTRE DES BASES AMÉRICAINES APRÈS LA MORT D'AU MOINS 11 PERSONNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:39",
-      "date": "02/09",
-      "timestamp": 1788323954
-    },
-    {
-      "id": "BFMTV_1788323107",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ATTAQUE DES BASES AMÉRICAINES APRÈS DE NOUVELLES FRAPPES DE WASHINGTON",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:25",
-      "date": "02/09",
-      "timestamp": 1788323107
-    },
-    {
-      "id": "BFMTV_1788323089",
-      "source": "BFMTV",
-      "text": "LE MONDE DE CLEMENCEAU - BERLIN ACCUSE MOSCOU D'ÊTRE RESPONSABLE DU DRONE CHARGÉ D'EXPLOSIFS À L'AÉROPORT DE BERLIN ET DURCIT LE TON",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:24",
-      "date": "02/09",
-      "timestamp": 1788323089
-    },
-    {
-      "id": "BFMTV_1788322661",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY PRÉVIENT QUE LES DRONES UKRAINIENS VONT RENDRE \"DANGEREUX\" LE CIEL RUSSE, DU \"TERRORISME\" SELON VLADIMIR POUTINE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:17",
-      "date": "02/09",
-      "timestamp": 1788322661
-    },
-    {
-      "id": "BFMTV_1788322169",
-      "source": "BFMTV",
-      "text": "L'IRAN A RIPOSTÉ AUX FRAPPES AMÉRICAINES EN VISANT DES BASES AMÉRICAINES EN JORDANIE, AU KURDISTAN IRAKIEN, AU KOWEÏT ET À BAHREÏN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:09",
-      "date": "02/09",
-      "timestamp": 1788322169
-    },
-    {
-      "id": "BFMTV_1788322132",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DEUX TANKERS IRANIENS TOUCHÉS DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:08",
-      "date": "02/09",
-      "timestamp": 1788322132
     }
   ],
   "france": {
