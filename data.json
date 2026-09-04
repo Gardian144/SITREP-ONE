@@ -1,7 +1,47 @@
 {
-  "last_update": "04/09 17:48",
+  "last_update": "04/09 20:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788552631",
+      "source": "BFMTV",
+      "text": "CEUTA: UNE ORGANISATION DE PROTECTION DE LA NATURE DÉNONCE LA MORT VIOLENTE D'UN BÉBÉ DAUPHIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:10",
+      "date": "04/09",
+      "timestamp": 1788552631
+    },
+    {
+      "id": "BFMTV_1788551830",
+      "source": "BFMTV",
+      "text": "LEIPZIG: DONALD TRUMP RÉAFFIRME QUE VLADIMIR POUTINE \"NE CHERCHE PAS À ATTAQUER LE TERRITOIRE DE L'OTAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:57",
+      "date": "04/09",
+      "timestamp": 1788551830
+    },
+    {
+      "id": "BFMTV_1788550324",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DES \"BROUTILLES\" POUR LES ÉTATS-UNIS, AFFIRME DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:32",
+      "date": "04/09",
+      "timestamp": 1788550324
+    },
+    {
+      "id": "BFMTV_1788550299",
+      "source": "BFMTV",
+      "text": "UN TRAIN A PERCUTÉ UN CAMION SUR UN PASSAGE À NIVEAU EN POLOGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:31",
+      "date": "04/09",
+      "timestamp": 1788550299
+    },
     {
       "id": "OPEX360_1788543392",
       "source": "OPEX360",
@@ -76,6 +116,16 @@
       "id": "BFMTV_1788536142",
       "source": "BFMTV",
       "text": "TRIPLE INFANTICIDE AUX ÉTATS-UNIS: LE PROCÈS DE LINDSAY CLANCY POURRAIT ÊTRE ANNULÉ FAUTE D'UNE DÉCISION UNANIME DES JURÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:35",
+      "date": "04/09",
+      "timestamp": 1788536142
+    },
+    {
+      "id": "BFMTV_1788536142",
+      "source": "BFMTV",
+      "text": "TRIPLE INFANTICIDE AUX ÉTATS-UNIS: LE PROCÈS DE LINDSAY CLANCY EST ANNULÉ FAUTE D'UNE DÉCISION UNANIME DES JURÉS",
       "urgent": false,
       "france_related": false,
       "time": "15:35",
@@ -951,56 +1001,6 @@
       "time": "20:57",
       "date": "02/09",
       "timestamp": 1788382640
-    },
-    {
-      "id": "BFMTV_1788382363",
-      "source": "BFMTV",
-      "text": "DRONE EXPLOSIF À LEIPZIG: DEUX SUSPECTS AUX PASSEPORTS RUSSES IDENTIFIÉS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:52",
-      "date": "02/09",
-      "timestamp": 1788382363
-    },
-    {
-      "id": "BFMTV_1788380958",
-      "source": "BFMTV",
-      "text": "LE CHOIX D'ELSA VIDAL - GUERRE HYBRIDE: QUE CHERCHE VRAIMENT VLADIMIR POUTINE ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:29",
-      "date": "02/09",
-      "timestamp": 1788380958
-    },
-    {
-      "id": "BFMTV_1788375545",
-      "source": "BFMTV",
-      "text": "\"J'ESSAYE\": QUAND CHARLES III PARLE EN FRANÇAIS AU MICRO DE BFMTV",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:59",
-      "date": "02/09",
-      "timestamp": 1788375545
-    },
-    {
-      "id": "BFMTV_1788373939",
-      "source": "BFMTV",
-      "text": "DIRECT. GUERRE AU MOYEN-ORIENT: DONALD TRUMP SE DIT PRÊT À FRAPPER À NOUVEAU L'IRAN \"À TOUT MOMENT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:32",
-      "date": "02/09",
-      "timestamp": 1788373939
-    },
-    {
-      "id": "BFMTV_1788371632",
-      "source": "BFMTV",
-      "text": "\"IL SERAIT PLUS SÉDUISANT QUE JAMAIS\": DONALD TRUMP SUGGÈRE DE RENOMMER LE DÉTROIT D'ORMUZ EN \"DÉTROIT TRUMP\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:53",
-      "date": "02/09",
-      "timestamp": 1788371632
     }
   ],
   "france": {
