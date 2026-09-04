@@ -1,7 +1,127 @@
 {
-  "last_update": "04/09 10:39",
+  "last_update": "04/09 14:33",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1788531983",
+      "source": "OPEX360",
+      "text": "LE SERVICE INDUSTRIEL DE L’AÉRONAUTIQUE VA S’IMPLIQUER DANS LE MAINTIEN EN CONDITION OPÉRATIONNELLE DES CHARS LECLERC",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:26",
+      "date": "04/09",
+      "timestamp": 1788531983
+    },
+    {
+      "id": "BFMTV_1788531766",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE SIÈGE DES SERVICES DE SÉCURITÉ TOUCHÉ PAR UNE FRAPPE RUSSE DANS LE CENTRE DE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:22",
+      "date": "04/09",
+      "timestamp": 1788531766
+    },
+    {
+      "id": "BFMTV_1788530331",
+      "source": "BFMTV",
+      "text": "NEUF JOURS APRÈS LA CATASTROPHE, LE SAUVETAGE MIRACULEUX DE DEUX OUVRIERS AU NÉPAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:58",
+      "date": "04/09",
+      "timestamp": 1788530331
+    },
+    {
+      "id": "BFMTV_1788530310",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE SIÈGE DES SERVICES DE SÉCURITÉ TOUCHÉ PAR UNE FRAPPE RUSSE DANS LE CENTRE DE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:58",
+      "date": "04/09",
+      "timestamp": 1788530310
+    },
+    {
+      "id": "BFMTV_1788522625",
+      "source": "BFMTV",
+      "text": "\"QUE LA VÉRITÉ SOIT ÉTABLIE\": VOLODYMYR ZELENSKY RECADRE DES SERVICES DE RENSEIGNEMENT RIVAUX APRÈS UNE FUSILLADE ENTRE AGENTS ET ANNONCE L'OUVERTURE D'UNE ENQUÊTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:50",
+      "date": "04/09",
+      "timestamp": 1788522625
+    },
+    {
+      "id": "BFMTV_1788522528",
+      "source": "BFMTV",
+      "text": "ARGENTINE: JAVIER MILEI VEUT RÉCUPÉRER LES ÎLES MALOUINES, DONALD TRUMP LE SOUTIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:48",
+      "date": "04/09",
+      "timestamp": 1788522528
+    },
+    {
+      "id": "BFMTV_1788520817",
+      "source": "BFMTV",
+      "text": "DRONES À LEIPZIG: COMMENT LA RUSSIE TESTE L'EUROPE À L'AIDE D'UNE \"GUERRE HYBRIDE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:20",
+      "date": "04/09",
+      "timestamp": 1788520817
+    },
+    {
+      "id": "BFMTV_1788520039",
+      "source": "BFMTV",
+      "text": "LA MAISON BLANCHE CRÉE UN JEU VIDÉO XÉNOPHOBE D’EXPULSION DE MIGRANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:07",
+      "date": "04/09",
+      "timestamp": 1788520039
+    },
+    {
+      "id": "BFMTV_1788519186",
+      "source": "BFMTV",
+      "text": "ICE: LE RECRUTEMENT NÉGLIGÉ DES AGENTS DE LA POLICE MIGRATOIRE AMÉRICAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:53",
+      "date": "04/09",
+      "timestamp": 1788519186
+    },
+    {
+      "id": "BFMTV_1788518976",
+      "source": "BFMTV",
+      "text": "\"UNE SUCCESSION DE MIRACLES\": COMMENT LES SECOURS ONT RETROUVÉ DEUX OUVRIERS VIVANTS DANS UN TUNNEL AU NÉPAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:49",
+      "date": "04/09",
+      "timestamp": 1788518976
+    },
+    {
+      "id": "BFMTV_1788518794",
+      "source": "BFMTV",
+      "text": "\"ÇA ME REND MALADE\": VIVE POLÉMIQUE APRÈS LA CRÉATION DE JEUX VIDÉO ANTI-MIGRANTS DE LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:46",
+      "date": "04/09",
+      "timestamp": 1788518794
+    },
+    {
+      "id": "OPEX360_1788518714",
+      "source": "OPEX360",
+      "text": "OPÉRATIONS SPÉCIALES : L’ESCADRON DE TRANSPORT 3/61 POITOU TROQUE SES C-130H HERCULES CONTRE DES A400M ATLAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:45",
+      "date": "04/09",
+      "timestamp": 1788518714
+    },
     {
       "id": "BFMTV_1788517686",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "12:41",
       "date": "02/09",
       "timestamp": 1788352861
-    },
-    {
-      "id": "BFMTV_1788352042",
-      "source": "BFMTV",
-      "text": "NAUFRAGE D'UN FERRY À CHYPRE DU NORD: LES AUTORITÉS PENSENT QUE LES 20 DISPARUS SONT PRISONNIERS DE L'ÉPAVE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:27",
-      "date": "02/09",
-      "timestamp": 1788352042
-    },
-    {
-      "id": "BFMTV_1788350143",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON PREND CETTE AFFAIRE \"TRÈS AU SÉRIEUX\", PARLE \"D'INGÉRENCE\" ET DE \"GUERRE HYBRIDE\", SUITE À L'INCIDENT IMPLIQUANT UN DRONE CHARGÉ D'EXPLOSIFS, DÉBUT AOÛT À L'AÉROPORT ALLEMAND DE LEIPZIG, ET QUE L'ALLEMAGNE ATTRIBUE À LA RUSSIE.",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:55",
-      "date": "02/09",
-      "timestamp": 1788350143
-    },
-    {
-      "id": "BFMTV_1788347889",
-      "source": "BFMTV",
-      "text": "DRONE EXPLOSIF À LEIPZIG: \"IL EST TRÈS CLAIR, UNE FOIS ENCORE, QUE C'EST UNE INGÉRENCE\", DÉCLARE EMMANUEL MACRON",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:18",
-      "date": "02/09",
-      "timestamp": 1788347889
-    },
-    {
-      "id": "BFMTV_1788346948",
-      "source": "BFMTV",
-      "text": "L'UNION EUROPÉENNE DOIT ÊTRE PRÊTE \"À RÉPONDRE À LA FOLIE GUERRIÈRE RUSSE\", ESTIME URSULA VON DER LEYEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:02",
-      "date": "02/09",
-      "timestamp": 1788346948
-    },
-    {
-      "id": "BFMTV_1788346419",
-      "source": "BFMTV",
-      "text": "CRUE AU NÉPAL: UN DIRECTEUR D'ÉCOLE SAUVE 900 ÉLÈVES AVANT QUE LES EAUX NE DÉFERLENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:53",
-      "date": "02/09",
-      "timestamp": 1788346419
-    },
-    {
-      "id": "BFMTV_1788346118",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: TÉHÉRAN AFFIRME AVOIR TUÉ DES SOLDATS AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:48",
-      "date": "02/09",
-      "timestamp": 1788346118
-    },
-    {
-      "id": "OPEX360_1788345629",
-      "source": "OPEX360",
-      "text": "L’ÉGYPTE ENVISAGE D’ACQUÉRIR VINGT-QUATRE RAFALE SUPPLÉMENTAIRES AUPRÈS DE DASSAULT AVIATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:40",
-      "date": "02/09",
-      "timestamp": 1788345629
-    },
-    {
-      "id": "BFMTV_1788344546",
-      "source": "BFMTV",
-      "text": "ÉPUISÉS APRÈS NEUF MOIS EN MER, LES MARINS DU PORTE-AVIONS AMÉRICAIN USS ABRAHAM LINCOLN FONT ESCALE À PATTAYA EN THAÏLANDE  ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:22",
-      "date": "02/09",
-      "timestamp": 1788344546
-    },
-    {
-      "id": "BFMTV_1788325369",
-      "source": "BFMTV",
-      "text": "NÉPAL: LE PÈRE D'UNE FRANÇAISE TENTE DE RETROUVER LA TRACE DE SA FILLE",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:02",
-      "date": "02/09",
-      "timestamp": 1788325369
-    },
-    {
-      "id": "BFMTV_1788324443",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:47",
-      "date": "02/09",
-      "timestamp": 1788324443
-    },
-    {
-      "id": "BFMTV_1788324443",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:47",
-      "date": "02/09",
-      "timestamp": 1788324443
-    },
-    {
-      "id": "BFMTV_1788324443",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:47",
-      "date": "02/09",
-      "timestamp": 1788324443
     }
   ],
   "france": {
