@@ -1,7 +1,117 @@
 {
-  "last_update": "04/09 01:09",
+  "last_update": "04/09 05:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788501210",
+      "source": "BFMTV",
+      "text": "GIORGIA MELONI",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:53",
+      "date": "04/09",
+      "timestamp": 1788501210
+    },
+    {
+      "id": "BFMTV_1788501209",
+      "source": "BFMTV",
+      "text": "\"1.413 JOURS DE TRAVAIL, DE CHOIX, DE DÉFIS\": GIORGIA MELONI BAT UN RECORD DE LONGÉVITÉ À LA TÊTE DU GOUVERNEMENT ITALIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:53",
+      "date": "04/09",
+      "timestamp": 1788501209
+    },
+    {
+      "id": "BFMTV_1788499162",
+      "source": "BFMTV",
+      "text": "\"ARGENTINES PAR L'HISTOIRE ET PAR LE DROIT\": DOPÉ PAR DONALD TRUMP, JAVIER MILEI DURCIT LE TON SUR LA REVENDICATION DES ÎLES MALOUINES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:19",
+      "date": "04/09",
+      "timestamp": 1788499162
+    },
+    {
+      "id": "BFMTV_1788498988",
+      "source": "BFMTV",
+      "text": "L'ADMINISTRATION TRUMP REDEMANDE À LA COUR SUPRÊME DE POUVOIR RESTREINDRE LE VOTE PAR CORRESPONDANCE, DEUX MOIS AVANT LES ÉLECTIONS DE MI-MANDAT",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:16",
+      "date": "04/09",
+      "timestamp": 1788498988
+    },
+    {
+      "id": "BFMTV_1788498444",
+      "source": "BFMTV",
+      "text": "NÉPAL: 2 OUVRIERS SAUVÉS 9 JOURS APRÈS LA CRUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:07",
+      "date": "04/09",
+      "timestamp": 1788498444
+    },
+    {
+      "id": "BFMTV_1788497754",
+      "source": "BFMTV",
+      "text": "FACE À LA MENACE RUSSE, L'ALLEMAGNE SE MONTRE FERME",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:55",
+      "date": "04/09",
+      "timestamp": 1788497754
+    },
+    {
+      "id": "BFMTV_1788497246",
+      "source": "BFMTV",
+      "text": "\"CELA ME REND MALADE\": LA MAISON BLANCHE MET EN LIGNE DEUX JEUX VIDÉO SUR L'EXPULSION DES IMMIGRÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:47",
+      "date": "04/09",
+      "timestamp": 1788497246
+    },
+    {
+      "id": "BFMTV_1788496900",
+      "source": "BFMTV",
+      "text": "DES CENTAINES D'ÉLÈVES ET ENSEIGNANTS MALADES APRÈS AVOIR CONSOMMÉ UN REPAS GRATUIT EN INDONÉSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:41",
+      "date": "04/09",
+      "timestamp": 1788496900
+    },
+    {
+      "id": "BFMTV_1788495902",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA CORÉE DU SUD ENVISAGE D'APPORTER SA \"CONTRIBUTION\" POUR SÉCURISER LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:25",
+      "date": "04/09",
+      "timestamp": 1788495902
+    },
+    {
+      "id": "BFMTV_1788495321",
+      "source": "BFMTV",
+      "text": "NÉPAL: DEUX OUVRIERS EXTRAITS D'UN TUNNEL PLUS D'UNE SEMAINE APRÈS LA CATASTROPHE QUI A TOUCHÉ LE PAYS",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:15",
+      "date": "04/09",
+      "timestamp": 1788495321
+    },
+    {
+      "id": "BFMTV_1788494663",
+      "source": "BFMTV",
+      "text": "CRUE AU NÉPAL: DEUX OUVRIERS EXTRAITS VIVANTS D'UN TUNNEL NEUF JOURS APRÈS LA CATASTROPHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:04",
+      "date": "04/09",
+      "timestamp": 1788494663
+    },
     {
       "id": "BFMTV_1788473787",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "04:08",
       "date": "02/09",
       "timestamp": 1788322132
-    },
-    {
-      "id": "BFMTV_1788321894",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LES ÉTATS-UNIS RENFORCENT LEURS FRAPPES DANS LE DÉTROIT D'ORMUZ, NOTAMMENT CONTRE DEUX PÉTROLIERS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:04",
-      "date": "02/09",
-      "timestamp": 1788321894
-    },
-    {
-      "id": "BFMTV_1788296299",
-      "source": "BFMTV",
-      "text": "ATTAQUE AU DRONE À LEIPZIG: BERLIN ACCUSE LA RUSSIE D'ÊTRE DERRIÈRE LE DRONE EXPLOSIF",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:58",
-      "date": "01/09",
-      "timestamp": 1788296299
-    },
-    {
-      "id": "BFMTV_1788295429",
-      "source": "BFMTV",
-      "text": "L'IRAN DIT AVOIR LANCÉ DES MISSILES BALISTIQUES VERS DES BASES AMÉRICAINES EN JORDANIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:43",
-      "date": "01/09",
-      "timestamp": 1788295429
-    },
-    {
-      "id": "BFMTV_1788294216",
-      "source": "BFMTV",
-      "text": "LE CHOIX D'ELSA VIDAL – CHINE, RUSSIE ET INDE RÉUNIES: UNE ALLIANCE ANTI-USA ? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:23",
-      "date": "01/09",
-      "timestamp": 1788294216
-    },
-    {
-      "id": "BFMTV_1788293169",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:06",
-      "date": "01/09",
-      "timestamp": 1788293169
-    },
-    {
-      "id": "BFMTV_1788293168",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: APRÈS UNE SALVES D'ATTAQUES AMÉRICAINES, L'IRAN LANCE \"UNE OPÉRATION DÉCISIVE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:06",
-      "date": "01/09",
-      "timestamp": 1788293168
-    },
-    {
-      "id": "BFMTV_1788290350",
-      "source": "BFMTV",
-      "text": "CISJORDANIE OCCUPÉE: LA FRANCE \"CONDAMNE\" DES DÉCISIONS ISRAÉLIENNES \"EXTRÊMEMENT PRÉOCCUPANTES\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:19",
-      "date": "01/09",
-      "timestamp": 1788290350
-    },
-    {
-      "id": "BFMTV_1788288965",
-      "source": "BFMTV",
-      "text": "\"UNE PRÉSIDENCE AU SERVICE D'UN CONSEIL TRANSPARENT\": LA FRANCE PREND LA PRÉSIDENCE DU CONSEIL DE SÉCURITÉ DE L'ONU",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:56",
-      "date": "01/09",
-      "timestamp": 1788288965
-    },
-    {
-      "id": "BFMTV_1788288574",
-      "source": "BFMTV",
-      "text": "LE SECRÉTAIRE AMÉRICAIN À L'ARMÉE DE TERRE, DAN DRISCOLL, DÉMISSIONNE APRÈS DES MOIS DE TENSIONS AVEC LE MINISTRE DE LA DÉFENSE, PETE HEGSETH",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:49",
-      "date": "01/09",
-      "timestamp": 1788288574
-    },
-    {
-      "id": "BFMTV_1788286846",
-      "source": "BFMTV",
-      "text": "DRONE EXPLOSIF À L'AÉROPORT DE LEIPZIG: BERLIN DÉSIGNE LA RUSSIE COMME \"RESPONSABLE\" DE L'ATTAQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:20",
-      "date": "01/09",
-      "timestamp": 1788286846
-    },
-    {
-      "id": "BFMTV_1788284816",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'ARMÉE AMÉRICAINE ANNONCE AVOIR DÉCLENCHÉ DES FRAPPES CONTRE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:46",
-      "date": "01/09",
-      "timestamp": 1788284816
     }
   ],
   "france": {
