@@ -1,7 +1,77 @@
 {
-  "last_update": "05/09 00:17",
+  "last_update": "05/09 04:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788582833",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:33",
+      "date": "05/09",
+      "timestamp": 1788582833
+    },
+    {
+      "id": "BFMTV_1788582833",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DONALD TRUMP ENVOIE CE WEEK-END SES ÉMISSAIRES À MOSCOU ET À KIEV POUR \"FAIRE AVANCER LES CHOSES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:33",
+      "date": "05/09",
+      "timestamp": 1788582833
+    },
+    {
+      "id": "BFMTV_1788582444",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS QUATRE MORTS DANS UNE ATTAQUE RUSSE DANS LE CENTRE-EST DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:27",
+      "date": "05/09",
+      "timestamp": 1788582444
+    },
+    {
+      "id": "BFMTV_1788581918",
+      "source": "BFMTV",
+      "text": "L'UKRAINE PRÉPARE SA RIPOSTE APRÈS LA FRAPPE RUSSE CONTRE LE SIÈGE DES SERVICES DE SÉCURITÉ DANS LE CENTRE DE KIEV ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:18",
+      "date": "05/09",
+      "timestamp": 1788581918
+    },
+    {
+      "id": "BFMTV_1788581773",
+      "source": "BFMTV",
+      "text": "LA RUSSIE FRAPPE LE SIÈGE DES SERVICES DE SÉCURITÉ UKRAINIENS, À QUELQUES HEURES DE LA VISITE D'ÉMISSAIRES AMÉRICAINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:16",
+      "date": "05/09",
+      "timestamp": 1788581773
+    },
+    {
+      "id": "BFMTV_1788581656",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:14",
+      "date": "05/09",
+      "timestamp": 1788581656
+    },
+    {
+      "id": "BFMTV_1788581655",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE LA GUERRE EN IRAN, C'EST DE LA \"GNOGNOTTE\" POUR LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:14",
+      "date": "05/09",
+      "timestamp": 1788581655
+    },
     {
       "id": "BFMTV_1788561011",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "07:01",
       "date": "03/09",
       "timestamp": 1788418916
-    },
-    {
-      "id": "BFMTV_1788416394",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: QU'EST-CE QUE LA \"MAISON RUSSE\", SOUPÇONNÉE D'ACCUEILLIR DE NOMBREUX ESPIONS AU CŒUR DE BERLIN ?",
-      "urgent": false,
-      "france_related": true,
-      "time": "06:19",
-      "date": "03/09",
-      "timestamp": 1788416394
-    },
-    {
-      "id": "BFMTV_1788413204",
-      "source": "BFMTV",
-      "text": "PLUS DE 50°C L'ÉTÉ, QUASI INHABITÉ... L’ALGÉRIE VA OUVRIR UNE PRISON POUR NARCOTRAFIQUANTS DANS LE DÉSERT HOSTILE DU TANEZROUFT",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:26",
-      "date": "03/09",
-      "timestamp": 1788413204
-    },
-    {
-      "id": "BFMTV_1788412044",
-      "source": "BFMTV",
-      "text": "CANICULE: EN ALERTE LE SUD VA FRÔLER LES 40 DEGRÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:07",
-      "date": "03/09",
-      "timestamp": 1788412044
-    },
-    {
-      "id": "BFMTV_1788411704",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: GEORGE LUCAS DÉVOILE UNE GALAXIE D'OEUVRES D'ART DANS SON NOUVEAU MUSÉE DE LOS ANGELES",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:01",
-      "date": "03/09",
-      "timestamp": 1788411704
-    },
-    {
-      "id": "BFMTV_1788410394",
-      "source": "BFMTV",
-      "text": "\"UN GRAND SOULAGEMENT\": LES DEUX RÉALISATEURS FRANÇAIS QUI ÉTAIENT DÉTENUS AU TOGO AUTORISÉS À QUITTER LE TERRITOIRE",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:39",
-      "date": "03/09",
-      "timestamp": 1788410394
-    },
-    {
-      "id": "BFMTV_1788409795",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: DEUX PERSONNES TUÉES APRÈS DES TIRS À MINNEAPOLIS, LE SUSPECT MORT",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:29",
-      "date": "03/09",
-      "timestamp": 1788409795
-    },
-    {
-      "id": "BFMTV_1788409090",
-      "source": "BFMTV",
-      "text": "CONFLIT ISRAËL-IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:18",
-      "date": "03/09",
-      "timestamp": 1788409090
     }
   ],
   "france": {
