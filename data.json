@@ -1,7 +1,37 @@
 {
-  "last_update": "05/09 17:28",
+  "last_update": "05/09 19:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788634810",
+      "source": "BFMTV",
+      "text": "EN ALLEMAGNE, LE PARTI D'EXTRÊME DROITE \"ALTERNATIVE POUR L'ALLEMAGNE\" (AFD) EST EN TÊTE DES INTENTIONS DE VOTE",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:00",
+      "date": "05/09",
+      "timestamp": 1788634810
+    },
+    {
+      "id": "BFMTV_1788634570",
+      "source": "BFMTV",
+      "text": "ALORS QUE VLADIMIR POUTINE  RENCONTRE LES ÉMISSAIRES AMÉRICAINS, LA SITUATION GÉOPOLITIQUE ENTRE LA RUSSIE ET L'UKRAINE SE DÉGRADE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:56",
+      "date": "05/09",
+      "timestamp": 1788634570
+    },
+    {
+      "id": "BFMTV_1788633410",
+      "source": "BFMTV",
+      "text": "\"JE VOUDRAIS VOUS DEMANDER DE TRANSMETTRE MES MEILLEURS VŒUX AU PRÉSIDENT DES ÉTATS-UNIS\": LES MOTS DE VLADIMIR POUTINE AUX ÉMISSAIRES AMÉRICAINS",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:36",
+      "date": "05/09",
+      "timestamp": 1788633410
+    },
     {
       "id": "BFMTV_1788626405",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "12:55",
       "date": "03/09",
       "timestamp": 1788440130
-    },
-    {
-      "id": "BFMTV_1788438755",
-      "source": "BFMTV",
-      "text": "TENTATIVES D'ATTAQUES RUSSES: DES PRÉCÉDENTS EN FRANCE ",
-      "urgent": true,
-      "france_related": true,
-      "time": "12:32",
-      "date": "03/09",
-      "timestamp": 1788438755
-    },
-    {
-      "id": "BFMTV_1788438029",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VLADIMIR POUTINE DÉMENT TOUT \"SCÉNARIO QUI NÉCESSITERAIT UNE MOBILISATION\" FACE À L'UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:20",
-      "date": "03/09",
-      "timestamp": 1788438029
-    },
-    {
-      "id": "BFMTV_1788436477",
-      "source": "BFMTV",
-      "text": "NEUF PERSONNES ATTEINTES DU VIRUS DU NIL OCCIDENTAL AUX PAYS-BAS APRÈS UNE PIQÛRE DE MOUSTIQUE INFECTÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:54",
-      "date": "03/09",
-      "timestamp": 1788436477
     }
   ],
   "france": {
