@@ -1,7 +1,67 @@
 {
-  "last_update": "05/09 08:49",
+  "last_update": "05/09 12:23",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788610388",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VLADIMIR POUTINE ORDONNE L'ARRÊT DES FRAPPES SUR KIEV PENDANT LA VISITE DES ÉMISSAIRES DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:13",
+      "date": "05/09",
+      "timestamp": 1788610388
+    },
+    {
+      "id": "BFMTV_1788607879",
+      "source": "BFMTV",
+      "text": "\"QUI OU QUOI AVONS-NOUS INCINÉRÉ?\": APRÈS LES FUNÉRAILLES DE SES PARENTS MORTS DANS LES INCENDIES EN ESPAGNE, ELLE DÉCOUVRE DES OSSEMENTS DANS LEUR VOITURE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:31",
+      "date": "05/09",
+      "timestamp": 1788607879
+    },
+    {
+      "id": "OPEX360_1788606227",
+      "source": "OPEX360",
+      "text": "POUR ÉCONOMISER 30 MILLIONS DE LIVRES STERLING, LONDRES SUSPEND UNE PARTIE DES EXERCICES DE LA BRITISH ARMY",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:03",
+      "date": "05/09",
+      "timestamp": 1788606227
+    },
+    {
+      "id": "BFMTV_1788603645",
+      "source": "BFMTV",
+      "text": "EN ALLEMAGNE, À LA VEILLE D'ÉLECTIONS RÉGIONALES L'AFD, PARTI D'EXTRÊME DROITE, EST EN TÊTE DES SONDAGES",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:20",
+      "date": "05/09",
+      "timestamp": 1788603645
+    },
+    {
+      "id": "OPEX360_1788601540",
+      "source": "OPEX360",
+      "text": "L’ARABIE SAOUDITE VEUT ACQUÉRIR DES BOMBES ET DES MOTEURS DE CHARS ABRAMS AUPRÈS DES ÉTATS-UNIS POUR 6 MILLIARDS DE DOLLARS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:45",
+      "date": "05/09",
+      "timestamp": 1788601540
+    },
+    {
+      "id": "BFMTV_1788600888",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DÉNONCE DES FRAPPES RUSSES SUR LES AÉROPORTS DE KIEV AVANT LA VISITE DES ÉMISSAIRES AMÉRICAINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:34",
+      "date": "05/09",
+      "timestamp": 1788600888
+    },
     {
       "id": "BFMTV_1788596060",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "09:40",
       "date": "03/09",
       "timestamp": 1788428401
-    },
-    {
-      "id": "BFMTV_1788428259",
-      "source": "BFMTV",
-      "text": "CEUTA: ENTRE SOUTIEN ET EXASPÉRATION, DES MILLIERS DE PERSONNES MANIFESTENT EN ESPAGNE UN MOIS APRÈS L’AFFLUX DE MIGRANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:37",
-      "date": "03/09",
-      "timestamp": 1788428259
-    },
-    {
-      "id": "BFMTV_1788428248",
-      "source": "BFMTV",
-      "text": "UN DÉTENU EN CAROLINE DU SUD S’ÉVADE DE PRISON GRÂCE À UN CRAYON ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:37",
-      "date": "03/09",
-      "timestamp": 1788428248
-    },
-    {
-      "id": "BFMTV_1788425800",
-      "source": "BFMTV",
-      "text": "\"RESTONS UNIS\", DEMANDE ANDY BURNHAM, LE PREMIER MINISTRE DU ROYAUME-UNI FACE À LA RUSSIE",
-      "urgent": false,
-      "france_related": true,
-      "time": "08:56",
-      "date": "03/09",
-      "timestamp": 1788425800
-    },
-    {
-      "id": "BFMTV_1788425795",
-      "source": "BFMTV",
-      "text": "L'APPAREIL \"APPAREMMENT INTACT MAIS RETOURNÉ\": LES QUATRE OCCUPANTS D’UN AVION SECOURUS APRÈS UN CRASH EN ALASKA",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:56",
-      "date": "03/09",
-      "timestamp": 1788425795
-    },
-    {
-      "id": "BFMTV_1788424157",
-      "source": "BFMTV",
-      "text": "TAPISSERIE DE BAYEUX À LONDRES: EMMANUEL MACRON SALUE \"UN RÉCIT EXTRAORDINAIRE\" ENTRE LES DEUX PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:29",
-      "date": "03/09",
-      "timestamp": 1788424157
-    },
-    {
-      "id": "BFMTV_1788421537",
-      "source": "BFMTV",
-      "text": "CRISE À CEUTA: DES MILLIERS DE MANIFESTANTS DANS TOUTE L'ESPAGNE CONTRE LE GOUVERNEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:45",
-      "date": "03/09",
-      "timestamp": 1788421537
     }
   ],
   "france": {
