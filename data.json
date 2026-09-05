@@ -1,7 +1,37 @@
 {
-  "last_update": "05/09 12:23",
+  "last_update": "05/09 15:26",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788617018",
+      "source": "BFMTV",
+      "text": "\"NOUS N'HÉSITERONS PAS À NOUS DÉFENDRE\": L'ARMÉE AMÉRICAINE DIT AVOIR FRAPPÉ TROIS PÉTROLIERS IRANIENS EN RÉPONSE À DES TIRS DE MISSILES DE TÉHÉRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:03",
+      "date": "05/09",
+      "timestamp": 1788617018
+    },
+    {
+      "id": "OPEX360_1788616289",
+      "source": "OPEX360",
+      "text": "LE FRANÇAIS SAFRAN VA FOURNIR UN «VOLUME IMPORTANT» DE SYSTÈMES OPTRONIQUES D’OBSERVATION À L’ARMÉE ALLEMANDE",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:51",
+      "date": "05/09",
+      "timestamp": 1788616289
+    },
+    {
+      "id": "BFMTV_1788613328",
+      "source": "BFMTV",
+      "text": "NAUFRAGE D'UN FERRY AU LARGE DE CHYPRE: LE BILAN S'ALOURDIT À 13 MORTS, 15 PERSONNES TOUJOURS DISPARUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:02",
+      "date": "05/09",
+      "timestamp": 1788613328
+    },
     {
       "id": "BFMTV_1788610388",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "11:33",
       "date": "03/09",
       "timestamp": 1788435192
-    },
-    {
-      "id": "OPEX360_1788432287",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE TERRE COMPTE DÉSORMAIS PLUS DE 5 000 DRONES AÉRIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:44",
-      "date": "03/09",
-      "timestamp": 1788432287
-    },
-    {
-      "id": "BFMTV_1788429635",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: PEDRO SÁNCHEZ ASSURE QU'IL N'Y A \"AUCUNE PREUVE SOLIDE QUE LE MAROC AIT PLANIFIÉ\" L'AFFLUX DE MIGRANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:00",
-      "date": "03/09",
-      "timestamp": 1788429635
-    },
-    {
-      "id": "BFMTV_1788428401",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LONDRES AU CŒUR DE NOUVELLES MENACES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:40",
-      "date": "03/09",
-      "timestamp": 1788428401
     }
   ],
   "france": {
