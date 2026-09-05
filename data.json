@@ -1,7 +1,27 @@
 {
-  "last_update": "04/09 22:27",
+  "last_update": "05/09 00:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788561011",
+      "source": "BFMTV",
+      "text": "XI JINPING",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:30",
+      "date": "04/09",
+      "timestamp": 1788561011
+    },
+    {
+      "id": "BFMTV_1788561010",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP INVITE XI JINPING À UN DÎNER D'ÉTAT À LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:30",
+      "date": "04/09",
+      "timestamp": 1788561010
+    },
     {
       "id": "BFMTV_1788558257",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "04:18",
       "date": "03/09",
       "timestamp": 1788409090
-    },
-    {
-      "id": "BFMTV_1788409089",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN CIBLE DES BASES AMÉRICAINES AU KOWEÏT EN RIPOSTE AUX FRAPPES MENÉES PAR LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:18",
-      "date": "03/09",
-      "timestamp": 1788409089
-    },
-    {
-      "id": "BFMTV_1788408791",
-      "source": "BFMTV",
-      "text": "CRISE DE CEUTA: UN RAPPORT POLICIER ESPAGNOL SÈME LE DOUTE SUR LE RÔLE DES FORCES DE L'ORDRE MAROCAINES",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:13",
-      "date": "03/09",
-      "timestamp": 1788408791
     }
   ],
   "france": {
