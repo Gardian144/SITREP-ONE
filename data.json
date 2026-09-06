@@ -1,7 +1,17 @@
 {
-  "last_update": "06/09 16:42",
+  "last_update": "06/09 18:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788713599",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY AFFIRME QUE LA QUESTION TERRITORIALE NE PEUT ÊTRE \"RÉSOLUE\" QUE LORS DE RENCONTRES ENTRE PRÉSIDENTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:53",
+      "date": "06/09",
+      "timestamp": 1788713599
+    },
     {
       "id": "BFMTV_1788712187",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "10:45",
       "date": "04/09",
       "timestamp": 1788518714
-    },
-    {
-      "id": "BFMTV_1788517686",
-      "source": "BFMTV",
-      "text": "CRUES AU NÉPAL: NEUF JOURS APRÈS LA CATASTROPHE, LE BILAN S'AGGRAVE À 1.287 MORTS ET 5.083 DISPARUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:28",
-      "date": "04/09",
-      "timestamp": 1788517686
     }
   ],
   "france": {
