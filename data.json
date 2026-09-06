@@ -1,7 +1,77 @@
 {
-  "last_update": "06/09 10:37",
+  "last_update": "06/09 13:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788700941",
+      "source": "BFMTV",
+      "text": "\"LES LEÇONS DE L'HISTOIRE N'ONT PAS ÉTÉ RETENUES\": LA RUSSIE ACCUSE L'ALLEMAGNE DE VOULOIR \"À NOUVEAU\" LA GUERRE",
+      "urgent": true,
+      "france_related": true,
+      "time": "13:22",
+      "date": "06/09",
+      "timestamp": 1788700941
+    },
+    {
+      "id": "BFMTV_1788700839",
+      "source": "BFMTV",
+      "text": "POURPARLERS À KIEV: DES CONSEILLERS EUROPÉENS À LA SÉCURITÉ NATIONALE ASSOCIÉS AUX DISCUSSIONS AVEC LES ÉMISSAIRES AMÉRICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:20",
+      "date": "06/09",
+      "timestamp": 1788700839
+    },
+    {
+      "id": "BFMTV_1788700096",
+      "source": "BFMTV",
+      "text": "ÉLECTIONS EN ALLEMAGNE: L'AFD FAVORITE EN SAXE-ANHALT, L'EXTRÊME DROITE AUX PORTES DE SON PREMIER LAND",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:08",
+      "date": "06/09",
+      "timestamp": 1788700096
+    },
+    {
+      "id": "OPEX360_1788693891",
+      "source": "OPEX360",
+      "text": "AVEC LE SYSTÈME ULYSSE, L’ARMÉE DE TERRE VA RENFORCER LA PROTECTION DE SES BLINDÉS SCORPION",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:24",
+      "date": "06/09",
+      "timestamp": 1788693891
+    },
+    {
+      "id": "BFMTV_1788691661",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:47",
+      "date": "06/09",
+      "timestamp": 1788691661
+    },
+    {
+      "id": "BFMTV_1788691660",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LES ÉMISSAIRES AMÉRICAINS STEVE WITKOFF ET JARED KUSHNER SONT ARRIVÉS À KIEV, UNE PREMIÈRE DEPUIS LE DÉBUT DU CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:47",
+      "date": "06/09",
+      "timestamp": 1788691660
+    },
+    {
+      "id": "BFMTV_1788691112",
+      "source": "BFMTV",
+      "text": "UN BUS TRANSPORTANT DES ÉLÈVES EN EXCURSION TOMBE DANS UN RAVIN AU CAP-VERT: AU MOINS 24 MORTS, PRINCIPALEMENT DES ENFANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:38",
+      "date": "06/09",
+      "timestamp": 1788691112
+    },
     {
       "id": "OPEX360_1788690447",
       "source": "OPEX360",
@@ -931,76 +1001,6 @@
       "time": "05:19",
       "date": "04/09",
       "timestamp": 1788499162
-    },
-    {
-      "id": "BFMTV_1788498988",
-      "source": "BFMTV",
-      "text": "L'ADMINISTRATION TRUMP REDEMANDE À LA COUR SUPRÊME DE POUVOIR RESTREINDRE LE VOTE PAR CORRESPONDANCE, DEUX MOIS AVANT LES ÉLECTIONS DE MI-MANDAT",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:16",
-      "date": "04/09",
-      "timestamp": 1788498988
-    },
-    {
-      "id": "BFMTV_1788498444",
-      "source": "BFMTV",
-      "text": "NÉPAL: 2 OUVRIERS SAUVÉS 9 JOURS APRÈS LA CRUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:07",
-      "date": "04/09",
-      "timestamp": 1788498444
-    },
-    {
-      "id": "BFMTV_1788497754",
-      "source": "BFMTV",
-      "text": "FACE À LA MENACE RUSSE, L'ALLEMAGNE SE MONTRE FERME",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:55",
-      "date": "04/09",
-      "timestamp": 1788497754
-    },
-    {
-      "id": "BFMTV_1788497246",
-      "source": "BFMTV",
-      "text": "\"CELA ME REND MALADE\": LA MAISON BLANCHE MET EN LIGNE DEUX JEUX VIDÉO SUR L'EXPULSION DES IMMIGRÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:47",
-      "date": "04/09",
-      "timestamp": 1788497246
-    },
-    {
-      "id": "BFMTV_1788496900",
-      "source": "BFMTV",
-      "text": "DES CENTAINES D'ÉLÈVES ET ENSEIGNANTS MALADES APRÈS AVOIR CONSOMMÉ UN REPAS GRATUIT EN INDONÉSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:41",
-      "date": "04/09",
-      "timestamp": 1788496900
-    },
-    {
-      "id": "BFMTV_1788495902",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: LA CORÉE DU SUD ENVISAGE D'APPORTER SA \"CONTRIBUTION\" POUR SÉCURISER LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:25",
-      "date": "04/09",
-      "timestamp": 1788495902
-    },
-    {
-      "id": "BFMTV_1788495321",
-      "source": "BFMTV",
-      "text": "NÉPAL: DEUX OUVRIERS EXTRAITS D'UN TUNNEL PLUS D'UNE SEMAINE APRÈS LA CATASTROPHE QUI A TOUCHÉ LE PAYS",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:15",
-      "date": "04/09",
-      "timestamp": 1788495321
     }
   ],
   "france": {
