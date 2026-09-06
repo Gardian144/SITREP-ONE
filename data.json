@@ -1,7 +1,17 @@
 {
-  "last_update": "06/09 20:51",
+  "last_update": "06/09 22:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788731602",
+      "source": "BFMTV",
+      "text": "UN AVION-CARGO D'AMAZON SORT DE PISTE À MIAMI ET PERCUTE DES VÉHICULES, AU MOINS CINQ MORTS ET CINQ BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:53",
+      "date": "06/09",
+      "timestamp": 1788731602
+    },
     {
       "id": "BFMTV_1788727699",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "14:45",
       "date": "04/09",
       "timestamp": 1788533114
-    },
-    {
-      "id": "BFMTV_1788532873",
-      "source": "BFMTV",
-      "text": "ATTENTATS DU 11-SEPTEMBRE: LE TERRORISTE ZACARIAS MOUSSAOUI VEUT PURGER LA FIN DE SA PEINE EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:41",
-      "date": "04/09",
-      "timestamp": 1788532873
     }
   ],
   "france": {
