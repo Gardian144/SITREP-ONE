@@ -1,7 +1,97 @@
 {
-  "last_update": "06/09 01:00",
+  "last_update": "06/09 05:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788672300",
+      "source": "BFMTV",
+      "text": "L'EXTRÊME DROITE AUX PORTES DU POUVOIR: RISQUE DE \"SÉISME POLITIQUE\" EN ALLEMAGNE, OÙ L'AFD POURRAIT S'EMPARER D'UNE RÉGION POUR LA PREMIÈRE FOIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:25",
+      "date": "06/09",
+      "timestamp": 1788672300
+    },
+    {
+      "id": "BFMTV_1788671854",
+      "source": "BFMTV",
+      "text": "DES HAUTS-GRADÉS AMÉRICAINS CONTRAINTS, PAR DONALD TRUMP, DE PASSER AU DÉTECTEUR DE MENSONGES",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:17",
+      "date": "06/09",
+      "timestamp": 1788671854
+    },
+    {
+      "id": "BFMTV_1788670556",
+      "source": "BFMTV",
+      "text": "APRÈS LEUR ENTRETIEN À MOSCOU AVEC VLADIMIR POUTINE, LES ÉMISSAIRES AMÉRICAINS ATTENDUS À KIEV CE DIMANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:55",
+      "date": "06/09",
+      "timestamp": 1788670556
+    },
+    {
+      "id": "BFMTV_1788670026",
+      "source": "BFMTV",
+      "text": "INGÉRABLE, LE PASSAGER D'UN VOL AUX ÉTATS-UNIS EST SCOTCHÉ À SON SIÈGE JUSQU'À L'ATTERRISSAGE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:47",
+      "date": "06/09",
+      "timestamp": 1788670026
+    },
+    {
+      "id": "BFMTV_1788669874",
+      "source": "BFMTV",
+      "text": "ÉRUPTIONS VOLCANIQUES EN INDONÉSIE, L'AÉROPORT INTERNATIONAL DE JAKARTA SUSPEND SES OPÉRATIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:44",
+      "date": "06/09",
+      "timestamp": 1788669874
+    },
+    {
+      "id": "BFMTV_1788668676",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: LES GARDIENS DE LA RÉVOLUTION DISENT AVOIR ATTAQUÉ UN DRONE NAVAL AMÉRICAIN DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:24",
+      "date": "06/09",
+      "timestamp": 1788668676
+    },
+    {
+      "id": "BFMTV_1788668146",
+      "source": "BFMTV",
+      "text": "EN GRÈCE, DEUX PILOTES DÉCÈDENT DANS LE CRASH D'UN AVION MILITAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:15",
+      "date": "06/09",
+      "timestamp": 1788668146
+    },
+    {
+      "id": "BFMTV_1788667997",
+      "source": "BFMTV",
+      "text": "EN ALLEMAGNE, L'AFD, EN TÊTE DES INTENTIONS DE VOTE, POURRAIT REMPORTER UNE ÉLECTION RÉGIONALE CE DIMANCHE",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:13",
+      "date": "06/09",
+      "timestamp": 1788667997
+    },
+    {
+      "id": "BFMTV_1788667380",
+      "source": "BFMTV",
+      "text": "\"L'HOMME LE PLUS DANGEREUX D'ALLEMAGNE\": QUI EST ULRICH SIEGMUND, LE CANDIDAT QUI PEUT FAIRE GAGNER L'AFD EN SAXE-ANHALT?",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:03",
+      "date": "06/09",
+      "timestamp": 1788667380
+    },
     {
       "id": "BFMTV_1788645486",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "19:00",
       "date": "03/09",
       "timestamp": 1788462039
-    },
-    {
-      "id": "BFMTV_1788460747",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: \"NOUS NE PARLERONS PAS À L'IRAN TANT QU'ILS CONTINUERONT À TIRER SUR LES NAVIRES MARCHANDS\", ASSURE JD VANCE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:39",
-      "date": "03/09",
-      "timestamp": 1788460747
-    },
-    {
-      "id": "BFMTV_1788460376",
-      "source": "BFMTV",
-      "text": "RUSSIE: \"IL Y A UNE VRAIE SYNERGIE DES PAYS EUROPÉENS POUR SE DÉFENDRE\", ASSURE PATRICK DUTARTRE, GÉNÉRAL DE L'ARMÉE DE L'AIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:32",
-      "date": "03/09",
-      "timestamp": 1788460376
-    },
-    {
-      "id": "BFMTV_1788456217",
-      "source": "BFMTV",
-      "text": "COOPÉRATION ENTRE LA FRANCE ET LE ROYAUME-UNI SUR L'IMMIGRATION: 45 POLICIERS FRANÇAIS SUPPLÉMENTAIRES SERONT DÉPLOYÉS SUR LES BORDS DE MANCHE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:23",
-      "date": "03/09",
-      "timestamp": 1788456217
-    },
-    {
-      "id": "OPEX360_1788455328",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE TERRE FAIT SON MEA CULPA APRÈS L’ABANDON DU DRONE TACTIQUE PATROLLER",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:08",
-      "date": "03/09",
-      "timestamp": 1788455328
-    },
-    {
-      "id": "OPEX360_1788452479",
-      "source": "OPEX360",
-      "text": "LE MINISTRE ESTONIEN DE LA DÉFENSE A DÉMISSIONNÉ SUITE À UN «SCANDALE» LIÉ À UN MARCHÉ PUBLIC",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:21",
-      "date": "03/09",
-      "timestamp": 1788452479
-    },
-    {
-      "id": "BFMTV_1788450199",
-      "source": "BFMTV",
-      "text": "LE FILS DE DONALD TRUMP MONTRE LE NOUVEAU PASSEPORT AMÉRICAIN À L’EFFIGIE DE SON PÈRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:43",
-      "date": "03/09",
-      "timestamp": 1788450199
-    },
-    {
-      "id": "BFMTV_1788449194",
-      "source": "BFMTV",
-      "text": "INONDATIONS AU NÉPAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:26",
-      "date": "03/09",
-      "timestamp": 1788449194
-    },
-    {
-      "id": "BFMTV_1788449194",
-      "source": "BFMTV",
-      "text": "LE BILAN CONTINUE DE S'ALOURDIR AU NÉPAL, AVEC 1.259 MORTS ET 5.083 DISPARUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:26",
-      "date": "03/09",
-      "timestamp": 1788449194
-    },
-    {
-      "id": "BFMTV_1788448399",
-      "source": "BFMTV",
-      "text": "GUERRE COMMERCIALE AVEC LES ÉTATS-UNIS: MARK CARNEY ÉVOQUE LE \"DROIT À LA SOUVERAINETÉ DU CANADA\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:13",
-      "date": "03/09",
-      "timestamp": 1788448399
     }
   ],
   "france": {
