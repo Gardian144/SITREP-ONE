@@ -1,7 +1,127 @@
 {
-  "last_update": "06/09 18:39",
+  "last_update": "06/09 20:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788727699",
+      "source": "BFMTV",
+      "text": "PERCÉE HISTORIQUE DE L'EXTRÊME DROITE EN ALLEMAGNE: LA RÉACTION DES POLITIQUES EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:48",
+      "date": "06/09",
+      "timestamp": 1788727699
+    },
+    {
+      "id": "BFMTV_1788727594",
+      "source": "BFMTV",
+      "text": "POURPARLERS À KIEV: LA PRÉSIDENCE UKRAINIENNE SALUE DES PROPOSITIONS AMÉRICAINES \"PLUS EFFICACES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:46",
+      "date": "06/09",
+      "timestamp": 1788727594
+    },
+    {
+      "id": "BFMTV_1788727290",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN AVION-CARGO D'AMAZON SORT DE PISTE À MIAMI ET PERCUTE DES VÉHICULES",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:41",
+      "date": "06/09",
+      "timestamp": 1788727290
+    },
+    {
+      "id": "BFMTV_1788726982",
+      "source": "BFMTV",
+      "text": "CEUTA: 21 MIGRANTS RENVOYÉS AU MAROC POUR AVOIR JETÉ DES PIERRES SUR DES MILITAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:36",
+      "date": "06/09",
+      "timestamp": 1788726982
+    },
+    {
+      "id": "BFMTV_1788726870",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA BATAILLE DU CIEL S'INTENSIFIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:34",
+      "date": "06/09",
+      "timestamp": 1788726870
+    },
+    {
+      "id": "BFMTV_1788726327",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LES ÉMISSAIRES AMÉRICAINS APPELLENT KIEV ET MOSCOU AU COMPROMIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:25",
+      "date": "06/09",
+      "timestamp": 1788726327
+    },
+    {
+      "id": "BFMTV_1788726205",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY MÈNE DE NOUVELLES DISCUSSIONS AVEC STEVE WITKOFF ET JARED KUSHNER UNIQUEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:23",
+      "date": "06/09",
+      "timestamp": 1788726205
+    },
+    {
+      "id": "BFMTV_1788725193",
+      "source": "BFMTV",
+      "text": "UN AVION-CARGO D'AMAZON SORT DE PISTE À MIAMI AUX ÉTATS-UNIS ET PERCUTE DES VÉHICULES",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:06",
+      "date": "06/09",
+      "timestamp": 1788725193
+    },
+    {
+      "id": "BFMTV_1788724953",
+      "source": "BFMTV",
+      "text": "UN AVION-CARGO D'AMAZON SORT DE PISTE À MIAMI ET PERCUTE DES VÉHICULES, UNE ENQUÊTE OUVERTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:02",
+      "date": "06/09",
+      "timestamp": 1788724953
+    },
+    {
+      "id": "BFMTV_1788724761",
+      "source": "BFMTV",
+      "text": "LA REINE MARGRETHE DU DANEMARK HOSPITALISÉE APRÈS UN MALAISE",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:59",
+      "date": "06/09",
+      "timestamp": 1788724761
+    },
+    {
+      "id": "BFMTV_1788724070",
+      "source": "BFMTV",
+      "text": "LARGE VICTOIRE DE L'EXTRÊME DROITE À L'ÉLECTION RÉGIONALE EN SAXE-ANHALT EN ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:47",
+      "date": "06/09",
+      "timestamp": 1788724070
+    },
+    {
+      "id": "BFMTV_1788722601",
+      "source": "BFMTV",
+      "text": "PERCÉE HISTORIQUE DE L'EXTRÊME DROITE EN ALLEMAGNE: \"LE PEUPLE A MONTRÉ QU'IL VEUT ENFIN UN CHANGEMENT DE POLITIQUE\", DÉCLARE ULRICH SIEGMUND, CANDIDAT DU PARTI (AFD)",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:23",
+      "date": "06/09",
+      "timestamp": 1788722601
+    },
     {
       "id": "BFMTV_1788713599",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "14:41",
       "date": "04/09",
       "timestamp": 1788532873
-    },
-    {
-      "id": "OPEX360_1788531983",
-      "source": "OPEX360",
-      "text": "LE SERVICE INDUSTRIEL DE L’AÉRONAUTIQUE VA S’IMPLIQUER DANS LE MAINTIEN EN CONDITION OPÉRATIONNELLE DES CHARS LECLERC",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:26",
-      "date": "04/09",
-      "timestamp": 1788531983
-    },
-    {
-      "id": "BFMTV_1788531766",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LE SIÈGE DES SERVICES DE SÉCURITÉ TOUCHÉ PAR UNE FRAPPE RUSSE DANS LE CENTRE DE KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:22",
-      "date": "04/09",
-      "timestamp": 1788531766
-    },
-    {
-      "id": "BFMTV_1788530331",
-      "source": "BFMTV",
-      "text": "NEUF JOURS APRÈS LA CATASTROPHE, LE SAUVETAGE MIRACULEUX DE DEUX OUVRIERS AU NÉPAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:58",
-      "date": "04/09",
-      "timestamp": 1788530331
-    },
-    {
-      "id": "BFMTV_1788530310",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LE SIÈGE DES SERVICES DE SÉCURITÉ TOUCHÉ PAR UNE FRAPPE RUSSE DANS LE CENTRE DE KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:58",
-      "date": "04/09",
-      "timestamp": 1788530310
-    },
-    {
-      "id": "BFMTV_1788522625",
-      "source": "BFMTV",
-      "text": "\"QUE LA VÉRITÉ SOIT ÉTABLIE\": VOLODYMYR ZELENSKY RECADRE DES SERVICES DE RENSEIGNEMENT RIVAUX APRÈS UNE FUSILLADE ENTRE AGENTS ET ANNONCE L'OUVERTURE D'UNE ENQUÊTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:50",
-      "date": "04/09",
-      "timestamp": 1788522625
-    },
-    {
-      "id": "BFMTV_1788522528",
-      "source": "BFMTV",
-      "text": "ARGENTINE: JAVIER MILEI VEUT RÉCUPÉRER LES ÎLES MALOUINES, DONALD TRUMP LE SOUTIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:48",
-      "date": "04/09",
-      "timestamp": 1788522528
-    },
-    {
-      "id": "BFMTV_1788520817",
-      "source": "BFMTV",
-      "text": "DRONES À LEIPZIG: COMMENT LA RUSSIE TESTE L'EUROPE À L'AIDE D'UNE \"GUERRE HYBRIDE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:20",
-      "date": "04/09",
-      "timestamp": 1788520817
-    },
-    {
-      "id": "BFMTV_1788520039",
-      "source": "BFMTV",
-      "text": "LA MAISON BLANCHE CRÉE UN JEU VIDÉO XÉNOPHOBE D’EXPULSION DE MIGRANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:07",
-      "date": "04/09",
-      "timestamp": 1788520039
-    },
-    {
-      "id": "BFMTV_1788519186",
-      "source": "BFMTV",
-      "text": "ICE: LE RECRUTEMENT NÉGLIGÉ DES AGENTS DE LA POLICE MIGRATOIRE AMÉRICAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:53",
-      "date": "04/09",
-      "timestamp": 1788519186
-    },
-    {
-      "id": "BFMTV_1788518976",
-      "source": "BFMTV",
-      "text": "\"UNE SUCCESSION DE MIRACLES\": COMMENT LES SECOURS ONT RETROUVÉ DEUX OUVRIERS VIVANTS DANS UN TUNNEL AU NÉPAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:49",
-      "date": "04/09",
-      "timestamp": 1788518976
-    },
-    {
-      "id": "BFMTV_1788518794",
-      "source": "BFMTV",
-      "text": "\"ÇA ME REND MALADE\": VIVE POLÉMIQUE APRÈS LA CRÉATION DE JEUX VIDÉO ANTI-MIGRANTS DE LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:46",
-      "date": "04/09",
-      "timestamp": 1788518794
-    },
-    {
-      "id": "OPEX360_1788518714",
-      "source": "OPEX360",
-      "text": "OPÉRATIONS SPÉCIALES : L’ESCADRON DE TRANSPORT 3/61 POITOU TROQUE SES C-130H HERCULES CONTRE DES A400M ATLAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:45",
-      "date": "04/09",
-      "timestamp": 1788518714
     }
   ],
   "france": {
