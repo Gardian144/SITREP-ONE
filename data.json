@@ -1,7 +1,77 @@
 {
-  "last_update": "07/09 15:58",
+  "last_update": "07/09 19:50",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1788801961",
+      "source": "OPEX360",
+      "text": "LE PENTAGONE NE VEUT PLUS PUBLIER LES RAPPORTS D’ÉVALUATION SUR SES PROGRAMMES D’ARMEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:26",
+      "date": "07/09",
+      "timestamp": 1788801961
+    },
+    {
+      "id": "BFMTV_1788801799",
+      "source": "BFMTV",
+      "text": "SERBIE: LA DÉPOUILLE DE RATKO MLADIC, JUGÉ POUR CRIMES CONTRE L'HUMANITÉ, GLORIFIÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:23",
+      "date": "07/09",
+      "timestamp": 1788801799
+    },
+    {
+      "id": "BFMTV_1788801438",
+      "source": "BFMTV",
+      "text": "APRÈS LA VICTOIRE HISTORIQUE DE L'EXTRÊME DROITE EN ALLEMAGNE, LA RÉGION CENTRE-VAL DE LOIRE ENVISAGE L'ARRÊT DE SA COOPÉRATION AVEC LA SAXE-ANHALT",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:17",
+      "date": "07/09",
+      "timestamp": 1788801438
+    },
+    {
+      "id": "BFMTV_1788799431",
+      "source": "BFMTV",
+      "text": "VICTOIRE DE L'AFD EN SAXE-ANHALT: POURQUOI LE RN A PRIS SES DISTANCES AVEC LE PARTI D'EXTRÊME DROITE ALLEMAND",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:43",
+      "date": "07/09",
+      "timestamp": 1788799431
+    },
+    {
+      "id": "BFMTV_1788797564",
+      "source": "BFMTV",
+      "text": "UNE ENQUÊTE OUVERTE EN ESPAGNE APRÈS L'ENTRÉE DE DIZAINES DE MILLIERS DE MIGRANTS FIN JUILLET DANS L'ENCLAVE DE CEUTA",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:12",
+      "date": "07/09",
+      "timestamp": 1788797564
+    },
+    {
+      "id": "OPEX360_1788797117",
+      "source": "OPEX360",
+      "text": "LA SUÈDE VA ACQUÉRIR DES LANCE-ROQUETTES MULTIPLES M142 HIMARS AMÉRICAINS POUR 630 MILLIONS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:05",
+      "date": "07/09",
+      "timestamp": 1788797117
+    },
+    {
+      "id": "BFMTV_1788797005",
+      "source": "BFMTV",
+      "text": "LES IMAGES DES OBSÈQUES RATKO MLADIC, LE \"BOUCHER DES BALKANS\" DONT BRUXELLES CONDAMNE LA \"GLORIFICATION\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:03",
+      "date": "07/09",
+      "timestamp": 1788797005
+    },
     {
       "id": "BFMTV_1788795878",
       "source": "BFMTV",
@@ -51,6 +121,16 @@
       "time": "15:08",
       "date": "07/09",
       "timestamp": 1788793727
+    },
+    {
+      "id": "BFMTV_1788792389",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:46",
+      "date": "07/09",
+      "timestamp": 1788792389
     },
     {
       "id": "BFMTV_1788792388",
@@ -921,86 +1001,6 @@
       "time": "13:02",
       "date": "05/09",
       "timestamp": 1788613328
-    },
-    {
-      "id": "BFMTV_1788610388",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VLADIMIR POUTINE ORDONNE L'ARRÊT DES FRAPPES SUR KIEV PENDANT LA VISITE DES ÉMISSAIRES DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:13",
-      "date": "05/09",
-      "timestamp": 1788610388
-    },
-    {
-      "id": "BFMTV_1788607879",
-      "source": "BFMTV",
-      "text": "\"QUI OU QUOI AVONS-NOUS INCINÉRÉ?\": APRÈS LES FUNÉRAILLES DE SES PARENTS MORTS DANS LES INCENDIES EN ESPAGNE, ELLE DÉCOUVRE DES OSSEMENTS DANS LEUR VOITURE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:31",
-      "date": "05/09",
-      "timestamp": 1788607879
-    },
-    {
-      "id": "OPEX360_1788606227",
-      "source": "OPEX360",
-      "text": "POUR ÉCONOMISER 30 MILLIONS DE LIVRES STERLING, LONDRES SUSPEND UNE PARTIE DES EXERCICES DE LA BRITISH ARMY",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:03",
-      "date": "05/09",
-      "timestamp": 1788606227
-    },
-    {
-      "id": "BFMTV_1788603645",
-      "source": "BFMTV",
-      "text": "EN ALLEMAGNE, À LA VEILLE D'ÉLECTIONS RÉGIONALES L'AFD, PARTI D'EXTRÊME DROITE, EST EN TÊTE DES SONDAGES",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:20",
-      "date": "05/09",
-      "timestamp": 1788603645
-    },
-    {
-      "id": "OPEX360_1788601540",
-      "source": "OPEX360",
-      "text": "L’ARABIE SAOUDITE VEUT ACQUÉRIR DES BOMBES ET DES MOTEURS DE CHARS ABRAMS AUPRÈS DES ÉTATS-UNIS POUR 6 MILLIARDS DE DOLLARS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:45",
-      "date": "05/09",
-      "timestamp": 1788601540
-    },
-    {
-      "id": "BFMTV_1788600888",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DÉNONCE DES FRAPPES RUSSES SUR LES AÉROPORTS DE KIEV AVANT LA VISITE DES ÉMISSAIRES AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:34",
-      "date": "05/09",
-      "timestamp": 1788600888
-    },
-    {
-      "id": "BFMTV_1788596060",
-      "source": "BFMTV",
-      "text": "CRUE AU NÉPAL: UN TROISIÈME RESCAPÉ, DE NATIONALITÉ CHINOISE, EXTRAIT VIVANT D'UN TUNNEL DIX JOURS APRÈS LES INONDATIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:14",
-      "date": "05/09",
-      "timestamp": 1788596060
-    },
-    {
-      "id": "BFMTV_1788592111",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: PLUSIEURS EXPLOSIONS ENTENDUES À PROXIMITÉ DE L'ÎLE STRATÉGIQUE DE KHARG, SELON DES MÉDIAS IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:08",
-      "date": "05/09",
-      "timestamp": 1788592111
     }
   ],
   "france": {
