@@ -1,7 +1,67 @@
 {
-  "last_update": "07/09 00:21",
+  "last_update": "07/09 05:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788756083",
+      "source": "BFMTV",
+      "text": "L'ÉDITO INTERNATIONAL DE FRANÇOIS CLEMENCEAU - QUELLES POURRAIENT ÊTRE LES CONSÉQUENCES DE LA VICTOIRE DE L'AFD?",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:41",
+      "date": "07/09",
+      "timestamp": 1788756083
+    },
+    {
+      "id": "BFMTV_1788755826",
+      "source": "BFMTV",
+      "text": "L'IRAN VA DÉCLARER UNE \"ZONE INTERDITE\" PRÈS DU DÉTROIT D'ORMUZ DANS LES PROCHAINS JOURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:37",
+      "date": "07/09",
+      "timestamp": 1788755826
+    },
+    {
+      "id": "BFMTV_1788755725",
+      "source": "BFMTV",
+      "text": "VICTOIRE DE L'EXTRÊME DROITE EN ALLEMAGNE: LA GAUCHE ET LE CENTRE EXPRIMENT LEUR INQUIÉTUDE EN FRANCE, SILENCE DU RN",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:35",
+      "date": "07/09",
+      "timestamp": 1788755725
+    },
+    {
+      "id": "BFMTV_1788754942",
+      "source": "BFMTV",
+      "text": "L'ÉDITO INTERNATIONAL DE FRANÇOIS CLEMENCEAU - POURPARLERS À KIEV: UNE VISITE AMÉRICAINE POUR RIEN?",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:22",
+      "date": "07/09",
+      "timestamp": 1788754942
+    },
+    {
+      "id": "BFMTV_1788754699",
+      "source": "BFMTV",
+      "text": "EN ALLEMAGNE, L'AFD, LE PARTI D'EXTRÊME DROITE, ARRIVE LARGEMENT EN TÊTE DES ÉLECTIONS EN SAXE-ANHALT",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:18",
+      "date": "07/09",
+      "timestamp": 1788754699
+    },
+    {
+      "id": "BFMTV_1788754096",
+      "source": "BFMTV",
+      "text": "AU MOINS CINQ MORTS ET CINQ BLESSÉS APRÈS UNE SORTIE DE PISTE D'UN AVION AMAZON À L'AÉROPORT DE MIAMI",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:08",
+      "date": "07/09",
+      "timestamp": 1788754096
+    },
     {
       "id": "BFMTV_1788731602",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "15:35",
       "date": "04/09",
       "timestamp": 1788536142
-    },
-    {
-      "id": "BFMTV_1788536142",
-      "source": "BFMTV",
-      "text": "TRIPLE INFANTICIDE AUX ÉTATS-UNIS: LE PROCÈS DE LINDSAY CLANCY EST ANNULÉ FAUTE D'UNE DÉCISION UNANIME DES JURÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:35",
-      "date": "04/09",
-      "timestamp": 1788536142
-    },
-    {
-      "id": "BFMTV_1788535606",
-      "source": "BFMTV",
-      "text": "UNE FUSILLADE A ÉCLATÉ ENTRE DEUX SERVICES DE SÉCURITÉ INTÉRIEURS UKRAINIENS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:26",
-      "date": "04/09",
-      "timestamp": 1788535606
-    },
-    {
-      "id": "BFMTV_1788535329",
-      "source": "BFMTV",
-      "text": "\"STOPPER L'IMMIGRATION ILLÉGALE\": JORDAN BARDELLA SIGNE UN PACTE MIGRATOIRE AVEC LE LEADER DE L'EXTRÊME DROITE BRITANNIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:22",
-      "date": "04/09",
-      "timestamp": 1788535329
-    },
-    {
-      "id": "BFMTV_1788534918",
-      "source": "BFMTV",
-      "text": "LES ÉMISSAIRES DE DONALD TRUMP, STEVE WITKOFF ET JARED KUSHNER DOIVENT SE RENDRE POUR LA PREMIÈRE FOIS À KIEV CE DIMANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:15",
-      "date": "04/09",
-      "timestamp": 1788534918
-    },
-    {
-      "id": "BFMTV_1788534024",
-      "source": "BFMTV",
-      "text": "UNE MAISON MIRACULÉE DEVENUE VIRALE APRÈS LES CRUES DÉVASTATRICES AU NÉPAL ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:00",
-      "date": "04/09",
-      "timestamp": 1788534024
-    },
-    {
-      "id": "BFMTV_1788533114",
-      "source": "BFMTV",
-      "text": "CANADA: LES IMAGES IMPRESSIONNANTES DE LA \"TEMPÊTE DU SIÈCLE\" QUI A FRAPPÉ TORONTO",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:45",
-      "date": "04/09",
-      "timestamp": 1788533114
     }
   ],
   "france": {
