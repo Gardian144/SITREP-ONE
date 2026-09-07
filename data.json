@@ -1,7 +1,117 @@
 {
-  "last_update": "07/09 05:02",
+  "last_update": "07/09 10:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788775723",
+      "source": "BFMTV",
+      "text": "LE LEADER DE L'AFD EN SAXE-ANHALT ANNONCE AVOIR \"AMORCÉ CETTE NUIT\" LES NÉGOCIATIONS POUR UN GOUVERNEMENT RÉGIONAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:08",
+      "date": "07/09",
+      "timestamp": 1788775723
+    },
+    {
+      "id": "BFMTV_1788771767",
+      "source": "BFMTV",
+      "text": "DES MANIFESTANTS ANTI-IMMIGRATION TENTENT D’EMPÊCHER LE TRANSFERT DE MIGRANTS ARRIVÉS PAR BATEAU AU ROYAUME-UNI, CONDAMNATION DU GOUVERNEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:02",
+      "date": "07/09",
+      "timestamp": 1788771767
+    },
+    {
+      "id": "BFMTV_1788771703",
+      "source": "BFMTV",
+      "text": "DRONES EN UKRAINE: EN 4 ANS DE GUERRE, UNE RÉVOLUTION TECHNOLOGIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:01",
+      "date": "07/09",
+      "timestamp": 1788771703
+    },
+    {
+      "id": "BFMTV_1788770834",
+      "source": "BFMTV",
+      "text": "UKRAINE: IL \"SEMBLE\" QUE LA GUERRE VA SE POURSUIVRE CET HIVER, A DIT LE PRÉSIDENT UKRAINIEN VOLODYMYR ZELENSKY SUITE AUX POURPARLERS AVEC LES ÉMISSAIRES AMÉRICAINS À KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:47",
+      "date": "07/09",
+      "timestamp": 1788770834
+    },
+    {
+      "id": "BFMTV_1788769815",
+      "source": "BFMTV",
+      "text": "11 ALPINISTES TUÉS DANS UNE AVALANCHE DANS LE CAUCASE RUSSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:30",
+      "date": "07/09",
+      "timestamp": 1788769815
+    },
+    {
+      "id": "BFMTV_1788765778",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP SUGGÈRE DE REBAPTISER L'ÉTAT DU NOUVEAU-MEXIQUE \"NOUVELLE AMÉRIQUE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:22",
+      "date": "07/09",
+      "timestamp": 1788765778
+    },
+    {
+      "id": "BFMTV_1788762796",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN VA DÉCLARER UNE \"ZONE INTERDITE\" PRÈS DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:33",
+      "date": "07/09",
+      "timestamp": 1788762796
+    },
+    {
+      "id": "BFMTV_1788762535",
+      "source": "BFMTV",
+      "text": "AU MOINS CINQ MORTS ET CINQ BLESSÉS APRÈS LA SORTIE DE PISTE D'UN AVION-CARGO AMAZON ",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:28",
+      "date": "07/09",
+      "timestamp": 1788762535
+    },
+    {
+      "id": "BFMTV_1788762458",
+      "source": "BFMTV",
+      "text": "SORTIE DE PISTE, INCENDIE... CE QUE L'ON SAIT DE L'ACCIDENT D'UN AVION AMAZON QUI A FAIT CINQ MORTS À L'AÉROPORT INTERNATIONAL DE MIAMI",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:27",
+      "date": "07/09",
+      "timestamp": 1788762458
+    },
+    {
+      "id": "BFMTV_1788762224",
+      "source": "BFMTV",
+      "text": "ONZE MORTS DANS UNE FRAPPE ISRAÉLIENNE NOCTURNE SUR UN VILLAGE DU SUD DU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:23",
+      "date": "07/09",
+      "timestamp": 1788762224
+    },
+    {
+      "id": "BFMTV_1788758066",
+      "source": "BFMTV",
+      "text": "VICTOIRE HISTORIQUE DE L'AFD EN SAXE-ANHALT: UN SIGNAL POLITIQUE POUR L'ALLEMAGNE ET L'EUROPE?",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:14",
+      "date": "07/09",
+      "timestamp": 1788758066
+    },
     {
       "id": "BFMTV_1788756083",
       "source": "BFMTV",
@@ -26,6 +136,16 @@
       "id": "BFMTV_1788755725",
       "source": "BFMTV",
       "text": "VICTOIRE DE L'EXTRÊME DROITE EN ALLEMAGNE: LA GAUCHE ET LE CENTRE EXPRIMENT LEUR INQUIÉTUDE EN FRANCE, SILENCE DU RN",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:35",
+      "date": "07/09",
+      "timestamp": 1788755725
+    },
+    {
+      "id": "BFMTV_1788755725",
+      "source": "BFMTV",
+      "text": "VICTOIRE DE L'EXTRÊME DROITE EN ALLEMAGNE LORS DES ÉLECTIONS EN SAXE-ANHALT: LA GAUCHE ET LE CENTRE EXPRIMENT LEUR INQUIÉTUDE EN FRANCE, SILENCE DU RN",
       "urgent": false,
       "france_related": true,
       "time": "04:35",
@@ -881,126 +1001,6 @@
       "time": "20:22",
       "date": "04/09",
       "timestamp": 1788553352
-    },
-    {
-      "id": "BFMTV_1788552631",
-      "source": "BFMTV",
-      "text": "CEUTA: UNE ORGANISATION DE PROTECTION DE LA NATURE DÉNONCE LA MORT VIOLENTE D'UN BÉBÉ DAUPHIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:10",
-      "date": "04/09",
-      "timestamp": 1788552631
-    },
-    {
-      "id": "BFMTV_1788551830",
-      "source": "BFMTV",
-      "text": "LEIPZIG: DONALD TRUMP RÉAFFIRME QUE VLADIMIR POUTINE \"NE CHERCHE PAS À ATTAQUER LE TERRITOIRE DE L'OTAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:57",
-      "date": "04/09",
-      "timestamp": 1788551830
-    },
-    {
-      "id": "BFMTV_1788550324",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: DES \"BROUTILLES\" POUR LES ÉTATS-UNIS, AFFIRME DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:32",
-      "date": "04/09",
-      "timestamp": 1788550324
-    },
-    {
-      "id": "BFMTV_1788550299",
-      "source": "BFMTV",
-      "text": "UN TRAIN A PERCUTÉ UN CAMION SUR UN PASSAGE À NIVEAU EN POLOGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:31",
-      "date": "04/09",
-      "timestamp": 1788550299
-    },
-    {
-      "id": "OPEX360_1788543392",
-      "source": "OPEX360",
-      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT A NOTIFIÉ LES PREMIERS CONTRATS POUR LE DÉVELOPPEMENT DU RAFALE F5",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:36",
-      "date": "04/09",
-      "timestamp": 1788543392
-    },
-    {
-      "id": "BFMTV_1788542540",
-      "source": "BFMTV",
-      "text": "L'AFRIQUE AGRANDIE ET LES ÉTATS-UNIS RÉTRÉCIS: L'ONU ADOPTE UNE RÉFORME DE LA CARTOGRAPHIE MONDIALE, PLUS PROCHE DE LA RÉALITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:22",
-      "date": "04/09",
-      "timestamp": 1788542540
-    },
-    {
-      "id": "BFMTV_1788540681",
-      "source": "BFMTV",
-      "text": "LE SIÈGE DES SERVICES DE SÉCURITÉ TOUCHÉ EN UKRAINE: AU MOINS SEPT PERSONNES ONT ÉTÉ BLESSÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:51",
-      "date": "04/09",
-      "timestamp": 1788540681
-    },
-    {
-      "id": "BFMTV_1788539914",
-      "source": "BFMTV",
-      "text": "NÉPAL: LE TÉMOIGNAGE D'UN OUVRIER RESTÉ COINCÉ NEUF JOURS DANS UN TUNNEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:38",
-      "date": "04/09",
-      "timestamp": 1788539914
-    },
-    {
-      "id": "OPEX360_1788539133",
-      "source": "OPEX360",
-      "text": "LA CROATIE VA COMMANDER DIX-HUIT LANCE-ROQUETTES MULTIPLES K239 CHUNMOO AUPRÈS DE LA CORÉE DU SUD",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:25",
-      "date": "04/09",
-      "timestamp": 1788539133
-    },
-    {
-      "id": "BFMTV_1788537025",
-      "source": "BFMTV",
-      "text": "\"CHAQUE PEUPLE MÉRITE D'ÊTRE VU À SA JUSTE PLACE\": L'AFRIQUE DEMANDE UNE NOUVELLE CARTE DU MONDE",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:50",
-      "date": "04/09",
-      "timestamp": 1788537025
-    },
-    {
-      "id": "BFMTV_1788536233",
-      "source": "BFMTV",
-      "text": "UKRAINE: LE SIÈGE DES SERVICES DE SÉCURITÉ TOUCHÉ PAR UNE FRAPPE RUSSE DANS LE CENTRE DE KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:37",
-      "date": "04/09",
-      "timestamp": 1788536233
-    },
-    {
-      "id": "BFMTV_1788536142",
-      "source": "BFMTV",
-      "text": "TRIPLE INFANTICIDE AUX ÉTATS-UNIS: LE PROCÈS DE LINDSAY CLANCY POURRAIT ÊTRE ANNULÉ FAUTE D'UNE DÉCISION UNANIME DES JURÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:35",
-      "date": "04/09",
-      "timestamp": 1788536142
     }
   ],
   "france": {
