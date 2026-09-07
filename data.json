@@ -1,7 +1,17 @@
 {
-  "last_update": "07/09 19:50",
+  "last_update": "07/09 22:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788813076",
+      "source": "BFMTV",
+      "text": "LE CHOIX D'ELSA VIDAL – SOUTENIR L'UKRAINE, ÇA NOUS COÛTE VRAIMENT SI CHER ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:31",
+      "date": "07/09",
+      "timestamp": 1788813076
+    },
     {
       "id": "OPEX360_1788801961",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "13:51",
       "date": "05/09",
       "timestamp": 1788616289
-    },
-    {
-      "id": "BFMTV_1788613328",
-      "source": "BFMTV",
-      "text": "NAUFRAGE D'UN FERRY AU LARGE DE CHYPRE: LE BILAN S'ALOURDIT À 13 MORTS, 15 PERSONNES TOUJOURS DISPARUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:02",
-      "date": "05/09",
-      "timestamp": 1788613328
     }
   ],
   "france": {
