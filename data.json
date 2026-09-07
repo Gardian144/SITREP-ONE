@@ -1,7 +1,167 @@
 {
-  "last_update": "07/09 10:18",
+  "last_update": "07/09 15:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788795878",
+      "source": "BFMTV",
+      "text": "INDONÉSIE: DES DIZAINES DE MILLIERS DE VOYAGEURS BLOQUÉS PAR L'ÉRUPTION D'UN VOLCAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:44",
+      "date": "07/09",
+      "timestamp": 1788795878
+    },
+    {
+      "id": "BFMTV_1788795493",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: L'AIEA ESTIME QUE LA \"MEILLEURE ISSUE\" POUR L'IRAN EST DE RENOUER LE DIALOGUE AVEC L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:38",
+      "date": "07/09",
+      "timestamp": 1788795493
+    },
+    {
+      "id": "BFMTV_1788794843",
+      "source": "BFMTV",
+      "text": "\"DES AGISSEMENTS ET DÉCLARATIONS ANTIRUSSES\": LA RUSSIE ANNONCE LA FERMETURE DU CONSULAT ALLEMAND À SAINT-PÉTERSBOURG",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:27",
+      "date": "07/09",
+      "timestamp": 1788794843
+    },
+    {
+      "id": "BFMTV_1788794587",
+      "source": "BFMTV",
+      "text": "LE SOLDAT DE LA LÉGION ÉTRANGÈRE FRANÇAISE ENLEVÉ EN COLOMBIE S'EST ÉVADÉ, SELON DES MÉDIAS COLOMBIENS",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:23",
+      "date": "07/09",
+      "timestamp": 1788794587
+    },
+    {
+      "id": "BFMTV_1788793727",
+      "source": "BFMTV",
+      "text": "UN FRANÇAIS VIVANT EN THAÏLANDE VISÉ PAR UN ORDRE D'EXPULSION APRÈS AVOIR REFUSÉ L'ENTRÉE DE SON PARC ANIMALIER AUX ISRAÉLIENS",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:08",
+      "date": "07/09",
+      "timestamp": 1788793727
+    },
+    {
+      "id": "BFMTV_1788792388",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LES NÉGOCIATEURS AMÉRICAINS ONT FAIT ÉTAT À KIEV D'UNE \"NOUVELLE DISPONIBILITÉ RUSSE À NÉGOCIER\", SELON L'ÉLYSÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:46",
+      "date": "07/09",
+      "timestamp": 1788792388
+    },
+    {
+      "id": "BFMTV_1788792116",
+      "source": "BFMTV",
+      "text": "L'AUTORITÉ PALESTINIENNE MENACÉE D'UNE \"GUERRE TOTALE\" PAR ISRAËL EN CAS D'ATTAQUE CONTRE LES COLONIES JUIVES EN CISJORDANIE OCCUPÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:41",
+      "date": "07/09",
+      "timestamp": 1788792116
+    },
+    {
+      "id": "OPEX360_1788791975",
+      "source": "OPEX360",
+      "text": "L’UKRAINE CONFIRME LA MISE EN SERVICE DES DEUX AVIONS D’ALERTE AVANCÉE SAAB 340 AEW&C DONNÉS PAR LA SUÈDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:39",
+      "date": "07/09",
+      "timestamp": 1788791975
+    },
+    {
+      "id": "BFMTV_1788791192",
+      "source": "BFMTV",
+      "text": "COLOMBIE: ENLEVÉ PAR DES DISSIDENTS DES FARC, LE LÉGIONNAIRE FRANCO-COLOMBIEN S'EST ÉVADÉ, SELON DES MÉDIAS LOCAUX",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:26",
+      "date": "07/09",
+      "timestamp": 1788791192
+    },
+    {
+      "id": "BFMTV_1788789414",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: NOUVEAU RECORD DU DIESEL AMÉRICAIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:56",
+      "date": "07/09",
+      "timestamp": 1788789414
+    },
+    {
+      "id": "BFMTV_1788788086",
+      "source": "BFMTV",
+      "text": "QUI EST ULRICH SIEGMUND, LE CANDIDAT QUI A FAIT GAGNER L'AFD EN SAXE-ANHALT?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:34",
+      "date": "07/09",
+      "timestamp": 1788788086
+    },
+    {
+      "id": "BFMTV_1788787561",
+      "source": "BFMTV",
+      "text": "QUATRE JOURS SEUL DANS LA NATURE: LE SOLDAT DE LA LÉGION ÉTRANGÈRE FRANÇAISE ENLEVÉ EN COLOMBIE S'EST ÉVADÉ, SELON DES MÉDIAS COLOMBIENS",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:26",
+      "date": "07/09",
+      "timestamp": 1788787561
+    },
+    {
+      "id": "BFMTV_1788787248",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE : KIEV A TOUCHÉ UNE RAFFINERIE ET PLUSIEURS INSTALLATIONS DE TRAITEMENT DE PÉTROLE EN RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:20",
+      "date": "07/09",
+      "timestamp": 1788787248
+    },
+    {
+      "id": "BFMTV_1788786740",
+      "source": "BFMTV",
+      "text": "ALLEMAGNE : FRIEDRICH MERZ SE DIT \"PROFONDÉMENT CHOQUÉ\" PAR LA VICTOIRE ÉLECTORALE RÉGIONALE DE L'EXTRÊME DROITE",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:12",
+      "date": "07/09",
+      "timestamp": 1788786740
+    },
+    {
+      "id": "BFMTV_1788784915",
+      "source": "BFMTV",
+      "text": "\"LE GROENLAND A BESOIN DE L'UE\": LE PREMIER MINISTRE, JENS-FREDERIK NIELSEN, SE FÉLICITE DE L'AIDE DE 200 MILLIONS D'EUROS ANNONCÉE PAR L'UE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:41",
+      "date": "07/09",
+      "timestamp": 1788784915
+    },
+    {
+      "id": "OPEX360_1788777536",
+      "source": "OPEX360",
+      "text": "UNSEENLABS ET AIRBUS VONT DÉVELOPPER LA FUTURE CAPACITÉ SPATIALE DE RENSEIGNEMENT ÉLECTRONIQUE DES FORCES FRANÇAISES",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:38",
+      "date": "07/09",
+      "timestamp": 1788777536
+    },
     {
       "id": "BFMTV_1788775723",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "07:08",
       "date": "05/09",
       "timestamp": 1788592111
-    },
-    {
-      "id": "BFMTV_1788582833",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:33",
-      "date": "05/09",
-      "timestamp": 1788582833
-    },
-    {
-      "id": "BFMTV_1788582833",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DONALD TRUMP ENVOIE CE WEEK-END SES ÉMISSAIRES À MOSCOU ET À KIEV POUR \"FAIRE AVANCER LES CHOSES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:33",
-      "date": "05/09",
-      "timestamp": 1788582833
-    },
-    {
-      "id": "BFMTV_1788582444",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS QUATRE MORTS DANS UNE ATTAQUE RUSSE DANS LE CENTRE-EST DU PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:27",
-      "date": "05/09",
-      "timestamp": 1788582444
-    },
-    {
-      "id": "BFMTV_1788581918",
-      "source": "BFMTV",
-      "text": "L'UKRAINE PRÉPARE SA RIPOSTE APRÈS LA FRAPPE RUSSE CONTRE LE SIÈGE DES SERVICES DE SÉCURITÉ DANS LE CENTRE DE KIEV ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:18",
-      "date": "05/09",
-      "timestamp": 1788581918
-    },
-    {
-      "id": "BFMTV_1788581773",
-      "source": "BFMTV",
-      "text": "LA RUSSIE FRAPPE LE SIÈGE DES SERVICES DE SÉCURITÉ UKRAINIENS, À QUELQUES HEURES DE LA VISITE D'ÉMISSAIRES AMÉRICAINS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:16",
-      "date": "05/09",
-      "timestamp": 1788581773
-    },
-    {
-      "id": "BFMTV_1788581656",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:14",
-      "date": "05/09",
-      "timestamp": 1788581656
-    },
-    {
-      "id": "BFMTV_1788581655",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QUE LA GUERRE EN IRAN, C'EST DE LA \"GNOGNOTTE\" POUR LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:14",
-      "date": "05/09",
-      "timestamp": 1788581655
-    },
-    {
-      "id": "BFMTV_1788561011",
-      "source": "BFMTV",
-      "text": "XI JINPING",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:30",
-      "date": "04/09",
-      "timestamp": 1788561011
-    },
-    {
-      "id": "BFMTV_1788561010",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP INVITE XI JINPING À UN DÎNER D'ÉTAT À LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:30",
-      "date": "04/09",
-      "timestamp": 1788561010
-    },
-    {
-      "id": "BFMTV_1788558257",
-      "source": "BFMTV",
-      "text": "SITUATION DES PALESTINIENS À GAZA: JEAN-NOËL BARROT INTERPELLÉ PAR DES ÉTUDIANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:44",
-      "date": "04/09",
-      "timestamp": 1788558257
-    },
-    {
-      "id": "BFMTV_1788556731",
-      "source": "BFMTV",
-      "text": "TRIPLE INFANTICIDE AUX ÉTATS-UNIS: QUE VA-T-IL SE PASSER APRÈS L’ANNULATION DU PROCÈS DE LINDSAY CLANCY?",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:18",
-      "date": "04/09",
-      "timestamp": 1788556731
-    },
-    {
-      "id": "BFMTV_1788555665",
-      "source": "BFMTV",
-      "text": "UKRAINE: DONALD TRUMP A UN PLAN POUR \"METTRE FIN À LA GUERRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:01",
-      "date": "04/09",
-      "timestamp": 1788555665
-    },
-    {
-      "id": "BFMTV_1788554396",
-      "source": "BFMTV",
-      "text": "LE SIÈGE DES SERVICES DE SÉCURITÉ TOUCHÉ EN UKRAINE: LES DERNIÈRES INFORMATIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:39",
-      "date": "04/09",
-      "timestamp": 1788554396
-    },
-    {
-      "id": "BFMTV_1788553651",
-      "source": "BFMTV",
-      "text": "LE JUGE PRONONCE L’ANNULATION DU PROCÈS DE LINDSAY CLANCY POUR LE MEURTRE DE SES TROIS ENFANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:27",
-      "date": "04/09",
-      "timestamp": 1788553651
-    },
-    {
-      "id": "BFMTV_1788553444",
-      "source": "BFMTV",
-      "text": "PROCÈS DE LINDSAY CLANCY ANNULÉ: DONALD TRUMP ÉVOQUE \"UNE SITUATION TERRIBLE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:24",
-      "date": "04/09",
-      "timestamp": 1788553444
-    },
-    {
-      "id": "BFMTV_1788553352",
-      "source": "BFMTV",
-      "text": "TRIPLE INFANTICIDE AUX ÉTATS-UNIS: LE PROCÈS DE LINDSAY CLANCY ANNULÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:22",
-      "date": "04/09",
-      "timestamp": 1788553352
     }
   ],
   "france": {
