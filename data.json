@@ -1,7 +1,27 @@
 {
-  "last_update": "08/09 14:14",
+  "last_update": "08/09 17:56",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1788888468",
+      "source": "OPEX360",
+      "text": "EN 15 ANS, LES HUIT HÉLICOPTÈRES NH90 DE LA FORCE AÉRIENNE NÉO-ZÉLANDAISE ONT EFFECTUÉ PLUS DE 20 000 HEURES DE VOL",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:27",
+      "date": "08/09",
+      "timestamp": 1788888468
+    },
+    {
+      "id": "OPEX360_1788883964",
+      "source": "OPEX360",
+      "text": "LA MARINE NATIONALE A REÇU SES DEUX PREMIERS AVIONS DE SURVEILLANCE MARITIME FALCON 2000 LXS «ALBATROS»",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:12",
+      "date": "08/09",
+      "timestamp": 1788883964
+    },
     {
       "id": "OPEX360_1788875331",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "09:18",
       "date": "06/09",
       "timestamp": 1788686309
-    },
-    {
-      "id": "BFMTV_1788678051",
-      "source": "BFMTV",
-      "text": "LES MAISONS RUSSES, DES CENTRE CULTURELS QUI ABRITERAIENT DES ESPIONS EN PLEIN PARIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:00",
-      "date": "06/09",
-      "timestamp": 1788678051
-    },
-    {
-      "id": "BFMTV_1788677006",
-      "source": "BFMTV",
-      "text": "EN ALLEMAGNE, LES BUREAUX DE VOTE ONT OUVERT POUR UNE ÉLECTION RÉGIONALE DÉTERMINANTE ",
-      "urgent": false,
-      "france_related": true,
-      "time": "06:43",
-      "date": "06/09",
-      "timestamp": 1788677006
     }
   ],
   "france": {
