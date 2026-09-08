@@ -1,7 +1,147 @@
 {
-  "last_update": "08/09 09:56",
+  "last_update": "08/09 14:14",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1788875331",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE TERRE A REÇU 400 FUSILS BENELLI M4 AI DE CALIBRE 12 POUR LA LUTTE ANTIDRONE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:48",
+      "date": "08/09",
+      "timestamp": 1788875331
+    },
+    {
+      "id": "BFMTV_1788874286",
+      "source": "BFMTV",
+      "text": "\"CE QUE LA VILLE SAVAIT\": LE MAIRE DE NEW YORK ZOHRAN MAMDANI REND PUBLIC DES DOCUMENTS INÉDITS SUR LA TOXICITÉ DE L'AIR IMMÉDIATEMENT APRÈS LE 11-SEPTEMBRE ET ACCUSE SES PRÉDÉCESSEURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:31",
+      "date": "08/09",
+      "timestamp": 1788874286
+    },
+    {
+      "id": "BFMTV_1788872430",
+      "source": "BFMTV",
+      "text": "ITALIE: DU POULET FRIT GRATUIT À VIE EN ÉCHANGE D’UN TATOUAGE KFC",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:00",
+      "date": "08/09",
+      "timestamp": 1788872430
+    },
+    {
+      "id": "BFMTV_1788872300",
+      "source": "BFMTV",
+      "text": "DES \"VIOLENCES SANS PRÉCÉDENT\" EN CISJORDANIE: DOUZE PAYS, DONT LA FRANCE, ANNONCENT VOULOIR IMPOSER DES SANCTIONS SUR LE COMMERCE AVEC LES COLONIES",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:58",
+      "date": "08/09",
+      "timestamp": 1788872300
+    },
+    {
+      "id": "BFMTV_1788866154",
+      "source": "BFMTV",
+      "text": "\"TRÈS INVESTIE” LORS DU PROCÈS DE LINDSAY CLANCY, UNE AMÉRICAINE EST ACCUSÉE D’AVOIR TUÉ SON FILS DE DEUX ANS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:15",
+      "date": "08/09",
+      "timestamp": 1788866154
+    },
+    {
+      "id": "BFMTV_1788864875",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DÉVOILE DE NOUVELLES TENUES POUR SA \"SPACE FORCE\", TRÈS CRITIQUÉES POUR LEUR ESTHÉTIQUE PROCHE DES UNIFORMES NAZIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:54",
+      "date": "08/09",
+      "timestamp": 1788864875
+    },
+    {
+      "id": "OPEX360_1788863774",
+      "source": "OPEX360",
+      "text": "MBDA VA FOURNIR DES SYSTÈMES ANTIAÉRIENS SIMBAD RC À LA MARINE ESPAGNOLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:36",
+      "date": "08/09",
+      "timestamp": 1788863774
+    },
+    {
+      "id": "BFMTV_1788862743",
+      "source": "BFMTV",
+      "text": "ATTAQUES DU 7 OCTOBRE 2023 DU HAMAS CONTRE ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:19",
+      "date": "08/09",
+      "timestamp": 1788862743
+    },
+    {
+      "id": "BFMTV_1788862743",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:19",
+      "date": "08/09",
+      "timestamp": 1788862743
+    },
+    {
+      "id": "BFMTV_1788862742",
+      "source": "BFMTV",
+      "text": "7-OCTOBRE: BENJAMIN NETANYAHU POINTÉ DU DOIGT PAR L'OPPOSITION ISRAÉLIENNE QUI L'ACCUSE D'AVOIR ÉTÉ INFORMÉ DE LA PRÉPARATION D'UNE ATTAQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:19",
+      "date": "08/09",
+      "timestamp": 1788862742
+    },
+    {
+      "id": "BFMTV_1788862581",
+      "source": "BFMTV",
+      "text": "ANTILLES FRANÇAISES, ISLANDE, CANADA... DONALD TRUMP PUBLIE UNE CARTE ANNEXANT AUX ÉTATS-UNIS PLUSIEURS TERRITOIRES DE L'ATLANTIQUE NORD",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:16",
+      "date": "08/09",
+      "timestamp": 1788862581
+    },
+    {
+      "id": "BFMTV_1788861876",
+      "source": "BFMTV",
+      "text": "\"ON NE PEUT PLUS Y FAIRE FACE\": LE PRÉSIDENT DE CEUTA EN APPELLE À L'UE POUR RÉSOUDRE LA CRISE MIGRATOIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:04",
+      "date": "08/09",
+      "timestamp": 1788861876
+    },
+    {
+      "id": "BFMTV_1788861747",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: \"NOUS SOMMES AU BORD DU GOUFFRE, DE L'EFFONDREMENT\", ALERTE JUAN JESÚS VIVAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:02",
+      "date": "08/09",
+      "timestamp": 1788861747
+    },
+    {
+      "id": "BFMTV_1788861205",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: \"LA SITUATION AUJOURD'HUI EST LOIN D'ÊTRE RÉGLÉE\", DÉCLARE LE DÉPUTÉ EUROPÉEN JAVIER ZARZALEJOS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:53",
+      "date": "08/09",
+      "timestamp": 1788861205
+    },
     {
       "id": "BFMTV_1788860597",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "06:43",
       "date": "06/09",
       "timestamp": 1788677006
-    },
-    {
-      "id": "BFMTV_1788672300",
-      "source": "BFMTV",
-      "text": "L'EXTRÊME DROITE AUX PORTES DU POUVOIR: RISQUE DE \"SÉISME POLITIQUE\" EN ALLEMAGNE, OÙ L'AFD POURRAIT S'EMPARER D'UNE RÉGION POUR LA PREMIÈRE FOIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:25",
-      "date": "06/09",
-      "timestamp": 1788672300
-    },
-    {
-      "id": "BFMTV_1788671854",
-      "source": "BFMTV",
-      "text": "DES HAUTS-GRADÉS AMÉRICAINS CONTRAINTS, PAR DONALD TRUMP, DE PASSER AU DÉTECTEUR DE MENSONGES",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:17",
-      "date": "06/09",
-      "timestamp": 1788671854
-    },
-    {
-      "id": "BFMTV_1788670556",
-      "source": "BFMTV",
-      "text": "APRÈS LEUR ENTRETIEN À MOSCOU AVEC VLADIMIR POUTINE, LES ÉMISSAIRES AMÉRICAINS ATTENDUS À KIEV CE DIMANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:55",
-      "date": "06/09",
-      "timestamp": 1788670556
-    },
-    {
-      "id": "BFMTV_1788670026",
-      "source": "BFMTV",
-      "text": "INGÉRABLE, LE PASSAGER D'UN VOL AUX ÉTATS-UNIS EST SCOTCHÉ À SON SIÈGE JUSQU'À L'ATTERRISSAGE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:47",
-      "date": "06/09",
-      "timestamp": 1788670026
-    },
-    {
-      "id": "BFMTV_1788669874",
-      "source": "BFMTV",
-      "text": "ÉRUPTIONS VOLCANIQUES EN INDONÉSIE, L'AÉROPORT INTERNATIONAL DE JAKARTA SUSPEND SES OPÉRATIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:44",
-      "date": "06/09",
-      "timestamp": 1788669874
-    },
-    {
-      "id": "BFMTV_1788668676",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: LES GARDIENS DE LA RÉVOLUTION DISENT AVOIR ATTAQUÉ UN DRONE NAVAL AMÉRICAIN DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:24",
-      "date": "06/09",
-      "timestamp": 1788668676
-    },
-    {
-      "id": "BFMTV_1788668146",
-      "source": "BFMTV",
-      "text": "EN GRÈCE, DEUX PILOTES DÉCÈDENT DANS LE CRASH D'UN AVION MILITAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:15",
-      "date": "06/09",
-      "timestamp": 1788668146
-    },
-    {
-      "id": "BFMTV_1788667997",
-      "source": "BFMTV",
-      "text": "EN ALLEMAGNE, L'AFD, EN TÊTE DES INTENTIONS DE VOTE, POURRAIT REMPORTER UNE ÉLECTION RÉGIONALE CE DIMANCHE",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:13",
-      "date": "06/09",
-      "timestamp": 1788667997
-    },
-    {
-      "id": "BFMTV_1788667380",
-      "source": "BFMTV",
-      "text": "\"L'HOMME LE PLUS DANGEREUX D'ALLEMAGNE\": QUI EST ULRICH SIEGMUND, LE CANDIDAT QUI PEUT FAIRE GAGNER L'AFD EN SAXE-ANHALT?",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:03",
-      "date": "06/09",
-      "timestamp": 1788667380
-    },
-    {
-      "id": "BFMTV_1788645486",
-      "source": "BFMTV",
-      "text": "DES DISCUSSIONS \"EXTRÊMEMENT FRANCHES\": LES ÉMISSAIRES AMÉRICAINS ONT PRÉSENTÉ À VLADIMIR POUTINE \"PLUSIEURS IDÉES\" POUR METTRE FIN À LA GUERRE EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:58",
-      "date": "05/09",
-      "timestamp": 1788645486
-    },
-    {
-      "id": "BFMTV_1788639014",
-      "source": "BFMTV",
-      "text": "\"JE VEUX VOUS REMERCIER SURTOUT D'AVOIR ACCEPTÉ LA TRÊVE DE TROIS JOURS AVEC KIEV\": LES MOTS DE STEVE WITKOFF, DIPLOMATE AMÉRICAIN, À VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:10",
-      "date": "05/09",
-      "timestamp": 1788639014
-    },
-    {
-      "id": "BFMTV_1788638179",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: EN REPRÉSAILLES AUX FRAPPES AMÉRICAINES, LES GARDIENS DE LA RÉVOLUTION DISENT AVOIR ATTAQUÉ DES PÉTROLIERS LIÉS AUX ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:56",
-      "date": "05/09",
-      "timestamp": 1788638179
-    },
-    {
-      "id": "BFMTV_1788636553",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:29",
-      "date": "05/09",
-      "timestamp": 1788636553
-    },
-    {
-      "id": "BFMTV_1788636552",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VLADIMIR POUTINE A RENCONTRÉ LES ÉMISSAIRES AMÉRICAINS SAMEDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:29",
-      "date": "05/09",
-      "timestamp": 1788636552
     }
   ],
   "france": {
