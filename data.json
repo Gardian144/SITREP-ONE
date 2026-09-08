@@ -1,7 +1,77 @@
 {
-  "last_update": "08/09 17:56",
+  "last_update": "08/09 20:52",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788899998",
+      "source": "BFMTV",
+      "text": "CISJORDANIE: LONDRES ANNONCE \"UNE INTERDICTION D'IMPORTATION DES PRODUITS PROVENANT DES COLONIES ILLÉGALES SITUÉES DANS LES TERRITOIRES OCCUPÉS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:39",
+      "date": "08/09",
+      "timestamp": 1788899998
+    },
+    {
+      "id": "BFMTV_1788899032",
+      "source": "BFMTV",
+      "text": "LE GOUVERNEMENT BRITANNIQUE RECONNAÎT QU'UN \"NETTOYAGE ETHNIQUE\" EST EN COURS EN CISJORDANIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:23",
+      "date": "08/09",
+      "timestamp": 1788899032
+    },
+    {
+      "id": "BFMTV_1788899019",
+      "source": "BFMTV",
+      "text": "LE CHOIX D'ELSA VIDAL - LA MER NOIRE, L'AUTRE FRONT DE LA GUERRE EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:23",
+      "date": "08/09",
+      "timestamp": 1788899019
+    },
+    {
+      "id": "BFMTV_1788894047",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU AURAIT ÉTÉ PRÉVENU DE LA PRÉPARATION DE L'ATTAQUE DU 7-OCTOBRE 2023",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:00",
+      "date": "08/09",
+      "timestamp": 1788894047
+    },
+    {
+      "id": "BFMTV_1788893085",
+      "source": "BFMTV",
+      "text": "CISJORDANIE: LA FRANCE VEUT DES SANCTIONS SUR LE COMMERCE AVEC LES COLONIES ISRAÉLIENNES",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:44",
+      "date": "08/09",
+      "timestamp": 1788893085
+    },
+    {
+      "id": "BFMTV_1788892784",
+      "source": "BFMTV",
+      "text": "\"LES DIRIGEANTS ONT MENTI\": LA VILLE DE NEW-YORK A CACHÉ DES INFORMATIONS SUR LA TOXICITÉ DE L'AIR APRÈS LE 11-SEPTEMBRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:39",
+      "date": "08/09",
+      "timestamp": 1788892784
+    },
+    {
+      "id": "BFMTV_1788890967",
+      "source": "BFMTV",
+      "text": "MARCO RUBIO DÉNONCE \"LES TENSIONS EN CISJORDANIE\", MAIS EXCLUT DES SANCTIONS CONTRE LA COLONISATION ISRAÉLIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:09",
+      "date": "08/09",
+      "timestamp": 1788890967
+    },
     {
       "id": "OPEX360_1788888468",
       "source": "OPEX360",
@@ -13,6 +83,26 @@
       "timestamp": 1788888468
     },
     {
+      "id": "BFMTV_1788886577",
+      "source": "BFMTV",
+      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:56",
+      "date": "08/09",
+      "timestamp": 1788886577
+    },
+    {
+      "id": "BFMTV_1788886162",
+      "source": "BFMTV",
+      "text": "\"C'EST UN OVNI\": BSW, LE PARTI DE GAUCHE ANTI-IMMIGRATION QUI POURRAIT DONNER LE POUVOIR À L'AFD EN SAXE-ANHALT",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:49",
+      "date": "08/09",
+      "timestamp": 1788886162
+    },
+    {
       "id": "OPEX360_1788883964",
       "source": "OPEX360",
       "text": "LA MARINE NATIONALE A REÇU SES DEUX PREMIERS AVIONS DE SURVEILLANCE MARITIME FALCON 2000 LXS «ALBATROS»",
@@ -21,6 +111,66 @@
       "time": "16:12",
       "date": "08/09",
       "timestamp": 1788883964
+    },
+    {
+      "id": "BFMTV_1788882937",
+      "source": "BFMTV",
+      "text": "ACCIDENT D'UN AVION AMAZON: LES IMAGES D'UN MEMBRE DE L'ÉQUIPAGE SAUTANT DE L'APPAREIL APRÈS LA COLLISION ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:55",
+      "date": "08/09",
+      "timestamp": 1788882937
+    },
+    {
+      "id": "BFMTV_1788882738",
+      "source": "BFMTV",
+      "text": "THAÏLANDE: UN FRANÇAIS VISÉ PAR UN ORDRE D'EXPULSION APRÈS AVOIR REFUSÉ L'ENTRÉE DE SON PARC ANIMALIER AUX ISRAÉLIENS",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:52",
+      "date": "08/09",
+      "timestamp": 1788882738
+    },
+    {
+      "id": "BFMTV_1788882667",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:51",
+      "date": "08/09",
+      "timestamp": 1788882667
+    },
+    {
+      "id": "BFMTV_1788882666",
+      "source": "BFMTV",
+      "text": "AU TÉLÉPHONE AVEC DONALD TRUMP, VLADIMIR POUTINE ASSURE NE PAS AVOIR DE \"PROJET AGRESSIF À L'ÉGARD DE L'EUROPE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:51",
+      "date": "08/09",
+      "timestamp": 1788882666
+    },
+    {
+      "id": "BFMTV_1788880650",
+      "source": "BFMTV",
+      "text": "L'IRAN AFFIRME AVOIR SAISI UN DRONE SOUS-MARIN AMÉRICAIN DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:17",
+      "date": "08/09",
+      "timestamp": 1788880650
+    },
+    {
+      "id": "BFMTV_1788880271",
+      "source": "BFMTV",
+      "text": "IA, SEMI-CONDUCTEURS ET QUANTIQUE: \"UN PROTOCOLE D'ENTENTE\" SIGNÉ ENTRE LA CORÉE DU SUD ET LA FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:11",
+      "date": "08/09",
+      "timestamp": 1788880271
     },
     {
       "id": "OPEX360_1788875331",
@@ -851,156 +1001,6 @@
       "time": "15:02",
       "date": "06/09",
       "timestamp": 1788706963
-    },
-    {
-      "id": "BFMTV_1788706497",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES POURPARLERS AVEC KIEV ONT ÉTÉ \"SIGNIFICATIFS\" ET SE POURSUIVRONT \"AUSSI LONGTEMPS QU'IL LE FAUDRA\", DÉCLARE STEVE WITKOFF",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:54",
-      "date": "06/09",
-      "timestamp": 1788706497
-    },
-    {
-      "id": "BFMTV_1788705135",
-      "source": "BFMTV",
-      "text": "VERS UNE PERCÉE INÉDITE DE L'EXTRÊME DROITE EN ALLEMAGNE?: LA RÉACTION DE JORDAN BARDELLA",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:32",
-      "date": "06/09",
-      "timestamp": 1788705135
-    },
-    {
-      "id": "BFMTV_1788705030",
-      "source": "BFMTV",
-      "text": "ÉLECTIONS EN ALLEMAGNE: \"LE FAIT QUE L'AFD SOIT AUX PORTES DU POUVOIR EST DOMMAGEABLE\", AFFIRME FRANÇOIS PIQUEMAL, DÉPUTÉ \"LA FRANCE INSOUMISE\" DE LA HAUTE-GARONNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:30",
-      "date": "06/09",
-      "timestamp": 1788705030
-    },
-    {
-      "id": "BFMTV_1788700941",
-      "source": "BFMTV",
-      "text": "\"LES LEÇONS DE L'HISTOIRE N'ONT PAS ÉTÉ RETENUES\": LA RUSSIE ACCUSE L'ALLEMAGNE DE VOULOIR \"À NOUVEAU\" LA GUERRE",
-      "urgent": true,
-      "france_related": true,
-      "time": "13:22",
-      "date": "06/09",
-      "timestamp": 1788700941
-    },
-    {
-      "id": "BFMTV_1788700839",
-      "source": "BFMTV",
-      "text": "POURPARLERS À KIEV: DES CONSEILLERS EUROPÉENS À LA SÉCURITÉ NATIONALE ASSOCIÉS AUX DISCUSSIONS AVEC LES ÉMISSAIRES AMÉRICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:20",
-      "date": "06/09",
-      "timestamp": 1788700839
-    },
-    {
-      "id": "BFMTV_1788700096",
-      "source": "BFMTV",
-      "text": "ÉLECTIONS EN ALLEMAGNE: L'AFD FAVORITE EN SAXE-ANHALT, L'EXTRÊME DROITE AUX PORTES DE SON PREMIER LAND",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:08",
-      "date": "06/09",
-      "timestamp": 1788700096
-    },
-    {
-      "id": "OPEX360_1788693891",
-      "source": "OPEX360",
-      "text": "AVEC LE SYSTÈME ULYSSE, L’ARMÉE DE TERRE VA RENFORCER LA PROTECTION DE SES BLINDÉS SCORPION",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:24",
-      "date": "06/09",
-      "timestamp": 1788693891
-    },
-    {
-      "id": "BFMTV_1788691661",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:47",
-      "date": "06/09",
-      "timestamp": 1788691661
-    },
-    {
-      "id": "BFMTV_1788691660",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES ÉMISSAIRES AMÉRICAINS STEVE WITKOFF ET JARED KUSHNER SONT ARRIVÉS À KIEV, UNE PREMIÈRE DEPUIS LE DÉBUT DU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:47",
-      "date": "06/09",
-      "timestamp": 1788691660
-    },
-    {
-      "id": "BFMTV_1788691112",
-      "source": "BFMTV",
-      "text": "UN BUS TRANSPORTANT DES ÉLÈVES EN EXCURSION TOMBE DANS UN RAVIN AU CAP-VERT: AU MOINS 24 MORTS, PRINCIPALEMENT DES ENFANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:38",
-      "date": "06/09",
-      "timestamp": 1788691112
-    },
-    {
-      "id": "OPEX360_1788690447",
-      "source": "OPEX360",
-      "text": "L’US AIR FORCE VEUT ACCÉLÉRER LE REMPLACEMENT DE SES MQ-9A REAPER PAR DES DRONES MALE BEAUCOUP MOINS COÛTEUX",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:27",
-      "date": "06/09",
-      "timestamp": 1788690447
-    },
-    {
-      "id": "BFMTV_1788689130",
-      "source": "BFMTV",
-      "text": "\"UNE RÉPONSE PLUS RAPIDE, PLUS INTENSE\": L'IRAN MENACE LES ÉTATS-UNIS DE RIPOSTES EN CAS DE NOUVELLES ATTAQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:05",
-      "date": "06/09",
-      "timestamp": 1788689130
-    },
-    {
-      "id": "BFMTV_1788687865",
-      "source": "BFMTV",
-      "text": "AUX ÉTATS-UNIS, UN PASSAGER VIOLENT, MAÎTRISÉ ET SCOTCHÉ À SON SIÈGE DANS UN AVION",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:44",
-      "date": "06/09",
-      "timestamp": 1788687865
-    },
-    {
-      "id": "BFMTV_1788687711",
-      "source": "BFMTV",
-      "text": "LA PRÉSENTATRICE DE TÉLÉVISION ÉGYPTIENNE SARAH KHALIFA ET 11 AUTRES PERSONNES CONDAMNÉES À MORT POUR TRAFIC DE DROGUE EN ÉGYPTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:41",
-      "date": "06/09",
-      "timestamp": 1788687711
-    },
-    {
-      "id": "BFMTV_1788686309",
-      "source": "BFMTV",
-      "text": "DES RESPONSABLES MILITAIRES AMÉRICAINS SOUMIS AU DÉTECTEUR DE MENSONGES APRÈS DES FUITES DANS LA PRESSE SUR UNE PÉNURIE DE MUNITIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:18",
-      "date": "06/09",
-      "timestamp": 1788686309
     }
   ],
   "france": {
