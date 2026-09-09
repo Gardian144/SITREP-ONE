@@ -1,7 +1,27 @@
 {
-  "last_update": "09/09 21:30",
+  "last_update": "09/09 23:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788990680",
+      "source": "BFMTV",
+      "text": "\"ILS NE PEUVENT PAS TENIR PLUS LONGTEMPS\": DONALD TRUMP PRÉDIT QUE LA GUERRE AVEC L'IRAN S'ARRÊTERA \"IMMÉDIATEMENT\" APRÈS LES LÉGISLATIVES AUX ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:51",
+      "date": "09/09",
+      "timestamp": 1788990680
+    },
+    {
+      "id": "BFMTV_1788989632",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP PRÉDIT QUE LA GUERRE AVEC L'IRAN S'ARRÊTERA \"IMMÉDIATEMENT\" APRÈS LES LÉGISLATIVES DE NOVEMBRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:33",
+      "date": "09/09",
+      "timestamp": 1788989632
+    },
     {
       "id": "BFMTV_1788986116",
       "source": "BFMTV",
@@ -17,6 +37,16 @@
       "source": "BFMTV",
       "text": "VOLODYMYR ZELENSKY",
       "urgent": false,
+      "france_related": false,
+      "time": "19:40",
+      "date": "09/09",
+      "timestamp": 1788982802
+    },
+    {
+      "id": "BFMTV_1788982802",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
       "france_related": false,
       "time": "19:40",
       "date": "09/09",
@@ -971,36 +1001,6 @@
       "time": "15:44",
       "date": "07/09",
       "timestamp": 1788795878
-    },
-    {
-      "id": "BFMTV_1788795493",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: L'AIEA ESTIME QUE LA \"MEILLEURE ISSUE\" POUR L'IRAN EST DE RENOUER LE DIALOGUE AVEC L'ONU",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:38",
-      "date": "07/09",
-      "timestamp": 1788795493
-    },
-    {
-      "id": "BFMTV_1788794843",
-      "source": "BFMTV",
-      "text": "\"DES AGISSEMENTS ET DÉCLARATIONS ANTIRUSSES\": LA RUSSIE ANNONCE LA FERMETURE DU CONSULAT ALLEMAND À SAINT-PÉTERSBOURG",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:27",
-      "date": "07/09",
-      "timestamp": 1788794843
-    },
-    {
-      "id": "BFMTV_1788794587",
-      "source": "BFMTV",
-      "text": "LE SOLDAT DE LA LÉGION ÉTRANGÈRE FRANÇAISE ENLEVÉ EN COLOMBIE S'EST ÉVADÉ, SELON DES MÉDIAS COLOMBIENS",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:23",
-      "date": "07/09",
-      "timestamp": 1788794587
     }
   ],
   "france": {
