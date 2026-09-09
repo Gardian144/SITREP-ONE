@@ -1,7 +1,107 @@
 {
-  "last_update": "09/09 06:23",
+  "last_update": "09/09 11:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788953591",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP LAISSE ENTENDRE QU'IL A ÉTÉ ÉVACUÉ EN URGENCE PAR DES POMPIERS LORS DU 11-SEPTEMBRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:33",
+      "date": "09/09",
+      "timestamp": 1788953591
+    },
+    {
+      "id": "BFMTV_1788952087",
+      "source": "BFMTV",
+      "text": "LA VILLE DE NEW YORK A CACHÉ DES INFORMATIONS SUR LA TOXICITÉ DE L'AIR APRÈS LE 11-SEPTEMBRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:08",
+      "date": "09/09",
+      "timestamp": 1788952087
+    },
+    {
+      "id": "OPEX360_1788950433",
+      "source": "OPEX360",
+      "text": "UN RAPPORT PARLEMENTAIRE DÉNONCE DES MANQUEMENTS LORS DE L’ACHAT D’AVIONS F-35A PAR LA SUISSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:40",
+      "date": "09/09",
+      "timestamp": 1788950433
+    },
+    {
+      "id": "BFMTV_1788949089",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS NAVIRES EN FEU DANS LE GOLFE APRÈS DES TIRS IRANIENS DANS LA RÉGION",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:18",
+      "date": "09/09",
+      "timestamp": 1788949089
+    },
+    {
+      "id": "BFMTV_1788946259",
+      "source": "BFMTV",
+      "text": "EN UKRAINE, KIEV EST CIBLÉE PAR L’ARMÉE RUSSE QUI DIT VISER DES USINES DE FABRICATION DE DRONES ET DE MISSILES, MAIS DES BÂTIMENTS CIVILS SONT AUSSI TOUCHÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:30",
+      "date": "09/09",
+      "timestamp": 1788946259
+    },
+    {
+      "id": "BFMTV_1788945830",
+      "source": "BFMTV",
+      "text": "\"TRUMPAPALOOZA\": À L'APPROCHE DES ÉLECTIONS DE MI-MANDAT, DONALD TRUMP SE PLACE AU CENTRE DU JEU MALGRÉ SON IMPOPULARITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:23",
+      "date": "09/09",
+      "timestamp": 1788945830
+    },
+    {
+      "id": "BFMTV_1788942489",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP RACONTE AVOIR ÉTÉ ÉVACUÉ PAR DES POMPIERS APRÈS LE 11-SEPTEMBRE, UN RÉCIT AUX ALLURES DE MENSONGE REMIS EN CAUSE PAR LES MÉDIAS AMÉRICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:28",
+      "date": "09/09",
+      "timestamp": 1788942489
+    },
+    {
+      "id": "BFMTV_1788940807",
+      "source": "BFMTV",
+      "text": "INJECTION D'ACIDE HYALURONIQUE, DOULEURS THORACIQUES... MORT EN THAÏLANDE D'UN BRITANNIQUE VENU POUR UN AGRANDISSEMENT DE PÉNIS, UNE ENQUÊTE OUVERTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:00",
+      "date": "09/09",
+      "timestamp": 1788940807
+    },
+    {
+      "id": "BFMTV_1788936941",
+      "source": "BFMTV",
+      "text": "CUBA NE REDEVIENDRA \"JAMAIS\" UNE COLONIE: LA HAVANE RÉPOND À LA CARTE PUBLIÉE PAR DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:55",
+      "date": "09/09",
+      "timestamp": 1788936941
+    },
+    {
+      "id": "BFMTV_1788935080",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE ANNONCE AVOIR ABATTU 596 DRONES UKRAINIENS DANS LA NUIT, AU MOINS QUATRE MORTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:24",
+      "date": "09/09",
+      "timestamp": 1788935080
+    },
     {
       "id": "BFMTV_1788934603",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "20:48",
       "date": "06/09",
       "timestamp": 1788727699
-    },
-    {
-      "id": "BFMTV_1788727594",
-      "source": "BFMTV",
-      "text": "POURPARLERS À KIEV: LA PRÉSIDENCE UKRAINIENNE SALUE DES PROPOSITIONS AMÉRICAINES \"PLUS EFFICACES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:46",
-      "date": "06/09",
-      "timestamp": 1788727594
-    },
-    {
-      "id": "BFMTV_1788727290",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN AVION-CARGO D'AMAZON SORT DE PISTE À MIAMI ET PERCUTE DES VÉHICULES",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:41",
-      "date": "06/09",
-      "timestamp": 1788727290
-    },
-    {
-      "id": "BFMTV_1788726982",
-      "source": "BFMTV",
-      "text": "CEUTA: 21 MIGRANTS RENVOYÉS AU MAROC POUR AVOIR JETÉ DES PIERRES SUR DES MILITAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:36",
-      "date": "06/09",
-      "timestamp": 1788726982
-    },
-    {
-      "id": "BFMTV_1788726870",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA BATAILLE DU CIEL S'INTENSIFIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:34",
-      "date": "06/09",
-      "timestamp": 1788726870
-    },
-    {
-      "id": "BFMTV_1788726327",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES ÉMISSAIRES AMÉRICAINS APPELLENT KIEV ET MOSCOU AU COMPROMIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:25",
-      "date": "06/09",
-      "timestamp": 1788726327
-    },
-    {
-      "id": "BFMTV_1788726205",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY MÈNE DE NOUVELLES DISCUSSIONS AVEC STEVE WITKOFF ET JARED KUSHNER UNIQUEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:23",
-      "date": "06/09",
-      "timestamp": 1788726205
-    },
-    {
-      "id": "BFMTV_1788725193",
-      "source": "BFMTV",
-      "text": "UN AVION-CARGO D'AMAZON SORT DE PISTE À MIAMI AUX ÉTATS-UNIS ET PERCUTE DES VÉHICULES",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:06",
-      "date": "06/09",
-      "timestamp": 1788725193
-    },
-    {
-      "id": "BFMTV_1788724953",
-      "source": "BFMTV",
-      "text": "UN AVION-CARGO D'AMAZON SORT DE PISTE À MIAMI ET PERCUTE DES VÉHICULES, UNE ENQUÊTE OUVERTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:02",
-      "date": "06/09",
-      "timestamp": 1788724953
-    },
-    {
-      "id": "BFMTV_1788724761",
-      "source": "BFMTV",
-      "text": "LA REINE MARGRETHE DU DANEMARK HOSPITALISÉE APRÈS UN MALAISE",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:59",
-      "date": "06/09",
-      "timestamp": 1788724761
-    },
-    {
-      "id": "BFMTV_1788724070",
-      "source": "BFMTV",
-      "text": "LARGE VICTOIRE DE L'EXTRÊME DROITE À L'ÉLECTION RÉGIONALE EN SAXE-ANHALT EN ALLEMAGNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:47",
-      "date": "06/09",
-      "timestamp": 1788724070
     }
   ],
   "france": {
