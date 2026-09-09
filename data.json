@@ -1,7 +1,147 @@
 {
-  "last_update": "09/09 11:42",
+  "last_update": "09/09 15:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1788966847",
+      "source": "BFMTV",
+      "text": "DEUX BLESSÉS GRAVES APRÈS UN INCIDENT DANS UNE CENTRALE HYDROÉLECTRIQUE EN SUISSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:14",
+      "date": "09/09",
+      "timestamp": 1788966847
+    },
+    {
+      "id": "BFMTV_1788966196",
+      "source": "BFMTV",
+      "text": "CHINE: 50 ANS APRÈS LA MORT DE MAO, UNE FOULE SE RASSEMBLE DANS SA VILLE NATALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:03",
+      "date": "09/09",
+      "timestamp": 1788966196
+    },
+    {
+      "id": "BFMTV_1788966165",
+      "source": "BFMTV",
+      "text": "\"L'ENNEMI DOIT S'ABSTENIR DE TOUTE NOUVELLE MENACE\": L'IRAN AFFIRME QUE LA GUERRE PEUT PRENDRE FIN SI LES ETATS-UNIS RÉPONDENT À SES DEMANDES",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:02",
+      "date": "09/09",
+      "timestamp": 1788966165
+    },
+    {
+      "id": "BFMTV_1788965381",
+      "source": "BFMTV",
+      "text": "EN IRLANDE, UN DRONE NON IDENTIFIÉ A ÉTÉ APERÇU À QUELQUES JOURS DE LA VISITE DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:49",
+      "date": "09/09",
+      "timestamp": 1788965381
+    },
+    {
+      "id": "BFMTV_1788965293",
+      "source": "BFMTV",
+      "text": "FUNÉRAILES DU ROI HARALD V: LE FILS DE LA NOUVELLE REINE DE NORVÈGE, CONDAMNÉ EN PREMIÈRE INSTANCE À 4 ANS DE PRISON POUR VIOLS, PRÉSENT AUX OBSÈQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:48",
+      "date": "09/09",
+      "timestamp": 1788965293
+    },
+    {
+      "id": "BFMTV_1788965234",
+      "source": "BFMTV",
+      "text": "NORVÈGE: LA DÉPOUILLE DU ROI HARALD V CONDUITE EN SA DERNIÈRE DEMEURE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:47",
+      "date": "09/09",
+      "timestamp": 1788965234
+    },
+    {
+      "id": "BFMTV_1788965177",
+      "source": "BFMTV",
+      "text": "LE PRINCE WILLIAM, VOLODYMYR ZELENSKY....CHEFS D'ÉTATS ET DE GOUVERNEMENTS AINSI QUE LES TÊTES COURONNÉES SUIVENT LA FAMILLE ROYALE DE NORVÈGE LORS DES FUNÉRAILLES DU ROI HARALD V",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:46",
+      "date": "09/09",
+      "timestamp": 1788965177
+    },
+    {
+      "id": "BFMTV_1788965109",
+      "source": "BFMTV",
+      "text": "SÉBASTIEN LECORNU ARRIVE À LA CATHÉDRALE D'OSLO POUR LES OBSÈQUES DU ROI HARALD V DE NORVÈGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:45",
+      "date": "09/09",
+      "timestamp": 1788965109
+    },
+    {
+      "id": "BFMTV_1788963335",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ORGANISE UN SHOW INÉDIT À DALLAS POUR SAUVER LES RÉPUBLICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:15",
+      "date": "09/09",
+      "timestamp": 1788963335
+    },
+    {
+      "id": "BFMTV_1788962999",
+      "source": "BFMTV",
+      "text": "IMDB REMPLACE “ISRAËL” PAR “TERRITOIRES PALESTINIENS” DANS PLUSIEURS FICHES DE PRÉSENTATION DE FILMS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:09",
+      "date": "09/09",
+      "timestamp": 1788962999
+    },
+    {
+      "id": "OPEX360_1788962841",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES ENVISAGE DE COMMANDER DEUX PATROUILLEURS HAUTURIERS SUPPLÉMENTAIRES EN 2027",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:07",
+      "date": "09/09",
+      "timestamp": 1788962841
+    },
+    {
+      "id": "BFMTV_1788960463",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: L'AÉROPORT LONDRES-HEATHROW PARALYSÉ APRÈS UNE PANNE DU CONTRÔLE AÉRIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:27",
+      "date": "09/09",
+      "timestamp": 1788960463
+    },
+    {
+      "id": "BFMTV_1788958591",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP PRÉTEND AVOIR ÉTÉ SAUVÉ PAR LES POMPIERS LE 11 SEPTEMBRE 2001",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:56",
+      "date": "09/09",
+      "timestamp": 1788958591
+    },
+    {
+      "id": "BFMTV_1788958498",
+      "source": "BFMTV",
+      "text": "11-SEPTEMBRE: DONALD TRUMP NE PARTICIPERA PAS AUX COMMÉMORATIONS À NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:54",
+      "date": "09/09",
+      "timestamp": 1788958498
+    },
     {
       "id": "BFMTV_1788953591",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "07:22",
       "date": "07/09",
       "timestamp": 1788765778
-    },
-    {
-      "id": "BFMTV_1788762796",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN VA DÉCLARER UNE \"ZONE INTERDITE\" PRÈS DU DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:33",
-      "date": "07/09",
-      "timestamp": 1788762796
-    },
-    {
-      "id": "BFMTV_1788762535",
-      "source": "BFMTV",
-      "text": "AU MOINS CINQ MORTS ET CINQ BLESSÉS APRÈS LA SORTIE DE PISTE D'UN AVION-CARGO AMAZON ",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:28",
-      "date": "07/09",
-      "timestamp": 1788762535
-    },
-    {
-      "id": "BFMTV_1788762458",
-      "source": "BFMTV",
-      "text": "SORTIE DE PISTE, INCENDIE... CE QUE L'ON SAIT DE L'ACCIDENT D'UN AVION AMAZON QUI A FAIT CINQ MORTS À L'AÉROPORT INTERNATIONAL DE MIAMI",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:27",
-      "date": "07/09",
-      "timestamp": 1788762458
-    },
-    {
-      "id": "BFMTV_1788762224",
-      "source": "BFMTV",
-      "text": "ONZE MORTS DANS UNE FRAPPE ISRAÉLIENNE NOCTURNE SUR UN VILLAGE DU SUD DU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:23",
-      "date": "07/09",
-      "timestamp": 1788762224
-    },
-    {
-      "id": "BFMTV_1788758066",
-      "source": "BFMTV",
-      "text": "VICTOIRE HISTORIQUE DE L'AFD EN SAXE-ANHALT: UN SIGNAL POLITIQUE POUR L'ALLEMAGNE ET L'EUROPE?",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:14",
-      "date": "07/09",
-      "timestamp": 1788758066
-    },
-    {
-      "id": "BFMTV_1788756083",
-      "source": "BFMTV",
-      "text": "L'ÉDITO INTERNATIONAL DE FRANÇOIS CLEMENCEAU - QUELLES POURRAIENT ÊTRE LES CONSÉQUENCES DE LA VICTOIRE DE L'AFD?",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:41",
-      "date": "07/09",
-      "timestamp": 1788756083
-    },
-    {
-      "id": "BFMTV_1788755826",
-      "source": "BFMTV",
-      "text": "L'IRAN VA DÉCLARER UNE \"ZONE INTERDITE\" PRÈS DU DÉTROIT D'ORMUZ DANS LES PROCHAINS JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:37",
-      "date": "07/09",
-      "timestamp": 1788755826
-    },
-    {
-      "id": "BFMTV_1788755725",
-      "source": "BFMTV",
-      "text": "VICTOIRE DE L'EXTRÊME DROITE EN ALLEMAGNE: LA GAUCHE ET LE CENTRE EXPRIMENT LEUR INQUIÉTUDE EN FRANCE, SILENCE DU RN",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:35",
-      "date": "07/09",
-      "timestamp": 1788755725
-    },
-    {
-      "id": "BFMTV_1788755725",
-      "source": "BFMTV",
-      "text": "VICTOIRE DE L'EXTRÊME DROITE EN ALLEMAGNE LORS DES ÉLECTIONS EN SAXE-ANHALT: LA GAUCHE ET LE CENTRE EXPRIMENT LEUR INQUIÉTUDE EN FRANCE, SILENCE DU RN",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:35",
-      "date": "07/09",
-      "timestamp": 1788755725
-    },
-    {
-      "id": "BFMTV_1788754942",
-      "source": "BFMTV",
-      "text": "L'ÉDITO INTERNATIONAL DE FRANÇOIS CLEMENCEAU - POURPARLERS À KIEV: UNE VISITE AMÉRICAINE POUR RIEN?",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:22",
-      "date": "07/09",
-      "timestamp": 1788754942
-    },
-    {
-      "id": "BFMTV_1788754699",
-      "source": "BFMTV",
-      "text": "EN ALLEMAGNE, L'AFD, LE PARTI D'EXTRÊME DROITE, ARRIVE LARGEMENT EN TÊTE DES ÉLECTIONS EN SAXE-ANHALT",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:18",
-      "date": "07/09",
-      "timestamp": 1788754699
-    },
-    {
-      "id": "BFMTV_1788754096",
-      "source": "BFMTV",
-      "text": "AU MOINS CINQ MORTS ET CINQ BLESSÉS APRÈS UNE SORTIE DE PISTE D'UN AVION AMAZON À L'AÉROPORT DE MIAMI",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:08",
-      "date": "07/09",
-      "timestamp": 1788754096
-    },
-    {
-      "id": "BFMTV_1788731602",
-      "source": "BFMTV",
-      "text": "UN AVION-CARGO D'AMAZON SORT DE PISTE À MIAMI ET PERCUTE DES VÉHICULES, AU MOINS CINQ MORTS ET CINQ BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:53",
-      "date": "06/09",
-      "timestamp": 1788731602
-    },
-    {
-      "id": "BFMTV_1788727699",
-      "source": "BFMTV",
-      "text": "PERCÉE HISTORIQUE DE L'EXTRÊME DROITE EN ALLEMAGNE: LA RÉACTION DES POLITIQUES EN FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "20:48",
-      "date": "06/09",
-      "timestamp": 1788727699
     }
   ],
   "france": {
