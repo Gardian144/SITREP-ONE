@@ -1,7 +1,77 @@
 {
-  "last_update": "10/09 18:28",
+  "last_update": "10/09 21:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789073267",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"IL NE FAUT JAMAIS FAIRE CONFIANCE À POUTINE\", DÉCLARE MARK CARNEY",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:47",
+      "date": "10/09",
+      "timestamp": 1789073267
+    },
+    {
+      "id": "BFMTV_1789073010",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DIT PRÉVOIR DE RENCONTRER DONALD TRUMP FIN SEPTEMBRE À NEW YORK",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:43",
+      "date": "10/09",
+      "timestamp": 1789073010
+    },
+    {
+      "id": "BFMTV_1789071374",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL - HEZBOLLAH",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:16",
+      "date": "10/09",
+      "timestamp": 1789071374
+    },
+    {
+      "id": "BFMTV_1789071373",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ASSURE AVOIR DÉTRUIT DES INFRASTRUCTURES SOUTERRAINES DU HEZBOLLAH AU LIBAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:16",
+      "date": "10/09",
+      "timestamp": 1789071373
+    },
+    {
+      "id": "BFMTV_1789066612",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LES DÉTAILS DE L'AIDE FRANÇAISE À L'ARMÉE UKRAINIENNE",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:56",
+      "date": "10/09",
+      "timestamp": 1789066612
+    },
+    {
+      "id": "BFMTV_1789065506",
+      "source": "BFMTV",
+      "text": "NIGERIA: UN INFLUENCEUR CRITIQUE DU GOUVERNEMENT ASSASSINÉ EN PLEINE CAMPAGNE PRÉSIDENTIELLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:38",
+      "date": "10/09",
+      "timestamp": 1789065506
+    },
+    {
+      "id": "BFMTV_1789061924",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:38",
+      "date": "10/09",
+      "timestamp": 1789061924
+    },
     {
       "id": "BFMTV_1789061923",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "04:14",
       "date": "09/09",
       "timestamp": 1788927251
-    },
-    {
-      "id": "BFMTV_1788903610",
-      "source": "BFMTV",
-      "text": "MARCO RUBIO EN COLOMBIE: LE SECRÉTAIRE D'ÉTAT ÉVOQUE \"UN LIEN FORT\" ENTRE LES DEUX PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:40",
-      "date": "08/09",
-      "timestamp": 1788903610
-    },
-    {
-      "id": "BFMTV_1788903021",
-      "source": "BFMTV",
-      "text": "COLOMBIE: MARCO RUBIO SIGNE UN PROTOCOLE D'ACCORD SUR LE NUCLÉAIRE CIVIL ET LES MINÉRAUX CRITIQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:30",
-      "date": "08/09",
-      "timestamp": 1788903021
-    },
-    {
-      "id": "BFMTV_1788899998",
-      "source": "BFMTV",
-      "text": "CISJORDANIE: LONDRES ANNONCE \"UNE INTERDICTION D'IMPORTATION DES PRODUITS PROVENANT DES COLONIES ILLÉGALES SITUÉES DANS LES TERRITOIRES OCCUPÉS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:39",
-      "date": "08/09",
-      "timestamp": 1788899998
-    },
-    {
-      "id": "BFMTV_1788899032",
-      "source": "BFMTV",
-      "text": "LE GOUVERNEMENT BRITANNIQUE RECONNAÎT QU'UN \"NETTOYAGE ETHNIQUE\" EST EN COURS EN CISJORDANIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:23",
-      "date": "08/09",
-      "timestamp": 1788899032
-    },
-    {
-      "id": "BFMTV_1788899019",
-      "source": "BFMTV",
-      "text": "LE CHOIX D'ELSA VIDAL - LA MER NOIRE, L'AUTRE FRONT DE LA GUERRE EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:23",
-      "date": "08/09",
-      "timestamp": 1788899019
-    },
-    {
-      "id": "BFMTV_1788894047",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU AURAIT ÉTÉ PRÉVENU DE LA PRÉPARATION DE L'ATTAQUE DU 7-OCTOBRE 2023",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:00",
-      "date": "08/09",
-      "timestamp": 1788894047
-    },
-    {
-      "id": "BFMTV_1788893085",
-      "source": "BFMTV",
-      "text": "CISJORDANIE: LA FRANCE VEUT DES SANCTIONS SUR LE COMMERCE AVEC LES COLONIES ISRAÉLIENNES",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:44",
-      "date": "08/09",
-      "timestamp": 1788893085
     }
   ],
   "france": {
