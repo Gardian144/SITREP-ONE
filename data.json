@@ -1,7 +1,27 @@
 {
-  "last_update": "10/09 21:06",
+  "last_update": "10/09 23:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789077175",
+      "source": "BFMTV",
+      "text": "PLUSIEURS MORTS ET DES BLESSÉS DANS L'ACCIDENT D'UN CAR TRANSPORTANT DES TOURISTES NÉERLANDAIS EN SUISSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:52",
+      "date": "10/09",
+      "timestamp": 1789077175
+    },
+    {
+      "id": "BFMTV_1789074577",
+      "source": "BFMTV",
+      "text": "DROITS DE DOUANE: MARK CARNEY ASSURE QUE LE CANADA EST TOUJOURS \"PRÊT À SCELLER UN ACCORD JUSTE\" AVEC WASHINGTON",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:09",
+      "date": "10/09",
+      "timestamp": 1789074577
+    },
     {
       "id": "BFMTV_1789073267",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "04:32",
       "date": "09/09",
       "timestamp": 1788928336
-    },
-    {
-      "id": "BFMTV_1788927525",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: EN REPRÉSAILLES AUX FRAPPES AMÉRICAINES, LES GARDIENS DE LA RÉVOLUTION ATTAQUENT DES PÉTROLIERS LIÉS AUX ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:18",
-      "date": "09/09",
-      "timestamp": 1788927525
-    },
-    {
-      "id": "BFMTV_1788927251",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DÉCLARE AVOIR DÉTRUIT CINQ PÉTROLIERS IRANIENS, L'IRAN RIPOSTE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:14",
-      "date": "09/09",
-      "timestamp": 1788927251
     }
   ],
   "france": {
