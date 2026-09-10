@@ -1,7 +1,157 @@
 {
-  "last_update": "10/09 06:22",
+  "last_update": "10/09 11:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789039733",
+      "source": "BFMTV",
+      "text": "MANIFESTATIONS EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:28",
+      "date": "10/09",
+      "timestamp": 1789039733
+    },
+    {
+      "id": "BFMTV_1789039732",
+      "source": "BFMTV",
+      "text": "\"DES EXÉCUTIONS ILLÉGALES\": L'IRAN A EXÉCUTÉ 59 MANIFESTANTS ET DISSIDENTS POLITIQUES EN CINQ MOIS, ALERTE UNE ONG",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:28",
+      "date": "10/09",
+      "timestamp": 1789039732
+    },
+    {
+      "id": "BFMTV_1789039364",
+      "source": "BFMTV",
+      "text": "AU MOINS 20 MORTS APRÈS UN INCENDIE SUR UN CARGO BATTANT PAVILLON ÉTRANGER EN CHINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:22",
+      "date": "10/09",
+      "timestamp": 1789039364
+    },
+    {
+      "id": "BFMTV_1789038741",
+      "source": "BFMTV",
+      "text": "\"JE CROYAIS QUE NOUS ÉTIONS AMIS\": EN ÉTAT D'IVRESSE, ELLE PERCUTE UN VÉHICULE ET REGRETTE SON ARRESTATION ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:12",
+      "date": "10/09",
+      "timestamp": 1789038741
+    },
+    {
+      "id": "BFMTV_1789038317",
+      "source": "BFMTV",
+      "text": "\"L'ESPACE EST UNE ZONE ESSENTIELLE POUR NOTRE SÉCURITÉ\", DÉCLARE LA CHEFFE DE L'UE URSULA VON DER LEYEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:05",
+      "date": "10/09",
+      "timestamp": 1789038317
+    },
+    {
+      "id": "BFMTV_1789038284",
+      "source": "BFMTV",
+      "text": "\"IL FAUT RÊVER GRAND\": LE MESSAGE DE L'ASTRONAUTE SOPHIE ADENOT À LA JEUNESSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:04",
+      "date": "10/09",
+      "timestamp": 1789038284
+    },
+    {
+      "id": "BFMTV_1789038027",
+      "source": "BFMTV",
+      "text": "\"NOUS AURONS PLUS DE SOUTIEN POUR L'UKRAINE\": LE CHEF DE L'OTAN ASSURE QUE L'AIDE À L'UKRAINE NE DIMINUERA PAS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:00",
+      "date": "10/09",
+      "timestamp": 1789038027
+    },
+    {
+      "id": "OPEX360_1789035946",
+      "source": "OPEX360",
+      "text": "LES PAYS-BAS VEULENT ACQUÉRIR UN AVION D’ALERTE AVANCÉE SAAB GLOBALEYE AUPRÈS DE LA SUÈDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:25",
+      "date": "10/09",
+      "timestamp": 1789035946
+    },
+    {
+      "id": "BFMTV_1789030925",
+      "source": "BFMTV",
+      "text": "\"JE SUIS TOUJOURS AUSSI ÉMERVEILLÉE DANS L'ESPACE\": SOPHIE ADENOT DIALOGUE DEPUIS L'ISS AVEC EMMANUEL MACRON AU SOMMET INTERNATIONAL SUR L'ESPACE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:02",
+      "date": "10/09",
+      "timestamp": 1789030925
+    },
+    {
+      "id": "BFMTV_1789030869",
+      "source": "BFMTV",
+      "text": "LA BELGIQUE LANCE UN AVIS DE RECHERCHE APRÈS LA FUITE D'UN CENTRE PSYCHIATRIQUE D'UN HOMME INTERNÉ APRÈS UNE TENTATIVE DE MEURTRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:01",
+      "date": "10/09",
+      "timestamp": 1789030869
+    },
+    {
+      "id": "BFMTV_1789030692",
+      "source": "BFMTV",
+      "text": "AU MOINS CINQ PERSONNES SONT DÉCÉDÉES ET 87 DISPARUES APRÈS L’INCENDIE D’UN FERRY AUX PHILIPPINES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:58",
+      "date": "10/09",
+      "timestamp": 1789030692
+    },
+    {
+      "id": "BFMTV_1789030354",
+      "source": "BFMTV",
+      "text": "ESPACE : L'EUROPE DOIT DÉVELOPPER SES PROPRES \"VOLS HABITÉS\", AFFIRME EMMANUEL MACRON ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:52",
+      "date": "10/09",
+      "timestamp": 1789030354
+    },
+    {
+      "id": "BFMTV_1789030222",
+      "source": "BFMTV",
+      "text": "\"NOTRE EUROPE SPATIALE RESTE FRAGILE ET NOUS DEVONS ACCÉLÉRER\", SOUTIENT EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:50",
+      "date": "10/09",
+      "timestamp": 1789030222
+    },
+    {
+      "id": "BFMTV_1789030117",
+      "source": "BFMTV",
+      "text": "\"L'ESPACE N'EST PLUS UN SANCTUAIRE\": EMMANUEL MACRON APPELLE À UNE \"GOUVERNANCE PARTAGÉE\" DE L'ESPACE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:48",
+      "date": "10/09",
+      "timestamp": 1789030117
+    },
+    {
+      "id": "BFMTV_1789028647",
+      "source": "BFMTV",
+      "text": "KIM JONG-UN",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:24",
+      "date": "10/09",
+      "timestamp": 1789028647
+    },
     {
       "id": "BFMTV_1789021021",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "10:19",
       "date": "08/09",
       "timestamp": 1788862743
-    },
-    {
-      "id": "BFMTV_1788862743",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:19",
-      "date": "08/09",
-      "timestamp": 1788862743
-    },
-    {
-      "id": "BFMTV_1788862742",
-      "source": "BFMTV",
-      "text": "7-OCTOBRE: BENJAMIN NETANYAHU POINTÉ DU DOIGT PAR L'OPPOSITION ISRAÉLIENNE QUI L'ACCUSE D'AVOIR ÉTÉ INFORMÉ DE LA PRÉPARATION D'UNE ATTAQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:19",
-      "date": "08/09",
-      "timestamp": 1788862742
-    },
-    {
-      "id": "BFMTV_1788862581",
-      "source": "BFMTV",
-      "text": "ANTILLES FRANÇAISES, ISLANDE, CANADA... DONALD TRUMP PUBLIE UNE CARTE ANNEXANT AUX ÉTATS-UNIS PLUSIEURS TERRITOIRES DE L'ATLANTIQUE NORD",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:16",
-      "date": "08/09",
-      "timestamp": 1788862581
-    },
-    {
-      "id": "BFMTV_1788861876",
-      "source": "BFMTV",
-      "text": "\"ON NE PEUT PLUS Y FAIRE FACE\": LE PRÉSIDENT DE CEUTA EN APPELLE À L'UE POUR RÉSOUDRE LA CRISE MIGRATOIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:04",
-      "date": "08/09",
-      "timestamp": 1788861876
-    },
-    {
-      "id": "BFMTV_1788861747",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: \"NOUS SOMMES AU BORD DU GOUFFRE, DE L'EFFONDREMENT\", ALERTE JUAN JESÚS VIVAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:02",
-      "date": "08/09",
-      "timestamp": 1788861747
-    },
-    {
-      "id": "BFMTV_1788861205",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: \"LA SITUATION AUJOURD'HUI EST LOIN D'ÊTRE RÉGLÉE\", DÉCLARE LE DÉPUTÉ EUROPÉEN JAVIER ZARZALEJOS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:53",
-      "date": "08/09",
-      "timestamp": 1788861205
-    },
-    {
-      "id": "BFMTV_1788860597",
-      "source": "BFMTV",
-      "text": "UKRAINE: DES FRAPPES RUSSES SUR KIEV ONT FAIT AU MOINS DEUX MORTS ET SEPT BLESSÉS DANS LA NUIT DE LUNDI À MARDI",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:43",
-      "date": "08/09",
-      "timestamp": 1788860597
-    },
-    {
-      "id": "BFMTV_1788858409",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: APRÈS DE NOUVELLES FRAPPES, VOLODYMYR ZELENSKY DIT VOULOIR RENCONTRER DONALD TRUMP POUR PARLER DE LA DÉFENSE ANTIMISSILE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:06",
-      "date": "08/09",
-      "timestamp": 1788858409
-    },
-    {
-      "id": "BFMTV_1788857774",
-      "source": "BFMTV",
-      "text": "MEXIQUE: UN ENFANT SAUVÉ IN EXTREMIS ALORS QU'IL COURAIT SUR LA ROUTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:56",
-      "date": "08/09",
-      "timestamp": 1788857774
-    },
-    {
-      "id": "BFMTV_1788854932",
-      "source": "BFMTV",
-      "text": "\"8.000 PERSONNES S'INSCRIVENT PAR JOUR\": LE DÉFI DE L'ORGANISATION DE LA MESSE DU PAPE À PARIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:08",
-      "date": "08/09",
-      "timestamp": 1788854932
-    },
-    {
-      "id": "BFMTV_1788846056",
-      "source": "BFMTV",
-      "text": "2 MORTS À KIEV: POUTINE REPREND LES FRAPPES",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:40",
-      "date": "08/09",
-      "timestamp": 1788846056
-    },
-    {
-      "id": "BFMTV_1788843945",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA RUSSIE REPREND SES FRAPPES SUR KIEV APRÈS TROIS JOURS DE TRÊVE, AU MOINS DEUX MORTS ET SEPT BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:05",
-      "date": "08/09",
-      "timestamp": 1788843945
-    },
-    {
-      "id": "BFMTV_1788813076",
-      "source": "BFMTV",
-      "text": "LE CHOIX D'ELSA VIDAL – SOUTENIR L'UKRAINE, ÇA NOUS COÛTE VRAIMENT SI CHER ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:31",
-      "date": "07/09",
-      "timestamp": 1788813076
-    },
-    {
-      "id": "OPEX360_1788801961",
-      "source": "OPEX360",
-      "text": "LE PENTAGONE NE VEUT PLUS PUBLIER LES RAPPORTS D’ÉVALUATION SUR SES PROGRAMMES D’ARMEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:26",
-      "date": "07/09",
-      "timestamp": 1788801961
-    },
-    {
-      "id": "BFMTV_1788801799",
-      "source": "BFMTV",
-      "text": "SERBIE: LA DÉPOUILLE DE RATKO MLADIC, JUGÉ POUR CRIMES CONTRE L'HUMANITÉ, GLORIFIÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:23",
-      "date": "07/09",
-      "timestamp": 1788801799
     }
   ],
   "france": {
