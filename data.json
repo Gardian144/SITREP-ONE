@@ -1,7 +1,67 @@
 {
-  "last_update": "10/09 01:22",
+  "last_update": "10/09 06:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789021021",
+      "source": "BFMTV",
+      "text": "EN ROUTE VERS LA NORVÈGE, L'AVION DU PRÉSIDENT UKRAINIEN VOLODYMYR ZELENSKY A FAILLI ÊTRE TOUCHÉ PAR UN DRONE ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:17",
+      "date": "10/09",
+      "timestamp": 1789021021
+    },
+    {
+      "id": "BFMTV_1789020917",
+      "source": "BFMTV",
+      "text": "LE SECRÉTAIRE D'ÉTAT AMÉRICAIN MARCO RUBIO ESTIME QUE LE MEXIQUE N'EN FAIT \"PAS ASSEZ\" POUR LUTTER CONTRE LES CARTELS DE DROGUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:15",
+      "date": "10/09",
+      "timestamp": 1789020917
+    },
+    {
+      "id": "BFMTV_1789020698",
+      "source": "BFMTV",
+      "text": "LE NOUVEL AVION PRÉSIDENTIEL OFFERT PAR LE QATAR À DONALD TRUMP RETARDÉ AU DÉCOLLAGE PAR LE DÉPLOIEMENT ACCIDENTEL DU TOBOGGAN D'ÉVACUATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:11",
+      "date": "10/09",
+      "timestamp": 1789020698
+    },
+    {
+      "id": "BFMTV_1789020435",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: L'AVION DE VOLODYMYR ZELENSKY, EN ROUTE VERS LA NORVÈGE, A FAILLI ÊTRE TOUCHÉ PAR UN DRONE RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:07",
+      "date": "10/09",
+      "timestamp": 1789020435
+    },
+    {
+      "id": "BFMTV_1789014537",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP PROMET 5.000 DOLLARS SI SON PARTI GARDE LE CONTRÔLE DU CONGRÈS APRÈS LES ÉLECTIONS DE MI-MANDAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:28",
+      "date": "10/09",
+      "timestamp": 1789014537
+    },
+    {
+      "id": "BFMTV_1789014495",
+      "source": "BFMTV",
+      "text": "\"FAITES COMME SI J'ÉTAIS SUR LE BULLETIN\": DONALD TRUMP PROMET UN CHÈQUE DE 5.000 DOLLARS PAR CITOYEN SI SON PARTI GARDE LE CONTRÔLE DU CONGRÈS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:28",
+      "date": "10/09",
+      "timestamp": 1789014495
+    },
     {
       "id": "BFMTV_1788990680",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "17:23",
       "date": "07/09",
       "timestamp": 1788801799
-    },
-    {
-      "id": "BFMTV_1788801438",
-      "source": "BFMTV",
-      "text": "APRÈS LA VICTOIRE HISTORIQUE DE L'EXTRÊME DROITE EN ALLEMAGNE, LA RÉGION CENTRE-VAL DE LOIRE ENVISAGE L'ARRÊT DE SA COOPÉRATION AVEC LA SAXE-ANHALT",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:17",
-      "date": "07/09",
-      "timestamp": 1788801438
-    },
-    {
-      "id": "BFMTV_1788799431",
-      "source": "BFMTV",
-      "text": "VICTOIRE DE L'AFD EN SAXE-ANHALT: POURQUOI LE RN A PRIS SES DISTANCES AVEC LE PARTI D'EXTRÊME DROITE ALLEMAND",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:43",
-      "date": "07/09",
-      "timestamp": 1788799431
-    },
-    {
-      "id": "BFMTV_1788797564",
-      "source": "BFMTV",
-      "text": "UNE ENQUÊTE OUVERTE EN ESPAGNE APRÈS L'ENTRÉE DE DIZAINES DE MILLIERS DE MIGRANTS FIN JUILLET DANS L'ENCLAVE DE CEUTA",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:12",
-      "date": "07/09",
-      "timestamp": 1788797564
-    },
-    {
-      "id": "OPEX360_1788797117",
-      "source": "OPEX360",
-      "text": "LA SUÈDE VA ACQUÉRIR DES LANCE-ROQUETTES MULTIPLES M142 HIMARS AMÉRICAINS POUR 630 MILLIONS D’EUROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:05",
-      "date": "07/09",
-      "timestamp": 1788797117
-    },
-    {
-      "id": "BFMTV_1788797005",
-      "source": "BFMTV",
-      "text": "LES IMAGES DES OBSÈQUES RATKO MLADIC, LE \"BOUCHER DES BALKANS\" DONT BRUXELLES CONDAMNE LA \"GLORIFICATION\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:03",
-      "date": "07/09",
-      "timestamp": 1788797005
-    },
-    {
-      "id": "BFMTV_1788795878",
-      "source": "BFMTV",
-      "text": "INDONÉSIE: DES DIZAINES DE MILLIERS DE VOYAGEURS BLOQUÉS PAR L'ÉRUPTION D'UN VOLCAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:44",
-      "date": "07/09",
-      "timestamp": 1788795878
     }
   ],
   "france": {
