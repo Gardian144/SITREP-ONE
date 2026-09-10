@@ -1,7 +1,97 @@
 {
-  "last_update": "10/09 15:10",
+  "last_update": "10/09 18:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789061923",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS QUATRE MORTS ET 60 BLESSÉS DANS UNE FRAPPE RUSSE SUR UN CENTRE COMMERCIAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:38",
+      "date": "10/09",
+      "timestamp": 1789061923
+    },
+    {
+      "id": "OPEX360_1789061037",
+      "source": "OPEX360",
+      "text": "LA FRANCE ET LA SUÈDE VONT RENFORCER LEUR COOPÉRATION MILITAIRE DANS LE DOMAINE SPATIAL",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:23",
+      "date": "10/09",
+      "timestamp": 1789061037
+    },
+    {
+      "id": "BFMTV_1789060110",
+      "source": "BFMTV",
+      "text": "MIDTERMS: À DALLAS, DONALD TRUMP TENTE TOUT POUR REMOBILISER LES ÉLECTEURS RÉPUBLICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:08",
+      "date": "10/09",
+      "timestamp": 1789060110
+    },
+    {
+      "id": "OPEX360_1789057237",
+      "source": "OPEX360",
+      "text": "LE MARCHÉ DES FUTURS LANCE-ROQUETTES MULTIPLES DE L’ARMÉE DE TERRE A ÉTÉ NOTIFIÉ À MBDA ET À SAFRAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:20",
+      "date": "10/09",
+      "timestamp": 1789057237
+    },
+    {
+      "id": "BFMTV_1789056978",
+      "source": "BFMTV",
+      "text": "DEUX PERSONNES SECOURUES APRÈS UN AMERRISSAGE EN URGENCE DANS LES EAUX TURQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:16",
+      "date": "10/09",
+      "timestamp": 1789056978
+    },
+    {
+      "id": "BFMTV_1789055938",
+      "source": "BFMTV",
+      "text": "CORÉE DU NORD: LA FILLE DE KIM JONG-UN AURAIT UN FRÈRE OU UNE SŒUR PLUS JEUNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:58",
+      "date": "10/09",
+      "timestamp": 1789055938
+    },
+    {
+      "id": "BFMTV_1789055876",
+      "source": "BFMTV",
+      "text": "SOUTIEN À L'UKRAINE/PRÉSIDENTIELLE EN FRANCE: \"QUEL QUE SOIT LE RÉSULTAT, L'OTAN SERA LÀ, NOUS RESTONS UNIS ET FORTS\", ESTIME MARK RUTTE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:57",
+      "date": "10/09",
+      "timestamp": 1789055876
+    },
+    {
+      "id": "BFMTV_1789055174",
+      "source": "BFMTV",
+      "text": "11-SEPTEMBRE: UNE PÉTITION LANCÉE CONTRE LA PARTICIPATION DE ZOHRAN MAMDANI AUX COMMÉMORATIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:46",
+      "date": "10/09",
+      "timestamp": 1789055174
+    },
+    {
+      "id": "BFMTV_1789053760",
+      "source": "BFMTV",
+      "text": "DES ÉTRANGERS RECRUTÉS PAR LA RUSSIE POUR COMBATTRE EN UKRAINE: AMNESTY INTERNATIONAL DÉNONCE UNE \"TRAITE DES ÊTRES HUMAINS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:22",
+      "date": "10/09",
+      "timestamp": 1789053760
+    },
     {
       "id": "OPEX360_1789052474",
       "source": "OPEX360",
@@ -27,6 +117,16 @@
       "source": "BFMTV",
       "text": "7-OCTOBRE: L'ÉPOUSE DE BENJAMIN NETANYAHU VISÉE PAR UNE PLAINTE APRÈS AVOIR RELAYÉ UNE THÉORIE DU COMPLOT",
       "urgent": false,
+      "france_related": false,
+      "time": "14:53",
+      "date": "10/09",
+      "timestamp": 1789052036
+    },
+    {
+      "id": "BFMTV_1789052036",
+      "source": "BFMTV",
+      "text": "ATTAQUES DU 7 OCTOBRE 2023 DU HAMAS CONTRE ISRAËL",
+      "urgent": true,
       "france_related": false,
       "time": "14:53",
       "date": "10/09",
@@ -901,106 +1001,6 @@
       "time": "18:44",
       "date": "08/09",
       "timestamp": 1788893085
-    },
-    {
-      "id": "BFMTV_1788892784",
-      "source": "BFMTV",
-      "text": "\"LES DIRIGEANTS ONT MENTI\": LA VILLE DE NEW-YORK A CACHÉ DES INFORMATIONS SUR LA TOXICITÉ DE L'AIR APRÈS LE 11-SEPTEMBRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:39",
-      "date": "08/09",
-      "timestamp": 1788892784
-    },
-    {
-      "id": "BFMTV_1788890967",
-      "source": "BFMTV",
-      "text": "MARCO RUBIO DÉNONCE \"LES TENSIONS EN CISJORDANIE\", MAIS EXCLUT DES SANCTIONS CONTRE LA COLONISATION ISRAÉLIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:09",
-      "date": "08/09",
-      "timestamp": 1788890967
-    },
-    {
-      "id": "OPEX360_1788888468",
-      "source": "OPEX360",
-      "text": "EN 15 ANS, LES HUIT HÉLICOPTÈRES NH90 DE LA FORCE AÉRIENNE NÉO-ZÉLANDAISE ONT EFFECTUÉ PLUS DE 20 000 HEURES DE VOL",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:27",
-      "date": "08/09",
-      "timestamp": 1788888468
-    },
-    {
-      "id": "BFMTV_1788886577",
-      "source": "BFMTV",
-      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:56",
-      "date": "08/09",
-      "timestamp": 1788886577
-    },
-    {
-      "id": "BFMTV_1788886162",
-      "source": "BFMTV",
-      "text": "\"C'EST UN OVNI\": BSW, LE PARTI DE GAUCHE ANTI-IMMIGRATION QUI POURRAIT DONNER LE POUVOIR À L'AFD EN SAXE-ANHALT",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:49",
-      "date": "08/09",
-      "timestamp": 1788886162
-    },
-    {
-      "id": "OPEX360_1788883964",
-      "source": "OPEX360",
-      "text": "LA MARINE NATIONALE A REÇU SES DEUX PREMIERS AVIONS DE SURVEILLANCE MARITIME FALCON 2000 LXS «ALBATROS»",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:12",
-      "date": "08/09",
-      "timestamp": 1788883964
-    },
-    {
-      "id": "BFMTV_1788882937",
-      "source": "BFMTV",
-      "text": "ACCIDENT D'UN AVION AMAZON: LES IMAGES D'UN MEMBRE DE L'ÉQUIPAGE SAUTANT DE L'APPAREIL APRÈS LA COLLISION ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:55",
-      "date": "08/09",
-      "timestamp": 1788882937
-    },
-    {
-      "id": "BFMTV_1788882738",
-      "source": "BFMTV",
-      "text": "THAÏLANDE: UN FRANÇAIS VISÉ PAR UN ORDRE D'EXPULSION APRÈS AVOIR REFUSÉ L'ENTRÉE DE SON PARC ANIMALIER AUX ISRAÉLIENS",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:52",
-      "date": "08/09",
-      "timestamp": 1788882738
-    },
-    {
-      "id": "BFMTV_1788882667",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:51",
-      "date": "08/09",
-      "timestamp": 1788882667
-    },
-    {
-      "id": "BFMTV_1788882666",
-      "source": "BFMTV",
-      "text": "AU TÉLÉPHONE AVEC DONALD TRUMP, VLADIMIR POUTINE ASSURE NE PAS AVOIR DE \"PROJET AGRESSIF À L'ÉGARD DE L'EUROPE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:51",
-      "date": "08/09",
-      "timestamp": 1788882666
     }
   ],
   "france": {
