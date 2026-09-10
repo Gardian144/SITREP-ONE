@@ -1,7 +1,107 @@
 {
-  "last_update": "10/09 11:39",
+  "last_update": "10/09 15:10",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1789052474",
+      "source": "OPEX360",
+      "text": "L’ALLEMAGNE VA PORTER SES DÉPENSES MILITAIRES À 140 MILLIARDS D’EUROS EN 2027",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:01",
+      "date": "10/09",
+      "timestamp": 1789052474
+    },
+    {
+      "id": "BFMTV_1789052036",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:53",
+      "date": "10/09",
+      "timestamp": 1789052036
+    },
+    {
+      "id": "BFMTV_1789052036",
+      "source": "BFMTV",
+      "text": "7-OCTOBRE: L'ÉPOUSE DE BENJAMIN NETANYAHU VISÉE PAR UNE PLAINTE APRÈS AVOIR RELAYÉ UNE THÉORIE DU COMPLOT",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:53",
+      "date": "10/09",
+      "timestamp": 1789052036
+    },
+    {
+      "id": "BFMTV_1789050813",
+      "source": "BFMTV",
+      "text": "11-SEPTEMBRE: UN SPECTACLE DE DRONE RECONSTITUE LES TOURS JUMELLES EN HOMMAGE AUX VICTIMES",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:33",
+      "date": "10/09",
+      "timestamp": 1789050813
+    },
+    {
+      "id": "BFMTV_1789047248",
+      "source": "BFMTV",
+      "text": "AU MOINS CINQ MORTS ET 86 DISPARUS APRÈS L'INCENDIE D'UN FERRY AUX PHILIPPINES",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:34",
+      "date": "10/09",
+      "timestamp": 1789047248
+    },
+    {
+      "id": "BFMTV_1789046837",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV A FRAPPÉ LA SIBÉRIE AVEC DES DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:27",
+      "date": "10/09",
+      "timestamp": 1789046837
+    },
+    {
+      "id": "BFMTV_1789046785",
+      "source": "BFMTV",
+      "text": "\"PELICOT 2.0\": UNE FEMME MEURT EN AUTRICHE, SON MARI SUSPECTÉ DE L'AVOIR DROGUÉE POUR ABUSER D'ELLE SEXUELLEMENT ET LA LIVRER À D'AUTRES HOMMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:26",
+      "date": "10/09",
+      "timestamp": 1789046785
+    },
+    {
+      "id": "BFMTV_1789045962",
+      "source": "BFMTV",
+      "text": "MIDTERMS: DONALD TRUMP PROMET 5.000 DOLLARS PAR CITOYEN EN CAS DE VICTOIRE DE SON PARTI",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:12",
+      "date": "10/09",
+      "timestamp": 1789045962
+    },
+    {
+      "id": "BFMTV_1789043053",
+      "source": "BFMTV",
+      "text": "AU MOINS 25 MORTS APRÈS UN INCENDIE SUR UN CARGO BATTANT PAVILLON ÉTRANGER EN CHINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:24",
+      "date": "10/09",
+      "timestamp": 1789043053
+    },
+    {
+      "id": "BFMTV_1789040317",
+      "source": "BFMTV",
+      "text": "5.000 DOLLARS PAR ADULTE: DONALD TRUMP \"PEUT TOUJOURS DIRE CE QU'IL VEUT, C'EST LE CONGRÈS QUI VOTE\", EXPLIQUE JÉRÔME VIALA-GAUDEFROY, DOCTEUR EN CIVILISATION AMÉRICAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:38",
+      "date": "10/09",
+      "timestamp": 1789040317
+    },
     {
       "id": "BFMTV_1789039733",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "15:51",
       "date": "08/09",
       "timestamp": 1788882666
-    },
-    {
-      "id": "BFMTV_1788880650",
-      "source": "BFMTV",
-      "text": "L'IRAN AFFIRME AVOIR SAISI UN DRONE SOUS-MARIN AMÉRICAIN DANS LE DÉTROIT D'ORMUZ",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:17",
-      "date": "08/09",
-      "timestamp": 1788880650
-    },
-    {
-      "id": "BFMTV_1788880271",
-      "source": "BFMTV",
-      "text": "IA, SEMI-CONDUCTEURS ET QUANTIQUE: \"UN PROTOCOLE D'ENTENTE\" SIGNÉ ENTRE LA CORÉE DU SUD ET LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:11",
-      "date": "08/09",
-      "timestamp": 1788880271
-    },
-    {
-      "id": "OPEX360_1788875331",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE TERRE A REÇU 400 FUSILS BENELLI M4 AI DE CALIBRE 12 POUR LA LUTTE ANTIDRONE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:48",
-      "date": "08/09",
-      "timestamp": 1788875331
-    },
-    {
-      "id": "BFMTV_1788874286",
-      "source": "BFMTV",
-      "text": "\"CE QUE LA VILLE SAVAIT\": LE MAIRE DE NEW YORK ZOHRAN MAMDANI REND PUBLIC DES DOCUMENTS INÉDITS SUR LA TOXICITÉ DE L'AIR IMMÉDIATEMENT APRÈS LE 11-SEPTEMBRE ET ACCUSE SES PRÉDÉCESSEURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:31",
-      "date": "08/09",
-      "timestamp": 1788874286
-    },
-    {
-      "id": "BFMTV_1788872430",
-      "source": "BFMTV",
-      "text": "ITALIE: DU POULET FRIT GRATUIT À VIE EN ÉCHANGE D’UN TATOUAGE KFC",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:00",
-      "date": "08/09",
-      "timestamp": 1788872430
-    },
-    {
-      "id": "BFMTV_1788872300",
-      "source": "BFMTV",
-      "text": "DES \"VIOLENCES SANS PRÉCÉDENT\" EN CISJORDANIE: DOUZE PAYS, DONT LA FRANCE, ANNONCENT VOULOIR IMPOSER DES SANCTIONS SUR LE COMMERCE AVEC LES COLONIES",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:58",
-      "date": "08/09",
-      "timestamp": 1788872300
-    },
-    {
-      "id": "BFMTV_1788866154",
-      "source": "BFMTV",
-      "text": "\"TRÈS INVESTIE” LORS DU PROCÈS DE LINDSAY CLANCY, UNE AMÉRICAINE EST ACCUSÉE D’AVOIR TUÉ SON FILS DE DEUX ANS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:15",
-      "date": "08/09",
-      "timestamp": 1788866154
-    },
-    {
-      "id": "BFMTV_1788864875",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DÉVOILE DE NOUVELLES TENUES POUR SA \"SPACE FORCE\", TRÈS CRITIQUÉES POUR LEUR ESTHÉTIQUE PROCHE DES UNIFORMES NAZIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:54",
-      "date": "08/09",
-      "timestamp": 1788864875
-    },
-    {
-      "id": "OPEX360_1788863774",
-      "source": "OPEX360",
-      "text": "MBDA VA FOURNIR DES SYSTÈMES ANTIAÉRIENS SIMBAD RC À LA MARINE ESPAGNOLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:36",
-      "date": "08/09",
-      "timestamp": 1788863774
-    },
-    {
-      "id": "BFMTV_1788862743",
-      "source": "BFMTV",
-      "text": "ATTAQUES DU 7 OCTOBRE 2023 DU HAMAS CONTRE ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:19",
-      "date": "08/09",
-      "timestamp": 1788862743
     }
   ],
   "france": {
