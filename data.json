@@ -1,7 +1,147 @@
 {
-  "last_update": "11/09 11:07",
+  "last_update": "11/09 15:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789138773",
+      "source": "BFMTV",
+      "text": "\"NAZA\": L'ARMÉE ISRAÉLIENNE DÉMENT TUER SANS RETENUE DES CIVILS PALESTINIENS APRÈS LA DIFFUSION DU DOCUMENTAIRE À LA MOSTRA DE VENISE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:59",
+      "date": "11/09",
+      "timestamp": 1789138773
+    },
+    {
+      "id": "OPEX360_1789138184",
+      "source": "OPEX360",
+      "text": "KNDS FRANCE S’ASSOCIE AVEC WB ELECTRONICS ET AREX POUR PROPOSER SON CANON TRACTÉ 105 LG AUX FORCES POLONAISES",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:49",
+      "date": "11/09",
+      "timestamp": 1789138184
+    },
+    {
+      "id": "BFMTV_1789137606",
+      "source": "BFMTV",
+      "text": "11-SEPTEMBRE: PLUS DE 9000 MORTS, LES \"VICTIMES INVISIBLES\" DES ATTENTATS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:40",
+      "date": "11/09",
+      "timestamp": 1789137606
+    },
+    {
+      "id": "BFMTV_1789137457",
+      "source": "BFMTV",
+      "text": "25 ANS DU 11-SEPTEMBRE: NEW YORK COMMÉMORE LES VICTIMES DE LA 2E TOUR DU WOLRD TRADE CENTER",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:37",
+      "date": "11/09",
+      "timestamp": 1789137457
+    },
+    {
+      "id": "BFMTV_1789136014",
+      "source": "BFMTV",
+      "text": "11-SEPTEMBRE: DES PROCHES DE VICTIMES S'EN PRENNENT À L'ARABIE SAOUDITE ET INTERPELLENT DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:13",
+      "date": "11/09",
+      "timestamp": 1789136014
+    },
+    {
+      "id": "BFMTV_1789134516",
+      "source": "BFMTV",
+      "text": "TIANANMEN: DES MILITANTS DE LA MÉMOIRE CONDAMNÉS À DE LA PRISON À HONG KONG",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:48",
+      "date": "11/09",
+      "timestamp": 1789134516
+    },
+    {
+      "id": "BFMTV_1789134212",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT IRANIEN ESTIME QUE LES PRESSIONS DES ÉTATS-UNIS CONTRE SON PAYS ONT \"ATTEINT UN STADE CRITIQUE ET DANGEREUX\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:43",
+      "date": "11/09",
+      "timestamp": 1789134212
+    },
+    {
+      "id": "BFMTV_1789134212",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:43",
+      "date": "11/09",
+      "timestamp": 1789134212
+    },
+    {
+      "id": "BFMTV_1789134060",
+      "source": "BFMTV",
+      "text": "25 ANS DU 11-SEPTEMBRE: UNE MINUTE DE SILENCE EST OBSERVÉE AU PENTAGONE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:41",
+      "date": "11/09",
+      "timestamp": 1789134060
+    },
+    {
+      "id": "BFMTV_1789134014",
+      "source": "BFMTV",
+      "text": "SUISSE: AU MOINS CINQ MORTS ET 40 BLESSÉS DANS L'ACCIDENT D'UN CAR DE TOURISME",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:40",
+      "date": "11/09",
+      "timestamp": 1789134014
+    },
+    {
+      "id": "BFMTV_1789133384",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE SUÉDOIS SORTANT VEUT UN NOUVEAU MANDAT POUR \"RENDRE À LA SUÈDE SA GRANDEUR\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:29",
+      "date": "11/09",
+      "timestamp": 1789133384
+    },
+    {
+      "id": "BFMTV_1789132722",
+      "source": "BFMTV",
+      "text": "PHILIPPINES: 30 CORPS DÉCOUVERTS À BORD DE L'ÉPAVE D'UN FERRY TOUCHÉ PAR UN INCENDIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:18",
+      "date": "11/09",
+      "timestamp": 1789132722
+    },
+    {
+      "id": "BFMTV_1789132631",
+      "source": "BFMTV",
+      "text": "11-SEPTEMBRE: LES COMMÉMORATIONS DÉBUTENT À NEW YORK AVEC L'HYMNE AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:17",
+      "date": "11/09",
+      "timestamp": 1789132631
+    },
+    {
+      "id": "BFMTV_1789131907",
+      "source": "BFMTV",
+      "text": "\"LE CHOC, LA SIDÉRATION\": MIKAEL BENFREDJ, SURVIVANT DU 11-SEPTEMBRE, RACONTE LE MOMENT OÙ LES AVIONS S'ENCASTRENT DANS LES TOURS JUMELLES DE NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:05",
+      "date": "11/09",
+      "timestamp": 1789131907
+    },
     {
       "id": "OPEX360_1789124532",
       "source": "OPEX360",
@@ -861,146 +1001,6 @@
       "time": "15:31",
       "date": "09/09",
       "timestamp": 1788967870
-    },
-    {
-      "id": "BFMTV_1788967584",
-      "source": "BFMTV",
-      "text": "NORVÈGE: LES FUNÉRAILLES DU ROI HARALD V SUR BFM2",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:26",
-      "date": "09/09",
-      "timestamp": 1788967584
-    },
-    {
-      "id": "BFMTV_1788966847",
-      "source": "BFMTV",
-      "text": "DEUX BLESSÉS GRAVES APRÈS UN INCIDENT DANS UNE CENTRALE HYDROÉLECTRIQUE EN SUISSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:14",
-      "date": "09/09",
-      "timestamp": 1788966847
-    },
-    {
-      "id": "BFMTV_1788966196",
-      "source": "BFMTV",
-      "text": "CHINE: 50 ANS APRÈS LA MORT DE MAO, UNE FOULE SE RASSEMBLE DANS SA VILLE NATALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:03",
-      "date": "09/09",
-      "timestamp": 1788966196
-    },
-    {
-      "id": "BFMTV_1788966165",
-      "source": "BFMTV",
-      "text": "\"L'ENNEMI DOIT S'ABSTENIR DE TOUTE NOUVELLE MENACE\": L'IRAN AFFIRME QUE LA GUERRE PEUT PRENDRE FIN SI LES ETATS-UNIS RÉPONDENT À SES DEMANDES",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:02",
-      "date": "09/09",
-      "timestamp": 1788966165
-    },
-    {
-      "id": "BFMTV_1788965381",
-      "source": "BFMTV",
-      "text": "EN IRLANDE, UN DRONE NON IDENTIFIÉ A ÉTÉ APERÇU À QUELQUES JOURS DE LA VISITE DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:49",
-      "date": "09/09",
-      "timestamp": 1788965381
-    },
-    {
-      "id": "BFMTV_1788965293",
-      "source": "BFMTV",
-      "text": "FUNÉRAILES DU ROI HARALD V: LE FILS DE LA NOUVELLE REINE DE NORVÈGE, CONDAMNÉ EN PREMIÈRE INSTANCE À 4 ANS DE PRISON POUR VIOLS, PRÉSENT AUX OBSÈQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:48",
-      "date": "09/09",
-      "timestamp": 1788965293
-    },
-    {
-      "id": "BFMTV_1788965234",
-      "source": "BFMTV",
-      "text": "NORVÈGE: LA DÉPOUILLE DU ROI HARALD V CONDUITE EN SA DERNIÈRE DEMEURE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:47",
-      "date": "09/09",
-      "timestamp": 1788965234
-    },
-    {
-      "id": "BFMTV_1788965177",
-      "source": "BFMTV",
-      "text": "LE PRINCE WILLIAM, VOLODYMYR ZELENSKY....CHEFS D'ÉTATS ET DE GOUVERNEMENTS AINSI QUE LES TÊTES COURONNÉES SUIVENT LA FAMILLE ROYALE DE NORVÈGE LORS DES FUNÉRAILLES DU ROI HARALD V",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:46",
-      "date": "09/09",
-      "timestamp": 1788965177
-    },
-    {
-      "id": "BFMTV_1788965109",
-      "source": "BFMTV",
-      "text": "SÉBASTIEN LECORNU ARRIVE À LA CATHÉDRALE D'OSLO POUR LES OBSÈQUES DU ROI HARALD V DE NORVÈGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:45",
-      "date": "09/09",
-      "timestamp": 1788965109
-    },
-    {
-      "id": "BFMTV_1788963335",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ORGANISE UN SHOW INÉDIT À DALLAS POUR SAUVER LES RÉPUBLICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:15",
-      "date": "09/09",
-      "timestamp": 1788963335
-    },
-    {
-      "id": "BFMTV_1788962999",
-      "source": "BFMTV",
-      "text": "IMDB REMPLACE “ISRAËL” PAR “TERRITOIRES PALESTINIENS” DANS PLUSIEURS FICHES DE PRÉSENTATION DE FILMS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:09",
-      "date": "09/09",
-      "timestamp": 1788962999
-    },
-    {
-      "id": "OPEX360_1788962841",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES ENVISAGE DE COMMANDER DEUX PATROUILLEURS HAUTURIERS SUPPLÉMENTAIRES EN 2027",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:07",
-      "date": "09/09",
-      "timestamp": 1788962841
-    },
-    {
-      "id": "BFMTV_1788960463",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: L'AÉROPORT LONDRES-HEATHROW PARALYSÉ APRÈS UNE PANNE DU CONTRÔLE AÉRIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:27",
-      "date": "09/09",
-      "timestamp": 1788960463
-    },
-    {
-      "id": "BFMTV_1788958591",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP PRÉTEND AVOIR ÉTÉ SAUVÉ PAR LES POMPIERS LE 11 SEPTEMBRE 2001",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:56",
-      "date": "09/09",
-      "timestamp": 1788958591
     }
   ],
   "france": {
