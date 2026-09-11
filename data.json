@@ -1,7 +1,157 @@
 {
-  "last_update": "11/09 05:59",
+  "last_update": "11/09 11:07",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1789124532",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES VA SOUTENIR LE PREMIER TIR DU LANCEUR PRIVÉ «BAGUETTE ONE», CONÇU PAR HYPRSPACE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:02",
+      "date": "11/09",
+      "timestamp": 1789124532
+    },
+    {
+      "id": "BFMTV_1789124452",
+      "source": "BFMTV",
+      "text": "RDC: AU MOINS 24 PERSONNES, DONT DE NOMBREUX ENFANTS, SONT MORTES DANS UN INCENDIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:00",
+      "date": "11/09",
+      "timestamp": 1789124452
+    },
+    {
+      "id": "BFMTV_1789122324",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP RÉINVENTE SON 11-SEPTEMBRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:25",
+      "date": "11/09",
+      "timestamp": 1789122324
+    },
+    {
+      "id": "BFMTV_1789121909",
+      "source": "BFMTV",
+      "text": "11-SEPTEMBRE: DONALD TRUMP ABSENT À L'HOMMAGE À NEW YORK, IL SE REND À LA CÉRÉMONIE AU PENTAGONE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:18",
+      "date": "11/09",
+      "timestamp": 1789121909
+    },
+    {
+      "id": "BFMTV_1789121681",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN ADOLESCENT DE 15 ANS, SEUL SURVIVANT D'UN NAUFRAGE, SECOURU",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:14",
+      "date": "11/09",
+      "timestamp": 1789121681
+    },
+    {
+      "id": "BFMTV_1789121033",
+      "source": "BFMTV",
+      "text": "LE CHANCELIER ALLEMAND FRIEDRICH MERZ VISÉ PAR UNE PLAINTE EN DIFFAMATION DE L'AFD APRÈS SES PROPOS SUR LE \"NETTOYAGE ETHNIQUE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:03",
+      "date": "11/09",
+      "timestamp": 1789121033
+    },
+    {
+      "id": "BFMTV_1789119051",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: \"SI TU AIMES TANT LE MEXIQUE, DÉGAGE DE LÀ\", DÉCLARE JD VANCE À UNE PERSONNE AGITANT UN DRAPEAU MEXICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:30",
+      "date": "11/09",
+      "timestamp": 1789119051
+    },
+    {
+      "id": "BFMTV_1789118000",
+      "source": "BFMTV",
+      "text": "MORT DE CHARLIE KIRK: UN AN APRÈS, DES STATUES RENDANT HOMMAGE AU MILITANT CONSERVATEUR AMÉRICAIN RENDUES PUBLIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:13",
+      "date": "11/09",
+      "timestamp": 1789118000
+    },
+    {
+      "id": "BFMTV_1789116898",
+      "source": "BFMTV",
+      "text": "UN FRANÇAIS QUI REFUSAIT LES ISRAÉLIENS DANS SON ZOO EN THAÏLANDE ET VISÉ PAR UN ORDRE D'EXPULSION SE DIT \"PRÊT À QUITTER LE PAYS\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:54",
+      "date": "11/09",
+      "timestamp": 1789116898
+    },
+    {
+      "id": "BFMTV_1789116320",
+      "source": "BFMTV",
+      "text": "\"JE FAIS LE SERMENT AU PLUS GRAND PRÉSIDENT DES ÉTATS-UNIS\": DONALD TRUMP FAIT JURER À SES PARTISANS D'ALLER VOTER",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:45",
+      "date": "11/09",
+      "timestamp": 1789116320
+    },
+    {
+      "id": "BFMTV_1789115624",
+      "source": "BFMTV",
+      "text": "UKRAINE: 8 MORTS ET 120 BLESSÉS EN 24H DANS LES FRAPPES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:33",
+      "date": "11/09",
+      "timestamp": 1789115624
+    },
+    {
+      "id": "BFMTV_1789115355",
+      "source": "BFMTV",
+      "text": "\"SI TU AIMES TANT LE MEXIQUE, DÉGAGE DE LÀ\": JD VANCE PREND À PARTIE UN MANIFESTANT QUI A BRANDI UN DRAPEAU MEXICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:29",
+      "date": "11/09",
+      "timestamp": 1789115355
+    },
+    {
+      "id": "BFMTV_1789115087",
+      "source": "BFMTV",
+      "text": "11-SEPTEMBRE: POURQUOI DONALD TRUMP EST ABSENT DES COMMÉMORATIONS À NEW YORK DES 25 ANS DES ATTENTATS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:24",
+      "date": "11/09",
+      "timestamp": 1789115087
+    },
+    {
+      "id": "BFMTV_1789114962",
+      "source": "BFMTV",
+      "text": "\"LES DÉMOCRATES SONT LE PARTI DE LA HAINE\", LANCE LE VICE-PRÉSIDENT AMÉRICAIN, JD VANCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:22",
+      "date": "11/09",
+      "timestamp": 1789114962
+    },
+    {
+      "id": "BFMTV_1789114696",
+      "source": "BFMTV",
+      "text": "\"VOUS ÊTES LES PIRES\": DONALD TRUMP S'EN PREND DE NOUVEAU À UNE JOURNALISTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:18",
+      "date": "11/09",
+      "timestamp": 1789114696
+    },
     {
       "id": "BFMTV_1789077175",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "12:56",
       "date": "09/09",
       "timestamp": 1788958591
-    },
-    {
-      "id": "BFMTV_1788958498",
-      "source": "BFMTV",
-      "text": "11-SEPTEMBRE: DONALD TRUMP NE PARTICIPERA PAS AUX COMMÉMORATIONS À NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:54",
-      "date": "09/09",
-      "timestamp": 1788958498
-    },
-    {
-      "id": "BFMTV_1788953591",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP LAISSE ENTENDRE QU'IL A ÉTÉ ÉVACUÉ EN URGENCE PAR DES POMPIERS LORS DU 11-SEPTEMBRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:33",
-      "date": "09/09",
-      "timestamp": 1788953591
-    },
-    {
-      "id": "BFMTV_1788952087",
-      "source": "BFMTV",
-      "text": "LA VILLE DE NEW YORK A CACHÉ DES INFORMATIONS SUR LA TOXICITÉ DE L'AIR APRÈS LE 11-SEPTEMBRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:08",
-      "date": "09/09",
-      "timestamp": 1788952087
-    },
-    {
-      "id": "OPEX360_1788950433",
-      "source": "OPEX360",
-      "text": "UN RAPPORT PARLEMENTAIRE DÉNONCE DES MANQUEMENTS LORS DE L’ACHAT D’AVIONS F-35A PAR LA SUISSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:40",
-      "date": "09/09",
-      "timestamp": 1788950433
-    },
-    {
-      "id": "BFMTV_1788949089",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: PLUSIEURS NAVIRES EN FEU DANS LE GOLFE APRÈS DES TIRS IRANIENS DANS LA RÉGION",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:18",
-      "date": "09/09",
-      "timestamp": 1788949089
-    },
-    {
-      "id": "BFMTV_1788946259",
-      "source": "BFMTV",
-      "text": "EN UKRAINE, KIEV EST CIBLÉE PAR L’ARMÉE RUSSE QUI DIT VISER DES USINES DE FABRICATION DE DRONES ET DE MISSILES, MAIS DES BÂTIMENTS CIVILS SONT AUSSI TOUCHÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:30",
-      "date": "09/09",
-      "timestamp": 1788946259
-    },
-    {
-      "id": "BFMTV_1788945830",
-      "source": "BFMTV",
-      "text": "\"TRUMPAPALOOZA\": À L'APPROCHE DES ÉLECTIONS DE MI-MANDAT, DONALD TRUMP SE PLACE AU CENTRE DU JEU MALGRÉ SON IMPOPULARITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:23",
-      "date": "09/09",
-      "timestamp": 1788945830
-    },
-    {
-      "id": "BFMTV_1788942489",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP RACONTE AVOIR ÉTÉ ÉVACUÉ PAR DES POMPIERS APRÈS LE 11-SEPTEMBRE, UN RÉCIT AUX ALLURES DE MENSONGE REMIS EN CAUSE PAR LES MÉDIAS AMÉRICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:28",
-      "date": "09/09",
-      "timestamp": 1788942489
-    },
-    {
-      "id": "BFMTV_1788940807",
-      "source": "BFMTV",
-      "text": "INJECTION D'ACIDE HYALURONIQUE, DOULEURS THORACIQUES... MORT EN THAÏLANDE D'UN BRITANNIQUE VENU POUR UN AGRANDISSEMENT DE PÉNIS, UNE ENQUÊTE OUVERTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:00",
-      "date": "09/09",
-      "timestamp": 1788940807
-    },
-    {
-      "id": "BFMTV_1788936941",
-      "source": "BFMTV",
-      "text": "CUBA NE REDEVIENDRA \"JAMAIS\" UNE COLONIE: LA HAVANE RÉPOND À LA CARTE PUBLIÉE PAR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:55",
-      "date": "09/09",
-      "timestamp": 1788936941
-    },
-    {
-      "id": "BFMTV_1788935080",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA RUSSIE ANNONCE AVOIR ABATTU 596 DRONES UKRAINIENS DANS LA NUIT, AU MOINS QUATRE MORTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:24",
-      "date": "09/09",
-      "timestamp": 1788935080
-    },
-    {
-      "id": "BFMTV_1788934603",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:16",
-      "date": "09/09",
-      "timestamp": 1788934603
-    },
-    {
-      "id": "BFMTV_1788929812",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP SALUE LA \"TRÈS BONNE SOIRÉE\" DE L'EXTRÊME DROITE ALLEMANDE APRÈS SA VICTOIRE HISTORIQUE AUX ÉLECTIONS  RÉGIONALES EN SAXE-ANHALT",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:56",
-      "date": "09/09",
-      "timestamp": 1788929812
-    },
-    {
-      "id": "BFMTV_1788929382",
-      "source": "BFMTV",
-      "text": "REGAIN DE TENSION AU MOYEN-ORIENT: L'IRAN RÉPOND AUX ATTAQUES DES ÉTATS-UNIS SUR SES PÉTROLIERS PAR DES TIRS SUR LES POSITIONS AMÉRICAINES EN JORDANIE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:49",
-      "date": "09/09",
-      "timestamp": 1788929382
-    },
-    {
-      "id": "BFMTV_1788928336",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN ATTAQUE UNE BASE MILITAIRE AMÉRICAINE EN JORDANIE ET UNE VINGTAINE DE BATEAUX EN RIPOSTE À DES FRAPPES SUR DES PÉTROLIERS IRANIENS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:32",
-      "date": "09/09",
-      "timestamp": 1788928336
     }
   ],
   "france": {
