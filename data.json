@@ -1,7 +1,37 @@
 {
-  "last_update": "11/09 18:32",
+  "last_update": "11/09 21:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789157552",
+      "source": "BFMTV",
+      "text": "25 ANS APRÈS: L'HOMMAGE AUX VICTIMES DES ATTENTATS DU 11-SEPTEMBRE À NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:12",
+      "date": "11/09",
+      "timestamp": 1789157552
+    },
+    {
+      "id": "BFMTV_1789153854",
+      "source": "BFMTV",
+      "text": "\"À CE MOMENT-LÀ, LE MONDE BASCULE\": MIKAEL, QUI TRAVAILLAIT À NEW YORK, SE SOUVIENT DES ATTENTATS DU 11 SEPTEMBRE 2001",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:10",
+      "date": "11/09",
+      "timestamp": 1789153854
+    },
+    {
+      "id": "BFMTV_1789153850",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY APPELLE DONALD TRUMP À ADOPTER DES SANCTIONS \"SÉVÈRES\" CONTRE LA RUSSIE \"DÈS MAINTENANT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:10",
+      "date": "11/09",
+      "timestamp": 1789153850
+    },
     {
       "id": "BFMTV_1789150991",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "19:10",
       "date": "09/09",
       "timestamp": 1788981035
-    },
-    {
-      "id": "BFMTV_1788980791",
-      "source": "BFMTV",
-      "text": "PAPOUASIE-NOUVELLE-GUINÉE: UN SOIGNEUR TUÉ PAR UN CROCODILE LORS DE SON NOURRISSAGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:06",
-      "date": "09/09",
-      "timestamp": 1788980791
-    },
-    {
-      "id": "BFMTV_1788980144",
-      "source": "BFMTV",
-      "text": "ALORS QU'IL DÉCOLLAIT POUR LA NORVÈGE, L'AVION DE VOLODYMYR ZELENSKY A FAILLI ÊTRE TOUCHÉ PAR UN DRONE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:55",
-      "date": "09/09",
-      "timestamp": 1788980144
-    },
-    {
-      "id": "BFMTV_1788978449",
-      "source": "BFMTV",
-      "text": "LA VILLA DE NICOLAS CAGE AU BORD DE L'EFFONDREMENT À MALIBU À CAUSE D'UNE TEMPÊTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:27",
-      "date": "09/09",
-      "timestamp": 1788978449
     }
   ],
   "france": {
