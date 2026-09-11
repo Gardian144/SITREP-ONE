@@ -1,7 +1,37 @@
 {
-  "last_update": "11/09 21:19",
+  "last_update": "11/09 23:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789163627",
+      "source": "BFMTV",
+      "text": "11-SEPTEMBRE: \"LE TERRORISME SERA VAINCU ET NOUS N'OUBLIERONS JAMAIS\", AFFIRMENT LES ÉTATS-UNIS À L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:53",
+      "date": "11/09",
+      "timestamp": 1789163627
+    },
+    {
+      "id": "BFMTV_1789163179",
+      "source": "BFMTV",
+      "text": "11-SEPTEMBRE: UNE MINUTE DE SILENCE OBSERVÉE À L'ONU, 25 ANS APRÈS L'ÉVENEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:46",
+      "date": "11/09",
+      "timestamp": 1789163179
+    },
+    {
+      "id": "BFMTV_1789162403",
+      "source": "BFMTV",
+      "text": "\"BIENVENUE À CEUX QUI VEULENT ENTRER DANS LA LUTTE\": JEAN-LUC MÉLENCHON N'EXCLUT PAS UNE COALITION AVEC LES AUTRES PARTIS DE GAUCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:33",
+      "date": "11/09",
+      "timestamp": 1789162403
+    },
     {
       "id": "BFMTV_1789157552",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "19:40",
       "date": "09/09",
       "timestamp": 1788982801
-    },
-    {
-      "id": "BFMTV_1788981591",
-      "source": "BFMTV",
-      "text": "L'AVION DE VOLODYMYR ZELENSKY A FAILLI ÊTRE PERCUTÉ ALORS QU'IL SE RENDAIT EN NORVÈGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:19",
-      "date": "09/09",
-      "timestamp": 1788981591
-    },
-    {
-      "id": "BFMTV_1788981045",
-      "source": "BFMTV",
-      "text": "L'AVION DE VOLODYMYR ZELENSKY A FAILLI ÊTRE TOUCHÉ PAR UN DRONE ALORS QU'IL SE RENDAIT EN NORVÈGE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:10",
-      "date": "09/09",
-      "timestamp": 1788981045
-    },
-    {
-      "id": "BFMTV_1788981035",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LE DRONE QUI A TRAVERSÉ L'ESPACE AÉRIEN MOLDAVE, D'OÙ L'AVION DE VOLODYMYR ZELENSKY DÉCOLLAIT, ÉTAIT UN DRONE SHAHED",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:10",
-      "date": "09/09",
-      "timestamp": 1788981035
     }
   ],
   "france": {
