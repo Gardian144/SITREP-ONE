@@ -1,7 +1,47 @@
 {
-  "last_update": "12/09 10:53",
+  "last_update": "12/09 13:53",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1789218302",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES VA LANCER DE NOUVELLES ÉTUDES SUR UN MOTEUR D’AVION DE COMBAT DE 6E GÉNÉRATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:05",
+      "date": "12/09",
+      "timestamp": 1789218302
+    },
+    {
+      "id": "BFMTV_1789217236",
+      "source": "BFMTV",
+      "text": "ELLE A REFUSÉ D'AVORTER EN RAISON D'UN ANOMALIE FOETALE: BATAILLE JUDICIAIRE ENTRE UNE MÈRE PORTEUSE ET DES PARENTS AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:47",
+      "date": "12/09",
+      "timestamp": 1789217236
+    },
+    {
+      "id": "BFMTV_1789215278",
+      "source": "BFMTV",
+      "text": "DES TOURISTES PORTÉS PAR DES OUGANDAIS: LA PRATIQUE QUI CHOQUE ET RAPPELLE L’ÉPOQUE COLONIALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:14",
+      "date": "12/09",
+      "timestamp": 1789215278
+    },
+    {
+      "id": "BFMTV_1789211781",
+      "source": "BFMTV",
+      "text": "AU MOINS QUATRE MORTS DANS DES FRAPPES RUSSES EN UKRAINE, DONT DEUX DANS UNE USINE ARCELORMITTAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:16",
+      "date": "12/09",
+      "timestamp": 1789211781
+    },
     {
       "id": "OPEX360_1789209014",
       "source": "OPEX360",
@@ -961,46 +1001,6 @@
       "time": "09:02",
       "date": "10/09",
       "timestamp": 1789030925
-    },
-    {
-      "id": "BFMTV_1789030869",
-      "source": "BFMTV",
-      "text": "LA BELGIQUE LANCE UN AVIS DE RECHERCHE APRÈS LA FUITE D'UN CENTRE PSYCHIATRIQUE D'UN HOMME INTERNÉ APRÈS UNE TENTATIVE DE MEURTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:01",
-      "date": "10/09",
-      "timestamp": 1789030869
-    },
-    {
-      "id": "BFMTV_1789030692",
-      "source": "BFMTV",
-      "text": "AU MOINS CINQ PERSONNES SONT DÉCÉDÉES ET 87 DISPARUES APRÈS L’INCENDIE D’UN FERRY AUX PHILIPPINES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:58",
-      "date": "10/09",
-      "timestamp": 1789030692
-    },
-    {
-      "id": "BFMTV_1789030354",
-      "source": "BFMTV",
-      "text": "ESPACE : L'EUROPE DOIT DÉVELOPPER SES PROPRES \"VOLS HABITÉS\", AFFIRME EMMANUEL MACRON ",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:52",
-      "date": "10/09",
-      "timestamp": 1789030354
-    },
-    {
-      "id": "BFMTV_1789030222",
-      "source": "BFMTV",
-      "text": "\"NOTRE EUROPE SPATIALE RESTE FRAGILE ET NOUS DEVONS ACCÉLÉRER\", SOUTIENT EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:50",
-      "date": "10/09",
-      "timestamp": 1789030222
     }
   ],
   "france": {
