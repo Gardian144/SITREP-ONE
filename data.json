@@ -1,7 +1,37 @@
 {
-  "last_update": "12/09 16:46",
+  "last_update": "12/09 18:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789238732",
+      "source": "BFMTV",
+      "text": "\"J'ÉTAIS EN FAVEUR DE SON INNOCENCE\": UNE JURÉE DU PROCÈS DE LINDSAY CLANCY RÉVÈLE LES COULISSES DU VOTE APRÈS L'ANNULATION DU PROCÈS POUR TRIPLE INFANTICIDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:45",
+      "date": "12/09",
+      "timestamp": 1789238732
+    },
+    {
+      "id": "BFMTV_1789237546",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: TROIS MILITAIRES ET CINQ HOMMES ARMÉS TUÉS DANS UNE OPÉRATION DES GARDIENS DE LA RÉVOLUTION DANS L'EST DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:25",
+      "date": "12/09",
+      "timestamp": 1789237546
+    },
+    {
+      "id": "BFMTV_1789233694",
+      "source": "BFMTV",
+      "text": "LE KREMLIN JUGE \"IMPOSSIBLE\" UNE RENCONTRE ENTRE VLADIMIR POUTINE ET VOLODYMYR ZELENSKY AU G20 DE MIAMI",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:21",
+      "date": "12/09",
+      "timestamp": 1789233694
+    },
     {
       "id": "OPEX360_1789222453",
       "source": "OPEX360",
@@ -971,36 +1001,6 @@
       "time": "11:05",
       "date": "10/09",
       "timestamp": 1789038317
-    },
-    {
-      "id": "BFMTV_1789038284",
-      "source": "BFMTV",
-      "text": "\"IL FAUT RÊVER GRAND\": LE MESSAGE DE L'ASTRONAUTE SOPHIE ADENOT À LA JEUNESSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:04",
-      "date": "10/09",
-      "timestamp": 1789038284
-    },
-    {
-      "id": "BFMTV_1789038027",
-      "source": "BFMTV",
-      "text": "\"NOUS AURONS PLUS DE SOUTIEN POUR L'UKRAINE\": LE CHEF DE L'OTAN ASSURE QUE L'AIDE À L'UKRAINE NE DIMINUERA PAS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:00",
-      "date": "10/09",
-      "timestamp": 1789038027
-    },
-    {
-      "id": "OPEX360_1789035946",
-      "source": "OPEX360",
-      "text": "LES PAYS-BAS VEULENT ACQUÉRIR UN AVION D’ALERTE AVANCÉE SAAB GLOBALEYE AUPRÈS DE LA SUÈDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:25",
-      "date": "10/09",
-      "timestamp": 1789035946
     }
   ],
   "france": {
