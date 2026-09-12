@@ -1,7 +1,17 @@
 {
-  "last_update": "12/09 13:53",
+  "last_update": "12/09 16:46",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1789222453",
+      "source": "OPEX360",
+      "text": "LA HAUSSE DU BUDGET DES ARMÉES MET LES EFFECTIFS DE LA DIRECTION GÉNÉRALE DE L’ARMEMENT SOUS TENSION",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:14",
+      "date": "12/09",
+      "timestamp": 1789222453
+    },
     {
       "id": "OPEX360_1789218302",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "10:25",
       "date": "10/09",
       "timestamp": 1789035946
-    },
-    {
-      "id": "BFMTV_1789030925",
-      "source": "BFMTV",
-      "text": "\"JE SUIS TOUJOURS AUSSI ÉMERVEILLÉE DANS L'ESPACE\": SOPHIE ADENOT DIALOGUE DEPUIS L'ISS AVEC EMMANUEL MACRON AU SOMMET INTERNATIONAL SUR L'ESPACE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:02",
-      "date": "10/09",
-      "timestamp": 1789030925
     }
   ],
   "france": {
