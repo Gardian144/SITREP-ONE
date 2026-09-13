@@ -1,7 +1,37 @@
 {
-  "last_update": "13/09 01:00",
+  "last_update": "13/09 06:09",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789275340",
+      "source": "BFMTV",
+      "text": "NAUFRAGE D'UN FERRY INDONÉSIEN: UN MORT, 102 PERSONNES SECOURUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:55",
+      "date": "13/09",
+      "timestamp": 1789275340
+    },
+    {
+      "id": "BFMTV_1789274658",
+      "source": "BFMTV",
+      "text": "PRÈS DE 300 ARRESTATIONS AU CHILI LORS DE MANIFESTATIONS POUR L'ANNIVERSAIRE DU COUP D'ÉTAT DE PINOCHET",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:44",
+      "date": "13/09",
+      "timestamp": 1789274658
+    },
+    {
+      "id": "BFMTV_1789272680",
+      "source": "BFMTV",
+      "text": "INDONÉSIE: LE CONTACT PERDU AVEC UN FERRY, 243 PERSONNES À BORD",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:11",
+      "date": "13/09",
+      "timestamp": 1789272680
+    },
     {
       "id": "BFMTV_1789238732",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "11:28",
       "date": "10/09",
       "timestamp": 1789039732
-    },
-    {
-      "id": "BFMTV_1789039364",
-      "source": "BFMTV",
-      "text": "AU MOINS 20 MORTS APRÈS UN INCENDIE SUR UN CARGO BATTANT PAVILLON ÉTRANGER EN CHINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:22",
-      "date": "10/09",
-      "timestamp": 1789039364
-    },
-    {
-      "id": "BFMTV_1789038741",
-      "source": "BFMTV",
-      "text": "\"JE CROYAIS QUE NOUS ÉTIONS AMIS\": EN ÉTAT D'IVRESSE, ELLE PERCUTE UN VÉHICULE ET REGRETTE SON ARRESTATION ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:12",
-      "date": "10/09",
-      "timestamp": 1789038741
-    },
-    {
-      "id": "BFMTV_1789038317",
-      "source": "BFMTV",
-      "text": "\"L'ESPACE EST UNE ZONE ESSENTIELLE POUR NOTRE SÉCURITÉ\", DÉCLARE LA CHEFFE DE L'UE URSULA VON DER LEYEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:05",
-      "date": "10/09",
-      "timestamp": 1789038317
     }
   ],
   "france": {
