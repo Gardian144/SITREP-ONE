@@ -1,7 +1,27 @@
 {
-  "last_update": "13/09 21:00",
+  "last_update": "13/09 23:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789336990",
+      "source": "BFMTV",
+      "text": "UNE CROIX GAMMÉE TAGUÉE SUR UNE MOSQUÉE À BRUXELLES, UNE ENQUÊTE OUVERTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:03",
+      "date": "13/09",
+      "timestamp": 1789336990
+    },
+    {
+      "id": "BFMTV_1789335952",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: OMAN ANNONCE LE REPORT DE LA RÉUNION PRÉVUE LUNDI ENTRE L'IRAN ET DES PAYS DU GOLFE SUR LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:45",
+      "date": "13/09",
+      "timestamp": 1789335952
+    },
     {
       "id": "BFMTV_1789332411",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "17:08",
       "date": "10/09",
       "timestamp": 1789060110
-    },
-    {
-      "id": "OPEX360_1789057237",
-      "source": "OPEX360",
-      "text": "LE MARCHÉ DES FUTURS LANCE-ROQUETTES MULTIPLES DE L’ARMÉE DE TERRE A ÉTÉ NOTIFIÉ À MBDA ET À SAFRAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:20",
-      "date": "10/09",
-      "timestamp": 1789057237
-    },
-    {
-      "id": "BFMTV_1789056978",
-      "source": "BFMTV",
-      "text": "DEUX PERSONNES SECOURUES APRÈS UN AMERRISSAGE EN URGENCE DANS LES EAUX TURQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:16",
-      "date": "10/09",
-      "timestamp": 1789056978
     }
   ],
   "france": {
