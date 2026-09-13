@@ -1,7 +1,37 @@
 {
-  "last_update": "13/09 11:51",
+  "last_update": "13/09 15:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789312129",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UN TRAIN POUR VARSOVIE FRAPPÉ PAR UN DRONE RUSSE, LA COMPAGNIE DES CHEMINS DE FER UKRAINIENNE ALERTE SUR \"UNE ATTAQUE SYSTÉMIQUE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:08",
+      "date": "13/09",
+      "timestamp": 1789312129
+    },
+    {
+      "id": "BFMTV_1789308088",
+      "source": "BFMTV",
+      "text": "NAUFRAGE D'UN FERRY EN INDONÉSIE: AU MOINS SIX MORTS, 129 PERSONNES RECHERCHÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:01",
+      "date": "13/09",
+      "timestamp": 1789308088
+    },
+    {
+      "id": "BFMTV_1789307971",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ESTIME QUE VOLODYMYR ZELENSKY \"DOIT ARRÊTER\" DE FRAPPER LES RAFFINERIES DE DIESEL EN RUSSIE FACE À L'ENVOLÉE DES PRIX À LA POMPE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:59",
+      "date": "13/09",
+      "timestamp": 1789307971
+    },
     {
       "id": "OPEX360_1789297992",
       "source": "OPEX360",
@@ -971,36 +1001,6 @@
       "time": "14:53",
       "date": "10/09",
       "timestamp": 1789052036
-    },
-    {
-      "id": "BFMTV_1789052036",
-      "source": "BFMTV",
-      "text": "ATTAQUES DU 7 OCTOBRE 2023 DU HAMAS CONTRE ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:53",
-      "date": "10/09",
-      "timestamp": 1789052036
-    },
-    {
-      "id": "BFMTV_1789050813",
-      "source": "BFMTV",
-      "text": "11-SEPTEMBRE: UN SPECTACLE DE DRONE RECONSTITUE LES TOURS JUMELLES EN HOMMAGE AUX VICTIMES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:33",
-      "date": "10/09",
-      "timestamp": 1789050813
-    },
-    {
-      "id": "BFMTV_1789047248",
-      "source": "BFMTV",
-      "text": "AU MOINS CINQ MORTS ET 86 DISPARUS APRÈS L'INCENDIE D'UN FERRY AUX PHILIPPINES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:34",
-      "date": "10/09",
-      "timestamp": 1789047248
     }
   ],
   "france": {
