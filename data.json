@@ -1,7 +1,47 @@
 {
-  "last_update": "14/09 01:04",
+  "last_update": "14/09 06:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789365177",
+      "source": "BFMTV",
+      "text": "\"FATIGUÉS DE LA PEUR\": DES MILLIERS DE MEXICAINS MANIFESTENT CONTRE LE CARTEL DE SINALOA À CULIACÁN",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:52",
+      "date": "14/09",
+      "timestamp": 1789365177
+    },
+    {
+      "id": "BFMTV_1789361838",
+      "source": "BFMTV",
+      "text": "\"ILS FONT CE QUE NOUS FAISONS\": DONALD TRUMP MINIMISE LES ACCUSATIONS DE PARTAGE DE RENSEIGNEMENTS ENTRE LA CHINE ET L’IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:57",
+      "date": "14/09",
+      "timestamp": 1789361838
+    },
+    {
+      "id": "BFMTV_1789360778",
+      "source": "BFMTV",
+      "text": "LES SOCIAUX-DÉMOCRATES \"PRÊTS\" À GOUVERNER EN SUÈDE APRÈS DES ÉLECTIONS LÉGISLATIVES SANS VAINQUEUR NET",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:39",
+      "date": "14/09",
+      "timestamp": 1789360778
+    },
+    {
+      "id": "BFMTV_1789360173",
+      "source": "BFMTV",
+      "text": "UN HOMME HOSPITALISÉ EN AUSTRALIE APRÈS UNE ATTAQUE DE REQUIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:29",
+      "date": "14/09",
+      "timestamp": 1789360173
+    },
     {
       "id": "BFMTV_1789336990",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "18:38",
       "date": "10/09",
       "timestamp": 1789065506
-    },
-    {
-      "id": "BFMTV_1789061924",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:38",
-      "date": "10/09",
-      "timestamp": 1789061924
-    },
-    {
-      "id": "BFMTV_1789061923",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS QUATRE MORTS ET 60 BLESSÉS DANS UNE FRAPPE RUSSE SUR UN CENTRE COMMERCIAL",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:38",
-      "date": "10/09",
-      "timestamp": 1789061923
-    },
-    {
-      "id": "OPEX360_1789061037",
-      "source": "OPEX360",
-      "text": "LA FRANCE ET LA SUÈDE VONT RENFORCER LEUR COOPÉRATION MILITAIRE DANS LE DOMAINE SPATIAL",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:23",
-      "date": "10/09",
-      "timestamp": 1789061037
-    },
-    {
-      "id": "BFMTV_1789060110",
-      "source": "BFMTV",
-      "text": "MIDTERMS: À DALLAS, DONALD TRUMP TENTE TOUT POUR REMOBILISER LES ÉLECTEURS RÉPUBLICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:08",
-      "date": "10/09",
-      "timestamp": 1789060110
     }
   ],
   "france": {
