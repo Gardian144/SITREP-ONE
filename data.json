@@ -1,7 +1,137 @@
 {
-  "last_update": "14/09 06:17",
+  "last_update": "14/09 13:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789389318",
+      "source": "BFMTV",
+      "text": "SOLDAT AMÉRICAIN SAUVÉ EN IRAN: \"C'EST UN TYPE D'OPÉRATION TRÈS COMPLEXE À MENER\", INDIQUE CET ANCIEN OFFICIER DES FORCES SPÉCIALES",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:35",
+      "date": "14/09",
+      "timestamp": 1789389318
+    },
+    {
+      "id": "BFMTV_1789388877",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: QU’EST-CE QUE \"SKYSHIELD\", LE PROJET SOUTENU PAR PLUSIEURS CANDIDATS À L’ÉLECTION PRÉSIDENTIELLE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:27",
+      "date": "14/09",
+      "timestamp": 1789388877
+    },
+    {
+      "id": "BFMTV_1789388731",
+      "source": "BFMTV",
+      "text": "UN DRONE PRÉSUMÉ RUSSE REPÊCHÉ AU LARGE DE LA POLOGNE AU LENDEMAIN DES FRAPPES EN UKRAINE PRÈS DE LA FRONTIÈRE",
+      "urgent": true,
+      "france_related": true,
+      "time": "12:25",
+      "date": "14/09",
+      "timestamp": 1789388731
+    },
+    {
+      "id": "BFMTV_1789386849",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"MONSIEUR ZELENSKY DOIT ARRÊTER DE FRAPPER LE DIESEL EN RUSSIE\", DÉCLARE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:54",
+      "date": "14/09",
+      "timestamp": 1789386849
+    },
+    {
+      "id": "BFMTV_1789386233",
+      "source": "BFMTV",
+      "text": "\"LA CHOSE LA PLUS TERRIFIANTE QUE J'AI JAMAIS VUE\": L'AVIATEUR AMÉRICAIN SECOURU EN AVRIL RACONTE SON CRASH DANS LE DÉSERT IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:43",
+      "date": "14/09",
+      "timestamp": 1789386233
+    },
+    {
+      "id": "BFMTV_1789385666",
+      "source": "BFMTV",
+      "text": "LE MINISTRE ISRAÉLIEN DE LA CULTURE MENACE DE RETIRER LA CITOYENNETÉ À DES CINÉASTES EN RAISON D'UN DOCUMENTAIRE SUR GAZA",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:34",
+      "date": "14/09",
+      "timestamp": 1789385666
+    },
+    {
+      "id": "BFMTV_1789385125",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UNE STATUE DE CHARLIE KIRK VANDALISÉE À PHOENIX QUELQUES JOURS APRÈS SON INAUGURATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:25",
+      "date": "14/09",
+      "timestamp": 1789385125
+    },
+    {
+      "id": "BFMTV_1789384385",
+      "source": "BFMTV",
+      "text": "SYDNEY SWEENEY ACCUSÉE DE “SEXUALISER LE SPORT FÉMININ” DANS UNE PUBLICITÉ POUR DES PARIS SPORTIFS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:13",
+      "date": "14/09",
+      "timestamp": 1789384385
+    },
+    {
+      "id": "OPEX360_1789383260",
+      "source": "OPEX360",
+      "text": "LA MARINE NATIONALE VA ACQUÉRIR DES DRONES DE SURFACE «D’ENDURANCE» POUR ESCORTER SES PORTE-HÉLICOPTÈRES",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:54",
+      "date": "14/09",
+      "timestamp": 1789383260
+    },
+    {
+      "id": "BFMTV_1789379519",
+      "source": "BFMTV",
+      "text": "FRAPPE RUSSE SUR UN TRAIN À LA FRONTIÈRE POLONAISE: \"UN MOYEN D'INTIMIDER LES EUROPÉENS ET LES OCCIDENTAUX\", POUR PIEYRE-ALEXANDRE ANGLADE (ENSEMBLE)",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:51",
+      "date": "14/09",
+      "timestamp": 1789379519
+    },
+    {
+      "id": "BFMTV_1789379318",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: JEAN-NOËL BARROT DÉNONCE UNE FRAPPE \"INACCEPTABLE\" CONTRE UN TRAIN VISANT À \"DÉSUNIR\" LES ALLIÉS DE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:48",
+      "date": "14/09",
+      "timestamp": 1789379318
+    },
+    {
+      "id": "BFMTV_1789377675",
+      "source": "BFMTV",
+      "text": "FRAPPE RUSSE CONTRE UN TRAIN EN UKRAINE: \"DESTINÉE À EFFRAYER LES PAYS OCCIDENTAUX\", AFFIRME KAJA KALLAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:21",
+      "date": "14/09",
+      "timestamp": 1789377675
+    },
+    {
+      "id": "BFMTV_1789377621",
+      "source": "BFMTV",
+      "text": "\"NOUS PARTAGEONS LES MÊMES VALEURS\": LE PREMIER MINISTRE CANADIEN VEUT FORMER \"UNE ALLIANCE UNIQUE\" AVEC L'UE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:20",
+      "date": "14/09",
+      "timestamp": 1789377621
+    },
     {
       "id": "BFMTV_1789365177",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "08:45",
       "date": "11/09",
       "timestamp": 1789116320
-    },
-    {
-      "id": "BFMTV_1789115624",
-      "source": "BFMTV",
-      "text": "UKRAINE: 8 MORTS ET 120 BLESSÉS EN 24H DANS LES FRAPPES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:33",
-      "date": "11/09",
-      "timestamp": 1789115624
-    },
-    {
-      "id": "BFMTV_1789115355",
-      "source": "BFMTV",
-      "text": "\"SI TU AIMES TANT LE MEXIQUE, DÉGAGE DE LÀ\": JD VANCE PREND À PARTIE UN MANIFESTANT QUI A BRANDI UN DRAPEAU MEXICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:29",
-      "date": "11/09",
-      "timestamp": 1789115355
-    },
-    {
-      "id": "BFMTV_1789115087",
-      "source": "BFMTV",
-      "text": "11-SEPTEMBRE: POURQUOI DONALD TRUMP EST ABSENT DES COMMÉMORATIONS À NEW YORK DES 25 ANS DES ATTENTATS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:24",
-      "date": "11/09",
-      "timestamp": 1789115087
-    },
-    {
-      "id": "BFMTV_1789114962",
-      "source": "BFMTV",
-      "text": "\"LES DÉMOCRATES SONT LE PARTI DE LA HAINE\", LANCE LE VICE-PRÉSIDENT AMÉRICAIN, JD VANCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:22",
-      "date": "11/09",
-      "timestamp": 1789114962
-    },
-    {
-      "id": "BFMTV_1789114696",
-      "source": "BFMTV",
-      "text": "\"VOUS ÊTES LES PIRES\": DONALD TRUMP S'EN PREND DE NOUVEAU À UNE JOURNALISTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:18",
-      "date": "11/09",
-      "timestamp": 1789114696
-    },
-    {
-      "id": "BFMTV_1789077175",
-      "source": "BFMTV",
-      "text": "PLUSIEURS MORTS ET DES BLESSÉS DANS L'ACCIDENT D'UN CAR TRANSPORTANT DES TOURISTES NÉERLANDAIS EN SUISSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:52",
-      "date": "10/09",
-      "timestamp": 1789077175
-    },
-    {
-      "id": "BFMTV_1789074577",
-      "source": "BFMTV",
-      "text": "DROITS DE DOUANE: MARK CARNEY ASSURE QUE LE CANADA EST TOUJOURS \"PRÊT À SCELLER UN ACCORD JUSTE\" AVEC WASHINGTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:09",
-      "date": "10/09",
-      "timestamp": 1789074577
-    },
-    {
-      "id": "BFMTV_1789073267",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"IL NE FAUT JAMAIS FAIRE CONFIANCE À POUTINE\", DÉCLARE MARK CARNEY",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:47",
-      "date": "10/09",
-      "timestamp": 1789073267
-    },
-    {
-      "id": "BFMTV_1789073010",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DIT PRÉVOIR DE RENCONTRER DONALD TRUMP FIN SEPTEMBRE À NEW YORK",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:43",
-      "date": "10/09",
-      "timestamp": 1789073010
-    },
-    {
-      "id": "BFMTV_1789071374",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL - HEZBOLLAH",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:16",
-      "date": "10/09",
-      "timestamp": 1789071374
-    },
-    {
-      "id": "BFMTV_1789071373",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: ISRAËL ASSURE AVOIR DÉTRUIT DES INFRASTRUCTURES SOUTERRAINES DU HEZBOLLAH AU LIBAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:16",
-      "date": "10/09",
-      "timestamp": 1789071373
-    },
-    {
-      "id": "BFMTV_1789066612",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES DÉTAILS DE L'AIDE FRANÇAISE À L'ARMÉE UKRAINIENNE",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:56",
-      "date": "10/09",
-      "timestamp": 1789066612
-    },
-    {
-      "id": "BFMTV_1789065506",
-      "source": "BFMTV",
-      "text": "NIGERIA: UN INFLUENCEUR CRITIQUE DU GOUVERNEMENT ASSASSINÉ EN PLEINE CAMPAGNE PRÉSIDENTIELLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:38",
-      "date": "10/09",
-      "timestamp": 1789065506
     }
   ],
   "france": {
