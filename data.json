@@ -1,7 +1,77 @@
 {
-  "last_update": "15/09 19:00",
+  "last_update": "15/09 22:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789507677",
+      "source": "BFMTV",
+      "text": "UN FRANÇAIS ET SA COMPAGNE TUÉS PAR LEUR GARDIEN DANS LE SUD DU PORTUGAL",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:27",
+      "date": "15/09",
+      "timestamp": 1789507677
+    },
+    {
+      "id": "BFMTV_1789504516",
+      "source": "BFMTV",
+      "text": "POUR LE PRÉSIDENT DE LA FINLANDE, DONALD TRUMP A \"FAIT DU BIEN\" À L'OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:35",
+      "date": "15/09",
+      "timestamp": 1789504516
+    },
+    {
+      "id": "BFMTV_1789504138",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UN BRITANNIQUE PORTÉ DISPARU APRÈS AVOIR ÉTÉ ENRÔLÉ DE FORCE DANS L'ARMÉE RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:28",
+      "date": "15/09",
+      "timestamp": 1789504138
+    },
+    {
+      "id": "BFMTV_1789501776",
+      "source": "BFMTV",
+      "text": "PRÉCARITÉ: DES ÉTUDIANTES ANGLOPHONES VENDENT LEURS OVOCYTES POUR PAYER LEURS ÉTUDES",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:49",
+      "date": "15/09",
+      "timestamp": 1789501776
+    },
+    {
+      "id": "BFMTV_1789501016",
+      "source": "BFMTV",
+      "text": "MARIAGE DE DONALD TRUMP JR PAYÉ PAR UN RUSSE: \"LE PRÉSIDENT NE SAIT PAS QUI EST CETTE PERSONNE\", SELON LE MINISTRE DE LA JUSTICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:36",
+      "date": "15/09",
+      "timestamp": 1789501016
+    },
+    {
+      "id": "BFMTV_1789500909",
+      "source": "BFMTV",
+      "text": "UN JUGE DÉCIDE QUE LE NOM DE TRUMP NE PEUT PAS ÊTRE AFFICHÉ SUR LE KENNEDY CENTER, LE PRÉSIDENT AMÉRICAIN ANNONCE QUE LE CONSEIL D'ADMINISTRATION A VOTÉ SA FERMETURE IMMÉDIATE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:35",
+      "date": "15/09",
+      "timestamp": 1789500909
+    },
+    {
+      "id": "BFMTV_1789498468",
+      "source": "BFMTV",
+      "text": "\"L'IA EST EXTRAORDINAIREMENT BÉNÉFIQUE POUR NOTRE SOCIÉTÉ\", SELON LE MINISTRE AMÉRICAIN DE LA JUSTICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:54",
+      "date": "15/09",
+      "timestamp": 1789498468
+    },
     {
       "id": "BFMTV_1789497091",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "04:55",
       "date": "13/09",
       "timestamp": 1789275340
-    },
-    {
-      "id": "BFMTV_1789274658",
-      "source": "BFMTV",
-      "text": "PRÈS DE 300 ARRESTATIONS AU CHILI LORS DE MANIFESTATIONS POUR L'ANNIVERSAIRE DU COUP D'ÉTAT DE PINOCHET",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:44",
-      "date": "13/09",
-      "timestamp": 1789274658
-    },
-    {
-      "id": "BFMTV_1789272680",
-      "source": "BFMTV",
-      "text": "INDONÉSIE: LE CONTACT PERDU AVEC UN FERRY, 243 PERSONNES À BORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:11",
-      "date": "13/09",
-      "timestamp": 1789272680
-    },
-    {
-      "id": "BFMTV_1789238732",
-      "source": "BFMTV",
-      "text": "\"J'ÉTAIS EN FAVEUR DE SON INNOCENCE\": UNE JURÉE DU PROCÈS DE LINDSAY CLANCY RÉVÈLE LES COULISSES DU VOTE APRÈS L'ANNULATION DU PROCÈS POUR TRIPLE INFANTICIDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:45",
-      "date": "12/09",
-      "timestamp": 1789238732
-    },
-    {
-      "id": "BFMTV_1789237546",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN: TROIS MILITAIRES ET CINQ HOMMES ARMÉS TUÉS DANS UNE OPÉRATION DES GARDIENS DE LA RÉVOLUTION DANS L'EST DU PAYS",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:25",
-      "date": "12/09",
-      "timestamp": 1789237546
-    },
-    {
-      "id": "BFMTV_1789233694",
-      "source": "BFMTV",
-      "text": "LE KREMLIN JUGE \"IMPOSSIBLE\" UNE RENCONTRE ENTRE VLADIMIR POUTINE ET VOLODYMYR ZELENSKY AU G20 DE MIAMI",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:21",
-      "date": "12/09",
-      "timestamp": 1789233694
-    },
-    {
-      "id": "OPEX360_1789222453",
-      "source": "OPEX360",
-      "text": "LA HAUSSE DU BUDGET DES ARMÉES MET LES EFFECTIFS DE LA DIRECTION GÉNÉRALE DE L’ARMEMENT SOUS TENSION",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:14",
-      "date": "12/09",
-      "timestamp": 1789222453
-    },
-    {
-      "id": "OPEX360_1789218302",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES VA LANCER DE NOUVELLES ÉTUDES SUR UN MOTEUR D’AVION DE COMBAT DE 6E GÉNÉRATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:05",
-      "date": "12/09",
-      "timestamp": 1789218302
     }
   ],
   "france": {
