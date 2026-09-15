@@ -1,7 +1,47 @@
 {
-  "last_update": "15/09 05:23",
+  "last_update": "15/09 10:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789465177",
+      "source": "BFMTV",
+      "text": "LA COUR SUPRÊME AMÉRICAINE REJETTE LE RECOURS DE DONALD TRUMP POUR RESTREINDRE LE VOTE PAR CORRESPONDANCE LORS DES ÉLECTIONS CRUCIALES DE MI-MANDAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:39",
+      "date": "15/09",
+      "timestamp": 1789465177
+    },
+    {
+      "id": "BFMTV_1789464302",
+      "source": "BFMTV",
+      "text": "LITUANIE: DES AVIONS DE CHASSE DE L'OTAN ABATTENT UN DRONE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:25",
+      "date": "15/09",
+      "timestamp": 1789464302
+    },
+    {
+      "id": "BFMTV_1789456013",
+      "source": "BFMTV",
+      "text": "L'ARMÉE DANOISE AFFIRME QU'UNE FRÉGATE RUSSE A TIRÉ DES FUSÉES ÉCLAIRANTES SUR UN HÉLICOPTÈRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:06",
+      "date": "15/09",
+      "timestamp": 1789456013
+    },
+    {
+      "id": "BFMTV_1789451392",
+      "source": "BFMTV",
+      "text": "LE FILS DE DONALD TRUMP CONFIRME QU'UN HOMME D'AFFAIRES RUSSE A FINANCÉ DES FESTIVITÉS LIÉES À SON MARIAGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:49",
+      "date": "15/09",
+      "timestamp": 1789451392
+    },
     {
       "id": "BFMTV_1789448854",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "19:10",
       "date": "11/09",
       "timestamp": 1789153854
-    },
-    {
-      "id": "BFMTV_1789153850",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY APPELLE DONALD TRUMP À ADOPTER DES SANCTIONS \"SÉVÈRES\" CONTRE LA RUSSIE \"DÈS MAINTENANT\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:10",
-      "date": "11/09",
-      "timestamp": 1789153850
-    },
-    {
-      "id": "BFMTV_1789150991",
-      "source": "BFMTV",
-      "text": "DEUX MORTS ET NEUF BLESSÉS APRÈS L'ATTAQUE DE PLUSIEURS STATIONS-SERVICE À KIEV PAR DES DRONES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:23",
-      "date": "11/09",
-      "timestamp": 1789150991
-    },
-    {
-      "id": "BFMTV_1789150615",
-      "source": "BFMTV",
-      "text": "LE PROJET DE LOI SUR L'AIDE À MOURIR REJETÉ PAR LES DÉPUTÉS BRITANNIQUES AVEC 286 VOTES CONTRE ET 270 POUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:16",
-      "date": "11/09",
-      "timestamp": 1789150615
-    },
-    {
-      "id": "OPEX360_1789148382",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES A COMMANDÉ DES DRONES TACTIQUES LÉGERS CAPA-X POUR LA MARINE NATIONALE ET L’ARMÉE DE TERRE",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:39",
-      "date": "11/09",
-      "timestamp": 1789148382
     }
   ],
   "france": {
