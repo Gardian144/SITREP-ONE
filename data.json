@@ -1,7 +1,97 @@
 {
-  "last_update": "16/09 18:27",
+  "last_update": "16/09 21:34",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789592817",
+      "source": "BFMTV",
+      "text": "INONDATIONS AU NÉPAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:06",
+      "date": "16/09",
+      "timestamp": 1789592817
+    },
+    {
+      "id": "BFMTV_1789592816",
+      "source": "BFMTV",
+      "text": "UN NOUVEAU BILAN FAIT ÉTAT DE 6.150 PERSONNES DISPARUES AU NÉPAL APRÈS LES INONDATIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:06",
+      "date": "16/09",
+      "timestamp": 1789592816
+    },
+    {
+      "id": "BFMTV_1789592532",
+      "source": "BFMTV",
+      "text": "UNE SÉRIE DE \"DÉCISIONS IMPRUDENTES\": LA FAMILLE DE CHARLIE KIRK ACCUSE LES RESPONSABLES DE L’UTAH DE NE PAS AVOIR EMPÊCHÉ L’ASSASSINAT DE L’ACTIVISTE CONSERVATEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:02",
+      "date": "16/09",
+      "timestamp": 1789592532
+    },
+    {
+      "id": "BFMTV_1789587180",
+      "source": "BFMTV",
+      "text": "INDÉPENDANCE DE LA FED: \"ON RESTE DANS NOTRE COULOIR\", SE DÉFEND SON PRÉSIDENT, KEVIN WARSH",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:33",
+      "date": "16/09",
+      "timestamp": 1789587180
+    },
+    {
+      "id": "BFMTV_1789586896",
+      "source": "BFMTV",
+      "text": "BRAQUAGE DE KIM KARDASHIAN: 10 ANS APRÈS SON AGRESSION À PARIS, LA STAR OBTIENT UN EURO SYMBOLIQUE DE DOMMAGES ET INTÉRÊTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:28",
+      "date": "16/09",
+      "timestamp": 1789586896
+    },
+    {
+      "id": "BFMTV_1789586586",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: LES IMAGES DE L'ARRESTATION DE L'ANCIEN FOOTBALLEUR RAHEEM STERLING",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:23",
+      "date": "16/09",
+      "timestamp": 1789586586
+    },
+    {
+      "id": "BFMTV_1789585893",
+      "source": "BFMTV",
+      "text": "HAUSSE DES TAUX AUX ÉTATS-UNIS: \"C'ÉTAIT NOTRE DÉCISION\", DIT LE PRÉSIDENT DE LA FED REFUSANT DE COMMENTER TOUTE DISCUSSION AVEC DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:11",
+      "date": "16/09",
+      "timestamp": 1789585893
+    },
+    {
+      "id": "BFMTV_1789584531",
+      "source": "BFMTV",
+      "text": "AUX ÉTATS-UNIS, L'INFLATION EST \"TROP ÉLEVÉE, DEPUIS TROP LONGTEMPS\", DIT LE PRÉSIDENT DE LA FED",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:48",
+      "date": "16/09",
+      "timestamp": 1789584531
+    },
+    {
+      "id": "BFMTV_1789582879",
+      "source": "BFMTV",
+      "text": "UN GARDIEN DE D9 ANGLAISE A REFUSÉ DE DEVENIR ROI EN OUGANDA",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:21",
+      "date": "16/09",
+      "timestamp": 1789582879
+    },
     {
       "id": "BFMTV_1789581284",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "18:27",
       "date": "14/09",
       "timestamp": 1789410454
-    },
-    {
-      "id": "OPEX360_1789406988",
-      "source": "OPEX360",
-      "text": "À SON TOUR, LA FINLANDE REJOINT LE CONCEPT DE DISSUASION AVANCÉE PROPOSÉE PAR LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:29",
-      "date": "14/09",
-      "timestamp": 1789406988
-    },
-    {
-      "id": "BFMTV_1789406411",
-      "source": "BFMTV",
-      "text": "AU MOINS 63 PERSONNES DE LA COMMUNAUTÉ LGBT+ ARRÊTÉES EN TURQUIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:20",
-      "date": "14/09",
-      "timestamp": 1789406411
-    },
-    {
-      "id": "BFMTV_1789405122",
-      "source": "BFMTV",
-      "text": "LUTTE CONTRE LA FRAUDE: 870.000 AMÉRICAINS SUSPENDUS DÉFINITIVEMENT DE L'OBTENTION DE PRÊTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:58",
-      "date": "14/09",
-      "timestamp": 1789405122
-    },
-    {
-      "id": "OPEX360_1789402347",
-      "source": "OPEX360",
-      "text": "LA MARINE UKRAINIENNE DIT AVOIR REMPORTÉ LE PREMIER COMBAT NAVAL ENTRE DRONES DE L’HISTOIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:12",
-      "date": "14/09",
-      "timestamp": 1789402347
-    },
-    {
-      "id": "BFMTV_1789401951",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME UNE NOUVELLE FOIS ÊTRE \"OUVERT\" À LA DISCUSSION AVEC L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:05",
-      "date": "14/09",
-      "timestamp": 1789401951
-    },
-    {
-      "id": "BFMTV_1789401571",
-      "source": "BFMTV",
-      "text": "LE RÉSEAU FERROVIAIRE, \"COLONNE VERTÉBRALE DE LA RÉSISTANCE UKRAINIENNE\" DÉSORMAIS CIBLE PRIVILÉGIÉE DE VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:59",
-      "date": "14/09",
-      "timestamp": 1789401571
-    },
-    {
-      "id": "BFMTV_1789400862",
-      "source": "BFMTV",
-      "text": "ROUTES FERMÉES, TRAFIC FERROVIAIRE PERTURBÉ... LES IMAGES DES CRUES SOUDAINES DANS L'EST DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:47",
-      "date": "14/09",
-      "timestamp": 1789400862
-    },
-    {
-      "id": "BFMTV_1789400026",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: L’EUROPE S’INDIGNE DES FRAPPES RUSSES SUR UN TRAIN PRÈS DE LA POLOGNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:33",
-      "date": "14/09",
-      "timestamp": 1789400026
-    },
-    {
-      "id": "BFMTV_1789399782",
-      "source": "BFMTV",
-      "text": "IA: LE VICE-PRÉSIDENT AMÉRICAIN DÉFEND UNE RÉGLEMENTATION DU SECTEUR \"DE MANIÈRE INTELLIGENTE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:29",
-      "date": "14/09",
-      "timestamp": 1789399782
     }
   ],
   "france": {
