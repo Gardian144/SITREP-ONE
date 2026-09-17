@@ -1,7 +1,17 @@
 {
-  "last_update": "17/09 08:54",
+  "last_update": "17/09 14:06",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1789641978",
+      "source": "OPEX360",
+      "text": "KNDS FRANCE VA ÉQUIPER 126 HÉLICOPTÈRES D’ATTAQUE LÉGERS INDIENS PRACHAND AVEC SA TOURELLE THL20 DE 20 MM",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:46",
+      "date": "17/09",
+      "timestamp": 1789641978
+    },
     {
       "id": "BFMTV_1789633299",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "21:55",
       "date": "14/09",
       "timestamp": 1789422929
-    },
-    {
-      "id": "BFMTV_1789421406",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY AFFIRME QUE L'UKRAINE PRENDRA DES \"MESURES DE DÉSESCALADE\" SI LA RUSSIE FAIT DE MÊME",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:30",
-      "date": "14/09",
-      "timestamp": 1789421406
     }
   ],
   "france": {
