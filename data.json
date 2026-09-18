@@ -1,7 +1,17 @@
 {
-  "last_update": "18/09 11:50",
+  "last_update": "18/09 15:53",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1789741801",
+      "source": "OPEX360",
+      "text": "THALES DÉFIE L’AMÉRICAIN PALANTIR EN PROPOSANT SON LOGICIEL DE COMMANDEMENT BASÉ SUR L’IA «HEXAFORCE» À L’OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:30",
+      "date": "18/09",
+      "timestamp": 1789741801
+    },
     {
       "id": "BFMTV_1789729354",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "19:49",
       "date": "15/09",
       "timestamp": 1789501776
-    },
-    {
-      "id": "BFMTV_1789501016",
-      "source": "BFMTV",
-      "text": "MARIAGE DE DONALD TRUMP JR PAYÉ PAR UN RUSSE: \"LE PRÉSIDENT NE SAIT PAS QUI EST CETTE PERSONNE\", SELON LE MINISTRE DE LA JUSTICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:36",
-      "date": "15/09",
-      "timestamp": 1789501016
     }
   ],
   "france": {
