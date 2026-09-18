@@ -1,7 +1,57 @@
 {
-  "last_update": "18/09 21:25",
+  "last_update": "18/09 23:29",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789770512",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP PROMULGUE UNE LOI IMPOSANT DE NOUVELLES SANCTIONS VISANT LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:28",
+      "date": "18/09",
+      "timestamp": 1789770512
+    },
+    {
+      "id": "BFMTV_1789768878",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT POLONAIS CRÉÉ LA POLÉMIQUE EN DÉCLARANT QUE \"NOUS POUVONS CÉDER DU TERRITOIRE\", LE PREMIER MINISTRE L'INTERPELLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:01",
+      "date": "18/09",
+      "timestamp": 1789768878
+    },
+    {
+      "id": "BFMTV_1789768368",
+      "source": "BFMTV",
+      "text": "MENACE RUSSE: \"ÉVIDEMMENT QUE CE TYPE DE PAYS EST HOSTILE À LA FRANCE\", ASSURE ALEKSANDAR NIKOLIC, PORTE-PAROLE DU RN",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:52",
+      "date": "18/09",
+      "timestamp": 1789768368
+    },
+    {
+      "id": "BFMTV_1789767440",
+      "source": "BFMTV",
+      "text": "UN \"CONTRÔLE PERMANENT\": DONALD TRUMP ANNONCE UN ACCORD AVEC LE DANEMARK ET LE GROENLAND SUR LA SÉCURITÉ DU TERRITOIRE ARCTIQUE",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:37",
+      "date": "18/09",
+      "timestamp": 1789767440
+    },
+    {
+      "id": "BFMTV_1789767344",
+      "source": "BFMTV",
+      "text": "MENACE RUSSE: \"IL FAUT ÉVIDEMMENT SOUTENIR L'UKRAINE\", ESTIME IAN BROSSAT, SÉNATEUR PCF DE PARIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:35",
+      "date": "18/09",
+      "timestamp": 1789767344
+    },
     {
       "id": "BFMTV_1789766635",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "12:14",
       "date": "16/09",
       "timestamp": 1789560842
-    },
-    {
-      "id": "BFMTV_1789557719",
-      "source": "BFMTV",
-      "text": "SÉCURITÉ EUROPÉENNE, CANADA, RÉSEAUX SOCIAUX... CE QU'IL FAUT RETENIR DU DISCOURS SUR L'ÉTAT DE L'UNION D'URSULA VON DER LEYEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:21",
-      "date": "16/09",
-      "timestamp": 1789557719
-    },
-    {
-      "id": "BFMTV_1789555904",
-      "source": "BFMTV",
-      "text": "\"LE CANADA EST LE BIENVENU DANS L'UNION EUROPÉENNE\", AFFIRME L'EURODÉPUTÉE VALÉRIE HAYER",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:51",
-      "date": "16/09",
-      "timestamp": 1789555904
-    },
-    {
-      "id": "BFMTV_1789555773",
-      "source": "BFMTV",
-      "text": "\"VOTRE EUROPE NOUS PROTÈGE DE MOINS EN MOINS\", LANCE JORDAN BARDELLA À URSULA VON DER LEYEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:49",
-      "date": "16/09",
-      "timestamp": 1789555773
-    },
-    {
-      "id": "OPEX360_1789554344",
-      "source": "OPEX360",
-      "text": "L’ALLEMAGNE ET LES ÉTATS-UNIS VONT RENFORCER LEUR COOPÉRATION DANS LE DOMAINE DE L’INDUSTRIE DE L’ARMEMENT",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:25",
-      "date": "16/09",
-      "timestamp": 1789554344
-    },
-    {
-      "id": "BFMTV_1789553603",
-      "source": "BFMTV",
-      "text": "OPÉRATION VIVALDI: QUELS SONT LES SECTEURS CONCERNÉS PAR L'OPÉRATION UKRAINIENNE? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:13",
-      "date": "16/09",
-      "timestamp": 1789553603
     }
   ],
   "france": {
