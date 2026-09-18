@@ -1,7 +1,57 @@
 {
-  "last_update": "18/09 18:53",
+  "last_update": "18/09 21:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789766635",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE BANNIR PLUSIEURS MÉDIAS DE LA MAISON BLANCHE, LES ACCUSANT DE PROPAGER DES \"FAKE NEWS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:23",
+      "date": "18/09",
+      "timestamp": 1789766635
+    },
+    {
+      "id": "BFMTV_1789764468",
+      "source": "BFMTV",
+      "text": "MENACE RUSSE: LE DÉTAIL DES DERNIÈRES ATTAQUES SUR LE SOL EUROPÉEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:47",
+      "date": "18/09",
+      "timestamp": 1789764468
+    },
+    {
+      "id": "BFMTV_1789762978",
+      "source": "BFMTV",
+      "text": "MENACE RUSSE: \"LA FRANCE N'EST PAS EN SITUATION DE MENER UNE GUERRE\", ANALYSE ALAIN BAUER",
+      "urgent": true,
+      "france_related": true,
+      "time": "20:22",
+      "date": "18/09",
+      "timestamp": 1789762978
+    },
+    {
+      "id": "BFMTV_1789760952",
+      "source": "BFMTV",
+      "text": "MENACE RUSSE: \"ON EST ARRIVÉ À UN SEUIL OÙ IL FAUDRA RÉPONDRE\", EXPLIQUE SERGUEÏ JIRNOV, ANCIEN OFFICIER DE RENSEIGNEMENT DU KGB",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:49",
+      "date": "18/09",
+      "timestamp": 1789760952
+    },
+    {
+      "id": "BFMTV_1789758765",
+      "source": "BFMTV",
+      "text": "MENACE RUSSE: \"LA FRANCE N'EST PAS EN SITUATION DE MENER UNE GUERRE\", OBSERVE ALAIN BAUER, PROFESSEUR ÉMÉRITE",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:12",
+      "date": "18/09",
+      "timestamp": 1789758765
+    },
     {
       "id": "BFMTV_1789755141",
       "source": "BFMTV",
@@ -11,6 +61,16 @@
       "time": "18:12",
       "date": "18/09",
       "timestamp": 1789755141
+    },
+    {
+      "id": "BFMTV_1789751881",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:18",
+      "date": "18/09",
+      "timestamp": 1789751881
     },
     {
       "id": "BFMTV_1789751880",
@@ -941,66 +1001,6 @@
       "time": "10:13",
       "date": "16/09",
       "timestamp": 1789553603
-    },
-    {
-      "id": "BFMTV_1789553090",
-      "source": "BFMTV",
-      "text": "RÉSEAUX SOCIAUX: L'UE VEUT PROPOSER UNE INTERDICTION AUX MOINS DE 13 ANS ET DES \"MINI-COMPTES\" POUR LES MOINS DE 15 ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:04",
-      "date": "16/09",
-      "timestamp": 1789553090
-    },
-    {
-      "id": "BFMTV_1789551991",
-      "source": "BFMTV",
-      "text": "URSULA VON DER LEYEN SOUHAITE QUE LE CANADA \"DEVIENNE LE PREMIER MEMBRE ASSOCIÉ DE L'UNION EUROPÉENNE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:46",
-      "date": "16/09",
-      "timestamp": 1789551991
-    },
-    {
-      "id": "BFMTV_1789546158",
-      "source": "BFMTV",
-      "text": "\"ÉLEVER LES RELATIONS AU PLUS HAUT NIVEAU POSSIBLE\": URSULA VON DER LEYEN PROPOSE QUE LE CANADA DEVIENNE LE \"PREMIER MEMBRE ASSOCIÉ\" DE L'UE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:09",
-      "date": "16/09",
-      "timestamp": 1789546158
-    },
-    {
-      "id": "BFMTV_1789545119",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN DRONE RUSSE SUR UN MINIBUS FAIT AU MOINS 5 MORTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:51",
-      "date": "16/09",
-      "timestamp": 1789545119
-    },
-    {
-      "id": "BFMTV_1789545103",
-      "source": "BFMTV",
-      "text": "URSULA VON DER LEYEN ANNONCE LA PRÉSENTATION PROCHAINE D'UN \"PLAN EUROPÉEN DE LUTTE CONTRE LES VAGUES DE CHALEUR\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:51",
-      "date": "16/09",
-      "timestamp": 1789545103
-    },
-    {
-      "id": "BFMTV_1789544857",
-      "source": "BFMTV",
-      "text": "L'UE UTILISERA \"TOUS LES OUTILS\" POUR \"RÉÉQUILIBRER\" LA RELATION AVEC LA CHINE, ASSURE URSULA VON DER LEYEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:47",
-      "date": "16/09",
-      "timestamp": 1789544857
     }
   ],
   "france": {
