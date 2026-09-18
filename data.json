@@ -1,7 +1,77 @@
 {
-  "last_update": "18/09 01:31",
+  "last_update": "18/09 06:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789712973",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE DÉCLARE AVOIR DÉTECTÉ 350 DRONES LANCÉS SUR MOSCOU JUSTE AVANT LE DÉBUT DES ÉLECTIONS LÉGISLATIVES",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:29",
+      "date": "18/09",
+      "timestamp": 1789712973
+    },
+    {
+      "id": "BFMTV_1789710247",
+      "source": "BFMTV",
+      "text": "UN AVION DE CHASSE F-16 S'ÉCRASE AUX ÉTATS-UNIS, SON PILOTE \"S'EST ÉJECTÉ AVEC SUCCÈS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:44",
+      "date": "18/09",
+      "timestamp": 1789710247
+    },
+    {
+      "id": "BFMTV_1789709100",
+      "source": "BFMTV",
+      "text": "TOUT COMPRENDRE. OPPOSITION MUSELÉE, MÉCONTENTEMENT POPULAIRE... LES ENJEUX DES PREMIÈRES ÉLECTIONS LÉGISLATIVES RUSSES DEPUIS LE DÉBUT DE LA GUERRE EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:25",
+      "date": "18/09",
+      "timestamp": 1789709100
+    },
+    {
+      "id": "BFMTV_1789708799",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:19",
+      "date": "18/09",
+      "timestamp": 1789708799
+    },
+    {
+      "id": "BFMTV_1789708799",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:19",
+      "date": "18/09",
+      "timestamp": 1789708799
+    },
+    {
+      "id": "BFMTV_1789708798",
+      "source": "BFMTV",
+      "text": "OUVERTURE DES LÉGISLATIVES EN RUSSIE, LES PREMIÈRES DEPUIS LE DÉBUT DE LA GUERRE EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:19",
+      "date": "18/09",
+      "timestamp": 1789708798
+    },
+    {
+      "id": "BFMTV_1789707485",
+      "source": "BFMTV",
+      "text": "LA SOEUR DE KIM JONG UN FUSTIGE LES EXERCICES MILITAIRES DES ÉTATS-UNIS DANS L'OCÉAN PACIFIQUE ET MENACE D'UNE RIPOSTE \"PLUS OFFENSIVE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:58",
+      "date": "18/09",
+      "timestamp": 1789707485
+    },
     {
       "id": "BFMTV_1789674539",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "17:24",
       "date": "15/09",
       "timestamp": 1789493093
-    },
-    {
-      "id": "OPEX360_1789489756",
-      "source": "OPEX360",
-      "text": "LA MARINE ALLEMANDE VEUT SE DOTER D’UN QUATRIÈME NAVIRE DÉDIÉ AU RENSEIGNEMENT ÉLECTRONIQUE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:29",
-      "date": "15/09",
-      "timestamp": 1789489756
-    },
-    {
-      "id": "BFMTV_1789489555",
-      "source": "BFMTV",
-      "text": "\"QUELQU'UN QUI SERT LES INTÉRÊTS DU KREMLIN\": UMAR KREMLEV, L'OLIGARQUE PROCHE DE VLADIMIR POUTINE QUI A FINANCÉ LE MARIAGE DU FILS DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:25",
-      "date": "15/09",
-      "timestamp": 1789489555
-    },
-    {
-      "id": "BFMTV_1789488794",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE EST \"UN TYRAN PAR EXCELLENCE\", DÉCLARE LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:13",
-      "date": "15/09",
-      "timestamp": 1789488794
-    },
-    {
-      "id": "BFMTV_1789488669",
-      "source": "BFMTV",
-      "text": "ALLIGATOR ALCATRAZ: DES MIGRANTS ÉTAIENT DÉTENUS DANS DES CAGES, SELON UN NOUVEAU RAPPORT",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:11",
-      "date": "15/09",
-      "timestamp": 1789488669
-    },
-    {
-      "id": "BFMTV_1789487604",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE \"NE S'ARRÊTERA PAS, À MOINS QU'ON NE L'ARRÊTE\", AFFIRME LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:53",
-      "date": "15/09",
-      "timestamp": 1789487604
-    },
-    {
-      "id": "BFMTV_1789486062",
-      "source": "BFMTV",
-      "text": "\"UNE INITIATIVE IMPRUDENTE\": MOSCOU ESTIME QUE LA \"DISSUASION NUCLÉAIRE AVANCÉE\" PROPOSÉE PAR LA FRANCE REPRÉSENTE UN \"RISQUE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:27",
-      "date": "15/09",
-      "timestamp": 1789486062
-    },
-    {
-      "id": "BFMTV_1789484930",
-      "source": "BFMTV",
-      "text": "\"UNE LOURDE DÉFAITE POUR L'AMÉRIQUE\": DONALD TRUMP FUSTIGE LA DÉCISION DE LA COUR SUPRÊME SUR LE VOTE PAR CORRESPONDANCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:08",
-      "date": "15/09",
-      "timestamp": 1789484930
     }
   ],
   "france": {
