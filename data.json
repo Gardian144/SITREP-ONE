@@ -1,7 +1,57 @@
 {
-  "last_update": "19/09 14:38",
+  "last_update": "19/09 17:26",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789833588",
+      "source": "BFMTV",
+      "text": "VISITE DE LÉON XIV EN FRANCE: LES ÉVÊQUES QUI ACCUEILLERONT LE PAPE RÉPONDENT AUX QUESTIONS DE BFMTV",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:59",
+      "date": "19/09",
+      "timestamp": 1789833588
+    },
+    {
+      "id": "BFMTV_1789831696",
+      "source": "BFMTV",
+      "text": "FACE À LA MENACE RUSSE, LA FRANCE A RECENSÉ 1.500 SITES VULNÉRABLES",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:28",
+      "date": "19/09",
+      "timestamp": 1789831696
+    },
+    {
+      "id": "BFMTV_1789831457",
+      "source": "BFMTV",
+      "text": "EUROPE, MENACE RUSSE: POUR VLADIMIR POUTINE, LES DIRIGEANTS EUROPÉENS \"AGGRAVENT LA SITUATION\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:24",
+      "date": "19/09",
+      "timestamp": 1789831457
+    },
+    {
+      "id": "BFMTV_1789829985",
+      "source": "BFMTV",
+      "text": "UNE ATTAQUE \"MASSIVE ET INTENSE\": LE SYSTÈME ÉLECTORAL RUSSE VISÉ PAR DES CYBERATTAQUES AU DEUXIÈME JOUR DES LÉGISLATIVES",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:59",
+      "date": "19/09",
+      "timestamp": 1789829985
+    },
+    {
+      "id": "BFMTV_1789828778",
+      "source": "BFMTV",
+      "text": "LIGNE ROUGE - POUTINE, LA GRANDE PARANOÏA ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:39",
+      "date": "19/09",
+      "timestamp": 1789828778
+    },
     {
       "id": "BFMTV_1789825160",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "06:59",
       "date": "17/09",
       "timestamp": 1789628379
-    },
-    {
-      "id": "BFMTV_1789624615",
-      "source": "BFMTV",
-      "text": "LE DOCUMENT LIGNE ROUGE \"GAZA, L'ARME DE LA FAIM ?\" SÉLECTIONNÉ AU PRIX ALBERT LONDRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:56",
-      "date": "17/09",
-      "timestamp": 1789624615
-    },
-    {
-      "id": "BFMTV_1789623081",
-      "source": "BFMTV",
-      "text": "LA DIRECTRICE DE CABINET DE LA MAISON BLANCHE, SUSIE WILES, ANNONCE ÊTRE GUÉRIE DU CANCER ET REMERCIE DONALD TRUMP POUR \"SON SOUTIEN INDÉFECTIBLE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:31",
-      "date": "17/09",
-      "timestamp": 1789623081
-    },
-    {
-      "id": "BFMTV_1789619888",
-      "source": "BFMTV",
-      "text": "UN MORT, MÉTRO À L'ARRÊT À VALENCE, ALERTE ROUGE À BARCELONE... DE FORTES PLUIES SECOUENT LE LITTORAL ESPAGNOL",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:38",
-      "date": "17/09",
-      "timestamp": 1789619888
-    },
-    {
-      "id": "BFMTV_1789618669",
-      "source": "BFMTV",
-      "text": "L'ÉDITO INTERNATIONAL - PROJET D'ASSOCIATION UE-CANADA: \"LES CANADIENS N'EN PEUVENT PLUS DE LEUR RELATION AVEC DONALD TRUMP\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:17",
-      "date": "17/09",
-      "timestamp": 1789618669
-    },
-    {
-      "id": "BFMTV_1789618213",
-      "source": "BFMTV",
-      "text": "ESPAGNE: UN MORT APRÈS DE FORTES PLUIES PRÈS DE BARCELONE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:10",
-      "date": "17/09",
-      "timestamp": 1789618213
     }
   ],
   "france": {
