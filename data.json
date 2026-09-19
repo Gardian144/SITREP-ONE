@@ -1,7 +1,127 @@
 {
-  "last_update": "19/09 11:24",
+  "last_update": "19/09 14:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789825160",
+      "source": "BFMTV",
+      "text": "VISITE DU PAPE LÉON XIV EN FRANCE: LE SOUVERAIN PONTIFE RENCONTRERA DES VICTIMES DE VIOLENCES SEXUELLES COMMISES AU SEIN DE L'ÉGLISE",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:39",
+      "date": "19/09",
+      "timestamp": 1789825160
+    },
+    {
+      "id": "OPEX360_1789824636",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE TERRE A REÇU LA DERNIÈRE VERSION DE L’ENGIN BLINDÉ DE RECONNAISSANCE ET DE COMBAT JAGUAR",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:30",
+      "date": "19/09",
+      "timestamp": 1789824636
+    },
+    {
+      "id": "BFMTV_1789824573",
+      "source": "BFMTV",
+      "text": "VISITE DU PAPE LÉON XIV EN FRANCE: \"L'ÉGLISE DE FRANCE EST EN TRAIN DE RAJEUNIR\", ESTIME MGR PHILIPPE BALLOT, ARCHEVÊQUE DE METZ",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:29",
+      "date": "19/09",
+      "timestamp": 1789824573
+    },
+    {
+      "id": "BFMTV_1789824036",
+      "source": "BFMTV",
+      "text": "VISITE DU PAPE LÉON XIV EN FRANCE: \"LE CHOIX DE CE VOYAGE A ÉTÉ FAIT RELATIVEMENT TARDIVEMENT\", EXPLIQUE MGR LAURENT ULRICH, ARCHEVÊQUE DE PARIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:20",
+      "date": "19/09",
+      "timestamp": 1789824036
+    },
+    {
+      "id": "BFMTV_1789823693",
+      "source": "BFMTV",
+      "text": "ACTIFS D'AUCHAN ET NESTLÉ PASSÉS AUX MAINS DE LA RUSSIE: MOSCOU CIBLE DES SOCIÉTÉS DE PAYS \"INAMICAUX\" ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:14",
+      "date": "19/09",
+      "timestamp": 1789823693
+    },
+    {
+      "id": "BFMTV_1789822163",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE INTERDIRE L’ACCÈS DE CNN ET DE DEUX AUTRES MÉDIAS À LA MAISON BLANCHE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:49",
+      "date": "19/09",
+      "timestamp": 1789822163
+    },
+    {
+      "id": "BFMTV_1789822095",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE INTERDIRE L’ACCÈS DE CNN ET DE DEUX AUTRES MÉDIAS À LA MAISON BLANCHE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:48",
+      "date": "19/09",
+      "timestamp": 1789822095
+    },
+    {
+      "id": "BFMTV_1789821304",
+      "source": "BFMTV",
+      "text": "LA POLOGNE EN ÉTAT D'ALERTE FACE AUX ATTAQUES RUSSES EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:35",
+      "date": "19/09",
+      "timestamp": 1789821304
+    },
+    {
+      "id": "BFMTV_1789821099",
+      "source": "BFMTV",
+      "text": "CE QUE L’ON SAIT DE LA PRISE DE CONTRÔLE DES ACTIFS DE NESTLÉ ET D’AUCHAN PAR LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:31",
+      "date": "19/09",
+      "timestamp": 1789821099
+    },
+    {
+      "id": "BFMTV_1789820846",
+      "source": "BFMTV",
+      "text": "\"MES FENÊTRES ONT TREMBLÉ\": DES EXPLOSIONS ENTENDUES À RYAD, UNE PREMIÈRE DEPUIS LA REPRISE DU CONFLIT AVEC LES HOUTHIS DU YÉMEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:27",
+      "date": "19/09",
+      "timestamp": 1789820846
+    },
+    {
+      "id": "BFMTV_1789819799",
+      "source": "BFMTV",
+      "text": "SI QUELQU'UN ESSAIE DE TUER VLADIMIR POUTINE, LE FSO SERA LE PREMIER À INTERVENIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:09",
+      "date": "19/09",
+      "timestamp": 1789819799
+    },
+    {
+      "id": "BFMTV_1789817806",
+      "source": "BFMTV",
+      "text": "LIGNE ROUGE: VLADIMIR POUTINE RETROUVE SON ANCIENNE INSTITUTRICE, \"UNE SCÈNE QUI N'A RIEN DE SPONTANÉE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:36",
+      "date": "19/09",
+      "timestamp": 1789817806
+    },
     {
       "id": "OPEX360_1789816112",
       "source": "OPEX360",
@@ -881,126 +1001,6 @@
       "time": "04:10",
       "date": "17/09",
       "timestamp": 1789618213
-    },
-    {
-      "id": "BFMTV_1789595038",
-      "source": "BFMTV",
-      "text": "\"UN MOMENT CULTUREL ÉNORME\": SOPHIE ADENOT SUR SON \"DÎNER FRANÇAIS\" PARTAGÉ AVEC LES ASTRONAUTES DE L'ISS",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:43",
-      "date": "16/09",
-      "timestamp": 1789595038
-    },
-    {
-      "id": "BFMTV_1789592817",
-      "source": "BFMTV",
-      "text": "INONDATIONS AU NÉPAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:06",
-      "date": "16/09",
-      "timestamp": 1789592817
-    },
-    {
-      "id": "BFMTV_1789592816",
-      "source": "BFMTV",
-      "text": "UN NOUVEAU BILAN FAIT ÉTAT DE 6.150 PERSONNES DISPARUES AU NÉPAL APRÈS LES INONDATIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:06",
-      "date": "16/09",
-      "timestamp": 1789592816
-    },
-    {
-      "id": "BFMTV_1789592532",
-      "source": "BFMTV",
-      "text": "UNE SÉRIE DE \"DÉCISIONS IMPRUDENTES\": LA FAMILLE DE CHARLIE KIRK ACCUSE LES RESPONSABLES DE L’UTAH DE NE PAS AVOIR EMPÊCHÉ L’ASSASSINAT DE L’ACTIVISTE CONSERVATEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:02",
-      "date": "16/09",
-      "timestamp": 1789592532
-    },
-    {
-      "id": "BFMTV_1789587180",
-      "source": "BFMTV",
-      "text": "INDÉPENDANCE DE LA FED: \"ON RESTE DANS NOTRE COULOIR\", SE DÉFEND SON PRÉSIDENT, KEVIN WARSH",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:33",
-      "date": "16/09",
-      "timestamp": 1789587180
-    },
-    {
-      "id": "BFMTV_1789586896",
-      "source": "BFMTV",
-      "text": "BRAQUAGE DE KIM KARDASHIAN: 10 ANS APRÈS SON AGRESSION À PARIS, LA STAR OBTIENT UN EURO SYMBOLIQUE DE DOMMAGES ET INTÉRÊTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:28",
-      "date": "16/09",
-      "timestamp": 1789586896
-    },
-    {
-      "id": "BFMTV_1789586586",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: LES IMAGES DE L'ARRESTATION DE L'ANCIEN FOOTBALLEUR RAHEEM STERLING",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:23",
-      "date": "16/09",
-      "timestamp": 1789586586
-    },
-    {
-      "id": "BFMTV_1789585893",
-      "source": "BFMTV",
-      "text": "HAUSSE DES TAUX AUX ÉTATS-UNIS: \"C'ÉTAIT NOTRE DÉCISION\", DIT LE PRÉSIDENT DE LA FED REFUSANT DE COMMENTER TOUTE DISCUSSION AVEC DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:11",
-      "date": "16/09",
-      "timestamp": 1789585893
-    },
-    {
-      "id": "BFMTV_1789584531",
-      "source": "BFMTV",
-      "text": "AUX ÉTATS-UNIS, L'INFLATION EST \"TROP ÉLEVÉE, DEPUIS TROP LONGTEMPS\", DIT LE PRÉSIDENT DE LA FED",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:48",
-      "date": "16/09",
-      "timestamp": 1789584531
-    },
-    {
-      "id": "BFMTV_1789582879",
-      "source": "BFMTV",
-      "text": "UN GARDIEN DE D9 ANGLAISE A REFUSÉ DE DEVENIR ROI EN OUGANDA",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:21",
-      "date": "16/09",
-      "timestamp": 1789582879
-    },
-    {
-      "id": "BFMTV_1789581284",
-      "source": "BFMTV",
-      "text": "LA DISPARITION DE NOAH, 3 ANS, ÉMEUT L'ANGLETERRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:54",
-      "date": "16/09",
-      "timestamp": 1789581284
-    },
-    {
-      "id": "OPEX360_1789579756",
-      "source": "OPEX360",
-      "text": "L’ESPAGNOL INDRA DÉVOILE LE SQUALL, UN NOUVEAU MISSILE DE CROISIÈRE CONÇU POUR SATURER LES DÉFENSES ENNEMIES",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:29",
-      "date": "16/09",
-      "timestamp": 1789579756
     }
   ],
   "france": {
