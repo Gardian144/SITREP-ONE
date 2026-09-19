@@ -1,7 +1,27 @@
 {
-  "last_update": "19/09 19:30",
+  "last_update": "19/09 21:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789852544",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT ISRAÉLIEN GRACIE UN SOLDAT QUI AVAIT ABATTU UN ASSAILLANT PALESTINIEN BLESSÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:15",
+      "date": "19/09",
+      "timestamp": 1789852544
+    },
+    {
+      "id": "BFMTV_1789847234",
+      "source": "BFMTV",
+      "text": "AUCHAN, LEROY MERLIN, NESTLÉ ... FACE À L'EUROPE, VLADIMIR POUTINE DURCIT SA GUERRE ÉCONOMIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:47",
+      "date": "19/09",
+      "timestamp": 1789847234
+    },
     {
       "id": "BFMTV_1789843557",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "08:21",
       "date": "17/09",
       "timestamp": 1789633299
-    },
-    {
-      "id": "BFMTV_1789632864",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: IL TENTE DE S’ÉVADER DU TRIBUNAL JUSTE APRÈS SA CONDAMNATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:14",
-      "date": "17/09",
-      "timestamp": 1789632864
-    },
-    {
-      "id": "BFMTV_1789630965",
-      "source": "BFMTV",
-      "text": "DISPARITION DE NOAH, TROIS ANS, AU ROYAUME-UNI: LE CORPS D'UN ENFANT DÉCOUVERT DANS UN ÉTANG, SON IDENTIFICATION EN COURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:42",
-      "date": "17/09",
-      "timestamp": 1789630965
     }
   ],
   "france": {
