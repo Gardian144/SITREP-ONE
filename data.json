@@ -1,7 +1,57 @@
 {
-  "last_update": "20/09 19:17",
+  "last_update": "20/09 21:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789939452",
+      "source": "BFMTV",
+      "text": "\"L'INTERNATIONAL A TOUJOURS ÉTÉ LE SUJET D'EMMANUEL MACRON\", ANALYSE LOUIS SARKOZY, CONSEILLER MUNICIPAL DVD DE MENTON",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:24",
+      "date": "20/09",
+      "timestamp": 1789939452
+    },
+    {
+      "id": "BFMTV_1789935757",
+      "source": "BFMTV",
+      "text": "ALLEMAGNE: LE PARTI D'EXTRÊME DROITE EN FORTE PROGRESSION, LE CDU DU CHANCELIER SUBIT UN \"DÉSASTRE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:22",
+      "date": "20/09",
+      "timestamp": 1789935757
+    },
+    {
+      "id": "BFMTV_1789933813",
+      "source": "BFMTV",
+      "text": "MENACE RUSSE: \"TOUT CELA VIENT D'UN PHÉNOMÈNE: L'ATTENTAT RATÉ À LEIPZIG\", EXPLIQUE PATRICK DUTARTRE, GÉNÉRAL DE L'ARMÉE DE L'AIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:50",
+      "date": "20/09",
+      "timestamp": 1789933813
+    },
+    {
+      "id": "BFMTV_1789933246",
+      "source": "BFMTV",
+      "text": "MARK CARNEY, PREMIER MINISTRE CANADIEN: \"IL EST NÉCESSAIRE DE RENFORCER NOS LIENS\" AVEC LA FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:40",
+      "date": "20/09",
+      "timestamp": 1789933246
+    },
+    {
+      "id": "BFMTV_1789932712",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: PLUS DE 2.000 DRONES LANCÉS CONTRE LES UKRAINIENS EN UNE SEMAINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:31",
+      "date": "20/09",
+      "timestamp": 1789932712
+    },
     {
       "id": "BFMTV_1789931454",
       "source": "BFMTV",
@@ -21,6 +71,16 @@
       "time": "18:31",
       "date": "20/09",
       "timestamp": 1789929086
+    },
+    {
+      "id": "BFMTV_1789928303",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:18",
+      "date": "20/09",
+      "timestamp": 1789928303
     },
     {
       "id": "BFMTV_1789928302",
@@ -941,66 +1001,6 @@
       "time": "12:02",
       "date": "18/09",
       "timestamp": 1789732939
-    },
-    {
-      "id": "BFMTV_1789732329",
-      "source": "BFMTV",
-      "text": "TEXAS: UNE VOITURE FONCE DANS UNE PISCINE, FRÔLANT UNE ENFANT",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:52",
-      "date": "18/09",
-      "timestamp": 1789732329
-    },
-    {
-      "id": "BFMTV_1789729354",
-      "source": "BFMTV",
-      "text": "LÉGISLATIVES EN ISRAËL: POUR LA PREMIÈRE FOIS, UN SONDAGE DONNE EN TÊTE LA COALITION DE BENJAMIN NETANYAHU",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:02",
-      "date": "18/09",
-      "timestamp": 1789729354
-    },
-    {
-      "id": "BFMTV_1789727473",
-      "source": "BFMTV",
-      "text": "BRÉSIL: UN TUEUR EN SÉRIE SE FAIT ARRÊTER DÉGUISÉ EN FEMME ET AVOUE 80 MEURTRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:31",
-      "date": "18/09",
-      "timestamp": 1789727473
-    },
-    {
-      "id": "BFMTV_1789726799",
-      "source": "BFMTV",
-      "text": "DÉFENSE, ÉCONOMIE: QUE PEUT CONTENIR LA PROPOSITION D'ALLIANCE ENTRE L'UE ET LE CANADA ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:19",
-      "date": "18/09",
-      "timestamp": 1789726799
-    },
-    {
-      "id": "OPEX360_1789725910",
-      "source": "OPEX360",
-      "text": "LES ÉTATS-UNIS PROPOSENT 48 CHASSEURS-BOMBARDIERS F-35A À L’ARABIE SAOUDITE… À UN PRIX DISSUASIF",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:05",
-      "date": "18/09",
-      "timestamp": 1789725910
-    },
-    {
-      "id": "BFMTV_1789725718",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS - DONALD TRUMP POURRAIT RETIRER 25.000 SOLDATS DES BASES AMÉRICAINES EN EUROPE, SELON DES MÉDIAS AMÉRICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:01",
-      "date": "18/09",
-      "timestamp": 1789725718
     }
   ],
   "france": {
