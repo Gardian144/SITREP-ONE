@@ -1,7 +1,127 @@
 {
-  "last_update": "20/09 03:35",
+  "last_update": "20/09 08:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789893704",
+      "source": "BFMTV",
+      "text": "ATTAQUE DE DRONES EN RUSSIE: UNE IMPORTANTE RAFFINERIE ENDOMMAGÉE À MOSCOU ",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:41",
+      "date": "20/09",
+      "timestamp": 1789893704
+    },
+    {
+      "id": "BFMTV_1789893415",
+      "source": "BFMTV",
+      "text": "ATTAQUE DE DRONES SUR MOSCOU: AU MOINS DEUX MORTS DANS LES FRAPPES UKRAINIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:36",
+      "date": "20/09",
+      "timestamp": 1789893415
+    },
+    {
+      "id": "BFMTV_1789890393",
+      "source": "BFMTV",
+      "text": "LA CORÉE DU NORD TIRE UN PROJECTILE NON IDENTIFIÉ VERS LA MER DU JAPON",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:46",
+      "date": "20/09",
+      "timestamp": 1789890393
+    },
+    {
+      "id": "BFMTV_1789890239",
+      "source": "BFMTV",
+      "text": "LA DÉFENSE ANTI-AÉRIENNE RUSSE A ABATTU DEPUIS SAMEDI PLUS DE 1.600 DRONES DONT \"450 SE DIRIGEAIENT VERS MOSCOU",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:43",
+      "date": "20/09",
+      "timestamp": 1789890239
+    },
+    {
+      "id": "BFMTV_1789886520",
+      "source": "BFMTV",
+      "text": "\"UN MOMENT HISTORIQUE\": POURQUOI LA VISITE DU PREMIER MINISTRE CANADIEN À SAINT-PIERRE-ET-MIQUELON EST INÉDITE… ET RISQUE D’IRRITER DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:42",
+      "date": "20/09",
+      "timestamp": 1789886520
+    },
+    {
+      "id": "BFMTV_1789884653",
+      "source": "BFMTV",
+      "text": "RUSSIE: LE MAIRE DE MOSCOU DÉNONCE UNE ATTAQUE DE DRONES \"SANS PRÉCÉDENT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:10",
+      "date": "20/09",
+      "timestamp": 1789884653
+    },
+    {
+      "id": "BFMTV_1789881854",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: BFMTV AVEC LES LANCEURS DE DRONES UKRAINIENS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:24",
+      "date": "20/09",
+      "timestamp": 1789881854
+    },
+    {
+      "id": "BFMTV_1789881138",
+      "source": "BFMTV",
+      "text": "LE MAIRE DE MOSCOU ACCUSE L'UKRAINE D'UNE ATTAQUE \"SANS PRÉCÉDENT\" VISANT À \"PERTURBER\" LES ÉLECTIONS LÉGISLATIVES EN RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:12",
+      "date": "20/09",
+      "timestamp": 1789881138
+    },
+    {
+      "id": "BFMTV_1789880700",
+      "source": "BFMTV",
+      "text": "MULTIMILLIARDAIRE, PROCHE DE L'AZERBAÏDJAN... ALICHER OUSMANOV, L'HOMME D'AFFAIRES RUSSE QUE LA FRANCE REFUSE DE SANCTIONNER POUR MIEUX NÉGOCIER UNE LIBÉRATION DE PRISONNIERS",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:05",
+      "date": "20/09",
+      "timestamp": 1789880700
+    },
+    {
+      "id": "BFMTV_1789880293",
+      "source": "BFMTV",
+      "text": "PAYS-BAS: UN RASSEMBLEMENT D'EXTRÊME DROITE TOURNE AUX AFFRONTEMENTS AVEC LES FORCES DE L'ORDRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:58",
+      "date": "20/09",
+      "timestamp": 1789880293
+    },
+    {
+      "id": "BFMTV_1789879738",
+      "source": "BFMTV",
+      "text": "MENACE RUSSE: QUELS SONT LES MOYENS DONT DISPOSE LA FRANCE POUR RÉPONDRE À MOSCOU ?",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:48",
+      "date": "20/09",
+      "timestamp": 1789879738
+    },
+    {
+      "id": "BFMTV_1789879480",
+      "source": "BFMTV",
+      "text": "DEUX SCRUTINS RÉGIONAUX À HAUT RISQUE POUR LE CHANCELIER FRIEDRICH MERZ EN ALLEMAGNE, UNE NOUVELLE AVANCÉE DE L'AFD ATTENDUE",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:44",
+      "date": "20/09",
+      "timestamp": 1789879480
+    },
     {
       "id": "BFMTV_1789852544",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "15:17",
       "date": "17/09",
       "timestamp": 1789658275
-    },
-    {
-      "id": "BFMTV_1789655914",
-      "source": "BFMTV",
-      "text": "JOHANNESBURG: DES MEURTRES EN SÉRIE CONTRE DES FEMMES INQUIÈTENT L'AFRIQUE DU SUD ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:38",
-      "date": "17/09",
-      "timestamp": 1789655914
-    },
-    {
-      "id": "OPEX360_1789655621",
-      "source": "OPEX360",
-      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT QUALIFIE L’INTÉGRATION DE LA NACELLE OPTRONIQUE TALIOS SUR MIRAGE 2000D RMV",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:33",
-      "date": "17/09",
-      "timestamp": 1789655621
-    },
-    {
-      "id": "BFMTV_1789653346",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:55",
-      "date": "17/09",
-      "timestamp": 1789653346
-    },
-    {
-      "id": "BFMTV_1789653015",
-      "source": "BFMTV",
-      "text": "ALLIANCE UE-CANADA: \"UNE RELATION PLUS ÉTROITE [...] TOUT À FAIT DANS L'ORDRE DES CHOSES\", ESTIME L'ANCIEN PREMIER MINISTRE DU QUÉBEC",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:50",
-      "date": "17/09",
-      "timestamp": 1789653015
-    },
-    {
-      "id": "BFMTV_1789652231",
-      "source": "BFMTV",
-      "text": "LÉGISLATIVES EN SUÈDE: EMMENÉE PAR L'ANCIENNE PREMIÈRE MINISTRE MAGDALENA ANDERSSON, LA GAUCHE REMPORTE DE JUSTESSE LE SCRUTIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:37",
-      "date": "17/09",
-      "timestamp": 1789652231
-    },
-    {
-      "id": "BFMTV_1789651209",
-      "source": "BFMTV",
-      "text": "UE-CANADA: \"LE CONTEXTE AMÉRICAIN ACCÉLÈRE\" L’APPROFONDISSEMENT DES RELATIONS AVEC L’EUROPE, SELON JEAN CHAREST, ANCIEN PREMIER MINISTRE DU QUÉBEC",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:20",
-      "date": "17/09",
-      "timestamp": 1789651209
-    },
-    {
-      "id": "BFMTV_1789647658",
-      "source": "BFMTV",
-      "text": "CONFLIT ISRAËL-IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:20",
-      "date": "17/09",
-      "timestamp": 1789647658
-    },
-    {
-      "id": "BFMTV_1789647657",
-      "source": "BFMTV",
-      "text": "L'IRAN EXPULSE UN DIPLOMATE SUÉDOIS EN RÉPONSE À UNE DÉCISION SIMILAIRE DE LA PART DE STOCKHOLM",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:20",
-      "date": "17/09",
-      "timestamp": 1789647657
-    },
-    {
-      "id": "BFMTV_1789646390",
-      "source": "BFMTV",
-      "text": "OPPOSÉ À L’INSTALLATION D’UN CENTRE D’ACCUEIL POUR DEMANDEURS D’ASILE, UN PETIT VILLAGE ANGLAIS VOTE SYMBOLIQUEMENT POUR QUITTER LE ROYAUME-UNI",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:59",
-      "date": "17/09",
-      "timestamp": 1789646390
-    },
-    {
-      "id": "BFMTV_1789646004",
-      "source": "BFMTV",
-      "text": "\"PERSONNE\" NE DICTERA AU CANADA AVEC QUI SIGNER UN ACCORD: MARK CARNEY BALAIE LES MENACES DE DONALD TRUMP SUR SON PROJET D'ALLIANCE AVEC L'UE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:53",
-      "date": "17/09",
-      "timestamp": 1789646004
-    },
-    {
-      "id": "OPEX360_1789641978",
-      "source": "OPEX360",
-      "text": "KNDS FRANCE VA ÉQUIPER 126 HÉLICOPTÈRES D’ATTAQUE LÉGERS INDIENS PRACHAND AVEC SA TOURELLE THL20 DE 20 MM",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:46",
-      "date": "17/09",
-      "timestamp": 1789641978
-    },
-    {
-      "id": "BFMTV_1789633299",
-      "source": "BFMTV",
-      "text": "RÉSEAUX SOCIAUX: \"LES PLATEFORMES ONT AGI DE MANIÈRE IMPRUDENTE, SANS SE SOUCIER DE LA SANTÉ MENTALE DES ENFANTS\", ACCUSE URSULA VON DER LEYEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:21",
-      "date": "17/09",
-      "timestamp": 1789633299
     }
   ],
   "france": {
