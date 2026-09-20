@@ -1,7 +1,17 @@
 {
-  "last_update": "20/09 21:44",
+  "last_update": "20/09 23:34",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789940575",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON SERA INTERVIEWÉ CE JEUDI 24 SEPTEMBRE À 20 HEURES",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:42",
+      "date": "20/09",
+      "timestamp": 1789940575
+    },
     {
       "id": "BFMTV_1789939452",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "12:07",
       "date": "18/09",
       "timestamp": 1789733240
-    },
-    {
-      "id": "BFMTV_1789732939",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"LA MENACE HYBRIDE RUSSE, À L'ÉGARD DES EUROPÉENS ET DE LA FRANCE, S'EST INTENSIFIÉE\", EXPLIQUE EMMANUEL MACRON",
-      "urgent": true,
-      "france_related": true,
-      "time": "12:02",
-      "date": "18/09",
-      "timestamp": 1789732939
     }
   ],
   "france": {
