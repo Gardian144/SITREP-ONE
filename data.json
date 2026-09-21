@@ -1,7 +1,147 @@
 {
-  "last_update": "21/09 07:12",
+  "last_update": "21/09 14:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789999595",
+      "source": "BFMTV",
+      "text": "LES JAPONAIS SE PRÉPARENT À L'APPROCHE DU TYPHON DUJUAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:06",
+      "date": "21/09",
+      "timestamp": 1789999595
+    },
+    {
+      "id": "BFMTV_1789999268",
+      "source": "BFMTV",
+      "text": "FRIEDRICH MERZ PROMET QUE SON GOUVERNEMENT RESTERA POUR ASSURER \"L’AVENIR DÉMOCRATIQUE\" DE L’ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:01",
+      "date": "21/09",
+      "timestamp": 1789999268
+    },
+    {
+      "id": "BFMTV_1789999228",
+      "source": "BFMTV",
+      "text": "SANS SURPRISE, LE PARTI DE VLADIMIR POUTINE REMPORTE LES ÉLECTIONS LÉGISLATIVES EN RUSSIE ET S’EN FÉLICITE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:00",
+      "date": "21/09",
+      "timestamp": 1789999228
+    },
+    {
+      "id": "BFMTV_1789997851",
+      "source": "BFMTV",
+      "text": "MARCO RUBIO, SECRÉTAIRE D'ÉTAT AMÉRICAIN, SONNE LA CLOCHE POUR OUVRIR WALL STREET CE LUNDI",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:37",
+      "date": "21/09",
+      "timestamp": 1789997851
+    },
+    {
+      "id": "BFMTV_1789995568",
+      "source": "BFMTV",
+      "text": "UN CHASSEUR AMÉRICAIN INCULPÉ POUR LA MORT D'UNE FEMME DE 39 ANS, IL AFFIRME L'AVOIR PRISE POUR UN CERF",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:59",
+      "date": "21/09",
+      "timestamp": 1789995568
+    },
+    {
+      "id": "BFMTV_1789995109",
+      "source": "BFMTV",
+      "text": "EXCLUSION DE TROIS MÉDIAS DE LA MAISON BLANCHE: DONALD TRUMP ACCUSE UNE PARTIE DE LA PRESSE DE REPRÉSENTER UNE \"MENACE POUR LA SÉCURITÉ NATIONALE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:51",
+      "date": "21/09",
+      "timestamp": 1789995109
+    },
+    {
+      "id": "BFMTV_1789994940",
+      "source": "BFMTV",
+      "text": "ATTAQUE DE DRONES SUR MOSCOU: LA RUSSIE PROMET D'\"INTENSIFIER\" SES ATTAQUES SUR KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:49",
+      "date": "21/09",
+      "timestamp": 1789994940
+    },
+    {
+      "id": "BFMTV_1789991424",
+      "source": "BFMTV",
+      "text": "LÉGISLATIVES EN RUSSIE: L'UNION EUROPÉENNE VOIT DANS CES ÉLECTIONS \"UN NOUVEAU REVERS MAJEUR POUR LA DÉMOCRATIE RUSSE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:50",
+      "date": "21/09",
+      "timestamp": 1789991424
+    },
+    {
+      "id": "BFMTV_1789991331",
+      "source": "BFMTV",
+      "text": "UNE BATTERIE EXTERNE PREND FEU DANS UN AVION ET OBLIGE UN VOL AMSTERDAM-CURAÇAO À FAIRE DEMI-TOUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:48",
+      "date": "21/09",
+      "timestamp": 1789991331
+    },
+    {
+      "id": "BFMTV_1789988299",
+      "source": "BFMTV",
+      "text": "1,6 MILLION DE PERSONNES APPELÉES À ÉVACUER ET DES PLUIES POTENTIELLEMENT RECORD: LE TYPHON DUJUAN FRAPPE LE JAPON",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:58",
+      "date": "21/09",
+      "timestamp": 1789988299
+    },
+    {
+      "id": "BFMTV_1789988118",
+      "source": "BFMTV",
+      "text": "KEN HAY, VÉTÉRAN BRITANNIQUE DU DÉBARQUEMENT EN NORMANDIE, MEURT À L'ÂGE DE 101 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:55",
+      "date": "21/09",
+      "timestamp": 1789988118
+    },
+    {
+      "id": "BFMTV_1789987887",
+      "source": "BFMTV",
+      "text": "MIS À LA PORTE DE LA MAISON BLANCHE, LES MÉDIAS AMÉRICAINS CNN, MS NOW ET POLITICO ANNONCENT POURSUIVRE L'ADMINISTRATION TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:51",
+      "date": "21/09",
+      "timestamp": 1789987887
+    },
+    {
+      "id": "OPEX360_1789987582",
+      "source": "OPEX360",
+      "text": "LE GÉNÉRAL ALLEMAND CARSTEN BREUER A ÉTÉ ÉLU PRÉSIDENT DU COMITÉ MILITAIRE DE L’OTAN",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:46",
+      "date": "21/09",
+      "timestamp": 1789987582
+    },
+    {
+      "id": "BFMTV_1789985551",
+      "source": "BFMTV",
+      "text": "LA MARQUE AMÉRICAINE CONVERSE CRÉE LA POLÉMIQUE APRÈS UNE PUBLICITÉ ÉVOQUANT LE KU KLUX KLAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:12",
+      "date": "21/09",
+      "timestamp": 1789985551
+    },
     {
       "id": "BFMTV_1789973427",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "22:01",
       "date": "18/09",
       "timestamp": 1789768878
-    },
-    {
-      "id": "BFMTV_1789768368",
-      "source": "BFMTV",
-      "text": "MENACE RUSSE: \"ÉVIDEMMENT QUE CE TYPE DE PAYS EST HOSTILE À LA FRANCE\", ASSURE ALEKSANDAR NIKOLIC, PORTE-PAROLE DU RN",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:52",
-      "date": "18/09",
-      "timestamp": 1789768368
-    },
-    {
-      "id": "BFMTV_1789767440",
-      "source": "BFMTV",
-      "text": "UN \"CONTRÔLE PERMANENT\": DONALD TRUMP ANNONCE UN ACCORD AVEC LE DANEMARK ET LE GROENLAND SUR LA SÉCURITÉ DU TERRITOIRE ARCTIQUE",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:37",
-      "date": "18/09",
-      "timestamp": 1789767440
-    },
-    {
-      "id": "BFMTV_1789767344",
-      "source": "BFMTV",
-      "text": "MENACE RUSSE: \"IL FAUT ÉVIDEMMENT SOUTENIR L'UKRAINE\", ESTIME IAN BROSSAT, SÉNATEUR PCF DE PARIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:35",
-      "date": "18/09",
-      "timestamp": 1789767344
-    },
-    {
-      "id": "BFMTV_1789766635",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE BANNIR PLUSIEURS MÉDIAS DE LA MAISON BLANCHE, LES ACCUSANT DE PROPAGER DES \"FAKE NEWS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:23",
-      "date": "18/09",
-      "timestamp": 1789766635
-    },
-    {
-      "id": "BFMTV_1789764468",
-      "source": "BFMTV",
-      "text": "MENACE RUSSE: LE DÉTAIL DES DERNIÈRES ATTAQUES SUR LE SOL EUROPÉEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:47",
-      "date": "18/09",
-      "timestamp": 1789764468
-    },
-    {
-      "id": "BFMTV_1789762978",
-      "source": "BFMTV",
-      "text": "MENACE RUSSE: \"LA FRANCE N'EST PAS EN SITUATION DE MENER UNE GUERRE\", ANALYSE ALAIN BAUER",
-      "urgent": true,
-      "france_related": true,
-      "time": "20:22",
-      "date": "18/09",
-      "timestamp": 1789762978
-    },
-    {
-      "id": "BFMTV_1789760952",
-      "source": "BFMTV",
-      "text": "MENACE RUSSE: \"ON EST ARRIVÉ À UN SEUIL OÙ IL FAUDRA RÉPONDRE\", EXPLIQUE SERGUEÏ JIRNOV, ANCIEN OFFICIER DE RENSEIGNEMENT DU KGB",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:49",
-      "date": "18/09",
-      "timestamp": 1789760952
-    },
-    {
-      "id": "BFMTV_1789758765",
-      "source": "BFMTV",
-      "text": "MENACE RUSSE: \"LA FRANCE N'EST PAS EN SITUATION DE MENER UNE GUERRE\", OBSERVE ALAIN BAUER, PROFESSEUR ÉMÉRITE",
-      "urgent": true,
-      "france_related": true,
-      "time": "19:12",
-      "date": "18/09",
-      "timestamp": 1789758765
-    },
-    {
-      "id": "BFMTV_1789755141",
-      "source": "BFMTV",
-      "text": "PRÉSIDENTIELLE 2027: FAUX MÉDIAS, DEEPFAKES… COMMENT LES RÉSEAUX RUSSES VEULENT PERTURBER L'ÉLECTION?",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:12",
-      "date": "18/09",
-      "timestamp": 1789755141
-    },
-    {
-      "id": "BFMTV_1789751881",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:18",
-      "date": "18/09",
-      "timestamp": 1789751881
-    },
-    {
-      "id": "BFMTV_1789751880",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UNE TOUR DE REFROIDISSEMENT DE LA CENTRALE NUCLÉAIRE RUSSE DE KOURSK TOUCHÉE PAR UN DRONE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:18",
-      "date": "18/09",
-      "timestamp": 1789751880
-    },
-    {
-      "id": "OPEX360_1789751507",
-      "source": "OPEX360",
-      "text": "UN AVION DE COMBAT ITALIEN EUROFIGHTER F2000 A ÉTÉ TOUCHÉ LORS D’UNE ATTAQUE DES REBELLES HOUTHISTES EN ARABIE SAOUDITE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:11",
-      "date": "18/09",
-      "timestamp": 1789751507
-    },
-    {
-      "id": "OPEX360_1789747376",
-      "source": "OPEX360",
-      "text": "LE PATROUILLEUR OUTRE-MER «JEAN TRANAPE» A OFFICIELLEMENT ÉTÉ ADMIS AU SERVICE ACTIF EN NOUVELLE-CALÉDONIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:02",
-      "date": "18/09",
-      "timestamp": 1789747376
-    },
-    {
-      "id": "BFMTV_1789744918",
-      "source": "BFMTV",
-      "text": "UN REGAIN DE TENSIONS ENTRE LES ÉTATS-UNIS ET LA CORÉE DU NORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:21",
-      "date": "18/09",
-      "timestamp": 1789744918
     }
   ],
   "france": {
