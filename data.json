@@ -1,7 +1,87 @@
 {
-  "last_update": "21/09 01:41",
+  "last_update": "21/09 07:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1789973427",
+      "source": "BFMTV",
+      "text": "INTELLIGENCE ARTIFICIELLE: ÉTATS-UNIS ET CHINE VEULENT \"UNE VISION PARTAGÉE DES OBJECTIFS COMMUNS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:50",
+      "date": "21/09",
+      "timestamp": 1789973427
+    },
+    {
+      "id": "BFMTV_1789972303",
+      "source": "BFMTV",
+      "text": "UNE BATTERIE EXTERNE PREND FEU EN PLEIN VOL, UN AVION DE KLM AIRLINES FORCÉ DE FAIRE DEMI-TOUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:31",
+      "date": "21/09",
+      "timestamp": 1789972303
+    },
+    {
+      "id": "BFMTV_1789970797",
+      "source": "BFMTV",
+      "text": "ÉVICTION DE MACKLEMORE: ED SHEERAN RECONNAIT \"DES ERREURS\" SUR FOND DE CONFLIT ISRAÉLO-PALESTINIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:06",
+      "date": "21/09",
+      "timestamp": 1789970797
+    },
+    {
+      "id": "BFMTV_1789966691",
+      "source": "BFMTV",
+      "text": "UNE PROBABLE EXPLOSION DE MINE FAIT TROIS BLESSÉS DANS LA ZONE DÉMILITARISÉE ENTRE LES DEUX CORÉES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:58",
+      "date": "21/09",
+      "timestamp": 1789966691
+    },
+    {
+      "id": "BFMTV_1789964598",
+      "source": "BFMTV",
+      "text": "UN RESSORTISSANT VÉNÉZUÉLIEN GRIÈVEMENT BLESSÉ PAR BALLE PAR UN AGENT DE L'ICE AU TEXAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:23",
+      "date": "21/09",
+      "timestamp": 1789964598
+    },
+    {
+      "id": "BFMTV_1789964466",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:21",
+      "date": "21/09",
+      "timestamp": 1789964466
+    },
+    {
+      "id": "BFMTV_1789964466",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:21",
+      "date": "21/09",
+      "timestamp": 1789964466
+    },
+    {
+      "id": "BFMTV_1789964303",
+      "source": "BFMTV",
+      "text": "ALLEMAGNE: TOUT COMPRENDRE DE LA PERCÉE HISTORIQUE DE L'EXTRÊME DROITE ALLEMANDE LORS DES ÉLECTIONS RÉGIONALES",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:18",
+      "date": "21/09",
+      "timestamp": 1789964303
+    },
     {
       "id": "BFMTV_1789940575",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "15:21",
       "date": "18/09",
       "timestamp": 1789744918
-    },
-    {
-      "id": "BFMTV_1789744667",
-      "source": "BFMTV",
-      "text": "JEUX ASIATIQUES: L'HYMNE NORD-CORÉEN JOUÉ PAR ERREUR AVANT UN MATCH DE LA CORÉE DU SUD   ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:17",
-      "date": "18/09",
-      "timestamp": 1789744667
-    },
-    {
-      "id": "BFMTV_1789744298",
-      "source": "BFMTV",
-      "text": "LÉGISLATIVES EN RUSSIE : COMMENT S'OPPOSER DANS LES URNES ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:11",
-      "date": "18/09",
-      "timestamp": 1789744298
-    },
-    {
-      "id": "BFMTV_1789743750",
-      "source": "BFMTV",
-      "text": "LÉGISLATIVES EN RUSSIE: \"LE BUT DE SES ÉLECTIONS, C'EST DE MONTRER QUE TOUT EST SOUS CONTRÔLE DANS LE PAYS\", SELON TATIANA KASTOUÉVA-JEAN, DIRECTRICE DU CENTRE RUSSIE/EURASIE DE L'IFRI",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:02",
-      "date": "18/09",
-      "timestamp": 1789743750
-    },
-    {
-      "id": "BFMTV_1789742799",
-      "source": "BFMTV",
-      "text": "L'AUSTRALIE VEUT ENFERMER LES TOURISTES DÉPASSANT LA DURÉE DE LEUR VISA ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:46",
-      "date": "18/09",
-      "timestamp": 1789742799
-    },
-    {
-      "id": "OPEX360_1789741801",
-      "source": "OPEX360",
-      "text": "THALES DÉFIE L’AMÉRICAIN PALANTIR EN PROPOSANT SON LOGICIEL DE COMMANDEMENT BASÉ SUR L’IA «HEXAFORCE» À L’OTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:30",
-      "date": "18/09",
-      "timestamp": 1789741801
-    },
-    {
-      "id": "BFMTV_1789735758",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS EXPULSENT DES MIGRANTS LATINO-AMÉRICAINS VERS L'AFRIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:49",
-      "date": "18/09",
-      "timestamp": 1789735758
-    },
-    {
-      "id": "BFMTV_1789733513",
-      "source": "BFMTV",
-      "text": "\"LE SOUTIEN À L'UKRAINE EST PLUS QUE JAMAIS INDISPENSABLE\": EMMANUEL MACRON ANNONCE DES EXERCICES MILITAIRES CONJOINTS  SUR LE SOL EUROPÉEN AVEC LE ROYAUME-UNI ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:11",
-      "date": "18/09",
-      "timestamp": 1789733513
-    },
-    {
-      "id": "BFMTV_1789733240",
-      "source": "BFMTV",
-      "text": "MENACES RUSSES: LA FRANCE PRÉPARE UN PLAN DE PROTECTION DES \"SITES LES PLUS SENSIBLES\" CONTRE LES ATTAQUES DE DRONES ET CYBER, ANNONCE EMMANUEL MACRON ",
-      "urgent": true,
-      "france_related": true,
-      "time": "12:07",
-      "date": "18/09",
-      "timestamp": 1789733240
     }
   ],
   "france": {
