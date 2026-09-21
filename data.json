@@ -1,7 +1,147 @@
 {
-  "last_update": "21/09 14:12",
+  "last_update": "21/09 19:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790018031",
+      "source": "BFMTV",
+      "text": "\"LES RUSSES SONT D'UNE BRUTALE FRANCHISE \", ANALYSE ALAIN BAUER, PROFESSEUR ÉMÉRITE DE CRIMINOLOGIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:13",
+      "date": "21/09",
+      "timestamp": 1790018031
+    },
+    {
+      "id": "BFMTV_1790015550",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UN RAPPORT MILITAIRE FAIT PAR IA A FAILLI “DÉCLENCHER UNE GUERRE” AVEC LA CHINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:32",
+      "date": "21/09",
+      "timestamp": 1790015550
+    },
+    {
+      "id": "OPEX360_1790011721",
+      "source": "OPEX360",
+      "text": "LA MARINE ALLEMANDE CONFIRME SON INTENTION DE DOTER SES AVIONS DE PATROUILLE MARITIME DE MISSILES ANTINAVIRES JSM",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:28",
+      "date": "21/09",
+      "timestamp": 1790011721
+    },
+    {
+      "id": "BFMTV_1790011150",
+      "source": "BFMTV",
+      "text": "TOUT COMPRENDRE. MÉDIAS BANNIS DE LA MAISON BLANCHE, FOX NEWS SOLIDAIRE, PROCÉDURE JUDICIAIRE... POURQUOI LES CHAÎNES AMÉRICAINES ARRÊTENT DE SUIVRE LES ACTIVITÉS DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:19",
+      "date": "21/09",
+      "timestamp": 1790011150
+    },
+    {
+      "id": "BFMTV_1790011037",
+      "source": "BFMTV",
+      "text": "LE JAPON SE PRÉPARE À L'ARRIVÉE DU TYPHON DUJUAN QUI A DÉJÀ SUBMERGÉ LES RUES DE NOMBREUSES VILLES",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:17",
+      "date": "21/09",
+      "timestamp": 1790011037
+    },
+    {
+      "id": "BFMTV_1790010979",
+      "source": "BFMTV",
+      "text": "\"DE LA PROPAGANDE D’EXTRÊME GAUCHE\": JD VANCE JUSTIFIE L'INTERDICTION DE CNN, MS NOW ET POLITICO À LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:16",
+      "date": "21/09",
+      "timestamp": 1790010979
+    },
+    {
+      "id": "BFMTV_1790009508",
+      "source": "BFMTV",
+      "text": "QUI EST ELIF ERALP, FIGURE DE LA GAUCHE RADICALE ARRIVÉE EN TÊTE DES ÉLECTIONS À LA MAIRIE DE BERLIN?",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:51",
+      "date": "21/09",
+      "timestamp": 1790009508
+    },
+    {
+      "id": "OPEX360_1790009159",
+      "source": "OPEX360",
+      "text": "LA RÉPUBLIQUE TCHÈQUE EST SUR LE POINT DE METTRE LE SYSTÈME DE DÉFENSE AÉRIENNE ISRAÉLIEN SPYDER EN SERVICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:45",
+      "date": "21/09",
+      "timestamp": 1790009159
+    },
+    {
+      "id": "BFMTV_1790007417",
+      "source": "BFMTV",
+      "text": "EN SCANDINAVIE, UN DOCUMENTAIRE SUR L'ESPIONNAGE RUSSE EST RETIRÉ POUR ÉVITER QUE L'IA N'IDENTIFIE LES SOURCES ANONYMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:16",
+      "date": "21/09",
+      "timestamp": 1790007417
+    },
+    {
+      "id": "BFMTV_1790006691",
+      "source": "BFMTV",
+      "text": "\"IL EST CLAIREMENT SUR LA SELLETTE\": LE CHANCELIER ALLEMAND FRIEDRICH MERZ SOUS PRESSION APRÈS LE \"DÉSASTRE\" DES CONSERVATEURS AUX ÉLECTIONS RÉGIONALES",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:04",
+      "date": "21/09",
+      "timestamp": 1790006691
+    },
+    {
+      "id": "BFMTV_1790005772",
+      "source": "BFMTV",
+      "text": "TRIPLE INFANTICIDE AUX ÉTATS-UNIS: L'EX-MARI DE LINDSAY CLANCY DIT LUI AVOIR PARDONNÉ POUR NE PAS \"ÊTRE RONGÉ DE L'INTÉRIEUR À JAMAIS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:49",
+      "date": "21/09",
+      "timestamp": 1790005772
+    },
+    {
+      "id": "OPEX360_1790005120",
+      "source": "OPEX360",
+      "text": "UNE DÉMONSTRATION DE DRONES ORGANISÉE PAR LE MINISTÈRE SUD-CORÉEN DE LA DÉFENSE A VIRÉ AU FIASCO",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:38",
+      "date": "21/09",
+      "timestamp": 1790005120
+    },
+    {
+      "id": "BFMTV_1790000894",
+      "source": "BFMTV",
+      "text": "LES AUTORITÉS IRANIENNES FERMENT LE CENTRE DE LANGUE FRANÇAISE DE TÉHÉRAN",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:28",
+      "date": "21/09",
+      "timestamp": 1790000894
+    },
+    {
+      "id": "BFMTV_1790000100",
+      "source": "BFMTV",
+      "text": "LES MÉDIAS CNN, MS NOW ET POLITICO POURSUIVENT L’ADMINISTRATION TRUMP EN JUSTICE FACE À LEUR EXCLUSION DE LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:15",
+      "date": "21/09",
+      "timestamp": 1790000100
+    },
     {
       "id": "BFMTV_1789999595",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "08:49",
       "date": "19/09",
       "timestamp": 1789807756
-    },
-    {
-      "id": "BFMTV_1789804208",
-      "source": "BFMTV",
-      "text": "\"TRAÎTRESSE À LA FRANCE\": ELON MUSK RÉPOND À SANDRINE ROUSSEAU QUI L'A QUALIFIÉ DE \"CONNARD DE SUPRÉMACISTE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:50",
-      "date": "19/09",
-      "timestamp": 1789804208
-    },
-    {
-      "id": "BFMTV_1789801896",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: CE QUE L'ON SAIT SUR L'ACCORD DE SÉCURITÉ POUR LE \"CONTRÔLE\" DU GROENLAND ANNONCÉ PAR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:11",
-      "date": "19/09",
-      "timestamp": 1789801896
-    },
-    {
-      "id": "BFMTV_1789799572",
-      "source": "BFMTV",
-      "text": "CE QUE L'ON SAIT SUR L'ACCORD DE SÉCURITÉ POUR LE \"CONTRÔLE\" DU GROENLAND ANNONCÉ PAR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:32",
-      "date": "19/09",
-      "timestamp": 1789799572
-    },
-    {
-      "id": "BFMTV_1789799339",
-      "source": "BFMTV",
-      "text": "\"PAS TOUCHE AU KENNEDY CENTER\": PLUS D'UN MILLIER DE PERSONNES RÉUNIES DEVANT L'INSTITUTION CULTURELLE À WASHINGTON MENACÉE DE FERMETURE PAR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:28",
-      "date": "19/09",
-      "timestamp": 1789799339
-    },
-    {
-      "id": "BFMTV_1789796456",
-      "source": "BFMTV",
-      "text": "LONDRES : LA TRADITION DES BONNETS EN PEAU D’OURS DE LA GARDE ROYALE CONTESTÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:40",
-      "date": "19/09",
-      "timestamp": 1789796456
-    },
-    {
-      "id": "BFMTV_1789796130",
-      "source": "BFMTV",
-      "text": "MENACE RUSSE: \"LA RUSSIE N'A AUCUNE INTENTION AGRESSIVE ENVERS LES PAYS EUROPÉENS\", ASSURE VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:35",
-      "date": "19/09",
-      "timestamp": 1789796130
-    },
-    {
-      "id": "BFMTV_1789794580",
-      "source": "BFMTV",
-      "text": "TENSION AUTOUR DU GROENLAND",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:09",
-      "date": "19/09",
-      "timestamp": 1789794580
-    },
-    {
-      "id": "BFMTV_1789794579",
-      "source": "BFMTV",
-      "text": "\"DURÉE DE VIE INFINIE\", CHINE ET RUSSIE VISÉES... CE QUE L'ON SAIT SUR L'ACCORD DE SÉCURITÉ POUR LE \"CONTRÔLE\" DU GROENLAND ANNONCÉ PAR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:09",
-      "date": "19/09",
-      "timestamp": 1789794579
-    },
-    {
-      "id": "BFMTV_1789794547",
-      "source": "BFMTV",
-      "text": "UN \"CONTRÔLE PERMANENT\": DONALD TRUMP ANNONCE UN ACCORD AVEC LE DANEMARK ET LE GROENLAND ",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:09",
-      "date": "19/09",
-      "timestamp": 1789794547
-    },
-    {
-      "id": "BFMTV_1789792452",
-      "source": "BFMTV",
-      "text": "INGÉRENCES: QUELLES SONT LES \"INFRASTRUCTURES CRITIQUES\" SUR LESQUELLES PLANE LA MENACE RUSSE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:34",
-      "date": "19/09",
-      "timestamp": 1789792452
-    },
-    {
-      "id": "BFMTV_1789791492",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QUE SON FILS \"A REMBOURSÉ\" LES DÉPENSES DE SON MARIAGE ENGAGÉES PAR UN HOMME D'AFFAIRES RUSSE LIÉ AU KREMLIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:18",
-      "date": "19/09",
-      "timestamp": 1789791492
-    },
-    {
-      "id": "BFMTV_1789791190",
-      "source": "BFMTV",
-      "text": "UN BRÉSILIEN SOUPÇONNÉ D'AVOIR TUÉ AU MOINS 16 PERSONNES ARRÊTÉ HABILLÉ EN FEMME ALORS QU'IL TENTAIT DE FUIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:13",
-      "date": "19/09",
-      "timestamp": 1789791190
-    },
-    {
-      "id": "BFMTV_1789770512",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP PROMULGUE UNE LOI IMPOSANT DE NOUVELLES SANCTIONS VISANT LA RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:28",
-      "date": "18/09",
-      "timestamp": 1789770512
-    },
-    {
-      "id": "BFMTV_1789768878",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT POLONAIS CRÉÉ LA POLÉMIQUE EN DÉCLARANT QUE \"NOUS POUVONS CÉDER DU TERRITOIRE\", LE PREMIER MINISTRE L'INTERPELLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:01",
-      "date": "18/09",
-      "timestamp": 1789768878
     }
   ],
   "france": {
