@@ -1,7 +1,17 @@
 {
-  "last_update": "22/09 06:36",
+  "last_update": "22/09 12:03",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1790073033",
+      "source": "OPEX360",
+      "text": "LONDRES SE FÉLICITE D’UNE «AVANCÉE MAJEURE» APRÈS LE TIR D’UNE TORPILLE PAR LE DRONE SOUS-MARIN EXCALIBUR DE LA ROYAL NAVY",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:30",
+      "date": "22/09",
+      "timestamp": 1790073033
+    },
     {
       "id": "BFMTV_1790057902",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "18:45",
       "date": "19/09",
       "timestamp": 1789843557
-    },
-    {
-      "id": "BFMTV_1789840149",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:49",
-      "date": "19/09",
-      "timestamp": 1789840149
     }
   ],
   "france": {
