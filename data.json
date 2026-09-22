@@ -1,7 +1,127 @@
 {
-  "last_update": "22/09 01:26",
+  "last_update": "22/09 06:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790057902",
+      "source": "BFMTV",
+      "text": "ONU: \"NOUS SOMMES À UN MOMENT CRITIQUE POUR LE MONDE\", DÉCLARE LE PRÉSIDENT DU CONSEIL EUROPÉEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:18",
+      "date": "22/09",
+      "timestamp": 1790057902
+    },
+    {
+      "id": "BFMTV_1790057618",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ET ZOHRAN MAMDANI AFFICHENT DE NOUVEAU LEUR BONNE ENTENTE À NEW YORK ET PROMETTENT \"UN NOUVEAU NIVEAU DE DIALOGUE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:13",
+      "date": "22/09",
+      "timestamp": 1790057618
+    },
+    {
+      "id": "BFMTV_1790057024",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT IRANIEN PROMET DE \"DÉFENDRE FERMEMENT\" LES POSITIONS DE L'IRAN AVANT SON DÉPART POUR L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:03",
+      "date": "22/09",
+      "timestamp": 1790057024
+    },
+    {
+      "id": "BFMTV_1790056729",
+      "source": "BFMTV",
+      "text": "LA PRÉSIDENTE DE LA COMMISSION EUROPÉENNE, URSULA VON DER LEYEN, APPELLE À RÉFORMER L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:58",
+      "date": "22/09",
+      "timestamp": 1790056729
+    },
+    {
+      "id": "BFMTV_1790056112",
+      "source": "BFMTV",
+      "text": "AU MOINS QUATRE MORTS ET 45.000 FOYERS SANS ÉLECTRICITÉ AU JAPON APRÈS LE PASSAGE DU TYPHON DUJUAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:48",
+      "date": "22/09",
+      "timestamp": 1790056112
+    },
+    {
+      "id": "BFMTV_1790054585",
+      "source": "BFMTV",
+      "text": "LA MAISON BLANCHE LANCE LA CHAÎNE TRUMP TV APRÈS AVOIR ÉVINCÉ TROIS GRANDS MÉDIAS AMÉRICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:23",
+      "date": "22/09",
+      "timestamp": 1790054585
+    },
+    {
+      "id": "BFMTV_1790053284",
+      "source": "BFMTV",
+      "text": "CRISE ÉNERGÉTIQUE: LE G7 EXHORTE LES HOUTHIS À CESSER \"IMMÉDIATEMENT\" LEURS MENACES ET ATTAQUES DANS LE DÉTROIT DE BAB EL-MANDEB",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:01",
+      "date": "22/09",
+      "timestamp": 1790053284
+    },
+    {
+      "id": "BFMTV_1790053237",
+      "source": "BFMTV",
+      "text": "\"J'AI ENCORE LA BALLE EN MOI\":  UN VÉNÉZUÉLIEN BLESSÉ PAR UN AGENT DE LA POLICE DE L'IMMIGRATION AU TEXAS RACONTE SA VIOLENTE ARRESTATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:00",
+      "date": "22/09",
+      "timestamp": 1790053237
+    },
+    {
+      "id": "BFMTV_1790051169",
+      "source": "BFMTV",
+      "text": "KIM JONG-UN",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:26",
+      "date": "22/09",
+      "timestamp": 1790051169
+    },
+    {
+      "id": "BFMTV_1790051130",
+      "source": "BFMTV",
+      "text": "APRÈS LE TIR DE MISSILES EN MER DU JAPON, LA CORÉE DU NORD DIT AVOIR TESTÉ UNE ARME D'UN \"NOUVEAU TYPE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:25",
+      "date": "22/09",
+      "timestamp": 1790051130
+    },
+    {
+      "id": "BFMTV_1790051050",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE, PRIX DU PÉTROLE... CE QU'A DIT EMMANUEL MACRON À DONALD TRUMP LORS DE LEUR ENTRETIEN À NEW YORK",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:24",
+      "date": "22/09",
+      "timestamp": 1790051050
+    },
+    {
+      "id": "BFMTV_1790050736",
+      "source": "BFMTV",
+      "text": "DES RAIDS RUSSES MASSIFS FONT DEUX MORTS EN UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:18",
+      "date": "22/09",
+      "timestamp": 1790050736
+    },
     {
       "id": "BFMTV_1790027780",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "17:49",
       "date": "19/09",
       "timestamp": 1789840149
-    },
-    {
-      "id": "BFMTV_1789833588",
-      "source": "BFMTV",
-      "text": "VISITE DE LÉON XIV EN FRANCE: LES ÉVÊQUES QUI ACCUEILLERONT LE PAPE RÉPONDENT AUX QUESTIONS DE BFMTV",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:59",
-      "date": "19/09",
-      "timestamp": 1789833588
-    },
-    {
-      "id": "BFMTV_1789831696",
-      "source": "BFMTV",
-      "text": "FACE À LA MENACE RUSSE, LA FRANCE A RECENSÉ 1.500 SITES VULNÉRABLES",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:28",
-      "date": "19/09",
-      "timestamp": 1789831696
-    },
-    {
-      "id": "BFMTV_1789831457",
-      "source": "BFMTV",
-      "text": "EUROPE, MENACE RUSSE: POUR VLADIMIR POUTINE, LES DIRIGEANTS EUROPÉENS \"AGGRAVENT LA SITUATION\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:24",
-      "date": "19/09",
-      "timestamp": 1789831457
-    },
-    {
-      "id": "BFMTV_1789829985",
-      "source": "BFMTV",
-      "text": "UNE ATTAQUE \"MASSIVE ET INTENSE\": LE SYSTÈME ÉLECTORAL RUSSE VISÉ PAR DES CYBERATTAQUES AU DEUXIÈME JOUR DES LÉGISLATIVES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:59",
-      "date": "19/09",
-      "timestamp": 1789829985
-    },
-    {
-      "id": "BFMTV_1789828778",
-      "source": "BFMTV",
-      "text": "LIGNE ROUGE - POUTINE, LA GRANDE PARANOÏA ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:39",
-      "date": "19/09",
-      "timestamp": 1789828778
-    },
-    {
-      "id": "BFMTV_1789825160",
-      "source": "BFMTV",
-      "text": "VISITE DU PAPE LÉON XIV EN FRANCE: LE SOUVERAIN PONTIFE RENCONTRERA DES VICTIMES DE VIOLENCES SEXUELLES COMMISES AU SEIN DE L'ÉGLISE",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:39",
-      "date": "19/09",
-      "timestamp": 1789825160
-    },
-    {
-      "id": "OPEX360_1789824636",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE TERRE A REÇU LA DERNIÈRE VERSION DE L’ENGIN BLINDÉ DE RECONNAISSANCE ET DE COMBAT JAGUAR",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:30",
-      "date": "19/09",
-      "timestamp": 1789824636
-    },
-    {
-      "id": "BFMTV_1789824573",
-      "source": "BFMTV",
-      "text": "VISITE DU PAPE LÉON XIV EN FRANCE: \"L'ÉGLISE DE FRANCE EST EN TRAIN DE RAJEUNIR\", ESTIME MGR PHILIPPE BALLOT, ARCHEVÊQUE DE METZ",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:29",
-      "date": "19/09",
-      "timestamp": 1789824573
-    },
-    {
-      "id": "BFMTV_1789824036",
-      "source": "BFMTV",
-      "text": "VISITE DU PAPE LÉON XIV EN FRANCE: \"LE CHOIX DE CE VOYAGE A ÉTÉ FAIT RELATIVEMENT TARDIVEMENT\", EXPLIQUE MGR LAURENT ULRICH, ARCHEVÊQUE DE PARIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:20",
-      "date": "19/09",
-      "timestamp": 1789824036
-    },
-    {
-      "id": "BFMTV_1789823693",
-      "source": "BFMTV",
-      "text": "ACTIFS D'AUCHAN ET NESTLÉ PASSÉS AUX MAINS DE LA RUSSIE: MOSCOU CIBLE DES SOCIÉTÉS DE PAYS \"INAMICAUX\" ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:14",
-      "date": "19/09",
-      "timestamp": 1789823693
-    },
-    {
-      "id": "BFMTV_1789822163",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE INTERDIRE L’ACCÈS DE CNN ET DE DEUX AUTRES MÉDIAS À LA MAISON BLANCHE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:49",
-      "date": "19/09",
-      "timestamp": 1789822163
-    },
-    {
-      "id": "BFMTV_1789822095",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE INTERDIRE L’ACCÈS DE CNN ET DE DEUX AUTRES MÉDIAS À LA MAISON BLANCHE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:48",
-      "date": "19/09",
-      "timestamp": 1789822095
     }
   ],
   "france": {
