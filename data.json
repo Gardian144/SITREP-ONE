@@ -1,5 +1,5 @@
 {
-  "last_update": "22/09 20:03",
+  "last_update": "22/09 22:56",
   "impacts": [],
   "news": [
     {
@@ -11,6 +11,16 @@
       "time": "17:36",
       "date": "22/09",
       "timestamp": 1790098567
+    },
+    {
+      "id": "BFMTV_1790098113",
+      "source": "BFMTV",
+      "text": "DIRECT. SUIVEZ LA PRISE DE PAROLE D'EMMANUEL MACRON DEVANT L'ASSEMBLÉE GÉNÉRALE DE L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:28",
+      "date": "22/09",
+      "timestamp": 1790098113
     },
     {
       "id": "OPEX360_1790096124",
@@ -991,16 +1001,6 @@
       "time": "14:54",
       "date": "20/09",
       "timestamp": 1789916059
-    },
-    {
-      "id": "BFMTV_1789915660",
-      "source": "BFMTV",
-      "text": "GRÈCE: UN HOMME DE 82 ANS MEURT APRÈS UNE ALTERCATION À PROPOS D'UN TRANSAT DE PLAGE PRÈS D'ATHÈNES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:47",
-      "date": "20/09",
-      "timestamp": 1789915660
     }
   ],
   "france": {
