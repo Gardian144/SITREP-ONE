@@ -1,7 +1,17 @@
 {
-  "last_update": "22/09 16:57",
+  "last_update": "22/09 20:03",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1790098567",
+      "source": "OPEX360",
+      "text": "DASSAULT AVIATION A INTÉGRÉ DEUX NOUVELLES FONCTIONS BASÉES SUR L’INTELLIGENCE ARTIFICIELLE À BORD DU RAFALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:36",
+      "date": "22/09",
+      "timestamp": 1790098567
+    },
     {
       "id": "OPEX360_1790096124",
       "source": "OPEX360",
@@ -171,6 +181,86 @@
       "time": "14:57",
       "date": "22/09",
       "timestamp": 1790089064
+    },
+    {
+      "id": "BFMTV_1790089021",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT AVOIR LE CHOIX ENTRE \"ANÉANTIR\" L'IRAN OU PASSER UN \"ACCORD\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:57",
+      "date": "22/09",
+      "timestamp": 1790089021
+    },
+    {
+      "id": "BFMTV_1790088729",
+      "source": "BFMTV",
+      "text": "ASSEMBLÉE GÉNÉRALE DES NATIONS UNIES: DONALD TRUMP APPELLE \"TOUTES LES NATIONS DU MONDE À ISOLER L'IRAN\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:52",
+      "date": "22/09",
+      "timestamp": 1790088729
+    },
+    {
+      "id": "BFMTV_1790088498",
+      "source": "BFMTV",
+      "text": "IRAN: SELON DONALD TRUMP, \"C'EST L'INFLATION QUI DÉTRUIT LEUR PAYS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:48",
+      "date": "22/09",
+      "timestamp": 1790088498
+    },
+    {
+      "id": "BFMTV_1790088401",
+      "source": "BFMTV",
+      "text": "UN AVION MILITAIRE F-16 S'ÉCRASE À PROXIMITÉ D'UNE BASE AÉRIENNE AMÉRICAINE EN ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:46",
+      "date": "22/09",
+      "timestamp": 1790088401
+    },
+    {
+      "id": "BFMTV_1790088223",
+      "source": "BFMTV",
+      "text": "ASSEMBLÉE GÉNÉRALE DES NATIONS UNIES: \"NOUS AVONS RÉSOLU ENSEMBLE LES PLUS GRANDS PROBLÈMES DU MONDE\", ESTIME DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:43",
+      "date": "22/09",
+      "timestamp": 1790088223
+    },
+    {
+      "id": "BFMTV_1790087979",
+      "source": "BFMTV",
+      "text": "\"UNE FÊTE SUR UNE ÎLE PRIVÉE PAYÉE PAR UN OLIGARQUE LIÉ À POUTINE\": UN SÉNATEUR RÉPUBLICAIN DEMANDE UNE ENQUÊTE SUR LE MARIAGE DU FILS AÎNÉ DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:39",
+      "date": "22/09",
+      "timestamp": 1790087979
+    },
+    {
+      "id": "BFMTV_1790087904",
+      "source": "BFMTV",
+      "text": "\"MAINTENANT, NOS FRONTIÈRES SONT SÛRES\", DÉCLARE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:38",
+      "date": "22/09",
+      "timestamp": 1790087904
+    },
+    {
+      "id": "BFMTV_1790087875",
+      "source": "BFMTV",
+      "text": "\"L'ÉCONOMIE DES ÉTATS-UNIS EST ENVIÉE PAR LE MONDE ENTIER\", AFFIRME DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:37",
+      "date": "22/09",
+      "timestamp": 1790087875
     },
     {
       "id": "OPEX360_1790073033",
@@ -911,96 +1001,6 @@
       "time": "14:47",
       "date": "20/09",
       "timestamp": 1789915660
-    },
-    {
-      "id": "BFMTV_1789912852",
-      "source": "BFMTV",
-      "text": "\"LES UKRAINIENS ONT VOULU \"MARQUER LE COUP\" AU TROISIÈME JOUR DES ÉLECTIONS LÉGISLATIVES\" EN RUSSIE, ANALYSE ALAIN BARLUET, CORRESPONDANT \"LE FIGARO\" À MOSCOU",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:00",
-      "date": "20/09",
-      "timestamp": 1789912852
-    },
-    {
-      "id": "BFMTV_1789912648",
-      "source": "BFMTV",
-      "text": "ATTAQUE DE DRONES SUR MOSCOU: \"DES ÉCLATS DE VERRE ONT JAILLI, LES GENS SE SONT MIS À HURLER\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:57",
-      "date": "20/09",
-      "timestamp": 1789912648
-    },
-    {
-      "id": "BFMTV_1789911991",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: BFMTV AVEC LES LANCEURS DE DRONES UKRAINIENS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:46",
-      "date": "20/09",
-      "timestamp": 1789911991
-    },
-    {
-      "id": "BFMTV_1789911375",
-      "source": "BFMTV",
-      "text": "\"IL N'EXISTERA AUCUNE INSTALLATION COMPARABLE AILLEURS DANS LE MONDE\": L'ARC DE TRIOMPHE VOULU PAR DONALD TRUMP À WASHINGTON ABRITERA \"UN COMPLEXE MILITAIRE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:36",
-      "date": "20/09",
-      "timestamp": 1789911375
-    },
-    {
-      "id": "BFMTV_1789909857",
-      "source": "BFMTV",
-      "text": "\"NOUS FERONS MIEUX À L'AVENIR\": LA MARQUE AMÉRICAINE CONVERSE PRÉSENTE SES EXCUSES APRÈS UNE PUBLICITÉ ÉVOQUANT LE KU KLUX KLAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:10",
-      "date": "20/09",
-      "timestamp": 1789909857
-    },
-    {
-      "id": "BFMTV_1789906115",
-      "source": "BFMTV",
-      "text": "RAFFINERIE ENDOMMAGÉE, 1.600 DRONES… CE QUE L'ON SAIT DE L'ATTAQUE UKRAINIENNE \"SANS PRÉCÉDENT\" SUR LA RÉGION DE MOSCOU AU DERNIER JOUR DES LÉGISLATIVES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:08",
-      "date": "20/09",
-      "timestamp": 1789906115
-    },
-    {
-      "id": "BFMTV_1789905945",
-      "source": "BFMTV",
-      "text": "RUSSIE: MOSCOU VISÉE PAR UNE IMPORTANTE ATTAQUE DE DRONES AU DERNIER JOUR DES LÉGISLATIVES",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:05",
-      "date": "20/09",
-      "timestamp": 1789905945
-    },
-    {
-      "id": "BFMTV_1789905289",
-      "source": "BFMTV",
-      "text": "RUSSIE: MOSCOU VISÉE PAR UNE IMPORTANTE ATTAQUE DE DRONES",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:54",
-      "date": "20/09",
-      "timestamp": 1789905289
-    },
-    {
-      "id": "OPEX360_1789901940",
-      "source": "OPEX360",
-      "text": "L’IRLANDE A CONFIRMÉ LA COMMANDE DE CINQ RADARS DE SURVEILLANCE AÉRIENNE AUPRÈS DE LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:59",
-      "date": "20/09",
-      "timestamp": 1789901940
     }
   ],
   "france": {
