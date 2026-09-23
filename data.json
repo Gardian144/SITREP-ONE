@@ -1,7 +1,57 @@
 {
-  "last_update": "23/09 19:45",
+  "last_update": "23/09 22:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790201225",
+      "source": "BFMTV",
+      "text": "ATTENTATS DU 13-NOVEMBRE: FACE À LA POSSIBLE LIBÉRATION DU \"LOGISTICIEN\", LA JUSTICE BELGE PRENDRA LE TEMPS D'ENTENDRE LES VICTIMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:07",
+      "date": "23/09",
+      "timestamp": 1790201225
+    },
+    {
+      "id": "BFMTV_1790193926",
+      "source": "BFMTV",
+      "text": "RISQUES LIÉS À L'IA: \"NOUS NE POUVONS PAS DIRE QUE PERSONNE NE NOUS A AVERTIS\", PRÉVIENT LE PRINCE HARRY",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:05",
+      "date": "23/09",
+      "timestamp": 1790193926
+    },
+    {
+      "id": "BFMTV_1790193535",
+      "source": "BFMTV",
+      "text": "IA: \"IL NOUS FAUT PRENDRE LE TEMPS DE MESURER LES CONSÉQUENCES DE LA DIFFUSION DE L'IA POUR LA DIGNITÉ DE LA PERSONNE HUMAINE\", DÉCLARE JEAN-NOËL BARROT",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:58",
+      "date": "23/09",
+      "timestamp": 1790193535
+    },
+    {
+      "id": "BFMTV_1790193153",
+      "source": "BFMTV",
+      "text": "IA: \"NOUS RALENTIRONS AUTANT QUE NÉCESSAIRE POUR FAIRE EN SORTE QUE CHAQUE NOUVELLE TECHNOLOGIQUE DE L'IA QUE NOUS DÉPLOYONS SOIT VÉRITABLEMENT SÛRE\", DÉCLARE DARIO AMODEI, PDG D'ANTHROPIC",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:52",
+      "date": "23/09",
+      "timestamp": 1790193153
+    },
+    {
+      "id": "BFMTV_1790192699",
+      "source": "BFMTV",
+      "text": "PROGRESSION DE L'IA: \"IL FAUT QUE NOUS SOYONS TRÈS PRUDENTS\", PRÉVIENT SAM ALTMAN, LE PDG D'OPENAI",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:44",
+      "date": "23/09",
+      "timestamp": 1790192699
+    },
     {
       "id": "BFMTV_1790192160",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "05:58",
       "date": "22/09",
       "timestamp": 1790056729
-    },
-    {
-      "id": "BFMTV_1790056112",
-      "source": "BFMTV",
-      "text": "AU MOINS QUATRE MORTS ET 45.000 FOYERS SANS ÉLECTRICITÉ AU JAPON APRÈS LE PASSAGE DU TYPHON DUJUAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:48",
-      "date": "22/09",
-      "timestamp": 1790056112
-    },
-    {
-      "id": "BFMTV_1790054585",
-      "source": "BFMTV",
-      "text": "LA MAISON BLANCHE LANCE LA CHAÎNE TRUMP TV APRÈS AVOIR ÉVINCÉ TROIS GRANDS MÉDIAS AMÉRICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:23",
-      "date": "22/09",
-      "timestamp": 1790054585
-    },
-    {
-      "id": "BFMTV_1790053284",
-      "source": "BFMTV",
-      "text": "CRISE ÉNERGÉTIQUE: LE G7 EXHORTE LES HOUTHIS À CESSER \"IMMÉDIATEMENT\" LEURS MENACES ET ATTAQUES DANS LE DÉTROIT DE BAB EL-MANDEB",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:01",
-      "date": "22/09",
-      "timestamp": 1790053284
-    },
-    {
-      "id": "BFMTV_1790053237",
-      "source": "BFMTV",
-      "text": "\"J'AI ENCORE LA BALLE EN MOI\":  UN VÉNÉZUÉLIEN BLESSÉ PAR UN AGENT DE LA POLICE DE L'IMMIGRATION AU TEXAS RACONTE SA VIOLENTE ARRESTATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:00",
-      "date": "22/09",
-      "timestamp": 1790053237
-    },
-    {
-      "id": "BFMTV_1790051169",
-      "source": "BFMTV",
-      "text": "KIM JONG-UN",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:26",
-      "date": "22/09",
-      "timestamp": 1790051169
     }
   ],
   "france": {
