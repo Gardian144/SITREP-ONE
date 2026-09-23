@@ -1,7 +1,127 @@
 {
-  "last_update": "23/09 06:21",
+  "last_update": "23/09 11:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790163342",
+      "source": "BFMTV",
+      "text": "GIORGIA MELONI",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:35",
+      "date": "23/09",
+      "timestamp": 1790163342
+    },
+    {
+      "id": "BFMTV_1790163332",
+      "source": "BFMTV",
+      "text": "\"MOURIR À 22 ANS EST INACCEPTABLE\": LE COLISÉE DE ROME FERMÉ AU PUBLIC APRÈS LA MORT D'UN OUVRIER, GIORGIA MELONI SE DIT \"PROFONDÉMENT TOUCHÉE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:35",
+      "date": "23/09",
+      "timestamp": 1790163332
+    },
+    {
+      "id": "BFMTV_1790160287",
+      "source": "BFMTV",
+      "text": "\"VOUS NE DEVRIEZ PAS ÊTRE ICI\": DONALD TRUMP S'EN PREND À UNE JOURNALISTE DE CNN AU SIÈGE DE L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:44",
+      "date": "23/09",
+      "timestamp": 1790160287
+    },
+    {
+      "id": "OPEX360_1790159681",
+      "source": "OPEX360",
+      "text": "ESPACE : LA ROYAL AIR FORCE CRÉE UN NOUVEL ESCADRON POUR ASSURER LA DÉFENSE DES SATELLITES BRITANNIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:34",
+      "date": "23/09",
+      "timestamp": 1790159681
+    },
+    {
+      "id": "BFMTV_1790157896",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT COLOMBIEN ENVOIE L'ARMÉE DANS UNE VILLE EN PROIE À DES VIOLENCES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:04",
+      "date": "23/09",
+      "timestamp": 1790157896
+    },
+    {
+      "id": "BFMTV_1790157555",
+      "source": "BFMTV",
+      "text": "\"UN PRIVILÈGE PAS UN DROIT\": L'ADMINISTRATION TRUMP S'EXPLIQUE APRÈS L'EXCLUSION DE CERTAINS MÉDIAS DE LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:59",
+      "date": "23/09",
+      "timestamp": 1790157555
+    },
+    {
+      "id": "BFMTV_1790149916",
+      "source": "BFMTV",
+      "text": "L'AZERBAÏDJAN GRACIE LE FRANÇAIS MARTIN RYAN, CONDAMNÉ À DIX ANS DE PRISON POUR \"ESPIONNAGE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:51",
+      "date": "23/09",
+      "timestamp": 1790149916
+    },
+    {
+      "id": "BFMTV_1790148526",
+      "source": "BFMTV",
+      "text": "LES IMAGES DU DÉSERT CHILIEN D'ATACAMA TRANSFORMÉ EN TAPIS DE FLEURS APRÈS LES PLUIES EXCEPTIONNELLES PROVOQUÉES PAR EL NIÑO",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:28",
+      "date": "23/09",
+      "timestamp": 1790148526
+    },
+    {
+      "id": "BFMTV_1790148452",
+      "source": "BFMTV",
+      "text": "11 PERSONNES, DONT UNE FEMME ENCEINTE, TUÉES DANS UNE FUSILLADE EN AFRIQUE DU SUD",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:27",
+      "date": "23/09",
+      "timestamp": 1790148452
+    },
+    {
+      "id": "BFMTV_1790147660",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:14",
+      "date": "23/09",
+      "timestamp": 1790147660
+    },
+    {
+      "id": "BFMTV_1790147660",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE FRAPPE RUSSE SUR UN CARGO DANS LA RÉGION D'ODESSA TUE LE CAPITAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:14",
+      "date": "23/09",
+      "timestamp": 1790147660
+    },
+    {
+      "id": "BFMTV_1790146271",
+      "source": "BFMTV",
+      "text": "\"EXTRÊMEMENT POSITIF\": LE CHEF DE L'OTAN RÉAGIT À L'ACCORD SUR LE GROENLAND AVEC LES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:51",
+      "date": "23/09",
+      "timestamp": 1790146271
+    },
     {
       "id": "BFMTV_1790143999",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "14:06",
       "date": "21/09",
       "timestamp": 1789999595
-    },
-    {
-      "id": "BFMTV_1789999268",
-      "source": "BFMTV",
-      "text": "FRIEDRICH MERZ PROMET QUE SON GOUVERNEMENT RESTERA POUR ASSURER \"L’AVENIR DÉMOCRATIQUE\" DE L’ALLEMAGNE",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:01",
-      "date": "21/09",
-      "timestamp": 1789999268
-    },
-    {
-      "id": "BFMTV_1789999228",
-      "source": "BFMTV",
-      "text": "SANS SURPRISE, LE PARTI DE VLADIMIR POUTINE REMPORTE LES ÉLECTIONS LÉGISLATIVES EN RUSSIE ET S’EN FÉLICITE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:00",
-      "date": "21/09",
-      "timestamp": 1789999228
-    },
-    {
-      "id": "BFMTV_1789997851",
-      "source": "BFMTV",
-      "text": "MARCO RUBIO, SECRÉTAIRE D'ÉTAT AMÉRICAIN, SONNE LA CLOCHE POUR OUVRIR WALL STREET CE LUNDI",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:37",
-      "date": "21/09",
-      "timestamp": 1789997851
-    },
-    {
-      "id": "BFMTV_1789995568",
-      "source": "BFMTV",
-      "text": "UN CHASSEUR AMÉRICAIN INCULPÉ POUR LA MORT D'UNE FEMME DE 39 ANS, IL AFFIRME L'AVOIR PRISE POUR UN CERF",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:59",
-      "date": "21/09",
-      "timestamp": 1789995568
-    },
-    {
-      "id": "BFMTV_1789995109",
-      "source": "BFMTV",
-      "text": "EXCLUSION DE TROIS MÉDIAS DE LA MAISON BLANCHE: DONALD TRUMP ACCUSE UNE PARTIE DE LA PRESSE DE REPRÉSENTER UNE \"MENACE POUR LA SÉCURITÉ NATIONALE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:51",
-      "date": "21/09",
-      "timestamp": 1789995109
-    },
-    {
-      "id": "BFMTV_1789994940",
-      "source": "BFMTV",
-      "text": "ATTAQUE DE DRONES SUR MOSCOU: LA RUSSIE PROMET D'\"INTENSIFIER\" SES ATTAQUES SUR KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:49",
-      "date": "21/09",
-      "timestamp": 1789994940
-    },
-    {
-      "id": "BFMTV_1789991424",
-      "source": "BFMTV",
-      "text": "LÉGISLATIVES EN RUSSIE: L'UNION EUROPÉENNE VOIT DANS CES ÉLECTIONS \"UN NOUVEAU REVERS MAJEUR POUR LA DÉMOCRATIE RUSSE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:50",
-      "date": "21/09",
-      "timestamp": 1789991424
-    },
-    {
-      "id": "BFMTV_1789991331",
-      "source": "BFMTV",
-      "text": "UNE BATTERIE EXTERNE PREND FEU DANS UN AVION ET OBLIGE UN VOL AMSTERDAM-CURAÇAO À FAIRE DEMI-TOUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:48",
-      "date": "21/09",
-      "timestamp": 1789991331
-    },
-    {
-      "id": "BFMTV_1789988299",
-      "source": "BFMTV",
-      "text": "1,6 MILLION DE PERSONNES APPELÉES À ÉVACUER ET DES PLUIES POTENTIELLEMENT RECORD: LE TYPHON DUJUAN FRAPPE LE JAPON",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:58",
-      "date": "21/09",
-      "timestamp": 1789988299
-    },
-    {
-      "id": "BFMTV_1789988118",
-      "source": "BFMTV",
-      "text": "KEN HAY, VÉTÉRAN BRITANNIQUE DU DÉBARQUEMENT EN NORMANDIE, MEURT À L'ÂGE DE 101 ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:55",
-      "date": "21/09",
-      "timestamp": 1789988118
-    },
-    {
-      "id": "BFMTV_1789987887",
-      "source": "BFMTV",
-      "text": "MIS À LA PORTE DE LA MAISON BLANCHE, LES MÉDIAS AMÉRICAINS CNN, MS NOW ET POLITICO ANNONCENT POURSUIVRE L'ADMINISTRATION TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:51",
-      "date": "21/09",
-      "timestamp": 1789987887
-    },
-    {
-      "id": "OPEX360_1789987582",
-      "source": "OPEX360",
-      "text": "LE GÉNÉRAL ALLEMAND CARSTEN BREUER A ÉTÉ ÉLU PRÉSIDENT DU COMITÉ MILITAIRE DE L’OTAN",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:46",
-      "date": "21/09",
-      "timestamp": 1789987582
     }
   ],
   "france": {
