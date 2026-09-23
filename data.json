@@ -1,7 +1,147 @@
 {
-  "last_update": "22/09 22:56",
+  "last_update": "23/09 01:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790114164",
+      "source": "BFMTV",
+      "text": "\"L’IGNORANCE N’EST PAS UNE EXCUSE\": ISRAËL DÉNONCE L'\"ABSURDITÉ GROTESQUE\" DES PROPOS D'EMMANUEL MACRON À L'ONU SUR LA CISJORDANIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:56",
+      "date": "22/09",
+      "timestamp": 1790114164
+    },
+    {
+      "id": "BFMTV_1790114062",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON APPELLE À UN \"DOUBLE MORATOIRE\" SUR LES FRAPPES CONTRE LES SITES ÉNERGÉTIQUES EN RUSSIE ET UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:54",
+      "date": "22/09",
+      "timestamp": 1790114062
+    },
+    {
+      "id": "BFMTV_1790113737",
+      "source": "BFMTV",
+      "text": "IA: EMMANUEL MACRON VEUT \"BÂTIR UNE GOUVERNANCE DE L'INTELLIGENCE ARTIFICIELLE FONDÉE SUR LES DROITS DE L'ENFANT\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:48",
+      "date": "22/09",
+      "timestamp": 1790113737
+    },
+    {
+      "id": "BFMTV_1790113682",
+      "source": "BFMTV",
+      "text": "IA: EMMANUEL MACRON APPELLE LES ÉTATS SOUVERAINS À NE PAS DÉPENDRE DE LA CHINE ET DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:48",
+      "date": "22/09",
+      "timestamp": 1790113682
+    },
+    {
+      "id": "BFMTV_1790111277",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES PRÊTS À UN CESSEZ-LE-FEU ÉNERGÉTIQUE\", DÉCLARE VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:07",
+      "date": "22/09",
+      "timestamp": 1790111277
+    },
+    {
+      "id": "BFMTV_1790105551",
+      "source": "BFMTV",
+      "text": "DEPUIS L'ONU, EMMANUEL MACRON DÉNONCE CE QU'IL SE PASSE À GAZA ET EN CISJORDANIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:32",
+      "date": "22/09",
+      "timestamp": 1790105551
+    },
+    {
+      "id": "BFMTV_1790105024",
+      "source": "BFMTV",
+      "text": "GAZA: EMMANUEL MACRON DÉNONCE DEVANT L'ONU \"UN SPECTACLE QUI NOUS FAIT HONTE À TOUS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:23",
+      "date": "22/09",
+      "timestamp": 1790105024
+    },
+    {
+      "id": "BFMTV_1790104575",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON À L'ONU: \"MON MESSAGE EST DE NE RIEN CÉDER\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:16",
+      "date": "22/09",
+      "timestamp": 1790104575
+    },
+    {
+      "id": "BFMTV_1790103287",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON À L'ONU: \"DEVONS-NOUS CONTEMPLER CE SPECTACLE QUI NOUS FAIT HONTE À TOUS ?\" DÉNONCE LE PRÉSIDENT À PROPOS DE GAZA",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:54",
+      "date": "22/09",
+      "timestamp": 1790103287
+    },
+    {
+      "id": "BFMTV_1790103017",
+      "source": "BFMTV",
+      "text": "FRAPPES SUR LES SITES ÉNERGÉTIQUES EN RUSSIE ET EN UKRAINE: \"NOUS SOUTENONS L'INITIATIVE D'UN DOUBLE MORATOIRE\", DÉCLARE EMMANUEL MACRON À L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:50",
+      "date": "22/09",
+      "timestamp": 1790103017
+    },
+    {
+      "id": "BFMTV_1790102419",
+      "source": "BFMTV",
+      "text": "\"LA FRANCE CONTINUERA D'APPORTER UN SOUTIEN SANS FAILLE AUX ASPIRATIONS LÉGITIMES DU PEUPLE UKRAINIEN À LA PAIX\", PROMET EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:40",
+      "date": "22/09",
+      "timestamp": 1790102419
+    },
+    {
+      "id": "BFMTV_1790102193",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DÉCLARE QUE DES DISCUSSIONS ONT EU LIEU ENTRE RESPONSABLES IRANIENS ET AMÉRICAINS ",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:36",
+      "date": "22/09",
+      "timestamp": 1790102193
+    },
+    {
+      "id": "BFMTV_1790102067",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON À L'ONU: \"LA RÉOUVERTURE DU DÉTROIT D'ORMUZ EST UNE PRIORITÉ\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:34",
+      "date": "22/09",
+      "timestamp": 1790102067
+    },
+    {
+      "id": "BFMTV_1790102022",
+      "source": "BFMTV",
+      "text": "EMMANUEL MACRON À L'ONU: \"NOTRE DEVOIR C'EST L'ACTION, LA FRANCE Y EST PRÊTE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:33",
+      "date": "22/09",
+      "timestamp": 1790102022
+    },
     {
       "id": "OPEX360_1790098567",
       "source": "OPEX360",
@@ -861,146 +1001,6 @@
       "time": "04:21",
       "date": "21/09",
       "timestamp": 1789964466
-    },
-    {
-      "id": "BFMTV_1789964303",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: TOUT COMPRENDRE DE LA PERCÉE HISTORIQUE DE L'EXTRÊME DROITE ALLEMANDE LORS DES ÉLECTIONS RÉGIONALES",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:18",
-      "date": "21/09",
-      "timestamp": 1789964303
-    },
-    {
-      "id": "BFMTV_1789940575",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON SERA INTERVIEWÉ CE JEUDI 24 SEPTEMBRE À 20 HEURES",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:42",
-      "date": "20/09",
-      "timestamp": 1789940575
-    },
-    {
-      "id": "BFMTV_1789939452",
-      "source": "BFMTV",
-      "text": "\"L'INTERNATIONAL A TOUJOURS ÉTÉ LE SUJET D'EMMANUEL MACRON\", ANALYSE LOUIS SARKOZY, CONSEILLER MUNICIPAL DVD DE MENTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:24",
-      "date": "20/09",
-      "timestamp": 1789939452
-    },
-    {
-      "id": "BFMTV_1789935757",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: LE PARTI D'EXTRÊME DROITE EN FORTE PROGRESSION, LE CDU DU CHANCELIER SUBIT UN \"DÉSASTRE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "20:22",
-      "date": "20/09",
-      "timestamp": 1789935757
-    },
-    {
-      "id": "BFMTV_1789933813",
-      "source": "BFMTV",
-      "text": "MENACE RUSSE: \"TOUT CELA VIENT D'UN PHÉNOMÈNE: L'ATTENTAT RATÉ À LEIPZIG\", EXPLIQUE PATRICK DUTARTRE, GÉNÉRAL DE L'ARMÉE DE L'AIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:50",
-      "date": "20/09",
-      "timestamp": 1789933813
-    },
-    {
-      "id": "BFMTV_1789933246",
-      "source": "BFMTV",
-      "text": "MARK CARNEY, PREMIER MINISTRE CANADIEN: \"IL EST NÉCESSAIRE DE RENFORCER NOS LIENS\" AVEC LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:40",
-      "date": "20/09",
-      "timestamp": 1789933246
-    },
-    {
-      "id": "BFMTV_1789932712",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: PLUS DE 2.000 DRONES LANCÉS CONTRE LES UKRAINIENS EN UNE SEMAINE",
-      "urgent": true,
-      "france_related": true,
-      "time": "19:31",
-      "date": "20/09",
-      "timestamp": 1789932712
-    },
-    {
-      "id": "BFMTV_1789931454",
-      "source": "BFMTV",
-      "text": "RÉGIONALES EN ALLEMAGNE ET L'EXTRÊME DROITE EN FORTE PROGRESSION: LE CHANCELIER ÉVOQUE UN \"DÉSASTRE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:10",
-      "date": "20/09",
-      "timestamp": 1789931454
-    },
-    {
-      "id": "BFMTV_1789929086",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES EUROPÉENS EN ALERTE FACE À LA MENACE RUSSE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:31",
-      "date": "20/09",
-      "timestamp": 1789929086
-    },
-    {
-      "id": "BFMTV_1789928303",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:18",
-      "date": "20/09",
-      "timestamp": 1789928303
-    },
-    {
-      "id": "BFMTV_1789928302",
-      "source": "BFMTV",
-      "text": "ÉLECTIONS LÉGISLATIVES EN RUSSIE: LE PARTI DE VLADIMIR POUTINE DONNÉ VAINQUEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:18",
-      "date": "20/09",
-      "timestamp": 1789928302
-    },
-    {
-      "id": "BFMTV_1789923919",
-      "source": "BFMTV",
-      "text": "RÉGIONALES EN ALLEMAGNE: L'EXTRÊME DROITE EN FORTE PROGRESSION, LE CHANCELIER ÉVOQUE UNE \"CATASTROPHE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:05",
-      "date": "20/09",
-      "timestamp": 1789923919
-    },
-    {
-      "id": "BFMTV_1789916612",
-      "source": "BFMTV",
-      "text": "LA MENACE RUSSE \"N'EST PAS NOUVELLE\", ESTIME ERIC CIOTTI, PRÉSIDENT DE L'UDR: L'ANALYSE DES INVITÉS DE JULIE HAMMETT",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:03",
-      "date": "20/09",
-      "timestamp": 1789916612
-    },
-    {
-      "id": "BFMTV_1789916059",
-      "source": "BFMTV",
-      "text": "LE PROCÈS DE SIX FRANÇAIS PRÉSUMÉS JIHADISTES, DONT UN AYANT REVENDIQUÉ L'ATTENTAT DE NICE, S'OUVRE EN IRAK",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:54",
-      "date": "20/09",
-      "timestamp": 1789916059
     }
   ],
   "france": {
