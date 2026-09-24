@@ -1,7 +1,137 @@
 {
-  "last_update": "24/09 15:48",
+  "last_update": "24/09 19:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790277452",
+      "source": "BFMTV",
+      "text": "ESPAGNE: L'EXPULSION D'UNE RETRAITÉE DE 87 ANS SUSCITE L'INDIGNATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:17",
+      "date": "24/09",
+      "timestamp": 1790277452
+    },
+    {
+      "id": "BFMTV_1790276137",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU AFFIRME QUE \"BEAUCOUP DE JUIFS NE SE SENTENT PLUS EN SÉCURITÉ À NEW YORK\" DEPUIS L'ÉLECTION DE ZOHRAN MAMDANI",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:55",
+      "date": "24/09",
+      "timestamp": 1790276137
+    },
+    {
+      "id": "BFMTV_1790274764",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU REMERCIE DONALD TRUMP DANS SON DISCOURS À L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:32",
+      "date": "24/09",
+      "timestamp": 1790274764
+    },
+    {
+      "id": "BFMTV_1790274379",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU S'EN PREND AU ROYAUME-UNI ET À LA FRANCE, ANCIENS PAYS COLONISATEURS, FACE À L'ASSEMBLÉE GÉNÉRALE DE L'ONU",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:26",
+      "date": "24/09",
+      "timestamp": 1790274379
+    },
+    {
+      "id": "BFMTV_1790273431",
+      "source": "BFMTV",
+      "text": "DE NOMBREUX MEMBRES DE L'ASSEMBLÉE GÉNÉRALE DE L'ONU QUITTENT LA SALLE AU MOMENT OÙ BENJAMIN NETANYAHU ARRIVE À LA TRIBUNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:10",
+      "date": "24/09",
+      "timestamp": 1790273431
+    },
+    {
+      "id": "BFMTV_1790271294",
+      "source": "BFMTV",
+      "text": "\"IL EST ESSENTIEL QUE L'IRAN NE SOIT JAMAIS AUTORISÉE À ACQUÉRIR L'ARME NUCLÉAIRE\", DÉCLARE ANTÓNIO COSTA",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:34",
+      "date": "24/09",
+      "timestamp": 1790271294
+    },
+    {
+      "id": "OPEX360_1790271123",
+      "source": "OPEX360",
+      "text": "MARINE NATIONALE : TROP COÛTEUX, LE PROJET D’AVION DE PATROUILLE MARITIME A321 PATMAR NE SERA PAS LANCÉ EN 2026",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:32",
+      "date": "24/09",
+      "timestamp": 1790271123
+    },
+    {
+      "id": "BFMTV_1790271033",
+      "source": "BFMTV",
+      "text": "ISRAËL-PALESTINE: \"LA SOLUTION À 2 ÉTATS, C'EST LA SEULE QUI PUISSE ASSURER UNE PAIX DURABLE AU MOYEN-ORIENT\", AFFIRME ANTÓNIO COSTA",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:30",
+      "date": "24/09",
+      "timestamp": 1790271033
+    },
+    {
+      "id": "BFMTV_1790270603",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: ANTÓNIO COSTA APPELLE LA COMMUNAUTÉ INTERNATIONALE À AGIR POUR \"UNE PAIX GLOBALE, JUSTE ET DURABLE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:23",
+      "date": "24/09",
+      "timestamp": 1790270603
+    },
+    {
+      "id": "BFMTV_1790269969",
+      "source": "BFMTV",
+      "text": "ANTÓNIO COSTA DÉFEND \"L'INDÉPENDANCE ET L'INTÉGRITÉ\" CPI ET LA CIJ FACE À L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:12",
+      "date": "24/09",
+      "timestamp": 1790269969
+    },
+    {
+      "id": "BFMTV_1790268839",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: AVERY, 12 ANS ET PASSIONNÉ DE CARTES POKÉMON, S'EST ÉTEINT APRÈS AVOIR RÉALISÉ SON RÊVE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:53",
+      "date": "24/09",
+      "timestamp": 1790268839
+    },
+    {
+      "id": "BFMTV_1790267118",
+      "source": "BFMTV",
+      "text": "FACE AUX MÉDIAS QU’IL JUGE \"HOSTILES\", DONALD TRUMP FRANCHIT UN NOUVEAU CAP",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:25",
+      "date": "24/09",
+      "timestamp": 1790267118
+    },
+    {
+      "id": "OPEX360_1790266289",
+      "source": "OPEX360",
+      "text": "L’ITALIE LANCE LA CONSTRUCTION DE DEUX NOUVEAUX «DESTROYERS» DE 13 500 TONNES POUR 3,7 MILLIARDS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:11",
+      "date": "24/09",
+      "timestamp": 1790266289
+    },
     {
       "id": "BFMTV_1790262743",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "06:02",
       "date": "23/09",
       "timestamp": 1790143326
-    },
-    {
-      "id": "BFMTV_1790142486",
-      "source": "BFMTV",
-      "text": "L'OURAGAN POLO PASSE DE LA CATÉGORIE 1 À 5, LE MAXIMUM, EN SEULEMENT 24 HEURES DANS LE PACIFIQUE MEXICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:48",
-      "date": "23/09",
-      "timestamp": 1790142486
-    },
-    {
-      "id": "BFMTV_1790140426",
-      "source": "BFMTV",
-      "text": "LA CHEFFE DE L'OPPOSITION ET PRIX NOBEL DE LA PAIX, MARINA CORINA MACHADO, EMPÊCHÉE DE RENTRER AU VENEZUELA",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:13",
-      "date": "23/09",
-      "timestamp": 1790140426
-    },
-    {
-      "id": "BFMTV_1790137428",
-      "source": "BFMTV",
-      "text": "CRISE À CEUTA: PEDRO SÁNCHEZ ESTIME QUE LE CONTRÔLE DES FRONTIÈRES PAR LE MAROC A \"ÉCHOUÉ\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:23",
-      "date": "23/09",
-      "timestamp": 1790137428
-    },
-    {
-      "id": "BFMTV_1790136979",
-      "source": "BFMTV",
-      "text": "L'ÉDITO INTERNATIONAL - POURQUOI PERSONNE N'ARRIVE À MAÎTRISER LES HOUTHIS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:16",
-      "date": "23/09",
-      "timestamp": 1790136979
-    },
-    {
-      "id": "BFMTV_1790136324",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE L'IRAN DEVANT L'ONU PUIS ANNONCE UNE REPRISE DU DIALOGUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:05",
-      "date": "23/09",
-      "timestamp": 1790136324
-    },
-    {
-      "id": "BFMTV_1790114164",
-      "source": "BFMTV",
-      "text": "\"L’IGNORANCE N’EST PAS UNE EXCUSE\": ISRAËL DÉNONCE L'\"ABSURDITÉ GROTESQUE\" DES PROPOS D'EMMANUEL MACRON À L'ONU SUR LA CISJORDANIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:56",
-      "date": "22/09",
-      "timestamp": 1790114164
-    },
-    {
-      "id": "BFMTV_1790114062",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON APPELLE À UN \"DOUBLE MORATOIRE\" SUR LES FRAPPES CONTRE LES SITES ÉNERGÉTIQUES EN RUSSIE ET UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:54",
-      "date": "22/09",
-      "timestamp": 1790114062
-    },
-    {
-      "id": "BFMTV_1790113737",
-      "source": "BFMTV",
-      "text": "IA: EMMANUEL MACRON VEUT \"BÂTIR UNE GOUVERNANCE DE L'INTELLIGENCE ARTIFICIELLE FONDÉE SUR LES DROITS DE L'ENFANT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:48",
-      "date": "22/09",
-      "timestamp": 1790113737
-    },
-    {
-      "id": "BFMTV_1790113682",
-      "source": "BFMTV",
-      "text": "IA: EMMANUEL MACRON APPELLE LES ÉTATS SOUVERAINS À NE PAS DÉPENDRE DE LA CHINE ET DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:48",
-      "date": "22/09",
-      "timestamp": 1790113682
-    },
-    {
-      "id": "BFMTV_1790111277",
-      "source": "BFMTV",
-      "text": "\"NOUS SOMMES PRÊTS À UN CESSEZ-LE-FEU ÉNERGÉTIQUE\", DÉCLARE VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:07",
-      "date": "22/09",
-      "timestamp": 1790111277
-    },
-    {
-      "id": "BFMTV_1790105551",
-      "source": "BFMTV",
-      "text": "DEPUIS L'ONU, EMMANUEL MACRON DÉNONCE CE QU'IL SE PASSE À GAZA ET EN CISJORDANIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:32",
-      "date": "22/09",
-      "timestamp": 1790105551
-    },
-    {
-      "id": "BFMTV_1790105024",
-      "source": "BFMTV",
-      "text": "GAZA: EMMANUEL MACRON DÉNONCE DEVANT L'ONU \"UN SPECTACLE QUI NOUS FAIT HONTE À TOUS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:23",
-      "date": "22/09",
-      "timestamp": 1790105024
-    },
-    {
-      "id": "BFMTV_1790104575",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON À L'ONU: \"MON MESSAGE EST DE NE RIEN CÉDER\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:16",
-      "date": "22/09",
-      "timestamp": 1790104575
     }
   ],
   "france": {
