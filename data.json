@@ -1,7 +1,147 @@
 {
-  "last_update": "24/09 05:52",
+  "last_update": "24/09 11:09",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790246602",
+      "source": "BFMTV",
+      "text": "LA JUSTICE ALLEMANDE OUVRE UNE ENQUÊTE SUR UN ANCIEN GARDIEN PRÉSUMÉ DE CAMP NAZI ÂGÉ DE 105 ANS",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:43",
+      "date": "24/09",
+      "timestamp": 1790246602
+    },
+    {
+      "id": "BFMTV_1790246575",
+      "source": "BFMTV",
+      "text": "LE GOUVERNEMENT AMÉRICAIN RECONNAÎT HUIT TENTATIVES DE SUICIDE SUR LE PORTE-AVIONS ABRAHAM LINCOLN ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:42",
+      "date": "24/09",
+      "timestamp": 1790246575
+    },
+    {
+      "id": "OPEX360_1790246528",
+      "source": "OPEX360",
+      "text": "LA FRANCE A OFFICIELLEMENT PROPOSÉ LE RAFALE AU PORTUGAL",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:42",
+      "date": "24/09",
+      "timestamp": 1790246528
+    },
+    {
+      "id": "BFMTV_1790246488",
+      "source": "BFMTV",
+      "text": "DES NAVIRES COMMERCIAUX UTILISÉS PAR LA RUSSIE POUR ABRITER DES DRONES METTANT À PORTÉE DES PAYS EUROPÉENS? ",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:41",
+      "date": "24/09",
+      "timestamp": 1790246488
+    },
+    {
+      "id": "BFMTV_1790246246",
+      "source": "BFMTV",
+      "text": "LE FILS DE L'AMBASSADEUR ISRAÉLIEN AUX ÉTATS-UNIS BLESSÉ DANS UNE ATTAQUE, L'ASSAILLANT ABATTU",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:37",
+      "date": "24/09",
+      "timestamp": 1790246246
+    },
+    {
+      "id": "BFMTV_1790244229",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: TÉHÉRAN MENACE D'ÉTENDRE LE CONFLIT \"JUSQU'À L'OCÉAN INDIEN\" EN CAS DE NOUVELLES ATTAQUES AMÉRICAINES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:03",
+      "date": "24/09",
+      "timestamp": 1790244229
+    },
+    {
+      "id": "BFMTV_1790243510",
+      "source": "BFMTV",
+      "text": "LES RENSEIGNEMENTS DANOIS N’EXCLUENT PAS UNE INVASION RUSSE CONTRE UN PAYS DE L’OTAN, MAIS JUGENT CETTE OPTION \"IMPROBABLE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:51",
+      "date": "24/09",
+      "timestamp": 1790243510
+    },
+    {
+      "id": "BFMTV_1790242228",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP GÊNÉ PAR LE BRUIT D'UN BOMBARDIER LORS DE L'ACCUEIL DU PRÉSIDENT CHINOIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:30",
+      "date": "24/09",
+      "timestamp": 1790242228
+    },
+    {
+      "id": "BFMTV_1790241978",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS SIX MORTS DANS UNE ATTAQUE DE DRONE RUSSE SUR UNE ENTREPRISE AGRICOLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:26",
+      "date": "24/09",
+      "timestamp": 1790241978
+    },
+    {
+      "id": "BFMTV_1790241845",
+      "source": "BFMTV",
+      "text": "UN BATEAU DE MIGRANTS TRANSPORTANT UN SECOURISTE ENDOMMAGÉ DANS LA MANCHE: LE MILITANT D'EXTRÊME DROITE BRITANNIQUE DANNY TOMMO ARRÊTÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:24",
+      "date": "24/09",
+      "timestamp": 1790241845
+    },
+    {
+      "id": "BFMTV_1790241780",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: À KIEV, LE MÉTRO COMME REFUGE FACE AUX MISSILES BALISTIQUES RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:23",
+      "date": "24/09",
+      "timestamp": 1790241780
+    },
+    {
+      "id": "BFMTV_1790241473",
+      "source": "BFMTV",
+      "text": "\"IL Y AURA DES ÉLECTIONS AU VENEZUELA\", PROMET LA PRÉSIDENTE DELCY RODRIGUEZ DEVANT L’ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:17",
+      "date": "24/09",
+      "timestamp": 1790241473
+    },
+    {
+      "id": "BFMTV_1790239870",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - LES PAYS EUROPÉENS À PORTÉE DES DRONES RUSSES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:51",
+      "date": "24/09",
+      "timestamp": 1790239870
+    },
+    {
+      "id": "BFMTV_1790238666",
+      "source": "BFMTV",
+      "text": "L'INTELLIGENCE ARTIFICIELLE D'OPENAI A INFILTRÉ UN SITE DU GOUVERNEMENT AUSTRALIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:31",
+      "date": "24/09",
+      "timestamp": 1790238666
+    },
     {
       "id": "BFMTV_1790227559",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "16:23",
       "date": "22/09",
       "timestamp": 1790094225
-    },
-    {
-      "id": "BFMTV_1790092823",
-      "source": "BFMTV",
-      "text": "L'ARRIVÉE D'EMMANUEL MACRON À L'ASSEMBLÉE GÉNÉRALE DE L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:00",
-      "date": "22/09",
-      "timestamp": 1790092823
-    },
-    {
-      "id": "BFMTV_1790092685",
-      "source": "BFMTV",
-      "text": "À LA TRIBUNE DE L'ONU, LE ROI DE JORDANIE ABDALLAH II ACCUSE ISRAËL DE \"CRIME DE GUERRE\" EN CISJORDANIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:58",
-      "date": "22/09",
-      "timestamp": 1790092685
-    },
-    {
-      "id": "BFMTV_1790092366",
-      "source": "BFMTV",
-      "text": "ONU: SIGNATURE D'UN ACCORD DE SÉCURITÉ ENTRE LES ÉTATS-UNIS, LE GROENLAND ET LE DANEMARK ",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:52",
-      "date": "22/09",
-      "timestamp": 1790092366
-    },
-    {
-      "id": "BFMTV_1790092191",
-      "source": "BFMTV",
-      "text": "\"CE RÉGIME TOMBERA\": LA DÉLÉGATION CUBAINE QUITTE LA SALLE LORS DU DISCOURS DE DONALD TRUMP À L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:49",
-      "date": "22/09",
-      "timestamp": 1790092191
-    },
-    {
-      "id": "OPEX360_1790090680",
-      "source": "OPEX360",
-      "text": "MER ROUGE : LONDRES ACCORDE UN SOUTIEN MILITAIRE À RIYAD TANDIS QUE L’UNION EUROPÉENNE VEUT RENFORCER L’OPÉRATION ASPIDES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:24",
-      "date": "22/09",
-      "timestamp": 1790090680
-    },
-    {
-      "id": "BFMTV_1790090215",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: LE STREAMER MASCULINISTE CLAVICULAR ACCUSÉ DE VIOL PAR UNE INFLUENCEUSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:16",
-      "date": "22/09",
-      "timestamp": 1790090215
-    },
-    {
-      "id": "BFMTV_1790089979",
-      "source": "BFMTV",
-      "text": "\"CELUI QUI GAGNE LA COURSE À L'INTELLIGENCE ARTIFICIELLE GAGNERA TOUT\", EXPLIQUE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:12",
-      "date": "22/09",
-      "timestamp": 1790089979
-    },
-    {
-      "id": "BFMTV_1790089721",
-      "source": "BFMTV",
-      "text": "\"IL EST TEMPS DE METTRE FIN À LA TUERIE EN UKRAINE\", ANNONCE DONALD TRUMP ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:08",
-      "date": "22/09",
-      "timestamp": 1790089721
-    },
-    {
-      "id": "BFMTV_1790089537",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP COMPARE LES \"CARTELS DE LA DROGUE\" À UN \"DAESH DE L'HÉMISPHÈRE OCCIDENTAL\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:05",
-      "date": "22/09",
-      "timestamp": 1790089537
-    },
-    {
-      "id": "BFMTV_1790089335",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME AVOIR LE CHOIX ENTRE \"ANÉANTIR\" L'IRAN OU PASSER UN \"ACCORD\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:02",
-      "date": "22/09",
-      "timestamp": 1790089335
-    },
-    {
-      "id": "BFMTV_1790089064",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS ARRÊTÉ LE CRIMINEL ENDURCI NICOLÁS MADURO\", RAPPELLE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:57",
-      "date": "22/09",
-      "timestamp": 1790089064
-    },
-    {
-      "id": "BFMTV_1790089021",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP DIT AVOIR LE CHOIX ENTRE \"ANÉANTIR\" L'IRAN OU PASSER UN \"ACCORD\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:57",
-      "date": "22/09",
-      "timestamp": 1790089021
-    },
-    {
-      "id": "BFMTV_1790088729",
-      "source": "BFMTV",
-      "text": "ASSEMBLÉE GÉNÉRALE DES NATIONS UNIES: DONALD TRUMP APPELLE \"TOUTES LES NATIONS DU MONDE À ISOLER L'IRAN\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:52",
-      "date": "22/09",
-      "timestamp": 1790088729
-    },
-    {
-      "id": "BFMTV_1790088498",
-      "source": "BFMTV",
-      "text": "IRAN: SELON DONALD TRUMP, \"C'EST L'INFLATION QUI DÉTRUIT LEUR PAYS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:48",
-      "date": "22/09",
-      "timestamp": 1790088498
     }
   ],
   "france": {
