@@ -1,7 +1,167 @@
 {
-  "last_update": "25/09 12:15",
+  "last_update": "25/09 17:25",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1790356108",
+      "source": "OPEX360",
+      "text": "À LA SUITE DE DASSAULT AVIATION, AIRBUS VA FAIRE UNE OFFRE «NON SOLLICITÉE» AU PORTUGAL POUR REMPLACER SES F-16",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:08",
+      "date": "25/09",
+      "timestamp": 1790356108
+    },
+    {
+      "id": "BFMTV_1790355153",
+      "source": "BFMTV",
+      "text": "XI JINPING QUITTE WASHINGTON D.C., APRÈS DEUX JOURS DE VISITE OFFICIELLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:52",
+      "date": "25/09",
+      "timestamp": 1790355153
+    },
+    {
+      "id": "BFMTV_1790354464",
+      "source": "BFMTV",
+      "text": "ELLE A FAIT CONDAMNER TRUMP DEUX FOIS POUR AGRESSION SEXUELLE: LE TÉMOIGNAGE DE E. JEAN CARROLL",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:41",
+      "date": "25/09",
+      "timestamp": 1790354464
+    },
+    {
+      "id": "BFMTV_1790353839",
+      "source": "BFMTV",
+      "text": "XI JINPING CONCLUT SA VISITE OFFICIELLE À WASHINGTON D.C., AUX ARCHIVES NATIONALES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:30",
+      "date": "25/09",
+      "timestamp": 1790353839
+    },
+    {
+      "id": "OPEX360_1790352901",
+      "source": "OPEX360",
+      "text": "L’ARMÉE ITALIENNE A LANCÉ UNE PROCÉDURE EN VUE D’ACQUÉRIR DE NOUVEAUX CHARS DE COMBAT POUR 5,1 MILLIARDS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:15",
+      "date": "25/09",
+      "timestamp": 1790352901
+    },
+    {
+      "id": "BFMTV_1790347666",
+      "source": "BFMTV",
+      "text": "\"ISRAËL DOIT SE RETIRER DU TERRITOIRE LIBANAIS\", MARTÈLE LE LIBAN À LA TRIBUNE DE L'ONU",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:47",
+      "date": "25/09",
+      "timestamp": 1790347666
+    },
+    {
+      "id": "BFMTV_1790346989",
+      "source": "BFMTV",
+      "text": "MOYENS MILITAIRES FRANÇAIS EN ARABIE SAOUDITE: \"ON NE VA PAS DEVENIR BELLIGÉRANT SANS AU MOINS EN AVOIR PARLÉ AU PARLEMENT\", RÉAGIT JEAN-LUC MÉLENCHON",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:36",
+      "date": "25/09",
+      "timestamp": 1790346989
+    },
+    {
+      "id": "OPEX360_1790345254",
+      "source": "OPEX360",
+      "text": "L’AUSTRALIE JUSTIFIE LE RETRAIT ANTICIPÉ DE SES HÉLICOPTÈRES TIGRE EN AFFIRMANT QU’ILS NE SONT PLUS ADAPTÉS AU COMBAT MODERNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:07",
+      "date": "25/09",
+      "timestamp": 1790345254
+    },
+    {
+      "id": "BFMTV_1790344759",
+      "source": "BFMTV",
+      "text": "OURAGAN NOLO: HAWAÏ SOUS LA MENACE DE \"CRUES ÉCLAIR CATASTROPHIQUES ET POTENTIELLEMENT MEURTRIÈRES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:59",
+      "date": "25/09",
+      "timestamp": 1790344759
+    },
+    {
+      "id": "BFMTV_1790344520",
+      "source": "BFMTV",
+      "text": "\"NOUS N'AVONS PAS CRÉÉ CETTE CRISE, ET POURTANT NOUS EN PAYONS LE PRIX\": LE NÉPAL APPELLE À L'ONU À CE QUE LES PAYS RICHES PAYENT DAVANTAGE FACE AUX CATASTROPHES CLIMATIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:55",
+      "date": "25/09",
+      "timestamp": 1790344520
+    },
+    {
+      "id": "BFMTV_1790344055",
+      "source": "BFMTV",
+      "text": "TENTATIVE D'ASSASSINAT DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:47",
+      "date": "25/09",
+      "timestamp": 1790344055
+    },
+    {
+      "id": "BFMTV_1790344054",
+      "source": "BFMTV",
+      "text": "DES \"COMPLICATIONS\" LIÉES À SA BLESSURE: MORT D'UN HOMME QUI AVAIT ÉTÉ TOUCHÉ PAR BALLE LORS DE LA TENTATIVE D'ASSASSINAT DE DONALD TRUMP EN 2024",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:47",
+      "date": "25/09",
+      "timestamp": 1790344054
+    },
+    {
+      "id": "BFMTV_1790343964",
+      "source": "BFMTV",
+      "text": "\"UNE MISE EN GARDE POUR LE MONDE\": L'ALERTE DU NÉPAL À L'ONU FACE À L'URGENCE CLIMATIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:46",
+      "date": "25/09",
+      "timestamp": 1790343964
+    },
+    {
+      "id": "BFMTV_1790340062",
+      "source": "BFMTV",
+      "text": "ACCORD SUR LE GROENLAND: \"TOUT LE MONDE S'EN SORT BIEN\", ESTIME L'AMBASSADEUR FRANÇAIS POUR LES OCÉANS ET LES PÔLES",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:41",
+      "date": "25/09",
+      "timestamp": 1790340062
+    },
+    {
+      "id": "BFMTV_1790339987",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: QUATRE PERSONNES TUÉES À KIEV DANS UNE FRAPPE DE DRONE RUSSE MENÉE EN PLEIN JOUR",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:39",
+      "date": "25/09",
+      "timestamp": 1790339987
+    },
+    {
+      "id": "BFMTV_1790339356",
+      "source": "BFMTV",
+      "text": "ACCORD SUR LE GROENLAND: \"IL Y A DU BUSINESS À FAIRE, C'EST LA LOGIQUE TRUMP\", DIT L'AMBASSADEUR FRANÇAIS POUR LES OCÉANS ET LES PÔLES",
+      "urgent": false,
+      "france_related": true,
+      "time": "12:29",
+      "date": "25/09",
+      "timestamp": 1790339356
+    },
     {
       "id": "OPEX360_1790332140",
       "source": "OPEX360",
@@ -841,166 +1001,6 @@
       "time": "17:03",
       "date": "23/09",
       "timestamp": 1790182987
-    },
-    {
-      "id": "BFMTV_1790180721",
-      "source": "BFMTV",
-      "text": "AZERBAÏDJAN: UN FRANÇAIS CONDAMNÉ À DIX ANS DE PRISON GRACIÉ PAR LE PRÉSIDENT ILHAM ALIYEV",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:25",
-      "date": "23/09",
-      "timestamp": 1790180721
-    },
-    {
-      "id": "BFMTV_1790179622",
-      "source": "BFMTV",
-      "text": "ONU: \"VLADIMIR POUTINE DÉSHONORE LE SIÈGE DE MEMBRE PERMANENT DE LA RUSSIE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:07",
-      "date": "23/09",
-      "timestamp": 1790179622
-    },
-    {
-      "id": "OPEX360_1790179105",
-      "source": "OPEX360",
-      "text": "UN HÉLICOPTÈRE MIL MI-8 RUSSE A BRIÈVEMENT VIOLÉ L’ESPACE AÉRIEN DE LA POLOGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:58",
-      "date": "23/09",
-      "timestamp": 1790179105
-    },
-    {
-      "id": "BFMTV_1790176021",
-      "source": "BFMTV",
-      "text": "\"CESSEZ-LE-FEU ÉNERGÉTIQUE\" ENTRE L'UKRAINE ET LA RUSSIE: \"CELA NE RÉSOUT PAS LA GUERRE\", DÉCLARE MARCO RUBIO",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:07",
-      "date": "23/09",
-      "timestamp": 1790176021
-    },
-    {
-      "id": "BFMTV_1790175054",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DOIT SAVOIR QUE \"NOUS NE BAISSERONS JAMAIS LA TÊTE\", PRÉVIENT LE PRÉSIDENT IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:50",
-      "date": "23/09",
-      "timestamp": 1790175054
-    },
-    {
-      "id": "BFMTV_1790174872",
-      "source": "BFMTV",
-      "text": "UN MILITANT D'EXTRÊME DROITE BRITANNIQUE SE FILME EN TRAIN DE LACÉRER UN CANOT DE MIGRANTS DANS LA MANCHE, ALORS QU'UN SAUVETEUR SE TROUVE À BORD",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:47",
-      "date": "23/09",
-      "timestamp": 1790174872
-    },
-    {
-      "id": "BFMTV_1790174473",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT IRANIEN S'EXPRIME À L'ONU, LE DIALOGUE EST RENOUÉ AVEC LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:41",
-      "date": "23/09",
-      "timestamp": 1790174473
-    },
-    {
-      "id": "BFMTV_1790174145",
-      "source": "BFMTV",
-      "text": "L'IRAN NE PERMETTRA PAS QUE LE DÉTROIT D'ORMUZ SOIT UTILISÉ POUR UNE \"AGRESSION\", MARTÈLE SON PRÉSIDENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:35",
-      "date": "23/09",
-      "timestamp": 1790174145
-    },
-    {
-      "id": "BFMTV_1790174065",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS ÉTÉ VICTIME DU TERRORISME\": À L'ONU, LE PRÉSIDENT IRANIEN MASSOUD PEZESHKIAN ASSURE QUE SON PAYS N'A FAIT QUE SE \"DÉFENDRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:34",
-      "date": "23/09",
-      "timestamp": 1790174065
-    },
-    {
-      "id": "BFMTV_1790173074",
-      "source": "BFMTV",
-      "text": "CONSEIL DE LA PAIX CRÉÉ PAR DONALD TRUMP: \"NOUS NE SOMMES PAS LIÉS PAR UN CALENDRIER OU DES DATES\", DÉCLARE LE HAUT REPRÉSENTANT POUR GAZA",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:17",
-      "date": "23/09",
-      "timestamp": 1790173074
-    },
-    {
-      "id": "BFMTV_1790172819",
-      "source": "BFMTV",
-      "text": "JEAN-NOËL BARROT, MINISTRE DES AFFAIRES ÉTRANGÈRES, S'EXPRIME DEPUIS LES NATIONS UNIES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:13",
-      "date": "23/09",
-      "timestamp": 1790172819
-    },
-    {
-      "id": "BFMTV_1790172213",
-      "source": "BFMTV",
-      "text": "ORMUZ: \"NOUS AVONS PRÉPARÉ UNE MISSION INTERNATIONALE PRÊTE À SE DÉPLOYER POUR QUE LA REPRISE DU TRAFIC SOIT LA PLUS RAPIDE POSSIBLE\" EXPLIQUE  LE MINISTRE DES AFFAIRES ÉTRANGÈRES JEAN-NOËL BARROT ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:03",
-      "date": "23/09",
-      "timestamp": 1790172213
-    },
-    {
-      "id": "OPEX360_1790172059",
-      "source": "OPEX360",
-      "text": "UN PORTE-HÉLICOPTÈRES AMPHIBIE DE LA MARINE EST SUR LE POINT DE TESTER LE LANCEUR MODULAIRE POLYVALENT « RAMPART » DE NAVAL GROUP",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:00",
-      "date": "23/09",
-      "timestamp": 1790172059
-    },
-    {
-      "id": "BFMTV_1790171914",
-      "source": "BFMTV",
-      "text": "\"LE GOLAN RESTERA UN TERRITOIRE SYRIEN\", AFFIRME LE PRÉSIDENT SYRIEN À LA TRIBUNE DE L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:58",
-      "date": "23/09",
-      "timestamp": 1790171914
-    },
-    {
-      "id": "BFMTV_1790171906",
-      "source": "BFMTV",
-      "text": "XENIA FEDOROVA: JEAN-NOËL BARROT \"SE FÉLICITE\" DES SANCTIONS EUROPÉENNES PRISES À SON ENCONTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:58",
-      "date": "23/09",
-      "timestamp": 1790171906
-    },
-    {
-      "id": "BFMTV_1790171616",
-      "source": "BFMTV",
-      "text": "\"LA FRANCE INSISTERA DANS LES SEMAINES ET LES MOIS À VENIR SUR L'ORGANISATION DES ÉLECTIONS PALESTINIENNES\", DÉCLARE LE MINISTRE DES AFFAIRES ÉTRANGÈRES JEAN-NOËL BARROT",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:53",
-      "date": "23/09",
-      "timestamp": 1790171616
     }
   ],
   "france": {
