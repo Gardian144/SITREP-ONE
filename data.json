@@ -1,7 +1,77 @@
 {
-  "last_update": "25/09 06:33",
+  "last_update": "25/09 12:15",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1790332140",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES ACCÉLÈRE SUR LE CALCUL QUANTIQUE EN LANÇANT LE PROJET «ALIQUANTE»",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:29",
+      "date": "25/09",
+      "timestamp": 1790332140
+    },
+    {
+      "id": "BFMTV_1790330269",
+      "source": "BFMTV",
+      "text": "XENIA FEDOROVA: LE KREMLIN DÉNONCE UNE \"PERSÉCUTION\" APRÈS LES SANCTIONS DE L'UE CONTRE LA CHRONIQUEUSE RUSSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:57",
+      "date": "25/09",
+      "timestamp": 1790330269
+    },
+    {
+      "id": "BFMTV_1790329780",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:49",
+      "date": "25/09",
+      "timestamp": 1790329780
+    },
+    {
+      "id": "BFMTV_1790328582",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: DONALD TRUMP SE MOQUE DE JOE BIDEN DEVANT LE PRÉSIDENT CHINOIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:29",
+      "date": "25/09",
+      "timestamp": 1790328582
+    },
+    {
+      "id": "BFMTV_1790323558",
+      "source": "BFMTV",
+      "text": "XI JINPING APPELLE LA CHINE ET LES ÉTATS-UNIS À \"AGIR EN TANT QUE GRANDES PUISSANCES RESPONSABLES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:05",
+      "date": "25/09",
+      "timestamp": 1790323558
+    },
+    {
+      "id": "BFMTV_1790319050",
+      "source": "BFMTV",
+      "text": "LORS D'UN DÎNER D'ÉTAT AVEC LE PRÉSIDENT CHINOIS, DONALD TRUMP A SOUHAITÉ UN \"AVENIR D'HARMONIE\" POUR LEURS PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:50",
+      "date": "25/09",
+      "timestamp": 1790319050
+    },
+    {
+      "id": "BFMTV_1790318474",
+      "source": "BFMTV",
+      "text": "\"UN AVERTISSEMENT AU MONDE\": LE PREMIER MINISTRE DU NÉPAL LANCE UN APPEL À L'AIDE DEVANT L'ONU FACE À L'URGENCE CLIMATIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:41",
+      "date": "25/09",
+      "timestamp": 1790318474
+    },
     {
       "id": "BFMTV_1790317435",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "13:53",
       "date": "23/09",
       "timestamp": 1790171616
-    },
-    {
-      "id": "BFMTV_1790171387",
-      "source": "BFMTV",
-      "text": "INTELLIGENCE ARTIFICIELLE: LE CONSEIL DE SÉCURITÉ DE L'ONU CONVOQUE LES PLUS GRANDES ENTREPRISES DU SECTEUR, ANNONCE JEAN-NOËL BARROT, MINISTRE DE L'EUROPE ET DES AFFAIRES ÉTRANGÈRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:49",
-      "date": "23/09",
-      "timestamp": 1790171387
-    },
-    {
-      "id": "BFMTV_1790170483",
-      "source": "BFMTV",
-      "text": "AHMED AL-CHARAA À LA TRIBUNE DE L'ONU: \"LA SYRIE DE RETOUR (...) LA SYRIE EST DÉSORMAIS UNIE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:34",
-      "date": "23/09",
-      "timestamp": 1790170483
-    },
-    {
-      "id": "BFMTV_1790163342",
-      "source": "BFMTV",
-      "text": "GIORGIA MELONI",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:35",
-      "date": "23/09",
-      "timestamp": 1790163342
-    },
-    {
-      "id": "BFMTV_1790163332",
-      "source": "BFMTV",
-      "text": "\"MOURIR À 22 ANS EST INACCEPTABLE\": LE COLISÉE DE ROME FERMÉ AU PUBLIC APRÈS LA MORT D'UN OUVRIER, GIORGIA MELONI SE DIT \"PROFONDÉMENT TOUCHÉE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:35",
-      "date": "23/09",
-      "timestamp": 1790163332
-    },
-    {
-      "id": "BFMTV_1790160287",
-      "source": "BFMTV",
-      "text": "\"VOUS NE DEVRIEZ PAS ÊTRE ICI\": DONALD TRUMP S'EN PREND À UNE JOURNALISTE DE CNN AU SIÈGE DE L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:44",
-      "date": "23/09",
-      "timestamp": 1790160287
-    },
-    {
-      "id": "OPEX360_1790159681",
-      "source": "OPEX360",
-      "text": "ESPACE : LA ROYAL AIR FORCE CRÉE UN NOUVEL ESCADRON POUR ASSURER LA DÉFENSE DES SATELLITES BRITANNIQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:34",
-      "date": "23/09",
-      "timestamp": 1790159681
-    },
-    {
-      "id": "BFMTV_1790157896",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT COLOMBIEN ENVOIE L'ARMÉE DANS UNE VILLE EN PROIE À DES VIOLENCES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:04",
-      "date": "23/09",
-      "timestamp": 1790157896
     }
   ],
   "france": {
