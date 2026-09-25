@@ -1,7 +1,37 @@
 {
-  "last_update": "25/09 17:25",
+  "last_update": "25/09 20:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790366018",
+      "source": "BFMTV",
+      "text": "BELGIQUE: UN PROFESSEUR S'EST FAIT ENTARTER PAR UN COLLECTIF ANTI-ARMEMENT ALORS QU'IL DONNAIT COURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:53",
+      "date": "25/09",
+      "timestamp": 1790366018
+    },
+    {
+      "id": "BFMTV_1790358487",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QU'IL A DISCUTÉ DE L'IRAN AVEC XI JINPING",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:48",
+      "date": "25/09",
+      "timestamp": 1790358487
+    },
+    {
+      "id": "BFMTV_1790357961",
+      "source": "BFMTV",
+      "text": "TERMINAL STARLINK: L'AMBASSADEUR D'ISRAËL À L'ONU PROVOQUE UN DIPLOMATE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:39",
+      "date": "25/09",
+      "timestamp": 1790357961
+    },
     {
       "id": "OPEX360_1790356108",
       "source": "OPEX360",
@@ -971,36 +1001,6 @@
       "time": "17:37",
       "date": "23/09",
       "timestamp": 1790185067
-    },
-    {
-      "id": "BFMTV_1790184438",
-      "source": "BFMTV",
-      "text": "LE MINISTRE RUSSE DES AFFAIRES ÉTRANGÈRES SERGUEÏ LAVROV AFFIRME QUE SON PAYS \"NE VA PAS FAIRE DE PAUSE\" DANS SA GUERRE AVEC L'UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:27",
-      "date": "23/09",
-      "timestamp": 1790184438
-    },
-    {
-      "id": "BFMTV_1790183865",
-      "source": "BFMTV",
-      "text": "ITALIE: LA POLICE TROUVE 3,2 MILLIONS D’EUROS CACHÉS DANS UN MUR, PROBABLEMENT LIÉS À LA MAFIA",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:17",
-      "date": "23/09",
-      "timestamp": 1790183865
-    },
-    {
-      "id": "BFMTV_1790182987",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"NOUS NE FERONS PAS DE TRÊVE\", DÉCLARE SERGUEÏ LAVROV, MINISTRE RUSSE DES AFFAIRES ÉTRANGÈRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:03",
-      "date": "23/09",
-      "timestamp": 1790182987
     }
   ],
   "france": {
