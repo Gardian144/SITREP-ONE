@@ -1,7 +1,37 @@
 {
-  "last_update": "26/09 01:59",
+  "last_update": "26/09 07:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790398299",
+      "source": "BFMTV",
+      "text": "PLUS DE 40 MILLIONS DE PERSONNES POTENTIELLEMENT TOUCHÉES: LE NORD-EST DES ÉTATS-UNIS SE PRÉPARE À UNE TEMPÊTE RARE POUR LA SAISON",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:51",
+      "date": "26/09",
+      "timestamp": 1790398299
+    },
+    {
+      "id": "BFMTV_1790395845",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP REFUSE L'OFFRE DE L'IRAN POUR ROUVRIR LE DÉTROIT D'ORMUZ SOUS SEPT JOURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:10",
+      "date": "26/09",
+      "timestamp": 1790395845
+    },
+    {
+      "id": "BFMTV_1790395546",
+      "source": "BFMTV",
+      "text": "LES JOURNALISTES DE CNN SUIVANT DONALD TRUMP EXCLUS DE SON DÉPLACEMENT CE SAMEDI",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:05",
+      "date": "26/09",
+      "timestamp": 1790395546
+    },
     {
       "id": "BFMTV_1790373331",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "18:41",
       "date": "23/09",
       "timestamp": 1790188918
-    },
-    {
-      "id": "BFMTV_1790188359",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY ALERTE SUR L’ESSOR DE L’IA QUI POURRAIT \"DÉCIDER DE LA SITUATION SUR LE CHAMP DE BATAILLE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:32",
-      "date": "23/09",
-      "timestamp": 1790188359
-    },
-    {
-      "id": "BFMTV_1790188056",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"LES MESURES DE DÉSESCALADES SONT ESSENTIELLES AVANT L'ARRIVÉE DE L'HIVER\", DÉCLARE VOLODYMYR ZELENSKY ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:27",
-      "date": "23/09",
-      "timestamp": 1790188056
-    },
-    {
-      "id": "BFMTV_1790186996",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT ARGENTIN JAVIER MILEI QUALIFIE L'ONU \"D'ORGANISATION INUTILE QUI NE SERT QU'À NOURRIR UNE CASTE DE PARASITES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:09",
-      "date": "23/09",
-      "timestamp": 1790186996
     }
   ],
   "france": {
