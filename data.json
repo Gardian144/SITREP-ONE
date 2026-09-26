@@ -1,7 +1,67 @@
 {
-  "last_update": "26/09 07:30",
+  "last_update": "26/09 12:27",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1790422064",
+      "source": "OPEX360",
+      "text": "LA POLOGNE VA ASSOUPLIR LES RÈGLES POUR OUVRIR LE FEU EN CAS DE VIOLATION DE SON ESPACE AÉRIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:27",
+      "date": "26/09",
+      "timestamp": 1790422064
+    },
+    {
+      "id": "BFMTV_1790418756",
+      "source": "BFMTV",
+      "text": "LE NORD-EST DES ÉTATS-UNIS SE PRÉPARE À UNE TEMPÊTE RARE POUR LA SAISON, L'ÉTAT D'URGENCE DÉCLARÉ À NEW YORK ET DANS LE NEW JERSEY",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:32",
+      "date": "26/09",
+      "timestamp": 1790418756
+    },
+    {
+      "id": "OPEX360_1790418290",
+      "source": "OPEX360",
+      "text": "LA BELGIQUE PRIVILÉGIERAIT LA FRÉGATE ITALIENNE FREMM EVO POUR MODERNISER SA MARINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:24",
+      "date": "26/09",
+      "timestamp": 1790418290
+    },
+    {
+      "id": "BFMTV_1790418034",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: LA NOUVELLE OFFRE DE L'IRAN POUR ROUVRIR ORMUZ VALIDÉE PAR LE GUIDE SUPRÊME MOJTABA KHAMENEI",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:20",
+      "date": "26/09",
+      "timestamp": 1790418034
+    },
+    {
+      "id": "BFMTV_1790416012",
+      "source": "BFMTV",
+      "text": "\"L'EAU N'ARRÊTE PAS DE MONTER\": LES IMAGES IMPRESSIONNANTES DE BANGKOK SUBMERGÉE PAR LES PLUIES, L’ÉTAT DE CATASTROPHE NATURELLE DÉCRÉTÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:46",
+      "date": "26/09",
+      "timestamp": 1790416012
+    },
+    {
+      "id": "BFMTV_1790414063",
+      "source": "BFMTV",
+      "text": "EUROMILLIONS: LE JACKPOT DE 130 MILLIONS D'EUROS REMPORTÉ VENDREDI",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:14",
+      "date": "26/09",
+      "timestamp": 1790414063
+    },
     {
       "id": "BFMTV_1790398299",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "20:05",
       "date": "23/09",
       "timestamp": 1790193926
-    },
-    {
-      "id": "BFMTV_1790193535",
-      "source": "BFMTV",
-      "text": "IA: \"IL NOUS FAUT PRENDRE LE TEMPS DE MESURER LES CONSÉQUENCES DE LA DIFFUSION DE L'IA POUR LA DIGNITÉ DE LA PERSONNE HUMAINE\", DÉCLARE JEAN-NOËL BARROT",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:58",
-      "date": "23/09",
-      "timestamp": 1790193535
-    },
-    {
-      "id": "BFMTV_1790193153",
-      "source": "BFMTV",
-      "text": "IA: \"NOUS RALENTIRONS AUTANT QUE NÉCESSAIRE POUR FAIRE EN SORTE QUE CHAQUE NOUVELLE TECHNOLOGIQUE DE L'IA QUE NOUS DÉPLOYONS SOIT VÉRITABLEMENT SÛRE\", DÉCLARE DARIO AMODEI, PDG D'ANTHROPIC",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:52",
-      "date": "23/09",
-      "timestamp": 1790193153
-    },
-    {
-      "id": "BFMTV_1790192699",
-      "source": "BFMTV",
-      "text": "PROGRESSION DE L'IA: \"IL FAUT QUE NOUS SOYONS TRÈS PRUDENTS\", PRÉVIENT SAM ALTMAN, LE PDG D'OPENAI",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:44",
-      "date": "23/09",
-      "timestamp": 1790192699
-    },
-    {
-      "id": "BFMTV_1790192160",
-      "source": "BFMTV",
-      "text": "\"CES DERNIERS MOIS LES AGENTS IA ET LEURS PRINCIPALES ENTREPRISES ONT AGI D'UNE MANIÈRE INACCEPTABLEMENT DANGEREUSE\", DÉNONCE YOSHUA BENGIO",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:36",
-      "date": "23/09",
-      "timestamp": 1790192160
-    },
-    {
-      "id": "BFMTV_1790189062",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: DEUX PILOTES S’ÉJECTENT EN PARACHUTE AVANT LE CRASH D’UN AVION DE CHASSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:44",
-      "date": "23/09",
-      "timestamp": 1790189062
-    },
-    {
-      "id": "BFMTV_1790188918",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"LA RUSSIE RECRUTE DES RESSORTISSANTS DE 47 PAYS DIFFÉRENTS POUR MENER CETTE GUERRE\", DÉNONCE VOLODYMYR ZELENSKY ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:41",
-      "date": "23/09",
-      "timestamp": 1790188918
     }
   ],
   "france": {
