@@ -1,7 +1,77 @@
 {
-  "last_update": "26/09 12:27",
+  "last_update": "26/09 16:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790440123",
+      "source": "BFMTV",
+      "text": "MOSCOU ASSURE QUE L'EUROPE \"FAIT TOUT\" POUR CONTRECARRER LES NÉGOCIATIONS SUR L'UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:28",
+      "date": "26/09",
+      "timestamp": 1790440123
+    },
+    {
+      "id": "BFMTV_1790439389",
+      "source": "BFMTV",
+      "text": "UN IMMEUBLE S'EFFONDRE À ATHÈNES APRÈS UNE EXPLOSION, SIX PERSONNES RETROUVÉES MORTES DANS LES DÉCOMBRES",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:16",
+      "date": "26/09",
+      "timestamp": 1790439389
+    },
+    {
+      "id": "BFMTV_1790437739",
+      "source": "BFMTV",
+      "text": "LES IMAGES DES INONDATIONS À BANGKOK EN THAÏLANDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:48",
+      "date": "26/09",
+      "timestamp": 1790437739
+    },
+    {
+      "id": "BFMTV_1790436709",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP \"REJETTE\" L'OFFRE DE L'IRAN POUR ROUVRIR LE DÉTROIT D'ORMUZ SOUS SEPT JOURS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:31",
+      "date": "26/09",
+      "timestamp": 1790436709
+    },
+    {
+      "id": "OPEX360_1790430166",
+      "source": "OPEX360",
+      "text": "LA MARINE INDIENNE ENVISAGE DE SE DOTER D’UNE FLOTTE D’AVIONS RAVITAILLEURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:42",
+      "date": "26/09",
+      "timestamp": 1790430166
+    },
+    {
+      "id": "BFMTV_1790429417",
+      "source": "BFMTV",
+      "text": "ASSEMBLÉE GÉNÉRALE DE L'ONU: \"LA CHINE CONTINUERA D'ASPIRER À LA PAIX ET AU DÉVELOPPEMENT\", DÉCLARE LE VICE-PRÉSIDENT CHINOIS, HAN ZHENG",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:30",
+      "date": "26/09",
+      "timestamp": 1790429417
+    },
+    {
+      "id": "BFMTV_1790427193",
+      "source": "BFMTV",
+      "text": "CRISE MIGRATOIRE À CEUTA: DES DIZAINES DE MILLIERS D'ESPAGNOLS MANIFESTENT À MADRID CONTRE LE GOUVERNEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:53",
+      "date": "26/09",
+      "timestamp": 1790427193
+    },
     {
       "id": "OPEX360_1790422064",
       "source": "OPEX360",
@@ -931,76 +1001,6 @@
       "time": "04:33",
       "date": "24/09",
       "timestamp": 1790224419
-    },
-    {
-      "id": "BFMTV_1790224419",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:33",
-      "date": "24/09",
-      "timestamp": 1790224419
-    },
-    {
-      "id": "BFMTV_1790224418",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: KIEV VISÉE PAR DES MISSILES BALISTIQUES RUSSES, AU MOINS DEUX MORTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:33",
-      "date": "24/09",
-      "timestamp": 1790224418
-    },
-    {
-      "id": "BFMTV_1790224024",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:27",
-      "date": "24/09",
-      "timestamp": 1790224024
-    },
-    {
-      "id": "BFMTV_1790224024",
-      "source": "BFMTV",
-      "text": "LE GOUVERNEMENT TRUMP RECONNAÎT \"HUIT TENTATIVES DE SUICIDES\" SUR LE PORTE-AVIONS ABRAHAM LINCOLN",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:27",
-      "date": "24/09",
-      "timestamp": 1790224024
-    },
-    {
-      "id": "BFMTV_1790223528",
-      "source": "BFMTV",
-      "text": "KIM JONG-UN",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:18",
-      "date": "24/09",
-      "timestamp": 1790223528
-    },
-    {
-      "id": "BFMTV_1790201225",
-      "source": "BFMTV",
-      "text": "ATTENTATS DU 13-NOVEMBRE: FACE À LA POSSIBLE LIBÉRATION DU \"LOGISTICIEN\", LA JUSTICE BELGE PRENDRA LE TEMPS D'ENTENDRE LES VICTIMES",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:07",
-      "date": "23/09",
-      "timestamp": 1790201225
-    },
-    {
-      "id": "BFMTV_1790193926",
-      "source": "BFMTV",
-      "text": "RISQUES LIÉS À L'IA: \"NOUS NE POUVONS PAS DIRE QUE PERSONNE NE NOUS A AVERTIS\", PRÉVIENT LE PRINCE HARRY",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:05",
-      "date": "23/09",
-      "timestamp": 1790193926
     }
   ],
   "france": {
