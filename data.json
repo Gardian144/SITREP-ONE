@@ -1,7 +1,37 @@
 {
-  "last_update": "27/09 15:45",
+  "last_update": "27/09 19:32",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790531982",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES FRAPPES RUSSES SUR KIEV ET SOUMY TUENT HUIT PERSONNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:59",
+      "date": "27/09",
+      "timestamp": 1790531982
+    },
+    {
+      "id": "BFMTV_1790531686",
+      "source": "BFMTV",
+      "text": "AFRIQUE DU SUD: DEUX FUSILLADES FONT 27 MORTS À JOHANNESBURG ET AU CAP",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:54",
+      "date": "27/09",
+      "timestamp": 1790531686
+    },
+    {
+      "id": "BFMTV_1790529058",
+      "source": "BFMTV",
+      "text": "PRÉPARATION D'UN ACTE TERRORISTE, CINQ HOMMES ARRÊTÉS... CE QUE L'ON SAIT SUR L'\"INCIDENT MAJEUR\" PRÈS D'UNE BASE MILITAIRE UTILISÉE PAR L'ARMÉE AMÉRICAINE AU ROYAUME-UNI",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:10",
+      "date": "27/09",
+      "timestamp": 1790529058
+    },
     {
       "id": "BFMTV_1790523597",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "17:34",
       "date": "24/09",
       "timestamp": 1790271294
-    },
-    {
-      "id": "OPEX360_1790271123",
-      "source": "OPEX360",
-      "text": "MARINE NATIONALE : TROP COÛTEUX, LE PROJET D’AVION DE PATROUILLE MARITIME A321 PATMAR NE SERA PAS LANCÉ EN 2026",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:32",
-      "date": "24/09",
-      "timestamp": 1790271123
-    },
-    {
-      "id": "BFMTV_1790271033",
-      "source": "BFMTV",
-      "text": "ISRAËL-PALESTINE: \"LA SOLUTION À 2 ÉTATS, C'EST LA SEULE QUI PUISSE ASSURER UNE PAIX DURABLE AU MOYEN-ORIENT\", AFFIRME ANTÓNIO COSTA",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:30",
-      "date": "24/09",
-      "timestamp": 1790271033
-    },
-    {
-      "id": "BFMTV_1790270603",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: ANTÓNIO COSTA APPELLE LA COMMUNAUTÉ INTERNATIONALE À AGIR POUR \"UNE PAIX GLOBALE, JUSTE ET DURABLE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:23",
-      "date": "24/09",
-      "timestamp": 1790270603
     }
   ],
   "france": {
