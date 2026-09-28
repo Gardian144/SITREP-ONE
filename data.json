@@ -1,7 +1,27 @@
 {
-  "last_update": "28/09 01:10",
+  "last_update": "28/09 06:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790573462",
+      "source": "BFMTV",
+      "text": "L'ARMÉE ISRAÉLIENNE ANNONCE AVOIR TUÉ À GAZA LE RAVISSEUR D'UN COUPLE D'OTAGES DU 7-OCTOBRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:31",
+      "date": "28/09",
+      "timestamp": 1790573462
+    },
+    {
+      "id": "BFMTV_1790573462",
+      "source": "BFMTV",
+      "text": "ATTAQUES DU 7 OCTOBRE 2023 DU HAMAS CONTRE ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:31",
+      "date": "28/09",
+      "timestamp": 1790573462
+    },
     {
       "id": "BFMTV_1790531982",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "18:26",
       "date": "24/09",
       "timestamp": 1790274379
-    },
-    {
-      "id": "BFMTV_1790273431",
-      "source": "BFMTV",
-      "text": "DE NOMBREUX MEMBRES DE L'ASSEMBLÉE GÉNÉRALE DE L'ONU QUITTENT LA SALLE AU MOMENT OÙ BENJAMIN NETANYAHU ARRIVE À LA TRIBUNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:10",
-      "date": "24/09",
-      "timestamp": 1790273431
-    },
-    {
-      "id": "BFMTV_1790271294",
-      "source": "BFMTV",
-      "text": "\"IL EST ESSENTIEL QUE L'IRAN NE SOIT JAMAIS AUTORISÉE À ACQUÉRIR L'ARME NUCLÉAIRE\", DÉCLARE ANTÓNIO COSTA",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:34",
-      "date": "24/09",
-      "timestamp": 1790271294
     }
   ],
   "france": {
