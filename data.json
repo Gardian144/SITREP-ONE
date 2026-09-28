@@ -1,7 +1,137 @@
 {
-  "last_update": "28/09 06:54",
+  "last_update": "28/09 14:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790605226",
+      "source": "BFMTV",
+      "text": "LA RÉPUBLIQUE DOMINICAINE MET EN GARDE CONTRE DES OFFRES D’EMPLOI SUSCEPTIBLES DE MENER SES CITOYENS À S’ENGAGER DANS L’ARMÉE RUSSE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:20",
+      "date": "28/09",
+      "timestamp": 1790605226
+    },
+    {
+      "id": "BFMTV_1790603461",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UN DRONE A FAIT AU MOINS UN MORT DANS L'ATTAQUE DE L'ACADÉMIE NATIONALE DES SCIENCES DE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:51",
+      "date": "28/09",
+      "timestamp": 1790603461
+    },
+    {
+      "id": "BFMTV_1790600803",
+      "source": "BFMTV",
+      "text": "L'IRAN NIE \"CATÉGORIQUEMENT\" TOUTE IMPLICATION DANS LE PROJET D'ATTAQUE CONTRE UNE BASE MILITAIRE EN ANGLETERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:06",
+      "date": "28/09",
+      "timestamp": 1790600803
+    },
+    {
+      "id": "BFMTV_1790598285",
+      "source": "BFMTV",
+      "text": "\"PAS UNE MARICARMEN DE PLUS\": EXPULSÉE DE SON APPARTEMENT À MADRID, UNE OCTOGÉNAIRE ÉRIGÉE AU RANG DE SYMBOLE DE LA CRISE DU LOGEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:24",
+      "date": "28/09",
+      "timestamp": 1790598285
+    },
+    {
+      "id": "BFMTV_1790597414",
+      "source": "BFMTV",
+      "text": "L'ALCOOL POURRAIT BIENTÔT ÊTRE À NOUVEAU AUTORISÉ DANS LES TRIBUNES DES STADES DE FOOT ANGLAIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:10",
+      "date": "28/09",
+      "timestamp": 1790597414
+    },
+    {
+      "id": "BFMTV_1790593905",
+      "source": "BFMTV",
+      "text": "\"UNE RÉPONSE PLUS FERME AUX ATTAQUES HYBRIDES RUSSES\": BRUXELLES VEUT METTRE EN PLACE UN \"PROTOCOLE D'URGENCE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:11",
+      "date": "28/09",
+      "timestamp": 1790593905
+    },
+    {
+      "id": "BFMTV_1790592463",
+      "source": "BFMTV",
+      "text": "L’ARMÉE ISRAÉLIENNE ANNONCE AVOIR TUÉ À GAZA LE RAVISSEUR D’UN COUPLE D’OTAGES DU 7-OCTOBRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:47",
+      "date": "28/09",
+      "timestamp": 1790592463
+    },
+    {
+      "id": "OPEX360_1790592455",
+      "source": "OPEX360",
+      "text": "LE SYSTÈME FRANCO-ITALIEN DE DÉFENSE AÉRIENNE SAMP/T NG SEMBLE LE MIEUX PLACÉ POUR S’IMPOSER EN SUISSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:47",
+      "date": "28/09",
+      "timestamp": 1790592455
+    },
+    {
+      "id": "BFMTV_1790588428",
+      "source": "BFMTV",
+      "text": "UN JEUNE PHOQUE ÉGARÉ SUR LA ROUTE EN NOUVELLE-ZÉLANDE SECOURU PAR LA POLICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:40",
+      "date": "28/09",
+      "timestamp": 1790588428
+    },
+    {
+      "id": "BFMTV_1790586743",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: CINQ HOMMES ARRÊTÉS POUR PRÉPARATION D’UN “ACTE TERRORISTE” PRÈS D’UNE BASE AÉRIENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:12",
+      "date": "28/09",
+      "timestamp": 1790586743
+    },
+    {
+      "id": "BFMTV_1790583552",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN AFFIME QU'AUCUNE DISCUSSION N'EST PRÉVUE, MALGRÉ LES PROPOS DE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:19",
+      "date": "28/09",
+      "timestamp": 1790583552
+    },
+    {
+      "id": "BFMTV_1790583552",
+      "source": "BFMTV",
+      "text": "CONFLIT ISRAËL-IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:19",
+      "date": "28/09",
+      "timestamp": 1790583552
+    },
+    {
+      "id": "BFMTV_1790578844",
+      "source": "BFMTV",
+      "text": "AU MOINS DEUX MORTS ET 14 DISPARUS SELON UN NOUVEAU BILAN APRÈS UNE AVALANCHE AU NÉPAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:00",
+      "date": "28/09",
+      "timestamp": 1790578844
+    },
     {
       "id": "BFMTV_1790573462",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "06:23",
       "date": "25/09",
       "timestamp": 1790317435
-    },
-    {
-      "id": "BFMTV_1790316629",
-      "source": "BFMTV",
-      "text": "L'ACTRICE SUSAN SARANDON INTERPELLÉE LORS D'UNE MANIFESTATION CONTRE BENJAMIN NETANYAHU À NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:10",
-      "date": "25/09",
-      "timestamp": 1790316629
-    },
-    {
-      "id": "BFMTV_1790316253",
-      "source": "BFMTV",
-      "text": "DES DÉLÉGATIONS QUITTENT L’ASSEMBLÉE GÉNÉRALE DE L’ONU PENDANT LE DISCOURS DE BENJAMIN NETANYAHU",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:04",
-      "date": "25/09",
-      "timestamp": 1790316253
-    },
-    {
-      "id": "BFMTV_1790312869",
-      "source": "BFMTV",
-      "text": "L'ARABIE SAOUDITE DE NOUVEAU CIBLÉE PAR LES HOUTHIS DU YÉMEN, RYAD PROMET \"UNE RÉPONSE FERME\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:07",
-      "date": "25/09",
-      "timestamp": 1790312869
-    },
-    {
-      "id": "BFMTV_1790311595",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU AUX NATIONS UNIES: DES DIZAINES DE MEMBRES QUITTENT LA SALLE AVANT SON DISCOURS, LE DIRIGEANT LES TRAITE DE \"LÂCHES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:46",
-      "date": "25/09",
-      "timestamp": 1790311595
-    },
-    {
-      "id": "BFMTV_1790311249",
-      "source": "BFMTV",
-      "text": "GUERRE ISRAËL-HAMAS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:40",
-      "date": "25/09",
-      "timestamp": 1790311249
-    },
-    {
-      "id": "BFMTV_1790311248",
-      "source": "BFMTV",
-      "text": "DEVANT L'ONU, MAHMOUD ABBAS FUSTIGE LA POLITIQUE ISRAÉLIENNE QUI MENACE \"LA VIE ET L'EXISTENCE MÊMES DU PEUPLE PALESTINIEN\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:40",
-      "date": "25/09",
-      "timestamp": 1790311248
-    },
-    {
-      "id": "BFMTV_1790310351",
-      "source": "BFMTV",
-      "text": "L'ACTRICE SUSAN SARANDON INTERPELLÉE LORS D'UNE MANIFESTATION CONTRE BENJAMIN NETANYAHU À NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:25",
-      "date": "25/09",
-      "timestamp": 1790310351
-    },
-    {
-      "id": "BFMTV_1790309969",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT IRANIEN MASSOUD PEZESHKIAN ESTIME QUE C'EST AUX ÉTATS-UNIS \"DE DÉCIDER SI ILS VEULENT TERMINER\" LA GUERRE AVEC TÉHÉRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:19",
-      "date": "25/09",
-      "timestamp": 1790309969
-    },
-    {
-      "id": "BFMTV_1790287629",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU AFFIRME QUE \"DE NOMBREUX JUIFS\" DE NEW YORK NE SE SENTENT PLUS EN SÉCURITÉ DEPUIS L'ÉLECTION DU MAIRE DE NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:07",
-      "date": "24/09",
-      "timestamp": 1790287629
-    },
-    {
-      "id": "BFMTV_1790277452",
-      "source": "BFMTV",
-      "text": "ESPAGNE: L'EXPULSION D'UNE RETRAITÉE DE 87 ANS SUSCITE L'INDIGNATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:17",
-      "date": "24/09",
-      "timestamp": 1790277452
-    },
-    {
-      "id": "BFMTV_1790276137",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU AFFIRME QUE \"BEAUCOUP DE JUIFS NE SE SENTENT PLUS EN SÉCURITÉ À NEW YORK\" DEPUIS L'ÉLECTION DE ZOHRAN MAMDANI",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:55",
-      "date": "24/09",
-      "timestamp": 1790276137
-    },
-    {
-      "id": "BFMTV_1790274764",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU REMERCIE DONALD TRUMP DANS SON DISCOURS À L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:32",
-      "date": "24/09",
-      "timestamp": 1790274764
-    },
-    {
-      "id": "BFMTV_1790274379",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU S'EN PREND AU ROYAUME-UNI ET À LA FRANCE, ANCIENS PAYS COLONISATEURS, FACE À L'ASSEMBLÉE GÉNÉRALE DE L'ONU",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:26",
-      "date": "24/09",
-      "timestamp": 1790274379
     }
   ],
   "france": {
