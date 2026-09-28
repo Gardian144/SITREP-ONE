@@ -1,7 +1,77 @@
 {
-  "last_update": "28/09 14:58",
+  "last_update": "28/09 21:10",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790627832",
+      "source": "BFMTV",
+      "text": "KIEV FRAPPÉE PAR DE NOUVELLES FRAPPES DE DRONES RUSSES EN PLEINE JOURNÉE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:37",
+      "date": "28/09",
+      "timestamp": 1790627832
+    },
+    {
+      "id": "BFMTV_1790626155",
+      "source": "BFMTV",
+      "text": "UN HUMORISTE TURC CONDAMNÉ À DE LA PRISON POUR AVOIR \"INSULTÉ\" LE PRÉSIDENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:09",
+      "date": "28/09",
+      "timestamp": 1790626155
+    },
+    {
+      "id": "BFMTV_1790625841",
+      "source": "BFMTV",
+      "text": "PROJET D'ATTAQUE AU ROYAUME-UNI: \"JE N'AURAIS PAS LIBÉRÉ LES SUSPECTS\", REGRETTE DONALD TRUMP, QUI ESTIME QUE CETTE TENTATIVE AVORTÉE EST \"PEUT-ÊTRE\" LIÉE À LA SITUATION EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:04",
+      "date": "28/09",
+      "timestamp": 1790625841
+    },
+    {
+      "id": "OPEX360_1790616698",
+      "source": "OPEX360",
+      "text": "LE CANADA FAIT UN PAS DE PLUS VERS L’ACQUISITION DE SIX AVIONS D’ALERTE AVANCÉE GLOBALEYE AUPRÈS DU SUÉDOIS SAAB",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:31",
+      "date": "28/09",
+      "timestamp": 1790616698
+    },
+    {
+      "id": "OPEX360_1790612777",
+      "source": "OPEX360",
+      "text": "LES ÉTATS MEMBRES DE L’UNION EUROPÉENNE APPROUVENT CINQ AMBITIEUX PROJETS DE DÉFENSE D’INTÉRÊT COMMUN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:26",
+      "date": "28/09",
+      "timestamp": 1790612777
+    },
+    {
+      "id": "BFMTV_1790608616",
+      "source": "BFMTV",
+      "text": "LES CINQ HOMMES ARRÊTÉS APRÈS DES SOUPÇONS D'UNE \"PRÉPARATION D'UN ACTE TERRORISTE\" AU ROYAUME-UNI LIBÉRÉS SOUS CAUTION",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:16",
+      "date": "28/09",
+      "timestamp": 1790608616
+    },
+    {
+      "id": "OPEX360_1790607497",
+      "source": "OPEX360",
+      "text": "LA LETTONIE VEUT RENFORCER SES CAPACITÉS DE FRAPPE DANS LA PROFONDEUR AVEC DES MISSILES AMÉRICAINS BARRACUDA",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:58",
+      "date": "28/09",
+      "timestamp": 1790607497
+    },
     {
       "id": "BFMTV_1790605226",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "10:29",
       "date": "25/09",
       "timestamp": 1790332140
-    },
-    {
-      "id": "BFMTV_1790330269",
-      "source": "BFMTV",
-      "text": "XENIA FEDOROVA: LE KREMLIN DÉNONCE UNE \"PERSÉCUTION\" APRÈS LES SANCTIONS DE L'UE CONTRE LA CHRONIQUEUSE RUSSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:57",
-      "date": "25/09",
-      "timestamp": 1790330269
-    },
-    {
-      "id": "BFMTV_1790329780",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:49",
-      "date": "25/09",
-      "timestamp": 1790329780
-    },
-    {
-      "id": "BFMTV_1790328582",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: DONALD TRUMP SE MOQUE DE JOE BIDEN DEVANT LE PRÉSIDENT CHINOIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:29",
-      "date": "25/09",
-      "timestamp": 1790328582
-    },
-    {
-      "id": "BFMTV_1790323558",
-      "source": "BFMTV",
-      "text": "XI JINPING APPELLE LA CHINE ET LES ÉTATS-UNIS À \"AGIR EN TANT QUE GRANDES PUISSANCES RESPONSABLES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:05",
-      "date": "25/09",
-      "timestamp": 1790323558
-    },
-    {
-      "id": "BFMTV_1790319050",
-      "source": "BFMTV",
-      "text": "LORS D'UN DÎNER D'ÉTAT AVEC LE PRÉSIDENT CHINOIS, DONALD TRUMP A SOUHAITÉ UN \"AVENIR D'HARMONIE\" POUR LEURS PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:50",
-      "date": "25/09",
-      "timestamp": 1790319050
-    },
-    {
-      "id": "BFMTV_1790318474",
-      "source": "BFMTV",
-      "text": "\"UN AVERTISSEMENT AU MONDE\": LE PREMIER MINISTRE DU NÉPAL LANCE UN APPEL À L'AIDE DEVANT L'ONU FACE À L'URGENCE CLIMATIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:41",
-      "date": "25/09",
-      "timestamp": 1790318474
-    },
-    {
-      "id": "BFMTV_1790317435",
-      "source": "BFMTV",
-      "text": "DEUX SOLDATS DE TSAHAL TUÉS À GAZA PAR L'EXPLOSION ACCIDENTELLE D'UN DRONE ISRAÉLIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:23",
-      "date": "25/09",
-      "timestamp": 1790317435
     }
   ],
   "france": {
