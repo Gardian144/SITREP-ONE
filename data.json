@@ -1,7 +1,57 @@
 {
-  "last_update": "29/09 00:59",
+  "last_update": "29/09 06:46",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790663583",
+      "source": "BFMTV",
+      "text": "INONDATIONS EN THAÏLANDE: LE BILAN MONTE À 23 MORTS, DONT QUATRE À BANGKOK",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:33",
+      "date": "29/09",
+      "timestamp": 1790663583
+    },
+    {
+      "id": "BFMTV_1790663133",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: TÉHÉRAN DIT ATTENDRE UNE RÉPONSE DES ÉTATS-UNIS MARDI SUR LE PLAN D'OUVERTURE DU DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:25",
+      "date": "29/09",
+      "timestamp": 1790663133
+    },
+    {
+      "id": "BFMTV_1790658832",
+      "source": "BFMTV",
+      "text": "\"JE NE LEUR AI RIEN OFFERT\": DONALD TRUMP DÉMENT AVOIR PROPOSÉ À L’IRAN UNE LEVÉE DES SANCTIONS ET UN DÉGEL DE FONDS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:13",
+      "date": "29/09",
+      "timestamp": 1790658832
+    },
+    {
+      "id": "BFMTV_1790657604",
+      "source": "BFMTV",
+      "text": "\"JE N'AURAIS PAS FAIT ÇA\": DONALD TRUMP CRITIQUE LA LIBÉRATION DES CINQ HOMMES SUSPECTÉS D'UN PROJET D'ATTAQUE CONTRE UNE BASE MILITAIRE EN ANGLETERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:53",
+      "date": "29/09",
+      "timestamp": 1790657604
+    },
+    {
+      "id": "BFMTV_1790656320",
+      "source": "BFMTV",
+      "text": "\"SOYEZ PRÊTS À ÉVACUER\": LES TRAINS UKRAINIENS DANS LE VISEUR DE MOSCOU",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:32",
+      "date": "29/09",
+      "timestamp": 1790656320
+    },
     {
       "id": "BFMTV_1790632580",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "13:55",
       "date": "25/09",
       "timestamp": 1790344520
-    },
-    {
-      "id": "BFMTV_1790344055",
-      "source": "BFMTV",
-      "text": "TENTATIVE D'ASSASSINAT DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:47",
-      "date": "25/09",
-      "timestamp": 1790344055
-    },
-    {
-      "id": "BFMTV_1790344054",
-      "source": "BFMTV",
-      "text": "DES \"COMPLICATIONS\" LIÉES À SA BLESSURE: MORT D'UN HOMME QUI AVAIT ÉTÉ TOUCHÉ PAR BALLE LORS DE LA TENTATIVE D'ASSASSINAT DE DONALD TRUMP EN 2024",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:47",
-      "date": "25/09",
-      "timestamp": 1790344054
-    },
-    {
-      "id": "BFMTV_1790343964",
-      "source": "BFMTV",
-      "text": "\"UNE MISE EN GARDE POUR LE MONDE\": L'ALERTE DU NÉPAL À L'ONU FACE À L'URGENCE CLIMATIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:46",
-      "date": "25/09",
-      "timestamp": 1790343964
-    },
-    {
-      "id": "BFMTV_1790340062",
-      "source": "BFMTV",
-      "text": "ACCORD SUR LE GROENLAND: \"TOUT LE MONDE S'EN SORT BIEN\", ESTIME L'AMBASSADEUR FRANÇAIS POUR LES OCÉANS ET LES PÔLES",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:41",
-      "date": "25/09",
-      "timestamp": 1790340062
-    },
-    {
-      "id": "BFMTV_1790339987",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: QUATRE PERSONNES TUÉES À KIEV DANS UNE FRAPPE DE DRONE RUSSE MENÉE EN PLEIN JOUR",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:39",
-      "date": "25/09",
-      "timestamp": 1790339987
     }
   ],
   "france": {
