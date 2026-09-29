@@ -1,7 +1,27 @@
 {
-  "last_update": "28/09 21:10",
+  "last_update": "29/09 00:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790632580",
+      "source": "BFMTV",
+      "text": "MARICARMEN ABASCAL, LA RETRAITÉE EXPULSÉE DE SON APPARTEMENT À MADRID À L'ÂGE DE 87 ANS, A CONCLU UN ACCORD AVEC LES PROPRIÉTAIRES POUR Y RETOURNER",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:56",
+      "date": "28/09",
+      "timestamp": 1790632580
+    },
+    {
+      "id": "BFMTV_1790630786",
+      "source": "BFMTV",
+      "text": "UKRAINE: UN DRONE FAIT AU MOINS UN MORT DANS L'ATTAQUE DE L'ACADÉMIE NATIONALE DES SCIENCES DE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:26",
+      "date": "28/09",
+      "timestamp": 1790630786
+    },
     {
       "id": "BFMTV_1790627832",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "12:39",
       "date": "25/09",
       "timestamp": 1790339987
-    },
-    {
-      "id": "BFMTV_1790339356",
-      "source": "BFMTV",
-      "text": "ACCORD SUR LE GROENLAND: \"IL Y A DU BUSINESS À FAIRE, C'EST LA LOGIQUE TRUMP\", DIT L'AMBASSADEUR FRANÇAIS POUR LES OCÉANS ET LES PÔLES",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:29",
-      "date": "25/09",
-      "timestamp": 1790339356
-    },
-    {
-      "id": "OPEX360_1790332140",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES ACCÉLÈRE SUR LE CALCUL QUANTIQUE EN LANÇANT LE PROJET «ALIQUANTE»",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:29",
-      "date": "25/09",
-      "timestamp": 1790332140
     }
   ],
   "france": {
