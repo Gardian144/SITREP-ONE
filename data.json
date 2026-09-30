@@ -1,7 +1,117 @@
 {
-  "last_update": "30/09 14:55",
+  "last_update": "30/09 19:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790796970",
+      "source": "BFMTV",
+      "text": "LE RÉCIT MINUTE PAR MINUTE DU DÉTOURNEMENT DU VOL À DESTINATION DE TEL-AVIV ",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:36",
+      "date": "30/09",
+      "timestamp": 1790796970
+    },
+    {
+      "id": "BFMTV_1790795602",
+      "source": "BFMTV",
+      "text": "PEDRO SÁNCHEZ \"DEMANDE PARDON\" À EMMANUEL MACRON APRÈS LE REJET DU TRAITÉ D'AMITIÉ FRANCO-ESPAGNOL PAR LE SÉNAT À MADRID",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:13",
+      "date": "30/09",
+      "timestamp": 1790795602
+    },
+    {
+      "id": "BFMTV_1790794931",
+      "source": "BFMTV",
+      "text": "EN CORÉE DU SUD, DES STARS DE LA K-POP DÉNONCENT UNE TENDANCE QUI VALORISE LE CULTE DE LA MAIGREUR ",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:02",
+      "date": "30/09",
+      "timestamp": 1790794931
+    },
+    {
+      "id": "BFMTV_1790791660",
+      "source": "BFMTV",
+      "text": "INDONÉSIE: UNE PRISON DE LUXE A ÉTÉ DÉCOUVERTE, AVEC PISCINE, ALCOOL ET SALLE DE SPORT",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:07",
+      "date": "30/09",
+      "timestamp": 1790791660
+    },
+    {
+      "id": "BFMTV_1790790345",
+      "source": "BFMTV",
+      "text": "\"JE REPARS DE CETTE VISITE D'ÉTAT AVEC BEAUCOUP DE GRATITUDE\": EMMANUEL MACRON SALUE LES LIENS FRANCO-ESPAGNOLS APRÈS SON VOYAGE DE DEUX JOURS À MADRID",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:45",
+      "date": "30/09",
+      "timestamp": 1790790345
+    },
+    {
+      "id": "OPEX360_1790789746",
+      "source": "OPEX360",
+      "text": "AIRBUS HELICOPTERS AURAIT PROPOSÉ DES HÉLICOPTÈRES NH90 NFH D’OCCASION «REMIS À NEUF» À LA MALAISIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:35",
+      "date": "30/09",
+      "timestamp": 1790789746
+    },
+    {
+      "id": "OPEX360_1790785988",
+      "source": "OPEX360",
+      "text": "L’ALLEMAGNE VA COMMANDER 16 AVIONS A400M DE PLUS POUR REMPLACER SES APPAREILS LES PLUS ANCIENS",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:33",
+      "date": "30/09",
+      "timestamp": 1790785988
+    },
+    {
+      "id": "BFMTV_1790784881",
+      "source": "BFMTV",
+      "text": "\"ARRÊTEZ LES MENACES NUCLÉAIRES, CE N'EST ABSOLUMENT PAS JUSTIFIÉ ET INUTILE\": LE CHEF DE L'OTAN RÉPOND À LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:14",
+      "date": "30/09",
+      "timestamp": 1790784881
+    },
+    {
+      "id": "BFMTV_1790781384",
+      "source": "BFMTV",
+      "text": "\"UNE RHÉTORIQUE IRRESPONSABLE\": LA RUSSIE MENACE L'OTAN DE RECOURIR À L'ARME NUCLÉAIRE SI L'EXCLAVE DE KALININGRAD VENAIT À ÊTRE ISOLÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:16",
+      "date": "30/09",
+      "timestamp": 1790781384
+    },
+    {
+      "id": "BFMTV_1790780693",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UNE CÉLÈBRE ATTRACTION DE L’ENTREPRISE SIX FLAGS FERME AU PUBLIC APRÈS UNE ENQUÊTE DE CNN SUR SA DANGEROSITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:04",
+      "date": "30/09",
+      "timestamp": 1790780693
+    },
+    {
+      "id": "BFMTV_1790780335",
+      "source": "BFMTV",
+      "text": "\"UNE CATASTROPHE MAJEURE\" ÉVITÉE GRÂCE AUX PASSAGERS, PISTE \"TERRORISTE\" ÉVOQUÉE: CE QUE L'ON SAIT DU VOL À DESTINATION DE TEL-AVIV QUI A ÉTÉ DÉROUTÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:58",
+      "date": "30/09",
+      "timestamp": 1790780335
+    },
     {
       "id": "OPEX360_1790780002",
       "source": "OPEX360",
@@ -891,116 +1001,6 @@
       "time": "08:50",
       "date": "27/09",
       "timestamp": 1790499031
-    },
-    {
-      "id": "BFMTV_1790495002",
-      "source": "BFMTV",
-      "text": "\"QU'EST-CE QU'ON PEUT FAIRE D'AUTRE?\": LES NUITS D’ANGOISSE DES HABITANTS DE KIEV RÉFUGIÉS DANS LE MÉTRO UKRAINIEN POUR ÉVITER LES FRAPPES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:43",
-      "date": "27/09",
-      "timestamp": 1790495002
-    },
-    {
-      "id": "BFMTV_1790492250",
-      "source": "BFMTV",
-      "text": "DOUBLE FUSILLADE EN AFRIQUE DU SUD, AU MOINS 27 MORTS AU TOTAL RECENSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:57",
-      "date": "27/09",
-      "timestamp": 1790492250
-    },
-    {
-      "id": "BFMTV_1790489280",
-      "source": "BFMTV",
-      "text": "EXCLUSION DE TOUTE ALLIANCE MILITAIRE, FIN DES SANCTIONS CONTRE LA RUSSIE... LA SUISSE VA-T-ELLE RENFORCER SA NEUTRALITÉ? CE RÉFÉRENDUM SCRUTÉ DE PRÈS PAR MOSCOU",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:08",
-      "date": "27/09",
-      "timestamp": 1790489280
-    },
-    {
-      "id": "BFMTV_1790487824",
-      "source": "BFMTV",
-      "text": "AU MOINS 17 MORTS DANS UNE FUSILLADE DANS UN BAR EN AFRIQUE DU SUD, 15 BLESSÉS RECENSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:43",
-      "date": "27/09",
-      "timestamp": 1790487824
-    },
-    {
-      "id": "BFMTV_1790485602",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES ENTREPÔTS DANS LE VISEUR DE LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:06",
-      "date": "27/09",
-      "timestamp": 1790485602
-    },
-    {
-      "id": "BFMTV_1790484220",
-      "source": "BFMTV",
-      "text": "PLUIES DILUVIENNES, VENTS PUISSANTS, INONDATIONS... UNE VIOLENTE TEMPÊTE S'ABAT SUR LE NORD-EST DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:43",
-      "date": "27/09",
-      "timestamp": 1790484220
-    },
-    {
-      "id": "BFMTV_1790484026",
-      "source": "BFMTV",
-      "text": "UKRAINE: DES NUITS D'ANGOISSE RYTHMÉES PAR LES FRAPPES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:40",
-      "date": "27/09",
-      "timestamp": 1790484026
-    },
-    {
-      "id": "BFMTV_1790483712",
-      "source": "BFMTV",
-      "text": "LA VIOLENTE TEMPÊTE \"NOR'EASTER\" S'INTENSIFIE SUR LE NORD-EST DES ÉTATS-UNIS, AU MOINS UN MORT ET DES DIZAINES DE MILLIERS DE FOYERS PRIVÉS D’ÉLECTRICITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:35",
-      "date": "27/09",
-      "timestamp": 1790483712
-    },
-    {
-      "id": "BFMTV_1790482314",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN MAINTIENT SES CONDITIONS POUR ROUVRIR LE DÉTROIT D'ORMUZ MALGRÉ LE REFUS DE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:11",
-      "date": "27/09",
-      "timestamp": 1790482314
-    },
-    {
-      "id": "BFMTV_1790459112",
-      "source": "BFMTV",
-      "text": "VICTIME D'UN MARIAGE FORCÉ AU PAKISTAN, UNE FEMME ORIGINAIRE DE BARCELONE RAPATRIÉE PAR LA POLICE ESPAGNOLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:45",
-      "date": "26/09",
-      "timestamp": 1790459112
-    },
-    {
-      "id": "BFMTV_1790457118",
-      "source": "BFMTV",
-      "text": "SOLDATS FRANÇAIS EN ARABIE SAOUDITE: \"JE CROIS QUE C'EST NÉCESSAIRE\", DÉFEND GEOFFROY DIDIER, PRÉSIDENT LES RÉPUBLICAINS DÉLÉGUÉ DE LA RÉGION ÎLE-DE-FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:11",
-      "date": "26/09",
-      "timestamp": 1790457118
     }
   ],
   "france": {
