@@ -1,7 +1,177 @@
 {
-  "last_update": "30/09 08:02",
+  "last_update": "30/09 14:55",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1790780002",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES SERAIT SUR LE POINT DE COMMANDER LES DEUX NOUVEAUX SATELLITES D’OBSERVATION DU PROGRAMME IRIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:53",
+      "date": "30/09",
+      "timestamp": 1790780002
+    },
+    {
+      "id": "BFMTV_1790776925",
+      "source": "BFMTV",
+      "text": "VOL DÉROUTÉ: LE MINISTRE ISRAÉLIEN DE LA DÉFENSE ÉVOQUE UNE \"TENTATIVE D'ATTAQUE DJIHADISTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:02",
+      "date": "30/09",
+      "timestamp": 1790776925
+    },
+    {
+      "id": "BFMTV_1790775788",
+      "source": "BFMTV",
+      "text": "VOL À DESTINATION DE TEL-AVIV DÉROUTÉ: BENJAMIN NETANYAHU AFFIRME QUE L'UN DES PILOTES A ÉTÉ ARRÊTÉ ET SALUE DES PASSAGERS \"HÉROÏQUES\" QUI ONT ÉVITÉ UNE \"GRANDE CATASTROPHE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:43",
+      "date": "30/09",
+      "timestamp": 1790775788
+    },
+    {
+      "id": "BFMTV_1790775582",
+      "source": "BFMTV",
+      "text": "MAIRE DE MARRAKECH, ÉTUDES À MONTPELLIER... QUI EST FATIMA EZZAHRA EL MANSOURI, PREMIÈRE FEMME À DIRIGER UN GOUVERNEMENT AU MAROC?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:39",
+      "date": "30/09",
+      "timestamp": 1790775582
+    },
+    {
+      "id": "BFMTV_1790773966",
+      "source": "BFMTV",
+      "text": "CROISSANCE, BAISSE DU CHÔMAGE... À QUI PROFITE LA SITUATION ÉCONOMIQUE FAVORABLE EN ESPAGNE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:12",
+      "date": "30/09",
+      "timestamp": 1790773966
+    },
+    {
+      "id": "BFMTV_1790773912",
+      "source": "BFMTV",
+      "text": "CROISSANCE FORTE EN ESPAGNE: LES RAISONS DE CETTE BONNE FORME ÉCONOMIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:11",
+      "date": "30/09",
+      "timestamp": 1790773912
+    },
+    {
+      "id": "BFMTV_1790773757",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS- ALTERCATION, PILOTES BLESSÉS... CE QUE L'ON SAIT DU DÉTOURNEMENT D'AVION DE FLYDUBAI",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:09",
+      "date": "30/09",
+      "timestamp": 1790773757
+    },
+    {
+      "id": "BFMTV_1790773684",
+      "source": "BFMTV",
+      "text": "CRISE DU LOGEMENT EN ESPAGNE: COMMENT EXPLIQUER UNE SITUATION DEVENUE SI DIFFICILE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:08",
+      "date": "30/09",
+      "timestamp": 1790773684
+    },
+    {
+      "id": "BFMTV_1790770624",
+      "source": "BFMTV",
+      "text": "\"NOUS AVONS NEUTRALISÉ UN TERRORISTE ARMÉ D'UN COUTEAU\": DES PASSAGERS DU VOL À DESTINATION DE TEL-AVIV DÉROUTÉ TÉMOIGNENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:17",
+      "date": "30/09",
+      "timestamp": 1790770624
+    },
+    {
+      "id": "BFMTV_1790770101",
+      "source": "BFMTV",
+      "text": "\"NOUS AVONS RÉUSSI À MAÎTRISER LES TERRORISTES\": UN PASSAGER RACONTE LE DÉTOURNEMENT DE L'AVION DE FLYDUBAI",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:08",
+      "date": "30/09",
+      "timestamp": 1790770101
+    },
+    {
+      "id": "BFMTV_1790769512",
+      "source": "BFMTV",
+      "text": "TRAITÉ D'AMITIÉ FRANCE-ESPAGNE: PEDRO SÁNCHEZ S'EXCUSE APRÈS LE REJET DE LA RATIFICATION DU TEXTE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:58",
+      "date": "30/09",
+      "timestamp": 1790769512
+    },
+    {
+      "id": "BFMTV_1790769001",
+      "source": "BFMTV",
+      "text": "\"LE BREXIT EST LE PLUS GRAND MENSONGE DES 30 DERNIÈRES ANNÉES\", ESTIME EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:50",
+      "date": "30/09",
+      "timestamp": 1790769001
+    },
+    {
+      "id": "BFMTV_1790768625",
+      "source": "BFMTV",
+      "text": "\"NOUS AVONS RÉUSSI À MAÎTRISER LES TERRORISTES\": UN PASSAGER DU FLYDUBAI RACONTE LE DÉTOURNEMENT DE L'AVION",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:43",
+      "date": "30/09",
+      "timestamp": 1790768625
+    },
+    {
+      "id": "BFMTV_1790768060",
+      "source": "BFMTV",
+      "text": "VOL À DESTINATION DE TEL-AVIV DÉROUTÉ: LE MINISTRE ISRAÉLIEN DE LA SÉCURITÉ NATIONALE AFFIRME QU'UN \"TERRORISTE\" A VOULU FAIRE S'ÉCRASER L'AVION",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:34",
+      "date": "30/09",
+      "timestamp": 1790768060
+    },
+    {
+      "id": "BFMTV_1790766041",
+      "source": "BFMTV",
+      "text": " UNE BAGARRE ENTRE PILOTES ÉCLATE DANS UN VOL DUBAÏ - TEL-AVIV ET OBLIGE L'AVION À ATTERRIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:00",
+      "date": "30/09",
+      "timestamp": 1790766041
+    },
+    {
+      "id": "BFMTV_1790765046",
+      "source": "BFMTV",
+      "text": "JAVIER MILEI À PARIS: VERS DAVANTAGE D'INVESTISSEMENTS D'ENTREPRISES FRANÇAISES EN ARGENTINE?",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:44",
+      "date": "30/09",
+      "timestamp": 1790765046
+    },
+    {
+      "id": "OPEX360_1790758793",
+      "source": "OPEX360",
+      "text": "L’US NAVY A RETENU BOEING POUR DÉVELOPPER LE F/A-XX, SON FUTUR CHASSEUR-BOMBARDIER DE 6E GÉNÉRATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:59",
+      "date": "30/09",
+      "timestamp": 1790758793
+    },
     {
       "id": "BFMTV_1790750326",
       "source": "BFMTV",
@@ -831,176 +1001,6 @@
       "time": "21:11",
       "date": "26/09",
       "timestamp": 1790457118
-    },
-    {
-      "id": "BFMTV_1790456543",
-      "source": "BFMTV",
-      "text": "SOLDATS FRANÇAIS EN ARABIE SAOUDITE: \"IL DEVRAIT Y AVOIR UN DÉBAT AU PARLEMENT AVANT TOUTE DÉCISION D'INTERVENTION\", ESTIME DANIELLE SIMONNET, DÉPUTÉE \"L'APRÈS\" DE PARIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:02",
-      "date": "26/09",
-      "timestamp": 1790456543
-    },
-    {
-      "id": "BFMTV_1790455288",
-      "source": "BFMTV",
-      "text": "MARINE LE PEN VEUT ARRÊTER D'AIDER FINANCIÈREMENT L'UKRAINE: \"SOUTENIR L'UKRAINE, C'EST SOUTENIR LA FRANCE\", EXPLIQUE JEAN-LOUIS BOURLANGES, ANCIEN PRÉSIDENT DE LA COMMISSION DES AFFAIRES ÉTRANGÈRES DE L'ASSEMBLÉE",
-      "urgent": false,
-      "france_related": true,
-      "time": "20:41",
-      "date": "26/09",
-      "timestamp": 1790455288
-    },
-    {
-      "id": "BFMTV_1790453760",
-      "source": "BFMTV",
-      "text": "ROUVRIR LE DÉTROIT D'ORMUZ SOUS SEPT JOURS: DONALD TRUMP A REJETÉ LA PROPOSITION IRANIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:16",
-      "date": "26/09",
-      "timestamp": 1790453760
-    },
-    {
-      "id": "BFMTV_1790453376",
-      "source": "BFMTV",
-      "text": "LA FRANCE ENVOIE DES \"MOYENS MILITAIRES\" EN ARABIE SAOUDITE: \"C'EST UN SIGNAL AUTANT POLITIQUE QUE MILITAIRE\", EXPLIQUE DAVID RIGOULET-ROZE, CHERCHEUR ASSOCIÉ À L'IFAS",
-      "urgent": false,
-      "france_related": true,
-      "time": "20:09",
-      "date": "26/09",
-      "timestamp": 1790453376
-    },
-    {
-      "id": "BFMTV_1790453193",
-      "source": "BFMTV",
-      "text": "ROUTE DU PÉTROLE: LA FRANCE VA ENVOYER DES \"MOYENS MILITAIRES\" EN ARABIE SAOUDITE",
-      "urgent": false,
-      "france_related": true,
-      "time": "20:06",
-      "date": "26/09",
-      "timestamp": 1790453193
-    },
-    {
-      "id": "BFMTV_1790451658",
-      "source": "BFMTV",
-      "text": "LA RUSSIE ATTEINDRA SES OBJECTIFS \"PEU IMPORTE LES CIRCONSTANCES\", ASSURE SERGUEÏ LAVROV",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:40",
-      "date": "26/09",
-      "timestamp": 1790451658
-    },
-    {
-      "id": "BFMTV_1790449583",
-      "source": "BFMTV",
-      "text": "LA RUSSIE ATTEINDRA SES OBJECTIFS \"PEU IMPORTE LES CIRCONSTANCES\", ASSURE SERGUEÏ LAVROV À LA TRIBUNE DE L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:06",
-      "date": "26/09",
-      "timestamp": 1790449583
-    },
-    {
-      "id": "BFMTV_1790444909",
-      "source": "BFMTV",
-      "text": "\"VOUS POURRIEZ ÊTRE LA PROCHAINE MARICARMEN\": DES MILLIERS DE MANIFESTANTS À MADRID POUR SOUTENIR UNE OCTOGÉNAIRE EXPULSÉE DE SON APPARTEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:48",
-      "date": "26/09",
-      "timestamp": 1790444909
-    },
-    {
-      "id": "BFMTV_1790440123",
-      "source": "BFMTV",
-      "text": "MOSCOU ASSURE QUE L'EUROPE \"FAIT TOUT\" POUR CONTRECARRER LES NÉGOCIATIONS SUR L'UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:28",
-      "date": "26/09",
-      "timestamp": 1790440123
-    },
-    {
-      "id": "BFMTV_1790440123",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:28",
-      "date": "26/09",
-      "timestamp": 1790440123
-    },
-    {
-      "id": "BFMTV_1790440123",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:28",
-      "date": "26/09",
-      "timestamp": 1790440123
-    },
-    {
-      "id": "BFMTV_1790439389",
-      "source": "BFMTV",
-      "text": "UN IMMEUBLE S'EFFONDRE À ATHÈNES APRÈS UNE EXPLOSION, SIX PERSONNES RETROUVÉES MORTES DANS LES DÉCOMBRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:16",
-      "date": "26/09",
-      "timestamp": 1790439389
-    },
-    {
-      "id": "BFMTV_1790437739",
-      "source": "BFMTV",
-      "text": "LES IMAGES DES INONDATIONS À BANGKOK EN THAÏLANDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:48",
-      "date": "26/09",
-      "timestamp": 1790437739
-    },
-    {
-      "id": "BFMTV_1790436709",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP \"REJETTE\" L'OFFRE DE L'IRAN POUR ROUVRIR LE DÉTROIT D'ORMUZ SOUS SEPT JOURS",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:31",
-      "date": "26/09",
-      "timestamp": 1790436709
-    },
-    {
-      "id": "OPEX360_1790430166",
-      "source": "OPEX360",
-      "text": "LA MARINE INDIENNE ENVISAGE DE SE DOTER D’UNE FLOTTE D’AVIONS RAVITAILLEURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:42",
-      "date": "26/09",
-      "timestamp": 1790430166
-    },
-    {
-      "id": "BFMTV_1790429417",
-      "source": "BFMTV",
-      "text": "ASSEMBLÉE GÉNÉRALE DE L'ONU: \"LA CHINE CONTINUERA D'ASPIRER À LA PAIX ET AU DÉVELOPPEMENT\", DÉCLARE LE VICE-PRÉSIDENT CHINOIS, HAN ZHENG",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:30",
-      "date": "26/09",
-      "timestamp": 1790429417
-    },
-    {
-      "id": "BFMTV_1790427193",
-      "source": "BFMTV",
-      "text": "CRISE MIGRATOIRE À CEUTA: DES DIZAINES DE MILLIERS D'ESPAGNOLS MANIFESTENT À MADRID CONTRE LE GOUVERNEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:53",
-      "date": "26/09",
-      "timestamp": 1790427193
     }
   ],
   "france": {
