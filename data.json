@@ -1,7 +1,37 @@
 {
-  "last_update": "01/10 16:37",
+  "last_update": "01/10 21:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790883839",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: POURQUOI AUTANT DE RATÉS LORS DES EXÉCUTIONS PAR INJECTION? ",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:43",
+      "date": "01/10",
+      "timestamp": 1790883839
+    },
+    {
+      "id": "OPEX360_1790876066",
+      "source": "OPEX360",
+      "text": "L’US ARMY SÉLECTIONNE CINQ INDUSTRIELS POUR CONCEVOIR UN MISSILE TACTIQUE SOL-SOL D’UNE PORTÉE DE 1 000 KM",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:34",
+      "date": "01/10",
+      "timestamp": 1790876066
+    },
+    {
+      "id": "OPEX360_1790873031",
+      "source": "OPEX360",
+      "text": "ESPACE : L’ENTREPRISE FRANÇAISE HYPRSPACE A L’AMBITION DE PRODUIRE 100 MOTEURS DE FUSÉE PAR AN GRÂCE À SA NOUVELLE USINE",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:43",
+      "date": "01/10",
+      "timestamp": 1790873031
+    },
     {
       "id": "BFMTV_1790872171",
       "source": "BFMTV",
@@ -11,6 +41,16 @@
       "time": "16:29",
       "date": "01/10",
       "timestamp": 1790872171
+    },
+    {
+      "id": "BFMTV_1790871313",
+      "source": "BFMTV",
+      "text": "\"LE DERNIER COMBAT\": DONALD TRUMP ACCUSÉ DE FAIRE PAYER AUX CONTRIBUABLES SON CLIP DE CAMPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:15",
+      "date": "01/10",
+      "timestamp": 1790871313
     },
     {
       "id": "BFMTV_1790869634",
@@ -961,46 +1001,6 @@
       "time": "11:11",
       "date": "28/09",
       "timestamp": 1790593905
-    },
-    {
-      "id": "BFMTV_1790592463",
-      "source": "BFMTV",
-      "text": "L’ARMÉE ISRAÉLIENNE ANNONCE AVOIR TUÉ À GAZA LE RAVISSEUR D’UN COUPLE D’OTAGES DU 7-OCTOBRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:47",
-      "date": "28/09",
-      "timestamp": 1790592463
-    },
-    {
-      "id": "OPEX360_1790592455",
-      "source": "OPEX360",
-      "text": "LE SYSTÈME FRANCO-ITALIEN DE DÉFENSE AÉRIENNE SAMP/T NG SEMBLE LE MIEUX PLACÉ POUR S’IMPOSER EN SUISSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:47",
-      "date": "28/09",
-      "timestamp": 1790592455
-    },
-    {
-      "id": "BFMTV_1790588428",
-      "source": "BFMTV",
-      "text": "UN JEUNE PHOQUE ÉGARÉ SUR LA ROUTE EN NOUVELLE-ZÉLANDE SECOURU PAR LA POLICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:40",
-      "date": "28/09",
-      "timestamp": 1790588428
-    },
-    {
-      "id": "BFMTV_1790586743",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: CINQ HOMMES ARRÊTÉS POUR PRÉPARATION D’UN “ACTE TERRORISTE” PRÈS D’UNE BASE AÉRIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:12",
-      "date": "28/09",
-      "timestamp": 1790586743
     }
   ],
   "france": {
