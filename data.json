@@ -1,7 +1,77 @@
 {
-  "last_update": "01/10 02:19",
+  "last_update": "01/10 09:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790844772",
+      "source": "BFMTV",
+      "text": "LE ROI FELIPE VI D'ESPAGNE SE RENDRA À CEUTA ET MELILLA LES 13 ET 14 OCTOBRE, DEUX MOIS APRÈS LA GRAVE CRISE MIGRATOIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:52",
+      "date": "01/10",
+      "timestamp": 1790844772
+    },
+    {
+      "id": "BFMTV_1790842053",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: L'EXÉCUTION DE CHRISTA PIKA TOURNE AU FIASCO APRÈS AVOIR REÇU DEUX INJECTIONS LÉTALES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:07",
+      "date": "01/10",
+      "timestamp": 1790842053
+    },
+    {
+      "id": "BFMTV_1790841396",
+      "source": "BFMTV",
+      "text": "\"UN ACTE D'HÉROÏSME\": LE PRÉSIDENT ISRAÉLIEN VEUT DÉCORER QUATRE PASSAGERS AYANT EMPÊCHÉ LE VOL FLYDUBAI DE S'ÉCRASER",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:56",
+      "date": "01/10",
+      "timestamp": 1790841396
+    },
+    {
+      "id": "BFMTV_1790836681",
+      "source": "BFMTV",
+      "text": "PETE HEGSETH AFFIRME AVOIR RÉDUIT DE 20% LE NOMBRE DE GÉNÉRAUX ET AMIRAUX AMÉRICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:38",
+      "date": "01/10",
+      "timestamp": 1790836681
+    },
+    {
+      "id": "BFMTV_1790835136",
+      "source": "BFMTV",
+      "text": "L'EXÉCUTION DE L'AMÉRICAINE CHRISTA PIKE \"ÉCHOUE\" AUX ÉTATS-UNIS, LA PRISONNIÈRE SOIGNÉE À L'HÔPITAL APRÈS AVOIR REÇU L'INJECTION LÉTALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:12",
+      "date": "01/10",
+      "timestamp": 1790835136
+    },
+    {
+      "id": "BFMTV_1790831817",
+      "source": "BFMTV",
+      "text": "VOL À DESTINATION DE TEL-AVIV DÉROUTÉ: FLYDUBAI ANNONCE SUSPENDRE SES VOLS À DESTINATION ET EN PROVENANCE D'ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:16",
+      "date": "01/10",
+      "timestamp": 1790831817
+    },
+    {
+      "id": "BFMTV_1790828947",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: L'EXÉCUTION D'UNE FEMME DANS L'ÉTAT DU TENNESSEE SEMBLE AVOIR ÉCHOUÉ, SELON DES TÉMOINS ET L'AVOCAT DE LA CONDAMNÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:29",
+      "date": "01/10",
+      "timestamp": 1790828947
+    },
     {
       "id": "BFMTV_1790804105",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "12:18",
       "date": "27/09",
       "timestamp": 1790511517
-    },
-    {
-      "id": "BFMTV_1790511242",
-      "source": "BFMTV",
-      "text": "\"INCIDENT MAJEUR\" PRÈS D'UNE BASE UTILISÉE PAR L'US AIR FORCE EN ANGLETERRE: \"ON EST FACE À UNE SORTE D'ORMUZ AÉRIEN\", ANALYSE ANTHONY DABILA, CHERCHEUR ASSOCIÉ À L'INSTITUT D'ÉTUDES DE STRATÉGIE ET DE DÉFENSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:14",
-      "date": "27/09",
-      "timestamp": 1790511242
-    },
-    {
-      "id": "BFMTV_1790511030",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: UN \"INCIDENT MAJEUR\" PRÈS D'UNE BASE UTILISÉE PAR LES AMÉRICAINS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:10",
-      "date": "27/09",
-      "timestamp": 1790511030
-    },
-    {
-      "id": "OPEX360_1790507777",
-      "source": "OPEX360",
-      "text": "GÉNÉRAL MANDON : «ON NE FAIT PAS CE MÉTIER À MOITIÉ»",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:16",
-      "date": "27/09",
-      "timestamp": 1790507777
-    },
-    {
-      "id": "BFMTV_1790505881",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS CINQ MORTS DANS DES FRAPPES RUSSES, KIEV DÉNONCE DES \"ATTAQUES INCESSANTES\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:44",
-      "date": "27/09",
-      "timestamp": 1790505881
-    },
-    {
-      "id": "BFMTV_1790505853",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES TRAINS UKRAINIENS SOUS LA MENACE PERMANENTE DES DRONES RUSSES",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:44",
-      "date": "27/09",
-      "timestamp": 1790505853
-    },
-    {
-      "id": "BFMTV_1790504492",
-      "source": "BFMTV",
-      "text": "DEUX MORTS DANS UN ACCIDENT D'AUTOCAR DE TOURISTES EN ROUTE VERS LA FÊTE DE LA BIÈRE À MUNICH",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:21",
-      "date": "27/09",
-      "timestamp": 1790504492
-    },
-    {
-      "id": "OPEX360_1790502766",
-      "source": "OPEX360",
-      "text": "ROYAUME-UNI : UN «INCIDENT MAJEUR» EST EN COURS PRÈS DE LA BASE AÉRIENNE DE FAIRFORD, UTILISÉE PAR L’US AIR FORCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:52",
-      "date": "27/09",
-      "timestamp": 1790502766
     }
   ],
   "france": {
