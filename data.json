@@ -1,7 +1,17 @@
 {
-  "last_update": "02/10 18:42",
+  "last_update": "02/10 22:34",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790974601",
+      "source": "BFMTV",
+      "text": "ANGLETERRE: DEUX IRANIENS INCULPÉS POUR UN PROJET D'ACTE TERRORISTE CONTRE LA COMMUNAUTÉ JUIVE À MANCHESTER",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:56",
+      "date": "02/10",
+      "timestamp": 1790974601
+    },
     {
       "id": "OPEX360_1790963359",
       "source": "OPEX360",
@@ -991,16 +1001,6 @@
       "time": "11:57",
       "date": "29/09",
       "timestamp": 1790683029
-    },
-    {
-      "id": "BFMTV_1790679823",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:03",
-      "date": "29/09",
-      "timestamp": 1790679823
     }
   ],
   "france": {
