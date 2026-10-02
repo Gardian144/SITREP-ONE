@@ -1,7 +1,77 @@
 {
-  "last_update": "02/10 01:00",
+  "last_update": "02/10 06:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1790921291",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:08",
+      "date": "02/10",
+      "timestamp": 1790921291
+    },
+    {
+      "id": "BFMTV_1790921289",
+      "source": "BFMTV",
+      "text": "VOL À DESTINATION DE TEL-AVIV DÉROUTÉ: DONALD TRUMP SOUPÇONNE L'IRAN ET MENACE DE LE FRAPPER \"TRÈS FORT\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:08",
+      "date": "02/10",
+      "timestamp": 1790921289
+    },
+    {
+      "id": "BFMTV_1790919774",
+      "source": "BFMTV",
+      "text": "ATTAQUES DU 7 OCTOBRE 2023 DU HAMAS CONTRE ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:42",
+      "date": "02/10",
+      "timestamp": 1790919774
+    },
+    {
+      "id": "BFMTV_1790919774",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:42",
+      "date": "02/10",
+      "timestamp": 1790919774
+    },
+    {
+      "id": "BFMTV_1790919773",
+      "source": "BFMTV",
+      "text": "LÉGISLATIVES EN ISRAËL: SAMI ABU SHEHADEH, OPPOSANT ARABE ISRAÉLIEN, CONTRAINT À L'ABANDON",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:42",
+      "date": "02/10",
+      "timestamp": 1790919773
+    },
+    {
+      "id": "BFMTV_1790918076",
+      "source": "BFMTV",
+      "text": "RYAD ACCUSE LES HOUTHIS DU YÉMEN D'AVOIR MENÉ UNE ATTAQUE DANS LA VILLE SAINTE DE À MÉDINE EN ARABIE SAOUDITE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:14",
+      "date": "02/10",
+      "timestamp": 1790918076
+    },
+    {
+      "id": "BFMTV_1790915517",
+      "source": "BFMTV",
+      "text": "LA CONDAMNÉE À MORT, CHRISTA PIKE, DANS UN ÉTAT CRITIQUE APRÈS SON EXÉCUTION RATÉE AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:31",
+      "date": "02/10",
+      "timestamp": 1790915517
+    },
     {
       "id": "BFMTV_1790883839",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "15:16",
       "date": "28/09",
       "timestamp": 1790608616
-    },
-    {
-      "id": "OPEX360_1790607497",
-      "source": "OPEX360",
-      "text": "LA LETTONIE VEUT RENFORCER SES CAPACITÉS DE FRAPPE DANS LA PROFONDEUR AVEC DES MISSILES AMÉRICAINS BARRACUDA",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:58",
-      "date": "28/09",
-      "timestamp": 1790607497
-    },
-    {
-      "id": "BFMTV_1790605226",
-      "source": "BFMTV",
-      "text": "LA RÉPUBLIQUE DOMINICAINE MET EN GARDE CONTRE DES OFFRES D’EMPLOI SUSCEPTIBLES DE MENER SES CITOYENS À S’ENGAGER DANS L’ARMÉE RUSSE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:20",
-      "date": "28/09",
-      "timestamp": 1790605226
-    },
-    {
-      "id": "BFMTV_1790603461",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN DRONE A FAIT AU MOINS UN MORT DANS L'ATTAQUE DE L'ACADÉMIE NATIONALE DES SCIENCES DE KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:51",
-      "date": "28/09",
-      "timestamp": 1790603461
-    },
-    {
-      "id": "BFMTV_1790600803",
-      "source": "BFMTV",
-      "text": "L'IRAN NIE \"CATÉGORIQUEMENT\" TOUTE IMPLICATION DANS LE PROJET D'ATTAQUE CONTRE UNE BASE MILITAIRE EN ANGLETERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:06",
-      "date": "28/09",
-      "timestamp": 1790600803
-    },
-    {
-      "id": "BFMTV_1790598285",
-      "source": "BFMTV",
-      "text": "\"PAS UNE MARICARMEN DE PLUS\": EXPULSÉE DE SON APPARTEMENT À MADRID, UNE OCTOGÉNAIRE ÉRIGÉE AU RANG DE SYMBOLE DE LA CRISE DU LOGEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:24",
-      "date": "28/09",
-      "timestamp": 1790598285
-    },
-    {
-      "id": "BFMTV_1790597414",
-      "source": "BFMTV",
-      "text": "L'ALCOOL POURRAIT BIENTÔT ÊTRE À NOUVEAU AUTORISÉ DANS LES TRIBUNES DES STADES DE FOOT ANGLAIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:10",
-      "date": "28/09",
-      "timestamp": 1790597414
-    },
-    {
-      "id": "BFMTV_1790593905",
-      "source": "BFMTV",
-      "text": "\"UNE RÉPONSE PLUS FERME AUX ATTAQUES HYBRIDES RUSSES\": BRUXELLES VEUT METTRE EN PLACE UN \"PROTOCOLE D'URGENCE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:11",
-      "date": "28/09",
-      "timestamp": 1790593905
     }
   ],
   "france": {
