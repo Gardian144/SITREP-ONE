@@ -1,7 +1,57 @@
 {
-  "last_update": "03/10 06:58",
+  "last_update": "03/10 12:24",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1791026053",
+      "source": "OPEX360",
+      "text": "UN FONDS D’INVESTISSEMENT AMÉRICAIN VA-T-IL S’INVITER AU CAPITAL DU GROUPE FRANCO-ALLEMAND KNDS ?",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:14",
+      "date": "03/10",
+      "timestamp": 1791026053
+    },
+    {
+      "id": "BFMTV_1791022814",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: LES BRITANNIQUES BIENTÔT DE RETOUR DANS L'UNION EUROPÉENNE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:20",
+      "date": "03/10",
+      "timestamp": 1791022814
+    },
+    {
+      "id": "BFMTV_1791019936",
+      "source": "BFMTV",
+      "text": "VOL FLYDUBAI DÉTOURNÉ: L'ENQUÊTE DES ÉMIRATS ARABES UNIS ÉTABLIT QUE LE COPILOTE PLANIFIAIT UN \"ACTE TERRORISTE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:32",
+      "date": "03/10",
+      "timestamp": 1791019936
+    },
+    {
+      "id": "BFMTV_1791010980",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE BRITANNIQUE ROUVRE LE DÉBAT SUR LE BREXIT: LE ROYAUME-UNI PEUT-IL FAIRE MARCHE ARRIÈRE ET RÉINTÉGRER L'UNION EUROPÉENNE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:03",
+      "date": "03/10",
+      "timestamp": 1791010980
+    },
+    {
+      "id": "BFMTV_1791010778",
+      "source": "BFMTV",
+      "text": "VOL FLYDUBAI DÉROUTÉ: L'ENQUÊTE DES ÉMIRATS ARABES UNIS ÉTABLIT QUE LE COPILOTE PLANIFIAIT UN \"ACTE TERRORISTE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:59",
+      "date": "03/10",
+      "timestamp": 1791010778
+    },
     {
       "id": "BFMTV_1791008469",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "10:44",
       "date": "30/09",
       "timestamp": 1790765046
-    },
-    {
-      "id": "OPEX360_1790758793",
-      "source": "OPEX360",
-      "text": "L’US NAVY A RETENU BOEING POUR DÉVELOPPER LE F/A-XX, SON FUTUR CHASSEUR-BOMBARDIER DE 6E GÉNÉRATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:59",
-      "date": "30/09",
-      "timestamp": 1790758793
-    },
-    {
-      "id": "BFMTV_1790750326",
-      "source": "BFMTV",
-      "text": "EN PLEINE VISITE D'EMMANUEL MACRON À MADRID, LE SÉNAT ESPAGNOL REJETTE LA RATIFICATION DU TRAITÉ D'AMITIÉ AVEC LA FRANCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "06:38",
-      "date": "30/09",
-      "timestamp": 1790750326
-    },
-    {
-      "id": "BFMTV_1790748955",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DE NOUVELLES FRAPPES RUSSES SUR KIEV FONT DEUX MORTS, DONT UN ENFANT, ET QUATRE BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:15",
-      "date": "30/09",
-      "timestamp": 1790748955
-    },
-    {
-      "id": "BFMTV_1790743631",
-      "source": "BFMTV",
-      "text": "INCIDENT PRÈS D'UNE BASE MILITAIRE EN ANGLETERRE: LA POLICE BRITANNIQUE AFFIRME QU'\"AUCUN ENGIN EXPLOSIF\" N'A ÉTÉ RETROUVÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:47",
-      "date": "30/09",
-      "timestamp": 1790743631
-    },
-    {
-      "id": "BFMTV_1790742743",
-      "source": "BFMTV",
-      "text": "L'ÉDITO INTERNATIONAL - POURQUOI LES PRIX DES CARBURANTS NE BAISSENT PAS ALORS QUE LE PÉTROLE PASSE À NOUVEAU DANS LE DÉTROIT D'ORMUZ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:32",
-      "date": "30/09",
-      "timestamp": 1790742743
     }
   ],
   "france": {
