@@ -1,7 +1,27 @@
 {
-  "last_update": "03/10 19:27",
+  "last_update": "03/10 22:21",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791063958",
+      "source": "BFMTV",
+      "text": "UN AVION DE TRANSPORT MÉDICAL AMÉRICAIN PORTÉ DISPARU AU LARGE DE LA CÔTE EST DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:45",
+      "date": "03/10",
+      "timestamp": 1791063958
+    },
+    {
+      "id": "BFMTV_1791056266",
+      "source": "BFMTV",
+      "text": "\"UN VÉRITABLE HÉROS\": BENJAMIN NETANYAHU INVITE EN ISRAËL LE PILOTE INDIEN DU VOL FLYDUBAI DÉROUTÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:37",
+      "date": "03/10",
+      "timestamp": 1791056266
+    },
     {
       "id": "BFMTV_1791049500",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "13:09",
       "date": "30/09",
       "timestamp": 1790773757
-    },
-    {
-      "id": "BFMTV_1790773684",
-      "source": "BFMTV",
-      "text": "CRISE DU LOGEMENT EN ESPAGNE: COMMENT EXPLIQUER UNE SITUATION DEVENUE SI DIFFICILE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:08",
-      "date": "30/09",
-      "timestamp": 1790773684
-    },
-    {
-      "id": "BFMTV_1790770624",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS NEUTRALISÉ UN TERRORISTE ARMÉ D'UN COUTEAU\": DES PASSAGERS DU VOL À DESTINATION DE TEL-AVIV DÉROUTÉ TÉMOIGNENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:17",
-      "date": "30/09",
-      "timestamp": 1790770624
     }
   ],
   "france": {
