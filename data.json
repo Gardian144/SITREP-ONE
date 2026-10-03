@@ -1,7 +1,127 @@
 {
-  "last_update": "03/10 01:27",
+  "last_update": "03/10 06:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791008469",
+      "source": "BFMTV",
+      "text": "ESPAGNE: UNE TEMPÊTE PROVOQUE DE GRAVES INONDATIONS, UNE FEMME DE 102 ANS RETROUVÉE MORTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:21",
+      "date": "03/10",
+      "timestamp": 1791008469
+    },
+    {
+      "id": "BFMTV_1791007990",
+      "source": "BFMTV",
+      "text": "TORRENTS D'EAU, VOITURES EMPORTÉES… LES IMAGES DES VIOLENTES INONDATIONS EN ESPAGNE, UNE FEMME DE 102 ANS RETROUVÉE MORTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:13",
+      "date": "03/10",
+      "timestamp": 1791007990
+    },
+    {
+      "id": "BFMTV_1791007980",
+      "source": "BFMTV",
+      "text": "UKRAINE: CE QUE L'ON SAIT DES FRAPPES RUSSES QUI ONT ENDOMMAGÉ UN PONT MAJEUR DE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:13",
+      "date": "03/10",
+      "timestamp": 1791007980
+    },
+    {
+      "id": "BFMTV_1791004503",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: 55% DES ÉLECTEURS BRITANNIQUES FAVORABLES À UN RETOUR DANS L'UNION EUROPÉENNE SELON UN SONDAGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:15",
+      "date": "03/10",
+      "timestamp": 1791004503
+    },
+    {
+      "id": "BFMTV_1791004285",
+      "source": "BFMTV",
+      "text": "UKRAINE: UN NOUVEAU PONT MAJEUR DE KIEV TOUCHÉ PAR UNE FRAPPE RUSSE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:11",
+      "date": "03/10",
+      "timestamp": 1791004285
+    },
+    {
+      "id": "BFMTV_1791002521",
+      "source": "BFMTV",
+      "text": "VOL FLYDUBAI DÉTOURNÉ: LE RÉCIT DU PILOTE POIGNARDÉ EN PLEIN VOL PAR SON CO-PILOTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:42",
+      "date": "03/10",
+      "timestamp": 1791002521
+    },
+    {
+      "id": "BFMTV_1791002364",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UN NOUVEAU PONT MAJEUR DE KIEV TOUCHÉ PAR UNE FRAPPE RUSSE, SELON LE MAIRE DE LA VILLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:39",
+      "date": "03/10",
+      "timestamp": 1791002364
+    },
+    {
+      "id": "BFMTV_1791002364",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:39",
+      "date": "03/10",
+      "timestamp": 1791002364
+    },
+    {
+      "id": "BFMTV_1791002059",
+      "source": "BFMTV",
+      "text": "\"JUSQU'À 100 MILLIONS DE BARILS\" LIBÉRÉS: VERS UNE BAISSE DES PRIX DES CARBURANTS ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:34",
+      "date": "03/10",
+      "timestamp": 1791002059
+    },
+    {
+      "id": "BFMTV_1791001903",
+      "source": "BFMTV",
+      "text": "LA CONDAMNÉE À MORT CHRISTA PIKE SOUS ASSISTANCE RESPIRATOIRE APRÈS SON EXÉCUTION PAR INJECTION LÉTALE RATÉE AUX ÉTATS-UNIS, SES AVOCATS PORTENT PLAINTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:31",
+      "date": "03/10",
+      "timestamp": 1791001903
+    },
+    {
+      "id": "BFMTV_1791001634",
+      "source": "BFMTV",
+      "text": "VOL FLYDUBAI DÉROUTÉ: LE COPILOTE ÉTAIT INTERDIT DE VOL PAR OMAN CAR SOUPÇONNÉ DE RADICALISATION, SELON PLUSIEURS MÉDIAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:27",
+      "date": "03/10",
+      "timestamp": 1791001634
+    },
+    {
+      "id": "BFMTV_1791000713",
+      "source": "BFMTV",
+      "text": "LE G7 VA LIBÉRER JUSQU'À 100 MILLIONS DE BARILS DE PÉTROLE ET DE DIESEL, ANNONCE EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:11",
+      "date": "03/10",
+      "timestamp": 1791000713
+    },
     {
       "id": "BFMTV_1790974601",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "04:32",
       "date": "30/09",
       "timestamp": 1790742743
-    },
-    {
-      "id": "BFMTV_1790718864",
-      "source": "BFMTV",
-      "text": "LE TENNESSEE S'APPRÊTE À EXÉCUTER UNE FEMME POUR LA PREMIÈRE FOIS EN 200 ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:54",
-      "date": "29/09",
-      "timestamp": 1790718864
-    },
-    {
-      "id": "BFMTV_1790708454",
-      "source": "BFMTV",
-      "text": "EMMANUEL ET BRIGITTE MACRON REÇUS PAR LE ROI D'ESPAGNE FELIPE VI ET LA REINE LETIZIA AU PALAIS ROYAL DE MADRID, AU SON DE LA MARSEILLAISE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:00",
-      "date": "29/09",
-      "timestamp": 1790708454
-    },
-    {
-      "id": "BFMTV_1790708262",
-      "source": "BFMTV",
-      "text": "EMMANUEL ET BRIGITTE MACRON REÇUS POUR UN DÎNER D'ÉTAT AU PALAIS ROYAL DE MADRID",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:57",
-      "date": "29/09",
-      "timestamp": 1790708262
-    },
-    {
-      "id": "BFMTV_1790707089",
-      "source": "BFMTV",
-      "text": "ESPAGNE: MARICARMEN, LA RETRAITÉE EXPULSÉE, VA POUVOIR RENTRER CHEZ ELLE, LE GOUVERNEMENT ANNONCE DES MESURES CONTRE LA CRISE DU LOGEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:38",
-      "date": "29/09",
-      "timestamp": 1790707089
-    },
-    {
-      "id": "OPEX360_1790703461",
-      "source": "OPEX360",
-      "text": "L’INTÉGRATION DU MISSILE ANTICHAR AKERON LP SUR L’HÉLICOPTÈRE TIGRE A FRANCHI UNE ÉTAPE MAJEURE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:37",
-      "date": "29/09",
-      "timestamp": 1790703461
-    },
-    {
-      "id": "BFMTV_1790703320",
-      "source": "BFMTV",
-      "text": "LE ROI DU MAROC NOMME POUR LA PREMIÈRE FOIS UNE FEMME EN TANT QUE CHEFFE DU GOUVERNEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:35",
-      "date": "29/09",
-      "timestamp": 1790703320
-    },
-    {
-      "id": "OPEX360_1790700620",
-      "source": "OPEX360",
-      "text": "LE MINISTRE CHARGÉ DE L’EUROPE ÉVOQUE UN «TRAVAIL SUR LA FORMATION» DE PILOTES UKRAINIENS SUR RAFALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:50",
-      "date": "29/09",
-      "timestamp": 1790700620
-    },
-    {
-      "id": "OPEX360_1790696266",
-      "source": "OPEX360",
-      "text": "SELON LE SÉNAT, LE RÉTABLISSEMENT D’UNE COMPOSANTE NUCLÉAIRE TERRESTRE POURRAIT ÊTRE UNE «OPTION À NE PAS NÉGLIGER»",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:37",
-      "date": "29/09",
-      "timestamp": 1790696266
-    },
-    {
-      "id": "BFMTV_1790694014",
-      "source": "BFMTV",
-      "text": "UNE ENSEIGNANTE TUÉE ET DEUX PERSONNES BLESSÉES AU COUTEAU PAR UN ÉLÈVE DE 13 ANS DANS UNE ÉCOLE EN SLOVAQUIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:00",
-      "date": "29/09",
-      "timestamp": 1790694014
-    },
-    {
-      "id": "BFMTV_1790692459",
-      "source": "BFMTV",
-      "text": "UNE AFFAIRE DE VIOL COLLECTIF DANS UNE UNIVERSITÉ SECOUE LES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:34",
-      "date": "29/09",
-      "timestamp": 1790692459
-    },
-    {
-      "id": "BFMTV_1790686481",
-      "source": "BFMTV",
-      "text": "\"L'ÉTAT LUI A VOLÉ 41 ANS DE SA VIE\": UN DÉTENU AMÉRICAIN ACCUSÉ À TORT DE MEURTRE LIBÉRÉ APRÈS UN PEU MOINS D'UN DEMI-SIÈCLE DANS LE COULOIR DE LA MORT",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:54",
-      "date": "29/09",
-      "timestamp": 1790686481
-    },
-    {
-      "id": "BFMTV_1790683029",
-      "source": "BFMTV",
-      "text": "UN \"DÉCRET MARICARMEN\": LE GOUVERNEMENT ESPAGNOL ANNONCE LA SUSPENSION DES EXPULSIONS DE LOGEMENTS JUSQU'EN 2030",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:57",
-      "date": "29/09",
-      "timestamp": 1790683029
     }
   ],
   "france": {
