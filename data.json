@@ -1,7 +1,67 @@
 {
-  "last_update": "03/10 12:24",
+  "last_update": "03/10 16:35",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791045134",
+      "source": "BFMTV",
+      "text": "LE CHEF DE L'ADMINISTRATION PÉNITENTIAIRE DU TENNESSEE DÉMISSIONNE APRÈS L'EXÉCUTION RATÉE DE CHRISTA PIKE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:32",
+      "date": "03/10",
+      "timestamp": 1791045134
+    },
+    {
+      "id": "OPEX360_1791038417",
+      "source": "OPEX360",
+      "text": "LA ROYAL AIR FORCE VEUT AUGMENTER LA DISPONIBILITÉ DE SES AVIONS DE TRANSPORT A400M DE 30 %",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:40",
+      "date": "03/10",
+      "timestamp": 1791038417
+    },
+    {
+      "id": "BFMTV_1791038201",
+      "source": "BFMTV",
+      "text": "À GAZA, QUATRE FEMMES ET UN HOMME TUÉS DANS UNE FRAPPE ISRAÉLIENNE PENDANT LA NUIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:36",
+      "date": "03/10",
+      "timestamp": 1791038201
+    },
+    {
+      "id": "BFMTV_1791035367",
+      "source": "BFMTV",
+      "text": "VOL FLYDUBAI DÉROUTÉ:  LE COPILOTE DE NATIONALITÉ OMANAISE AURAIT ÉTÉ AUPARAVANT INTERDIT DE VOLER SUR UNE AUTRE COMPAGNIE, RAPPORTE LA PRESSE AMÉRICAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:49",
+      "date": "03/10",
+      "timestamp": 1791035367
+    },
+    {
+      "id": "OPEX360_1791033932",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT ÉVOQUE UN «AUTOMATE ROBOTISÉ» POUR ASSURER L’ENTRETIEN DU MOTEUR DU RAFALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:25",
+      "date": "03/10",
+      "timestamp": 1791033932
+    },
+    {
+      "id": "BFMTV_1791032858",
+      "source": "BFMTV",
+      "text": "INTERDIT DE VOL À OMAN, PROPOS EXTRÉMISTES... QUE SAIT-ON DU COPILOTE QUI A POIGNARDÉ SON COMMANDANT DE BORD LORS D'UN VOL FLYDUBAI?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:07",
+      "date": "03/10",
+      "timestamp": 1791032858
+    },
     {
       "id": "OPEX360_1791026053",
       "source": "OPEX360",
@@ -941,66 +1001,6 @@
       "time": "12:08",
       "date": "30/09",
       "timestamp": 1790770101
-    },
-    {
-      "id": "BFMTV_1790769512",
-      "source": "BFMTV",
-      "text": "TRAITÉ D'AMITIÉ FRANCE-ESPAGNE: PEDRO SÁNCHEZ S'EXCUSE APRÈS LE REJET DE LA RATIFICATION DU TEXTE",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:58",
-      "date": "30/09",
-      "timestamp": 1790769512
-    },
-    {
-      "id": "BFMTV_1790769001",
-      "source": "BFMTV",
-      "text": "\"LE BREXIT EST LE PLUS GRAND MENSONGE DES 30 DERNIÈRES ANNÉES\", ESTIME EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:50",
-      "date": "30/09",
-      "timestamp": 1790769001
-    },
-    {
-      "id": "BFMTV_1790768625",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS RÉUSSI À MAÎTRISER LES TERRORISTES\": UN PASSAGER DU FLYDUBAI RACONTE LE DÉTOURNEMENT DE L'AVION",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:43",
-      "date": "30/09",
-      "timestamp": 1790768625
-    },
-    {
-      "id": "BFMTV_1790768060",
-      "source": "BFMTV",
-      "text": "VOL À DESTINATION DE TEL-AVIV DÉROUTÉ: LE MINISTRE ISRAÉLIEN DE LA SÉCURITÉ NATIONALE AFFIRME QU'UN \"TERRORISTE\" A VOULU FAIRE S'ÉCRASER L'AVION",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:34",
-      "date": "30/09",
-      "timestamp": 1790768060
-    },
-    {
-      "id": "BFMTV_1790766041",
-      "source": "BFMTV",
-      "text": " UNE BAGARRE ENTRE PILOTES ÉCLATE DANS UN VOL DUBAÏ - TEL-AVIV ET OBLIGE L'AVION À ATTERRIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:00",
-      "date": "30/09",
-      "timestamp": 1790766041
-    },
-    {
-      "id": "BFMTV_1790765046",
-      "source": "BFMTV",
-      "text": "JAVIER MILEI À PARIS: VERS DAVANTAGE D'INVESTISSEMENTS D'ENTREPRISES FRANÇAISES EN ARGENTINE?",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:44",
-      "date": "30/09",
-      "timestamp": 1790765046
     }
   ],
   "france": {
