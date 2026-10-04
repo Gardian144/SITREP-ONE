@@ -1,7 +1,107 @@
 {
-  "last_update": "04/10 07:47",
+  "last_update": "04/10 13:42",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791120961",
+      "source": "BFMTV",
+      "text": "PRÉSIDENTIELLE AU BRÉSIL: LULA PARLE D'UN VOTE ENTRE DÉMOCRATIE ET \"BARBARIE\", FLAVIO BOLSONARO DIT VOULOIR \"LIBÉRER LE PEUPLE BRÉSILIEN\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:36",
+      "date": "04/10",
+      "timestamp": 1791120961
+    },
+    {
+      "id": "BFMTV_1791118319",
+      "source": "BFMTV",
+      "text": "AU MOINS DEUX PERSONNES SONT MORTES EN ESPAGNE EN RAISON DE PLUIES TORRENTIELLES, LE NORD-EST DU PAYS EST EN ÉTAT D'ALERTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:51",
+      "date": "04/10",
+      "timestamp": 1791118319
+    },
+    {
+      "id": "OPEX360_1791112709",
+      "source": "OPEX360",
+      "text": "LE 68E RÉGIMENT D’ARTILLERIE D’AFRIQUE RÉORGANISE SES BATTERIES DE CAESAR POUR ACCROÎTRE LEUR PROTECTION CONTRE LES DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:18",
+      "date": "04/10",
+      "timestamp": 1791112709
+    },
+    {
+      "id": "BFMTV_1791109677",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE VA \"INTENSIFIER\" SES FRAPPES EN RÉPONSE À DES MENACES DE VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:27",
+      "date": "04/10",
+      "timestamp": 1791109677
+    },
+    {
+      "id": "OPEX360_1791108788",
+      "source": "OPEX360",
+      "text": "EN 2027, LE MINISTÈRE DES ARMÉES VA COMMANDER DES «AVIONS DE TRANSPORT ÉCOLE FUTURS» POUR PLUS DE 780 MILLIONS D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:13",
+      "date": "04/10",
+      "timestamp": 1791108788
+    },
+    {
+      "id": "BFMTV_1791108619",
+      "source": "BFMTV",
+      "text": "AU MOINS DEUX MORTS EN ESPAGNE EN RAISON DE PLUIES TORRENTIELLES, BARCELONE EN ÉTAT D'ALERTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:10",
+      "date": "04/10",
+      "timestamp": 1791108619
+    },
+    {
+      "id": "BFMTV_1791106990",
+      "source": "BFMTV",
+      "text": "\"ON NE PEUT PAS FAIRE UNE CÉRÉMONIE TANT QU'IL N'EST PAS LÀ\": LES PARENTS D'ALEXIS, MORT À 23 ANS EN UKRAINE, SE BATTENT DEPUIS 18 MOIS POUR RAPATRIER SON CORPS EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:43",
+      "date": "04/10",
+      "timestamp": 1791106990
+    },
+    {
+      "id": "BFMTV_1791101651",
+      "source": "BFMTV",
+      "text": "UN MARINE AMÉRICAIN DE 20 ANS ARRÊTÉ POUR LE MEURTRE \"EXCEPTIONNELLEMENT BRUTAL ET VICIEUX\" D'UNE FEMME AU JAPON",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:14",
+      "date": "04/10",
+      "timestamp": 1791101651
+    },
+    {
+      "id": "BFMTV_1791100215",
+      "source": "BFMTV",
+      "text": "UKRAINE: UN PONT DE KIEV ATTAQUÉ PAR UN DRONE LORS DE LA VISITE DU CHANCELIER ALLEMAND FRIEDRICH MERZ ",
+      "urgent": true,
+      "france_related": true,
+      "time": "07:50",
+      "date": "04/10",
+      "timestamp": 1791100215
+    },
+    {
+      "id": "BFMTV_1791100057",
+      "source": "BFMTV",
+      "text": "UKRAINE: LE CHANCELIER ALLEMAND FRIEDRICH MERZ EST ARRIVÉ À KIEV POUR UNE VISITE IMPRÉVUE ",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:47",
+      "date": "04/10",
+      "timestamp": 1791100057
+    },
     {
       "id": "BFMTV_1791099703",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "21:35",
       "date": "30/09",
       "timestamp": 1790804105
-    },
-    {
-      "id": "BFMTV_1790804035",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ANNONCE JUSQU'À 200 MILLIARDS DE DOLLARS D'INVESTISSEMENTS SUD-CORÉENS AUX ÉTATS-UNIS, DONT 54 MILLIARDS POUR UN PROJET DE GAZODUC EN ALASKA.",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:33",
-      "date": "30/09",
-      "timestamp": 1790804035
-    },
-    {
-      "id": "BFMTV_1790796970",
-      "source": "BFMTV",
-      "text": "LE RÉCIT MINUTE PAR MINUTE DU DÉTOURNEMENT DU VOL À DESTINATION DE TEL-AVIV ",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:36",
-      "date": "30/09",
-      "timestamp": 1790796970
-    },
-    {
-      "id": "BFMTV_1790795602",
-      "source": "BFMTV",
-      "text": "PEDRO SÁNCHEZ \"DEMANDE PARDON\" À EMMANUEL MACRON APRÈS LE REJET DU TRAITÉ D'AMITIÉ FRANCO-ESPAGNOL PAR LE SÉNAT À MADRID",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:13",
-      "date": "30/09",
-      "timestamp": 1790795602
-    },
-    {
-      "id": "BFMTV_1790794931",
-      "source": "BFMTV",
-      "text": "EN CORÉE DU SUD, DES STARS DE LA K-POP DÉNONCENT UNE TENDANCE QUI VALORISE LE CULTE DE LA MAIGREUR ",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:02",
-      "date": "30/09",
-      "timestamp": 1790794931
-    },
-    {
-      "id": "BFMTV_1790791660",
-      "source": "BFMTV",
-      "text": "INDONÉSIE: UNE PRISON DE LUXE A ÉTÉ DÉCOUVERTE, AVEC PISCINE, ALCOOL ET SALLE DE SPORT",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:07",
-      "date": "30/09",
-      "timestamp": 1790791660
-    },
-    {
-      "id": "BFMTV_1790790345",
-      "source": "BFMTV",
-      "text": "\"JE REPARS DE CETTE VISITE D'ÉTAT AVEC BEAUCOUP DE GRATITUDE\": EMMANUEL MACRON SALUE LES LIENS FRANCO-ESPAGNOLS APRÈS SON VOYAGE DE DEUX JOURS À MADRID",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:45",
-      "date": "30/09",
-      "timestamp": 1790790345
-    },
-    {
-      "id": "OPEX360_1790789746",
-      "source": "OPEX360",
-      "text": "AIRBUS HELICOPTERS AURAIT PROPOSÉ DES HÉLICOPTÈRES NH90 NFH D’OCCASION «REMIS À NEUF» À LA MALAISIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:35",
-      "date": "30/09",
-      "timestamp": 1790789746
-    },
-    {
-      "id": "OPEX360_1790785988",
-      "source": "OPEX360",
-      "text": "L’ALLEMAGNE VA COMMANDER 16 AVIONS A400M DE PLUS POUR REMPLACER SES APPAREILS LES PLUS ANCIENS",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:33",
-      "date": "30/09",
-      "timestamp": 1790785988
-    },
-    {
-      "id": "BFMTV_1790784881",
-      "source": "BFMTV",
-      "text": "\"ARRÊTEZ LES MENACES NUCLÉAIRES, CE N'EST ABSOLUMENT PAS JUSTIFIÉ ET INUTILE\": LE CHEF DE L'OTAN RÉPOND À LA RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:14",
-      "date": "30/09",
-      "timestamp": 1790784881
-    },
-    {
-      "id": "BFMTV_1790781384",
-      "source": "BFMTV",
-      "text": "\"UNE RHÉTORIQUE IRRESPONSABLE\": LA RUSSIE MENACE L'OTAN DE RECOURIR À L'ARME NUCLÉAIRE SI L'EXCLAVE DE KALININGRAD VENAIT À ÊTRE ISOLÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:16",
-      "date": "30/09",
-      "timestamp": 1790781384
     }
   ],
   "france": {
