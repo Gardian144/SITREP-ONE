@@ -1,7 +1,97 @@
 {
-  "last_update": "04/10 01:49",
+  "last_update": "04/10 07:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791099703",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UN PONT DE KIEV ATTAQUÉ PAR UN DRONE LORS DE LA VISITE DU CHANCELIER ALLEMAND FRIEDRICH MERZ",
+      "urgent": true,
+      "france_related": true,
+      "time": "07:41",
+      "date": "04/10",
+      "timestamp": 1791099703
+    },
+    {
+      "id": "BFMTV_1791098672",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉCLARE AUX ÉTATS-UNIS QU'IL N'Y A PAS DE \"SOLUTION MILITAIRE\" À LEUR CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:24",
+      "date": "04/10",
+      "timestamp": 1791098672
+    },
+    {
+      "id": "BFMTV_1791098142",
+      "source": "BFMTV",
+      "text": "DES DÉBRIS D'UN AVION MÉDICAL DISPARU DÉCOUVERTS AU LARGE DES ÉTATS-UNIS EN PROVENANCE DES BERMUDES, LES RECHERCHES SE POURSUIVENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:15",
+      "date": "04/10",
+      "timestamp": 1791098142
+    },
+    {
+      "id": "BFMTV_1791090980",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE CHANCELIER ALLEMAND FRIEDRICH MERZ À KIEV POUR UNE VISITE IMPRÉVUE",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:16",
+      "date": "04/10",
+      "timestamp": 1791090980
+    },
+    {
+      "id": "BFMTV_1791090300",
+      "source": "BFMTV",
+      "text": "PRÉSIDENTIELLE AU BRÉSIL: DANS LES PAS DE SON PÈRE, FLAVIO BOLSONARO ESPÈRE RAMENER L'EXTRÊME DROITE AU POUVOIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:05",
+      "date": "04/10",
+      "timestamp": 1791090300
+    },
+    {
+      "id": "BFMTV_1791090000",
+      "source": "BFMTV",
+      "text": "PRÉSIDENTIELLE AU BRÉSIL: À 80 ANS, LULA MIS AU DÉFI D'EMPÊCHER LE RETOUR DES BOLSONARO AU POUVOIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:00",
+      "date": "04/10",
+      "timestamp": 1791090000
+    },
+    {
+      "id": "BFMTV_1791089575",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DEUX MEMBRES DE LA DÉLÉGATION IRANIENNE À L'ONU \"CHASSÉS\" DES ETATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:52",
+      "date": "04/10",
+      "timestamp": 1791089575
+    },
+    {
+      "id": "BFMTV_1791087505",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: FACE AUX ATTAQUES RUSSES, CES HABITANTS FUIENT KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:18",
+      "date": "04/10",
+      "timestamp": 1791087505
+    },
+    {
+      "id": "BFMTV_1791087336",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY APPELLE À \"RIPOSTER\" EN CIBLANT LES \"RESSOURCES ÉNERGÉTIQUES\" RUSSES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:15",
+      "date": "04/10",
+      "timestamp": 1791087336
+    },
     {
       "id": "BFMTV_1791063958",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "15:16",
       "date": "30/09",
       "timestamp": 1790781384
-    },
-    {
-      "id": "BFMTV_1790780693",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UNE CÉLÈBRE ATTRACTION DE L’ENTREPRISE SIX FLAGS FERME AU PUBLIC APRÈS UNE ENQUÊTE DE CNN SUR SA DANGEROSITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:04",
-      "date": "30/09",
-      "timestamp": 1790780693
-    },
-    {
-      "id": "BFMTV_1790780335",
-      "source": "BFMTV",
-      "text": "\"UNE CATASTROPHE MAJEURE\" ÉVITÉE GRÂCE AUX PASSAGERS, PISTE \"TERRORISTE\" ÉVOQUÉE: CE QUE L'ON SAIT DU VOL À DESTINATION DE TEL-AVIV QUI A ÉTÉ DÉROUTÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:58",
-      "date": "30/09",
-      "timestamp": 1790780335
-    },
-    {
-      "id": "OPEX360_1790780002",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES SERAIT SUR LE POINT DE COMMANDER LES DEUX NOUVEAUX SATELLITES D’OBSERVATION DU PROGRAMME IRIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:53",
-      "date": "30/09",
-      "timestamp": 1790780002
-    },
-    {
-      "id": "BFMTV_1790776925",
-      "source": "BFMTV",
-      "text": "VOL DÉROUTÉ: LE MINISTRE ISRAÉLIEN DE LA DÉFENSE ÉVOQUE UNE \"TENTATIVE D'ATTAQUE DJIHADISTE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:02",
-      "date": "30/09",
-      "timestamp": 1790776925
-    },
-    {
-      "id": "BFMTV_1790775788",
-      "source": "BFMTV",
-      "text": "VOL À DESTINATION DE TEL-AVIV DÉROUTÉ: BENJAMIN NETANYAHU AFFIRME QUE L'UN DES PILOTES A ÉTÉ ARRÊTÉ ET SALUE DES PASSAGERS \"HÉROÏQUES\" QUI ONT ÉVITÉ UNE \"GRANDE CATASTROPHE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:43",
-      "date": "30/09",
-      "timestamp": 1790775788
-    },
-    {
-      "id": "BFMTV_1790775582",
-      "source": "BFMTV",
-      "text": "MAIRE DE MARRAKECH, ÉTUDES À MONTPELLIER... QUI EST FATIMA EZZAHRA EL MANSOURI, PREMIÈRE FEMME À DIRIGER UN GOUVERNEMENT AU MAROC?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:39",
-      "date": "30/09",
-      "timestamp": 1790775582
-    },
-    {
-      "id": "BFMTV_1790773966",
-      "source": "BFMTV",
-      "text": "CROISSANCE, BAISSE DU CHÔMAGE... À QUI PROFITE LA SITUATION ÉCONOMIQUE FAVORABLE EN ESPAGNE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:12",
-      "date": "30/09",
-      "timestamp": 1790773966
-    },
-    {
-      "id": "BFMTV_1790773912",
-      "source": "BFMTV",
-      "text": "CROISSANCE FORTE EN ESPAGNE: LES RAISONS DE CETTE BONNE FORME ÉCONOMIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:11",
-      "date": "30/09",
-      "timestamp": 1790773912
-    },
-    {
-      "id": "BFMTV_1790773757",
-      "source": "BFMTV",
-      "text": "LES ÉCLAIREURS- ALTERCATION, PILOTES BLESSÉS... CE QUE L'ON SAIT DU DÉTOURNEMENT D'AVION DE FLYDUBAI",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:09",
-      "date": "30/09",
-      "timestamp": 1790773757
     }
   ],
   "france": {
