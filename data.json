@@ -1,7 +1,87 @@
 {
-  "last_update": "04/10 13:42",
+  "last_update": "04/10 17:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791135037",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: APRÈS DE NOUVELLES FRAPPES RUSSES, DES HABITANTS TERRORISÉS FUIENT KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:30",
+      "date": "04/10",
+      "timestamp": 1791135037
+    },
+    {
+      "id": "BFMTV_1791133890",
+      "source": "BFMTV",
+      "text": "VOL FLYDUBAI DÉROUTÉ: BENJAMIN NETANYAHU ORDONNE UN EXAMEN DES MESURES DE SÉCURITÉ SUR LES VOLS INTERNATIONAUX VERS ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:11",
+      "date": "04/10",
+      "timestamp": 1791133890
+    },
+    {
+      "id": "BFMTV_1791133268",
+      "source": "BFMTV",
+      "text": "UN HOMME SAUVE UN ENFANT TOMBANT D'UN BALCON EN ÉGYPTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:01",
+      "date": "04/10",
+      "timestamp": 1791133268
+    },
+    {
+      "id": "BFMTV_1791132788",
+      "source": "BFMTV",
+      "text": "MOUVEMENT SOCIAL DES LYCÉENS EN FRANCE: L'IRAN DÉNONCE UNE \"VIOLENCE DISPROPORTIONNÉE\" CONTRE LES MANIFESTANTS",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:53",
+      "date": "04/10",
+      "timestamp": 1791132788
+    },
+    {
+      "id": "BFMTV_1791128650",
+      "source": "BFMTV",
+      "text": "LES BRÉSILIENS VOTENT CE DIMANCHE POUR LE PREMIER TOUR DE L'ÉLECTION PRÉSIDENTIELLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:44",
+      "date": "04/10",
+      "timestamp": 1791128650
+    },
+    {
+      "id": "BFMTV_1791121772",
+      "source": "BFMTV",
+      "text": "UKRAINE : DES HABITANTS TERRORISÉS FUIENT LA CAPITALE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:49",
+      "date": "04/10",
+      "timestamp": 1791121772
+    },
+    {
+      "id": "BFMTV_1791121504",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:45",
+      "date": "04/10",
+      "timestamp": 1791121504
+    },
+    {
+      "id": "BFMTV_1791121503",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LES ÉTATS-UNIS VEULENT ORGANISER DES POURPARLERS À TROIS AVEC LES RUSSES ET LES UKRAINIENS FIN OCTOBRE, SELON VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:45",
+      "date": "04/10",
+      "timestamp": 1791121503
+    },
     {
       "id": "BFMTV_1791120961",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "10:34",
       "date": "01/10",
       "timestamp": 1790850845
-    },
-    {
-      "id": "BFMTV_1790844772",
-      "source": "BFMTV",
-      "text": "LE ROI FELIPE VI D'ESPAGNE SE RENDRA À CEUTA ET MELILLA LES 13 ET 14 OCTOBRE, DEUX MOIS APRÈS LA GRAVE CRISE MIGRATOIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:52",
-      "date": "01/10",
-      "timestamp": 1790844772
-    },
-    {
-      "id": "BFMTV_1790842053",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: L'EXÉCUTION DE CHRISTA PIKA TOURNE AU FIASCO APRÈS AVOIR REÇU DEUX INJECTIONS LÉTALES",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:07",
-      "date": "01/10",
-      "timestamp": 1790842053
-    },
-    {
-      "id": "BFMTV_1790841396",
-      "source": "BFMTV",
-      "text": "\"UN ACTE D'HÉROÏSME\": LE PRÉSIDENT ISRAÉLIEN VEUT DÉCORER QUATRE PASSAGERS AYANT EMPÊCHÉ LE VOL FLYDUBAI DE S'ÉCRASER",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:56",
-      "date": "01/10",
-      "timestamp": 1790841396
-    },
-    {
-      "id": "BFMTV_1790836681",
-      "source": "BFMTV",
-      "text": "PETE HEGSETH AFFIRME AVOIR RÉDUIT DE 20% LE NOMBRE DE GÉNÉRAUX ET AMIRAUX AMÉRICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:38",
-      "date": "01/10",
-      "timestamp": 1790836681
-    },
-    {
-      "id": "BFMTV_1790835136",
-      "source": "BFMTV",
-      "text": "L'EXÉCUTION DE L'AMÉRICAINE CHRISTA PIKE \"ÉCHOUE\" AUX ÉTATS-UNIS, LA PRISONNIÈRE SOIGNÉE À L'HÔPITAL APRÈS AVOIR REÇU L'INJECTION LÉTALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:12",
-      "date": "01/10",
-      "timestamp": 1790835136
-    },
-    {
-      "id": "BFMTV_1790831817",
-      "source": "BFMTV",
-      "text": "VOL À DESTINATION DE TEL-AVIV DÉROUTÉ: FLYDUBAI ANNONCE SUSPENDRE SES VOLS À DESTINATION ET EN PROVENANCE D'ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:16",
-      "date": "01/10",
-      "timestamp": 1790831817
-    },
-    {
-      "id": "BFMTV_1790828947",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: L'EXÉCUTION D'UNE FEMME DANS L'ÉTAT DU TENNESSEE SEMBLE AVOIR ÉCHOUÉ, SELON DES TÉMOINS ET L'AVOCAT DE LA CONDAMNÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:29",
-      "date": "01/10",
-      "timestamp": 1790828947
-    },
-    {
-      "id": "BFMTV_1790804105",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT AMÉRICAIN DONALD TRUMP DIT AVOIR DISCUTÉ AVEC BENYAMIN NETANYAHOU DE L’INCIDENT SUR LE VOL FLYDUBAI",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:35",
-      "date": "30/09",
-      "timestamp": 1790804105
     }
   ],
   "france": {
