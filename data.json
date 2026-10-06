@@ -1,7 +1,67 @@
 {
-  "last_update": "06/10 00:58",
+  "last_update": "06/10 07:27",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791265136",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:38",
+      "date": "06/10",
+      "timestamp": 1791265136
+    },
+    {
+      "id": "BFMTV_1791265136",
+      "source": "BFMTV",
+      "text": "\"ON VA LES AIDER\": DONALD TRUMP SE DIT PRÊT À INTERVENIR APRÈS UN CAS SUPPOSÉ DE PESTE EN RUSSIE, LE KREMLIN SE VEUT RASSURANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:38",
+      "date": "06/10",
+      "timestamp": 1791265136
+    },
+    {
+      "id": "BFMTV_1791264445",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UN MORT DANS UNE ATTAQUE DE DRONES SUR MOSCOU, LA DEUXIÈME PLUS MASSIVE DEPUIS LE DÉBUT DES COMBATS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:27",
+      "date": "06/10",
+      "timestamp": 1791264445
+    },
+    {
+      "id": "BFMTV_1791263728",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:15",
+      "date": "06/10",
+      "timestamp": 1791263728
+    },
+    {
+      "id": "BFMTV_1791262302",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP APPROUVE UNE MISE À MORT PAR PELOTON D'EXÉCUTION, MÉTHODE PLUS EMPLOYÉE PAR L'ARMÉE AMÉRICAINE DEPUIS 1961",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:51",
+      "date": "06/10",
+      "timestamp": 1791262302
+    },
+    {
+      "id": "BFMTV_1791261045",
+      "source": "BFMTV",
+      "text": "\"CENTER 2026\": PLUSIEURS PAYS, DONT LA RUSSIE, LA CHINE, LA BIÉLORUSSIE OU LE PAKISTAN, MÈNENT UN EXERCICE POUR \"SIMULER UNE OFFENSIVE SUR UN ÉTAT VOISIN D’ASIE CENTRALE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:30",
+      "date": "06/10",
+      "timestamp": 1791261045
+    },
     {
       "id": "BFMTV_1791226186",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "14:47",
       "date": "02/10",
       "timestamp": 1790952436
-    },
-    {
-      "id": "BFMTV_1790952152",
-      "source": "BFMTV",
-      "text": "CARBURANTS: IL N'Y AURA \"PAS D'INTERDICTION\" SUR LES EXPORTATIONS DE GAZOLE ENTRE MEMBRES DU G7, ANNONCE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:42",
-      "date": "02/10",
-      "timestamp": 1790952152
-    },
-    {
-      "id": "BFMTV_1790951847",
-      "source": "BFMTV",
-      "text": "CARBURANTS: LES PAYS DU G7 VONT LIBÉRER \"JUSQU'À 100 MILLIONS DE BARILS\" DE \"DIESEL ET PÉTROLE BRUT\", ANNONCE EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:37",
-      "date": "02/10",
-      "timestamp": 1790951847
-    },
-    {
-      "id": "BFMTV_1790947309",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: ELON MUSK MISSIONNÉ PAR LE PENTAGONE POUR PRÉPARER LA GUERRE DU FUTUR ",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:21",
-      "date": "02/10",
-      "timestamp": 1790947309
-    },
-    {
-      "id": "BFMTV_1790942960",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA VILLE DE KIEV \"DANS UNE SITUATION DRAMATIQUE\" À CAUSE DES FRAPPES RUSSES, SELON SON MAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:09",
-      "date": "02/10",
-      "timestamp": 1790942960
-    },
-    {
-      "id": "BFMTV_1790941950",
-      "source": "BFMTV",
-      "text": "FLYDUBAI: \"JE NE POUVAIS PAS LAISSER MOURIR TOUTES CES PERSONNES\", RACONTE LE PILOTE DE L'AVION QUI A ÉTÉ ATTAQUÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:52",
-      "date": "02/10",
-      "timestamp": 1790941950
-    },
-    {
-      "id": "OPEX360_1790938437",
-      "source": "OPEX360",
-      "text": "L’AGENCE DE L’INNOVATION DE DÉFENSE A DÉPENSÉ 1 MILLION D’EUROS POUR UN SYSTÈME INFORMATIQUE QUI N’A JAMAIS FONCTIONNÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:53",
-      "date": "02/10",
-      "timestamp": 1790938437
     }
   ],
   "france": {
