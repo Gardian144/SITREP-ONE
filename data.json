@@ -1,7 +1,47 @@
 {
-  "last_update": "06/10 19:42",
+  "last_update": "06/10 23:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791324398",
+      "source": "BFMTV",
+      "text": "L'EXPLORATEUR KARL BUSHBY DE RETOUR EN ANGLETERRE APRÈS AVOIR PARCOURU 58.000 KILOMÈTRES À PIED ET TRAVERSÉ 29 PAYS EN 28 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:06",
+      "date": "06/10",
+      "timestamp": 1791324398
+    },
+    {
+      "id": "BFMTV_1791323107",
+      "source": "BFMTV",
+      "text": "L’AUTORITÉ PALESTINIENNE AFFIRME QU'ISRAËL A EMPÊCHÉ DES RESPONSABLES ÉLECTORAUX D’ENTRER À JÉRUSALEM ET GAZA",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:45",
+      "date": "06/10",
+      "timestamp": 1791323107
+    },
+    {
+      "id": "BFMTV_1791322132",
+      "source": "BFMTV",
+      "text": "EXÉCUTION RATÉE DE CHRISTA PIKE: L'AMÉRICAINE CONDAMNÉE À MORT A REPRIS CONNAISSANCE ET PARLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:28",
+      "date": "06/10",
+      "timestamp": 1791322132
+    },
+    {
+      "id": "BFMTV_1791321929",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE LA CONSTRUCTION DU \"PLUS GRAND CHANTIER NAVAL\" DES ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:25",
+      "date": "06/10",
+      "timestamp": 1791321929
+    },
     {
       "id": "BFMTV_1791309808",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "13:25",
       "date": "03/10",
       "timestamp": 1791033932
-    },
-    {
-      "id": "BFMTV_1791032858",
-      "source": "BFMTV",
-      "text": "INTERDIT DE VOL À OMAN, PROPOS EXTRÉMISTES... QUE SAIT-ON DU COPILOTE QUI A POIGNARDÉ SON COMMANDANT DE BORD LORS D'UN VOL FLYDUBAI?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:07",
-      "date": "03/10",
-      "timestamp": 1791032858
-    },
-    {
-      "id": "OPEX360_1791026053",
-      "source": "OPEX360",
-      "text": "UN FONDS D’INVESTISSEMENT AMÉRICAIN VA-T-IL S’INVITER AU CAPITAL DU GROUPE FRANCO-ALLEMAND KNDS ?",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:14",
-      "date": "03/10",
-      "timestamp": 1791026053
-    },
-    {
-      "id": "BFMTV_1791022814",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: LES BRITANNIQUES BIENTÔT DE RETOUR DANS L'UNION EUROPÉENNE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:20",
-      "date": "03/10",
-      "timestamp": 1791022814
-    },
-    {
-      "id": "BFMTV_1791019936",
-      "source": "BFMTV",
-      "text": "VOL FLYDUBAI DÉTOURNÉ: L'ENQUÊTE DES ÉMIRATS ARABES UNIS ÉTABLIT QUE LE COPILOTE PLANIFIAIT UN \"ACTE TERRORISTE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:32",
-      "date": "03/10",
-      "timestamp": 1791019936
     }
   ],
   "france": {
