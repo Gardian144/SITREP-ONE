@@ -1,7 +1,97 @@
 {
-  "last_update": "07/10 09:17",
+  "last_update": "07/10 16:46",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1791385330",
+      "source": "OPEX360",
+      "text": "LE FRANÇAIS HARMATTAN AI PRÉSENTE UN DRONE D’ATTAQUE D’UNE PORTÉE DE 2 000 KM",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:02",
+      "date": "07/10",
+      "timestamp": 1791385330
+    },
+    {
+      "id": "BFMTV_1791383768",
+      "source": "BFMTV",
+      "text": "LA RUSSIE ACCUSE L'UE D'ÊTRE \"OBSÉDÉE PAR L'IDÉE DE LA MILITARISATION\" AU LENDEMAIN DE L'ESSAI FRANÇAIS DE MISSILE NUCLÉAIRE",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:36",
+      "date": "07/10",
+      "timestamp": 1791383768
+    },
+    {
+      "id": "BFMTV_1791375823",
+      "source": "BFMTV",
+      "text": "RETOUR SUR TERRE DE SOPHIE ADENOT: LA CAPSULE CREW DRAGON S'EST DÉTACHÉE DE L'ISS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:23",
+      "date": "07/10",
+      "timestamp": 1791375823
+    },
+    {
+      "id": "BFMTV_1791375636",
+      "source": "BFMTV",
+      "text": "\"L'IRAN A PERDU LE CONTRÔLE INTÉGRAL DU DÉTROIT D'ORMUZ\", AFFIRME MARCO RUBIO, CHEF DE LA DIPLOMATIE AMÉRICAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:20",
+      "date": "07/10",
+      "timestamp": 1791375636
+    },
+    {
+      "id": "BFMTV_1791372081",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP JUGE \"L'ISLAM\" ET \"L'IMMIGRATION\" RESPONSABLES DE LA MOBILISATION LYCÉENNE, LA FRANCE LUI RÉPOND",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:21",
+      "date": "07/10",
+      "timestamp": 1791372081
+    },
+    {
+      "id": "OPEX360_1791369501",
+      "source": "OPEX360",
+      "text": "À NOUVEAU VICTIME DE PROBLÈMES TECHNIQUES, LA FRÉGATE BELGE LÉOPOLD IER NE REJOINDRA PAS L’OPÉRATION ASPIDES EN MER ROUGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:38",
+      "date": "07/10",
+      "timestamp": 1791369501
+    },
+    {
+      "id": "BFMTV_1791366567",
+      "source": "BFMTV",
+      "text": "7-OCTOBRE: QUE SAVAIT RÉELLEMENT BENJAMIN NETANYAHU ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:49",
+      "date": "07/10",
+      "timestamp": 1791366567
+    },
+    {
+      "id": "BFMTV_1791365654",
+      "source": "BFMTV",
+      "text": "\"UN 'CADEAU' D'ANNIVERSAIRE À POUTINE\": VOLODYMYR ZELENSKY DÉNONCE UNE FRAPPE MORTELLE SUR UN IMMEUBLE RÉSIDENTIEL EN UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:34",
+      "date": "07/10",
+      "timestamp": 1791365654
+    },
+    {
+      "id": "BFMTV_1791364975",
+      "source": "BFMTV",
+      "text": "LES MILITAIRES AMÉRICAINS STATIONNÉS À OKINAWA SOUMIS À UN COUVRE-FEU APRÈS L'ARRESTATION D'UN MARINE SOUPÇONNÉ DE MEURTRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:22",
+      "date": "07/10",
+      "timestamp": 1791364975
+    },
     {
       "id": "BFMTV_1791363669",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "08:14",
       "date": "04/10",
       "timestamp": 1791101651
-    },
-    {
-      "id": "BFMTV_1791100215",
-      "source": "BFMTV",
-      "text": "UKRAINE: UN PONT DE KIEV ATTAQUÉ PAR UN DRONE LORS DE LA VISITE DU CHANCELIER ALLEMAND FRIEDRICH MERZ ",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:50",
-      "date": "04/10",
-      "timestamp": 1791100215
-    },
-    {
-      "id": "BFMTV_1791100057",
-      "source": "BFMTV",
-      "text": "UKRAINE: LE CHANCELIER ALLEMAND FRIEDRICH MERZ EST ARRIVÉ À KIEV POUR UNE VISITE IMPRÉVUE ",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:47",
-      "date": "04/10",
-      "timestamp": 1791100057
-    },
-    {
-      "id": "BFMTV_1791099703",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN PONT DE KIEV ATTAQUÉ PAR UN DRONE LORS DE LA VISITE DU CHANCELIER ALLEMAND FRIEDRICH MERZ",
-      "urgent": true,
-      "france_related": true,
-      "time": "07:41",
-      "date": "04/10",
-      "timestamp": 1791099703
-    },
-    {
-      "id": "BFMTV_1791098672",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DÉCLARE AUX ÉTATS-UNIS QU'IL N'Y A PAS DE \"SOLUTION MILITAIRE\" À LEUR CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:24",
-      "date": "04/10",
-      "timestamp": 1791098672
-    },
-    {
-      "id": "BFMTV_1791098142",
-      "source": "BFMTV",
-      "text": "DES DÉBRIS D'UN AVION MÉDICAL DISPARU DÉCOUVERTS AU LARGE DES ÉTATS-UNIS EN PROVENANCE DES BERMUDES, LES RECHERCHES SE POURSUIVENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:15",
-      "date": "04/10",
-      "timestamp": 1791098142
-    },
-    {
-      "id": "BFMTV_1791090980",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LE CHANCELIER ALLEMAND FRIEDRICH MERZ À KIEV POUR UNE VISITE IMPRÉVUE",
-      "urgent": true,
-      "france_related": true,
-      "time": "05:16",
-      "date": "04/10",
-      "timestamp": 1791090980
-    },
-    {
-      "id": "BFMTV_1791090300",
-      "source": "BFMTV",
-      "text": "PRÉSIDENTIELLE AU BRÉSIL: DANS LES PAS DE SON PÈRE, FLAVIO BOLSONARO ESPÈRE RAMENER L'EXTRÊME DROITE AU POUVOIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:05",
-      "date": "04/10",
-      "timestamp": 1791090300
-    },
-    {
-      "id": "BFMTV_1791090000",
-      "source": "BFMTV",
-      "text": "PRÉSIDENTIELLE AU BRÉSIL: À 80 ANS, LULA MIS AU DÉFI D'EMPÊCHER LE RETOUR DES BOLSONARO AU POUVOIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:00",
-      "date": "04/10",
-      "timestamp": 1791090000
-    },
-    {
-      "id": "BFMTV_1791089575",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DEUX MEMBRES DE LA DÉLÉGATION IRANIENNE À L'ONU \"CHASSÉS\" DES ETATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:52",
-      "date": "04/10",
-      "timestamp": 1791089575
     }
   ],
   "france": {
