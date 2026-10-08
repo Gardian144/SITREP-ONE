@@ -1,7 +1,27 @@
 {
-  "last_update": "08/10 15:30",
+  "last_update": "08/10 20:49",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1791479699",
+      "source": "OPEX360",
+      "text": "ATHÈNES VEUT ACQUÉRIR DES MISSILES À LONGUE PORTÉE AIM-260 JATM ET AGM-158B JASSM AUPRÈS DES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:14",
+      "date": "08/10",
+      "timestamp": 1791479699
+    },
+    {
+      "id": "OPEX360_1791475988",
+      "source": "OPEX360",
+      "text": "AUCUN RAFALE DESTINÉ À L’UKRAINE NE SERA PRÉLEVÉ DANS LA DOTATION DES ESCADRONS FRANÇAIS, ASSURE LE GÉNÉRAL MANDON",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:13",
+      "date": "08/10",
+      "timestamp": 1791475988
+    },
     {
       "id": "BFMTV_1791471327",
       "source": "BFMTV",
@@ -161,6 +181,56 @@
       "time": "10:26",
       "date": "08/10",
       "timestamp": 1791455190
+    },
+    {
+      "id": "BFMTV_1791454758",
+      "source": "BFMTV",
+      "text": "DEUX SEMAINES APRÈS SON EXPULSION DE SON LOGEMENT, MARICARMEN EST DÉCÉDÉE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:19",
+      "date": "08/10",
+      "timestamp": 1791454758
+    },
+    {
+      "id": "BFMTV_1791454626",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LA JUSTICE DIFFUSE LA VIDÉO DE L'ARRESTATION D'UN ENFANT DE 6 ANS QUI AVAIT TIRÉ SUR SA MAÎTRESSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:17",
+      "date": "08/10",
+      "timestamp": 1791454626
+    },
+    {
+      "id": "BFMTV_1791449382",
+      "source": "BFMTV",
+      "text": "\"J'AI RÉGLÉ HUIT GUERRES\": DONALD TRUMP ESTIME QUE LE PRIX NOBEL DE LA PAIX SE \"DISCRÉDITERAIT\" S'IL NE LE RECEVAIT PAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:49",
+      "date": "08/10",
+      "timestamp": 1791449382
+    },
+    {
+      "id": "BFMTV_1791447762",
+      "source": "BFMTV",
+      "text": "\"ON A TUÉ MARICARMEN\": L'ESPAGNE PLEURE LA MORT DE L'OCTOGÉNAIRE DEVENUE LE SYMBOLE DE LA CRISE DU LOGEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:22",
+      "date": "08/10",
+      "timestamp": 1791447762
+    },
+    {
+      "id": "BFMTV_1791447647",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UNE FEMME IVRE ARRÊTÉE APRÈS DES DÉRAPAGES EN VOITURE DEVANT UN TRIBUNAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:20",
+      "date": "08/10",
+      "timestamp": 1791447647
     },
     {
       "id": "BFMTV_1791441674",
@@ -931,76 +1001,6 @@
       "time": "11:55",
       "date": "05/10",
       "timestamp": 1791201359
-    },
-    {
-      "id": "BFMTV_1791200173",
-      "source": "BFMTV",
-      "text": "ATTAQUES HYBRIDES: \"LE KREMLIN MET DES VIES EN PÉRIL À TRAVERS L'EUROPE\", ESTIME LA CHEFFE DE LA DIPLOMATIE EUROPÉENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:36",
-      "date": "05/10",
-      "timestamp": 1791200173
-    },
-    {
-      "id": "BFMTV_1791198859",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: DES IRANIENNES SONT ENTRAÎNÉES À MANIER  DES ARMES À FEU POUR SE PRÉPARER EN CAS D'ATTAQUE TERRESTRE ISRAÉLO-AMÉRICAINE ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:14",
-      "date": "05/10",
-      "timestamp": 1791198859
-    },
-    {
-      "id": "OPEX360_1791196883",
-      "source": "OPEX360",
-      "text": "DAMEN RÉCLAME 4,7 MILLIARDS D’EUROS D’INDEMNITÉS À BERLIN POUR L’ARRÊT DU PROGRAMME DE FRÉGATES F126",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:41",
-      "date": "05/10",
-      "timestamp": 1791196883
-    },
-    {
-      "id": "BFMTV_1791196801",
-      "source": "BFMTV",
-      "text": "LA MOLDAVIE \"SE RAPPROCHE\" DE L'UNION EUROPÉENNE \"À UN RYTHME IMPRESSIONNANT\", SOULIGNE LA COMMISSAIRE À L'ÉLARGISSEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:40",
-      "date": "05/10",
-      "timestamp": 1791196801
-    },
-    {
-      "id": "BFMTV_1791196445",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:34",
-      "date": "05/10",
-      "timestamp": 1791196445
-    },
-    {
-      "id": "BFMTV_1791196444",
-      "source": "BFMTV",
-      "text": "AFFAIRE EPSTEIN: L'EX-PRINCE ANDREW CONTESTE EN JUSTICE DES PERQUISITIONS MENÉES CHEZ LUI EN FÉVRIER",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:34",
-      "date": "05/10",
-      "timestamp": 1791196444
-    },
-    {
-      "id": "BFMTV_1791195804",
-      "source": "BFMTV",
-      "text": "UNE FEMME SOUPÇONNÉE D’ESPIONNER LA FAMILLE DU PRÉSIDENT TAÏWANAIS ARRÊTÉE À LOS ANGELES ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:23",
-      "date": "05/10",
-      "timestamp": 1791195804
     }
   ],
   "france": {
