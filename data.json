@@ -1,7 +1,57 @@
 {
-  "last_update": "08/10 01:34",
+  "last_update": "08/10 07:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791441674",
+      "source": "BFMTV",
+      "text": "POUR DONALD TRUMP, LE PRIX NOBEL DE LA PAIX SE \"DISCRÉDITERAIT\" S'IL NE LE RECEVAIT PAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:41",
+      "date": "08/10",
+      "timestamp": 1791441674
+    },
+    {
+      "id": "BFMTV_1791441227",
+      "source": "BFMTV",
+      "text": "\"NON AU PÈRE, NON AU FILS\": DES MILLIERS DE PERSONNES MANIFESTENT CONTRE FLAVIO BOLSONARO AVANT LE SECOND TOUR DE L'ÉLECTION PRÉSIDENTIELLE AU BRÉSIL",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:33",
+      "date": "08/10",
+      "timestamp": 1791441227
+    },
+    {
+      "id": "BFMTV_1791437505",
+      "source": "BFMTV",
+      "text": "PLUS D'UN AN APRÈS LEUR SPECTACULAIRE RUPTURE, DONALD TRUMP VA DÉCORER ELON MUSK POUR SES CONTRIBUTIONS À LA SCIENCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:31",
+      "date": "08/10",
+      "timestamp": 1791437505
+    },
+    {
+      "id": "BFMTV_1791434738",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP INTERROMPU À PLUSIEURS REPRISES PAR DES MANIFESTANTS LORS D'UN MEETING AU TEXAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:45",
+      "date": "08/10",
+      "timestamp": 1791434738
+    },
+    {
+      "id": "BFMTV_1791433416",
+      "source": "BFMTV",
+      "text": "L'ÉDITO INTERNATIONAL - L'ANCIEN CHEF DU RENSEIGNEMENT EXTÉRIEUR ALLEMAND SOUPÇONNÉ D'ESPIONNAGE ET DE TRAHISON",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:23",
+      "date": "08/10",
+      "timestamp": 1791433416
+    },
     {
       "id": "BFMTV_1791410284",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "17:01",
       "date": "04/10",
       "timestamp": 1791133268
-    },
-    {
-      "id": "BFMTV_1791132788",
-      "source": "BFMTV",
-      "text": "MOUVEMENT SOCIAL DES LYCÉENS EN FRANCE: L'IRAN DÉNONCE UNE \"VIOLENCE DISPROPORTIONNÉE\" CONTRE LES MANIFESTANTS",
-      "urgent": true,
-      "france_related": true,
-      "time": "16:53",
-      "date": "04/10",
-      "timestamp": 1791132788
-    },
-    {
-      "id": "BFMTV_1791128650",
-      "source": "BFMTV",
-      "text": "LES BRÉSILIENS VOTENT CE DIMANCHE POUR LE PREMIER TOUR DE L'ÉLECTION PRÉSIDENTIELLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:44",
-      "date": "04/10",
-      "timestamp": 1791128650
-    },
-    {
-      "id": "BFMTV_1791121772",
-      "source": "BFMTV",
-      "text": "UKRAINE : DES HABITANTS TERRORISÉS FUIENT LA CAPITALE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:49",
-      "date": "04/10",
-      "timestamp": 1791121772
-    },
-    {
-      "id": "BFMTV_1791121504",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:45",
-      "date": "04/10",
-      "timestamp": 1791121504
-    },
-    {
-      "id": "BFMTV_1791121503",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES ÉTATS-UNIS VEULENT ORGANISER DES POURPARLERS À TROIS AVEC LES RUSSES ET LES UKRAINIENS FIN OCTOBRE, SELON VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:45",
-      "date": "04/10",
-      "timestamp": 1791121503
     }
   ],
   "france": {
