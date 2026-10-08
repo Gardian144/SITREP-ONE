@@ -1,7 +1,167 @@
 {
-  "last_update": "08/10 07:59",
+  "last_update": "08/10 15:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791471327",
+      "source": "BFMTV",
+      "text": "AU ROYAUME-UNI, TROIS SŒURS SE SUICIDENT DANS LA MER, 16 ANS APRÈS LA NOYADE DE LEUR MÈRE DANS DES CIRCONSTANCES SIMILAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:55",
+      "date": "08/10",
+      "timestamp": 1791471327
+    },
+    {
+      "id": "BFMTV_1791471196",
+      "source": "BFMTV",
+      "text": "UNE ENQUÊTE OUVERTE EN FINLANDE APRÈS DES INTRUSIONS AUX DOMICILES DE PLUSIEURS DÉPUTÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:53",
+      "date": "08/10",
+      "timestamp": 1791471196
+    },
+    {
+      "id": "BFMTV_1791468558",
+      "source": "BFMTV",
+      "text": "\"ELLE VA PLUTÔT BIEN\": CHRISTA PIKE MARCHE DE NOUVEAU APRÈS SON EXÉCUTION RATÉE DANS LE TENNESSEE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:09",
+      "date": "08/10",
+      "timestamp": 1791468558
+    },
+    {
+      "id": "OPEX360_1791468148",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES VEUT LANCER LE DÉVELOPPEMENT D’UN AVION DE COMBAT DE NOUVELLE GÉNÉRATION OPÉRATIONNEL EN 2029",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:02",
+      "date": "08/10",
+      "timestamp": 1791468148
+    },
+    {
+      "id": "BFMTV_1791466305",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS 30 MORTS DANS DES FRAPPES RUSSES SUR DES BUS DANS L'EST DU PAYS, KIEV ÉGALEMENT VISÉE PAR DES ATTAQUES",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:31",
+      "date": "08/10",
+      "timestamp": 1791466305
+    },
+    {
+      "id": "BFMTV_1791466014",
+      "source": "BFMTV",
+      "text": "\"L'OTAN EST PRÉCIEUSE POUR LES ÉTATS-UNIS\", AFFIRME MARCO RUBIO, CHEF DE LA DIPLOMATIE AMÉRICAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:26",
+      "date": "08/10",
+      "timestamp": 1791466014
+    },
+    {
+      "id": "BFMTV_1791466012",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"NOUS NE CROYONS PAS QU'IL EXISTE UNE SOLUTION MILITAIRE À CE CONFLIT\", DÉCLARE MARCO RUBIO",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:26",
+      "date": "08/10",
+      "timestamp": 1791466012
+    },
+    {
+      "id": "BFMTV_1791465290",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP S'EST LUI-MÊME RECOMMANDÉ: QUI SONT LES CANDIDATS PRESSENTIS POUR OBTENIR LE PRIX NOBEL DE LA PAIX?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:14",
+      "date": "08/10",
+      "timestamp": 1791465290
+    },
+    {
+      "id": "BFMTV_1791464759",
+      "source": "BFMTV",
+      "text": "UKRAINE: VOLODYMYR ZELENSKY QUALIFIE VLADIMIR POUTINE DE \"TERRORISTE ET TUEUR\", APRÈS LA FRAPPE RUSSE SUR DES BUS",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:05",
+      "date": "08/10",
+      "timestamp": 1791464759
+    },
+    {
+      "id": "BFMTV_1791461630",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: PLUS DE 30 CIVILS TUÉS DANS UN BOMBARDEMENT RUSSE CONTRE DES BUS À KRAMATORSK",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:13",
+      "date": "08/10",
+      "timestamp": 1791461630
+    },
+    {
+      "id": "BFMTV_1791459571",
+      "source": "BFMTV",
+      "text": "UNE ATTAQUE AU COUTEAU DANS UNE ÉCOLE POLONAISE FAIT UN MORT ET DEUX BLESSÉS, UN ANCIEN ÉLÈVE DE 15 ANS ARRÊTÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:39",
+      "date": "08/10",
+      "timestamp": 1791459571
+    },
+    {
+      "id": "BFMTV_1791457668",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE PARQUET ANNONCE L'OUVERTURE D'UNE ENQUÊTE PRÉLIMINAIRE POUR \"CRIME DE GUERRE\" APRÈS LES FRAPPES SUR KRAMATORSK",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:07",
+      "date": "08/10",
+      "timestamp": 1791457668
+    },
+    {
+      "id": "BFMTV_1791457667",
+      "source": "BFMTV",
+      "text": "EXÉCUTION RATÉE DE CHRISTA PIKE: L'AMÉRICAINE A FAILLI ÊTRE DÉBRANCHÉE AVANT SON RÉVEIL À L'HÔPITAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:07",
+      "date": "08/10",
+      "timestamp": 1791457667
+    },
+    {
+      "id": "BFMTV_1791457550",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: PLUS DE 30 CIVILS ONT ÉTÉ TUÉS DANS LA FRAPPE D'UN BUS À KRAMATORSK",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:05",
+      "date": "08/10",
+      "timestamp": 1791457550
+    },
+    {
+      "id": "BFMTV_1791456667",
+      "source": "BFMTV",
+      "text": "L'OURAGAN ISAIAS, LE PREMIER DE LA SAISON, S'INTENSIFIE ET SE DIRIGE VERS LE GOLFE DU MEXIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:51",
+      "date": "08/10",
+      "timestamp": 1791456667
+    },
+    {
+      "id": "OPEX360_1791455190",
+      "source": "OPEX360",
+      "text": "LE DANEMARK POURRAIT COMMANDER QUATRE OU CINQ AVIONS DE TRANSPORT A400M ATLAS",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:26",
+      "date": "08/10",
+      "timestamp": 1791455190
+    },
     {
       "id": "BFMTV_1791441674",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "10:23",
       "date": "05/10",
       "timestamp": 1791195804
-    },
-    {
-      "id": "BFMTV_1791194087",
-      "source": "BFMTV",
-      "text": "LA CONDAMNÉE À MORT CHRISTA PIKE TOUJOURS \"DANS UN ÉTAT CRITIQUE\" APRÈS SON EXÉCUTION RATÉE AUX ÉTATS-UNIS, SON AVOCAT APPELLE LE GOUVERNEUR À COMMUER SA PEINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:54",
-      "date": "05/10",
-      "timestamp": 1791194087
-    },
-    {
-      "id": "BFMTV_1791193799",
-      "source": "BFMTV",
-      "text": "LE NOBEL DE MÉDECINE DÉCERNÉ À UN AMÉRICAIN ET DEUX ALLEMANDS POUR LEURS DÉCOUVERTES SUR LES CANAUX IONIQUES ET L'OPTOGÉNÉTIQUE",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:49",
-      "date": "05/10",
-      "timestamp": 1791193799
-    },
-    {
-      "id": "BFMTV_1791184861",
-      "source": "BFMTV",
-      "text": "PEDRO SÁNCHEZ CONVOQUE DES ÉLECTIONS ANTICIPÉES EN ESPAGNE APRÈS LE REJET DE SES MESURES SUR LE LOGEMENT PAR LE PARLEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:21",
-      "date": "05/10",
-      "timestamp": 1791184861
-    },
-    {
-      "id": "BFMTV_1791179898",
-      "source": "BFMTV",
-      "text": "UN CAS MORTEL DE PESTE EN RUSSIE? INQUIÉTUDE APRÈS LA MORT D'UNE TECHNICIENNE DE LABORATOIRE, PLUSIEURS DIZAINES DE PERSONNES PLACÉES EN QUARANTAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:58",
-      "date": "05/10",
-      "timestamp": 1791179898
-    },
-    {
-      "id": "BFMTV_1791178873",
-      "source": "BFMTV",
-      "text": "UNE FEMME SOUPÇONNÉE D'ESPIONNER LA FAMILLE DU PRÉSIDENT TAÏWANAIS POUR LA CHINE ARRÊTÉE À LOS ANGELES",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:41",
-      "date": "05/10",
-      "timestamp": 1791178873
-    },
-    {
-      "id": "BFMTV_1791177619",
-      "source": "BFMTV",
-      "text": "500 EX-DIPLOMATES, DONT DOMINIQUE DE VILLEPIN ET ALAIN JUPPÉ, APPELLENT L'UNION EUROPÉENNE À \"AGIR\" FACE À LA COLONISATION ISRAÉLIENNE EN CISJORDANIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:20",
-      "date": "05/10",
-      "timestamp": 1791177619
-    },
-    {
-      "id": "BFMTV_1791176482",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS RETIRENT LEURS BOMBARDIERS DE LA BASE MILITAIRE BRITANNIQUE DE FAIRFORD APRÈS L'OUVERTURE D'UNE ENQUÊTE ANTITERRORISTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:01",
-      "date": "05/10",
-      "timestamp": 1791176482
-    },
-    {
-      "id": "BFMTV_1791174594",
-      "source": "BFMTV",
-      "text": "UN RÉSULTAT \"INATTENDU\" AU PREMIER TOUR DE L'ÉLECTION PRÉSIDENTIELLE AU BRÉSIL, FLÁVIO BOLSONARO DEVANCE LULA DANS UN PAYS PROFONDÉMENT POLARISÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:29",
-      "date": "05/10",
-      "timestamp": 1791174594
-    },
-    {
-      "id": "BFMTV_1791152980",
-      "source": "BFMTV",
-      "text": "FLAVIO BOLSONARO DEVANCE LARGEMENT LULA APRÈS DÉPOUILLEMENT DE PLUS DE 60 % DES URNES AU PREMIER TOUR DE LA PRÉSIDENTIELLE AU BRÉSIL",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:29",
-      "date": "04/10",
-      "timestamp": 1791152980
-    },
-    {
-      "id": "BFMTV_1791150781",
-      "source": "BFMTV",
-      "text": "LES VERTS BRITANNIQUES ADOPTENT UNE MOTION ASSIMILANT LE \"SIONISME\" À UNE \"FORME DE RACISME\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:53",
-      "date": "04/10",
-      "timestamp": 1791150781
-    },
-    {
-      "id": "BFMTV_1791140922",
-      "source": "BFMTV",
-      "text": "CEUTA: UN CAMP DE MIGRANTS ÉVACUÉ AVANT LA VISITE DES SOUVERAINS ESPAGNOLS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:08",
-      "date": "04/10",
-      "timestamp": 1791140922
-    },
-    {
-      "id": "BFMTV_1791139121",
-      "source": "BFMTV",
-      "text": "ESPAGNE: LES INONDATIONS DANS LA PROVINCE DE BARCELONE ONT FAIT AU MOINS DEUX MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:38",
-      "date": "04/10",
-      "timestamp": 1791139121
-    },
-    {
-      "id": "BFMTV_1791138040",
-      "source": "BFMTV",
-      "text": "JAPON: UN CONDUCTEUR ATTAQUÉ PAR DEUX OURS BRUNS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:20",
-      "date": "04/10",
-      "timestamp": 1791138040
-    },
-    {
-      "id": "BFMTV_1791135037",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: APRÈS DE NOUVELLES FRAPPES RUSSES, DES HABITANTS TERRORISÉS FUIENT KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:30",
-      "date": "04/10",
-      "timestamp": 1791135037
-    },
-    {
-      "id": "BFMTV_1791133890",
-      "source": "BFMTV",
-      "text": "VOL FLYDUBAI DÉROUTÉ: BENJAMIN NETANYAHU ORDONNE UN EXAMEN DES MESURES DE SÉCURITÉ SUR LES VOLS INTERNATIONAUX VERS ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:11",
-      "date": "04/10",
-      "timestamp": 1791133890
-    },
-    {
-      "id": "BFMTV_1791133268",
-      "source": "BFMTV",
-      "text": "UN HOMME SAUVE UN ENFANT TOMBANT D'UN BALCON EN ÉGYPTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:01",
-      "date": "04/10",
-      "timestamp": 1791133268
     }
   ],
   "france": {
