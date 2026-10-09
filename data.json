@@ -1,7 +1,47 @@
 {
-  "last_update": "08/10 20:49",
+  "last_update": "09/10 00:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791491164",
+      "source": "BFMTV",
+      "text": "LE PORTE-AVIONS ABRAHAM LINCOLN DE RETOUR AUX ÉTATS-UNIS APRÈS UN DÉPLOIEMENT MOUVEMENTÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:26",
+      "date": "08/10",
+      "timestamp": 1791491164
+    },
+    {
+      "id": "BFMTV_1791489917",
+      "source": "BFMTV",
+      "text": "AFFAIRE CORNELL: LA PRÉSUMÉE VICTIME DU VIOL COLLECTIF MENACÉE DE MORT",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:05",
+      "date": "08/10",
+      "timestamp": 1791489917
+    },
+    {
+      "id": "BFMTV_1791486776",
+      "source": "BFMTV",
+      "text": "“MAISON DE L’HORREUR”: UN COUPLE AMÉRICAIN POURSUIVI POUR MALTRAITANCE SUR 14 DE LEURS 21 ENFANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:12",
+      "date": "08/10",
+      "timestamp": 1791486776
+    },
+    {
+      "id": "BFMTV_1791484286",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DÉCERNE LA PLUS HAUTE DISTINCTION SCIENTIFIQUE AU MILLIARDAIRE ELON MUSK",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:31",
+      "date": "08/10",
+      "timestamp": 1791484286
+    },
     {
       "id": "OPEX360_1791479699",
       "source": "OPEX360",
@@ -13,6 +53,36 @@
       "timestamp": 1791479699
     },
     {
+      "id": "BFMTV_1791477603",
+      "source": "BFMTV",
+      "text": "L'ASTRONAUTE FRANÇAISE SOPHIE ADENOT SORT DE LA CAPSULE CREW DRAGON APRÈS L'AMERRISSAGE RÉUSSI",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:40",
+      "date": "08/10",
+      "timestamp": 1791477603
+    },
+    {
+      "id": "BFMTV_1791476807",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ÉVOQUE DES \"DISCUSSIONS PRODUCTIVES\" AVEC L'IRAN ET EXCLUT TOUTE ATTAQUE AVANT LES ÉLECTIONS DE MI-MANDAT",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:26",
+      "date": "08/10",
+      "timestamp": 1791476807
+    },
+    {
+      "id": "BFMTV_1791476713",
+      "source": "BFMTV",
+      "text": "MIDTERMS: PENDANT QUE DONALD TRUMP MULTIPLIE LES CADEAUX, SON ENTOURAGE SE PRÉPARE À UNE DÉFAITE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:25",
+      "date": "08/10",
+      "timestamp": 1791476713
+    },
+    {
       "id": "OPEX360_1791475988",
       "source": "OPEX360",
       "text": "AUCUN RAFALE DESTINÉ À L’UKRAINE NE SERA PRÉLEVÉ DANS LA DOTATION DES ESCADRONS FRANÇAIS, ASSURE LE GÉNÉRAL MANDON",
@@ -21,6 +91,36 @@
       "time": "16:13",
       "date": "08/10",
       "timestamp": 1791475988
+    },
+    {
+      "id": "BFMTV_1791474311",
+      "source": "BFMTV",
+      "text": "RETOUR SUR TERRE DE SOPHIE ADENOT: AMERRISSAGE RÉUSSI DE LA CAPSULE DRAGON DE SPACEX",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:45",
+      "date": "08/10",
+      "timestamp": 1791474311
+    },
+    {
+      "id": "BFMTV_1791474212",
+      "source": "BFMTV",
+      "text": "CORÉE DU SUD: DES HACKEURS PIRATENT DES CAMÉRAS DE CABINETS GYNÉCOLOGIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:43",
+      "date": "08/10",
+      "timestamp": 1791474212
+    },
+    {
+      "id": "BFMTV_1791473777",
+      "source": "BFMTV",
+      "text": "DES MEMBRES DU PARTI D’EXTRÊME DROITE ALLEMAND AFD AIMERAIENT RÉCUPÉRER L’ALSACE ET UNE PARTIE DE LA LORRAINE ",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:36",
+      "date": "08/10",
+      "timestamp": 1791473777
     },
     {
       "id": "BFMTV_1791471327",
@@ -901,106 +1001,6 @@
       "time": "18:49",
       "date": "05/10",
       "timestamp": 1791226186
-    },
-    {
-      "id": "BFMTV_1791224452",
-      "source": "BFMTV",
-      "text": "ITALIE: 377 ANIMAUX EXOTIQUES CACHÉS DANS UNE VOITURE ONT ÉTÉ SAISIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:20",
-      "date": "05/10",
-      "timestamp": 1791224452
-    },
-    {
-      "id": "OPEX360_1791223337",
-      "source": "OPEX360",
-      "text": "LE PORTE-AVIONS CHARLES DE GAULLE A ÉTÉ TOUCHÉ PAR UN INCENDIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:02",
-      "date": "05/10",
-      "timestamp": 1791223337
-    },
-    {
-      "id": "OPEX360_1791217673",
-      "source": "OPEX360",
-      "text": "L’ESPAGNE A CHOISI L’AIRBUS A321 POUR DÉVELOPPER SON FUTUR AVION DE RENSEIGNEMENT ÉLECTRONIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:27",
-      "date": "05/10",
-      "timestamp": 1791217673
-    },
-    {
-      "id": "BFMTV_1791216935",
-      "source": "BFMTV",
-      "text": "\"PNEUMONIE D'ÉTIOLOGIE INCONNUE\", PERSONNES PLACÉES EN QUARANTAINE, HÔPITAUX FERMÉS... CE QUE L'ON SAIT DU CAS SUPPOSÉ DE PESTE EN RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:15",
-      "date": "05/10",
-      "timestamp": 1791216935
-    },
-    {
-      "id": "BFMTV_1791216013",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: LA NOUVELLE ATTACHÉE DE PRESSE DE DONALD TRUMP FAIT DÉJÀ POLÉMIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:00",
-      "date": "05/10",
-      "timestamp": 1791216013
-    },
-    {
-      "id": "BFMTV_1791215290",
-      "source": "BFMTV",
-      "text": "ESPAGNE: FACE À LA CRISE DU LOGEMENT, LE PREMIER MINISTRE CONVOQUE DES ÉLECTIONS ANTICIPÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:48",
-      "date": "05/10",
-      "timestamp": 1791215290
-    },
-    {
-      "id": "OPEX360_1791211532",
-      "source": "OPEX360",
-      "text": "LA FRANCE ET LA TURQUIE S’ACCORDENT SUR UNE «FEUILLE DE ROUTE» POUR RENFORCER LEUR COOPÉRATION EN MATIÈRE DE DÉFENSE",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:45",
-      "date": "05/10",
-      "timestamp": 1791211532
-    },
-    {
-      "id": "BFMTV_1791209509",
-      "source": "BFMTV",
-      "text": "UN CAS MORTEL DE PESTE EN RUSSIE? LES AUTORITÉS RUSSES ASSURENT QUE LA \"SITUATION EST SOUS CONTRÔLE\", LES ÉTATS-UNIS \"GARDENT UN OEIL DESSUS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:11",
-      "date": "05/10",
-      "timestamp": 1791209509
-    },
-    {
-      "id": "BFMTV_1791209406",
-      "source": "BFMTV",
-      "text": "UN CAS MORTEL DE PESTE EN RUSSIE? VOICI CE QUE L'ON SAIT",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:10",
-      "date": "05/10",
-      "timestamp": 1791209406
-    },
-    {
-      "id": "BFMTV_1791201359",
-      "source": "BFMTV",
-      "text": "UNE PREMIÈRE DEPUIS LE DÉBUT DE LA GUERRE: UN AGENT DE LA POLICE DES FRONTIÈRES MOLDAVE LÉGÈREMENT BLESSÉ APRÈS DES ATTAQUES RUSSES CONTRE L'UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:55",
-      "date": "05/10",
-      "timestamp": 1791201359
     }
   ],
   "france": {
