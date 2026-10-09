@@ -1,7 +1,37 @@
 {
-  "last_update": "09/10 14:29",
+  "last_update": "09/10 19:40",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1791567224",
+      "source": "OPEX360",
+      "text": "LE FRANÇAIS EXAIL DÉVOILE UN NOUVEAU SYSTÈME DE SURVEILLANCE MARITIME BASÉ SUR LES DRONES NAVALS DE LA GAMME ORYX",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:33",
+      "date": "09/10",
+      "timestamp": 1791567224
+    },
+    {
+      "id": "OPEX360_1791562952",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT SÉLECTIONNE TROIS DRONES DE SURFACE POUR LA PROTECTION DES BASES ET DES NAVIRES DE LA MARINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:22",
+      "date": "09/10",
+      "timestamp": 1791562952
+    },
+    {
+      "id": "OPEX360_1791556234",
+      "source": "OPEX360",
+      "text": "POUR LE GÉNÉRAL MANDON, LA SUPPRESSION DE LA MAJORATION DE PENSION POUR ENFANTS SERA «DÉSASTREUSE» POUR LES ARMÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:30",
+      "date": "09/10",
+      "timestamp": 1791556234
+    },
     {
       "id": "BFMTV_1791554487",
       "source": "BFMTV",
@@ -153,6 +183,16 @@
       "timestamp": 1791539138
     },
     {
+      "id": "BFMTV_1791531649",
+      "source": "BFMTV",
+      "text": "\"ELLE A MANQUÉ MON ANNIVERSAIRE\": APRÈS 322 JOURS EN MER, LA JOIE DES PROCHES DE MARINS DU PORTE-AVIONS ABRAHAM LINCOLN POUR LEUR RETOUR AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:40",
+      "date": "09/10",
+      "timestamp": 1791531649
+    },
+    {
       "id": "BFMTV_1791527344",
       "source": "BFMTV",
       "text": "SOUPÇONS DE PESTE EN RUSSIE: MOSCOU AFFIRME QU'\"AUCUNE PATHOLOGIE INFECTIEUSE\" N'A ÉTÉ DÉTECTÉE APRÈS L'ANALYSE DE TOUS LES CAS CONTACTS",
@@ -181,6 +221,16 @@
       "time": "05:54",
       "date": "09/10",
       "timestamp": 1791525262
+    },
+    {
+      "id": "BFMTV_1791523443",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:24",
+      "date": "09/10",
+      "timestamp": 1791523443
     },
     {
       "id": "BFMTV_1791523441",
@@ -951,56 +1001,6 @@
       "time": "18:03",
       "date": "06/10",
       "timestamp": 1791309808
-    },
-    {
-      "id": "BFMTV_1791307696",
-      "source": "BFMTV",
-      "text": "UN AN APRÈS LE \"PLAN DE PAIX POUR GAZA\", L'ENTRÉE DE L'AIDE HUMANITAIRE RESTE DIFFICILE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:28",
-      "date": "06/10",
-      "timestamp": 1791307696
-    },
-    {
-      "id": "OPEX360_1791307594",
-      "source": "OPEX360",
-      "text": "THALES ET 3ME TECHNOLOGY DÉVOILENT LE ROBOT TERRESTRE MULTIFONCTION BLADEHAUL, BASÉ SUR LE BLINDÉ BUSHMASTER",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:26",
-      "date": "06/10",
-      "timestamp": 1791307594
-    },
-    {
-      "id": "BFMTV_1791306704",
-      "source": "BFMTV",
-      "text": "UN ANCIEN CHEF DU RENSEIGNEMENT EXTÉRIEUR ALLEMAND ARRÊTÉ POUR ESPIONNAGE ET TRAHISON",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:11",
-      "date": "06/10",
-      "timestamp": 1791306704
-    },
-    {
-      "id": "BFMTV_1791305753",
-      "source": "BFMTV",
-      "text": "MOBILISATION LYCÉENNE: EN BELGIQUE AUSSI, LES LYCÉENS MANIFESTENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:55",
-      "date": "06/10",
-      "timestamp": 1791305753
-    },
-    {
-      "id": "BFMTV_1791304876",
-      "source": "BFMTV",
-      "text": "TOUT COMPRENDRE. CRISE DU LOGEMENT, NOUVELLES ÉLECTIONS... PEDRO SÁNCHEZ JOUE SON AVENIR POLITIQUE EN ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:41",
-      "date": "06/10",
-      "timestamp": 1791304876
     }
   ],
   "france": {
