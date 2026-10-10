@@ -1,7 +1,147 @@
 {
-  "last_update": "10/10 02:46",
+  "last_update": "10/10 09:26",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791622381",
+      "source": "BFMTV",
+      "text": "ENGAGÉE CONTRE L'AVORTEMENT, HABITUÉE DE FOX NEWS... QUI EST LA NOUVELLE PORTE-PAROLE DE LA MAISON BLANCHE, KATIE ZACHARIA?",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:53",
+      "date": "10/10",
+      "timestamp": 1791622381
+    },
+    {
+      "id": "BFMTV_1791621318",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:35",
+      "date": "10/10",
+      "timestamp": 1791621318
+    },
+    {
+      "id": "BFMTV_1791621318",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:35",
+      "date": "10/10",
+      "timestamp": 1791621318
+    },
+    {
+      "id": "BFMTV_1791621318",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:35",
+      "date": "10/10",
+      "timestamp": 1791621318
+    },
+    {
+      "id": "BFMTV_1791618849",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS SEPT MORTS DONT TROIS ENFANTS DANS DES FRAPPES RUSSES SUR ZAPORIJIA",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:54",
+      "date": "10/10",
+      "timestamp": 1791618849
+    },
+    {
+      "id": "BFMTV_1791618480",
+      "source": "BFMTV",
+      "text": "13 MORTS, 30 BLESSÉS DONT UNE MAJORITÉ DE SOLDATS AMÉRICAINS: L'ITINÉRAIRE MEURTRIER DE NIDAL HASAN, DONT LE PENTAGONE VEUT DIFFUSER EN DIRECT LA MISE À MORT PAR UN PELOTON D'EXÉCUTION AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:48",
+      "date": "10/10",
+      "timestamp": 1791618480
+    },
+    {
+      "id": "BFMTV_1791617712",
+      "source": "BFMTV",
+      "text": "LE RETOUR PLEIN D'ÉMOTION DE L'ASTRONAUTE SOPHIE ADENOT",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:35",
+      "date": "10/10",
+      "timestamp": 1791617712
+    },
+    {
+      "id": "BFMTV_1791615566",
+      "source": "BFMTV",
+      "text": "LES PREMIERS MOTS DE SOPHIE ADENOT, DEUX JOURS APRÈS SON RETOUR SUR TERRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:59",
+      "date": "10/10",
+      "timestamp": 1791615566
+    },
+    {
+      "id": "BFMTV_1791612862",
+      "source": "BFMTV",
+      "text": "\"UNE FORMIDABLE AVENTURE\": LES PREMIERS MOTS DE SOPHIE ADENOT APRÈS SON RETOUR SUR TERRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:14",
+      "date": "10/10",
+      "timestamp": 1791612862
+    },
+    {
+      "id": "BFMTV_1791612475",
+      "source": "BFMTV",
+      "text": "\"MA PREMIÈRE MISSION, C'EST RÉUSSIR À ME TENIR DEBOUT TOUTE SEULE\": SOPHIE ADENOT, ASTRONAUTE FRANÇAISE, ÉVOQUE SON \"SYNDROME DE RÉADAPTATION\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:07",
+      "date": "10/10",
+      "timestamp": 1791612475
+    },
+    {
+      "id": "BFMTV_1791612234",
+      "source": "BFMTV",
+      "text": "RETOUR SUR TERRE DE SOPHIE ADENOT: \"L'ESPACE, C'EST DUR, MAIS L'ESPACE NOUS UNIT\", AFFIRME L'ASTRONAUTE FRANÇAISE",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:03",
+      "date": "10/10",
+      "timestamp": 1791612234
+    },
+    {
+      "id": "BFMTV_1791612118",
+      "source": "BFMTV",
+      "text": "RETOUR SUR TERRE DE SOPHIE ADENOT: \"LA MISSION A ÉTÉ COURONNÉE DE SUCCÈS\", AFFIRME L'ASTRONAUTE FRANÇAISE",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:01",
+      "date": "10/10",
+      "timestamp": 1791612118
+    },
+    {
+      "id": "BFMTV_1791611833",
+      "source": "BFMTV",
+      "text": "\"JE SUIS DE RETOUR\": LES PREMIERS MOTS DE L'ASTRONAUTE FRANÇAISE SOPHIE ADENOT",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:57",
+      "date": "10/10",
+      "timestamp": 1791611833
+    },
+    {
+      "id": "BFMTV_1791608904",
+      "source": "BFMTV",
+      "text": "CATHÉDRALE ENDOMMAGÉE, ROUTES EFFONDRÉES... LES IMAGES IMPRESSIONNANTES DES DÉGÂTS AU PANAMA APRÈS UN PUISSANT SÉISME",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:08",
+      "date": "10/10",
+      "timestamp": 1791608904
+    },
     {
       "id": "BFMTV_1791582300",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "19:18",
       "date": "07/10",
       "timestamp": 1791400708
-    },
-    {
-      "id": "BFMTV_1791399302",
-      "source": "BFMTV",
-      "text": "TROIS ANS APRÈS LE 7-OCTOBRE, DES ISRAÉLIENS, VICTIMES DES ATTENTATS, SE PRÉSENTENT AUX ÉLECTIONS LÉGISLATIVES",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:55",
-      "date": "07/10",
-      "timestamp": 1791399302
-    },
-    {
-      "id": "BFMTV_1791398625",
-      "source": "BFMTV",
-      "text": "MARICARMEN, LA RETRAITÉE ESPAGNOLE EXPULSÉE DEVENUE VISAGE DE LA CRISE DU LOGEMENT, EST MORTE À 87 ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:43",
-      "date": "07/10",
-      "timestamp": 1791398625
-    },
-    {
-      "id": "BFMTV_1791396424",
-      "source": "BFMTV",
-      "text": "SOUPÇON DE PESTE: DONALD TRUMP NE \"PENSE PAS\" QUE L'INCIDENT DANS UN LABORATOIRE RUSSE SOIT LIÉ À UNE ARME BIOLOGIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:07",
-      "date": "07/10",
-      "timestamp": 1791396424
-    },
-    {
-      "id": "OPEX360_1791394046",
-      "source": "OPEX360",
-      "text": "LE PATROUILLEUR OUTRE-MER PHILIPPE BERNARDINO A PRIS LA MER POUR LA PREMIÈRE FOIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:27",
-      "date": "07/10",
-      "timestamp": 1791394046
-    },
-    {
-      "id": "OPEX360_1791391679",
-      "source": "OPEX360",
-      "text": "LA FORCE AÉRIENNE PÉRUVIENNE DEVRAIT FINALEMENT GARDER SES MIRAGE 2000 AU-DELÀ DE 2030",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:47",
-      "date": "07/10",
-      "timestamp": 1791391679
-    },
-    {
-      "id": "OPEX360_1791385330",
-      "source": "OPEX360",
-      "text": "LE FRANÇAIS HARMATTAN AI PRÉSENTE UN DRONE D’ATTAQUE D’UNE PORTÉE DE 2 000 KM",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:02",
-      "date": "07/10",
-      "timestamp": 1791385330
-    },
-    {
-      "id": "BFMTV_1791383768",
-      "source": "BFMTV",
-      "text": "LA RUSSIE ACCUSE L'UE D'ÊTRE \"OBSÉDÉE PAR L'IDÉE DE LA MILITARISATION\" AU LENDEMAIN DE L'ESSAI FRANÇAIS DE MISSILE NUCLÉAIRE",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:36",
-      "date": "07/10",
-      "timestamp": 1791383768
-    },
-    {
-      "id": "BFMTV_1791375823",
-      "source": "BFMTV",
-      "text": "RETOUR SUR TERRE DE SOPHIE ADENOT: LA CAPSULE CREW DRAGON S'EST DÉTACHÉE DE L'ISS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:23",
-      "date": "07/10",
-      "timestamp": 1791375823
-    },
-    {
-      "id": "BFMTV_1791375636",
-      "source": "BFMTV",
-      "text": "\"L'IRAN A PERDU LE CONTRÔLE INTÉGRAL DU DÉTROIT D'ORMUZ\", AFFIRME MARCO RUBIO, CHEF DE LA DIPLOMATIE AMÉRICAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:20",
-      "date": "07/10",
-      "timestamp": 1791375636
-    },
-    {
-      "id": "BFMTV_1791372081",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP JUGE \"L'ISLAM\" ET \"L'IMMIGRATION\" RESPONSABLES DE LA MOBILISATION LYCÉENNE, LA FRANCE LUI RÉPOND",
-      "urgent": false,
-      "france_related": true,
-      "time": "11:21",
-      "date": "07/10",
-      "timestamp": 1791372081
-    },
-    {
-      "id": "OPEX360_1791369501",
-      "source": "OPEX360",
-      "text": "À NOUVEAU VICTIME DE PROBLÈMES TECHNIQUES, LA FRÉGATE BELGE LÉOPOLD IER NE REJOINDRA PAS L’OPÉRATION ASPIDES EN MER ROUGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:38",
-      "date": "07/10",
-      "timestamp": 1791369501
-    },
-    {
-      "id": "BFMTV_1791366567",
-      "source": "BFMTV",
-      "text": "7-OCTOBRE: QUE SAVAIT RÉELLEMENT BENJAMIN NETANYAHU ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:49",
-      "date": "07/10",
-      "timestamp": 1791366567
-    },
-    {
-      "id": "BFMTV_1791365654",
-      "source": "BFMTV",
-      "text": "\"UN 'CADEAU' D'ANNIVERSAIRE À POUTINE\": VOLODYMYR ZELENSKY DÉNONCE UNE FRAPPE MORTELLE SUR UN IMMEUBLE RÉSIDENTIEL EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:34",
-      "date": "07/10",
-      "timestamp": 1791365654
-    },
-    {
-      "id": "BFMTV_1791364975",
-      "source": "BFMTV",
-      "text": "LES MILITAIRES AMÉRICAINS STATIONNÉS À OKINAWA SOUMIS À UN COUVRE-FEU APRÈS L'ARRESTATION D'UN MARINE SOUPÇONNÉ DE MEURTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:22",
-      "date": "07/10",
-      "timestamp": 1791364975
     }
   ],
   "france": {
