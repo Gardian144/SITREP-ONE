@@ -1,7 +1,17 @@
 {
-  "last_update": "10/10 19:32",
+  "last_update": "10/10 22:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791663342",
+      "source": "BFMTV",
+      "text": "TANDIS QUE DONALD TRUMP AFFIRME QUE L'UKRAINE DOIT AVOIR UN NOUVEAU PRÉSIDENT, VOLODYMYR ZELENSKY RENFORCE SES LIENS AVEC LES DIRIGEANTS EUROPÉENS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:15",
+      "date": "10/10",
+      "timestamp": 1791663342
+    },
     {
       "id": "BFMTV_1791660041",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "12:13",
       "date": "08/10",
       "timestamp": 1791461630
-    },
-    {
-      "id": "BFMTV_1791459571",
-      "source": "BFMTV",
-      "text": "UNE ATTAQUE AU COUTEAU DANS UNE ÉCOLE POLONAISE FAIT UN MORT ET DEUX BLESSÉS, UN ANCIEN ÉLÈVE DE 15 ANS ARRÊTÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:39",
-      "date": "08/10",
-      "timestamp": 1791459571
     }
   ],
   "france": {
