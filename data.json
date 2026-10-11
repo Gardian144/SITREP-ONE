@@ -1,11 +1,31 @@
 {
-  "last_update": "11/10 14:40",
+  "last_update": "11/10 19:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791735252",
+      "source": "BFMTV",
+      "text": "TURQUIE: AU MOINS ONZE MORTS ET 27 BLESSÉS DANS UN ACCIDENT ENTRE UN CAR ET UN CAMION.",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:14",
+      "date": "11/10",
+      "timestamp": 1791735252
+    },
     {
       "id": "BFMTV_1791728795",
       "source": "BFMTV",
       "text": "\"LES DEUX PARTIES L'ONT ACCEPTÉ\": DONALD TRUMP AFFIRME QU'UN ACCORD DE CESSEZ-LE-FEU DANS L'ÉNERGIE A ÉTÉ CONCLU ENTRE L'UKRAINE ET LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:26",
+      "date": "11/10",
+      "timestamp": 1791728795
+    },
+    {
+      "id": "BFMTV_1791728795",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE QU'UN CESSEZ-LE-FEU SUR L'ÉNERGIE EST EN PLACE ENTRE L'UKRAINE ET LA RUSSIE, VOLODYMYR ZELENSKY ASSURE NE PAS ÊTRE AU COURANT MAIS L'ACCEPTE",
       "urgent": false,
       "france_related": false,
       "time": "14:26",
@@ -981,26 +1001,6 @@
       "time": "18:31",
       "date": "08/10",
       "timestamp": 1791484286
-    },
-    {
-      "id": "OPEX360_1791479699",
-      "source": "OPEX360",
-      "text": "ATHÈNES VEUT ACQUÉRIR DES MISSILES À LONGUE PORTÉE AIM-260 JATM ET AGM-158B JASSM AUPRÈS DES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:14",
-      "date": "08/10",
-      "timestamp": 1791479699
-    },
-    {
-      "id": "BFMTV_1791477603",
-      "source": "BFMTV",
-      "text": "L'ASTRONAUTE FRANÇAISE SOPHIE ADENOT SORT DE LA CAPSULE CREW DRAGON APRÈS L'AMERRISSAGE RÉUSSI",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:40",
-      "date": "08/10",
-      "timestamp": 1791477603
     }
   ],
   "france": {
