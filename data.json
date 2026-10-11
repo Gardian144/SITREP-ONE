@@ -1,7 +1,137 @@
 {
-  "last_update": "11/10 07:50",
+  "last_update": "11/10 14:40",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791728795",
+      "source": "BFMTV",
+      "text": "\"LES DEUX PARTIES L'ONT ACCEPTÉ\": DONALD TRUMP AFFIRME QU'UN ACCORD DE CESSEZ-LE-FEU DANS L'ÉNERGIE A ÉTÉ CONCLU ENTRE L'UKRAINE ET LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:26",
+      "date": "11/10",
+      "timestamp": 1791728795
+    },
+    {
+      "id": "BFMTV_1791726514",
+      "source": "BFMTV",
+      "text": "\"C'EST À NOTRE PEUPLE QU'IL REVIENT DE CHOISIR\": VOLODYMYR ZELENSKY RÉPOND À DONALD TRUMP QUI A RÉCLAMÉ UN CHANGEMENT DE PRÉSIDENT EN UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:48",
+      "date": "11/10",
+      "timestamp": 1791726514
+    },
+    {
+      "id": "BFMTV_1791723277",
+      "source": "BFMTV",
+      "text": "DES VILLAGES ÉVACUÉS AU NÉPAL EN RAISON D'UNE NOUVELLE CRUE SOUDAINE, AU MOINS CINQ PERSONNES DISPARUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:54",
+      "date": "11/10",
+      "timestamp": 1791723277
+    },
+    {
+      "id": "BFMTV_1791723277",
+      "source": "BFMTV",
+      "text": "INONDATIONS AU NÉPAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:54",
+      "date": "11/10",
+      "timestamp": 1791723277
+    },
+    {
+      "id": "BFMTV_1791723264",
+      "source": "BFMTV",
+      "text": "ARABIE SAOUDITE: 12 MORTS ET PLUS DE 300 BLESSÉS, DONT UNE FRANÇAISE, DANS UNE ATTAQUE CONDUITE PAR LES HOUTHIS SUR L'AÉROPORT DE RYAD",
+      "urgent": true,
+      "france_related": true,
+      "time": "12:54",
+      "date": "11/10",
+      "timestamp": 1791723264
+    },
+    {
+      "id": "BFMTV_1791718456",
+      "source": "BFMTV",
+      "text": "UNE FRANÇAISE BLESSÉE DANS L'ATTAQUE CONTRE L'AÉROPORT DE RYAD EN ARABIE SAOUDITE IMPUTÉE AUX HOUTHIS",
+      "urgent": true,
+      "france_related": true,
+      "time": "11:34",
+      "date": "11/10",
+      "timestamp": 1791718456
+    },
+    {
+      "id": "OPEX360_1791717968",
+      "source": "OPEX360",
+      "text": "GUERRE ÉLECTRONIQUE : L’ARMÉE DE TERRE ÉVALUE UN NOUVEAU SYSTÈME DE NAVIGATION POUR LES CHUTEURS OPÉRATIONNELS",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:26",
+      "date": "11/10",
+      "timestamp": 1791717968
+    },
+    {
+      "id": "BFMTV_1791717388",
+      "source": "BFMTV",
+      "text": "UN ACCIDENT ENTRE UN CAR ET UN CAMION FAIT AU MOINS 11 MORTS ET UNE VINGTAINE DE BLESSÉS EN TURQUIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:16",
+      "date": "11/10",
+      "timestamp": 1791717388
+    },
+    {
+      "id": "OPEX360_1791714991",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE TERRE VEUT LANCER DES ÉTUDES POUR SE DOTER DE MICRORÉACTEURS NUCLÉAIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:36",
+      "date": "11/10",
+      "timestamp": 1791714991
+    },
+    {
+      "id": "BFMTV_1791713782",
+      "source": "BFMTV",
+      "text": "L'UKRAINE \"PRÊTE\" À CESSER SES FRAPPES CONTRE LES RAFFINERIES DE PÉTROLE RUSSES SI LA RUSSIE N'ATTAQUE PLUS SES INFRASTRUCTURES ÉNERGÉTIQUES",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:16",
+      "date": "11/10",
+      "timestamp": 1791713782
+    },
+    {
+      "id": "BFMTV_1791713614",
+      "source": "BFMTV",
+      "text": "RÉUNION D'URGENCE EN POLOGNE APRÈS DE \"POSSIBLES TENTATIVES D'ASSASSINAT\" CONTRE LE PREMIER MINISTRE ET LE MINISTRE DE LA DÉFENSE EN POLOGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:13",
+      "date": "11/10",
+      "timestamp": 1791713614
+    },
+    {
+      "id": "BFMTV_1791712427",
+      "source": "BFMTV",
+      "text": "\"OCÉAN TRUMP OU OCÉAN DES AMÉRIQUES\": DONALD TRUMP SOUHAITE RENOMMER L'OCÉAN PACIFIQUE OU ATLANTIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:53",
+      "date": "11/10",
+      "timestamp": 1791712427
+    },
+    {
+      "id": "BFMTV_1791711254",
+      "source": "BFMTV",
+      "text": "NÉPAL: LA RÉGION DE GORKHA TOUCHÉE PAR UNE CRUE ÉCLAIR, MOINS DE DEUX MOIS APRÈS LES INONDATIONS MEURTRIÈRES DANS LE PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:34",
+      "date": "11/10",
+      "timestamp": 1791711254
+    },
     {
       "id": "BFMTV_1791703953",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "16:40",
       "date": "08/10",
       "timestamp": 1791477603
-    },
-    {
-      "id": "BFMTV_1791476807",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ÉVOQUE DES \"DISCUSSIONS PRODUCTIVES\" AVEC L'IRAN ET EXCLUT TOUTE ATTAQUE AVANT LES ÉLECTIONS DE MI-MANDAT",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:26",
-      "date": "08/10",
-      "timestamp": 1791476807
-    },
-    {
-      "id": "BFMTV_1791476713",
-      "source": "BFMTV",
-      "text": "MIDTERMS: PENDANT QUE DONALD TRUMP MULTIPLIE LES CADEAUX, SON ENTOURAGE SE PRÉPARE À UNE DÉFAITE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:25",
-      "date": "08/10",
-      "timestamp": 1791476713
-    },
-    {
-      "id": "OPEX360_1791475988",
-      "source": "OPEX360",
-      "text": "AUCUN RAFALE DESTINÉ À L’UKRAINE NE SERA PRÉLEVÉ DANS LA DOTATION DES ESCADRONS FRANÇAIS, ASSURE LE GÉNÉRAL MANDON",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:13",
-      "date": "08/10",
-      "timestamp": 1791475988
-    },
-    {
-      "id": "BFMTV_1791474311",
-      "source": "BFMTV",
-      "text": "RETOUR SUR TERRE DE SOPHIE ADENOT: AMERRISSAGE RÉUSSI DE LA CAPSULE DRAGON DE SPACEX",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:45",
-      "date": "08/10",
-      "timestamp": 1791474311
-    },
-    {
-      "id": "BFMTV_1791474212",
-      "source": "BFMTV",
-      "text": "CORÉE DU SUD: DES HACKEURS PIRATENT DES CAMÉRAS DE CABINETS GYNÉCOLOGIQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:43",
-      "date": "08/10",
-      "timestamp": 1791474212
-    },
-    {
-      "id": "BFMTV_1791473777",
-      "source": "BFMTV",
-      "text": "DES MEMBRES DU PARTI D’EXTRÊME DROITE ALLEMAND AFD AIMERAIENT RÉCUPÉRER L’ALSACE ET UNE PARTIE DE LA LORRAINE ",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:36",
-      "date": "08/10",
-      "timestamp": 1791473777
-    },
-    {
-      "id": "BFMTV_1791471327",
-      "source": "BFMTV",
-      "text": "AU ROYAUME-UNI, TROIS SŒURS SE SUICIDENT DANS LA MER, 16 ANS APRÈS LA NOYADE DE LEUR MÈRE DANS DES CIRCONSTANCES SIMILAIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:55",
-      "date": "08/10",
-      "timestamp": 1791471327
-    },
-    {
-      "id": "BFMTV_1791471196",
-      "source": "BFMTV",
-      "text": "UNE ENQUÊTE OUVERTE EN FINLANDE APRÈS DES INTRUSIONS AUX DOMICILES DE PLUSIEURS DÉPUTÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:53",
-      "date": "08/10",
-      "timestamp": 1791471196
-    },
-    {
-      "id": "BFMTV_1791468558",
-      "source": "BFMTV",
-      "text": "\"ELLE VA PLUTÔT BIEN\": CHRISTA PIKE MARCHE DE NOUVEAU APRÈS SON EXÉCUTION RATÉE DANS LE TENNESSEE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:09",
-      "date": "08/10",
-      "timestamp": 1791468558
-    },
-    {
-      "id": "OPEX360_1791468148",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES VEUT LANCER LE DÉVELOPPEMENT D’UN AVION DE COMBAT DE NOUVELLE GÉNÉRATION OPÉRATIONNEL EN 2029",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:02",
-      "date": "08/10",
-      "timestamp": 1791468148
-    },
-    {
-      "id": "OPEX360_1791468148",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES VEUT LANCER EN 2029 LE DÉVELOPPEMENT D’UN AVION DE COMBAT DE NOUVELLE GÉNÉRATION OPÉRATIONNEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:02",
-      "date": "08/10",
-      "timestamp": 1791468148
-    },
-    {
-      "id": "BFMTV_1791466305",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS 30 MORTS DANS DES FRAPPES RUSSES SUR DES BUS DANS L'EST DU PAYS, KIEV ÉGALEMENT VISÉE PAR DES ATTAQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:31",
-      "date": "08/10",
-      "timestamp": 1791466305
-    },
-    {
-      "id": "BFMTV_1791466014",
-      "source": "BFMTV",
-      "text": "\"L'OTAN EST PRÉCIEUSE POUR LES ÉTATS-UNIS\", AFFIRME MARCO RUBIO, CHEF DE LA DIPLOMATIE AMÉRICAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:26",
-      "date": "08/10",
-      "timestamp": 1791466014
     }
   ],
   "france": {
