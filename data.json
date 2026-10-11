@@ -1,7 +1,47 @@
 {
-  "last_update": "11/10 01:42",
+  "last_update": "11/10 07:50",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791703953",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY LÂCHÉ PAR DONALD TRUMP DANS UNE PÉRIODE DÉLICATE SUR LE TERRAIN ",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:32",
+      "date": "11/10",
+      "timestamp": 1791703953
+    },
+    {
+      "id": "BFMTV_1791702895",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UN HOMME ÉCHAPPE DE JUSTESSE À UNE FRAPPE DE DRONE RUSSE PRÈS DE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:14",
+      "date": "11/10",
+      "timestamp": 1791702895
+    },
+    {
+      "id": "BFMTV_1791691766",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DONALD TRUMP AFFIRME QUE VLADIMIR POUTINE \"AIMERAIT VOIR UN RÈGLEMENT\" DU CONFLIT ET S'EN PREND À VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:09",
+      "date": "11/10",
+      "timestamp": 1791691766
+    },
+    {
+      "id": "BFMTV_1791691398",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DONALD TRUMP APPELLE AU DÉPART DE VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:03",
+      "date": "11/10",
+      "timestamp": 1791691398
+    },
     {
       "id": "BFMTV_1791663342",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "13:26",
       "date": "08/10",
       "timestamp": 1791466014
-    },
-    {
-      "id": "BFMTV_1791466012",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"NOUS NE CROYONS PAS QU'IL EXISTE UNE SOLUTION MILITAIRE À CE CONFLIT\", DÉCLARE MARCO RUBIO",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:26",
-      "date": "08/10",
-      "timestamp": 1791466012
-    },
-    {
-      "id": "BFMTV_1791465290",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP S'EST LUI-MÊME RECOMMANDÉ: QUI SONT LES CANDIDATS PRESSENTIS POUR OBTENIR LE PRIX NOBEL DE LA PAIX?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:14",
-      "date": "08/10",
-      "timestamp": 1791465290
-    },
-    {
-      "id": "BFMTV_1791464759",
-      "source": "BFMTV",
-      "text": "UKRAINE: VOLODYMYR ZELENSKY QUALIFIE VLADIMIR POUTINE DE \"TERRORISTE ET TUEUR\", APRÈS LA FRAPPE RUSSE SUR DES BUS",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:05",
-      "date": "08/10",
-      "timestamp": 1791464759
-    },
-    {
-      "id": "BFMTV_1791461630",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: PLUS DE 30 CIVILS TUÉS DANS UN BOMBARDEMENT RUSSE CONTRE DES BUS À KRAMATORSK",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:13",
-      "date": "08/10",
-      "timestamp": 1791461630
     }
   ],
   "france": {
