@@ -1,7 +1,97 @@
 {
-  "last_update": "12/10 02:04",
+  "last_update": "12/10 09:12",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791795652",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY : \"UNIS, NOUS POUVONS TRIOMPHER\" FACE À LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:00",
+      "date": "12/10",
+      "timestamp": 1791795652
+    },
+    {
+      "id": "BFMTV_1791795391",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY: \"NOUS AVONS BESOIN DE LA PRESSION DES USA CONTRE LA RUSSIE, PAS DE CONCESSIONS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:56",
+      "date": "12/10",
+      "timestamp": 1791795391
+    },
+    {
+      "id": "BFMTV_1791795291",
+      "source": "BFMTV",
+      "text": "UKRAINE: EMMANUEL MACRON AFFIRME QU'IL NE FAUT PAS \"CÉDER\" À LA \"MENACE RUSSE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:54",
+      "date": "12/10",
+      "timestamp": 1791795291
+    },
+    {
+      "id": "BFMTV_1791794846",
+      "source": "BFMTV",
+      "text": "\"LA RUSSIE SE BAT POUR LA DOMINATION, L'UKRAINE SE BAT POUR SA SURVIE\", ASSURE LE PREMIER MINISTRE POLONAIS DONALD TUSK",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:47",
+      "date": "12/10",
+      "timestamp": 1791794846
+    },
+    {
+      "id": "BFMTV_1791794473",
+      "source": "BFMTV",
+      "text": "LA POLOGNE APPELLE \"L'ENSEMBLE DE L'OCCIDENT\" À \"ÊTRE PLUS FERME\" DANS LES SANCTIONS CONTRE MOSCOU",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:41",
+      "date": "12/10",
+      "timestamp": 1791794473
+    },
+    {
+      "id": "BFMTV_1791793437",
+      "source": "BFMTV",
+      "text": "L'UE SOUTIENDRA UNE TRÊVE ÉNERGÉTIQUE ENTRE L'UKRAINE ET LA RUSSIE \"DÈS QU'ELLE TIENDRA\", ASSURE KAJA KALLAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:23",
+      "date": "12/10",
+      "timestamp": 1791793437
+    },
+    {
+      "id": "BFMTV_1791780395",
+      "source": "BFMTV",
+      "text": "LES HOUTHIS DU YÉMEN REVENDIQUENT PLUSIEURS FRAPPES CONTRE L'AÉROPORT DE RYAD ET DES INFRASTRUCTURES ÉNERGÉTIQUES SAOUDIENNES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:46",
+      "date": "12/10",
+      "timestamp": 1791780395
+    },
+    {
+      "id": "BFMTV_1791780300",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DONALD TRUMP ANNONCE QU'UN CESSEZ-LE-FEU SUR L'ÉNERGIE EST EN PLACE ENTRE L'UKRAINE ET LA RUSSIE, VOLODYMYR ZELENSKY ASSURE NE PAS ÊTRE AU COURANT MAIS L'ACCEPTE",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:45",
+      "date": "12/10",
+      "timestamp": 1791780300
+    },
+    {
+      "id": "BFMTV_1791778718",
+      "source": "BFMTV",
+      "text": "ARABIE SAOUDITE: CE QUE L'ON SAIT QUE L'ATTAQUE DE L'AÉROPORT DE RYAD IMPUTÉE AUX HOUTHIS QUI A FAIT AU MOINS 12 MORTS ET PLUS DE 300 BLESSÉS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:18",
+      "date": "12/10",
+      "timestamp": 1791778718
+    },
     {
       "id": "BFMTV_1791752429",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "05:24",
       "date": "09/10",
       "timestamp": 1791523443
-    },
-    {
-      "id": "BFMTV_1791523441",
-      "source": "BFMTV",
-      "text": "SEPT PERSONNES, DONT UN ENFANT, TUÉES PAR DES TIRS ISRAÉLIENS À GAZA",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:24",
-      "date": "09/10",
-      "timestamp": 1791523441
-    },
-    {
-      "id": "BFMTV_1791522060",
-      "source": "BFMTV",
-      "text": "PRÉDOMINANCE DES ÉTATS-UNIS, SOUS-REPRÉSENTATION DES FEMMES, MOYENNE D'ÂGE EN HAUSSE... QUEL EST LE PROFIL DES LAURÉATS DES PRIX NOBEL?",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:01",
-      "date": "09/10",
-      "timestamp": 1791522060
-    },
-    {
-      "id": "BFMTV_1791521120",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: 30 PERSONNES TUÉES DANS UNE FRAPPE RUSSE AYANT TOUCHÉ DEUX BUS À KRAMATORSK",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:45",
-      "date": "09/10",
-      "timestamp": 1791521120
-    },
-    {
-      "id": "BFMTV_1791520685",
-      "source": "BFMTV",
-      "text": "UN DOMINICAIN BLESSÉ PAR BALLE PAR LA POLICE DE L'IMMIGRATION DEVANT UN ENFANT DE CINQ ANS À NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:38",
-      "date": "09/10",
-      "timestamp": 1791520685
-    },
-    {
-      "id": "BFMTV_1791519774",
-      "source": "BFMTV",
-      "text": "L'ÉDITO INTERNATIONAL - DONALD TRUMP CROIT ENCORE ET TOUJOURS AU PRIX NOBEL DE LA PAIX",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:22",
-      "date": "09/10",
-      "timestamp": 1791519774
-    },
-    {
-      "id": "BFMTV_1791519432",
-      "source": "BFMTV",
-      "text": "LA MISE À MORT PAR PELOTON D'EXÉCUTION DE L'AUTEUR D'UNE TUERIE SUR UNE BASE MILITAIRE SERA DIFFUSÉE EN DIRECT",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:17",
-      "date": "09/10",
-      "timestamp": 1791519432
-    },
-    {
-      "id": "BFMTV_1791491164",
-      "source": "BFMTV",
-      "text": "LE PORTE-AVIONS ABRAHAM LINCOLN DE RETOUR AUX ÉTATS-UNIS APRÈS UN DÉPLOIEMENT MOUVEMENTÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:26",
-      "date": "08/10",
-      "timestamp": 1791491164
-    },
-    {
-      "id": "BFMTV_1791489917",
-      "source": "BFMTV",
-      "text": "AFFAIRE CORNELL: LA PRÉSUMÉE VICTIME DU VIOL COLLECTIF MENACÉE DE MORT",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:05",
-      "date": "08/10",
-      "timestamp": 1791489917
-    },
-    {
-      "id": "BFMTV_1791486776",
-      "source": "BFMTV",
-      "text": "“MAISON DE L’HORREUR”: UN COUPLE AMÉRICAIN POURSUIVI POUR MALTRAITANCE SUR 14 DE LEURS 21 ENFANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:12",
-      "date": "08/10",
-      "timestamp": 1791486776
     }
   ],
   "france": {
