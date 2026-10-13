@@ -1,7 +1,47 @@
 {
-  "last_update": "13/10 15:58",
+  "last_update": "13/10 21:08",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1791912650",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE SE PRÉPARE À UNE POSSIBLE ATTAQUE CHIMIQUE MENÉE PAR DES DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:30",
+      "date": "13/10",
+      "timestamp": 1791912650
+    },
+    {
+      "id": "BFMTV_1791910453",
+      "source": "BFMTV",
+      "text": "PUNAISES DE LIT: DES PASSAGERS D'UN AVION PIQUÉS EN PLEIN VOL",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:54",
+      "date": "13/10",
+      "timestamp": 1791910453
+    },
+    {
+      "id": "OPEX360_1791909341",
+      "source": "OPEX360",
+      "text": "LE FRANÇAIS DRONE VOLT PRÉSENTE LE NOUVEAU DRONE LOGISTIQUE HERCULES 100, CAPABLE DE TRANSPORTER UNE CHARGE DE 100 KG",
+      "urgent": true,
+      "france_related": true,
+      "time": "16:35",
+      "date": "13/10",
+      "timestamp": 1791909341
+    },
+    {
+      "id": "BFMTV_1791907701",
+      "source": "BFMTV",
+      "text": "ALLEMAGNE: UN ROBOT ARRÊTÉ APRÈS UNE AGRESSION SEXUELLE PRÉSUMÉE SUR UNE ADOLESCENTE DE 16 ANS",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:08",
+      "date": "13/10",
+      "timestamp": 1791907701
+    },
     {
       "id": "BFMTV_1791903410",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "06:01",
       "date": "10/10",
       "timestamp": 1791612118
-    },
-    {
-      "id": "BFMTV_1791611833",
-      "source": "BFMTV",
-      "text": "\"JE SUIS DE RETOUR\": LES PREMIERS MOTS DE L'ASTRONAUTE FRANÇAISE SOPHIE ADENOT",
-      "urgent": false,
-      "france_related": true,
-      "time": "05:57",
-      "date": "10/10",
-      "timestamp": 1791611833
-    },
-    {
-      "id": "BFMTV_1791608904",
-      "source": "BFMTV",
-      "text": "CATHÉDRALE ENDOMMAGÉE, ROUTES EFFONDRÉES... LES IMAGES IMPRESSIONNANTES DES DÉGÂTS AU PANAMA APRÈS UN PUISSANT SÉISME",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:08",
-      "date": "10/10",
-      "timestamp": 1791608904
-    },
-    {
-      "id": "BFMTV_1791582300",
-      "source": "BFMTV",
-      "text": "\"UNE FIGURE DE LA LUTTE CONTRE L'APARTHEID\": PARIS SALUE L'\"ENGAGEMENT\" DU PRIX NOBEL DE LA PAIX NAVI PILLAY",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:45",
-      "date": "09/10",
-      "timestamp": 1791582300
-    },
-    {
-      "id": "BFMTV_1791581859",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:37",
-      "date": "09/10",
-      "timestamp": 1791581859
     }
   ],
   "france": {
