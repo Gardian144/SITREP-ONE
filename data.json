@@ -1,7 +1,47 @@
 {
-  "last_update": "12/10 19:04",
+  "last_update": "13/10 01:21",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791842535",
+      "source": "BFMTV",
+      "text": "RJ MITTE, ACTEUR CONNU POUR AVOIR JOUÉ DANS LA SÉRIE \"BREAKING BAD\", EST MORT À L'ÂGE DE 34 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:02",
+      "date": "12/10",
+      "timestamp": 1791842535
+    },
+    {
+      "id": "BFMTV_1791840460",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: \"JE PENSE QUE POUTINE VEUT CONCLURE UN ACCORD PLUS QUE ZELENSKY\", DÉCLARE DONALD TRUMP",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:27",
+      "date": "12/10",
+      "timestamp": 1791840460
+    },
+    {
+      "id": "BFMTV_1791833248",
+      "source": "BFMTV",
+      "text": "RELATIONS UE/ROYAUME-UNI: \"S'EN TENIR AU STATU QUO N'EST PAS SUFFISANT\", AFFIRME ANDY BURNHAM",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:27",
+      "date": "12/10",
+      "timestamp": 1791833248
+    },
+    {
+      "id": "BFMTV_1791833096",
+      "source": "BFMTV",
+      "text": "\"LE MOMENT N'EST PAS VENU DE RELÂCHER LA PRESSION SUR MOSCOU\", DÉCLARE LA CHEFFE DE LA DIPLOMATIE DE L'UE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:24",
+      "date": "12/10",
+      "timestamp": 1791833096
+    },
     {
       "id": "BFMTV_1791831513",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "16:17",
       "date": "09/10",
       "timestamp": 1791562645
-    },
-    {
-      "id": "OPEX360_1791556234",
-      "source": "OPEX360",
-      "text": "POUR LE GÉNÉRAL MANDON, LA SUPPRESSION DE LA MAJORATION DE PENSION POUR ENFANTS SERA «DÉSASTREUSE» POUR LES ARMÉES",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:30",
-      "date": "09/10",
-      "timestamp": 1791556234
-    },
-    {
-      "id": "BFMTV_1791554487",
-      "source": "BFMTV",
-      "text": "\"LES IMAGES SONT BOULEVERSANTES\": DEUX TROMBES MARINES FONT PLUSIEURS BLESSÉS LÉGERS EN SICILE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:01",
-      "date": "09/10",
-      "timestamp": 1791554487
-    },
-    {
-      "id": "BFMTV_1791551546",
-      "source": "BFMTV",
-      "text": "LUTTE CONTRE L'APARTHEID, ENQUÊTE SUR LE \"GÉNOCIDE\" À GAZA... QUI EST LA PRIX NOBEL DE LA PAIX NAVI PILLAY?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:12",
-      "date": "09/10",
-      "timestamp": 1791551546
-    },
-    {
-      "id": "BFMTV_1791550629",
-      "source": "BFMTV",
-      "text": "DES VENTS À PRÈS DE 200KM/H: L'OURAGAN ISAIAS, QUI SE DIRIGE VERS LE SUD DES ÉTATS-UNIS, SE RENFORCE EN CATÉGORIE 3",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:57",
-      "date": "09/10",
-      "timestamp": 1791550629
     }
   ],
   "france": {
