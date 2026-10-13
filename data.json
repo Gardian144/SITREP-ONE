@@ -1,7 +1,47 @@
 {
-  "last_update": "13/10 01:21",
+  "last_update": "13/10 08:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791876199",
+      "source": "BFMTV",
+      "text": "DEUX NOUVEAUX NAVIRES FRAPPÉS EN MER NOIRE PRÈS DES CÔTES BULGARES, SOFIA CONVOQUE L'AMBASSADRICE DE RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:23",
+      "date": "13/10",
+      "timestamp": 1791876199
+    },
+    {
+      "id": "BFMTV_1791868567",
+      "source": "BFMTV",
+      "text": "INCIDENT PRÈS D'UNE BASE MILITAIRE AU ROYAUME-UNI: LE PREMIER MINISTRE BRITANNIQUE AVANCE QUE L’OPÉRATION EST \"PRESQUE CERTAINEMENT DIRIGÉ\" PAR L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:16",
+      "date": "13/10",
+      "timestamp": 1791868567
+    },
+    {
+      "id": "BFMTV_1791867336",
+      "source": "BFMTV",
+      "text": "CINQ PERSONNES TUÉES APRÈS LE PASSAGE DE LA TEMPÊTE RACHEL ET DE L'OURAGAN SIMON",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:55",
+      "date": "13/10",
+      "timestamp": 1791867336
+    },
+    {
+      "id": "BFMTV_1791866835",
+      "source": "BFMTV",
+      "text": "\"CE N'EST PAS UN ACCIDENT\": DES AGENTS DE L'ICE ACCUSÉS D'AVOIR VOLONTAIREMENT RENVERSÉ UN OUVRIER MEXICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:47",
+      "date": "13/10",
+      "timestamp": 1791866835
+    },
     {
       "id": "BFMTV_1791842535",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "18:02",
       "date": "09/10",
       "timestamp": 1791568978
-    },
-    {
-      "id": "OPEX360_1791567224",
-      "source": "OPEX360",
-      "text": "LE FRANÇAIS EXAIL DÉVOILE UN NOUVEAU SYSTÈME DE SURVEILLANCE MARITIME BASÉ SUR LES DRONES NAVALS DE LA GAMME ORYX",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:33",
-      "date": "09/10",
-      "timestamp": 1791567224
-    },
-    {
-      "id": "BFMTV_1791564138",
-      "source": "BFMTV",
-      "text": "\"L'HISTOIRE JUGERA CE MOMENT\": WASHINGTON IMPOSE DES SANCTIONS À LA COUR PÉNALE INTERNATIONALE, QUALIFIÉE DE \"TRIBUNAL VOYOU\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:42",
-      "date": "09/10",
-      "timestamp": 1791564138
-    },
-    {
-      "id": "OPEX360_1791562952",
-      "source": "OPEX360",
-      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT SÉLECTIONNE TROIS DRONES DE SURFACE POUR LA PROTECTION DES BASES ET DES NAVIRES DE LA MARINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:22",
-      "date": "09/10",
-      "timestamp": 1791562952
-    },
-    {
-      "id": "BFMTV_1791562645",
-      "source": "BFMTV",
-      "text": "\"BONJOUR ANGELA\": LE PRINCE WILLIAM SE JOINT À UN APPEL VIDÉO PENDANT UN BAIN DE FOULE À BELFAST",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:17",
-      "date": "09/10",
-      "timestamp": 1791562645
     }
   ],
   "france": {
