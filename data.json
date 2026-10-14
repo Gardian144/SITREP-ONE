@@ -1,7 +1,77 @@
 {
-  "last_update": "14/10 15:11",
+  "last_update": "14/10 19:25",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792002970",
+      "source": "BFMTV",
+      "text": "CONFÉRENCE DE PRESSE EXPRESS, DOUTE SUR SES DIPLÔMES... LES DÉBUTS CHAOTIQUES DE LA NOUVELLE PORTE-PAROLE DE LA MAISON BLANCHE, KATIE ZACHARIA",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:36",
+      "date": "14/10",
+      "timestamp": 1792002970
+    },
+    {
+      "id": "BFMTV_1792001059",
+      "source": "BFMTV",
+      "text": "ITALIE: UN VIADUC LONG DE 1,3 KM DÉTRUIT À L'EXPLOSIF POUR RÉALISER DES TRAVAUX",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:04",
+      "date": "14/10",
+      "timestamp": 1792001059
+    },
+    {
+      "id": "OPEX360_1791999310",
+      "source": "OPEX360",
+      "text": "ARMEMENT TERRESTRE : BERLIN ENVISAGE D’ACQUÉRIR 50 % DU GROUPE FRANCO-ALLEMAND KNDS",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:35",
+      "date": "14/10",
+      "timestamp": 1791999310
+    },
+    {
+      "id": "OPEX360_1791996656",
+      "source": "OPEX360",
+      "text": "ISRAËL CONFIRME LA COMMANDE DE DOUZE HÉLICOPTÈRES D’ATTAQUE AH-64E APACHE/GUARDIAN AUPRÈS DE BOEING",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:50",
+      "date": "14/10",
+      "timestamp": 1791996656
+    },
+    {
+      "id": "BFMTV_1791995960",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE FRAPPE DE DRONE RUSSE FAIT SIX MORTS À LOUTSK",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:39",
+      "date": "14/10",
+      "timestamp": 1791995960
+    },
+    {
+      "id": "BFMTV_1791995600",
+      "source": "BFMTV",
+      "text": "SOUPÇONS D'ESPIONNAGE: LA RUSSIE ANNONCE AVOIR ARRÊTÉ UN JOURNALISTE JAPONAIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:33",
+      "date": "14/10",
+      "timestamp": 1791995600
+    },
+    {
+      "id": "BFMTV_1791991584",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: UNE FEMME S’EST FAITE EMPOISONNER PENDANT 18 MOIS PAR SON COLLÈGUE ET LA JUSTICE ANNULE SA CONDAMNATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:26",
+      "date": "14/10",
+      "timestamp": 1791991584
+    },
     {
       "id": "OPEX360_1791990670",
       "source": "OPEX360",
@@ -11,6 +81,86 @@
       "time": "15:11",
       "date": "14/10",
       "timestamp": 1791990670
+    },
+    {
+      "id": "BFMTV_1791990517",
+      "source": "BFMTV",
+      "text": "INONDATIONS AU NÉPAL: LA CRUE DE LA SEMAINE DERNIÈRE ÉGALEMENT CAUSÉE PAR L'EFFONDREMENT D'UN GLACIER, SELON UNE ÉTUDE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:08",
+      "date": "14/10",
+      "timestamp": 1791990517
+    },
+    {
+      "id": "BFMTV_1791989658",
+      "source": "BFMTV",
+      "text": "LA POLICE TURQUE PREND LE CONTRÔLE DE LA PRINCIPALE CHAÎNE DE TÉLÉVISION PRIVÉE D'OPPOSITION",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:54",
+      "date": "14/10",
+      "timestamp": 1791989658
+    },
+    {
+      "id": "BFMTV_1791983324",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: L'ARMÉE FACE À UN RÉSEAU STARLINK LIMITÉ VOLONTAIREMENT PAR LES AMÉRICAINS ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:08",
+      "date": "14/10",
+      "timestamp": 1791983324
+    },
+    {
+      "id": "BFMTV_1791983222",
+      "source": "BFMTV",
+      "text": "NAVI PILLAY, LAURÉATE DU PRIX NOBEL DE LA PAIX, FUSTIGE LES SANCTIONS \"ILLÉGALES\" DE DONALD TRUMP CONTRE LA COUR PÉNALE INTERNATIONALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:07",
+      "date": "14/10",
+      "timestamp": 1791983222
+    },
+    {
+      "id": "BFMTV_1791982527",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VERS LA FIN DE L'AIDE DU RENSEIGNEMENT AMÉRICAIN?",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:55",
+      "date": "14/10",
+      "timestamp": 1791982527
+    },
+    {
+      "id": "BFMTV_1791978948",
+      "source": "BFMTV",
+      "text": "INDE: DEUX CHEFS DU PARTI DES “CAFARDS” PLACÉS EN DÉTENTION ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:55",
+      "date": "14/10",
+      "timestamp": 1791978948
+    },
+    {
+      "id": "BFMTV_1791976225",
+      "source": "BFMTV",
+      "text": "QUI EST KATIE ZACHARIA, LA NOUVELLE PORTE-PAROLE DE LA MAISON BLANCHE? ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:10",
+      "date": "14/10",
+      "timestamp": 1791976225
+    },
+    {
+      "id": "BFMTV_1791974906",
+      "source": "BFMTV",
+      "text": "\"LA PERSONNE N’EST PAS DÉCÉDÉE\": APRÈS L’EXÉCUTION RATÉE DE CHRISTA PIKE, LES SECOURS ONT CRU À UN CANULAR",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:48",
+      "date": "14/10",
+      "timestamp": 1791974906
     },
     {
       "id": "OPEX360_1791973990",
@@ -851,156 +1001,6 @@
       "time": "04:09",
       "date": "11/10",
       "timestamp": 1791691766
-    },
-    {
-      "id": "BFMTV_1791691398",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DONALD TRUMP APPELLE AU DÉPART DE VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:03",
-      "date": "11/10",
-      "timestamp": 1791691398
-    },
-    {
-      "id": "BFMTV_1791663342",
-      "source": "BFMTV",
-      "text": "TANDIS QUE DONALD TRUMP AFFIRME QUE L'UKRAINE DOIT AVOIR UN NOUVEAU PRÉSIDENT, VOLODYMYR ZELENSKY RENFORCE SES LIENS AVEC LES DIRIGEANTS EUROPÉENS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:15",
-      "date": "10/10",
-      "timestamp": 1791663342
-    },
-    {
-      "id": "BFMTV_1791660041",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QU'\"IL EST TEMPS POUR L'UKRAINE D'AVOIR UN NOUVEAU PRÉSIDENT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:20",
-      "date": "10/10",
-      "timestamp": 1791660041
-    },
-    {
-      "id": "BFMTV_1791659412",
-      "source": "BFMTV",
-      "text": "UN HOMME MEURT APRÈS AVOIR ÉTÉ ATTAQUÉ PAR UN TIGRE DANS UN ZOO BRITANNIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:10",
-      "date": "10/10",
-      "timestamp": 1791659412
-    },
-    {
-      "id": "BFMTV_1791652012",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AFFIRME QU'\"IL EST TEMPS POUR L'UKRAINE D'AVOIR UN NOUVEAU PRÉSIDENT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:06",
-      "date": "10/10",
-      "timestamp": 1791652012
-    },
-    {
-      "id": "BFMTV_1791648921",
-      "source": "BFMTV",
-      "text": "APRÈS SON EXÉCUTION RATÉE, L'AMÉRICAINE CHRISTA PIKE EST SORTIE DE L'HÔPITAL ET A ÉTÉ RAMENÉE EN PRISON",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:15",
-      "date": "10/10",
-      "timestamp": 1791648921
-    },
-    {
-      "id": "BFMTV_1791648074",
-      "source": "BFMTV",
-      "text": "ARABIE SAOUDITE: DES BLESSÉS À L'AÉROPORT DE RYAD APRÈS UN TIR DE MISSILE, PLUSIEURS PAYS RECOMMANDENT À LEURS RESSORTISSANTS DE NE PAS Y VOYAGER",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:01",
-      "date": "10/10",
-      "timestamp": 1791648074
-    },
-    {
-      "id": "BFMTV_1791647971",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: L'OURAGAN ISAIAS FRAPPE LA FLORIDE, PLUSIEURS ÉTATS DÉCLARENT L'ÉTAT D'URGENCE",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:59",
-      "date": "10/10",
-      "timestamp": 1791647971
-    },
-    {
-      "id": "BFMTV_1791646918",
-      "source": "BFMTV",
-      "text": "\"JE NE VEUX PAS QUE CE SOIT PERÇU COMME UN SPECTACLE\": DES SURVIVANTS DE LA FUSILLADE DE FORT HOOD RÉAGISSENT À L'ANNONCE DE L'EXÉCUTION PUBLIQUE DU TIREUR PAR LE PENTAGONE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:41",
-      "date": "10/10",
-      "timestamp": 1791646918
-    },
-    {
-      "id": "BFMTV_1791645877",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN TIREUR FAIT HUIT MORTS DANS UNE MAISON DE PENNSYLVANIE AVANT DE RETOURNER L'ARME CONTRE LUI",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:24",
-      "date": "10/10",
-      "timestamp": 1791645877
-    },
-    {
-      "id": "BFMTV_1791644546",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: L'OURAGAN ISAIAS TOUCHE TERRE EN FLORIDE, PLUSIEURS ÉTATS EN ÉTAT D'URGENCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:02",
-      "date": "10/10",
-      "timestamp": 1791644546
-    },
-    {
-      "id": "OPEX360_1791641864",
-      "source": "OPEX360",
-      "text": "LES ANCIENS HÉLICOPTÈRES NH90 TTH BELGES NE SERONT FINALEMENT PAS RÉCUPÉRÉS PAR L’AVIATION LÉGÈRE DE L’ARMÉE DE TERRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:17",
-      "date": "10/10",
-      "timestamp": 1791641864
-    },
-    {
-      "id": "BFMTV_1791641146",
-      "source": "BFMTV",
-      "text": "\"DU JAMAIS-VU\": LA PRIX NOBEL DE LA PAIX NAVI PILLAY JUGE LES SANCTIONS DES ÉTATS-UNIS CONTRE LA COUR PÉNALE INTERNATIONALE \"INACCEPTABLES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:05",
-      "date": "10/10",
-      "timestamp": 1791641146
-    },
-    {
-      "id": "BFMTV_1791635656",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT PALESTINIEN MAHMOUD ABBAS REPORTE LES ÉLECTIONS LÉGISLATIVES ET PRÉSIDENTIELLES À SEPTEMBRE 2027",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:34",
-      "date": "10/10",
-      "timestamp": 1791635656
-    },
-    {
-      "id": "OPEX360_1791630876",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE CONFIRME L’ARRIVÉE DU RAFALE À DJIBOUTI EN 2027",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:14",
-      "date": "10/10",
-      "timestamp": 1791630876
     }
   ],
   "france": {
