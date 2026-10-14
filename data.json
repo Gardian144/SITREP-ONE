@@ -1,7 +1,27 @@
 {
-  "last_update": "14/10 00:17",
+  "last_update": "14/10 05:11",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791954255",
+      "source": "BFMTV",
+      "text": "13 ENFANTS RETROUVÉS MORTS DANS LE GANGE, EN INDE, APRÈS LE NAUFRAGE DE LEUR BATEAU",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:04",
+      "date": "14/10",
+      "timestamp": 1791954255
+    },
+    {
+      "id": "BFMTV_1791953192",
+      "source": "BFMTV",
+      "text": "DES INFRASTRUCTURES ÉNERGÉTIQUES CLÉS TOUCHÉES PAR DES MISSILES RUSSES À KIEV, AU MOINS TROIS MORTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:46",
+      "date": "14/10",
+      "timestamp": 1791953192
+    },
     {
       "id": "BFMTV_1791928618",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "07:35",
       "date": "10/10",
       "timestamp": 1791617712
-    },
-    {
-      "id": "BFMTV_1791615566",
-      "source": "BFMTV",
-      "text": "LES PREMIERS MOTS DE SOPHIE ADENOT, DEUX JOURS APRÈS SON RETOUR SUR TERRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:59",
-      "date": "10/10",
-      "timestamp": 1791615566
-    },
-    {
-      "id": "BFMTV_1791612862",
-      "source": "BFMTV",
-      "text": "\"UNE FORMIDABLE AVENTURE\": LES PREMIERS MOTS DE SOPHIE ADENOT APRÈS SON RETOUR SUR TERRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:14",
-      "date": "10/10",
-      "timestamp": 1791612862
     }
   ],
   "france": {
