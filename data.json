@@ -1,7 +1,47 @@
 {
-  "last_update": "14/10 19:25",
+  "last_update": "14/10 22:29",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792013198",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AU SUJET DU CANADA: \"ILS FINIRONT PAR DEVENIR LE 51E ÉTAT\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:26",
+      "date": "14/10",
+      "timestamp": 1792013198
+    },
+    {
+      "id": "BFMTV_1792012906",
+      "source": "BFMTV",
+      "text": "\"CE N'EST PAS LE BON CÔTÉ DE L'HISTOIRE\": VOLODYMYR ZELENSKY DIT S'ÊTRE SENTI TRAHI APRÈS LES RÉCENTES ANNONCES DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:21",
+      "date": "14/10",
+      "timestamp": 1792012906
+    },
+    {
+      "id": "BFMTV_1792008697",
+      "source": "BFMTV",
+      "text": "DÉFENSE AÉRIENNE: LES PAYS DE L'OTAN \"DOIVENT EN FAIRE PLUS\" POUR AIDER L'UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:11",
+      "date": "14/10",
+      "timestamp": 1792008697
+    },
+    {
+      "id": "BFMTV_1792008282",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY \"COMPTE SUR LE PARTENARIAT\" AVEC LES ÉTATS-UNIS, APRÈS \"CERTAINES DIFFICULTÉS\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:04",
+      "date": "14/10",
+      "timestamp": 1792008282
+    },
     {
       "id": "BFMTV_1792002970",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "09:53",
       "date": "11/10",
       "timestamp": 1791712427
-    },
-    {
-      "id": "BFMTV_1791711254",
-      "source": "BFMTV",
-      "text": "NÉPAL: LA RÉGION DE GORKHA TOUCHÉE PAR UNE CRUE ÉCLAIR, MOINS DE DEUX MOIS APRÈS LES INONDATIONS MEURTRIÈRES DANS LE PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:34",
-      "date": "11/10",
-      "timestamp": 1791711254
-    },
-    {
-      "id": "BFMTV_1791703953",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY LÂCHÉ PAR DONALD TRUMP DANS UNE PÉRIODE DÉLICATE SUR LE TERRAIN ",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:32",
-      "date": "11/10",
-      "timestamp": 1791703953
-    },
-    {
-      "id": "BFMTV_1791702895",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN HOMME ÉCHAPPE DE JUSTESSE À UNE FRAPPE DE DRONE RUSSE PRÈS DE KIEV",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:14",
-      "date": "11/10",
-      "timestamp": 1791702895
-    },
-    {
-      "id": "BFMTV_1791691766",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DONALD TRUMP AFFIRME QUE VLADIMIR POUTINE \"AIMERAIT VOIR UN RÈGLEMENT\" DU CONFLIT ET S'EN PREND À VOLODYMYR ZELENSKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:09",
-      "date": "11/10",
-      "timestamp": 1791691766
     }
   ],
   "france": {
