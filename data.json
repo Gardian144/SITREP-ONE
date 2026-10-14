@@ -1,7 +1,87 @@
 {
-  "last_update": "14/10 05:11",
+  "last_update": "14/10 10:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1791972380",
+      "source": "BFMTV",
+      "text": "TRENTE ANS APRÈS LE MEURTRE DE TUPAC, UN EX-MEMBRE DE GANG A ÉTÉ CONDAMNÉ À 40 ANS DE PRISON MINIMUM",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:06",
+      "date": "14/10",
+      "timestamp": 1791972380
+    },
+    {
+      "id": "BFMTV_1791972017",
+      "source": "BFMTV",
+      "text": "\"QUELLE EST LA POSITION DU GOUVERNEMENT?\": LE RENVOI DE L'AMBASSADRICE AMÉRICAINE EN GRÈCE AU CENTRE D'UNE CONFRONTATION POLITIQUE À ATHÈNES",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:00",
+      "date": "14/10",
+      "timestamp": 1791972017
+    },
+    {
+      "id": "BFMTV_1791967960",
+      "source": "BFMTV",
+      "text": "DES INFRASTRUCTURES ÉNERGÉTIQUES CLÉS TOUCHÉES PAR DES MISSILES RUSSES À KIEV, AU MOINS SIX MORTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:52",
+      "date": "14/10",
+      "timestamp": 1791967960
+    },
+    {
+      "id": "BFMTV_1791967244",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: APRÈS DES FRAPPES MASSIVES SUR DES INFRASTRUCTURES ÉNERGÉTIQUES, VOLODYMYR ZELENSKY DÉNONCE LE \"MÉPRIS OSTENTATOIRE\" DE LA RUSSIE ENVERS LES ÉTATS-UNIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:40",
+      "date": "14/10",
+      "timestamp": 1791967244
+    },
+    {
+      "id": "BFMTV_1791966779",
+      "source": "BFMTV",
+      "text": "LA POLICE TURQUE PREND LE CONTRÔLE DU SIÈGE DE LA PRINCIPALE CHAÎNE DE TÉLÉVISION D'OPPOSITION DU PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:32",
+      "date": "14/10",
+      "timestamp": 1791966779
+    },
+    {
+      "id": "BFMTV_1791959834",
+      "source": "BFMTV",
+      "text": "LE NODULE RETIRÉ AU POUMON DU PAPE LÉON XIV ÉTAIT CANCÉREUX",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:37",
+      "date": "14/10",
+      "timestamp": 1791959834
+    },
+    {
+      "id": "BFMTV_1791959416",
+      "source": "BFMTV",
+      "text": "DES INFRASTRUCTURES ÉNERGÉTIQUES CLÉS TOUCHÉES PAR DES MISSILES RUSSES À KIEV, AU MOINS SIX MORTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:30",
+      "date": "14/10",
+      "timestamp": 1791959416
+    },
+    {
+      "id": "BFMTV_1791957764",
+      "source": "BFMTV",
+      "text": "UN JUGE FÉDÉRAL GARANTIT TEMPORAIREMENT À CNN, MS NOW ET POLITICO LEUR ACCÈS À LA MAISON BLANCHE APRÈS LEUR EXCLUSION PAR DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:02",
+      "date": "14/10",
+      "timestamp": 1791957764
+    },
     {
       "id": "BFMTV_1791954255",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "09:49",
       "date": "10/10",
       "timestamp": 1791625741
-    },
-    {
-      "id": "BFMTV_1791625619",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VLADIMIR POUTINE A REÇU \"AVEC COMPRÉHENSION\" DES PROPOSITIONS DE DONALD TRUMP VISANT À UNE \"DÉSESCALADE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:46",
-      "date": "10/10",
-      "timestamp": 1791625619
-    },
-    {
-      "id": "BFMTV_1791622381",
-      "source": "BFMTV",
-      "text": "ENGAGÉE CONTRE L'AVORTEMENT, HABITUÉE DE FOX NEWS... QUI EST LA NOUVELLE PORTE-PAROLE DE LA MAISON BLANCHE, KATIE ZACHARIA?",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:53",
-      "date": "10/10",
-      "timestamp": 1791622381
-    },
-    {
-      "id": "BFMTV_1791621318",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:35",
-      "date": "10/10",
-      "timestamp": 1791621318
-    },
-    {
-      "id": "BFMTV_1791621318",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:35",
-      "date": "10/10",
-      "timestamp": 1791621318
-    },
-    {
-      "id": "BFMTV_1791621318",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:35",
-      "date": "10/10",
-      "timestamp": 1791621318
-    },
-    {
-      "id": "BFMTV_1791618849",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS SEPT MORTS DONT TROIS ENFANTS DANS DES FRAPPES RUSSES SUR ZAPORIJIA",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:54",
-      "date": "10/10",
-      "timestamp": 1791618849
-    },
-    {
-      "id": "BFMTV_1791618480",
-      "source": "BFMTV",
-      "text": "13 MORTS, 30 BLESSÉS DONT UNE MAJORITÉ DE SOLDATS AMÉRICAINS: L'ITINÉRAIRE MEURTRIER DE NIDAL HASAN, DONT LE PENTAGONE VEUT DIFFUSER EN DIRECT LA MISE À MORT PAR UN PELOTON D'EXÉCUTION AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:48",
-      "date": "10/10",
-      "timestamp": 1791618480
-    },
-    {
-      "id": "BFMTV_1791617712",
-      "source": "BFMTV",
-      "text": "LE RETOUR PLEIN D'ÉMOTION DE L'ASTRONAUTE SOPHIE ADENOT",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:35",
-      "date": "10/10",
-      "timestamp": 1791617712
     }
   ],
   "france": {
