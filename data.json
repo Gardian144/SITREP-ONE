@@ -1,7 +1,27 @@
 {
-  "last_update": "14/10 10:14",
+  "last_update": "14/10 15:11",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1791990670",
+      "source": "OPEX360",
+      "text": "L’AMIRAL CLUZEL NE VOIT PAS DE PROBLÈME AVEC LES CATAPULTES ÉLECTROMAGNÉTIQUES AMÉRICAINES DU FUTUR PORTE-AVIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:11",
+      "date": "14/10",
+      "timestamp": 1791990670
+    },
+    {
+      "id": "OPEX360_1791973990",
+      "source": "OPEX360",
+      "text": "LA FRANCE ET LE TCHAD SIGNENT UNE LETTRE D’INTENTION POUR RÉTABLIR LEUR COOPÉRATION EN MATIÈRE DE DÉFENSE",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:33",
+      "date": "14/10",
+      "timestamp": 1791973990
+    },
     {
       "id": "BFMTV_1791972380",
       "source": "BFMTV",
@@ -97,6 +117,26 @@
       "source": "BFMTV",
       "text": "DES INFRASTRUCTURES ÉNERGÉTIQUES CLÉS TOUCHÉES PAR DES MISSILES RUSSES À KIEV, AU MOINS TROIS MORTS",
       "urgent": true,
+      "france_related": false,
+      "time": "04:46",
+      "date": "14/10",
+      "timestamp": 1791953192
+    },
+    {
+      "id": "BFMTV_1791953192",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:46",
+      "date": "14/10",
+      "timestamp": 1791953192
+    },
+    {
+      "id": "BFMTV_1791953192",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
       "france_related": false,
       "time": "04:46",
       "date": "14/10",
@@ -961,46 +1001,6 @@
       "time": "11:14",
       "date": "10/10",
       "timestamp": 1791630876
-    },
-    {
-      "id": "BFMTV_1791629476",
-      "source": "BFMTV",
-      "text": "CHILI: UNE IMPRESSIONNANTE COULÉE DE BOUE À SANTIAGO FAIT AU MOINS SIX BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:51",
-      "date": "10/10",
-      "timestamp": 1791629476
-    },
-    {
-      "id": "BFMTV_1791628352",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LES DRONES TERRESTRES EN PREMIÈRE LIGNE SUR LE FRONT ",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:32",
-      "date": "10/10",
-      "timestamp": 1791628352
-    },
-    {
-      "id": "OPEX360_1791626822",
-      "source": "OPEX360",
-      "text": "SCAF : LA FRANCE, L’ALLEMAGNE ET L’ESPAGNE ONT VALIDÉ LA REVUE DE CONCEPTION INITIALE D’UN EFFECTEUR DÉPORTÉ DÉVELOPPÉ PAR MBDA",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:07",
-      "date": "10/10",
-      "timestamp": 1791626822
-    },
-    {
-      "id": "BFMTV_1791625741",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS 11 MORTS DONT TROIS ENFANTS DANS DES FRAPPES RUSSES SUR ZAPORIJIA",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:49",
-      "date": "10/10",
-      "timestamp": 1791625741
     }
   ],
   "france": {
