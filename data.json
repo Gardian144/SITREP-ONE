@@ -1,7 +1,67 @@
 {
-  "last_update": "15/10 15:12",
+  "last_update": "15/10 19:10",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1792086175",
+      "source": "OPEX360",
+      "text": "LA FRANCE N’A PAS L’INTENTION DE NOUER DES COOPÉRATIONS «STRUCTURELLES» POUR DÉVELOPPER SON «AVION DE COMBAT DU FUTUR»",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:42",
+      "date": "15/10",
+      "timestamp": 1792086175
+    },
+    {
+      "id": "OPEX360_1792082475",
+      "source": "OPEX360",
+      "text": "LE GÉNÉRAL BELLANGER S’INQUIÈTE DE L’ÉVOLUTION DES CAPACITÉS AÉRIENNES RUSSES, NOTAMMENT DANS LE DOMAINE DES DRONES D’ATTAQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:41",
+      "date": "15/10",
+      "timestamp": 1792082475
+    },
+    {
+      "id": "BFMTV_1792082063",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP RENONCE À DIFFUSER UNE EXÉCUTION MILITAIRE: PETE HEGSETH DÉSAVOUÉ ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:34",
+      "date": "15/10",
+      "timestamp": 1792082063
+    },
+    {
+      "id": "BFMTV_1792081508",
+      "source": "BFMTV",
+      "text": "POURQUOI DONALD TRUMP VEUT LÂCHER L'UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:25",
+      "date": "15/10",
+      "timestamp": 1792081508
+    },
+    {
+      "id": "BFMTV_1792081190",
+      "source": "BFMTV",
+      "text": "EXÉCUTION EN DIRECT: \"DONALD TRUMP A FAIT MARCHE ARRIÈRE, SOUS LA PRESSION DE L'OPINION PUBLIQUE\", EXPLIQUE ANTOINE HEULARD, CORRESPONDANT BFMTV",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:19",
+      "date": "15/10",
+      "timestamp": 1792081190
+    },
+    {
+      "id": "BFMTV_1792079025",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: EN FLORIDE, UNE VOITURE FONCE DANS UN SALON DE COIFFURE PAR ACCIDENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:43",
+      "date": "15/10",
+      "timestamp": 1792079025
+    },
     {
       "id": "BFMTV_1792076370",
       "source": "BFMTV",
@@ -26,6 +86,16 @@
       "id": "OPEX360_1792074848",
       "source": "OPEX360",
       "text": "L’ARMÉE DE L’AIR & DE L’ESPACE VA DOTER SON ESCADRON DE DRONES DE BOMBARDEMENT DE MUNITIONS TÉLÉOPÉRÉES «DÉLUGE»",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:34",
+      "date": "15/10",
+      "timestamp": 1792074848
+    },
+    {
+      "id": "OPEX360_1792074848",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE VA DOTER DE MUNITIONS TÉLÉOPÉRÉES «DÉLUGE» SON ESCADRON DE DRONES DE BOMBARDEMENT",
       "urgent": true,
       "france_related": false,
       "time": "14:34",
@@ -931,76 +1001,6 @@
       "time": "14:50",
       "date": "12/10",
       "timestamp": 1791816622
-    },
-    {
-      "id": "OPEX360_1791816026",
-      "source": "OPEX360",
-      "text": "L’AMÉRICAIN ANDURIL PRÉSENTE UNE NOUVELLE GAMME DE MISSILES DE DÉFENSE AÉRIENNE MODULAIRES ET PEU COÛTEUX",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:40",
-      "date": "12/10",
-      "timestamp": 1791816026
-    },
-    {
-      "id": "BFMTV_1791811163",
-      "source": "BFMTV",
-      "text": "ARABIE SAOUDITE: AU MOINS 14 MORTS DANS LES ATTAQUES DE L'AÉROPORT DE RYAD",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:19",
-      "date": "12/10",
-      "timestamp": 1791811163
-    },
-    {
-      "id": "BFMTV_1791810296",
-      "source": "BFMTV",
-      "text": "L'OTAN FERA EN SORTE QUE TOUTE ATTAQUE CONTRE SES MEMBRES SOIT \"TOTALEMENT VAINE\", PRÉVIENT LE CHEF MILITAIRE DE L'ALLIANCE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:04",
-      "date": "12/10",
-      "timestamp": 1791810296
-    },
-    {
-      "id": "BFMTV_1791804094",
-      "source": "BFMTV",
-      "text": "PRÈS DE 70 COUREURS ET BÉNÉVOLES ÉVACUÉS APRÈS AVOIR ÉTÉ BLOQUÉS PAR DE FORTES PLUIES À L'ULTRAMARATHON MOAB 240",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:21",
-      "date": "12/10",
-      "timestamp": 1791804094
-    },
-    {
-      "id": "OPEX360_1791801910",
-      "source": "OPEX360",
-      "text": "LA BELGIQUE SE JOINT À L’ESPAGNE ET L’ALLEMAGNE POUR AUTOMATISER LE RAVITAILLEMENT EN VOL",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:45",
-      "date": "12/10",
-      "timestamp": 1791801910
-    },
-    {
-      "id": "BFMTV_1791798804",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY ASSURE QUE L'UKRAINE \"RÉPONDRA\" SI LA RUSSIE NE RESPECTE PAS UNE TRÊVE ÉNERGÉTIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:53",
-      "date": "12/10",
-      "timestamp": 1791798804
-    },
-    {
-      "id": "BFMTV_1791798321",
-      "source": "BFMTV",
-      "text": "TEMPÊTE RACHEL: LES IMAGES DES VAGUES IMPRESSIONNANTES À LONG BEACH, EN CALIFORNIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:45",
-      "date": "12/10",
-      "timestamp": 1791798321
     }
   ],
   "france": {
