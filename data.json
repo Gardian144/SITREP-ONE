@@ -1,7 +1,137 @@
 {
-  "last_update": "16/10 05:01",
+  "last_update": "16/10 09:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792143436",
+      "source": "BFMTV",
+      "text": "ASIE DU SUD-EST: UNE FUMÉE TOXIQUE LIÉE AUX INCENDIES EN INDONÉSIE FRAPPE PLUSIEURS PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:37",
+      "date": "16/10",
+      "timestamp": 1792143436
+    },
+    {
+      "id": "BFMTV_1792142968",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: L'EUROPE N'A PAS \"LA CAPACITÉ\" DE REMPLACER STARLINK \"À COURT TERME\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:29",
+      "date": "16/10",
+      "timestamp": 1792142968
+    },
+    {
+      "id": "BFMTV_1792141882",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY SALUÉ PAR LES CHEFS D'ÉTAT AU SOMMET EUROPÉEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:11",
+      "date": "16/10",
+      "timestamp": 1792141882
+    },
+    {
+      "id": "BFMTV_1792140898",
+      "source": "BFMTV",
+      "text": "AIDES À L'UKRAINE : \"CE QUI EST PRIORITAIRE, C'EST LE PEUPLE FRANÇAIS, [...] ON A DÉJÀ DONNÉ BEAUCOUP D'ARGENT\", DÉFEND LAURE LAVALETTE (RN)  ",
+      "urgent": false,
+      "france_related": true,
+      "time": "08:54",
+      "date": "16/10",
+      "timestamp": 1792140898
+    },
+    {
+      "id": "BFMTV_1792138609",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT DU CONSEIL EUROPÉEN RÉAFFIRME LE SOUTIEN DE L'UE À L'UKRAINE, \"CE N'EST PAS LE MOMENT D'ALLÉGER LES SANCTIONS CONTRE LA RUSSIE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:16",
+      "date": "16/10",
+      "timestamp": 1792138609
+    },
+    {
+      "id": "BFMTV_1792137960",
+      "source": "BFMTV",
+      "text": "\"ILS N’ONT MÊME PAS DE TOILETTES DÉCENTES\": LA NOUVELLE PORTE-PAROLE DE LA MAISON BLANCHE KATIE ZACHARIA TACLE LA CHINE LORS D'UNE INTERVIEW TÉLÉVISÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:06",
+      "date": "16/10",
+      "timestamp": 1792137960
+    },
+    {
+      "id": "BFMTV_1792137928",
+      "source": "BFMTV",
+      "text": "ACCORDS D'IMPORTATION AVEC L'UKRAINE: \"NOUS AVONS BESOIN DE RÉAFFIRMER UNE VISION DE L'AGRICULTURE\", AFFIRME ARNAUD ROUSSEAU, PRÉSIDENT DE LA FNSEA",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:05",
+      "date": "16/10",
+      "timestamp": 1792137928
+    },
+    {
+      "id": "BFMTV_1792137685",
+      "source": "BFMTV",
+      "text": "BIODIVERSITÉ: \"SUBVENTIONNER LES ÉNERGIES FOSSILES\" C'EST \"SUBVENTIONNER LE SUICIDE\", AFFIRME LE CHEF DE L'ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:01",
+      "date": "16/10",
+      "timestamp": 1792137685
+    },
+    {
+      "id": "BFMTV_1792136929",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY ATTEND DES DISCUSSIONS AVEC L'UE SUR LA \"DÉFENSE AÉRIENNE ET DES FINANCEMENTS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:48",
+      "date": "16/10",
+      "timestamp": 1792136929
+    },
+    {
+      "id": "BFMTV_1792136819",
+      "source": "BFMTV",
+      "text": "URSULA VON DER LEYEN: \"AUCUNE SANCTION NE SERA LEVÉE TANT QUE LA RUSSIE N'AURA PAS MIS FIN À LA GUERRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:46",
+      "date": "16/10",
+      "timestamp": 1792136819
+    },
+    {
+      "id": "BFMTV_1792136400",
+      "source": "BFMTV",
+      "text": "\"CE N'EST PAS LE MOMENT DE RETIRER LE SOUTIEN À L'UKRAINE\", CLAME LE PRÉSIDENT DU CONSEIL EUROPÉEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:40",
+      "date": "16/10",
+      "timestamp": 1792136400
+    },
+    {
+      "id": "BFMTV_1792132608",
+      "source": "BFMTV",
+      "text": "SECOUÉ PAR DONALD TRUMP, VOLODYMYR ZELENSKY CHERCHE LE SOUTIEN RENFORCÉ DES EUROPÉENS À BRUXELLES",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:36",
+      "date": "16/10",
+      "timestamp": 1792132608
+    },
+    {
+      "id": "BFMTV_1792130907",
+      "source": "BFMTV",
+      "text": "\"ELLE PEUT VOLER COMME UNE FUSÉE\": ELON MUSK DÉVOILE UNE TESLA DOTÉE DE PROPULSEURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:08",
+      "date": "16/10",
+      "timestamp": 1792130907
+    },
     {
       "id": "BFMTV_1792126512",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "10:48",
       "date": "13/10",
       "timestamp": 1791888537
-    },
-    {
-      "id": "BFMTV_1791887478",
-      "source": "BFMTV",
-      "text": "UN HOMME EST MORT DANS LE PARC SIX FLAGS OVER GEORGIA, AUX ÉTATS-UNIS, ENTRAÎNANT LA FERMETURE TEMPORAIRE DE PLUSIEURS MONTAGNES RUSSES DANS SIX PARCS DU GROUPE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:31",
-      "date": "13/10",
-      "timestamp": 1791887478
-    },
-    {
-      "id": "BFMTV_1791886435",
-      "source": "BFMTV",
-      "text": "UNE MANIFESTANTE AGRESSÉE LORS D'UN MEETING DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:13",
-      "date": "13/10",
-      "timestamp": 1791886435
-    },
-    {
-      "id": "BFMTV_1791882848",
-      "source": "BFMTV",
-      "text": "UN HOMME FAIT UNE CHUTE MORTELLE LORS D'UN TOUR GRAND HUIT DANS UN PARC D'ATTRACTIONS DANS LE SUD DES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:14",
-      "date": "13/10",
-      "timestamp": 1791882848
-    },
-    {
-      "id": "BFMTV_1791881221",
-      "source": "BFMTV",
-      "text": "GRETA THUNBERG",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:47",
-      "date": "13/10",
-      "timestamp": 1791881221
-    },
-    {
-      "id": "BFMTV_1791880876",
-      "source": "BFMTV",
-      "text": "UNE MANIFESTANTE AGRESSÉE LORS DU DISCOURS DE DONALD TRUMP DANS L'OHIO, LE PRÉSIDENT AMÉRICAIN LUI CONSEILLE DE \"FAIRE UN RÉGIME\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:41",
-      "date": "13/10",
-      "timestamp": 1791880876
-    },
-    {
-      "id": "BFMTV_1791876199",
-      "source": "BFMTV",
-      "text": "DEUX NOUVEAUX NAVIRES FRAPPÉS EN MER NOIRE PRÈS DES CÔTES BULGARES, SOFIA CONVOQUE L'AMBASSADRICE DE RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:23",
-      "date": "13/10",
-      "timestamp": 1791876199
-    },
-    {
-      "id": "BFMTV_1791874954",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:02",
-      "date": "13/10",
-      "timestamp": 1791874954
-    },
-    {
-      "id": "BFMTV_1791868567",
-      "source": "BFMTV",
-      "text": "INCIDENT PRÈS D'UNE BASE MILITAIRE AU ROYAUME-UNI: LE PREMIER MINISTRE BRITANNIQUE AVANCE QUE L’OPÉRATION EST \"PRESQUE CERTAINEMENT DIRIGÉ\" PAR L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:16",
-      "date": "13/10",
-      "timestamp": 1791868567
-    },
-    {
-      "id": "BFMTV_1791867336",
-      "source": "BFMTV",
-      "text": "CINQ PERSONNES TUÉES APRÈS LE PASSAGE DE LA TEMPÊTE RACHEL ET DE L'OURAGAN SIMON",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:55",
-      "date": "13/10",
-      "timestamp": 1791867336
-    },
-    {
-      "id": "BFMTV_1791866835",
-      "source": "BFMTV",
-      "text": "\"CE N'EST PAS UN ACCIDENT\": DES AGENTS DE L'ICE ACCUSÉS D'AVOIR VOLONTAIREMENT RENVERSÉ UN OUVRIER MEXICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:47",
-      "date": "13/10",
-      "timestamp": 1791866835
-    },
-    {
-      "id": "BFMTV_1791842535",
-      "source": "BFMTV",
-      "text": "RJ MITTE, ACTEUR CONNU POUR AVOIR JOUÉ DANS LA SÉRIE \"BREAKING BAD\", EST MORT À L'ÂGE DE 34 ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:02",
-      "date": "12/10",
-      "timestamp": 1791842535
-    },
-    {
-      "id": "BFMTV_1791840460",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"JE PENSE QUE POUTINE VEUT CONCLURE UN ACCORD PLUS QUE ZELENSKY\", DÉCLARE DONALD TRUMP",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:27",
-      "date": "12/10",
-      "timestamp": 1791840460
-    },
-    {
-      "id": "BFMTV_1791833248",
-      "source": "BFMTV",
-      "text": "RELATIONS UE/ROYAUME-UNI: \"S'EN TENIR AU STATU QUO N'EST PAS SUFFISANT\", AFFIRME ANDY BURNHAM",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:27",
-      "date": "12/10",
-      "timestamp": 1791833248
     }
   ],
   "france": {
