@@ -1,7 +1,127 @@
 {
-  "last_update": "16/10 09:48",
+  "last_update": "16/10 14:32",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792160954",
+      "source": "BFMTV",
+      "text": "LES IMAGES IMPRESSIONNANTES DES INCENDIES QUI FONT RAGE DANS LE SUD DE LA CALIFORNIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:29",
+      "date": "16/10",
+      "timestamp": 1792160954
+    },
+    {
+      "id": "BFMTV_1792159596",
+      "source": "BFMTV",
+      "text": "ROYAUME-UNI: LES LUNETTES CONNECTÉES BIENTÔT INTERDITES AU PARLEMENT BRITANNIQUE ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:06",
+      "date": "16/10",
+      "timestamp": 1792159596
+    },
+    {
+      "id": "BFMTV_1792158177",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY BOUC ÉMISSAIRE DE DONALD TRUMP ? LA RÉPONSE DU PRÉSIDENT UKRAINIEN FAIT RIRE LA SALLE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:42",
+      "date": "16/10",
+      "timestamp": 1792158177
+    },
+    {
+      "id": "BFMTV_1792157872",
+      "source": "BFMTV",
+      "text": "DU FENTANYL DONNÉ À LA PLACE DE COCAÏNE: UNE ÉTUDIANTE NEW-YORKAISE MEURT APRÈS AVOIR ÉTÉ DROGUÉE ET VIOLÉE DANS SON DORTOIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:37",
+      "date": "16/10",
+      "timestamp": 1792157872
+    },
+    {
+      "id": "BFMTV_1792157052",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:24",
+      "date": "16/10",
+      "timestamp": 1792157052
+    },
+    {
+      "id": "BFMTV_1792153915",
+      "source": "BFMTV",
+      "text": "UKRAINE: UNE RENCONTRE POSSIBLE \"DANS LES PROCHAINS JOURS\" AVEC LES ÉTATS-UNIS AFFIRME VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:31",
+      "date": "16/10",
+      "timestamp": 1792153915
+    },
+    {
+      "id": "BFMTV_1792153278",
+      "source": "BFMTV",
+      "text": "RUSSIE: \"S'IL N'Y A PAS DE CESSEZ-LE-FEU ÉNERGÉTIQUE, DONNEZ-NOUS DES MISSILES ANTIBALISTIQUES\", LANCE VOLODYMYR ZELENSKY AUX AMÉRICAINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:21",
+      "date": "16/10",
+      "timestamp": 1792153278
+    },
+    {
+      "id": "BFMTV_1792153088",
+      "source": "BFMTV",
+      "text": "LES CAPACITÉS DE CONNEXION DE STARLINK EN UKRAINE PAS ENTIÈREMENT RÉTABLIES, AFFIRME VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:18",
+      "date": "16/10",
+      "timestamp": 1792153088
+    },
+    {
+      "id": "BFMTV_1792151713",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY COMPTE SUR L'EUROPE POUR COUVRIR LES BESOINS EN \"INTERCEPTEURS\" POUR L'HIVER",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:55",
+      "date": "16/10",
+      "timestamp": 1792151713
+    },
+    {
+      "id": "BFMTV_1792149700",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: L'AIDE À KIEV REPRÉSENTE-T-ELLE \"UNE BIÈRE PAR AN\" AUX EUROPÉENS?",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:21",
+      "date": "16/10",
+      "timestamp": 1792149700
+    },
+    {
+      "id": "BFMTV_1792148373",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: CE QUE L'ON SAIT DE LA FUSILLADE QUI A FAIT QUATRE MORTS, DONT TROIS ENFANTS, DANS UNE ÉCOLE PRIMAIRE DE L'OREGON",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:59",
+      "date": "16/10",
+      "timestamp": 1792148373
+    },
+    {
+      "id": "OPEX360_1792146797",
+      "source": "OPEX360",
+      "text": "MER ROUGE : UNE FRÉGATE FRANÇAISE A ABATTU UN DRONE JUGÉ MENAÇANT POUR LE PORTE-CONTENEURS CHAMPS-ÉLYSÉES",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:33",
+      "date": "16/10",
+      "timestamp": 1792146797
+    },
     {
       "id": "BFMTV_1792143436",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "04:46",
       "date": "14/10",
       "timestamp": 1791953192
-    },
-    {
-      "id": "BFMTV_1791928618",
-      "source": "BFMTV",
-      "text": "CONVALESCENCE DU PAPE LÉON XIV: COMMENT LE VATICAN S'ORGANISE ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:56",
-      "date": "13/10",
-      "timestamp": 1791928618
-    },
-    {
-      "id": "BFMTV_1791928525",
-      "source": "BFMTV",
-      "text": "SANTÉ DU PAPE LÉON XIV: LE VATICAN SOIGNE SA COMMUNICATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:55",
-      "date": "13/10",
-      "timestamp": 1791928525
-    },
-    {
-      "id": "OPEX360_1791912650",
-      "source": "OPEX360",
-      "text": "L’ARMÉE DE L’AIR & DE L’ESPACE SE PRÉPARE À UNE POSSIBLE ATTAQUE CHIMIQUE MENÉE PAR DES DRONES",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:30",
-      "date": "13/10",
-      "timestamp": 1791912650
-    },
-    {
-      "id": "BFMTV_1791910453",
-      "source": "BFMTV",
-      "text": "PUNAISES DE LIT: DES PASSAGERS D'UN AVION PIQUÉS EN PLEIN VOL",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:54",
-      "date": "13/10",
-      "timestamp": 1791910453
-    },
-    {
-      "id": "OPEX360_1791909341",
-      "source": "OPEX360",
-      "text": "LE FRANÇAIS DRONE VOLT PRÉSENTE LE NOUVEAU DRONE LOGISTIQUE HERCULES 100, CAPABLE DE TRANSPORTER UNE CHARGE DE 100 KG",
-      "urgent": true,
-      "france_related": true,
-      "time": "16:35",
-      "date": "13/10",
-      "timestamp": 1791909341
-    },
-    {
-      "id": "BFMTV_1791907701",
-      "source": "BFMTV",
-      "text": "ALLEMAGNE: UN ROBOT ARRÊTÉ APRÈS UNE AGRESSION SEXUELLE PRÉSUMÉE SUR UNE ADOLESCENTE DE 16 ANS",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:08",
-      "date": "13/10",
-      "timestamp": 1791907701
-    },
-    {
-      "id": "BFMTV_1791903410",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DEMANDE LA DÉMISSION DE L'AMBASSADRICE DES ÉTATS-UNIS EN GRÈCE VISÉE PAR DES RÉVÉLATIONS EMBARRASSANTES",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:56",
-      "date": "13/10",
-      "timestamp": 1791903410
-    },
-    {
-      "id": "OPEX360_1791900386",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES A COMMANDÉ UN NOUVEAU LOT DE MUNITIONS TÉLÉOPÉRÉES DAMOCLES AUPRÈS DE KNDS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:06",
-      "date": "13/10",
-      "timestamp": 1791900386
-    },
-    {
-      "id": "BFMTV_1791899837",
-      "source": "BFMTV",
-      "text": "UN POLICIER TUÉ À BRUXELLES LORS D'UNE INTERVENTION LIÉE À UN VOL DE VOITURE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:57",
-      "date": "13/10",
-      "timestamp": 1791899837
-    },
-    {
-      "id": "BFMTV_1791897888",
-      "source": "BFMTV",
-      "text": "\"NOUS L'ATTENDIONS DEPUIS LONGTEMPS\": LE ROI D'ESPAGNE ACCUEILLI À CEUTA PAR UNE FOULE ENTHOUSIASTE POUR UNE VISITE DIPLOMATIQUEMENT SENSIBLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:24",
-      "date": "13/10",
-      "timestamp": 1791897888
-    },
-    {
-      "id": "BFMTV_1791890271",
-      "source": "BFMTV",
-      "text": "L'ARRIVÉE DU PAPE LÉON XIV À L'HÔPITAL GEMELLI DE ROME OÙ IL DOIT ÊTRE OPÉRÉ D'UN NODULE PULMONAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:17",
-      "date": "13/10",
-      "timestamp": 1791890271
-    },
-    {
-      "id": "OPEX360_1791888537",
-      "source": "OPEX360",
-      "text": "«FLOTTE FANTÔME» RUSSE : LA MARINE NATIONALE A ARRAISONNÉ LE PÉTROLIER DF PEAK À 450 NAUTIQUES DE LA RÉUNION",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:48",
-      "date": "13/10",
-      "timestamp": 1791888537
     }
   ],
   "france": {
