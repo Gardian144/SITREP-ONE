@@ -1,11 +1,21 @@
 {
-  "last_update": "15/10 22:18",
+  "last_update": "16/10 00:34",
   "impacts": [],
   "news": [
     {
       "id": "BFMTV_1792100770",
       "source": "BFMTV",
       "text": "UN TIREUR FAIT \"PLUSIEURS VICTIMES\" DANS UNE ÉCOLE PRIMAIRE DE L'OREGON AUX ÉTATS-UNIS, L'AUTEUR DE LA FUSILLADE \"ABATTU\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:46",
+      "date": "15/10",
+      "timestamp": 1792100770
+    },
+    {
+      "id": "BFMTV_1792100770",
+      "source": "BFMTV",
+      "text": "AU MOINS QUATRE PERSONNES TUÉES, DONT TROIS ENFANTS, DANS UNE ÉCOLE PRIMAIRE DE L'OREGON AUX ÉTATS-UNIS APRÈS UNE FUSILLADE",
       "urgent": false,
       "france_related": false,
       "time": "21:46",
@@ -991,16 +1001,6 @@
       "time": "17:26",
       "date": "12/10",
       "timestamp": 1791826001
-    },
-    {
-      "id": "OPEX360_1791822002",
-      "source": "OPEX360",
-      "text": "AIRBUS A FAIT VOLER LA VERSION EUROPÉENNE DU DRONE DE COMBAT COLLABORATIF VALKYRIE POUR LA PREMIÈRE FOIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:20",
-      "date": "12/10",
-      "timestamp": 1791822002
     }
   ],
   "france": {
