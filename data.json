@@ -1,7 +1,87 @@
 {
-  "last_update": "16/10 18:22",
+  "last_update": "16/10 21:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792184636",
+      "source": "BFMTV",
+      "text": "LE MEETING DE DONALD TRUMP EN GÉORGIE INTERROMPU PAR DES MANIFESTANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:03",
+      "date": "16/10",
+      "timestamp": 1792184636
+    },
+    {
+      "id": "BFMTV_1792179797",
+      "source": "BFMTV",
+      "text": "\"JE VEUX JUSTE QU'ELLE SOIT HEUREUSE\": DONALD TRUMP INVITE SA NOUVELLE PORTE-PAROLE À \"RECONSIDÉRER\" SON AVENIR À CE POSTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:43",
+      "date": "16/10",
+      "timestamp": 1792179797
+    },
+    {
+      "id": "BFMTV_1792179600",
+      "source": "BFMTV",
+      "text": "UN HAUT RESPONSABLE AMÉRICAIN CONFIRME LE DÉPART DE KATIE ZACHARIA, NOMMÉE PORTE-PAROLE DE DONALD TRUMP DEPUIS SEULEMENT UNE SEMAINE",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:40",
+      "date": "16/10",
+      "timestamp": 1792179600
+    },
+    {
+      "id": "BFMTV_1792178425",
+      "source": "BFMTV",
+      "text": "L'UE PRÉPARE DES MESURES POUR PROTÉGER \"RAPIDEMENT\" SON MARCHÉ EN CAS DE CONFLIT COMMERCIAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:20",
+      "date": "16/10",
+      "timestamp": 1792178425
+    },
+    {
+      "id": "BFMTV_1792178384",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LA POLICE SUIT LA PISTE D’UN POTENTIEL TUEUR EN SÉRIE APRÈS LA MORT DE CINQ HOMMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:19",
+      "date": "16/10",
+      "timestamp": 1792178384
+    },
+    {
+      "id": "BFMTV_1792177140",
+      "source": "BFMTV",
+      "text": "URSULA VON DER LEYEN CONFIRME LE TROU DE 70 MILLIARDS DE L'UKRAINE EN 2027, AUQUEL L'UE DOIT \"PALLIER\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:59",
+      "date": "16/10",
+      "timestamp": 1792177140
+    },
+    {
+      "id": "BFMTV_1792176091",
+      "source": "BFMTV",
+      "text": "LES ÉCLAIREURS - GUERRE EN UKRAINE: LA RÉPONSE DE VOLODYMYR ZELENSKY À MARINE LE PEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:41",
+      "date": "16/10",
+      "timestamp": 1792176091
+    },
+    {
+      "id": "BFMTV_1792175636",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:33",
+      "date": "16/10",
+      "timestamp": 1792175636
+    },
     {
       "id": "BFMTV_1792174691",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "15:11",
       "date": "14/10",
       "timestamp": 1791990670
-    },
-    {
-      "id": "BFMTV_1791990517",
-      "source": "BFMTV",
-      "text": "INONDATIONS AU NÉPAL: LA CRUE DE LA SEMAINE DERNIÈRE ÉGALEMENT CAUSÉE PAR L'EFFONDREMENT D'UN GLACIER, SELON UNE ÉTUDE",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:08",
-      "date": "14/10",
-      "timestamp": 1791990517
-    },
-    {
-      "id": "BFMTV_1791989658",
-      "source": "BFMTV",
-      "text": "LA POLICE TURQUE PREND LE CONTRÔLE DE LA PRINCIPALE CHAÎNE DE TÉLÉVISION PRIVÉE D'OPPOSITION",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:54",
-      "date": "14/10",
-      "timestamp": 1791989658
-    },
-    {
-      "id": "BFMTV_1791983324",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: L'ARMÉE FACE À UN RÉSEAU STARLINK LIMITÉ VOLONTAIREMENT PAR LES AMÉRICAINS ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:08",
-      "date": "14/10",
-      "timestamp": 1791983324
-    },
-    {
-      "id": "BFMTV_1791983222",
-      "source": "BFMTV",
-      "text": "NAVI PILLAY, LAURÉATE DU PRIX NOBEL DE LA PAIX, FUSTIGE LES SANCTIONS \"ILLÉGALES\" DE DONALD TRUMP CONTRE LA COUR PÉNALE INTERNATIONALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:07",
-      "date": "14/10",
-      "timestamp": 1791983222
-    },
-    {
-      "id": "BFMTV_1791982527",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VERS LA FIN DE L'AIDE DU RENSEIGNEMENT AMÉRICAIN?",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:55",
-      "date": "14/10",
-      "timestamp": 1791982527
-    },
-    {
-      "id": "BFMTV_1791978948",
-      "source": "BFMTV",
-      "text": "INDE: DEUX CHEFS DU PARTI DES “CAFARDS” PLACÉS EN DÉTENTION ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:55",
-      "date": "14/10",
-      "timestamp": 1791978948
-    },
-    {
-      "id": "BFMTV_1791976225",
-      "source": "BFMTV",
-      "text": "QUI EST KATIE ZACHARIA, LA NOUVELLE PORTE-PAROLE DE LA MAISON BLANCHE? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:10",
-      "date": "14/10",
-      "timestamp": 1791976225
-    },
-    {
-      "id": "BFMTV_1791974906",
-      "source": "BFMTV",
-      "text": "\"LA PERSONNE N’EST PAS DÉCÉDÉE\": APRÈS L’EXÉCUTION RATÉE DE CHRISTA PIKE, LES SECOURS ONT CRU À UN CANULAR",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:48",
-      "date": "14/10",
-      "timestamp": 1791974906
     }
   ],
   "france": {
