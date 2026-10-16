@@ -1,7 +1,137 @@
 {
-  "last_update": "16/10 14:32",
+  "last_update": "16/10 18:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792174691",
+      "source": "BFMTV",
+      "text": "UN INFLUENCEUR INDIEN PARTAGE PAR ERREUR SON ADRESSE...ET REÇOIT DES COLIS DE TOUT LE PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:18",
+      "date": "16/10",
+      "timestamp": 1792174691
+    },
+    {
+      "id": "BFMTV_1792174247",
+      "source": "BFMTV",
+      "text": "\"ÇA N'A RIEN À VOIR AVEC LES ÉCHÉANCES ÉLECTORALES\": LE PRÉSIDENT DU CONSEIL EUROPÉEN VEUT CONCLURE UN ACCORD SUR LE BUDGET AVANT LA FIN DE L'ANNÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:10",
+      "date": "16/10",
+      "timestamp": 1792174247
+    },
+    {
+      "id": "BFMTV_1792173861",
+      "source": "BFMTV",
+      "text": "\"LAISSE-MOI MOURIR\": UNE JOURNALISTE DU WASHINGTON POST ROUÉE DE COUPS PENDANT UNE ATTAQUE DE COLONS ISRAÉLIENS EN CISJORDANIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:04",
+      "date": "16/10",
+      "timestamp": 1792173861
+    },
+    {
+      "id": "BFMTV_1792172545",
+      "source": "BFMTV",
+      "text": "\"NOUS NE LÂCHERONS PAS L'UKRAINE\", PROMET EMMANUEL MACRON",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:42",
+      "date": "16/10",
+      "timestamp": 1792172545
+    },
+    {
+      "id": "OPEX360_1792172256",
+      "source": "OPEX360",
+      "text": "LE NOUVEAU SOUS-MARIN NUCLÉAIRE D’ATTAQUE RUBIS REJOINT LE DISPOSITIF DE MISE À L’EAU EN VUE DE SON LANCEMENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:37",
+      "date": "16/10",
+      "timestamp": 1792172256
+    },
+    {
+      "id": "BFMTV_1792171057",
+      "source": "BFMTV",
+      "text": "\"NOUS NE LÂCHERONS PAS L'UKRAINE\": EMMANUEL MACRON RÉAFFIRME LE SOUTIEN DE LA FRANCE À KIEV EN MARGE DU CONSEIL EUROPÉEN",
+      "urgent": false,
+      "france_related": true,
+      "time": "17:17",
+      "date": "16/10",
+      "timestamp": 1792171057
+    },
+    {
+      "id": "BFMTV_1792169845",
+      "source": "BFMTV",
+      "text": "MEXIQUE: L’AMIBE \"MANGEUSE DE CERVEAU\" DÉTECTÉE DANS SIX LACS DU YUCATÁN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:57",
+      "date": "16/10",
+      "timestamp": 1792169845
+    },
+    {
+      "id": "OPEX360_1792168701",
+      "source": "OPEX360",
+      "text": "EN ATTENDANT LE THUNDART, LE 1ER RÉGIMENT D’ARTILLERIE VA CRÉER UNE BATTERIE DOTÉE DE MUNITIONS TÉLÉOPÉRÉES À LONGUE PORTÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:38",
+      "date": "16/10",
+      "timestamp": 1792168701
+    },
+    {
+      "id": "BFMTV_1792164971",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY BOUC ÉMISSAIRE DE DONALD TRUMP ? L'INTÉRESSÉ SOURIT EN GUISE DE RÉPONSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:36",
+      "date": "16/10",
+      "timestamp": 1792164971
+    },
+    {
+      "id": "BFMTV_1792164956",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: MARINE LE PEN SE DIT PRÊTE À \"DÉBATTRE\" AVEC VOLODYMYR ZELENSKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:35",
+      "date": "16/10",
+      "timestamp": 1792164956
+    },
+    {
+      "id": "OPEX360_1792164768",
+      "source": "OPEX360",
+      "text": "FAUTE DE PATROLLER, LE 61E RÉGIMENT D’ARTILLERIE SERA DOTÉ DE DRONES TEKEVER AR3",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:32",
+      "date": "16/10",
+      "timestamp": 1792164768
+    },
+    {
+      "id": "BFMTV_1792162280",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY RÉCLAME 70 MILLIARDS D'EUROS DE PLUS À L'UNION EUROPÉENNE, MARINE LE PEN ESTIME QUE LA FRANCE N'A \"PLUS LES MOYENS\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "14:51",
+      "date": "16/10",
+      "timestamp": 1792162280
+    },
+    {
+      "id": "BFMTV_1792161795",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY RÉCLAME 70 MILLIARDS D'EUROS DE PLUS À L'UE, JORDAN BARDELLA RÉPOND QUE \"LA FRANCE NE LES A PAS\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:43",
+      "date": "16/10",
+      "timestamp": 1792161795
+    },
     {
       "id": "BFMTV_1792160954",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "10:48",
       "date": "14/10",
       "timestamp": 1791974906
-    },
-    {
-      "id": "OPEX360_1791973990",
-      "source": "OPEX360",
-      "text": "LA FRANCE ET LE TCHAD SIGNENT UNE LETTRE D’INTENTION POUR RÉTABLIR LEUR COOPÉRATION EN MATIÈRE DE DÉFENSE",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:33",
-      "date": "14/10",
-      "timestamp": 1791973990
-    },
-    {
-      "id": "BFMTV_1791972380",
-      "source": "BFMTV",
-      "text": "TRENTE ANS APRÈS LE MEURTRE DE TUPAC, UN EX-MEMBRE DE GANG A ÉTÉ CONDAMNÉ À 40 ANS DE PRISON MINIMUM",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:06",
-      "date": "14/10",
-      "timestamp": 1791972380
-    },
-    {
-      "id": "BFMTV_1791972017",
-      "source": "BFMTV",
-      "text": "\"QUELLE EST LA POSITION DU GOUVERNEMENT?\": LE RENVOI DE L'AMBASSADRICE AMÉRICAINE EN GRÈCE AU CENTRE D'UNE CONFRONTATION POLITIQUE À ATHÈNES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:00",
-      "date": "14/10",
-      "timestamp": 1791972017
-    },
-    {
-      "id": "BFMTV_1791967960",
-      "source": "BFMTV",
-      "text": "DES INFRASTRUCTURES ÉNERGÉTIQUES CLÉS TOUCHÉES PAR DES MISSILES RUSSES À KIEV, AU MOINS SIX MORTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:52",
-      "date": "14/10",
-      "timestamp": 1791967960
-    },
-    {
-      "id": "BFMTV_1791967244",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: APRÈS DES FRAPPES MASSIVES SUR DES INFRASTRUCTURES ÉNERGÉTIQUES, VOLODYMYR ZELENSKY DÉNONCE LE \"MÉPRIS OSTENTATOIRE\" DE LA RUSSIE ENVERS LES ÉTATS-UNIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:40",
-      "date": "14/10",
-      "timestamp": 1791967244
-    },
-    {
-      "id": "BFMTV_1791966779",
-      "source": "BFMTV",
-      "text": "LA POLICE TURQUE PREND LE CONTRÔLE DU SIÈGE DE LA PRINCIPALE CHAÎNE DE TÉLÉVISION D'OPPOSITION DU PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:32",
-      "date": "14/10",
-      "timestamp": 1791966779
-    },
-    {
-      "id": "BFMTV_1791959834",
-      "source": "BFMTV",
-      "text": "LE NODULE RETIRÉ AU POUMON DU PAPE LÉON XIV ÉTAIT CANCÉREUX",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:37",
-      "date": "14/10",
-      "timestamp": 1791959834
-    },
-    {
-      "id": "BFMTV_1791959416",
-      "source": "BFMTV",
-      "text": "DES INFRASTRUCTURES ÉNERGÉTIQUES CLÉS TOUCHÉES PAR DES MISSILES RUSSES À KIEV, AU MOINS SIX MORTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:30",
-      "date": "14/10",
-      "timestamp": 1791959416
-    },
-    {
-      "id": "BFMTV_1791957764",
-      "source": "BFMTV",
-      "text": "UN JUGE FÉDÉRAL GARANTIT TEMPORAIREMENT À CNN, MS NOW ET POLITICO LEUR ACCÈS À LA MAISON BLANCHE APRÈS LEUR EXCLUSION PAR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:02",
-      "date": "14/10",
-      "timestamp": 1791957764
-    },
-    {
-      "id": "BFMTV_1791954255",
-      "source": "BFMTV",
-      "text": "13 ENFANTS RETROUVÉS MORTS DANS LE GANGE, EN INDE, APRÈS LE NAUFRAGE DE LEUR BATEAU",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:04",
-      "date": "14/10",
-      "timestamp": 1791954255
-    },
-    {
-      "id": "BFMTV_1791953192",
-      "source": "BFMTV",
-      "text": "DES INFRASTRUCTURES ÉNERGÉTIQUES CLÉS TOUCHÉES PAR DES MISSILES RUSSES À KIEV, AU MOINS TROIS MORTS",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:46",
-      "date": "14/10",
-      "timestamp": 1791953192
-    },
-    {
-      "id": "BFMTV_1791953192",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:46",
-      "date": "14/10",
-      "timestamp": 1791953192
-    },
-    {
-      "id": "BFMTV_1791953192",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:46",
-      "date": "14/10",
-      "timestamp": 1791953192
     }
   ],
   "france": {
