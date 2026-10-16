@@ -1,7 +1,47 @@
 {
-  "last_update": "16/10 00:34",
+  "last_update": "16/10 05:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792126512",
+      "source": "BFMTV",
+      "text": "QUATRE PERSONNES MEURENT EN TENTANT D'ÉTEINDRE DES INCENDIES DANS UN PARC NATIONAL EN INDONÉSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:55",
+      "date": "16/10",
+      "timestamp": 1792126512
+    },
+    {
+      "id": "BFMTV_1792125487",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP JUGE QUE LA REPRISE PAR L'UKRAINE DES FRAPPES SUR LES RAFFINERIES RUSSES EST UNE \"HONTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:38",
+      "date": "16/10",
+      "timestamp": 1792125487
+    },
+    {
+      "id": "BFMTV_1792124929",
+      "source": "BFMTV",
+      "text": "UN TIREUR DE 16 ANS ABATTU PAR UN PASSANT APRÈS AVOIR TUÉ QUATRE PERSONNES, DONT TROIS ENFANTS, DANS UNE ÉCOLE PRIMAIRE DE L'OREGON AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:28",
+      "date": "16/10",
+      "timestamp": 1792124929
+    },
+    {
+      "id": "BFMTV_1792124257",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AVEC LA MULTIPLICATION DES FRAPPES RUSSES EN MER NOIRE, VLADIMIR POUTINE VEUT ASPHYXIER ÉCONOMIQUEMENT LES SOUTIENS  DE KIEV",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:17",
+      "date": "16/10",
+      "timestamp": 1792124257
+    },
     {
       "id": "BFMTV_1792100770",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "19:27",
       "date": "12/10",
       "timestamp": 1791833248
-    },
-    {
-      "id": "BFMTV_1791833096",
-      "source": "BFMTV",
-      "text": "\"LE MOMENT N'EST PAS VENU DE RELÂCHER LA PRESSION SUR MOSCOU\", DÉCLARE LA CHEFFE DE LA DIPLOMATIE DE L'UE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:24",
-      "date": "12/10",
-      "timestamp": 1791833096
-    },
-    {
-      "id": "BFMTV_1791831513",
-      "source": "BFMTV",
-      "text": "AUX ÉTATS-UNIS, UNE VOITURE DE L’ICE PERCUTE UN HOMME LUI FRACTURANT LES DEUX JAMBES",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:58",
-      "date": "12/10",
-      "timestamp": 1791831513
-    },
-    {
-      "id": "BFMTV_1791829077",
-      "source": "BFMTV",
-      "text": "LÉON XIV: QU’EST-CE QU’UN NODULE PULMONAIRE, DONT LE PAPE DOIT ÊTRE OPÉRÉ ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:17",
-      "date": "12/10",
-      "timestamp": 1791829077
-    },
-    {
-      "id": "OPEX360_1791826001",
-      "source": "OPEX360",
-      "text": "L’ESTONIE ENVISAGE DE SE DOTER D’AVIONS DE COMBAT LÉGERS POUR LA LUTTE ANTIDRONE",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:26",
-      "date": "12/10",
-      "timestamp": 1791826001
     }
   ],
   "france": {
