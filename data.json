@@ -1,7 +1,27 @@
 {
-  "last_update": "17/10 11:59",
+  "last_update": "17/10 15:25",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1792246083",
+      "source": "OPEX360",
+      "text": "AVEC VULTRA, L’ARMÉE DE L’AIR & DE L’ESPACE VA FACILITER LES LIAISONS ENTRE UN AÉRONEF ET DES DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:08",
+      "date": "17/10",
+      "timestamp": 1792246083
+    },
+    {
+      "id": "OPEX360_1792241797",
+      "source": "OPEX360",
+      "text": "L’INTÉRÊT DE CHYPRE POUR L’ENGIN BLINDÉ DE RECONNAISSANCE ET DE COMBAT JAGUAR SE CONFIRME",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:56",
+      "date": "17/10",
+      "timestamp": 1792241797
+    },
     {
       "id": "OPEX360_1792233451",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "21:21",
       "date": "14/10",
       "timestamp": 1792012906
-    },
-    {
-      "id": "BFMTV_1792008697",
-      "source": "BFMTV",
-      "text": "DÉFENSE AÉRIENNE: LES PAYS DE L'OTAN \"DOIVENT EN FAIRE PLUS\" POUR AIDER L'UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:11",
-      "date": "14/10",
-      "timestamp": 1792008697
-    },
-    {
-      "id": "BFMTV_1792008282",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY \"COMPTE SUR LE PARTENARIAT\" AVEC LES ÉTATS-UNIS, APRÈS \"CERTAINES DIFFICULTÉS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:04",
-      "date": "14/10",
-      "timestamp": 1792008282
     }
   ],
   "france": {
