@@ -1,7 +1,57 @@
 {
-  "last_update": "17/10 15:25",
+  "last_update": "17/10 17:54",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792259134",
+      "source": "BFMTV",
+      "text": "CISJORDANIE OCCUPÉE: UN MAIRE FRANÇAIS FRAPPÉ PAR DES COLONS LORS DE L'ATTAQUE D'UN CONVOI DE DIPLOMATES EUROPÉENS",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:45",
+      "date": "17/10",
+      "timestamp": 1792259134
+    },
+    {
+      "id": "BFMTV_1792252357",
+      "source": "BFMTV",
+      "text": "158 ANS DE PRISON CHACUN: AU MEXIQUE, LES MEURTRIERS DE TROIS SURFEURS ÉTRANGERS LOURDEMENT CONDAMNÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:52",
+      "date": "17/10",
+      "timestamp": 1792252357
+    },
+    {
+      "id": "BFMTV_1792252231",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT SOUTENIR \"UN PROCESSUS POLITIQUE\" POUR METTRE FIN AU CONFLIT ENTRE L'ARABIE SAOUDIT ET LES HOUTHIS DU YEMEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:50",
+      "date": "17/10",
+      "timestamp": 1792252231
+    },
+    {
+      "id": "BFMTV_1792250269",
+      "source": "BFMTV",
+      "text": "INCENDIES EN INDONÉSIE: LE NIVEAU D'ALERTE MAXIMAL ACTIVÉ DANS UNE PARTIE DE L'ASIE DU SUD-EST EN RAISON DES FUMÉES TOXIQUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:17",
+      "date": "17/10",
+      "timestamp": 1792250269
+    },
+    {
+      "id": "BFMTV_1792249351",
+      "source": "BFMTV",
+      "text": "\"NOUS SOMMES PERDUS ET BRISÉS\": LA FAMILLE D'UN GARÇON DE 5 ANS TUÉ DANS LA FUSILLADE DANS L'OREGON TÉMOIGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:02",
+      "date": "17/10",
+      "timestamp": 1792249351
+    },
     {
       "id": "OPEX360_1792246083",
       "source": "OPEX360",
@@ -951,56 +1001,6 @@
       "time": "07:27",
       "date": "15/10",
       "timestamp": 1792049264
-    },
-    {
-      "id": "BFMTV_1792043714",
-      "source": "BFMTV",
-      "text": "LE BILAN DE LA TEMPÊTE RACHEL S'AGGRAVE ET PASSE À HUIT MORTS AU MEXIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:55",
-      "date": "15/10",
-      "timestamp": 1792043714
-    },
-    {
-      "id": "BFMTV_1792041085",
-      "source": "BFMTV",
-      "text": "\"TOUTE LIMITATION DE DÉBIT EST DÉCIDÉE PAR L'ARMÉE\": ELON MUSK SE DÉFEND ET SUGGÈRE QUE LE GOUVERNEMENT AMÉRICAIN EST RESPONSABLE DU RALENTISSEMENT DU RÉSEAU MILITAIRE STARSHIELD EN UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:11",
-      "date": "15/10",
-      "timestamp": 1792041085
-    },
-    {
-      "id": "BFMTV_1792037449",
-      "source": "BFMTV",
-      "text": "\"REMETTEZ-VOUS VITE!\": DONALD TRUMP SOUHAITE UN BON RÉTABLISSEMENT AU PAPE LÉON XIV",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:10",
-      "date": "15/10",
-      "timestamp": 1792037449
-    },
-    {
-      "id": "BFMTV_1792013198",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP AU SUJET DU CANADA: \"ILS FINIRONT PAR DEVENIR LE 51E ÉTAT\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:26",
-      "date": "14/10",
-      "timestamp": 1792013198
-    },
-    {
-      "id": "BFMTV_1792012906",
-      "source": "BFMTV",
-      "text": "\"CE N'EST PAS LE BON CÔTÉ DE L'HISTOIRE\": VOLODYMYR ZELENSKY DIT S'ÊTRE SENTI TRAHI APRÈS LES RÉCENTES ANNONCES DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:21",
-      "date": "14/10",
-      "timestamp": 1792012906
     }
   ],
   "france": {
