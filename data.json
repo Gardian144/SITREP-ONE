@@ -1,7 +1,87 @@
 {
-  "last_update": "17/10 07:47",
+  "last_update": "17/10 11:59",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1792233451",
+      "source": "OPEX360",
+      "text": "LE PREMIER ÉQUIPAGE DE LA FRÉGATE DE DÉFENSE ET D’INTERVENTION «AMIRAL LOUZEAU» A ÉTÉ OFFICIELLEMENT CONSTITUÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:37",
+      "date": "17/10",
+      "timestamp": 1792233451
+    },
+    {
+      "id": "BFMTV_1792229481",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:31",
+      "date": "17/10",
+      "timestamp": 1792229481
+    },
+    {
+      "id": "BFMTV_1792229480",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY ASSURE QUE LA RUSSIE TENTE DE PROVOQUER UNE \"PANNE ÉLECTRIQUE GÉNÉRALE\" EN UKRAINE AVANT L'HIVER",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:31",
+      "date": "17/10",
+      "timestamp": 1792229480
+    },
+    {
+      "id": "BFMTV_1792228335",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:12",
+      "date": "17/10",
+      "timestamp": 1792228335
+    },
+    {
+      "id": "BFMTV_1792221909",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: EN PLEINE CRISE AVEC KIEV, DONALD TRUMP EXEMPTE LA RUSSIE DE NOUVELLES SANCTIONS AU NOM DE \"L'INTÉRÊT NATIONAL DES ÉTATS-UNIS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:25",
+      "date": "17/10",
+      "timestamp": 1792221909
+    },
+    {
+      "id": "BFMTV_1792215329",
+      "source": "BFMTV",
+      "text": "À OLECHKY, EN PREMIÈRE LIGNE FACE À LA RUSSIE, LES HABITANTS CONFRONTÉS À DES PÉNURIES ",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:35",
+      "date": "17/10",
+      "timestamp": 1792215329
+    },
+    {
+      "id": "BFMTV_1792213631",
+      "source": "BFMTV",
+      "text": "ANCIEN ÉLÈVE, \"UN VRAI SOLITAIRE\"... LE PROFIL DE L'AUTEUR DE LA FUSILLADE MORTELLE DANS UNE ÉCOLE PRIMAIRE AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:07",
+      "date": "17/10",
+      "timestamp": 1792213631
+    },
+    {
+      "id": "BFMTV_1792210481",
+      "source": "BFMTV",
+      "text": "LA CALIFORNIE FRAPPÉE PAR DE NOMBREUX INCENDIES ATTISÉS PAR LES VENTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:14",
+      "date": "17/10",
+      "timestamp": 1792210481
+    },
     {
       "id": "BFMTV_1792184636",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "20:04",
       "date": "14/10",
       "timestamp": 1792008282
-    },
-    {
-      "id": "BFMTV_1792002970",
-      "source": "BFMTV",
-      "text": "CONFÉRENCE DE PRESSE EXPRESS, DOUTE SUR SES DIPLÔMES... LES DÉBUTS CHAOTIQUES DE LA NOUVELLE PORTE-PAROLE DE LA MAISON BLANCHE, KATIE ZACHARIA",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:36",
-      "date": "14/10",
-      "timestamp": 1792002970
-    },
-    {
-      "id": "BFMTV_1792001059",
-      "source": "BFMTV",
-      "text": "ITALIE: UN VIADUC LONG DE 1,3 KM DÉTRUIT À L'EXPLOSIF POUR RÉALISER DES TRAVAUX",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:04",
-      "date": "14/10",
-      "timestamp": 1792001059
-    },
-    {
-      "id": "OPEX360_1791999310",
-      "source": "OPEX360",
-      "text": "ARMEMENT TERRESTRE : BERLIN ENVISAGE D’ACQUÉRIR 50 % DU GROUPE FRANCO-ALLEMAND KNDS",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:35",
-      "date": "14/10",
-      "timestamp": 1791999310
-    },
-    {
-      "id": "OPEX360_1791996656",
-      "source": "OPEX360",
-      "text": "ISRAËL CONFIRME LA COMMANDE DE DOUZE HÉLICOPTÈRES D’ATTAQUE AH-64E APACHE/GUARDIAN AUPRÈS DE BOEING",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:50",
-      "date": "14/10",
-      "timestamp": 1791996656
-    },
-    {
-      "id": "BFMTV_1791995960",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UNE FRAPPE DE DRONE RUSSE FAIT SIX MORTS À LOUTSK",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:39",
-      "date": "14/10",
-      "timestamp": 1791995960
-    },
-    {
-      "id": "BFMTV_1791995600",
-      "source": "BFMTV",
-      "text": "SOUPÇONS D'ESPIONNAGE: LA RUSSIE ANNONCE AVOIR ARRÊTÉ UN JOURNALISTE JAPONAIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:33",
-      "date": "14/10",
-      "timestamp": 1791995600
-    },
-    {
-      "id": "BFMTV_1791991584",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UNE FEMME S’EST FAITE EMPOISONNER PENDANT 18 MOIS PAR SON COLLÈGUE ET LA JUSTICE ANNULE SA CONDAMNATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:26",
-      "date": "14/10",
-      "timestamp": 1791991584
-    },
-    {
-      "id": "OPEX360_1791990670",
-      "source": "OPEX360",
-      "text": "L’AMIRAL CLUZEL NE VOIT PAS DE PROBLÈME AVEC LES CATAPULTES ÉLECTROMAGNÉTIQUES AMÉRICAINES DU FUTUR PORTE-AVIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:11",
-      "date": "14/10",
-      "timestamp": 1791990670
     }
   ],
   "france": {
