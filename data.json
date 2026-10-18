@@ -1,7 +1,27 @@
 {
-  "last_update": "18/10 13:17",
+  "last_update": "18/10 16:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792338335",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY DIT AVOIR ÉCHANGÉ AVEC LES ENVOYÉS AMÉRICAINS JARED KUSHNER ET STEVE WITKOFF",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:45",
+      "date": "18/10",
+      "timestamp": 1792338335
+    },
+    {
+      "id": "BFMTV_1792330716",
+      "source": "BFMTV",
+      "text": "\"UN DÉSASTRE QUI NE SURVIENT QU'UNE FOIS TOUS LES 15 À 25 ANS\": PLUSIEURS MORTS ET BLESSÉS APRÈS UN INCENDIE SUR UNE BASE MILITAIRE AU CANADA",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:38",
+      "date": "18/10",
+      "timestamp": 1792330716
+    },
     {
       "id": "OPEX360_1792321544",
       "source": "OPEX360",
@@ -981,26 +1001,6 @@
       "time": "12:08",
       "date": "15/10",
       "timestamp": 1792066138
-    },
-    {
-      "id": "BFMTV_1792065727",
-      "source": "BFMTV",
-      "text": "CHRISTOPHE GLEIZES \"TIENT BON\", SELON SES PARENTS QUI LUI ONT RENDU VISITE DANS SA PRISON EN ALGÉRIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:02",
-      "date": "15/10",
-      "timestamp": 1792065727
-    },
-    {
-      "id": "BFMTV_1792064264",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN HOMME FILME LE MOMENT OÙ SON HÔTEL EST FRAPPÉ PAR UN MISSILE RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:37",
-      "date": "15/10",
-      "timestamp": 1792064264
     }
   ],
   "france": {
