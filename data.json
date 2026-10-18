@@ -1,7 +1,17 @@
 {
-  "last_update": "18/10 21:21",
+  "last_update": "18/10 23:29",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792358355",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DONALD TRUMP ACCUSE VOLODYMYR ZELENSKY DE \"NE PAS VOULOIR METTRE FIN\" AU CONFLIT AVEC LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:19",
+      "date": "18/10",
+      "timestamp": 1792358355
+    },
     {
       "id": "BFMTV_1792338335",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "12:18",
       "date": "15/10",
       "timestamp": 1792066738
-    },
-    {
-      "id": "BFMTV_1792066138",
-      "source": "BFMTV",
-      "text": "CHRISTOPHE GLEIZES: SES PARENTS N'ONT \"AUCUNE NOUVELLE DU GOUVERNEMENT ALGÉRIEN\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:08",
-      "date": "15/10",
-      "timestamp": 1792066138
     }
   ],
   "france": {
