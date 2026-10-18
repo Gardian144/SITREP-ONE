@@ -1,7 +1,37 @@
 {
-  "last_update": "18/10 04:32",
+  "last_update": "18/10 09:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792311908",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: WASHINGTON RELATIVISE LA DÉCISION DE DONALD TRUMP D'EXEMPTER LA RUSSIE DE NOUVELLES SANCTIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:25",
+      "date": "18/10",
+      "timestamp": 1792311908
+    },
+    {
+      "id": "BFMTV_1792306808",
+      "source": "BFMTV",
+      "text": "DUBAÏ EST-ELLE TOUJOURS UNE PLANQUE DORÉE POUR LES NARCOTRAFIQUANTS?",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:00",
+      "date": "18/10",
+      "timestamp": 1792306808
+    },
+    {
+      "id": "BFMTV_1792300198",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UN INCENDIE DANS UN TERMINAL PÉTROLIER DE SAINT-PÉTERSBOURG APRÈS UNE ATTAQUE UKRAINIENNE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:09",
+      "date": "18/10",
+      "timestamp": 1792300198
+    },
     {
       "id": "BFMTV_1792297501",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "10:51",
       "date": "15/10",
       "timestamp": 1792061473
-    },
-    {
-      "id": "BFMTV_1792060381",
-      "source": "BFMTV",
-      "text": "CONFLIT EN UKRAINE: \"LA SEMAINE DERNIÈRE A ÉTÉ L'UNE DES PLUS MEURTRIÈRES POUR L'UKRAINE EN MATIÈRE DE CIVILES\", AFFIRME ALEXANDER QUÉRY, CORRESPONDANT À KIEV",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:33",
-      "date": "15/10",
-      "timestamp": 1792060381
-    },
-    {
-      "id": "BFMTV_1792057811",
-      "source": "BFMTV",
-      "text": "\"MADAME LE PEN NE MAÎTRISE PAS BIEN CERTAINS DÉTAILS\": VOLODYMYR ZELENSKY RÉPOND À LA CANDIDATE DU RN, QUI SOUHAITE COUPER LES AIDES À L'UKRAINE SI ELLE GAGNE EN 2027",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:50",
-      "date": "15/10",
-      "timestamp": 1792057811
-    },
-    {
-      "id": "BFMTV_1792056987",
-      "source": "BFMTV",
-      "text": "\"MADAME LE PEN NE MAÎTRISE PAS BIEN CERTAINS DÉTAILS\": VOLODYMYR ZELENSKY RÉPOND À LA CANDIDATE DU RN, QUI SOUHAITE COUPER LES AIDES À L'UKRAINE SI ELLE GAGNE EN 2027",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:36",
-      "date": "15/10",
-      "timestamp": 1792056987
     }
   ],
   "france": {
