@@ -1,7 +1,37 @@
 {
-  "last_update": "18/10 09:06",
+  "last_update": "18/10 13:17",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1792321544",
+      "source": "OPEX360",
+      "text": "LA NACELLE DE RENSEIGNEMENT ÉLECTROMAGNÉTIQUE VA (ENFIN) ÊTRE OPÉRATIONNELLE SUR LES DRONES REAPER DE L’ARMÉE DE L’AIR",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:05",
+      "date": "18/10",
+      "timestamp": 1792321544
+    },
+    {
+      "id": "OPEX360_1792317790",
+      "source": "OPEX360",
+      "text": "CANADA : UN «INCIDENT GRAVE» A FAIT PLUSIEURS TUÉS ET DE NOMBREUX BLESSÉS SUR LA BASE MILITAIRE DE WAINWRIGHT",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:03",
+      "date": "18/10",
+      "timestamp": 1792317790
+    },
+    {
+      "id": "BFMTV_1792317235",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN SE DOTE D'UN MINISTRE DE LA DÉFENSE, HUIT MOIS APRÈS LE DÉBUT DU CONFLIT",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:53",
+      "date": "18/10",
+      "timestamp": 1792317235
+    },
     {
       "id": "BFMTV_1792311908",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "11:37",
       "date": "15/10",
       "timestamp": 1792064264
-    },
-    {
-      "id": "BFMTV_1792062533",
-      "source": "BFMTV",
-      "text": "EMMANUEL MACRON À BRUXELLES POUR LE SOMMET EUROPÉEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:08",
-      "date": "15/10",
-      "timestamp": 1792062533
-    },
-    {
-      "id": "BFMTV_1792061583",
-      "source": "BFMTV",
-      "text": "\"ILS DEVRAIENT ÊTRE FUSILLÉS\": LA VIOLENTE SORTIE DE DONALD TRUMP SUR LES AUTEURS DE FUITES AYANT RETARDÉ UNE ATTAQUE AMÉRICAINE EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:53",
-      "date": "15/10",
-      "timestamp": 1792061583
-    },
-    {
-      "id": "OPEX360_1792061473",
-      "source": "OPEX360",
-      "text": "AVEC L’A2SM XLR, L’ARMÉE DE L’AIR VA RÉCUPÉRER UNE CAPACITÉ DE SUPPRESSION DES DÉFENSES AÉRIENNES ADVERSES",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:51",
-      "date": "15/10",
-      "timestamp": 1792061473
     }
   ],
   "france": {
