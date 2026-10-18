@@ -1,7 +1,17 @@
 {
-  "last_update": "18/10 00:09",
+  "last_update": "18/10 04:32",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792297501",
+      "source": "BFMTV",
+      "text": "MOBILISATIONS DU 17 OCTOBRE: LES ÉVÈNEMENTS EN FRANCE À LA UNE DE LA PRESSE ÉTRANGÈRE",
+      "urgent": false,
+      "france_related": true,
+      "time": "04:25",
+      "date": "18/10",
+      "timestamp": 1792297501
+    },
     {
       "id": "BFMTV_1792265224",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "09:36",
       "date": "15/10",
       "timestamp": 1792056987
-    },
-    {
-      "id": "BFMTV_1792053856",
-      "source": "BFMTV",
-      "text": "BRUXELLES: KAJA KALLAS ARRIVE AU SOMMET DES DIRIGEANTS DE L’UE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:44",
-      "date": "15/10",
-      "timestamp": 1792053856
     }
   ],
   "france": {
