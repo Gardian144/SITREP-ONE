@@ -1,7 +1,67 @@
 {
-  "last_update": "19/10 01:34",
+  "last_update": "19/10 06:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792389622",
+      "source": "BFMTV",
+      "text": "C’EST UNE RÉGION PRISÉE PAR LES GRANDES PUISSANCES: MARCO RUBIO ENTAME UNE TOURNÉE EXPRESS EN ASIE CENTRALE POUR RENFORCER LES LIENS COMMERCIAUX DANS UNE RÉGION AUX VASTES RESSOURCES NATURELLES ET CONVOITÉE PAR LA CHINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:00",
+      "date": "19/10",
+      "timestamp": 1792389622
+    },
+    {
+      "id": "BFMTV_1792387923",
+      "source": "BFMTV",
+      "text": "MALGRÉ LA GUERRE EN IRAN ET UNE CONSOMMATION INTÉRIEURE ATONE, LA CROISSANCE CHINOISE ACCÉLÈRE LÉGÈREMENT À 4,5% AU TROISIÈME TRIMESTRE (MAIS RESTE DANS LE BAS DE LA FOURCHETTE VISÉE PAR PÉKIN POUR 2026)",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:32",
+      "date": "19/10",
+      "timestamp": 1792387923
+    },
+    {
+      "id": "BFMTV_1792384577",
+      "source": "BFMTV",
+      "text": "ATTAQUES DU 7 OCTOBRE 2023 DU HAMAS CONTRE ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:36",
+      "date": "19/10",
+      "timestamp": 1792384577
+    },
+    {
+      "id": "BFMTV_1792384577",
+      "source": "BFMTV",
+      "text": "CONFLIT ISRAËL-IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:36",
+      "date": "19/10",
+      "timestamp": 1792384577
+    },
+    {
+      "id": "BFMTV_1792384577",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:36",
+      "date": "19/10",
+      "timestamp": 1792384577
+    },
+    {
+      "id": "BFMTV_1792384576",
+      "source": "BFMTV",
+      "text": "\"SOUTIEN TOTAL ET SANS RÉSERVE À BIBI\": DONALD TRUMP ADOUBE BENJAMIN NETANYAHU AVANT DES LÉGISLATIVES DÉCISIVES EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:36",
+      "date": "19/10",
+      "timestamp": 1792384576
+    },
     {
       "id": "BFMTV_1792358355",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "13:53",
       "date": "15/10",
       "timestamp": 1792072413
-    },
-    {
-      "id": "BFMTV_1792072101",
-      "source": "BFMTV",
-      "text": "UNE TRENTAINE D'ENFANTS ET UNE ENSEIGNANTE TUÉS DANS L'EFFONDREMENT DU TOIT DE LEUR ÉCOLE AU PAKISTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:48",
-      "date": "15/10",
-      "timestamp": 1792072101
-    },
-    {
-      "id": "BFMTV_1792072000",
-      "source": "BFMTV",
-      "text": "L'APPEL DES PARENTS DE CHRISTOPHE GLEIZES AUX CANDIDATS À LA PRÉSIDENTIELLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:46",
-      "date": "15/10",
-      "timestamp": 1792072000
-    },
-    {
-      "id": "BFMTV_1792071508",
-      "source": "BFMTV",
-      "text": "AUSTRALIE: UNE CAMÉRA DÉCOUVERTE DANS LES DOUCHES DES FEMMES D'UN NAVIRE MILITAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:38",
-      "date": "15/10",
-      "timestamp": 1792071508
-    },
-    {
-      "id": "BFMTV_1792071108",
-      "source": "BFMTV",
-      "text": "CHRISTOPHE GLEIZES: APRÈS PRESQUE 500 JOURS DE DÉTENTION, LE JOURNALISTE \"TIENT BON\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:31",
-      "date": "15/10",
-      "timestamp": 1792071108
-    },
-    {
-      "id": "BFMTV_1792067676",
-      "source": "BFMTV",
-      "text": "L'ALERTE DES PARENTS DU JOURNALISTE CHRISTOPHE GLEIZES DÉTENU DEPUIS PRESQUE 500 JOURS EN ALGÉRIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:34",
-      "date": "15/10",
-      "timestamp": 1792067676
-    },
-    {
-      "id": "BFMTV_1792066738",
-      "source": "BFMTV",
-      "text": "PRÉSIDENTIELLE: LES PARENTS DE CHRISTOPHE GLEIZES LANCENT UN APPEL AUX CANDIDATS À DÉFENDRE LEUR FILS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:18",
-      "date": "15/10",
-      "timestamp": 1792066738
     }
   ],
   "france": {
