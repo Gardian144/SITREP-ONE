@@ -1,7 +1,37 @@
 {
-  "last_update": "19/10 20:04",
+  "last_update": "19/10 23:41",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792446055",
+      "source": "BFMTV",
+      "text": "VIOLENCES: \"LA SITUATION EN FRANCE EST TRÈS TRISTE\", DÉPLORE DONALD TRUMP",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:40",
+      "date": "19/10",
+      "timestamp": 1792446055
+    },
+    {
+      "id": "BFMTV_1792444206",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP SE DIT PRÊT À UNE RENCONTRE AVEC VLADIMIR POUTINE ET XI JINPING",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:10",
+      "date": "19/10",
+      "timestamp": 1792444206
+    },
+    {
+      "id": "BFMTV_1792443555",
+      "source": "BFMTV",
+      "text": "VIOLENCES: DONALD TRUMP REMET À NOUVEAU EN CAUSE L'IMMIGRATION EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:59",
+      "date": "19/10",
+      "timestamp": 1792443555
+    },
     {
       "id": "BFMTV_1792434878",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "06:36",
       "date": "16/10",
       "timestamp": 1792132608
-    },
-    {
-      "id": "BFMTV_1792130907",
-      "source": "BFMTV",
-      "text": "\"ELLE PEUT VOLER COMME UNE FUSÉE\": ELON MUSK DÉVOILE UNE TESLA DOTÉE DE PROPULSEURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:08",
-      "date": "16/10",
-      "timestamp": 1792130907
-    },
-    {
-      "id": "BFMTV_1792126512",
-      "source": "BFMTV",
-      "text": "QUATRE PERSONNES MEURENT EN TENTANT D'ÉTEINDRE DES INCENDIES DANS UN PARC NATIONAL EN INDONÉSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:55",
-      "date": "16/10",
-      "timestamp": 1792126512
-    },
-    {
-      "id": "BFMTV_1792125487",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP JUGE QUE LA REPRISE PAR L'UKRAINE DES FRAPPES SUR LES RAFFINERIES RUSSES EST UNE \"HONTE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "04:38",
-      "date": "16/10",
-      "timestamp": 1792125487
     }
   ],
   "france": {
