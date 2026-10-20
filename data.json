@@ -1,7 +1,67 @@
 {
-  "last_update": "20/10 07:33",
+  "last_update": "20/10 13:00",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1792494726",
+      "source": "OPEX360",
+      "text": "L’ARMÉE UKRAINIENNE REVENDIQUE LA PREMIÈRE ÉVACUATION D’UN SOLDAT BLESSÉ PAR UN DRONE AÉRIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:12",
+      "date": "20/10",
+      "timestamp": 1792494726
+    },
+    {
+      "id": "BFMTV_1792494415",
+      "source": "BFMTV",
+      "text": "AUSTRALIE: UNE DÉPUTÉE GRIÈVEMENT BLESSÉE APRÈS AVOIR ÉTÉ PERCUTÉE PAR UNE VOITURE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:06",
+      "date": "20/10",
+      "timestamp": 1792494415
+    },
+    {
+      "id": "BFMTV_1792494109",
+      "source": "BFMTV",
+      "text": "RIEN N'EST DÉLIBÉRÉMENT REFUSÉ\" À L'UKRAINE, ASSURE LE SECRÉTAIRE D'ÉTAT AMÉRICAIN MARCO RUBIO",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:01",
+      "date": "20/10",
+      "timestamp": 1792494109
+    },
+    {
+      "id": "BFMTV_1792494054",
+      "source": "BFMTV",
+      "text": "AU KENYA, UN GOUROU RECONNU COUPABLE DES MEURTRES DE 190 ENFANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:00",
+      "date": "20/10",
+      "timestamp": 1792494054
+    },
+    {
+      "id": "BFMTV_1792489043",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY S'ENTRETIENT AVEC LES ÉMISSAIRES AMÉRICAINS À OSLO SUR FOND DE CRISPATIONS ENTRE KIEV ET WASHINGTON",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:37",
+      "date": "20/10",
+      "timestamp": 1792489043
+    },
+    {
+      "id": "BFMTV_1792483822",
+      "source": "BFMTV",
+      "text": "\"UN ACTE DÉLIBÉRÉ\": UNE DÉPUTÉE AUSTRALIENNE PERD SA JAMBE APRÈS AVOIR ÉTÉ PERCUTÉE PAR LE CONDUCTEUR D'UN SUV, LE SUSPECT INTERPELLÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:10",
+      "date": "20/10",
+      "timestamp": 1792483822
+    },
     {
       "id": "BFMTV_1792476362",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "09:11",
       "date": "16/10",
       "timestamp": 1792141882
-    },
-    {
-      "id": "BFMTV_1792140898",
-      "source": "BFMTV",
-      "text": "AIDES À L'UKRAINE : \"CE QUI EST PRIORITAIRE, C'EST LE PEUPLE FRANÇAIS, [...] ON A DÉJÀ DONNÉ BEAUCOUP D'ARGENT\", DÉFEND LAURE LAVALETTE (RN)  ",
-      "urgent": false,
-      "france_related": true,
-      "time": "08:54",
-      "date": "16/10",
-      "timestamp": 1792140898
-    },
-    {
-      "id": "BFMTV_1792138609",
-      "source": "BFMTV",
-      "text": "LE PRÉSIDENT DU CONSEIL EUROPÉEN RÉAFFIRME LE SOUTIEN DE L'UE À L'UKRAINE, \"CE N'EST PAS LE MOMENT D'ALLÉGER LES SANCTIONS CONTRE LA RUSSIE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:16",
-      "date": "16/10",
-      "timestamp": 1792138609
-    },
-    {
-      "id": "BFMTV_1792137960",
-      "source": "BFMTV",
-      "text": "\"ILS N’ONT MÊME PAS DE TOILETTES DÉCENTES\": LA NOUVELLE PORTE-PAROLE DE LA MAISON BLANCHE KATIE ZACHARIA TACLE LA CHINE LORS D'UNE INTERVIEW TÉLÉVISÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:06",
-      "date": "16/10",
-      "timestamp": 1792137960
-    },
-    {
-      "id": "BFMTV_1792137928",
-      "source": "BFMTV",
-      "text": "ACCORDS D'IMPORTATION AVEC L'UKRAINE: \"NOUS AVONS BESOIN DE RÉAFFIRMER UNE VISION DE L'AGRICULTURE\", AFFIRME ARNAUD ROUSSEAU, PRÉSIDENT DE LA FNSEA",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:05",
-      "date": "16/10",
-      "timestamp": 1792137928
-    },
-    {
-      "id": "BFMTV_1792137685",
-      "source": "BFMTV",
-      "text": "BIODIVERSITÉ: \"SUBVENTIONNER LES ÉNERGIES FOSSILES\" C'EST \"SUBVENTIONNER LE SUICIDE\", AFFIRME LE CHEF DE L'ONU",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:01",
-      "date": "16/10",
-      "timestamp": 1792137685
-    },
-    {
-      "id": "BFMTV_1792136929",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY ATTEND DES DISCUSSIONS AVEC L'UE SUR LA \"DÉFENSE AÉRIENNE ET DES FINANCEMENTS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:48",
-      "date": "16/10",
-      "timestamp": 1792136929
     }
   ],
   "france": {
