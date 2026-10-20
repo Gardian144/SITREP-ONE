@@ -1,7 +1,27 @@
 {
-  "last_update": "20/10 02:06",
+  "last_update": "20/10 07:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792476362",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ACCUSE LES \"MIGRANTS\" DE \"PILLER ET RÉDUIRE EN CENDRES\" LA FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:06",
+      "date": "20/10",
+      "timestamp": 1792476362
+    },
+    {
+      "id": "BFMTV_1792474604",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: QUATRE MORTS APRÈS DES FRAPPES RUSSES DANS LES RÉGIONS DE KIEV ET DE ZAPORIJJIA",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:36",
+      "date": "20/10",
+      "timestamp": 1792474604
+    },
     {
       "id": "BFMTV_1792446055",
       "source": "BFMTV",
@@ -51,6 +71,16 @@
       "time": "18:17",
       "date": "19/10",
       "timestamp": 1792433857
+    },
+    {
+      "id": "BFMTV_1792432020",
+      "source": "BFMTV",
+      "text": "\"UNE PETITE FILLE TUÉE DANS SA POUSSETTE\": SIX PERSONNES DONT TROIS ENFANTS TUÉS PAR UNE FRAPPE RUSSE DANS UN PARC DANS L'EST DE L'UKRAINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:47",
+      "date": "19/10",
+      "timestamp": 1792432020
     },
     {
       "id": "OPEX360_1792431329",
@@ -971,36 +1001,6 @@
       "time": "07:48",
       "date": "16/10",
       "timestamp": 1792136929
-    },
-    {
-      "id": "BFMTV_1792136819",
-      "source": "BFMTV",
-      "text": "URSULA VON DER LEYEN: \"AUCUNE SANCTION NE SERA LEVÉE TANT QUE LA RUSSIE N'AURA PAS MIS FIN À LA GUERRE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:46",
-      "date": "16/10",
-      "timestamp": 1792136819
-    },
-    {
-      "id": "BFMTV_1792136400",
-      "source": "BFMTV",
-      "text": "\"CE N'EST PAS LE MOMENT DE RETIRER LE SOUTIEN À L'UKRAINE\", CLAME LE PRÉSIDENT DU CONSEIL EUROPÉEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:40",
-      "date": "16/10",
-      "timestamp": 1792136400
-    },
-    {
-      "id": "BFMTV_1792132608",
-      "source": "BFMTV",
-      "text": "SECOUÉ PAR DONALD TRUMP, VOLODYMYR ZELENSKY CHERCHE LE SOUTIEN RENFORCÉ DES EUROPÉENS À BRUXELLES",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:36",
-      "date": "16/10",
-      "timestamp": 1792132608
     }
   ],
   "france": {
