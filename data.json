@@ -1,7 +1,37 @@
 {
-  "last_update": "20/10 17:54",
+  "last_update": "20/10 21:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792529389",
+      "source": "BFMTV",
+      "text": "INTERROGÉ SUR UN ÉVENTUEL SOUTIEN À MARINE LE PEN, DONALD TRUMP RÉPOND QU'IL NE \"LA CONNAÎT PAS\", MAIS QU'ELLE EST \"LA VOIX CONSERVATRICE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:49",
+      "date": "20/10",
+      "timestamp": 1792529389
+    },
+    {
+      "id": "BFMTV_1792522236",
+      "source": "BFMTV",
+      "text": "PROPOS DE DONALD TRUMP SUR LE 17 OCTOBRE: \"SES REMARQUES N'ENGAGENT QUE LUI\", DÉCLARE THIERRY BRETON, ANCIEN COMMISSAIRE EUROPÉEN ET ANCIEN MINISTRE DE L'ÉCONOMIE",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:50",
+      "date": "20/10",
+      "timestamp": 1792522236
+    },
+    {
+      "id": "BFMTV_1792520219",
+      "source": "BFMTV",
+      "text": "MANIFESTATIONS EN ITALIE: 500 SOLDATS DÉPLOYÉS À MILAN APRÈS DE VIOLENTS AFFRONTEMENTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:16",
+      "date": "20/10",
+      "timestamp": 1792520219
+    },
     {
       "id": "BFMTV_1792518456",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "14:29",
       "date": "16/10",
       "timestamp": 1792160954
-    },
-    {
-      "id": "BFMTV_1792159596",
-      "source": "BFMTV",
-      "text": "ROYAUME-UNI: LES LUNETTES CONNECTÉES BIENTÔT INTERDITES AU PARLEMENT BRITANNIQUE ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:06",
-      "date": "16/10",
-      "timestamp": 1792159596
-    },
-    {
-      "id": "BFMTV_1792158177",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY BOUC ÉMISSAIRE DE DONALD TRUMP ? LA RÉPONSE DU PRÉSIDENT UKRAINIEN FAIT RIRE LA SALLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:42",
-      "date": "16/10",
-      "timestamp": 1792158177
-    },
-    {
-      "id": "BFMTV_1792157872",
-      "source": "BFMTV",
-      "text": "DU FENTANYL DONNÉ À LA PLACE DE COCAÏNE: UNE ÉTUDIANTE NEW-YORKAISE MEURT APRÈS AVOIR ÉTÉ DROGUÉE ET VIOLÉE DANS SON DORTOIR",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:37",
-      "date": "16/10",
-      "timestamp": 1792157872
     }
   ],
   "france": {
