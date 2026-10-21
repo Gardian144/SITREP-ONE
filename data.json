@@ -1,7 +1,77 @@
 {
-  "last_update": "21/10 04:45",
+  "last_update": "21/10 09:49",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792573525",
+      "source": "BFMTV",
+      "text": "LE PRÉSIDENT ARGENTIN JAVIER MILEI QUALIFIE LE PREMIER MINISTRE ESPAGNOL PEDRO SÁNCHEZ DE \"DICTATEUR\" LORS D'UN DÉPLACEMENT À MADRID",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:05",
+      "date": "21/10",
+      "timestamp": 1792573525
+    },
+    {
+      "id": "BFMTV_1792572360",
+      "source": "BFMTV",
+      "text": "LA DÉPUTÉE AUSTRALIENNE PERCUTÉE VOLONTAIREMENT PAR LE CONDUCTEUR D'UN SUV AMPUTÉE DES DEUX JAMBES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:46",
+      "date": "21/10",
+      "timestamp": 1792572360
+    },
+    {
+      "id": "OPEX360_1792567204",
+      "source": "OPEX360",
+      "text": "UN MIRAGE 2000D RMV S’EST ÉCRASÉ PRÈS DE NANCY",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:20",
+      "date": "21/10",
+      "timestamp": 1792567204
+    },
+    {
+      "id": "BFMTV_1792565329",
+      "source": "BFMTV",
+      "text": "LULA ET FLAVIO BOLSONARO TENTENT DE SE DISQUALIFIER DE L'ÉLECTION PRÉSIDENTIELLE AU BRÉSIL, LES RÉSEAUX SOCIAUX DE META MIS EN CAUSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:48",
+      "date": "21/10",
+      "timestamp": 1792565329
+    },
+    {
+      "id": "BFMTV_1792563734",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ESTIME QUE MARINE LE PEN A ÉTÉ \"MALTRAITÉE\" PAR LA JUSTICE FRANÇAISE",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:22",
+      "date": "21/10",
+      "timestamp": 1792563734
+    },
+    {
+      "id": "BFMTV_1792560262",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:24",
+      "date": "21/10",
+      "timestamp": 1792560262
+    },
+    {
+      "id": "BFMTV_1792560261",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: L'ÉMISSAIRE DE DONALD TRUMP STEVE WITKOFF ATTENDU EN RUSSIE POUR DES POURPARLERS AVEC VLADIMIR POUTINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:24",
+      "date": "21/10",
+      "timestamp": 1792560261
+    },
     {
       "id": "BFMTV_1792556504",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "18:18",
       "date": "16/10",
       "timestamp": 1792174691
-    },
-    {
-      "id": "BFMTV_1792174247",
-      "source": "BFMTV",
-      "text": "\"ÇA N'A RIEN À VOIR AVEC LES ÉCHÉANCES ÉLECTORALES\": LE PRÉSIDENT DU CONSEIL EUROPÉEN VEUT CONCLURE UN ACCORD SUR LE BUDGET AVANT LA FIN DE L'ANNÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:10",
-      "date": "16/10",
-      "timestamp": 1792174247
-    },
-    {
-      "id": "BFMTV_1792173861",
-      "source": "BFMTV",
-      "text": "\"LAISSE-MOI MOURIR\": UNE JOURNALISTE DU WASHINGTON POST ROUÉE DE COUPS PENDANT UNE ATTAQUE DE COLONS ISRAÉLIENS EN CISJORDANIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:04",
-      "date": "16/10",
-      "timestamp": 1792173861
-    },
-    {
-      "id": "BFMTV_1792172545",
-      "source": "BFMTV",
-      "text": "\"NOUS NE LÂCHERONS PAS L'UKRAINE\", PROMET EMMANUEL MACRON",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:42",
-      "date": "16/10",
-      "timestamp": 1792172545
-    },
-    {
-      "id": "OPEX360_1792172256",
-      "source": "OPEX360",
-      "text": "LE NOUVEAU SOUS-MARIN NUCLÉAIRE D’ATTAQUE RUBIS REJOINT LE DISPOSITIF DE MISE À L’EAU EN VUE DE SON LANCEMENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:37",
-      "date": "16/10",
-      "timestamp": 1792172256
-    },
-    {
-      "id": "BFMTV_1792171057",
-      "source": "BFMTV",
-      "text": "\"NOUS NE LÂCHERONS PAS L'UKRAINE\": EMMANUEL MACRON RÉAFFIRME LE SOUTIEN DE LA FRANCE À KIEV EN MARGE DU CONSEIL EUROPÉEN",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:17",
-      "date": "16/10",
-      "timestamp": 1792171057
-    },
-    {
-      "id": "BFMTV_1792169845",
-      "source": "BFMTV",
-      "text": "MEXIQUE: L’AMIBE \"MANGEUSE DE CERVEAU\" DÉTECTÉE DANS SIX LACS DU YUCATÁN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:57",
-      "date": "16/10",
-      "timestamp": 1792169845
-    },
-    {
-      "id": "OPEX360_1792168701",
-      "source": "OPEX360",
-      "text": "EN ATTENDANT LE THUNDART, LE 1ER RÉGIMENT D’ARTILLERIE VA CRÉER UNE BATTERIE DOTÉE DE MUNITIONS TÉLÉOPÉRÉES À LONGUE PORTÉE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:38",
-      "date": "16/10",
-      "timestamp": 1792168701
     }
   ],
   "france": {
