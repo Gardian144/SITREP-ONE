@@ -1,7 +1,47 @@
 {
-  "last_update": "20/10 21:16",
+  "last_update": "21/10 00:01",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792532864",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DIT AVOIR DEMANDÉ À VLADIMIR POUTINE DE RELÂCHER STEPHEN HUBBARD, UN AMÉRICAIN DÉTENU EN RUSSIE",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:47",
+      "date": "20/10",
+      "timestamp": 1792532864
+    },
+    {
+      "id": "BFMTV_1792532416",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP DÉCLARE QU'IL \"VEUT QUE L'UKRAINE CONCLUE UN ACCORD\" AVEC LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:40",
+      "date": "20/10",
+      "timestamp": 1792532416
+    },
+    {
+      "id": "BFMTV_1792531647",
+      "source": "BFMTV",
+      "text": "VIOLENCES DU 17 OCTOBRE: DONALD TRUMP ET L'EXTRÊME DROITE AMÉRICAINE INSTRUMENTALISENT LA SITUATION EN FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:27",
+      "date": "20/10",
+      "timestamp": 1792531647
+    },
+    {
+      "id": "BFMTV_1792531540",
+      "source": "BFMTV",
+      "text": "VIOLENCES DU 17 OCTOBRE: BENJAMIN NETANYAHU AFFIRME QUE LA FRANCE A \"CÉDÉ À L'INVASION DE L'ISLAM EXTRÉMISTE\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "21:25",
+      "date": "20/10",
+      "timestamp": 1792531540
+    },
     {
       "id": "BFMTV_1792529389",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "15:35",
       "date": "16/10",
       "timestamp": 1792164956
-    },
-    {
-      "id": "OPEX360_1792164768",
-      "source": "OPEX360",
-      "text": "FAUTE DE PATROLLER, LE 61E RÉGIMENT D’ARTILLERIE SERA DOTÉ DE DRONES TEKEVER AR3",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:32",
-      "date": "16/10",
-      "timestamp": 1792164768
-    },
-    {
-      "id": "BFMTV_1792162280",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY RÉCLAME 70 MILLIARDS D'EUROS DE PLUS À L'UNION EUROPÉENNE, MARINE LE PEN ESTIME QUE LA FRANCE N'A \"PLUS LES MOYENS\"",
-      "urgent": true,
-      "france_related": true,
-      "time": "14:51",
-      "date": "16/10",
-      "timestamp": 1792162280
-    },
-    {
-      "id": "BFMTV_1792161795",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY RÉCLAME 70 MILLIARDS D'EUROS DE PLUS À L'UE, JORDAN BARDELLA RÉPOND QUE \"LA FRANCE NE LES A PAS\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:43",
-      "date": "16/10",
-      "timestamp": 1792161795
-    },
-    {
-      "id": "BFMTV_1792160954",
-      "source": "BFMTV",
-      "text": "LES IMAGES IMPRESSIONNANTES DES INCENDIES QUI FONT RAGE DANS LE SUD DE LA CALIFORNIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:29",
-      "date": "16/10",
-      "timestamp": 1792160954
     }
   ],
   "france": {
