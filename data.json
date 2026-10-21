@@ -1,7 +1,27 @@
 {
-  "last_update": "21/10 19:06",
+  "last_update": "21/10 22:20",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792614599",
+      "source": "BFMTV",
+      "text": "STEVE WITKOFF RENCONTRE L'AMÉRICAIN STEPHEN HUBBARD, LIBÉRÉ PAR LA RUSSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:29",
+      "date": "21/10",
+      "timestamp": 1792614599
+    },
+    {
+      "id": "BFMTV_1792610920",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QUE LA FIN DE LA GUERRE EN UKRAINE N'A JAMAIS ÉTÉ \"AUSSI PROCHE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:28",
+      "date": "21/10",
+      "timestamp": 1792610920
+    },
     {
       "id": "BFMTV_1792609067",
       "source": "BFMTV",
@@ -97,6 +117,16 @@
       "source": "BFMTV",
       "text": "GUERRE EN UKRAINE: LA RUSSIE PRÊTE À REPRENDRE DES NÉGOCIATIONS AVEC KIEV ET LES ÉTATS-UNIS À LA MI-NOVEMBRE",
       "urgent": true,
+      "france_related": false,
+      "time": "13:41",
+      "date": "21/10",
+      "timestamp": 1792590087
+    },
+    {
+      "id": "BFMTV_1792590087",
+      "source": "BFMTV",
+      "text": "VLADIMIR POUTINE",
+      "urgent": false,
       "france_related": false,
       "time": "13:41",
       "date": "21/10",
@@ -971,36 +1001,6 @@
       "time": "15:02",
       "date": "17/10",
       "timestamp": 1792249351
-    },
-    {
-      "id": "OPEX360_1792246083",
-      "source": "OPEX360",
-      "text": "AVEC VULTRA, L’ARMÉE DE L’AIR & DE L’ESPACE VA FACILITER LES LIAISONS ENTRE UN AÉRONEF ET DES DRONES",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:08",
-      "date": "17/10",
-      "timestamp": 1792246083
-    },
-    {
-      "id": "OPEX360_1792241797",
-      "source": "OPEX360",
-      "text": "L’INTÉRÊT DE CHYPRE POUR L’ENGIN BLINDÉ DE RECONNAISSANCE ET DE COMBAT JAGUAR SE CONFIRME",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:56",
-      "date": "17/10",
-      "timestamp": 1792241797
-    },
-    {
-      "id": "OPEX360_1792233451",
-      "source": "OPEX360",
-      "text": "LE PREMIER ÉQUIPAGE DE LA FRÉGATE DE DÉFENSE ET D’INTERVENTION «AMIRAL LOUZEAU» A ÉTÉ OFFICIELLEMENT CONSTITUÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:37",
-      "date": "17/10",
-      "timestamp": 1792233451
     }
   ],
   "france": {
