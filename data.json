@@ -1,7 +1,47 @@
 {
-  "last_update": "22/10 11:12",
+  "last_update": "22/10 15:53",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1792683347",
+      "source": "OPEX360",
+      "text": "UN RAPPORT S’INQUIÈTE DES DÉFICITS CAPACITAIRES DE LA ROYAL NAVY POUR POUR CONTRER LES SOUS-MARINS RUSSES DANS LE GRAND NORD",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:35",
+      "date": "22/10",
+      "timestamp": 1792683347
+    },
+    {
+      "id": "BFMTV_1792681109",
+      "source": "BFMTV",
+      "text": "LE CANADA ET LA TURQUIE SIGNENT UN ACCORD DE PARTENARIAT DANS L'INDUSTRIE DE LA DÉFENSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:58",
+      "date": "22/10",
+      "timestamp": 1792681109
+    },
+    {
+      "id": "BFMTV_1792676799",
+      "source": "BFMTV",
+      "text": "MIDTERMS 2026: UN CANDIDAT RÉPUBLICAIN UTILISE LA MÈRE DE SON ADVERSAIRE POUR L'ATTAQUER",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:46",
+      "date": "22/10",
+      "timestamp": 1792676799
+    },
+    {
+      "id": "BFMTV_1792675414",
+      "source": "BFMTV",
+      "text": "UNE VIDÉO \"ABJECTE\": UN CANDIDAT AU POSTE DE GOUVERNEUR UTILISE LA MÈRE DE SA RIVALE DANS UN CLIP DE CAMPAGNE ET CRÉE LA POLÉMIQUE AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:23",
+      "date": "22/10",
+      "timestamp": 1792675414
+    },
     {
       "id": "OPEX360_1792666876",
       "source": "OPEX360",
@@ -16,6 +56,16 @@
       "id": "BFMTV_1792666226",
       "source": "BFMTV",
       "text": "\"ON REMONTE LA PENTE\": L'AMBASSADEUR D'ISRAËL EN FRANCE ASSURE QUE LES RELATIONS ENTRE LES DEUX PAYS SONT À UN NIVEAU \"TRÈS BAS\" MAIS S'AMÉLIORENT",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:50",
+      "date": "22/10",
+      "timestamp": 1792666226
+    },
+    {
+      "id": "BFMTV_1792666226",
+      "source": "BFMTV",
+      "text": "\"NOUS COMMENÇONS À REMONTER LA PENTE\": L'AMBASSADEUR D'ISRAËL EN FRANCE ASSURE QUE LES RELATIONS ENTRE LES DEUX PAYS SONT À UN NIVEAU \"TRÈS BAS\" MAIS S'AMÉLIORENT",
       "urgent": true,
       "france_related": true,
       "time": "10:50",
@@ -951,56 +1001,6 @@
       "time": "04:36",
       "date": "19/10",
       "timestamp": 1792384576
-    },
-    {
-      "id": "BFMTV_1792358355",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DONALD TRUMP ACCUSE VOLODYMYR ZELENSKY DE \"NE PAS VOULOIR METTRE FIN\" AU CONFLIT AVEC LA RUSSIE",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:19",
-      "date": "18/10",
-      "timestamp": 1792358355
-    },
-    {
-      "id": "BFMTV_1792338335",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY DIT AVOIR ÉCHANGÉ AVEC LES ENVOYÉS AMÉRICAINS JARED KUSHNER ET STEVE WITKOFF",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:45",
-      "date": "18/10",
-      "timestamp": 1792338335
-    },
-    {
-      "id": "BFMTV_1792330716",
-      "source": "BFMTV",
-      "text": "\"UN DÉSASTRE QUI NE SURVIENT QU'UNE FOIS TOUS LES 15 À 25 ANS\": PLUSIEURS MORTS ET BLESSÉS APRÈS UN INCENDIE SUR UNE BASE MILITAIRE AU CANADA",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:38",
-      "date": "18/10",
-      "timestamp": 1792330716
-    },
-    {
-      "id": "OPEX360_1792321544",
-      "source": "OPEX360",
-      "text": "LA NACELLE DE RENSEIGNEMENT ÉLECTROMAGNÉTIQUE VA (ENFIN) ÊTRE OPÉRATIONNELLE SUR LES DRONES REAPER DE L’ARMÉE DE L’AIR",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:05",
-      "date": "18/10",
-      "timestamp": 1792321544
-    },
-    {
-      "id": "OPEX360_1792317790",
-      "source": "OPEX360",
-      "text": "CANADA : UN «INCIDENT GRAVE» A FAIT PLUSIEURS TUÉS ET DE NOMBREUX BLESSÉS SUR LA BASE MILITAIRE DE WAINWRIGHT",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:03",
-      "date": "18/10",
-      "timestamp": 1792317790
     }
   ],
   "france": {
