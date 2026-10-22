@@ -1,7 +1,127 @@
 {
-  "last_update": "22/10 05:45",
+  "last_update": "22/10 11:12",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1792666876",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT ÉVALUE LE DRONE SOUS-MARIN TRANSOCÉANIQUE ORYX O-16 D’EXAIL",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:01",
+      "date": "22/10",
+      "timestamp": 1792666876
+    },
+    {
+      "id": "BFMTV_1792666226",
+      "source": "BFMTV",
+      "text": "\"ON REMONTE LA PENTE\": L'AMBASSADEUR D'ISRAËL EN FRANCE ASSURE QUE LES RELATIONS ENTRE LES DEUX PAYS SONT À UN NIVEAU \"TRÈS BAS\" MAIS S'AMÉLIORENT",
+      "urgent": true,
+      "france_related": true,
+      "time": "10:50",
+      "date": "22/10",
+      "timestamp": 1792666226
+    },
+    {
+      "id": "BFMTV_1792665141",
+      "source": "BFMTV",
+      "text": "DES VENTS À 213 KM/H: TAÏWAN EN ALERTE À L'APPROCHE DU TYPHON CHAMPI, DES DIZAINES DE VOLS ANNULÉS EN ASIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:32",
+      "date": "22/10",
+      "timestamp": 1792665141
+    },
+    {
+      "id": "BFMTV_1792663164",
+      "source": "BFMTV",
+      "text": "FRAPPES EN UKRAINE: VOLODYMYR ZELENSKY ESTIME QUE LA RUSSIE N'A PAS \"CHANGÉ D'ATTITUDE\" AU LENDEMAIN D'UNE RENCONTRE ENTRE L'ÉMISSAIRE DE DONALD TRUMP ET VLADIMIR POUTINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "09:59",
+      "date": "22/10",
+      "timestamp": 1792663164
+    },
+    {
+      "id": "BFMTV_1792661442",
+      "source": "BFMTV",
+      "text": "INONDATIONS EN AUSTRALIE: UN JOURNALISTE AUSTRALIEN SAUVE UN HOMME PIÉGÉ DANS UNE VOITURE",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:30",
+      "date": "22/10",
+      "timestamp": 1792661442
+    },
+    {
+      "id": "BFMTV_1792661038",
+      "source": "BFMTV",
+      "text": "OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:23",
+      "date": "22/10",
+      "timestamp": 1792661038
+    },
+    {
+      "id": "BFMTV_1792658898",
+      "source": "BFMTV",
+      "text": "UN JOURNALISTE DE TÉLÉVISION AUSTRALIEN ET UN PASSANT SAUVENT UN HOMME DE LA NOYADE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:48",
+      "date": "22/10",
+      "timestamp": 1792658898
+    },
+    {
+      "id": "BFMTV_1792650467",
+      "source": "BFMTV",
+      "text": "\"J'AI APPELÉ GOOGLE MAPS\": DONALD TRUMP A VOULU RENOMMER L'OCÉAN ATLANTIQUE \"OCÉAN TRUMP\" AVANT DE \"LAISSER TOMBER\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:27",
+      "date": "22/10",
+      "timestamp": 1792650467
+    },
+    {
+      "id": "BFMTV_1792645846",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:10",
+      "date": "22/10",
+      "timestamp": 1792645846
+    },
+    {
+      "id": "BFMTV_1792645846",
+      "source": "BFMTV",
+      "text": "WASHINGTON ORDONNE LE DÉPART D'EMPLOYÉS ET DE LEURS FAMILLES DE L'AMBASSADE AMÉRICAINE À RIYAD APRÈS DES ATTAQUES RÉPÉTÉES DES HOUTHIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:10",
+      "date": "22/10",
+      "timestamp": 1792645846
+    },
+    {
+      "id": "BFMTV_1792643670",
+      "source": "BFMTV",
+      "text": "L'ÉDITO INTERNATIONAL - VERS UN YALTA POUR L'UKRAINE? ",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:34",
+      "date": "22/10",
+      "timestamp": 1792643670
+    },
+    {
+      "id": "BFMTV_1792642909",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: TIRS DE MISSILES SUR KIEV ET ATTAQUES DE DRONES SUR LA RÉGION DE MOSCOU, QUELQUES HEURES APRÈS LES POURPARLERS RUSSO-AMÉRICAINS",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:21",
+      "date": "22/10",
+      "timestamp": 1792642909
+    },
     {
       "id": "BFMTV_1792614599",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "10:03",
       "date": "18/10",
       "timestamp": 1792317790
-    },
-    {
-      "id": "OPEX360_1792317790",
-      "source": "OPEX360",
-      "text": "CANADA : UN «INCIDENT GRAVE» A FAIT PLUSIEURS TUÉS ET DE NOMBREUX BLESSÉS SUR LA BASE MILITAIRE DE WAINWRIGHT [MÀJ]",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:03",
-      "date": "18/10",
-      "timestamp": 1792317790
-    },
-    {
-      "id": "BFMTV_1792317235",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN SE DOTE D'UN MINISTRE DE LA DÉFENSE, HUIT MOIS APRÈS LE DÉBUT DU CONFLIT",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:53",
-      "date": "18/10",
-      "timestamp": 1792317235
-    },
-    {
-      "id": "BFMTV_1792311908",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: WASHINGTON RELATIVISE LA DÉCISION DE DONALD TRUMP D'EXEMPTER LA RUSSIE DE NOUVELLES SANCTIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:25",
-      "date": "18/10",
-      "timestamp": 1792311908
-    },
-    {
-      "id": "BFMTV_1792306808",
-      "source": "BFMTV",
-      "text": "DUBAÏ EST-ELLE TOUJOURS UNE PLANQUE DORÉE POUR LES NARCOTRAFIQUANTS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:00",
-      "date": "18/10",
-      "timestamp": 1792306808
-    },
-    {
-      "id": "BFMTV_1792300198",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: UN INCENDIE DANS UN TERMINAL PÉTROLIER DE SAINT-PÉTERSBOURG APRÈS UNE ATTAQUE UKRAINIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:09",
-      "date": "18/10",
-      "timestamp": 1792300198
-    },
-    {
-      "id": "BFMTV_1792297501",
-      "source": "BFMTV",
-      "text": "MOBILISATIONS DU 17 OCTOBRE: LES ÉVÈNEMENTS EN FRANCE À LA UNE DE LA PRESSE ÉTRANGÈRE",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:25",
-      "date": "18/10",
-      "timestamp": 1792297501
-    },
-    {
-      "id": "BFMTV_1792265224",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP RÉPÈTE QU’IL DONNERA 5000 DOLLARS AUX AMÉRICAINS EN CAS DE VICTOIRE AUX MIDTERMS.",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:27",
-      "date": "17/10",
-      "timestamp": 1792265224
-    },
-    {
-      "id": "BFMTV_1792259134",
-      "source": "BFMTV",
-      "text": "CISJORDANIE OCCUPÉE: UN MAIRE FRANÇAIS FRAPPÉ PAR DES COLONS LORS DE L'ATTAQUE D'UN CONVOI DE DIPLOMATES EUROPÉENS",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:45",
-      "date": "17/10",
-      "timestamp": 1792259134
-    },
-    {
-      "id": "BFMTV_1792252357",
-      "source": "BFMTV",
-      "text": "158 ANS DE PRISON CHACUN: AU MEXIQUE, LES MEURTRIERS DE TROIS SURFEURS ÉTRANGERS LOURDEMENT CONDAMNÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:52",
-      "date": "17/10",
-      "timestamp": 1792252357
-    },
-    {
-      "id": "BFMTV_1792252231",
-      "source": "BFMTV",
-      "text": "GUERRE AU MOYEN-ORIENT: L'IRAN DIT SOUTENIR \"UN PROCESSUS POLITIQUE\" POUR METTRE FIN AU CONFLIT ENTRE L'ARABIE SAOUDIT ET LES HOUTHIS DU YEMEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:50",
-      "date": "17/10",
-      "timestamp": 1792252231
-    },
-    {
-      "id": "BFMTV_1792250269",
-      "source": "BFMTV",
-      "text": "INCENDIES EN INDONÉSIE: LE NIVEAU D'ALERTE MAXIMAL ACTIVÉ DANS UNE PARTIE DE L'ASIE DU SUD-EST EN RAISON DES FUMÉES TOXIQUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:17",
-      "date": "17/10",
-      "timestamp": 1792250269
-    },
-    {
-      "id": "BFMTV_1792249351",
-      "source": "BFMTV",
-      "text": "\"NOUS SOMMES PERDUS ET BRISÉS\": LA FAMILLE D'UN GARÇON DE 5 ANS TUÉ DANS LA FUSILLADE DANS L'OREGON TÉMOIGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:02",
-      "date": "17/10",
-      "timestamp": 1792249351
     }
   ],
   "france": {
