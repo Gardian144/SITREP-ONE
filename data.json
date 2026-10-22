@@ -1,5 +1,5 @@
 {
-  "last_update": "22/10 19:45",
+  "last_update": "22/10 22:47",
   "impacts": [],
   "news": [
     {
@@ -16,6 +16,16 @@
       "id": "BFMTV_1792694916",
       "source": "BFMTV",
       "text": "UN SÉISME DE MAGNITUDE 7 FAIT PLUSIEURS VICTIMES AU TIBET",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:48",
+      "date": "22/10",
+      "timestamp": 1792694916
+    },
+    {
+      "id": "BFMTV_1792694916",
+      "source": "BFMTV",
+      "text": "UN SÉISME DE MAGNITUDE 7 FAIT 16 MORTS ET 32 BLESSÉS  AU TIBET",
       "urgent": false,
       "france_related": false,
       "time": "18:48",
@@ -991,16 +1001,6 @@
       "time": "12:52",
       "date": "19/10",
       "timestamp": 1792414376
-    },
-    {
-      "id": "BFMTV_1792407744",
-      "source": "BFMTV",
-      "text": "\"MENTEUR INVÉTÉRÉ\", \"VOYOU\"... LE PRÉSIDENT BRÉSILIEN LULA ET SON RIVAL FLAVIO BOLSONARO S'ÉCHARPENT LORS DE LEUR PREMIER DÉBAT AVANT LE SECOND TOUR DE LA PRÉSIDENTIELLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:02",
-      "date": "19/10",
-      "timestamp": 1792407744
     }
   ],
   "france": {
