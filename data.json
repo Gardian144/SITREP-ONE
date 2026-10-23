@@ -1,7 +1,17 @@
 {
-  "last_update": "23/10 01:13",
+  "last_update": "23/10 06:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792730285",
+      "source": "BFMTV",
+      "text": "PRÉSIDENTIELLE AU BRÉSIL: UN SONDAGE DONNE LULA ET FLÁVIO BOLSONARO À ÉGALITÉ À 50% À TROIS JOURS DU SECOND TOUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "04:38",
+      "date": "23/10",
+      "timestamp": 1792730285
+    },
     {
       "id": "BFMTV_1792697079",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "14:35",
       "date": "19/10",
       "timestamp": 1792420555
-    },
-    {
-      "id": "BFMTV_1792414376",
-      "source": "BFMTV",
-      "text": "17 OCTOBRE: L'UNION EUROPÉENNE APPELLE LA FRANCE À \"PROTÉGER\" LE DROIT À MANIFESTER PACIFIQUEMENT",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:52",
-      "date": "19/10",
-      "timestamp": 1792414376
     }
   ],
   "france": {
