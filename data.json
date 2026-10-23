@@ -1,7 +1,47 @@
 {
-  "last_update": "23/10 06:03",
+  "last_update": "23/10 11:38",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1792751914",
+      "source": "OPEX360",
+      "text": "LE PENTAGONE ET LOCKHEED MARTIN ONT CONCLU UN ACCORD-CADRE POUR LA PRODUCTION DE 850 F-35 SUR 10 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:38",
+      "date": "23/10",
+      "timestamp": 1792751914
+    },
+    {
+      "id": "BFMTV_1792748364",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU DEMANDE À L'ARMÉE DE PRÉPARER LE \"BOUCLAGE\" DE LA CISJORDANIE APRÈS DES TIRS CONTRE DES ISRAÉLIENS",
+      "urgent": false,
+      "france_related": true,
+      "time": "09:39",
+      "date": "23/10",
+      "timestamp": 1792748364
+    },
+    {
+      "id": "BFMTV_1792742041",
+      "source": "BFMTV",
+      "text": "\"J'AI LE DROIT\": DEVANT SES SUPPORTERS, DONALD TRUMP LAISSE À NOUVEAU PLANER LE DOUTE SUR UNE CANDIDATURE À UN TROISIÈME MANDAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:54",
+      "date": "23/10",
+      "timestamp": 1792742041
+    },
+    {
+      "id": "BFMTV_1792741405",
+      "source": "BFMTV",
+      "text": "TAÏWAN EN ALERTE À L'APPROCHE DU TYPHON CHAMPI",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:43",
+      "date": "23/10",
+      "timestamp": 1792741405
+    },
     {
       "id": "BFMTV_1792730285",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "16:35",
       "date": "19/10",
       "timestamp": 1792427716
-    },
-    {
-      "id": "BFMTV_1792427667",
-      "source": "BFMTV",
-      "text": "CHINE, ALLEMAGNE, ITALIE... PLUSIEURS PAYS APPELLENT LEURS RESSORTISSANTS PRÉSENTS EN FRANCE À LA PRUDENCE APRÈS LES VIOLENCES DU 17 OCTOBRE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:34",
-      "date": "19/10",
-      "timestamp": 1792427667
-    },
-    {
-      "id": "OPEX360_1792424131",
-      "source": "OPEX360",
-      "text": "UN ENGIN SPATIAL RUSSE S’EST APPROCHÉ À QUELQUES MÈTRES D’UN SATELLITE D’OBSERVATION ICEYE AU TERME DE MANŒUVRES INÉDITES",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:35",
-      "date": "19/10",
-      "timestamp": 1792424131
-    },
-    {
-      "id": "BFMTV_1792421232",
-      "source": "BFMTV",
-      "text": "LE CENTRE DE MILAN EN ITALIE TOUCHÉ PAR DES SCÈNES DE CHAOS ET DE PILLAGES POUR LE DEUXIÈME JOUR CONSÉCUTIF",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:47",
-      "date": "19/10",
-      "timestamp": 1792421232
-    },
-    {
-      "id": "BFMTV_1792420555",
-      "source": "BFMTV",
-      "text": "CISJORDANIE: UN MAIRE FRANÇAIS ROUÉ DE COUPS PAR DES COLONS ISRAÉLIENS",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:35",
-      "date": "19/10",
-      "timestamp": 1792420555
     }
   ],
   "france": {
