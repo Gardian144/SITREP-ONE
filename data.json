@@ -1,7 +1,37 @@
 {
-  "last_update": "24/10 06:13",
+  "last_update": "24/10 11:07",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1792837091",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE ALLEMAND DE LA DÉFENSE PLAIDE EN FAVEUR D’UNE COOPÉRATION AVEC LA SUÈDE POUR DÉVELOPPER UN NOUVEL AVION DE COMBAT",
+      "urgent": false,
+      "france_related": true,
+      "time": "10:18",
+      "date": "24/10",
+      "timestamp": 1792837091
+    },
+    {
+      "id": "OPEX360_1792833747",
+      "source": "OPEX360",
+      "text": "LE FUTUR MISSILE BALISTIQUE TERRESTRE DEVRAIT FINALEMENT ÊTRE MIS EN ŒUVRE PAR L’ARMÉE DE TERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:22",
+      "date": "24/10",
+      "timestamp": 1792833747
+    },
+    {
+      "id": "BFMTV_1792827475",
+      "source": "BFMTV",
+      "text": "DES CENTAINES D'ÉTUDIANTS RÉCLAMENT UNE ACTION DU GOUVERNEMENT FACE AUX FUMÉES DES INCENDIES EN INDONÉSIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:37",
+      "date": "24/10",
+      "timestamp": 1792827475
+    },
     {
       "id": "BFMTV_1792821959",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "11:06",
       "date": "20/10",
       "timestamp": 1792494415
-    },
-    {
-      "id": "BFMTV_1792494109",
-      "source": "BFMTV",
-      "text": "RIEN N'EST DÉLIBÉRÉMENT REFUSÉ\" À L'UKRAINE, ASSURE LE SECRÉTAIRE D'ÉTAT AMÉRICAIN MARCO RUBIO",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:01",
-      "date": "20/10",
-      "timestamp": 1792494109
-    },
-    {
-      "id": "BFMTV_1792494054",
-      "source": "BFMTV",
-      "text": "AU KENYA, UN GOUROU RECONNU COUPABLE DES MEURTRES DE 190 ENFANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:00",
-      "date": "20/10",
-      "timestamp": 1792494054
-    },
-    {
-      "id": "BFMTV_1792489043",
-      "source": "BFMTV",
-      "text": "VOLODYMYR ZELENSKY S'ENTRETIENT AVEC LES ÉMISSAIRES AMÉRICAINS À OSLO SUR FOND DE CRISPATIONS ENTRE KIEV ET WASHINGTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:37",
-      "date": "20/10",
-      "timestamp": 1792489043
     }
   ],
   "france": {
