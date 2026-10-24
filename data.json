@@ -1,7 +1,27 @@
 {
-  "last_update": "24/10 11:07",
+  "last_update": "24/10 14:32",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792845882",
+      "source": "BFMTV",
+      "text": "ALBANIE: DE NOUVELLES MANIFESTATIONS CONTRE LE GOUVERNEMENT ONT LIEU À TIRANA, LA CAPITALE DU PAYS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:44",
+      "date": "24/10",
+      "timestamp": 1792845882
+    },
+    {
+      "id": "BFMTV_1792842815",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: MELANIA TRUMP OBTIENT UNE TRÊVE ENTRE RUSSES ET UKRAINIENS À OLECHKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:53",
+      "date": "24/10",
+      "timestamp": 1792842815
+    },
     {
       "id": "OPEX360_1792837091",
       "source": "OPEX360",
@@ -11,6 +31,26 @@
       "time": "10:18",
       "date": "24/10",
       "timestamp": 1792837091
+    },
+    {
+      "id": "BFMTV_1792834510",
+      "source": "BFMTV",
+      "text": "KENYA: UN IMMEUBLE DE 18 ÉTAGES S'EFFONDRE À NAIROBI, SEPT PERSONNES SONT PORTÉES DISPARUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:35",
+      "date": "24/10",
+      "timestamp": 1792834510
+    },
+    {
+      "id": "BFMTV_1792834350",
+      "source": "BFMTV",
+      "text": "LÉGISLATIVES EN ISRAËL: QUI EST GADI ESEINKOT, LE CANDIDAT QUI POURRAIT RENVERSER BENJAMIN NETANYAHU?",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:32",
+      "date": "24/10",
+      "timestamp": 1792834350
     },
     {
       "id": "OPEX360_1792833747",
@@ -961,46 +1001,6 @@
       "time": "15:16",
       "date": "20/10",
       "timestamp": 1792509386
-    },
-    {
-      "id": "BFMTV_1792502529",
-      "source": "BFMTV",
-      "text": "L'EUROPE DOIT CHANGER SA \"POSTURE STRATÉGIQUE\" DANS L'ARCTIQUE FACE AUX MENACES, DÉCLARE URSULA VON DER LEYEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:22",
-      "date": "20/10",
-      "timestamp": 1792502529
-    },
-    {
-      "id": "BFMTV_1792501121",
-      "source": "BFMTV",
-      "text": "\"50.000 EUROS DE PLAFOND POUR UN PRÊT\": LES COMMERÇANTS SINISTRÉS AURONT ACCÈS À UN PRÊT À TAUX ZÉRO POUR LEUR TRÉSORERIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:58",
-      "date": "20/10",
-      "timestamp": 1792501121
-    },
-    {
-      "id": "OPEX360_1792494726",
-      "source": "OPEX360",
-      "text": "L’ARMÉE UKRAINIENNE REVENDIQUE LA PREMIÈRE ÉVACUATION D’UN SOLDAT BLESSÉ PAR UN DRONE AÉRIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:12",
-      "date": "20/10",
-      "timestamp": 1792494726
-    },
-    {
-      "id": "BFMTV_1792494415",
-      "source": "BFMTV",
-      "text": "AUSTRALIE: UNE DÉPUTÉE GRIÈVEMENT BLESSÉE APRÈS AVOIR ÉTÉ PERCUTÉE PAR UNE VOITURE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:06",
-      "date": "20/10",
-      "timestamp": 1792494415
     }
   ],
   "france": {
