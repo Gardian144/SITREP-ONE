@@ -1,7 +1,47 @@
 {
-  "last_update": "24/10 17:36",
+  "last_update": "24/10 19:48",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792870985",
+      "source": "BFMTV",
+      "text": "\"NOUS DEVONS FAIRE ENTENDRE NOS VOIX\": LES FORCES DE SÉCURITÉ DÉPLOYÉES EN ITALIE EN MARGE DE MANIFESTATIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:43",
+      "date": "24/10",
+      "timestamp": 1792870985
+    },
+    {
+      "id": "BFMTV_1792870985",
+      "source": "BFMTV",
+      "text": "GIORGIA MELONI",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:43",
+      "date": "24/10",
+      "timestamp": 1792870985
+    },
+    {
+      "id": "BFMTV_1792869138",
+      "source": "BFMTV",
+      "text": "JORDANIE: AU MOINS 9 MORTS DANS L'ATTAQUE CONTRE UNE ÉGLISE ORTHODOXE",
+      "urgent": true,
+      "france_related": false,
+      "time": "19:12",
+      "date": "24/10",
+      "timestamp": 1792869138
+    },
+    {
+      "id": "BFMTV_1792861484",
+      "source": "BFMTV",
+      "text": "ISRAËL: DES MILLIERS DE PERSONNES MANIFESTENT À TEL-AVIV POUR RÉCLAMER UNE COMMISSION D'ENQUÊTE SUR LES FAILLES SÉCURITAIRES LIÉES AU 7-OCTOBRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:04",
+      "date": "24/10",
+      "timestamp": 1792861484
+    },
     {
       "id": "BFMTV_1792856891",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "17:42",
       "date": "20/10",
       "timestamp": 1792518173
-    },
-    {
-      "id": "BFMTV_1792517761",
-      "source": "BFMTV",
-      "text": "UKRAINE: LE PARTAGE DE RENSEIGNEMENT AMÉRICAIN FONCTIONNE BIEN DE NOUVEAU, ANNONCE VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:36",
-      "date": "20/10",
-      "timestamp": 1792517761
-    },
-    {
-      "id": "BFMTV_1792517201",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY FORMULE \"DES PROPOSITIONS DE DIFFÉRENTS FORMATS DE CESSEZ-LE-FEU\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:26",
-      "date": "20/10",
-      "timestamp": 1792517201
-    },
-    {
-      "id": "BFMTV_1792516662",
-      "source": "BFMTV",
-      "text": "\"VOYONS CE QUE POUTINE A À DIRE\": VOLODYMYR ZELENSKY ANNONCE QUE L'ENVOYÉ SPÉCIAL AMÉRICAIN STEVE WITKOFF SE REND EN RUSSIE MERCREDI",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:17",
-      "date": "20/10",
-      "timestamp": 1792516662
-    },
-    {
-      "id": "OPEX360_1792515078",
-      "source": "OPEX360",
-      "text": "LE DRONE SOUS-MARIN AUSTRALIEN GHOST SHARK SERA DOTÉ DE MUNITIONS RÔDEUSES ALTIUS 600 ET DE MINES NAVALES",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:51",
-      "date": "20/10",
-      "timestamp": 1792515078
     }
   ],
   "france": {
