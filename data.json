@@ -1,7 +1,37 @@
 {
-  "last_update": "24/10 14:32",
+  "last_update": "24/10 17:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792856891",
+      "source": "BFMTV",
+      "text": "ALLEMAGNE: UN INCENDIE RAVAGE L'ANCIEN REFUGE D'ADOLF HITLER, UN SUSPECT ARRÊTÉ",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:48",
+      "date": "24/10",
+      "timestamp": 1792856891
+    },
+    {
+      "id": "BFMTV_1792856074",
+      "source": "BFMTV",
+      "text": "ITALIE: NOUVELLE JOURNÉE DE MOBILISATION CONTRE LA VIE CHÈRE À MILAN ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:34",
+      "date": "24/10",
+      "timestamp": 1792856074
+    },
+    {
+      "id": "OPEX360_1792853619",
+      "source": "OPEX360",
+      "text": "LUTTE ANTIDRONE : UN SYSTÈME D’ARME LASER A ÉTÉ TESTÉ À BORD DU PORTE-AVIONS CHARLES DE GAULLE",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:53",
+      "date": "24/10",
+      "timestamp": 1792853619
+    },
     {
       "id": "BFMTV_1792845882",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "16:51",
       "date": "20/10",
       "timestamp": 1792515078
-    },
-    {
-      "id": "BFMTV_1792513979",
-      "source": "BFMTV",
-      "text": "L'ITALIE S'APPRÊTE À DÉPLOYER 500 SOLDATS À MILAN APRÈS DES AFFRONTEMENTS ENTRE LA POLICE ET DES MANIFESTANTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:32",
-      "date": "20/10",
-      "timestamp": 1792513979
-    },
-    {
-      "id": "BFMTV_1792511140",
-      "source": "BFMTV",
-      "text": "ÉQUATEUR: UN PRÊTRE TUÉ PAR LA CHUTE D'UN CRUCIFIX EN PLEINE MESSE RETRANSMISE EN DIRECT",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:45",
-      "date": "20/10",
-      "timestamp": 1792511140
-    },
-    {
-      "id": "OPEX360_1792509386",
-      "source": "OPEX360",
-      "text": "LE ROYAUME-UNI RENFORCE SON SOUTIEN À L’ARABIE SAOUDITE AVEC L’ENVOI D’EUROFIGHTER TYPHOON ET D’UN A400M",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:16",
-      "date": "20/10",
-      "timestamp": 1792509386
     }
   ],
   "france": {
