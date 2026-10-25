@@ -1,7 +1,47 @@
 {
-  "last_update": "25/10 09:48",
+  "last_update": "25/10 14:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792933591",
+      "source": "BFMTV",
+      "text": "DES MILLIERS DE PERSONNES MANIFESTENT EN ISRAËL CONTRE LE GOUVERNEMENT DE BENJAMIN NETANYAHU",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:06",
+      "date": "25/10",
+      "timestamp": 1792933591
+    },
+    {
+      "id": "BFMTV_1792932800",
+      "source": "BFMTV",
+      "text": "LE PREMIER MINISTRE BRITANNIQUE APPELLE À \"UNE HONNÊTE DISCUSSION\" SUR LA LIBRE CIRCULATION DANS L'UNION EUROPÉENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:53",
+      "date": "25/10",
+      "timestamp": 1792932800
+    },
+    {
+      "id": "OPEX360_1792929488",
+      "source": "OPEX360",
+      "text": "LE STANDARD 2 DU FUTUR AVION DE RENSEIGNEMENT ÉLECTRONIQUE FALCON ARCHANGE EST DÉJÀ EN COURS DE DÉVELOPPEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:58",
+      "date": "25/10",
+      "timestamp": 1792929488
+    },
+    {
+      "id": "OPEX360_1792926272",
+      "source": "OPEX360",
+      "text": "L’ARMÉE DE TERRE POURRAIT CRÉER AU MOINS DIX RÉGIMENTS OU BATAILLONS SUPPLÉMENTAIRES APRÈS 2030",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:04",
+      "date": "25/10",
+      "timestamp": 1792926272
+    },
     {
       "id": "BFMTV_1792919566",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "05:24",
       "date": "21/10",
       "timestamp": 1792560262
-    },
-    {
-      "id": "BFMTV_1792560261",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: L'ÉMISSAIRE DE DONALD TRUMP STEVE WITKOFF ATTENDU EN RUSSIE POUR DES POURPARLERS AVEC VLADIMIR POUTINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:24",
-      "date": "21/10",
-      "timestamp": 1792560261
-    },
-    {
-      "id": "BFMTV_1792556504",
-      "source": "BFMTV",
-      "text": "L'ÉDITO INTERNATIONAL - EMMANUEL MACRON DANS LE GOLFE: QUE FAIT VRAIMENT LE PRÉSIDENT? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:21",
-      "date": "21/10",
-      "timestamp": 1792556504
-    },
-    {
-      "id": "BFMTV_1792556091",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP VOIT DANS MARINE LE PEN LA \"VOIX CONSERVATRICE\" EN FRANCE, APRÈS LES VIOLENCES DU 17 OCTOBRE QU'IL IMPUTE À L'IMMIGRATION",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:14",
-      "date": "21/10",
-      "timestamp": 1792556091
-    },
-    {
-      "id": "BFMTV_1792532864",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DIT AVOIR DEMANDÉ À VLADIMIR POUTINE DE RELÂCHER STEPHEN HUBBARD, UN AMÉRICAIN DÉTENU EN RUSSIE",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:47",
-      "date": "20/10",
-      "timestamp": 1792532864
     }
   ],
   "france": {
