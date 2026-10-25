@@ -1,7 +1,37 @@
 {
-  "last_update": "25/10 17:38",
+  "last_update": "25/10 19:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792952434",
+      "source": "BFMTV",
+      "text": "ATTAQUE AMÉRICAINE CONTRE LE VENEZUELA",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:20",
+      "date": "25/10",
+      "timestamp": 1792952434
+    },
+    {
+      "id": "BFMTV_1792952433",
+      "source": "BFMTV",
+      "text": "VENEZUELA: MARIA CORINA MACHADO, CHEFFE DE L'OPPOSITION ET PRIX NOBEL DE LA PAIX, DE RETOUR DANS LE PAYS",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:20",
+      "date": "25/10",
+      "timestamp": 1792952433
+    },
+    {
+      "id": "BFMTV_1792946539",
+      "source": "BFMTV",
+      "text": "\"VOUS SUBIREZ DES REPRÉSAILLES\": BENJAMIN NETANYAHU AVERTIT L'IRAN DE NE PAS TENTER DE PERTURBER LES ÉLECTIONS LÉGISLATIVES EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:42",
+      "date": "25/10",
+      "timestamp": 1792946539
+    },
     {
       "id": "BFMTV_1792933591",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "07:20",
       "date": "21/10",
       "timestamp": 1792567204
-    },
-    {
-      "id": "BFMTV_1792565329",
-      "source": "BFMTV",
-      "text": "LULA ET FLAVIO BOLSONARO TENTENT DE SE DISQUALIFIER DE L'ÉLECTION PRÉSIDENTIELLE AU BRÉSIL, LES RÉSEAUX SOCIAUX DE META MIS EN CAUSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:48",
-      "date": "21/10",
-      "timestamp": 1792565329
-    },
-    {
-      "id": "BFMTV_1792563734",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ESTIME QUE MARINE LE PEN A ÉTÉ \"MALTRAITÉE\" PAR LA JUSTICE FRANÇAISE",
-      "urgent": false,
-      "france_related": true,
-      "time": "06:22",
-      "date": "21/10",
-      "timestamp": 1792563734
-    },
-    {
-      "id": "BFMTV_1792560262",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:24",
-      "date": "21/10",
-      "timestamp": 1792560262
     }
   ],
   "france": {
