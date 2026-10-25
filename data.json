@@ -1,7 +1,27 @@
 {
-  "last_update": "25/10 19:58",
+  "last_update": "25/10 22:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792963821",
+      "source": "BFMTV",
+      "text": "ESPAGNE : JOURNÉE DE MOBILISATIONS ET DE TENSIONS CE SAMEDI 24 OCTOBRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:30",
+      "date": "25/10",
+      "timestamp": 1792963821
+    },
+    {
+      "id": "BFMTV_1792959904",
+      "source": "BFMTV",
+      "text": "LÉGISLATIVES EN ISRAËL: LE PRINCIPAL RIVAL DE BENJAMIN NETANYAHU EN TÊTE DANS LES SONDAGES",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:25",
+      "date": "25/10",
+      "timestamp": 1792959904
+    },
     {
       "id": "BFMTV_1792952434",
       "source": "BFMTV",
@@ -121,6 +141,16 @@
       "time": "05:26",
       "date": "25/10",
       "timestamp": 1792906015
+    },
+    {
+      "id": "BFMTV_1792904654",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:04",
+      "date": "25/10",
+      "timestamp": 1792904654
     },
     {
       "id": "BFMTV_1792877427",
@@ -971,36 +1001,6 @@
       "time": "09:05",
       "date": "21/10",
       "timestamp": 1792573525
-    },
-    {
-      "id": "BFMTV_1792572360",
-      "source": "BFMTV",
-      "text": "LA DÉPUTÉE AUSTRALIENNE PERCUTÉE VOLONTAIREMENT PAR LE CONDUCTEUR D'UN SUV AMPUTÉE DES DEUX JAMBES",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:46",
-      "date": "21/10",
-      "timestamp": 1792572360
-    },
-    {
-      "id": "OPEX360_1792567204",
-      "source": "OPEX360",
-      "text": "UN MIRAGE 2000D RMV S’EST ÉCRASÉ PRÈS DE NANCY",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:20",
-      "date": "21/10",
-      "timestamp": 1792567204
-    },
-    {
-      "id": "OPEX360_1792567204",
-      "source": "OPEX360",
-      "text": "UN MIRAGE 2000D RMV S’EST ÉCRASÉ PRÈS DE NANCY [MÀJ-1]",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:20",
-      "date": "21/10",
-      "timestamp": 1792567204
     }
   ],
   "france": {
