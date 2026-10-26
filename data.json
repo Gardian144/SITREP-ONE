@@ -1,7 +1,37 @@
 {
-  "last_update": "26/10 05:19",
+  "last_update": "26/10 11:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792995507",
+      "source": "BFMTV",
+      "text": "LES HOUTHIS ATTAQUENT UNE NOUVELLE FOIS L'AÉROPORT DE RIYAD, LES FORCES SAOUDIENNES ANNONCENT AVOIR INTERCEPTÉ UN MISSILE BALISTIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:18",
+      "date": "26/10",
+      "timestamp": 1792995507
+    },
+    {
+      "id": "BFMTV_1792992802",
+      "source": "BFMTV",
+      "text": "À DEUX JOURS DES ÉLECTIONS LÉGISLATIVES EN ISRAËL, DONALD TRUMP APPELLE LES ISRAÉLIENS À VOTER POUR BENJAMIN NETANYAHU, UN \"GUERRIER EXCEPTIONNEL\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:33",
+      "date": "26/10",
+      "timestamp": 1792992802
+    },
+    {
+      "id": "BFMTV_1792992696",
+      "source": "BFMTV",
+      "text": "UN \"CRIME EXCEPTIONNELLEMENT BRUTAL ET ODIEUX\": UN MILITAIRE AMÉRICAIN MIS EN EXAMEN POUR LE MEURTRE D'UNE FEMME AU JAPON",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:31",
+      "date": "26/10",
+      "timestamp": 1792992696
+    },
     {
       "id": "BFMTV_1792991620",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "13:12",
       "date": "21/10",
       "timestamp": 1792588379
-    },
-    {
-      "id": "BFMTV_1792585391",
-      "source": "BFMTV",
-      "text": "PERQUISITIONS AU PARLEMENT EUROPÉEN DANS LE CADRE D'UNE ENQUÊTE CIBLANT DES ÉLUS D'EXTRÊME DROITE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:23",
-      "date": "21/10",
-      "timestamp": 1792585391
-    },
-    {
-      "id": "BFMTV_1792580844",
-      "source": "BFMTV",
-      "text": "EN GRÈCE, LES ÉTUDIANTS GRECS SE MOBILISENT À LEUR TOUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:07",
-      "date": "21/10",
-      "timestamp": 1792580844
-    },
-    {
-      "id": "BFMTV_1792580152",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE ANNONCE LA LIBÉRATION DE L'AMÉRICAIN STEPHEN HUBBARD, L'ADMINISTRATION TRUMP QUALIFIE LE PRÉSIDENT RUSSE D'\"HUMANISTE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:55",
-      "date": "21/10",
-      "timestamp": 1792580152
     }
   ],
   "france": {
