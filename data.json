@@ -1,7 +1,17 @@
 {
-  "last_update": "26/10 00:33",
+  "last_update": "26/10 05:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1792991620",
+      "source": "BFMTV",
+      "text": "LULA ÉLU PRÉSIDENT POUR UN QUATRIÈME MANDAT INÉDIT À LA TÊTE DU BRÉSIL, FLAVIO BOLSONARO VEUT FAIRE ANNULER LE SCRUTIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:13",
+      "date": "26/10",
+      "timestamp": 1792991620
+    },
     {
       "id": "BFMTV_1792968557",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "10:55",
       "date": "21/10",
       "timestamp": 1792580152
-    },
-    {
-      "id": "OPEX360_1792578403",
-      "source": "OPEX360",
-      "text": "DES DRONES NON AUTORISÉS ONT ÉTÉ DÉTECTÉS «AUX ABORDS ET AU-DESSUS» DE SITES MILITAIRES DE LA RÉGION DE TOULON",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:26",
-      "date": "21/10",
-      "timestamp": 1792578403
     }
   ],
   "france": {
