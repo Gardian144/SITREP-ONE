@@ -1,7 +1,87 @@
 {
-  "last_update": "27/10 12:32",
+  "last_update": "27/10 18:17",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1793122904",
+      "source": "OPEX360",
+      "text": "APRÈS AVOIR ENVISAGÉ SON ABANDON, L’US AIR FORCE LANCE FINALEMENT LA PRODUCTION DE L’ARME HYPERSONIQUE AGM-183A",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:41",
+      "date": "27/10",
+      "timestamp": 1793122904
+    },
+    {
+      "id": "BFMTV_1793121561",
+      "source": "BFMTV",
+      "text": "BRÉSIL: POURQUOI FLAVIO BOLSONARO EST-IL INTERDIT DE QUITTER LE PAYS ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:19",
+      "date": "27/10",
+      "timestamp": 1793121561
+    },
+    {
+      "id": "BFMTV_1793119271",
+      "source": "BFMTV",
+      "text": "\"J'AI PRIÉ POUR M'EN SORTIR VIVANTE\": BÉATRICE KEUL, ANCIENNE MANNEQUIN SUISSE, ACCUSE DONALD TRUMP DE L'AVOIR VIOLÉE EN 1993",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:41",
+      "date": "27/10",
+      "timestamp": 1793119271
+    },
+    {
+      "id": "BFMTV_1793115626",
+      "source": "BFMTV",
+      "text": "\"DE GRANDES DIVERGENCES\": LES DIRIGEANTS NORVÉGIENS ET FINLANDAIS ONT EU UN ENTRETIEN \"FRANC\" AVEC VLADIMIR POUTINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:40",
+      "date": "27/10",
+      "timestamp": 1793115626
+    },
+    {
+      "id": "OPEX360_1793115478",
+      "source": "OPEX360",
+      "text": "LE COÛT D’UN SECOND PORTE-AVIONS DE NOUVELLE GÉNÉRATION POURRAIT ÊTRE INFÉRIEUR DE 30 % À CELUI DU «FRANCE LIBRE»",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:37",
+      "date": "27/10",
+      "timestamp": 1793115478
+    },
+    {
+      "id": "BFMTV_1793108280",
+      "source": "BFMTV",
+      "text": "LES ÉLECTIONS LÉGISLATIVES EN ISRAËL MARQUÉES PAR LA PLUS FORTE PARTICIPATION DEPUIS PLUS DE 50 ANS À MI-SCRUTIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:38",
+      "date": "27/10",
+      "timestamp": 1793108280
+    },
+    {
+      "id": "BFMTV_1793105738",
+      "source": "BFMTV",
+      "text": "ÉLECTIONS LÉGISLATIVES EN ISRAËL: PLUS DE 30% PARTICIPATION À MIDI, NIVEAU RECORD DEPUIS 1979",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:55",
+      "date": "27/10",
+      "timestamp": 1793105738
+    },
+    {
+      "id": "BFMTV_1793104598",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ACCUSÉ DE VIOL PAR UNE ANCIENNE MANNEQUIN SUISSE",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:36",
+      "date": "27/10",
+      "timestamp": 1793104598
+    },
     {
       "id": "BFMTV_1793103605",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "09:39",
       "date": "23/10",
       "timestamp": 1792748364
-    },
-    {
-      "id": "BFMTV_1792742041",
-      "source": "BFMTV",
-      "text": "\"J'AI LE DROIT\": DEVANT SES SUPPORTERS, DONALD TRUMP LAISSE À NOUVEAU PLANER LE DOUTE SUR UNE CANDIDATURE À UN TROISIÈME MANDAT",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:54",
-      "date": "23/10",
-      "timestamp": 1792742041
-    },
-    {
-      "id": "BFMTV_1792741405",
-      "source": "BFMTV",
-      "text": "TAÏWAN EN ALERTE À L'APPROCHE DU TYPHON CHAMPI",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:43",
-      "date": "23/10",
-      "timestamp": 1792741405
-    },
-    {
-      "id": "BFMTV_1792730285",
-      "source": "BFMTV",
-      "text": "PRÉSIDENTIELLE AU BRÉSIL: UN SONDAGE DONNE LULA ET FLÁVIO BOLSONARO À ÉGALITÉ À 50% À TROIS JOURS DU SECOND TOUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:38",
-      "date": "23/10",
-      "timestamp": 1792730285
-    },
-    {
-      "id": "BFMTV_1792697079",
-      "source": "BFMTV",
-      "text": "LE VICE-PRÉSIDENT AMÉRICAIN LANCE UNE PRIÈRE EN PLEIN MEETING POUR UNE SPECTATRICE VICTIME D'UN MALAISE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:24",
-      "date": "22/10",
-      "timestamp": 1792697079
-    },
-    {
-      "id": "BFMTV_1792694916",
-      "source": "BFMTV",
-      "text": "UN SÉISME DE MAGNITUDE 7 FAIT PLUSIEURS VICTIMES AU TIBET",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:48",
-      "date": "22/10",
-      "timestamp": 1792694916
-    },
-    {
-      "id": "BFMTV_1792694916",
-      "source": "BFMTV",
-      "text": "UN SÉISME DE MAGNITUDE 7 FAIT 16 MORTS ET 32 BLESSÉS  AU TIBET",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:48",
-      "date": "22/10",
-      "timestamp": 1792694916
-    },
-    {
-      "id": "BFMTV_1792693514",
-      "source": "BFMTV",
-      "text": "LE PARLEMENT EUROPÉEN A REMIS LE PRIX SAKHAROV À LA COUR PÉNALE INTERNATIONALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:25",
-      "date": "22/10",
-      "timestamp": 1792693514
-    },
-    {
-      "id": "BFMTV_1792692386",
-      "source": "BFMTV",
-      "text": "VIOLENCES EN FRANCE: LE CHEF DE L'ONU DÉNONCE UNE SITUATION \"INACCEPTABLE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:06",
-      "date": "22/10",
-      "timestamp": 1792692386
     }
   ],
   "france": {
