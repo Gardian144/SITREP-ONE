@@ -1,7 +1,27 @@
 {
-  "last_update": "27/10 01:09",
+  "last_update": "27/10 06:16",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793081646",
+      "source": "BFMTV",
+      "text": "\"VOUS AVEZ ÉTÉ UN PRÉSIDENT POURRI\": DONALD TRUMP RIPOSTE AUX MOQUERIES DE BARACK OBAMA SUR SES TRAVAUX DE RÉNOVATION À LA MAISON BLANCHE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:14",
+      "date": "27/10",
+      "timestamp": 1793081646
+    },
+    {
+      "id": "BFMTV_1793079529",
+      "source": "BFMTV",
+      "text": "OUVERTURE DES BUREAUX DE VOTE EN ISRAËL POUR DES LÉGISLATIVES QUI S'ANNONCENT SERRÉES, BENJAMIN NETANYAHU JOUE SA SURVIE POLITIQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:38",
+      "date": "27/10",
+      "timestamp": 1793079529
+    },
     {
       "id": "BFMTV_1793048296",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "10:50",
       "date": "22/10",
       "timestamp": 1792666226
-    },
-    {
-      "id": "BFMTV_1792666226",
-      "source": "BFMTV",
-      "text": "\"NOUS COMMENÇONS À REMONTER LA PENTE\": L'AMBASSADEUR D'ISRAËL EN FRANCE ASSURE QUE LES RELATIONS ENTRE LES DEUX PAYS SONT À UN NIVEAU \"TRÈS BAS\" MAIS S'AMÉLIORENT",
-      "urgent": true,
-      "france_related": true,
-      "time": "10:50",
-      "date": "22/10",
-      "timestamp": 1792666226
-    },
-    {
-      "id": "BFMTV_1792665141",
-      "source": "BFMTV",
-      "text": "DES VENTS À 213 KM/H: TAÏWAN EN ALERTE À L'APPROCHE DU TYPHON CHAMPI, DES DIZAINES DE VOLS ANNULÉS EN ASIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:32",
-      "date": "22/10",
-      "timestamp": 1792665141
     }
   ],
   "france": {
