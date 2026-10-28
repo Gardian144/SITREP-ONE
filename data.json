@@ -1,7 +1,167 @@
 {
-  "last_update": "28/10 07:26",
+  "last_update": "28/10 14:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793196738",
+      "source": "BFMTV",
+      "text": "DIRECT. ACCIDENT DE TRAINS EN ESPAGNE: AU MOINS 64 MORTS ET 179 BLESSÉS DANS LA COLLISION ENTRE DEUX RAMES",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:12",
+      "date": "28/10",
+      "timestamp": 1793196738
+    },
+    {
+      "id": "BFMTV_1793195895",
+      "source": "BFMTV",
+      "text": "LE TÉMOIGNAGE D'UNE RESCAPÉE DE L'ACCIDENT DE TRAINS EN ESPAGNE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:58",
+      "date": "28/10",
+      "timestamp": 1793195895
+    },
+    {
+      "id": "BFMTV_1793194799",
+      "source": "BFMTV",
+      "text": "ACCIDENT DE TRAINS EN ESPAGNE: \"POUR LE MOMENT IL N'Y A PAS DE VICTIMES FRANÇAISES À DÉPLORER MAIS CE BILAN PEUT ÉVOLUER\", EXPLIQUE NATHALIE COGGIA DÉPUTÉE RENAISSANCE DES FRANÇAIS ÉTABLIS HORS DE FRANCE",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:39",
+      "date": "28/10",
+      "timestamp": 1793194799
+    },
+    {
+      "id": "BFMTV_1793194685",
+      "source": "BFMTV",
+      "text": "VISA POUR LES ÉTATS-UNIS, ESCALE EN ÉQUATEUR... CE QUE L'ON SAIT DE LA FUITE DE FLAVIO BOLSONARO, VISÉ PAR DES ENQUÊTES AU BRÉSIL",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:38",
+      "date": "28/10",
+      "timestamp": 1793194685
+    },
+    {
+      "id": "BFMTV_1793194251",
+      "source": "BFMTV",
+      "text": "LE CHEF DE LA DIPLOMATIE RUSSE, SERGUEÏ LAVROV, VA SE RENDRE AUX ÉTATS-UNIS POUR LE G20",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:30",
+      "date": "28/10",
+      "timestamp": 1793194251
+    },
+    {
+      "id": "BFMTV_1793194035",
+      "source": "BFMTV",
+      "text": "UN DEUIL NATIONAL DE TROIS JOURS DÉCRÉTÉ EN ANDALOUSIE APRÈS L'ACCIDENT DE TRAINS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:27",
+      "date": "28/10",
+      "timestamp": 1793194035
+    },
+    {
+      "id": "BFMTV_1793193565",
+      "source": "BFMTV",
+      "text": "ACCIDENT DE TRAINS EN ESPAGNE: PEDRO SANCHEZ SE REND À URDA, PRÈS DU LIEU DE LA COLLISION ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:19",
+      "date": "28/10",
+      "timestamp": 1793193565
+    },
+    {
+      "id": "BFMTV_1793193373",
+      "source": "BFMTV",
+      "text": "\"J'AI EU UNE CHANCE INCROYABLE, JE SUIS ENCEINTE DE 4 MOIS\": LE TÉMOIGNAGE D'UNE RESCAPÉE DE L'ACCIDENT DE TRAINS EN ESPAGNE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:16",
+      "date": "28/10",
+      "timestamp": 1793193373
+    },
+    {
+      "id": "BFMTV_1793193354",
+      "source": "BFMTV",
+      "text": "LÉGISLATIVES EN ISRAËL: LE PRÉSIDENT APPELLE À \"TOUT FAIRE\" POUR ÉVITER DE NOUVELLES ÉLECTIONS MALGRÉ L'ABSENCE DE MAJORITÉ CLAIRE QUI SE DESSINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:15",
+      "date": "28/10",
+      "timestamp": 1793193354
+    },
+    {
+      "id": "BFMTV_1793193241",
+      "source": "BFMTV",
+      "text": "\"C'EST UN MOMENT TRÈS DIFFICILE QUE NOUS VIVONS\", DÉPLORE LE ROI FELIPE D'ESPAGNE APRÈS L'ACCIDENT DE TRAINS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:14",
+      "date": "28/10",
+      "timestamp": 1793193241
+    },
+    {
+      "id": "BFMTV_1793193184",
+      "source": "BFMTV",
+      "text": "UNE ANNÉE MEURTRIÈRE QUI SE POURSUIT: LA DRAMATIQUE SÉRIE NOIRE DES ACCIDENTS FERROVIAIRES EN ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:13",
+      "date": "28/10",
+      "timestamp": 1793193184
+    },
+    {
+      "id": "BFMTV_1793193048",
+      "source": "BFMTV",
+      "text": "ACCIDENT DE TRAINS EN ESPAGNE: 100 MILITAIRES ET 3 GRUES MOBILISÉS SUR LE LIEU DU DRAME",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:10",
+      "date": "28/10",
+      "timestamp": 1793193048
+    },
+    {
+      "id": "BFMTV_1793192884",
+      "source": "BFMTV",
+      "text": "UN JUGE AMÉRICAIN RESTREINT LES POURSUITES DES ÉPOUX MACRON CONTRE LA BLOGUEUSE CANDACE OWENS, MAIS L'ACTION EN JUSTICE CONTINUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:08",
+      "date": "28/10",
+      "timestamp": 1793192884
+    },
+    {
+      "id": "BFMTV_1793192631",
+      "source": "BFMTV",
+      "text": "UNE COLLISION ENTRE DEUX TRAINS FAIT AU MOINS 64 MORTS  ET 179 BLESSÉS EN ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:03",
+      "date": "28/10",
+      "timestamp": 1793192631
+    },
+    {
+      "id": "BFMTV_1793192564",
+      "source": "BFMTV",
+      "text": "ACCIDENT DE TRAINS EN ESPAGNE: UN NOUVEAU BILAN PROVISOIRE FAIT ÉTAT D'AU MOINS 64 MORTS ET 179 BLESSÉS ",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:02",
+      "date": "28/10",
+      "timestamp": 1793192564
+    },
+    {
+      "id": "OPEX360_1793188070",
+      "source": "OPEX360",
+      "text": "LES CAPACITÉS DE LA FORCE AÉRIENNE POLONAISE SONT AFFECTÉES PAR UNE PÉNURIE DE PILOTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:47",
+      "date": "28/10",
+      "timestamp": 1793188070
+    },
     {
       "id": "BFMTV_1793139802",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "12:44",
       "date": "24/10",
       "timestamp": 1792845882
-    },
-    {
-      "id": "BFMTV_1792842815",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: MELANIA TRUMP OBTIENT UNE TRÊVE ENTRE RUSSES ET UKRAINIENS À OLECHKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:53",
-      "date": "24/10",
-      "timestamp": 1792842815
-    },
-    {
-      "id": "OPEX360_1792837091",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE ALLEMAND DE LA DÉFENSE PLAIDE EN FAVEUR D’UNE COOPÉRATION AVEC LA SUÈDE POUR DÉVELOPPER UN NOUVEL AVION DE COMBAT",
-      "urgent": false,
-      "france_related": true,
-      "time": "10:18",
-      "date": "24/10",
-      "timestamp": 1792837091
-    },
-    {
-      "id": "BFMTV_1792834510",
-      "source": "BFMTV",
-      "text": "KENYA: UN IMMEUBLE DE 18 ÉTAGES S'EFFONDRE À NAIROBI, SEPT PERSONNES SONT PORTÉES DISPARUES",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:35",
-      "date": "24/10",
-      "timestamp": 1792834510
-    },
-    {
-      "id": "BFMTV_1792834350",
-      "source": "BFMTV",
-      "text": "LÉGISLATIVES EN ISRAËL: QUI EST GADI ESEINKOT, LE CANDIDAT QUI POURRAIT RENVERSER BENJAMIN NETANYAHU?",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:32",
-      "date": "24/10",
-      "timestamp": 1792834350
-    },
-    {
-      "id": "OPEX360_1792833747",
-      "source": "OPEX360",
-      "text": "LE FUTUR MISSILE BALISTIQUE TERRESTRE DEVRAIT FINALEMENT ÊTRE MIS EN ŒUVRE PAR L’ARMÉE DE TERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:22",
-      "date": "24/10",
-      "timestamp": 1792833747
-    },
-    {
-      "id": "BFMTV_1792827475",
-      "source": "BFMTV",
-      "text": "DES CENTAINES D'ÉTUDIANTS RÉCLAMENT UNE ACTION DU GOUVERNEMENT FACE AUX FUMÉES DES INCENDIES EN INDONÉSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:37",
-      "date": "24/10",
-      "timestamp": 1792827475
-    },
-    {
-      "id": "BFMTV_1792821959",
-      "source": "BFMTV",
-      "text": "\"C'EST LE MOMENT OU JAMAIS\": LE SECRÉTAIRE D'ÉTAT AMÉRICAIN MARCO RUBIO APPELLE LES CUBAINS À COLLABORER AVEC LA CIA",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:05",
-      "date": "24/10",
-      "timestamp": 1792821959
-    },
-    {
-      "id": "BFMTV_1792818212",
-      "source": "BFMTV",
-      "text": "56.000 FOYERS SANS ÉLECTRICITÉ, UN MORT ET DES MILLIERS D'ÉVACUATIONS… LE TYPHON CHAMPI CAUSE D'IMPORTANTS DÉGÂTS À TAÏWAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:03",
-      "date": "24/10",
-      "timestamp": 1792818212
-    },
-    {
-      "id": "BFMTV_1792816801",
-      "source": "BFMTV",
-      "text": "LES \"POLICIERS OBSERVATEURS\" AU CŒUR DE LA STRATÉGIE DU MAINTIEN DE L'ORDRE AU ROYAUME-UNI",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:40",
-      "date": "24/10",
-      "timestamp": 1792816801
-    },
-    {
-      "id": "BFMTV_1792816614",
-      "source": "BFMTV",
-      "text": "EN ALLEMAGNE, LA DÉSESCALADE AU CŒUR DE LA STRATÉGIE DU MAINTIEN DE L'ORDRE ",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:36",
-      "date": "24/10",
-      "timestamp": 1792816614
-    },
-    {
-      "id": "BFMTV_1792816483",
-      "source": "BFMTV",
-      "text": "EN ITALIE, DES MILITAIRES DÉPLOYÉS À MILAN EN SOUTIEN AUX POLICIERS APRÈS DE NOUVELLES MANIFESTATIONS",
-      "urgent": false,
-      "france_related": false,
-      "time": "04:34",
-      "date": "24/10",
-      "timestamp": 1792816483
-    },
-    {
-      "id": "BFMTV_1792815461",
-      "source": "BFMTV",
-      "text": "UN INCENDIE SE DÉCLARE AU \"NID D'AIGLE\", L'ANCIENNE RÉSIDENCE D'ADOLF HITLER EN ALLEMAGNE, UN SUSPECT ARRÊTÉ",
-      "urgent": false,
-      "france_related": true,
-      "time": "04:17",
-      "date": "24/10",
-      "timestamp": 1792815461
-    },
-    {
-      "id": "BFMTV_1792785830",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP PROPOSE DE RENOMMER LE DÉTROIT D'ORMUZ EN \"DÉTROIT TRUMP\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:03",
-      "date": "23/10",
-      "timestamp": 1792785830
-    },
-    {
-      "id": "OPEX360_1792775704",
-      "source": "OPEX360",
-      "text": "LA TURQUIE ESPÈRE CONCLURE PROCHAINEMENT UN ACCORD AVEC LE QATAR POUR SE PROCURER DES EUROFIGHTER TYPHOON D’OCCASION",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:15",
-      "date": "23/10",
-      "timestamp": 1792775704
-    },
-    {
-      "id": "OPEX360_1792770154",
-      "source": "OPEX360",
-      "text": "LE DANEMARK COMMANDE DES MISSILES SOL-SOL À LONGUE PORTÉE ANTHEM AUPRÈS DE L’AMÉRICAIN COVENANT INDUSTRIES",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:42",
-      "date": "23/10",
-      "timestamp": 1792770154
-    },
-    {
-      "id": "BFMTV_1792769202",
-      "source": "BFMTV",
-      "text": "MANIFESTATIONS DU 24 OCTOBRE: DONALD TRUMP JUGE QU'IL S'AGIRA \"PROBABLEMENT\" D'UNE \"MAUVAISE JOURNÉE EN FRANCE\"",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:26",
-      "date": "23/10",
-      "timestamp": 1792769202
     }
   ],
   "france": {
