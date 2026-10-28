@@ -1,7 +1,147 @@
 {
-  "last_update": "28/10 19:44",
+  "last_update": "28/10 23:37",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793228059",
+      "source": "BFMTV",
+      "text": "ACCIDENT DE TRAINS EN ESPAGNE: AU MOINS 68 MORTS, PEDRO SÁNCHEZ ANNONCE TROIS JOURS DE DEUIL NATIONAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:54",
+      "date": "28/10",
+      "timestamp": 1793228059
+    },
+    {
+      "id": "BFMTV_1793225930",
+      "source": "BFMTV",
+      "text": "VIKTOR ORBAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:18",
+      "date": "28/10",
+      "timestamp": 1793225930
+    },
+    {
+      "id": "BFMTV_1793225930",
+      "source": "BFMTV",
+      "text": "ONU",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:18",
+      "date": "28/10",
+      "timestamp": 1793225930
+    },
+    {
+      "id": "BFMTV_1793225888",
+      "source": "BFMTV",
+      "text": "ÉLECTIONS EN ISRAËL: QUI SONT LES PARTIS ARABES QUI ONT FAIT UNE PERCÉE HISTORIQUE AUX LÉGISLATIVES?",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:18",
+      "date": "28/10",
+      "timestamp": 1793225888
+    },
+    {
+      "id": "BFMTV_1793225267",
+      "source": "BFMTV",
+      "text": "AVEC DEUX COLLISIONS DE TRAINS EN MOINS DE DIX MOIS, Y A-T-IL VRAIMENT UN PROBLÈME SUR LES RAILS ESPAGNOLS? ",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:07",
+      "date": "28/10",
+      "timestamp": 1793225267
+    },
+    {
+      "id": "BFMTV_1793223477",
+      "source": "BFMTV",
+      "text": "MALGRÉ UNE INFLATION À 3,7%, LA RÉSERVE FÉDÉRALE AMÉRICAINE MAINTIENT SES TAUX INCHANGÉS AVANT LES ÉLECTIONS DE MI-MANDAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:37",
+      "date": "28/10",
+      "timestamp": 1793223477
+    },
+    {
+      "id": "BFMTV_1793223291",
+      "source": "BFMTV",
+      "text": "ÉCONOMIE AMÉRICAINE : \"L'INFLATION EST TROP ÉLEVÉE\" JUGE KEVIN WARSH, PATRON DE LA FED",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:34",
+      "date": "28/10",
+      "timestamp": 1793223291
+    },
+    {
+      "id": "BFMTV_1793222157",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP L'AVAIT TRAITÉE DE \"PAYS DE CHIOTTES\", LA NORVÈGE RÉPOND QU'ELLE A \"LES PLUS BELLES AU MONDE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:15",
+      "date": "28/10",
+      "timestamp": 1793222157
+    },
+    {
+      "id": "BFMTV_1793220465",
+      "source": "BFMTV",
+      "text": "EN FUITE AUX ÉTATS-UNIS, FLAVIO BOLSONARO MARTÈLE QU'IL EST LE \"VÉRITABLE PRÉSIDENT\" DU BRÉSIL",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:47",
+      "date": "28/10",
+      "timestamp": 1793220465
+    },
+    {
+      "id": "BFMTV_1793220280",
+      "source": "BFMTV",
+      "text": "COLLISION ENTRE DEUX TRAINS: APRÈS LE DRAME, L'ÉMOTION ET LA COLÈRE DES ESPAGNOLS",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:44",
+      "date": "28/10",
+      "timestamp": 1793220280
+    },
+    {
+      "id": "BFMTV_1793220155",
+      "source": "BFMTV",
+      "text": "COLLISION ENTRE DEUX TRAINS: UNE SÉRIE NOIRE D'ACCIDENTS FERROVIAIRES EN ESPAGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:42",
+      "date": "28/10",
+      "timestamp": 1793220155
+    },
+    {
+      "id": "BFMTV_1793220061",
+      "source": "BFMTV",
+      "text": "68 MORTS APRÈS UNE COLLISION ENTRE DEUX TRAINS, L'ESPAGNE À NOUVEAU MEURTRIE PAR UN DRAME FERROVIAIRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:41",
+      "date": "28/10",
+      "timestamp": 1793220061
+    },
+    {
+      "id": "BFMTV_1793219477",
+      "source": "BFMTV",
+      "text": "COLLISION ENTRE DEUX TRAINS EN ESPAGNE: LES DERNIÈRES INFORMATIONS SUR LE DÉROULÉ DU DRAME",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:31",
+      "date": "28/10",
+      "timestamp": 1793219477
+    },
+    {
+      "id": "BFMTV_1793219102",
+      "source": "BFMTV",
+      "text": "COLLISION DE DEUX TRAINS EN ESPAGNE: L'UN DES PASSAGERS TÉMOIGNE SUR BFMTV",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:25",
+      "date": "28/10",
+      "timestamp": 1793219102
+    },
     {
       "id": "BFMTV_1793215651",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "11:34",
       "date": "26/10",
       "timestamp": 1793014497
-    },
-    {
-      "id": "BFMTV_1793010127",
-      "source": "BFMTV",
-      "text": "PENDANT UN MEETING, DONALD TRUMP COMPLIMENTE LES FESSES DE NICKI MINAJ",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:22",
-      "date": "26/10",
-      "timestamp": 1793010127
-    },
-    {
-      "id": "BFMTV_1792995507",
-      "source": "BFMTV",
-      "text": "LES HOUTHIS ATTAQUENT UNE NOUVELLE FOIS L'AÉROPORT DE RIYAD, LES FORCES SAOUDIENNES ANNONCENT AVOIR INTERCEPTÉ UN MISSILE BALISTIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:18",
-      "date": "26/10",
-      "timestamp": 1792995507
-    },
-    {
-      "id": "BFMTV_1792992802",
-      "source": "BFMTV",
-      "text": "À DEUX JOURS DES ÉLECTIONS LÉGISLATIVES EN ISRAËL, DONALD TRUMP APPELLE LES ISRAÉLIENS À VOTER POUR BENJAMIN NETANYAHU, UN \"GUERRIER EXCEPTIONNEL\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:33",
-      "date": "26/10",
-      "timestamp": 1792992802
-    },
-    {
-      "id": "BFMTV_1792992696",
-      "source": "BFMTV",
-      "text": "UN \"CRIME EXCEPTIONNELLEMENT BRUTAL ET ODIEUX\": UN MILITAIRE AMÉRICAIN MIS EN EXAMEN POUR LE MEURTRE D'UNE FEMME AU JAPON",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:31",
-      "date": "26/10",
-      "timestamp": 1792992696
-    },
-    {
-      "id": "BFMTV_1792991620",
-      "source": "BFMTV",
-      "text": "LULA ÉLU PRÉSIDENT POUR UN QUATRIÈME MANDAT INÉDIT À LA TÊTE DU BRÉSIL, FLAVIO BOLSONARO VEUT FAIRE ANNULER LE SCRUTIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:13",
-      "date": "26/10",
-      "timestamp": 1792991620
-    },
-    {
-      "id": "BFMTV_1792968557",
-      "source": "BFMTV",
-      "text": "BRÉSIL: LA JUSTICE PROLONGE LE VOTE AU SECOND TOUR ENTRE LULA ET BOLSONARO EN RAISON DE PROBLÈMES DE TRANSPORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:49",
-      "date": "25/10",
-      "timestamp": 1792968557
-    },
-    {
-      "id": "BFMTV_1792963821",
-      "source": "BFMTV",
-      "text": "ESPAGNE : JOURNÉE DE MOBILISATIONS ET DE TENSIONS CE SAMEDI 24 OCTOBRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:30",
-      "date": "25/10",
-      "timestamp": 1792963821
-    },
-    {
-      "id": "BFMTV_1792959904",
-      "source": "BFMTV",
-      "text": "LÉGISLATIVES EN ISRAËL: LE PRINCIPAL RIVAL DE BENJAMIN NETANYAHU EN TÊTE DANS LES SONDAGES",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:25",
-      "date": "25/10",
-      "timestamp": 1792959904
-    },
-    {
-      "id": "BFMTV_1792952434",
-      "source": "BFMTV",
-      "text": "ATTAQUE AMÉRICAINE CONTRE LE VENEZUELA",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:20",
-      "date": "25/10",
-      "timestamp": 1792952434
-    },
-    {
-      "id": "BFMTV_1792952433",
-      "source": "BFMTV",
-      "text": "VENEZUELA: MARIA CORINA MACHADO, CHEFFE DE L'OPPOSITION ET PRIX NOBEL DE LA PAIX, DE RETOUR DANS LE PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:20",
-      "date": "25/10",
-      "timestamp": 1792952433
-    },
-    {
-      "id": "BFMTV_1792946539",
-      "source": "BFMTV",
-      "text": "\"VOUS SUBIREZ DES REPRÉSAILLES\": BENJAMIN NETANYAHU AVERTIT L'IRAN DE NE PAS TENTER DE PERTURBER LES ÉLECTIONS LÉGISLATIVES EN ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:42",
-      "date": "25/10",
-      "timestamp": 1792946539
-    },
-    {
-      "id": "BFMTV_1792933591",
-      "source": "BFMTV",
-      "text": "DES MILLIERS DE PERSONNES MANIFESTENT EN ISRAËL CONTRE LE GOUVERNEMENT DE BENJAMIN NETANYAHU",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:06",
-      "date": "25/10",
-      "timestamp": 1792933591
-    },
-    {
-      "id": "BFMTV_1792932800",
-      "source": "BFMTV",
-      "text": "LE PREMIER MINISTRE BRITANNIQUE APPELLE À \"UNE HONNÊTE DISCUSSION\" SUR LA LIBRE CIRCULATION DANS L'UNION EUROPÉENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:53",
-      "date": "25/10",
-      "timestamp": 1792932800
-    },
-    {
-      "id": "OPEX360_1792929488",
-      "source": "OPEX360",
-      "text": "LE STANDARD 2 DU FUTUR AVION DE RENSEIGNEMENT ÉLECTRONIQUE FALCON ARCHANGE EST DÉJÀ EN COURS DE DÉVELOPPEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:58",
-      "date": "25/10",
-      "timestamp": 1792929488
     }
   ],
   "france": {
