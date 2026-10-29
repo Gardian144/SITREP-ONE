@@ -1,7 +1,177 @@
 {
-  "last_update": "29/10 09:23",
+  "last_update": "29/10 16:19",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793289796",
+      "source": "BFMTV",
+      "text": "ANCIENNE MINISTRE, MEMBRE DE LA GUARDIA CIVIL, ATHLÈTE... QUI SONT LES PREMIÈRES VICTIMES IDENTIFIÉES DE LA CATASTROPHE FERROVIAIRE EN ESPAGNE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:03",
+      "date": "29/10",
+      "timestamp": 1793289796
+    },
+    {
+      "id": "OPEX360_1793289186",
+      "source": "OPEX360",
+      "text": "LE COÛT DES FUTURS AVIONS DE PATROUILLE MARITIME DE LA MARINE NATIONALE A DÉJÀ AUGMENTÉ DE 65 %",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:53",
+      "date": "29/10",
+      "timestamp": 1793289186
+    },
+    {
+      "id": "BFMTV_1793288693",
+      "source": "BFMTV",
+      "text": "PRÉSIDENTIELLE AU BRÉSIL: DONALD TRUMP JUGE QUE L'ÉLECTION ÉTAIT \"HONTEUSE\", APRÈS LA FUITE DE FLAVIO BOLSONARO AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:44",
+      "date": "29/10",
+      "timestamp": 1793288693
+    },
+    {
+      "id": "BFMTV_1793287936",
+      "source": "BFMTV",
+      "text": "UN \"ATTENTAT CONTRE LA DÉMOCRATIE\": LE CAMP DE BENJAMIN NETANYAHU CIBLE LES PARTIS ARABES APRÈS LEUR SCORE HISTORIQUE AUX LÉGISLATIVES EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:32",
+      "date": "29/10",
+      "timestamp": 1793287936
+    },
+    {
+      "id": "BFMTV_1793285933",
+      "source": "BFMTV",
+      "text": "\"JE VEUX AVOIR LA LIBERTÉ DE PAROLE\", DÉCLARE CHRISITINE LAGARDE APRÈS L'ANNONCE DE SON DÉPART DE LA BCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:58",
+      "date": "29/10",
+      "timestamp": 1793285933
+    },
+    {
+      "id": "BFMTV_1793285781",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP JUGE QUE L'ÉLECTION PRÉSIDENTIELLE AU BRÉSIL ÉTAIT \"HONTEUSE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:56",
+      "date": "29/10",
+      "timestamp": 1793285781
+    },
+    {
+      "id": "BFMTV_1793285503",
+      "source": "BFMTV",
+      "text": "BCE: CHRISTINE LAGARDE ASSURE QU'UN \"PROCESSUS A DÉJÀ ÉTÉ LANCÉ\" POUR \"IDENTIFIER\" SON SUCCESSEUR",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:51",
+      "date": "29/10",
+      "timestamp": 1793285503
+    },
+    {
+      "id": "BFMTV_1793285196",
+      "source": "BFMTV",
+      "text": "COLLISION DE TRAINS EN ESPAGNE: LE ROI FELIPE VI EST ARRIVÉ À L'HÔPITAL DE TOLÈDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:46",
+      "date": "29/10",
+      "timestamp": 1793285196
+    },
+    {
+      "id": "BFMTV_1793284920",
+      "source": "BFMTV",
+      "text": "DIRECT. COLLISION DE TRAINS EN ESPAGNE: LE ROI FELIPE VI ET LA REINE LETIZIA AU CHEVET DES BLESSÉS À TOLÈDE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:42",
+      "date": "29/10",
+      "timestamp": 1793284920
+    },
+    {
+      "id": "BFMTV_1793282127",
+      "source": "BFMTV",
+      "text": "LA BCE LAISSE SES TAUX INCHANGÉS, L'INFLATION POURRAIT PESER SUR LA CROISSANCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:55",
+      "date": "29/10",
+      "timestamp": 1793282127
+    },
+    {
+      "id": "BFMTV_1793281419",
+      "source": "BFMTV",
+      "text": "\"LA SITUATION EST TELLEMENT CRITIQUE\": EN POLOGNE, LE CHEF DE L'OPPOSITION CONSERVATRICE ÉVOQUE UNE SORTIE DE L'UE, TOLLÉ AU SEIN DU GOUVERNEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:43",
+      "date": "29/10",
+      "timestamp": 1793281419
+    },
+    {
+      "id": "BFMTV_1793281082",
+      "source": "BFMTV",
+      "text": "COLLISION DE TRAINS EN ESPAGNE: \"C'ÉTAIT UN AMAS DE FERRAILLE, DE CADAVRES ET DE MOURANTS\", RACONTE UN PRIMO-INTERVENANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:38",
+      "date": "29/10",
+      "timestamp": 1793281082
+    },
+    {
+      "id": "BFMTV_1793280872",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: AU MOINS 14 MORTS DANS UNE FRAPPE RUSSE SUR LA GARE DE DNIPRO, EMMANUEL MACRON DÉPLORE QUE LA RUSSIE MISE \"SUR L'ESCALADE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:34",
+      "date": "29/10",
+      "timestamp": 1793280872
+    },
+    {
+      "id": "BFMTV_1793280644",
+      "source": "BFMTV",
+      "text": "SOMMET UE-CANADA: LE CANADA SERA-T-IL LE \"PREMIER MEMBRE ASSOCIÉ\" DE L'UE ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:30",
+      "date": "29/10",
+      "timestamp": 1793280644
+    },
+    {
+      "id": "BFMTV_1793280572",
+      "source": "BFMTV",
+      "text": "COLLISION DE TRAINS EN ESPAGNE: LE ROI FELIPE VI ATTENDU AU CHEVET DES BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:29",
+      "date": "29/10",
+      "timestamp": 1793280572
+    },
+    {
+      "id": "BFMTV_1793276656",
+      "source": "BFMTV",
+      "text": "CATASTROPHE FERROVIAIRE EN ESPAGNE: DE NOMBREUX VOLONTAIRES VIENNENT DONNER LEUR SANG POUR VENIR EN AIDE AUX BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:24",
+      "date": "29/10",
+      "timestamp": 1793276656
+    },
+    {
+      "id": "OPEX360_1793275173",
+      "source": "OPEX360",
+      "text": "LA RUSSIE A LIVRÉ DOUZE PREMIERS AVIONS DE COMBAT SU-35E À L’ÉTHIOPIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:59",
+      "date": "29/10",
+      "timestamp": 1793275173
+    },
     {
       "id": "BFMTV_1793265502",
       "source": "BFMTV",
@@ -831,176 +1001,6 @@
       "time": "10:41",
       "date": "27/10",
       "timestamp": 1793097664
-    },
-    {
-      "id": "BFMTV_1793096678",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP PROMET 1 MILLION DE DOLLARS POUR LE SIGNALEMENT \"D'UNE FRAUDE ÉLECTORALE\" DONNANT LIEU À UNE CONDAMNATION",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:24",
-      "date": "27/10",
-      "timestamp": 1793096678
-    },
-    {
-      "id": "BFMTV_1793088375",
-      "source": "BFMTV",
-      "text": "RÉÉLECTION DE LULA AU BRÉSIL: LE PARTI DE FLAVIO BOLSONARO RECONNAÎT LA VICTOIRE SURPRISE DU PRÉSIDENT SORTANT",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:06",
-      "date": "27/10",
-      "timestamp": 1793088375
-    },
-    {
-      "id": "BFMTV_1793087662",
-      "source": "BFMTV",
-      "text": "UNE JUGE SUSPEND JUSQU'À NOUVEL ORDRE LE PROJET DE RÉNOVATION DU PARCOURS DE GOLF DE DONALD TRUMP À WASHINGTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:54",
-      "date": "27/10",
-      "timestamp": 1793087662
-    },
-    {
-      "id": "BFMTV_1793085900",
-      "source": "BFMTV",
-      "text": "TOUT COMPRENDRE. LES ISRAÉLIENS APPELÉS AUX URNES POUR LA PREMIÈRE FOIS DEPUIS LE 7-OCTOBRE, BENJAMIN NETANYAHU AU PIED DU MUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:25",
-      "date": "27/10",
-      "timestamp": 1793085900
-    },
-    {
-      "id": "BFMTV_1793085783",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: LA TRÊVE ANNONCÉE PAR MELANIA TRUMP À OLECHKY A DÉBUTÉ CE MARDI EN VUE D'UNE OPÉRATION HUMANITAIRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "07:23",
-      "date": "27/10",
-      "timestamp": 1793085783
-    },
-    {
-      "id": "BFMTV_1793085527",
-      "source": "BFMTV",
-      "text": "L'ANCIENNE PREMIÈRE MINISTRE NÉO-ZÉLANDAISE JACINDA ARDERN RECRUTÉE PAR L'UNIVERSITÉ DE SYDNEY POUR ENSEIGNER LE \"LEADERSHIP EMPATHIQUE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:18",
-      "date": "27/10",
-      "timestamp": 1793085527
-    },
-    {
-      "id": "BFMTV_1793082600",
-      "source": "BFMTV",
-      "text": "BENJAMIN NETANYAHU, \"ON L’AIME OU ON LE DÉTESTE\": EN ISRAËL, DES ÉLECTIONS AUX ALLURES DE RÉFÉRENDUM",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:30",
-      "date": "27/10",
-      "timestamp": 1793082600
-    },
-    {
-      "id": "BFMTV_1793081646",
-      "source": "BFMTV",
-      "text": "\"VOUS AVEZ ÉTÉ UN PRÉSIDENT POURRI\": DONALD TRUMP RIPOSTE AUX MOQUERIES DE BARACK OBAMA SUR SES TRAVAUX DE RÉNOVATION À LA MAISON BLANCHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:14",
-      "date": "27/10",
-      "timestamp": 1793081646
-    },
-    {
-      "id": "BFMTV_1793079529",
-      "source": "BFMTV",
-      "text": "OUVERTURE DES BUREAUX DE VOTE EN ISRAËL POUR DES LÉGISLATIVES QUI S'ANNONCENT SERRÉES, BENJAMIN NETANYAHU JOUE SA SURVIE POLITIQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:38",
-      "date": "27/10",
-      "timestamp": 1793079529
-    },
-    {
-      "id": "BFMTV_1793048296",
-      "source": "BFMTV",
-      "text": "UKRAINE: UNE ENQUÊTE DE L'ONU ACCUSE MOSCOU DE CRIME CONTRE L'HUMANITÉ ET TRAITE D'ÊTRES HUMAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:58",
-      "date": "26/10",
-      "timestamp": 1793048296
-    },
-    {
-      "id": "BFMTV_1793047908",
-      "source": "BFMTV",
-      "text": "ACCORD COMMERCIAL AVEC LES ÉTATS-UNIS: LE PREMIER MINISTRE CANADIEN RESTE ENCORE PRUDENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:51",
-      "date": "26/10",
-      "timestamp": 1793047908
-    },
-    {
-      "id": "BFMTV_1793047782",
-      "source": "BFMTV",
-      "text": "BRÉSIL: FLÁVIO BOLSONARO AFFIRME QU'IL LUI EST INTERDIT DE QUITTER LE PAYS ET ASSURE QU'IL VA \"ORGANISER L'OPPOSITION\" À LULA",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:49",
-      "date": "26/10",
-      "timestamp": 1793047782
-    },
-    {
-      "id": "BFMTV_1793044224",
-      "source": "BFMTV",
-      "text": "ÉLECTIONS DE MI-MANDAT AUX ÉTATS-UNIS: DONALD TRUMP EN CAMPAGNE DANS LES ÉTATS RÉPUBLICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:50",
-      "date": "26/10",
-      "timestamp": 1793044224
-    },
-    {
-      "id": "BFMTV_1793044130",
-      "source": "BFMTV",
-      "text": "PRÉSIDENTIELLE AU BRÉSIL: DONALD TRUMP DÉNONCE DES ÉLECTIONS \"TRUQUÉES\" APRÈS LA RÉÉLECTION DE LULA ET LA DÉFAITE DE FLAVIO BOLSONARO",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:48",
-      "date": "26/10",
-      "timestamp": 1793044130
-    },
-    {
-      "id": "OPEX360_1793038830",
-      "source": "OPEX360",
-      "text": "L’ENTREPRISE AMÉRICAINE WARHOUND VEUT ÉLEVER DES CHIENS MILITAIRES GÉNÉTIQUEMENT MODIFIÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:20",
-      "date": "26/10",
-      "timestamp": 1793038830
-    },
-    {
-      "id": "OPEX360_1793034993",
-      "source": "OPEX360",
-      "text": "SE AVIATION A TERMINÉ UNE CAMPAGNE D’ESSAIS EN VOL DE SON DRONE DRIADE OPV, MENÉE DISCRÈTEMENT AVEC LA DGA",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:16",
-      "date": "26/10",
-      "timestamp": 1793034993
-    },
-    {
-      "id": "BFMTV_1793033432",
-      "source": "BFMTV",
-      "text": "UN CORPS RETROUVÉ DÉCOUPÉ DANS PLUSIEURS SACS DANS LE RHIN, UN APPEL À TÉMOINS LANCÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:50",
-      "date": "26/10",
-      "timestamp": 1793033432
     }
   ],
   "france": {
