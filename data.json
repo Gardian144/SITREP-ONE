@@ -1,7 +1,107 @@
 {
-  "last_update": "30/10 01:14",
+  "last_update": "30/10 07:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793343357",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:55",
+      "date": "30/10",
+      "timestamp": 1793343357
+    },
+    {
+      "id": "BFMTV_1793343356",
+      "source": "BFMTV",
+      "text": "UKRAINE, SYRIE, LIBAN... L'ONU LANCE UN APPEL AUX DONS POUR AIDER 9 MILLIONS DE PERSONNES TOUCHÉES PAR LA GUERRE CET HIVER",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:55",
+      "date": "30/10",
+      "timestamp": 1793343356
+    },
+    {
+      "id": "BFMTV_1793341655",
+      "source": "BFMTV",
+      "text": "MIDTERMS AUX ÉTATS-UNIS: DONALD TRUMP ANNULE SES MEETINGS DU WEEK-END ET PRIVILÉGIERA LES APPARITIONS VIRTUELLES",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:27",
+      "date": "30/10",
+      "timestamp": 1793341655
+    },
+    {
+      "id": "BFMTV_1793341303",
+      "source": "BFMTV",
+      "text": "UN NAVIRE COULÉ PAR DES DRONES À PROXIMITÉ DES CÔTES BULGARES EN MER NOIRE, L'ÉQUIPAGE A PU ÊTRE SAUVÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:21",
+      "date": "30/10",
+      "timestamp": 1793341303
+    },
+    {
+      "id": "BFMTV_1793340999",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU ARRIVE EN TÊTE DES ÉLECTIONS LÉGISLATIVES ISRAÉLIENNES MAIS SANS MAJORITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:16",
+      "date": "30/10",
+      "timestamp": 1793340999
+    },
+    {
+      "id": "BFMTV_1793339898",
+      "source": "BFMTV",
+      "text": "POURQUOI LE FOIE GRAS S'INVITE-T-IL DANS LES ÉLECTIONS DE MI-MANDAT AUX ÉTATS-UNIS?",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:58",
+      "date": "30/10",
+      "timestamp": 1793339898
+    },
+    {
+      "id": "BFMTV_1793339010",
+      "source": "BFMTV",
+      "text": "RÉUNION DU G20 À ATLANTA: LE CHEF DE LA DIPLOMATIE RUSSE, SERGUEÏ LAVROV, EST ARRIVÉ AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:43",
+      "date": "30/10",
+      "timestamp": 1793339010
+    },
+    {
+      "id": "BFMTV_1793338992",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: QUATRE PÉTROLIERS HEURTENT DES MINES ET PRENNENT FEU DANS LE DÉTROIT D'ORMUZ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:43",
+      "date": "30/10",
+      "timestamp": 1793338992
+    },
+    {
+      "id": "BFMTV_1793337987",
+      "source": "BFMTV",
+      "text": "LE CAMP DE BENJAMIN NETANYAHU EN TÊTE DES ÉLECTIONS LÉGISLATIVES ISRAÉLIENNES, MAIS LOIN DE LA MAJORITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:26",
+      "date": "30/10",
+      "timestamp": 1793337987
+    },
+    {
+      "id": "BFMTV_1793337403",
+      "source": "BFMTV",
+      "text": "ISRAËL: BENJAMIN NETANYAHU ARRIVE EN TÊTE DES ÉLECTIONS LÉGISLATIVES, MAIS N'OBTIENT PAS DE MAJORITÉ",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:16",
+      "date": "30/10",
+      "timestamp": 1793337403
+    },
     {
       "id": "BFMTV_1793312900",
       "source": "BFMTV",
@@ -901,106 +1001,6 @@
       "time": "13:16",
       "date": "28/10",
       "timestamp": 1793193373
-    },
-    {
-      "id": "BFMTV_1793193354",
-      "source": "BFMTV",
-      "text": "LÉGISLATIVES EN ISRAËL: LE PRÉSIDENT APPELLE À \"TOUT FAIRE\" POUR ÉVITER DE NOUVELLES ÉLECTIONS MALGRÉ L'ABSENCE DE MAJORITÉ CLAIRE QUI SE DESSINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:15",
-      "date": "28/10",
-      "timestamp": 1793193354
-    },
-    {
-      "id": "BFMTV_1793193241",
-      "source": "BFMTV",
-      "text": "\"C'EST UN MOMENT TRÈS DIFFICILE QUE NOUS VIVONS\", DÉPLORE LE ROI FELIPE D'ESPAGNE APRÈS L'ACCIDENT DE TRAINS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:14",
-      "date": "28/10",
-      "timestamp": 1793193241
-    },
-    {
-      "id": "BFMTV_1793193184",
-      "source": "BFMTV",
-      "text": "UNE ANNÉE MEURTRIÈRE QUI SE POURSUIT: LA DRAMATIQUE SÉRIE NOIRE DES ACCIDENTS FERROVIAIRES EN ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:13",
-      "date": "28/10",
-      "timestamp": 1793193184
-    },
-    {
-      "id": "BFMTV_1793193048",
-      "source": "BFMTV",
-      "text": "ACCIDENT DE TRAINS EN ESPAGNE: 100 MILITAIRES ET 3 GRUES MOBILISÉS SUR LE LIEU DU DRAME",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:10",
-      "date": "28/10",
-      "timestamp": 1793193048
-    },
-    {
-      "id": "BFMTV_1793192884",
-      "source": "BFMTV",
-      "text": "UN JUGE AMÉRICAIN RESTREINT LES POURSUITES DES ÉPOUX MACRON CONTRE LA BLOGUEUSE CANDACE OWENS, MAIS L'ACTION EN JUSTICE CONTINUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:08",
-      "date": "28/10",
-      "timestamp": 1793192884
-    },
-    {
-      "id": "BFMTV_1793192631",
-      "source": "BFMTV",
-      "text": "UNE COLLISION ENTRE DEUX TRAINS FAIT AU MOINS 64 MORTS  ET 179 BLESSÉS EN ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:03",
-      "date": "28/10",
-      "timestamp": 1793192631
-    },
-    {
-      "id": "BFMTV_1793192564",
-      "source": "BFMTV",
-      "text": "ACCIDENT DE TRAINS EN ESPAGNE: UN NOUVEAU BILAN PROVISOIRE FAIT ÉTAT D'AU MOINS 64 MORTS ET 179 BLESSÉS ",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:02",
-      "date": "28/10",
-      "timestamp": 1793192564
-    },
-    {
-      "id": "OPEX360_1793188070",
-      "source": "OPEX360",
-      "text": "LES CAPACITÉS DE LA FORCE AÉRIENNE POLONAISE SONT AFFECTÉES PAR UNE PÉNURIE DE PILOTES",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:47",
-      "date": "28/10",
-      "timestamp": 1793188070
-    },
-    {
-      "id": "BFMTV_1793139802",
-      "source": "BFMTV",
-      "text": "POUVOIR D'ACHAT, CARBURANTS... LES DÉMOCRATES AMÉRICAINS IMPOSENT LEURS THÈMES DANS LA CAMPAGNE DES MIDTERMS",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:23",
-      "date": "27/10",
-      "timestamp": 1793139802
-    },
-    {
-      "id": "BFMTV_1793138711",
-      "source": "BFMTV",
-      "text": "FLAVIO BOLSONARO A FUI LE BRÉSIL POUR LES ÉTATS-UNIS APRÈS AVOIR PERDU FACE À LULA À L'ÉLECTION PRÉSIDENTIELLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:05",
-      "date": "27/10",
-      "timestamp": 1793138711
     }
   ],
   "france": {
