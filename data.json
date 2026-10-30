@@ -1,7 +1,37 @@
 {
-  "last_update": "29/10 21:18",
+  "last_update": "30/10 01:14",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793312900",
+      "source": "BFMTV",
+      "text": "COLLISION DE TRAINS EN ESPAGNE: LE BILAN RESTE À 69 MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:28",
+      "date": "29/10",
+      "timestamp": 1793312900
+    },
+    {
+      "id": "BFMTV_1793310715",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ET MELANIA TRUMP OUVRENT LES PORTES DE LA MAISON BLANCHE POUR FÊTER HALLOWEEN AVEC DES ENFANTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:51",
+      "date": "29/10",
+      "timestamp": 1793310715
+    },
+    {
+      "id": "BFMTV_1793310708",
+      "source": "BFMTV",
+      "text": " \"JE SUIS VENUE ICI EN SOUTIEN À MON AMI\" : KAMALA HARRIS FAIT CAMPAGNE AUX CÔTÉS DU SÉNATEUR DÉMOCRATE JON OSSOF À ATLANTA",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:51",
+      "date": "29/10",
+      "timestamp": 1793310708
+    },
     {
       "id": "BFMTV_1793304311",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "22:05",
       "date": "27/10",
       "timestamp": 1793138711
-    },
-    {
-      "id": "BFMTV_1793138272",
-      "source": "BFMTV",
-      "text": "\"N'ALLEZ PAS EN FRANCE\", LANCE DONALD TRUMP À DES MILITANTS RASSEMBLÉS POUR UN MEETING AU TEXAS",
-      "urgent": false,
-      "france_related": true,
-      "time": "21:57",
-      "date": "27/10",
-      "timestamp": 1793138272
-    },
-    {
-      "id": "BFMTV_1793131790",
-      "source": "BFMTV",
-      "text": "ÉLECTIONS LÉGISLATIVES EN ISRAËL: LE BLOC DE L'OPPOSITION LÉGÈREMENT EN TÊTE MAIS SANS MAJORITÉ SELON DES SONDAGES À LA SORTIE DES URNES",
-      "urgent": true,
-      "france_related": false,
-      "time": "20:09",
-      "date": "27/10",
-      "timestamp": 1793131790
-    },
-    {
-      "id": "BFMTV_1793128930",
-      "source": "BFMTV",
-      "text": "LÉGISLATIVES EN ISRAËL: LE RÉSULTAT POUSSERA-T-IL LA POPULATION À S'UNIR OU À SE DIVISER DAVANTAGE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:22",
-      "date": "27/10",
-      "timestamp": 1793128930
     }
   ],
   "france": {
