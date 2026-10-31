@@ -1,7 +1,97 @@
 {
-  "last_update": "31/10 08:45",
+  "last_update": "31/10 15:03",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793458171",
+      "source": "BFMTV",
+      "text": "MANIFESTATIONS : LA JEUNESSE SE MOBILISE AUSSI EN ALLEMAGNE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:49",
+      "date": "31/10",
+      "timestamp": 1793458171
+    },
+    {
+      "id": "BFMTV_1793458153",
+      "source": "BFMTV",
+      "text": "\"CELA CONTINUE DE FAÇONNER NOTRE MONDE\": ANDY BURNHAM SE DIT OUVERT À DES EXCUSES OFFICIELLES DU ROYAUME-UNI SUR L'ESCLAVAGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:49",
+      "date": "31/10",
+      "timestamp": 1793458153
+    },
+    {
+      "id": "OPEX360_1793457821",
+      "source": "OPEX360",
+      "text": "LA SECTION TECHNIQUE DE L’ARMÉE DE TERRE DÉVELOPPE DÉJÀ LE STANDARD 3 DU SYSTÈME ANTIDRONE PROTEUS",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:43",
+      "date": "31/10",
+      "timestamp": 1793457821
+    },
+    {
+      "id": "OPEX360_1793447158",
+      "source": "OPEX360",
+      "text": "DÉSARMÉE EN 2022, L’EX-FRÉGATE LATOUCHE-TRÉVILLE EST DÉSORMAIS UTILISÉE PAR LA DGA POUR DES ESSAIS DE CHOC",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:45",
+      "date": "31/10",
+      "timestamp": 1793447158
+    },
+    {
+      "id": "BFMTV_1793445855",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:24",
+      "date": "31/10",
+      "timestamp": 1793445855
+    },
+    {
+      "id": "BFMTV_1793445855",
+      "source": "BFMTV",
+      "text": "UNE RIPOSTE SANS \"LIMITE GÉOGRAPHIQUE\": LE GUIDE SUPRÊME IRANIEN MET EN GARDE LES ÉTATS-UNIS CONTRE UNE REPRISE DES ATTAQUES",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:24",
+      "date": "31/10",
+      "timestamp": 1793445855
+    },
+    {
+      "id": "OPEX360_1793442130",
+      "source": "OPEX360",
+      "text": "LE RAFALE M RÉUSSIT SES PREMIERS ESSAIS À BORD DU PORTE-AVIONS INDIEN INS VIKRANT",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:22",
+      "date": "31/10",
+      "timestamp": 1793442130
+    },
+    {
+      "id": "BFMTV_1793441926",
+      "source": "BFMTV",
+      "text": "AU MOINS UN MORT ET SIX BLESSÉS APRÈS DES TIRS DANS UN MAGASIN D'HALLOWEEN AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:18",
+      "date": "31/10",
+      "timestamp": 1793441926
+    },
+    {
+      "id": "BFMTV_1793436349",
+      "source": "BFMTV",
+      "text": "COLLISION DE TRAINS EN ESPAGNE: LES AUTOPSIES DE 69 CORPS SONT TERMINÉES, 36 PERSONNES IDENTIFIÉES, 67 TOUJOURS PORTÉES DISPARUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:45",
+      "date": "31/10",
+      "timestamp": 1793436349
+    },
     {
       "id": "BFMTV_1793435151",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "07:13",
       "date": "29/10",
       "timestamp": 1793257992
-    },
-    {
-      "id": "BFMTV_1793256357",
-      "source": "BFMTV",
-      "text": "MADRID: AFFRONTEMENTS ENTRE DES MANIFESTANTS D'EXTRÊME DROITE ET LA POLICE DEVANT LE MINISTÈRE DES TRANSPORTS, À LA SUITE DE LA COLLISION MEURTRIÈRE ENTRE DEUX TRAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:45",
-      "date": "29/10",
-      "timestamp": 1793256357
-    },
-    {
-      "id": "BFMTV_1793255575",
-      "source": "BFMTV",
-      "text": "TROIS JOURS DE DEUIL NATIONAL ONT ÉTÉ DÉCRÉTÉS EN ESPAGNE POUR LES 68 VICTIMES DE LA COLLISION ENTRE DEUX TRAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:32",
-      "date": "29/10",
-      "timestamp": 1793255575
-    },
-    {
-      "id": "BFMTV_1793252897",
-      "source": "BFMTV",
-      "text": "AUX ÉTATS-UNIS, LES VENTES DE PRODUITS DÉRIVÉS DÉDIÉS À DONALD TRUMP SONT EN BERNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:48",
-      "date": "29/10",
-      "timestamp": 1793252897
-    },
-    {
-      "id": "BFMTV_1793252432",
-      "source": "BFMTV",
-      "text": "ACCIDENT DE TRAINS EN ESPAGNE: UNE DÉCISION HUMAINE \"INEXPLICABLE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:40",
-      "date": "29/10",
-      "timestamp": 1793252432
-    },
-    {
-      "id": "BFMTV_1793251348",
-      "source": "BFMTV",
-      "text": "L'ÉDITO INTERNATIONAL - EN UKRAINE, LE CESSEZ-LE-FEU OBTENU PAR MELANIA TRUMP S'ÉTEND À LA RÉGION DE KHERSON ",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:22",
-      "date": "29/10",
-      "timestamp": 1793251348
-    },
-    {
-      "id": "BFMTV_1793250896",
-      "source": "BFMTV",
-      "text": "\"S'IL VOUS PLAÎT, CHERCHEZ-LE PARTOUT !\": LES FAMILLES DES VICTIMES DE LA COLLISION ENTRE DEUX TRAINS EN ESPAGNE CHERCHENT LEURS PROCHES DISPARUS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:14",
-      "date": "29/10",
-      "timestamp": 1793250896
-    },
-    {
-      "id": "BFMTV_1793250614",
-      "source": "BFMTV",
-      "text": "ACCIDENT DE TRAINS EN ESPAGNE: DE LA COLÈRE ET DES AFFRONTEMENTS À MADRID, TANDIS QUE LES RECHERCHES SE SONT POURSUIVIES SUR LES LIEUX DE LA COLLISION",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:10",
-      "date": "29/10",
-      "timestamp": 1793250614
-    },
-    {
-      "id": "BFMTV_1793228059",
-      "source": "BFMTV",
-      "text": "ACCIDENT DE TRAINS EN ESPAGNE: AU MOINS 68 MORTS, PEDRO SÁNCHEZ ANNONCE TROIS JOURS DE DEUIL NATIONAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:54",
-      "date": "28/10",
-      "timestamp": 1793228059
-    },
-    {
-      "id": "BFMTV_1793225930",
-      "source": "BFMTV",
-      "text": "VIKTOR ORBAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:18",
-      "date": "28/10",
-      "timestamp": 1793225930
     }
   ],
   "france": {
