@@ -1,7 +1,87 @@
 {
-  "last_update": "01/11 08:00",
+  "last_update": "01/11 15:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793544537",
+      "source": "BFMTV",
+      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:48",
+      "date": "01/11",
+      "timestamp": 1793544537
+    },
+    {
+      "id": "BFMTV_1793544536",
+      "source": "BFMTV",
+      "text": "INCENDIE DE CRANS-MONTANA: UN AVOCAT DEMANDE UNE ENQUÊTE SUR LES FINANCES DE LA COMMUNE ET SA MISE SOUS TUTELLE PARTIELLE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:48",
+      "date": "01/11",
+      "timestamp": 1793544536
+    },
+    {
+      "id": "OPEX360_1793535472",
+      "source": "OPEX360",
+      "text": "LA DIRECTION GÉNÉRALE DE L’ARMEMENT LANCE UN APPEL D’OFFRES POUR INDUSTRIALISER SON DRONE NAVAL KAMIKAZE «SMOKERS»",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:17",
+      "date": "01/11",
+      "timestamp": 1793535472
+    },
+    {
+      "id": "OPEX360_1793535280",
+      "source": "OPEX360",
+      "text": "UN DOCUMENT CONFIRME L’INTÉRÊT DE LA FORCE AÉRIENNE ITALIENNE POUR L’AVION DE TRANSPORT A400M «ATLAS» D’AIRBUS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:14",
+      "date": "01/11",
+      "timestamp": 1793535280
+    },
+    {
+      "id": "BFMTV_1793531132",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: APRÈS LES MENACES DE DONALD TRUMP, L'IRAN DÉCLARE QU'UNE NOUVELLE GUERRE AVEC LES ÉTATS-UNIS POURRAIT ÊTRE \"PLUS LONGUE QUE LA PRÉCÉDENTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:05",
+      "date": "01/11",
+      "timestamp": 1793531132
+    },
+    {
+      "id": "BFMTV_1793528379",
+      "source": "BFMTV",
+      "text": "INCENDIE DE CRANS-MONTANA: LA CONFRONTATION ENTRE LES ÉPOUX MORETTI ANNULÉE EN RAISON DE L'ÉTAT DE SANTÉ DE JESSICA MORETTI",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:19",
+      "date": "01/11",
+      "timestamp": 1793528379
+    },
+    {
+      "id": "BFMTV_1793521787",
+      "source": "BFMTV",
+      "text": "KAMALA HARRIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:29",
+      "date": "01/11",
+      "timestamp": 1793521787
+    },
+    {
+      "id": "BFMTV_1793521787",
+      "source": "BFMTV",
+      "text": "MIDTERMS 2026: KAMALA HARRIS APPELLE À UNE PARTICIPATION SI GRANDE \"QU'IL SERAIT IMPOSSIBLE DE TRUQUER\" L'ÉLECTION ET S'EN PREND À DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:29",
+      "date": "01/11",
+      "timestamp": 1793521787
+    },
     {
       "id": "BFMTV_1793511029",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "15:44",
       "date": "29/10",
       "timestamp": 1793288693
-    },
-    {
-      "id": "BFMTV_1793287936",
-      "source": "BFMTV",
-      "text": "UN \"ATTENTAT CONTRE LA DÉMOCRATIE\": LE CAMP DE BENJAMIN NETANYAHU CIBLE LES PARTIS ARABES APRÈS LEUR SCORE HISTORIQUE AUX LÉGISLATIVES EN ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:32",
-      "date": "29/10",
-      "timestamp": 1793287936
-    },
-    {
-      "id": "BFMTV_1793285933",
-      "source": "BFMTV",
-      "text": "\"JE VEUX AVOIR LA LIBERTÉ DE PAROLE\", DÉCLARE CHRISITINE LAGARDE APRÈS L'ANNONCE DE SON DÉPART DE LA BCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:58",
-      "date": "29/10",
-      "timestamp": 1793285933
-    },
-    {
-      "id": "BFMTV_1793285781",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP JUGE QUE L'ÉLECTION PRÉSIDENTIELLE AU BRÉSIL ÉTAIT \"HONTEUSE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:56",
-      "date": "29/10",
-      "timestamp": 1793285781
-    },
-    {
-      "id": "BFMTV_1793285503",
-      "source": "BFMTV",
-      "text": "BCE: CHRISTINE LAGARDE ASSURE QU'UN \"PROCESSUS A DÉJÀ ÉTÉ LANCÉ\" POUR \"IDENTIFIER\" SON SUCCESSEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:51",
-      "date": "29/10",
-      "timestamp": 1793285503
-    },
-    {
-      "id": "BFMTV_1793285196",
-      "source": "BFMTV",
-      "text": "COLLISION DE TRAINS EN ESPAGNE: LE ROI FELIPE VI EST ARRIVÉ À L'HÔPITAL DE TOLÈDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:46",
-      "date": "29/10",
-      "timestamp": 1793285196
-    },
-    {
-      "id": "BFMTV_1793284920",
-      "source": "BFMTV",
-      "text": "DIRECT. COLLISION DE TRAINS EN ESPAGNE: LE ROI FELIPE VI ET LA REINE LETIZIA AU CHEVET DES BLESSÉS À TOLÈDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:42",
-      "date": "29/10",
-      "timestamp": 1793284920
-    },
-    {
-      "id": "BFMTV_1793282127",
-      "source": "BFMTV",
-      "text": "LA BCE LAISSE SES TAUX INCHANGÉS, L'INFLATION POURRAIT PESER SUR LA CROISSANCE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:55",
-      "date": "29/10",
-      "timestamp": 1793282127
-    },
-    {
-      "id": "BFMTV_1793281419",
-      "source": "BFMTV",
-      "text": "\"LA SITUATION EST TELLEMENT CRITIQUE\": EN POLOGNE, LE CHEF DE L'OPPOSITION CONSERVATRICE ÉVOQUE UNE SORTIE DE L'UE, TOLLÉ AU SEIN DU GOUVERNEMENT",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:43",
-      "date": "29/10",
-      "timestamp": 1793281419
     }
   ],
   "france": {
