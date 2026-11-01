@@ -1,7 +1,47 @@
 {
-  "last_update": "01/11 01:28",
+  "last_update": "01/11 08:00",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793511029",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: UNE \"ENTREPRISE INDUSTRIELLE\" TOUCHÉE À L'EST DE MOSCOU, KIEV DIT AVOIR FRAPPÉ UNE IMPORTANTE RAFFINERIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:30",
+      "date": "01/11",
+      "timestamp": 1793511029
+    },
+    {
+      "id": "BFMTV_1793510515",
+      "source": "BFMTV",
+      "text": "GUERRE AU MOYEN-ORIENT: DONALD TRUMP MENACE L'IRAN DE NOUVELLES FRAPPES SUR \"UN OU DEUX SITES\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:21",
+      "date": "01/11",
+      "timestamp": 1793510515
+    },
+    {
+      "id": "BFMTV_1793510303",
+      "source": "BFMTV",
+      "text": "\"JOYEUX HALLOWEEN\": LE GOUVERNEMENT TRUMP PUBLIE PLUSIEURS MONTAGES VIDÉOS VIOLENTS ET DÉGRADANTS CÉLÉBRANT LES EXPULSIONS DE MIGRANTS PAR L'ICE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:18",
+      "date": "01/11",
+      "timestamp": 1793510303
+    },
+    {
+      "id": "BFMTV_1793510274",
+      "source": "BFMTV",
+      "text": "MIDTERMS: AUX ÉTATS-UNIS, LES DÉMOCRATES ESPÈRENT BIEN TIRER PROFIT DE L’IMPOPULARITÉ RECORD DE DONALD TRUMP.",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:17",
+      "date": "01/11",
+      "timestamp": 1793510274
+    },
     {
       "id": "BFMTV_1793485099",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "13:43",
       "date": "29/10",
       "timestamp": 1793281419
-    },
-    {
-      "id": "BFMTV_1793281082",
-      "source": "BFMTV",
-      "text": "COLLISION DE TRAINS EN ESPAGNE: \"C'ÉTAIT UN AMAS DE FERRAILLE, DE CADAVRES ET DE MOURANTS\", RACONTE UN PRIMO-INTERVENANT",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:38",
-      "date": "29/10",
-      "timestamp": 1793281082
-    },
-    {
-      "id": "BFMTV_1793280872",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: AU MOINS 14 MORTS DANS UNE FRAPPE RUSSE SUR LA GARE DE DNIPRO, EMMANUEL MACRON DÉPLORE QUE LA RUSSIE MISE \"SUR L'ESCALADE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:34",
-      "date": "29/10",
-      "timestamp": 1793280872
-    },
-    {
-      "id": "BFMTV_1793280644",
-      "source": "BFMTV",
-      "text": "SOMMET UE-CANADA: LE CANADA SERA-T-IL LE \"PREMIER MEMBRE ASSOCIÉ\" DE L'UE ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:30",
-      "date": "29/10",
-      "timestamp": 1793280644
-    },
-    {
-      "id": "BFMTV_1793280572",
-      "source": "BFMTV",
-      "text": "COLLISION DE TRAINS EN ESPAGNE: LE ROI FELIPE VI ATTENDU AU CHEVET DES BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:29",
-      "date": "29/10",
-      "timestamp": 1793280572
     }
   ],
   "france": {
