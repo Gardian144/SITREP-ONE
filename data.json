@@ -1,7 +1,27 @@
 {
-  "last_update": "01/11 15:06",
+  "last_update": "01/11 19:39",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793545941",
+      "source": "BFMTV",
+      "text": "GAZA: DES FRAPPES ISRAÉLIENNES TUENT HUIT PERSONNES, DONT UN ENFANT",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:12",
+      "date": "01/11",
+      "timestamp": 1793545941
+    },
+    {
+      "id": "BFMTV_1793545941",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:12",
+      "date": "01/11",
+      "timestamp": 1793545941
+    },
     {
       "id": "BFMTV_1793544537",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "16:03",
       "date": "29/10",
       "timestamp": 1793289796
-    },
-    {
-      "id": "OPEX360_1793289186",
-      "source": "OPEX360",
-      "text": "LE COÛT DES FUTURS AVIONS DE PATROUILLE MARITIME DE LA MARINE NATIONALE A DÉJÀ AUGMENTÉ DE 65 %",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:53",
-      "date": "29/10",
-      "timestamp": 1793289186
-    },
-    {
-      "id": "BFMTV_1793288693",
-      "source": "BFMTV",
-      "text": "PRÉSIDENTIELLE AU BRÉSIL: DONALD TRUMP JUGE QUE L'ÉLECTION ÉTAIT \"HONTEUSE\", APRÈS LA FUITE DE FLAVIO BOLSONARO AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:44",
-      "date": "29/10",
-      "timestamp": 1793288693
     }
   ],
   "france": {
