@@ -1,7 +1,47 @@
 {
-  "last_update": "01/11 19:39",
+  "last_update": "01/11 23:05",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793573751",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: NEUF MORTS DANS LE CRASH D'UN PETIT AVION EN FLORIDE, UNE ENQUÊTE OUVERTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:55",
+      "date": "01/11",
+      "timestamp": 1793573751
+    },
+    {
+      "id": "BFMTV_1793573169",
+      "source": "BFMTV",
+      "text": "ISRAËL: LE PRÉSIDENT DE LA COMMISSION ÉLECTORALE ASSURE QUE LES SOUPÇONS D'IRRÉGULARITÉS NE REMETTRONT PAS EN CAUSE LES RÉSULTATS",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:46",
+      "date": "01/11",
+      "timestamp": 1793573169
+    },
+    {
+      "id": "BFMTV_1793571436",
+      "source": "BFMTV",
+      "text": "MIDTERMS: AUX ÉTATS-UNIS, DES ÉLECTEURS AFFICHENT LEUR COULEUR POLITIQUE DANS LEUR JARDIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:17",
+      "date": "01/11",
+      "timestamp": 1793571436
+    },
+    {
+      "id": "BFMTV_1793568722",
+      "source": "BFMTV",
+      "text": "AU MAROC, UN JEUNE DESSINATEUR QUI A CARICATURÉ LE ROI CONDAMNÉ À QUATRE ANS DE PRISON",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:32",
+      "date": "01/11",
+      "timestamp": 1793568722
+    },
     {
       "id": "BFMTV_1793545941",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "17:14",
       "date": "29/10",
       "timestamp": 1793294087
-    },
-    {
-      "id": "BFMTV_1793293612",
-      "source": "BFMTV",
-      "text": "L'UNION EUROPÉENNE ET LE CANADA VEULENT AMENER LEUR RELATION \"AU PLUS HAUT NIVEAU POSSIBLE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:06",
-      "date": "29/10",
-      "timestamp": 1793293612
-    },
-    {
-      "id": "BFMTV_1793293107",
-      "source": "BFMTV",
-      "text": "ACCIDENT FERROVIAIRE EN ESPAGNE: LE ROI FELIPE VI RÉCLAME DES \"MESURES\" POUR ÉVITER UNE NOUVELLE CATASTROPHE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:58",
-      "date": "29/10",
-      "timestamp": 1793293107
-    },
-    {
-      "id": "BFMTV_1793292443",
-      "source": "BFMTV",
-      "text": "MIDTERMS: DONALD TRUMP A-T-IL DÉJÀ PERDU LES ÉLECTIONS DE MI-MANDAT?",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:47",
-      "date": "29/10",
-      "timestamp": 1793292443
-    },
-    {
-      "id": "BFMTV_1793289796",
-      "source": "BFMTV",
-      "text": "ANCIENNE MINISTRE, MEMBRE DE LA GUARDIA CIVIL, ATHLÈTE... QUI SONT LES PREMIÈRES VICTIMES IDENTIFIÉES DE LA CATASTROPHE FERROVIAIRE EN ESPAGNE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:03",
-      "date": "29/10",
-      "timestamp": 1793289796
     }
   ],
   "france": {
