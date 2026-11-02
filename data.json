@@ -1,7 +1,127 @@
 {
-  "last_update": "02/11 02:30",
+  "last_update": "02/11 09:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793612951",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: REPRISE DES ATTAQUES RUSSES DANS LA RÉGION DE KHERSON APRÈS LE CESSEZ-LE-FEU",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:49",
+      "date": "02/11",
+      "timestamp": 1793612951
+    },
+    {
+      "id": "BFMTV_1793611463",
+      "source": "BFMTV",
+      "text": "UN NOUVEAU CYCLONE APPROCHE DES CÔTES DE L'INDE, DES RAFALES JUSQU'À 120 KM/H ATTENDUES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:24",
+      "date": "02/11",
+      "timestamp": 1793611463
+    },
+    {
+      "id": "BFMTV_1793609488",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DONALD TRUMP MENACE DE \"DONNER UN COUP DE MASSUE\", TÉHÉRAN PROMET UNE GUERRE \"PLUS LONGUE QUE LA PRÉCÉDENTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:51",
+      "date": "02/11",
+      "timestamp": 1793609488
+    },
+    {
+      "id": "BFMTV_1793604954",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY CONDITIONNE L'ARRÊT DES FRAPPES SUR LES RAFFINERIES RUSSES À LA FOURNITURE DE MISSILES AMÉRICAINS PATRIOT",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:35",
+      "date": "02/11",
+      "timestamp": 1793604954
+    },
+    {
+      "id": "BFMTV_1793604954",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:35",
+      "date": "02/11",
+      "timestamp": 1793604954
+    },
+    {
+      "id": "BFMTV_1793604718",
+      "source": "BFMTV",
+      "text": "LES AUTORITÉS TALIBANES EXPRIMENT LEUR \"PROFONDE INQUIÉTUDE\" FACE AU PROJET AMÉRICAIN D'EXPULSER DES AFGHANS VERS LE PAKISTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:31",
+      "date": "02/11",
+      "timestamp": 1793604718
+    },
+    {
+      "id": "BFMTV_1793601316",
+      "source": "BFMTV",
+      "text": "\"À L'AIDE, NOUS ALLONS MOURIR !\": NEUF PERSONNES MORTES DANS LE CRASH D'UN PETIT AVION EN FLORIDE AUX ÉTATS-UNIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:35",
+      "date": "02/11",
+      "timestamp": 1793601316
+    },
+    {
+      "id": "BFMTV_1793600543",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: DONALD TRUMP MENACE DE \"DONNER UN COUP DE MASSUE\", TÉHÉRAN PROMET UNE GUERRE \"PLUS LONGUE QUE LA PRÉCÉDENTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:22",
+      "date": "02/11",
+      "timestamp": 1793600543
+    },
+    {
+      "id": "BFMTV_1793598042",
+      "source": "BFMTV",
+      "text": "COLLISION DE TRAINS EN ESPAGNE: 12 VICTIMES SONT ÉTRANGÈRES, DONT UNE FRANÇAISE ET QUATRE AMÉRICAINS",
+      "urgent": false,
+      "france_related": true,
+      "time": "05:40",
+      "date": "02/11",
+      "timestamp": 1793598042
+    },
+    {
+      "id": "BFMTV_1793596915",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: DES APPLICATIONS MOBILES D'URGENCE UKRAINIENNE ET RUSSE TOUCHÉES PAR DES CYBERATTAQUES APRÈS LA FIN DE LA TRÊVE À OLECHKY",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:21",
+      "date": "02/11",
+      "timestamp": 1793596915
+    },
+    {
+      "id": "BFMTV_1793596620",
+      "source": "BFMTV",
+      "text": "MIDTERMS 2026: LES DÉMOCRATES FAVORIS À LA CHAMBRE, AU COUDE-À-COUDE AU SÉNAT... QUE DISENT LES SONDAGES À LA VEILLE DES ÉLECTIONS DE MI-MANDAT?",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:17",
+      "date": "02/11",
+      "timestamp": 1793596620
+    },
+    {
+      "id": "BFMTV_1793596322",
+      "source": "BFMTV",
+      "text": "UN JET S'ÉCRASE EN FLORIDE, AU MOINS NEUF MORTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:12",
+      "date": "02/11",
+      "timestamp": 1793596322
+    },
     {
       "id": "BFMTV_1793573751",
       "source": "BFMTV",
@@ -881,126 +1001,6 @@
       "time": "20:05",
       "date": "29/10",
       "timestamp": 1793304311
-    },
-    {
-      "id": "BFMTV_1793304163",
-      "source": "BFMTV",
-      "text": "UE-CANADA : LES PISTES ANNONCÉES PAR ANTÓNIO COSTA POUR UN PARTENARIAT APPROFONDI",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:02",
-      "date": "29/10",
-      "timestamp": 1793304163
-    },
-    {
-      "id": "BFMTV_1793302502",
-      "source": "BFMTV",
-      "text": "\"ILS NOUS ONT SOLLICITÉS UN PRÊT POUR LE CARBURANT\": LES PASSAGERS D'UNE CROISIÈRE SE RETROUVENT ABANDONNÉS SUR UNE ÎLE AU CAMBODGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:35",
-      "date": "29/10",
-      "timestamp": 1793302502
-    },
-    {
-      "id": "BFMTV_1793300362",
-      "source": "BFMTV",
-      "text": "MIDTERMS: LA QUESTION DU POUVOIR D'ACHAT EST DEVENUE CENTRALE DANS LA CAMPAGNE ÉLECTORALE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:59",
-      "date": "29/10",
-      "timestamp": 1793300362
-    },
-    {
-      "id": "BFMTV_1793299333",
-      "source": "BFMTV",
-      "text": "\"NOUS AVONS CAPTURÉ ET TRADUIT EN JUSTICE LE DICTATEUR HORS-LA-LOI DU VENEZUELA, NICOLÁS MADURO\": TRUMP VANTE SON BILAN À MI-MANDAT",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:42",
-      "date": "29/10",
-      "timestamp": 1793299333
-    },
-    {
-      "id": "BFMTV_1793298581",
-      "source": "BFMTV",
-      "text": "ACCIDENT DE TRAINS EN ESPAGNE: CES AUTRES DRAMES FERROVIAIRES QUI ONT MARQUÉ L’EUROPE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:29",
-      "date": "29/10",
-      "timestamp": 1793298581
-    },
-    {
-      "id": "OPEX360_1793298204",
-      "source": "OPEX360",
-      "text": "AVEC LE ROBOT SOUS-MARIN ROV-DEAP SEA, LA MARINE NATIONALE POURRA INTERVENIR À 6 000 MÈTRES DE PROFONDEUR",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:23",
-      "date": "29/10",
-      "timestamp": 1793298204
-    },
-    {
-      "id": "BFMTV_1793298195",
-      "source": "BFMTV",
-      "text": "DIRECT. COLLISION DE TRAINS EN ESPAGNE: LE BILAN RESTE À 69 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:23",
-      "date": "29/10",
-      "timestamp": 1793298195
-    },
-    {
-      "id": "BFMTV_1793298146",
-      "source": "BFMTV",
-      "text": "COLLISION MORTELLE DE TRAINS EN ESPAGNE: LE BILAN MONTE À 69 MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:22",
-      "date": "29/10",
-      "timestamp": 1793298146
-    },
-    {
-      "id": "BFMTV_1793297684",
-      "source": "BFMTV",
-      "text": "MIDTERMS: LE DISCOURS DE DONALD TRUMP EN CAROLINE DU SUD À NOUVEAU PERTURBÉ PAR UN MANIFESTANT",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:14",
-      "date": "29/10",
-      "timestamp": 1793297684
-    },
-    {
-      "id": "BFMTV_1793297527",
-      "source": "BFMTV",
-      "text": "\"TOUT LE MONDE SAIT QUE NOUS DEVIONS ATTAQUER L’IRAN\": DONALD TRUMP CONTESTE LES SONDAGES QUI FONT ÉTAT D’UN RECUL DE SA COTE DE POPULARITÉ",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:12",
-      "date": "29/10",
-      "timestamp": 1793297527
-    },
-    {
-      "id": "OPEX360_1793294172",
-      "source": "OPEX360",
-      "text": "LE CANADIEN BOMBARDIER S’ENTEND AVEC BAE SYSTEMS EN VUE D’ÉTABLIR UNE COOPÉRATION SUR L’AVIATION DE COMBAT DU FUTUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:16",
-      "date": "29/10",
-      "timestamp": 1793294172
-    },
-    {
-      "id": "BFMTV_1793294087",
-      "source": "BFMTV",
-      "text": "TRUMP EN ROUE LIBRE, OBAMA À L'ATTAQUE: LA FIN DE CAMPAGNE ÉLECTRIQUE DES MIDTERMS",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:14",
-      "date": "29/10",
-      "timestamp": 1793294087
     }
   ],
   "france": {
