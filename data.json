@@ -1,7 +1,87 @@
 {
-  "last_update": "03/11 02:17",
+  "last_update": "03/11 09:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793698003",
+      "source": "BFMTV",
+      "text": "MIDTERMS: LE DÉVELOPPEMENT DES DATACENTERS DIVISE LES ÉLECTEURS RÉPUBLICAINS AU TEXAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:26",
+      "date": "03/11",
+      "timestamp": 1793698003
+    },
+    {
+      "id": "BFMTV_1793690225",
+      "source": "BFMTV",
+      "text": "UN ENFANT MEURT DE LA ROUGEOLE DANS L'ÉTAT DE NEW YORK, PREMIER CAS MORTEL EN 30 ANS DANS CETTE RÉGION",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:17",
+      "date": "03/11",
+      "timestamp": 1793690225
+    },
+    {
+      "id": "BFMTV_1793689745",
+      "source": "BFMTV",
+      "text": "L'IRAN AFFIRME QUE LA BALLE EST DÉSORMAIS DANS LE CAMP DES ÉTATS-UNIS POUR \"ÉVITER LA GUERRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "07:09",
+      "date": "03/11",
+      "timestamp": 1793689745
+    },
+    {
+      "id": "BFMTV_1793687400",
+      "source": "BFMTV",
+      "text": "MIDTERMS 2026: IOWA, TEXAS, ALASKA... QUELS SONT LES ÉTATS CLÉS QUI POURRAIENT FAIRE BASCULER LES ÉLECTIONS AMÉRICAINES?",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:30",
+      "date": "03/11",
+      "timestamp": 1793687400
+    },
+    {
+      "id": "BFMTV_1793684700",
+      "source": "BFMTV",
+      "text": "INFLATION, PRIX DU CARBURANT... LE COÛT DE LA VIE, LE BOULET AU PIED DE DONALD TRUMP AVANT LES MIDTERMS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:45",
+      "date": "03/11",
+      "timestamp": 1793684700
+    },
+    {
+      "id": "BFMTV_1793684355",
+      "source": "BFMTV",
+      "text": "LÉGISLATIVES EN ISRAËL: LE BLOC D'OPPOSITION SE RÉUNIT POUR TENTER DE FORMER UNE MAJORITÉ FACE À BENJAMIN NETANYAHU",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:39",
+      "date": "03/11",
+      "timestamp": 1793684355
+    },
+    {
+      "id": "BFMTV_1793683741",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN: À QUELQUES HEURES DES MIDTERMS, LES ÉTATS-UNIS ONT MENÉ DES FRAPPES CONTRE L'ÎLE IRANIENNE DE QESHM",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:29",
+      "date": "03/11",
+      "timestamp": 1793683741
+    },
+    {
+      "id": "BFMTV_1793683210",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LES NÉGOCIATIONS ENTRE KIEV ET MOSCOU REPRENDRONT À ABOU DHABI SOUS MÉDIATION AMÉRICAINE LA SEMAINE PROCHAINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "05:20",
+      "date": "03/11",
+      "timestamp": 1793683210
+    },
     {
       "id": "BFMTV_1793659978",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "15:41",
       "date": "30/10",
       "timestamp": 1793374883
-    },
-    {
-      "id": "BFMTV_1793374639",
-      "source": "BFMTV",
-      "text": "UNE FRANÇAISE TUÉE EN TURQUIE DANS L'EFFONDREMENT D'UNE COLONNE ROCHEUSE EN CAPPADOCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:37",
-      "date": "30/10",
-      "timestamp": 1793374639
-    },
-    {
-      "id": "OPEX360_1793373854",
-      "source": "OPEX360",
-      "text": "UN HÉLICOPTÈRE ITALIEN DE TRANSPORT CH-47 CHINOOK S’EST ÉCRASÉ EN BOSNIE-HERZÉGOVINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:24",
-      "date": "30/10",
-      "timestamp": 1793373854
-    },
-    {
-      "id": "BFMTV_1793373019",
-      "source": "BFMTV",
-      "text": "G20: MARCO RUBIO ALERTE SUR \"UNE SÉRIE DE CRISES ÉCONOMIQUES ET GÉOPOLITIQUES\" QUI REPRÉSENTENT DES \"MENACES GRAVES\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:10",
-      "date": "30/10",
-      "timestamp": 1793373019
-    },
-    {
-      "id": "BFMTV_1793370319",
-      "source": "BFMTV",
-      "text": "SOMMET UE-CANADA: MARK CARNEY SALUE \"DES OPPORTUNITÉS EXTRAORDINAIRES POUR LES CANADIENS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:25",
-      "date": "30/10",
-      "timestamp": 1793370319
-    },
-    {
-      "id": "BFMTV_1793368906",
-      "source": "BFMTV",
-      "text": "COLLISION DE TRAINS EN ESPAGNE: PEDRO SÁNCHEZ RECONNAÎT QUE LA CONFIANCE DANS LE TRAIN À GRANDE VITESSE EST \"ROMPUE\" DANS LE PAYS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:01",
-      "date": "30/10",
-      "timestamp": 1793368906
-    },
-    {
-      "id": "BFMTV_1793368291",
-      "source": "BFMTV",
-      "text": "\"IL A ENVOYÉ SON BULLETIN DE VOTE PAR COURRIER\": LE PAPE A VOTÉ POUR LES ÉLECTIONS DE MI-MANDAT AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:51",
-      "date": "30/10",
-      "timestamp": 1793368291
-    },
-    {
-      "id": "BFMTV_1793367906",
-      "source": "BFMTV",
-      "text": "LE \"TRUMPISME\" PEUT-IL MARQUER DURABLEMENT LES ÉTATS-UNIS, MÊME APRÈS LE DÉPART DE DONALD TRUMP?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:45",
-      "date": "30/10",
-      "timestamp": 1793367906
-    },
-    {
-      "id": "BFMTV_1793367040",
-      "source": "BFMTV",
-      "text": "\"DEPUIS CETTE NUIT-LÀ, JE N'AI PAS CONNU UN INSTANT OÙ JE NE SOUFFRE PAS\": APRÈS SON EXÉCUTION RATÉE, CHRISTA PIKE PREND LA PAROLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:30",
-      "date": "30/10",
-      "timestamp": 1793367040
     }
   ],
   "france": {
