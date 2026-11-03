@@ -1,7 +1,67 @@
 {
-  "last_update": "02/11 20:09",
+  "last_update": "03/11 02:17",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793659978",
+      "source": "BFMTV",
+      "text": "CRASH D'AVION EN FLORIDE: LES CONDITIONS MÉTÉOROLOGIQUES POINTÉES COMME UN ÉLÉMENT \"MAJEUR\" DE L'ENQUÊTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:52",
+      "date": "02/11",
+      "timestamp": 1793659978
+    },
+    {
+      "id": "BFMTV_1793658850",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:34",
+      "date": "02/11",
+      "timestamp": 1793658850
+    },
+    {
+      "id": "BFMTV_1793658848",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: 26 MORTS DANS DES FRAPPES RUSSES, VOLODYMYR ZELENSKY ACCUSE MOSCOU D'ANÉANTIR \"TOUT ESPOIR DE PROGRÈS VERS LA PAIX\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:34",
+      "date": "02/11",
+      "timestamp": 1793658848
+    },
+    {
+      "id": "BFMTV_1793657213",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LA DÉSINFORMATION PAR L’IA GANGRÈNE LES ÉLECTIONS DE MI-MANDAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:06",
+      "date": "02/11",
+      "timestamp": 1793657213
+    },
+    {
+      "id": "BFMTV_1793656945",
+      "source": "BFMTV",
+      "text": "MOYEN-ORIENT: DONALD TRUMP ASSURE QU'UN ACCORD AVEC L'IRAN SEMBLE \"SE METTRE EN PLACE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:02",
+      "date": "02/11",
+      "timestamp": 1793656945
+    },
+    {
+      "id": "BFMTV_1793656473",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ASSURE QUE LES ÉLECTIONS DE MI-MANDAT SONT LES PLUS IMPORTANTES \"DE NOTRE VIE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:54",
+      "date": "02/11",
+      "timestamp": 1793656473
+    },
     {
       "id": "BFMTV_1793648517",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "13:30",
       "date": "30/10",
       "timestamp": 1793367040
-    },
-    {
-      "id": "BFMTV_1793366663",
-      "source": "BFMTV",
-      "text": "MIDTERMS: DONALD TRUMP PEUT-IL NE PAS RECONNAÎTRE LE RÉSULTAT DES ÉLECTIONS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:24",
-      "date": "30/10",
-      "timestamp": 1793366663
-    },
-    {
-      "id": "BFMTV_1793366646",
-      "source": "BFMTV",
-      "text": "PHILIPPINES: UN VOLCAN ENTRE EN ÉRUPTION ET CRACHE DES CENDRES À 3.000 MÈTRES DE HAUTEUR",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:24",
-      "date": "30/10",
-      "timestamp": 1793366646
-    },
-    {
-      "id": "BFMTV_1793363966",
-      "source": "BFMTV",
-      "text": "\"CES HEURES D’ATTENTE NOUS TUENT\": L'ANGOISSE DES PROCHES DES DISPARUS APRÈS LA CATASTROPHE FERROVIAIRE EN ESPAGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:39",
-      "date": "30/10",
-      "timestamp": 1793363966
-    },
-    {
-      "id": "BFMTV_1793361536",
-      "source": "BFMTV",
-      "text": "BOSNIE-HERZÉGOVINE: QUATRE MORTS ET 11 BLESSÉS DANS UN CRASH D’HÉLICOPTÈRE MILITAIRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:58",
-      "date": "30/10",
-      "timestamp": 1793361536
-    },
-    {
-      "id": "BFMTV_1793361264",
-      "source": "BFMTV",
-      "text": "APRÈS L'ENLÈVEMENT DE QUATRE SOLDATS, LE SALVADOR ENVOIE PLUS DE 2.000 MILITAIRES EN HAÏTI",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:54",
-      "date": "30/10",
-      "timestamp": 1793361264
-    },
-    {
-      "id": "BFMTV_1793360437",
-      "source": "BFMTV",
-      "text": "AU PÉROU, DES MILLIERS DE FEMMES ONT ÉTÉ STÉRILISÉES DE FORCE DANS LES ANNÉES 1990, LA JUSTICE CLASSE L’AFFAIRE SANS SUITE",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:40",
-      "date": "30/10",
-      "timestamp": 1793360437
     }
   ],
   "france": {
