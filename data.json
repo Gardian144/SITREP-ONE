@@ -1,7 +1,157 @@
 {
-  "last_update": "03/11 09:51",
+  "last_update": "03/11 17:33",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793726413",
+      "source": "BFMTV",
+      "text": "DIRECT. MIDTERMS 2026: DONALD TRUMP ESTIME QUE LES RÉSULTATS SERONT \"MEILLEURS\" QUE PRÉVUS POUR LES RÉPUBLICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:20",
+      "date": "03/11",
+      "timestamp": 1793726413
+    },
+    {
+      "id": "OPEX360_1793725485",
+      "source": "OPEX360",
+      "text": "DESTINÉE À LA MARINE NATIONALE, LA VERSION VTOL DU DRONE ALIACA A ÉTÉ QUALIFIÉE PAR LA DIRECTION GÉNÉRALE DE L’ARMEMENT",
+      "urgent": true,
+      "france_related": true,
+      "time": "17:04",
+      "date": "03/11",
+      "timestamp": 1793725485
+    },
+    {
+      "id": "BFMTV_1793722102",
+      "source": "BFMTV",
+      "text": "\"ILS N'EN ONT PAS BESOIN\": DONALD TRUMP ANNONCE METTRE FIN À UNE AIDE ANNUELLE DE PRÈS DE 4 MILLIARDS DE DOLLARS DESTINÉE À ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:08",
+      "date": "03/11",
+      "timestamp": 1793722102
+    },
+    {
+      "id": "BFMTV_1793721599",
+      "source": "BFMTV",
+      "text": "INFRASTRUCTURES VISÉES, POURPARLERS \"INTENSES\"... CE QUE L'ON SAIT DES NOUVELLES FRAPPES AMÉRICAINES EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:59",
+      "date": "03/11",
+      "timestamp": 1793721599
+    },
+    {
+      "id": "BFMTV_1793721565",
+      "source": "BFMTV",
+      "text": "COLLISION DE TRAINS EN ESPAGNE: LE GOUVERNEMENT PROMET DE \"REGAGNER LA CONFIANCE DES CITOYENS DANS LE RÉSEAU À GRANDE VITESSE\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:59",
+      "date": "03/11",
+      "timestamp": 1793721565
+    },
+    {
+      "id": "BFMTV_1793720864",
+      "source": "BFMTV",
+      "text": "\"UN CHAPITRE HONTEUX DE L'HISTOIRE\": CHARLES III DIT SON \"HORREUR\" FACE À L'ESCLAVAGE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:47",
+      "date": "03/11",
+      "timestamp": 1793720864
+    },
+    {
+      "id": "OPEX360_1793720429",
+      "source": "OPEX360",
+      "text": "DES AVIONS A-4 SKYHAWK SERONT MIS EN ŒUVRE POUR ASSURER LA PRÉPARATION OPÉRATIONNELLE DES PILOTES MILITAIRES FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:40",
+      "date": "03/11",
+      "timestamp": 1793720429
+    },
+    {
+      "id": "BFMTV_1793720144",
+      "source": "BFMTV",
+      "text": "\"L'UN DES PLUS GRANDS MASSACRES\" DEPUIS LE DÉBUT DE LA GUERRE: VOLODYMYR ZELENSKY CRAINT UN TRÈS LOURD BILAN AU LENDEMAIN D'UNE FRAPPE RUSSE EN UKRAINE",
+      "urgent": true,
+      "france_related": true,
+      "time": "15:35",
+      "date": "03/11",
+      "timestamp": 1793720144
+    },
+    {
+      "id": "BFMTV_1793719962",
+      "source": "BFMTV",
+      "text": "LA CORÉE DU NORD DÉMENT LE VOL DE SIX MILLIARDS DE DOLLARS LORS DU PIRATAGE DE LA PLATEFORME BINANCE DONT L’ACCUSE LE FBI",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:32",
+      "date": "03/11",
+      "timestamp": 1793719962
+    },
+    {
+      "id": "BFMTV_1793719800",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ACCEPTERA-T-IL LES RÉSULTATS DES MIDTERMS? LE PRÉSIDENT AMÉRICAIN ENTRETIENT LE FLOU AVANT LE SCRUTIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:30",
+      "date": "03/11",
+      "timestamp": 1793719800
+    },
+    {
+      "id": "BFMTV_1793719798",
+      "source": "BFMTV",
+      "text": "LES PROPOS DE MARINE LE PEN SUR LA \"MEXICANISATION\" DE LA FRANCE SUSCITENT L’INDIGNATION AU MEXIQUE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:29",
+      "date": "03/11",
+      "timestamp": 1793719798
+    },
+    {
+      "id": "BFMTV_1793715390",
+      "source": "BFMTV",
+      "text": "LES ÉLECTIONS DE MI-MANDAT AUX ÉTATS-UNIS SONT-ELLES UN RÉFÉRENDUM POUR OU CONTRE DONALD TRUMP?",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:16",
+      "date": "03/11",
+      "timestamp": 1793715390
+    },
+    {
+      "id": "BFMTV_1793715230",
+      "source": "BFMTV",
+      "text": "IRAN, CARBURANTS, DONALD TRUMP.... QUELS SONT LES PRINCIPAUX ENJEUX DES MIDTERMS AUX ÉTATS-UNIS ?",
+      "urgent": true,
+      "france_related": false,
+      "time": "14:13",
+      "date": "03/11",
+      "timestamp": 1793715230
+    },
+    {
+      "id": "BFMTV_1793714662",
+      "source": "BFMTV",
+      "text": "MIDTERMS 2026: L'EX-ADVERSAIRE À LA PRIMAIRE DÉMOCRATE D'ABDUL EL-SAYED ANNONCE SON SOUTIEN À SON RIVAL RÉPUBLICAIN DANS LE MICHIGAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:04",
+      "date": "03/11",
+      "timestamp": 1793714662
+    },
+    {
+      "id": "OPEX360_1793706635",
+      "source": "OPEX360",
+      "text": "SPÉCIALISTE DE L’ARMEMENT TERRESTRE, KNDS S’ASSOCIE À SEAOWL POUR DÉVELOPPER UN DRONE DE COMBAT NAVAL",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:50",
+      "date": "03/11",
+      "timestamp": 1793706635
+    },
     {
       "id": "BFMTV_1793698003",
       "source": "BFMTV",
@@ -851,156 +1001,6 @@
       "time": "06:21",
       "date": "31/10",
       "timestamp": 1793427684
-    },
-    {
-      "id": "BFMTV_1793425972",
-      "source": "BFMTV",
-      "text": "DES CONSERVES, DES LAMPES-TORCHES, UN STOCK D'EAU... LES BRITANNIQUES INVITÉS À S'ÉQUIPER DE KITS DE SURVIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:52",
-      "date": "31/10",
-      "timestamp": 1793425972
-    },
-    {
-      "id": "BFMTV_1793423747",
-      "source": "BFMTV",
-      "text": "LULA ÉLU PRÉSIDENT DU BRÉSIL",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:15",
-      "date": "31/10",
-      "timestamp": 1793423747
-    },
-    {
-      "id": "BFMTV_1793423747",
-      "source": "BFMTV",
-      "text": "FLAVIO BOLSONARO, EX-CANDIDAT À LA PRÉSIDENTIELLE, AFFIRME AVOIR QUITTÉ LE BRÉSIL POUR FUIR UNE \"PERSÉCUTION\" APRÈS SA DÉFAITE FACE À LULA",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:15",
-      "date": "31/10",
-      "timestamp": 1793423747
-    },
-    {
-      "id": "BFMTV_1793397302",
-      "source": "BFMTV",
-      "text": "POLOGNE: LA POLICE BLOQUE L'ACCÈS AU TRIBUNAL CONSTITUTIONNEL, AU COEUR D'UNE CRISE POLITIQUE",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:55",
-      "date": "30/10",
-      "timestamp": 1793397302
-    },
-    {
-      "id": "BFMTV_1793390917",
-      "source": "BFMTV",
-      "text": "\"PROGRAMME CAPTAIN AMERICA POUR CHIENS\": L'ÉTONNANT PROJET D'UNE START-UP AMÉRICAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:08",
-      "date": "30/10",
-      "timestamp": 1793390917
-    },
-    {
-      "id": "BFMTV_1793387112",
-      "source": "BFMTV",
-      "text": "MIDTERMS: DONALD TRUMP POURRAIT-IL MENER À BIEN SA POLITIQUE AVEC UN CONGRÈS DÉMOCRATE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:05",
-      "date": "30/10",
-      "timestamp": 1793387112
-    },
-    {
-      "id": "OPEX360_1793384351",
-      "source": "OPEX360",
-      "text": "LE FRANÇAIS ASMAN TECHNOLOGY S’APPRÊTE À FAIRE VOLER LE DSLR MK1, UN DRONE MALE DÉDIÉ À LA GUERRE ÉLECTRONIQUE",
-      "urgent": true,
-      "france_related": true,
-      "time": "18:19",
-      "date": "30/10",
-      "timestamp": 1793384351
-    },
-    {
-      "id": "BFMTV_1793382796",
-      "source": "BFMTV",
-      "text": "SOMMET UE-CANADA: \"NOUS AVONS CONVENU DE LA PARTICIPATION DU CANADA À NOTRE PRÊT DE SOUTIEN À L'UKRAINE DE 90 MILLIARDS D'EUROS\", ANNONCE LA PRÉSIDENTE DE LA COMMISSION EUROPÉENNE ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:53",
-      "date": "30/10",
-      "timestamp": 1793382796
-    },
-    {
-      "id": "OPEX360_1793380210",
-      "source": "OPEX360",
-      "text": "LA GENDARMERIE NATIONALE DEVRA ENCORE PATIENTER POUR RENOUVELER SES FAMAS, QUI NE SERONT PLUS OPÉRATIONNELS EN 2030",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:10",
-      "date": "30/10",
-      "timestamp": 1793380210
-    },
-    {
-      "id": "BFMTV_1793379799",
-      "source": "BFMTV",
-      "text": "ALLIANCE UE-CANADA: \"NOUS COMMENÇONS À PEINE\" DÉCLARE LE PREMIER MINISTRE CANADIEN, MARK CARNEY  ",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:03",
-      "date": "30/10",
-      "timestamp": 1793379799
-    },
-    {
-      "id": "BFMTV_1793379515",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN MOIS APRÈS SON EXÉCUTION RATÉE, CHRISTA PIKE PREND LA PAROLE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:58",
-      "date": "30/10",
-      "timestamp": 1793379515
-    },
-    {
-      "id": "BFMTV_1793379329",
-      "source": "BFMTV",
-      "text": "TURQUIE: UNE FRANÇAISE TUÉE DANS L'EFFONDREMENT D'UNE COLONNE ROCHEUSE EN CAPPADOCE",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:55",
-      "date": "30/10",
-      "timestamp": 1793379329
-    },
-    {
-      "id": "BFMTV_1793379196",
-      "source": "BFMTV",
-      "text": "BRÉSIL: LA RÉÉLECTION DE LULA, UNE BONNE NOUVELLE POUR L'AMAZONIE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:53",
-      "date": "30/10",
-      "timestamp": 1793379196
-    },
-    {
-      "id": "BFMTV_1793376173",
-      "source": "BFMTV",
-      "text": "VENEZUELA: DONALD TRUMP A-T-IL DEMANDÉ CONSEIL À L'IA D'ELON MUSK POUR CAPTURER NICOLÁS MADURO? ",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:02",
-      "date": "30/10",
-      "timestamp": 1793376173
-    },
-    {
-      "id": "BFMTV_1793374883",
-      "source": "BFMTV",
-      "text": "PRÉSIDENTIELLE AU BRÉSIL: L'AVION À BORD DUQUEL FLAVIO BOLSONARO A FUI LE BRÉSIL A ÉTÉ PAYÉ DEPUIS LES ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:41",
-      "date": "30/10",
-      "timestamp": 1793374883
     }
   ],
   "france": {
