@@ -1,7 +1,27 @@
 {
-  "last_update": "04/11 17:46",
+  "last_update": "04/11 23:14",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1793817703",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES LANCE LA RÉALISATION D’UN DÉMONSTRATEUR DU DRONE SOUS-MARIN DE COMBAT UCUV",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:41",
+      "date": "04/11",
+      "timestamp": 1793817703
+    },
+    {
+      "id": "OPEX360_1793815127",
+      "source": "OPEX360",
+      "text": "SAFRAN VA FOURNIR LES TURBORÉACTEURS DU DRONE DE COMBAT SUPERSONIQUE CANADIEN FALCON",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:58",
+      "date": "04/11",
+      "timestamp": 1793815127
+    },
     {
       "id": "BFMTV_1793814271",
       "source": "BFMTV",
@@ -83,6 +103,16 @@
       "timestamp": 1793802190
     },
     {
+      "id": "BFMTV_1793802057",
+      "source": "BFMTV",
+      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:20",
+      "date": "04/11",
+      "timestamp": 1793802057
+    },
+    {
       "id": "BFMTV_1793802056",
       "source": "BFMTV",
       "text": "GIORGIA MELONI AVAIT DÉNONCÉ UNE \"INSULTE\": LA SUISSE PRENDRA EN CHARGE LES FRAIS MÉDICAUX DES PATIENTS ITALIENS APRÈS L'INCENDIE DE CRANS-MONTANA",
@@ -151,6 +181,26 @@
       "time": "11:53",
       "date": "04/11",
       "timestamp": 1793793205
+    },
+    {
+      "id": "BFMTV_1793793091",
+      "source": "BFMTV",
+      "text": "MIDTERMS: UN REVERS CINGLANT POUR DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:51",
+      "date": "04/11",
+      "timestamp": 1793793091
+    },
+    {
+      "id": "BFMTV_1793792059",
+      "source": "BFMTV",
+      "text": "JAMES TALARICO, GINA HINOJOSA, ABDUL EL-SAYED... QUI SONT LES NOUVEAUX VISAGES DES DÉMOCRATES AUX ÉTATS-UNIS APRÈS LES MIDTERMS 2026?",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:34",
+      "date": "04/11",
+      "timestamp": 1793792059
     },
     {
       "id": "OPEX360_1793789765",
@@ -951,56 +1001,6 @@
       "time": "05:40",
       "date": "02/11",
       "timestamp": 1793598042
-    },
-    {
-      "id": "BFMTV_1793596915",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: DES APPLICATIONS MOBILES D'URGENCE UKRAINIENNE ET RUSSE TOUCHÉES PAR DES CYBERATTAQUES APRÈS LA FIN DE LA TRÊVE À OLECHKY",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:21",
-      "date": "02/11",
-      "timestamp": 1793596915
-    },
-    {
-      "id": "BFMTV_1793596620",
-      "source": "BFMTV",
-      "text": "MIDTERMS 2026: LES DÉMOCRATES FAVORIS À LA CHAMBRE, AU COUDE-À-COUDE AU SÉNAT... QUE DISENT LES SONDAGES À LA VEILLE DES ÉLECTIONS DE MI-MANDAT?",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:17",
-      "date": "02/11",
-      "timestamp": 1793596620
-    },
-    {
-      "id": "BFMTV_1793596322",
-      "source": "BFMTV",
-      "text": "UN JET S'ÉCRASE EN FLORIDE, AU MOINS NEUF MORTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:12",
-      "date": "02/11",
-      "timestamp": 1793596322
-    },
-    {
-      "id": "BFMTV_1793573751",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: NEUF MORTS DANS LE CRASH D'UN PETIT AVION EN FLORIDE, UNE ENQUÊTE OUVERTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:55",
-      "date": "01/11",
-      "timestamp": 1793573751
-    },
-    {
-      "id": "BFMTV_1793573169",
-      "source": "BFMTV",
-      "text": "ISRAËL: LE PRÉSIDENT DE LA COMMISSION ÉLECTORALE ASSURE QUE LES SOUPÇONS D'IRRÉGULARITÉS NE REMETTRONT PAS EN CAUSE LES RÉSULTATS",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:46",
-      "date": "01/11",
-      "timestamp": 1793573169
     }
   ],
   "france": {
