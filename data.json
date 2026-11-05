@@ -1,7 +1,117 @@
 {
-  "last_update": "05/11 11:30",
+  "last_update": "05/11 18:58",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793904168",
+      "source": "BFMTV",
+      "text": "UN MILITANT POLITIQUE CONDAMNÉ À 10 ANS DE PRISON SUPPLÉMENTAIRES À HONG KONG",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:42",
+      "date": "05/11",
+      "timestamp": 1793904168
+    },
+    {
+      "id": "OPEX360_1793904128",
+      "source": "OPEX360",
+      "text": "LA FRANCE VA-T-ELLE FINALEMENT MAINTENIR SA PARTICIPATION AU PROJET DE CORVETTE EUROPÉENNE ?",
+      "urgent": false,
+      "france_related": true,
+      "time": "18:42",
+      "date": "05/11",
+      "timestamp": 1793904128
+    },
+    {
+      "id": "OPEX360_1793900108",
+      "source": "OPEX360",
+      "text": "LA DGA NOTIFIE À NAVAL GROUP ET À MBDA UN CONTRAT POUR DOUBLER LA PUISSANCE DE FEU DES FRÉGATES DE DÉFENSE ET D’INTERVENTION",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:35",
+      "date": "05/11",
+      "timestamp": 1793900108
+    },
+    {
+      "id": "BFMTV_1793898862",
+      "source": "BFMTV",
+      "text": "VOLS DÉROUTÉS, ENQUÊTE OUVERTE À ÉVREUX... CE QUE L'ON SAIT SUR LES ALERTES À LA BOMBE QUI ONT PERTURBÉ LE TRAFIC AÉRIEN EUROPÉEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:14",
+      "date": "05/11",
+      "timestamp": 1793898862
+    },
+    {
+      "id": "BFMTV_1793897360",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: MELANIA TRUMP A-T-ELLE UN VÉRITABLE RÔLE DIPLOMATIQUE?",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:49",
+      "date": "05/11",
+      "timestamp": 1793897360
+    },
+    {
+      "id": "BFMTV_1793896715",
+      "source": "BFMTV",
+      "text": "MELANIA TRUMP : DE L'OMBRE À L'INFLUENCE ?",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:38",
+      "date": "05/11",
+      "timestamp": 1793896715
+    },
+    {
+      "id": "BFMTV_1793895974",
+      "source": "BFMTV",
+      "text": "LA PREMIÈRE DAME AMÉRICAINE MELANIA TRUMP APPELLE À UN CESSEZ-LE-FEU \"DURABLE\" EN UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:26",
+      "date": "05/11",
+      "timestamp": 1793895974
+    },
+    {
+      "id": "BFMTV_1793894289",
+      "source": "BFMTV",
+      "text": "\"EMPÊCHER LE RETOUR AU POUVOIR DE NETANYAHU\": LE CENTRISTE GADI EISENKOT BIEN PLACÉ POUR FORMER LE PROCHAIN GOUVERNEMENT ISRAÉLIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:58",
+      "date": "05/11",
+      "timestamp": 1793894289
+    },
+    {
+      "id": "OPEX360_1793893144",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES VA NOTIFIER UN ACCORD-CADRE À MBDA POUR ACQUÉRIR DAVANTAGE DE MISSILES MER-MER EXOCET",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:39",
+      "date": "05/11",
+      "timestamp": 1793893144
+    },
+    {
+      "id": "OPEX360_1793879089",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES LOUE DEUX NAVIRES CIVILS POUR DOTER LA MARINE NATIONALE D’UNE CAPACITÉ HAUTURIÈRE DE GUERRE DES MINES",
+      "urgent": true,
+      "france_related": true,
+      "time": "11:44",
+      "date": "05/11",
+      "timestamp": 1793879089
+    },
+    {
+      "id": "BFMTV_1793878326",
+      "source": "BFMTV",
+      "text": "PÉROU: PLUS DE 3.000 MYGALES CACHÉES DANS DES VALISES",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:32",
+      "date": "05/11",
+      "timestamp": 1793878326
+    },
     {
       "id": "BFMTV_1793876515",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "22:52",
       "date": "02/11",
       "timestamp": 1793659978
-    },
-    {
-      "id": "BFMTV_1793658850",
-      "source": "BFMTV",
-      "text": "UKRAINE-RUSSIE: LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:34",
-      "date": "02/11",
-      "timestamp": 1793658850
-    },
-    {
-      "id": "BFMTV_1793658848",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: 26 MORTS DANS DES FRAPPES RUSSES, VOLODYMYR ZELENSKY ACCUSE MOSCOU D'ANÉANTIR \"TOUT ESPOIR DE PROGRÈS VERS LA PAIX\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:34",
-      "date": "02/11",
-      "timestamp": 1793658848
-    },
-    {
-      "id": "BFMTV_1793657213",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: LA DÉSINFORMATION PAR L’IA GANGRÈNE LES ÉLECTIONS DE MI-MANDAT",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:06",
-      "date": "02/11",
-      "timestamp": 1793657213
-    },
-    {
-      "id": "BFMTV_1793656945",
-      "source": "BFMTV",
-      "text": "MOYEN-ORIENT: DONALD TRUMP ASSURE QU'UN ACCORD AVEC L'IRAN SEMBLE \"SE METTRE EN PLACE\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:02",
-      "date": "02/11",
-      "timestamp": 1793656945
-    },
-    {
-      "id": "BFMTV_1793656473",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ASSURE QUE LES ÉLECTIONS DE MI-MANDAT SONT LES PLUS IMPORTANTES \"DE NOTRE VIE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:54",
-      "date": "02/11",
-      "timestamp": 1793656473
-    },
-    {
-      "id": "BFMTV_1793648517",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS VEULENT EXCLURE L'AFRIQUE DU SUD ET LE RWANDA DE L'ACCORD COMMERCIAL QUI LEUR PERMET D'EXPORTER DES PRODUITS SANS DROITS DE DOUANE SUR LE SOL AMÉRICAIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:41",
-      "date": "02/11",
-      "timestamp": 1793648517
-    },
-    {
-      "id": "BFMTV_1793647588",
-      "source": "BFMTV",
-      "text": "SUPERMARCHÉS: DES RÉFRIGÉRATEURS CIBLES DE CYBERATTAQUES À TRAVERS L’EUROPE",
-      "urgent": true,
-      "france_related": false,
-      "time": "19:26",
-      "date": "02/11",
-      "timestamp": 1793647588
-    },
-    {
-      "id": "BFMTV_1793646460",
-      "source": "BFMTV",
-      "text": "DÉGUISÉE EN SANS-ABRI POUR HALLOWEEN, LA MILLIARDAIRE AMÉRICAINE MARTHA STEWART PRÉSENTE SES EXCUSES",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:07",
-      "date": "02/11",
-      "timestamp": 1793646460
-    },
-    {
-      "id": "OPEX360_1793644321",
-      "source": "OPEX360",
-      "text": "SAAB ÉTEND LES CAPACITÉS DE SA VEDETTE RAPIDE DE COMBAT CB90 À LA LUTTE ANTINAVIRE ET À LA DÉFENSE AÉRIENNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:32",
-      "date": "02/11",
-      "timestamp": 1793644321
-    },
-    {
-      "id": "BFMTV_1793642815",
-      "source": "BFMTV",
-      "text": "CRISE EN POLOGNE: DONALD TUSK APPELLE LE PRÉSIDENT À RECONNAÎTRE LES JUGES ET L'ACCUSE DE CHOISIR \"LA CONFRONTATION\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:06",
-      "date": "02/11",
-      "timestamp": 1793642815
-    },
-    {
-      "id": "BFMTV_1793642213",
-      "source": "BFMTV",
-      "text": "\"JE VEUX QUE CE DRAME NE SE REPRODUISE JAMAIS\": LA SŒUR DE CYANE PANINE, DÉCÉDÉE DANS L'INCENDIE DU CONSTELLATION À CRANS-MONTANA, TÉMOIGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:56",
-      "date": "02/11",
-      "timestamp": 1793642213
     }
   ],
   "france": {
