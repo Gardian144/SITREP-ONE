@@ -1,7 +1,97 @@
 {
-  "last_update": "05/11 03:30",
+  "last_update": "05/11 11:30",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793876515",
+      "source": "BFMTV",
+      "text": "DOUZE ALERTES À LA BOMBE ONT PERTURBÉ L'ESPACE AÉRIEN EUROPÉEN JEUDI MATIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:01",
+      "date": "05/11",
+      "timestamp": 1793876515
+    },
+    {
+      "id": "BFMTV_1793876301",
+      "source": "BFMTV",
+      "text": "IRAN: À TÉHÉRAN, UNE BANNIÈRE À L'EFFIGIE DE DONALD TRUMP BRÛLÉE APRÈS LES MIDTERMS",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:58",
+      "date": "05/11",
+      "timestamp": 1793876301
+    },
+    {
+      "id": "BFMTV_1793875944",
+      "source": "BFMTV",
+      "text": "DU “SOFT POWER\" DANS \"UNE BOÎTE EN CARTON”: UN PROCHE DE POUTINE VEUT INTERDIRE LES PIZZAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:52",
+      "date": "05/11",
+      "timestamp": 1793875944
+    },
+    {
+      "id": "BFMTV_1793872105",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY ÉVOQUE \"L'ESPOIR\" DE PLUS DE SOUTIEN AMÉRICAIN APRÈS LA VICTOIRE DÉMOCRATE AUX \"MIDTERMS\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:48",
+      "date": "05/11",
+      "timestamp": 1793872105
+    },
+    {
+      "id": "BFMTV_1793868474",
+      "source": "BFMTV",
+      "text": "LE MILITANT PRODÉMOCRATIE JOSHUA WONG CONDAMNÉ À DIX ANS DE PRISON SUPPLÉMENTAIRES À HONG KONG POUR COLLUSION AVEC DES PAYS ÉTRANGERS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:47",
+      "date": "05/11",
+      "timestamp": 1793868474
+    },
+    {
+      "id": "BFMTV_1793862837",
+      "source": "BFMTV",
+      "text": "UN CHEF DE PARTI POLITIQUE ALLEMAND \"RETROUVÉ MORT DANS SA CHAMBRE D'HÔTEL\" À BERLIN",
+      "urgent": false,
+      "france_related": true,
+      "time": "07:13",
+      "date": "05/11",
+      "timestamp": 1793862837
+    },
+    {
+      "id": "BFMTV_1793861905",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: MELANIA TRUMP RÉUNIT DES REPRÉSENTANTS RUSSES ET UKRAINIENS AVANT LES POURPARLERS D'ABOU DHABI",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:58",
+      "date": "05/11",
+      "timestamp": 1793861905
+    },
+    {
+      "id": "BFMTV_1793857996",
+      "source": "BFMTV",
+      "text": "MIDTERMS 2026: UN COMPOSITEUR DE LA VERSION AMÉRICAINE DE \"DRAGON BALL Z\" REMPORTE UNE ÉLECTION AU TEXAS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:53",
+      "date": "05/11",
+      "timestamp": 1793857996
+    },
+    {
+      "id": "BFMTV_1793855104",
+      "source": "BFMTV",
+      "text": "FACE À UN DONALD TRUMP AFFAIBLI PAR SA DÉFAITE AUX MIDTERMS, LES PAYS ASIATIQUES ONT DÉSORMAIS UNE FENÊTRE POUR JOUER LA RÉSISTANCE AUX DROITS DE DOUANE AMÉRICAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:05",
+      "date": "05/11",
+      "timestamp": 1793855104
+    },
     {
       "id": "BFMTV_1793832676",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "17:56",
       "date": "02/11",
       "timestamp": 1793642213
-    },
-    {
-      "id": "BFMTV_1793639883",
-      "source": "BFMTV",
-      "text": "\"JE VEUX QUE CE DRAME NE SE REPRODUISE JAMAIS\": LA SOEUR DE CYANE PANINE, MORTE DANS L'INCENDIE DE CRANS-MONTANA, TÉMOIGNE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:18",
-      "date": "02/11",
-      "timestamp": 1793639883
-    },
-    {
-      "id": "BFMTV_1793639401",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UNE FEMME DE 31 ANS ATTEINTE D'ÉPILEPSIE MEURT APRÈS AVOIR SUIVI LES CONSEILS DE CHATGPT",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:10",
-      "date": "02/11",
-      "timestamp": 1793639401
-    },
-    {
-      "id": "OPEX360_1793638982",
-      "source": "OPEX360",
-      "text": "UNE FILIALE DU GROUPE FRANÇAIS THALES VA LIVRER DES MODULES DE LUTTE CONTRE LES MINES À LA MARINE AMÉRICAINE",
-      "urgent": false,
-      "france_related": true,
-      "time": "17:03",
-      "date": "02/11",
-      "timestamp": 1793638982
-    },
-    {
-      "id": "BFMTV_1793637661",
-      "source": "BFMTV",
-      "text": "TRIBUNAL BLOQUÉ, ACCUSATION DE COUP D’ÉTAT ET POLICE ANTI-ÉMEUTES DÉPLOYÉE, QUE SE PASSE-T-IL EN POLOGNE?",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:41",
-      "date": "02/11",
-      "timestamp": 1793637661
-    },
-    {
-      "id": "BFMTV_1793636820",
-      "source": "BFMTV",
-      "text": "50.000 KM À PIED EN 28 ANS: L'AVENTURIER KARL BUSHBY ACHÈVE SON TOUR DU MONDE ET RENTRE CHEZ LUI EN HÉROS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:27",
-      "date": "02/11",
-      "timestamp": 1793636820
-    },
-    {
-      "id": "BFMTV_1793634442",
-      "source": "BFMTV",
-      "text": "\"BIENVENUE À LA MAISON\": APRÈS AVOIR PARCOURU PLUS DE 50.000 KILOMÈTRES À PIED EN 28 ANS, LE BRITANNIQUE KARL BUSHBY BOUCLE SON TOUR DU MONDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:47",
-      "date": "02/11",
-      "timestamp": 1793634442
-    },
-    {
-      "id": "OPEX360_1793633747",
-      "source": "OPEX360",
-      "text": "LES FORCES AÉRIENNES AMÉRICAINES ET CANADIENNES SE PRÉPARENT À DÉFENDRE LES ÎLES ALÉOUTIENNES LORS D’UN EXERCICE INÉDIT",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:35",
-      "date": "02/11",
-      "timestamp": 1793633747
-    },
-    {
-      "id": "BFMTV_1793633259",
-      "source": "BFMTV",
-      "text": "MIDTERMS: DANS LE MICHIGAN, UN ÉTAT PIVOT REMPORTÉ PAR DONALD TRUMP EN 2024, LES DÉMOCRATES MULTIPLIENT LES OPÉRATIONS DE CAMPAGNE POUR CONVAINCRE LES DERNIERS INDÉCIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:27",
-      "date": "02/11",
-      "timestamp": 1793633259
-    },
-    {
-      "id": "BFMTV_1793632165",
-      "source": "BFMTV",
-      "text": "FAUSSE MENACES NUCLÉAIRES ET CHIMIQUES…CE QUE L’ON SAIT DU PIRATAGE DES APPLICATIONS D’ALERTE UKRAINIENNE ET RUSSE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:09",
-      "date": "02/11",
-      "timestamp": 1793632165
     }
   ],
   "france": {
