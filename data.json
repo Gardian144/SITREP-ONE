@@ -1,7 +1,147 @@
 {
-  "last_update": "06/11 06:43",
+  "last_update": "06/11 14:38",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1793974954",
+      "source": "BFMTV",
+      "text": "NOUVELLE SÉRIE DE FAUSSES ALERTES À LA BOMBE EN EUROPE, DONT QUATRE SUR DES VOLS SURVOLANT LA FRANCE, LE GOUVERNEMENT ANNONCE UNE ENQUÊTE EN COURS",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:22",
+      "date": "06/11",
+      "timestamp": 1793974954
+    },
+    {
+      "id": "BFMTV_1793972825",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LE BILAN DE LA FRAPPE RUSSE DE LUNDI DANS LE SUD GRIMPE À 50 MORTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:47",
+      "date": "06/11",
+      "timestamp": 1793972825
+    },
+    {
+      "id": "BFMTV_1793967975",
+      "source": "BFMTV",
+      "text": "CHILI: DES ÉTUDIANTS MANIFESTENT CONTRE LES RÉDUCTIONS DE PEINE DE PÉDOPHILES",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:26",
+      "date": "06/11",
+      "timestamp": 1793967975
+    },
+    {
+      "id": "BFMTV_1793965622",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP QUALIFIE LES ÉLECTIONS DE MI-MANDAT DE TRUQUÉES\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:47",
+      "date": "06/11",
+      "timestamp": 1793965622
+    },
+    {
+      "id": "OPEX360_1793965107",
+      "source": "OPEX360",
+      "text": "ARMEMENT TERRESTRE : LA NATIONALISATION TOTALE DU GROUPE FRANCO-ALLEMAND KNDS SE PRÉCISE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:38",
+      "date": "06/11",
+      "timestamp": 1793965107
+    },
+    {
+      "id": "BFMTV_1793964821",
+      "source": "BFMTV",
+      "text": "ENDETTÉ DE 2.500 DOLLARS, UN HOMME OUVRE LE FEU DANS UNE BANQUE EN FLORIDE ET TUE UNE EMPLOYÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:33",
+      "date": "06/11",
+      "timestamp": 1793964821
+    },
+    {
+      "id": "BFMTV_1793961795",
+      "source": "BFMTV",
+      "text": "UNE NOUVELLE FAUSSE ALERTE À LA BOMBE SIGNALÉE SUR UN VOL AU DÉPART DE LISBONNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:43",
+      "date": "06/11",
+      "timestamp": 1793961795
+    },
+    {
+      "id": "BFMTV_1793960981",
+      "source": "BFMTV",
+      "text": "CISJORDANIE: DES ENGINS DE CHANTIER ISRAÉLIENS DÉMOLISSENT CINQ MAISONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:29",
+      "date": "06/11",
+      "timestamp": 1793960981
+    },
+    {
+      "id": "BFMTV_1793959595",
+      "source": "BFMTV",
+      "text": "AU NOM DE LA \"DIGNITÉ HUMAINE\": LE GOUVERNEUR DE CALIFORNIE COMMUE LES PEINES DE TOUS LES CONDAMNÉS À MORT EN PRISON À PERPÉTUITÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:06",
+      "date": "06/11",
+      "timestamp": 1793959595
+    },
+    {
+      "id": "BFMTV_1793953080",
+      "source": "BFMTV",
+      "text": "FAUSSES ALERTES À LA BOMBE: CELLES ADRESSÉES À DEUX AÉROPORTS SIGNÉES DES \"COMBATTANTS DE L'ÉTAT MASCULIN\"",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:18",
+      "date": "06/11",
+      "timestamp": 1793953080
+    },
+    {
+      "id": "BFMTV_1793951755",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP CLASSE LE BUREAU OVALE COMME \"MONUMENT HISTORIQUE\", EMPÊCHANT TOUTE MODIFICATION OU DESTRUCTION",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:55",
+      "date": "06/11",
+      "timestamp": 1793951755
+    },
+    {
+      "id": "BFMTV_1793948293",
+      "source": "BFMTV",
+      "text": "ATTENTAT À BONDI BEACH, EN AUSTRALIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:58",
+      "date": "06/11",
+      "timestamp": 1793948293
+    },
+    {
+      "id": "BFMTV_1793948287",
+      "source": "BFMTV",
+      "text": "UNE BLESSÉE DE L'ATTENTAT DE BONDI BEACH EN AUSTRALIE EST MORTE DES SUITES DE SES BLESSURES, PRÈS DE 11 MOIS APRÈS L'ATTAQUE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:58",
+      "date": "06/11",
+      "timestamp": 1793948287
+    },
+    {
+      "id": "BFMTV_1793947476",
+      "source": "BFMTV",
+      "text": "MALGRÉ SA RÉCENTE OPÉRATION AU POUMON, LE PAPE LÉON XIV A DÉCOLLÉ POUR SON VOYAGE EN AMÉRIQUE DU SUD",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:44",
+      "date": "06/11",
+      "timestamp": 1793947476
+    },
     {
       "id": "BFMTV_1793946125",
       "source": "BFMTV",
@@ -861,146 +1001,6 @@
       "time": "18:09",
       "date": "03/11",
       "timestamp": 1793729364
-    },
-    {
-      "id": "BFMTV_1793726413",
-      "source": "BFMTV",
-      "text": "DIRECT. MIDTERMS 2026: DONALD TRUMP ESTIME QUE LES RÉSULTATS SERONT \"MEILLEURS\" QUE PRÉVUS POUR LES RÉPUBLICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:20",
-      "date": "03/11",
-      "timestamp": 1793726413
-    },
-    {
-      "id": "OPEX360_1793725485",
-      "source": "OPEX360",
-      "text": "DESTINÉE À LA MARINE NATIONALE, LA VERSION VTOL DU DRONE ALIACA A ÉTÉ QUALIFIÉE PAR LA DIRECTION GÉNÉRALE DE L’ARMEMENT",
-      "urgent": true,
-      "france_related": true,
-      "time": "17:04",
-      "date": "03/11",
-      "timestamp": 1793725485
-    },
-    {
-      "id": "BFMTV_1793722102",
-      "source": "BFMTV",
-      "text": "\"ILS N'EN ONT PAS BESOIN\": DONALD TRUMP ANNONCE METTRE FIN À UNE AIDE ANNUELLE DE PRÈS DE 4 MILLIARDS DE DOLLARS DESTINÉE À ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:08",
-      "date": "03/11",
-      "timestamp": 1793722102
-    },
-    {
-      "id": "BFMTV_1793721599",
-      "source": "BFMTV",
-      "text": "INFRASTRUCTURES VISÉES, POURPARLERS \"INTENSES\"... CE QUE L'ON SAIT DES NOUVELLES FRAPPES AMÉRICAINES EN IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:59",
-      "date": "03/11",
-      "timestamp": 1793721599
-    },
-    {
-      "id": "BFMTV_1793721565",
-      "source": "BFMTV",
-      "text": "COLLISION DE TRAINS EN ESPAGNE: LE GOUVERNEMENT PROMET DE \"REGAGNER LA CONFIANCE DES CITOYENS DANS LE RÉSEAU À GRANDE VITESSE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:59",
-      "date": "03/11",
-      "timestamp": 1793721565
-    },
-    {
-      "id": "BFMTV_1793720864",
-      "source": "BFMTV",
-      "text": "\"UN CHAPITRE HONTEUX DE L'HISTOIRE\": CHARLES III DIT SON \"HORREUR\" FACE À L'ESCLAVAGE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:47",
-      "date": "03/11",
-      "timestamp": 1793720864
-    },
-    {
-      "id": "OPEX360_1793720429",
-      "source": "OPEX360",
-      "text": "DES AVIONS A-4 SKYHAWK SERONT MIS EN ŒUVRE POUR ASSURER LA PRÉPARATION OPÉRATIONNELLE DES PILOTES MILITAIRES FRANÇAIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:40",
-      "date": "03/11",
-      "timestamp": 1793720429
-    },
-    {
-      "id": "BFMTV_1793720144",
-      "source": "BFMTV",
-      "text": "\"L'UN DES PLUS GRANDS MASSACRES\" DEPUIS LE DÉBUT DE LA GUERRE: VOLODYMYR ZELENSKY CRAINT UN TRÈS LOURD BILAN AU LENDEMAIN D'UNE FRAPPE RUSSE EN UKRAINE",
-      "urgent": true,
-      "france_related": true,
-      "time": "15:35",
-      "date": "03/11",
-      "timestamp": 1793720144
-    },
-    {
-      "id": "BFMTV_1793719962",
-      "source": "BFMTV",
-      "text": "LA CORÉE DU NORD DÉMENT LE VOL DE SIX MILLIARDS DE DOLLARS LORS DU PIRATAGE DE LA PLATEFORME BINANCE DONT L’ACCUSE LE FBI",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:32",
-      "date": "03/11",
-      "timestamp": 1793719962
-    },
-    {
-      "id": "BFMTV_1793719800",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP ACCEPTERA-T-IL LES RÉSULTATS DES MIDTERMS? LE PRÉSIDENT AMÉRICAIN ENTRETIENT LE FLOU AVANT LE SCRUTIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:30",
-      "date": "03/11",
-      "timestamp": 1793719800
-    },
-    {
-      "id": "BFMTV_1793719798",
-      "source": "BFMTV",
-      "text": "LES PROPOS DE MARINE LE PEN SUR LA \"MEXICANISATION\" DE LA FRANCE SUSCITENT L’INDIGNATION AU MEXIQUE",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:29",
-      "date": "03/11",
-      "timestamp": 1793719798
-    },
-    {
-      "id": "BFMTV_1793715390",
-      "source": "BFMTV",
-      "text": "LES ÉLECTIONS DE MI-MANDAT AUX ÉTATS-UNIS SONT-ELLES UN RÉFÉRENDUM POUR OU CONTRE DONALD TRUMP?",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:16",
-      "date": "03/11",
-      "timestamp": 1793715390
-    },
-    {
-      "id": "BFMTV_1793715230",
-      "source": "BFMTV",
-      "text": "IRAN, CARBURANTS, DONALD TRUMP.... QUELS SONT LES PRINCIPAUX ENJEUX DES MIDTERMS AUX ÉTATS-UNIS ?",
-      "urgent": true,
-      "france_related": false,
-      "time": "14:13",
-      "date": "03/11",
-      "timestamp": 1793715230
-    },
-    {
-      "id": "BFMTV_1793714662",
-      "source": "BFMTV",
-      "text": "MIDTERMS 2026: L'EX-ADVERSAIRE À LA PRIMAIRE DÉMOCRATE D'ABDUL EL-SAYED ANNONCE SON SOUTIEN À SON RIVAL RÉPUBLICAIN DANS LE MICHIGAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:04",
-      "date": "03/11",
-      "timestamp": 1793714662
     }
   ],
   "france": {
