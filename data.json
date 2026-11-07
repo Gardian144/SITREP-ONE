@@ -1,7 +1,77 @@
 {
-  "last_update": "07/11 06:21",
+  "last_update": "07/11 13:24",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794056575",
+      "source": "BFMTV",
+      "text": "\"IL ÉTAIT LA JOIE DE VIVRE PURE\": UN FRANÇAIS DE 23 ANS MEURT DES SUITES DE LA DENGUE AU VIETNAM",
+      "urgent": false,
+      "france_related": true,
+      "time": "13:02",
+      "date": "07/11",
+      "timestamp": 1794056575
+    },
+    {
+      "id": "BFMTV_1794055659",
+      "source": "BFMTV",
+      "text": "\"LE RISQUE LE PLUS GRAND EST L'IMPASSE\": APRÈS SON ÉCHEC AUX MIDTERMS, COMMENT DONALD TRUMP PEUT-IL SE SERVIR DE SON DROIT DE VETO?",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:47",
+      "date": "07/11",
+      "timestamp": 1794055659
+    },
+    {
+      "id": "OPEX360_1794054665",
+      "source": "OPEX360",
+      "text": "LE CHASSEUR-BOMBARDIER F-35B A LARGUÉ UN MISSILE AIR-AIR [INERTE] METEOR POUR LA PREMIÈRE FOIS",
+      "urgent": true,
+      "france_related": false,
+      "time": "12:31",
+      "date": "07/11",
+      "timestamp": 1794054665
+    },
+    {
+      "id": "BFMTV_1794051957",
+      "source": "BFMTV",
+      "text": "DEUX PANDAS VENUS DE CHINE FONT LE BONHEUR DES VISITEURS AU ZOO D'ATLANTA",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:45",
+      "date": "07/11",
+      "timestamp": 1794051957
+    },
+    {
+      "id": "OPEX360_1794049343",
+      "source": "OPEX360",
+      "text": "À SON TOUR, SIERRA NEVADA RENONCE À L’APPEL D’OFFRES DE L’US NAVY POUR REMPLACER L’AVION D’ENTRAÎNEMENT T45C GOSHAWK",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:02",
+      "date": "07/11",
+      "timestamp": 1794049343
+    },
+    {
+      "id": "BFMTV_1794041075",
+      "source": "BFMTV",
+      "text": "MICHAEL SANFT, L'AVOCAT QUI DÉFENDAIT L'HOMME CONDAMNÉ POUR LE MEURTRE DE TUPAC SHAKUR, EST MORT À 55 ANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:44",
+      "date": "07/11",
+      "timestamp": 1794041075
+    },
+    {
+      "id": "BFMTV_1794038559",
+      "source": "BFMTV",
+      "text": "20 MILLIONS DE DOLLARS ET UN \"POSSIBLE DÉMÉNAGEMENT\": LES ÉTATS-UNIS OFFRENT UNE RÉCOMPENSE POUR TOUTE INFORMATION SUR LE PROGRAMME NUCLÉAIRE IRANIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:02",
+      "date": "07/11",
+      "timestamp": 1794038559
+    },
     {
       "id": "BFMTV_1794031671",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "14:20",
       "date": "04/11",
       "timestamp": 1793802056
-    },
-    {
-      "id": "BFMTV_1793797990",
-      "source": "BFMTV",
-      "text": "ÉLECTIONS EN ISRAËL: LE PRÉSIDENT APPELLE AU COMPROMIS APRÈS UN SCRUTIN \"SANS VAINQUEUR\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "13:13",
-      "date": "04/11",
-      "timestamp": 1793797990
-    },
-    {
-      "id": "BFMTV_1793797431",
-      "source": "BFMTV",
-      "text": "MIDTERMS: LE CANDIDAT DÉMOCRATE ABDUL EL-SAYED A REMPORTÉ LE SIÈGE DE SÉNATEUR, AU TERME D'UNE CAMPAGNE \"PARTICULIÈREMENT VIOLENTE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:03",
-      "date": "04/11",
-      "timestamp": 1793797431
-    },
-    {
-      "id": "BFMTV_1793797139",
-      "source": "BFMTV",
-      "text": "MIDTERMS: \"EST-CE UN NOUVEAU CYCLE\" QUI S'OUVRE AVEC LE CINGLANT REVERS ÉLECTORAL INFLIGÉ À DONALD TRUMP? S'INTERROGE YANNICK MIREUR, SPÉCIALISTE DES ETATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:58",
-      "date": "04/11",
-      "timestamp": 1793797139
-    },
-    {
-      "id": "BFMTV_1793796543",
-      "source": "BFMTV",
-      "text": "MIDTERMS: \"LES DÉMOCRATES VEULENT METTRE UN COUP D'ARRÊT À LA POLITIQUE DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:49",
-      "date": "04/11",
-      "timestamp": 1793796543
-    },
-    {
-      "id": "BFMTV_1793793482",
-      "source": "BFMTV",
-      "text": "MIDTERMS: QUELLE CONSÉQUENCE POUR LA POLITIQUE ÉTRANGÈRE DE DONALD TRUMP? ",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:58",
-      "date": "04/11",
-      "timestamp": 1793793482
-    },
-    {
-      "id": "BFMTV_1793793205",
-      "source": "BFMTV",
-      "text": "\"L'EXTRÊME DROITE N'EST JAMAIS UNE FATALITÉ\": LA GAUCHE FÊTE L'ÉCHEC DE DONALD TRUMP AUX ÉLECTIONS AMÉRICAINES ET DRESSE UN PARALLÈLE AVEC LE RN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:53",
-      "date": "04/11",
-      "timestamp": 1793793205
-    },
-    {
-      "id": "BFMTV_1793793091",
-      "source": "BFMTV",
-      "text": "MIDTERMS: UN REVERS CINGLANT POUR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:51",
-      "date": "04/11",
-      "timestamp": 1793793091
     }
   ],
   "france": {
