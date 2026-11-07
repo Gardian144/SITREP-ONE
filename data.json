@@ -1,7 +1,87 @@
 {
-  "last_update": "06/11 20:35",
+  "last_update": "07/11 00:21",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794003114",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP NOMME SON PROCHE CONSEILLER STEPHEN MILLER AU POSTE STRATÉGIQUE DE DIRECTEUR DE CABINET",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:11",
+      "date": "06/11",
+      "timestamp": 1794003114
+    },
+    {
+      "id": "BFMTV_1794002555",
+      "source": "BFMTV",
+      "text": "LE PAPE LÉON XIV ARRIVE EN URUGUAY POUR SA TOURNÉE EN AMÉRIQUE DU SUD",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:02",
+      "date": "06/11",
+      "timestamp": 1794002555
+    },
+    {
+      "id": "BFMTV_1794002145",
+      "source": "BFMTV",
+      "text": "LE PAPE SE DIT \"EN ASSEZ BONNE FORME\" APRÈS SON OPÉRATION POUR UN CANCER DU POUMON",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:55",
+      "date": "06/11",
+      "timestamp": 1794002145
+    },
+    {
+      "id": "BFMTV_1794001839",
+      "source": "BFMTV",
+      "text": "ÉLECTIONS AMÉRICAINES DE MI-MANDAT: LE PAPE EST \"FIER D'ÊTRE AMÉRICAIN ET D'EXERCER\" SON DROIT",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:50",
+      "date": "06/11",
+      "timestamp": 1794001839
+    },
+    {
+      "id": "BFMTV_1793998746",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:59",
+      "date": "06/11",
+      "timestamp": 1793998746
+    },
+    {
+      "id": "BFMTV_1793998746",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:59",
+      "date": "06/11",
+      "timestamp": 1793998746
+    },
+    {
+      "id": "BFMTV_1793998746",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY DIT AVOIR \"DES RENSEIGNEMENTS\" SUR UNE FRAPPE RUSSE EN PRÉPARATION SUR LE SECTEUR ÉNERGÉTIQUE ET DES PONTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:59",
+      "date": "06/11",
+      "timestamp": 1793998746
+    },
+    {
+      "id": "BFMTV_1793997754",
+      "source": "BFMTV",
+      "text": "D'OÙ VIENNENT LES FAUSSES ALERTES À LA BOMBE QUI ONT TOUCHÉ DE NOMBREUX PAYS D'EUROPE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:42",
+      "date": "06/11",
+      "timestamp": 1793997754
+    },
     {
       "id": "BFMTV_1793995515",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "00:39",
       "date": "04/11",
       "timestamp": 1793752767
-    },
-    {
-      "id": "BFMTV_1793752330",
-      "source": "BFMTV",
-      "text": "MIDTERMS 2026: EN FLORIDE, LES SOUTIENS DE DONALD TRUMP Y CROIENT ENCORE",
-      "urgent": false,
-      "france_related": false,
-      "time": "00:32",
-      "date": "04/11",
-      "timestamp": 1793752330
-    },
-    {
-      "id": "BFMTV_1793752317",
-      "source": "BFMTV",
-      "text": "MIDTERMS 2026: LES DÉMOCRATES TEXANS ESPÈRENT VOIR LE TEXAS DEVENIR \"UN ÉTAT BLEU\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "00:31",
-      "date": "04/11",
-      "timestamp": 1793752317
-    },
-    {
-      "id": "BFMTV_1793751205",
-      "source": "BFMTV",
-      "text": "MIDTERMS 2026: DES MACHINES À VOTER ONT DYSFONCTIONNÉ DANS LE COMTÉ DE WESTCHESTER, PRÈS DE NEW YORK",
-      "urgent": false,
-      "france_related": false,
-      "time": "00:13",
-      "date": "04/11",
-      "timestamp": 1793751205
-    },
-    {
-      "id": "BFMTV_1793750929",
-      "source": "BFMTV",
-      "text": "MIDTERMS 2026: QUI EST JAMES TALARICO, LE DÉMOCRATE QUI RÊVE DE FAIRE BASCULER LE TEXAS?",
-      "urgent": false,
-      "france_related": false,
-      "time": "00:08",
-      "date": "04/11",
-      "timestamp": 1793750929
-    },
-    {
-      "id": "BFMTV_1793749463",
-      "source": "BFMTV",
-      "text": "MIDTERMS DANS LE MICHIGAN: ABDUL EL-SAYED, PREMIER SÉNATEUR AMÉRICAIN MUSULMAN?",
-      "urgent": false,
-      "france_related": false,
-      "time": "23:44",
-      "date": "03/11",
-      "timestamp": 1793749463
-    },
-    {
-      "id": "BFMTV_1793749379",
-      "source": "BFMTV",
-      "text": "ÉLECTIONS DE MI-MANDAT AUX ÉTATS-UNIS: LE POUVOIR D'ACHAT ET L'INFLATION AU CŒUR DES PRÉOCCUPATIONS DES ÉLECTEURS AMÉRICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "23:42",
-      "date": "03/11",
-      "timestamp": 1793749379
-    },
-    {
-      "id": "BFMTV_1793748675",
-      "source": "BFMTV",
-      "text": "MIDTERMS 2026: LES AGRICULTEURS DU KANSAS VONT-ILS LÂCHER DONALD TRUMP?",
-      "urgent": false,
-      "france_related": false,
-      "time": "23:31",
-      "date": "03/11",
-      "timestamp": 1793748675
-    },
-    {
-      "id": "BFMTV_1793745435",
-      "source": "BFMTV",
-      "text": "DES FRAPPES ISRAÉLIENNES FONT CINQ MORTS À GAZA, DONT UNE ADOLESCENTE",
-      "urgent": true,
-      "france_related": false,
-      "time": "22:37",
-      "date": "03/11",
-      "timestamp": 1793745435
     }
   ],
   "france": {
