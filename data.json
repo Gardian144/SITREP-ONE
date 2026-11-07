@@ -1,7 +1,67 @@
 {
-  "last_update": "07/11 13:24",
+  "last_update": "07/11 18:09",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794072390",
+      "source": "BFMTV",
+      "text": "AU CHILI, UN HOMME PERCUTÉ PAR UN PNEU SUR LE TROTTOIR",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:26",
+      "date": "07/11",
+      "timestamp": 1794072390
+    },
+    {
+      "id": "BFMTV_1794065823",
+      "source": "BFMTV",
+      "text": "AU MOINS SIX MORTS ET UNE DIZAINE DE BLESSÉS DANS UNE FUSILLADE EN POLOGNE, LE TIREUR INTERPELLÉ",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:37",
+      "date": "07/11",
+      "timestamp": 1794065823
+    },
+    {
+      "id": "BFMTV_1794065114",
+      "source": "BFMTV",
+      "text": "DES ACTIONS À TRAVERS L'EUROPE CONTRE LES CENTRES DE DONNÉES",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:25",
+      "date": "07/11",
+      "timestamp": 1794065114
+    },
+    {
+      "id": "OPEX360_1794064318",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES ACCÉLÈRE LA MISE AU POINT D’UN CANON ÉLECTROMAGNÉTIQUE POUR LA MARINE AVEC LE PROJET SPALE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:11",
+      "date": "07/11",
+      "timestamp": 1794064318
+    },
+    {
+      "id": "BFMTV_1794063781",
+      "source": "BFMTV",
+      "text": "DES PLUIES DILUVIENNES S'ABATTENT SUR LA BANDE DE GAZA, DES MILLIERS DE DÉPLACÉS PRIVÉS D'ABRI ET PLUSIEURS BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:03",
+      "date": "07/11",
+      "timestamp": 1794063781
+    },
+    {
+      "id": "BFMTV_1794058994",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY ASSURE QUE LA RUSSIE A EMPLOYÉ DES MISSILES NORD-CORÉENS POUR FRAPPER LE RÉSEAU ÉNERGÉTIQUE UKRAINIEN",
+      "urgent": true,
+      "france_related": false,
+      "time": "13:43",
+      "date": "07/11",
+      "timestamp": 1794058994
+    },
     {
       "id": "BFMTV_1794056575",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "16:06",
       "date": "04/11",
       "timestamp": 1793808366
-    },
-    {
-      "id": "BFMTV_1793807872",
-      "source": "BFMTV",
-      "text": "MIDTERMS: COMMENT LA DÉFAITE DES RÉPUBLICAINS VA IMPACTER LA FIN DU MANDAT DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:57",
-      "date": "04/11",
-      "timestamp": 1793807872
-    },
-    {
-      "id": "BFMTV_1793806146",
-      "source": "BFMTV",
-      "text": "EUROPE: UNE SÉRIE D'ALERTES À LA BOMBE CIBLE PLUSIEURS VOLS COMMERCIAUX ET UN PAQUEBOT",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:29",
-      "date": "04/11",
-      "timestamp": 1793806146
-    },
-    {
-      "id": "OPEX360_1793805556",
-      "source": "OPEX360",
-      "text": "RENAULT ET JOHN COCKERILL DÉVOILENT LE DRONE TERRESTRE POLYVALENT «FOREFRONT CONCEPT»",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:19",
-      "date": "04/11",
-      "timestamp": 1793805556
-    },
-    {
-      "id": "BFMTV_1793802190",
-      "source": "BFMTV",
-      "text": "\"LA DÉMOCRATIE AMÉRICAINE EST VIVANTE ET BIEN VIVANTE\": LA RÉACTION DE JEAN-NOËL BARROT APRÈS LES MIDTERMS",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:23",
-      "date": "04/11",
-      "timestamp": 1793802190
-    },
-    {
-      "id": "BFMTV_1793802057",
-      "source": "BFMTV",
-      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:20",
-      "date": "04/11",
-      "timestamp": 1793802057
-    },
-    {
-      "id": "BFMTV_1793802056",
-      "source": "BFMTV",
-      "text": "GIORGIA MELONI AVAIT DÉNONCÉ UNE \"INSULTE\": LA SUISSE PRENDRA EN CHARGE LES FRAIS MÉDICAUX DES PATIENTS ITALIENS APRÈS L'INCENDIE DE CRANS-MONTANA",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:20",
-      "date": "04/11",
-      "timestamp": 1793802056
     }
   ],
   "france": {
