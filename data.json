@@ -1,7 +1,67 @@
 {
-  "last_update": "08/11 14:25",
+  "last_update": "08/11 18:56",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794156471",
+      "source": "BFMTV",
+      "text": "BFM Y ÉTAIT : IL Y A 10 ANS JOUR POUR JOUR, LA PREMIÈRE ÉLECTION DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:47",
+      "date": "08/11",
+      "timestamp": 1794156471
+    },
+    {
+      "id": "BFMTV_1794154174",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS VEULENT CONTRÔLER LES ROUTES TERRESTRES VERS L'IRAN POUR EMPÊCHER LE TRANSIT \"D'ARMES DE POINTE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:09",
+      "date": "08/11",
+      "timestamp": 1794154174
+    },
+    {
+      "id": "BFMTV_1794154174",
+      "source": "BFMTV",
+      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:09",
+      "date": "08/11",
+      "timestamp": 1794154174
+    },
+    {
+      "id": "BFMTV_1794153294",
+      "source": "BFMTV",
+      "text": "L'ASSAILLANT \"FASCINÉ PAR L'EXTRÊME DROITE\", TIRS \"AU HASARD\", SIX MORTS... CE QUE L'ON SAIT DE LA FUSILLADE EN POLOGNE, QUALIFIÉE DE \"TERRORISTE\" PAR LE PREMIER MINISTRE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:54",
+      "date": "08/11",
+      "timestamp": 1794153294
+    },
+    {
+      "id": "BFMTV_1794152425",
+      "source": "BFMTV",
+      "text": "PLUSIEURS BLESSÉS APRÈS UN SÉISME DE MAGNITUDE 5,7 DANS LE CENTRE DU JAPON",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:40",
+      "date": "08/11",
+      "timestamp": 1794152425
+    },
+    {
+      "id": "BFMTV_1794149941",
+      "source": "BFMTV",
+      "text": "IL NOURRISSAIT “UNE RANCOEUR ENVERS LA SOCIÉTÉ”: UN JAPONAIS POIGNARDE UN EMPLOYÉ DE LIBRAIRIE À OSAKA",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:59",
+      "date": "08/11",
+      "timestamp": 1794149941
+    },
     {
       "id": "BFMTV_1794147572",
       "source": "BFMTV",
@@ -941,66 +1001,6 @@
       "time": "10:52",
       "date": "05/11",
       "timestamp": 1793875944
-    },
-    {
-      "id": "BFMTV_1793872105",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY ÉVOQUE \"L'ESPOIR\" DE PLUS DE SOUTIEN AMÉRICAIN APRÈS LA VICTOIRE DÉMOCRATE AUX \"MIDTERMS\"",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:48",
-      "date": "05/11",
-      "timestamp": 1793872105
-    },
-    {
-      "id": "BFMTV_1793868474",
-      "source": "BFMTV",
-      "text": "LE MILITANT PRODÉMOCRATIE JOSHUA WONG CONDAMNÉ À DIX ANS DE PRISON SUPPLÉMENTAIRES À HONG KONG POUR COLLUSION AVEC DES PAYS ÉTRANGERS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:47",
-      "date": "05/11",
-      "timestamp": 1793868474
-    },
-    {
-      "id": "BFMTV_1793862837",
-      "source": "BFMTV",
-      "text": "UN CHEF DE PARTI POLITIQUE ALLEMAND \"RETROUVÉ MORT DANS SA CHAMBRE D'HÔTEL\" À BERLIN",
-      "urgent": false,
-      "france_related": true,
-      "time": "07:13",
-      "date": "05/11",
-      "timestamp": 1793862837
-    },
-    {
-      "id": "BFMTV_1793861905",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: MELANIA TRUMP RÉUNIT DES REPRÉSENTANTS RUSSES ET UKRAINIENS AVANT LES POURPARLERS D'ABOU DHABI",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:58",
-      "date": "05/11",
-      "timestamp": 1793861905
-    },
-    {
-      "id": "BFMTV_1793857996",
-      "source": "BFMTV",
-      "text": "MIDTERMS 2026: UN COMPOSITEUR DE LA VERSION AMÉRICAINE DE \"DRAGON BALL Z\" REMPORTE UNE ÉLECTION AU TEXAS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:53",
-      "date": "05/11",
-      "timestamp": 1793857996
-    },
-    {
-      "id": "BFMTV_1793855104",
-      "source": "BFMTV",
-      "text": "FACE À UN DONALD TRUMP AFFAIBLI PAR SA DÉFAITE AUX MIDTERMS, LES PAYS ASIATIQUES ONT DÉSORMAIS UNE FENÊTRE POUR JOUER LA RÉSISTANCE AUX DROITS DE DOUANE AMÉRICAINS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:05",
-      "date": "05/11",
-      "timestamp": 1793855104
     }
   ],
   "france": {
