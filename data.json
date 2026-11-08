@@ -1,7 +1,57 @@
 {
-  "last_update": "08/11 01:05",
+  "last_update": "08/11 07:18",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794121925",
+      "source": "BFMTV",
+      "text": "POLOGNE: CE QUE L'ON SAIT DE LA FUSILLADE QUI A FAIT AU MOINS SIX MORTS ET UNE DIZAINE DE BLESSÉS À CRACOVIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:12",
+      "date": "08/11",
+      "timestamp": 1794121925
+    },
+    {
+      "id": "BFMTV_1794120420",
+      "source": "BFMTV",
+      "text": "70 ANS DES CASQUES BLEUS: LA FORCE DE MAINTIEN DE LA PAIX  DE L'ONU PLUS FRAGILE QUE JAMAIS",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:47",
+      "date": "08/11",
+      "timestamp": 1794120420
+    },
+    {
+      "id": "BFMTV_1794116994",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: DONALD TRUMP A PROPOSÉ À DANA WHITE, PATRON DE LA FÉDÉRATION DE MMA, DE DEVENIR LE PORTE-PAROLE DE LA MAISON BLANCHE ",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:49",
+      "date": "08/11",
+      "timestamp": 1794116994
+    },
+    {
+      "id": "BFMTV_1794116829",
+      "source": "BFMTV",
+      "text": "ISRAËL: LE CHEF DE FILE DE L'OPPOSITION, GADI EISENKOT, CHARGÉ DE FORMER UN GOUVERNEMENT",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:47",
+      "date": "08/11",
+      "timestamp": 1794116829
+    },
+    {
+      "id": "BFMTV_1794115262",
+      "source": "BFMTV",
+      "text": "SIX MORTS, LE SUSPECT \"FASCINÉ PAR LES IDÉOLOGIES DE L'EXTRÊME DROITE\"... CE QUE L'ON SAIT DE LA FUSILLADE EN POLOGNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:21",
+      "date": "08/11",
+      "timestamp": 1794115262
+    },
     {
       "id": "BFMTV_1794090258",
       "source": "BFMTV",
@@ -951,56 +1001,6 @@
       "time": "18:41",
       "date": "04/11",
       "timestamp": 1793817703
-    },
-    {
-      "id": "BFMTV_1793817595",
-      "source": "BFMTV",
-      "text": "MIDTERMS: DONALD TRUMP JUGE \"EN GRANDE PARTIE VRAI\" QUE LA GUERRE EN IRAN AIT CAUSÉ SA DÉFAITE",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:39",
-      "date": "04/11",
-      "timestamp": 1793817595
-    },
-    {
-      "id": "BFMTV_1793816089",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN, AIDE À L'UKRAINE... LA VICTOIRE DÉMOCRATE AUX MIDTERMS PEUT-ELLE FORCER DONALD TRUMP À REVOIR SA POLITIQUE INTERNATIONALE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:14",
-      "date": "04/11",
-      "timestamp": 1793816089
-    },
-    {
-      "id": "OPEX360_1793815127",
-      "source": "OPEX360",
-      "text": "SAFRAN VA FOURNIR LES TURBORÉACTEURS DU DRONE DE COMBAT SUPERSONIQUE CANADIEN FALCON",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:58",
-      "date": "04/11",
-      "timestamp": 1793815127
-    },
-    {
-      "id": "BFMTV_1793814271",
-      "source": "BFMTV",
-      "text": "INFOGRAPHIES. \"BLUENAMI\", SÉNAT ET CONGRÈS REMPORTÉS, BASCULES D'ÉTATS RÉPUBLICAINS... LES MIDTERMS SIGNENT UN REVERS D'AMPLEUR POUR DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:44",
-      "date": "04/11",
-      "timestamp": 1793814271
-    },
-    {
-      "id": "BFMTV_1793812802",
-      "source": "BFMTV",
-      "text": "DIRECT. MIDTERMS 2026: LE QUAI D'ORSAY SALUE UNE \"TRÈS BONNE NOUVELLE POUR LA DÉMOCRATIE\" APRÈS LA LARGE VICTOIRE DES DÉMOCRATES",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:20",
-      "date": "04/11",
-      "timestamp": 1793812802
     }
   ],
   "france": {
