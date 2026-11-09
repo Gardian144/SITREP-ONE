@@ -1,7 +1,187 @@
 {
-  "last_update": "09/11 09:36",
+  "last_update": "09/11 20:07",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794253026",
+      "source": "BFMTV",
+      "text": "LA FRANCE ACCUSE L'IRAN D'ÊTRE \"RESPONSABLE\" DE L'ATTAQUE CONTRE LES FRIGOS CONNECTÉS",
+      "urgent": true,
+      "france_related": true,
+      "time": "19:37",
+      "date": "09/11",
+      "timestamp": 1794253026
+    },
+    {
+      "id": "OPEX360_1794249701",
+      "source": "OPEX360",
+      "text": "LA ROYAL NAVY SE DOTE DE SA PREMIÈRE FLOTTILLE ENTIÈREMENT  DRONISÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:41",
+      "date": "09/11",
+      "timestamp": 1794249701
+    },
+    {
+      "id": "OPEX360_1794245700",
+      "source": "OPEX360",
+      "text": "LE MINISTÈRE DES ARMÉES LANCE LA RÉALISATION DE DEUX SATELLITES D’OBSERVATION IRIS POUR 1,5 MILLIARD D’EUROS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:35",
+      "date": "09/11",
+      "timestamp": 1794245700
+    },
+    {
+      "id": "BFMTV_1794244697",
+      "source": "BFMTV",
+      "text": "\"IL ÉTAIT IMPOSSIBLE DE GAGNER\": DONALD TRUMP RÉITÈRE SES ACCUSATIONS DE FRAUDE LORS DES ÉLECTIONS DE MI-MANDAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:18",
+      "date": "09/11",
+      "timestamp": 1794244697
+    },
+    {
+      "id": "BFMTV_1794243988",
+      "source": "BFMTV",
+      "text": "ULTRA-ORTHODOXES, PARTIS ARABES... CHOISI POUR FORMER UN GOUVERNEMENT, GADI EISENKOT ENTAME UN DIFFICILE CYCLE DE NÉGOCIATIONS",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:06",
+      "date": "09/11",
+      "timestamp": 1794243988
+    },
+    {
+      "id": "BFMTV_1794243874",
+      "source": "BFMTV",
+      "text": "PARAGUAY: CRISE BANCAIRE, PRÉSIDENT EN DÉTENTION PROVISOIRE, QUE SE PASSE-T-IL DANS LE PAYS?",
+      "urgent": false,
+      "france_related": false,
+      "time": "17:04",
+      "date": "09/11",
+      "timestamp": 1794243874
+    },
+    {
+      "id": "BFMTV_1794243265",
+      "source": "BFMTV",
+      "text": "JOE BIDEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:54",
+      "date": "09/11",
+      "timestamp": 1794243265
+    },
+    {
+      "id": "BFMTV_1794243264",
+      "source": "BFMTV",
+      "text": "\"MES MÉDECINS RESTENT OPTIMISTES\": ATTEINT D'UN CANCER, JOE BIDEN ANNONCE QU'IL EST CONTRAINT DE LIMITER LA PROMOTION DE SES MÉMOIRES",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:54",
+      "date": "09/11",
+      "timestamp": 1794243264
+    },
+    {
+      "id": "BFMTV_1794242695",
+      "source": "BFMTV",
+      "text": "INCENDIE MORTEL D'UN BAR À CRANS-MONTANA",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:44",
+      "date": "09/11",
+      "timestamp": 1794242695
+    },
+    {
+      "id": "BFMTV_1794242053",
+      "source": "BFMTV",
+      "text": "CYBERATTAQUES CONTRE DES FRIGOS: “LA RESPONSABILITÉ DE CETTE ATTAQUE REVIENT AU CORPS DES GARDIENS DE LA RÉVOLUTION DE LA RÉPUBLIQUE ISLAMIQUE D'IRAN”, ACCUSE JEAN-NOËL BARROT",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:34",
+      "date": "09/11",
+      "timestamp": 1794242053
+    },
+    {
+      "id": "BFMTV_1794241034",
+      "source": "BFMTV",
+      "text": "LA MAISON BLANCHE BRIÈVEMENT CONFINÉE APRÈS QU'UNE VOITURE A FRANCHI UNE ZONE SÉCURISÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:17",
+      "date": "09/11",
+      "timestamp": 1794241034
+    },
+    {
+      "id": "OPEX360_1794239444",
+      "source": "OPEX360",
+      "text": "LE PORTUGAL ENVISAGE D’ACCUEILLIR UNE ÉCOLE ALLEMANDE DE PILOTAGE DÉDIÉE AU CHASSEUR-BOMBARDIER F-35",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:50",
+      "date": "09/11",
+      "timestamp": 1794239444
+    },
+    {
+      "id": "BFMTV_1794228922",
+      "source": "BFMTV",
+      "text": "COP31: LE SOMMET MONDIAL POUR LE CLIMAT S'OUVRE EN TURQUIE, CHAMPIONNE D’EUROPE DU CHARBON",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:55",
+      "date": "09/11",
+      "timestamp": 1794228922
+    },
+    {
+      "id": "BFMTV_1794225222",
+      "source": "BFMTV",
+      "text": "\"ON DOIT ÉLARGIR LE CERCLE DE DONATEURS\": RÉUNION À PARIS POUR FINANCER LA RÉPARATION DE L'ARCHE DE TCHERNOBYL",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:53",
+      "date": "09/11",
+      "timestamp": 1794225222
+    },
+    {
+      "id": "OPEX360_1794223796",
+      "source": "OPEX360",
+      "text": "LA BELGIQUE RÉACTIVE LA 51E ESCADRILLE DE DÉFENSE AÉRIENNE ET CONFIRME LA COMMANDE DE 20 CANONS SKYRANGER À RHEINMETALL",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:29",
+      "date": "09/11",
+      "timestamp": 1794223796
+    },
+    {
+      "id": "BFMTV_1794222859",
+      "source": "BFMTV",
+      "text": "LE PIANISTE D’UN BATEAU DE CROISIÈRE SECOURU APRÈS AVOIR PASSÉ NEUF HEURES DANS L’EAU",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:14",
+      "date": "09/11",
+      "timestamp": 1794222859
+    },
+    {
+      "id": "BFMTV_1794221910",
+      "source": "BFMTV",
+      "text": "AU MOINS 14 MORTS EN CHINE DANS L'INCENDIE D'UN IMMEUBLE D'HABITATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:58",
+      "date": "09/11",
+      "timestamp": 1794221910
+    },
+    {
+      "id": "BFMTV_1794218667",
+      "source": "BFMTV",
+      "text": "MIDTERMS 2026: LA VICTOIRE DES DÉMOCRATES AU TEXAS, UN AVERTISSEMENT POUR LES RÉPUBLICAINS OU UNE BASCULE EN VUE LA PRÉSIDENTIELLE?",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:04",
+      "date": "09/11",
+      "timestamp": 1794218667
+    },
     {
       "id": "BFMTV_1794212068",
       "source": "BFMTV",
@@ -821,186 +1001,6 @@
       "time": "07:55",
       "date": "06/11",
       "timestamp": 1793951755
-    },
-    {
-      "id": "BFMTV_1793948293",
-      "source": "BFMTV",
-      "text": "ATTENTAT À BONDI BEACH, EN AUSTRALIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:58",
-      "date": "06/11",
-      "timestamp": 1793948293
-    },
-    {
-      "id": "BFMTV_1793948287",
-      "source": "BFMTV",
-      "text": "UNE BLESSÉE DE L'ATTENTAT DE BONDI BEACH EN AUSTRALIE EST MORTE DES SUITES DE SES BLESSURES, PRÈS DE 11 MOIS APRÈS L'ATTAQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "06:58",
-      "date": "06/11",
-      "timestamp": 1793948287
-    },
-    {
-      "id": "BFMTV_1793947476",
-      "source": "BFMTV",
-      "text": "MALGRÉ SA RÉCENTE OPÉRATION AU POUMON, LE PAPE LÉON XIV A DÉCOLLÉ POUR SON VOYAGE EN AMÉRIQUE DU SUD",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:44",
-      "date": "06/11",
-      "timestamp": 1793947476
-    },
-    {
-      "id": "BFMTV_1793946125",
-      "source": "BFMTV",
-      "text": "UN JUGE FÉDÉRAL SUSPEND LE PROJET D'ARC DE TRIOMPHE DE DONALD TRUMP APRÈS UNE REQUÊTE EN JUSTICE CONTESTANT SA LÉGALITÉ",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:22",
-      "date": "06/11",
-      "timestamp": 1793946125
-    },
-    {
-      "id": "BFMTV_1793944831",
-      "source": "BFMTV",
-      "text": "LE PAPE LÉON XIV ENTAME UNE TOURNÉE DE 12 JOURS EN AMÉRIQUE DU SUD, ENTRE RETROUVAILLES ET RETOUR AUX SOURCES",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:00",
-      "date": "06/11",
-      "timestamp": 1793944831
-    },
-    {
-      "id": "BFMTV_1793944250",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: LE PROJET D'ARC DE TRIOMPHE DE DONALD TRUMP BLOQUÉ PAR UN JUGE FÉDÉRAL",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:50",
-      "date": "06/11",
-      "timestamp": 1793944250
-    },
-    {
-      "id": "BFMTV_1793943116",
-      "source": "BFMTV",
-      "text": "MIDTERMS 2026: DONALD TRUMP DÉNONCE DES ÉLECTIONS \"TRUQUÉES\" APRÈS LA VICTOIRE ÉCRASANTE DES DÉMOCRATES",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:31",
-      "date": "06/11",
-      "timestamp": 1793943116
-    },
-    {
-      "id": "BFMTV_1793942828",
-      "source": "BFMTV",
-      "text": "VOLS PERTURBÉS PAR DE FAUSSES ALERTES À LA BOMBE: DES MENACES VISANT CERTAINS D'ENTRE EUX, ET ENVOYÉES AUX AÉROPORTS DE ROME ET DE SOFIA, PROVENAIENT DES \"COMBATTANTS DE L'ÉTAT MASCULIN\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:27",
-      "date": "06/11",
-      "timestamp": 1793942828
-    },
-    {
-      "id": "BFMTV_1793919240",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP PRÉDIT UN \"TRÈS GRAND\" ACCORD AVEC LA RUSSIE SUR L'UKRAINE QUI POURRAIT \"ENGLOBER TOUTE L'EUROPE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:54",
-      "date": "05/11",
-      "timestamp": 1793919240
-    },
-    {
-      "id": "BFMTV_1793915304",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP PRÉDIT UN \"TRÈS GRAND\" ACCORD AVEC LA RUSSIE SUR L'UKRAINE, QUI \"POURRAIT IMPLIQUER TOUTE L'EUROPE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:48",
-      "date": "05/11",
-      "timestamp": 1793915304
-    },
-    {
-      "id": "BFMTV_1793914893",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: \"NOUS VOULONS UNE PAIX DURABLE ET UNE PAIX JUSTE\", MARTÈLE KAJA KALLAS ",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:41",
-      "date": "05/11",
-      "timestamp": 1793914893
-    },
-    {
-      "id": "BFMTV_1793913197",
-      "source": "BFMTV",
-      "text": "\"CHAOTIQUE, BRUTALE ET GANGRENÉE PAR LA CORRUPTION\": CLAUDE MALHURET FUSTIGE LA POLITIQUE ÉTRANGÈRE DE DONALD TRUMP",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:13",
-      "date": "05/11",
-      "timestamp": 1793913197
-    },
-    {
-      "id": "BFMTV_1793913106",
-      "source": "BFMTV",
-      "text": "LE SÉNATEUR CLAUDE MALHURET ESTIME QUE SI LE RN DEVAIT GOUVERNER, \"CE SERAIT UN DRAME POUR L'UKRAINE ET POUR L'EUROPE\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "21:11",
-      "date": "05/11",
-      "timestamp": 1793913106
-    },
-    {
-      "id": "BFMTV_1793904168",
-      "source": "BFMTV",
-      "text": "UN MILITANT POLITIQUE CONDAMNÉ À 10 ANS DE PRISON SUPPLÉMENTAIRES À HONG KONG",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:42",
-      "date": "05/11",
-      "timestamp": 1793904168
-    },
-    {
-      "id": "OPEX360_1793904128",
-      "source": "OPEX360",
-      "text": "LA FRANCE VA-T-ELLE FINALEMENT MAINTENIR SA PARTICIPATION AU PROJET DE CORVETTE EUROPÉENNE ?",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:42",
-      "date": "05/11",
-      "timestamp": 1793904128
-    },
-    {
-      "id": "OPEX360_1793900108",
-      "source": "OPEX360",
-      "text": "LA DGA NOTIFIE À NAVAL GROUP ET À MBDA UN CONTRAT POUR DOUBLER LA PUISSANCE DE FEU DES FRÉGATES DE DÉFENSE ET D’INTERVENTION",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:35",
-      "date": "05/11",
-      "timestamp": 1793900108
-    },
-    {
-      "id": "BFMTV_1793898862",
-      "source": "BFMTV",
-      "text": "VOLS DÉROUTÉS, ENQUÊTE OUVERTE À ÉVREUX... CE QUE L'ON SAIT SUR LES ALERTES À LA BOMBE QUI ONT PERTURBÉ LE TRAFIC AÉRIEN EUROPÉEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:14",
-      "date": "05/11",
-      "timestamp": 1793898862
-    },
-    {
-      "id": "BFMTV_1793897360",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: MELANIA TRUMP A-T-ELLE UN VÉRITABLE RÔLE DIPLOMATIQUE?",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:49",
-      "date": "05/11",
-      "timestamp": 1793897360
     }
   ],
   "france": {
