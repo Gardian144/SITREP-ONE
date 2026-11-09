@@ -1,7 +1,87 @@
 {
-  "last_update": "09/11 01:59",
+  "last_update": "09/11 09:36",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794212068",
+      "source": "BFMTV",
+      "text": "20 PERSONNES SONT MORTES DANS LE NAUFRAGE DE DEUX EMBARCATIONS DE MIGRANTS AU LARGE DE LA GRÈCE",
+      "urgent": false,
+      "france_related": false,
+      "time": "08:14",
+      "date": "09/11",
+      "timestamp": 1794212068
+    },
+    {
+      "id": "BFMTV_1794209826",
+      "source": "BFMTV",
+      "text": "NVIDIA: LE PATRON DU GÉANT AMÉRICAIN, JENSEN HUANG, A EU UNE LIAISON AVEC UNE FEMME SOUPÇONNÉE D'ÊTRE UNE ESPIONNE CHINOISE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:37",
+      "date": "09/11",
+      "timestamp": 1794209826
+    },
+    {
+      "id": "BFMTV_1794208591",
+      "source": "BFMTV",
+      "text": "ÉGYPTE: AU MOINS SEPT MORTS ET PLUS D’UNE CENTAINE DE BLESSÉS DANS UNE COLLISION ENTRE DEUX TRAINS",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:16",
+      "date": "09/11",
+      "timestamp": 1794208591
+    },
+    {
+      "id": "BFMTV_1794207072",
+      "source": "BFMTV",
+      "text": "CINQ JOURS APRÈS LES ÉLECTIONS DE MI-MANDAT, LE MISSISSIPPI TOUJOURS DANS L'ATTENTE D'UN RÉSULTAT HISTORIQUE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:51",
+      "date": "09/11",
+      "timestamp": 1794207072
+    },
+    {
+      "id": "BFMTV_1794204452",
+      "source": "BFMTV",
+      "text": "FUSILLADE EN POLOGNE: LA POLICE ANNONCE LA MORT DE L'ASSAILLANT À L'HÔPITAL",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:07",
+      "date": "09/11",
+      "timestamp": 1794204452
+    },
+    {
+      "id": "BFMTV_1794203082",
+      "source": "BFMTV",
+      "text": "LA MAÎTRESSE DU PATRON DE NVIDIA SOUPÇONNÉE D'ÊTRE UNE ESPIONNE CHINOISE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:44",
+      "date": "09/11",
+      "timestamp": 1794203082
+    },
+    {
+      "id": "BFMTV_1794201959",
+      "source": "BFMTV",
+      "text": "\"CELA DÉPEND DE S'ILS SIGNENT OU NON UN ACCORD TRÈS SOLIDE\": DONALD TRUMP JUGE \"TRÈS IMPROBABLE\" UNE REPRISE DE LA GUERRE EN IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:25",
+      "date": "09/11",
+      "timestamp": 1794201959
+    },
+    {
+      "id": "BFMTV_1794201457",
+      "source": "BFMTV",
+      "text": "LE PAPE LÉON XIV EST ARRIVÉ EN ARGENTINE DANS LE CADRE DE SA TOURNÉE EN AMÉRIQUE DU SUD",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:17",
+      "date": "09/11",
+      "timestamp": 1794201457
+    },
     {
       "id": "BFMTV_1794177324",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "16:49",
       "date": "05/11",
       "timestamp": 1793897360
-    },
-    {
-      "id": "BFMTV_1793896715",
-      "source": "BFMTV",
-      "text": "MELANIA TRUMP : DE L'OMBRE À L'INFLUENCE ?",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:38",
-      "date": "05/11",
-      "timestamp": 1793896715
-    },
-    {
-      "id": "BFMTV_1793895974",
-      "source": "BFMTV",
-      "text": "LA PREMIÈRE DAME AMÉRICAINE MELANIA TRUMP APPELLE À UN CESSEZ-LE-FEU \"DURABLE\" EN UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:26",
-      "date": "05/11",
-      "timestamp": 1793895974
-    },
-    {
-      "id": "BFMTV_1793894289",
-      "source": "BFMTV",
-      "text": "\"EMPÊCHER LE RETOUR AU POUVOIR DE NETANYAHU\": LE CENTRISTE GADI EISENKOT BIEN PLACÉ POUR FORMER LE PROCHAIN GOUVERNEMENT ISRAÉLIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:58",
-      "date": "05/11",
-      "timestamp": 1793894289
-    },
-    {
-      "id": "OPEX360_1793893144",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES VA NOTIFIER UN ACCORD-CADRE À MBDA POUR ACQUÉRIR DAVANTAGE DE MISSILES MER-MER EXOCET",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:39",
-      "date": "05/11",
-      "timestamp": 1793893144
-    },
-    {
-      "id": "OPEX360_1793879089",
-      "source": "OPEX360",
-      "text": "LE MINISTÈRE DES ARMÉES LOUE DEUX NAVIRES CIVILS POUR DOTER LA MARINE NATIONALE D’UNE CAPACITÉ HAUTURIÈRE DE GUERRE DES MINES",
-      "urgent": true,
-      "france_related": true,
-      "time": "11:44",
-      "date": "05/11",
-      "timestamp": 1793879089
-    },
-    {
-      "id": "BFMTV_1793878326",
-      "source": "BFMTV",
-      "text": "PÉROU: PLUS DE 3.000 MYGALES CACHÉES DANS DES VALISES",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:32",
-      "date": "05/11",
-      "timestamp": 1793878326
-    },
-    {
-      "id": "BFMTV_1793876515",
-      "source": "BFMTV",
-      "text": "DOUZE ALERTES À LA BOMBE ONT PERTURBÉ L'ESPACE AÉRIEN EUROPÉEN JEUDI MATIN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:01",
-      "date": "05/11",
-      "timestamp": 1793876515
-    },
-    {
-      "id": "BFMTV_1793876301",
-      "source": "BFMTV",
-      "text": "IRAN: À TÉHÉRAN, UNE BANNIÈRE À L'EFFIGIE DE DONALD TRUMP BRÛLÉE APRÈS LES MIDTERMS",
-      "urgent": true,
-      "france_related": false,
-      "time": "10:58",
-      "date": "05/11",
-      "timestamp": 1793876301
     }
   ],
   "france": {
