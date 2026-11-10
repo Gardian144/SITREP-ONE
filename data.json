@@ -1,7 +1,17 @@
 {
-  "last_update": "09/11 20:07",
+  "last_update": "10/11 02:44",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794263787",
+      "source": "BFMTV",
+      "text": "ASSASSINAT DE CHARLIE KIRK: L'AMÉRICAIN TYLER ROBINSON, ACCUSÉ DE L'AVOIR TUÉ, SERA JUGÉ EN JUIN 2028",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:36",
+      "date": "09/11",
+      "timestamp": 1794263787
+    },
     {
       "id": "BFMTV_1794253026",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "08:18",
       "date": "06/11",
       "timestamp": 1793953080
-    },
-    {
-      "id": "BFMTV_1793951755",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP CLASSE LE BUREAU OVALE COMME \"MONUMENT HISTORIQUE\", EMPÊCHANT TOUTE MODIFICATION OU DESTRUCTION",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:55",
-      "date": "06/11",
-      "timestamp": 1793951755
     }
   ],
   "france": {
