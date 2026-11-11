@@ -1,7 +1,87 @@
 {
-  "last_update": "11/11 02:55",
+  "last_update": "11/11 10:22",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794389748",
+      "source": "BFMTV",
+      "text": "UN AUTOMOBILISTE PERCUTE DES PASSANTS À LOS ANGELES, AU MOINS TROIS MORTS ET TROIS BLESSÉS GRAVES",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:35",
+      "date": "11/11",
+      "timestamp": 1794389748
+    },
+    {
+      "id": "BFMTV_1794389142",
+      "source": "BFMTV",
+      "text": "LE CHEF DE L'ONU ET LE PRÉSIDENT TURC ACCUEILLENT URSULA VON DER LEYEN À LA COP31",
+      "urgent": false,
+      "france_related": false,
+      "time": "09:25",
+      "date": "11/11",
+      "timestamp": 1794389142
+    },
+    {
+      "id": "BFMTV_1794384180",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS INCULPENT TROIS \"AGENTS IRANIENS\" POUR UN \"PROJET D'ATTENTAT\" CONTRE UNE BASE MILITAIRE EN ANGLETERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "08:03",
+      "date": "11/11",
+      "timestamp": 1794384180
+    },
+    {
+      "id": "BFMTV_1794380524",
+      "source": "BFMTV",
+      "text": "UNE MÈRE ET SA FILLE TUÉES PAR QUATRE GRIZZLIS AU “COMPORTEMENT PRÉDATEUR” DANS L’OUEST DU CANADA",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:02",
+      "date": "11/11",
+      "timestamp": 1794380524
+    },
+    {
+      "id": "BFMTV_1794376696",
+      "source": "BFMTV",
+      "text": "LE SECRÉTAIRE AU TRÉSOR AMÉRICAIN SE RÉFUGIE DANS UNE BASE MILITAIRE APRÈS DES MENACES DE L'IRAN",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:58",
+      "date": "11/11",
+      "timestamp": 1794376696
+    },
+    {
+      "id": "BFMTV_1794374785",
+      "source": "BFMTV",
+      "text": "UN JUGE AMÉRICAIN REFUSE DE REJETER LA PLAINTE POUR DIFFAMATION DÉPOSÉE PAR DONALD TRUMP CONTRE LA BBC",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:26",
+      "date": "11/11",
+      "timestamp": 1794374785
+    },
+    {
+      "id": "BFMTV_1794374677",
+      "source": "BFMTV",
+      "text": "L'ÉDITO INTERNATIONAL - IRAN: AVEC LE VOTE DU BUDGET, LA PRESSION S'AGRANDIT SUR DONALD TRUMP POUR METTRE FIN À LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:24",
+      "date": "11/11",
+      "timestamp": 1794374677
+    },
+    {
+      "id": "BFMTV_1794374608",
+      "source": "BFMTV",
+      "text": "LA TENTATIVE DE DESTITUTION CONTRE PETE HEGSETH ÉCHOUE, LES DÉPUTÉS RÉPUBLICAINS OFFRENT UN PRÉCIEUX RÉPIT AU CHEF DU PENTAGONE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:23",
+      "date": "11/11",
+      "timestamp": 1794374608
+    },
     {
       "id": "BFMTV_1794351415",
       "source": "BFMTV",
@@ -921,86 +1001,6 @@
       "time": "13:43",
       "date": "07/11",
       "timestamp": 1794058994
-    },
-    {
-      "id": "BFMTV_1794056575",
-      "source": "BFMTV",
-      "text": "\"IL ÉTAIT LA JOIE DE VIVRE PURE\": UN FRANÇAIS DE 23 ANS MEURT DES SUITES DE LA DENGUE AU VIETNAM",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:02",
-      "date": "07/11",
-      "timestamp": 1794056575
-    },
-    {
-      "id": "BFMTV_1794055659",
-      "source": "BFMTV",
-      "text": "\"LE RISQUE LE PLUS GRAND EST L'IMPASSE\": APRÈS SON ÉCHEC AUX MIDTERMS, COMMENT DONALD TRUMP PEUT-IL SE SERVIR DE SON DROIT DE VETO?",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:47",
-      "date": "07/11",
-      "timestamp": 1794055659
-    },
-    {
-      "id": "OPEX360_1794054665",
-      "source": "OPEX360",
-      "text": "LE CHASSEUR-BOMBARDIER F-35B A LARGUÉ UN MISSILE AIR-AIR [INERTE] METEOR POUR LA PREMIÈRE FOIS",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:31",
-      "date": "07/11",
-      "timestamp": 1794054665
-    },
-    {
-      "id": "BFMTV_1794051957",
-      "source": "BFMTV",
-      "text": "DEUX PANDAS VENUS DE CHINE FONT LE BONHEUR DES VISITEURS AU ZOO D'ATLANTA",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:45",
-      "date": "07/11",
-      "timestamp": 1794051957
-    },
-    {
-      "id": "OPEX360_1794049343",
-      "source": "OPEX360",
-      "text": "À SON TOUR, SIERRA NEVADA RENONCE À L’APPEL D’OFFRES DE L’US NAVY POUR REMPLACER L’AVION D’ENTRAÎNEMENT T45C GOSHAWK",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:02",
-      "date": "07/11",
-      "timestamp": 1794049343
-    },
-    {
-      "id": "BFMTV_1794041075",
-      "source": "BFMTV",
-      "text": "MICHAEL SANFT, L'AVOCAT QUI DÉFENDAIT L'HOMME CONDAMNÉ POUR LE MEURTRE DE TUPAC SHAKUR, EST MORT À 55 ANS",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:44",
-      "date": "07/11",
-      "timestamp": 1794041075
-    },
-    {
-      "id": "BFMTV_1794038559",
-      "source": "BFMTV",
-      "text": "20 MILLIONS DE DOLLARS ET UN \"POSSIBLE DÉMÉNAGEMENT\": LES ÉTATS-UNIS OFFRENT UNE RÉCOMPENSE POUR TOUTE INFORMATION SUR LE PROGRAMME NUCLÉAIRE IRANIEN",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:02",
-      "date": "07/11",
-      "timestamp": 1794038559
-    },
-    {
-      "id": "BFMTV_1794031671",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: PREMIÈRE SORTIE PUBLIQUE RÉUSSIE POUR LES DEUX PANDAS CHINOIS DU ZOO D'ATLANTA",
-      "urgent": false,
-      "france_related": false,
-      "time": "06:07",
-      "date": "07/11",
-      "timestamp": 1794031671
     }
   ],
   "france": {
