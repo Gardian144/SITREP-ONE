@@ -1,7 +1,117 @@
 {
-  "last_update": "11/11 17:59",
+  "last_update": "12/11 00:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794437893",
+      "source": "BFMTV",
+      "text": "\"UNE NOUVELLE ENTRAVE À LA LIBERTÉ D'INFORMER\": LE MONDE ET OUEST-FRANCE DÉNONCENT L'INTERDICTION D'ENTRÉE EN RUSSIE DE DEUX JOURNALISTES FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "22:58",
+      "date": "11/11",
+      "timestamp": 1794437893
+    },
+    {
+      "id": "BFMTV_1794437067",
+      "source": "BFMTV",
+      "text": "UN IMMEUBLE S'EFFONDRE DANS LE QUARTIER DE BROOKLYN À NEW YORK, UN BILAN PROVISOIRE FAIT ÉTAT D'UN MORT ET PLUSIEURS BLESSÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:44",
+      "date": "11/11",
+      "timestamp": 1794437067
+    },
+    {
+      "id": "BFMTV_1794436904",
+      "source": "BFMTV",
+      "text": "LE CHEF DU PENTAGONE, PETE HEGSETH, RÉPRIMANDÉ PAR UN SOLDAT DEVANT LA TOMBE DU SOLDAT INCONNU À ARLINGTON",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:41",
+      "date": "11/11",
+      "timestamp": 1794436904
+    },
+    {
+      "id": "BFMTV_1794434761",
+      "source": "BFMTV",
+      "text": "ÉCOLES ITALIENNES VISÉES PAR DES ALERTES À LA BOMBE: GIORGIA MELONI A INDIQUÉ QUE \"RIEN\" N'A ÉTÉ TROUVÉ DANS LES ÉTABLISSEMENTS",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:06",
+      "date": "11/11",
+      "timestamp": 1794434761
+    },
+    {
+      "id": "BFMTV_1794432288",
+      "source": "BFMTV",
+      "text": "\"DES INITIATIVES DANGEREUSES\": GADI EISENKOT APPELLE BENJAMIN NETANYAHU À \"FAIRE PREUVE DE RESPONSABILITÉ\" SUR LES DÉCISIONS SÉCURITAIRES EN ISRAËL",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:24",
+      "date": "11/11",
+      "timestamp": 1794432288
+    },
+    {
+      "id": "BFMTV_1794429128",
+      "source": "BFMTV",
+      "text": "“NAZA”: LE DOCUMENTAIRE CIBLÉ PAR UNE CAMPAGNE DE DÉSINFORMATION SUR CHATGPT ET GROK ",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:32",
+      "date": "11/11",
+      "timestamp": 1794429128
+    },
+    {
+      "id": "BFMTV_1794427543",
+      "source": "BFMTV",
+      "text": "LES ÉTATS-UNIS, L'UKRAINE ET L'EUROPE SONT \"COMPLÉTEMENT ALIGNÉS\", ESTIME LE SECRÉTAIRE GÉNÉRAL DE L'OTAN MARK RUTTE",
+      "urgent": false,
+      "france_related": false,
+      "time": "20:05",
+      "date": "11/11",
+      "timestamp": 1794427543
+    },
+    {
+      "id": "BFMTV_1794426174",
+      "source": "BFMTV",
+      "text": "DES DIZAINES DE MILLIERS DE MANIFESTANTS DANS LES RUES D'ESPAGNE LORS D'UNE JOURNÉE DE GRÈVE GÉNÉRALE POUR LE DROIT AU LOGEMENT ET LE POUVOIR D'ACHAT",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:42",
+      "date": "11/11",
+      "timestamp": 1794426174
+    },
+    {
+      "id": "BFMTV_1794425877",
+      "source": "BFMTV",
+      "text": "UKRAINE: DES NÉGOCIATIONS \"SANS LES EUROPÉENS ET SANS LES FRANÇAIS\", DÉPLORE JEAN-LUC MÉLENCHON",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:37",
+      "date": "11/11",
+      "timestamp": 1794425877
+    },
+    {
+      "id": "BFMTV_1794423653",
+      "source": "BFMTV",
+      "text": "ENLEVÉ PAR SON PÈRE, UN BÉBÉ DE 11 MOIS RETROUVÉ ENTERRÉ VIVANT EN CAROLINE DU SUD",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:00",
+      "date": "11/11",
+      "timestamp": 1794423653
+    },
+    {
+      "id": "BFMTV_1794421621",
+      "source": "BFMTV",
+      "text": "\"L'EUROPE EST SUFFISAMMENT FORTE POUR PROTÉGER SES PROPRES INTÉRÊTS\", DÉCLARE VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:27",
+      "date": "11/11",
+      "timestamp": 1794421621
+    },
     {
       "id": "BFMTV_1794417108",
       "source": "BFMTV",
@@ -891,116 +1001,6 @@
       "time": "16:09",
       "date": "08/11",
       "timestamp": 1794154174
-    },
-    {
-      "id": "BFMTV_1794154174",
-      "source": "BFMTV",
-      "text": "GUERRE EN IRAN ET AU MOYEN-ORIENT",
-      "urgent": true,
-      "france_related": false,
-      "time": "16:09",
-      "date": "08/11",
-      "timestamp": 1794154174
-    },
-    {
-      "id": "BFMTV_1794153294",
-      "source": "BFMTV",
-      "text": "L'ASSAILLANT \"FASCINÉ PAR L'EXTRÊME DROITE\", TIRS \"AU HASARD\", SIX MORTS... CE QUE L'ON SAIT DE LA FUSILLADE EN POLOGNE, QUALIFIÉE DE \"TERRORISTE\" PAR LE PREMIER MINISTRE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:54",
-      "date": "08/11",
-      "timestamp": 1794153294
-    },
-    {
-      "id": "BFMTV_1794152425",
-      "source": "BFMTV",
-      "text": "PLUSIEURS BLESSÉS APRÈS UN SÉISME DE MAGNITUDE 5,7 DANS LE CENTRE DU JAPON",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:40",
-      "date": "08/11",
-      "timestamp": 1794152425
-    },
-    {
-      "id": "BFMTV_1794149941",
-      "source": "BFMTV",
-      "text": "IL NOURRISSAIT “UNE RANCOEUR ENVERS LA SOCIÉTÉ”: UN JAPONAIS POIGNARDE UN EMPLOYÉ DE LIBRAIRIE À OSAKA",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:59",
-      "date": "08/11",
-      "timestamp": 1794149941
-    },
-    {
-      "id": "BFMTV_1794147572",
-      "source": "BFMTV",
-      "text": "\"N'AYEZ CRAINTE, NOUS REVIENDRONS\": DONALD TRUMP ESTIME QUE LES ÉTATS-UNIS ONT FAIT UN \"GIGANTESQUE PAS EN ARRIÈRE DANS L'HISTOIRE\" APRÈS LA VAGUE DÉMOCRATE AUX ÉLECTIONS DE MI-MANDAT",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:19",
-      "date": "08/11",
-      "timestamp": 1794147572
-    },
-    {
-      "id": "BFMTV_1794140349",
-      "source": "BFMTV",
-      "text": "PLUS DE 600.000 PERSONNES PRIVÉES DE COURANT APRÈS DES FRAPPES RUSSES EN UKRAINE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:19",
-      "date": "08/11",
-      "timestamp": 1794140349
-    },
-    {
-      "id": "OPEX360_1794140007",
-      "source": "OPEX360",
-      "text": "LE PORTE-AVIONS BRITANNIQUE HMS QUEEN ELIZABETH A LANCÉ SES PREMIERS DRONES D’ATTAQUE",
-      "urgent": true,
-      "france_related": false,
-      "time": "12:13",
-      "date": "08/11",
-      "timestamp": 1794140007
-    },
-    {
-      "id": "OPEX360_1794136201",
-      "source": "OPEX360",
-      "text": "ARIANEGROUP SUGGÈRE D’ARMER LA FRÉGATE DE DÉFENSE ET D’INTERVENTION AVEC DES MISSILES BALISTIQUES ANTINAVIRES",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:10",
-      "date": "08/11",
-      "timestamp": 1794136201
-    },
-    {
-      "id": "BFMTV_1794132644",
-      "source": "BFMTV",
-      "text": "FUSILLADE EN POLOGNE: LE PARQUET ANNONCE OUVRIR UNE ENQUÊTE POUR \"TERRORISME\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:10",
-      "date": "08/11",
-      "timestamp": 1794132644
-    },
-    {
-      "id": "BFMTV_1794131574",
-      "source": "BFMTV",
-      "text": "GUERRE EN UKRAINE: PLUS DE 600.000 PERSONNES PRIVÉES D'ÉLECTRICITÉ APRÈS UNE ATTAQUE RUSSE",
-      "urgent": true,
-      "france_related": false,
-      "time": "09:52",
-      "date": "08/11",
-      "timestamp": 1794131574
-    },
-    {
-      "id": "BFMTV_1794129914",
-      "source": "BFMTV",
-      "text": "FUSILLADE EN POLOGNE: LES BLESSÉS ÉTRANGERS SONT ALLEMAND, BRITANNIQUE, RUSSE, PORTUGAIS ET AUTRICHIEN",
-      "urgent": false,
-      "france_related": true,
-      "time": "09:25",
-      "date": "08/11",
-      "timestamp": 1794129914
     }
   ],
   "france": {
