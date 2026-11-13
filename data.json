@@ -1,7 +1,97 @@
 {
-  "last_update": "13/11 18:04",
+  "last_update": "13/11 23:32",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794607863",
+      "source": "BFMTV",
+      "text": "UN ENGIN SUSPECT \"RUDIMENTAIRE\" MAIS OPÉRATIONNEL NEUTRALISÉ PAR LA POLICE À DUBLIN, OÙ SE TIENT UN SOMMET DE L'UNION EUROPÉENNE",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:11",
+      "date": "13/11",
+      "timestamp": 1794607863
+    },
+    {
+      "id": "BFMTV_1794606672",
+      "source": "BFMTV",
+      "text": "UN ÉTAT DU BRÉSIL DÉCLARE L’ÉTAT D’URGENCE ENVIRONNEMENTAL FACE AUX CENTAINES D'INCENDIES EN AMAZONIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:51",
+      "date": "13/11",
+      "timestamp": 1794606672
+    },
+    {
+      "id": "BFMTV_1794606072",
+      "source": "BFMTV",
+      "text": "UN PÉTROLIER PERCUTE UN NAVIRE DE CROISIÈRE À LA NOUVELLE-ORLÉANS, DES OPÉRATIONS DE SECOURS EN COURS",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:41",
+      "date": "13/11",
+      "timestamp": 1794606072
+    },
+    {
+      "id": "BFMTV_1794603132",
+      "source": "BFMTV",
+      "text": "UKRAINE: \"LES DIRIGEANTS ONT CONVENU QUE NOTRE ÉQUIPE EUROPÉENNE CHARGÉE DES NÉGOCIATIONS DE PAIX ÉTAIT COMPOSÉE DE L’ALLEMAGNE, LA FRANCE, L’ITALIE, LA POLOGNE ET LE ROYAUME-UNI\", DÉCLARE ANTÓNIO COSTA, PRÉSIDENT DU CONSEIL EUROPÉEN",
+      "urgent": false,
+      "france_related": true,
+      "time": "20:52",
+      "date": "13/11",
+      "timestamp": 1794603132
+    },
+    {
+      "id": "BFMTV_1794598706",
+      "source": "BFMTV",
+      "text": "ESPAGNE: L'ÉTAT D'URGENCE EN PLACE À EL HIERRO SUITE À L'ARRIVÉE DE PLUS DE 8.000 MIGRANTS CES DERNIÈRES SEMAINES",
+      "urgent": false,
+      "france_related": true,
+      "time": "19:38",
+      "date": "13/11",
+      "timestamp": 1794598706
+    },
+    {
+      "id": "BFMTV_1794597752",
+      "source": "BFMTV",
+      "text": "\"LES FAMILLES DU QUARTIER MÉRITENT DES RÉPONSES\": LES AUTORITÉS PROMETTENT UNE ENQUÊTE APPROFONDIE APRÈS L'EFFONDREMENT D'UN IMMEUBLE À NEW YORK",
+      "urgent": false,
+      "france_related": false,
+      "time": "19:22",
+      "date": "13/11",
+      "timestamp": 1794597752
+    },
+    {
+      "id": "BFMTV_1794594951",
+      "source": "BFMTV",
+      "text": "PLUS DE 350 PERSONNES ARRÊTÉES DANS UNE VASTE OPÉRATION POLICIÈRE INTERNATIONALE CONTRE LE DARK WEB",
+      "urgent": false,
+      "france_related": false,
+      "time": "18:35",
+      "date": "13/11",
+      "timestamp": 1794594951
+    },
+    {
+      "id": "OPEX360_1794594731",
+      "source": "OPEX360",
+      "text": "DES DRONES VECTOR DE L’ARMÉE ALLEMANDE ONT BRIÈVEMENT ÉTÉ CLOUÉS AU SOL PAR UNE ATTAQUE INFORMATIQUE",
+      "urgent": true,
+      "france_related": true,
+      "time": "18:32",
+      "date": "13/11",
+      "timestamp": 1794594731
+    },
+    {
+      "id": "BFMTV_1794591786",
+      "source": "BFMTV",
+      "text": "UKRAINE-RUSSIE: LA GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "17:43",
+      "date": "13/11",
+      "timestamp": 1794591786
+    },
     {
       "id": "BFMTV_1794591785",
       "source": "BFMTV",
@@ -911,96 +1001,6 @@
       "time": "11:19",
       "date": "11/11",
       "timestamp": 1794395943
-    },
-    {
-      "id": "BFMTV_1794389748",
-      "source": "BFMTV",
-      "text": "UN AUTOMOBILISTE PERCUTE DES PASSANTS À LOS ANGELES, AU MOINS TROIS MORTS ET TROIS BLESSÉS GRAVES",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:35",
-      "date": "11/11",
-      "timestamp": 1794389748
-    },
-    {
-      "id": "BFMTV_1794389142",
-      "source": "BFMTV",
-      "text": "LE CHEF DE L'ONU ET LE PRÉSIDENT TURC ACCUEILLENT URSULA VON DER LEYEN À LA COP31",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:25",
-      "date": "11/11",
-      "timestamp": 1794389142
-    },
-    {
-      "id": "BFMTV_1794384180",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS INCULPENT TROIS \"AGENTS IRANIENS\" POUR UN \"PROJET D'ATTENTAT\" CONTRE UNE BASE MILITAIRE EN ANGLETERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "08:03",
-      "date": "11/11",
-      "timestamp": 1794384180
-    },
-    {
-      "id": "BFMTV_1794380524",
-      "source": "BFMTV",
-      "text": "UNE MÈRE ET SA FILLE TUÉES PAR QUATRE GRIZZLIS AU “COMPORTEMENT PRÉDATEUR” DANS L’OUEST DU CANADA",
-      "urgent": false,
-      "france_related": false,
-      "time": "07:02",
-      "date": "11/11",
-      "timestamp": 1794380524
-    },
-    {
-      "id": "BFMTV_1794376696",
-      "source": "BFMTV",
-      "text": "LE SECRÉTAIRE AU TRÉSOR AMÉRICAIN SE RÉFUGIE DANS UNE BASE MILITAIRE APRÈS DES MENACES DE L'IRAN",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:58",
-      "date": "11/11",
-      "timestamp": 1794376696
-    },
-    {
-      "id": "BFMTV_1794374785",
-      "source": "BFMTV",
-      "text": "UN JUGE AMÉRICAIN REFUSE DE REJETER LA PLAINTE POUR DIFFAMATION DÉPOSÉE PAR DONALD TRUMP CONTRE LA BBC",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:26",
-      "date": "11/11",
-      "timestamp": 1794374785
-    },
-    {
-      "id": "BFMTV_1794374677",
-      "source": "BFMTV",
-      "text": "L'ÉDITO INTERNATIONAL - IRAN: AVEC LE VOTE DU BUDGET, LA PRESSION S'AGRANDIT SUR DONALD TRUMP POUR METTRE FIN À LA GUERRE",
-      "urgent": true,
-      "france_related": false,
-      "time": "05:24",
-      "date": "11/11",
-      "timestamp": 1794374677
-    },
-    {
-      "id": "BFMTV_1794374608",
-      "source": "BFMTV",
-      "text": "LA TENTATIVE DE DESTITUTION CONTRE PETE HEGSETH ÉCHOUE, LES DÉPUTÉS RÉPUBLICAINS OFFRENT UN PRÉCIEUX RÉPIT AU CHEF DU PENTAGONE",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:23",
-      "date": "11/11",
-      "timestamp": 1794374608
-    },
-    {
-      "id": "BFMTV_1794351415",
-      "source": "BFMTV",
-      "text": "UN MILITAIRE AMÉRICAIN SOUPÇONNÉ D'ESPIONNAGE POUR LE COMPTE DE LA RUSSIE ARRÊTÉ AU ROYAUME-UNI",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:56",
-      "date": "10/11",
-      "timestamp": 1794351415
     }
   ],
   "france": {
