@@ -1,7 +1,37 @@
 {
-  "last_update": "12/11 22:23",
+  "last_update": "13/11 02:47",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794527454",
+      "source": "BFMTV",
+      "text": "ACTIVITÉS HYBRIDES : \"NOUS SAVONS QU'IL Y A CEUX QUI UTILISERAIENT DE TELLES ATTAQUES POUR CRÉER LA CONFUSION (...) : NOUS NE LES LAISSERONS PAS FAIRE\" DÉCLARE MICHEÁL MARTIN",
+      "urgent": true,
+      "france_related": false,
+      "time": "23:50",
+      "date": "12/11",
+      "timestamp": 1794527454
+    },
+    {
+      "id": "BFMTV_1794524020",
+      "source": "BFMTV",
+      "text": "POLITIQUE EUROPÉENNE : \"IL N'Y A AUCUNE DIVISION\" CAR \"NOUS NOUS SOMMES ENGAGÉS DANS CES DISCUSSIONS DIPLOMATIQUES ET NOUS TRAVAILLONS EN ÉQUIPE\", AFFIRME LE PRÉSIDENT DU CONSEIL EUROPÉEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:53",
+      "date": "12/11",
+      "timestamp": 1794524020
+    },
+    {
+      "id": "BFMTV_1794523349",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: VOLODYMYR ZELENSKY ET LES ÉTATS-UNIS VEULENT VOIR L'EUROPE À LA TABLES DES NÉGOCIATIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "22:42",
+      "date": "12/11",
+      "timestamp": 1794523349
+    },
     {
       "id": "BFMTV_1794515355",
       "source": "BFMTV",
@@ -56,6 +86,16 @@
       "id": "OPEX360_1794506886",
       "source": "OPEX360",
       "text": "LA ROYAL NAVY VA TESTER LE DRONE DE COMBAT YFQ-84A TALON BLUE DE NORTHROP GRUMMAN DEPUIS L’UN SES PORTE-AVIONS",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:08",
+      "date": "12/11",
+      "timestamp": 1794506886
+    },
+    {
+      "id": "OPEX360_1794506886",
+      "source": "OPEX360",
+      "text": "LA ROYAL NAVY VA TESTER LE DRONE DE COMBAT YFQ-48A TALON BLUE DE NORTHROP GRUMMAN DEPUIS L’UN SES PORTE-AVIONS",
       "urgent": true,
       "france_related": false,
       "time": "18:08",
@@ -961,46 +1001,6 @@
       "time": "09:47",
       "date": "10/11",
       "timestamp": 1794304045
-    },
-    {
-      "id": "BFMTV_1794303504",
-      "source": "BFMTV",
-      "text": "RÉSEAUX SOCIAUX ET PROTECTION DES ENFANTS: \"NOUS FAISONS FACE À UNE AUTRE BATAILLE AVEC L'IA[...]ET NOUS SOMMES DÉJÀ EN RETARD\", PRÉVIENT LE PRINCE HARRY",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:38",
-      "date": "10/11",
-      "timestamp": 1794303504
-    },
-    {
-      "id": "BFMTV_1794302330",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:18",
-      "date": "10/11",
-      "timestamp": 1794302330
-    },
-    {
-      "id": "BFMTV_1794302329",
-      "source": "BFMTV",
-      "text": "NÉGOCIATIONS UKRAINE-RUSSIE: L'ÉLYSÉE PRÉVIENT QU'\"IL NE PEUT Y AVOIR D'ACCORD SUR LA SÉCURITÉ EN EUROPE SANS LES EUROPÉENS\"",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:18",
-      "date": "10/11",
-      "timestamp": 1794302329
-    },
-    {
-      "id": "BFMTV_1794300111",
-      "source": "BFMTV",
-      "text": "RÉSEAUX SOCIAUX ET PROTECTION DES ENFANTS: \"LES RESTRICTIONS D'ÂGE À ELLES SEULES NE PEUVENT PAS ÊTRE LA RÉPONSE\", DÉCLARE LE PRINCE HARRY",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:41",
-      "date": "10/11",
-      "timestamp": 1794300111
     }
   ],
   "france": {
