@@ -1,7 +1,77 @@
 {
-  "last_update": "14/11 10:57",
+  "last_update": "14/11 16:53",
   "impacts": [],
   "news": [
+    {
+      "id": "OPEX360_1794670672",
+      "source": "OPEX360",
+      "text": "FORCES SPÉCIALES : LE 1ER RÉGIMENT DE PARACHUTISTES D’INFANTERIE DE MARINE CHANGE D’APPELLATION",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:37",
+      "date": "14/11",
+      "timestamp": 1794670672
+    },
+    {
+      "id": "BFMTV_1794670191",
+      "source": "BFMTV",
+      "text": "INSOLITE : LA POLICE PÉRUVIENNE INTERVIENT DÉGUISÉE LORS UNE OPÉRATION ANTIDROGUE À LIMA",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:29",
+      "date": "14/11",
+      "timestamp": 1794670191
+    },
+    {
+      "id": "BFMTV_1794668577",
+      "source": "BFMTV",
+      "text": "GUERRE ISRAËL-HAMAS",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:02",
+      "date": "14/11",
+      "timestamp": 1794668577
+    },
+    {
+      "id": "BFMTV_1794668576",
+      "source": "BFMTV",
+      "text": "L'UNION EUROPÉENNE EXHORTE ISRAËL À PERMETTRE AUX PALESTINIENS D'ACCÉDER À L'AIDE HUMANITAIRE APRÈS LES INONDATIONS QUI ONT TOUCHÉ GAZA",
+      "urgent": true,
+      "france_related": false,
+      "time": "15:02",
+      "date": "14/11",
+      "timestamp": 1794668576
+    },
+    {
+      "id": "OPEX360_1794666804",
+      "source": "OPEX360",
+      "text": "POUR LA PREMIÈRE FOIS, DES PILOTES FRANÇAIS DE RAFALE ONT UTILISÉ LE VISEUR DE CASQUES SCORPION EN OPÉRATION EXTÉRIEURE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:33",
+      "date": "14/11",
+      "timestamp": 1794666804
+    },
+    {
+      "id": "BFMTV_1794660436",
+      "source": "BFMTV",
+      "text": "UN PÉTROLIER EST ENTRÉ EN COLLISION AVEC UN BATEAU DE CROISIÈRE AMARRÉ À LA NOUVELLE-ORLÉANS",
+      "urgent": false,
+      "france_related": false,
+      "time": "12:47",
+      "date": "14/11",
+      "timestamp": 1794660436
+    },
+    {
+      "id": "OPEX360_1794657354",
+      "source": "OPEX360",
+      "text": "BALTIQUE : VISÉE PAR DES DRONES UKRAINIENS, LA CORVETTE RUSSE NARO-FOMINSK AURAIT SUBI D’IMPORTANTS DÉGÂTS",
+      "urgent": true,
+      "france_related": false,
+      "time": "11:55",
+      "date": "14/11",
+      "timestamp": 1794657354
+    },
     {
       "id": "BFMTV_1794653327",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "19:42",
       "date": "11/11",
       "timestamp": 1794426174
-    },
-    {
-      "id": "BFMTV_1794425877",
-      "source": "BFMTV",
-      "text": "UKRAINE: DES NÉGOCIATIONS \"SANS LES EUROPÉENS ET SANS LES FRANÇAIS\", DÉPLORE JEAN-LUC MÉLENCHON",
-      "urgent": false,
-      "france_related": true,
-      "time": "19:37",
-      "date": "11/11",
-      "timestamp": 1794425877
-    },
-    {
-      "id": "BFMTV_1794423653",
-      "source": "BFMTV",
-      "text": "ENLEVÉ PAR SON PÈRE, UN BÉBÉ DE 11 MOIS RETROUVÉ ENTERRÉ VIVANT EN CAROLINE DU SUD",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:00",
-      "date": "11/11",
-      "timestamp": 1794423653
-    },
-    {
-      "id": "BFMTV_1794421621",
-      "source": "BFMTV",
-      "text": "\"L'EUROPE EST SUFFISAMMENT FORTE POUR PROTÉGER SES PROPRES INTÉRÊTS\", DÉCLARE VOLODYMYR ZELENSKY",
-      "urgent": false,
-      "france_related": false,
-      "time": "18:27",
-      "date": "11/11",
-      "timestamp": 1794421621
-    },
-    {
-      "id": "BFMTV_1794417108",
-      "source": "BFMTV",
-      "text": "DONALD TRUMP DÉPOSE UNE GERBE AU CIMETIÈRE COMMÉMORATIF D'ARLINGTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:11",
-      "date": "11/11",
-      "timestamp": 1794417108
-    },
-    {
-      "id": "BFMTV_1794416694",
-      "source": "BFMTV",
-      "text": "ARGENTINE: LE PAPE LÉON XIV VISITE UNE PRISON FÉDÉRALE À BUENOS AIRES",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:04",
-      "date": "11/11",
-      "timestamp": 1794416694
-    },
-    {
-      "id": "BFMTV_1794415656",
-      "source": "BFMTV",
-      "text": "ONU: \"IL FAUT DEMANDER AUX MEMBRES PERMANENTS DE SUSPENDRE LE DROIT DE VETO DANS LE CAS D'ATROCITÉS DE MASSE\", ESTIME JEAN-NOËL BARROT",
-      "urgent": false,
-      "france_related": true,
-      "time": "16:47",
-      "date": "11/11",
-      "timestamp": 1794415656
-    },
-    {
-      "id": "BFMTV_1794415390",
-      "source": "BFMTV",
-      "text": "LA RUSSIE ANNONCE LA MORT \"SOUDAINE\" DE SON AMBASSADEUR AUX ÉTATS-UNIS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:43",
-      "date": "11/11",
-      "timestamp": 1794415390
     }
   ],
   "france": {
