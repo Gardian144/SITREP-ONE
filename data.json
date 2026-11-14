@@ -1,7 +1,17 @@
 {
-  "last_update": "14/11 16:53",
+  "last_update": "14/11 21:06",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794687620",
+      "source": "BFMTV",
+      "text": "\"UNE ATTAQUE D'UNE EXTRÊME GRAVITÉ\": LA MAISON D'UN JOURNALISTE VISÉE PAR UN ATTENTAT AU PANAMA",
+      "urgent": true,
+      "france_related": false,
+      "time": "20:20",
+      "date": "14/11",
+      "timestamp": 1794687620
+    },
     {
       "id": "OPEX360_1794670672",
       "source": "OPEX360",
@@ -46,6 +56,16 @@
       "id": "OPEX360_1794666804",
       "source": "OPEX360",
       "text": "POUR LA PREMIÈRE FOIS, DES PILOTES FRANÇAIS DE RAFALE ONT UTILISÉ LE VISEUR DE CASQUES SCORPION EN OPÉRATION EXTÉRIEURE",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:33",
+      "date": "14/11",
+      "timestamp": 1794666804
+    },
+    {
+      "id": "OPEX360_1794666804",
+      "source": "OPEX360",
+      "text": "POUR LA PREMIÈRE FOIS, DES PILOTES FRANÇAIS DE RAFALE ONT UTILISÉ LE VISEUR DE CASQUE SCORPION EN OPÉRATION EXTÉRIEURE",
       "urgent": false,
       "france_related": true,
       "time": "14:33",
@@ -981,26 +1001,6 @@
       "time": "20:32",
       "date": "11/11",
       "timestamp": 1794429128
-    },
-    {
-      "id": "BFMTV_1794427543",
-      "source": "BFMTV",
-      "text": "LES ÉTATS-UNIS, L'UKRAINE ET L'EUROPE SONT \"COMPLÉTEMENT ALIGNÉS\", ESTIME LE SECRÉTAIRE GÉNÉRAL DE L'OTAN MARK RUTTE",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:05",
-      "date": "11/11",
-      "timestamp": 1794427543
-    },
-    {
-      "id": "BFMTV_1794426174",
-      "source": "BFMTV",
-      "text": "DES DIZAINES DE MILLIERS DE MANIFESTANTS DANS LES RUES D'ESPAGNE LORS D'UNE JOURNÉE DE GRÈVE GÉNÉRALE POUR LE DROIT AU LOGEMENT ET LE POUVOIR D'ACHAT",
-      "urgent": false,
-      "france_related": false,
-      "time": "19:42",
-      "date": "11/11",
-      "timestamp": 1794426174
     }
   ],
   "france": {
