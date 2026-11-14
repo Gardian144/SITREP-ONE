@@ -1,7 +1,137 @@
 {
-  "last_update": "14/11 03:34",
+  "last_update": "14/11 10:57",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794653327",
+      "source": "BFMTV",
+      "text": "MOBILISATIONS DE LA JEUNESSE: LA RUSSIE ACCUSÉE D'AVOIR CHERCHÉ À RADICALISER LE MOUVEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:48",
+      "date": "14/11",
+      "timestamp": 1794653327
+    },
+    {
+      "id": "BFMTV_1794652643",
+      "source": "BFMTV",
+      "text": "LE SCANDALE NVIDIA TOURNE AU RÈGLEMENT DE COMPTES AU SOMMET DE L'ÉTAT AMÉRICAIN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:37",
+      "date": "14/11",
+      "timestamp": 1794652643
+    },
+    {
+      "id": "BFMTV_1794651877",
+      "source": "BFMTV",
+      "text": "\"DES GENS ONT SAUTÉ DANS L'EAU\": APRÈS LA COLLISION ENTRE UN PORTE-CONTENEURS ET UN NAVIRE DE CROISIÈRE À LA NOUVELLE-ORLÉANS, DES TÉMOINS ÉVOQUENT \"UN FILM DE GUERRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "10:24",
+      "date": "14/11",
+      "timestamp": 1794651877
+    },
+    {
+      "id": "BFMTV_1794650441",
+      "source": "BFMTV",
+      "text": "OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:00",
+      "date": "14/11",
+      "timestamp": 1794650441
+    },
+    {
+      "id": "BFMTV_1794650441",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:00",
+      "date": "14/11",
+      "timestamp": 1794650441
+    },
+    {
+      "id": "BFMTV_1794650440",
+      "source": "BFMTV",
+      "text": "VOLODYMYR ZELENSKY AFFIRME QUE LES ÉTATS-UNIS ONT PROPOSÉ À L'UKRAINE DES CONCESSIONS TERRITORIALES EN ÉCHANGE D'UNE ADHÉSION À L'OTAN",
+      "urgent": false,
+      "france_related": false,
+      "time": "10:00",
+      "date": "14/11",
+      "timestamp": 1794650440
+    },
+    {
+      "id": "BFMTV_1794643096",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: 6.000 VOLS ANNULÉS À CAUSE D'UNE PANNE DE COMMUNICATION DE PLUSIEURS HEURES",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:58",
+      "date": "14/11",
+      "timestamp": 1794643096
+    },
+    {
+      "id": "BFMTV_1794636480",
+      "source": "BFMTV",
+      "text": "LE DERNIER JOURNAL LIBRE DE RUSSIE RÉDUIT AU SILENCE: COMMENT VLADIMIR POUTINE A MIS À MORT LA PRESSE POUR IMPOSER SON RÉCIT",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:08",
+      "date": "14/11",
+      "timestamp": 1794636480
+    },
+    {
+      "id": "BFMTV_1794636286",
+      "source": "BFMTV",
+      "text": "RISQUE D'INONDATIONS, VAGUES D'ENVIRON 9 MÈTRES DE HAUT: LA CALIFORNIE SE PRÉPARE À UNE SÉRIE DE TEMPÊTES",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:04",
+      "date": "14/11",
+      "timestamp": 1794636286
+    },
+    {
+      "id": "BFMTV_1794635137",
+      "source": "BFMTV",
+      "text": "ARME NUCLÉAIRE, IRAN, NVIDIA... SOMMET INÉDIT ENTRE DONALD TRUMP, XI JINPING ET VLADIMIR POUTINE JEUDI EN CHINE",
+      "urgent": true,
+      "france_related": false,
+      "time": "05:45",
+      "date": "14/11",
+      "timestamp": 1794635137
+    },
+    {
+      "id": "BFMTV_1794634606",
+      "source": "BFMTV",
+      "text": "ÉTATS-UNIS: LE TRAFIC AÉRIEN REPREND PROGRESSIVEMENT APRÈS UNE SUSPENSION RARISSIME DES VOLS",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:36",
+      "date": "14/11",
+      "timestamp": 1794634606
+    },
+    {
+      "id": "BFMTV_1794634207",
+      "source": "BFMTV",
+      "text": "MOBILISATION LYCÉENNE : LA RUSSIE ACCUSÉE D'AVOIR CHERCHÉ À RADICALISER LE MOUVEMENT",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:30",
+      "date": "14/11",
+      "timestamp": 1794634207
+    },
+    {
+      "id": "BFMTV_1794633692",
+      "source": "BFMTV",
+      "text": "UN ÉCHANGE ENTRE DONALD TRUMP, XI JINPING ET VLADIMIR POUTINE AURA LIEU JEUDI À SHENZHEN, EN CHINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:21",
+      "date": "14/11",
+      "timestamp": 1794633692
+    },
     {
       "id": "BFMTV_1794607863",
       "source": "BFMTV",
@@ -871,136 +1001,6 @@
       "time": "16:43",
       "date": "11/11",
       "timestamp": 1794415390
-    },
-    {
-      "id": "BFMTV_1794414634",
-      "source": "BFMTV",
-      "text": "ALERTES À LA BOMBE DANS LES ÉCOLES EN ITALIE, AU ROYAUME-UNI ET EN IRLANDE: DES CENTAINES D'ÉTABLISSEMENTS ÉVACUÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:30",
-      "date": "11/11",
-      "timestamp": 1794414634
-    },
-    {
-      "id": "BFMTV_1794412428",
-      "source": "BFMTV",
-      "text": "L'IRAN MENACE DE FRAPPER DES BASES MILITAIRES AMÉRICAINES EN EUROPE SI ELLES SERVENT À LANCER DES ATTAQUES",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:53",
-      "date": "11/11",
-      "timestamp": 1794412428
-    },
-    {
-      "id": "BFMTV_1794410931",
-      "source": "BFMTV",
-      "text": "\"C'EST LA FRANCE QUI EST ATTAQUÉE\", RÉAGIT ARTHUR DELAPORTE, DÉPUTÉ SOCIALISTE, INTERDIT DE TERRITOIRE RUSSE",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:28",
-      "date": "11/11",
-      "timestamp": 1794410931
-    },
-    {
-      "id": "BFMTV_1794410610",
-      "source": "BFMTV",
-      "text": "DEUX DÉPUTÉS FRANÇAIS ET DEUX JOURNALISTES INTERDITS D'ENTRÉE EN RUSSIE EN RÉPONSE À L'EXPULSION DE LA CHRONIQUEUSE PRO-KREMLIN XENIA FEDOROVA",
-      "urgent": false,
-      "france_related": true,
-      "time": "15:23",
-      "date": "11/11",
-      "timestamp": 1794410610
-    },
-    {
-      "id": "OPEX360_1794408173",
-      "source": "OPEX360",
-      "text": "APRÈS THALES, L’ALLEMAND HELSING DÉFIE L’AMÉRICAIN PALANTIR AVEC SON LOGICIEL DE COMMANDEMENT ET DE CONTRÔLE CLARITY",
-      "urgent": false,
-      "france_related": true,
-      "time": "14:42",
-      "date": "11/11",
-      "timestamp": 1794408173
-    },
-    {
-      "id": "BFMTV_1794404674",
-      "source": "BFMTV",
-      "text": "LA RUSSIE INTERDIT L'ENTRÉE SUR SON TERRITOIRE À DEUX DÉPUTÉS ET DEUX JOURNALISTES FRANÇAIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "13:44",
-      "date": "11/11",
-      "timestamp": 1794404674
-    },
-    {
-      "id": "BFMTV_1794404033",
-      "source": "BFMTV",
-      "text": "DES ALERTES À LA BOMBE, JUGÉES NON CRÉDIBLES, ONT ÉTÉ SIGNALÉES MERCREDI DANS DE NOMBREUSES ÉCOLES AU ROYAUME-UNI ET EN IRLANDE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:33",
-      "date": "11/11",
-      "timestamp": 1794404033
-    },
-    {
-      "id": "BFMTV_1794403850",
-      "source": "BFMTV",
-      "text": "ENVIRON 6.000 ÉCOLES MENACÉES ET ÉVACUÉES DANS TOUTE L'ITALIE APRÈS DES ALERTES À LA BOMBE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:30",
-      "date": "11/11",
-      "timestamp": 1794403850
-    },
-    {
-      "id": "BFMTV_1794402541",
-      "source": "BFMTV",
-      "text": "\"LES ÉNERGIES FOSSILES DOIVENT DISPARAÎTRE\": L'APPEL DU CHEF DE L'ONU À LA COP31",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:09",
-      "date": "11/11",
-      "timestamp": 1794402541
-    },
-    {
-      "id": "BFMTV_1794402309",
-      "source": "BFMTV",
-      "text": "DES ÉCOLES ITALIENNES, BRITANNIQUES ET IRLANDAISES VISÉES PAR DE FAUSSES ALERTES À LA BOMBE",
-      "urgent": false,
-      "france_related": false,
-      "time": "13:05",
-      "date": "11/11",
-      "timestamp": 1794402309
-    },
-    {
-      "id": "BFMTV_1794400221",
-      "source": "BFMTV",
-      "text": "\"IL N'A PAS ÉTÉ SIMPLE D'IMPLIQUER L'EUROPE\": VOLODYMYR ZELENSKY SALUE L'INCLUSION DES EUROPÉENS DANS LES NÉGOCIATIONS DE PAIX",
-      "urgent": false,
-      "france_related": false,
-      "time": "12:30",
-      "date": "11/11",
-      "timestamp": 1794400221
-    },
-    {
-      "id": "OPEX360_1794399091",
-      "source": "OPEX360",
-      "text": "UN RAPPORT PARLEMENTAIRE REMET EN CAUSE LE CHOIX D’UN CHÂSSIS ALLEMAND POUR LE SUCCESSEUR DU CHAR LECLERC",
-      "urgent": false,
-      "france_related": true,
-      "time": "12:11",
-      "date": "11/11",
-      "timestamp": 1794399091
-    },
-    {
-      "id": "OPEX360_1794395943",
-      "source": "OPEX360",
-      "text": "L’ACTEUR JEAN GABIN VA DONNER SON NOM À LA FLOTTILLE DE RÉSERVE DE LA FORCE MARITIME DES FUSILIERS MARINS ET COMMANDOS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:19",
-      "date": "11/11",
-      "timestamp": 1794395943
     }
   ],
   "france": {
