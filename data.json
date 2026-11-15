@@ -1,7 +1,37 @@
 {
-  "last_update": "14/11 21:06",
+  "last_update": "15/11 01:02",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794694624",
+      "source": "BFMTV",
+      "text": "SPACE X: POUR LA PREMIÈRE FOIS, L'ENTREPRISE PARVIENT À RATTRAPER L'ÉTAGE SUPÉRIEUR DE SA MÉGAFUSÉE STARSHIP",
+      "urgent": false,
+      "france_related": false,
+      "time": "22:17",
+      "date": "14/11",
+      "timestamp": 1794694624
+    },
+    {
+      "id": "BFMTV_1794692312",
+      "source": "BFMTV",
+      "text": "ESPIONNAGE, INTELLIGENCE ARTIFICIELLE: LE SÉISME NVIDIA",
+      "urgent": false,
+      "france_related": false,
+      "time": "21:38",
+      "date": "14/11",
+      "timestamp": 1794692312
+    },
+    {
+      "id": "BFMTV_1794691255",
+      "source": "BFMTV",
+      "text": "BENJAMIN NETANYAHU PLAIDE POUR UN GOUVERNEMENT D'UNION NATIONALE POUR \"GARANTIR LA SÉCURITÉ D'ISRAËL\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:20",
+      "date": "14/11",
+      "timestamp": 1794691255
+    },
     {
       "id": "BFMTV_1794687620",
       "source": "BFMTV",
@@ -971,36 +1001,6 @@
       "time": "22:41",
       "date": "11/11",
       "timestamp": 1794436904
-    },
-    {
-      "id": "BFMTV_1794434761",
-      "source": "BFMTV",
-      "text": "ÉCOLES ITALIENNES VISÉES PAR DES ALERTES À LA BOMBE: GIORGIA MELONI A INDIQUÉ QUE \"RIEN\" N'A ÉTÉ TROUVÉ DANS LES ÉTABLISSEMENTS",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:06",
-      "date": "11/11",
-      "timestamp": 1794434761
-    },
-    {
-      "id": "BFMTV_1794432288",
-      "source": "BFMTV",
-      "text": "\"DES INITIATIVES DANGEREUSES\": GADI EISENKOT APPELLE BENJAMIN NETANYAHU À \"FAIRE PREUVE DE RESPONSABILITÉ\" SUR LES DÉCISIONS SÉCURITAIRES EN ISRAËL",
-      "urgent": true,
-      "france_related": false,
-      "time": "21:24",
-      "date": "11/11",
-      "timestamp": 1794432288
-    },
-    {
-      "id": "BFMTV_1794429128",
-      "source": "BFMTV",
-      "text": "“NAZA”: LE DOCUMENTAIRE CIBLÉ PAR UNE CAMPAGNE DE DÉSINFORMATION SUR CHATGPT ET GROK ",
-      "urgent": false,
-      "france_related": false,
-      "time": "20:32",
-      "date": "11/11",
-      "timestamp": 1794429128
     }
   ],
   "france": {
