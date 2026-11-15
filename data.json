@@ -1,7 +1,27 @@
 {
-  "last_update": "15/11 15:22",
+  "last_update": "15/11 20:28",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794767357",
+      "source": "BFMTV",
+      "text": "ISRAËL ANNONCE AVOIR TUÉ À GAZA UN COMMANDANT DU HAMAS PARMI \"LES PLUS IMPORTANTS DANS LA PLANIFICATION DE L'ATTAQUE DU 7-OCTOBRE\"",
+      "urgent": true,
+      "france_related": false,
+      "time": "18:29",
+      "date": "15/11",
+      "timestamp": 1794767357
+    },
+    {
+      "id": "BFMTV_1794759533",
+      "source": "BFMTV",
+      "text": "\"NOUS NE NOUS LAISSERONS PAS INTIMIDER\": L'ESTONIE DÉNONCE UNE TENTATIVE D'INCENDIE D'UNE USINE DE DRONES ORCHESTRÉE PAR MOSCOU ET FERME SA FRONTIÈRE AVEC LA RUSSIE",
+      "urgent": true,
+      "france_related": false,
+      "time": "16:18",
+      "date": "15/11",
+      "timestamp": 1794759533
+    },
     {
       "id": "BFMTV_1794752362",
       "source": "BFMTV",
@@ -981,26 +1001,6 @@
       "time": "11:54",
       "date": "12/11",
       "timestamp": 1794484472
-    },
-    {
-      "id": "BFMTV_1794482231",
-      "source": "BFMTV",
-      "text": "AUSTALIE: UN ADOLESCENT PORTÉ DISPARU DEPUIS SIX JOURS DANS LA BROUSSE A ÉTÉ RETROUVÉ VIVANT",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:17",
-      "date": "12/11",
-      "timestamp": 1794482231
-    },
-    {
-      "id": "BFMTV_1794482097",
-      "source": "BFMTV",
-      "text": "UN ADOLESCENT DE 17 ANS RETROUVÉ SAIN ET SAUF APRÈS AVOIR PASSÉ SIX JOURS DANS LE BUSH AUSTRALIEN",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:14",
-      "date": "12/11",
-      "timestamp": 1794482097
     }
   ],
   "france": {
