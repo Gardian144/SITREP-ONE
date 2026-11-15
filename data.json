@@ -1,7 +1,47 @@
 {
-  "last_update": "15/11 01:02",
+  "last_update": "15/11 07:51",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794728621",
+      "source": "BFMTV",
+      "text": "UNE NÉONAZIE ESPAGNOLE QUI PROJETAIT UN ATTENTAT À PARIS A ÉTÉ ARRÊTÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:43",
+      "date": "15/11",
+      "timestamp": 1794728621
+    },
+    {
+      "id": "BFMTV_1794721207",
+      "source": "BFMTV",
+      "text": "PROJET DE TERRAIN DE GOLF DE DONALD TRUMP: UNE JUGE ORDONNE QU'UN PARC SITUÉ AU COEUR DE WASHINGTON RESTE OUVERT AU PUBLIC, LE PRÉSIDENT FUSTIGE CETTE DÉCISION",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:40",
+      "date": "15/11",
+      "timestamp": 1794721207
+    },
+    {
+      "id": "BFMTV_1794720240",
+      "source": "BFMTV",
+      "text": "\"ON A L'IMPRESSION QU'ILS SE FONT BALADER PAR POUTINE\": JARED KUSHNER ET STEVE WITKOFF, L'ATYPIQUE DUO QUI MÈNE LES NÉGOCIATIONS SUR L'UKRAINE AU NOM DE DONALD TRUMP",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:24",
+      "date": "15/11",
+      "timestamp": 1794720240
+    },
+    {
+      "id": "BFMTV_1794718465",
+      "source": "BFMTV",
+      "text": "LES GARDIENS IRANIENS DE LA RÉVOLUTION DISENT AVOIR ATTAQUÉ UNE BASE MILITAIRE AMÉRICAINE AU BAHREÏN AVEC DES DRONES",
+      "urgent": true,
+      "france_related": false,
+      "time": "04:54",
+      "date": "15/11",
+      "timestamp": 1794718465
+    },
     {
       "id": "BFMTV_1794694624",
       "source": "BFMTV",
@@ -961,46 +1001,6 @@
       "time": "05:19",
       "date": "12/11",
       "timestamp": 1794460794
-    },
-    {
-      "id": "BFMTV_1794460724",
-      "source": "BFMTV",
-      "text": "UN IMMEUBLE S'EFFONDRE DANS LE QUARTIER DE BROOKLYN À NEW YORK, AU MOINS DEUX MORTS ET PLUSIEURS BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "05:18",
-      "date": "12/11",
-      "timestamp": 1794460724
-    },
-    {
-      "id": "BFMTV_1794437893",
-      "source": "BFMTV",
-      "text": "\"UNE NOUVELLE ENTRAVE À LA LIBERTÉ D'INFORMER\": LE MONDE ET OUEST-FRANCE DÉNONCENT L'INTERDICTION D'ENTRÉE EN RUSSIE DE DEUX JOURNALISTES FRANÇAIS",
-      "urgent": false,
-      "france_related": true,
-      "time": "22:58",
-      "date": "11/11",
-      "timestamp": 1794437893
-    },
-    {
-      "id": "BFMTV_1794437067",
-      "source": "BFMTV",
-      "text": "UN IMMEUBLE S'EFFONDRE DANS LE QUARTIER DE BROOKLYN À NEW YORK, UN BILAN PROVISOIRE FAIT ÉTAT D'UN MORT ET PLUSIEURS BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:44",
-      "date": "11/11",
-      "timestamp": 1794437067
-    },
-    {
-      "id": "BFMTV_1794436904",
-      "source": "BFMTV",
-      "text": "LE CHEF DU PENTAGONE, PETE HEGSETH, RÉPRIMANDÉ PAR UN SOLDAT DEVANT LA TOMBE DU SOLDAT INCONNU À ARLINGTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "22:41",
-      "date": "11/11",
-      "timestamp": 1794436904
     }
   ],
   "france": {
