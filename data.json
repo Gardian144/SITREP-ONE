@@ -1,7 +1,167 @@
 {
-  "last_update": "16/11 07:02",
+  "last_update": "16/11 16:59",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794847447",
+      "source": "BFMTV",
+      "text": "\"JE PENSE QU'IL VEUT QUE TOUT ÇA SOIT FINI\": POUR DONALD TRUMP, VLADIMIR POUTINE \"RECULE UN PEU\" SUR LA QUESTION DE L'UKRAINE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:44",
+      "date": "16/11",
+      "timestamp": 1794847447
+    },
+    {
+      "id": "BFMTV_1794847211",
+      "source": "BFMTV",
+      "text": "PRÉSIDENTIELLE 2027: MARINE LE PEN AFFIRME QUE LA FRANCE \"CONTINUERAIT À SOUTENIR L'UKRAINE\" SI ELLE EST ÉLUE, MAIS QUE PARIS NE POURRA \"PLUS AIDER FINANCIÈREMENT\"",
+      "urgent": false,
+      "france_related": true,
+      "time": "16:40",
+      "date": "16/11",
+      "timestamp": 1794847211
+    },
+    {
+      "id": "BFMTV_1794845380",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP AFFIRME QU'IL POURRAIT RENCONTRER KIM JONG UN EN CHINE LORS DE SON DÉPLACEMENT EN ASIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "16:09",
+      "date": "16/11",
+      "timestamp": 1794845380
+    },
+    {
+      "id": "BFMTV_1794843743",
+      "source": "BFMTV",
+      "text": "TRIPLE INFANTICIDE AUX ÉTATS-UNIS: LA MÈRE, LINDSAY CLANCY, SERA REJUGÉE LE 29 MARS",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:42",
+      "date": "16/11",
+      "timestamp": 1794843743
+    },
+    {
+      "id": "BFMTV_1794843078",
+      "source": "BFMTV",
+      "text": "AFFAIRE NVIDIA: DONALD TRUMP ASSURE QUE ÇA NE LE \"DÉRANGERAIT PAS\" DE VOIR JENSEN HUANG DE RETOUR À LA TÊTE DE L'ENTREPRISE",
+      "urgent": false,
+      "france_related": false,
+      "time": "15:31",
+      "date": "16/11",
+      "timestamp": 1794843078
+    },
+    {
+      "id": "BFMTV_1794842521",
+      "source": "BFMTV",
+      "text": "\"QUELQUES DIZAINES\" DE SOLDATS FRANÇAIS DÉPLOYÉS DEPUIS PLUSIEURS MOIS EN UKRAINE POUR FORMER DES MILITAIRES",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:22",
+      "date": "16/11",
+      "timestamp": 1794842521
+    },
+    {
+      "id": "OPEX360_1794841588",
+      "source": "OPEX360",
+      "text": "LA MARINE NATIONALE RETIRE SES SIX AVIONS FALCON 10 MER APRÈS PLUS DE CINQUANTE ANS DE SERVICE",
+      "urgent": false,
+      "france_related": true,
+      "time": "15:06",
+      "date": "16/11",
+      "timestamp": 1794841588
+    },
+    {
+      "id": "BFMTV_1794840256",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP ANNONCE QU'IL POURRAIT RENCONTRER KIM JONG UN LORS DE SON DÉPLACEMENT EN ASIE",
+      "urgent": false,
+      "france_related": false,
+      "time": "14:44",
+      "date": "16/11",
+      "timestamp": 1794840256
+    },
+    {
+      "id": "BFMTV_1794839360",
+      "source": "BFMTV",
+      "text": "LES DOUANES ITALIENNES SAISISSENT 10 KILOS DE SABLE DANS LE COFFRE DE LA VOITURE D'UN TOURISTE FRANÇAIS",
+      "urgent": false,
+      "france_related": true,
+      "time": "14:29",
+      "date": "16/11",
+      "timestamp": 1794839360
+    },
+    {
+      "id": "BFMTV_1794837201",
+      "source": "BFMTV",
+      "text": "UNE NÉONAZIE ESPAGNOLE QUI PROJETAIT UNE FUSILLADE À PARIS A ÉTÉ ARRÊTÉE",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:53",
+      "date": "16/11",
+      "timestamp": 1794837201
+    },
+    {
+      "id": "BFMTV_1794835249",
+      "source": "BFMTV",
+      "text": "IMMEUBLE EFFONDRÉ À NEW YORK: QUATRE JOURS APRÈS LA CATASTROPHE, UNE ADOLESCENTE RETROUVE SON CHAT DISPARU SAIN ET SAUF",
+      "urgent": false,
+      "france_related": false,
+      "time": "13:20",
+      "date": "16/11",
+      "timestamp": 1794835249
+    },
+    {
+      "id": "BFMTV_1794828977",
+      "source": "BFMTV",
+      "text": "\"PERSONNE NE LA SOUTIENT, SI CE N'EST VLADIMIR POUTINE\": JEAN-NOËL BARROT RÉPOND À JEAN-LUC MÉLENCHON SUR SA PROPOSITION AUTOUR DES TERRITOIRES UKRAINIENS OCCUPÉS",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:36",
+      "date": "16/11",
+      "timestamp": 1794828977
+    },
+    {
+      "id": "OPEX360_1794828906",
+      "source": "OPEX360",
+      "text": "POUR LA PREMIÈRE FOIS, LA MARINE NATIONALE A INTERCEPTÉ UN SEMI-SUBMERSIBLE UTILISÉ POUR LE TRAFIC DE DROGUE",
+      "urgent": false,
+      "france_related": true,
+      "time": "11:35",
+      "date": "16/11",
+      "timestamp": 1794828906
+    },
+    {
+      "id": "BFMTV_1794828364",
+      "source": "BFMTV",
+      "text": "CYBERATTAQUE CONTRE DES RÉFRIGÉRATEURS: LA FRANCE ESPÈRE DES SANCTIONS EUROPÉENNES CONTRE L'IRAN \"D'ICI UN MOIS\"",
+      "urgent": true,
+      "france_related": true,
+      "time": "11:26",
+      "date": "16/11",
+      "timestamp": 1794828364
+    },
+    {
+      "id": "BFMTV_1794827272",
+      "source": "BFMTV",
+      "text": "THAÏLANDE: 11 MORTS DANS UN INCENDIE SUR L'ÎLE TOURISTIQUE DE PHUKET ",
+      "urgent": false,
+      "france_related": false,
+      "time": "11:07",
+      "date": "16/11",
+      "timestamp": 1794827272
+    },
+    {
+      "id": "BFMTV_1794822281",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: KIEV FRAPPE LE PONT DE KERTCH, RELIANT LA RUSSIE À LA CRIMÉE ANNEXÉE PAR MOSCOU",
+      "urgent": true,
+      "france_related": false,
+      "time": "09:44",
+      "date": "16/11",
+      "timestamp": 1794822281
+    },
     {
       "id": "BFMTV_1794810679",
       "source": "BFMTV",
@@ -841,166 +1001,6 @@
       "time": "18:56",
       "date": "12/11",
       "timestamp": 1794509782
-    },
-    {
-      "id": "OPEX360_1794509260",
-      "source": "OPEX360",
-      "text": "LA MARINE NATIONALE VA CRÉER HUIT ESCOUADES DE RÉSERVE CÔTIÈRES DE PLUS EN 2027",
-      "urgent": false,
-      "france_related": true,
-      "time": "18:47",
-      "date": "12/11",
-      "timestamp": 1794509260
-    },
-    {
-      "id": "OPEX360_1794506886",
-      "source": "OPEX360",
-      "text": "LA ROYAL NAVY VA TESTER LE DRONE DE COMBAT YFQ-84A TALON BLUE DE NORTHROP GRUMMAN DEPUIS L’UN SES PORTE-AVIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:08",
-      "date": "12/11",
-      "timestamp": 1794506886
-    },
-    {
-      "id": "OPEX360_1794506886",
-      "source": "OPEX360",
-      "text": "LA ROYAL NAVY VA TESTER LE DRONE DE COMBAT YFQ-48A TALON BLUE DE NORTHROP GRUMMAN DEPUIS L’UN SES PORTE-AVIONS",
-      "urgent": true,
-      "france_related": false,
-      "time": "18:08",
-      "date": "12/11",
-      "timestamp": 1794506886
-    },
-    {
-      "id": "BFMTV_1794505818",
-      "source": "BFMTV",
-      "text": "EFFONDREMENT D’UN IMMEUBLE À NEW YORK: UNE FEMME ENCEINTE DE SIX MOIS SAUVÉE PAR LES SECOURS",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:50",
-      "date": "12/11",
-      "timestamp": 1794505818
-    },
-    {
-      "id": "BFMTV_1794503702",
-      "source": "BFMTV",
-      "text": "HAÏTI: LE \"QUARTIER GÉNÉRAL\" D'UN GANG DÉTRUIT PAR L'ARMÉE SALVADORIENNE, SELON NAYIB BUKELE",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:15",
-      "date": "12/11",
-      "timestamp": 1794503702
-    },
-    {
-      "id": "BFMTV_1794503317",
-      "source": "BFMTV",
-      "text": "\"UNE POSITION EXTRÊMEMENT HOSTILE\": ISRAËL INTERDIT L'ENTRÉE SUR SON TERRITOIRE À JEAN-LUC MÉLENCHON",
-      "urgent": true,
-      "france_related": false,
-      "time": "17:08",
-      "date": "12/11",
-      "timestamp": 1794503317
-    },
-    {
-      "id": "BFMTV_1794503033",
-      "source": "BFMTV",
-      "text": "L'EFFET GRABLY - COMMENT LES RELAIS DU KREMLIN INVESTISSENT LES RÉSEAUX SOCIAUX?",
-      "urgent": false,
-      "france_related": false,
-      "time": "17:03",
-      "date": "12/11",
-      "timestamp": 1794503033
-    },
-    {
-      "id": "BFMTV_1794501221",
-      "source": "BFMTV",
-      "text": "FUSILLADE À WASHINGTON: AU MOINS UN MORT ET QUATRE BLESSÉS PAR BALLE, SELON LA POLICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:33",
-      "date": "12/11",
-      "timestamp": 1794501221
-    },
-    {
-      "id": "OPEX360_1794500910",
-      "source": "OPEX360",
-      "text": "ROUMANIE : DEUX HÉLICOPTÈRES NH90 ESPAGNOLS ONT EFFECTUÉ UNE PREMIÈRE MISSION DE POLICE DU CIEL DANS LE CADRE DE L’OTAN",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:28",
-      "date": "12/11",
-      "timestamp": 1794500910
-    },
-    {
-      "id": "BFMTV_1794499829",
-      "source": "BFMTV",
-      "text": "UN TIREUR FAIT UN MORT ET QUATRE BLESSÉS PAR BALLE À WASHINGTON AVANT DE SE SUICIDER",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:10",
-      "date": "12/11",
-      "timestamp": 1794499829
-    },
-    {
-      "id": "BFMTV_1794499796",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS UNE FEMME SAUVÉE DES FLAMMES IN EXTREMIS PAR LA POLICE",
-      "urgent": false,
-      "france_related": false,
-      "time": "16:09",
-      "date": "12/11",
-      "timestamp": 1794499796
-    },
-    {
-      "id": "BFMTV_1794495638",
-      "source": "BFMTV",
-      "text": "LES ÉMISSAIRES AMÉRICAINS EXHORTENT VLADIMIR POUTINE À PERMETTRE AUX EUROPÉENS DE PARTICIPER AUX POURPARLERS SUR L'UKRAINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "15:00",
-      "date": "12/11",
-      "timestamp": 1794495638
-    },
-    {
-      "id": "BFMTV_1794495637",
-      "source": "BFMTV",
-      "text": "GAZA: UNE FRAPPE ISRAÉLIENNE SUR L'HÔPITAL NASSER À KHAN YOUNÈS FAIT AU MOINS 6 MORTS ET 20 BLESSÉS",
-      "urgent": true,
-      "france_related": false,
-      "time": "15:00",
-      "date": "12/11",
-      "timestamp": 1794495637
-    },
-    {
-      "id": "BFMTV_1794495285",
-      "source": "BFMTV",
-      "text": "UN PROCUREUR LOCAL, \"GUIDÉ PAR LA FOI\": QUI EST SCOTT COLOM, LE NOUVEAU SÉNATEUR DÉMOCRATE DU MISSISSIPPI?",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:54",
-      "date": "12/11",
-      "timestamp": 1794495285
-    },
-    {
-      "id": "BFMTV_1794494471",
-      "source": "BFMTV",
-      "text": "PLUSIEURS PERSONNES TOUCHÉES PAR BALLE LORS D'UNE FUSILLADE À WASHINGTON",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:41",
-      "date": "12/11",
-      "timestamp": 1794494471
-    },
-    {
-      "id": "BFMTV_1794493827",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN PAQUEBOT AMÉRICAIN COULÉ POUR DEVENIR UN RÉCIF ARTIFICIEL",
-      "urgent": false,
-      "france_related": false,
-      "time": "14:30",
-      "date": "12/11",
-      "timestamp": 1794493827
     }
   ],
   "france": {
