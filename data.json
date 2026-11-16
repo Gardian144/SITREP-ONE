@@ -1,7 +1,17 @@
 {
-  "last_update": "15/11 20:28",
+  "last_update": "16/11 00:15",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794777377",
+      "source": "BFMTV",
+      "text": "DONALD TRUMP, VLADIMIR POUTINE, XI JINPING: \"IL N'Y A PLUS D'ORDRE MONDIAL ACCEPTÉ AUJOURD'HUI, IL N'Y A PLUS DE RÉGULATEUR DU MONDE\", OBSERVE VINCENT DESPORTES, ANCIEN DIRECTEUR DE L'ÉCOLE DE GUERRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "21:16",
+      "date": "15/11",
+      "timestamp": 1794777377
+    },
     {
       "id": "BFMTV_1794767357",
       "source": "BFMTV",
@@ -991,16 +1001,6 @@
       "time": "11:58",
       "date": "12/11",
       "timestamp": 1794484695
-    },
-    {
-      "id": "OPEX360_1794484472",
-      "source": "OPEX360",
-      "text": "L’ITALIE PRÉVOIT DE DÉPENSER 7,3 MILLIARDS D’EUROS DE PLUS POUR SA FLOTTE DE CHASSEURS-BOMBARDIERS F-35A/B",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:54",
-      "date": "12/11",
-      "timestamp": 1794484472
     }
   ],
   "france": {
