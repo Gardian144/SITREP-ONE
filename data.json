@@ -1,7 +1,77 @@
 {
-  "last_update": "17/11 00:43",
+  "last_update": "17/11 08:31",
   "impacts": [],
   "news": [
+    {
+      "id": "BFMTV_1794902138",
+      "source": "BFMTV",
+      "text": "CRISE À NVIDIA: SAM ALTMAN JUGE \"DIFFICILE D'IMAGINER\" LA RÉVOLUTION DE L'IA SANS JENSEN HUANG",
+      "urgent": false,
+      "france_related": false,
+      "time": "07:55",
+      "date": "17/11",
+      "timestamp": 1794902138
+    },
+    {
+      "id": "BFMTV_1794898494",
+      "source": "BFMTV",
+      "text": "UNE PALESTINIENNE ABATTUE PAR DES COLONS EN CISJORDANIE, L'ARMÉE ISRAÉLIENNE ÉVOQUE UNE EMBUSCADE",
+      "urgent": false,
+      "france_related": false,
+      "time": "06:54",
+      "date": "17/11",
+      "timestamp": 1794898494
+    },
+    {
+      "id": "BFMTV_1794897172",
+      "source": "BFMTV",
+      "text": "L'ÉDITO INTERNATIONAL - KIEV, CRIMÉE...LA GUERRE DES PONTS FAIT RAGE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:32",
+      "date": "17/11",
+      "timestamp": 1794897172
+    },
+    {
+      "id": "BFMTV_1794895721",
+      "source": "BFMTV",
+      "text": "GUERRE EN UKRAINE: LA RUSSIE DIT AVOIR ABATTU 1.441 DRONES UKRAINIENS DANS LA NUIT, UN NOMBRE RECORD DEPUIS LE MOIS DE SEPTEMBRE",
+      "urgent": true,
+      "france_related": false,
+      "time": "06:08",
+      "date": "17/11",
+      "timestamp": 1794895721
+    },
+    {
+      "id": "BFMTV_1794895481",
+      "source": "BFMTV",
+      "text": "DES SOLDATS FRANÇAIS DÉPLOYÉS DEPUIS PLUSIEURS MOIS EN UKRAINE POUR FORMER DES MILITAIRES",
+      "urgent": false,
+      "france_related": true,
+      "time": "06:04",
+      "date": "17/11",
+      "timestamp": 1794895481
+    },
+    {
+      "id": "BFMTV_1794893583",
+      "source": "BFMTV",
+      "text": "CINQ PAYS EUROPÉENS VONT EXPULSER DES MIGRANTS AU RWANDA",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:33",
+      "date": "17/11",
+      "timestamp": 1794893583
+    },
+    {
+      "id": "BFMTV_1794893291",
+      "source": "BFMTV",
+      "text": "LE JAPON DÉNONCE L'INTRUSION \"INACCEPTABLE\" DE DEUX AVIONS PRÉSUMÉS RUSSES DANS SON ESPACE AÉRIEN",
+      "urgent": false,
+      "france_related": false,
+      "time": "05:28",
+      "date": "17/11",
+      "timestamp": 1794893291
+    },
     {
       "id": "BFMTV_1794862320",
       "source": "BFMTV",
@@ -931,76 +1001,6 @@
       "time": "13:15",
       "date": "13/11",
       "timestamp": 1794575722
-    },
-    {
-      "id": "OPEX360_1794570841",
-      "source": "OPEX360",
-      "text": "L’ESPAGNE DÉBLOQUE 3 MILLIARDS D’EUROS POUR ACQUÉRIR DES MISSILES DE CROISIÈRE JSM-SL ET MODERNISER SES SOUS-MARINS S80",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:54",
-      "date": "13/11",
-      "timestamp": 1794570841
-    },
-    {
-      "id": "BFMTV_1794569083",
-      "source": "BFMTV",
-      "text": "ÉTATS-UNIS: UN IMMEUBLE S'EST, EN PARTIE, EFFONDRÉ DANS LE CENTRE-VILLE D’AURORA ET A FAIT TROIS BLESSÉS",
-      "urgent": false,
-      "france_related": false,
-      "time": "11:24",
-      "date": "13/11",
-      "timestamp": 1794569083
-    },
-    {
-      "id": "BFMTV_1794567986",
-      "source": "BFMTV",
-      "text": "PRÈS DE 1.200 DRONES ABATTUS: NEUF MORTS EN RUSSIE LORS D'UNE VASTE ATTAQUE UKRAINIENNE",
-      "urgent": true,
-      "france_related": false,
-      "time": "11:06",
-      "date": "13/11",
-      "timestamp": 1794567986
-    },
-    {
-      "id": "BFMTV_1794566744",
-      "source": "BFMTV",
-      "text": "POURPARLERS SUR L'UKRAINE : L'UE SE MÉFIE DES \"PIÈGES\" QUE LUI TEND LA RUSSIE",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:45",
-      "date": "13/11",
-      "timestamp": 1794566744
-    },
-    {
-      "id": "BFMTV_1794566571",
-      "source": "BFMTV",
-      "text": "\"AVONS-NOUS EU NOTRE MOT À DIRE SUR QUI REPRÉSENTE LA RUSSIE ?\": LA CHEFFE DE LA DIPLOMATIE DE L'UE SE DIT \"PRÊTE\" À ÉCHANGER AVEC MOSCOU",
-      "urgent": false,
-      "france_related": false,
-      "time": "10:42",
-      "date": "13/11",
-      "timestamp": 1794566571
-    },
-    {
-      "id": "BFMTV_1794561171",
-      "source": "BFMTV",
-      "text": "PÉROU: LE PAPE LÉON XIV A ÉTÉ ÉMU DE L'ACCUEIL DE JEUNES FIDÈLES À LIMA ",
-      "urgent": false,
-      "france_related": false,
-      "time": "09:12",
-      "date": "13/11",
-      "timestamp": 1794561171
-    },
-    {
-      "id": "BFMTV_1794558014",
-      "source": "BFMTV",
-      "text": "VLADIMIR POUTINE",
-      "urgent": false,
-      "france_related": false,
-      "time": "08:20",
-      "date": "13/11",
-      "timestamp": 1794558014
     }
   ],
   "france": {
